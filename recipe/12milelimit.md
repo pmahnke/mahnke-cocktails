@@ -17,7 +17,7 @@ youtube: '6M6Xu_URmPg'
 | 0.5 oz | Rye               | Rittenhouse 100 Proof |
 | 0.5 oz | Cognac            | Maison Rouge V.S.O.P. |
 | 0.5 oz | Fresh Lemon Juice |
-| 0.5 oz | Grenadine         |
+| 0.5 oz | [Grenadine]({%link recipe/grenadine.md%})         |
 
 ### Notes
 
