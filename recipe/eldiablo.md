@@ -1,0 +1,30 @@
+---
+
+layout: recipe
+title: "El Diablo"
+permalink: '/recipe/eldiablo.html'
+stars: 0
+category: 'Reposado Tequila '
+youtube: 'xN3ymSPZJjY'
+
+---
+
+### Ingredients
+
+| Amount  | Ingredient               | Brand                          |
+| -----: | ---------------- | --------------------------------------- |
+| 1.5 oz | Reposado Tequila | Milagro                                 |
+| 0.5 oz | Crème de Cassis  | Jules Theuriet Crème de Cassis de Dijon |
+| 0.5 oz | Fresh Lime Juice |
+|   3 oz | Ginger Beer      | Spicy Ginger Ale                        |
+
+### Notes
+
+- Method: Shaken
+- Pour: Single Strain
+- Glassware: 
+    - High Ball
+    - On the Rocks
+- Garnish: Inverted lime rind filled with the Crème de cassis for an “interactive” garnish
+- Special Prep: Single strain into glass, top the drink with the ginger soda
+

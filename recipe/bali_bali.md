@@ -1,0 +1,36 @@
+---
+
+layout: recipe
+title: "Bali Bali"
+permalink: '/recipe/balibali.html'
+stars: 0
+category: 'Black Rum, Light Rum, Cognac, Gin '
+youtube: 'lWDA\_\_gwSow'
+
+---
+
+### Ingredients
+
+| Amount  | Ingredient                                                    | Brand                             |
+| ------: | --------------------------------------------------------- | --------------------------------- |
+| 0.75 oz | Jamaican Rum                                              | Hamilton Jamaican Pot Still Black |
+| 0.75 oz | Light Rum                                                 | Real McCoy 3 Year                 |
+| 0.75 oz | Cognac                                                    | Maison Rouge VSOP                 |
+| 0.75 oz | Gin                                                       | Beefeater London Dry              |
+|  0.5 oz | Falernum                                                  | John D. Taylor Velvet             |
+|  0.5 oz | Passion Fruit Syrup                                       |
+| 0.75 oz | Pineapple Juice                                           |
+| 0.75 oz | Orange Juice                                              |
+| 0.75 oz | Fresh Lime Juice                                          |
+| 0.25 oz | Semi-Rich [Simple Syrup]({%link recipe/simple_syrup.md%}) |
+
+### Notes
+
+- Method: Shaken
+- Pour: Open Pour
+- Glassware: 
+    - Tiki
+    - Crushed Ice
+- Garnish: Pineapple fronds & cocktail umbrella
+- Special Prep: Top with crushed ice.
+

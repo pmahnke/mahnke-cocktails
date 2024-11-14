@@ -1,0 +1,28 @@
+---
+
+layout: recipe
+title: "Sloe Gin Fizz"
+permalink: '/recipe/sloeginfizz.html'
+stars: 0
+category: 'Sloe Gin '
+youtube: 'gGlTXp_oujk'
+
+---
+
+### Ingredients
+
+|  Amount  | Ingredient               | Brand          |
+| --------: | --------------------------------------------------------- | -------- |
+|      2 oz | Sloe Gin                                                  | Plymouth |
+|      1 oz | Fresh Lemon Juice                                         |
+|    0.5 oz | Semi-Rich [Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| 2 to 3 oz | Sparkling Water Topo Chico                                |
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: High BallOn the Rocks
+- Garnish: Lemon wheel and cocktail cherry
+- Special Prep: 1 For variations, drop Sloe Gin to 1.5 oz. (45 ml), & add 1/2 oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).
+

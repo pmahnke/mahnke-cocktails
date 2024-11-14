@@ -1,0 +1,27 @@
+---
+layout: recipe
+type: non-alcoholic
+title: "Spa Water"
+permalink: "/recipe/spawater.html"
+stars: 3
+category: "Cucumber, Mint, Lime "
+youtube: "5wgvpo-xBnA"
+---
+
+### Ingredients
+
+|    Amount  | Ingredient               | Brand      |
+| ------------: | --------------------------------------------------------- | ---------- |
+|      4 slices | Cucumber                                                  |
+| 4 to 6 leaves | Mint                                                      |
+|          1 oz | Fresh Lime Juice                                          |
+|        0.5 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
+|     2 to 3 oz | Soda Water                                                | Topo Chico |
+
+### Notes
+
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware: Julep Cup, Crushed Ice
+- Garnish: Sprig of Mint and Slice of Cucumber
+- Special Prep: Add the cucumber, mint, lime juice and simple syrup to the cup and muddle. Fill the cup with crushed ice and top with soda water.
