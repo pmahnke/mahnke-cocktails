@@ -22,7 +22,7 @@ title: Anders Erickson Cocktail Recipes
 email: ja@mahnke.net
 description: >- # this means to ignore newlines until "baseurl:"
   My personal journey of learning to make and love cocktails based on Anders Erickson's youtube videos.
-baseurl: "/john/cocktails" # the subpath of your site, e.g. /blog
+baseurl: "/cocktails" # the subpath of your site, e.g. /blog
 url: "https://mahnke.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
