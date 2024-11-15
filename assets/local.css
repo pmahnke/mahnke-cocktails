@@ -1,0 +1,14 @@
+a:link, a:visited, a:active
+{
+	color:#009;
+    text-decoration: none;
+}
+	a:hover
+{
+	color:#F30;
+    text-decoration: underline;
+}
+
+.header {
+    text-align: center;
+    }
