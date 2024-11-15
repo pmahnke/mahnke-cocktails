@@ -57,13 +57,42 @@ button#youtube-web {
 	position: relative;
 	top: -5px;
 }
+/* Index Styles */
+div#backer {
+	margin-left:auto;
+	margin-right:auto;
+	width:92%;
+	height:100%;
+	min-height: 40em;
+	margin-top:40px;
+	margin-bottom:30px;
+	background: white url("/john/cocktails/assets/BearLogo-w.png") no-repeat;
+	xbackground-attachment: fixed;
+	background-position: center;
+	background-size: 25%;
+	display:block;
+	padding:20px;
+	xborder: 1px solid black;
+}
+
+
+div#container {  
+	display: grid;
+	grid-template-columns: 3fr 1fr; 
+	grid-template-rows: 50px auto; 
+	gap: 5px 25px;
+	grid-auto-flow: row;
+	grid-template-areas:
+	"Header Header"
+	"Cocktails Misc";
+	width:100%;
+	height:100%;
+	margin:auto;
+	opacity:92%;
+	background-color: white;
+	margin-top: 25px;
+}
 div#recipebox {  
-	xmargin-top:40px;
-	xmargin-left:auto;
-  	xmargin-right:auto;
-	xpadding:10px 20px;
-	xwidth:92%;
-	xbackground-color: white;
 	width:100%;
 	height:100%;
 	margin:auto;
@@ -184,41 +213,6 @@ li
 	padding-left:0.25em;
 }
 
-/* Index Styles */
-div#backer {
-	margin-left:auto;
-	margin-right:auto;
-	width:92%;
-	height:100%;
-	min-height: 40em;
-	margin-top:40px;
-	margin-bottom:30px;
-	background: white url("/john/cocktails/assets/BearLogo-w.png") no-repeat;
-	xbackground-attachment: fixed;
-	background-position: center;
-	background-size: 25%;
-	display:block;
-	padding:20px;
-	xborder: 1px solid black;
-}
-
-
-div#container {  
-	display: grid;
-	grid-template-columns: 3fr 1fr; 
-	grid-template-rows: 50px auto; 
-	gap: 5px 25px;
-	grid-auto-flow: row;
-	grid-template-areas:
-	"Header Header"
-	"Cocktails Misc";
-	width:100%;
-	height:100%;
-	margin:auto;
-	opacity:92%;
-	background-color: white;
-	margin-top: 25px;
-}
 .Header { 
 	grid-area: Header;
 	height:25px;
