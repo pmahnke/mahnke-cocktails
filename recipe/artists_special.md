@@ -3,7 +3,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Artist's Special"
-permalink: '/recipe/artistsspecial.html'
+permalink: '/recipe/artists_special.html'
 stars: 4
 category: 'Bourbon, Amontillado Sherry '
 youtube: '-Uhu81wqOl8'

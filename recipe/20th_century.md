@@ -3,7 +3,7 @@
 layout: recipe
 author: Anders Erickson
 title: "20th Century"
-permalink: '/recipe/20thcentury.html'
+permalink: '/recipe/20th_century.html'
 stars: 0
 category: 'Gin, Cocchi Americano, Crème de Cacao '
 youtube: '6AyWk5teLv8'
