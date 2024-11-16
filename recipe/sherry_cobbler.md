@@ -22,7 +22,9 @@ youtube: 'f7SpTmbMOsQ'
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: GobletCrushed Ice
+- Glassware:
+  - Goblet
+  - Crushed Ice
 - Garnish: Fresh raspberries & mint
 - Special Prep: Serve with a straw."
 
