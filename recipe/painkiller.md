@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Painkiller (Inspired)"
 permalink: '/recipe/painkiller.html'
 stars: 4

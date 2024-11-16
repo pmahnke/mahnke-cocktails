@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "20th Century"
 permalink: '/recipe/20thcentury.html'
 stars: 0

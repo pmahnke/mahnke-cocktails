@@ -1,7 +1,8 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Mary Pickford"
-permalink: "/recipe/marypickford.html"
+permalink: "/recipe/mary_pickford.html"
 stars: 4
 category: "Light Rum "
 youtube: "TGJZv0FTjk8"

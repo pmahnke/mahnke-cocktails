@@ -1,7 +1,8 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Old Fashioned"
-permalink: "/recipe/oldfashioned.html"
+permalink: "/recipe/old_fashioned.html"
 stars: 3
 category: "Bourbon "
 youtube: "pdcrJ5V7YKM"

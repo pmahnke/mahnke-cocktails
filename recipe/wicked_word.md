@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Wicked Word"
 permalink: '/recipe/wicked_word.html'
 stars: 0

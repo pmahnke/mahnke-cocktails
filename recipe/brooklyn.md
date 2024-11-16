@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Brooklyn"
 permalink: '/recipe/brooklyn.html'
 stars: 0

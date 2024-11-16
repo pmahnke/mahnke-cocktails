@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Sangria"
 permalink: '/recipe/sangria.html'
 stars: 0

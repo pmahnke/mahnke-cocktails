@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "The Cigar"
 permalink: '/recipe/cigar.html'
 stars: 0

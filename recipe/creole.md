@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Creole"
 permalink: '/recipe/creole.html'
 stars: 4

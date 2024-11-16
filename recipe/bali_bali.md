@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Bali Bali"
 permalink: '/recipe/balibali.html'
 stars: 0

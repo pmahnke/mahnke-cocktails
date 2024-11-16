@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Port Light"
 permalink: "/recipe/port_light.html"
 stars: 0

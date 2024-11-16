@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Aviation"
 permalink: "/recipe/aviation.html"
 stars: 4

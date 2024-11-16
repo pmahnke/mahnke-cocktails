@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Toreador"
 permalink: '/recipe/toreador.html'
 stars: 0

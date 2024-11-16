@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 type: non-alcoholic
 title: "Placebo (NA Painkiller) "
 permalink: "/recipe/placebo.html"

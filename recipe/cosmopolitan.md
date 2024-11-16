@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Cosmopolitan"
 permalink: '/recipe/cosmopolitan.html'
 stars: 3

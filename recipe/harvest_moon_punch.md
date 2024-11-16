@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Harvest Moon Punch (1/2 batch)"
 permalink: '/recipe/harvest_moon_punch.html'
 stars: 0

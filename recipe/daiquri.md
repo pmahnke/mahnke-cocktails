@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Daiquri"
 permalink: '/recipe/daiquri.html'
 stars: 5

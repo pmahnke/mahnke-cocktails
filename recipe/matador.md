@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Matador"
 permalink: '/recipe/matador.html'
 stars: 0

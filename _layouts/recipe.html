@@ -7,9 +7,8 @@ layout: default
 
     {% if page.youtube %}
     <div id="youtube-menu">
-        <img id="youtube-logo" src="{{ site.baseurl }}/assets/youtube-logo.png">
         {% if page.youtube %}
-        <a href="{{ page.youtube }}" target="_blank"><button id="youtube-web">Website</button></a>
+        <a href="{{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
         {% endif %}
         {% if page.youtube_embed %}
         <button id="youtube-button" onclick="toggleDiv()">Embedded</button>

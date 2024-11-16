@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Sazerac"
 permalink: "/recipe/sazerac.html"
 stars: 4

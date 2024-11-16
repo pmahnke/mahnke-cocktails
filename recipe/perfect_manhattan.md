@@ -1,7 +1,8 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Perfect Manhattan"
-permalink: "/recipe/perfectmanhattan.html"
+permalink: "/recipe/perfect_manhattan.html"
 stars: 0
 category: "Rye "
 youtube: "eWESf1b317Y&t=278s"

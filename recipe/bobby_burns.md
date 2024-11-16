@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Bobby Burns"
 permalink: '/recipe/bobbyburns.html'
 stars: 0

@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: " Margarita: Classic"
 permalink: '/recipe/margarita.html'
 stars: 5

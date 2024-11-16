@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Deshler"
 permalink: "/recipe/deshler.html"
 stars: 4

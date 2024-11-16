@@ -1,0 +1,30 @@
+---
+layout: recipe
+author: Anders Erickson
+title: "Forced Retirement"
+permalink: "/recipe/forced_retirement.html"
+stars: 0
+category: "Malört, Gin, Campari "
+youtube: "shi2LNARyxk"
+---
+
+### Ingredients
+
+| Amount  | Ingredient               | Brand                      |
+| ------: | ------------------------------------------------------------- | -------------------- |
+| 0.75 oz | Malört                                                        | Jeppson's            |
+|    1 oz | Gin                                                           | Beefeater London Dry |
+|  0.5 oz | Campari                                                       | Campari              |
+| 0.75 oz | [Passion Fruit Syrup]({%link recipe/passion_fruit_syrup.md%}) |
+| 0.75 oz | Fresh Lime Juice                                              |
+| 0.75 oz | Grapefruit Juice                                              |
+
+### Notes
+
+- Method: Swizzled
+- Pour: Add all ingredients directly to the glass
+- Glassware: 
+    - High Ball
+    - Crushed Ice
+- Garnish: Pineapple fronds & cocktail umbrella
+- Special Prep: None

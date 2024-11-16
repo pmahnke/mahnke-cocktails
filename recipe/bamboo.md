@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Bamboo"
 permalink: '/recipe/bamboo.html'
 stars: 0

@@ -1,8 +1,9 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Margarita: Frozen Strawberry"
-permalink: '/recipe/margaritastrawberry.html'
+permalink: '/recipe/margarita_strawberry.html'
 stars: 0
 category: 'Reposado Tequila '
 youtube: 'jxpT11WEtWQ'
@@ -11,7 +12,7 @@ youtube: 'jxpT11WEtWQ'
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand             |
+|  Amount       | Ingredient          | Brand         |
 | ------------: | ------------------- | ------------- |
 |          2 oz | Reposado Tequila    | Milagro       |
 |          1 oz | Orange Curaçao      | Marie Brizard |

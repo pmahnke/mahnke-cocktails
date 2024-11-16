@@ -1,7 +1,8 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Hotel National Cocktail"
-permalink: "/recipe/hotelnational.html"
+permalink: "/recipe/hotel_national.html"
 stars: 4
 category: "Light Rum "
 youtube: "aK-xI2Th2YE"

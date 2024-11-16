@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "The Japanese Cocktail"
 permalink: "/recipe/japanese.html"
 stars: 0

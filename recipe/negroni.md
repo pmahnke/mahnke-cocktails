@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Negroni"
 permalink: '/recipe/negroni.html'
 stars: 3

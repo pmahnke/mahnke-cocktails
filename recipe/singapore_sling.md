@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 type: multirecipe
 title: "Singapore Sling"
 permalink: "/recipe/singapore_sling.html"

@@ -1,8 +1,9 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Rusty Nail"
-permalink: '/recipe/rustynail.html'
+permalink: '/recipe/rusty_nail.html'
 stars: 2
 category: 'Scotch '
 youtube: 'nTyrz70_OPA'

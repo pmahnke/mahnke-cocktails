@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Tartan"
 permalink: '/recipe/tartan.html'
 stars: 0
@@ -11,7 +12,7 @@ youtube: 'Jqy3bhn-O9s'
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                       |
+| Amount  | Ingredient     | Brand                                   |
 | ------: | -------------- | --------------------------------------- |
 |  1.5 oz | Single Malt    | Scotch Edradour 10 year Highland Scotch |
 | 0.75 oz | Sweet Vermouth | Cocchi Vermouth di Torino               |

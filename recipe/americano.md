@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Americano"
 permalink: '/recipe/americano.html'
 stars: 0

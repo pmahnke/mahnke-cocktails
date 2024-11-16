@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Caipirinha"
 permalink: '/recipe/caipirinha.html'
 stars: 4

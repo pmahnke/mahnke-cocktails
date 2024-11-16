@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Brandy Crusta"
 permalink: '/recipe/brandycrusta.html'
 stars: 4

@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Remember the Maine"
 permalink: '/recipe/remember_the_maine.html'
 stars: 0

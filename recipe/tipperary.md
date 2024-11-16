@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Tipperary"
 permalink: '/recipe/tipperary.html'
 stars: 0

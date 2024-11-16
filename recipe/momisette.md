@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Momisette"
 permalink: '/recipe/momisette.html'
 stars: 5

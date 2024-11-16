@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Bijou"
 permalink: "/recipe/bijou.html"
 stars: 0

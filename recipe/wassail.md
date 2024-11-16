@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Wassail"
 permalink: '/recipe/wassail.html'
 stars: 0

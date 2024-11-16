@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Best Doctor's Cocktail"
 permalink: "/recipe/bestdrscocktail.html"
 stars: 4

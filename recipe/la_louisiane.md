@@ -1,7 +1,8 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "La Louisiane"
-permalink: "/recipe/lalouisiane.html"
+permalink: "/recipe/la_louisiane.html"
 stars: 5
 category: "Rye "
 youtube: "9XLtsOKT6oY"

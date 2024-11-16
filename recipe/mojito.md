@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Mojito"
 permalink: "/recipe/mojito.html"
 stars: 4

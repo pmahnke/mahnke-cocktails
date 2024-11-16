@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Thyme-Infused Syrup"
 type: syrup
 permalink: "/recipe/thymesyrup.html"

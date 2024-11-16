@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Zombie"
 permalink: '/recipe/zombie.html'
 stars: 0

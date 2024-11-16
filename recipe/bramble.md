@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Bramble"
 permalink: '/recipe/bramble.html'
 stars: 0

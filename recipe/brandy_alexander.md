@@ -1,7 +1,8 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Brandy Alexander"
-permalink: "/recipe/brandyalexander.html"
+permalink: "/recipe/brandy_alexander.html"
 stars: 0
 category: "Cognac "
 youtube: "5LEgIoddxY4"

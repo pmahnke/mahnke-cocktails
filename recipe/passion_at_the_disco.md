@@ -1,8 +1,9 @@
 ---
 layout: recipe
+author: Anders Erickson
 type: non-alcoholic
 title: "Passion at the Disco"
-permalink: "/recipe/passionatthedisco.html"
+permalink: "/recipe/passion_at_the-disco.html"
 stars: 0
 category: "Lime, Passion Fruit Syrup, Tonic Water"
 youtube: "ZE3G8aUyOn0"

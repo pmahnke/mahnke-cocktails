@@ -1,7 +1,8 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Brown Derby"
-permalink: "/recipe/brownderby.html"
+permalink: "/recipe/brown_derby.html"
 stars: 0
 category: "Bourbon "
 youtube: "79htbyQ8nDY&t=62s"

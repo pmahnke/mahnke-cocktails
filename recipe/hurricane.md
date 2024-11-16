@@ -1,5 +1,6 @@
-"---
+---
 layout: recipe
+author: Anders Erickson
 title: 'Hurricane'
 permalink: '/recipe/hurricane.html'
 stars: 4

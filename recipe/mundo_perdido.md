@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Mundo Perdido"
 permalink: "/recipe/mundo_perdido.html"
 stars: 0

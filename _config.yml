@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Cocktail Recipes
-email: ja@mahnke.net
+email: john@mahnke.net
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal journey of learning to make and love cocktails based on Anders Erickson's youtube videos.
+  My personal journey of learning to make and love cocktails based on Anders Erickson, the Educated Barfly, Behind the Bar and Steve the Bartender's youtube videos.
 baseurl: "/cocktails" # the subpath of your site, e.g. /blog
 url: "https://mahnke.net" # the base hostname & protocol for your site, e.g. http://example.com
 

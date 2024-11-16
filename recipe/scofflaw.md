@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Scofflaw"
 permalink: '/recipe/scofflaw.html'
 stars: 5

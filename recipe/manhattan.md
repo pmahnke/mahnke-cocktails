@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Manhattan"
 permalink: "/recipe/manhattan.html"
 stars: 3

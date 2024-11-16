@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Stinger"
 permalink: '/recipe/stinger.html'
 stars: 4

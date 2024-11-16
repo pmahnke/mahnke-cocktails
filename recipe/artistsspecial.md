@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Artist's Special"
 permalink: '/recipe/artistsspecial.html'
 stars: 4

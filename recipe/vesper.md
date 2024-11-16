@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Vesper"
 permalink: '/recipe/vesper.html'
 stars: 0

@@ -1,8 +1,9 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Margarita: Smoky Spicy"
-permalink: '/recipe/margaritaspicy.html'
+permalink: '/recipe/margarita_spicy.html'
 stars: 0
 category: 'Mescal '
 youtube: 'jxpT11WEtWQ'

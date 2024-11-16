@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Tradewinds"
 permalink: '/recipe/tradewinds.html'
 stars: 0

@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Alamagoozlum"
 permalink: "/recipe/alamagoozlum.html"
 stars: 0

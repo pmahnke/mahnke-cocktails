@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Ford"
 permalink: '/recipe/ford.html'
 stars: 0

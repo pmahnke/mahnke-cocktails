@@ -1,7 +1,8 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "The White Lady"
-permalink: "/recipe/whitelady.html"
+permalink: "/recipe/white_lady.html"
 stars: 4
 category: "Triple Sec, Crème De Menthe -OR- Gin "
 youtube: "IAmf7XqE0T8"

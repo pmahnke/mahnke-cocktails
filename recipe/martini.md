@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Martini"
 permalink: '/recipe/martini.html'
 stars: 4

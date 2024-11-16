@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Cablecar"
 permalink: '/recipe/cablecar.html'
 stars: 0

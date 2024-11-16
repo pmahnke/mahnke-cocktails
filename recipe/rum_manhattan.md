@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Rum Manhattan"
 permalink: "/recipe/rum_manhattan.html"
 stars: 3

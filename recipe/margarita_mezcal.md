@@ -1,8 +1,9 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Margarita: Mezcal"
-permalink: '/recipe/mezcalmargarita.html'
+permalink: '/recipe/mezcal_margarita.html'
 stars: 0
 category: 'Mezcal'
 youtube: 'TP5T65EWOx65zTsY'

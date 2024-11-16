@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Boulevardier"
 permalink: '/recipe/boulevardier.html'
 stars: 4

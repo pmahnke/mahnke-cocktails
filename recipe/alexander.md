@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Alexander"
 permalink: '/recipe/alexander.html'
 stars: 0

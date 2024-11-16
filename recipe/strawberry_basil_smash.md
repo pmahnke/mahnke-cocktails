@@ -1,0 +1,28 @@
+---
+layout: recipe
+title: "Strawberry Basil Smash"
+permalink: "/recipe/strawberry_basil_smash.html"
+stars: 0
+category: "Jamaican Rum"
+youtube: "3i4QnRLlPFc&t=220s"
+---
+
+## 
+
+### Ingredients
+
+|  Amount        | Ingredient                                               | Brand                               |
+| -------------: | -------------------------------------------------------- | ----------------------------------- |
+|           2 oz | Jamaican Rum                                             | Appleton Estate Signature Blend V/X |
+|         0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
+|      0.5 whole | Lemon                                                    |
+|        2 whole | Strawberries                                             |
+| 8 to 10 leaves | Basil                                                    |
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+- Garnish: Strawberry slices & basil sprig
+- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, strawberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.

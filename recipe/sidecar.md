@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Sidecar"
 permalink: "/recipe/sidecar.html"
 stars: 3

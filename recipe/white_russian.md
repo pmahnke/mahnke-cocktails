@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "White Russian"
 permalink: '/recipe/white_russian.html'
 stars: 4

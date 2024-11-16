@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Blended Grasshopper"
 permalink: "/recipe/grasshopper.html"
 stars: 0

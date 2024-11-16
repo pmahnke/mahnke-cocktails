@@ -1,7 +1,8 @@
 ---
 layout: recipe
+author: Anders Erickson
 title: "Hemingway Daiquiri"
-permalink: "/recipe/hemingwaydaiquiri.html"
+permalink: "/recipe/hemingway_daiquiri.html"
 stars: 0
 category: "Light Rum "
 youtube: "mILAxazthY4"

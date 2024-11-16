@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Penicillin"
 permalink: '/recipe/penicillin.html'
 stars: 0

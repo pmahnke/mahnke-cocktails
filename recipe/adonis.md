@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Adonis"
 permalink: '/recipe/adonis.html'
 stars: 0

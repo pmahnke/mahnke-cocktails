@@ -1,5 +1,7 @@
 ---
 layout: recipe
+author: Anders Erickson
+type: multirecipe
 title: "Three Toddies"
 permalink: "/recipe/toddies.html"
 stars: 0

@@ -1,5 +1,7 @@
 ---
 layout: recipe
+author: Anders Erickson
+type: multirecipe
 title: "Tom & Jerry"
 permalink: "/recipe/tomandjerry.html"
 stars: 0

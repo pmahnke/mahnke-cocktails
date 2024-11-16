@@ -1,5 +1,6 @@
 ---
 layout: recipe
+author: Anders Erickson
 type: non-alcoholic
 title: "A Little Thyme Off"
 permalink: "/recipe/littlethymeoff.html"

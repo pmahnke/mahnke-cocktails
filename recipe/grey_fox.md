@@ -1,8 +1,9 @@
 ---
 layout: recipe
+author: Anders Erickson
 type: non-alcoholic
 title: "Grey Fox"
-permalink: "/recipe/greyfox.html"
+permalink: "/recipe/grey_fox.html"
 stars: 0
 category: "Earl Grey Syrup, Lemon"
 youtube: "5wgvpo-xBnA"

@@ -1,6 +1,7 @@
 ---
 
 layout: recipe
+author: Anders Erickson
 title: "Glögg"
 permalink: '/recipe/glogg.html'
 stars: 0
