@@ -12,10 +12,6 @@ a:link, a:visited, a:active
 .header {
     text-align: center;
     }
-
-    span.stars {
-        font-size: 0.85em;
-    }
-    span.checked {
-        color:#fcc200;
-    }
+span.checked {
+    color:#fcc200;
+}
