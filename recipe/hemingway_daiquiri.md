@@ -25,4 +25,4 @@ youtube: "mILAxazthY4"
 - Pour: Double Strain
 - Glassware: Coupe
 - Garnish: Lime wheel
-- Special Prep: Regal shake with the grapefruit peel in the shaker."
+- Special Prep: Regal shake with the grapefruit peel in the shaker.
