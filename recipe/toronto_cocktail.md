@@ -4,7 +4,7 @@ layout: recipe
 author: Anders Erickson
 title: "Toronto Cocktail"
 permalink: '/recipe/toronto_cocktail.html'
-stars: 0
+stars: 3
 category: 'Rye '
 youtube: 'fQfVijUec0A'
 
