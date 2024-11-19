@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Monte Cassino"
 permalink: '/recipe/monte_cassino.html'
 stars: 4
-category: 'Rye '
+category: 'Rye, Yellow Chartreuse, Bénédictine'
 youtube: 'NGPSk_jMZvA'
 
 ---

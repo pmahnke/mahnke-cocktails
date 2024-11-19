@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Soyer au Champagne"
 permalink: '/recipe/soyer_au_champagne.html'
 stars: 0
-category: 'Champagne, '
+category: 'Champagne, Cognac, Bénédictine'
 youtube: 'mhXp-T53DAs'
 
 ---

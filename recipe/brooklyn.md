@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Brooklyn"
 permalink: '/recipe/brooklyn.html'
 stars: 0
-category: 'Rye '
+category: 'Rye, Maraschino Liqueur'
 youtube: 'JU8xN_ty2i0'
 
 ---

@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "El Diablo"
 permalink: '/recipe/el_diablo.html'
 stars: 0
-category: 'Reposado Tequila '
+category: 'Reposado Tequila, Crème de Cassis'
 youtube: 'xN3ymSPZJjY'
 
 ---

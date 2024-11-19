@@ -10,7 +10,7 @@ youtube: "3i4QnRLlPFc&t=220s"
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                   |
+|  Amount       | Ingredient   | Brand                    |
 | ------------: | ------------ | ------------------------ |
 |          2 oz | Bourbon      | Elijah Craig Small Batch |
 |       0.75 oz | Maple Syrup  |

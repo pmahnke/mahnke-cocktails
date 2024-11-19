@@ -12,14 +12,14 @@ youtube: 's30L-iu171E'
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand|
-| -----: | -------------------------------------------------------- | -------------------------- | |
-| 0.5 oz | Navy Strength Rum |Smith & Cross |
-| 0.5 oz | Bourbon| Elijah Craig Small Batch |
+| Amount | Ingredient                                               | Brand                      |
+| -----: | -------------------------------------------------------- | -------------------------- |
+| 0.5 oz | Navy Strength Rum                                        | Smith & Cross              |
+| 0.5 oz | Bourbon| Elijah Craig Small Batch                        |
 | 0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
-| 1 dash | Bitters | Angostura Aromatic Bitters |
-| 2 oz | Hot Black Tea |Darjeeling Tea |
-| 2 oz | Steamed Milk |
+| 1 dash | Bitters                                                  | Angostura Aromatic Bitters |
+|   2 oz | Black Tea, Hot                                           | Darjeeling Tea             |
+|   2 oz | Milk, Steamed                                            |
 
 ### Notes
 

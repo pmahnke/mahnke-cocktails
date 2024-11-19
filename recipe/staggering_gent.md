@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Staggering Gentleman"
 permalink: '/recipe/staggering_gent.html'
 stars: 0
-category: 'Barrel Strength Bourbon '
+category: 'Barrel Strength Bourbon, Bénédictine, Walnut Liqueur'
 youtube: 'QFjRjAP-k1k&t=3s'
 
 ---

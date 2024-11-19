@@ -16,7 +16,7 @@ youtube: 'gGlTXp_oujk'
 | --------: | --------------------------------------------------------- | -------- |
 |      2 oz | Sloe Gin                                                  | Plymouth |
 |      1 oz | Fresh Lemon Juice                                         |
-|    0.5 oz | Semi-Rich [Simple Syrup]({%link recipe/simple_syrup.md%}) |
+|    0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 2 to 3 oz | Sparkling Water Topo Chico                                |
 
 ### Notes

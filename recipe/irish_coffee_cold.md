@@ -3,9 +3,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Cold Brew Irish Coffee"
-permalink: '/recipe/irishcoffeecold.html'
+permalink: '/recipe/irish_coffee_cold.html'
 stars: 0
-category: 'Irish Whiskey '
+category: 'Irish Whiskey, Coffee Liqueur'
 youtube: 'sJsY1LokABA'
 
 ---

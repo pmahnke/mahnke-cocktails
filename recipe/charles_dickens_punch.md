@@ -14,7 +14,7 @@ youtube: 'BXGS7Ai2hec'
 
 | Amount  | Ingredient               | Brand                 |
 | --------: | ------------------------------ | ----------------- |
-|  3 lemons | Peels                          |
+|  3 swaths | Lemons Peels                   |
 | 0.75 cups | Demerara Sugar                 |
 |    2 cups | Pineapple-infused Jamaican Rum | Smith & Cross     |
 |     1 cup | Cognac                         | Maison Rouge VSOP |

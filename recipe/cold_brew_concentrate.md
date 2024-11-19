@@ -8,7 +8,7 @@ youtube: "u0N9FFJ1i5c"
 
 ### Ingredients
 
-|  Amount  | Ingredient               | 
+| Amount  | Ingredient            | 
 | ------: | ---------------------- |
 |  1 part | Coarsely Ground Coffee |
 | 8 parts | Water                  |

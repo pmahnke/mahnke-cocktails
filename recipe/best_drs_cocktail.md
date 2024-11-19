@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Best Doctor's Cocktail"
 permalink: "/recipe/bestdrscocktail.html"
 stars: 4
-category: "Jamaican Rum "
+category: "Jamaican Rum, Swedish Punsch"
 youtube: "re76GCUoiH4&t=140s"
 ---
 

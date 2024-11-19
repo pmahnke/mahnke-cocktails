@@ -8,7 +8,7 @@ youtube: "u0N9FFJ1i5c"
 
 ### Ingredients
 
-|  Amount  | Ingredient               |
+|  Amount      | Ingredient |
 | -----------: | ---------- |
 | 1 tablespoon | Cocoa Nibs |
 |        1 cup | Campari    |

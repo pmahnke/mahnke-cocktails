@@ -5,7 +5,7 @@ type: multirecipe
 title: "Singapore Sling"
 permalink: "/recipe/singapore_sling.html"
 stars: 0
-category: Gin
+category: "Gin, Cherry Liqueur, Bénédictine"
 youtube: "https://www.youtube.com/watch?v=EjRcajuUkJk"
 youtube_embed: "https://www.youtube.com/embed/EjRcajuUkJk?si=EMdqje_4KECcUOJA"
 excerpt: |
@@ -18,16 +18,16 @@ excerpt: |
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand        |
-| ------: | ---------------- | -------------------------- |
-|  1.5 oz | Gin              | Tanglin Singapore          |
-| 0.75 oz | Cherry Liqueur   | Cherry Heering             |
-| 0.25 oz | Bénédictine      | Bénédictine DOM            |
-| 0.25 oz | Triple Sec       | Luxardo Triplum            |
-|    1 oz | Pineapple Juice  |                            |
-| 0.75 oz | Fresh Lime Juice |                            |
-| 0.25 oz | Grenadine        |                            |
-|  1 dash | Bitters          | Angostura Aromatic Bitters |
+| Amount  | Ingredient                                        | Brand                      |
+| ------: | ------------------------------------------------- | -------------------------- |
+|  1.5 oz | Gin                                               | Tanglin Singapore          |
+| 0.75 oz | Cherry Liqueur                                    | Cherry Heering             |
+| 0.25 oz | Bénédictine                                       | Bénédictine DOM            |
+| 0.25 oz | Triple Sec                                        | Luxardo Triplum            |
+|    1 oz | Pineapple Juice                                   |                            |
+| 0.75 oz | Fresh Lime Juice                                  |                            |
+| 0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.html%}) |                            |
+|  1 dash | Bitters                                           | Angostura Aromatic Bitters |
 
 ### Notes
 

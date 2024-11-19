@@ -25,4 +25,4 @@ youtube: "dJ-sAEzw9Jc"
 - Pour: Julep Strain
 - Glassware: Low Ball
 - Garnish: Lemon zest
-  -Special Prep: Rinse the glass with absinthe. Strain in cocktail. Express lemon oil on the drink.
+- Special Prep: Rinse the glass with absinthe. Strain in cocktail. Express lemon oil on the drink.

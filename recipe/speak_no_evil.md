@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Speak No Evil"
 permalink: "/recipe/speak_no_evil.html"
 stars: 0
-category: "Reposado Tequila, Mezcal"
+category: "Reposado Tequila, Mezcal, Allspice Dram"
 youtube: "-DnpmdGBmgs&t=433s"
 ---
 

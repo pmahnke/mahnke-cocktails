@@ -12,7 +12,7 @@ youtube: 'XYfHK3goJLk'
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand         |
+| Amount  | Ingredient         | Brand            |
 | ---: | --------------------- | ---------------- |
 | 1 oz | Demerara Rum          | El Dorado 8 Year |
 | 1 oz | Jamaican Rum          | Smith & Cross    |

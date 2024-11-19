@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Corpse Reviver #2"
 permalink: '/recipe/corpse_reviver_2.html'
 stars: 5
-category: 'Gin '
+category: 'Gin, Cocchi Americano'
 youtube: 'bGxOcLRCBWk'
 
 ---

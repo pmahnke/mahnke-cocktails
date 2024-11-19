@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Alexander"
 permalink: '/recipe/alexander.html'
 stars: 0
-category: 'Gin '
+category: 'Gin, Crème de Cacao'
 youtube: 'mBGgu3qRztY'
 
 ---

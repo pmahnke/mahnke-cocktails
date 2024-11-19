@@ -14,7 +14,7 @@ youtube: "3i4QnRLlPFc&t=220s"
 |           2 oz | Reposado Tequila   | Milagro |
 |         0.5 oz | Light Agave Nectar |
 |      0.5 whole | Lemon              |
-|        1 Small |  Peach             |
+|        1 Small | Peach              |
 | 8 to 10 leaves | Sage               |
 
 ### Notes

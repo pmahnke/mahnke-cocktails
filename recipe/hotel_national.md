@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Hotel National Cocktail"
 permalink: "/recipe/hotel_national.html"
 stars: 4
-category: "Light Rum "
+category: "Light Rum, Apricot Liqueur"
 youtube: "aK-xI2Th2YE"
 ---
 

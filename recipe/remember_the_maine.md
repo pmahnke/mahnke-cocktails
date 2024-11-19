@@ -4,7 +4,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Remember the Maine"
 permalink: '/recipe/remember_the_maine.html'
-stars: 0
+stars: 3
 category: 'Rye '
 youtube: 'I2_xijYpP_Y'
 

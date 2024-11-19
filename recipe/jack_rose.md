@@ -15,7 +15,7 @@ youtube: '7H7Cz53jDhc'
 | Amount  | Ingredient               | Brand                          |
 | ------: | ------------------------- | -------------------------- |
 |  1.5 oz | Apple Brandy              | Laird's 100 proof Straight |
-| 0.75 oz | Grenadine                 |
+| 0.75 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})                 |
 | 0.75 oz | Fresh Lemon or Lime Juice |
 
 ### Notes

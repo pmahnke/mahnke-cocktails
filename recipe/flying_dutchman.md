@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Flying Dutchman"
 permalink: '/recipe/flyingdutchman.html'
 stars: 0
-category: 'Genever, Yellow Chartreuse '
+category: 'Genever, Yellow Chartreuse, Bénédictine'
 youtube: 'yh_WeCrFuRA'
 
 ---

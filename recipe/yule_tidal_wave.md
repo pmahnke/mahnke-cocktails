@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Yule Tidal Wave"
 permalink: '/recipe/yule_tidal_wave.html'
 stars: 0
-category: 'Rum, Bourbon, Cognac, Pear Brandy '
+category: 'Rum, Bourbon, Cognac, Pear Brandy, Licor 43, Allspice Dram'
 youtube: 's30L-iu171E'
 
 ---
@@ -18,7 +18,7 @@ youtube: 's30L-iu171E'
 |  0.75 oz | Bourbon                                                   | Elijah Craig Small Batch   |
 |  0.75 oz | Cognac                                                    | Pierre Ferrand 1840        |
 |  0.75 oz | Pear Brandy                                               | Rothman & Winter           |
-|   0.5 oz | Licor                                                     | Licor 43                   |
+|   0.5 oz | Licor 43                                                  | Licor 43                   |
 |  0.25 oz | Allspice Dram                                             | St. Elizabeth              |
 |     2 oz | Fresh Pineapple Juice                                     |
 |     1 oz | Fresh Lemon Juice                                         |

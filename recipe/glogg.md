@@ -15,7 +15,7 @@ youtube: '2Xox9vdRGtM'
 | Amount  | Ingredient               | Brand                    |
 | --------: | ------------------- | --------------------- |
 |  1 bottle | Red Wine            |
-|     12 oz | Ruby                | Port Fonseca Bin #27  |
+|     12 oz | Ruby Port           | Fonseca Bin #27       |
 |      6 oz | Cognac              | Maison Rouge V.S.O.P. |
 |  0.5 cups | Demerara Sugar      |
 | 0.25 cups | Raisins             |

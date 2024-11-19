@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Paper Plane"
 permalink: '/recipe/paper_plane.html'
 stars: 5
-category: 'Bourbon '
+category: 'Bourbon, Amaro, Aperol'
 youtube: 'yu4JNOvec1k&t=6s'
 
 ---

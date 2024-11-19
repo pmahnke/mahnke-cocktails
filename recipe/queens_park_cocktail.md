@@ -16,7 +16,7 @@ youtube: 'ASTV1OEXhbE'
 | -------: | ---------------- | ------------------------- |
 |   1.5 oz | Gold Rum         | Angostura 1919            |
 |   0.5 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |
-|   0.5 oz | Grenadine        |
+|   0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})        |
 |   0.5 oz | Fresh Lime Juice |
 | 4 dashes | Bitters          | Angostura Aromatic        |
 

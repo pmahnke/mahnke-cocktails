@@ -5,7 +5,7 @@ type: multirecipe
 title: "Taquila Sunrise"
 permalink: "/recipe/taquila_sunrise.html"
 stars: 0
-category: "Blanco Taquilla -OR- Reposado Tequila "
+category: "Creme de Cassis, Blanco Taquilla -OR- Reposado Tequila "
 youtube: "VNaSpZ3YOoM"
 ---
 
@@ -15,7 +15,7 @@ youtube: "VNaSpZ3YOoM"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                       |
+| Amount    | Ingredient       | Brand                                   |
 | --------: | ---------------- | --------------------------------------- |
 |    1.5 oz | Reposado Tequila | Siete Leguas                            |
 |   0.75 oz | Creme de Cassis  | Jules Theuriet Creme de Cassis de Dijon |

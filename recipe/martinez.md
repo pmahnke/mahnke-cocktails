@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Martinez"
 permalink: '/recipe/martinez.html'
 stars: 0
-category: 'Gin '
+category: 'Gin, Maraschino Liqueur'
 youtube: 'MuxY7\_-_U_8'
 
 ---

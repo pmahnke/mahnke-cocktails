@@ -1,7 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson Cocktail Recipes
-title: "Blended Grasshopper"
+title: "Grasshopper, Blended"
 permalink: "/recipe/grasshopper.html"
 stars: 0
 category: "Crème De Menthe, White Crème De Cacao "

@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Vieux Carré"
 permalink: '/recipe/vieux_carre.html'
 stars: 5
-category: 'Rye, Cognac'
+category: 'Rye, Cognac, Bénédictine'
 youtube: 'cDCdcwuM8yA'
 
 ---

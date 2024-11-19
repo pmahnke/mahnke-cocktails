@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Rum Buck"
 permalink: '/recipe/rum_buck.html'
 stars: 0
-category: 'Dark Rum '
+category: 'Dark Rum, Allspice Dram'
 youtube: '2EZBGowe0ho'
 
 ---

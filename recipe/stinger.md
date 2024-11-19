@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Stinger"
 permalink: '/recipe/stinger.html'
 stars: 4
-category: 'Cognac '
+category: 'Cognac,Crème de Menthe'
 youtube: 'mBGgu3qRztY'
 
 ---

@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Black Manhattan"
 permalink: '/recipe/black_manhattan.html'
 stars: 4
-category: 'Rye '
+category: 'Rye, Amaro'
 youtube: 'YWKJsv8PymI&t=205s'
 
 ---

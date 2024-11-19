@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Semester Abroad"
 permalink: '/recipe/semester_abroad.html'
 stars: 0
-category: 'Rye '
+category: 'Rye, Fernet Branca'
 youtube: 'mBGgu3qRztY'
 
 ---

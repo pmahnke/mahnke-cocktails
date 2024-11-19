@@ -5,7 +5,7 @@ author: Anders Erickson Cocktail Recipes
 title: "White Negroni"
 permalink: '/recipe/white_negroni.html'
 stars: 0
-category: 'Gin '
+category: 'Gin, Suze, Lillet Blanc'
 youtube: 'fBax4HODqyA'
 
 ---

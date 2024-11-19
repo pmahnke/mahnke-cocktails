@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Fino Spritz"
 permalink: "/recipe/fino_spritz.html"
 stars: 0
-category: "Fino Sherry"
+category: "Fino Sherry, Maraschino Liqueur"
 youtube: "BUb54paVf0s"
 ---
 
