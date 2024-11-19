@@ -2,7 +2,7 @@
 layout: recipe
 title: "Grenadine Syrup"
 type: syrup
-permalink: "/recipe/grenadinesyrup.html"
+permalink: "/recipe/grenadine_syrup.html"
 youtube: "MEQMeCrg0Zi8rePO"
 ---
 

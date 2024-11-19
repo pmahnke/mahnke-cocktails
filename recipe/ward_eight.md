@@ -17,7 +17,7 @@ youtube: 'Gf8FdfHx-LmqZMg-'
 |   2 oz | Rye                | Rittenhouse 100 Proof |
 | 0.5 oz | Fresh Lemon Juice  |
 | 0.5 oz | Fresh Orange Juice |
-| 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})          |
+| 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})          |
 
 ### Notes
 

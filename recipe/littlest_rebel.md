@@ -17,7 +17,7 @@ youtube: 's30L-iu171E'
 |    1 oz | Apple Brandy          | Laird's Straight Apple Brandy Bottled in Bond |
 |  0.5 oz | Blended Scotch Whisky | Monkey Shoulder Blended Malt Whisky           |
 | 0.75 oz | Fresh Lime Juice      |
-|  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})             |
+|  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})             |
 | 0.75 oz | Egg White             |
 
 ### Notes

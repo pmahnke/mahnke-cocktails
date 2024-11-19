@@ -17,7 +17,7 @@ youtube: 'MfHv2EOLUOo&t=336s'
 |  1.5 oz | Gin                | Broker's London Dry |
 |  0.5 oz | Apple Brandy       | Laird's Straight    |
 | 0.75 oz | Fresh Lemon Juice                        |
-|  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.html%}) |
+|  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 0.75 oz | Raw Egg White / Aquafaba (chickpea water) |
 
 ### Notes

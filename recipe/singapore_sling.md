@@ -26,7 +26,7 @@ excerpt: |
 | 0.25 oz | Triple Sec                                        | Luxardo Triplum            |
 |    1 oz | Pineapple Juice                                   |                            |
 | 0.75 oz | Fresh Lime Juice                                  |                            |
-| 0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.html%}) |                            |
+| 0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |                            |
 |  1 dash | Bitters                                           | Angostura Aromatic Bitters |
 
 ### Notes

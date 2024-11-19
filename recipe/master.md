@@ -318,7 +318,7 @@ youtube: 'nutbajkZ8Lc'
 |   1.5 oz | Rye               | Rittenhouse 100 Proof |
 |     1 oz | Dry Vermouth      | Dolin                 |
 |   0.5 oz | Fresh Lemon Juice |
-|  0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})         |
+|  0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})         |
 | 2 dashes | Orange Bitters    | Regan's Number 6      |
 
 ### Notes
@@ -408,7 +408,7 @@ youtube: 'pTBVVi20ONk'
 | ---: | ---------------- | -------------------- |
 | 1 oz | Demerara Rum     | Hamilton 86 Demerara |
 | 1 oz | Gold Rum         | Don Q Gold Rum       |
-| 1 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})        |
+| 1 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})        |
 | 1 oz | Fresh Lime Juice |
 
 ### Notes
@@ -581,7 +581,7 @@ youtube: '\_eCla7H-TA0&t=4s'
 |        1 oz | White Grapefruit Juice |
 |     0.75 oz | Fresh Lime Juice       |
 |      0.5 oz | Cinnamon Syrup         |
-|     0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})              |
+|     0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})              |
 | 1 bar spoon | Absinthe               | La Clandestine                    |
 |    2 dashes | Bitters                | Angostura Aromatic Bitters        |
 
@@ -1034,7 +1034,7 @@ youtube: '1AZGE2FUAO4'
 |      1.5 oz | Light Rum      | Probitas                         |
 |     0.75 oz | White Vermouth | Dolin Blanc Vermouth de Chambéry |
 |     0.25 oz | Dry Curaçao    | Pierre Ferrand                   |
-| 1 bar spoon | [Grenadine]({%link recipe/grenadine_syrup.html%})      |
+| 1 bar spoon | [Grenadine]({%link recipe/grenadine_syrup.md%})      |
 
 ### Notes
 
@@ -1204,7 +1204,7 @@ youtube: '6M6Xu_URmPg'
 | 0.5 oz | Rye               | Rittenhouse 100 Proof |
 | 0.5 oz | Cognac            | Maison Rouge V.S.O.P. |
 | 0.5 oz | Fresh Lemon Juice |
-| 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})         |
+| 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})         |
 
 ### Notes
 
@@ -1402,7 +1402,7 @@ youtube: 'Gf8FdfHx-LmqZMg-'
 |   2 oz | Rye                | Rittenhouse 100 Proof |
 | 0.5 oz | Fresh Lemon Juice  |
 | 0.5 oz | Fresh Orange Juice |
-| 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})          |
+| 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})          |
 
 ### Notes
 
@@ -1623,7 +1623,7 @@ youtube: 'ASTV1OEXhbE'
 | -------: | ---------------- | ------------------------- |
 |   1.5 oz | Gold Rum         | Angostura 1919            |
 |   0.5 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |
-|   0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})        |
+|   0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})        |
 |   0.5 oz | Fresh Lime Juice |
 | 4 dashes | Bitters          | Angostura Aromatic        |
 
@@ -1678,7 +1678,7 @@ youtube: '7H7Cz53jDhc'
 |         |                           |                            |
 | ------: | ------------------------- | -------------------------- |
 |  1.5 oz | Apple Brandy              | Laird's 100 proof Straight |
-| 0.75 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})                 |
+| 0.75 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})                 |
 | 0.75 oz | Fresh Lemon or Lime Juice |
 
 ### Notes
@@ -3246,7 +3246,7 @@ youtube: 's30L-iu171E'
 |    1 oz | Apple Brandy          | Laird's Straight Apple Brandy Bottled in Bond |
 |  0.5 oz | Blended Scotch Whisky | Monkey Shoulder Blended Malt Whisky           |
 | 0.75 oz | Fresh Lime Juice      |
-|  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})             |
+|  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})             |
 | 0.75 oz | Egg White             |
 
 ### Notes
@@ -3832,7 +3832,7 @@ youtube: '3aV3DzDfW_A'
 |               |                  |                            |
 | ------------: | ---------------- | -------------------------- |
 |        1.5 oz | Reposado Tequila | Milagro                    |
-|       0.75 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})        |
+|       0.75 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})        |
 |       0.75 oz | Fresh Lime Juice |
 | 3 to 4 dashes | Bitters          | Angostura Aromatic Bitters |
 

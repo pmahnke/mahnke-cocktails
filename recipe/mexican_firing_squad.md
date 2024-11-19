@@ -15,7 +15,7 @@ youtube: '3aV3DzDfW_A'
 |  Amount  | Ingredient               | Brand                      |
 | ------------: | ---------------- | -------------------------- |
 |        1.5 oz | Reposado Tequila | Milagro                    |
-|       0.75 oz | [Grenadine]({%link recipe/grenadine_syrup.html%})        |
+|       0.75 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})        |
 |       0.75 oz | Fresh Lime Juice |
 | 3 to 4 dashes | Bitters          | Angostura Aromatic Bitters |
 

@@ -21,7 +21,7 @@ youtube: '\_eCla7H-TA0&t=4s'
 |        1 oz | White Grapefruit Juice                            |
 |     0.75 oz | Fresh Lime Juice                                  |
 |      0.5 oz | Cinnamon Syrup                                    |
-|     0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.html%}) |
+|     0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 1 bar spoon | Absinthe                                          | La Clandestine                    |
 |    2 dashes | Bitters                                           | Angostura Aromatic Bitters        |
 
