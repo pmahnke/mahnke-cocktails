@@ -1,6 +1,5 @@
 ---
 layout: recipe
-type: non-anders
 author: Shannon Mustipher Cocktail Recipes
 title: "Hibiscus Margarita"
 permalink: "/recipe/margarita_hibiscus.html"

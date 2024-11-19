@@ -24,26 +24,6 @@ layout: default
             {% endif %}
         {% endfor %}
         </table>
-        <h2>Non Anders Cocktails</h2>
-        <table style="width:100%;">
-        {% for page in site.pages %}
-            {% if page.layout == "recipe" and page.type == "non-anders"  %}
-            <tr>
-            <th class="no-border" align="left" style="width:35%;">
-                <a href="{{ page.url | prepend: site.baseurl }}">
-                {{ page.title }}
-                </a>
-            </th>
-            <td class="no-border" style="width:50%;">
-                {{ page.category }}
-            </td>
-            <td class="no-border" style="width:15%;">
-                {% assign counter = 0 %}{% for i in (1..5) %}{% if counter < page.stars %}<span class="checked">★</span>{% else %}☆{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}
-            </td>
-            </tr>
-            {% endif %}
-        {% endfor %}
-        </table>
         <h2>Non-Alcoholic Cocktails</h2>
         <table style="width:100%;">
         {% for page in site.pages %}

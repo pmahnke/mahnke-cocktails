@@ -1,7 +1,6 @@
 ---
 
 layout: recipe
-type: non-anders
 author: The Educated Barfly Cocktail Recipes
 title: "Sagehen"
 permalink: '/recipe/sage_hen.html'

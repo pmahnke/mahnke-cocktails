@@ -1,6 +1,5 @@
 ---
 layout: recipe
-type: non-anders
 author: Marco Valdo Dionysus Cocktail Recipes
 title: "Chartreuse Swizzle"
 permalink: "/recipe/chartreuseswizzle.html"
