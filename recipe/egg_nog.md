@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Egg Nog"
 permalink: '/recipe/egg_nog.html'
 stars: 4

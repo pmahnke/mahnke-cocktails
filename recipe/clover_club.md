@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Clover Club"
 permalink: '/recipe/clover_club.html'
 stars: 3

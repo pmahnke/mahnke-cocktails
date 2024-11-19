@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Ford"
 permalink: '/recipe/ford.html'
 stars: 0

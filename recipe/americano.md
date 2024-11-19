@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Americano"
 permalink: '/recipe/americano.html'
 stars: 0

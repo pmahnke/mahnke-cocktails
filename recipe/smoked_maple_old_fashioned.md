@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Smoked Maple Old Fashioned"
 permalink: '/recipe/smoked_maple_old_fashioned.html'
 stars: 0

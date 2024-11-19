@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Negroni"
 permalink: '/recipe/negroni.html'
 stars: 3

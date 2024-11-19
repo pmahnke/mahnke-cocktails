@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "See No Evil"
 permalink: '/recipe/see_no_evil.html'
 stars: 0

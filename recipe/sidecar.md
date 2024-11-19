@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Sidecar"
 permalink: "/recipe/sidecar.html"
 stars: 3

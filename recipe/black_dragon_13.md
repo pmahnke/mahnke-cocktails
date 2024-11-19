@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Black Dragon No. 13"
 permalink: "/recipe/black_dragon_13.html"
 stars: 0

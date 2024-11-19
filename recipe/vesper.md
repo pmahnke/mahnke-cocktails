@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Vesper"
 permalink: '/recipe/vesper.html'
 stars: 0

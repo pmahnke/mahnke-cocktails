@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Alexander"
 permalink: '/recipe/alexander.html'
 stars: 0

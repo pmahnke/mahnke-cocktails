@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Bamboo"
 permalink: '/recipe/bamboo.html'
 stars: 0

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Piña Colada"
 permalink: '/recipe/pina_colada.html'
 stars: 4

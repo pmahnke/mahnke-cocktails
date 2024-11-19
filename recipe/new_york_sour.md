@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "New York Sour"
 permalink: '/recipe/new_york_sour.html'
 stars: 5

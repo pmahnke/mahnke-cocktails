@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Bourbon Blackberry Smash"
 permalink: "/recipe/bourbon_blackberry_smash.html"
 stars: 0

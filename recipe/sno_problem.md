@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "S'no Problem"
 permalink: '/recipe/sno_problem.html'
 stars: 0

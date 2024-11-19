@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Mojito"
 permalink: "/recipe/mojito.html"
 stars: 4

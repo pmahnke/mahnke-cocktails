@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Elk's Own"
 permalink: '/recipe/elks_own.html'
 stars: 5

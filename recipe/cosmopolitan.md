@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Cosmopolitan"
 permalink: '/recipe/cosmopolitan.html'
 stars: 3

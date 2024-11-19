@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Mai Tai"
 permalink: '/recipe/mai_tai.html'
 stars: 5

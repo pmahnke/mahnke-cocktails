@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Tradewinds"
 permalink: '/recipe/tradewinds.html'
 stars: 0

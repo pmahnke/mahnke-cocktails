@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Manhattan"
 permalink: "/recipe/manhattan.html"
 stars: 3

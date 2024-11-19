@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Stinger"
 permalink: '/recipe/stinger.html'
 stars: 4

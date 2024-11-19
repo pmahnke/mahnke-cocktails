@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "The Division Bell"
 permalink: '/recipe/division_bell.html'
 stars: 0

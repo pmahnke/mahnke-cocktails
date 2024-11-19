@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Sazerac"
 permalink: "/recipe/sazerac.html"
 stars: 4

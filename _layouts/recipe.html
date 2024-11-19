@@ -5,24 +5,26 @@ layout: default
 <div class="row">
     <div class="two-thirds column">
 
-    {% if page.youtube %}
-    <div id="youtube-menu">
-        {% if page.youtube %}
-        <a href="{{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
-        {% endif %}
-        {% if page.youtube_embed %}
-        <button id="youtube-button" onclick="toggleDiv()">Embedded</button>
-        {% endif %}
-    </div>
-    {% endif %}
+        <div id="top_container">
+            {% if page.youtube %}
+            <div id="youtube-menu">
+                {% if page.youtube %}
+                <a href="{{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
+                {% endif %}
+                {% if page.youtube_embed %}
+                <button id="youtube-button" onclick="toggleDiv()">Embedded</button>
+                {% endif %}
+            </div>
+            {% endif %}
 
-    <div id="search">
-    <form action="{{ site.baseurl }}/search.cgi" method="get">
-        <input name="a" value="search" type="hidden">
-        <p><input id="search2" name="q" value="" size="40"> <input value="Search" type="submit"></p>
-    </form>
-    </div>
-
+            <div id="search">
+            <form action="{{ site.baseurl }}/search.cgi" method="get">
+                <input name="a" value="search" type="hidden">
+                <p><input id="search2" name="q" value="" size="40"> <input value="Search" type="submit"></p>
+            </form>
+            </div>
+            
+        </div>
 
     <h2>{{ page.title }}</h2>
 

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Dark 'n Stormy"
 permalink: '/recipe/dark_n_stormy.html'
 stars: 5

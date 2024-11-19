@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Plum Island"
 permalink: '/recipe/plum_island.html'
 stars: 4

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Sloe Gin Fizz"
 permalink: '/recipe/sloe_gin_fizz.html'
 stars: 0

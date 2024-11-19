@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Rusty Nail"
 permalink: '/recipe/rusty_nail.html'
 stars: 2

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "The Cigar"
 permalink: '/recipe/cigar.html'
 stars: 0

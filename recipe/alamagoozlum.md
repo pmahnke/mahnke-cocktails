@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Alamagoozlum"
 permalink: "/recipe/alamagoozlum.html"
 stars: 0

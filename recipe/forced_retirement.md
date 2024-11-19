@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Forced Retirement"
 permalink: "/recipe/forced_retirement.html"
 stars: 0

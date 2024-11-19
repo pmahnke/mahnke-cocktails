@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Long Island Iced Tea"
 permalink: '/recipe/long_island_iced_tea.html'
 stars: 4

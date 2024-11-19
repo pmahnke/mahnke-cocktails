@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Hotel National Cocktail"
 permalink: "/recipe/hotel_national.html"
 stars: 4

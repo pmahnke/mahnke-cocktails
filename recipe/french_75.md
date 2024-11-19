@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "French 75"
 permalink: "/recipe/french75.html"
 stars: 5

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Scofflaw"
 permalink: '/recipe/scofflaw.html'
 stars: 5

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Semester Abroad"
 permalink: '/recipe/semester_abroad.html'
 stars: 0

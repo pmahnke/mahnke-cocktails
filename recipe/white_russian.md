@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "White Russian"
 permalink: '/recipe/white_russian.html'
 stars: 4

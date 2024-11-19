@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Basil Orgeat Lemonade"
 permalink: "/recipe/basilorgeatlemonade.html"

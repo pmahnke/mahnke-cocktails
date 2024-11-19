@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Black Manhattan"
 permalink: '/recipe/black_manhattan.html'
 stars: 4

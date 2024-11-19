@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Mexican Firing Squad"
 permalink: '/recipe/mexican_firing_squad.html'
 stars: 0

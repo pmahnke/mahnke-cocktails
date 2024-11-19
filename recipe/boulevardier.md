@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Boulevardier"
 permalink: '/recipe/boulevardier.html'
 stars: 4

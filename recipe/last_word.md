@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Last Word"
 permalink: '/recipe/last_word.html'
 stars: 5

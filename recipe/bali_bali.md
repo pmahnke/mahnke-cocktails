@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Bali Bali"
 permalink: '/recipe/balibali.html'
 stars: 0

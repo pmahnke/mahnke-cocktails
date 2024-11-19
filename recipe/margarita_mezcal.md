@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Margarita: Mezcal"
 permalink: '/recipe/mezcal_margarita.html'
 stars: 0

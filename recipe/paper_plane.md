@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Paper Plane"
 permalink: '/recipe/paper_plane.html'
 stars: 5

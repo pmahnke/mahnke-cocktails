@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Rum Manhattan"
 permalink: "/recipe/rum_manhattan.html"
 stars: 3

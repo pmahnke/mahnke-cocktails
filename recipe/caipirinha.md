@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Caipirinha"
 permalink: '/recipe/caipirinha.html'
 stars: 4

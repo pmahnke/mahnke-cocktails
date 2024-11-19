@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Amaretto Sour"
 permalink: '/recipe/amaretto_sour.html'
 stars: 0

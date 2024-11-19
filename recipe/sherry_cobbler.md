@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Sherry Cobbler"
 permalink: '/recipe/sherry_cobbler.html'
 stars: 0

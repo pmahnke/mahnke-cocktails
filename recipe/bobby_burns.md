@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Bobby Burns"
 permalink: '/recipe/bobbyburns.html'
 stars: 0

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Cablecar"
 permalink: '/recipe/cablecar.html'
 stars: 0

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Brandy Alexander"
 permalink: "/recipe/brandy_alexander.html"
 stars: 0

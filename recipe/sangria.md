@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Sangria"
 permalink: '/recipe/sangria.html'
 stars: 0

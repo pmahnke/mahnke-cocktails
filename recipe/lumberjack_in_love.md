@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Lumberjack in Love"
 permalink: '/recipe/lumberjack_in_love.html'
 stars: 0

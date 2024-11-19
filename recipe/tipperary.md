@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Tipperary"
 permalink: '/recipe/tipperary.html'
 stars: 0

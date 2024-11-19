@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Momisette"
 permalink: '/recipe/momisette.html'
 stars: 5

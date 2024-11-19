@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Noble Beast"
 permalink: '/recipe/noble_beast.html'
 stars: 0

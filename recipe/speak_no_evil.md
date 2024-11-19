@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Speak No Evil"
 permalink: "/recipe/speak_no_evil.html"
 stars: 0

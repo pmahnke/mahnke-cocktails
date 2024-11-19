@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Toronto Cocktail"
 permalink: '/recipe/toronto_cocktail.html'
 stars: 0

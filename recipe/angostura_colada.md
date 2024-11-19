@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Angostura Colada"
 permalink: "/recipe/angostura_colada.html"
 stars: 0

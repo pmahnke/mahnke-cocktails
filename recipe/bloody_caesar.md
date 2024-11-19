@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Bloody Caesar"
 permalink: '/recipe/bloody_caesar.html'
 stars: 3

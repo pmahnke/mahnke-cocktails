@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Lonely Valentine"
 permalink: '/recipe/lonely_valentine.html'
 stars: 0

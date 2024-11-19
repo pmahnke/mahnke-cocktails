@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Gold Rush"
 permalink: '/recipe/gold_rush.html'
 stars: 0

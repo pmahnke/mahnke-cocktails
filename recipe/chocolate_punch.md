@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Chocolate Punch"
 permalink: '/recipe/chocolate_punch.html'
 stars: 0

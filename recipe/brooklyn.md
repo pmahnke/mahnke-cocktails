@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Brooklyn"
 permalink: '/recipe/brooklyn.html'
 stars: 0

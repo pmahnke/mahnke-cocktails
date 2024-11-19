@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Bee's Knees, Smoked"
 permalink: '/recipe/beesknees-smoked.html'
 stars: 0

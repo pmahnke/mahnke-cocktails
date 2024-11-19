@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson 
+author: Anders Erickson Cocktail Recipes 
 title: "Prescription Julep"
 permalink: '/recipe/prescription_julep.html'
 stars: 0

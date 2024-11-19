@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Daiquri"
 permalink: '/recipe/daiquri.html'
 stars: 5

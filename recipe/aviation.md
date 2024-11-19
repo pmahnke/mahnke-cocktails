@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Aviation"
 permalink: "/recipe/aviation.html"
 stars: 4

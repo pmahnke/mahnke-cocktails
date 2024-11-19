@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Pendennis Club Cocktail"
 permalink: '/recipe/pendennis_club.html'
 stars: 3

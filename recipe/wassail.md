@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Wassail"
 permalink: '/recipe/wassail.html'
 stars: 0

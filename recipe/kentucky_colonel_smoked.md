@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Kentucky Colonel, Smoked"
 permalink: '/recipe/kentucky_colonel_smoked.html'
 stars: 0

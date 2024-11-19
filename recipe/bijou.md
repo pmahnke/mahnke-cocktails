@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Bijou"
 permalink: "/recipe/bijou.html"
 stars: 0

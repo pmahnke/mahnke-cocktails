@@ -1,6 +1,6 @@
 ---
 layout: recipe 
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Haunted House"
 permalink: "/recipe/haunted_house.html"
 stars: 0

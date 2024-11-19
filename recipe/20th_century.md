@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "20th Century"
 permalink: '/recipe/20th_century.html'
 stars: 0

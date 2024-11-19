@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Mundo Perdido"
 permalink: "/recipe/mundo_perdido.html"
 stars: 0

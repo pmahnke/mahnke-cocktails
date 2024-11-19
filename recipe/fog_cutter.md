@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Fog Cutter"
 permalink: "/recipe/fog_cutter.html"
 stars: 0

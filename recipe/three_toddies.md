@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Three Toddies"
 permalink: "/recipe/toddies.html"

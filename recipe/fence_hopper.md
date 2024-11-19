@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Fence Hopper"
 permalink: '/recipe/fence_hopper.html'
 stars: 0

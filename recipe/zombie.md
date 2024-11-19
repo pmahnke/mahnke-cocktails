@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Zombie"
 permalink: '/recipe/zombie.html'
 stars: 0

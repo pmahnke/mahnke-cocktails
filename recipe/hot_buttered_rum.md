@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Hot Buttered Rum"
 permalink: '/recipe/hot_buttered_rum.html'
 stars: 0

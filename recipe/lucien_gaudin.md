@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Lucien Gaudin"
 permalink: '/recipe/lucien_gaudin.html'
 stars: 0

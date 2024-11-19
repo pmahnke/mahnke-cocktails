@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Spa Water"
 permalink: "/recipe/spa_water.html"

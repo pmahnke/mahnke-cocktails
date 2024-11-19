@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Pegu Club"
 permalink: "/recipe/pegu_club.html"
 stars: 3

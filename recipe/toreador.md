@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Toreador"
 permalink: '/recipe/toreador.html'
 stars: 0

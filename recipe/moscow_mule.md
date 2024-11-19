@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Moscow Mule"
 permalink: '/recipe/moscow_mule.html'
 stars: 0

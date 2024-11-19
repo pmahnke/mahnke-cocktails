@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Deshler"
 permalink: "/recipe/deshler.html"
 stars: 4

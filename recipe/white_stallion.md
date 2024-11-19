@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "White Stallion"
 permalink: '/recipe/white_stallion.html'
 stars: 0

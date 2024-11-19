@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Champagne Cocktail"
 permalink: "/recipe/champagne_cocktail.html"
 stars: 5

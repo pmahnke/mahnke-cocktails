@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Queen's Park Swizzle"
 permalink: '/recipe/queens_park_swizzle.html'
 stars: 0

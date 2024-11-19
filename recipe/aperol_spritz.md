@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Aperol Spritz"
 permalink: "/recipe/aperol_spritz.html"
 stars: 0

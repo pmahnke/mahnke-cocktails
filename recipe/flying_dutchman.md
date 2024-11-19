@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Flying Dutchman"
 permalink: '/recipe/flyingdutchman.html'
 stars: 0

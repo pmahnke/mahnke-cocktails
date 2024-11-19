@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Whiskey Smash"
 permalink: '/recipe/whiskey_smash.html'
 stars: 0

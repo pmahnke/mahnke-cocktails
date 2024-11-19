@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "The White Lady"
 permalink: "/recipe/white_lady.html"
 stars: 4

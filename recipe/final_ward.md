@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Final Ward"
 permalink: '/recipe/finalward.html'
 stars: 3

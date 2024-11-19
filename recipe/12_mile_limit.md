@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "12 Mile Limit"
 permalink: '/recipe/12_mile_limit.html'
 stars: 4

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Passion at the Disco"
 permalink: "/recipe/passion_at_the-disco.html"

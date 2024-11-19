@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Blueberry Thyme Smash"
 permalink: "/recipe/blueberry_thyme_smash.html"
 stars: 0

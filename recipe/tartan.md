@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Tartan"
 permalink: '/recipe/tartan.html'
 stars: 0

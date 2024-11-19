@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Fino Spritz"
 permalink: "/recipe/fino_spritz.html"
 stars: 0

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Perfect Manhattan"
 permalink: "/recipe/perfect_manhattan.html"
 stars: 0

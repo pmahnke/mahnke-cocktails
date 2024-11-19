@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Psycho Killer"
 permalink: "/recipe/psycho_killer.html"
 stars: 0

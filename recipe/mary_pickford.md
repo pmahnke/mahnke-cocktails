@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Mary Pickford"
 permalink: "/recipe/mary_pickford.html"
 stars: 4

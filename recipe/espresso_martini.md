@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Espresso Martini"
 permalink: "/recipe/espresso_martini.html"
 stars: 0

@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Jack Rose"
 permalink: '/recipe/jackrose.html'
 stars: 0

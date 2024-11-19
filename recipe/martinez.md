@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Martinez"
 permalink: '/recipe/martinez.html'
 stars: 0

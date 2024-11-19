@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Rattle Skull"
 permalink: '/recipe/rattle_skull.html'
 stars: 0

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Margarita: Grapefruit Ginger"
 permalink: "/recipe/margarita_ginger.html"
 stars: 0

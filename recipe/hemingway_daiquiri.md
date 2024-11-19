@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Hemingway Daiquiri"
 permalink: "/recipe/hemingway_daiquiri.html"
 stars: 0
@@ -10,7 +10,7 @@ youtube: "mILAxazthY4"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                     |
+| Amount  | Ingredient                                                | Brand                 |
 | ------: | --------------------------------------------------------- | --------------------- |
 |  1.5 oz | Light Rum                                                 | The Real Mccoy 3 Year |
 | 0.75 oz | Fresh Lime Juice                                          |
