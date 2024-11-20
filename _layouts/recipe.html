@@ -26,7 +26,7 @@ layout: default
             
         </div>
 
-    <h2>{{ page.title }}</h2>
+    <h2>{{ page.title }} - {% assign counter = 0 %}{% for i in (1..5) %}{% if counter < page.stars %}<span class="checked">★</span>{% else %}☆{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}</h2>
 
     {% if page.excerpt %}
     <div id="excerpt">
