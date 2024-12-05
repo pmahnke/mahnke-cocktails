@@ -1,5 +1,4 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Adonis"
