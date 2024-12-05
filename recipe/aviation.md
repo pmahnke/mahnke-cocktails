@@ -1,4 +1,5 @@
 ---
+
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Aviation"
@@ -6,6 +7,14 @@ permalink: "/recipe/aviation.html"
 stars: 4
 category: "Gin, Crème de Violette "
 youtube: "Kmw5D32W8sM&t=345sY"
+excerpt: |
+        The aviation was created by Hugo Ensslin, head bartender at the Hotel Wallick in New York, in the early twentieth century. The first published recipe appeared in Ensslin's 1916 <i>Recipes for Mixed Drinks</i>. Ensslin's recipe called for two thirds El Bart gin, one third lemon juice, 2 dashes maraschino liqueur, and 2 dashes crème de violette.
+        <br><br>
+        Harry Craddock's influential <i>Savoy Cocktail Book</i> (1930) omitted the crème de violette, calling for a mixture of two thirds dry gin, one third lemon juice and two dashes of maraschino. Many later bartenders have followed Craddock's lead, leaving out the difficult-to-find violet liqueur.
+        <br><br>
+        Creme Yvette, a violet liqueur made with additional spices, is sometimes substituted for crème de violette. 
+---
+
 ---
 
 <div class="subrecipe" markdown="1">

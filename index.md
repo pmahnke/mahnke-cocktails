@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+<div class="row">
+    <div class="twelve-columns">
+        <div id="search">
+            <form action="{{ site.baseurl }}/search.cgi" method="get">
+                <input name="a" value="search" type="hidden">
+                <p><input id="search2" name="q" value="" size="40" placeholder="Search by spirit or ingredient"> <input value="Search" type="submit"></p>
+            </form>
+        </div>
+    </div>
+</div>
 
 <div class="row">
     <div class="two-thirds column">
