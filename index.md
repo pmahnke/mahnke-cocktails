@@ -7,7 +7,7 @@ layout: default
         <h2>Cocktails</h2>
         <table style="width:100%;">
         {% for page in site.pages %}
-            {% if page.layout == "recipe" and page.type == blank) %}
+            {% if page.layout == "recipe" and page.type == blank %}
             <tr>
             <th class="no-border" align="left" style="width:35%;">
                 <a href="{{ page.url | prepend: site.baseurl }}">
