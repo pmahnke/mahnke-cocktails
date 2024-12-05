@@ -7,6 +7,9 @@ permalink: '/recipe/black_manhattan.html'
 stars: 4
 category: 'Rye, Amaro'
 youtube: 'YWKJsv8PymI&t=205s'
+excerpt: |
+        Adapted from a recipe created in 2015 by Todd Smith at <b>Bourbon &amp; Branch</b> in San Francisco, USA.
+---
 
 ---
 

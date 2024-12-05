@@ -15,3 +15,26 @@ a:link, a:visited, a:active
 span.checked {
     color:#fcc200;
 }
+div#top_container {
+    display:block;
+    clear: both;
+    height: 50px;
+    min-width: 900px;
+}
+div#youtube-menu {
+    display: inline;
+    float: left;
+}
+div#search {
+    display: inline;
+    float: right;
+}
+div#page_title {
+    display:block;
+    clear: both;
+    min-width: 900px;
+}
+div#stars {
+    display:inline-block;
+    float: inline-end;
+}

@@ -7,14 +7,15 @@ permalink: '/recipe/20th_century.html'
 stars: 0
 category: 'Gin, Cocchi Americano, Crème de Cacao '
 youtube: '6AyWk5teLv8'
-excerpt: "
-The 20th century is a cocktail created in 1937 by a British bartender named C.A. Tuck, and named in honor of the celebrated 20th Century Limited train which ran between New York City and Chicago from 1902 until 1967. The recipe was first published in 1937 in the Café Royal Cocktail Book by William J Tarling, President of the United Kingdom Bartenders' Guild and head bartender at the Café Royal."
+excerpt: |
+        The 20th century is a cocktail created in 1937 by a British bartender named C.A. Tuck, and named in honor of the celebrated 20th Century Limited train which ran between New York City and Chicago from 1902 until 1967. The recipe was first published in 1937 in the <i>Café Royal Cocktail Book</i> by William J Tarling, President of the United Kingdom Bartenders' Guild and head bartender at the Café Royal.
+---
 
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand            |
+| Amount  | Ingredient           | Brand            |
 | ------: | -------------------- | ---------------- |
 | 0.75 oz | Gin                  | Martin Miller's  |
 | 0.75 oz | Cocchi Americano     | Cocchi Americano |

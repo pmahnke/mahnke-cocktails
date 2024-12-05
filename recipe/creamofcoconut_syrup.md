@@ -18,4 +18,3 @@ youtube: "vGBMrJgjZB4"
 
 1. In a medium sauce pan, combine sugar, coconut milk, and salt.
 2. Stir over heat until sugar is completely dissolved.
-3. That's it!

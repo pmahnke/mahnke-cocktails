@@ -1,0 +1,32 @@
+---
+
+layout: recipe
+author: Anders Erickson Cocktail Recipes
+title: "Sloe Gin Sour"
+permalink: '/recipe/sloe_gin_sour.html'
+stars: 0
+category: 'Sloe Gin, Campari'
+youtube: 'W50W19vwjmk'
+
+---
+
+### Ingredients
+
+| Amount  | Ingredient                                                | Brand    |
+| ------: | --------------------------------------------------------- | -------- |
+|  1.5 oz | Sloe Gin                                                  | Plymouth |
+|  0.5 oz | Campari                                                   | Campari  |
+| 0.75 oz | Fresh Lemon Juice                                         |
+|  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
+|  0.5 oz | Egg White                                                 |
+ 
+
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Expressed lemon oil and 3 drops of Angostura Bitters
+- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
+
