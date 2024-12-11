@@ -26,5 +26,8 @@ youtube: 'kRPWDOCVByk&t=164s'
 - Pour: Add all ingredients directly to the shaking tin
 - Glassware: Large Glass
 - Garnish: Grated Nutmeg and Cocktail Cherry
-- Special Prep: Blend cocktail with a stick blender in the shaking tin. Pour cocktail into glass. Top With Chartreuse Whipped Cream .
+- Special Prep: 
+    - Blend cocktail with a stick blender in the shaking tin. 
+    - Pour cocktail into glass. 
+    - Top With [Chartreuse Whipped Cream]({%link recipe/chartreuse_whipped_cream.md%}).
 

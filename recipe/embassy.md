@@ -1,0 +1,29 @@
+---
+
+layout: recipe
+author: Anders Erickson Cocktail Recipes
+title: "Embassy"
+permalink: '/recipe/embassy.html'
+stars: 0
+category: 'Cognac, Jamaican Rum'
+youtube: 'YFqEvNdPrX8'
+
+---
+
+### Ingredients
+
+| Amount   | Ingredient       | Brand                           |
+| ------: | ----------------- | ------------------------------- |
+|  0.75 oz | Cognac           | Maison Rouge VSOP               |
+|  0.75 oz | Jamaican Rum     | Appleton Estate Signature Blend |
+|     1 oz | Orange Curaçao   | Marie Brizard                   |
+|   0.5 oz | Fresh Lime Juice |
+| 2 dashes | Bitters          | Angostura Aromatic Bitters      |
+
+ ### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Lime wheel
+- Special Prep: None
