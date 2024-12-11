@@ -12,19 +12,21 @@ youtube: 'RThEGH0sbgM'
 
 ### Ingredients
 
-|Amount  | Ingredient               | Brand          |
-| ---: | ----------------- | ----------------------------- |
-| 1 oz | Dark Rum          | Kōloa Kaua'i                  |
-| 1 oz | Gold Rum          | Don Q                         |
-| 1 oz | Apricot Liqueur   | Giffard Abricot du Roussillon |
-| 1 oz | Cream of Coconut  |
-| 1 oz | Fresh Lemon Juice |
+|Amount  | Ingredient                                                  | Brand                         |
+| -----: | ----------------------------------------------------------- | ----------------------------- |
+|   1 oz | Dark Rum                                                    | Kōloa Kaua'i                  |
+|   1 oz | Gold Rum                                                    | Don Q                         |
+|   1 oz | Apricot Liqueur                                             | Giffard Abricot du Roussillon |
+|   1 oz | [Cream of Coconut]({%link recipe/creamofcoconut_syrup.md%}) |
+|   1 oz | Fresh Lemon Juice                                           |
 
 ### Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: TikiCrushed Ice
-- Garnish: Grated NutmegPineapple FrondsCocktail Umbrella
+- Glassware: 
+    - Tiki
+    - Crushed Ice
+- Garnish: Grated Nutmeg, Pineapple Fronds and a Cocktail Umbrella
 - Special Prep: Stir the drink heavily in the glass.
 

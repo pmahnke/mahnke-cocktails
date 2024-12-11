@@ -4,7 +4,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bamboo"
 permalink: '/recipe/bamboo.html'
-stars: 0
+stars: 4
 category: 'Oloroso Sherry '
 youtube: 'B8l-F1qcTYU&t=48s'
 

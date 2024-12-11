@@ -27,7 +27,9 @@ youtube: '\_eCla7H-TA0&t=4s'
 
 ### Notes
 
-- Method: ShakenCrushed Ice
+- Method: 
+    - Shaken
+    - Crushed Ice
 - Pour: Open Pour
 - Glassware: Tiki Glass
 - Garnish: Mint Sprig

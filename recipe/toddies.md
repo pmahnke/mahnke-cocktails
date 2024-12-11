@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: multirecipe
-title: "Three Toddies"
+title: "Hot Toddies"
 permalink: "/recipe/toddies.html"
 stars: 0
 category: "Blended Scotch, Jamaican Rum, Mezcal "
@@ -15,7 +15,7 @@ youtube: "DJtBN6yBnsA"
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand           |
+|  Amount   | Ingredient                                    | Brand           |
 | --------: | --------------------------------------------- | --------------- |
 |    1.5 oz | Blended Scotch                                | Monkey Shoulder |
 |    0.5 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
