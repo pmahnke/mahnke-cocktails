@@ -18,13 +18,6 @@ youtube: 'mFOZcQvZ6oY'
 |   0.5 oz | Coffee Liqueur | Tia Maria            |
 | 2 dashes | Orange Bitters | Fee Bros.            |
 
-
-2 oz. (60 ml)  
-1/2 oz. (15 ml)  
-  
-
-
-
 ### Notes
 
 - Method: Shaken
@@ -32,4 +25,3 @@ youtube: 'mFOZcQvZ6oY'
 - Glassware: Nick & Nora
 - Garnish: Flamed orange oil
 - Special Prep: None
-
