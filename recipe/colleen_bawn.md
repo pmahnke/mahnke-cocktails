@@ -3,7 +3,7 @@
 layout: recipe
 title: "Colleen Bawn"
 permalink: '/recipe/colleen_bawn.html'
-stars: 0
+stars: 3
 category: 'Rye, Yellow Chartreuse, Bénédictine'
 youtube: 'W50W19vwjmk'
 
