@@ -1,0 +1,29 @@
+---
+
+layout: recipe
+author: Anders Erickson Cocktail Recipes
+title: "Affinity"
+permalink: '/recipe/affinity.html'
+stars: 0
+category: 'Overproof Rum, Coffee Liqueur'
+youtube: '9lgx04fJrSM'
+
+---
+
+### Ingredients
+
+| Amount   | Ingredient     | Brand                 |
+| -------: | -------------- | --------------------- |
+|   3/4 oz | Single Malt Scotch | Talisker 10 Year |
+|   3/4 oz | Sweet Vermouth |occhi Vermouth di Torino
+|   3/4 oz | White Vermouth | Dolin Blanc Vermouth de Chambéry |
+| 2 dashes | Bitters | Angostura Aromatic Bitters |
+
+
+### Notes
+
+- Method: Stirred
+- Pour: Julip Strain
+- Glassware: Nick & Nora
+- Garnish: Expressed lemon oil
+- Special Prep: None
