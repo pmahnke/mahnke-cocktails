@@ -4,7 +4,7 @@ layout: default
 <div class="row">
     <div class="twelve-columns">
         <div id="search">
-            <form action="{{ site.baseurl }}/search.cgi" method="get">
+            <form action="/cgi-bin/cocktail_search.cgi" method="get">
                 <input name="a" value="search" type="hidden">
                 <p><input id="search2" name="q" value="" size="40" placeholder="Search by spirit or ingredient"> <input value="Search" type="submit"></p>
             </form>
@@ -17,7 +17,7 @@ layout: default
         <h2>Cocktails</h2>
         <table style="width:100%;">
         {% for page in site.pages %}
-            {% if page.layout == "recipe" and page.type == blank %}
+            {% if page.layout == "recipe" and page.type == nil  %}
             <tr>
             <th class="no-border" align="left" style="width:35%;">
                 <a href="{{ page.url | prepend: site.baseurl }}">
