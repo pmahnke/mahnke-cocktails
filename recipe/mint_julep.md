@@ -20,11 +20,11 @@ youtube: 'xfLW5Na9QpM'
 
 ### Notes
 
-- Method: Stirred
-- Pour: Julep Strain
+- Method: Shaken
+- Pour: Double Strain
 - Glassware: 
     - Julep Cup
     - Crushed Ice
 - Garnish: Mint Sprig
-- Special Prep: None
+- Special Prep: Add mint leaves directly to the shaking tin. Then build the cocktail. Top with additional crushed ice.
 
