@@ -33,7 +33,7 @@ layout: default
             </tr>
             {% endif %}
         {% endfor %}
-        </table>
+        </table>ß
         <h2>Non-Alcoholic Cocktails</h2>
         <table style="width:100%;">
         {% for page in site.pages %}
