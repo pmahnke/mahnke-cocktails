@@ -1,0 +1,32 @@
+---
+
+layout: recipe
+author: Anders Erickson Cocktail Recipes
+title: "Frozoni"
+permalink: '/recipe/frozoni.html'
+stars: 0
+category: 'Gin, Campari, Prosecco'
+youtube: 'ipHnOhkGWug'
+
+---
+
+### Ingredients
+
+| Amount  | Ingredient                                                 | Brand    |
+| ------: | ---------------------------------------------------------- | -------- |
+| 5 whole | Grapes (frozen)                                            |
+|    1 oz | Gin                                                        | Botanist |
+|    1 oz | Campari                                                    | Campari  |
+| 0.75 oz | Fresh Lemon Juice                                          |
+|  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%})  |
+|    3 oz | Prosecco                                                   |
+
+
+
+ ### Notes
+
+- Method: Blended
+- Pour: Open Pour
+- Glassware: High Ball
+- Garnish: Grape
+- Special Prep: Add 0.75 cup of crushed ice to the tin. Blend cocktail with a stick blender in the shaking tin.

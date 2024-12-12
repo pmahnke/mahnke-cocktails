@@ -4,10 +4,8 @@ title: "Strawberry Basil Smash"
 permalink: "/recipe/strawberry_basil_smash.html"
 stars: 0
 category: "Jamaican Rum"
-youtube: "3i4QnRLlPFc&t=220s"
+youtube: "3i4QnRLlPFc"
 ---
-
-## 
 
 ### Ingredients
 
