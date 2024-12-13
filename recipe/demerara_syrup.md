@@ -10,8 +10,8 @@ youtube: "MEQMeCrg0Zi8rePO"
 
 | Amount  | Ingredient    |
 | -----: | -------------- |
-| 2 Cups | Demerara Sugar |
-|  1 Cup | Hot Water      |
+| 2 cups | Demerara Sugar |
+|  1 cup | Hot Water      |
 
 ### Method
 

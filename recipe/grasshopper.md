@@ -12,13 +12,13 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                                                      | Brand         |
-| -------: | --------------------------------------------------------------- | ------------- |
-|   1.5 oz | Crème de Menthe                                                 | Tempus Fugit  |
-|   1.5 oz | White Crème de Cacao                                            | Marie Brizard |
-|     1 oz | Cream heavy cream, half & half, or a favorite non-dairy creamer |
-| 3 scoops | Vanilla Ice Cream                                               |
-| 0.25 cup | Crushed Ice                                                     |
+|   Amount | Ingredient           | Brand         |
+| -------: | -------------------- | ------------- |
+|   1.5 oz | Crème de Menthe      | Tempus Fugit  |
+|   1.5 oz | White Crème de Cacao | Marie Brizard |
+|     1 oz | Heavy Cream          |
+| 3 scoops | Vanilla Ice Cream    |
+| 0.25 cup | Crushed Ice          |
 
 ### Notes
 

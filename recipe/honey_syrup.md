@@ -8,10 +8,10 @@ youtube: "kRdWT71gBb5UcAU8"
 
 ### Ingredients
 
-| Amount  | Ingredient               |
+|  Amount | Ingredient    |
 | ------: | ------------- |
-| 3 Parts | Honey         |
-| 1 Parts | Boiling Water |
+| 3 parts | Honey         |
+| 1 parts | Boiling Water |
 
 ### Method
 

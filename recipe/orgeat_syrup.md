@@ -10,8 +10,8 @@ youtube: "MEQMeCrg0Zi8rePO"
 
 | Amount  | Ingredient              |
 | ------: | ----------------------- |
-|  3 Cups | White Sugar             |
-|  2 Cups | Unsweetened Almond Milk |
+|  3 cups | White Sugar             |
+|  2 cups | Unsweetened Almond Milk |
 |   1 tsp | Orange Blossom Water    |
 | 0.5 tsp | Rose Water              |
 | 0.5 tsp | Almond Extract          |

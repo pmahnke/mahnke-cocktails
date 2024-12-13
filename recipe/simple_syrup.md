@@ -11,7 +11,7 @@ excerpt: |
 
 ### Ingredients
 
-| Amount  | Ingredient               |
+|   Amount | Ingredient  |
 | -------: | ----------- |
 | 1.5 cups | White Sugar |
 |    1 cup | Hot Water   |
