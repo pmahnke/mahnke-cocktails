@@ -22,10 +22,18 @@ excerpt: |
 
 ### Notes
 
+<<<<<<< Updated upstream
 - Method: Shaken
 - Pour: Open Pour
 - Glassware:
   - High Ball
   - Crushed Ice
+=======
+- Method: Swizzled
+- Pour: Add all ingredients directly to the glass
+- Glassware: 
+    - High Ball
+    - Crushed Ice
+>>>>>>> Stashed changes
 - Garnish: Grated Nutmeg and a Mint Sprig
-- Special Prep: Pour in glass and top with additional crushed ice.
+- Special Prep: Swizzle in the glass, and top with additional crushed ice.
