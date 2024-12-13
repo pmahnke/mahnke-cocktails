@@ -13,7 +13,7 @@ layout: default
 </div>
 
 <div class="row">
-    <div class="two-thirds column">
+    <div class="two-thirds column"> 
         <h2>Cocktails</h2>
         <table style="width:100%;">
         {% for page in site.pages %}
@@ -33,7 +33,7 @@ layout: default
             </tr>
             {% endif %}
         {% endfor %}
-        </table>ß
+        </table>
         <h2>Non-Alcoholic Cocktails</h2>
         <table style="width:100%;">
         {% for page in site.pages %}
