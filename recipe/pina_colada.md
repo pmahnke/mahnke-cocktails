@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Piña Colada"
-permalink: '/recipe/pina_colada.html'
+permalink: "/recipe/pina_colada.html"
 stars: 4
-category: 'Light Rum '
-youtube: 'eH9yt9JpXXk&t=6s'
-
+category: "Light Rum "
+youtube: "eH9yt9JpXXk&t=6s"
+excerpt: |
+  This rum, pineapple and coconut cream, the Piña Colada is sweet, fruity and delicious.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand          |
+|     Amount | Ingredient            | Brand                 |
 | ---------: | --------------------- | --------------------- |
 |       2 oz | Light Rum             | The Real McCoy 3 Year |
 |       1 oz | Cream of Coconut      |
@@ -27,4 +27,3 @@ youtube: 'eH9yt9JpXXk&t=6s'
 - Glassware: Large glass
 - Garnish: Pineapple pieces, pineapple fronds and cocktail cherries
 - Special Prep: Use an emersion blender directly in the shaker tin. Blend intill frothy.
-

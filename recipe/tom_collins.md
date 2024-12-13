@@ -1,17 +1,17 @@
 ---
-
 layout: recipe
 title: "Tom Collins"
-permalink: '/recipe/tom_collins.html'
+permalink: "/recipe/tom_collins.html"
 stars: 0
-category: 'Old Tom Gin '
-youtube: 'DKkHTEozo7o'
-
+category: "Old Tom Gin "
+youtube: "DKkHTEozo7o"
+excerpt: |
+  The classic Tom Collins is a straightforward and refreshing cocktail that combines gin with lemon juice, sugar and club soda.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient                                                 | Brand    |
+|    Amount | Ingredient                                                | Brand    |
 | --------: | --------------------------------------------------------- | -------- |
 |      2 oz | Old Tom Gin                                               | Scofflaw |
 |      1 oz | Fresh Lemon Juice                                         |
@@ -22,9 +22,8 @@ youtube: 'DKkHTEozo7o'
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: 
-    - High Ball
-    - On the Rocks
+- Glassware:
+  - High Ball
+  - On the Rocks
 - Garnish: Lemon wheel and cocktail cherry
 - Special Prep: Add cocktail to the glass with ice and top with soda water.
-

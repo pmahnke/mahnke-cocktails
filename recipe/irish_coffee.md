@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Irish Coffee"
-permalink: '/recipe/irish_coffee.html'
+permalink: "/recipe/irish_coffee.html"
 stars: 0
-category: 'Irish Whiskey '
-youtube: 'sJsY1LokABA'
-
+category: "Irish Whiskey "
+youtube: "sJsY1LokABA"
+excerpt: |
+  Irish Coffee is the perfect winter warming drink. To make it, combine Irish whiskey with sugar and coffee, and top it with cream.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                  |
+|    Amount | Ingredient                                               | Brand             |
 | --------: | -------------------------------------------------------- | ----------------- |
 |      1 oz | Irish Whiskey                                            | Powers Gold Label |
 |   0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
@@ -25,4 +25,3 @@ youtube: 'sJsY1LokABA'
 - Glassware: Mug
 - Garnish: Heavy cream float
 - Special Prep: Shake the heavy cream in a mixing tin till thick.
-

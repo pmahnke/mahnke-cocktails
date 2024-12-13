@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mint Julep"
-permalink: '/recipe/mint_julep.html'
+permalink: "/recipe/mint_julep.html"
 stars: 4
-category: 'Bourbon '
-youtube: 'xfLW5Na9QpM'
-
+category: "Bourbon "
+youtube: "xfLW5Na9QpM"
+excerpt: |
+  The Mint Julep is the signature drink of the Kentucky Derby. But this easy-to-make bourbon cocktail shouldn’t be reserved for only one day a year.
 ---
 
 ### Ingredients
 
-|     Amount  | Ingredient               | Brand               |
+|        Amount | Ingredient                                               | Brand         |
 | ------------: | -------------------------------------------------------- | ------------- |
 |          2 oz | Bourbon                                                  | Buffalo Trace |
 |        0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
@@ -22,9 +22,8 @@ youtube: 'xfLW5Na9QpM'
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: 
-    - Julep Cup
-    - Crushed Ice
+- Glassware:
+  - Julep Cup
+  - Crushed Ice
 - Garnish: Mint Sprig
 - Special Prep: Add mint leaves directly to the shaking tin. Then build the cocktail. Top with additional crushed ice.
-

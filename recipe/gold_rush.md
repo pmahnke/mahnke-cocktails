@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Gold Rush"
-permalink: '/recipe/gold_rush.html'
+permalink: "/recipe/gold_rush.html"
 stars: 0
-category: 'Bourbon'
-youtube: 'TP5T65EWOx65zTsY'
-
+category: "Bourbon"
+youtube: "TP5T65EWOx65zTsY"
+excerpt: |
+  Created at famed New York City bar Milk & Honey in the early 2000s, this drink's combination of bourbon, lemon and honey became worldwide modern classic.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand           |
+|  Amount | Ingredient                                    | Brand      |
 | ------: | --------------------------------------------- | ---------- |
 |  1.5 oz | Bourbon                                       | Eagle Rare |
 | 0.75 oz | Fresh Lemon Juice                             |
@@ -25,4 +25,3 @@ youtube: 'TP5T65EWOx65zTsY'
 - Glassware: Low BallLarge Ice cube
 - Garnish: None
 - Special Prep: None
-

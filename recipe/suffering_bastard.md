@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Suffering Bastard"
-permalink: '/recipe/suffering_bastard.html'
+permalink: "/recipe/suffering_bastard.html"
 stars: 0
-category: 'Gin, Cognac OR Bourbon'
-youtube: 'oRQtYcyRKVI'
-
+category: "Gin, Cognac OR Bourbon"
+youtube: "oRQtYcyRKVI"
+excerpt: |
+  The Suffering Bastard cocktail uses both bourbon and gin. Born in Cairo, it was originally concocted for troops fighting in North Africa.
 ---
 
 ### Ingredients
 
-| Amount        | Ingredient                                               | Brand                      |
+|        Amount | Ingredient                                               | Brand                      |
 | ------------: | -------------------------------------------------------- | -------------------------- |
 |          1 oz | Gin                                                      | Beefeaters                 |
 |          1 oz | Cognac                                                   | Maison Rouge VSOP          |
@@ -28,7 +28,7 @@ youtube: 'oRQtYcyRKVI'
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
-	- High Ball
-	- On the rocks
+  - High Ball
+  - On the rocks
 - Garnish: Mint sprig and orange slice
 - Special Prep: Pour the ginger beer into the glass while pouring the cocktail.

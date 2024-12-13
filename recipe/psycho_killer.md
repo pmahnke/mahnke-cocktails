@@ -6,11 +6,13 @@ permalink: "/recipe/psycho_killer.html"
 stars: 0
 category: "Irish Whiskey, Campari, White Crème de Cacao, Banane du Brésil"
 youtube: "u0N9FFJ1i5c"
+excerpt: |
+  White cacao and banana liqueur balance the dry, bitter duo of cocoa nibs and Campari in this elegant Irish whiskey cocktail from The Dead Rabbit.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                    |
+|   Amount | Ingredient                                                        | Brand              |
 | -------: | ----------------------------------------------------------------- | ------------------ |
 |     2 oz | Irish Whiskey                                                     | Red Breast 12 year |
 |  0.75 oz | [Cocoa Nib Infused Campari]({%link recipe/coca_nib_campari.md %}) | Campari            |

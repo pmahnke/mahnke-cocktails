@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hot Buttered Rum"
-permalink: '/recipe/hot_buttered_rum.html'
+permalink: "/recipe/hot_buttered_rum.html"
 stars: 0
-category: 'Dark Rum '
-youtube: 'mBGgu3qRztY'
-
+category: "Dark Rum "
+youtube: "mBGgu3qRztY"
+excerpt: |
+  The Hot Buttered Rum cocktail is a classic hot drink that will warm your soul during the cold winter.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand          |
+|        Amount | Ingredient      | Brand               |
 | ------------: | --------------- | ------------------- |
 |          2 oz | Dark Rum        | Goslings Black Seal |
 |  1 tablespoon | Butter          |
@@ -30,4 +30,3 @@ youtube: 'mBGgu3qRztY'
 - Glassware: Mug
 - Garnish: Cinnamon stick
 - Special Prep: Temper your mug with hot water.
-

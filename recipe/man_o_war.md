@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Man o’ War"
-permalink: '/recipe/man_o_war.html'
+permalink: "/recipe/man_o_war.html"
 stars: 0
-category: 'Bourbon, Oloroso Sherry'
-youtube: '1V0-c6u4xJA'
-
+category: "Bourbon, Oloroso Sherry"
+youtube: "1V0-c6u4xJA"
+excerpt: |
+  The Man o’ War cocktail is named for one of the finest racehorses in history. This citrusy bourbon drink is a winner.
 ---
 
 ### Ingredients
 
-| Amount   | Ingredient        | Brand                      |
+|   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
 |   1.5 oz | Bourbon           | Old Grand-Dad              |
 |  0.75 oz | Dry Curaçao       | Pierre Ferrand             |

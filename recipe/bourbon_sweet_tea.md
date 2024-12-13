@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bourbon Sweet Tea"
-permalink: '/recipe/bourbon_sweet_tea.html'
+permalink: "/recipe/bourbon_sweet_tea.html"
 stars: 0
-category: 'Bourbon, Light Amaro, Peach Liqueur '
-youtube: '1b4nHX4RjdY'
-
+category: "Bourbon, Light Amaro, Peach Liqueur "
+youtube: "1b4nHX4RjdY"
+excerpt: |
+  You're all set for sitting on the porch, rocking your cares away with this boozy take on the iconic Sweet Tea.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                        |
+| Amount | Ingredient                                                | Brand                          |
 | -----: | --------------------------------------------------------- | ------------------------------ |
 | 1.5 oz | Bourbon                                                   | Old Grand-Dad 100 Proof Bonded |
 |   1 oz | Light Amaro                                               | Amaro Nonino                   |
@@ -25,9 +25,8 @@ youtube: '1b4nHX4RjdY'
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: 
-    - Mason Jar
-    - On the Rocks
+- Glassware:
+  - Mason Jar
+  - On the Rocks
 - Garnish: Mint sprig
 - Special Prep: None
-

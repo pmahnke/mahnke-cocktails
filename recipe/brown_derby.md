@@ -6,6 +6,8 @@ permalink: "/recipe/brown_derby.html"
 stars: 0
 category: "Bourbon "
 youtube: "79htbyQ8nDY&t=62s"
+excerpt: |
+  The Brown Derby cocktail, a classic bourbon, grapefruit, and honey drink, was named for the famous Los Angeles diner. It manages at once to be sweet, sour, and entirely delicious.
 ---
 
 <div class="subrecipe" markdown="1">
@@ -14,10 +16,10 @@ youtube: "79htbyQ8nDY&t=62s"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                                  |
-| -----: | ------------------------------------------- | -------------------------------------- |
-| 1.5 oz | Bourbon                                     | Still Austin ""The Musician"" Straight |
-|   1 oz | Pink Grapefruit Juice                       |
+| Amount | Ingredient                                    | Brand                                  |
+| -----: | --------------------------------------------- | -------------------------------------- |
+| 1.5 oz | Bourbon                                       | Still Austin ""The Musician"" Straight |
+|   1 oz | Pink Grapefruit Juice                         |
 | 0.5 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 
 ### Notes
@@ -35,12 +37,12 @@ youtube: "79htbyQ8nDY&t=62s"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                                      |
-| ------: | ------------------------------------------- | -------------------------------------- |
-|  1.5 oz | Bourbon                                     | Still Austin ""The Musician"" Straight |
-|    1 oz | White Grapefruit Juice                      |
+|  Amount | Ingredient                                    | Brand                                  |
+| ------: | --------------------------------------------- | -------------------------------------- |
+|  1.5 oz | Bourbon                                       | Still Austin ""The Musician"" Straight |
+|    1 oz | White Grapefruit Juice                        |
 |  0.5 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
-| 0.25 oz | Fresh Lemon Juice                           |
+| 0.25 oz | Fresh Lemon Juice                             |
 
 ### Notes
 

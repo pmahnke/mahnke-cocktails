@@ -6,16 +6,18 @@ permalink: "/recipe/champagne_cocktail.html"
 stars: 5
 category: "Champagne, Cognac "
 youtube: "WmMC1qb2LgA"
+excerpt: |
+  The Champagne Cocktail, a simple combination of sparkling wine, bitters and sugar.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand               |
-| -------: | --------- | ---------------------------- |
-|     5 oz | Champagne | Laurent-Perrier ""La Cuvée"" |
-|  0.75 oz | Cognac    | Maison Rouge V.S.O.P.        |
-|   1 cube | Sugar     | Brown or White               |
-| 10 drops | Bitters   | Angostura Aromatic Bitters   |
+|   Amount | Ingredient | Brand                        |
+| -------: | ---------- | ---------------------------- |
+|     5 oz | Champagne  | Laurent-Perrier ""La Cuvée"" |
+|  0.75 oz | Cognac     | Maison Rouge V.S.O.P.        |
+|   1 cube | Sugar      | Brown or White               |
+| 10 drops | Bitters    | Angostura Aromatic Bitters   |
 
 ### Notes
 

@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Remember the Maine"
-permalink: '/recipe/remember_the_maine.html'
+permalink: "/recipe/remember_the_maine.html"
 stars: 3
-category: 'Rye '
-youtube: 'I2_xijYpP_Y'
-
+category: "Rye "
+youtube: "I2_xijYpP_Y"
+excerpt: |
+  If you like a Rye Manhattan, you’ll love this historic variation that adds cherry liqueur and a bit of absinthe.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient     | Brand                     |
+|  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
 |  1.5 oz | Rye            | Rittenhouse 100           |
 | 0.75 oz | Sweet Vermouth | Cocchi Vermouth di Torino |
@@ -26,4 +26,3 @@ youtube: 'I2_xijYpP_Y'
 - Glassware: Martini
 - Garnish: Expressed lemon oil & cocktail cherry
 - Special Prep: None
-

@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pisco Sour"
-permalink: '/recipe/pisco_sour.html'
+permalink: "/recipe/pisco_sour.html"
 stars: 5
-category: 'Pisco '
-youtube: 'FdAQ96mYwNQ'
-
+category: "Pisco "
+youtube: "FdAQ96mYwNQ"
+excerpt: |
+  Featuring pisco, lime, egg white and sugar, the Pisco Sour is an earthy and refreshing drink. It’s also the national cocktail of Peru and Chile.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                            |
+|  Amount | Ingredient                                                | Brand                      |
 | ------: | --------------------------------------------------------- | -------------------------- |
 |    2 oz | Pisco                                                     | Barsol                     |
 |  0.5 oz | Fresh Lemon Juice                                         |
@@ -28,4 +28,3 @@ youtube: 'FdAQ96mYwNQ'
 - Glassware: Wine
 - Garnish: None
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
-

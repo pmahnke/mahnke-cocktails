@@ -4,11 +4,13 @@ title: "Ginger Syrup"
 type: syrup
 permalink: "/recipe/gingersyrup.html"
 youtube: "vGBMrJgjZB4"
+excerpt: |
+  Take your cocktail to the next level with homemade ginger simple syrup. All it takes is ginger and sugar.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               |
+|   Amount | Ingredient   |
 | -------: | ------------ |
 | 1.5 cups | White Sugar  |
 |    1 cup | Hot Water    |

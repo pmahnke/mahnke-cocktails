@@ -6,6 +6,8 @@ permalink: "/recipe/deshler.html"
 stars: 4
 category: "Rye, Dubonnet Rouge -OR- Bourbon, Lillet Rouge "
 youtube: "3vtklNLjMPw"
+excerpt: |
+  Enjoy your favorite rye whiskey in this Dubonnet and Cointreau drink from famed New York bartender Brian Miller.
 ---
 
 <div class="subrecipe" markdown="1">
@@ -14,7 +16,7 @@ youtube: "3vtklNLjMPw"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand  |
+|   Amount | Ingredient     | Brand           |
 | -------: | -------------- | --------------- |
 |  0.75 oz | Rye            | Wild Turkey 101 |
 |  0.75 oz | Dubonnet Rouge | Dubonnet Rouge  |
@@ -38,7 +40,7 @@ youtube: "3vtklNLjMPw"
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand           |
+|   Amount | Ingredient     | Brand           |
 | -------: | -------------- | --------------- |
 |     2 oz | Rye            | Wild Turkey 101 |
 |     1 oz | Dubonnet Rouge | Dubonnet Rouge  |
@@ -62,7 +64,7 @@ youtube: "3vtklNLjMPw"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand          |
+|   Amount | Ingredient     | Brand                |
 | -------: | -------------- | -------------------- |
 |     2 oz | Bourbon        | Old Grand-Dad Bonded |
 |     1 oz | Lillet Rouge   | Lillet Rouge         |

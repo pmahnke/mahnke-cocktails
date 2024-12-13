@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Cosmopolitan"
-permalink: '/recipe/cosmopolitan.html'
+permalink: "/recipe/cosmopolitan.html"
 stars: 3
-category: 'Vodka '
-youtube: 'SP8Pc-Db7yQ'
-
+category: "Vodka "
+youtube: "SP8Pc-Db7yQ"
+excerpt: |
+  The Cosmopolitan is a simple cocktail with a big history.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand             |
+|  Amount | Ingredient       | Brand           |
 | ------: | ---------------- | --------------- |
 |  1.5 oz | Vodka            | Valentine       |
 | 0.75 oz | Triple Sec       | Luxardo Triplum |
@@ -26,4 +26,3 @@ youtube: 'SP8Pc-Db7yQ'
 - Glassware: Coupe
 - Garnish: Lime wheel
 - Special Prep: Expressed orange oil
-

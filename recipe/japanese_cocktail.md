@@ -6,6 +6,8 @@ permalink: "/recipe/japanese.html"
 stars: 0
 category: "Cognac "
 youtube: "83TEnWyeqV0"
+excerpt: |
+  These seven inventive cocktails show off the versatility of the Japanese fermented rice beverage.
 ---
 
 <div class="subrecipe" markdown="1">
@@ -14,7 +16,7 @@ youtube: "83TEnWyeqV0"
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                    |
+|   Amount | Ingredient                                      | Brand               |
 | -------: | ----------------------------------------------- | ------------------- |
 |     2 oz | Cognac                                          | Pierre Ferrand 1840 |
 |   0.5 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
@@ -35,7 +37,7 @@ youtube: "83TEnWyeqV0"
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                 |
+|       Amount | Ingredient                                      | Brand               |
 | -----------: | ----------------------------------------------- | ------------------- |
 | Ingredients: |
 |       1.5 oz | Cognac                                          | Pierre Ferrand 1840 |

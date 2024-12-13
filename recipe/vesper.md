@@ -1,13 +1,13 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Vesper"
-permalink: '/recipe/vesper.html'
+permalink: "/recipe/vesper.html"
 stars: 0
-category: 'Gin, Vodka, Cocchi Americano'
-youtube: 'TP5T65EWOx65zTsY'
-
+category: "Gin, Vodka, Cocchi Americano"
+youtube: "TP5T65EWOx65zTsY"
+excerpt: |
+  The gin-and-vodka-based Vesper cocktail made its debut in “Casino Royale.” If it’s good enough for James Bond, it’s probably good enough for you, too.
 ---
 
 ### Ingredients
@@ -25,4 +25,3 @@ youtube: 'TP5T65EWOx65zTsY'
 - Glassware: Martini
 - Garnish: Lemon Twist
 - Special Prep: Lillet Blanc may be substituted for Cocchi Americano.
-

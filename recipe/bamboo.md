@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bamboo"
-permalink: '/recipe/bamboo.html'
+permalink: "/recipe/bamboo.html"
 stars: 4
-category: 'Oloroso Sherry '
-youtube: 'B8l-F1qcTYU&t=48s'
-
+category: "Oloroso Sherry "
+youtube: "B8l-F1qcTYU&t=48s"
+excerpt: |
+  Equal parts dry sherry and dry vermouth get propped up with two kinds of bitters in the Bamboo, a low-alcohol classic cocktail.
 ---
 
 ### Ingredients
 
-| Amount   | Ingredient         | Brand                            |
+|   Amount | Ingredient     | Brand                            |
 | -------: | -------------- | -------------------------------- |
 |   1.5 oz | Oloroso Sherry | Lustau 'Emperatriz Eugenia'      |
 |   1.5 oz | White Vermouth | Dolin Blanc Vermouth de Chambéry |
@@ -26,4 +26,3 @@ youtube: 'B8l-F1qcTYU&t=48s'
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: Expressed orange oil
-

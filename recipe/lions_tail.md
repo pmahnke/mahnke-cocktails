@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lion's Tail"
-permalink: '/recipe/lionstail.html'
+permalink: "/recipe/lionstail.html"
 stars: 5
-category: 'Bourbon, Allspice Dram'
-youtube: 'r2NNClh94tQ'
-
+category: "Bourbon, Allspice Dram"
+youtube: "r2NNClh94tQ"
+excerpt: |
+  The Lion’s Tail is a classic cocktail stemming from Prohibition. it combines bourbon with allspice dram and bitters.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                           |
+|   Amount | Ingredient                                               | Brand                      |
 | -------: | -------------------------------------------------------- | -------------------------- |
 |   1.5 oz | Bourbon                                                  | Eagle Rare                 |
 |   0.5 oz | Allspice Dram                                            | St. Elizabeth              |
@@ -28,4 +28,3 @@ youtube: 'r2NNClh94tQ'
 - Glassware: Nick & Nora
 - Garnish: Lime twist
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba. Raw Egg WhiteAquafaba (chickpea water)
-

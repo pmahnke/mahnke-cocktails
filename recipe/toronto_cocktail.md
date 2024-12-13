@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Toronto Cocktail"
-permalink: '/recipe/toronto_cocktail.html'
+permalink: "/recipe/toronto_cocktail.html"
 stars: 3
-category: 'Rye, Fernet Branca'
-youtube: 'fQfVijUec0A'
-
+category: "Rye, Fernet Branca"
+youtube: "fQfVijUec0A"
+excerpt: |
+  The Mezcal Negroni is a smoky take on the classic Italian aperitivo. To make it, swap mezcal for gin, and stir with Campari and sweet vermouth.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                                   |
+|   Amount | Ingredient                                               | Brand                              |
 | -------: | -------------------------------------------------------- | ---------------------------------- |
 |     2 oz | Rye                                                      | Union Horse Distilling Co. Reunion |
 |  0.25 oz | Fernet Branca                                            | Fernet Branca                      |
@@ -26,4 +26,3 @@ youtube: 'fQfVijUec0A'
 - Glassware: Martini
 - Garnish: None
 - Special Prep: Flamed Orange Rind
-

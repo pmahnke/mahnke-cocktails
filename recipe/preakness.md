@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Preakness"
-permalink: '/recipe/preakness.html'
+permalink: "/recipe/preakness.html"
 stars: 0
-category: 'Bourbon, Bénédictine'
-youtube: '1V0-c6u4xJA'
-
+category: "Bourbon, Bénédictine"
+youtube: "1V0-c6u4xJA"
+excerpt: |
+  Named for a horse race that is not the Kentucky Derby, this Manhattan variation gets a splash of Benedictine for complexity.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient     | Brand                     |
+|  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
 |  1.5 oz | Bourbon        | Old Grand-Dad             |
 | 0.75 oz | Sweet Vermouth | Cocchi Vermouth di Torino |

@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bloody Caesar"
-permalink: '/recipe/bloody_caesar.html'
+permalink: "/recipe/bloody_caesar.html"
 stars: 3
-category: 'Vodka '
-youtube: 'CWN67QIvZP8'
-
+category: "Vodka "
+youtube: "CWN67QIvZP8"
+excerpt: |
+  The Bloody Caesar is a clam-juice-spiked riff on the Bloody Mary. And it’s the national cocktail of Canada.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand       |
+|   Amount | Ingredient           | Brand            |
 | -------: | -------------------- | ---------------- |
 |   1.5 oz | Vodka                | Russian Standard |
 |     3 oz | Clamato Juice        | Mott's           |
@@ -24,9 +24,8 @@ youtube: 'CWN67QIvZP8'
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: 
-    - High Ball
-    - On the Rocks
+- Glassware:
+  - High Ball
+  - On the Rocks
 - Garnish: Your Choice
 - Special Prep: Celery Salt the rim
-

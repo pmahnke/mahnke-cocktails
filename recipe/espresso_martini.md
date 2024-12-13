@@ -6,13 +6,15 @@ permalink: "/recipe/espresso_martini.html"
 stars: 0
 category: "Coffee Liqueur, Vodka "
 youtube: "q0ebbWwoI10"
+excerpt: |
+  The Espresso Martini is more than 40 years old, and remains one of the most popular cocktails in existence today. Discover why this simple combination of vodka, espresso, and coffee liqueur still works.
 ---
 
 ## Original
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                    |
+|  Amount | Ingredient                                               | Brand               |
 | ------: | -------------------------------------------------------- | ------------------- |
 |    1 oz | Coffee Liqueur                                           | Mr. Black Cold Brew |
 |    1 oz | Vodka                                                    | Russian Standard    |
@@ -32,7 +34,7 @@ youtube: "q0ebbWwoI10"
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                |
+|  Amount | Ingredient                                               | Brand               |
 | ------: | -------------------------------------------------------- | ------------------- |
 |    1 oz | Coffee Liqueur                                           | Mr. Black Cold Brew |
 |    1 oz | Cognac                                                   | Maison Rouge VSOP   |

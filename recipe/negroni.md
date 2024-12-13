@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Negroni"
-permalink: '/recipe/negroni.html'
+permalink: "/recipe/negroni.html"
 stars: 3
-category: 'Gin, Campari '
-youtube: 'lgy6vEX_hQg'
-
+category: "Gin, Campari "
+youtube: "lgy6vEX_hQg"
+excerpt: |
+  Composed of gin, sweet vermouth and Campari, the Negroni is the classic three-ingredient cocktail you should absolutely master.
 ---
 
 ### Ingredients
 
-|   Amount  | Ingredient               | Brand         |
+|  Amount | Ingredient     | Brand                      |
 | ------: | -------------- | -------------------------- |
 | 1.25 oz | Gin            | The Botanist Islay Dry Gin |
 | 0.75 oz | Campari        | Campari                    |
@@ -22,9 +22,8 @@ youtube: 'lgy6vEX_hQg'
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: 
-    - Low Ball
-    - Large Ice cube
+- Glassware:
+  - Low Ball
+  - Large Ice cube
 - Garnish: None
 - Special Prep: Flamed Orange Rind
-

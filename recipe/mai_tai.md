@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mai Tai"
-permalink: '/recipe/mai_tai.html'
+permalink: "/recipe/mai_tai.html"
 stars: 5
-category: 'Jamaican Rum, Rhum Ageicole '
-youtube: 'gYJsPE1demY'
-
+category: "Jamaican Rum, Rhum Ageicole "
+youtube: "gYJsPE1demY"
+excerpt: |
+  It’s time you had a proper Mai Tai from Latitude 29 and Jeff “Beachbum” Berry, the renowned Tiki historian.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                                |
+|  Amount | Ingredient                                      | Brand                                 |
 | ------: | ----------------------------------------------- | ------------------------------------- |
 |    1 oz | Jamaican Rum                                    | Appleton 12 year Rare Blend           |
 |    1 oz | Rhum Agricole                                   | La Favorite Ambre Rhum Agricole Ambre |
@@ -29,4 +29,3 @@ youtube: 'gYJsPE1demY'
 - Glassware: TikiCrushed Ice
 - Garnish: Mint SprigInverted Lime HuskCocktail Cherry
 - Special Prep: Add the mint sprig to the glass. Float the dark rum on the drink. Add the inverted lime shell and place the cocktail cherry inside. fill the lime shell with 151 rum and light.
-

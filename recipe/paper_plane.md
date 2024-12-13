@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Paper Plane"
-permalink: '/recipe/paper_plane.html'
+permalink: "/recipe/paper_plane.html"
 stars: 5
-category: 'Bourbon, Amaro, Aperol'
-youtube: 'yu4JNOvec1k&t=6s'
-
+category: "Bourbon, Amaro, Aperol"
+youtube: "yu4JNOvec1k&t=6s"
+excerpt: |
+  The Paper Plane cocktail is a simple variation on the classic Last Word. And it may be the best bourbon drink you may not have tried yet.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand          |
+|  Amount | Ingredient        | Brand              |
 | ------: | ----------------- | ------------------ |
 | 0.75 oz | Bourbon           | Old Grandad Bonded |
 | 0.75 oz | Amaro             | Amaro Nonino       |
@@ -26,4 +26,3 @@ youtube: 'yu4JNOvec1k&t=6s'
 - Glassware: Nick & Nora
 - Garnish: Small paper plane
 - Special Prep: None
-

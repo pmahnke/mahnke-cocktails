@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Scofflaw"
-permalink: '/recipe/scofflaw.html'
+permalink: "/recipe/scofflaw.html"
 stars: 5
-category: 'Rye'
-youtube: 'nutbajkZ8Lc'
-
+category: "Rye"
+youtube: "nutbajkZ8Lc"
+excerpt: |
+  The creatively named Scofflaw combines whiskey, dry vermouth, lemon juice and grenadine. It was invented in Paris during U.S. Prohibition.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient                                       | Brand                 |
+|   Amount | Ingredient                                      | Brand                 |
 | -------: | ----------------------------------------------- | --------------------- |
 |   1.5 oz | Rye                                             | Rittenhouse 100 Proof |
 |     1 oz | Dry Vermouth                                    | Dolin                 |
@@ -27,4 +27,3 @@ youtube: 'nutbajkZ8Lc'
 - Glassware: Nick & Nora
 - Garnish: Orange Zest or Lemon Zest
 - Special Prep: None
-

@@ -4,11 +4,13 @@ title: "Cinnamon-Infused Honey Syrup"
 type: syrup
 permalink: "/recipe/cinnamonhoneysyrup.html"
 youtube: "79htbyQ8nDY&t=62s"
+excerpt: |
+  Like the simple cinnamon simple syrup recipe. This adds a touch of honey for a cinnamon spiced flavor.
 ---
 
 ### Ingredients
 
-| Amount    | Ingredient    |
+|    Amount | Ingredient    |
 | --------: | ------------- |
 | 0.67 cups | Honey         |
 | 0.33 cups | Boiling Water |

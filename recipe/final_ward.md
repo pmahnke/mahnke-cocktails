@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Final Ward"
-permalink: '/recipe/finalward.html'
+permalink: "/recipe/finalward.html"
 stars: 3
-category: 'Rye, Green Chartreuse, Maraschino Liqueur'
-youtube: 'NGPSk_jMZvA'
-
+category: "Rye, Green Chartreuse, Maraschino Liqueur"
+youtube: "NGPSk_jMZvA"
+excerpt: |
+  A twist on the Whiskey Sour, the Ward Eight has a fascinating history
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                  |
+|  Amount | Ingredient         | Brand                      |
 | ------: | ------------------ | -------------------------- |
 | 0.75 oz | Rye                | Rittenhouse 100 Proof      |
 | 0.75 oz | Green Chartreuse   | Green Chartreuse           |
@@ -26,4 +26,3 @@ youtube: 'NGPSk_jMZvA'
 - Glassware: Nick & Nora
 - Garnish: Cocktail Cherry
 - Special Prep: Add the cherry to the glass before straining the cocktail
-

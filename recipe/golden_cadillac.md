@@ -1,14 +1,15 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Golden Cadillac"
-permalink: '/recipe/golden_cadillac.html'
+permalink: "/recipe/golden_cadillac.html"
 stars: 0
-category: 'Galliano, White Crème de Cacao'
-youtube: 'x6QiK4firC4'
-
+category: "Galliano, White Crème de Cacao"
+youtube: "x6QiK4firC4"
+excerpt: |
+  The Golden Cadillac is among the best cocktails to feature Galliano.
 ---
+
 ### The Classic
 
 ### Ingredients
@@ -17,7 +18,7 @@ youtube: 'x6QiK4firC4'
 | -----: | -------------------- | -------------------- |
 |   1 oz | Galliano             | Galliano L’Autentico |
 |   1 oz | White Crème de Cacao | Marie Brizard        |
-| 1   oz | Heavy Cream          |
+|   1 oz | Heavy Cream          |
 
 ### Notes
 
@@ -31,9 +32,9 @@ youtube: 'x6QiK4firC4'
 
 ### Ingredients
 
-| Amount   | Ingredient           | Brand                |
+|   Amount | Ingredient           | Brand                |
 | -------: | -------------------- | -------------------- |
-| 3 scoops | Vanilla Ice Cream    | 
+| 3 scoops | Vanilla Ice Cream    |
 |   1.5 oz | Galliano             | Galliano L’Autentico |
 |   1.5 oz | White Crème de Cacao | Marie Brizard        |
 |     1 oz | Half & Half          |
@@ -46,4 +47,3 @@ youtube: 'x6QiK4firC4'
 - Glassware: Large Glass
 - Garnish: Grated nutmeg
 - Special Prep: Top with [crème de cacao whipped cream]({%link recipe/creme_de_cacao_whipped_cream.md%}).
-

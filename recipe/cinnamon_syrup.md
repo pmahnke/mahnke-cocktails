@@ -4,11 +4,13 @@ title: "Cinnamon Syrup"
 type: syrup
 permalink: "/recipe/cinnamonsyrup.html"
 youtube: "MEQMeCrg0Zi8rePO"
+excerpt: |
+  Add the taste of cinnamon to any drink with this simple cinnamon simple syrup recipe. It's easy and the long infusion creates a wonderful spiced flavor.
 ---
 
 ### Ingredients
 
-| Amount   | Ingredient      |
+|   Amount | Ingredient      |
 | -------: | --------------- |
 | 1.5 Cups | White Sugar     |
 |    1 Cup | Hot Water       |

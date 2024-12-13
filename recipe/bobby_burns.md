@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bobby Burns"
-permalink: '/recipe/bobbyburns.html'
+permalink: "/recipe/bobbyburns.html"
 stars: 0
-category: 'Scotch, Blended, Bénédictine'
-youtube: 'X5haIFd1Ysw'
-
+category: "Scotch, Blended, Bénédictine"
+youtube: "X5haIFd1Ysw"
+excerpt: |
+  A classic drink named for a Scottish poet.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                  |
+|  Amount | Ingredient      | Brand                     |
 | ------: | --------------- | ------------------------- |
 |    2 oz | Scotch, Blended | Monkey Shoulder           |
 |    1 oz | Sweet Vermouth  | Cocchi Vermouth Di Torino |
@@ -26,4 +26,3 @@ youtube: 'X5haIFd1Ysw'
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: Express lemon oil over the cocktail, and wipe the rim with the peal.
-

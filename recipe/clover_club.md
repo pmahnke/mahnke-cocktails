@@ -7,12 +7,13 @@ permalink: '/recipe/clover_club.html'
 stars: 3
 category: 'Gin '
 youtube: 'MfHv2EOLUOo&t=336s'
-
+excerpt: |
+This pre-Prohibition classic is one of Philadelphia’s contributions to the cocktail world.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand             |
+|  Amount | Ingredient                                | Brand               |
 | ------: | ----------------------------------------- | ------------------- |
 |  1.5 oz | Gin                                       | Broker's London Dry |
 | 0.75 oz | Fresh Lemon Juice                         |
@@ -26,4 +27,3 @@ youtube: 'MfHv2EOLUOo&t=336s'
 - Glassware: Nick & Nora
 - Garnish: Raspberry
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
-

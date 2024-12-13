@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sloe Gin Fizz"
-permalink: '/recipe/sloe_gin_fizz.html'
+permalink: "/recipe/sloe_gin_fizz.html"
 stars: 0
-category: 'Sloe Gin '
-youtube: 'gGlTXp_oujk'
-
+category: "Sloe Gin "
+youtube: "gGlTXp_oujk"
+excerpt: |
+  The Sloe Gin Fizz cocktail is a classic for a reason. See how the tartness of sloe berries influence this tasty drink.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand          |
+|    Amount | Ingredient                                                | Brand    |
 | --------: | --------------------------------------------------------- | -------- |
 |      2 oz | Sloe Gin                                                  | Plymouth |
 |      1 oz | Fresh Lemon Juice                                         |
@@ -23,9 +23,8 @@ youtube: 'gGlTXp_oujk'
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: 
-    - High Ball
-    - On the Rocks
+- Glassware:
+  - High Ball
+  - On the Rocks
 - Garnish: Lemon wheel and cocktail cherry
 - Special Prep: 1 For variations, drop Sloe Gin to 1.5 oz. (45 ml), & add 1/2 oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).
-

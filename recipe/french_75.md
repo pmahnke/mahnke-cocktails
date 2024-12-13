@@ -6,6 +6,8 @@ permalink: "/recipe/french75.html"
 stars: 5
 category: "Champagne, Cognac -OR- Gin "
 youtube: "Viz7yWfcmdo"
+excerpt: |
+  The French 75 is a sparkling cocktail that’s maintained its popularity for nearly a century. An effervescent twist on the Gin Sour, its simple to make and perfect to drink anytime.
 ---
 
 <div class="subrecipe" markdown="1">
@@ -14,7 +16,7 @@ youtube: "Viz7yWfcmdo"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                   |
+| Amount | Ingredient                                       | Brand             |
 | -----: | ------------------------------------------------ | ----------------- |
 |   2 oz | Champagne                                        |
 |   1 oz | Cognac                                           | Maison Rouge VSOP |
@@ -36,7 +38,7 @@ youtube: "Viz7yWfcmdo"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand          |
+| Amount | Ingredient                                       | Brand    |
 | -----: | ------------------------------------------------ | -------- |
 |   2 oz | Champagne                                        |
 |   1 oz | Gin                                              | Plymouth |

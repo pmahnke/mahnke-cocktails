@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Morning Glory Fizz"
-permalink: '/recipe/morning_glory_fizz.html'
+permalink: "/recipe/morning_glory_fizz.html"
 stars: 0
-category: 'Single Malt Scotch, Absinthe '
-youtube: 'YMY0LtEq8mg'
-
+category: "Single Malt Scotch, Absinthe "
+youtube: "YMY0LtEq8mg"
+excerpt: |
+  Want to make the perfect Gin Fizz? It's all in the shake.
 ---
 
 ### Ingredients
 
-|      Amount  | Ingredient               | Brand                       |
+|  Amount | Ingredient                                                | Brand                     |
 | ------: | --------------------------------------------------------- | ------------------------- |
 |    2 oz | Single Malt Scotch                                        | Aberfeldy 12 Year         |
 | 0.75 oz | Fresh Lemon Juice                                         |
@@ -29,4 +29,3 @@ youtube: 'YMY0LtEq8mg'
 - Glassware: High Ball
 - Garnish:
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg white. Add one ounce of soda water to the glass. Add the cocktail and expressed orange oil.
-

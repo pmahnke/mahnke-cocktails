@@ -6,6 +6,8 @@ permalink: "/recipe/aperol_spritz.html"
 stars: 0
 category: "Aperol, Prosecco"
 youtube: "BUb54paVf0s"
+excerpt: |
+  The Aperol Spritz is one of the most popular aperitif cocktails in Italy and with just Aperol, prosecco and club soda, it’s as easy to make as it is to drink.
 ---
 
 ### Ingredients

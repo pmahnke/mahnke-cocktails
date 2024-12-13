@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tipperary"
-permalink: '/recipe/tipperary.html'
+permalink: "/recipe/tipperary.html"
 stars: 0
-category: 'Irish Whiskey, Green Chartreuse'
-youtube: '2zQBXxC7ma8'
-
+category: "Irish Whiskey, Green Chartreuse"
+youtube: "2zQBXxC7ma8"
+excerpt: |
+  Love the Bijou? Try a Tipperary, a Dead Rabbit favorite made with Irish whiskey, without the Campari.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand    |
+|   Amount | Ingredient       | Brand                            |
 | -------: | ---------------- | -------------------------------- |
 |     2 oz | Irish Whiskey    | Redbreast 12 year                |
 |   0.5 oz | Sweet Vermouth   | Dolin Vermouth de Chambéry Rouge |
@@ -26,4 +26,3 @@ youtube: '2zQBXxC7ma8'
 - Glassware: Nick & Nora
 - Garnish: Lemon oil
 - Special Prep: None
-

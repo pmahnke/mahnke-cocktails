@@ -6,6 +6,8 @@ permalink: "/recipe/mojito.html"
 stars: 4
 category: "Light Rum "
 youtube: "KMypSCazyRw"
+excerpt: |
+  The Mojito might be the perfect cocktail. With mint, simple syrup and white rum, the classic Mojito is easy to make and always refreshing.
 ---
 
 <div class="subrecipe" markdown="1">
@@ -14,7 +16,7 @@ youtube: "KMypSCazyRw"
 
 ### Ingredients
 
-|      Amount  | Ingredient               | Brand                       |
+|          Amount | Ingredient                                               | Brand                 |
 | --------------: | -------------------------------------------------------- | --------------------- |
 |            2 oz | Light Rum                                                | The Real McCoy 3 Year |
 |         0.75 oz | Fresh Lime Juice                                         |
@@ -38,7 +40,7 @@ youtube: "KMypSCazyRw"
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                    |
+|          Amount | Ingredient         | Brand                 |
 | --------------: | ------------------ | --------------------- |
 |            2 oz | Rum                | The Real McCoy 3 Year |
 |       0.5 whole | Lime               |

@@ -6,6 +6,8 @@ permalink: "/recipe/death_in_the_afternoon.html"
 stars: 0
 category: "Absinthe, Champagne "
 youtube: "-jb1-82N48U"
+excerpt: |
+  Champion drinker Ernest Hemingway invented the Death in the Afternoon cocktail. It’s a potent pairing of absinthe and Champagne.
 ---
 
 <div class="subrecipe" markdown="1">
@@ -14,10 +16,10 @@ youtube: "-jb1-82N48U"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                  |
-| -----: | --------- | ------------------------------------ |
-| 1.5 oz | Absinthe  | Nouvelle Orleans Absinthe Superieure |
-| 4.5 oz | Champagne | Laurent-Pierre La Cuvee Brut         |
+| Amount | Ingredient | Brand                                |
+| -----: | ---------- | ------------------------------------ |
+| 1.5 oz | Absinthe   | Nouvelle Orleans Absinthe Superieure |
+| 4.5 oz | Champagne  | Laurent-Pierre La Cuvee Brut         |
 
 ### Notes
 
@@ -34,7 +36,7 @@ youtube: "-jb1-82N48U"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                                  |
+|  Amount | Ingredient                                                | Brand                                |
 | ------: | --------------------------------------------------------- | ------------------------------------ |
 |    1 oz | Absinthe                                                  | Nouvelle Orleans Absinthe Superieure |
 |    2 oz | Champagne                                                 | Laurent-Pierre La Cuvee Brut         |

@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Zombie"
-permalink: '/recipe/zombie.html'
+permalink: "/recipe/zombie.html"
 stars: 0
-category: 'Jamaican Rum, Gold Rum, Demerara Rum '
+category: "Jamaican Rum, Gold Rum, Demerara Rum "
 youtube: '\_eCla7H-TA0&t=4s'
-
+excerpt: |
+  Discover your new favorite cocktail recipe or learn how to make a classic drink—like the Old Fashioned, mojito, or White Russian—right at home.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient                                          | Brand                             |
+|      Amount | Ingredient                                      | Brand                             |
 | ----------: | ----------------------------------------------- | --------------------------------- |
 |      1.5 oz | Jamaican Rum                                    | Appleton Estate 12 Year Rare Cask |
 |      1.5 oz | Gold Rum                                        | Don Q Gold                        |
@@ -27,11 +27,10 @@ youtube: '\_eCla7H-TA0&t=4s'
 
 ### Notes
 
-- Method: 
-    - Shaken
-    - Crushed Ice
+- Method:
+  - Shaken
+  - Crushed Ice
 - Pour: Open Pour
 - Glassware: Tiki Glass
 - Garnish: Mint Sprig
 - Special Prep: None
-

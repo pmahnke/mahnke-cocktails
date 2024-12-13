@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "White Negroni"
-permalink: '/recipe/white_negroni.html'
+permalink: "/recipe/white_negroni.html"
 stars: 0
-category: 'Gin, Suze, Lillet Blanc'
-youtube: 'fBax4HODqyA'
-
+category: "Gin, Suze, Lillet Blanc"
+youtube: "fBax4HODqyA"
+excerpt: |
+  The White Negroni Cocktail is a Negroni riff featuring gin, Suze and Lillet Blanc. It’s light, bittersweet and floral.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand |
+|  Amount | Ingredient   | Brand        |
 | ------: | ------------ | ------------ |
 |  1.5 oz | Gin          | Plymouth     |
 | 0.75 oz | Suze         | Suze         |
@@ -25,4 +25,3 @@ youtube: 'fBax4HODqyA'
 - Glassware: Low Ball, Large Ice cube
 - Garnish: Grapefruit zest
 - Special Prep: Express grapefruit oil on the drink.
-

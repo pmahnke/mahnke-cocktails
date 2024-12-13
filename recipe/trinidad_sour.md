@@ -6,11 +6,13 @@ permalink: "/recipe/trinidad_sour.html"
 stars: 0
 category: "Angostura Aromatic Bitters, Rye "
 youtube: '\_BEaYWQjSu0'
+excerpt: |
+  Love Angostura bitters? Try your hand at a drink that uses them as the base spirit rather than embellishment.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient                                     | Brand                      |
+|  Amount | Ingredient                                      | Brand                      |
 | ------: | ----------------------------------------------- | -------------------------- |
 |    1 oz | Bitters                                         | Angostura Aromatic Bitters |
 |  0.5 oz | Rye                                             | Rittenhouse 100 Proof      |

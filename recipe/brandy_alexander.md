@@ -6,15 +6,17 @@ permalink: "/recipe/brandy_alexander.html"
 stars: 0
 category: "Cognac, Crème de Cacao"
 youtube: "5LEgIoddxY4"
+excerpt: |
+  The Brandy Alexander is a classic, combining cognac, crème de cacao and cream, it’s easy to make and even easier to drink.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                                            |
-| ---: | -------------- | --------------------------------------------------------- |
-| 2 oz | Cognac         | Maison Rouge V.S.O.P.                                     |
-| 1 oz | Crème de Cacao | Tempus Fugit Spirits                                      |
-| 1 oz | Cream          | heavy cream, half & half, or a favorite non-dairy creamer |
+| Amount | Ingredient     | Brand                                                     |
+| -----: | -------------- | --------------------------------------------------------- |
+|   2 oz | Cognac         | Maison Rouge V.S.O.P.                                     |
+|   1 oz | Crème de Cacao | Tempus Fugit Spirits                                      |
+|   1 oz | Cream          | heavy cream, half & half, or a favorite non-dairy creamer |
 
 ### Notes
 

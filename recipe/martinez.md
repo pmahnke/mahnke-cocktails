@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Martinez"
-permalink: '/recipe/martinez.html'
+permalink: "/recipe/martinez.html"
 stars: 0
-category: 'Gin, Maraschino Liqueur'
+category: "Gin, Maraschino Liqueur"
 youtube: 'MuxY7\_-_U_8'
-
+excerpt: |
+  Composed of gin, sweet vermouth, maraschino liqueur and bitters, the classic Martinez cocktail dates back to the late 1800s.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand              |
+|  Amount | Ingredient         | Brand                     |
 | ------: | ------------------ | ------------------------- |
 | 1.25 oz | Gin                | Scofflaw Old Tom          |
 | 1.25 oz | Sweet Vermouth     | Cocchi Vermouth di Torino |
@@ -26,4 +26,3 @@ youtube: 'MuxY7\_-_U_8'
 - Glassware: Coupe
 - Garnish: Lemon zest
 - Special Prep:
-

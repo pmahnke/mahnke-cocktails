@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Momisette"
-permalink: '/recipe/momisette.html'
+permalink: "/recipe/momisette.html"
 stars: 5
-category: 'Absinthe '
-youtube: 'ABntm6FL8wc'
-
+category: "Absinthe "
+youtube: "ABntm6FL8wc"
+excerpt: |
+  The Momisette is a sparkling blend of pastis and orgeat served over ice. It’s easy to make and tastes great on a warm day.
 ---
 
 ### Ingredients
 
-|     Amount  | Ingredient               | Brand             |
+|    Amount | Ingredient                                      | Brand              |
 | --------: | ----------------------------------------------- | ------------------ |
 |    1.5 oz | Absinthe                                        | North Shore Sirène |
 |   0.75 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
@@ -23,9 +23,8 @@ youtube: 'ABntm6FL8wc'
 
 - Method: Shaken
 - Pour: Single Strain
-- Glassware: 
-    - High Ball
-    - On the Rocks
+- Glassware:
+  - High Ball
+  - On the Rocks
 - Garnish: None
 - Special Prep: Single strain into glass, top the drink with the sparkling water.
-

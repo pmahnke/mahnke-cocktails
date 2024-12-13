@@ -6,11 +6,13 @@ permalink: "/recipe/grasshopper.html"
 stars: 0
 category: "Crème De Menthe, White Crème De Cacao "
 youtube: "kRPWDOCVByk&t=164s"
+excerpt: |
+  The Grasshopper cocktail is a sweet, minty classic that tastes better than your traditional dessert.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand               |
+|   Amount | Ingredient                                                      | Brand         |
 | -------: | --------------------------------------------------------------- | ------------- |
 |   1.5 oz | Crème de Menthe                                                 | Tempus Fugit  |
 |   1.5 oz | White Crème de Cacao                                            | Marie Brizard |

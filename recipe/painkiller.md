@@ -1,24 +1,24 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Painkiller (Inspired)"
-permalink: '/recipe/painkiller.html'
+permalink: "/recipe/painkiller.html"
 stars: 4
-category: 'Demerara Rum, Jamaican Rum '
-youtube: 'XYfHK3goJLk'
-
+category: "Demerara Rum, Jamaican Rum "
+youtube: "XYfHK3goJLk"
+excerpt: |
+  The Painkiller is a rich and fruity tropical drink that is a specialty of the British Virgin Islands. A relative of the Piña Colada, there are a few key differences you need to know in order to make this drink right.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient         | Brand            |
-| ---: | --------------------- | ---------------- |
-| 1 oz | Demerara Rum          | El Dorado 8 Year |
-| 1 oz | Jamaican Rum          | Smith & Cross    |
-| 3 oz | Fresh Pineapple Juice |
-| 1 oz | Cream Of Coconut      |
-| 1 oz | Fresh Orange Juice    |
+| Amount | Ingredient            | Brand            |
+| -----: | --------------------- | ---------------- |
+|   1 oz | Demerara Rum          | El Dorado 8 Year |
+|   1 oz | Jamaican Rum          | Smith & Cross    |
+|   3 oz | Fresh Pineapple Juice |
+|   1 oz | Cream Of Coconut      |
+|   1 oz | Fresh Orange Juice    |
 
 ### Notes
 
@@ -27,4 +27,3 @@ youtube: 'XYfHK3goJLk'
 - Glassware: Low BallCrushed Ice
 - Garnish: Grated nutmeg
 - Special Prep: None
-
