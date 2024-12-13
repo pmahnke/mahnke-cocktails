@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Belmont Jewel"
-permalink: '/recipe/belmont_jewel.html'
+permalink: "/recipe/belmont_jewel.html"
 stars: 0
-category: 'Bourbon, Oloroso Sherry'
-youtube: '1V0-c6u4xJA'
-
+category: "Bourbon, Oloroso Sherry"
+youtube: "1V0-c6u4xJA"
+excerpt: |
+  The Belmont Jewel is the official cocktail of the Belmont Stakes. It's a refreshing and fruity drink that's perfect for summer.
 ---
 
 ### Ingredients
 
-| Amount    | Ingredient                                      | Brand         |
+|    Amount | Ingredient                                      | Brand         |
 | --------: | ----------------------------------------------- | ------------- |
 |    1.5 oz | Bourbon                                         | Old Grand-Dad |
 |   0.75 oz | Fresh Lemon Juice                               |
@@ -24,8 +24,8 @@ youtube: '1V0-c6u4xJA'
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: 
-	- Low Ball
-	- On the Rocks
+- Glassware:
+  - Low Ball
+  - On the Rocks
 - Garnish: Mint sprig
 - Special Prep: Pour cocktail into glass and top it off with the sparkling water.

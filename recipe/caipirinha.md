@@ -7,7 +7,7 @@ stars: 4
 category: "Cachaça "
 youtube: "i1UHUyWerhg"
 excerpt: |
-  The classic Caipirinha cocktail features cachaça, lime and sugar.
+  The Caipirinha is a classic Brazilian cocktail known for its refreshing and tangy flavor. It's made with a few simple ingredients: cachaça, lime, sugar, and ice.
 ---
 
 ### Ingredients

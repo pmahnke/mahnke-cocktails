@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Coffee Negroni"
-permalink: '/recipe/coffee_negroni.html'
+permalink: "/recipe/coffee_negroni.html"
 stars: 0
-category: 'Gin, Coffee Liqueur, Campari'
-youtube: '41iPKwfTE9E'
-
+category: "Gin, Coffee Liqueur, Campari"
+youtube: "41iPKwfTE9E"
+excerpt: |
+  A coffee Negroni is a modern, bittersweet, gin-forward cocktail that's made with coffee liqueur, gin, Campari, and sweet vermouth.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                    |
+|  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
 |    1 oz | Gin            | Beefeater                 |
 | 0.75 oz | Coffee Liqueur | Mr. Black Cold Brew       |
@@ -26,4 +26,3 @@ youtube: '41iPKwfTE9E'
 - Glassware: High Ball / Champagne Flute / Coupe/Nick & Nora / Tiki / Martini
 - Garnish: None
 - Special Prep: Expressed lemon oil Low BallLarge Ice Cube
-

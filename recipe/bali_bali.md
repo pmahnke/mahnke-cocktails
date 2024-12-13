@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bali Bali"
-permalink: '/recipe/balibali.html'
+permalink: "/recipe/balibali.html"
 stars: 0
-category: 'Black Rum, Light Rum, Cognac, Gin '
+category: "Black Rum, Light Rum, Cognac, Gin "
 youtube: 'lWDA\_\_gwSow'
-
+excerpt: |
+  The Bali Bali is a classic tiki cocktail that packs a punch with its blend of rums, liqueurs, and fruit juices.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient                                                    | Brand                             |
+|  Amount | Ingredient                                                | Brand                             |
 | ------: | --------------------------------------------------------- | --------------------------------- |
 | 0.75 oz | Jamaican Rum                                              | Hamilton Jamaican Pot Still Black |
 | 0.75 oz | Light Rum                                                 | Real McCoy 3 Year                 |
@@ -29,9 +29,8 @@ youtube: 'lWDA\_\_gwSow'
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: 
-    - Tiki
-    - Crushed Ice
+- Glassware:
+  - Tiki
+  - Crushed Ice
 - Garnish: Pineapple fronds & cocktail umbrella
 - Special Prep: Top with crushed ice.
-

@@ -6,15 +6,15 @@ permalink: "/recipe/blueberry_thyme_smash.html"
 stars: 0
 category: "Gin"
 youtube: "3i4QnRLlPFc&t=220s"
+excerpt: |
+  This cocktail is a simple concoction of gin, lemon, blueberries, and thyme.
 ---
-
-
 
 ### Ingredients
 
-| Amount         | Ingredient                                                | Brand        |
+|         Amount | Ingredient                                                | Brand        |
 | -------------: | --------------------------------------------------------- | ------------ |
-|       2 oz     | Gin                                                       | The Botanist |
+|           2 oz | Gin                                                       | The Botanist |
 |        0.75 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |      0.5 whole | Lemon                                                     |
 | 10 to 15 whole | Blueberries                                               |

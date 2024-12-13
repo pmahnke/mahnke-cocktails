@@ -6,11 +6,13 @@ permalink: "/recipe/bourbon_blackberry_smash.html"
 stars: 0
 category: "Bourbon"
 youtube: "3i4QnRLlPFc&t=220s"
+excerpt: |
+  The Blackberry Bourbon Smash is made with fresh muddled lime, blackberries, and mint mixed with bourbon and topped with soda water.
 ---
 
 ### Ingredients
 
-|  Amount       | Ingredient   | Brand                    |
+|        Amount | Ingredient   | Brand                    |
 | ------------: | ------------ | ------------------------ |
 |          2 oz | Bourbon      | Elijah Craig Small Batch |
 |       0.75 oz | Maple Syrup  |

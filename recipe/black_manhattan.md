@@ -1,21 +1,20 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Black Manhattan"
-permalink: '/recipe/black_manhattan.html'
+permalink: "/recipe/black_manhattan.html"
 stars: 4
-category: 'Rye, Amaro'
-youtube: 'YWKJsv8PymI&t=205s'
+category: "Rye, Amaro"
+youtube: "YWKJsv8PymI&t=205s"
 excerpt: |
-        Adapted from a recipe created in 2015 by Todd Smith at <b>Bourbon &amp; Branch</b> in San Francisco, USA.
+  Adapted from a recipe created in 2015 by Todd Smith at <b>Bourbon &amp; Branch</b> in San Francisco, USA.
 ---
 
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand          |
+|   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
 |     2 oz | Rye            | Rittenhouse 100 Proof      |
 |     1 oz | Amaro          | Averna                     |
@@ -29,4 +28,3 @@ excerpt: |
 - Glassware: Martini
 - Garnish: Cocktail Cherry
 - Special Prep: None
-

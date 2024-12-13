@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bee's Knees, Smoked"
-permalink: '/recipe/beesknees-smoked.html'
+permalink: "/recipe/beesknees-smoked.html"
 stars: 0
-category: 'Gin '
-youtube: 'gZdT2GBf91I'
-
+category: "Gin "
+youtube: "gZdT2GBf91I"
+excerpt: |
+  This version is a twist on the classic Prohibition era Bee's Knees cocktail.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient                                        | Brand                  |
+|  Amount | Ingredient                                    | Brand                  |
 | ------: | --------------------------------------------- | ---------------------- |
 |    2 oz | Dry                                           | Gin The Botanist Islay |
 | 0.75 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
@@ -25,4 +25,3 @@ youtube: 'gZdT2GBf91I'
 - Glassware: Coupe
 - Garnish: Lightly scorched rosemary sprig
 - Special Prep: Smoke this cocktail with your favorite cocktail-smoking contraption
-

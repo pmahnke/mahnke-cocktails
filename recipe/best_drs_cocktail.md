@@ -6,11 +6,13 @@ permalink: "/recipe/bestdrscocktail.html"
 stars: 4
 category: "Jamaican Rum, Swedish Punsch"
 youtube: "re76GCUoiH4&t=140s"
+excerpt: |
+  The Doctor Cocktail is a classic cocktail that has been around for over a century. It's a simple yet refreshing drink that's perfect for any occasion.
 ---
 
 ### Ingredients
 
-| Amount   | Ingredient              | Brand                           |
+|   Amount | Ingredient          | Brand                           |
 | -------: | ------------------- | ------------------------------- |
 |     1 oz | Jamaican Rum        | Appleton Estate Signature Blend |
 |  0.75 oz | Swedish Punsch      | Kronan                          |

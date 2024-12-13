@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Chocolate Punch"
-permalink: '/recipe/chocolate_punch.html'
+permalink: "/recipe/chocolate_punch.html"
 stars: 0
-category: 'Cognac, Ruby Port, Crème de Cacao '
-youtube: 's30L-iu171E'
-
+category: "Cognac, Ruby Port, Crème de Cacao "
+youtube: "s30L-iu171E"
+excerpt: |
+  The Chocolate Punch is a decadent and indulgent cocktail that combines the rich flavors of brandy, port, and dark crème de cacao.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                  |
+|  Amount | Ingredient                                                | Brand               |
 | ------: | --------------------------------------------------------- | ------------------- |
 |    1 oz | Cognac                                                    | Pierre Ferrand 1840 |
 |  0.5 oz | Ruby Port                                                 | Fonseca Bin 27      |
@@ -27,4 +27,3 @@ youtube: 's30L-iu171E'
 - Glassware: Low Ball / High Ball / Champagne Flute / Coupe / Nick & Nora / Tiki / Martini
 - Garnish: Grated chocolate
 - Special Prep: None
-

@@ -7,9 +7,7 @@ stars: 0
 category: "Angostura Aromatic Bitters, Jamaican Rum"
 youtube: "-DnpmdGBmgs&t=433s"
 excerpt: |
-        Adapted from a recipe created 2nd October 2013 by New York bartender Zac Overman while experimenting at home. His Trinidad Colada a.k.a. Angostura Colada debuted at the Sunken Harbor Club in Brooklyn when it opened on 23 January 2014.
----
-
+  Adapted from a recipe created 2nd October 2013 by New York bartender Zac Overman while experimenting at home. His Trinidad Colada a.k.a. Angostura Colada debuted at the Sunken Harbor Club in Brooklyn when it opened on 23 January 2014.
 ---
 
 ### Ingredients
@@ -27,7 +25,7 @@ excerpt: |
 - Method: Shaken
 - Pour: Open Pour
 - Glassware:
-    - Snifter
-    - Crushed Ice
+  - Snifter
+  - Crushed Ice
 - Garnish: Grated Nutmeg, Pineapple Fronds, and Pineapple Slices
 - Special Prep: None

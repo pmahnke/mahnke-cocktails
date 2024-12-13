@@ -6,11 +6,13 @@ permalink: "/recipe/chartreuseswizzle.html"
 stars: 5
 category: "Green Chartreuse"
 youtube: "GiNen9YukD8"
+excerpt: |
+  The Chartreuse Swizzle is a refreshing and unique cocktail that blends the herbal sweetness of Chartreuse with the tropical flavors of pineapple and lime.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                       |
+|  Amount | Ingredient                        | Brand                   |
 | ------: | --------------------------------- | ----------------------- |
 |  1.5 oz | Green Chartreuse                  | Green Chartreuse        |
 |  0.5 oz | Falernum                          | John D. Taylor's Velvet |
@@ -22,8 +24,8 @@ youtube: "GiNen9YukD8"
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: 
-    - High Ball
-    - Crushed Ice
+- Glassware:
+  - High Ball
+  - Crushed Ice
 - Garnish: Grated Nutmeg and a Mint Sprig
 - Special Prep: Pour in glass and top with additional crushed ice.

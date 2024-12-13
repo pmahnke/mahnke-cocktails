@@ -6,11 +6,13 @@ permalink: "/recipe/camerons_kick.html"
 stars: 0
 category: "Scotch, Blended, Irish Whiskey"
 youtube: "PwfU-18WhC8"
+excerpt: |
+  The Cameron's Kick is a classic cocktail that combines the smoothness of Scotch whisky with the sweetness of Irish whiskey, lemon juice, and orgeat syrup. It is named after the famous Scottish golfer Cameron MacKenzie, who was known for his powerful kick.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                  |
+| Amount | Ingredient                                      | Brand             |
 | -----: | ----------------------------------------------- | ----------------- |
 |   1 oz | Scotch, Blended                                 | Monkey Shoulder   |
 |   1 oz | Irish Whiskey                                   | Powers Gold Label |

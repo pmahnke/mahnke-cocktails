@@ -1,14 +1,13 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Clover Club"
-permalink: '/recipe/clover_club.html'
+permalink: "/recipe/clover_club.html"
 stars: 3
-category: 'Gin '
-youtube: 'MfHv2EOLUOo&t=336s'
+category: "Gin "
+youtube: "MfHv2EOLUOo&t=336s"
 excerpt: |
-This pre-Prohibition classic is one of Philadelphia’s contributions to the cocktail world.
+  This pre-Prohibition classic is one of Philadelphia’s contributions to the cocktail world.
 ---
 
 ### Ingredients

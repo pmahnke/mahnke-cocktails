@@ -6,11 +6,13 @@ permalink: "/recipe/dark_daiquiri.html"
 stars: 5
 category: "Jamaican Rum "
 youtube: "71jQRf5UrpE"
+excerpt: |
+  The Dark Daiquiri is a classic cocktail that offers a rich and flavorful twist on the traditional Daiquiri. It's made with dark rum instead of light rum, adding a depth of molasses and spice notes to the drink.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                                  |
+| Amount | Ingredient                                               | Brand                                 |
 | -----: | -------------------------------------------------------- | ------------------------------------- |
 |   2 oz | Jamacian Rum                                             | Hamilton Jamaican Black Pot Still Rum |
 |   1 oz | Fresh Lime Juice                                         |
