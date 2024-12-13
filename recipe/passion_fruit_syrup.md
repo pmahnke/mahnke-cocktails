@@ -12,7 +12,7 @@ youtube: 'vGBMrJgjZB4'
 | Amount  | Ingredient               |
 | -------: | ------------------------- |
 |    14 oz | Frozen Passion Fruit Pulp |
-| 2.5 Cups | White Sugar               |
+| 2.5 cups | White Sugar               |
 
 ### Method
 

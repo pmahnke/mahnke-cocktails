@@ -1,13 +1,11 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Wicked Word"
-permalink: '/recipe/wicked_word.html'
+permalink: "/recipe/wicked_word.html"
 stars: 0
-category: 'Cognac, Aperol, Black Sambuca'
-youtube: '6Ic0zmBpUQw'
-
+category: "Cognac, Aperol, Black Sambuca"
+youtube: "6Ic0zmBpUQw"
 ---
 
 ### Ingredients
@@ -25,5 +23,8 @@ youtube: '6Ic0zmBpUQw'
 - Pour: Double Strain
 - Glassware: Nick & Nora
 - Garnish: None
-- Special Prep: Add the cognac, Aperol and lemon juice to a shaker and shake. Pour the cocktail into a Nick & Nora glass. Into a small snifter add the sambuca, and light it. Pour the flaming sambuca on the cocktail and stir.
-
+- Special Prep:
+  - Add the cognac, Aperol and lemon juice to a shaker and shake.
+  - Pour the cocktail into a Nick & Nora glass.
+  - Into a small snifter add the sambuca, and light it.
+  - Pour the flaming sambuca on the cocktail and stir.

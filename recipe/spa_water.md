@@ -11,7 +11,7 @@ youtube: "5wgvpo-xBnA"
 
 ### Ingredients
 
-|    Amount  | Ingredient               | Brand      |
+|        Amount | Ingredient                                                | Brand      |
 | ------------: | --------------------------------------------------------- | ---------- |
 |      4 slices | Cucumber                                                  |
 | 4 to 6 leaves | Mint                                                      |

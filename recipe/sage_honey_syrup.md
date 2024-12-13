@@ -8,7 +8,7 @@ youtube: "EKyIy5iG87Q"
 
 ### Ingredients
 
-| Amount  | Ingredient               |
+|   Amount | Ingredient       |
 | -------: | ---------------- |
 |   150 ml | Wildflower Honey |
 |    50 ml | Boiling Water    |

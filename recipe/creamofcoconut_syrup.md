@@ -8,11 +8,11 @@ youtube: "vGBMrJgjZB4"
 
 ### Ingredients
 
-| Amount  | Ingredient               |
+|    Amount | Ingredient                                |
 | --------: | ----------------------------------------- |
 | 1.75 cups | White Sugar                               |
 |   13.5 oz | Unsweetened Full Fat Coconut Milk (1 Can) |
-|    1       | Pinch Of Salt                             |
+|         1 | Pinch Of Salt                             |
 
 ### Method:
 

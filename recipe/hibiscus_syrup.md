@@ -10,12 +10,12 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount  | Ingredient               |
+|   Amount | Ingredient                                                |
 | -------: | --------------------------------------------------------- |
-| 2 Sticks | Cinnamon                                                  |
-|  3 Whole | Cloves                                                    |
-| 0.25 Cup | Dried Hibiscus                                            |
-|   2 Cups | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| 2 sticks | Cinnamon                                                  |
+|  3 whole | Cloves                                                    |
+| 0.25 cup | Dried Hibiscus                                            |
+|   2 cups | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
 ### Method
 

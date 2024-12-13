@@ -10,7 +10,7 @@ youtube: "shi2LNARyxk"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                      |
+|  Amount | Ingredient                                                    | Brand                |
 | ------: | ------------------------------------------------------------- | -------------------- |
 | 0.75 oz | Malört                                                        | Jeppson's            |
 |    1 oz | Gin                                                           | Beefeater London Dry |
@@ -23,8 +23,8 @@ youtube: "shi2LNARyxk"
 
 - Method: Swizzled
 - Pour: Add all ingredients directly to the glass
-- Glassware: 
-    - High Ball
-    - Crushed Ice
+- Glassware:
+  - High Ball
+  - Crushed Ice
 - Garnish: Pineapple fronds & cocktail umbrella
 - Special Prep: None

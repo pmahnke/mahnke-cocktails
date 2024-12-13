@@ -10,8 +10,8 @@ youtube: "-Uhu81wqOl8"
 
 |  Amount  | Ingredient               | 
 | -------: | ---------------------- |
-| 1.5 Cups | White Sugar            |
-|    1 Cup | 100% Red Currant Juice |
+| 1.5 cups | White Sugar            |
+|    1 cup | 100% Red Currant Juice |
 |    1 tsp | Pomegranate Molasses   |
 | 0.25 tsp | Rose Water             |
 
