@@ -8,7 +8,7 @@ stars: 0
 category: 'Overproof Jamaican Rum'
 youtube: 'sRTGCquUgMs'
 excerpt: |
-	Jasper’s Rum Punch is a classic drink that requires a little prep, but is well worth the effort! Jasper LeFranc was a respected bartender who created a secret mix that he used in all his original drinks. Thankfully, he eventually gave up the secret. It’s a blend of four ingredients that are easy to source. The result’s a sweet, sour, and spicy combo that adds big flavor to this punch. Just add rum! Cheers!
+  Jasper’s Rum Punch is a classic drink that requires a little prep, but is well worth the effort! Jasper LeFranc was a respected bartender who created a secret mix that he used in all his original drinks. Thankfully, he eventually gave up the secret. It’s a blend of four ingredients that are easy to source. The result’s a sweet, sour, and spicy combo that adds big flavor to this punch. Just add rum! Cheers!
 ---
 
 ---
