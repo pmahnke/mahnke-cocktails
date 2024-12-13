@@ -21,7 +21,7 @@ excerpt: |
 
 | Amount  | Ingredient     | Brand          |
 | -----: | --------------- | -------------- |
-|   half | Lime            |
+| 1 half | Lime            |
 | 1.5 oz | Gin             | Martin Millers |
 |   3 oz | Sparkling Water | Topo Chico     |
 
