@@ -12,29 +12,28 @@ a:link, a:visited, a:active
 .header {
     text-align: center;
     }
+.stars {
+    font-size: x-large;
+    vertical-align: middle;
+    text-align: right;
+}
 span.checked {
     color:#fcc200;
 }
-div#top_container {
-    display:block;
-    clear: both;
-    height: 50px;
-    min-width: 900px;
+
+/* search */
+#search {
+    text-align: right;
 }
-div#youtube-menu {
-    display: inline;
-    float: left;
+#search_text, #search_button {
+    display: inline-block;
 }
-div#search {
-    display: inline;
-    float: right;
+#search_text {
+    min-width: 22rem;
 }
-div#page_title {
-    display:block;
-    clear: both;
-    min-width: 900px;
-}
-div#stars {
-    display:inline-block;
-    float: inline-end;
+
+.double_line {
+    height: 11px;
+    background: #fafbf6 url('/cocktails/assets/images/recipe_bar.png') repeat-x;
+    margin: 0 0 2em 0 ;
 }
