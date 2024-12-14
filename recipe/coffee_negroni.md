@@ -21,8 +21,10 @@ excerpt: |
 
 ### Notes
 
-- Method: Shaken/Stirred/Build in the Glass
-- Pour: Double Strain / Julep Strain / Open Pour / Add all ingredients directly to the glass
-- Glassware: High Ball / Champagne Flute / Coupe/Nick & Nora / Tiki / Martini
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+  - Low Ball
+  - Large Ice Cube
 - Garnish: None
-- Special Prep: Expressed lemon oil Low BallLarge Ice Cube
+- Special Prep: Expressed lemon oil
