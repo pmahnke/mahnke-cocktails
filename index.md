@@ -1,16 +1,14 @@
 ---
 layout: default
 ---
+
+<div class="double_line"> </div>
+
 <div class="row">
-    <div class="twelve-columns">
-        <div id="search">
-            <form action="/cgi-bin/cocktail_search.cgi" method="get">
-                <input name="a" value="search" type="hidden">
-                <p><input id="search2" name="q" value="" size="40" placeholder="Search by spirit or ingredient"> <input value="Search" type="submit"></p>
-            </form>
-        </div>
-    </div>
-</div>
+    <div class="twelve columns" id="search">
+        {% include search.html %}
+    </div><!-- /div 12 col -->
+</div><!-- /div row -->
 
 <div class="row">
     <div class="two-thirds column"> 
@@ -27,7 +25,7 @@ layout: default
             <td class="no-border" style="width:50%;">
                 {{ page.category }}
             </td>
-            <td class="no-border" style="width:15%;">
+            <td class="no-border" style="width:15%; font-size: x-large">
                 {% assign counter = 0 %}{% for i in (1..5) %}{% if counter < page.stars %}<span class="checked">★</span>{% else %}☆{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}
             </td>
             </tr>
