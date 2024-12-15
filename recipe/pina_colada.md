@@ -7,7 +7,7 @@ stars: 4
 category: "Light Rum "
 youtube: "eH9yt9JpXXk&t=6s"
 excerpt: |
-  This rum, pineapple and coconut cream, the Piña Colada is sweet, fruity and delicious.
+  The Piña Colada is a classic tropical cocktail that is loved by many for its sweet and refreshing flavor. It is made with rum, pineapple juice, and cream of coconut, and is typically served blended with ice or shaken with ice and strained.
 ---
 
 ### Ingredients

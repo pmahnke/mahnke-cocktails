@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Plum Island"
-permalink: '/recipe/plum_island.html'
+permalink: "/recipe/plum_island.html"
 stars: 4
-category: 'Lillet Rouge, Gold Rum, Absinthe '
+category: "Lillet Rouge, Gold Rum, Absinthe "
 youtube: 'lWDA\_\_gwSow'
-
+excerpt: |
+  Named for an island in Green Bay, this was created by Anders Ericson.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                                    |
+|     Amount | Ingredient                                                | Brand                              |
 | ---------: | --------------------------------------------------------- | ---------------------------------- |
 |     1.5 oz | Lillet Rouge                                              | Lillet Rouge                       |
 |       1 oz | Gold Rum                                                  | Don Q                              |
@@ -25,9 +25,8 @@ youtube: 'lWDA\_\_gwSow'
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: 
-    - Poco Grande Glass
-    - Crushed Ice
+- Glassware:
+  - Poco Grande Glass
+  - Crushed Ice
 - Garnish: Grated nutmeg, pineapple fronds, and cocktail umbrella
 - Special Prep: Top with crushed ice.
-

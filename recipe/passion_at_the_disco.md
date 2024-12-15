@@ -7,15 +7,17 @@ permalink: "/recipe/passion_at_the-disco.html"
 stars: 0
 category: "Lime, Passion Fruit Syrup, Tonic Water"
 youtube: "ZE3G8aUyOn0"
+excerpt: |
+  The Passion at the Disco cocktail is a refreshing and vibrant drink that combines the tropical flavors of passion fruit with the bright citrus notes of lime.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand           |
-| ---: | ------------------------------------------------------------- | ---------- |
-| 1 oz | Fresh Lime Juice                                              |
-| 1 oz | [Passion Fruit Syrup]({%link recipe/passion_fruit_syrup.md%}) |
-| 2 oz | Indian Tonic Water                                            | Fever Tree |
+| Amount | Ingredient                                                    | Brand      |
+| -----: | ------------------------------------------------------------- | ---------- |
+|   1 oz | Fresh Lime Juice                                              |
+|   1 oz | [Passion Fruit Syrup]({%link recipe/passion_fruit_syrup.md%}) |
+|   2 oz | Indian Tonic Water                                            | Fever Tree |
 
 ### Notes
 

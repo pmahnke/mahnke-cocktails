@@ -6,6 +6,8 @@ permalink: "/recipe/port_light.html"
 stars: 0
 category: "Bourbon"
 youtube: "-DnpmdGBmgs&t=433s"
+excerpt: |
+  The Port Light is a unique tiki cocktail that deviates from the traditional rum base by using bourbon instead. It was created by Sandro Conti for the Kahiki restaurant in Columbus, Ohio, in the early 1960s.
 ---
 
 ### Ingredients
@@ -22,7 +24,7 @@ youtube: "-DnpmdGBmgs&t=433s"
 - Method: Shaken
 - Pour: Open Pour
 - Glassware:
-    - Tiki Glass
-    - Crushed Ice
+  - Tiki Glass
+  - Crushed Ice
 - Garnish: Pineapple Fronds and Cocktail Umbrella
 - Special Prep: Top with additional crushed ice

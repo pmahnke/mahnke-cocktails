@@ -2,11 +2,13 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
-title: "Placebo (NA Painkiller) "
+title: "Placebo (NA Painkiller)"
 permalink: "/recipe/placebo.html"
 stars: 0
 category: "Pineapple, Orange, Cream of Coconut"
 youtube: "5wgvpo-xBnA"
+excerpt: |
+  This cocktail is a tropical blend of pineapple juice, orange juice, cream of coconut, lime juice, cinnamon, and nutmeg.
 ---
 
 ### Ingredients

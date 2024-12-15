@@ -4,6 +4,8 @@ title: "Pineapple Infused Rum"
 type: syrup
 permalink: "/recipe/pineappleinfusedrum.html"
 youtube: "BXGS7Ai2hec"
+excerpt: |
+  Pineapple-infused rum is a delightful spirit that captures the essence of tropical paradise. Made by steeping fresh pineapple in high-quality rum, the  result is a sweet and fruity concoction that's perfect for sipping on its own or incorporating into a variety of cocktails.
 ---
 
 ### Ingredients

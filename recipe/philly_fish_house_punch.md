@@ -6,6 +6,8 @@ permalink: "/recipe/philly_fish_house_punch.html"
 stars: 0
 category: "Cognac, Jamaican Rum, Apple Brandy, Peach Liqueur"
 youtube: "cJhKGTM3z20"
+excerpt: |
+  The Philadelphia Fish House Punch is a classic punch recipe that has been enjoyed for centuries. It's a rich and complex drink with a balance of sweetness, acidity, and spirit.
 ---
 
 <div class="subrecipe" markdown="1">
@@ -14,15 +16,15 @@ youtube: "cJhKGTM3z20"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                         |
-| ----: | ----------------------------------------------- | ------------------------- |
-| 24 oz | Cognac                                          | Pierre Ferrand 1840       |
-| 12 oz | Jamaican Rum                                    | Appleton Estate Signature |
-|  6 oz | Peach Liqueur                                   | Rothman & Winter Orchard  |
-|  6 oz | Apple Brandy                                    | Laird's Straight          |
-| 12 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |
-| 18 oz | Fresh Lemon Juice                               |
-| 96 oz | Cold Water                                      |
+| Amount | Ingredient                                      | Brand                     |
+| -----: | ----------------------------------------------- | ------------------------- |
+|  24 oz | Cognac                                          | Pierre Ferrand 1840       |
+|  12 oz | Jamaican Rum                                    | Appleton Estate Signature |
+|   6 oz | Peach Liqueur                                   | Rothman & Winter Orchard  |
+|   6 oz | Apple Brandy                                    | Laird's Straight          |
+|  12 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |
+|  18 oz | Fresh Lemon Juice                               |
+|  96 oz | Cold Water                                      |
 
 ### Notes
 
@@ -39,7 +41,7 @@ youtube: "cJhKGTM3z20"
 
 ## Ingredients
 
-| Amount  | Ingredient               | Brand                         |
+|  Amount | Ingredient                                      | Brand                     |
 | ------: | ----------------------------------------------- | ------------------------- |
 |    1 oz | Cognac                                          | Pierre Ferrand 1840       |
 |  0.5 oz | Jamaican Rum                                    | Appleton Estate Signature |

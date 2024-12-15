@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Revolver"
-permalink: '/recipe/revolver.html'
+permalink: "/recipe/revolver.html"
 stars: 0
-category: 'Bourbon, Coffee Liqueur'
-youtube: 'mFOZcQvZ6oY'
-
+category: "Bourbon, Coffee Liqueur"
+youtube: "mFOZcQvZ6oY"
+excerpt: |
+  A San Francisco original, and an exceptional coffee-laced riff on the Manhattan.
 ---
 
 ### Ingredients
 
-| Amount   | Ingredient     | Brand                |
+|   Amount | Ingredient     | Brand                |
 | -------: | -------------- | -------------------- |
 |     2 oz | Bourbon        | Old Grand-Dad Bonded |
 |   0.5 oz | Coffee Liqueur | Tia Maria            |

@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pendennis Club Cocktail"
-permalink: '/recipe/pendennis_club.html'
+permalink: "/recipe/pendennis_club.html"
 stars: 3
-category: 'Gin, Apricot Liqueur '
-youtube: 'TpTvTn7HXo0'
-
+category: "Gin, Apricot Liqueur "
+youtube: "TpTvTn7HXo0"
+excerpt: |
+  The Pendennis Club cocktail is a classic gin sour that originated at the Pendennis Club in Louisville, Kentucky. It's a tart and tangy drink with a unique flavor profile thanks to the addition of apricot brandy and Peychaud's bitters.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand       |
+|   Amount | Ingredient         | Brand                         |
 | -------: | ------------------ | ----------------------------- |
 |   1.5 oz | Gin                | Plymouth                      |
 |     1 oz | Apricot Liqueur    | Giffard Abricot du Roussillon |
@@ -26,4 +26,3 @@ youtube: 'TpTvTn7HXo0'
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: None
-

@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rattle Skull"
-permalink: '/recipe/rattle_skull.html'
+permalink: "/recipe/rattle_skull.html"
 stars: 0
-category: 'Jamaican Rum, Cognac, Porter '
-youtube: '7JgKLcCqWR4'
-
+category: "Jamaican Rum, Cognac, Porter "
+youtube: "7JgKLcCqWR4"
+excerpt: |
+  The Rattle Skull is a classic cocktail that dates back to the 18th century.It is made with rum, brandy, porter, lime juice, and nutmeg.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                           |
+|  Amount | Ingredient                                               | Brand                     |
 | ------: | -------------------------------------------------------- | ------------------------- |
 |    1 oz | Jamaican Rum                                             | Appleton Estate Signature |
 |    1 oz | Cognac                                                   | Maison Rouge V.S.O.P.     |
@@ -27,4 +27,3 @@ youtube: '7JgKLcCqWR4'
 - Glassware: Large Beer Mug
 - Garnish: Grated Nutmeg
 - Special Prep: Pour the ale into the glass and top with the cocktail.
-

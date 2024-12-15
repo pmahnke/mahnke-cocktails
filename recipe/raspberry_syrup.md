@@ -4,11 +4,13 @@ title: "Raspberry Syrup"
 type: syrup
 permalink: "/recipe/raspberrysyrup.html"
 youtube: "vGBMrJgjZB4"
+excerpt: |
+  Fresh raspberry syrup adds sweet, tart, fruity flavor to drinks of all kinds.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               |
+|    Amount | Ingredient  |
 | --------: | ----------- |
 | 0.75 cups | White Sugar |
 | 0.75 cups | Hot Water   |

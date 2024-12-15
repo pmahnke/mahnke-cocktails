@@ -5,15 +5,14 @@ title: "Rum Manhattan"
 permalink: "/recipe/rum_manhattan.html"
 stars: 3
 category: Demerara Rum
-youtube: "https://www.youtube.com/watch?v=eWESf1b317Y&t=278s"
-youtube_embed: "https://www.youtube.com/embed/eWESf1b317Y?si=fVWUHbXnEHzF820P"
+youtube: "eWESf1b317Y&t=278s"
 excerpt: |
-  
+  The Rum Manhattan is a variation of the classic Manhattan cocktail, swapping out the traditional whiskey base for a flavorful rum.
 ---
 
 ### Ingredients
 
-| Amount   | Ingredient     | Brand                      |
+|   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
 |     2 oz | Demerara Rum   | El Dorado 12 Year          |
 |     1 oz | Sweet Vermouth | Cocchi Vermouth di Torino  |
@@ -23,8 +22,8 @@ excerpt: |
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: 
-    - Low Ball
-    - Large Ice Cube 
+- Glassware:
+  - Low Ball
+  - Large Ice Cube
 - Garnish: Lemon twist or cocktail cherry
 - Special Prep: None
