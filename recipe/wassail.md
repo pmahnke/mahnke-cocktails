@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Wassail"
-permalink: '/recipe/wassail.html'
+permalink: "/recipe/wassail.html"
 stars: 0
-category: 'Apple Brandy, Amontillado Sherry, Dark Ale '
-youtube: '9cp5upHowwI'
-
+category: "Apple Brandy, Amontillado Sherry, Dark Ale "
+youtube: "9cp5upHowwI"
+excerpt: |
+  Wassail is a warm, spiced beverage with a rich history dating back to ancient England. It's traditionally made with mulled cider, ale, or wine, sweetened with honey or sugar, and flavored with warming spices like cinnamon, cloves, and nutmeg. It is often spiked with brandy and/or sherry.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                       |
+|    Amount | Ingredient         | Brand                            |
 | --------: | ------------------ | -------------------------------- |
 |    3 cups | Fresh Apple Cider  |
 |    2 cups | Amontillado Sherry | Lustau Los Arcos                 |
@@ -31,4 +31,3 @@ youtube: '9cp5upHowwI'
 - Glassware: Tea cups
 - Garnish: Dried Apples
 - Special Prep: Add spices to a spice bag.Add apple cider and the spice bag to a pot and heat.Add remaining ingredients to the pot.Simmer covered for 20 to 25 minutes.Turn off the heat, remove spice bag and add the apple brandy. Serve in tea cups garnished with the dries apple slices.
-

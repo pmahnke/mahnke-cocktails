@@ -6,11 +6,13 @@ permalink: "/recipe/speak_no_evil.html"
 stars: 0
 category: "Reposado Tequila, Mezcal, Allspice Dram"
 youtube: "-DnpmdGBmgs&t=433s"
+excerpt: |
+  The Speak No Evil cocktail is a spicy, smoky, and slightly sweet drink that features mezcal as its base spirit.
 ---
 
 ### Ingredients
 
-| Amount   | Ingredient                                    | Brand                      |
+|   Amount | Ingredient                                    | Brand                      |
 | -------: | --------------------------------------------- | -------------------------- |
 |   1.5 oz | Reposado Tequila                              | Milagro                    |
 |   0.5 oz | Mezcal                                        | Del Maguey Vida            |
@@ -23,8 +25,8 @@ youtube: "-DnpmdGBmgs&t=433s"
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: 
-    - High Ball
-    - Crushed Ice
+- Glassware:
+  - High Ball
+  - Crushed Ice
 - Garnish: Orange wheel, grated ginnamon, and a cocktail cherry
 - Special Prep: None

@@ -10,8 +10,6 @@ excerpt: |
   Adapted from a recipe created in 2015 by Todd Smith at <b>Bourbon &amp; Branch</b> in San Francisco, USA.
 ---
 
----
-
 ### Ingredients
 
 |   Amount | Ingredient     | Brand                      |

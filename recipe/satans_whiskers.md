@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Satan's Whiskers"
-permalink: '/recipe/satans_whiskers.html'
+permalink: "/recipe/satans_whiskers.html"
 stars: 0
-category: 'Gin '
-youtube: 'T3GsJVVGCFs'
-
+category: "Gin "
+youtube: "T3GsJVVGCFs"
+excerpt: |
+  The Satan's Whiskers cocktail is a classic Prohibition-era drink with a devilishly delicious flavor profile.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                                                                     |
+|  Amount | Ingredient         | Brand                                                                           |
 | ------: | ------------------ | ------------------------------------------------------------------------------- |
 | 0.75 oz | Gin                | Plymouth                                                                        |
 | 0.75 oz | Dry Vermouth       | Dolin Vermouth de Chambéry Dry                                                  |
@@ -28,4 +28,3 @@ youtube: 'T3GsJVVGCFs'
 - Glassware: Nick & Nora
 - Garnish: Orange Twist
 - Special Prep: None
-

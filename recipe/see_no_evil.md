@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "See No Evil"
-permalink: '/recipe/see_no_evil.html'
+permalink: "/recipe/see_no_evil.html"
 stars: 0
-category: 'Mezcal '
-youtube: 'xRJ9uAzTcaE'
-
+category: "Mezcal "
+youtube: "xRJ9uAzTcaE"
+excerpt: |
+  The See No Evil is a smoky, spicy cocktail created by Anders Erickson.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                           |
+|        Amount | Ingredient                                      | Brand                      |
 | ------------: | ----------------------------------------------- | -------------------------- |
 |        1.5 oz | Mezcal                                          | Del Maguey Vida            |
 |       0.75 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
@@ -27,4 +27,3 @@ youtube: 'xRJ9uAzTcaE'
 - Glassware: Low BallCrushed Ice
 - Garnish: Grated nutmeg and mint sprig
 - Special Prep: Open pour the cocktail into the glass. Top with additional crushed ice. Dash bitters on top.
-

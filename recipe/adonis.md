@@ -10,8 +10,6 @@ excerpt: |
   The Adonis is a sherry and vermouth-based cocktail, with equal parts of both. The cocktail was created in honor of the 1884 musical Adonis after the show reached the milestone of more than 500 shows on Broadway. The Adonis has been described as being a lower alcohol, easier drinking cocktail.
 ---
 
----
-
 ### Ingredients
 
 |   Amount | Ingredient     | Brand                       |

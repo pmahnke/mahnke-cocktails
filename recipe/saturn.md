@@ -1,35 +1,31 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Saturn"
-permalink: '/recipe/saturn.html'
+permalink: "/recipe/saturn.html"
 stars: 0
-category: 'Gin'
-youtube: 'q060mzbSrco'
+category: "Gin"
+youtube: "q060mzbSrco"
 excerpt: |
-    California bartender  J. “Popo” Galsini introduced the Saturn to the world in 1967 when he won the International Bartender’s Association World Championship with it. Originally he titled his gin creation the X-15 after an American rocket plane, but shortly after doing so one of those planes crashed, killing its pilot. Reportedly, Galsini changed the name of the drink to the Saturn for the competition, in honor of the Saturn rocket that propelled the first Apollo rocket flight into space, months after the fateful X-15 crash.
----
-
+  California bartender  J. “Popo” Galsini introduced the Saturn to the world in 1967 when he won the International Bartender’s Association World Championship with it. Originally he titled his gin creation the X-15 after an American rocket plane, but shortly after doing so one of those planes crashed, killing its pilot. Reportedly, Galsini changed the name of the drink to the Saturn for the competition, in honor of the Saturn rocket that propelled the first Apollo rocket flight into space, months after the fateful X-15 crash.
 ---
 
 ### Ingredients
 
-| Amount   | Ingredient                                | Brand                   |
-| -------: | ----------------------------------------- | ----------------------- |
-|   1.5 oz | Gin                                       | Beefeater               |
-|   0.5 oz | [Orgeat]({%link recipe/orgeat_syrup.md%}) |
-|  0.25 oz | Passion Fruit Syrup                       |
-|  0.25 oz | Falernum                                  | John D. Taylor’s Velvet |
-|   0.5 oz | Fresh Lemon Juice                         |
+|  Amount | Ingredient                                | Brand                   |
+| ------: | ----------------------------------------- | ----------------------- |
+|  1.5 oz | Gin                                       | Beefeater               |
+|  0.5 oz | [Orgeat]({%link recipe/orgeat_syrup.md%}) |
+| 0.25 oz | Passion Fruit Syrup                       |
+| 0.25 oz | Falernum                                  | John D. Taylor’s Velvet |
+|  0.5 oz | Fresh Lemon Juice                         |
 
- ### Notes
+### Notes
 
 - Method: Blended
 - Pour: Open Pour
 - Glassware: Large Glass
 - Garnish: Cherry and lemon peel made to look like Saturn with a ring
-- Special Prep: 
-    - Blend cocktail with a stick blender in the shaking tin. 
-    - Pour cocktail into glass. 
-
+- Special Prep:
+  - Blend cocktail with a stick blender in the shaking tin.
+  - Pour cocktail into glass.

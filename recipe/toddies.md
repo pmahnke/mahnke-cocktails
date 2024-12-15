@@ -7,6 +7,8 @@ permalink: "/recipe/toddies.html"
 stars: 0
 category: "Blended Scotch, Jamaican Rum, Mezcal "
 youtube: "DJtBN6yBnsA"
+excerpt: |
+  The classic hot toddy is a comforting and warming beverage that has been used for centuries to soothe ailments and warm the soul.
 ---
 
 <div class="subrecipe" markdown="1">
@@ -15,7 +17,7 @@ youtube: "DJtBN6yBnsA"
 
 ### Ingredients
 
-|  Amount   | Ingredient                                    | Brand           |
+|    Amount | Ingredient                                    | Brand           |
 | --------: | --------------------------------------------- | --------------- |
 |    1.5 oz | Blended Scotch                                | Monkey Shoulder |
 |    0.5 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
@@ -39,7 +41,7 @@ youtube: "DJtBN6yBnsA"
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                   |
+|    Amount | Ingredient                                               | Brand                   |
 | --------: | -------------------------------------------------------- | ----------------------- |
 |    1.5 oz | Jamaican Rum                                             | Appleton Estate 12 Year |
 |    0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
@@ -63,7 +65,7 @@ youtube: "DJtBN6yBnsA"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand             |
+|    Amount | Ingredient        | Brand                |
 | --------: | ----------------- | -------------------- |
 |    1.5 oz | Mezcal            | Tileño Espadin Joven |
 |    0.5 oz | Agave Nectar      |

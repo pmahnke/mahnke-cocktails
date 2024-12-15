@@ -6,11 +6,13 @@ permalink: "/recipe/sherry_flip.html"
 stars: 0
 category: "Oloroso Sherry "
 youtube: "mBGgu3qRztY"
+excerpt: |
+  The Sherry Flip is a classic cocktail that has been around since the 1800s. It is a rich and creamy drink that is perfect for sipping on a cold winter day. The cocktail is made with sherry, egg, sugar, and spices.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                                   |
+|  Amount | Ingredient                                               | Brand                             |
 | ------: | -------------------------------------------------------- | --------------------------------- |
 |    2 oz | Oloroso Sherry                                           | Lustau Emperatriz Eugenia Oloroso |
 |  0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |

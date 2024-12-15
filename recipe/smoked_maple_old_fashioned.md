@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Smoked Maple Old Fashioned"
-permalink: '/recipe/smoked_maple_old_fashioned.html'
+permalink: "/recipe/smoked_maple_old_fashioned.html"
 stars: 0
-category: 'Bourbon '
-youtube: 'EOIWzKAQk9w'
-
+category: "Bourbon "
+youtube: "EOIWzKAQk9w"
+excerpt: |
+  The Smoked Maple Old Fashioned is a variation of the classic cocktail that adds a smoky, sweet, and savory twist.
 ---
 
 ### Ingredients
 
-|   Amount  | Ingredient               | Brand        |
+|   Amount | Ingredient           | Brand                    |
 | -------: | -------------------- | ------------------------ |
 |     2 oz | Bourbon              | Elijah Craig Small Batch |
 |   0.5 oz | Maple Syrup          |
@@ -22,9 +22,8 @@ youtube: 'EOIWzKAQk9w'
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: 
-    - Low Ball
-    - Large Ice cube
+- Glassware:
+  - Low Ball
+  - Large Ice cube
 - Garnish: Orange Zest and Cocktail Cherry
 - Special Prep: Smoke the low ball glass with wood smoke. Express the orange zest over the cocktail.
-

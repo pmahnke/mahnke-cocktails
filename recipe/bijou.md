@@ -7,19 +7,16 @@ stars: 0
 category: "Gin, Green Chartreuse "
 youtube: "LeIeaxJR2kw"
 excerpt: |
-        The bijou is a mixed alcoholic drink composed of gin, vermouth, and chartreuse. This cocktail was invented by Harry Johnson, "the father of professional bartending", who called it bijou because it combined the colors of three jewels, gin for diamond, vermouth for ruby, and chartreuse for emerald. An original-style bijou is made stirred with ice as Johnson's 1900 New and Improved Bartender Manual states "mix well with a spoon and serve." This recipe is also one of the oldest in the manual, dating back to the 1890s.
-        <br><br>
-        The bijou was popular for several decades. Unlike the Manhattan and the martini, however, the bijou disappeared after Prohibition. It was rediscovered by "the King of Cocktails" Dale DeGroff in the 1980s, when he stumbled upon the recipe in Johnson's book. While the original cocktail had equal parts of the three ingredients, DeGroff tripled the ratio of gin to vermouth and chartreuse to soften the taste profile. Eventually, his recipe became the standard.
-
-
----
+  The bijou is a mixed alcoholic drink composed of gin, vermouth, and chartreuse. This cocktail was invented by Harry Johnson, "the father of professional bartending", who called it bijou because it combined the colors of three jewels, gin for diamond, vermouth for ruby, and chartreuse for emerald. An original-style bijou is made stirred with ice as Johnson's 1900 New and Improved Bartender Manual states "mix well with a spoon and serve." This recipe is also one of the oldest in the manual, dating back to the 1890s.
+  <br><br>
+  The bijou was popular for several decades. Unlike the Manhattan and the martini, however, the bijou disappeared after Prohibition. It was rediscovered by "the King of Cocktails" Dale DeGroff in the 1980s, when he stumbled upon the recipe in Johnson's book. While the original cocktail had equal parts of the three ingredients, DeGroff tripled the ratio of gin to vermouth and chartreuse to soften the taste profile. Eventually, his recipe became the standard.
 ---
 
 ## Original
 
 ### Ingredients
 
-| Amount  | Ingredient                            | Brand                     |
+|  Amount | Ingredient                        | Brand                     |
 | ------: | --------------------------------- | ------------------------- |
 | 0.75 oz | Gin                               | lymouth                   |
 | 0.75 oz | Sweet Vermouth                    | Cocchi Vermouth di Torino |
@@ -38,7 +35,7 @@ excerpt: |
 
 ### Ingredients
 
-| Amount  | Ingredient           | Brand                     |
+|  Amount | Ingredient       | Brand                     |
 | ------: | ---------------- | ------------------------- |
 | 1.25 oz | Gin              | Plymouth                  |
 | 0.75 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |

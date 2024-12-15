@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Semester Abroad"
-permalink: '/recipe/semester_abroad.html'
+permalink: "/recipe/semester_abroad.html"
 stars: 0
-category: 'Rye, Fernet Branca'
-youtube: 'mBGgu3qRztY'
-
+category: "Rye, Fernet Branca"
+youtube: "mBGgu3qRztY"
+excerpt: |
+  A pretty cocktail, variation on the Cape Codder.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                  |
+| Amount | Ingredient     | Brand                  |
 | -----: | -------------- | ---------------------- |
 |   2 oz | Rye            | Old Forester 100 Proof |
 |   1 oz | Orange Curaçao | Marie Brizard          |
@@ -25,4 +25,3 @@ youtube: 'mBGgu3qRztY'
 - Glassware: Nick & Nora
 - Garnish: Orange zest
 - Special Prep: Express orange oil over the cocktail.
-

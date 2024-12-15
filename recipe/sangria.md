@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sangria"
-permalink: '/recipe/sangria.html'
+permalink: "/recipe/sangria.html"
 stars: 0
-category: 'Red Wine, Oloroso Sherry, Grand Marnier '
-youtube: 'NNI--bxevNo'
-
+category: "Red Wine, Oloroso Sherry, Grand Marnier "
+youtube: "NNI--bxevNo"
+excerpt: |
+  A punch, sangria traditionally consists of red wine and chopped fruit, often with other ingredients or spirits.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                 |
+|    Amount | Ingredient                                               | Brand           |
 | --------: | -------------------------------------------------------- | --------------- |
 | 0.5 whole | Orange                                                   |
 | 0.5 whole | Lemon                                                    |
@@ -31,4 +31,3 @@ youtube: 'NNI--bxevNo'
 - Glassware: High BallOn the Rocks
 - Garnish: Soaked fruit
 - Special Prep: Top glasses with soda water
-

@@ -6,6 +6,8 @@ permalink: "/recipe/wicked_word.html"
 stars: 0
 category: "Cognac, Aperol, Black Sambuca"
 youtube: "6Ic0zmBpUQw"
+excerpt: |
+  The Wicked Word is a flaming cocktail that is basically an licoricy Oaxaca Old Fashioned.
 ---
 
 ### Ingredients

@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: The Educated Barfly Cocktail Recipes
-title: "Sagehen"
-permalink: '/recipe/sage_hen.html'
+title: "Sage Hen"
+permalink: "/recipe/sage_hen.html"
 stars: 0
-category: 'Gin, Yellow Chartreuse '
-youtube: 'EKyIy5iG87Q'
-
+category: "Gin, Yellow Chartreuse "
+youtube: "EKyIy5iG87Q"
+excerpt: |
+  The Sage Hen is a modern cocktail that showcases the unique flavors of sage and honey.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                   |
+|     Amount | Ingredient                                                      | Brand             |
 | ---------: | --------------------------------------------------------------- | ----------------- |
 |     1.5 oz | Gin                                                             | Plymouth          |
 |    0.25 oz | Yellow Chartreuse                                               | Yellow Chartreuse |
@@ -27,4 +27,3 @@ youtube: 'EKyIy5iG87Q'
 - Glassware: Nick & Nora
 - Garnish: Sage leaf
 - Special Prep: Dice the apple piece into 1/2 inch pieces, and drop them into the shaker tin. Muddle the apple piece in the shaker tin.
-

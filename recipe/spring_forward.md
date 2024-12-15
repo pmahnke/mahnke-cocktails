@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Spring Forward"
-permalink: '/recipe/spring_forward.html'
+permalink: "/recipe/spring_forward.html"
 stars: 0
-category: 'Pisco, Gin, Cocchi Americano'
-youtube: 'RRvfkkSjceM'
-
+category: "Pisco, Gin, Cocchi Americano"
+youtube: "RRvfkkSjceM"
+excerpt: |
+  The Spring Forward cocktail is a light and refreshing drink that's perfect for the warmer months.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient                                                | Brand            |
+|  Amount | Ingredient                                                | Brand            |
 | ------: | --------------------------------------------------------- | ---------------- |
 | 1 whole | Strawberry                                                |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
@@ -26,7 +26,7 @@ youtube: 'RRvfkkSjceM'
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
-	- High Ball
-	- Crushed Ice
+  - High Ball
+  - Crushed Ice
 - Garnish: Basil
 - Special Prep: None

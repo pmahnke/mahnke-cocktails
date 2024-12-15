@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tradewinds"
-permalink: '/recipe/tradewinds.html'
+permalink: "/recipe/tradewinds.html"
 stars: 0
-category: 'Dark Rum, Gold Rum, Apricot Liqueur'
-youtube: 'RThEGH0sbgM'
-
+category: "Dark Rum, Gold Rum, Apricot Liqueur"
+youtube: "RThEGH0sbgM"
+excerpt: |
+  The Tradewinds is a classic tiki cocktail that blends the flavors of rum, apricot, coconut, and citrus.
 ---
 
 ### Ingredients
 
-|Amount  | Ingredient                                                  | Brand                         |
+| Amount | Ingredient                                                  | Brand                         |
 | -----: | ----------------------------------------------------------- | ----------------------------- |
 |   1 oz | Dark Rum                                                    | Kōloa Kaua'i                  |
 |   1 oz | Gold Rum                                                    | Don Q                         |
@@ -24,9 +24,8 @@ youtube: 'RThEGH0sbgM'
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: 
-    - Tiki
-    - Crushed Ice
+- Glassware:
+  - Tiki
+  - Crushed Ice
 - Garnish: Grated Nutmeg, Pineapple Fronds and a Cocktail Umbrella
 - Special Prep: Stir the drink heavily in the glass.
-

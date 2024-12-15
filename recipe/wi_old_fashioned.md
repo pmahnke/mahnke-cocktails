@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Wisconsin Old Fashioned"
-permalink: '/recipe/wi_old_fashioned.html'
+permalink: "/recipe/wi_old_fashioned.html"
 stars: 4
-category: 'Brandy'
-youtube: 'wr1pjEwi4P0'
-
+category: "Brandy"
+youtube: "wr1pjEwi4P0"
+excerpt: |
+  A Wisconsin old fashioned is not your typical old fashioned; it muddles sugar, bitters and orange with brandy and finishes with a crisp pour of a sweet or sour soda.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                          |
+|   Amount | Ingredient                                                | Brand                      |
 | -------: | --------------------------------------------------------- | -------------------------- |
 |     2 oz | Brandy                                                    | Korbel                     |
 |  0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |                            |
@@ -25,13 +25,14 @@ youtube: 'wr1pjEwi4P0'
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: 
+- Glassware:
   - Low Ball
   - Crushed Ice
 - Garnish: Orange slice and a cocktail cherry
 - Special Prep: Add the 2 wedges of orange and the cocktail cherry to the glass and muddle. Add the remaining ingredients. Top with the wash of choice.
 
 ### Washes
+
 - Sweet:
   - 7 Up
   - Sprite

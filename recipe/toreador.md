@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Toreador"
-permalink: '/recipe/toreador.html'
+permalink: "/recipe/toreador.html"
 stars: 0
-category: 'Reposado Tequila, Apricot Liquer, Amontillado Sherry '
-youtube: '3aV3DzDfW_A'
-
+category: "Reposado Tequila, Apricot Liquer, Amontillado Sherry "
+youtube: "3aV3DzDfW_A"
+excerpt: |
+  The Toreador is a classic cocktail that predates the Margarita and showcases tequila in a balanced and approachable way. It's a great choice for those who want to explore tequila beyond the classic Margarita.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                 |
+|  Amount | Ingredient         | Brand                         |
 | ------: | ------------------ | ----------------------------- |
 |  1.5 oz | Reposado T         | equila Milagro                |
 | 0.75 oz | Apricot Liquer     | Giffard Abricot du Roussillon |
@@ -27,4 +27,3 @@ youtube: '3aV3DzDfW_A'
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: None
-

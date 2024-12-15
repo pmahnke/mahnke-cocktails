@@ -6,6 +6,8 @@ permalink: "/recipe/widows_kiss.html"
 stars: 0
 category: "Apple Brandy, Yellow Chartreuse, Bénédictine DOM "
 youtube: "0JqyWyBiFus"
+excerpt: |
+  A simple, and very potent, classic cocktail with apple brandy, yellow Chartreuse and Benedictine.
 ---
 
 <div class="subrecipe" markdown="1">
@@ -14,7 +16,7 @@ youtube: "0JqyWyBiFus"
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand          |
+|  Amount | Ingredient        | Brand                      |
 | ------: | ----------------- | -------------------------- |
 |    1 oz | Applejack         | Laird's Straight 86        |
 |  0.5 oz | Bénédictine       | Bénédictine DOM            |
@@ -36,7 +38,7 @@ youtube: "0JqyWyBiFus"
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand          |
+|   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
 |     2 oz | Applejack         | Laird's Straight 86        |
 |  0.25 oz | Bénédictine       | Bénédictine DOM            |
@@ -58,7 +60,7 @@ youtube: "0JqyWyBiFus"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand          |
+|   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
 |   1.5 oz | Applejack         | Laird's Straight 86        |
 |   0.5 oz | Bénédictine       | Bénédictine DOM            |

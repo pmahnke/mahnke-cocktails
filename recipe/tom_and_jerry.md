@@ -7,6 +7,8 @@ permalink: "/recipe/tomandjerry.html"
 stars: 0
 category: "Jamaican Rum, Demerara Rum, Cognac "
 youtube: "tfPrLUlFO8k"
+excerpt: |
+  It is a variant of eggnog with brandy and rum added and served hot, usually in a mug or a bowl. Separate eggs.
 ---
 
 <div class="subrecipe" markdown="1">
@@ -15,7 +17,7 @@ youtube: "tfPrLUlFO8k"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand   |
+|  Amount | Ingredient         | Brand               |
 | ------: | ------------------ | ------------------- |
 | 1/3 cup | Tom & Jerry Batter |
 | 1/6 cup | Demerara Rum       | El Dorado 12 Year   |
@@ -35,7 +37,7 @@ youtube: "tfPrLUlFO8k"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                |
+|    Amount | Ingredient       | Brand                      |
 | --------: | ---------------- | -------------------------- |
 |   2 whole | eggs             |
 |   0.5 tsp | Vanilla Extract  |

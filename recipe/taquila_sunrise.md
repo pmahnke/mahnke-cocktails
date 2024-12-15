@@ -7,6 +7,8 @@ permalink: "/recipe/taquila_sunrise.html"
 stars: 0
 category: "Creme de Cassis, Blanco Taquilla -OR- Reposado Tequila "
 youtube: "VNaSpZ3YOoM"
+excerpt: |
+  The Tequila Sunrise was created in the early 1970s by Bobby Lozoff and Billy Rice at the Trident bar in Sausalito, California. The cocktail achieved notoriety after a member of the Rolling Stones tasted it at a party to kick off the 1972 tour. The band began ordering it at stops across the country and even dubbed the tour “the cocaine and Tequila Sunrise tour,” which helped to propel the drink’s popularity.
 ---
 
 <div class="subrecipe" markdown="1">
@@ -15,7 +17,7 @@ youtube: "VNaSpZ3YOoM"
 
 ### Ingredients
 
-| Amount    | Ingredient       | Brand                                   |
+|    Amount | Ingredient       | Brand                                   |
 | --------: | ---------------- | --------------------------------------- |
 |    1.5 oz | Reposado Tequila | Siete Leguas                            |
 |   0.75 oz | Creme de Cassis  | Jules Theuriet Creme de Cassis de Dijon |
@@ -37,11 +39,11 @@ youtube: "VNaSpZ3YOoM"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand      |
-| ---: | -------------- | ------------ |
-| 2 oz | Blanco Tequila | Siete Leguas |
-| 4 oz | Orange Juice   |
-| 0.5 oz |Monin|
+| Amount | Ingredient     | Brand        |
+| -----: | -------------- | ------------ |
+|   2 oz | Blanco Tequila | Siete Leguas |
+|   4 oz | Orange Juice   |
+| 0.5 oz | Monin          |
 
 ### Notes
 
@@ -57,7 +59,7 @@ youtube: "VNaSpZ3YOoM"
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                      |
+|    Amount | Ingredient       | Brand                                   |
 | --------: | ---------------- | --------------------------------------- |
 |    1.5 oz | Reposado Tequila | Siete Leguas                            |
 |    0.5 oz | Creme de Cassis  | Jules Theuriet Creme de Cassis de Dijon |

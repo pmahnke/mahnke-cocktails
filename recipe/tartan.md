@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tartan"
-permalink: '/recipe/tartan.html'
+permalink: "/recipe/tartan.html"
 stars: 0
-category: 'Single Malt Scotch, Amaro, Drambuie '
-youtube: 'Jqy3bhn-O9s'
-
+category: "Single Malt Scotch, Amaro, Drambuie "
+youtube: "Jqy3bhn-O9s"
+excerpt: |
+  The Tartan cocktail is a classic scotch-based drink that gets its name from its warm, rich colors and complex flavors, reminiscent of the iconic Scottish fabric.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient     | Brand                                   |
+|  Amount | Ingredient     | Brand                                   |
 | ------: | -------------- | --------------------------------------- |
 |  1.5 oz | Single Malt    | Scotch Edradour 10 year Highland Scotch |
 | 0.75 oz | Sweet Vermouth | Cocchi Vermouth di Torino               |
@@ -27,4 +27,3 @@ youtube: 'Jqy3bhn-O9s'
 - Glassware: Martini
 - Garnish: Orange peel
 - Special Prep: Expressed orange oil
-

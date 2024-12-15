@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Yule Tidal Wave"
-permalink: '/recipe/yule_tidal_wave.html'
+permalink: "/recipe/yule_tidal_wave.html"
 stars: 0
-category: 'Rum, Bourbon, Cognac, Pear Brandy, Licor 43, Allspice Dram'
-youtube: 's30L-iu171E'
-
+category: "Rum, Bourbon, Cognac, Pear Brandy, Licor 43, Allspice Dram"
+youtube: "s30L-iu171E"
+excerpt: |
+  This holiday punch, which combines allspice and vanilla with the bright zing of lemon and pineapple.
 ---
 
 ### Ingredients
 
-| Amount   | Ingredient                                                | Brand                      |
+|   Amount | Ingredient                                                | Brand                      |
 | -------: | --------------------------------------------------------- | -------------------------- |
 |  0.75 oz | Rum                                                       | Angostura 1919             |
 |  0.75 oz | Bourbon                                                   | Elijah Craig Small Batch   |
@@ -32,4 +32,3 @@ youtube: 's30L-iu171E'
 - Glassware: Hurricane, On the Rocks
 - Garnish: Pineapple fronds, umbrella, & grated nutmeg for garnish
 - Special Prep: None"
-

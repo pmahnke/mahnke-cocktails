@@ -7,7 +7,7 @@ stars: 0
 category: "Rye "
 youtube: "Gf8FdfHx-LmqZMg-"
 excerpt: |
-  A twist on the Whiskey Sour, the Ward Eight has a fascinating history
+  While it might not be the most well-known cocktail, it has a rich history dating back to the late 19th century. Legend has it that the drink was created in honor of Martin Lomasney, a powerful Boston politician who represented the city's Eighth Ward.
 ---
 
 ### Ingredients
