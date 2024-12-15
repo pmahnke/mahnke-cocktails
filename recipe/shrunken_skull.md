@@ -21,7 +21,9 @@ excerpt: |
 
 ### Notes
 
-- Method: ShakenCrushed Ice
+- Method:
+  - Shaken
+  - Crushed Ice
 - Pour: Open Pour
 - Glassware: Tiki Glass
 - Garnish: Pineapple fronds and cocktail umbrella for garnish
