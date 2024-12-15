@@ -226,8 +226,8 @@ li
 .Footer {
 	grid-area: Footer;
 }
-span.stars {
-	font-size: 0.85em;
+.stars {
+	font-size: x-large
 }
 span.checked {
 	color:#fcc200;

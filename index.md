@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<div class="double_line"> </div>
-
 <div class="row">
     <div class="twelve columns" id="search">
         {% include search.html %}
@@ -15,9 +13,10 @@ layout: default
         <h2>Cocktails</h2>
         <table style="width:100%;">
         {% for page in site.pages %}
-            {% if page.layout == "recipe" and page.type == nil  %}
+            {% if page.layout == "recipe" %}
+            {% if page.type == nil or page.type == "multirecipe" %}
             <tr>
-            <th class="no-border" align="left" style="width:35%;">
+            <th class="no-border" style="width:35%;">
                 <a href="{{ page.url | prepend: site.baseurl }}">
                 {{ page.title }}
                 </a>
@@ -25,27 +24,28 @@ layout: default
             <td class="no-border" style="width:50%;">
                 {{ page.category }}
             </td>
-            <td class="no-border" style="width:15%; font-size: x-large">
+            <td class="no-border stars" style="width:15%">
                 {% assign counter = 0 %}{% for i in (1..5) %}{% if counter < page.stars %}<span class="checked">★</span>{% else %}☆{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}
             </td>
             </tr>
+            {% endif %}
             {% endif %}
         {% endfor %}
         </table>
         <h2>Non-Alcoholic Cocktails</h2>
         <table style="width:100%;">
         {% for page in site.pages %}
-            {% if page.layout == "recipe" and page.type == "non-alcoholic"  %}
+            {% if page.layout == "recipe" and page.type == "non-alcoholic" %}
             <tr>
-            <th class="no-border" align="left" style="width:35%;">
-                <a href="{{ page.url | prepend: site.baseurl }}">
+            <th class="no-border" style="width:35%;">
+                <a href="{{ paurl | prepend: site.baseurl }}">
                 {{ page.title }}
                 </a>
             </th>
             <td class="no-border" style="width:50%;">
                 {{ page.category }}
             </td>
-            <td class="no-border" style="width:15%;">
+            <td class="no-border stars">
                 {% assign counter = 0 %}{% for i in (1..5) %}{% if counter < page.stars %}<span class="checked">★</span>{% else %}☆{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}
             </td>
             </tr>
@@ -84,4 +84,5 @@ layout: default
             <li><a href="./AndersEricksonCocktailsList.numbers" target="_blank">Cocktail Ingredients Breakdown</a></li>
         </ul>
     </div><!-- /div 1/3 -->
+
 </div><!-- /div row -->
