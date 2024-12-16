@@ -4,6 +4,8 @@ title: "Cream of Coconut"
 type: syrup
 permalink: "/recipe/creamofcoconut.html"
 youtube: "vGBMrJgjZB4"
+excerpt: |
+  Cream of coconut syrup is a thick, sweet, and creamy syrup made from coconut milk and sugar.
 ---
 
 ### Ingredients

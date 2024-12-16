@@ -5,11 +5,13 @@ title: "Thyme-Infused Syrup"
 type: syrup
 permalink: "/recipe/thymesyrup.html"
 youtube: "ZE3G8aUyOn0"
+excerpt: |
+  Thyme syrup is a simple syrup infused with the flavor of thyme. It's a versatile ingredient that can be used in a variety of drinks and dishes.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               |
+|    Amount | Ingredient         |
 | --------: | ------------------ |
 | 0.75 Cups | White Sugar        |
 |   0.5 Cup | Hot Water          |

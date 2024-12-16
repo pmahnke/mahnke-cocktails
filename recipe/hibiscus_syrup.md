@@ -5,7 +5,7 @@ type: syrup
 permalink: "/recipe/hibiscussyrup.html"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
-  Original recipe by Shannon Mustipher
+  Original recipe by Shannon Mustipher, made from dried hibiscus flowers, which are steeped in a simple sugar syrup to create a vibrant red liquid.
 ---
 
 ### Ingredients

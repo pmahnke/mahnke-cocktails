@@ -6,11 +6,13 @@ permalink: "/recipe/fog_cutter.html"
 stars: 0
 category: "Light Rum, Pisco, Gin, Amontillado Sherry "
 youtube: "kMqIu6zPv9s"
+excerpt: |
+  The Fog Cutter is a vintage tiki cocktail frequently attributed to being invented by Victor Bergeron.  It's a complex blend of spirits, citrus juices, and orgeat syrup, creating a refreshing and invigorating drink.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                 |
+|  Amount | Ingredient                                      | Brand             |
 | ------: | ----------------------------------------------- | ----------------- |
 |  1.5 oz | Light Rum                                       | Real McCoy 3 Year |
 | 0.75 oz | Pisco                                           | Barsol            |
@@ -24,8 +26,8 @@ youtube: "kMqIu6zPv9s"
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: 
-    - Tiki
-    - Crushed Ice
+- Glassware:
+  - Tiki
+  - Crushed Ice
 - Garnish: Orange wheel & mint sprig
 - Special Prep: None

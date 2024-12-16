@@ -4,11 +4,13 @@ title: "Chartreuse Infused Whipped Cream"
 type: syrup
 permalink: "/recipe/chartreusewhippedcream.html"
 youtube: "kRPWDOCVByk&t=164s"
+excerpt: |
+  Chartreuse whipped cream is a delightful topping for cocktails and desserts. It adds a touch of herbal sweetness and a beautiful green color.
 ---
 
 ### Ingredients
 
-| Amount       | Ingredient       |
+|       Amount | Ingredient       |
 | -----------: | ---------------- |
 |       2 cups | Heavy Cream      |
 |         2 oz | Green Chartreuse |

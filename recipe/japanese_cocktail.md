@@ -7,7 +7,9 @@ stars: 0
 category: "Cognac "
 youtube: "83TEnWyeqV0"
 excerpt: |
-  These seven inventive cocktails show off the versatility of the Japanese fermented rice beverage.
+  These seven inventive cocktails show off the versatility of the Japanese fermented rice beverage.<br /><br />
+
+  The Japanese Cocktail is a classic cocktail created by Jerry Thomas in the 1800s. Despite its name, it has no connection to Japanese culture or ingredients.
 ---
 
 <div class="subrecipe" markdown="1">

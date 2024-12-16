@@ -6,11 +6,13 @@ permalink: "/recipe/gunshop_fizz.html"
 stars: 0
 category: "Peychaud's Bitters"
 youtube: "NYKEbNf5ksg"
+excerpt: |
+  Markz Pazuniak and Kirk Estopinal's wholly unique take on a Pimm's Cup cocktail recipe calls for two full ounces of Peychaud's bitters.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                                     |
+|   Amount | Ingredient                                      | Brand                                                                     |
 | -------: | ----------------------------------------------- | ------------------------------------------------------------------------- |
 |  2 whole | Strawberries                                    |
 | 2 slices | Cucumber                                        |
@@ -25,8 +27,8 @@ youtube: "NYKEbNf5ksg"
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: 
-    - High Ball
-    - On the Rocks
+- Glassware:
+  - High Ball
+  - On the Rocks
 - Garnish: One whole strawberry and a cucumber wheel.
 - Special Prep: Muddle the whole strawberries, cucumber slices and orange and grapefruit swaths in the cheater tin till they are broken up. Add the remaining ingredients, and shake. Double strain into glass, top the drink with the red soda and garnish with a strawberry and a cucumber wheel.

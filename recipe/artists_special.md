@@ -7,9 +7,9 @@ stars: 4
 category: "Bourbon, Amontillado Sherry "
 youtube: "-Uhu81wqOl8"
 excerpt: |
-  A voraciously pink Parisian special from the 1920s, this cocktail first appears in print in Harry MacElhone's 1927 <i>Barflies and Cocktails</i>.
-  <br><br>
-  Exactly the same recipe appears three years later in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i>.
+  A voraciously pink Parisian special from the 1920s, this cocktail first appears in print in Harry MacElhone's 1927 <em>Barflies and Cocktails</em>.<br/><br/>
+
+  Exactly the same recipe appears three years later in Harry Craddock's 1930 <em>The Savoy Cocktail Book</em>.
 ---
 
 ### Ingredients

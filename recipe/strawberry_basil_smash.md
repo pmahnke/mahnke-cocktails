@@ -5,11 +5,13 @@ permalink: "/recipe/strawberry_basil_smash.html"
 stars: 0
 category: "Jamaican Rum"
 youtube: "3i4QnRLlPFc"
+excerpt: |
+  The Strawberry Basil Smash is a refreshing cocktail that combines the sweetness of strawberries with the herbaceousness of basil.
 ---
 
 ### Ingredients
 
-|  Amount        | Ingredient                                               | Brand                               |
+|         Amount | Ingredient                                               | Brand                               |
 | -------------: | -------------------------------------------------------- | ----------------------------------- |
 |           2 oz | Jamaican Rum                                             | Appleton Estate Signature Blend V/X |
 |         0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |

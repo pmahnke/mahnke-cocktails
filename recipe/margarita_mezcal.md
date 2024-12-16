@@ -1,30 +1,29 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Margarita: Mezcal"
-permalink: '/recipe/mezcal_margarita.html'
+permalink: "/recipe/mezcal_margarita.html"
 stars: 0
-category: 'Mezcal'
-youtube: 'TP5T65EWOx65zTsY'
-
+category: "Mezcal"
+youtube: "TP5T65EWOx65zTsY"
+excerpt: |
+  The Mezcal Margarita is a smoky, spicy twist on the classic margarita, swapping out tequila for mezcal.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                     |
-| ---: | ---------------- | ----------------------------------- |
-| 2 oz | Mezcal           | Del Maguey VIDA de San Luis Del Rio |
-| 1 oz | Orange Curaçao   | Marie Brizard                       |
-| 1 oz | Fresh Lime Juice |
+| Amount | Ingredient       | Brand                               |
+| -----: | ---------------- | ----------------------------------- |
+|   2 oz | Mezcal           | Del Maguey VIDA de San Luis Del Rio |
+|   1 oz | Orange Curaçao   | Marie Brizard                       |
+|   1 oz | Fresh Lime Juice |
 
 ### Notes
 
 - Method: Shaken
 - Pour: Single Strain
-- Glassware: 
-    - Low Ball
-    - Large Ice cube
+- Glassware:
+  - Low Ball
+  - Large Ice cube
 - Garnish: Salted RimLime Wheel
 - Special Prep: None
-

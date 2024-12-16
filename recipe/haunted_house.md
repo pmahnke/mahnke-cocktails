@@ -1,16 +1,18 @@
 ---
-layout: recipe 
+layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Haunted House"
 permalink: "/recipe/haunted_house.html"
 stars: 0
 category: "Jamaican Rum, Rye, Swedish Punsch "
 youtube: "u0N9FFJ1i5c"
+excerpt: |
+  The Haunted House cocktail is a spooky and delicious drink that's perfect for Halloween or any other spooky occasion. It's made with bourbon, apple cider, lemon juice, and a variety of spices, including cinnamon, nutmeg, and cloves. The drink is garnished with a cinnamon stick and a lemon wheel, making it both festive and festive.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand                       |
+|   Amount | Ingredient                                      | Brand                      |
 | -------: | ----------------------------------------------- | -------------------------- |
 |     1 oz | Jamaican Rum                                    | Appleton Estate Signature  |
 |     1 oz | Rye                                             | Rittenhouse 100 Proof      |

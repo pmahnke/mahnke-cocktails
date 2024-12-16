@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Ford"
-permalink: '/recipe/ford.html'
+permalink: "/recipe/ford.html"
 stars: 0
-category: 'Old Tom Gin, Bénédictine'
-youtube: 'UJJqbCGHsOg'
-
+category: "Old Tom Gin, Bénédictine"
+youtube: "UJJqbCGHsOg"
+excerpt: |
+  The Ford cocktail is a classic gin-based cocktail that dates back to the late 19th century. It is a Martini-style cocktail sweetened by both the use of old tom gin and Bénédictine D.O.M. liqueur.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand           |
+|   Amount | Ingredient     | Brand                          |
 | -------: | -------------- | ------------------------------ |
 |   1.5 oz | Old Tom Gin    | Scofflaw                       |
 |   1.5 oz | Dry Vermouth   | Dolin Vermouth de Chambéry Dry |
@@ -26,4 +26,3 @@ youtube: 'UJJqbCGHsOg'
 - Glassware: Coupe
 - Garnish: Orange Peal
 - Special Prep: Expressed orange oil
-

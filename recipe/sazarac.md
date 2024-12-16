@@ -6,11 +6,13 @@ permalink: "/recipe/sazerac.html"
 stars: 4
 category: "Rye, Cognac "
 youtube: "dJ-sAEzw9Jc"
+excerpt: |
+  The Sazerac is a local variation of a cognac or whiskey cocktail originally from New Orleans, named for the Sazerac de Forge et Fils brand of cognac brandy.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                                    |
+|   Amount | Ingredient                                                | Brand                                |
 | -------: | --------------------------------------------------------- | ------------------------------------ |
 |   1.5 oz | Rye                                                       | Sazerac Straight                     |
 |   0.5 oz | Cognac                                                    | Maison Rouge VSOP                    |

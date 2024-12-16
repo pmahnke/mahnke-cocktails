@@ -1,13 +1,13 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Harvest Moon Punch (1/2 batch)"
-permalink: '/recipe/harvest_moon_punch.html'
+permalink: "/recipe/harvest_moon_punch.html"
 stars: 0
-category: 'Jamacian Rum, Apple Brandy, Pear Liqueur, Allspice Dram'
-youtube: 'S5ipwEU7uHo'
-
+category: "Jamacian Rum, Apple Brandy, Pear Liqueur, Allspice Dram"
+youtube: "S5ipwEU7uHo"
+excerpt: |
+  An original of Anders Erickson, based on a classic punch build. Black tea adds volume, and cuts down on the alcohol content.
 ---
 
 ### Ingredients
@@ -20,7 +20,7 @@ youtube: 'S5ipwEU7uHo'
 |   3 oz | Allspice Dram                                            | St. Elizabeth           |
 |   6 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |                         |
 |   9 oz | Fresh Lemon Juice                                        |                         |
-|  24 oz.| Black Tea (chilled)                                      |                         |
+| 24 oz. | Black Tea (chilled)                                      |                         |
 
 ### Notes
 
@@ -29,4 +29,3 @@ youtube: 'S5ipwEU7uHo'
 - Glassware: Punch Glass
 - Garnish: Grated nutmeg
 - Special Prep: Add large ice cubes of black tea and apple slices
-

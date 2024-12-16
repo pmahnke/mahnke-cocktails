@@ -1,18 +1,20 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lonely Valentine"
-permalink: '/recipe/lonely_valentine.html'
+permalink: "/recipe/lonely_valentine.html"
 stars: 0
-category: 'Light Rum, Ruby Port, White Crème de Cacao '
-youtube: 'UhRb_xqCXwQ'
+category: "Light Rum, Ruby Port, White Crème de Cacao "
+youtube: "UhRb_xqCXwQ"
+excerpt: |
+  The Lonely Valentine is a cocktail that evokes a sense of bittersweet nostalgia. It's a complex blend of flavors that balances sweetness with bitterness, and warmth with tartness.<br /><br />
 
+  The cocktail typically includes brandy, Cointreau, and cola, creating a rich and flavorful drink. The brandy provides warmth and complexity, while the Cointreau adds citrus notes and sweetness. The cola adds a touch of sweetness and a unique flavor profile.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                   |
+|  Amount | Ingredient                                                | Brand             |
 | ------: | --------------------------------------------------------- | ----------------- |
 |  1.5 oz | Light Rum                                                 | Real McCoy 3 Year |
 |  0.5 oz | Ruby Port                                                 | Fonsecca Bin 27   |
@@ -27,4 +29,3 @@ youtube: 'UhRb_xqCXwQ'
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: Expressed lemon oil
-

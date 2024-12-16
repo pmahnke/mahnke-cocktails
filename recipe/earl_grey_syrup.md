@@ -4,11 +4,13 @@ title: "Rich Earl Grey Syrup"
 type: syrup
 permalink: "/recipe/earlgreysyrup.html"
 youtube: "5wgvpo-xBnA"
+excerpt: |
+  Earl Grey syrup is a versatile and delicious addition to various beverages and desserts. It's made by infusing Earl Grey tea leaves in a simple syrup, resulting in a sweet and aromatic liquid with a distinct citrusy flavor from the bergamot oil in the tea.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               |
+|    Amount | Ingredient           |
 | --------: | -------------------- |
 | 400 grams | White Sugar          |
 | 200 grams | Strong Earl Grey Tea |

@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Division Bell"
-permalink: '/recipe/division_bell.html'
+permalink: "/recipe/division_bell.html"
 stars: 0
-category: 'Mezcal, Aperol, Maraschino Liqueur '
-youtube: '70cS-bRH9kA'
-
+category: "Mezcal, Aperol, Maraschino Liqueur "
+youtube: "70cS-bRH9kA"
+excerpt: |
+  The Division Bell cocktail is a modern classic that combines the smoky flavors of mezcal with the bitter-sweetness of Aperol and the cherry notes of Maraschino liqueur.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand       |
+|  Amount | Ingredient         | Brand           |
 | ------: | ------------------ | --------------- |
 |    1 oz | Mezcal             | Del Maguey Vida |
 | 0.75 oz | Aperol             | Aperol          |
@@ -26,4 +26,3 @@ youtube: '70cS-bRH9kA'
 - Glassware: Nick & Nora
 - Garnish: Expressed grapefruit oil
 - Special Prep:
-

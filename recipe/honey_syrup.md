@@ -4,6 +4,8 @@ title: "Honey Syrup"
 type: syrup
 permalink: "/recipe/honeysyrup.html"
 youtube: "kRdWT71gBb5UcAU8"
+excerpt: |
+  Honey syrup is a simple syrup made with honey instead of sugar. It adds a unique flavor and sweetness to cocktails, elevating their complexity and balance.
 ---
 
 ### Ingredients

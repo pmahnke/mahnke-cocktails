@@ -1,26 +1,26 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Embassy"
-permalink: '/recipe/embassy.html'
+permalink: "/recipe/embassy.html"
 stars: 0
-category: 'Cognac, Jamaican Rum'
-youtube: 'YFqEvNdPrX8'
-
+category: "Cognac, Jamaican Rum"
+youtube: "YFqEvNdPrX8"
+excerpt: |
+  The Embassy Cocktail is a classic cocktail from the 1930s, originating from Hollywood's Embassy Club. It's a well-balanced and flavorful drink that combines brandy, rum, Cointreau, lime juice, and bitters.
 ---
 
 ### Ingredients
 
-| Amount   | Ingredient       | Brand                           |
-| ------: | ----------------- | ------------------------------- |
+|   Amount | Ingredient       | Brand                           |
+| -------: | ---------------- | ------------------------------- |
 |  0.75 oz | Cognac           | Maison Rouge VSOP               |
 |  0.75 oz | Jamaican Rum     | Appleton Estate Signature Blend |
 |     1 oz | Orange Curaçao   | Marie Brizard                   |
 |   0.5 oz | Fresh Lime Juice |
 | 2 dashes | Bitters          | Angostura Aromatic Bitters      |
 
- ### Notes
+### Notes
 
 - Method: Shaken
 - Pour: Double Strain

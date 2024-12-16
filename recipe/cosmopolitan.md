@@ -7,7 +7,7 @@ stars: 3
 category: "Vodka "
 youtube: "SP8Pc-Db7yQ"
 excerpt: |
-  The Cosmopolitan is a simple cocktail with a big history.The  "Cosmo" is known for its vibrant pink color and tart, sweet flavor.
+  The Cosmopolitan is a simple cocktail with a big history. The "Cosmo" is known for its vibrant pink color and tart, sweet flavor. It gained widespread popularity in the 1990s, particularly after its association with the TV show "Sex and the City."
 ---
 
 ### Ingredients

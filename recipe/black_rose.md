@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Black Rose"
-permalink: '/recipe/black_rose.html'
+permalink: "/recipe/black_rose.html"
 stars: 0
-category: 'Bourbon. Cognac'
-youtube: 'YwHw259XAOU'
-
+category: "Bourbon. Cognac"
+youtube: "YwHw259XAOU"
+excerpt: |
+  The Black Rose cocktail is a classic drink that combines the flavors of bourbon, cognac, grenadine, and bitters.
 ---
 
 ### Ingredients
 
-| Amount   | Ingredient                                      | Brand                      |
+|   Amount | Ingredient                                      | Brand                      |
 | -------: | ----------------------------------------------- | -------------------------- |
 |     1 oz | Bourbon                                         | Elijah Craig Small Batch   |
 |     1 oz | Cognac                                          | Maison Rouge VSOP          |
@@ -20,17 +20,12 @@ youtube: 'YwHw259XAOU'
 | 3 dashes | Bitters                                         | Peychaud’s                 |
 |   1 dash | Bitters                                         | Angostura Aromatic Bitters |
 
-
-
- ### Notes
+### Notes
 
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware:
-	- Low Ball
-	- Large Ice Cube
+  - Low Ball
+  - Large Ice Cube
 - Garnish: Expressed lemon oil
 - Special Prep: None
-
-
-

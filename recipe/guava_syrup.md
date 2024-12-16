@@ -4,6 +4,8 @@ title: "Guava Syrup"
 type: syrup
 permalink: "/recipe/guava_syrup.html"
 youtube: "-DnpmdGBmgs"
+excerpt: |
+  Guava syrup is a sweet and tangy syrup made from the tropical guava fruit.
 ---
 
 ### Ingredients

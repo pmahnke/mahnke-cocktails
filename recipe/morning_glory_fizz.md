@@ -7,7 +7,7 @@ stars: 0
 category: "Single Malt Scotch, Absinthe "
 youtube: "YMY0LtEq8mg"
 excerpt: |
-  Want to make the perfect Gin Fizz? It's all in the shake.
+  This classic, sour and aromatic cocktail is traditionally considered a morning after a pick-me-up. Want to make the perfect Gin Fizz? It's all in the shake.
 ---
 
 ### Ingredients

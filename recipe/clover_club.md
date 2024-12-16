@@ -7,7 +7,7 @@ stars: 3
 category: "Gin "
 youtube: "MfHv2EOLUOo&t=336s"
 excerpt: |
-  This pre-Prohibition classic is one of Philadelphia’s contributions to the cocktail world.
+  This pre-Prohibition classic is one of Philadelphia’s contributions to the cocktail world. It is a classic cocktail known for its sweet and tart flavor profile and its silky, frothy texture. It's a member of the sour family, but leans more towards sweetness than tartness. The pale pink liquid, delicate white foam head, and raspberry garnish make it visually appealing.
 ---
 
 ### Ingredients

@@ -4,6 +4,8 @@ title: "Sage Honey Syrup"
 type: syrup
 permalink: "/recipe/sagehoneysyrup.html"
 youtube: "EKyIy5iG87Q"
+excerpt: |
+  Sage-infused honey syrup adds a unique twist to classic cocktails, creating a warm and comforting drink.
 ---
 
 ### Ingredients

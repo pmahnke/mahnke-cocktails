@@ -4,11 +4,13 @@ title: "Groseille Syrup"
 type: syrup
 permalink: "/recipe/groseillesyrup.html"
 youtube: "-Uhu81wqOl8"
+excerpt: |
+  Groseille syrup is a red currant syrup that adds a tart and fruity flavor to cocktails. It's a key ingredient in classic cocktails like the Artist's Special and the Nineteen Twenty.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | 
+|   Amount | Ingredient             |
 | -------: | ---------------------- |
 | 1.5 cups | White Sugar            |
 |    1 cup | 100% Red Currant Juice |

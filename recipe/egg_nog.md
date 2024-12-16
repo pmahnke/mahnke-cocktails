@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Egg Nog"
-permalink: '/recipe/egg_nog.html'
+permalink: "/recipe/egg_nog.html"
 stars: 4
-category: 'Rum, Amontillado Sherry '
-youtube: 's30L-iu171E'
-
+category: "Rum, Amontillado Sherry "
+youtube: "s30L-iu171E"
+excerpt: |
+  Egg nog is a creamy, festive cocktail that's perfect for the holiday season. It's made with a base of eggs, sugar, milk, and cream, and is typically flavored with spices like nutmeg, cinnamon, and cloves. Alcohol, such as brandy, rum, or bourbon, is often added to give it a kick.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                           |
+|  Amount | Ingredient                                               | Brand                          |
 | ------: | -------------------------------------------------------- | ------------------------------ |
 |  1.5 oz | Demerara Rum                                             | El Dorado 8 Year               |
 |  0.5 oz | Amontillado Sherry                                       | Lustau Amontillado 'Los Arcos' |
@@ -28,4 +28,3 @@ youtube: 's30L-iu171E'
 - Glassware: Footed Rocks Glass
 - Garnish: Grated nutmeg for garnish
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
-

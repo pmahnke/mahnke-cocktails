@@ -1,18 +1,18 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Margarita: Smoky Spicy"
-permalink: '/recipe/margarita_spicy.html'
+permalink: "/recipe/margarita_spicy.html"
 stars: 0
-category: 'Mescal '
-youtube: 'jxpT11WEtWQ'
-
+category: "Mescal "
+youtube: "jxpT11WEtWQ"
+excerpt: |
+  A Smoky Spicy Margarita is a cocktail that adds a smoky and spicy twist to the classic margarita. It typically involves using mezcal instead of tequila, muddling in jalapeños for heat, and rimming the glass with a spicy salt mixture like chili powder and cayenne pepper.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               | Brand               |
+|        Amount | Ingredient       | Brand           |
 | ------------: | ---------------- | --------------- |
 |          2 oz | Mezcal           | Del Maguey Vida |
 |          1 oz | Orange Curaçao   | Marie Brizard   |
@@ -24,9 +24,8 @@ youtube: 'jxpT11WEtWQ'
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: 
-    - Low Ball
-    - On the Rocks
+- Glassware:
+  - Low Ball
+  - On the Rocks
 - Garnish: Lime wheel
 - Special Prep: Muddle the jalapeño slices in the cheater tin before shaking. Tajin rim.
-

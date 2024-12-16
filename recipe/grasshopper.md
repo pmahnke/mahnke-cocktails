@@ -7,7 +7,7 @@ stars: 0
 category: "Crème De Menthe, White Crème De Cacao "
 youtube: "kRPWDOCVByk&t=164s"
 excerpt: |
-  The Grasshopper cocktail is a sweet, minty classic that tastes better than your traditional dessert.
+  The Grasshopper is a classic cocktail known for its vibrant green color and creamy, minty-chocolate flavor. It is a sweet, minty classic that tastes better than your traditional dessert.
 ---
 
 ### Ingredients

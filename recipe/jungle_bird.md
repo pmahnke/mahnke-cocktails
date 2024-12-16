@@ -7,7 +7,7 @@ stars: 0
 category: "Jamaican Rum, Demerara Rum, Campari"
 youtube: "YFqEvNdPrX8"
 excerpt: |
-  The Jungle Bird is a tropical rum cocktail featuring a bitter hint of Campari. It was created in the 1970s at the Kuala Lumpur Hilton.
+  The Jungle Bird is a classic Tiki cocktail that was created in 1973 at the Aviary Bar in the Kuala Lumpur Hilton. It's a complex and balanced drink that combines the flavors of dark rum, Campari, pineapple juice, lime juice, and simple syrup.
 ---
 
 ### Ingredients

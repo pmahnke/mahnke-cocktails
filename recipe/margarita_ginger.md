@@ -6,11 +6,13 @@ permalink: "/recipe/margarita_ginger.html"
 stars: 0
 category: "Reposado Tequila "
 youtube: "jxpT11WEtWQ"
+excerpt: |
+  The margarita ginger cocktail is a refreshing and flavorful twist on the classic margarita. It combines the bold flavors of ginger with the zesty lime juice and tequila, creating a unique and exciting drink.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand             |
+|  Amount | Ingredient                                      | Brand         |
 | ------: | ----------------------------------------------- | ------------- |
 |    2 oz | Reposado Tequila                                | Milagro       |
 | 0.75 oz | Orange Curaçao                                  | Marie Brizard |
@@ -20,8 +22,8 @@ youtube: "jxpT11WEtWQ"
 
 Method: Shaken
 Pour: Double Strain
-Glassware:  
-    - Low Ball
-    - On the Rocks
-Garnish: Candied ginger, Lime wheel
-Special Prep: Salted rim
+Glassware:
+
+- Low Ball - On the Rocks
+  Garnish: Candied ginger, Lime wheel
+  Special Prep: Salted rim

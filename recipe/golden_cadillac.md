@@ -7,7 +7,7 @@ stars: 0
 category: "Galliano, White Crème de Cacao"
 youtube: "x6QiK4firC4"
 excerpt: |
-  The Golden Cadillac is among the best cocktails to feature Galliano.
+  Created in 1952 by bartender Frank Cline at Poor Red's, it is among the best cocktails to feature Galliano.
 ---
 
 ### The Classic

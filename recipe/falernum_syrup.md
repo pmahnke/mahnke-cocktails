@@ -4,11 +4,13 @@ title: "Falernum"
 type: syrup
 permalink: "/recipe/falernum.html"
 youtube: "MEQMeCrg0Zi8rePO"
+excerpt: |
+  Falernum is a versatile and flavorful syrup with a rich history in Caribbean and tiki cocktails. It typically contains a blend of lime, ginger, almond, and cloves, creating a complex and balanced flavor profile.
 ---
 
 ### Ingredients
 
-|  Amount  | Ingredient               |
+|   Amount | Ingredient                                                |
 | -------: | --------------------------------------------------------- |
 |     4 oz | El Dorado 151 Overproof Rum                               |
 |  6 whole | Limes, zested                                             |
