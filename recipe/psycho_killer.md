@@ -12,13 +12,13 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                                                        | Brand              |
-| -------: | ----------------------------------------------------------------- | ------------------ |
-|     2 oz | Irish Whiskey                                                     | Red Breast 12 year |
-|  0.75 oz | [Cocoa Nib Infused Campari]({%link recipe/coca_nib_campari.md %}) | Campari            |
-|   0.5 oz | White Crème de Cacao                                              | Marie Brizard      |
-|   0.5 oz | Banane du Brésil                                                  | Giffard            |
-| 2 dashes | Absinthe                                                          |
+|   Amount | Ingredient                                                         | Brand              |
+| -------: | ------------------------------------------------------------------ | ------------------ |
+|     2 oz | Irish Whiskey                                                      | Red Breast 12 year |
+|  0.75 oz | [Cocoa Nib Infused Campari]({%link recipe/cocoa_nib_campari.md %}) | Campari            |
+|   0.5 oz | White Crème de Cacao                                               | Marie Brizard      |
+|   0.5 oz | Banane du Brésil                                                   | Giffard            |
+| 2 dashes | Absinthe                                                           |
 
 ### Notes
 
