@@ -7,7 +7,7 @@ stars: 0
 category: 'Rye, Bénédictine'
 youtube: '_bDARIxZlcE'
 excerpt: |
-	This drink appeared in a 1937 issue of Esquire magazine, and was recently rediscovered by David Wondrich. Jim Meehan includes it in his wonderful cocktail tome, The PDT Cocktail Book.
+  This drink appeared in a 1937 issue of Esquire magazine, and was recently rediscovered by David Wondrich. Jim Meehan includes it in his wonderful cocktail tome, The PDT Cocktail Book.
 ---
 
 ---

@@ -7,7 +7,7 @@ stars: 0
 category: 'Angostura Aromatic Bitters'
 youtube: 'Lp5ktjaNFKc'
 excerpt: |
-	Adapted from a recipe created by Justin Elliott at The Townsend, Austin, Texas, USA.
+  Adapted from a recipe created by Justin Elliott at The Townsend, Austin, Texas, USA.
 ---
 
 ### Ingredients
