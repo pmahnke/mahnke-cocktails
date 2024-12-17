@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Millionaire Royal"
 permalink: "/recipe/millionaire_royal.html"
-stars: 4
+stars: 0
 category: "Bourbon, Grand Marnier"
 youtube: "CZ5KSKO3sbQ"
 excerpt: |

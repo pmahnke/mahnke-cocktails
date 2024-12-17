@@ -1,7 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson Cocktail Recipes
-title: "Margarita: Frozen Strawberry"
+title: "Strawberry Frozen Margarita"
 permalink: "/recipe/margarita_strawberry.html"
 stars: 0
 category: "Reposado Tequila "

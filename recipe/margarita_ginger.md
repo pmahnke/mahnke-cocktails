@@ -1,7 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson Cocktail Recipes
-title: "Margarita: Grapefruit Ginger"
+title: "Grapefruit Ginger Margarita"
 permalink: "/recipe/margarita_ginger.html"
 stars: 0
 category: "Reposado Tequila "
@@ -23,7 +23,7 @@ excerpt: |
 Method: Shaken
 Pour: Double Strain
 Glassware:
-
-- Low Ball - On the Rocks
+  - Low Ball
+  - On the Rocks
   Garnish: Candied ginger, Lime wheel
   Special Prep: Salted rim
