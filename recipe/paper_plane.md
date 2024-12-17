@@ -15,7 +15,7 @@ excerpt: |
 |  Amount | Ingredient        | Brand              |
 | ------: | ----------------- | ------------------ |
 | 0.75 oz | Bourbon           | Old Grandad Bonded |
-| 0.75 oz | Amaro             | Amaro Nonino       |
+| 0.75 oz | Light Amaro       | Amaro Nonino       |
 | 0.75 oz | Aperol            | Aperol             |
 | 0.75 oz | Fresh Lemon Juice |
 

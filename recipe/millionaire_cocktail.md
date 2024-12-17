@@ -3,8 +3,8 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Millionaire Cocktail #1"
 permalink: "/recipe/millionaire_cocktail.html"
-stars: 4
-category: "Jamaican Rum "
+stars: 0
+category: "Jamaican Rum, Apricot Liqueur"
 youtube: "CZ5KSKO3sbQ"
 excerpt: |
   Recipe adapted from Harry Craddock's 1930 <i>The Savoy Cocktail Book</i>. Craddock also lists a "Millionaire Cocktail (No.2)" as follows: 
@@ -20,7 +20,7 @@ excerpt: |
 | Amount | Ingredient                                      | Brand                              |
 | -----: | ----------------------------------------------- | ---------------------------------- |
 |   1 oz | Jamaica Rum                                     | Appleton Estate 12 year Rare Casks |
-| 1/2 oz | Apricot Brandy                                  | Giffard Abricot du Roussillon      |
+| 1/2 oz | Apricot Liqueur                                 | Giffard Abricot du Roussillon      |
 | 1/2 oz | Sloe Gin                                        | Plymouth                           |
 | 3/4 oz | Fresh Lime Juice                                |
 | 1/4 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |

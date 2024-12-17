@@ -12,14 +12,14 @@ excerpt: |
 
 ### Ingredients
 
-|     Amount | Ingredient         | Brand                          |
-| ---------: | ------------------ | ------------------------------ |
-|       2 oz | Rye                | Rittenhouse 100 Proof          |
-|       1 oz | Dry Vermouth       | Dolin Dry Vermouth De Chambéry |
-|    0.25 oz | Maraschino Liqueur | Luxardo                        |
-|    0.25 oz | Amaro              | Amaro Ramazzotti               |
-| 2-3 dashes | Orange Bitters     | Fee Brothers                   |
-|    1 strip | Orange Peal        |
+|        Amount | Ingredient         | Brand                          |
+| ------------: | ------------------ | ------------------------------ |
+|          2 oz | Rye                | Rittenhouse 100 Proof          |
+|          1 oz | Dry Vermouth       | Dolin Dry Vermouth De Chambéry |
+|       0.25 oz | Maraschino Liqueur | Luxardo                        |
+|       0.25 oz | Amaro              | Ramazzotti                     |
+| 2 to 3 dashes | Orange Bitters     | Fee Brothers                   |
+|       1 swath | Orange Peal        |
 
 ### Notes
 

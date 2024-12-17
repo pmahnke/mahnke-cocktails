@@ -4,10 +4,10 @@ author: Anders Erickson Cocktail Recipes
 title: "Millionaire Royal"
 permalink: "/recipe/millionaire_royal.html"
 stars: 0
-category: "Bourbon, Grand Marnier"
+category: "Bourbon, Grand Marnier, Absinthe"
 youtube: "CZ5KSKO3sbQ"
 excerpt: |
-  In his 1948 <i>The Fine Art of Mixing Drinks</i>, David Embury's says "At some bars a drink served under the name of "Millionaire" which consists of lime juice, slow gin, and apricot brandy, with a few dashes of Jamaica rum. Since the sloe gin, which is a liqueur, predominates in this drink, I do not regard it as a true cocktail." Embury is more complimentary of what he calls a "Millionaire Royal", proclaiming it to be "a very satisfactory drink."
+  In his 1948 <i>The Fine Art of Mixing Drinks</i>, David Embury's says "At some bars a drink served under the name of "Millionaire" which consists of lime juice, slow gin, and Apricot Liqueur, with a few dashes of Jamaica rum. Since the sloe gin, which is a liqueur, predominates in this drink, I do not regard it as a true cocktail." Embury is more complimentary of what he calls a "Millionaire Royal", proclaiming it to be "a very satisfactory drink."
 ---
 
 ### Ingredients
