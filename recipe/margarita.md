@@ -1,7 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson Cocktail Recipes
-title: " Margarita: Classic"
+title: "Classic Margarita"
 permalink: "/recipe/margarita.html"
 iconfile: margarita
 stars: 5

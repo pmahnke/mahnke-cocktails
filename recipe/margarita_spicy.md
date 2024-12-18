@@ -1,7 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson Cocktail Recipes
-title: "Margarita: Smoky Spicy"
+title: "Smoky Spicy Margarita"
 permalink: "/recipe/margarita_spicy.html"
 iconfile: margarita_spicy
 stars: 0

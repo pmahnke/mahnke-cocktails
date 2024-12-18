@@ -8,7 +8,7 @@ stars: 3
 category: "Gin, Apricot Liqueur "
 youtube: "TpTvTn7HXo0"
 excerpt: |
-  The Pendennis Club cocktail is a classic gin sour that originated at the Pendennis Club in Louisville, Kentucky. It's a tart and tangy drink with a unique flavor profile thanks to the addition of apricot brandy and Peychaud's bitters.
+  The Pendennis Club cocktail is a classic gin sour that originated at the Pendennis Club in Louisville, Kentucky. It's a tart and tangy drink with a unique flavor profile thanks to the addition of Apricot Liqueur and Peychaud's bitters.
 ---
 
 ### Ingredients

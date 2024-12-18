@@ -44,7 +44,7 @@ excerpt: |
 | -----: | -------------- | ------------ |
 |   2 oz | Blanco Tequila | Siete Leguas |
 |   4 oz | Orange Juice   |
-| 0.5 oz | Monin          |
+| 0.5 oz | Grenadine      | Monin        |
 
 ### Notes
 
@@ -60,14 +60,14 @@ excerpt: |
 
 ### Ingredients
 
-|    Amount | Ingredient       | Brand                                   |
-| --------: | ---------------- | --------------------------------------- |
-|    1.5 oz | Reposado Tequila | Siete Leguas                            |
-|    0.5 oz | Creme de Cassis  | Jules Theuriet Creme de Cassis de Dijon |
-|   0.25 oz |
-|   0.75 oz | Fresh Lime Juice |
-|    1 dash | Bitters          | Angostura Aromatic Bitters              |
-| 4 to 5 oz | Soda Water       |
+|    Amount | Ingredient                                      | Brand                                   |
+| --------: | ----------------------------------------------- | --------------------------------------- |
+|    1.5 oz | Reposado Tequila                                | Siete Leguas                            |
+|    0.5 oz | Creme de Cassis                                 | Jules Theuriet Creme de Cassis de Dijon |
+|   0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
+|   0.75 oz | Fresh Lime Juice                                |
+|    1 dash | Bitters                                         | Angostura Aromatic Bitters              |
+| 4 to 5 oz | Soda Water                                      |
 
 ### Notes
 
