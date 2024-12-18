@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Spa Water"
 permalink: "/recipe/spa_water.html"
+iconfile: spa_water
 stars: 3
 category: "Cucumber, Mint, Lime "
 youtube: "5wgvpo-xBnA"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lion's Tail"
 permalink: "/recipe/lionstail.html"
+iconfile: lions_tail
 stars: 5
 category: "Bourbon, Allspice Dram"
 youtube: "r2NNClh94tQ"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Absinthe Frappé"
 permalink: "/recipe/absinthe_frappe.html"
+iconfile: absinthe_frappe
 stars: 0
 category: "Absinthe"
 youtube: "g4_hKcbMLL4"

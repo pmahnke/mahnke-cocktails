@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tipperary"
 permalink: "/recipe/tipperary.html"
+iconfile: tipperary
 stars: 0
 category: "Irish Whiskey, Green Chartreuse"
 youtube: "2zQBXxC7ma8"

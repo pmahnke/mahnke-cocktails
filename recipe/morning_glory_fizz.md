@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Morning Glory Fizz"
 permalink: "/recipe/morning_glory_fizz.html"
+iconfile: morning_glory_fizz
 stars: 0
 category: "Single Malt Scotch, Absinthe "
 youtube: "YMY0LtEq8mg"

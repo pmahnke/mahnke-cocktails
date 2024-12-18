@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "La Rosita"
 permalink: "/recipe/la_rosita.html"
+iconfile: la_rosita
 stars: 0
 category: "Reposado Tequila, Campari "
 youtube: "UhRb_xqCXwQ"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Irish Coffee"
 permalink: "/recipe/irish_coffee.html"
+iconfile: irish_coffee
 stars: 0
 category: "Irish Whiskey "
 youtube: "sJsY1LokABA"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Perfect Manhattan"
 permalink: "/recipe/perfect_manhattan.html"
+iconfile: perfect_manhattan
 stars: 0
 category: "Rye "
 youtube: "eWESf1b317Y&t=278s"

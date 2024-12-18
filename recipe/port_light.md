@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Port Light"
 permalink: "/recipe/port_light.html"
+iconfile: port_light
 stars: 0
 category: "Bourbon"
 youtube: "-DnpmdGBmgs&t=433s"

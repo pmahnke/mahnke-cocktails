@@ -3,6 +3,7 @@ layout: recipe
 type: non-alcoholic
 title: "Cherry Zip"
 permalink: "/recipe/cherryzip.html"
+iconfile: cherry_zip
 stars: 0
 category: "Cherry Juice, Orgeat, Tea, Lemon"
 youtube: "ZE3G8aUyOn0"

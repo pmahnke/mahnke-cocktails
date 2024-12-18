@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pendennis Club Cocktail"
 permalink: "/recipe/pendennis_club.html"
+iconfile: pendennis_club
 stars: 3
 category: "Gin, Apricot Liqueur "
 youtube: "TpTvTn7HXo0"

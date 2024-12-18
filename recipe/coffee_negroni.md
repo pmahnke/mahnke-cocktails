@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Coffee Negroni"
 permalink: "/recipe/coffee_negroni.html"
+iconfile: coffee_negroni
 stars: 0
 category: "Gin, Coffee Liqueur, Campari"
 youtube: "41iPKwfTE9E"

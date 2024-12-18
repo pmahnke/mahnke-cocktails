@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Fog Cutter"
 permalink: "/recipe/fog_cutter.html"
+iconfile: fog_cutter
 stars: 0
 category: "Light Rum, Pisco, Gin, Amontillado Sherry "
 youtube: "kMqIu6zPv9s"

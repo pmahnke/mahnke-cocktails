@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Belmont Jewel"
 permalink: "/recipe/belmont_jewel.html"
+iconfile: belmont_jewel
 stars: 0
 category: "Bourbon, Oloroso Sherry"
 youtube: "1V0-c6u4xJA"

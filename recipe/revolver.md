@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Revolver"
 permalink: "/recipe/revolver.html"
+iconfile: revolver
 stars: 0
 category: "Bourbon, Coffee Liqueur"
 youtube: "mFOZcQvZ6oY"

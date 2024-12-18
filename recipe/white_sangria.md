@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "White Sangria"
 permalink: "/recipe/white_sangria.html"
+iconfile: white_sangria
 stars: 0
 category: "Apricot Liqueur, Fino Sherry, Dry White Wine"
 youtube: "mAxJU3qd8OE"

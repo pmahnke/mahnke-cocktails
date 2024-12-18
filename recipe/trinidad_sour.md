@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Trinidad Sour"
 permalink: "/recipe/trinidad_sour.html"
+iconfile: trinidad_sour
 stars: 0
 category: "Angostura Aromatic Bitters, Rye "
 youtube: '\_BEaYWQjSu0'

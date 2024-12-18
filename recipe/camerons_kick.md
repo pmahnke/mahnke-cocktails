@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Cameron's Kick"
 permalink: "/recipe/camerons_kick.html"
+iconfile: camerons_kick
 stars: 0
 category: "Scotch, Blended, Irish Whiskey"
 youtube: "PwfU-18WhC8"

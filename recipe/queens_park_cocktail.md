@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Queen's Park Hotel Super Cocktail"
 permalink: "/recipe/queens_park_cocktail.html"
+iconfile: queens_park_cocktail
 stars: 0
 category: "Gold Rum "
 youtube: "ASTV1OEXhbE"

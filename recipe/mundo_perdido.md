@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mundo Perdido"
 permalink: "/recipe/mundo_perdido.html"
+iconfile: mundo_perdido
 stars: 0
 category: "Demerara Rum, Apple Brandy"
 youtube: "-DnpmdGBmgs&t=433s"

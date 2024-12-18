@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mojito"
 permalink: "/recipe/mojito.html"
+iconfile: mojito
 stars: 4
 category: "Light Rum "
 youtube: "KMypSCazyRw"

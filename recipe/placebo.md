@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Placebo (NA Painkiller)"
 permalink: "/recipe/placebo.html"
+iconfile: placebo
 stars: 0
 category: "Pineapple, Orange, Cream of Coconut"
 youtube: "5wgvpo-xBnA"

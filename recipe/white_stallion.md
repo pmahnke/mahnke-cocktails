@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "White Stallion"
 permalink: "/recipe/white_stallion.html"
+iconfile: white_stallion
 stars: 0
 category: "Plymouth Gin, Grand Marnier, Champagne "
 youtube: "E1TfYiFrnXk"

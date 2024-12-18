@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Haunted House"
 permalink: "/recipe/haunted_house.html"
+iconfile: haunted_house
 stars: 0
 category: "Jamaican Rum, Rye, Swedish Punsch "
 youtube: "u0N9FFJ1i5c"
@@ -24,6 +25,8 @@ excerpt: |
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Low BallLarge Ice cube
+- Glassware:
+  - Low Ball
+  - Large Ice cube
 - Garnish: Expressed orange oil and cherry
 - Special Prep: None

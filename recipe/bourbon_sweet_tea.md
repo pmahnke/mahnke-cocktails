@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bourbon Sweet Tea"
 permalink: "/recipe/bourbon_sweet_tea.html"
+iconfile: bourbon_sweet_tea
 stars: 0
 category: "Bourbon, Light Amaro, Peach Liqueur "
 youtube: "1b4nHX4RjdY"

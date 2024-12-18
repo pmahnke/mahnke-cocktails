@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Satan's Whiskers"
 permalink: "/recipe/satans_whiskers.html"
+iconfile: satans_whiskers
 stars: 0
 category: "Gin "
 youtube: "T3GsJVVGCFs"

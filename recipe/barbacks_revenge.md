@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Barback’s Revenge"
 permalink: "/recipe/barbacks_revenge.html"
+iconfile: barbacks_revenge
 stars: 0
 category: "Demerara Rum, Bénédictine, Amontillado Sherry"
 youtube: "RRvfkkSjceM"

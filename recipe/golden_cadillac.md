@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Golden Cadillac"
 permalink: "/recipe/golden_cadillac.html"
+iconfile: golden_cadillac
 stars: 0
 category: "Galliano, White Crème de Cacao"
 youtube: "x6QiK4firC4"

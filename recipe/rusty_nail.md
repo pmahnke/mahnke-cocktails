@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rusty Nail"
 permalink: "/recipe/rusty_nail.html"
+iconfile: rusty_nail
 stars: 2
 category: "Scotch, Drambuie"
 youtube: "nTyrz70_OPA"

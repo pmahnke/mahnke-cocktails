@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Momisette"
 permalink: "/recipe/momisette.html"
+iconfile: momisette
 stars: 5
 category: "Absinthe "
 youtube: "ABntm6FL8wc"

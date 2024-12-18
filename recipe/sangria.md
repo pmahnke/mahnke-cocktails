@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sangria"
 permalink: "/recipe/sangria.html"
+iconfile: sangria
 stars: 0
 category: "Red Wine, Oloroso Sherry, Grand Marnier "
 youtube: "NNI--bxevNo"
@@ -28,6 +29,8 @@ excerpt: |
 
 - Method: Build in the Pitcher
 - Pour: Add all ingredients directly to the pitcher
-- Glassware: High BallOn the Rocks
+- Glassware:
+  - High Ball
+  - On the Rocks
 - Garnish: Soaked fruit
 - Special Prep: Top glasses with soda water

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rattle Skull"
 permalink: "/recipe/rattle_skull.html"
+iconfile: rattle_skull
 stars: 0
 category: "Jamaican Rum, Cognac, Porter "
 youtube: "7JgKLcCqWR4"

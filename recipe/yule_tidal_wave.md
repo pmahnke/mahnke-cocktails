@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Yule Tidal Wave"
 permalink: "/recipe/yule_tidal_wave.html"
+iconfile: yule_tidal_wave
 stars: 0
 category: "Rum, Bourbon, Cognac, Pear Brandy, Licor 43, Allspice Dram"
 youtube: "s30L-iu171E"

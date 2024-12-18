@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Cosmopolitan"
 permalink: "/recipe/cosmopolitan.html"
+iconfile: cosmopolitan
 stars: 3
 category: "Vodka "
 youtube: "SP8Pc-Db7yQ"

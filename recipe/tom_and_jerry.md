@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Tom & Jerry"
 permalink: "/recipe/tomandjerry.html"
+iconfile: tom_and_jerry
 stars: 0
 category: "Jamaican Rum, Demerara Rum, Cognac "
 youtube: "tfPrLUlFO8k"

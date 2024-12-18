@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Final Ward"
 permalink: "/recipe/finalward.html"
+iconfile: final_ward
 stars: 3
 category: "Rye, Green Chartreuse, Maraschino Liqueur"
 youtube: "NGPSk_jMZvA"

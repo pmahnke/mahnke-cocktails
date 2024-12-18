@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Negroni"
 permalink: "/recipe/negroni.html"
+iconfile: negroni
 stars: 3
 category: "Gin, Campari "
 youtube: "lgy6vEX_hQg"

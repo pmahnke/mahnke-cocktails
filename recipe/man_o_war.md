@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Man o’ War"
 permalink: "/recipe/man_o_war.html"
+iconfile: man_o_war
 stars: 0
 category: "Bourbon, Oloroso Sherry"
 youtube: "1V0-c6u4xJA"

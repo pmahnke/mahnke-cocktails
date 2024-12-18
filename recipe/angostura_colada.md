@@ -3,6 +3,7 @@ layout: recipe
 author: Zac Overman Cocktail Recipes
 title: "Angostura Colada"
 permalink: "/recipe/angostura_colada.html"
+iconfile: angostura_colada
 stars: 0
 category: "Angostura Aromatic Bitters, Jamaican Rum"
 youtube: "-DnpmdGBmgs&t=433s"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Shrunken Skull"
 permalink: "/recipe/shrunken_skull.html"
+iconfile: shrunken_skull
 stars: 0
 category: "Demerara Rum, Gold Rum "
 youtube: "pTBVVi20ONk"

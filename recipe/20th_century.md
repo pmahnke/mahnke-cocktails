@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "20th Century"
 permalink: "/recipe/20th_century.html"
+iconfile: 20th_century
 stars: 0
 category: "Gin, Cocchi Americano, Crème de Cacao "
 youtube: "6AyWk5teLv8"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Blood and Sand"
 permalink: "/recipe/blood_and_sand.html"
+iconfile: blood_and_sand
 stars: 0
 category: "Blended Scotch, Cherry Liqueur "
 youtube: "r50WUk960qI"

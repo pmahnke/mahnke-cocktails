@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Toronto Cocktail"
 permalink: "/recipe/toronto_cocktail.html"
+iconfile: toronto_cocktail
 stars: 3
 category: "Rye, Fernet Branca"
 youtube: "fQfVijUec0A"

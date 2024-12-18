@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Margarita: Smoky Spicy"
 permalink: "/recipe/margarita_spicy.html"
+iconfile: margarita_spicy
 stars: 0
 category: "Mescal "
 youtube: "jxpT11WEtWQ"

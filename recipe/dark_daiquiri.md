@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Dark Daiquiri"
 permalink: "/recipe/dark_daiquiri.html"
+iconfile: dark_daiquiri
 stars: 5
 category: "Jamaican Rum "
 youtube: "71jQRf5UrpE"

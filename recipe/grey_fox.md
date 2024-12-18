@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Grey Fox"
 permalink: "/recipe/grey_fox.html"
+iconfile: grey_fox
 stars: 0
 category: "Earl Grey Syrup, Lemon"
 youtube: "5wgvpo-xBnA"

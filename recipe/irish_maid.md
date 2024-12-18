@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Irish Maid"
 permalink: "/recipe/irishmaid.html"
+iconfile: irish_maid
 stars: 0
 category: "Irish Whiskey, Elderflower Liqueur "
 youtube: "IIMug56LEiQ"

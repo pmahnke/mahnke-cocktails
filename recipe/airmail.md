@@ -2,6 +2,7 @@
 layout: recipe
 title: "Airmail"
 permalink: "/recipe/airmail.html"
+iconfile: airmail
 stars: 0
 category: "Champagne, Gold Rum "
 youtube: "vaVcBQ6tiFw"

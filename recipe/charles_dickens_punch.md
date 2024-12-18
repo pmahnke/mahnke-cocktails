@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Charles Dickens Punch"
 permalink: "/recipe/charles_dickens_punch.html"
+iconfile: charles_dickens_punch
 stars: 0
 category: "Over Proof Rum, Cognac "
 youtube: "BXGS7Ai2hec"

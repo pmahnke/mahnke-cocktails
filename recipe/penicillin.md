@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Penicillin"
 permalink: "/recipe/penicillin.html"
+iconfile: penicillin
 stars: 0
 category: "Scotch, Blended, Scotch, Single Malt "
 youtube: "G51IC-s_ECI"

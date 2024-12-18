@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Taquila Sunrise"
 permalink: "/recipe/taquila_sunrise.html"
+iconfile: taquila_sunrise
 stars: 0
 category: "Creme de Cassis, Blanco Taquilla -OR- Reposado Tequila "
 youtube: "VNaSpZ3YOoM"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Vesper"
 permalink: "/recipe/vesper.html"
+iconfile: vesper
 stars: 0
 category: "Gin, Vodka, Cocchi Americano"
 youtube: "TP5T65EWOx65zTsY"

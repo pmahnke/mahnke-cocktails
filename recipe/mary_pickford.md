@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mary Pickford"
 permalink: "/recipe/mary_pickford.html"
+iconfile: mary_pickford
 stars: 4
 category: "Light Rum, Maraschino Liqueur"
 youtube: "TGJZv0FTjk8"

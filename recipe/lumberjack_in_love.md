@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lumberjack in Love"
 permalink: "/recipe/lumberjack_in_love.html"
+iconfile: lumberjack_in_love
 stars: 0
 category: "Rye, Oktoberfest, Allspice Dram"
 youtube: "Eg7DLBgwJqM"

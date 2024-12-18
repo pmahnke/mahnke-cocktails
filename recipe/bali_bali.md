@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bali Bali"
 permalink: "/recipe/balibali.html"
+iconfile: bali_bali
 stars: 0
 category: "Black Rum, Light Rum, Cognac, Gin "
 youtube: 'lWDA\_\_gwSow'

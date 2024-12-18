@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Fence Hopper"
 permalink: "/recipe/fence_hopper.html"
+iconfile: fence_hopper
 stars: 0
 category: "Bourbon, IPA "
 youtube: "Eg7DLBgwJqM"

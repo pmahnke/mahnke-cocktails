@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Martini"
 permalink: "/recipe/martini.html"
+iconfile: martini
 stars: 4
 category: "Gin "
 youtube: "izZsjqnADAA"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sherry Flip"
 permalink: "/recipe/sherry_flip.html"
+iconfile: sherry_flip
 stars: 0
 category: "Oloroso Sherry "
 youtube: "mBGgu3qRztY"

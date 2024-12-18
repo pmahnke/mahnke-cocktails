@@ -2,6 +2,7 @@
 layout: recipe
 title: "Chicago Cocktail"
 permalink: "/recipe/chicagococktail.html"
+iconfile: chicago_cocktail
 stars: 0
 category: "Champagne, Cognac "
 youtube: "IAaiRENeyvc&t=639s"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Pink Lady"
 permalink: "/recipe/pink_lady.html"
+iconfile: pink_lady
 stars: 4
 category: "Gin/Apple Brandy "
 youtube: "MfHv2EOLUOo&t=336s"

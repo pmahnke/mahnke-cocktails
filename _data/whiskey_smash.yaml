@@ -1,0 +1,8 @@
+images:
+  - tool: /cocktails/assets/images/tool_boston-shaker.svg
+  - tool: /cocktails/assets/images/tool_double-strainer.svg
+  - tool: /cocktails/assets/images/tool_hawthorn-strainer.svg
+  - tool: /cocktails/assets/images/tool_muddler.svg
+  - garnish: 
+  - garnish: /cocktails/assets/images/herb_mint.svg
+  - ice: /cocktails/assets/images/ice_large.svg

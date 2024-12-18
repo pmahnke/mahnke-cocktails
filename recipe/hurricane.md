@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hurricane"
 permalink: "/recipe/hurricane.html"
+iconfile: hurricane
 stars: 4
 category: "Jamaican Rum, Dark Rum "
 youtube: "3b2-jFhtCyQ"

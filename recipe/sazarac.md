@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sazerac"
 permalink: "/recipe/sazerac.html"
+iconfile: sazarac
 stars: 4
 category: "Rye, Cognac "
 youtube: "dJ-sAEzw9Jc"

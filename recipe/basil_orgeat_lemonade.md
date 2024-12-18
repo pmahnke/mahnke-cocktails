@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Basil Orgeat Lemonade"
 permalink: "/recipe/basilorgeatlemonade.html"
+iconfile: basil_orgeat_lemonade
 stars: 0
 category: "Orgeat, Lemon, Basil"
 youtube: "5wgvpo-xBnA"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Toreador"
 permalink: "/recipe/toreador.html"
+iconfile: toreador
 stars: 0
 category: "Reposado Tequila, Apricot Liquer, Amontillado Sherry "
 youtube: "3aV3DzDfW_A"

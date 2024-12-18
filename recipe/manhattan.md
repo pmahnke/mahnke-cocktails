@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Manhattan"
 permalink: "/recipe/manhattan.html"
+iconfile: manhattan
 stars: 3
 category: Rye
 youtube: "https://www.youtube.com/watch?v=eWESf1b317Y&t=278s"

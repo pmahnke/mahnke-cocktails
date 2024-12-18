@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Plum Island"
 permalink: "/recipe/plum_island.html"
+iconfile: plum_island
 stars: 4
 category: "Lillet Rouge, Gold Rum, Absinthe "
 youtube: 'lWDA\_\_gwSow'

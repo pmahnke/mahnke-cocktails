@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pan American Clipper"
 permalink: "/recipe/pan_american_clipper.html"
+iconfile: pan_american_clipper
 stars: 0
 category: "Apple Brandy"
 youtube: "YwHw259XAOU"

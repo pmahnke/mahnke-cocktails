@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Prescription Julep"
 permalink: "/recipe/prescription_julep.html"
+iconfile: prescription_julep
 stars: 0
 category: "Cognac, Rye "
 youtube: "xfLW5Na9QpM"

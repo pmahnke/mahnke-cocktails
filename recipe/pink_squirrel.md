@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pink Squirrel"
 permalink: "/recipe/pink_squirrel.html"
+iconfile: pink_squirrel
 stars: 0
 category: "Crème De Noyaux, White Crème De Cacao "
 youtube: "kRPWDOCVByk&t=164s"

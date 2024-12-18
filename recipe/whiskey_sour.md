@@ -2,6 +2,7 @@
 layout: recipe
 title: "Whiskey Sour"
 permalink: "/recipe/whiskey_sour.html"
+iconfile: whiskey_sour
 stars: 5
 category: "Bourbon "
 youtube: "bxTRtiS06W0&t=51s"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Dark 'n Stormy"
 permalink: "/recipe/dark_n_stormy.html"
+iconfile: dark_n_stormy
 stars: 5
 category: "Dark Rum "
 youtube: "2EZBGowe0ho"

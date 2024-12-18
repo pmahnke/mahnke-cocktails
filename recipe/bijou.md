@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bijou"
 permalink: "/recipe/bijou.html"
+iconfile: bijou
 stars: 0
 category: "Gin, Green Chartreuse "
 youtube: "LeIeaxJR2kw"

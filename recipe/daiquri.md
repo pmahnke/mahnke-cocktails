@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Daiquri"
 permalink: "/recipe/daiquri.html"
+iconfile: daiquri
 stars: 5
 category: "Light Rum"
 youtube: "TP5T65EWOx65zTsY"

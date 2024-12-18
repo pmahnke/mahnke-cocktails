@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Wassail"
 permalink: "/recipe/wassail.html"
+iconfile: wassail
 stars: 0
 category: "Apple Brandy, Amontillado Sherry, Dark Ale "
 youtube: "9cp5upHowwI"

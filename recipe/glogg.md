@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Glögg"
 permalink: "/recipe/glogg.html"
+iconfile: glogg
 stars: 0
 category: "Red Wine, Ruby Port, Cognac "
 youtube: "2Xox9vdRGtM"

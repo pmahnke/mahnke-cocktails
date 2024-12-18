@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pegu Club"
 permalink: "/recipe/pegu_club.html"
+iconfile: pegu_club
 stars: 3
 category: "Gin "
 youtube: "YenVNoabM4"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bloody Caesar"
 permalink: "/recipe/bloody_caesar.html"
+iconfile: bloody_caesar
 stars: 3
 category: "Vodka "
 youtube: "CWN67QIvZP8"

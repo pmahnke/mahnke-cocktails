@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sidecar"
 permalink: "/recipe/sidecar.html"
+iconfile: sidecar
 stars: 3
 category: Cognac
 youtube: "https://www.youtube.com/watch?v=re76GCUoiH4"

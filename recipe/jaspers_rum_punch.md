@@ -4,6 +4,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Jasper’s Rum Punch"
 permalink: '/recipe/jaspers_rum_punch.html'
+iconfile: jaspers_rum_punch
 stars: 0
 category: 'Overproof Jamaican Rum'
 youtube: 'sRTGCquUgMs'

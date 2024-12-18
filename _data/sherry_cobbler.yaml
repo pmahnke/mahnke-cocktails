@@ -1,0 +1,8 @@
+images:
+  - tool: /cocktails/assets/images/tool_boston-shaker.svg
+  - tool: /cocktails/assets/images/tool_double-strainer.svg
+  - tool: /cocktails/assets/images/tool_hawthorn-strainer.svg
+  - glass: /cocktails/assets/images/glass_goblet.svg
+  - garnish: /cocktails/assets/images/herb_mint.svg
+  - garnish: /cocktails/assets/images/fruit-orange.svg
+  - garnish: /cocktails/assets/images/fruit_raspberries.svg

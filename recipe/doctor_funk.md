@@ -4,6 +4,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Doctor Funk"
 permalink: '/recipe/doctor_funk.html'
+iconfile: doctor_funk
 stars: 0
 category: 'Jamaican Rum, Gold Rum, Absinthe'
 youtube: 'aMXyG72irqI'

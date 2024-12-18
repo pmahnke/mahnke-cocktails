@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "La Louisiane"
 permalink: "/recipe/la_louisiane.html"
+iconfile: la_louisiane
 stars: 5
 category: "Rye, Bénédictine "
 youtube: "9XLtsOKT6oY"

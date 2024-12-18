@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hot Buttered Rum"
 permalink: "/recipe/hot_buttered_rum.html"
+iconfile: hot_buttered_rum
 stars: 0
 category: "Dark Rum "
 youtube: "mBGgu3qRztY"

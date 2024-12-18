@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Wicked Word"
 permalink: "/recipe/wicked_word.html"
+iconfile: wicked_word
 stars: 0
 category: "Cognac, Aperol, Black Sambuca"
 youtube: "6Ic0zmBpUQw"

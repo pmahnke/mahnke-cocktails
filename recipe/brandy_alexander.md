@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brandy Alexander"
 permalink: "/recipe/brandy_alexander.html"
+iconfile: brandy_alexander
 stars: 0
 category: "Cognac, Crème de Cacao"
 youtube: "5LEgIoddxY4"

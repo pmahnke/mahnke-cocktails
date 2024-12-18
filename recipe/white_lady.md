@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The White Lady"
 permalink: "/recipe/white_lady.html"
+iconfile: white_lady
 stars: 4
 category: "Triple Sec, Crème De Menthe -OR- Gin "
 youtube: "IAmf7XqE0T8"

@@ -2,6 +2,7 @@
 layout: recipe
 title: "Tom Collins"
 permalink: "/recipe/tom_collins.html"
+iconfile: tom_collins
 stars: 0
 category: "Old Tom Gin "
 youtube: "DKkHTEozo7o"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mint Julep"
 permalink: "/recipe/mint_julep.html"
+iconfile: mint_julep
 stars: 4
 category: "Bourbon "
 youtube: "xfLW5Na9QpM"

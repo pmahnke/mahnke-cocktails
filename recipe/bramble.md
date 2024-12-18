@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bramble"
 permalink: "/recipe/bramble.html"
+iconfile: bramble
 stars: 0
 category: "Gin, Crème de Mûre "
 youtube: "fgE5H8W5K6M"

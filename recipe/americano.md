@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Americano"
 permalink: "/recipe/americano.html"
+iconfile: americano
 stars: 0
 category: "Campari "
 youtube: "lgy6vEX_hQg"

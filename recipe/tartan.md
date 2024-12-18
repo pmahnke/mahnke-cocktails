@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tartan"
 permalink: "/recipe/tartan.html"
+iconfile: tartan
 stars: 0
 category: "Single Malt Scotch, Amaro, Drambuie "
 youtube: "Jqy3bhn-O9s"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Zombie"
 permalink: "/recipe/zombie.html"
+iconfile: zombie
 stars: 0
 category: "Jamaican Rum, Gold Rum, Demerara Rum "
 youtube: '\_eCla7H-TA0&t=4s'

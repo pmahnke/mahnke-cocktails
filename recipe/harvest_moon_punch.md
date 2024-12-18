@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Harvest Moon Punch (1/2 batch)"
 permalink: "/recipe/harvest_moon_punch.html"
+iconfile: harvest_moon_punch
 stars: 0
 category: "Jamacian Rum, Apple Brandy, Pear Liqueur, Allspice Dram"
 youtube: "S5ipwEU7uHo"

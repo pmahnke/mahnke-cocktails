@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Chocolate Punch"
 permalink: "/recipe/chocolate_punch.html"
+iconfile: chocolate_punch
 stars: 0
 category: "Cognac, Ruby Port, Crème de Cacao "
 youtube: "s30L-iu171E"

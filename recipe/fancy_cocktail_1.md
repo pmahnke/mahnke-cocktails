@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Fancy Cocktail No.1"
 permalink: "/recipe/fancy_cocktail_1.html"
+iconfile: fancy_cocktail_1
 stars: 0
 category: "Rosolio, Reposado Tequila, Manzanilla Sherry "
 youtube: "AfbytyV2PdY"

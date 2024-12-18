@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Psycho Killer"
 permalink: "/recipe/psycho_killer.html"
+iconfile: psycho_killer
 stars: 0
 category: "Irish Whiskey, Campari, White Crème de Cacao, Banane du Brésil"
 youtube: "u0N9FFJ1i5c"

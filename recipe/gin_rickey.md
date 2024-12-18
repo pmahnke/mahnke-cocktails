@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Gin Rickey"
 permalink: "/recipe/gin_rickey.html"
+iconfile: gin_rickey
 stars: 0
 category: "Gin"
 youtube: "vOM5wbvegzo"

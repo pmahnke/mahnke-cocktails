@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "El Presidente"
 permalink: "/recipe/el_presidente.html"
+iconfile: el_presidente
 stars: 4
 category: "Gin, White Vermouth"
 youtube: "1AZGE2FUAO4"

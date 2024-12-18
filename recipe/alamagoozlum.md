@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Alamagoozlum"
 permalink: "/recipe/alamagoozlum.html"
+iconfile: alamagoozlum
 stars: 0
 category: "Genever, Jamaican Rum, Yellow Chartreuse "
 youtube: "8H-IBvOX8EI"

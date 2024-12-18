@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Cablecar"
 permalink: "/recipe/cablecar.html"
+iconfile: cablecar
 stars: 0
 category: "Spice Rum "
 youtube: "iUGkl-AVgbI"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Deshler"
 permalink: "/recipe/deshler.html"
+iconfile: deshler
 stars: 4
 category: "Rye, Dubonnet Rouge -OR- Bourbon, Lillet Rouge "
 youtube: "3vtklNLjMPw"

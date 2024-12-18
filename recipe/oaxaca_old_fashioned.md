@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Oaxaca Old Fashioned"
 permalink: "/recipe/oaxaca_old_fashioned.html"
+iconfile: oaxaca_old_fashioned
 stars: 0
 category: "Reposado Tequila, Mezcal"
 youtube: "LkXW1diKOvs"

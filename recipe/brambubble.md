@@ -2,6 +2,7 @@
 layout: recipe
 title: "Brambubble"
 permalink: "/recipe/brambubble.html"
+iconfile: brambubble
 stars: 0
 category: "Champagne, Gin, Crème de Mûre"
 youtube: "IAaiRENeyvc&t=639s"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Cigar"
 permalink: "/recipe/cigar.html"
+iconfile: cigar
 stars: 0
 category: "Single Malt Scotch, Aperol "
 youtube: "gZdT2GBf91I"

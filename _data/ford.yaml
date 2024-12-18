@@ -1,0 +1,5 @@
+images:
+  - tool: /cocktails/assets/images/tool_julep-strainer.svg
+  - glass: /cocktails/assets/images/glass_coupe.svg
+  - glass: /cocktails/assets/images/glass_martini.svg
+  - garnish: /cocktails/assets/images/twist_orange.svg

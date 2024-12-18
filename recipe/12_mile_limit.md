@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "12 Mile Limit"
 permalink: "/recipe/12_mile_limit.html"
+iconfile: 12_mile_limit
 stars: 4
 category: "Light Rum, Rye, Cognac"
 youtube: "6M6Xu_URmPg"

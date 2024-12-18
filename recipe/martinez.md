@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Martinez"
 permalink: "/recipe/martinez.html"
+iconfile: martinez
 stars: 0
 category: "Gin, Maraschino Liqueur"
 youtube: 'MuxY7\_-_U_8'

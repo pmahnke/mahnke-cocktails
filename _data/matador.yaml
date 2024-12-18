@@ -1,0 +1,7 @@
+images:
+  - tool: /cocktails/assets/images/tool_boston-shaker.svg
+  - tool: /cocktails/assets/images/tool_double-strainer.svg
+  - tool: /cocktails/assets/images/tool_hawthorn-strainer.svg
+  - glass: /cocktails/assets/images/glass_coupe.svg
+  - glass: /cocktails/assets/images/glass_margarita.svg
+  - garnish: /cocktails/assets/images/slice_pineapple.svg

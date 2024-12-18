@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Old Cuban"
 permalink: "/recipe/old_cuban.html"
+iconfile: old_cuban
 stars: 0
 category: "Champagne, Gold Rum "
 youtube: "IAaiRENeyvc&t=639s"

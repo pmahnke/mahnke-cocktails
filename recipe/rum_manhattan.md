@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rum Manhattan"
 permalink: "/recipe/rum_manhattan.html"
+iconfile: rum_manhattan
 stars: 3
 category: Demerara Rum
 youtube: "eWESf1b317Y&t=278s"

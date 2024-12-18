@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "White Russian"
 permalink: "/recipe/white_russian.html"
+iconfile: white_russian
 stars: 4
 category: "Vodka, Kahlúa"
 youtube: "z2lAXggbDDY"

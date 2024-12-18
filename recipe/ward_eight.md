@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Ward Eight"
 permalink: "/recipe/ward_eight.html"
+iconfile: ward_eight
 stars: 0
 category: "Rye "
 youtube: "Gf8FdfHx-LmqZMg-"

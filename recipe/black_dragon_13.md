@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Black Dragon No. 13"
 permalink: "/recipe/black_dragon_13.html"
+iconfile: black_dragon_13
 stars: 0
 category: "Cognac, Amaro, Stout "
 youtube: "u0N9FFJ1i5c"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Egg Nog"
 permalink: "/recipe/egg_nog.html"
+iconfile: egg_nog
 stars: 4
 category: "Rum, Amontillado Sherry "
 youtube: "s30L-iu171E"

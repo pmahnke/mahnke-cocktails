@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Old Fashioned"
 permalink: "/recipe/old_fashioned.html"
+iconfile: old_fashioned
 stars: 3
 category: "Bourbon "
 youtube: "pdcrJ5V7YKM"

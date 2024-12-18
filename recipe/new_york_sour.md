@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "New York Sour"
 permalink: "/recipe/new_york_sour.html"
+iconfile: new_york_sour
 stars: 5
 category: "Bourbon, Red Wine "
 youtube: "D-hCgKtMIAQ"

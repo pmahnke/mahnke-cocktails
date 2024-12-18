@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Black-Eyed Susan"
 permalink: "/recipe/black_eyed_susan.html"
+iconfile: black_eyed_susan
 stars: 0
 category: "Bourbon, Vodka"
 youtube: "1V0-c6u4xJA"

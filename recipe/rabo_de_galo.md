@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rabo De Galo"
 permalink: "/recipe/rabo_de_galo.html"
+iconfile: rabo_de_galo
 stars: 0
 category: "Cachaça, Cynar Amaro"
 youtube: "YFqEvNdPrX8"

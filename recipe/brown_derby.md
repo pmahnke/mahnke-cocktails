@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brown Derby"
 permalink: "/recipe/brown_derby.html"
+iconfile: brown_derby
 stars: 0
 category: "Bourbon "
 youtube: "79htbyQ8nDY&t=62s"

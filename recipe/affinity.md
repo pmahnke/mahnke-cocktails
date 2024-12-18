@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Affinity"
 permalink: "/recipe/affinity.html"
+iconfile: affinity
 stars: 0
 category: "Overproof Rum, Coffee Liqueur"
 youtube: "9lgx04fJrSM"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lonely Valentine"
 permalink: "/recipe/lonely_valentine.html"
+iconfile: lonely_valentine
 stars: 0
 category: "Light Rum, Ruby Port, White Crème de Cacao "
 youtube: "UhRb_xqCXwQ"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Scofflaw"
 permalink: "/recipe/scofflaw.html"
+iconfile: scofflaw
 stars: 5
 category: "Rye"
 youtube: "nutbajkZ8Lc"

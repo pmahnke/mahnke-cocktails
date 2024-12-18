@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Amaretto Sour"
 permalink: "/recipe/amaretto_sour.html"
+iconfile: amaretto_sour
 stars: 0
 category: "Amaretto, Apple Brandy"
 youtube: "_nIr7E-cMOs"

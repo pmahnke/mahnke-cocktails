@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Frozoni"
 permalink: "/recipe/frozoni.html"
+iconfile: frozoni
 stars: 0
 category: "Gin, Campari, Prosecco"
 youtube: "ipHnOhkGWug"

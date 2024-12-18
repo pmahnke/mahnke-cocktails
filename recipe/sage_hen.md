@@ -3,6 +3,7 @@ layout: recipe
 author: The Educated Barfly Cocktail Recipes
 title: "Sage Hen"
 permalink: "/recipe/sage_hen.html"
+iconfile: sage_hen
 stars: 0
 category: "Gin, Yellow Chartreuse "
 youtube: "EKyIy5iG87Q"

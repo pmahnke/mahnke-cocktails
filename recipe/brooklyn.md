@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brooklyn"
 permalink: "/recipe/brooklyn.html"
+iconfile: brooklyn
 stars: 0
 category: "Rye, Maraschino Liqueur"
 youtube: "JU8xN_ty2i0"
@@ -19,7 +20,7 @@ excerpt: |
 |    0.25 oz | Maraschino Liqueur | Luxardo                        |
 |    0.25 oz | Amaro              | Amaro Ramazzotti               |
 | 2-3 dashes | Orange Bitters     | Fee Brothers                   |
-|    1 strip | Orange Peal        |
+|    1 strip | Orange Peel        |
 
 ### Notes
 

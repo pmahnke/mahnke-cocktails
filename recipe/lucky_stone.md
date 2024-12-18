@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Lucky Stone"
 permalink: "/recipe/lucky_stone.html"
+iconfile: lucky_stone
 stars: 0
 category: "Irish Whiskey, Amontillado Sherry, Apricot Liquer "
 youtube: "aRboP-f7LK0"

@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Pomegranate Limeade"
 permalink: "/recipe/pomegranate_limeade.html"
+iconfile: pomegranate_limeade
 stars: 0
 category: "Grenadine, Sparkling Water, Lime"
 youtube: "YwHw259XAOU"

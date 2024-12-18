@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Adonis"
 permalink: "/recipe/adonis.html"
+iconfile: adonis
 stars: 3
 category: "Oloroso Sherry "
 youtube: "B8l-F1qcTYU&t=48s"

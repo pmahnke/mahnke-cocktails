@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "S'no Problem"
 permalink: "/recipe/sno_problem.html"
+iconfile: sno_problem
 stars: 0
 category: "Navy Strength Rum, Bourbon "
 youtube: "s30L-iu171E"

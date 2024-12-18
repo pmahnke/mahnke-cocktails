@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sherry Cobbler"
 permalink: "/recipe/sherry_cobbler.html"
+iconfile: sherry_cobbler
 stars: 0
 category: "Oloroso Sherry "
 youtube: "f7SpTmbMOsQ"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Whiskey Smash"
 permalink: "/recipe/whiskey_smash.html"
+iconfile: whiskey_smash
 stars: 0
 category: "Bourbon "
 youtube: "Jo1wxAfyLto"

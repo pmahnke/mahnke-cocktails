@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Noble Beast"
 permalink: "/recipe/noble_beast.html"
+iconfile: noble_beast
 stars: 0
 category: "Angostura Aromatic Bitters "
 youtube: "pzmVLMzQjNo"

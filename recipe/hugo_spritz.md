@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hugo Spritz"
 permalink: "/recipe/hugo_spritz.html"
+iconfile: hugo_spritz
 stars: 0
 category: "Elderflower Liqueur, Prosecco"
 youtube: "BUb54paVf0s"

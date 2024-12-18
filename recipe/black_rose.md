@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Black Rose"
 permalink: "/recipe/black_rose.html"
+iconfile: black_rose
 stars: 0
 category: "Bourbon. Cognac"
 youtube: "YwHw259XAOU"

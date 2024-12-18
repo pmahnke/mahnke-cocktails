@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hemingway Daiquiri"
 permalink: "/recipe/hemingway_daiquiri.html"
+iconfile: hemingway_daiquiri
 stars: 0
 category: "Light Rum, Maraschino Liqueur"
 youtube: "mILAxazthY4"

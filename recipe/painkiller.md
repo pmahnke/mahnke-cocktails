@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Painkiller (Inspired)"
 permalink: "/recipe/painkiller.html"
+iconfile: painkiller
 stars: 4
 category: "Demerara Rum, Jamaican Rum "
 youtube: "XYfHK3goJLk"

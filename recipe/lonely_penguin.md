@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lonely Penguin"
 permalink: "/recipe/lonely_penguin.html"
+iconfile: lonely_penguin
 stars: 0
 category: "Rye, Crème de Mûre"
 youtube: "Hw-KZJNvtts"

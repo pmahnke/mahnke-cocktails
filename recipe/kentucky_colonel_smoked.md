@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Kentucky Colonel, Smoked"
 permalink: "/recipe/kentucky_colonel_smoked.html"
+iconfile: kentucky_colonel_smoked
 stars: 0
 category: "Bourbon, Bénédictine"
 youtube: "gZdT2GBf91I"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Japanese Cocktail"
 permalink: "/recipe/japanese.html"
+iconfile: japanese_cocktail
 stars: 0
 category: "Cognac "
 youtube: "83TEnWyeqV0"

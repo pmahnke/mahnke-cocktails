@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rolls Royce"
 permalink: "/recipe/rolls_royce.html"
+iconfile: rolls_royce
 stars: 0
 category: "Gin, Bénédictine"
 youtube: "UJJqbCGHsOg"

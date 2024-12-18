@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Caipirinha"
 permalink: "/recipe/caipirinha.html"
+iconfile: caipirinha
 stars: 4
 category: "Cachaça "
 youtube: "i1UHUyWerhg"

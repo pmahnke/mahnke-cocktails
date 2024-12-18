@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Aviation"
 permalink: "/recipe/aviation.html"
+iconfile: aviation
 stars: 4
 category: "Gin, Crème de Violette "
 youtube: "Kmw5D32W8sM&t=345sY"

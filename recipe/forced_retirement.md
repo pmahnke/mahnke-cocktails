@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Forced Retirement"
 permalink: "/recipe/forced_retirement.html"
+iconfile: forced_retirement
 stars: 0
 category: "Malört, Gin, Campari "
 youtube: "shi2LNARyxk"

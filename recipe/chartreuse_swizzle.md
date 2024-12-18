@@ -3,6 +3,7 @@ layout: recipe
 author: Marco Valdo Dionysus Cocktail Recipes
 title: "Chartreuse Swizzle"
 permalink: "/recipe/chartreuseswizzle.html"
+iconfile: chartreuse_swizzle
 stars: 5
 category: "Green Chartreuse"
 youtube: "GiNen9YukD8"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Margarita: Grapefruit Ginger"
 permalink: "/recipe/margarita_ginger.html"
+iconfile: margarita_ginger
 stars: 0
 category: "Reposado Tequila "
 youtube: "jxpT11WEtWQ"

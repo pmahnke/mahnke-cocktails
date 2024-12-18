@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Elk's Own"
 permalink: "/recipe/elks_own.html"
+iconfile: elks_own
 stars: 5
 category: "Rye, Ruby Port "
 youtube: "zxDfN7UCTZs&t=34s"

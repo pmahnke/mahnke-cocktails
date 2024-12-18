@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Long Island Iced Tea"
 permalink: "/recipe/long_island_iced_tea.html"
+iconfile: long_island_iced_tea
 stars: 4
 category: "Vodka, Light Rum, Gin, Blanco Taquilla"
 youtube: "jLTLBQqWzq8"

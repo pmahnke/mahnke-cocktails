@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Blueberry Thyme Smash"
 permalink: "/recipe/blueberry_thyme_smash.html"
+iconfile: blueberry_thyme_smash
 stars: 0
 category: "Gin"
 youtube: "3i4QnRLlPFc&t=220s"

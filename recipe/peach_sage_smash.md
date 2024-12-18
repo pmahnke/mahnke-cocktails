@@ -2,6 +2,7 @@
 layout: recipe
 title: "Peach & Sage Smash"
 permalink: "/recipe/peach_sage_smash.html"
+iconfile: peach_sage_smash
 stars: 0
 category: "Reposado Tequila"
 youtube: "3i4QnRLlPFc&t=220s"

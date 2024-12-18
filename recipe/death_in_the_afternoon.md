@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Death in the Afternoon"
 permalink: "/recipe/death_in_the_afternoon.html"
+iconfile: death_in_the_afternoon
 stars: 0
 category: "Absinthe, Champagne "
 youtube: "-jb1-82N48U"

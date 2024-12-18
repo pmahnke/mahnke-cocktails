@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Gold Rush"
 permalink: "/recipe/gold_rush.html"
+iconfile: gold_rush
 stars: 0
 category: "Bourbon"
 youtube: "TP5T65EWOx65zTsY"

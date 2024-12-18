@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Jack Rose"
 permalink: "/recipe/jackrose.html"
+iconfile: jack_rose
 stars: 0
 category: "Apple Brandy "
 youtube: "7H7Cz53jDhc"

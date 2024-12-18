@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Matador"
 permalink: "/recipe/matador.html"
+iconfile: matador
 stars: 0
 category: "Reposado Tequila, White Vermouth "
 youtube: "3aV3DzDfW_A"

@@ -3,6 +3,7 @@ layout: recipe
 author: Shannon Mustipher Cocktail Recipes
 title: "Hibiscus Margarita"
 permalink: "/recipe/margarita_hibiscus.html"
+iconfile: margarita_hibiscus
 stars: 0
 category: "Reposado Tequila"
 youtube: "GiNen9YukD8"

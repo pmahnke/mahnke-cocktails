@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Espresso Martini"
 permalink: "/recipe/espresso_martini.html"
+iconfile: espresso_martini
 stars: 0
 category: "Coffee Liqueur, Vodka "
 youtube: "q0ebbWwoI10"

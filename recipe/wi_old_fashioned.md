@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Wisconsin Old Fashioned"
 permalink: "/recipe/wi_old_fashioned.html"
+iconfile: wi_old_fashioned
 stars: 4
 category: "Brandy"
 youtube: "wr1pjEwi4P0"

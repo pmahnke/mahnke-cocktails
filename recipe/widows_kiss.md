@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Widow's Kiss"
 permalink: "/recipe/widows_kiss.html"
+iconfile: widows_kiss
 stars: 0
 category: "Apple Brandy, Yellow Chartreuse, Bénédictine DOM "
 youtube: "0JqyWyBiFus"

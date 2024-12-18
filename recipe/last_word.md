@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Last Word"
 permalink: "/recipe/last_word.html"
+iconfile: last_word
 stars: 5
 category: "Gin, Green Chartreuse, Maraschino Liqueur"
 youtube: "ueiHrjWgC-jSAvQn"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Division Bell"
 permalink: "/recipe/division_bell.html"
+iconfile: division_bell
 stars: 0
 category: "Mezcal, Aperol, Maraschino Liqueur "
 youtube: "70cS-bRH9kA"

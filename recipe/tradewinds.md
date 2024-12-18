@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tradewinds"
 permalink: "/recipe/tradewinds.html"
+iconfile: tradewinds
 stars: 0
 category: "Dark Rum, Gold Rum, Apricot Liqueur"
 youtube: "RThEGH0sbgM"

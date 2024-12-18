@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Coquito"
 permalink: "/recipe/coquito.html"
+iconfile: coquito
 stars: 4
 category: "Gold Rum"
 youtube: "SAeGIcLjMlk"

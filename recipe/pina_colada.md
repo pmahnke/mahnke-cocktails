@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Piña Colada"
 permalink: "/recipe/pina_colada.html"
+iconfile: pina_colada
 stars: 4
 category: "Light Rum "
 youtube: "eH9yt9JpXXk&t=6s"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Ford"
 permalink: "/recipe/ford.html"
+iconfile: ford
 stars: 0
 category: "Old Tom Gin, Bénédictine"
 youtube: "UJJqbCGHsOg"

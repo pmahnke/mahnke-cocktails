@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mai Tai"
 permalink: "/recipe/mai_tai.html"
+iconfile: mai_tai
 stars: 5
 category: "Jamaican Rum, Rhum Ageicole "
 youtube: "gYJsPE1demY"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Enzoni"
 permalink: "/recipe/enzoni.html"
+iconfile: enzoni
 stars: 0
 category: "Gin, Campari"
 youtube: "ipHnOhkGWug"

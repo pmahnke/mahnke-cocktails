@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Naked & Famous"
 permalink: "/recipe/naked_and_famous.html"
+iconfile: naked_and_famous
 stars: 0
 category: "Mezcal, Yellow Chartreuse, Aperol "
 youtube: "70cS-bRH9kA"

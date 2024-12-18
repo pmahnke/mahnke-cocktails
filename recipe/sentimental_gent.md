@@ -2,6 +2,7 @@
 layout: recipe
 title: "Sentimental Gentleman"
 permalink: "/recipe/sentimental_gent.html"
+iconfile: sentimental_gent
 stars: 0
 category: "Scotch, Blended, Bénédictine, Walnut Liqueur"
 youtube: "QFjRjAP-k1k&t=3s"

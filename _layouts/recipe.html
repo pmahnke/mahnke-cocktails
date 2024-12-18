@@ -42,11 +42,25 @@ layout: default
 
 
     {{ content }}
-
+  
+    {% for image in site.data[page.iconfile].images %}
+        {% for tool in image.tool %}        
+        <img src="{{ image.tool }}" alt="tool" width="120">
+        {% endfor %}
+        {% for tool in image.glass %}        
+        <img src="{{ image.glass }}" alt="glass" width="120">
+        {% endfor %}
+        {% for tool in image.garnish %}        
+        <img src="{{ image.garnish }}" alt="garnish" width="120">
+        {% endfor %}
+        {% for tool in image.ice %}        
+        <img src="{{ image.ice }}" alt="ice" width="120">
+        {% endfor %}
+    {% endfor %}
 
     <div class="buttoncontainer">
         <a href="javascript:window.history.back()" class="button">Back</a>
-    </div>
+    </div> 
 
     {% if page.youtube_embed %}
     <div id="youtube" style="display: none;">

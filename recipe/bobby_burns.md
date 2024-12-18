@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bobby Burns"
 permalink: "/recipe/bobbyburns.html"
+iconfile: bobby_burns
 stars: 0
 category: "Scotch, Blended, Bénédictine"
 youtube: "X5haIFd1Ysw"

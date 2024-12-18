@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Philadelphia Fish House Punch"
 permalink: "/recipe/philly_fish_house_punch.html"
+iconfile: philly_fish_house_punch
 stars: 0
 category: "Cognac, Jamaican Rum, Apple Brandy, Peach Liqueur"
 youtube: "cJhKGTM3z20"

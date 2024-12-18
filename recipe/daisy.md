@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "The Daisy"
 permalink: "/recipe/daisy.html"
+iconfile: daisy
 stars: 0
 category: "Cognac Jamaican Rum -OR- Gin, Bénédictine "
 youtube: "EyB4Ymian3Q"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Harvey Wallbanger"
 permalink: "/recipe/harvey_wallbanger.html"
+iconfile: harvey_wallbanger
 stars: 0
 category: "Vodka, Galliano"
 youtube: "YFqEvNdPrX8"

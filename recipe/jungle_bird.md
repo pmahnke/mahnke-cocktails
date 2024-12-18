@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Jungle Bird"
 permalink: "/recipe/jungle_bird.html"
+iconfile: jungle_bird
 stars: 0
 category: "Jamaican Rum, Demerara Rum, Campari"
 youtube: "YFqEvNdPrX8"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Spring Forward"
 permalink: "/recipe/spring_forward.html"
+iconfile: spring_forward
 stars: 0
 category: "Pisco, Gin, Cocchi Americano"
 youtube: "RRvfkkSjceM"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Creole"
 permalink: "/recipe/creole.html"
+iconfile: creole
 stars: 4
 category: "Rye, Bénédictine, Amaro "
 youtube: "BTPaTmkJxbM"

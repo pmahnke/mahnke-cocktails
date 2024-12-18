@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brandy Crusta"
 permalink: "/recipe/brandycrusta.html"
+iconfile: brandy_crusta
 stars: 4
 category: "Cognac, Maraschino Liqueur"
 youtube: "N0aPVPdLyQc"

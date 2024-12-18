@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mexican Firing Squad"
 permalink: "/recipe/mexican_firing_squad.html"
+iconfile: mexican_firing_squad
 stars: 0
 category: "Reposado Tequila "
 youtube: "3aV3DzDfW_A"

@@ -2,6 +2,7 @@
 layout: recipe
 title: "Strawberry Basil Smash"
 permalink: "/recipe/strawberry_basil_smash.html"
+iconfile: strawberry_basil_smash
 stars: 0
 category: "Jamaican Rum"
 youtube: "3i4QnRLlPFc"

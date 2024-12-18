@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "French 75"
 permalink: "/recipe/french75.html"
+iconfile: french_75
 stars: 5
 category: "Champagne, Cognac -OR- Gin "
 youtube: "Viz7yWfcmdo"

@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Suffering Bastard"
 permalink: "/recipe/suffering_bastard.html"
+iconfile: suffering_bastard
 stars: 0
 category: "Gin, Cognac OR Bourbon"
 youtube: "oRQtYcyRKVI"

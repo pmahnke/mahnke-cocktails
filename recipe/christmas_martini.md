@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Christmas Martini"
 permalink: "/recipe/christmas_martini.html"
+iconfile: christmas_martini
 stars: 0
 category: "Gin, Cocchi Americano"
 youtube: "ydBN6-j1I3M"

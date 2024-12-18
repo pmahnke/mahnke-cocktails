@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Greta Garbo"
 permalink: "/recipe/greta_garbo.html"
+iconfile: greta_garbo
 stars: 0
 category: "Light Rum, Maraschino Liqueur -OR- Gin, Swedish Punch"
 youtube: "79htbyQ8nDY&t=62s"

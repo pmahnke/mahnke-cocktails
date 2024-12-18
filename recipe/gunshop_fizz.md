@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Gunshop Fizz"
 permalink: "/recipe/gunshop_fizz.html"
+iconfile: gunshop_fizz
 stars: 0
 category: "Peychaud's Bitters"
 youtube: "NYKEbNf5ksg"

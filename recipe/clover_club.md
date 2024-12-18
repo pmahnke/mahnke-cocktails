@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Clover Club"
 permalink: "/recipe/clover_club.html"
+iconfile: clover_club
 stars: 3
 category: "Gin "
 youtube: "MfHv2EOLUOo&t=336s"

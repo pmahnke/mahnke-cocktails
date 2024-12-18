@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Hot Toddies"
 permalink: "/recipe/toddies.html"
+iconfile: toddies
 stars: 0
 category: "Blended Scotch, Jamaican Rum, Mezcal "
 youtube: "DJtBN6yBnsA"

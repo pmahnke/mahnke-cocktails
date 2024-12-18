@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Alberto"
 permalink: "/recipe/alberto.html"
+iconfile: alberto
 stars: 0
 category: "Gin, Fino Sherry"
 youtube: "PM_X8Ci0iXg"
