@@ -2,3 +2,4 @@ images:
   - tool: /cocktails/assets/images/tool_long-stirrer.svg
   - glass: /cocktails/assets/images/glass_highball.svg
   - garnish: /cocktails/assets/images/herb_mint.svg
+  - ice: /cocktails/assets/images/ice_cubes.svg

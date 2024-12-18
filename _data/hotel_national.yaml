@@ -3,4 +3,5 @@ images:
   - tool: /cocktails/assets/images/tool_double-strainer.svg
   - tool: /cocktails/assets/images/tool_hawthorn-strainer.svg
   - glass: /cocktails/assets/images/glass_old-fashioned.svg
+  - garnish: /cocktails/assets/images/slice_lime.svg
   - garnish: /cocktails/assets/images/slice_pineapple.svg

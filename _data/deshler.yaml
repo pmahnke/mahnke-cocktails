@@ -3,4 +3,6 @@ images:
   - tool: /cocktails/assets/images/tool_double-strainer.svg
   - tool: /cocktails/assets/images/tool_hawthorn-strainer.svg
   - tool: /cocktails/assets/images/tool_julep-strainer.svg
+  - tool: /cocktails/assets/images/tool_long-stirrer.svg
   - glass: /cocktails/assets/images/glass_coupe.svg
+  - garnish: /cocktails/assets/images/twist_lemon.svg

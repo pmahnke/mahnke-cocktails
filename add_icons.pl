@@ -74,7 +74,11 @@ while (my $file = readdir DIR) {
 
 # search files
 foreach $file (sort @files) {
-    
+
+    # skip files if there is a argv
+    next if ($ARGV[0] && $file !~ /$ARGV[0]/);
+
+
     my $datafile = $file;
     $datafile =~ s/\.md/.yaml/;
     $datafile = $datadir.$datafile;
@@ -100,16 +104,16 @@ foreach $file (sort @files) {
     $garnish{'anise'} = `ag -il 'anise' $file`;
     $garnish{'cinnamon'} = `ag -il 'cinnamon' $file`;
     $garnish{'lime-slice'} = `ag -il 'lime wheel' $file`;
-    $garnish{'lime-slice'} = `ag -il 'lime wedge' $file`;
-    $garnish{'lime-slice'} = `ag -il 'lime oil' $file`;
+    $garnish{'lime-slice'} .= `ag -il 'lime wedge' $file`;
+    $garnish{'lime-slice'} .= `ag -il 'lime oil' $file`;
     $garnish{'lemon-twist'} = `ag -il 'lemon skin' $file`;
-    $garnish{'lemon-twist'} = `ag -il 'lemon oil' $file`;
-    $garnish{'lemon-twist'} = `ag -il 'lemon swath' $file`;
+    $garnish{'lemon-twist'} .= `ag -il 'lemon oil' $file`;
+    $garnish{'lemon-twist'} .= `ag -il 'lemon swath' $file`;
     $garnish{'orange-twist'} = `ag -il 'orange peel' $file`;
-    $garnish{'orange-twist'} = `ag -il 'orange oil' $file`;
+    $garnish{'orange-twist'} .= `ag -il 'orange oil' $file`;
     $garnish{'orange-slice'} = `ag -il 'orange slice' $file`;
-    $garnish{'orange-slice'} = `ag -il 'orange wedge' $file`;
-    $garnish{'orange-slice'} = `ag -il 'orange wheel' $file`;
+    $garnish{'orange-slice'} .= `ag -il 'orange wedge' $file`;
+    $garnish{'orange-slice'} .= `ag -il 'orange wheel' $file`;
     $garnish{'coffee'} = `ag -il 'coffee beans' $file`;
     $garnish{'lemon_cherry'} = `ag -il 'Cocktail cherry and lemon zest' $file`;
     $garnish{'cocktail-cherry'} = `ag -il 'cocktail cherry' $file` if (!$garnish{'lemon_cherry'} );
@@ -130,12 +134,12 @@ foreach $file (sort @files) {
     $glass{'martini'} = `ag -il 'martini' $file`;
     $glass{'nick-and-nora'} = `ag -il 'nora' $file`;
     $glass{'double-old-fashioned'} = `ag -il 'double old fashioned' $file`;
-    $glass{'double-old-fashioned'} = `ag -il 'large glass' $file`;
+    $glass{'double-old-fashioned'} .= `ag -il 'large glass' $file`;
     $glass{'old-fashioned'} = `ag -il 'old fashioned' $file` if (!$glass{'double-old-fashioned'});
-    $glass{'old-fashioned'} = `ag -il 'Glassware: Cocktail' $file`;
+    $glass{'old-fashioned'} .= `ag -il 'Glassware: Cocktail' $file`;
     $glass{'pint'} = `ag -il 'Beer Mug' $file`;
     $glass{'rocks'} = `ag -il 'low ball' $file`;
-    $glass{'rocks'} = `ag -il 'Rocks Glass' $file`;
+    $glass{'rocks'} .= `ag -il 'Rocks Glass' $file`;
     $glass{'sling'} = `ag -il 'sling' $file`;
     $glass{'snifter'} = `ag -il 'snifter' $file`;
     $glass{'sour'} = `ag -il 'sour' $file`;
@@ -143,20 +147,20 @@ foreach $file (sort @files) {
     #$glass{'whiskey'} = `ag -il 'whiskey' $file`;
 
     $ice{'cubes'} = `ag -il 'crushed ice' $file`;
-    $ice{'cubes'} = `ag -il 'on the rocks' $file`;
+    $ice{'cubes'} .= `ag -il 'on the rocks' $file`;
     $ice{'large'} = `ag -il 'Large Ice cube' $file`;
 
     $tool{'boston-shaker'} = `ag -il 'shaken' $file`;
     $tool{'grater'} = `ag -il 'grate' $file`;
     $tool{'hawthorn-strainer'} = `ag -il 'single strain' $file`;
-    $tool{'hawthorn-strainer'} = `ag -il 'double strain' $file`;
+    $tool{'hawthorn-strainer'} .= `ag -il 'double strain' $file`;
     $tool{'mixing-glass'} = `ag -il 'pitcher' $file`;
     $tool{'muddler'} = `ag -il 'muddle' $file`;
     $tool{'peeler'} = `ag -il 'peeler' $file`;
     $tool{'double-strainer'} = `ag -il 'double strain' $file`;
     $tool{'julep-strainer'} = `ag -il 'Julep Strain' $file`;
     $tool{'long-stirrer'} = `ag -il 'stirred' $file`;
-    $tool{'long-stirrer'} = `ag -il 'swizzle' $file`;
+    $tool{'long-stirrer'} .= `ag -il 'swizzle' $file`;
     $tool{'squeezer'} = `ag -il 'squeezer' $file`;
     $tool{'shaker'} = `ag -il 'shaker' $file` if (!$tool{'boston-shaker'});
 
@@ -176,6 +180,7 @@ foreach $file (sort @files) {
     }
     foreach my $k (sort keys %garnish) {
         next if (!$garnish{$k});
+        print "garnish: $k $garnish{$k}" if ($ARGV[0]);
         $garnish .= "  - garnish: $INCLUDE{$k}\n";
         $garnish{$k} = "";
     }

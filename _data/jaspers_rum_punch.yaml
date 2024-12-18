@@ -4,3 +4,4 @@ images:
   - glass: /cocktails/assets/images/glass_highball.svg
   - glass: /cocktails/assets/images/glass_sour.svg
   - garnish: /cocktails/assets/images/herb_mint.svg
+  - ice: /cocktails/assets/images/ice_cubes.svg

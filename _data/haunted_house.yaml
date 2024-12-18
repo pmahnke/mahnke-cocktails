@@ -1,5 +1,7 @@
 images:
   - tool: /cocktails/assets/images/tool_julep-strainer.svg
+  - tool: /cocktails/assets/images/tool_long-stirrer.svg
+  - glass: /cocktails/assets/images/glass_rocks.svg
   - garnish: /cocktails/assets/images/spice_cinnamon.svg
   - garnish: /cocktails/assets/images/fruit_lemon.svg
   - garnish: /cocktails/assets/images/twist_orange.svg

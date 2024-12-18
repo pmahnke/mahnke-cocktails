@@ -4,3 +4,4 @@ images:
   - tool: /cocktails/assets/images/tool_hawthorn-strainer.svg
   - glass: /cocktails/assets/images/glass_goblet.svg
   - garnish: /cocktails/assets/images/fruit_lemon.svg
+  - ice: /cocktails/assets/images/ice_cubes.svg

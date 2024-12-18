@@ -3,3 +3,4 @@ images:
   - glass: /cocktails/assets/images/glass_tiki.svg
   - garnish: /cocktails/assets/images/herb_mint.svg
   - garnish: /cocktails/assets/images/fruit-orange.svg
+  - ice: /cocktails/assets/images/ice_cubes.svg

@@ -26,5 +26,5 @@ excerpt: |
 - Glassware:
   - Low Ball
   - Large Ice cube
-- Garnish: Salted RimLime Wheel
+- Garnish: Salted Rim, Lime Wheel
 - Special Prep: None

@@ -1,4 +1,8 @@
 images:
   - tool: /cocktails/assets/images/tool_boston-shaker.svg
+  - tool: /cocktails/assets/images/tool_hawthorn-strainer.svg
+  - tool: /cocktails/assets/images/tool_long-stirrer.svg
   - glass: /cocktails/assets/images/glass_margarita.svg
+  - glass: /cocktails/assets/images/glass_rocks.svg
+  - garnish: /cocktails/assets/images/slice_lime.svg
   - ice: /cocktails/assets/images/ice_cubes.svg
