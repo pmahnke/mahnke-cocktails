@@ -21,8 +21,10 @@ excerpt: |
 
 ### Notes
 
-- Method: Shaken/Stirred/Build in the Glass
-- Pour: Double Strain/Julep Strain/Open Pour/Add all ingredients directly to the glass
-- Glassware: Low Ball, Large Ice cube
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+    - Low Ball
+    - Large Ice cube
 - Garnish: Grapefruit zest
 - Special Prep: Express grapefruit oil on the drink.
