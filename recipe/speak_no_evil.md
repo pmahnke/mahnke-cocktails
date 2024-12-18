@@ -29,5 +29,5 @@ excerpt: |
 - Glassware:
   - High Ball
   - Crushed Ice
-- Garnish: Orange wheel, grated ginnamon, and a cocktail cherry
+- Garnish: Orange wheel, grated cinnamon, and a cocktail cherry
 - Special Prep: None
