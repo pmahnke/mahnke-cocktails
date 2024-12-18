@@ -54,3 +54,8 @@ ul {
     color: #E1AD01; 
     font-size: x-large;
   }
+p.icons {
+    vertical-align: middle;
+    text-align: right;
+    clear:both;
+    }
