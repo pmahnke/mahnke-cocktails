@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Royal Bermuda Yacht Club"
 permalink: "/recipe/royal_bermuda_yacht_club.html"
+iconfile: rbyc
 stars: 0
 category: "Demerara Rum, Light Rum"
 youtube: "y3s1xmGfLkw"

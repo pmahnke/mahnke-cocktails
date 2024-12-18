@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Macunaíma"
 permalink: "/recipe/macunaima.html"
+iconfile: macunaima
 stars: 4
 category: "Cachaça, Fernet Branca"
 youtube: "xnXFbjQSu-k"

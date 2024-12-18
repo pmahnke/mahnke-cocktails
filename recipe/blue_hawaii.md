@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Blue Hawaii"
 permalink: "/recipe/blue_hawaii.html"
+iconfile: blue_hawaii
 stars: 0
 category: "Light Rum, Rhum Agricole"
 youtube: "6bGqiC9qyQ8"
@@ -25,8 +26,8 @@ excerpt: |
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: 
-    - Hurricane Glass
-    - Crushed Ice
+- Glassware:
+  - Hurricane Glass
+  - Crushed Ice
 - Garnish: Pineapple slices, pineapple fronds, and cocktail umbrella
 - Special Prep: Pour cocktaill over crushed ice, and top with additional crushed ice.

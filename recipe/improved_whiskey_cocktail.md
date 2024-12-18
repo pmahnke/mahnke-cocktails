@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Improved Whiskey Cocktail"
 permalink: "/recipe/improved_whiskey_cocktail.html"
+iconfile: improved_whiskey_cocktail
 stars: 0
 category: "Rye, Maraschino Liqueur, Absinthe"
 youtube: "8Mj790thvm8"

@@ -5,5 +5,5 @@ images:
   - glass: /cocktails/assets/images/glass_collins.svg
   - glass: /cocktails/assets/images/glass_highball.svg
   - garnish: /cocktails/assets/images/twist_cocktail-cherry.svg
-  - garnish: 
+  - garnish: /cocktails/assets/images/fruit_lemon.svg
   - ice: /cocktails/assets/images/ice_cubes.svg

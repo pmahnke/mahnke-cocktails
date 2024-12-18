@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Millionaire Cocktail #1"
 permalink: "/recipe/millionaire_cocktail.html"
+iconfile: millionaire_cocktail
 stars: 0
 category: "Jamaican Rum, Apricot Liqueur"
 youtube: "CZ5KSKO3sbQ"

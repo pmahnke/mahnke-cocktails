@@ -1,12 +1,12 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Star Cocktail"
-permalink: '/recipe/star_cocktail.html'
+permalink: "/recipe/star_cocktail.html"
+iconfile: star_cocktail
 stars: 0
-category: 'Apple Brandy'
-youtube: '9OxlSOioD_k'
+category: "Apple Brandy"
+youtube: "9OxlSOioD_k"
 excerpt: |
   Said to have been created in the 1870s by a bartender at the legendary Manhattan Club, which once stood at the north corner of 34th Street and 5th Avenue, New York City. Our recipe is adapted from George J. Kappeler's 1895 <i>Modern American Drinks – How to Mix and Serve All Kinds of Cups and Drinks</i>. The "Star Cocktail (No. 2)" notably also appears in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i>.
 ---

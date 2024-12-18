@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Angel Face"
 permalink: "/recipe/angel_face.html"
+iconfile: angel_face
 stars: 0
 category: "Gin, Apple Brandy, Apricot Liqueur"
 youtube: "2nHl1pBETt8"

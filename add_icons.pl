@@ -8,7 +8,7 @@ my $dir = qq|/home/peter/src/personal/cocktails/recipe/|;
 my $datadir = qq|/home/peter/src/personal/cocktails/_data/|;
 
 
-$INCLUDE{'lemon'} = qq|/cocktails/assets/images/fruit_lemon.svg|;
+$INCLUDE{'lemon-slice'} = qq|/cocktails/assets/images/fruit_lemon.svg|;
 $INCLUDE{'olives'} = qq|/cocktails/assets/images/fruit_olives.svg|;
 $INCLUDE{'raspberries'} = qq|/cocktails/assets/images/fruit_raspberries.svg|;
 $INCLUDE{'strawberry'} = qq|/cocktails/assets/images/fruit_strawberry.svg|;

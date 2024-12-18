@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Junior (aka Quick Recovery)"
-permalink: '/recipe/junior.html'
+permalink: "/recipe/junior.html"
+iconfile: junior
 stars: 0
-category: 'Rye, Bénédictine'
-youtube: '_bDARIxZlcE'
+category: "Rye, Bénédictine"
+youtube: "_bDARIxZlcE"
 excerpt: |
   This drink appeared in a 1937 issue of Esquire magazine, and was recently rediscovered by David Wondrich. Jim Meehan includes it in his wonderful cocktail tome, The PDT Cocktail Book.
 ---
