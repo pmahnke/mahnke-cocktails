@@ -2,6 +2,7 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Aperol Spritz"
+iconfile: aperol_spritz
 permalink: "/recipe/aperol_spritz.html"
 stars: 0
 category: "Aperol, Prosecco"

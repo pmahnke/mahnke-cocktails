@@ -2,6 +2,7 @@
 layout: recipe
 title: "Pineapple Infused Rum"
 type: syrup
+iconfile: pineapple_infused_rum
 permalink: "/recipe/pineappleinfusedrum.html"
 youtube: "BXGS7Ai2hec"
 excerpt: |

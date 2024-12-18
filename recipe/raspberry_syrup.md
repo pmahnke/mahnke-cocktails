@@ -3,6 +3,7 @@ layout: recipe
 title: "Raspberry Syrup"
 type: syrup
 permalink: "/recipe/raspberrysyrup.html"
+iconfile: raspberry_syrup
 youtube: "vGBMrJgjZB4"
 excerpt: |
   Fresh raspberry syrup adds sweet, tart, fruity flavor to drinks of all kinds.

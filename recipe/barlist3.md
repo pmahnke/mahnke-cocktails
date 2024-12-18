@@ -2,6 +2,7 @@
 layout: recipe
 title: "5 Tools to UP Your Game!"
 type: list
+iconfile: barlist3
 permalink: "/recipe/barlist3.html"
 youtube: "v=I9XrSLALKA4"
 ---

@@ -2,6 +2,7 @@
 layout: recipe
 title: "Honey Syrup"
 type: syrup
+iconfile: honey_syrup
 permalink: "/recipe/honeysyrup.html"
 youtube: "kRdWT71gBb5UcAU8"
 excerpt: |
