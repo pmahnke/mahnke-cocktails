@@ -2,6 +2,7 @@
 layout: recipe
 title: "Jasper's Mix (1/2 batch)"
 type: syrup
+iconfile: jaspers_mix
 permalink: "/recipe/jaspers_mix.html"
 youtube: "sRTGCquUgMs"
 excerpt: |

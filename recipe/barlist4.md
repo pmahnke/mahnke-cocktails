@@ -2,6 +2,7 @@
 layout: recipe
 title: "Cocktail Glasses: Essentials and Favorites"
 type: list
+iconfile: barlist4
 permalink: "/recipe/barlist4.html"
 youtube: "v=CODeSo8ePtM"
 ---

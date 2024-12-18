@@ -2,6 +2,7 @@
 layout: recipe
 title: "Falernum"
 type: syrup
+iconfile: falernum_syrup
 permalink: "/recipe/falernum.html"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

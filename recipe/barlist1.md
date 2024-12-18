@@ -2,6 +2,7 @@
 layout: recipe
 title: "10 Best Equipment for Home & Pros!"
 type: list
+iconfile: barlist1
 permalink: "/recipe/barlist1.html"
 youtube: "_UFiGai-8RA"
 ---

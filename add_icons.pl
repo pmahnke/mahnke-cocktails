@@ -201,7 +201,7 @@ foreach $file (sort @files) {
         print "wrote data file: $datafile\n";
     
         # add file to recipe.md ( RAN ONCE! )
-        #`awk '/stars:/{print "iconfile: $iconfile"} 1' $file > $testfile`;
+        `awk '/permalink:/{print "iconfile: $iconfile"} 1' $file > $testfile` if (!`ag -li iconfile $file`);
 
     }
 }

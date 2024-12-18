@@ -2,6 +2,7 @@
 layout: recipe
 title: "Cold Brew Concentrate"
 type: syrup
+iconfile: cold_brew_concentrate
 permalink: "/recipe/coldbrewconcentrate.html"
 youtube: "u0N9FFJ1i5c"
 excerpt: |

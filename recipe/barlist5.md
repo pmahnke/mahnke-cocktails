@@ -2,6 +2,7 @@
 layout: recipe
 title: "Cocktail Book Recommendations"
 type: list
+iconfile: barlist5
 permalink: "/recipe/barlist5.html"
 youtube: "v=hoJ1_OlfCA8"
 ---

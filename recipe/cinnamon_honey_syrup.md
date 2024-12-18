@@ -2,6 +2,7 @@
 layout: recipe
 title: "Cinnamon-Infused Honey Syrup"
 type: syrup
+iconfile: cinnamon_honey_syrup
 permalink: "/recipe/cinnamonhoneysyrup.html"
 youtube: "79htbyQ8nDY&t=62s"
 excerpt: |
