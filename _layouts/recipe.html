@@ -43,36 +43,45 @@ layout: default
 
     {{ content }}
   
-    {% for image in site.data[page.iconfile].images %}
-        {% for tool in image.tool %}        
-        <img src="{{ image.tool }}" alt="tool" width="120">
-        {% endfor %}
-        {% for tool in image.glass %}        
-        <img src="{{ image.glass }}" alt="glass" width="120">
-        {% endfor %}
-        {% for tool in image.garnish %}        
-        <img src="{{ image.garnish }}" alt="garnish" width="120">
-        {% endfor %}
-        {% for tool in image.ice %}        
-        <img src="{{ image.ice }}" alt="ice" width="120">
-        {% endfor %}
-    {% endfor %}
-
-    <div class="buttoncontainer">
-        <a href="javascript:window.history.back()" class="button">Back</a>
-    </div> 
-
-    {% if page.youtube_embed %}
-    <div id="youtube" style="display: none;">
-        <object
-            data="{{ page.youtube_embed }}"
-            type="text/html"
-            width="1120"
-            height="630"
-        >
-    </div>
-    {% endif %}
+   
 
     </div><!-- /div 2/3 -->
+   
+    <div class="one-third column">
+            
+        {% for image in site.data[page.iconfile].images %}
+        {% for tool in image.tool %}        
+        <p class="icons"><img src="{{ image.tool }}" alt="tool" width="120"></p>
+        {% endfor %}
+        {% for tool in image.glass %}        
+        <p class="icons"><img src="{{ image.glass }}" alt="glass" width="120"></p>
+        {% endfor %}
+        {% for tool in image.garnish %}        
+        <p class="icons"><img src="{{ image.garnish }}" alt="garnish" width="120"></p>
+        {% endfor %}
+        {% for tool in image.ice %}        
+        <p class="icons"><img src="{{ image.ice }}" alt="ice" width="120"></p>
+        {% endfor %}
+    {% endfor %}
+    
+    </div><!-- /div 1/3 -->
+
 </div><!-- /div row -->
 
+<div class=""row">
+    <div class="twelve.columns" style="padding:10px 0;">
+        <a href="javascript:window.history.back()" class="button">Back</a>
+
+        {% if page.youtube_embed %}
+        <div id="youtube" style="display: none;">
+            <object
+                data="{{ page.youtube_embed }}"
+                type="text/html"
+                width="1120"
+                height="630"
+            >
+        </div>
+        {% endif %}
+
+    </div>
+</div>

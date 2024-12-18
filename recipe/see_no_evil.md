@@ -25,6 +25,8 @@ excerpt: |
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: Low BallCrushed Ice
+- Glassware: 
+  - Low Ball
+  - Crushed Ice
 - Garnish: Grated nutmeg and mint sprig
 - Special Prep: Open pour the cocktail into the glass. Top with additional crushed ice. Dash bitters on top.
