@@ -10,35 +10,8 @@ youtube: "Kmw5D32W8sM&t=345sY"
 excerpt: |
   The aviation was created by Hugo Ensslin, head bartender at the Hotel Wallick in New York, in the early twentieth century. The first published recipe appeared in Ensslin's 1916 <em>Recipes for Mixed Drinks</em>. Ensslin's recipe called for two thirds El Bart gin, one third lemon juice, 2 dashes maraschino liqueur, and 2 dashes crème de violette.<br /><br />
 
-  Harry Craddock's influential <em>Savoy Cocktail Book</em> (1930) omitted the crème de violette, calling for a mixture of two thirds dry gin, one third lemon juice and two dashes of maraschino. Many later bartenders have followed Craddock's lead, leaving out the difficult-to-find violet liqueur.<br/><br/>
-
-  Creme Yvette, a violet liqueur made with additional spices, is sometimes substituted for crème de violette.
+  Harry Craddock's influential <em>Savoy Cocktail Book</em> (1930) omitted the crème de violette, calling for a mixture of two thirds dry gin, one third lemon juice and two dashes of maraschino. Many later bartenders have followed Craddock's lead, leaving out the difficult-to-find violet liqueur.
 ---
-
-<div class="subrecipe" markdown="1">
-
-## Shaken
-
-### Ingredients
-
-|  Amount | Ingredient         | Brand                                       |
-| ------: | ------------------ | ------------------------------------------- |
-|    2 oz | Gin                | Journeyman Distillery Bilberry Black Hearts |
-| 0.25 oz | Crème de Violette  | Rothman and Winter                          |
-| 0.25 oz | Maraschino Liqueur | Luxardo                                     |
-|  0.5 oz | Fresh Lemon Juice  |
-
-### Notes
-
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Cocktail cherry and lemon zest for garnish
-
-</div>
-<div class="subrecipe" markdown="1">
-
-## Stirred - Modern Preference
 
 ### Ingredients
 
@@ -52,9 +25,8 @@ excerpt: |
 ### Notes
 
 - Method: Stirred
-- Pour: Double Strain
+- Pour: Julip Strain
 - Glassware: Coupe
 - Garnish: Cocktail cherry and lemon zest for garnish
 - Special Prep: Stirring preserves the purple color
 
-</div>
