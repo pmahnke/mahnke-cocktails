@@ -1,4 +1,13 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-dry-vermouth.svg
+      title: Dry vermouth
+    - url: /cocktails/assets/images/ingredient-rye.svg
+      title: Rye
+    - url: /cocktails/assets/images/ingredient-sweet-vermouth.svg
+      title: Sweet vermouth
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer

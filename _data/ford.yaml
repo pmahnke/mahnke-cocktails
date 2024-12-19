@@ -1,4 +1,13 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-dry-vermouth.svg
+      title: Dry vermouth
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-orange-bitters.svg
+      title: Orange bitters
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer

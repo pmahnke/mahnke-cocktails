@@ -1,4 +1,9 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-apple-brandy.svg
+      title: Apple brandy
+    - url: /cocktails/assets/images/ingredient-sherry.svg
+      title: Sherry
   garnish:
     - url: /cocktails/assets/images/spice_cinnamon.svg
       title: Cinnamon

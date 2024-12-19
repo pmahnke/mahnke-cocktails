@@ -1,4 +1,23 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-campari.svg
+      title: Campari
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
+    - url: /cocktails/assets/images/ingredient-pisco.svg
+      title: Pisco
+    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
+      title: Simple syrup
+    - url: /cocktails/assets/images/ingredient-sloe-gin.svg
+      title: Sloe gin
+    - url: /cocktails/assets/images/ingredient-soda-water.svg
+      title: Sparkling water
+    - url: /cocktails/assets/images/ingredient-water.svg
+      title: Water
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

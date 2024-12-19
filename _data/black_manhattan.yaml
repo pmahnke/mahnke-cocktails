@@ -1,4 +1,13 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /cocktails/assets/images/ingredient-orange-bitters.svg
+      title: Orange bitters
+    - url: /cocktails/assets/images/ingredient-rye.svg
+      title: Rye
   tool:
     - url: /cocktails/assets/images/tool_double-strainer.svg
       title: Double strainer

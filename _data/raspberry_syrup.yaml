@@ -1,4 +1,9 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
+      title: Simple syrup
+    - url: /cocktails/assets/images/ingredient-water.svg
+      title: Water
   garnish:
     - url: /cocktails/assets/images/fruit_raspberries.svg
       title: Raspberries

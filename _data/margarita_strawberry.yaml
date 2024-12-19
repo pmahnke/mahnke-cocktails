@@ -1,4 +1,11 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-lime-juice.svg
+      title: Lime juice
+    - url: /cocktails/assets/images/ingredient-reposado-tequila.svg
+      title: Reposado tequila
+    - url: /cocktails/assets/images/ingredient-tequila.svg
+      title: Tequila
   glass:
     - url: /cocktails/assets/images/glass_margarita.svg
       title: Margarita

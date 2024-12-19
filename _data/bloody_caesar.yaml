@@ -1,4 +1,7 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-vodka.svg
+      title: Vodka
   glass:
     - url: /cocktails/assets/images/glass_highball.svg
       title: Highball

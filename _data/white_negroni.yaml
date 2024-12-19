@@ -1,4 +1,11 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-lillet-blanc.svg
+      title: Lillet blanc
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer

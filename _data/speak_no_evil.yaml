@@ -1,4 +1,17 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-allspice-dram.svg
+      title: Allspice dram
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
+    - url: /cocktails/assets/images/ingredient-mezcal.svg
+      title: Mezcal
+    - url: /cocktails/assets/images/ingredient-reposado-tequila.svg
+      title: Reposado tequila
+    - url: /cocktails/assets/images/ingredient-tequila.svg
+      title: Tequila
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

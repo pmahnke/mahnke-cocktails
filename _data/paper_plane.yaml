@@ -1,4 +1,11 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-aperol.svg
+      title: Aperol
+    - url: /cocktails/assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

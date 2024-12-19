@@ -1,4 +1,15 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino liqueur
+    - url: /cocktails/assets/images/ingredient-prosecco.svg
+      title: Prosecco
+    - url: /cocktails/assets/images/ingredient-sherry.svg
+      title: Sherry
+    - url: /cocktails/assets/images/ingredient-soda-water.svg
+      title: Soda water
+    - url: /cocktails/assets/images/ingredient-water.svg
+      title: Water
   garnish:
     - url: /cocktails/assets/images/fruit_lemon.svg
       title: Lemon slice

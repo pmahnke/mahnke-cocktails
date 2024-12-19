@@ -1,4 +1,7 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-scotch.svg
+      title: Scotch
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer

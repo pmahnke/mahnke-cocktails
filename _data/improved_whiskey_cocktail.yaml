@@ -1,4 +1,17 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino liqueur
+    - url: /cocktails/assets/images/ingredient-rye.svg
+      title: Rye
+    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
+      title: Simple syrup
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer

@@ -1,4 +1,13 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-creme-de-violette.svg
+      title: Creme de violette
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
+    - url: /cocktails/assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino liqueur
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker
@@ -13,4 +22,4 @@ images:
       title: Coupe
   garnish:
     - url: /cocktails/assets/images/twist_lemon_cherry.svg
-      title: Lemon_cherry
+      title: Lemon cherry

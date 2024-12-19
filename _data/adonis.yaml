@@ -1,4 +1,13 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-orange-bitters.svg
+      title: Orange bitters
+    - url: /cocktails/assets/images/ingredient-sherry.svg
+      title: Sherry
+    - url: /cocktails/assets/images/ingredient-sweet-vermouth.svg
+      title: Sweet vermouth
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

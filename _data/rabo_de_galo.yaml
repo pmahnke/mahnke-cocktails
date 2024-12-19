@@ -1,4 +1,9 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-cynar-amaro.svg
+      title: Cynar amaro
+    - url: /cocktails/assets/images/ingredient-sweet-vermouth.svg
+      title: Sweet vermouth
   tool:
     - url: /cocktails/assets/images/tool_long-stirrer.svg
       title: Long stirrer

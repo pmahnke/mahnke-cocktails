@@ -1,4 +1,11 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-apple-brandy.svg
+      title: Apple brandy
+    - url: /cocktails/assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot liqueur
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
   tool:
     - url: /cocktails/assets/images/tool_long-stirrer.svg
       title: Long stirrer

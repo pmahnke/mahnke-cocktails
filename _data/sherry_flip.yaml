@@ -1,4 +1,11 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-cream.svg
+      title: Cream
+    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
+      title: Demerara syrup
+    - url: /cocktails/assets/images/ingredient-sherry.svg
+      title: Sherry
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

@@ -1,4 +1,15 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-dry-vermouth.svg
+      title: Dry vermouth
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-grenadine.svg
+      title: Grenadine
+    - url: /cocktails/assets/images/ingredient-light-rum.svg
+      title: Light rum
+    - url: /cocktails/assets/images/ingredient-vermouth.svg
+      title: White vermouth
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer

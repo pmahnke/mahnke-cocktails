@@ -1,4 +1,15 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-falernum.svg
+      title: Falernum
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
+    - url: /cocktails/assets/images/ingredient-passion-fruit-syrup.svg
+      title: Passion fruit syrup
+    - url: /cocktails/assets/images/ingredient-port.svg
+      title: Port
   glass:
     - url: /cocktails/assets/images/glass_double-old-fashioned.svg
       title: Double old fashioned

@@ -1,4 +1,11 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-apple-brandy.svg
+      title: Apple brandy
+    - url: /cocktails/assets/images/ingredient-grenadine.svg
+      title: Grenadine
+    - url: /cocktails/assets/images/ingredient-lime-juice.svg
+      title: Lime juice
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

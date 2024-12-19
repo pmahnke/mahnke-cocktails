@@ -1,4 +1,15 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-dry-vermouth.svg
+      title: Dry vermouth
+    - url: /cocktails/assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino liqueur
+    - url: /cocktails/assets/images/ingredient-orange-bitters.svg
+      title: Orange bitters
+    - url: /cocktails/assets/images/ingredient-rye.svg
+      title: Rye
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer

@@ -1,4 +1,13 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /cocktails/assets/images/ingredient-grenadine.svg
+      title: Grenadine
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer

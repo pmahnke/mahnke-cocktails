@@ -1,4 +1,19 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
+      title: Demerara syrup
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-ginger-beer.svg
+      title: Ginger beer
+    - url: /cocktails/assets/images/ingredient-lime-juice.svg
+      title: Lime juice
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

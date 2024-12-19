@@ -1,4 +1,15 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-campari.svg
+      title: Campari
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Demerara rum
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
+    - url: /cocktails/assets/images/ingredient-light-rum.svg
+      title: Light rum
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

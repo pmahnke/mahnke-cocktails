@@ -1,4 +1,13 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-campari.svg
+      title: Campari
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
+    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
+      title: Simple syrup
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

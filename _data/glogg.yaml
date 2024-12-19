@@ -1,4 +1,9 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /cocktails/assets/images/ingredient-port.svg
+      title: Port
   garnish:
     - url: /cocktails/assets/images/twist_orange.svg
       title: Orange twist

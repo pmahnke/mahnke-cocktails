@@ -1,4 +1,7 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bourbon.svg
+      title: Bourbon
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer

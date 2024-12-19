@@ -5,7 +5,7 @@ title: "Smoky Spicy Margarita"
 permalink: "/recipe/margarita_spicy.html"
 iconfile: margarita_spicy
 stars: 0
-category: "Mescal "
+category: "Mezcal "
 youtube: "jxpT11WEtWQ"
 excerpt: |
   A Smoky Spicy Margarita is a cocktail that adds a smoky and spicy twist to the classic margarita. It typically involves using mezcal instead of tequila, muddling in jalapeños for heat, and rimming the glass with a spicy salt mixture like chili powder and cayenne pepper.

@@ -1,4 +1,49 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /cocktails/assets/images/ingredient-aperol.svg
+      title: Aperol
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /cocktails/assets/images/ingredient-campari.svg
+      title: Campari
+    - url: /cocktails/assets/images/ingredient-chartreuse.svg
+      title: Chartreuse
+    - url: /cocktails/assets/images/ingredient-cocchi-americano.svg
+      title: Cocchi americano
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Dark rum
+    - url: /cocktails/assets/images/ingredient-dry-vermouth.svg
+      title: Dry vermouth
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-light-rum.svg
+      title: Light rum
+    - url: /cocktails/assets/images/ingredient-lillet-blanc.svg
+      title: Lillet blanc
+    - url: /cocktails/assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino liqueur
+    - url: /cocktails/assets/images/ingredient-mezcal.svg
+      title: Mezcal
+    - url: /cocktails/assets/images/ingredient-orange-bitters.svg
+      title: Orange bitters
+    - url: /cocktails/assets/images/ingredient-rye.svg
+      title: Rye
+    - url: /cocktails/assets/images/ingredient-scotch.svg
+      title: Scotch
+    - url: /cocktails/assets/images/ingredient-sherry.svg
+      title: Sherry
+    - url: /cocktails/assets/images/ingredient-sweet-vermouth.svg
+      title: Sweet vermouth
+    - url: /cocktails/assets/images/ingredient-tequila.svg
+      title: Tequila
+    - url: /cocktails/assets/images/ingredient-triple-sec.svg
+      title: Triple sec
+    - url: /cocktails/assets/images/ingredient-vodka.svg
+      title: Vodka
   glass:
     - url: /cocktails/assets/images/glass_old-fashioned.svg
       title: Old fashioned

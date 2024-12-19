@@ -1,4 +1,13 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /cocktails/assets/images/ingredient-groseille-syrup.svg
+      title: Groseille syrup
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
+    - url: /cocktails/assets/images/ingredient-sherry.svg
+      title: Sherry
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

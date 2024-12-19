@@ -1,4 +1,13 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-cocchi-americano.svg
+      title: Cocchi americano
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-sherry.svg
+      title: Sherry
+    - url: /cocktails/assets/images/ingredient-triple-sec.svg
+      title: Triple sec
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer

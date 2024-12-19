@@ -1,4 +1,19 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
+      title: Demerara syrup
+    - url: /cocktails/assets/images/ingredient-egg-white.svg
+      title: Egg white
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
+    - url: /cocktails/assets/images/ingredient-port.svg
+      title: Port
+    - url: /cocktails/assets/images/ingredient-rye.svg
+      title: Rye
+    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
+      title: Simple syrup
+    - url: /cocktails/assets/images/ingredient-water.svg
+      title: Water
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

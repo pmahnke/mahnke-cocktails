@@ -1,4 +1,17 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-dry-vermouth.svg
+      title: Dry vermouth
+    - url: /cocktails/assets/images/ingredient-grenadine.svg
+      title: Grenadine
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
+    - url: /cocktails/assets/images/ingredient-orange-bitters.svg
+      title: Orange bitters
+    - url: /cocktails/assets/images/ingredient-rye.svg
+      title: Rye
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

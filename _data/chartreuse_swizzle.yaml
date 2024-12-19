@@ -1,4 +1,15 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-chartreuse.svg
+      title: Chartreuse
+    - url: /cocktails/assets/images/ingredient-falernum.svg
+      title: Falernum
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-lime-juice.svg
+      title: Lime juice
+    - url: /cocktails/assets/images/ingredient-pineapple-juice.svg
+      title: Pineapple juice
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

@@ -48,18 +48,21 @@ layout: default
     </div><!-- /div 2/3 -->
    
     <div class="one-third column">
-            
+
+        {% for ingredient in site.data[page.iconfile].images.ingredient %}
+        <p class="icons"><img src="{{ ingredient.url }}" alt="{{ ingredient.title }}" title="{{ ingredient.title }}" width="120"><br /><em>{{ ingredient.title }}</em></p>
+        {% endfor %}
         {% for tools in site.data[page.iconfile].images.tool %}
-        <p class="icons"><img src="{{ tools.url }}" alt="{{ tools.title }}" title="{{ tools.title }}" width="120"></p>
+        <p class="icons"><img src="{{ tools.url }}" alt="{{ tools.title }}" title="{{ tools.title }}" width="120"><br /><em>{{ tools.title }}</em></p>
         {% endfor %}
         {% for glass in site.data[page.iconfile].images.glass %}
-        <p class="icons"><img src="{{ glass.url }}" alt="{{ glass.title }}" width="120"></p>
+        <p class="icons"><img src="{{ glass.url }}" alt="{{ glass.title }}" width="120"><br /><em>{{ glass.title }}</em></p>
         {% endfor %}
         {% for ice in site.data[page.iconfile].images.ice %}
-        <p class="icons"><img src="{{ ice.url }}" alt="{{ ice.title }}" width="120"></p>
+        <p class="icons"><img src="{{ ice.url }}" alt="{{ ice.title }}" width="120"><br /><em>{{ ice.title }}</em></p>
         {% endfor %}
         {% for garnish in site.data[page.iconfile].images.garnish %}
-        <p class="icons"><img src="{{ garnish.url }}" alt="{{ garnish.title }}" width="120"></p>
+        <p class="icons"><img src="{{ garnish.url }}" alt="{{ garnish.title }}" width="120"><br /><em>{{ garnish.title }}</em></p>
         {% endfor %}
     
     </div><!-- /div 1/3 -->

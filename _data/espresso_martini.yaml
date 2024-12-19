@@ -1,4 +1,17 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-coffee-liqueur.svg
+      title: Coffee liqueur
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /cocktails/assets/images/ingredient-cold-brew.svg
+      title: Cold brew
+    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
+      title: Demerara syrup
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-vodka.svg
+      title: Vodka
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

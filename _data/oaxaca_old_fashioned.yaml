@@ -1,4 +1,13 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-mezcal.svg
+      title: Mezcal
+    - url: /cocktails/assets/images/ingredient-reposado-tequila.svg
+      title: Reposado tequila
+    - url: /cocktails/assets/images/ingredient-tequila.svg
+      title: Tequila
   tool:
     - url: /cocktails/assets/images/tool_long-stirrer.svg
       title: Long stirrer

@@ -1,4 +1,17 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-allspice-dram.svg
+      title: Allspice dram
+    - url: /cocktails/assets/images/ingredient-apple-brandy.svg
+      title: Apple brandy
+    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
+      title: Demerara syrup
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Jamacian rum
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

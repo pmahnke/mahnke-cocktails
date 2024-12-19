@@ -1,4 +1,11 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-falernum.svg
+      title: Falernum
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
+      title: Simple syrup
   tool:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater

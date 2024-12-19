@@ -1,4 +1,21 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-grenadine.svg
+      title: Grenadine
+    - url: /cocktails/assets/images/ingredient-lime-juice.svg
+      title: Lime juice
+    - url: /cocktails/assets/images/ingredient-pineapple-juice.svg
+      title: Pineapple juice
+    - url: /cocktails/assets/images/ingredient-soda-water.svg
+      title: Soda water
+    - url: /cocktails/assets/images/ingredient-triple-sec.svg
+      title: Triple sec
+    - url: /cocktails/assets/images/ingredient-water.svg
+      title: Water
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

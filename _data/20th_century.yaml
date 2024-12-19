@@ -1,4 +1,13 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-cocchi-americano.svg
+      title: Cocchi americano
+    - url: /cocktails/assets/images/ingredient-cacao.svg
+      title: Creme de cacao
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

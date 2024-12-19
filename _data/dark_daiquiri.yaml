@@ -1,4 +1,15 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Dark rum
+    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
+      title: Demerara syrup
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Jamacian rum
+    - url: /cocktails/assets/images/ingredient-light-rum.svg
+      title: Light rum
+    - url: /cocktails/assets/images/ingredient-lime-juice.svg
+      title: Lime juice
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

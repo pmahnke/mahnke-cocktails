@@ -1,4 +1,17 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /cocktails/assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot liqueur
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-grenadine.svg
+      title: Grenadine
+    - url: /cocktails/assets/images/ingredient-lime-juice.svg
+      title: Lime juice
+    - url: /cocktails/assets/images/ingredient-sloe-gin.svg
+      title: Sloe gin
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

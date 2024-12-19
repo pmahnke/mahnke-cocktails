@@ -1,4 +1,17 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot liqueur
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
+    - url: /cocktails/assets/images/ingredient-sherry.svg
+      title: Sherry
+    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
+      title: Simple syrup
+    - url: /cocktails/assets/images/ingredient-soda-water.svg
+      title: Soda water
+    - url: /cocktails/assets/images/ingredient-water.svg
+      title: Water
   garnish:
     - url: /cocktails/assets/images/fruit_strawberry.svg
       title: Strawberry
