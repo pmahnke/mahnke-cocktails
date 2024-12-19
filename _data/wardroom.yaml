@@ -1,0 +1,13 @@
+images:
+  tool:
+    - url: /cocktails/assets/images/tool_julep-strainer.svg
+      title: Julep strainer
+    - url: /cocktails/assets/images/tool_mixing-glass.svg
+      title: Mixing glass
+    - url: /cocktails/assets/images/tool_long-stirrer.svg
+      title: Bar Spoon
+  glass:
+    - url: /cocktails/assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /cocktails/assets/images/twist_cocktail-cherry.svg

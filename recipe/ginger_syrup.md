@@ -2,7 +2,7 @@
 layout: recipe
 title: "Ginger Syrup"
 type: syrup
-permalink: "/recipe/gingersyrup.html"
+permalink: "/recipe/ginger_syrup.html"
 youtube: "vGBMrJgjZB4"
 excerpt: |
   Take your cocktail to the next level with homemade ginger simple syrup. All it takes is ginger and sugar.
