@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Star Cocktail"
 permalink: "/recipe/star_cocktail.html"
 iconfile: star_cocktail
-stars: 0
+stars: 3
 category: "Apple Brandy"
 youtube: "9OxlSOioD_k"
 excerpt: |

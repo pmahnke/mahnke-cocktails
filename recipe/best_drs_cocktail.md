@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Best Doctor's Cocktail"
-permalink: "/recipe/bestdrscocktail.html"
+permalink: "/recipe/best_drs_cocktail.html"
 iconfile: best_drs_cocktail
 stars: 4
 category: "Jamaican Rum, Swedish Punsch"
@@ -13,13 +13,13 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient          | Brand                           |
-| -------: | ------------------- | ------------------------------- |
-|     1 oz | Jamaican Rum        | Appleton Estate Signature Blend |
-|  0.75 oz | Swedish Punsch      | Kronan                          |
-|  0.75 oz | Fresh Lime Juice    |                                 |
-|   0.5 oz | Rich Demerara Syrup |                                 |
-| 2 dashes | Bitters             | Angostura Aromatic Bitters      |
+|   Amount | Ingredient                                               | Brand                           |
+| -------: | -------------------------------------------------------- | ------------------------------- |
+|     1 oz | Jamaican Rum                                             | Appleton Estate Signature Blend |
+|  0.75 oz | Swedish Punsch                                           | Kronan                          |
+|  0.75 oz | Fresh Lime Juice                                         |                                 |
+|   0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |                                 |
+| 2 dashes | Bitters                                                  | Angostura Aromatic Bitters      |
 
 ### Notes
 
