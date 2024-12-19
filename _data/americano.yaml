@@ -1,4 +1,10 @@
 images:
-  - glass: /cocktails/assets/images/glass_rocks.svg
-  - garnish: /cocktails/assets/images/fruit_lemon.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  glass:
+    - url: /cocktails/assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /cocktails/assets/images/fruit_lemon.svg
+      title: Lemon slice
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

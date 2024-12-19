@@ -1,4 +1,10 @@
 images:
-  - tool: /cocktails/assets/images/tool_boston-shaker.svg
-  - glass: /cocktails/assets/images/glass_flute.svg
-  - garnish: /cocktails/assets/images/twist_lemon.svg
+  tool:
+    - url: /cocktails/assets/images/tool_boston-shaker.svg
+      title: Boston shaker
+  glass:
+    - url: /cocktails/assets/images/glass_flute.svg
+      title: Flute
+  garnish:
+    - url: /cocktails/assets/images/twist_lemon.svg
+      title: Lemon twist

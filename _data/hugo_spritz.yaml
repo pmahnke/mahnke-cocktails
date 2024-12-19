@@ -1,4 +1,7 @@
 images:
-  - tool: /cocktails/assets/images/tool_muddler.svg
-  - garnish: /cocktails/assets/images/slice_lime.svg
-  - garnish: /cocktails/assets/images/herb_mint.svg
+  tool:
+    - url: /cocktails/assets/images/tool_muddler.svg
+      title: Muddler
+  garnish:
+    - url: /cocktails/assets/images/herb_mint.svg
+      title: Mint

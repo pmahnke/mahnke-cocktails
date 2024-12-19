@@ -1,3 +1,4 @@
 images:
-  - garnish: /cocktails/assets/images/twist_lemon.svg
-  - garnish: /cocktails/assets/images/slice_pineapple.svg
+  garnish:
+    - url: /cocktails/assets/images/slice_pineapple.svg
+      title: Pineapple slice

@@ -38,7 +38,7 @@ layout: default
             {% if page.layout == "recipe" and page.type == "non-alcoholic" %}
             <tr>
             <th class="no-border" style="width:35%;">
-                <a href="{{ paurl | prepend: site.baseurl }}">
+                <a href="{{ page.url | prepend: site.baseurl }}">
                 {{ page.title }}
                 </a>
             </th>

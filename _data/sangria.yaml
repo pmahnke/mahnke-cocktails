@@ -1,4 +1,10 @@
 images:
-  - tool: /cocktails/assets/images/tool_mixing-glass.svg
-  - glass: /cocktails/assets/images/glass_highball.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  tool:
+    - url: /cocktails/assets/images/tool_mixing-glass.svg
+      title: Mixing glass
+  glass:
+    - url: /cocktails/assets/images/glass_highball.svg
+      title: Highball
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

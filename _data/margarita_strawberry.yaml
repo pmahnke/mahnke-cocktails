@@ -1,5 +1,10 @@
 images:
-  - glass: /cocktails/assets/images/glass_double-old-fashioned.svg
-  - glass: /cocktails/assets/images/glass_margarita.svg
-  - garnish: /cocktails/assets/images/fruit_strawberry.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  glass:
+    - url: /cocktails/assets/images/glass_margarita.svg
+      title: Margarita
+  garnish:
+    - url: /cocktails/assets/images/fruit_strawberry.svg
+      title: Strawberry
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

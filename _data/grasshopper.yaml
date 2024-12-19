@@ -1,5 +1,13 @@
 images:
-  - tool: /cocktails/assets/images/tool_grater.svg
-  - glass: /cocktails/assets/images/glass_double-old-fashioned.svg
-  - garnish: /cocktails/assets/images/herb_mint.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  tool:
+    - url: /cocktails/assets/images/tool_grater.svg
+      title: Grater
+  glass:
+    - url: /cocktails/assets/images/glass_double-old-fashioned.svg
+      title: Double old fashioned
+  garnish:
+    - url: /cocktails/assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

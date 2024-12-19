@@ -1,4 +1,7 @@
 images:
-  - glass: /cocktails/assets/images/spice_coffee.svg
-  - glass: /cocktails/assets/images/glass_rocks.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  glass:
+    - url: /cocktails/assets/images/glass_rocks.svg
+      title: Rocks
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

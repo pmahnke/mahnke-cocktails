@@ -1,5 +1,13 @@
 images:
-  - tool: /cocktails/assets/images/tool_long-stirrer.svg
-  - glass: /cocktails/assets/images/glass_rocks.svg
-  - garnish: /cocktails/assets/images/slice_lime.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  tool:
+    - url: /cocktails/assets/images/tool_long-stirrer.svg
+      title: Long stirrer
+  glass:
+    - url: /cocktails/assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /cocktails/assets/images/slice_lime.svg
+      title: Lime slice
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

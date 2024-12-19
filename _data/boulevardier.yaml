@@ -1,4 +1,10 @@
 images:
-  - tool: /cocktails/assets/images/tool_long-stirrer.svg
-  - glass: /cocktails/assets/images/glass_nick-and-nora.svg
-  - garnish: /cocktails/assets/images/twist_orange.svg
+  tool:
+    - url: /cocktails/assets/images/tool_long-stirrer.svg
+      title: Long stirrer
+  glass:
+    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  garnish:
+    - url: /cocktails/assets/images/twist_orange.svg
+      title: Orange twist

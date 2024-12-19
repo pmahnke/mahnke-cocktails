@@ -1,3 +1,7 @@
 images:
-  - glass: /cocktails/assets/images/glass_sling.svg
-  - garnish: /cocktails/assets/images/spice_cinnamon.svg
+  glass:
+    - url: /cocktails/assets/images/glass_sling.svg
+      title: Sling
+  garnish:
+    - url: /cocktails/assets/images/spice_cinnamon.svg
+      title: Cinnamon

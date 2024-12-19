@@ -1,2 +1,4 @@
 images:
-  - glass: /cocktails/assets/images/spice_coffee.svg
+  glass:
+    - url: /cocktails/assets/images/spice_coffee.svg
+      title: Coffee

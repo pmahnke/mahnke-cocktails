@@ -1,9 +1,17 @@
 images:
-  - tool: /cocktails/assets/images/tool_boston-shaker.svg
-  - tool: /cocktails/assets/images/tool_double-strainer.svg
-  - tool: /cocktails/assets/images/tool_hawthorn-strainer.svg
-  - glass: /cocktails/assets/images/glass_highball.svg
-  - garnish: /cocktails/assets/images/twist_cocktail-cherry.svg
-  - garnish: /cocktails/assets/images/fruit-orange.svg
-  - garnish: /cocktails/assets/images/twist_orange.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  tool:
+    - url: /cocktails/assets/images/tool_boston-shaker.svg
+      title: Boston shaker
+    - url: /cocktails/assets/images/tool_double-strainer.svg
+      title: Double strainer
+    - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
+      title: Hawthorn strainer
+  glass:
+    - url: /cocktails/assets/images/glass_highball.svg
+      title: Highball
+  garnish:
+    - url: /cocktails/assets/images/twist_orange.svg
+      title: Orange twist
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

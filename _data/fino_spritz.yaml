@@ -1,2 +1,4 @@
 images:
-  - garnish: /cocktails/assets/images/fruit_lemon.svg
+  garnish:
+    - url: /cocktails/assets/images/fruit_lemon.svg
+      title: Lemon slice

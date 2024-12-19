@@ -1,2 +1,4 @@
 images:
-  - glass: /cocktails/assets/images/glass_double-old-fashioned.svg
+  glass:
+    - url: /cocktails/assets/images/glass_double-old-fashioned.svg
+      title: Double old fashioned

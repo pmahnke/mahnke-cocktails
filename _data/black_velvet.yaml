@@ -1,2 +1,4 @@
 images:
-  - glass: /cocktails/assets/images/glass_cobbler.svg
+  glass:
+    - url: /cocktails/assets/images/glass_cobbler.svg
+      title: Cobbler

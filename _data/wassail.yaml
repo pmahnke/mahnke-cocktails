@@ -1,2 +1,4 @@
 images:
-  - garnish: /cocktails/assets/images/spice_cinnamon.svg
+  garnish:
+    - url: /cocktails/assets/images/spice_cinnamon.svg
+      title: Cinnamon

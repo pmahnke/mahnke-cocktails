@@ -1,7 +1,13 @@
 images:
-  - tool: /cocktails/assets/images/tool_boston-shaker.svg
-  - glass: /cocktails/assets/images/glass_old-fashioned.svg
-  - glass: /cocktails/assets/images/glass_tiki.svg
-  - garnish: /cocktails/assets/images/spice_cinnamon.svg
-  - garnish: /cocktails/assets/images/herb_mint.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  tool:
+    - url: /cocktails/assets/images/tool_boston-shaker.svg
+      title: Boston shaker
+  glass:
+    - url: /cocktails/assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /cocktails/assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

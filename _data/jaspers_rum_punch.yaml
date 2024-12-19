@@ -1,7 +1,15 @@
 images:
-  - tool: /cocktails/assets/images/tool_grater.svg
-  - tool: /cocktails/assets/images/tool_long-stirrer.svg
-  - glass: /cocktails/assets/images/glass_highball.svg
-  - glass: /cocktails/assets/images/glass_sour.svg
-  - garnish: /cocktails/assets/images/herb_mint.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  tool:
+    - url: /cocktails/assets/images/tool_grater.svg
+      title: Grater
+    - url: /cocktails/assets/images/tool_long-stirrer.svg
+      title: Long stirrer
+  glass:
+    - url: /cocktails/assets/images/glass_sour.svg
+      title: Sour
+  garnish:
+    - url: /cocktails/assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

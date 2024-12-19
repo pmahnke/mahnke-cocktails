@@ -1,3 +1,7 @@
 images:
-  - tool: /cocktails/assets/images/tool_grater.svg
-  - glass: /cocktails/assets/images/glass_tiki.svg
+  tool:
+    - url: /cocktails/assets/images/tool_grater.svg
+      title: Grater
+  glass:
+    - url: /cocktails/assets/images/glass_tiki.svg
+      title: Tiki

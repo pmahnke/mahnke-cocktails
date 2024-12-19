@@ -1,5 +1,12 @@
 images:
-  - tool: /cocktails/assets/images/tool_julep-strainer.svg
-  - tool: /cocktails/assets/images/tool_long-stirrer.svg
-  - glass: /cocktails/assets/images/glass_coupe.svg
-  - garnish: /cocktails/assets/images/twist_lemon.svg
+  tool:
+    - url: /cocktails/assets/images/tool_julep-strainer.svg
+      title: Julep strainer
+    - url: /cocktails/assets/images/tool_long-stirrer.svg
+      title: Long stirrer
+  glass:
+    - url: /cocktails/assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /cocktails/assets/images/twist_lemon.svg
+      title: Lemon twist

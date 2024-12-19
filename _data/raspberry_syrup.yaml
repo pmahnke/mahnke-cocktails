@@ -1,2 +1,4 @@
 images:
-  - garnish: /cocktails/assets/images/fruit_raspberries.svg
+  garnish:
+    - url: /cocktails/assets/images/fruit_raspberries.svg
+      title: Raspberries

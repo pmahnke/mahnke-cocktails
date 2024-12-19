@@ -1,2 +1,4 @@
 images:
-  - garnish: /cocktails/assets/images/herb_thyme.svg
+  garnish:
+    - url: /cocktails/assets/images/herb_thyme.svg
+      title: Thyme

@@ -1,6 +1,14 @@
 images:
-  - tool: /cocktails/assets/images/tool_boston-shaker.svg
-  - tool: /cocktails/assets/images/tool_double-strainer.svg
-  - tool: /cocktails/assets/images/tool_hawthorn-strainer.svg
-  - glass: /cocktails/assets/images/glass_rocks.svg
-  - garnish: /cocktails/assets/images/herb_mint.svg
+  tool:
+    - url: /cocktails/assets/images/tool_boston-shaker.svg
+      title: Boston shaker
+    - url: /cocktails/assets/images/tool_double-strainer.svg
+      title: Double strainer
+    - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
+      title: Hawthorn strainer
+  glass:
+    - url: /cocktails/assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /cocktails/assets/images/herb_mint.svg
+      title: Mint

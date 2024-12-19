@@ -1,5 +1,10 @@
 images:
-  - glass: /cocktails/assets/images/glass_highball.svg
-  - glass: /cocktails/assets/images/glass_sling.svg
-  - garnish: /cocktails/assets/images/slice_lime.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  glass:
+    - url: /cocktails/assets/images/glass_sling.svg
+      title: Sling
+  garnish:
+    - url: /cocktails/assets/images/slice_lime.svg
+      title: Lime slice
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

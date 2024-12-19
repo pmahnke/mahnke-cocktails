@@ -1,6 +1,12 @@
 images:
-  - tool: /cocktails/assets/images/tool_grater.svg
-  - tool: /cocktails/assets/images/tool_mixing-glass.svg
-  - glass: /cocktails/assets/images/glass_old-fashioned.svg
-  - garnish: /cocktails/assets/images/spice_anise.svg
-  - garnish: /cocktails/assets/images/spice_cinnamon.svg
+  tool:
+    - url: /cocktails/assets/images/tool_grater.svg
+      title: Grater
+    - url: /cocktails/assets/images/tool_mixing-glass.svg
+      title: Mixing glass
+  glass:
+    - url: /cocktails/assets/images/glass_old-fashioned.svg
+      title: Old fashioned
+  garnish:
+    - url: /cocktails/assets/images/spice_cinnamon.svg
+      title: Cinnamon

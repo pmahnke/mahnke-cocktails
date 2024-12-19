@@ -1,3 +1,4 @@
 images:
-  - glass: /cocktails/assets/images/glass_old-fashioned.svg
-  - glass: /cocktails/assets/images/glass_tiki.svg
+  glass:
+    - url: /cocktails/assets/images/glass_tiki.svg
+      title: Tiki

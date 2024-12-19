@@ -1,2 +1,4 @@
 images:
-  - garnish: /cocktails/assets/images/fruit-orange.svg
+  garnish:
+    - url: /cocktails/assets/images/fruit-orange.svg
+      title: Orange slice

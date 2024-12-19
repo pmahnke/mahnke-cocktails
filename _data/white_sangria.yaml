@@ -1,2 +1,4 @@
 images:
-  - garnish: /cocktails/assets/images/fruit_strawberry.svg
+  garnish:
+    - url: /cocktails/assets/images/fruit_strawberry.svg
+      title: Strawberry

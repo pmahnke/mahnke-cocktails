@@ -1,4 +1,10 @@
 images:
-  - glass: /cocktails/assets/images/glass_copper-mug.svg
-  - garnish: /cocktails/assets/images/herb_mint.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  glass:
+    - url: /cocktails/assets/images/glass_copper-mug.svg
+      title: Copper mug
+  garnish:
+    - url: /cocktails/assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

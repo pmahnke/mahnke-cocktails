@@ -168,25 +168,34 @@ foreach $file (sort @files) {
 
     my ($tool, $glass, $garnish, $ice) = "";
 
+#images:
+#  tool:
+#    - url: /cocktails/assets/images/tool_boston-shaker.svg
+#      title: Boston Shaker
+
     foreach my $k (sort keys %tool) {
         next if (!$tool{$k});
-        $tool .= "  - tool: $INCLUDE{$k}\n";
+        my $n = $k;
+        $tool = "  tool:\n" if (!$tool); # start of tools
+        $tool .= &make_listing($k);
         $tool{$k} = "";
     }
     foreach my $k (sort keys %glass) {
         next if (!$glass{$k});
-        $glass .= "  - glass: $INCLUDE{$k}\n";
+        $glass = "  glass:\n";
+        $glass .= &make_listing($k);
         $glass{$k} = "";
     }
     foreach my $k (sort keys %garnish) {
         next if (!$garnish{$k});
-        print "garnish: $k $garnish{$k}" if ($ARGV[0]);
-        $garnish .= "  - garnish: $INCLUDE{$k}\n";
+        $garnish = "  garnish:\n";
+        $garnish .= &make_listing($k);
         $garnish{$k} = "";
     }
     foreach my $k (sort keys %ice) {
         next if (!$ice{$k});
-        $ice .= "  - ice: $INCLUDE{$k}\n";
+        $ice = "  ice:\n";
+        $ice .= &make_listing($k);
         $ice{$k} = "";
     }
 
@@ -211,3 +220,16 @@ foreach $file (sort @files) {
     }
 }
 
+sub make_listing {
+    my $k = $_[0];
+    my $listing .= "    - url: $INCLUDE{$k}\n";
+    $listing .= "      title: ".&make_title($k)."\n";
+    return($listing);
+}
+
+sub make_title {
+    my $title = $_[0];
+    $title =~ s/\-/ /g;
+    $title = ucfirst($title);
+    return ($title);
+}

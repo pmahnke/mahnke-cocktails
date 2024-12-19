@@ -1,3 +1,7 @@
 images:
-  - tool: /cocktails/assets/images/tool_grater.svg
-  - garnish: /cocktails/assets/images/spice_cinnamon.svg
+  tool:
+    - url: /cocktails/assets/images/tool_grater.svg
+      title: Grater
+  garnish:
+    - url: /cocktails/assets/images/spice_cinnamon.svg
+      title: Cinnamon

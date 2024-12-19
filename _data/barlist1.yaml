@@ -1,3 +1,6 @@
 images:
-  - tool: /cocktails/assets/images/tool_muddler.svg
-  - tool: /cocktails/assets/images/tool_shaker.svg
+  tool:
+    - url: /cocktails/assets/images/tool_muddler.svg
+      title: Muddler
+    - url: /cocktails/assets/images/tool_shaker.svg
+      title: Shaker

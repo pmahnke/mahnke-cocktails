@@ -1,3 +1,4 @@
 images:
-  - glass: /cocktails/assets/images/spice_coffee.svg
-  - glass: /cocktails/assets/images/glass_nick-and-nora.svg
+  glass:
+    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+      title: Nick and nora

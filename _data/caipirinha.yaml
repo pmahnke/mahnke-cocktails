@@ -1,5 +1,13 @@
 images:
-  - tool: /cocktails/assets/images/tool_muddler.svg
-  - glass: /cocktails/assets/images/glass_double-old-fashioned.svg
-  - garnish: /cocktails/assets/images/slice_lime.svg
-  - ice: /cocktails/assets/images/ice_cubes.svg
+  tool:
+    - url: /cocktails/assets/images/tool_muddler.svg
+      title: Muddler
+  glass:
+    - url: /cocktails/assets/images/glass_double-old-fashioned.svg
+      title: Double old fashioned
+  garnish:
+    - url: /cocktails/assets/images/slice_lime.svg
+      title: Lime slice
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes
