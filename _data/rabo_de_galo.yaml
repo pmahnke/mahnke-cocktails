@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-amaro.svg
       title: Amaro
+    - url: /cocktails/assets/images/ingredient-cachaca.svg
+      title: Cachaca
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer
