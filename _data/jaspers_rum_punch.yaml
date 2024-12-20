@@ -1,7 +1,7 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-gin.svg
-      title: Gin
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Jamaican rum
   tool:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater

@@ -24,7 +24,7 @@ excerpt: |
 ### Notes
 
 - Method: Stirred
-- Pour: Julip Strain
+- Pour: Julep Strain
 - Glassware: Coupe
 - Garnish: Expressed lemon oil
 - Special Prep: None

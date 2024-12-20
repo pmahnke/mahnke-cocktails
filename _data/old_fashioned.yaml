@@ -1,20 +1,12 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bitters.svg
-      title: Bitters
     - url: /cocktails/assets/images/ingredient-bourbon.svg
       title: Bourbon
-    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
-      title: Demerara syrup
-    - url: /cocktails/assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /cocktails/assets/images/ingredient-water.svg
-      title: Water
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer
-    - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks

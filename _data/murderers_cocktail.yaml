@@ -1,4 +1,15 @@
 images:
-  - tool: /cocktails/assets/images/tool_julep-strainer.svg
-  - glass: /cocktails/assets/images/glass_coupe.svg
-  - garnish: /cocktails/assets/images/twist_lemon.svg
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Jamaican rum
+  tool:
+    - url: /cocktails/assets/images/tool_julep-strainer.svg
+      title: Julep strainer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /cocktails/assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /cocktails/assets/images/twist_lemon.svg
+      title: Lemon twist

@@ -1,18 +1,14 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-absinthe.svg
-      title: Absinthe
     - url: /cocktails/assets/images/ingredient-campari.svg
       title: Campari
-    - url: /cocktails/assets/images/ingredient-cacao.svg
-      title: Creme de cacao
     - url: /cocktails/assets/images/ingredient-irish-whiskey.svg
       title: Irish whiskey
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer
-    - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_nick-and-nora.svg
       title: Nick and nora

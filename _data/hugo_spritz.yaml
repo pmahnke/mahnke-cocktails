@@ -2,14 +2,8 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-elderflower-liqueur.svg
       title: Elderflower liqueur
-    - url: /cocktails/assets/images/ingredient-gin.svg
-      title: Gin
     - url: /cocktails/assets/images/ingredient-prosecco.svg
       title: Prosecco
-    - url: /cocktails/assets/images/ingredient-soda-water.svg
-      title: Soda water
-    - url: /cocktails/assets/images/ingredient-water.svg
-      title: Water
   tool:
     - url: /cocktails/assets/images/tool_muddler.svg
       title: Muddler

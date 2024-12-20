@@ -2,8 +2,6 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-coffee-liqueur.svg
       title: Coffee liqueur
-    - url: /cocktails/assets/images/ingredient-cream.svg
-      title: Cream
   tool:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater

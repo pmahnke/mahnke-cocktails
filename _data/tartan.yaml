@@ -1,20 +1,18 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bitters.svg
-      title: Bitters
+    - url: /cocktails/assets/images/ingredient-amaro.svg
+      title: Amaro
     - url: /cocktails/assets/images/ingredient-drambuie.svg
       title: Drambuie
     - url: /cocktails/assets/images/ingredient-scotch.svg
       title: Scotch
     - url: /cocktails/assets/images/ingredient-single-malt-scotch.svg
       title: Single malt scotch
-    - url: /cocktails/assets/images/ingredient-sweet-vermouth.svg
-      title: Sweet vermouth
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer
-    - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_martini.svg
       title: Martini

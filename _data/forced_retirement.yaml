@@ -4,10 +4,6 @@ images:
       title: Campari
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
-    - url: /cocktails/assets/images/ingredient-lime-juice.svg
-      title: Lime juice
-    - url: /cocktails/assets/images/ingredient-passion-fruit-syrup.svg
-      title: Passion fruit syrup
   tool:
     - url: /cocktails/assets/images/tool_long-stirrer.svg
       title: Long stirrer

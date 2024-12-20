@@ -4,17 +4,11 @@ images:
       title: Absinthe
     - url: /cocktails/assets/images/ingredient-champagne.svg
       title: Champagne
-    - url: /cocktails/assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
-      title: Lemon juice
-    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
-      title: Simple syrup
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer
-    - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_nick-and-nora.svg
       title: Nick and nora

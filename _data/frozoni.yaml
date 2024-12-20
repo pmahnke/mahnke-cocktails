@@ -4,12 +4,8 @@ images:
       title: Campari
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
-    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
-      title: Lemon juice
     - url: /cocktails/assets/images/ingredient-prosecco.svg
       title: Prosecco
-    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
-      title: Simple syrup
   tool:
     - url: /cocktails/assets/images/tool_muddler.svg
       title: Muddler

@@ -4,15 +4,11 @@ images:
       title: Champagne
     - url: /cocktails/assets/images/ingredient-cognac.svg
       title: Cognac
-    - url: /cocktails/assets/images/ingredient-cream.svg
-      title: Cream
-    - url: /cocktails/assets/images/ingredient-maraschino-liqueur.svg
-      title: Maraschino liqueur
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer
-    - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_coupe.svg
       title: Coupe

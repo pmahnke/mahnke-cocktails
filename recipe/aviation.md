@@ -25,8 +25,7 @@ excerpt: |
 ### Notes
 
 - Method: Stirred
-- Pour: Julip Strain
+- Pour: Julep Strain
 - Glassware: Coupe
 - Garnish: Cocktail cherry and lemon zest for garnish
 - Special Prep: Stirring preserves the purple color
-

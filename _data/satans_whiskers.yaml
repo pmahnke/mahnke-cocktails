@@ -1,24 +1,10 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bitters.svg
-      title: Bitters
-    - url: /cocktails/assets/images/ingredient-dry-vermouth.svg
-      title: Dry vermouth
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
-    - url: /cocktails/assets/images/ingredient-orange-bitters.svg
-      title: Orange bitters
-    - url: /cocktails/assets/images/ingredient-orange-juice.svg
-      title: Orange juice
-    - url: /cocktails/assets/images/ingredient-sweet-vermouth.svg
-      title: Sweet vermouth
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
-      title: Boston shaker
-    - url: /cocktails/assets/images/tool_double-strainer.svg
-      title: Double strainer
-    - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
-      title: Hawthorn strainer
+    - url: /cocktails/assets/images/tool_double_strain.svg
+      title: Double strained
   glass:
     - url: /cocktails/assets/images/glass_nick-and-nora.svg
       title: Nick and nora

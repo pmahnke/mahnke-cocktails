@@ -1,9 +1,7 @@
 images:
-  glass:
-    - url: /cocktails/assets/images/glass_coffee.svg
-      title: Mug
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
   garnish:
     - url: /cocktails/assets/images/twist_lemon.svg
       title: Lemon twist
-    - url: /cocktails/assets/images/spice_anise.svg
-      title: Cloves

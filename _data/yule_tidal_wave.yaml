@@ -2,27 +2,15 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-allspice-dram.svg
       title: Allspice dram
-    - url: /cocktails/assets/images/ingredient-bitters.svg
-      title: Bitters
     - url: /cocktails/assets/images/ingredient-bourbon.svg
       title: Bourbon
     - url: /cocktails/assets/images/ingredient-cognac.svg
       title: Cognac
-    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
-      title: Lemon juice
-    - url: /cocktails/assets/images/ingredient-pineapple-juice.svg
-      title: Pineapple juice
-    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
-      title: Simple syrup
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
-      title: Boston shaker
-    - url: /cocktails/assets/images/tool_double-strainer.svg
-      title: Double strainer
+    - url: /cocktails/assets/images/tool_double_strain.svg
+      title: Double strained
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater
-    - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
-      title: Hawthorn strainer
   glass:
     - url: /cocktails/assets/images/glass_hurricane.svg
       title: Hurricane

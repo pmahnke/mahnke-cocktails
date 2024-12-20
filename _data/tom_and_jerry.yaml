@@ -1,13 +1,11 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bitters.svg
-      title: Bitters
     - url: /cocktails/assets/images/ingredient-cognac.svg
       title: Cognac
     - url: /cocktails/assets/images/ingredient-dark-rum.svg
       title: Demerara rum
-    - url: /cocktails/assets/images/ingredient-egg-white.svg
-      title: Egg white
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Jamaican rum
   tool:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater

@@ -1,22 +1,7 @@
 images:
-  ingredient:
-    - url: /cocktails/assets/images/ingredient-bitters.svg
-      title: Bitters
-    - url: /cocktails/assets/images/ingredient-lime-juice.svg
-      title: Lime juice
-    - url: /cocktails/assets/images/ingredient-pineapple-juice.svg
-      title: Pineapple juice
-    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
-      title: Simple syrup
-    - url: /cocktails/assets/images/ingredient-sweet-vermouth.svg
-      title: Sweet vermouth
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
-      title: Boston shaker
-    - url: /cocktails/assets/images/tool_double-strainer.svg
-      title: Double strainer
-    - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
-      title: Hawthorn strainer
+    - url: /cocktails/assets/images/tool_double_strain.svg
+      title: Double strained
   glass:
     - url: /cocktails/assets/images/glass_nick-and-nora.svg
       title: Nick and nora

@@ -1,9 +1,5 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-cream.svg
-      title: Cream
-    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
-      title: Demerara syrup
     - url: /cocktails/assets/images/ingredient-irish-whiskey.svg
       title: Irish whiskey
   glass:

@@ -1,11 +1,7 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
-      title: Demerara syrup
-    - url: /cocktails/assets/images/ingredient-honey-syrup.svg
-      title: Honey syrup
-    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
-      title: Lemon juice
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Jamaican rum
     - url: /cocktails/assets/images/ingredient-mezcal.svg
       title: Mezcal
     - url: /cocktails/assets/images/ingredient-scotch.svg

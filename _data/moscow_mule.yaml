@@ -1,13 +1,5 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bitters.svg
-      title: Bitters
-    - url: /cocktails/assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /cocktails/assets/images/ingredient-ginger-beer.svg
-      title: Ginger beer
-    - url: /cocktails/assets/images/ingredient-lime-juice.svg
-      title: Lime juice
     - url: /cocktails/assets/images/ingredient-vodka.svg
       title: Vodka
   glass:

@@ -1,11 +1,4 @@
 images:
-  ingredient:
-    - url: /cocktails/assets/images/ingredient-chartreuse.svg
-      title: Chartreuse
-    - url: /cocktails/assets/images/ingredient-cream.svg
-      title: Cream
-    - url: /cocktails/assets/images/ingredient-cacao.svg
-      title: Creme de cacao
   tool:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater

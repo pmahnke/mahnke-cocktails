@@ -1,14 +1,18 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-rye.svg
+      title: Rye
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer
-    - url: /cocktails/assets/images/tool_mixing-glass.svg
-      title: Mixing glass
-    - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Bar Spoon
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks
   garnish:
     - url: /cocktails/assets/images/twist_lemon.svg
-      title: Lemon Twist
+      title: Lemon twist
+  ice:
+    - url: /cocktails/assets/images/ice_large.svg
+      title: Large

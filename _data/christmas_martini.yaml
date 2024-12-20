@@ -1,7 +1,5 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bitters.svg
-      title: Bitters
     - url: /cocktails/assets/images/ingredient-cocchi-americano.svg
       title: Cocchi americano
     - url: /cocktails/assets/images/ingredient-gin.svg
@@ -9,8 +7,8 @@ images:
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer
-    - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_martini.svg
       title: Martini

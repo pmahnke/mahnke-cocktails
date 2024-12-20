@@ -4,12 +4,6 @@ images:
       title: Cream
     - url: /cocktails/assets/images/ingredient-cream-of-cocunut.svg
       title: Cream of coconut
-    - url: /cocktails/assets/images/ingredient-lime-juice.svg
-      title: Lime juice
-    - url: /cocktails/assets/images/ingredient-orange-juice.svg
-      title: Orange juice
-    - url: /cocktails/assets/images/ingredient-pineapple-juice.svg
-      title: Pineapple juice
   tool:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater

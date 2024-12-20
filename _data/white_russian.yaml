@@ -1,9 +1,5 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-coffee-liqueur.svg
-      title: Coffee liqueur
-    - url: /cocktails/assets/images/ingredient-cream.svg
-      title: Cream
     - url: /cocktails/assets/images/ingredient-vodka.svg
       title: Vodka
   glass:

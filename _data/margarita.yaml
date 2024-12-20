@@ -1,20 +1,16 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-lime-juice.svg
-      title: Lime juice
     - url: /cocktails/assets/images/ingredient-reposado-tequila.svg
       title: Reposado tequila
     - url: /cocktails/assets/images/ingredient-tequila.svg
       title: Tequila
-    - url: /cocktails/assets/images/ingredient-triple-sec.svg
-      title: Triple sec
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker
     - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
       title: Hawthorn strainer
-    - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks

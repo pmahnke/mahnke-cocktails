@@ -1,11 +1,21 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Demerara rum
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker
-    - url: /cocktails/assets/images/tool_double-strainer.svg
-      title: Double strainer
+    - url: /cocktails/assets/images/tool_grater.svg
+      title: Grater
     - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
       title: Hawthorn strainer
   glass:
     - url: /cocktails/assets/images/glass_rocks.svg
-      title: Low Ball
+      title: Rocks
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

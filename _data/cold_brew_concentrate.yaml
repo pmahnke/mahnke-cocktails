@@ -1,9 +1,4 @@
 images:
-  ingredient:
-    - url: /cocktails/assets/images/ingredient-cold-brew.svg
-      title: Cold brew
-    - url: /cocktails/assets/images/ingredient-water.svg
-      title: Water
   glass:
     - url: /cocktails/assets/images/spice_coffee.svg
       title: Coffee

@@ -2,10 +2,6 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-dark-rum.svg
       title: Dark rum
-    - url: /cocktails/assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /cocktails/assets/images/ingredient-ginger-beer.svg
-      title: Ginger beer
   glass:
     - url: /cocktails/assets/images/glass_sling.svg
       title: Sling

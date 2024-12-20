@@ -2,23 +2,17 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-cognac.svg
       title: Cognac
-    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
-      title: Demerara syrup
-    - url: /cocktails/assets/images/ingredient-lime-juice.svg
-      title: Lime juice
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Jamaican rum
     - url: /cocktails/assets/images/ingredient-port.svg
       title: Port
     - url: /cocktails/assets/images/ingredient-porter.svg
       title: Porter
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
-      title: Boston shaker
-    - url: /cocktails/assets/images/tool_double-strainer.svg
-      title: Double strainer
+    - url: /cocktails/assets/images/tool_double_strain.svg
+      title: Double strained
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater
-    - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
-      title: Hawthorn strainer
   glass:
     - url: /cocktails/assets/images/glass_pint.svg
       title: Pint

@@ -2,19 +2,15 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-campari.svg
       title: Campari
-    - url: /cocktails/assets/images/ingredient-dry-vermouth.svg
-      title: Dry vermouth
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
-    - url: /cocktails/assets/images/ingredient-sweet-vermouth.svg
-      title: Sweet vermouth
     - url: /cocktails/assets/images/ingredient-vermouth.svg
       title: White vermouth
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer
-    - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_nick-and-nora.svg
       title: Nick and nora

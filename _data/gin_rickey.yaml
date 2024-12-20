@@ -1,13 +1,7 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bourbon.svg
-      title: Bourbon
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
-    - url: /cocktails/assets/images/ingredient-soda-water.svg
-      title: Sparkling water
-    - url: /cocktails/assets/images/ingredient-water.svg
-      title: Water
   tool:
     - url: /cocktails/assets/images/tool_muddler.svg
       title: Muddler

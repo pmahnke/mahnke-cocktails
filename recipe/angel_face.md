@@ -22,7 +22,7 @@ excerpt: |
 ### Notes
 
 - Method: Stirred
-- Pour: Julip Strain
+- Pour: Julep Strain
 - Glassware: Nick & Nora
 - Garnish: Expressed orange oil
 - Special Prep: None

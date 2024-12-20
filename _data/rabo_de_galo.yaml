@@ -1,12 +1,12 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-cynar-amaro.svg
-      title: Cynar amaro
-    - url: /cocktails/assets/images/ingredient-sweet-vermouth.svg
-      title: Sweet vermouth
+    - url: /cocktails/assets/images/ingredient-amaro.svg
+      title: Amaro
   tool:
-    - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+    - url: /cocktails/assets/images/tool_julep-strainer.svg
+      title: Julep strainer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks

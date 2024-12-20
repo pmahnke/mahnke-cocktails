@@ -1,15 +1,7 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
-      title: Demerara syrup
-    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
-      title: Lemon juice
     - url: /cocktails/assets/images/ingredient-sherry.svg
       title: Sherry
-    - url: /cocktails/assets/images/ingredient-soda-water.svg
-      title: Soda water
-    - url: /cocktails/assets/images/ingredient-water.svg
-      title: Water
   tool:
     - url: /cocktails/assets/images/tool_mixing-glass.svg
       title: Mixing glass

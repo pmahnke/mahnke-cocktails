@@ -1,13 +1,4 @@
 images:
-  ingredient:
-    - url: /cocktails/assets/images/ingredient-bitters.svg
-      title: Bitters
-    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
-      title: Simple syrup
-    - url: /cocktails/assets/images/ingredient-soda-water.svg
-      title: Soda water
-    - url: /cocktails/assets/images/ingredient-water.svg
-      title: Water
   tool:
     - url: /cocktails/assets/images/tool_muddler.svg
       title: Muddler

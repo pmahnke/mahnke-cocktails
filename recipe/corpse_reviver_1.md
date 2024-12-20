@@ -13,16 +13,16 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient        | Brand                      |
-| ------: | ----------------- | -------------------------- |
-| 0.75 oz | Calvados |Roger Groult Pays D’auge 3 Year |
-| 0.75 oz | Cognac | Maison Rouge VSOP |
-| 0.75 oz | Sweet Vermouth | Cocchi Vermouth Di Torino |
+|  Amount | Ingredient     | Brand                           |
+| ------: | -------------- | ------------------------------- |
+| 0.75 oz | Calvados       | Roger Groult Pays D’auge 3 Year |
+| 0.75 oz | Cognac         | Maison Rouge VSOP               |
+| 0.75 oz | Sweet Vermouth | Cocchi Vermouth Di Torino       |
 
 ### Notes
 
 - Method: Stirred
-- Pour: Julip Strain
+- Pour: Julep Strain
 - Glassware: Nick & Nora
 - Garnish: Expressed orange oil
 - Special Prep: None

@@ -1,15 +1,7 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bitters.svg
-      title: Bitters
     - url: /cocktails/assets/images/ingredient-dark-rum.svg
       title: Demerara rum
-    - url: /cocktails/assets/images/ingredient-demerara-syrup.svg
-      title: Demerara syrup
-    - url: /cocktails/assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /cocktails/assets/images/ingredient-lime-juice.svg
-      title: Lime juice
   tool:
     - url: /cocktails/assets/images/tool_long-stirrer.svg
       title: Long stirrer

@@ -22,7 +22,7 @@ excerpt: |
 ### Notes
 
 - Method: Stirred
-- Pour: Julip Strained
+- Pour: Julep Strained
 - Glassware: Nice & Nora
 - Garnish: Flamed orange oil
 - Special Prep: None

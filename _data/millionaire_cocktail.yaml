@@ -1,24 +1,12 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-absinthe.svg
-      title: Absinthe
     - url: /cocktails/assets/images/ingredient-apricot-liqueur.svg
       title: Apricot liqueur
-    - url: /cocktails/assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /cocktails/assets/images/ingredient-grenadine.svg
-      title: Grenadine
-    - url: /cocktails/assets/images/ingredient-lime-juice.svg
-      title: Lime juice
-    - url: /cocktails/assets/images/ingredient-sloe-gin.svg
-      title: Sloe gin
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Jamaican rum
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
-      title: Boston shaker
-    - url: /cocktails/assets/images/tool_double-strainer.svg
-      title: Double strainer
-    - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
-      title: Hawthorn strainer
+    - url: /cocktails/assets/images/tool_double_strain.svg
+      title: Double strained
   glass:
     - url: /cocktails/assets/images/glass_coupe.svg
       title: Coupe

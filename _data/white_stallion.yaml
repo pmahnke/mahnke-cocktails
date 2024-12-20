@@ -2,8 +2,6 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-champagne.svg
       title: Champagne
-    - url: /cocktails/assets/images/ingredient-cream.svg
-      title: Cream
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
   tool:

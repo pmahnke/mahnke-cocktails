@@ -1,11 +1,4 @@
 images:
-  ingredient:
-    - url: /cocktails/assets/images/ingredient-honey-syrup.svg
-      title: Honey syrup
-    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
-      title: Simple syrup
-    - url: /cocktails/assets/images/ingredient-water.svg
-      title: Water
   tool:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater

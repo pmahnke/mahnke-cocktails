@@ -2,8 +2,6 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-chartreuse.svg
       title: Chartreuse
-    - url: /cocktails/assets/images/ingredient-egg-white.svg
-      title: Egg white
     - url: /cocktails/assets/images/ingredient-rye.svg
       title: Rye
   tool:

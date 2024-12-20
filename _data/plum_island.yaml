@@ -6,10 +6,6 @@ images:
       title: Gold rum
     - url: /cocktails/assets/images/ingredient-lillet-rouge.svg
       title: Lillet rouge
-    - url: /cocktails/assets/images/ingredient-lime-juice.svg
-      title: Lime juice
-    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
-      title: Simple syrup
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker

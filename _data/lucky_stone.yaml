@@ -1,9 +1,5 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-apricot-liqueur.svg
-      title: Apricot liqueur
-    - url: /cocktails/assets/images/ingredient-bitters.svg
-      title: Bitters
     - url: /cocktails/assets/images/ingredient-irish-whiskey.svg
       title: Irish whiskey
     - url: /cocktails/assets/images/ingredient-sherry.svg
@@ -11,8 +7,8 @@ images:
   tool:
     - url: /cocktails/assets/images/tool_julep-strainer.svg
       title: Julep strainer
-    - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_nick-and-nora.svg
       title: Nick and nora
