@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Corpse Reviver #1"
 permalink: "/recipe/corpse_reviver_1.html"
 iconfile: corpse_reviver_1
-stars: 0
+stars: 4
 category: "Calvados, Cognac"
 youtube: "bGxOcLRCBWk"
 excerpt: |
