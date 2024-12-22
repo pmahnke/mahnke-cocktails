@@ -1,0 +1,30 @@
+---
+layout: recipe
+author: Anders Erickson Cocktail Recipes
+title: "Classic Margarita"
+permalink: "/recipe/margarita.html"
+iconfile: margarita
+stars: 5
+category: "Reposado Tequila "
+youtube: "jxpT11WEtWQ"
+excerpt: |
+  The classic Margarita combines tequila, lime and triple sec for ultimate refreshment. This tried-and-true recipe ensures a great, easy cocktail every time.
+---
+
+### Ingredients
+
+| Amount | Ingredient       | Brand         |
+| -----: | ---------------- | ------------- |
+|   2 oz / 50 ml | Reposado Tequila | Milagro       |
+|   1 oz / 25 ml | Orange Curaçao   | Marie Brizard |
+|   1 oz / 25 ml | Fresh Lime Juice |
+
+### Notes
+
+- Method: Shaken/Stirred/Build in the Glass
+- Pour: Single Strain
+- Glassware:
+  - Low Ball
+  - On the Rocks
+- Garnish: Lime wheel
+- Special Prep: Salted rim

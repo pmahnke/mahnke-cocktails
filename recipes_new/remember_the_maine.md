@@ -1,0 +1,29 @@
+---
+layout: recipe
+author: Anders Erickson Cocktail Recipes
+title: "Remember the Maine"
+permalink: "/recipe/remember_the_maine.html"
+iconfile: remember_the_maine
+stars: 3
+category: "Rye "
+youtube: "I2_xijYpP_Y"
+excerpt: |
+  If you like a Rye Manhattan, you’ll love this historic variation that adds cherry liqueur and a bit of absinthe.
+---
+
+### Ingredients
+
+|  Amount | Ingredient     | Brand                     |
+| ------: | -------------- | ------------------------- |
+|  1.5 oz / 37.5 ml | Rye            | Rittenhouse 100           |
+| 0.75 oz / 18.75 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
+| 0.25 oz / 6.25 ml | Cherry Heering | Cherry Heering            |
+| 1 rinse | Absinthe       | St. George Verte          |
+
+### Notes
+
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Martini
+- Garnish: Expressed lemon oil & cocktail cherry
+- Special Prep: None

@@ -1,0 +1,30 @@
+---
+layout: recipe
+author: Anders Erickson Cocktail Recipes
+title: "Sherry Cobbler"
+permalink: "/recipe/sherry_cobbler.html"
+iconfile: sherry_cobbler
+stars: 0
+category: "Oloroso Sherry "
+youtube: "f7SpTmbMOsQ"
+excerpt: |
+  Chill down with this old-school, low-alcohol sipper. The Sherry Cobbler is a classic, delicious alternative to the Mint Julep.
+---
+
+### Ingredients
+
+|  Amount | Ingredient              | Brand           |
+| ------: | ----------------------- | --------------- |
+|    3 oz / 75 ml | Oloroso Sherry          | Lustau Don Nuño |
+|    1 oz / 25 ml | Orange Curaçao          | Marie Brizard   |
+| 1 whole | Orange Wheel, quartered |
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - Goblet
+  - Crushed Ice
+- Garnish: Fresh raspberries & mint
+- Special Prep: Serve with a straw."

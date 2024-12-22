@@ -7,7 +7,7 @@ stars: 3
 category: "Champagne, Cognac "
 youtube: "IAaiRENeyvc&t=639s"
 excerpt: |
-  The Chicago Cocktail is a classic cocktail that has been around for over 100 years. It is somewhat similar to an Old Fashioned in that it starts with brandy and bitters. Instead of sugar,it calls for a dash of curaçao and instead of a splash of soda it is topped up with champagne.
+  The Chicago Cocktail is a classic cocktail that has been around for over 100 years. It is somewhat similar to an Old Fashioned in that it starts with brandy and bitters. Instead of sugar, it calls for a dash of curaçao and instead of a splash of soda it is topped up with champagne.
 ---
 
 ### Ingredients

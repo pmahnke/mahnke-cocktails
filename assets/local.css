@@ -49,7 +49,7 @@ ul {
     text-indent: -.7em;
   }
   
-  li::before {
+  ul > li::before {
     content: "⇒ ";
     color: #E1AD01; 
     font-size: x-large;

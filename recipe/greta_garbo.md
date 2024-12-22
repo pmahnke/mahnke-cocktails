@@ -24,7 +24,7 @@ excerpt: |
 | ------: | --------------------------------------------------------- | --------------------- |
 |  1.5 oz | Light Rum                                                 | The Real McCoy 3 Year |
 | 0.25 oz | Maraschino Liqueur                                        | Luxardo               |
-| 0.75 oz | fresh lime juice                                          |
+| 0.75 oz | Fresh lime juice                                          |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 0.25 oz | Absinthe                                                  | St. George            |
 

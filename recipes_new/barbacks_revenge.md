@@ -1,0 +1,31 @@
+---
+layout: recipe
+author: Anders Erickson Cocktail Recipes
+title: "Barback’s Revenge"
+permalink: "/recipe/barbacks_revenge.html"
+iconfile: barbacks_revenge
+stars: 0
+category: "Demerara Rum, Bénédictine, Amontillado Sherry"
+youtube: "RRvfkkSjceM"
+excerpt: |
+  While it may sound menacing on the surface, this cocktail will be your cold-brew coffee's new best friend. With herbal sweetness from the rum and benedictine to savory elements from the sherry.
+---
+
+### Ingredients
+
+| Amount | Ingredient            | Brand            |
+| -----: | --------------------- | ---------------- |
+|   1 oz / 25 ml | Demerara Rum          | El Dorado 8 Year |
+|   1 oz / 25 ml | Bénédictine           | Bénédictine DOM  |
+| 0.5 oz / 12.5 ml | Amontillado Sherry    | Lustau Los Arcos |
+|   1 oz / 25 ml | Cold Brew Concentrate |
+
+### Notes
+
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+  - Low Ball
+  - Large Ice Cube
+- Garnish: Expressed lemon oil
+- Special Prep: None

@@ -5,7 +5,7 @@ title: "Stinger"
 permalink: "/recipe/stinger.html"
 iconfile: stinger
 stars: 4
-category: "Cognac,Crème de Menthe"
+category: "Cognac, Crème de Menthe"
 youtube: "mBGgu3qRztY"
 excerpt: |
   Feel the sweet sting of cognac and crème de menthe with the Stinger, a classic high-society cocktail from the pre-Prohibition era.

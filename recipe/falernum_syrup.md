@@ -18,7 +18,7 @@ excerpt: |
 | 50 grams | Toasted Almonds, chopped                                  |
 | 12 whole | Cloves                                                    |
 | 15 grams | Fresh Ginger, chopped                                     |
-|  0.5 tsp | Nutmeg,grated                                             |
+|  0.5 tsp | Nutmeg, grated                                            |
 |  0.5 pod | Vanilla Bean                                              |
 |     8 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
