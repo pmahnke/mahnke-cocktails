@@ -8,7 +8,7 @@ stars: 0
 category: "Fino Sherry, Maraschino Liqueur"
 youtube: "BUb54paVf0s"
 excerpt: |
-  The Fino Spritz is a refreshing and modern take on the classic spritz cocktail, featuring Fino Sherry as its base spirit. T
+  The Fino Spritz is a refreshing and modern take on the classic spritz cocktail, featuring Fino Sherry as its base spirit.
 ---
 
 ### Ingredients
