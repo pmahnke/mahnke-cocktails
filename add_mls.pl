@@ -2,7 +2,7 @@
 
 my $dir = qq|/home/peter/src/personal/cocktails/recipe/|;
 
-my $mydir = qq|/home/peter/src/personal/cocktails/recipes_new/|;
+my $mydir = qq|/home/peter/src/personal/cocktails/recipe_processed/|;
 
 # read files in a directory
 opendir(DIR, $dir) or die "Cannot open directory $dir";
@@ -25,6 +25,10 @@ while (my $file = readdir DIR) {
         } else {
             #print "line: $_\n";
         }
+
+	# also convert links
+	s/link recipe\//link recipe_processed\//;
+	
         $out .= $_;
 
     }

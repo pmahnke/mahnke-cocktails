@@ -1,0 +1,52 @@
+---
+layout: recipe
+author: Anders Erickson Cocktail Recipes
+title: "Espresso Martini"
+permalink: "/recipe/espresso_martini.html"
+iconfile: espresso_martini
+stars: 0
+category: "Coffee Liqueur, Vodka "
+youtube: "q0ebbWwoI10"
+excerpt: |
+  The Espresso Martini is more than 40 years old, and remains one of the most popular cocktails in existence today. Discover why this simple combination of vodka, espresso, and coffee liqueur still works.
+---
+
+## Original
+
+### Ingredients
+
+|  Amount | Ingredient                                               | Brand               |
+| ------: | -------------------------------------------------------- | ------------------- |
+|    1 oz / 25 ml | Coffee Liqueur                                           | Mr. Black Cold Brew |
+|    1 oz / 25 ml | Vodka                                                    | Russian Standard    |
+|    1 oz / 25 ml | Freshly Brewed Espresso                                  |
+| 0.25 oz / 6.25 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| 1 Swath | Lemon Oil                                                |
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Martini
+- Garnish: Lemon oil and 3 coffee beans
+- Special Prep: None
+
+## 2
+
+### Ingredients
+
+|  Amount | Ingredient                                               | Brand               |
+| ------: | -------------------------------------------------------- | ------------------- |
+|    1 oz / 25 ml | Coffee Liqueur                                           | Mr. Black Cold Brew |
+|    1 oz / 25 ml | Cognac                                                   | Maison Rouge VSOP   |
+|    1 oz / 25 ml | Freshly Brewed Espresso                                  |
+| 0.25 oz / 6.25 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| 1 Swath | Lemon Oil                                                |
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Martini
+- Garnish: Lemon oil and 3 coffee beans
+- Special Prep: None
