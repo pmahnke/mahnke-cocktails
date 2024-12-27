@@ -18,8 +18,8 @@ excerpt: |
 |    1 oz / 25 ml | Rye                                                       | Rittenhouse 100 Proof |
 |  0.5 oz / 12.5 ml | Allspice Dram                                             | St. Elizabeth         |
 |    2 oz / 50 ml | Montmorency Cherry Juice                                  |
-| 0.25 oz / 6.25 ml | Fresh Lemon Juice                                         |
-| 0.25 oz / 6.25 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.25 oz / 6.5 ml | Fresh Lemon Juice                                         |
+| 0.25 oz / 9 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |    4 oz / 100 ml | Oktoberfest                                               | Spiteful Brewing      |
 
 ### Notes

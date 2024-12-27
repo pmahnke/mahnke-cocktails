@@ -16,8 +16,8 @@ excerpt: |
 |  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
 |  1.5 oz / 37.5 ml | Rye            | Rittenhouse 100           |
-| 0.75 oz / 18.75 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
-| 0.25 oz / 6.25 ml | Cherry Heering | Cherry Heering            |
+| 0.75 oz / 19 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
+| 0.25 oz / 6.5 ml | Cherry Heering | Cherry Heering            |
 | 1 rinse | Absinthe       | St. George Verte          |
 
 ### Notes

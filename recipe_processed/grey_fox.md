@@ -17,8 +17,8 @@ excerpt: |
 |    Amount | Ingredient                                                 | Brand                     |
 | --------: | ---------------------------------------------------------- | ------------------------- |
 |      1 oz / 25 ml | Fresh Lemon Juice                                          |
-|      1 oz / 25 ml | [Rich Earl Grey Syrup]({%link recipe_processed/earl_grey_syrup.md%}) |
-|   0.75 oz / 18.75 ml | Aquafaba                                                   |
+|      1 oz / 36.5 ml | [Rich Earl Grey Syrup]({%link recipe_processed/earl_grey_syrup.md%}) |
+|   0.75 oz / 19 ml | Aquafaba                                                   |
 | 2 to 3 oz / 75 ml | Tonic Water                                                | Fever Tree Premium Indian |
 
 ### Notes

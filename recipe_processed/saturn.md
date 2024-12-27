@@ -17,8 +17,8 @@ excerpt: |
 | ------: | ----------------------------------------- | ----------------------- |
 |  1.5 oz / 37.5 ml | Gin                                       | Beefeater               |
 |  0.5 oz / 12.5 ml | [Orgeat]({%link recipe_processed/orgeat_syrup.md%}) |
-| 0.25 oz / 6.25 ml | Passion Fruit Syrup                       |
-| 0.25 oz / 6.25 ml | Falernum                                  | John D. Taylor’s Velvet |
+| 0.25 oz / 6.5 ml | Passion Fruit Syrup                       |
+| 0.25 oz / 6.5 ml | Falernum                                  | John D. Taylor’s Velvet |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice                         |
 
 ### Notes

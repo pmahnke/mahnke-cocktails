@@ -17,7 +17,7 @@ excerpt: |
 | ------: | ---------------- | -------------------------- |
 |    2 oz / 50 ml | Gin              | Plymouth                   |
 |  0.5 oz / 12.5 ml | Cocchi Americano | Cocchi Americano           |
-| 0.25 oz / 6.25 ml | Orange Curaçao   | Marie Brizard              |
+| 0.25 oz / 6.5 ml | Orange Curaçao   | Marie Brizard              |
 |  1 dash | Bitters          | Angostura Aromatic Bitters |
 
 ### Notes

@@ -15,7 +15,7 @@ excerpt: |
 
 |    Amount | Ingredient     | Brand                 |
 | --------: | -------------- | --------------------- |
-|   0.75 oz / 18.75 ml | Overproof Rum  | Hamilton 151 Demerara |
+|   0.75 oz / 19 ml | Overproof Rum  | Hamilton 151 Demerara |
 |      1 oz / 25 ml | Coffee Liqueur | St. George NOLA       |
 |    0.5 oz / 12.5 ml | Orange Curaçao | Marie Brizard         |
 | 2 to 3 oz / 75 ml | Hot Coffee     |                       |

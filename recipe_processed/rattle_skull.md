@@ -18,8 +18,8 @@ excerpt: |
 |    1 oz / 25 ml | Jamaican Rum                                             | Appleton Estate Signature |
 |    1 oz / 25 ml | Cognac                                                   | Maison Rouge V.S.O.P.     |
 |   12 oz / 300 ml | Porter                                                   | Founder's                 |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice                                         |
-|  0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| 0.75 oz / 19 ml | Fresh Lime Juice                                         |
+|  0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 
 ### Notes
 

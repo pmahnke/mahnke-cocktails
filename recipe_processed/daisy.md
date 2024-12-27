@@ -20,12 +20,12 @@ excerpt: |
 
 |  Amount | Ingredient                                                | Brand                           |
 | ------: | --------------------------------------------------------- | ------------------------------- |
-| 0.75 oz / 18.75 ml | Cognac                                                    | Maison Rouge VSOP               |
-| 0.25 oz / 6.25 ml | Jamaican Rum                                              | Appleton Estate Signature Blend |
-| 0.25 oz / 6.25 ml | Dry Curaçao                                               | Pierre Ferrand                  |
+| 0.75 oz / 19 ml | Cognac                                                    | Maison Rouge VSOP               |
+| 0.25 oz / 6.5 ml | Jamaican Rum                                              | Appleton Estate Signature Blend |
+| 0.25 oz / 6.5 ml | Dry Curaçao                                               | Pierre Ferrand                  |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice                                         |
-| 0.25 oz / 6.25 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 0.25 oz / 6.25 ml | Sparkling Water                                           | Topo Chico                      |
+| 0.25 oz / 9 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.25 oz / 6.5 ml | Sparkling Water                                           | Topo Chico                      |
 
 ### Notes
 
@@ -45,9 +45,9 @@ excerpt: |
 |  Amount | Ingredient                                      | Brand              |
 | ------: | ----------------------------------------------- | ------------------ |
 |  1.5 oz / 37.5 ml | Gin                                             | Plymouth           |
-| 0.25 oz / 6.25 ml | Bénédictine                                     | Bénédictine D.O.M. |
+| 0.25 oz / 6.5 ml | Bénédictine                                     | Bénédictine D.O.M. |
 |  0.5 oz / 12.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice                               |
+| 0.75 oz / 19 ml | Fresh Lemon Juice                               |
 |    1 oz / 25 ml | Sparkling Water                                 | Topo Chico         |
 
 ### Notes

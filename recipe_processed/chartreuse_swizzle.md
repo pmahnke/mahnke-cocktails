@@ -18,8 +18,8 @@ excerpt: |
 |  1.5 oz / 37.5 ml | Green Chartreuse                  | Green Chartreuse        |
 |  0.5 oz / 12.5 ml | Falernum                          | John D. Taylor's Velvet |
 |    1 oz / 25 ml | Pineapple Juice                   |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice                  |
-| 0.25 oz / 6.25 ml | Optional - Overproof Jamaican Rum | Wray & Nephew White     |
+| 0.75 oz / 19 ml | Fresh Lime Juice                  |
+| 0.25 oz / 6.5 ml | Optional - Overproof Jamaican Rum | Wray & Nephew White     |
 
 ### Notes
 

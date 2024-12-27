@@ -22,7 +22,7 @@ excerpt: |
 |   2 oz / 50 ml | Champagne                                        |
 |   1 oz / 25 ml | Cognac                                           | Maison Rouge VSOP |
 | 0.5 oz / 12.5 ml | Fresh Lemon Juice                                |
-| 0.5 oz / 12.5 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%})  |
+| 0.5 oz / 17 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%})  |
 
 ### Notes
 
@@ -44,7 +44,7 @@ excerpt: |
 |   2 oz / 50 ml | Champagne                                        |
 |   1 oz / 25 ml | Gin                                              | Plymouth |
 | 0.5 oz / 12.5 ml | Fresh Lemon Juice                                |
-| 0.5 oz / 12.5 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%})  |
+| 0.5 oz / 17 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%})  |
 
 ### Notes
 

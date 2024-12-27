@@ -18,8 +18,8 @@ excerpt: |
 | 5 whole | Grapes                                                    |
 |    1 oz / 25 ml | Gin                                                       | Botanist |
 |    1 oz / 25 ml | Campari                                                   | Campari  |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice                                         |
-|  0.5 oz / 12.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.75 oz / 19 ml | Fresh Lemon Juice                                         |
+|  0.5 oz / 18.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

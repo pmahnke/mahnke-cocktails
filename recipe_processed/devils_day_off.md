@@ -18,7 +18,7 @@ excerpt: |
 | ------: | ---------------------- | --------------- |
 |    2 oz / 50 ml | Fresh Grapefruit Juice |
 |  0.5 oz / 12.5 ml | Fresh Lime Juice       |
-| 0.25 oz / 6.25 ml | Agave Nectar           |
+| 0.25 oz / 6.5 ml | Agave Nectar           |
 | 1 pinch | Cinnamon               |
 |  100 ml | Red Bitter Soda        | Sanbitter Rosso |
 

@@ -23,10 +23,10 @@ excerpt: |
 |  Amount | Ingredient                                                | Brand                 |
 | ------: | --------------------------------------------------------- | --------------------- |
 |  1.5 oz / 37.5 ml | Light Rum                                                 | The Real McCoy 3 Year |
-| 0.25 oz / 6.25 ml | Maraschino Liqueur                                        | Luxardo               |
-| 0.75 oz / 18.75 ml | Fresh lime juice                                          |
-|  0.5 oz / 12.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 0.25 oz / 6.25 ml | Absinthe                                                  | St. George            |
+| 0.25 oz / 6.5 ml | Maraschino Liqueur                                        | Luxardo               |
+| 0.75 oz / 19 ml | Fresh lime juice                                          |
+|  0.5 oz / 18.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.25 oz / 6.5 ml | Absinthe                                                  | St. George            |
 
 ### Notes
 
@@ -48,7 +48,7 @@ excerpt: |
 |    1 oz / 25 ml | Gin                                                       | Beefeater |
 |  0.5 oz / 12.5 ml | Swedish Punsch                                            | Kronan    |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice                                         |
-| 0.25 oz / 6.25 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.25 oz / 9 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

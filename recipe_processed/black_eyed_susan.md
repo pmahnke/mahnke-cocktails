@@ -19,8 +19,8 @@ excerpt: |
 |     1 oz / 25 ml | Vodka                                                     | Finlandia        |
 |   0.5 oz / 12.5 ml | Peach Liqueur                                             | Rothman & Winter |
 |     3 oz / 75 ml | Orange Juice                                              |
-|  0.75 oz / 18.75 ml | Fresh Lemon Juice                                         |
-|  0.25 oz / 6.25 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|  0.75 oz / 19 ml | Fresh Lemon Juice                                         |
+|  0.25 oz / 9 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 | 2 swaths | Orange Peel                                               |
 
 ### Notes

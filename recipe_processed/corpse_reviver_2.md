@@ -15,10 +15,10 @@ excerpt: |
 
 |  Amount | Ingredient        | Brand                      |
 | ------: | ----------------- | -------------------------- |
-| 0.75 oz / 18.75 ml | Gin               | The Botanist Islay Dry Gin |
-| 0.75 oz / 18.75 ml | Cocchi Americano  | Cocchi Americano           |
-| 0.75 oz / 18.75 ml | Triple Sec        | Luxardo Triplum            |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice |
+| 0.75 oz / 19 ml | Gin               | The Botanist Islay Dry Gin |
+| 0.75 oz / 19 ml | Cocchi Americano  | Cocchi Americano           |
+| 0.75 oz / 19 ml | Triple Sec        | Luxardo Triplum            |
+| 0.75 oz / 19 ml | Fresh Lemon Juice |
 | 1 rinse | Absinthe          | La Clandestine             |
 
 ### Notes

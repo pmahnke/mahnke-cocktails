@@ -18,7 +18,7 @@ excerpt: |
 | 0.5 whole | Orange                                                   |
 | 0.5 whole | Lemon                                                    |
 | 0.5 whole | Apple                                                    |
-|      3 oz / 75 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|      3 oz / 110 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 |      4 oz / 100 ml | Fresh Lemon Juice                                        |
 |      4 oz / 100 ml | Grand Marnier                                            | Grand Marnier   |
 |      6 oz / 150 ml | Olorosso Sherry                                          | Lustau Don Nuño |

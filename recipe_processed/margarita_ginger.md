@@ -16,10 +16,10 @@ excerpt: |
 |  Amount | Ingredient                                      | Brand         |
 | ------: | ----------------------------------------------- | ------------- |
 |    2 oz / 50 ml | Reposado Tequila                                | Milagro       |
-| 0.75 oz / 18.75 ml | Orange Curaçao                                  | Marie Brizard |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice                                |
-| 0.75 oz / 18.75 ml | Grapefruit Juice                                |
-| 0.25 oz / 6.25 ml | [Ginger Syrup]({%link recipe_processed/ginger_syrup.md%}) |
+| 0.75 oz / 19 ml | Orange Curaçao                                  | Marie Brizard |
+| 0.75 oz / 19 ml | Fresh Lime Juice                                |
+| 0.75 oz / 19 ml | Grapefruit Juice                                |
+| 0.25 oz / 6.5 ml | [Ginger Syrup]({%link recipe_processed/ginger_syrup.md%}) |
 
 Method: Shaken
 Pour: Double Strain

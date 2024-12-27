@@ -18,9 +18,9 @@ excerpt: |
 
 |  Amount | Ingredient        | Brand           |
 | ------: | ----------------- | --------------- |
-| 0.75 oz / 18.75 ml | Triple Sec        | Luxardo Triplum |
-| 0.75 oz / 18.75 ml | Crème De Menthe   | Tempus Fugit    |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice |
+| 0.75 oz / 19 ml | Triple Sec        | Luxardo Triplum |
+| 0.75 oz / 19 ml | Crème De Menthe   | Tempus Fugit    |
+| 0.75 oz / 19 ml | Fresh Lemon Juice |
 
 ### Notes
 
@@ -40,10 +40,10 @@ excerpt: |
 |  Amount | Ingredient                                      | Brand           |
 | ------: | ----------------------------------------------- | --------------- |
 |  1.5 oz / 37.5 ml | Gin                                             | Plymouth        |
-| 0.75 oz / 18.75 ml | Triple Sec                                      | Luxardo Triplum |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice                               |
-| 0.25 oz / 6.25 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 0.75 oz / 18.75 ml | Egg White / Aquafaba (chickpea water)           |
+| 0.75 oz / 19 ml | Triple Sec                                      | Luxardo Triplum |
+| 0.75 oz / 19 ml | Fresh Lemon Juice                               |
+| 0.25 oz / 8.5 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.75 oz / 19 ml | Egg White / Aquafaba (chickpea water)           |
 
 ### Notes
 

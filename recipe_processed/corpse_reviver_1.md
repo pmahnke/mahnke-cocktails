@@ -15,9 +15,9 @@ excerpt: |
 
 |  Amount | Ingredient     | Brand                           |
 | ------: | -------------- | ------------------------------- |
-| 0.75 oz / 18.75 ml | Calvados       | Roger Groult Pays D’auge 3 Year |
-| 0.75 oz / 18.75 ml | Cognac         | Maison Rouge VSOP               |
-| 0.75 oz / 18.75 ml | Sweet Vermouth | Cocchi Vermouth Di Torino       |
+| 0.75 oz / 19 ml | Calvados       | Roger Groult Pays D’auge 3 Year |
+| 0.75 oz / 19 ml | Cognac         | Maison Rouge VSOP               |
+| 0.75 oz / 19 ml | Sweet Vermouth | Cocchi Vermouth Di Torino       |
 
 ### Notes
 

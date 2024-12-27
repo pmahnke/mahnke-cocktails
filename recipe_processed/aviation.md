@@ -18,8 +18,8 @@ excerpt: |
 |  Amount | Ingredient         | Brand                                       |
 | ------: | ------------------ | ------------------------------------------- |
 |    2 oz / 50 ml | Gin                | Journeyman Distillery Bilberry Black Hearts |
-| 0.25 oz / 6.25 ml | Crème de Violette  | Rothman and Winter                          |
-| 0.25 oz / 6.25 ml | Maraschino Liqueur | Luxardo                                     |
+| 0.25 oz / 6.5 ml | Crème de Violette  | Rothman and Winter                          |
+| 0.25 oz / 6.5 ml | Maraschino Liqueur | Luxardo                                     |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice  |
 
 ### Notes

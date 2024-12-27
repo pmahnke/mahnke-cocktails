@@ -16,8 +16,8 @@ excerpt: |
 |         Amount | Ingredient                                      | Brand                |
 | -------------: | ----------------------------------------------- | -------------------- |
 |           2 oz / 50 ml | Gin                                             | Beefeater London Dry |
-|        0.75 oz / 18.75 ml | Fresh Lime Juice                                |
-|        0.75 oz / 18.75 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|        0.75 oz / 19 ml | Fresh Lime Juice                                |
+|        0.75 oz / 25.5 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |        3 drops | Rose Water                                      |
 | 0.25 to 0.5 oz / 12.5 ml | Aquafaba                                        |
 |       3 slices | Cucumber                                        |

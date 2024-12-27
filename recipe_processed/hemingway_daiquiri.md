@@ -16,10 +16,10 @@ excerpt: |
 |  Amount | Ingredient                                                | Brand                 |
 | ------: | --------------------------------------------------------- | --------------------- |
 |  1.5 oz / 37.5 ml | Light Rum                                                 | The Real Mccoy 3 Year |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice                                          |
-|  0.5 oz / 12.5 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 0.25 oz / 6.25 ml | Fresh Grapefruit Juice                                    |
-| 0.25 oz / 6.25 ml | Maraschino Liqueur                                        | Luxardo               |
+| 0.75 oz / 19 ml | Fresh Lime Juice                                          |
+|  0.5 oz / 18.5 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.25 oz / 6.5 ml | Fresh Grapefruit Juice                                    |
+| 0.25 oz / 6.5 ml | Maraschino Liqueur                                        | Luxardo               |
 | 1 swath | Grapefruit Peel                                           |
 
 ### Notes

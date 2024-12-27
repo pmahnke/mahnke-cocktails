@@ -15,9 +15,9 @@ excerpt: |
 
 |  Amount | Ingredient         | Brand                                                                           |
 | ------: | ------------------ | ------------------------------------------------------------------------------- |
-| 0.75 oz / 18.75 ml | Gin                | Plymouth                                                                        |
-| 0.75 oz / 18.75 ml | Dry Vermouth       | Dolin Vermouth de Chambéry Dry                                                  |
-| 0.75 oz / 18.75 ml | Sweet Vermouth     | Dolin Vermouth de Chambéry Rouge                                                |
+| 0.75 oz / 19 ml | Gin                | Plymouth                                                                        |
+| 0.75 oz / 19 ml | Dry Vermouth       | Dolin Vermouth de Chambéry Dry                                                  |
+| 0.75 oz / 19 ml | Sweet Vermouth     | Dolin Vermouth de Chambéry Rouge                                                |
 |  0.5 oz / 12.5 ml | Orange Liqueur     | Pierre Ferrand Dry Curaçao (curled version) OR Grand Marnier (straight version) |
 |  0.5 oz / 12.5 ml | Fresh Orange Juice |
 |  1 dash | Orange Bitters     | Regan's No.6                                                                    |

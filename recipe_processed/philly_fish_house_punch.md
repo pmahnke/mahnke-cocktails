@@ -23,7 +23,7 @@ excerpt: |
 |  12 oz / 300 ml | Jamaican Rum                                    | Appleton Estate Signature |
 |   6 oz / 150 ml | Peach Liqueur                                   | Rothman & Winter Orchard  |
 |   6 oz / 150 ml | Apple Brandy                                    | Laird's Straight          |
-|  12 oz / 300 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|  12 oz / 410 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |  18 oz / 450 ml | Fresh Lemon Juice                               |
 |  96 oz / 2400 ml | Cold Water                                      |
 
@@ -46,10 +46,10 @@ excerpt: |
 | ------: | ----------------------------------------------- | ------------------------- |
 |    1 oz / 25 ml | Cognac                                          | Pierre Ferrand 1840       |
 |  0.5 oz / 12.5 ml | Jamaican Rum                                    | Appleton Estate Signature |
-| 0.25 oz / 6.25 ml | Peach Liqueur                                   | Rothman & Winter Orchard  |
-| 0.25 oz / 6.25 ml | Apple Brandy                                    | Laird's Straight          |
-|  0.5 oz / 12.5 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice                               |
+| 0.25 oz / 6.5 ml | Peach Liqueur                                   | Rothman & Winter Orchard  |
+| 0.25 oz / 6.5 ml | Apple Brandy                                    | Laird's Straight          |
+|  0.5 oz / 17 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.75 oz / 19 ml | Fresh Lemon Juice                               |
 |    2 oz / 50 ml | Cold Water                                      |
 
 ### Notes

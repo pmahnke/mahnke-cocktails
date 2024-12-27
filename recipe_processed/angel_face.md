@@ -15,9 +15,9 @@ excerpt: |
 
 |  Amount | Ingredient      | Brand                           |
 | ------: | --------------- | ------------------------------- |
-| 1.25 oz / 31.25 ml | Gin             | Beefeater                       |
+| 1.25 oz / 31.5 ml | Gin             | Beefeater                       |
 |    1 oz / 25 ml | Apple Brandy    | Roger Groult Pays D’Auge 3 Year |
-| 0.75 oz / 18.75 ml | Apricot Liqueur | Giffard Abricot du Roussillon   |
+| 0.75 oz / 19 ml | Apricot Liqueur | Giffard Abricot du Roussillon   |
 
 ### Notes
 

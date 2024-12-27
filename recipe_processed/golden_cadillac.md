@@ -39,7 +39,7 @@ excerpt: |
 |   1.5 oz / 37.5 ml | Galliano             | Galliano L’Autentico |
 |   1.5 oz / 37.5 ml | White Crème de Cacao | Marie Brizard        |
 |     1 oz / 25 ml | Half & Half          |
-|  0.25 oz / 6.25 ml | Crushed Ice          |
+|  0.25 oz / 6.5 ml | Crushed Ice          |
 
 ### Notes
 

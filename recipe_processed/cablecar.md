@@ -16,9 +16,9 @@ excerpt: |
 |  Amount | Ingredient                                      | Brand          |
 | ------: | ----------------------------------------------- | -------------- |
 |  1.5 oz / 37.5 ml | Spice Rum                                       | Koloa Kaua'i   |
-| 0.75 oz / 18.75 ml | Dry Curaçao                                     | Pierre Ferrand |
+| 0.75 oz / 19 ml | Dry Curaçao                                     | Pierre Ferrand |
 |    1 oz / 25 ml | Fresh Lemon Juice                               |
-|  0.5 oz / 12.5 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|  0.5 oz / 17 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

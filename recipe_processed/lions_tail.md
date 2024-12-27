@@ -17,10 +17,10 @@ excerpt: |
 | -------: | -------------------------------------------------------- | -------------------------- |
 |   1.5 oz / 37.5 ml | Bourbon                                                  | Eagle Rare                 |
 |   0.5 oz / 12.5 ml | Allspice Dram                                            | St. Elizabeth              |
-|  0.75 oz / 18.75 ml | Fresh Lime Juice                                         |
-|  0.25 oz / 6.25 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|  0.75 oz / 19 ml | Fresh Lime Juice                                         |
+|  0.25 oz / 9 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 2 Dashes | Bitters                                                  | Angostura Aromatic Bitters |
-|  0.75 oz / 18.75 ml | Optional - Raw Egg White or Aquafaba (chickpea water)    |
+|  0.75 oz / 19 ml | Optional - Raw Egg White or Aquafaba (chickpea water)    |
 
 ### Notes
 

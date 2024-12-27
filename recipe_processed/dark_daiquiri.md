@@ -17,7 +17,7 @@ excerpt: |
 | -----: | -------------------------------------------------------- | ------------------------------------- |
 |   2 oz / 50 ml | Jamacian Rum                                             | Hamilton Jamaican Black Pot Still Rum |
 |   1 oz / 25 ml | Fresh Lime Juice                                         |
-| 0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| 0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 
 ### Notes
 

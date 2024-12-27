@@ -15,10 +15,10 @@ excerpt: |
 
 |  Amount | Ingredient           | Brand            |
 | ------: | -------------------- | ---------------- |
-| 0.75 oz / 18.75 ml | Gin                  | Martin Miller's  |
-| 0.75 oz / 18.75 ml | Cocchi Americano     | Cocchi Americano |
-| 0.75 oz / 18.75 ml | White Crème de Cacao | Marie Brizard    |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice    |
+| 0.75 oz / 19 ml | Gin                  | Martin Miller's  |
+| 0.75 oz / 19 ml | Cocchi Americano     | Cocchi Americano |
+| 0.75 oz / 19 ml | White Crème de Cacao | Marie Brizard    |
+| 0.75 oz / 19 ml | Fresh Lemon Juice    |
 
 ### Notes
 

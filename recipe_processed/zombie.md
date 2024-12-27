@@ -20,9 +20,9 @@ excerpt: |
 |        1 oz / 25 ml | Demerara Rum                                    | Hamilton 151                      |
 |      0.5 oz / 12.5 ml | Falernum                                        | John D. Taylor's Velvet           |
 |        1 oz / 25 ml | White Grapefruit Juice                          |
-|     0.75 oz / 18.75 ml | Fresh Lime Juice                                |
+|     0.75 oz / 19 ml | Fresh Lime Juice                                |
 |      0.5 oz / 12.5 ml | Cinnamon Syrup                                  |
-|     0.25 oz / 6.25 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|     0.25 oz / 6.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 | 1 bar spoon | Absinthe                                        | La Clandestine                    |
 |    2 dashes | Bitters                                         | Angostura Aromatic Bitters        |
 

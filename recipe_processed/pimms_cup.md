@@ -16,7 +16,7 @@ excerpt: |
 |    Amount | Ingredient        | Brand                 |
 | --------: | ----------------- | --------------------- |
 |      2 oz / 50 ml | Pimm's            | No.1 Pimm's No.1      |
-|   0.25 oz / 6.25 ml | Fresh Lemon Juice |
+|   0.25 oz / 6.5 ml | Fresh Lemon Juice |
 | 3 to 4 oz / 100 ml | Ginger Ale        | Fever Tree Ginger Ale |
 
 ### Notes

@@ -16,9 +16,9 @@ excerpt: |
 |  Amount | Ingredient         | Brand                         |
 | ------: | ------------------ | ----------------------------- |
 |  1.5 oz / 37.5 ml | Reposado T         | equila Milagro                |
-| 0.75 oz / 18.75 ml | Apricot Liquer     | Giffard Abricot du Roussillon |
+| 0.75 oz / 19 ml | Apricot Liquer     | Giffard Abricot du Roussillon |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice  |
-| 0.25 oz / 6.25 ml | Amontillado Sherry | Lustau Los Arcos              |
+| 0.25 oz / 6.5 ml | Amontillado Sherry | Lustau Los Arcos              |
 |   1 tsp | Light Agave Nectar |
 
 ### Notes

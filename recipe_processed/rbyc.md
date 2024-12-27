@@ -15,11 +15,11 @@ excerpt: |
 
 |  Amount | Ingredient       | Brand                 |
 | ------: | ---------------- | --------------------- |
-| 0.75 oz / 18.75 ml | Demerara Rum     | Hamilton 86           |
-| 0.75 oz / 18.75 ml | Light Rum        | The Real McCoy 3 Year |
+| 0.75 oz / 19 ml | Demerara Rum     | Hamilton 86           |
+| 0.75 oz / 19 ml | Light Rum        | The Real McCoy 3 Year |
 |  0.5 oz / 12.5 ml | Falernum         | John D. Taylor’s      |
 |  0.5 oz / 12.5 ml | Orange Curaçao   | Marie Brizard         |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice |
+| 0.75 oz / 19 ml | Fresh Lime Juice |
 
 ### Notes
 

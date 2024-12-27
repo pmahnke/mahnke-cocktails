@@ -15,10 +15,10 @@ excerpt: |
 
 |  Amount | Ingredient         | Brand                     |
 | ------: | ------------------ | ------------------------- |
-| 1.25 oz / 31.25 ml | Gin                | Scofflaw Old Tom          |
-| 1.25 oz / 31.25 ml | Sweet Vermouth     | Cocchi Vermouth di Torino |
-| 0.25 oz / 6.25 ml | Maraschino Liqueur | Luxardo                   |
-| 0.25 oz / 6.25 ml | Orange Bitters     | Fee Brother's             |
+| 1.25 oz / 31.5 ml | Gin                | Scofflaw Old Tom          |
+| 1.25 oz / 31.5 ml | Sweet Vermouth     | Cocchi Vermouth di Torino |
+| 0.25 oz / 6.5 ml | Maraschino Liqueur | Luxardo                   |
+| 0.25 oz / 6.5 ml | Orange Bitters     | Fee Brother's             |
 
 ### Notes
 

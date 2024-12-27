@@ -16,7 +16,7 @@ excerpt: |
 |        Amount | Ingredient                                               | Brand                   |
 | ------------: | -------------------------------------------------------- | ----------------------- |
 |          2 oz / 50 ml | Bourbon                                                  | Old Grand-Dad 100 Proof |
-|        0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|        0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 |     0.5 whole | Lemon, sliced and de-seeded                              |
 | 4 to 8 leaves | Mint                                                     |
 

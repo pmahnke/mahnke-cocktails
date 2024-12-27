@@ -16,8 +16,8 @@ excerpt: |
 |  Amount | Ingredient     | Brand                      |
 | ------: | -------------- | -------------------------- |
 |  1.5 oz / 37.5 ml | Sweet Vermouth | Cocchi Vermouth di Torino  |
-| 0.75 oz / 18.75 ml | Triple Sec     | Cointreau                  |
-| 0.75 oz / 18.75 ml | Bitters        | Angostura Aromatic Bitters |
+| 0.75 oz / 19 ml | Triple Sec     | Cointreau                  |
+| 0.75 oz / 19 ml | Bitters        | Angostura Aromatic Bitters |
 
 ### Notes
 

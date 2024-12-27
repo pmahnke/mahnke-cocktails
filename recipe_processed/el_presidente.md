@@ -16,8 +16,8 @@ excerpt: |
 |      Amount | Ingredient                                      | Brand                            |
 | ----------: | ----------------------------------------------- | -------------------------------- |
 |      1.5 oz / 37.5 ml | Light Rum                                       | Probitas                         |
-|     0.75 oz / 18.75 ml | White Vermouth                                  | Dolin Blanc Vermouth de Chambéry |
-|     0.25 oz / 6.25 ml | Dry Curaçao                                     | Pierre Ferrand                   |
+|     0.75 oz / 19 ml | White Vermouth                                  | Dolin Blanc Vermouth de Chambéry |
+|     0.25 oz / 6.5 ml | Dry Curaçao                                     | Pierre Ferrand                   |
 | 1 bar spoon | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 
 ### Notes

@@ -16,7 +16,7 @@ excerpt: |
 |   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
 |   1.5 oz / 37.5 ml | Bourbon           | Old Grand-Dad              |
-|  0.75 oz / 18.75 ml | Dry Curaçao       | Pierre Ferrand             |
+|  0.75 oz / 19 ml | Dry Curaçao       | Pierre Ferrand             |
 |   0.5 oz / 12.5 ml | Sweet Vermouth    | Cocchi Vermouth di Torino  |
 |   0.5 oz / 12.5 ml | Fresh Lemon Juice |
 | 2 dashes | Bitters           | Angostura Aromatic Bitters |

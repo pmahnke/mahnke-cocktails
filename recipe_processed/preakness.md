@@ -16,8 +16,8 @@ excerpt: |
 |  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
 |  1.5 oz / 37.5 ml | Bourbon        | Old Grand-Dad             |
-| 0.75 oz / 18.75 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
-| 0.25 oz / 6.25 ml | Bénédictine    | Bénédictine D.O.M.        |
+| 0.75 oz / 19 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
+| 0.25 oz / 6.5 ml | Bénédictine    | Bénédictine D.O.M.        |
 
 ### Notes
 

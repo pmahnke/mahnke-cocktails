@@ -16,10 +16,10 @@ excerpt: |
 |  Amount | Ingredient                                               | Brand        |
 | ------: | -------------------------------------------------------- | ------------ |
 |  1.5 oz / 37.5 ml | Bourbon                                                  | Basil Hayden |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice                                        |
-|  0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| 0.75 oz / 19 ml | Fresh Lemon Juice                                        |
+|  0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 |  0.5 oz / 12.5 ml | Egg White                                                |
-| 0.75 oz / 18.75 ml | Red Wine                                                 |
+| 0.75 oz / 19 ml | Red Wine                                                 |
 
 ### Notes
 

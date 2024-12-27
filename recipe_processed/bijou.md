@@ -20,9 +20,9 @@ excerpt: |
 
 |  Amount | Ingredient                        | Brand                     |
 | ------: | --------------------------------- | ------------------------- |
-| 0.75 oz / 18.75 ml | Gin                               | lymouth                   |
-| 0.75 oz / 18.75 ml | Sweet Vermouth                    | Cocchi Vermouth di Torino |
-| 0.75 oz / 18.75 ml | Green Chartreuse Green Chartreuse |
+| 0.75 oz / 19 ml | Gin                               | lymouth                   |
+| 0.75 oz / 19 ml | Sweet Vermouth                    | Cocchi Vermouth di Torino |
+| 0.75 oz / 19 ml | Green Chartreuse Green Chartreuse |
 |  1 dash | Orange Bitters                    | Regan's No. 6             |
 
 ### Notes
@@ -39,9 +39,9 @@ excerpt: |
 
 |  Amount | Ingredient       | Brand                     |
 | ------: | ---------------- | ------------------------- |
-| 1.25 oz / 31.25 ml | Gin              | Plymouth                  |
-| 0.75 oz / 18.75 ml | Sweet Vermouth   | Cocchi Vermouth di Torino |
-| 0.25 oz / 6.25 ml | Green Chartreuse | Green Chartreuse          |
+| 1.25 oz / 31.5 ml | Gin              | Plymouth                  |
+| 0.75 oz / 19 ml | Sweet Vermouth   | Cocchi Vermouth di Torino |
+| 0.25 oz / 6.5 ml | Green Chartreuse | Green Chartreuse          |
 |  1 dash | Orange Bitters   | Regan's No. 6             |
 
 ### Notes

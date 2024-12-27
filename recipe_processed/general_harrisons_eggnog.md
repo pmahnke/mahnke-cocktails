@@ -18,8 +18,8 @@ excerpt: |
 | ------: | ------------------------------- | ---------------- |
 | 1 whole | Egg |
 | 1 oz / 25 ml | Demerara Rum | El Dorado 8 Year |
-| 0.25 oz / 6.25 ml | Allspice Dram | St. Elizabeth |
-| 0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%})|
+| 0.25 oz / 6.5 ml | Allspice Dram | St. Elizabeth |
+| 0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%})|
 | 3 oz / 75 ml | Dry Hard Cider |
 
  ### Notes

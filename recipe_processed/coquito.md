@@ -18,7 +18,7 @@ excerpt: |
 | 4 oz / 100 ml | Evaporated Milk |
 | 4 oz / 100 ml | Sweetened Condensed Milk |
 | 2 oz / 50 ml | [Cream of Coconut]({%link recipe_processed/creamofcoconut_syrup.md%}) |
-| 0.25 oz / 6.25 ml | (7.5 ml) Vanilla Extract |
+| 0.25 oz / 6.5 ml | (7.5 ml) Vanilla Extract |
 | 2 oz / 50 ml | Chilled Spice Tea |
 | 1 pinch | Salt |
 | 4 oz / 100 ml | Gold Rum | Don Q |

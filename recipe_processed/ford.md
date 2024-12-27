@@ -17,7 +17,7 @@ excerpt: |
 | -------: | -------------- | ------------------------------ |
 |   1.5 oz / 37.5 ml | Old Tom Gin    | Scofflaw                       |
 |   1.5 oz / 37.5 ml | Dry Vermouth   | Dolin Vermouth de Chambéry Dry |
-|  0.25 oz / 6.25 ml | Bénédictine    | Bénédictine DOM                |
+|  0.25 oz / 6.5 ml | Bénédictine    | Bénédictine DOM                |
 | 3 dashes | Orange Bitters | Regan's No. 6                  |
 
 ### Notes

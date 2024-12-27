@@ -15,16 +15,16 @@ excerpt: |
 
 |  Amount | Ingredient                                                | Brand                             |
 | ------: | --------------------------------------------------------- | --------------------------------- |
-| 0.75 oz / 18.75 ml | Jamaican Rum                                              | Hamilton Jamaican Pot Still Black |
-| 0.75 oz / 18.75 ml | Light Rum                                                 | Real McCoy 3 Year                 |
-| 0.75 oz / 18.75 ml | Cognac                                                    | Maison Rouge VSOP                 |
-| 0.75 oz / 18.75 ml | Gin                                                       | Beefeater London Dry              |
+| 0.75 oz / 19 ml | Jamaican Rum                                              | Hamilton Jamaican Pot Still Black |
+| 0.75 oz / 19 ml | Light Rum                                                 | Real McCoy 3 Year                 |
+| 0.75 oz / 19 ml | Cognac                                                    | Maison Rouge VSOP                 |
+| 0.75 oz / 19 ml | Gin                                                       | Beefeater London Dry              |
 |  0.5 oz / 12.5 ml | Falernum                                                  | John D. Taylor Velvet             |
 |  0.5 oz / 12.5 ml | Passion Fruit Syrup                                       |
-| 0.75 oz / 18.75 ml | Pineapple Juice                                           |
-| 0.75 oz / 18.75 ml | Orange Juice                                              |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice                                          |
-| 0.25 oz / 6.25 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.75 oz / 19 ml | Pineapple Juice                                           |
+| 0.75 oz / 19 ml | Orange Juice                                              |
+| 0.75 oz / 19 ml | Fresh Lime Juice                                          |
+| 0.25 oz / 9 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

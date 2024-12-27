@@ -19,7 +19,7 @@ excerpt: |
 |    6 oz / 150 ml | Pineapple Juice                                              |
 |    2 oz / 50 ml | Fresh Orange Juice                                           |
 |    2 oz / 50 ml | [Cream of Coconut] ({%link recipe_processed/creamofcoconut_syrup.md%}) |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice                                             |
+| 0.75 oz / 19 ml | Fresh Lime Juice                                             |
 | 1 pinch | Ground Cinnamon                                              |
 |   1 cup | Crushed Ice                                                  |
 

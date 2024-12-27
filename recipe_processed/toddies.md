@@ -22,7 +22,7 @@ excerpt: |
 | --------: | --------------------------------------------- | --------------- |
 |    1.5 oz / 37.5 ml | Blended Scotch                                | Monkey Shoulder |
 |    0.5 oz / 12.5 ml | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
-|   0.25 oz / 6.25 ml | Fresh Lemon Juice                             |
+|   0.25 oz / 6.5 ml | Fresh Lemon Juice                             |
 | 4 to 5 oz / 125 ml | Chamomile Tea                                 |
 |   1 stick | Cinnamon                                      |
 |   4 whole | Cloves                                        |
@@ -45,7 +45,7 @@ excerpt: |
 |    Amount | Ingredient                                               | Brand                   |
 | --------: | -------------------------------------------------------- | ----------------------- |
 |    1.5 oz / 37.5 ml | Jamaican Rum                                             | Appleton Estate 12 Year |
-|    0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|    0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 |    .25 oz / 625 ml | Fresh Lemon Juice                                        |
 | 4 to 5 oz / 125 ml | Black Tea                                                |
 |   1 stick | Cinnamon                                                 |
@@ -70,7 +70,7 @@ excerpt: |
 | --------: | ----------------- | -------------------- |
 |    1.5 oz / 37.5 ml | Mezcal            | Tileño Espadin Joven |
 |    0.5 oz / 12.5 ml | Agave Nectar      |
-|   0.25 oz / 6.25 ml | Fresh Lemon Juice |
+|   0.25 oz / 6.5 ml | Fresh Lemon Juice |
 | 4 to 5 oz / 125 ml | Hibiscus Tea      |
 |   1 Stick | Cinnamon          |
 |   4 whole | Cloves            |

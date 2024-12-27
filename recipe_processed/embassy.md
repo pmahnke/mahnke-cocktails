@@ -15,8 +15,8 @@ excerpt: |
 
 |   Amount | Ingredient       | Brand                           |
 | -------: | ---------------- | ------------------------------- |
-|  0.75 oz / 18.75 ml | Cognac           | Maison Rouge VSOP               |
-|  0.75 oz / 18.75 ml | Jamaican Rum     | Appleton Estate Signature Blend |
+|  0.75 oz / 19 ml | Cognac           | Maison Rouge VSOP               |
+|  0.75 oz / 19 ml | Jamaican Rum     | Appleton Estate Signature Blend |
 |     1 oz / 25 ml | Orange Curaçao   | Marie Brizard                   |
 |   0.5 oz / 12.5 ml | Fresh Lime Juice |
 | 2 dashes | Bitters          | Angostura Aromatic Bitters      |

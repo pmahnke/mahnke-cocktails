@@ -15,9 +15,9 @@ excerpt: |
 |  Amount | Ingredient                                               | Brand         |
 | ------: | -------------------------------------------------------- | ------------- |
 |  1.5 oz / 37.5 ml | Bourbon                                                  | Buffalo Trace |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice                                        |
-|  0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-| 0.75 oz / 18.75 ml | Egg White or Aquafaba (chickpea water)                   |
+| 0.75 oz / 19 ml | Fresh Lemon Juice                                        |
+|  0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| 0.75 oz / 19 ml | Egg White or Aquafaba (chickpea water)                   |
 
 ### Notes
 

@@ -18,7 +18,7 @@ ercerpt: |
 |   Amount | Ingredient                                               | Brand                         |
 | -------: | -------------------------------------------------------- | ----------------------------- |
 |     2 oz / 50 ml | Bourbon                                                  | Colonel E.H. Taylor 100 Proof |
-|  0.25 oz / 6.25 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|  0.25 oz / 9 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 4 dashes | Bitters                                                  | Angostura Aromatic Bitters    |
 |  1 wedge | Orange Wedge                                             |
 

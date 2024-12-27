@@ -18,8 +18,8 @@ excerpt: |
 | 2 slices | Cucumber                                                  |
 |     2 oz / 50 ml | Irish Whiskey                                             | Powers Gold Label |
 |   0.5 oz / 12.5 ml | Elderflower Liqueur                                       | St. Germain       |
-|  0.75 oz / 18.75 ml | Fresh Lemon Juice                                         |
-|   0.5 oz / 12.5 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|  0.75 oz / 19 ml | Fresh Lemon Juice                                         |
+|   0.5 oz / 18.5 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

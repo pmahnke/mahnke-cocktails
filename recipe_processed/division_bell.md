@@ -16,9 +16,9 @@ excerpt: |
 |  Amount | Ingredient         | Brand           |
 | ------: | ------------------ | --------------- |
 |    1 oz / 25 ml | Mezcal             | Del Maguey Vida |
-| 0.75 oz / 18.75 ml | Aperol             | Aperol          |
+| 0.75 oz / 19 ml | Aperol             | Aperol          |
 |  0.5 oz / 12.5 ml | Maraschino Liqueur | Luxardo         |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice   |
+| 0.75 oz / 19 ml | Fresh Lime Juice   |
 
 ### Notes
 

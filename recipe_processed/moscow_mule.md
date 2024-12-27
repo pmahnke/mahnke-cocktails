@@ -16,7 +16,7 @@ excerpt: |
 |        Amount | Ingredient       | Brand                      |
 | ------------: | ---------------- | -------------------------- |
 |          2 oz / 50 ml | Vodka            | Valentine                  |
-|       0.75 oz / 18.75 ml | Fresh Lime Juice |
+|       0.75 oz / 19 ml | Fresh Lime Juice |
 | 2 to 3 dashes | Bitters          | Angostura Aromatic Bitters |
 |      4 to5 oz / 125 ml | Ginger Beer      |
 

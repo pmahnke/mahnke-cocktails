@@ -16,9 +16,9 @@ excerpt: |
 |  Amount | Ingredient                                | Brand               |
 | ------: | ----------------------------------------- | ------------------- |
 |  1.5 oz / 37.5 ml | Gin                                       | Broker's London Dry |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice                         |
+| 0.75 oz / 19 ml | Fresh Lemon Juice                         |
 |  0.5 oz / 12.5 ml | Raspberry Syrup                           |
-| 0.75 oz / 18.75 ml | Raw Egg White / Aquafaba (chickpea water) |
+| 0.75 oz / 19 ml | Raw Egg White / Aquafaba (chickpea water) |
 
 ### Notes
 

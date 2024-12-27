@@ -21,7 +21,7 @@ excerpt: |
 | 3 Swaths | Grapefruit Zest                                 |
 |     2 oz / 50 ml | Bitters                                         | Peychaud's                                                                |
 |     1 oz / 25 ml | Fresh Lemon Juice                               |
-|     1 oz / 25 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|     1 oz / 34 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |     1 oz / 25 ml | Red Bitter Soda                                 | [Sanbitter](https://amzn.to/3d1Vm1I) or [Stappi](https://amzn.to/2NmvjHO) |
 
 ### Notes

@@ -16,8 +16,8 @@ excerpt: |
 |         Amount | Ingredient                                               | Brand                      |
 | -------------: | -------------------------------------------------------- | -------------------------- |
 |           2 oz / 50 ml | Demerara Rum                                             | El Dorado 12 Year          |
-|        0.75 oz / 18.75 ml | Fresh Lime Juice                                         |
-|        0.25 oz / 6.25 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|        0.75 oz / 19 ml | Fresh Lime Juice                                         |
+|        0.25 oz / 9 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 |  4 to 6 dashes | Bitters                                                  | Angostura Aromatic Bitters |
 | 8 to 10 leaves | Mint                                                     |
 

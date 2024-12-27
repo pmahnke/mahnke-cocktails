@@ -17,7 +17,7 @@ excerpt: |
 |    Amount | Ingredient                                                   | Brand      |
 | --------: | ------------------------------------------------------------ | ---------- |
 |      1 oz / 25 ml | Fresh Lemon Juice                                            |
-|      1 oz / 25 ml | [Thyme-Infused Simple Syrup]({%link recipe_processed/thyme_syrup.md%}) |
+|      1 oz / 34 ml | [Thyme-Infused Simple Syrup]({%link recipe_processed/thyme_syrup.md%}) |
 | 4 to 5 oz / 125 ml | Ginger Beer                                                  | Fever Tree |
 
 ### Notes

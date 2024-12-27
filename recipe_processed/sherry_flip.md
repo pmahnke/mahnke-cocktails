@@ -16,7 +16,7 @@ excerpt: |
 |  Amount | Ingredient                                               | Brand                             |
 | ------: | -------------------------------------------------------- | --------------------------------- |
 |    2 oz / 50 ml | Oloroso Sherry                                           | Lustau Emperatriz Eugenia Oloroso |
-|  0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|  0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 1 whole | Egg                                                      |
 
 ### Notes

@@ -16,12 +16,12 @@ excerpt: |
 |  Amount | Ingredient                                      | Brand             |
 | ------: | ----------------------------------------------- | ----------------- |
 |  1.5 oz / 37.5 ml | Light Rum                                       | Real McCoy 3 Year |
-| 0.75 oz / 18.75 ml | Pisco                                           | Barsol            |
+| 0.75 oz / 19 ml | Pisco                                           | Barsol            |
 |  0.5 oz / 12.5 ml | Plymouth Gin                                    | Plymouth Gin      |
 |  0.5 oz / 12.5 ml | Dry Curaçao                                     | Pierre Ferrand    |
 |    1 oz / 25 ml | Amontillado Sherry                              | Lustau Los Arcos  |
 |    1 oz / 25 ml | Fresh Lemon Juice                               |
-| 0.75 oz / 18.75 ml | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+| 0.75 oz / 19 ml | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
 
 ### Notes
 

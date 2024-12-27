@@ -15,8 +15,8 @@ excerpt: |
 
 |   Amount | Ingredient        | Brand           |
 | -------: | ----------------- | --------------- |
-|  0.75 oz / 18.75 ml | Gin               | Plymouth        |
-|  0.25 oz / 6.25 ml | Orange Liqueur    | Grand Marnier   |
+|  0.75 oz / 19 ml | Gin               | Plymouth        |
+|  0.25 oz / 6.5 ml | Orange Liqueur    | Grand Marnier   |
 |   1.5 oz / 37.5 ml | Champagne         | Taittinger Brut |
 | 30 grams | Vanilla Ice Cream |
 

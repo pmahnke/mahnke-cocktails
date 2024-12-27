@@ -16,9 +16,9 @@ excerpt: |
 |  Amount | Ingredient     | Brand                                   |
 | ------: | -------------- | --------------------------------------- |
 |  1.5 oz / 37.5 ml | Single Malt    | Scotch Edradour 10 year Highland Scotch |
-| 0.75 oz / 18.75 ml | Sweet Vermouth | Cocchi Vermouth di Torino               |
-| 0.25 oz / 6.25 ml | Drambuie       | Drambuie                                |
-| 0.25 oz / 6.25 ml | Amaro          | Ramazzotti                              |
+| 0.75 oz / 19 ml | Sweet Vermouth | Cocchi Vermouth di Torino               |
+| 0.25 oz / 6.5 ml | Drambuie       | Drambuie                                |
+| 0.25 oz / 6.5 ml | Amaro          | Ramazzotti                              |
 |  1 dash | Bitters        | Angostura Aromatic Bitters              |
 
 ### Notes

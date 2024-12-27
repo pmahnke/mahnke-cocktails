@@ -15,8 +15,8 @@ excerpt: |
 
 |  Amount | Ingredient        | Brand             |
 | ------: | ----------------- | ----------------- |
-| 0.75 oz / 18.75 ml | Cognac            | Maison Rouge VSOP |
-| 0.75 oz / 18.75 ml | Light Rum         | Real McCoy 3 Year |
+| 0.75 oz / 19 ml | Cognac            | Maison Rouge VSOP |
+| 0.75 oz / 19 ml | Light Rum         | Real McCoy 3 Year |
 |    1 oz / 25 ml | Dry Curaçao       | Pierre Ferrand    |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice |
 

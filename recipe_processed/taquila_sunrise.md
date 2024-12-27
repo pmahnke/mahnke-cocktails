@@ -21,7 +21,7 @@ excerpt: |
 |    Amount | Ingredient       | Brand                                   |
 | --------: | ---------------- | --------------------------------------- |
 |    1.5 oz / 37.5 ml | Reposado Tequila | Siete Leguas                            |
-|   0.75 oz / 18.75 ml | Creme de Cassis  | Jules Theuriet Creme de Cassis de Dijon |
+|   0.75 oz / 19 ml | Creme de Cassis  | Jules Theuriet Creme de Cassis de Dijon |
 |    0.5 oz / 12.5 ml | Fresh Lime Juice |
 | 4 to 5 oz / 125 ml | Soda Water       |
 
@@ -64,8 +64,8 @@ excerpt: |
 | --------: | ----------------------------------------------- | --------------------------------------- |
 |    1.5 oz / 37.5 ml | Reposado Tequila                                | Siete Leguas                            |
 |    0.5 oz / 12.5 ml | Creme de Cassis                                 | Jules Theuriet Creme de Cassis de Dijon |
-|   0.25 oz / 6.25 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-|   0.75 oz / 18.75 ml | Fresh Lime Juice                                |
+|   0.25 oz / 6.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|   0.75 oz / 19 ml | Fresh Lime Juice                                |
 |    1 dash | Bitters                                         | Angostura Aromatic Bitters              |
 | 4 to 5 oz / 125 ml | Soda Water                                      |
 

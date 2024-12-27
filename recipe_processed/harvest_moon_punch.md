@@ -19,7 +19,7 @@ excerpt: |
 |   9 oz / 225 ml | Apple Brandy                                             | Laird’s BIB Straight    |
 |   6 oz / 150 ml | Orchard Pear Liqueur                                     | Rothman & Winter        |
 |   3 oz / 75 ml | Allspice Dram                                            | St. Elizabeth           |
-|   6 oz / 150 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |                         |
+|   6 oz / 220 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |                         |
 |   9 oz / 225 ml | Fresh Lemon Juice                                        |                         |
 | 24 oz / 600 ml. | Black Tea (chilled)                                      |                         |
 

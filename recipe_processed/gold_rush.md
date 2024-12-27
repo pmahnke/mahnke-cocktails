@@ -16,8 +16,8 @@ excerpt: |
 |  Amount | Ingredient                                    | Brand      |
 | ------: | --------------------------------------------- | ---------- |
 |  1.5 oz / 37.5 ml | Bourbon                                       | Eagle Rare |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice                             |
-| 0.75 oz / 18.75 ml | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
+| 0.75 oz / 19 ml | Fresh Lemon Juice                             |
+| 0.75 oz / 19 ml | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
 
 ### Notes
 

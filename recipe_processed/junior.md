@@ -19,8 +19,8 @@ excerpt: |
 | -------: | -------------------------------------------------------- | -------------------------- |
 |   1.5 oz / 37.5 ml | Rye                                                      | Rittenhouse 100 Proof      |
 |   0.5 oz / 12.5 ml | Bénédictine                                              | Bénédictine D.O.M.         |
-|  0.75 oz / 18.75 ml | Fresh Lime Juice                                         |
-|  0.25 oz / 6.25 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|  0.75 oz / 19 ml | Fresh Lime Juice                                         |
+|  0.25 oz / 9 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 2 dashes | Bitters                                                  | Angostura Aromatic Bitters |
 
 ### Notes

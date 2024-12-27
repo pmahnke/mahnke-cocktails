@@ -16,12 +16,12 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand                                 |
 | ------: | ----------------------------------------------- | ------------------------------------- |
-| 0.75 oz / 18.75 ml | Jamaican Rum                                    | Hamilton Jamaican Pot Still Black     |
-| 0.75 oz / 18.75 ml | Gold Rum                                        | Holmes Cay Fiji Single Origin Edition |
-| 0.25 oz / 6.25 ml | Absinthe                                        | St. George                            |
+| 0.75 oz / 19 ml | Jamaican Rum                                    | Hamilton Jamaican Pot Still Black     |
+| 0.75 oz / 19 ml | Gold Rum                                        | Holmes Cay Fiji Single Origin Edition |
+| 0.25 oz / 6.5 ml | Absinthe                                        | St. George                            |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice                               |
 |  0.5 oz / 12.5 ml | Fresh Lime Juice                                |
-| 0.75 oz / 18.75 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+| 0.75 oz / 19 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 |    1 oz / 25 ml | Sparkling Water                                 | Topo Chico                            |
 
 ### Notes

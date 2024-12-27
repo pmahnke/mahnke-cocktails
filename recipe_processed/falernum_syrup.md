@@ -20,7 +20,7 @@ excerpt: |
 | 15 grams | Fresh Ginger, chopped                                     |
 |  0.5 tsp | Nutmeg, grated                                            |
 |  0.5 pod | Vanilla Bean                                              |
-|     8 oz / 200 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|     8 oz / 293.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Method
 

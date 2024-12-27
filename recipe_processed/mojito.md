@@ -20,8 +20,8 @@ excerpt: |
 |          Amount | Ingredient                                               | Brand                 |
 | --------------: | -------------------------------------------------------- | --------------------- |
 |            2 oz / 50 ml | Light Rum                                                | The Real McCoy 3 Year |
-|         0.75 oz / 18.75 ml | Fresh Lime Juice                                         |
-|          0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|         0.75 oz / 19 ml | Fresh Lime Juice                                         |
+|          0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 10 to 12 leaves | Mint                                                     |
 |       3 to 5 oz / 125 ml | Soda Water                                               |
 

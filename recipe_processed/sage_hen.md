@@ -16,8 +16,8 @@ excerpt: |
 |     Amount | Ingredient                                                      | Brand             |
 | ---------: | --------------------------------------------------------------- | ----------------- |
 |     1.5 oz / 37.5 ml | Gin                                                             | Plymouth          |
-|    0.25 oz / 6.25 ml | Yellow Chartreuse                                               | Yellow Chartreuse |
-|    0.75 oz / 18.75 ml | Fresh Lemon Juice                                               |
+|    0.25 oz / 6.5 ml | Yellow Chartreuse                                               | Yellow Chartreuse |
+|    0.75 oz / 19 ml | Fresh Lemon Juice                                               |
 |     0.5 oz / 12.5 ml | [Sage Infused Honey Syrup]({%link recipe_processed/sage_honey_syrup.md%}) |
 | 0.25 whole | Red Delicious Apple                                             |
 

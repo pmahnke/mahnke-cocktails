@@ -45,8 +45,8 @@ excerpt: |
 |    1 oz / 25 ml | Demerara Rum                                    | El Dorado 8 Year  |
 |    1 oz / 25 ml | Passion Fruit Juice                             |
 |  0.5 oz / 12.5 ml | Fresh Orange Juice                              |
-| 0.25 oz / 6.25 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-| 0.25 oz / 6.25 ml | Fresh Lime Juice                                |
+| 0.25 oz / 6.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+| 0.25 oz / 6.5 ml | Fresh Lime Juice                                |
 
 ### Notes
 

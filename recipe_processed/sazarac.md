@@ -17,7 +17,7 @@ excerpt: |
 | -------: | --------------------------------------------------------- | ------------------------------------ |
 |   1.5 oz / 37.5 ml | Rye                                                       | Sazerac Straight                     |
 |   0.5 oz / 12.5 ml | Cognac                                                    | Maison Rouge VSOP                    |
-|  0.25 oz / 6.25 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|  0.25 oz / 9 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 | 3 dashes | Bitters                                                   | Peychaud's                           |
 |   1 dash | Bitters                                                   | Angostura Aromatic Bitters           |
 |  1 rinse | Absinthe                                                  | Nouvelle Orleans Absinthe Superieure |

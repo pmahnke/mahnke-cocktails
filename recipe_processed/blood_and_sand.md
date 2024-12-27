@@ -15,10 +15,10 @@ excerpt: |
 
 |  Amount | Ingredient         | Brand                     |
 | ------: | ------------------ | ------------------------- |
-| 0.75 oz / 18.75 ml | Blended Scotch     | Monkey Shoulder           |
-| 0.75 oz / 18.75 ml | Sweet Vermouth     | Cocchi Vermouth di Torino |
-| 0.75 oz / 18.75 ml | Cherry Liqueur     | Cherry Heering            |
-| 0.75 oz / 18.75 ml | Fresh Orange Juice |
+| 0.75 oz / 19 ml | Blended Scotch     | Monkey Shoulder           |
+| 0.75 oz / 19 ml | Sweet Vermouth     | Cocchi Vermouth di Torino |
+| 0.75 oz / 19 ml | Cherry Liqueur     | Cherry Heering            |
+| 0.75 oz / 19 ml | Fresh Orange Juice |
 
 ### Notes
 

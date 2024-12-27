@@ -19,8 +19,8 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand           |
 | -------: | -------------- | --------------- |
-|  0.75 oz / 18.75 ml | Rye            | Wild Turkey 101 |
-|  0.75 oz / 18.75 ml | Dubonnet Rouge | Dubonnet Rouge  |
+|  0.75 oz / 19 ml | Rye            | Wild Turkey 101 |
+|  0.75 oz / 19 ml | Dubonnet Rouge | Dubonnet Rouge  |
 | 2 dashes | Orange Liqueur | Cointreau       |
 | 2 dashes | Bitters        | Peychaud's      |
 |  1 swath | Lemon Skin     |
@@ -45,7 +45,7 @@ excerpt: |
 | -------: | -------------- | --------------- |
 |     2 oz / 50 ml | Rye            | Wild Turkey 101 |
 |     1 oz / 25 ml | Dubonnet Rouge | Dubonnet Rouge  |
-|  0.25 oz / 6.25 ml | Orange Liqueur | Cointreau       |
+|  0.25 oz / 6.5 ml | Orange Liqueur | Cointreau       |
 | 2 dashes | Bitters        | Peychaud's      |
 |  1 swath | Lemon Skin     |
 |  1 swath | Orange Skin    |

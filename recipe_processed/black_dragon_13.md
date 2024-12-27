@@ -18,7 +18,7 @@ excerpt: |
 |    1 oz / 25 ml | Cognac                                                             | Pierre Ferrand 1840 |
 |  0.5 oz / 12.5 ml | Amaro                                                              | Averna              |
 |    1 oz / 25 ml | [Cold Brew Concentrate ]({%link recipe_processed/cold_brew_concentrate.md%}) |
-| 0.25 oz / 6.25 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%})           |
+| 0.25 oz / 9 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%})           |
 |    4 oz / 100 ml | Stout                                                              |
 
 ### Notes

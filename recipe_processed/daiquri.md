@@ -16,8 +16,8 @@ excerpt: |
 |  Amount | Ingredient                                      | Brand                |
 | ------: | ----------------------------------------------- | -------------------- |
 |    2 oz / 50 ml | Light Rum                                       | El Dorado 3 Year Old |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice                                |
-|  0.5 oz / 12.5 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.75 oz / 19 ml | Fresh Lime Juice                                |
+|  0.5 oz / 17 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

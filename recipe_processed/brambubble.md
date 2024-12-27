@@ -16,7 +16,7 @@ excerpt: |
 | ------: | --------------------------------------------------------- | --------------- |
 |    1 oz / 25 ml | Gin                                                       | Martin Miller’s |
 |  0.5 oz / 12.5 ml | Crème de Mûre                                             | Combier         |
-| 0.25 oz / 6.25 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |                 |
+| 0.25 oz / 9 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |                 |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice                                         |
 |    4 oz / 100 ml | Sparkling Wine                                            |
 

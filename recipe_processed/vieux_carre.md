@@ -15,9 +15,9 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
-|  0.75 oz / 18.75 ml | Rye            | Rittenhouse 100 Proof      |
-|  0.75 oz / 18.75 ml | Cognac         | Maison Rouge V.S.O.P.      |
-|  0.75 oz / 18.75 ml | Sweet Vermouth | Cocchi Vermouth di Torino  |
+|  0.75 oz / 19 ml | Rye            | Rittenhouse 100 Proof      |
+|  0.75 oz / 19 ml | Cognac         | Maison Rouge V.S.O.P.      |
+|  0.75 oz / 19 ml | Sweet Vermouth | Cocchi Vermouth di Torino  |
 |   0.5 oz / 12.5 ml | Bénédictine    | Bénédictine DOM            |
 | 2 dashes | Bitters        | Peychaud's                 |
 | 2 dashes | Bitters        | Angostura Aromatic Bitters |

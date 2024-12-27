@@ -17,8 +17,8 @@ excerpt: |
 | ------: | ----------------------------------------------- | --------------------------------------------- |
 |  1.5 oz / 37.5 ml | Apple Brandy                                    | Laird’s Straight Apple Brandy Bottled in Bond |
 |  0.5 oz / 12.5 ml | White Vermouth                                  | Dolin Blanc Vermouth de Chambéry              |
-| 0.25 oz / 6.25 ml | Apricot Liqueur                                 | Giffard Abricot du Roussillon                 |
-| 0.25 oz / 6.25 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+| 0.25 oz / 6.5 ml | Apricot Liqueur                                 | Giffard Abricot du Roussillon                 |
+| 0.25 oz / 6.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice                               |
 
 ### Notes

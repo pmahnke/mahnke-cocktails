@@ -22,7 +22,7 @@ excerpt: |
 |     1 oz / 25 ml | Fresh Orange Juice                                       |
 |   0.5 oz / 12.5 ml | Fresh Lemon Juice                                        |
 |   0.5 oz / 12.5 ml | Fresh Lime Juice                                         |
-|   0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|   0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 2 dashes | Angostura Bitters                                        |
 
 ### Notes

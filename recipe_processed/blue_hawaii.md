@@ -17,10 +17,10 @@ excerpt: |
 | ------: | --------------------------------------------------------- | ------------------- |
 |    1 oz / 25 ml | Light Rum                                                 | Kōloa Kaua'i        |
 |  0.5 oz / 12.5 ml | Rhum Agricole                                             | Clément Canne Bleue |
-| 0.75 oz / 18.75 ml | Blue Curaçao                                              | Giffard             |
+| 0.75 oz / 19 ml | Blue Curaçao                                              | Giffard             |
 |    3 oz / 75 ml | Fresh Pineapple Juice                                     |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice                                          |
-|  0.5 oz / 12.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.75 oz / 19 ml | Fresh Lime Juice                                          |
+|  0.5 oz / 18.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

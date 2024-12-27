@@ -16,10 +16,10 @@ excerpt: |
 |   Amount | Ingredient                                                | Brand                      |
 | -------: | --------------------------------------------------------- | -------------------------- |
 |     2 oz / 50 ml | Cognac                                                    | Pierre Ferrand 1840        |
-|  0.25 oz / 6.25 ml | Dry Curaçao                                               | Pierre Ferrand             |
-|  0.25 oz / 6.25 ml | Maraschino Liqueur                                        | Luxardo                    |
-|  0.25 oz / 6.25 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|  0.25 oz / 6.25 ml | Fresh Lemon Juice                                         |
+|  0.25 oz / 6.5 ml | Dry Curaçao                                               | Pierre Ferrand             |
+|  0.25 oz / 6.5 ml | Maraschino Liqueur                                        | Luxardo                    |
+|  0.25 oz / 9 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|  0.25 oz / 6.5 ml | Fresh Lemon Juice                                         |
 | 2 dashes | Bitters                                                   | Angostura Aromatic Bitters |
 
 ### Notes

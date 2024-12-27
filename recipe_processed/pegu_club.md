@@ -16,8 +16,8 @@ excerpt: |
 | Amount  | Ingredient               | Brand |
 | -------: | ---------------- | -------------------------- |
 |   1.5 oz / 37.5 ml | Gin              | Plymouth                   |
-|  0.75 oz / 18.75 ml | Orange Curaçao   | Marie Brizard              |
-|  0.75 oz / 18.75 ml | Fresh Lime Juice |                            |
+|  0.75 oz / 19 ml | Orange Curaçao   | Marie Brizard              |
+|  0.75 oz / 19 ml | Fresh Lime Juice |                            |
 | 2 dashes | Bitters          | Angostura Aromatic Bitters |
 
 ### Notes

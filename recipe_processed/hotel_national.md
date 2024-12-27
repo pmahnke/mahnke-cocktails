@@ -19,7 +19,7 @@ excerpt: |
 |  0.5 oz / 12.5 ml | Apricot Liqueur                                           | Rothman & Winter |
 |    1 oz / 25 ml | Pineapple Juice                                           |
 |  0.5 oz / 12.5 ml | Fresh Lime Juice                                          |
-| 0.25 oz / 6.25 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.25 oz / 9 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

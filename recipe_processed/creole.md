@@ -17,8 +17,8 @@ excerpt: |
 | -------: | -------------- | ------------------------- |
 |   1.5 oz / 37.5 ml | Rye Whiskey    | Old Overholt              |
 |     1 oz / 25 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
-|  0.25 oz / 6.25 ml | Bénédictine    | Bénédictine DOM           |
-|  0.25 oz / 6.25 ml | Amaro          | Ramazzotti                |
+|  0.25 oz / 6.5 ml | Bénédictine    | Bénédictine DOM           |
+|  0.25 oz / 6.5 ml | Amaro          | Ramazzotti                |
 | 2 dashes | Orange Bitters | Fee Bros                  |
 
 ### Notes

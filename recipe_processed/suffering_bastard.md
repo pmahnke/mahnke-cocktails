@@ -19,8 +19,8 @@ excerpt: |
 |          1 oz / 25 ml | Cognac                                                   | Maison Rouge VSOP          |
 |               | - OR -                                                   |
 |          1 oz / 25 ml | Bourbon                                                  | Old Grand-Dad 100 Proof    |
-|       0.75 oz / 18.75 ml | Fresh Lime Juice                                         |
-|       0.25 oz / 6.25 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|       0.75 oz / 19 ml | Fresh Lime Juice                                         |
+|       0.25 oz / 9 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 2 to 3 dashes | Bitters                                                  | Angostura Aromatic Bitters |
 |          3 oz / 75 ml | Ginger Beer                                              | Fever Tree                 |
 

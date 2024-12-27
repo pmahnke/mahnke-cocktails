@@ -18,7 +18,7 @@ excerpt: |
 |    1 oz / 25 ml | Bitters                                         | Angostura Aromatic Bitters |
 |  0.5 oz / 12.5 ml | Rye                                             | Rittenhouse 100 Proof      |
 |    1 oz / 25 ml | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice                               |
+| 0.75 oz / 19 ml | Fresh Lemon Juice                               |
 
 ### Notes
 

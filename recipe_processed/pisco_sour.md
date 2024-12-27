@@ -18,8 +18,8 @@ excerpt: |
 |    2 oz / 50 ml | Pisco                                                     | Barsol                     |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice                                         |
 |  0.5 oz / 12.5 ml | Fresh Lime Juice                                          |
-| 0.75 oz / 18.75 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 0.75 oz / 18.75 ml | Raw Egg White / Aquafaba (chickpea water)                 |
+| 0.75 oz / 27.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.75 oz / 19 ml | Raw Egg White / Aquafaba (chickpea water)                 |
 |  1 drop | Bitters                                                   | Angostura Aromatic Bitters |
 
 ### Notes

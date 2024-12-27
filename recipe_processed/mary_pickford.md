@@ -21,7 +21,7 @@ excerpt: |
 | -----------: | ----------------------------------------------- | ----------------- |
 |       1.5 oz / 37.5 ml | Light Rum                                       | Real McCoy 3 Year |
 |       1.5 oz / 37.5 ml | Fresh Pineapple Juice                           |
-|      0.25 oz / 6.25 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|      0.25 oz / 6.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 | 0.5 teaspoon | Maraschino Liqueur                              | Luxardo           |
 
 ### Notes
@@ -43,9 +43,9 @@ excerpt: |
 | -----------: | ----------------------------------------------- | ------------- |
 |       1.5 oz / 37.5 ml | Light Rum                                       | Probitas      |
 |       1.5 oz / 37.5 ml | Fresh Pineapple Juice                           |
-|      0.25 oz / 6.25 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-|      0.25 oz / 6.25 ml | Fresh Lime Juice                                |
-|      0.25 oz / 6.25 ml | Allspice Dram                                   | St. Elizabeth |
+|      0.25 oz / 6.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|      0.25 oz / 6.5 ml | Fresh Lime Juice                                |
+|      0.25 oz / 6.5 ml | Allspice Dram                                   | St. Elizabeth |
 | 0.5 teaspoon | Maraschino Liqueur                              | Luxardo       |
 
 ### Notes

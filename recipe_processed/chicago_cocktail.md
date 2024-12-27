@@ -15,7 +15,7 @@ excerpt: |
 |   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
 |     1 oz / 25 ml | Cognac         | Maison Rouge VSOP          |
-|  0.25 oz / 6.25 ml | Dry Curaçao    | Pierre Ferrand             |
+|  0.25 oz / 6.5 ml | Dry Curaçao    | Pierre Ferrand             |
 | 2 dashes | Bitters        | Angostura Aromatic Bitters |
 |     2 oz / 50 ml | Sparkling Wine |
 

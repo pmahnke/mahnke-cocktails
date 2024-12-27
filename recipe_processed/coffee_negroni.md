@@ -16,9 +16,9 @@ excerpt: |
 |  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
 |    1 oz / 25 ml | Gin            | Beefeater                 |
-| 0.75 oz / 18.75 ml | Coffee Liqueur | Mr. Black Cold Brew       |
-| 0.75 oz / 18.75 ml | Campari        | Campari                   |
-| 0.25 oz / 6.25 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
+| 0.75 oz / 19 ml | Coffee Liqueur | Mr. Black Cold Brew       |
+| 0.75 oz / 19 ml | Campari        | Campari                   |
+| 0.25 oz / 6.5 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
 
 ### Notes
 

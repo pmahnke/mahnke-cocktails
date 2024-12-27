@@ -15,9 +15,9 @@ excerpt: |
 
 |  Amount | Ingredient     | Brand                      |
 | ------: | -------------- | -------------------------- |
-| 1.25 oz / 31.25 ml | Gin            | The Botanist Islay Dry Gin |
-| 0.75 oz / 18.75 ml | Campari        | Campari                    |
-| 0.75 oz / 18.75 ml | Sweet Vermouth | Cocchi Vermouth di Torino  |
+| 1.25 oz / 31.5 ml | Gin            | The Botanist Islay Dry Gin |
+| 0.75 oz / 19 ml | Campari        | Campari                    |
+| 0.75 oz / 19 ml | Sweet Vermouth | Cocchi Vermouth di Torino  |
 
 ### Notes
 

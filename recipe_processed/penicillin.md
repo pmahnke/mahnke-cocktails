@@ -16,9 +16,9 @@ excerpt: |
 |     Amount | Ingredient                                    | Brand           |
 | ---------: | --------------------------------------------- | --------------- |
 |       2 oz / 50 ml | Scotch, Blended                               | Monkey Shoulder |
-|    0.25 oz / 6.25 ml | Scotch, Single Malt                           | Laphroaig 10yr  |
-|    0.75 oz / 18.75 ml | Fresh Lemon Juice                             |
-|    0.75 oz / 18.75 ml | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
+|    0.25 oz / 6.5 ml | Scotch, Single Malt                           | Laphroaig 10yr  |
+|    0.75 oz / 19 ml | Fresh Lemon Juice                             |
+|    0.75 oz / 19 ml | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
 | 3-4 slices | Fresh Ginger                                  |
 
 ### Notes

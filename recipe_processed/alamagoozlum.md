@@ -33,8 +33,8 @@ excerpt: |
 |  1.5 oz / 37.5 ml | Yellow Chartreuse                                         | Yellow Chartreuse          |
 |  0.5 oz / 12.5 ml | Orange Curaçao                                            | Marie Brizard              |
 |  0.5 oz / 12.5 ml | Bitters                                                   | Angostura Aromatic Bitters |
-|  1.5 oz / 37.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 0.75 oz / 18.75 ml | Egg White                                                 |
+|  1.5 oz / 55 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.75 oz / 19 ml | Egg White                                                 |
 |    2 oz / 50 ml | Water                                                     |
 
 ### Notes

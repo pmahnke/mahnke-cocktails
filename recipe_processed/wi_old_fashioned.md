@@ -16,7 +16,7 @@ excerpt: |
 |   Amount | Ingredient                                                | Brand                      |
 | -------: | --------------------------------------------------------- | -------------------------- |
 |     2 oz / 50 ml | Brandy                                                    | Korbel                     |
-|  0.25 oz / 6.25 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |                            |
+|  0.25 oz / 9 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |                            |
 | 4 dashes | Bitters                                                   | Angostura Aromatic Bitters |
 | 2 wedges | Orange                                                    |                            |
 |        1 | Cocktail Cherry                                           |                            |

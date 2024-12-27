@@ -16,8 +16,8 @@ excerpt: |
 |  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
 |  1.5 oz / 37.5 ml | Bourbon        | Elijah Craig Small Batch  |
-| 0.75 oz / 18.75 ml | Campari        | Campari                   |
-| 0.75 oz / 18.75 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
+| 0.75 oz / 19 ml | Campari        | Campari                   |
+| 0.75 oz / 19 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
 
 ### Notes
 

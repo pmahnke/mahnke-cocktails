@@ -18,7 +18,7 @@ excerpt: |
 |    1 oz / 25 ml | Cognac                                                    | Pierre Ferrand 1840 |
 |  0.5 oz / 12.5 ml | Ruby Port                                                 | Fonseca Bin 27      |
 |  0.5 oz / 12.5 ml | Crème de Cacao                                            | Tempus Fugit        |
-| 0.25 oz / 6.25 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.25 oz / 9 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |    1 oz / 25 ml | Heavy Cream                                               |
 
 ### Notes

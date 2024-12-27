@@ -39,8 +39,8 @@ excerpt: |
 |  Amount | Ingredient     | Brand                                                     |
 | ------: | -------------- | --------------------------------------------------------- |
 | 0.75 os | Gin            | Martin Millers                                            |
-| 0.75 oz / 18.75 ml | Crème de Cacao | Tempus Fugit                                              |
-| 0.75 oz / 18.75 ml | Cream          | half & half, heavy cream, or a favorite non-dairy creamer |
+| 0.75 oz / 19 ml | Crème de Cacao | Tempus Fugit                                              |
+| 0.75 oz / 19 ml | Cream          | half & half, heavy cream, or a favorite non-dairy creamer |
 
 ### Notes
 

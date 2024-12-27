@@ -16,7 +16,7 @@ excerpt: |
 |   Amount | Ingredient                                                | Brand            |
 | -------: | --------------------------------------------------------- | ---------------- |
 | 2 wedges | Lemon                                                     |
-|   0.5 oz / 12.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|   0.5 oz / 18.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |     1 oz / 25 ml | Absinthe                                                  | St. George Verte |
 |     1 oz / 25 ml | Sparkling Mineral Water                                   | Topo Chico       |
 

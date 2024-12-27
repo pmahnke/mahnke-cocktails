@@ -17,8 +17,8 @@ excerpt: |
 | ------------: | ------------------ | ------------------------------ |
 |          2 oz / 50 ml | Rye                | Rittenhouse 100 Proof          |
 |          1 oz / 25 ml | Dry Vermouth       | Dolin Dry Vermouth De Chambéry |
-|       0.25 oz / 6.25 ml | Maraschino Liqueur | Luxardo                        |
-|       0.25 oz / 6.25 ml | Amaro              | Ramazzotti                     |
+|       0.25 oz / 6.5 ml | Maraschino Liqueur | Luxardo                        |
+|       0.25 oz / 6.5 ml | Amaro              | Ramazzotti                     |
 | 2 to 3 dashes | Orange Bitters     | Fee Brothers                   |
 |       1 swath | Orange Peal        |
 

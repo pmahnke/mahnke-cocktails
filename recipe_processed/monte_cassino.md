@@ -15,10 +15,10 @@ excerpt: |
 
 |  Amount | Ingredient        | Brand                 |
 | ------: | ----------------- | --------------------- |
-| 0.75 oz / 18.75 ml | Rye               | Rittenhouse 100 Proof |
-| 0.75 oz / 18.75 ml | Yellow Chartreuse | Yellow Chartreuse     |
-| 0.75 oz / 18.75 ml | Bénédictine       | Bénédictine DOM       |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice |
+| 0.75 oz / 19 ml | Rye               | Rittenhouse 100 Proof |
+| 0.75 oz / 19 ml | Yellow Chartreuse | Yellow Chartreuse     |
+| 0.75 oz / 19 ml | Bénédictine       | Bénédictine DOM       |
+| 0.75 oz / 19 ml | Fresh Lemon Juice |
 
 ### Notes
 

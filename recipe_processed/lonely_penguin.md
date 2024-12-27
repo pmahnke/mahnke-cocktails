@@ -17,9 +17,9 @@ excerpt: |
 | -------: | ----------------------------------------------------------- | -------------------------- |
 |   1.5 oz / 37.5 ml | Rye                                                         | Rittenhouse 100 proof      |
 |   0.5 oz / 12.5 ml | Crème de Mûre                                               | Combier                    |
-|  0.75 oz / 18.75 ml | [Cream of Coconut]({%link recipe_processed/creamofcoconut_syrup.md%}) |                            |
-|  0.75 oz / 18.75 ml | Fresh Lemon Juice                                           |                            |
-|  0.25 oz / 6.25 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})   |                            |
+|  0.75 oz / 19 ml | [Cream of Coconut]({%link recipe_processed/creamofcoconut_syrup.md%}) |                            |
+|  0.75 oz / 19 ml | Fresh Lemon Juice                                           |                            |
+|  0.25 oz / 9 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})   |                            |
 | 2 dashes | Bitters                                                     | Angostura Aromatic Bitters |
 
 ### Notes

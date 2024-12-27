@@ -17,7 +17,7 @@ excerpt: |
 | -----: | -------------------------------------------------------- | -------------------------- |
 | 0.5 oz / 12.5 ml | Navy Strength Rum                                        | Smith & Cross              |
 | 0.5 oz / 12.5 ml | Bourbon                                                  | Elijah Craig Small Batch   |
-| 0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| 0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 1 dash | Bitters                                                  | Angostura Aromatic Bitters |
 |   2 oz / 50 ml | Black Tea, Hot                                           | Darjeeling Tea             |
 |   2 oz / 50 ml | Milk, Steamed                                            |

@@ -16,7 +16,7 @@ excerpt: |
 |  Amount | Ingredient           | Brand                         |
 | ------: | -------------------- | ----------------------------- |
 |    1 oz / 25 ml | Vodka                | Finlandia                     |
-| 0.75 oz / 18.75 ml | White Crème De Cacao | Marie Brizard                 |
+| 0.75 oz / 19 ml | White Crème De Cacao | Marie Brizard                 |
 |  0.5 oz / 12.5 ml | Apricot Liqueur      | Giffard Abricot Du Roussillon |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice    |
 

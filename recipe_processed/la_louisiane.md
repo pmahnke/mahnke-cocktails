@@ -42,8 +42,8 @@ excerpt: |
 |   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
 |   1.5 oz / 37.5 ml | Rye            | Rittenhouse 100 Proof      |
-|  0.75 oz / 18.75 ml | Sweet Vermouth | Cocchi Vermouth di Torino  |
-|  0.75 oz / 18.75 ml | Bénédictine    | Bénédictine DOM            |
+|  0.75 oz / 19 ml | Sweet Vermouth | Cocchi Vermouth di Torino  |
+|  0.75 oz / 19 ml | Bénédictine    | Bénédictine DOM            |
 | 4 dashes | Bitters        | Peychaud's                 |
 | 4 dashes | Bitters        | Angostura Aromatic Bitters |
 |  1 rinse | Absinthe       |

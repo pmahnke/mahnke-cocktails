@@ -41,8 +41,8 @@ excerpt: |
 | ------: | --------------------------------------------------------- | ------------------------------------ |
 |    1 oz / 25 ml | Absinthe                                                  | Nouvelle Orleans Absinthe Superieure |
 |    2 oz / 50 ml | Champagne                                                 | Laurent-Pierre La Cuvee Brut         |
-| 0.25 oz / 6.25 ml | Fresh Lemon Juice                                         |
-| 0.25 oz / 6.25 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.25 oz / 6.5 ml | Fresh Lemon Juice                                         |
+| 0.25 oz / 9 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

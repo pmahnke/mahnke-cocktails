@@ -15,12 +15,12 @@ excerpt: |
 
 |  Amount | Ingredient                                               | Brand       |
 | ------: | -------------------------------------------------------- | ----------- |
-| 0.75 oz / 18.75 ml | Jamaican Rum                                             | Coruba      |
-| 0.75 oz / 18.75 ml | Demerara Rum                                             | Hamilton 86 |
-| 0.75 oz / 18.75 ml | Campari                                                  | Campari     |
+| 0.75 oz / 19 ml | Jamaican Rum                                             | Coruba      |
+| 0.75 oz / 19 ml | Demerara Rum                                             | Hamilton 86 |
+| 0.75 oz / 19 ml | Campari                                                  | Campari     |
 |  1.5 oz / 37.5 ml | Fresh Pineapple Juice                                    |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice                                         |
-|  0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| 0.75 oz / 19 ml | Fresh Lime Juice                                         |
+|  0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 
 ### Notes
 

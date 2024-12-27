@@ -16,7 +16,7 @@ excerpt: |
 |    Amount | Ingredient                                      | Brand         |
 | --------: | ----------------------------------------------- | ------------- |
 |    1.5 oz / 37.5 ml | Bourbon                                         | Old Grand-Dad |
-|   0.75 oz / 18.75 ml | Fresh Lemon Juice                               |
+|   0.75 oz / 19 ml | Fresh Lemon Juice                               |
 |    0.5 oz / 12.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 |    0.5 oz / 12.5 ml | Oloroso Sherry                                  | Lustau        |
 | 2 to 3 oz / 75 ml | Sparkling Water                                 | Topo Chico    |

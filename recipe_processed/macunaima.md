@@ -17,8 +17,8 @@ excerpt: |
 | ------: | --------------------------------------------------------- | --------------------- |
 |  1.5 oz / 37.5 ml | Cachaça                                                   | Novo Fogo Barrel-Aged |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice                                         |
-|  0.5 oz / 12.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 0.25 oz / 6.25 ml | Fernet Branca                                             | Fernet Branca         |
+|  0.5 oz / 18.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.25 oz / 6.5 ml | Fernet Branca                                             | Fernet Branca         |
 
 ### Notes
 

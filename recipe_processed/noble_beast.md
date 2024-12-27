@@ -17,7 +17,7 @@ excerpt: |
 | ------: | -------------------------------------------------------- | -------------------------- |
 |    1 oz / 25 ml | Bitters                                                  | Angostura Aromatic Bitters |
 |    1 oz / 25 ml | Espresso                                                 |
-|  0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|  0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 1 whole | Egg                                                      |
 
 ### Notes

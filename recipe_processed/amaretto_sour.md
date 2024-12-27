@@ -18,9 +18,9 @@ excerpt: |
 |  Amount | Ingredient                                               | Brand            |
 | ------: | -------------------------------------------------------- | ---------------- |
 |  1.5 oz / 37.5 ml | Amaretto Di Saschira                                     | Luxardo          |
-| 0.75 oz / 18.75 ml | Apple Brandy                                             | Laird’s Straight |
+| 0.75 oz / 19 ml | Apple Brandy                                             | Laird’s Straight |
 |    1 oz / 25 ml | Fresh Lemon Juice                                        |                  |
-| 0.25 oz / 6.25 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |                  |
+| 0.25 oz / 9 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |                  |
 |  0.5 oz / 12.5 ml | Egg White                                                |                  |
 
 ### Notes

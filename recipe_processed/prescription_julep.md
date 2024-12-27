@@ -17,7 +17,7 @@ excerpt: |
 | ------------: | -------------------------------------------------------- | --------------------- |
 |        1.5 oz / 37.5 ml | Cognac                                                   | Maison Rouge V.S.O.P. |
 |        0.5 oz / 12.5 ml | Rye                                                      | Rittenhouse 100 Proof |
-|        0.5 oz / 12.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|        0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 6 to 8 leaves | Mint                                                     |
 
 ### Notes

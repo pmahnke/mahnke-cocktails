@@ -16,7 +16,7 @@ excerpt: |
 |  Amount | Ingredient       | Brand           |
 | ------: | ---------------- | --------------- |
 |  1.5 oz / 37.5 ml | Vodka            | Valentine       |
-| 0.75 oz / 18.75 ml | Triple Sec       | Luxardo Triplum |
+| 0.75 oz / 19 ml | Triple Sec       | Luxardo Triplum |
 |  0.5 oz / 12.5 ml | Cranberry Juice  |
 |  0.5 oz / 12.5 ml | Fresh Lime Juice |
 

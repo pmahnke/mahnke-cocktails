@@ -17,7 +17,7 @@ excerpt: |
 | ------: | ---------------------------------------------- | ---------------------------------- |
 |  1.5 oz / 37.5 ml | Jamaican Rum                                   | Appleton Estate 12 year Rare Casks |
 |  0.5 oz / 12.5 ml | Drambuie                                       | Drambuie                           |
-| 0.75 oz / 18.75 ml | [Jasper’s Mix]({%link recipe_processed/jaspers_mix.md%}) |
+| 0.75 oz / 19 ml | [Jasper’s Mix]({%link recipe_processed/jaspers_mix.md%}) |
 
 ### Notes
 

@@ -17,7 +17,7 @@ excerpt: |
 | -------: | ----------------------------------------------- | -------------------------- |
 |     1 oz / 25 ml | Bourbon                                         | Elijah Craig Small Batch   |
 |     1 oz / 25 ml | Cognac                                          | Maison Rouge VSOP          |
-|  0.25 oz / 6.25 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|  0.25 oz / 6.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 | 3 dashes | Bitters                                         | Peychaud’s                 |
 |   1 dash | Bitters                                         | Angostura Aromatic Bitters |
 

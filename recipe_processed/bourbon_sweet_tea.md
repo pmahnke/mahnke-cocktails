@@ -19,7 +19,7 @@ excerpt: |
 |   1 oz / 25 ml | Light Amaro                                               | Amaro Nonino                   |
 | 0.5 oz / 12.5 ml | Peach Liqueur                                             | Rothman & Winter               |
 | 0.5 oz / 12.5 ml | Fresh Lemon Juice                                         |
-| 0.5 oz / 12.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.5 oz / 18.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |   4 oz / 100 ml | Black Tea, chilled                                        |
 
 ### Notes

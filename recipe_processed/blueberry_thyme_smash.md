@@ -16,7 +16,7 @@ excerpt: |
 |         Amount | Ingredient                                                | Brand        |
 | -------------: | --------------------------------------------------------- | ------------ |
 |           2 oz / 50 ml | Gin                                                       | The Botanist |
-|        0.75 oz / 18.75 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|        0.75 oz / 27.5 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |      0.5 whole | Lemon                                                     |
 | 10 to 15 whole | Blueberries                                               |
 |  4 to 6 sprigs | Thyme                                                     |

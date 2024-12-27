@@ -16,7 +16,7 @@ excerpt: |
 |   Amount | Ingredient                                                         | Brand              |
 | -------: | ------------------------------------------------------------------ | ------------------ |
 |     2 oz / 50 ml | Irish Whiskey                                                      | Red Breast 12 year |
-|  0.75 oz / 18.75 ml | [Cocoa Nib Infused Campari]({%link recipe_processed/cocoa_nib_campari.md %}) | Campari            |
+|  0.75 oz / 19 ml | [Cocoa Nib Infused Campari]({%link recipe_processed/cocoa_nib_campari.md %}) | Campari            |
 |   0.5 oz / 12.5 ml | White Crème de Cacao                                               | Marie Brizard      |
 |   0.5 oz / 12.5 ml | Banane du Brésil                                                   | Giffard            |
 | 2 dashes | Absinthe                                                           |

@@ -16,7 +16,7 @@ excerpt: |
 |    Amount | Ingredient                                      | Brand              |
 | --------: | ----------------------------------------------- | ------------------ |
 |    1.5 oz / 37.5 ml | Absinthe                                        | North Shore Sirène |
-|   0.75 oz / 18.75 ml | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+|   0.75 oz / 19 ml | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
 |    0.5 oz / 12.5 ml | Fresh Lemon Juice                               |
 | 2 to 3 oz / 75 ml | Sparkling Water                                 | Topo Chico         |
 

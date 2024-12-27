@@ -20,8 +20,8 @@ excerpt: |
 |  1.5 oz / 37.5 ml | Light Rum                                                 | Real McCoy 3 Year |
 |  0.5 oz / 12.5 ml | Ruby Port                                                 | Fonsecca Bin 27   |
 |  0.5 oz / 12.5 ml | White Crème de Cacao                                      | Marie Brizard     |
-| 0.75 oz / 18.75 ml | Fresh Lemon Juice                                         |
-| 0.25 oz / 6.25 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.75 oz / 19 ml | Fresh Lemon Juice                                         |
+| 0.25 oz / 9 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

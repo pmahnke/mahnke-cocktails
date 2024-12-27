@@ -19,8 +19,8 @@ excerpt: |
 |  0.5 oz / 12.5 ml | Oloroso Sherry                                           | Lustau                   |
 |  0.5 oz / 12.5 ml | Banana Liquor                                            | Giffard Banane du Brésil |
 |  0.5 oz / 12.5 ml | Fresh Lemon Juice                                        |
-| 0.25 oz / 6.25 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-| 0.75 oz / 18.75 ml | Egg White                                                |
+| 0.25 oz / 9 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| 0.75 oz / 19 ml | Egg White                                                |
 
 ### Notes
 

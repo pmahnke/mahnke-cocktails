@@ -13,12 +13,12 @@ youtube: "xnXFbjQSu-k"
 
 |  Amount | Ingredient                                                | Brand                     |
 | ------: | --------------------------------------------------------- | ------------------------- |
-| 0.75 oz / 18.75 ml | Mango Liqueur                                             | Chinola                   |
-| 0.75 oz / 18.75 ml | Cachaça                                                   | Novo Fogo Silver          |
-| 0.75 oz / 18.75 ml | Sweet Vermouth                                            | Cocchi Vermouth di Torino |
-| 0.75 oz / 18.75 ml | Fresh Pineapple Juice                                     |
+| 0.75 oz / 19 ml | Mango Liqueur                                             | Chinola                   |
+| 0.75 oz / 19 ml | Cachaça                                                   | Novo Fogo Silver          |
+| 0.75 oz / 19 ml | Sweet Vermouth                                            | Cocchi Vermouth di Torino |
+| 0.75 oz / 19 ml | Fresh Pineapple Juice                                     |
 |  0.5 oz / 12.5 ml | Fresh Lime Juice                                          |
-| 0.25 oz / 6.25 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.25 oz / 9 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

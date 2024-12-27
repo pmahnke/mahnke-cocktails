@@ -16,8 +16,8 @@ excerpt: |
 |  Amount | Ingredient     | Brand                            |
 | ------: | -------------- | -------------------------------- |
 |  1.5 oz / 37.5 ml | Rye            | Rittenhouse 100 Proof            |
-| 0.75 oz / 18.75 ml | Campari        | Campari                          |
-| 0.75 oz / 18.75 ml | White Vermouth | Dolin Blanc Vermouth de Chambéry |
+| 0.75 oz / 19 ml | Campari        | Campari                          |
+| 0.75 oz / 19 ml | White Vermouth | Dolin Blanc Vermouth de Chambéry |
 
 ### Notes
 

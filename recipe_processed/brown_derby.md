@@ -43,7 +43,7 @@ excerpt: |
 |  1.5 oz / 37.5 ml | Bourbon                                       | Still Austin ""The Musician"" Straight |
 |    1 oz / 25 ml | White Grapefruit Juice                        |
 |  0.5 oz / 12.5 ml | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
-| 0.25 oz / 6.25 ml | Fresh Lemon Juice                             |
+| 0.25 oz / 6.5 ml | Fresh Lemon Juice                             |
 
 ### Notes
 

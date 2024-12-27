@@ -16,8 +16,8 @@ excerpt: |
 |   Amount | Ingredient                                               | Brand                              |
 | -------: | -------------------------------------------------------- | ---------------------------------- |
 |     2 oz / 50 ml | Rye                                                      | Union Horse Distilling Co. Reunion |
-|  0.25 oz / 6.25 ml | Fernet Branca                                            | Fernet Branca                      |
-|  0.25 oz / 6.25 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|  0.25 oz / 6.5 ml | Fernet Branca                                            | Fernet Branca                      |
+|  0.25 oz / 9 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 2 dashes | Bitters                                                  | Angostura Aromatic Bitters         |
 
 ### Notes

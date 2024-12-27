@@ -15,9 +15,9 @@ excerpt: |
 
 |  Amount | Ingredient            | Brand                            |
 | ------: | --------------------- | -------------------------------- |
-| 0.75 oz / 18.75 ml | Reposado Tequila      | Milagro                          |
-| 0.75 oz / 18.75 ml | White Vermouth        | Dolin Blanc Vermouth de Chambéry |
-| 0.75 oz / 18.75 ml | Orange Curaçao        | Marie Brizard                    |
+| 0.75 oz / 19 ml | Reposado Tequila      | Milagro                          |
+| 0.75 oz / 19 ml | White Vermouth        | Dolin Blanc Vermouth de Chambéry |
+| 0.75 oz / 19 ml | Orange Curaçao        | Marie Brizard                    |
 |    1 oz / 25 ml | Fresh Pineapple Juice |
 |  0.5 oz / 12.5 ml | Fresh Lime Juice      |
 |  1 dash | Bitters               | Angostura Aromatic Bitters       |

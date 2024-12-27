@@ -15,12 +15,12 @@ excerpt: |
 
 |  Amount | Ingredient                                                    | Brand                |
 | ------: | ------------------------------------------------------------- | -------------------- |
-| 0.75 oz / 18.75 ml | Malört                                                        | Jeppson's            |
+| 0.75 oz / 19 ml | Malört                                                        | Jeppson's            |
 |    1 oz / 25 ml | Gin                                                           | Beefeater London Dry |
 |  0.5 oz / 12.5 ml | Campari                                                       | Campari              |
-| 0.75 oz / 18.75 ml | [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%}) |
-| 0.75 oz / 18.75 ml | Fresh Lime Juice                                              |
-| 0.75 oz / 18.75 ml | Grapefruit Juice                                              |
+| 0.75 oz / 19 ml | [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%}) |
+| 0.75 oz / 19 ml | Fresh Lime Juice                                              |
+| 0.75 oz / 19 ml | Grapefruit Juice                                              |
 
 ### Notes
 
