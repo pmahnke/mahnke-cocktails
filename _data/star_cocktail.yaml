@@ -3,8 +3,6 @@ images:
     - url: /cocktails/assets/images/ingredient-apple-brandy.svg
       title: Apple brandy
   tool:
-    - url: /cocktails/assets/images/tool_julep-strainer.svg
-      title: Julep strainer
     - url: /cocktails/assets/images/tool_stirred.svg
       title: Stirred
   glass:

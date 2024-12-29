@@ -3,8 +3,6 @@ images:
     - url: /cocktails/assets/images/ingredient-rye.svg
       title: Rye
   tool:
-    - url: /cocktails/assets/images/tool_julep-strainer.svg
-      title: Julep strainer
     - url: /cocktails/assets/images/tool_stirred.svg
       title: Stirred
   glass:

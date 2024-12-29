@@ -2,9 +2,9 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-scotch.svg
       title: Scotch
+    - url: /cocktails/assets/images/ingredient-vermouth.svg
+      title: White vermouth
   tool:
-    - url: /cocktails/assets/images/tool_julep-strainer.svg
-      title: Julep strainer
     - url: /cocktails/assets/images/tool_stirred.svg
       title: Stirred
   glass:

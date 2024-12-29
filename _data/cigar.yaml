@@ -7,8 +7,6 @@ images:
     - url: /cocktails/assets/images/ingredient-single-malt-scotch.svg
       title: Single malt scotch
   tool:
-    - url: /cocktails/assets/images/tool_julep-strainer.svg
-      title: Julep strainer
     - url: /cocktails/assets/images/tool_stirred.svg
       title: Stirred
   glass:

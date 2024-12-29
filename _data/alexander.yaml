@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-cacao.svg
+      title: Creme de cacao
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
   tool:

@@ -308,7 +308,8 @@ foreach $file (sort @files) {
     $tool{'double-strained'} = `ag -il 'double strain' $file`;
     $tool{'stirred'} = `ag -il 'stirred' $file`;
 
-    $tool{'boston-shaker'} = "" if ($tool{'double-strained'});
+    $tool{'boston-shaker'} = "" if ($tool{'double-strained'}); # you don't need both
+    $tool{'julep-strainer'} = "" if ($tool{'stirred'}); # you don't need both
 
     # bottles
     $ingredient{'light-rum'} = `grep 'category:' $file | ag -i 'light rum'`;
@@ -319,7 +320,7 @@ foreach $file (sort @files) {
     $ingredient{'grenadine'} = `grep 'category:' $file | ag -i 'grenadine'`;
     $ingredient{'gin'} = `grep 'category:' $file | ag -i 'gin'`;
     $ingredient{'cocchi-americano'} = `grep 'category:' $file | ag -i 'cocchi americano'`;
-    $ingredient{'white-creme-de-cacao'} = `grep 'category:' $file | ag -i 'white creme de cacao'`;
+    $ingredient{'white-creme-de-cacao'} = `grep 'category:' $file | ag -i 'white crème de cacao'`;
     $ingredient{'ginger-beer'} = `grep 'category:' $file | ag -i 'ginger beer'`;
     $ingredient{'absinthe'} = `grep 'category:' $file | ag -i 'absinthe'`;
     $ingredient{'lemon-wedge'} = `grep 'category:' $file | ag -i 'lemon wedge'`;
@@ -328,7 +329,7 @@ foreach $file (sort @files) {
     $ingredient{'sweet-vermouth'} = `grep 'category:' $file | ag -i 'sweet vermouth'`;
     $ingredient{'dry-vermouth'} = `grep 'category:' $file | ag -i 'dry vermouth'`;
     $ingredient{'orange-bitters'} = `grep 'category:' $file | ag -i 'orange bitters'`;
-    $ingredient{'white-vermouth'} = `grep 'category:' $file | ag -i 'white vermouth'`;
+    $ingredient{'white-vermouth'} = `grep 'category:' $file | ag -i 'vermouth'`;
     $ingredient{'bitters'} = `grep 'category:' $file | ag -i 'bitters'`;
     $ingredient{'single-malt-scotch'} = `grep 'category:' $file | ag -i 'single malt scotch'`;
     $ingredient{'gold-rum'} = `grep 'category:' $file | ag -i 'gold rum'`;
@@ -349,7 +350,7 @@ foreach $file (sort @files) {
 
     $ingredient{'sherry'} = `grep 'category:' $file | ag -i 'sherry'`;
     $ingredient{'triple-sec'} = `grep 'category:' $file | ag -i 'triple sec'`;
-    $ingredient{'creme-de-cacao'} = `grep 'category:' $file | ag -i 'creme de cacao'`;
+    $ingredient{'creme-de-cacao'} = `grep 'category:' $file | ag -i 'de cacao'`;
     $ingredient{'cream'} = `grep 'category:' $file | ag -i 'cream'`;
     $ingredient{'amaretto'} = `grep 'category:' $file | ag -i 'amaretto'`;
     $ingredient{'apple-brandy'} = `grep 'category:' $file | ag -i 'apple brandy'`;
@@ -369,7 +370,7 @@ foreach $file (sort @files) {
     $ingredient{'falernum'} = `grep 'category:' $file | ag -i 'falernum'`;
     $ingredient{'passion-fruit-syrup'} = `grep 'category:' $file | ag -i 'passion fruit syrup'`;
     $ingredient{'demerara-rum'} = `grep 'category:' $file | ag -i 'demerara rum'`;
-    $ingredient{'benedictine'} = `grep 'category:' $file | ag -i 'benedictine'`;
+    $ingredient{'benedictine'} = `grep 'category:' $file | ag -i 'dictine'`;
     $ingredient{'cold-brew'} = `grep 'category:' $file | ag -i 'cold brew'`;
     $ingredient{'orgeat-syrup'} = `grep 'category:' $file | ag -i 'orgeat syrup'`;
     $ingredient{'irish-whiskey'} = `grep 'category:' $file | ag -i 'irish whiskey'`;
@@ -390,97 +391,13 @@ foreach $file (sort @files) {
     $ingredient{'spice-rum'} = `grep 'category:' $file | ag -i 'spice rum'`;
     $ingredient{'port'} = `grep 'category:' $file | ag -i 'port'`;
     $ingredient{'dubonnet-rouge'} = `grep 'category:' $file | ag -i 'dubonnet rouge'`;
-    $ingredient{'creme-de-casis'} = `grep 'category:' $file | ag -i 'creme de casis'`;
+    $ingredient{'creme-de-casis'} = `grep 'category:' $file | ag -i 'Crème de casis'`;
     $ingredient{'galliano'} = `grep 'category:' $file | ag -i 'galliano'`;
     $ingredient{'pisco'} = `grep 'category:' $file | ag -i 'pisco'`;
     $ingredient{'reposado-tequila'} = `grep 'category:' $file | ag -i 'reposado tequila'`;
     $ingredient{'lime-juice'} = `grep 'category:' $file | ag -i 'lime juice'`;
     $ingredient{'coffee-liqueur'} = `grep 'category:' $file | ag -i 'coffee liqueur'`;
     $ingredient{'chartreuse'} = `grep 'category:' $file | ag -i 'chartreuse'`;
-
-    sub search_all {
-    $ingredient{'light-rum'} = `ag -il 'light rum' $file`;
-    $ingredient{'dark-rum'} = `ag -il 'dark rum' $file`;
-    $ingredient{'navy-strength-rum'} = `ag -il 'navy strength rum' $file`;
-    $ingredient{'rye'} = `ag -il 'rye' $file`;
-    $ingredient{'cognac'} = `ag -il 'cognac' $file`;
-    $ingredient{'lemon-juice'} = `ag -il 'lemon juice' $file`;
-    $ingredient{'grenadine'} = `ag -il 'grenadine' $file`;
-    $ingredient{'gin'} = `ag -il 'gin' $file`;
-    $ingredient{'cocchi-americano'} = `ag -il 'cocchi americano' $file`;
-    $ingredient{'creme-de-cacao'} = `ag -il 'de cacao' $file`;
-    $ingredient{'ginger-beer'} = `ag -il 'ginger beer' $file`;
-    $ingredient{'absinthe'} = `ag -il 'absinthe' $file`;
-    $ingredient{'sparkling-water'} = `ag -il 'sparkling water' $file`;
-    $ingredient{'lemon-wedge'} = `ag -il 'lemon wedge' $file`;
-    $ingredient{'simple-syrup'} = `ag -il 'simple syrup' $file`;
-    $ingredient{'sherry'} = `ag -il 'sherry' $file`;
-    $ingredient{'sweet-vermouth'} = `ag -il 'sweet vermouth' $file`;
-    $ingredient{'dry-vermouth'} = `ag -il 'dry vermouth' $file`;
-    $ingredient{'orange-bitters'} = `ag -il 'orange bitters' $file`;
-    $ingredient{'white-vermouth'} = `ag -il 'white vermouth' $file`;
-    $ingredient{'bitters'} = `ag -il 'bitters' $file`;
-    $ingredient{'single-malt-scotch'} = `ag -il 'single malt scotch' $file`;
-    $ingredient{'gold-rum'} = `ag -il 'gold rum' $file`;
-    $ingredient{'honey-syrup'} = `ag -il 'honey syrup' $file`;
-    $ingredient{'champagne'} = `ag -il 'champagne' $file`;
-    $ingredient{'lime-juice'} = `ag -il 'lime juice' $file`;
-    $ingredient{'genever'} = `ag -il 'genever' $file`;
-    $ingredient{'jamaican-rum'} = `ag -il 'jamaican rum' $file`;
-    $ingredient{'chartreuse'} = `ag -il 'chartreuse' $file`;
-    $ingredient{'curaçao'} = `ag -il 'Curaçao' $file`;
-    $ingredient{'egg-white'} = `ag -il 'egg white' $file`;
-    $ingredient{'water'} = `ag -il 'water' $file`;
-    $ingredient{'sherry'} = `ag -il 'sherry' $file`;
-    $ingredient{'triple-sec'} = `ag -il 'triple sec' $file`;
-    $ingredient{'cream'} = `ag -il 'cream' $file`;
-    $ingredient{'amaretto'} = `ag -il 'amaretto' $file`;
-    $ingredient{'apple-brandy'} = `ag -il 'apple brandy' $file`;
-    $ingredient{'demerara-syrup'} = `ag -il 'demerara syrup' $file`;
-    $ingredient{'campari'} = `ag -il 'campari' $file`;
-    $ingredient{'soda-water'} = `ag -il 'soda water' $file`;
-    $ingredient{'apricot-liqueur'} = `ag -il 'apricot liqueur' $file`;
-    $ingredient{'pineapple-juice'} = `ag -il 'pineapple juice' $file`;
-    $ingredient{'cream-of-coconut'} = `ag -il 'cream of coconut' $file`;
-    $ingredient{'aperol'} = `ag -il 'aperol' $file`;
-    $ingredient{'prosecco'} = `ag -il 'prosecco' $file`;
-    $ingredient{'orange-juice'} = `ag -il 'orange juice' $file`;
-    $ingredient{'maple-syrup'} = `ag -il 'maple syrup' $file`;
-    $ingredient{'bourbon'} = `ag -il 'bourbon' $file`;
-    $ingredient{'groseille-syrup'} = `ag -il 'groseille syrup' $file`;
-    $ingredient{'creme-de-violette'} = `ag -il 'de violette' $file`;
-    $ingredient{'maraschino-liqueur'} = `ag -il 'maraschino liqueur' $file`;
-    $ingredient{'falernum'} = `ag -il 'falernum' $file`;
-    $ingredient{'passion-fruit-syrup'} = `ag -il 'passion fruit syrup' $file`;
-    $ingredient{'demerara-rum'} = `ag -il 'demerara rum' $file`;
-    $ingredient{'benedictine'} = `ag -il 'Bénédictine' $file`;
-    $ingredient{'cold-brew'} = `ag -il 'cold brew' $file`;
-    $ingredient{'orgeat-syrup'} = `ag -il 'orgeat syrup' $file`;
-    $ingredient{'irish-whiskey'} = `ag -il 'irish whiskey' $file`;
-    $ingredient{'elderflower-liqueur'} = `ag -il 'elderflower liqueur' $file`;
-    $ingredient{'allspice-dram'} = `ag -il 'allspice dram' $file`;
-    $ingredient{'scotch'} = `ag -il 'scotch' $file`;
-    $ingredient{'sloe-gin'} = `ag -il 'sloe gin' $file`;
-    $ingredient{'tequila'} = `ag -il 'tequila' $file`;
-    $ingredient{'mezcal'} = `ag -il 'mezcal' $file`;
-    $ingredient{'vodka'} = `ag -il 'vodka' $file`;
-    $ingredient{'lillet-rouge'} = `ag -il 'lillet rouge' $file`;
-    $ingredient{'lillet-blanc'} = `ag -il 'lillet blanc' $file`;
-    $ingredient{'cachaca'} = `ag -il 'Cacha' $file`;
-    $ingredient{'amaro'} = `ag -il 'cynar amaro' $file`;
-    $ingredient{'porter'} = `ag -il 'porter' $file`;
-    $ingredient{'ipa'} = `ag -il 'ipa' $file`;
-    $ingredient{'drambuie'} = `ag -il 'drambuie' $file`;
-    $ingredient{'spice-rum'} = `ag -il 'spice rum' $file`;
-    $ingredient{'port'} = `ag -il 'port' $file`;
-    $ingredient{'dubonnet-rouge'} = `ag -il 'dubonnet rouge' $file`;
-    $ingredient{'creme-de-casis'} = `ag -il 'de casis' $file`;
-    $ingredient{'galliano'} = `ag -il 'galliano' $file`;
-    $ingredient{'pisco'} = `ag -il 'pisco' $file`;
-    $ingredient{'reposado-tequila'} = `ag -il 'reposado tequila' $file`;
-    $ingredient{'lime-juice'} = `ag -il 'lime juice' $file`;
-    $ingredient{'coffee-liqueur'} = `ag -il 'coffee liqueur' $file`;
-    }
 
     my ($tool, $glass, $garnish, $ingredient, $ice) = "";
 
@@ -491,6 +408,7 @@ foreach $file (sort @files) {
 
     foreach my $k (sort keys %ingredient) {
         next if (!$ingredient{$k});
+        print qq |found: $k\n| if ($ARGV[0]);
         my $n = $k;
         $ingredient = "  ingredient:\n" if (!$ingredient); # start of tools
         $ingredient .= &make_listing($k);

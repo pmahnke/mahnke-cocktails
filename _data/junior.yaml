@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-benedictine.svg
+      title: Benedictine
     - url: /cocktails/assets/images/ingredient-rye.svg
       title: Rye
   tool:
