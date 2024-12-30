@@ -3,7 +3,7 @@ layout: recipe
 author: Difford's Guide Cocktail Recipes
 title: "Sweet Virginia"
 permalink: "/recipe/sweet_virginia.html"
-iconfile: permalink: "/recipe/sweet_virginia.html"
+iconfile:  sweet_virginia
 stars: 3
 category: "Bourbon. Cherry Liqueur"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/31242/sweet-virginia"
