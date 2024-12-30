@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-creme-de-menthe.svg
+      title: Creme de menthe
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
     - url: /cocktails/assets/images/ingredient-triple-sec.svg

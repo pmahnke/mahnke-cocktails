@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-benedictine.svg
       title: Benedictine
+    - url: /cocktails/assets/images/ingredient-cherry.svg
+      title: Cherry
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
   tool:

@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-orange.svg
+      title: Galliano
     - url: /cocktails/assets/images/ingredient-sherry.svg
       title: Sherry
   tool:

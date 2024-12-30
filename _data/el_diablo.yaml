@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-creme-de-casis.svg
+      title: Creme de cassis
     - url: /cocktails/assets/images/ingredient-reposado-tequila.svg
       title: Reposado tequila
     - url: /cocktails/assets/images/ingredient-tequila.svg

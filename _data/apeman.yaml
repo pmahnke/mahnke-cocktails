@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-banana.svg
+      title: Banana
     - url: /cocktails/assets/images/ingredient-bourbon.svg
       title: Bourbon
     - url: /cocktails/assets/images/ingredient-sherry.svg

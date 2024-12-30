@@ -145,7 +145,7 @@ $INCLUDE{'honey-syrup'} = qq|/cocktails/assets/images/ingredient-honey-syrup.svg
 $INCLUDE{'champagne'} = qq|/cocktails/assets/images/ingredient-champagne.svg|;
 $INCLUDE{'lime-juice'} = qq|/cocktails/assets/images/ingredient-lime-juice.svg|;
 $INCLUDE{'genever'} = qq|/cocktails/assets/images/ingredient-genever.svg|;
-$INCLUDE{'jamaican-rum'} = qq|/cocktails/assets/images/ingredient-dark-rum.svg|;
+$INCLUDE{'jamaican-rum'} = qq|/cocktails/assets/images/ingredient-jamacian-rum.svg|;
 $INCLUDE{'chartreuse'} = qq|/cocktails/assets/images/ingredient-chartreuse.svg|;
 $INCLUDE{'curacao'} = qq|/cocktails/assets/images/ingredient-curacao.svg|;
 $INCLUDE{'egg-white'} = qq|/cocktails/assets/images/ingredient-egg-white.svg|;
@@ -194,7 +194,7 @@ $INCLUDE{'drambuie'} = qq|/cocktails/assets/images/ingredient-drambuie.svg|;
 $INCLUDE{'spice-rum'} = qq|/cocktails/assets/images/ingredient-dark-rum.svg|;
 $INCLUDE{'port'} = qq|/cocktails/assets/images/ingredient-port.svg|;
 $INCLUDE{'dubonnet-rouge'} = qq|/cocktails/assets/images/ingredient-dubonnet-rouge.svg|;
-$INCLUDE{'creme-de-casis'} = qq|/cocktails/assets/images/ingredient-creme-de-casis.svg|;
+$INCLUDE{'creme-de-cassis'} = qq|/cocktails/assets/images/ingredient-creme-de-casis.svg|;
 $INCLUDE{'galliano'} = qq|/cocktails/assets/images/ingredient-orange.svg|;
 $INCLUDE{'pisco'} = qq|/cocktails/assets/images/ingredient-pisco.svg|;
 $INCLUDE{'reposado-tequila'} = qq|/cocktails/assets/images/ingredient-reposado-tequila.svg|;
@@ -202,6 +202,14 @@ $INCLUDE{'navy-strength-rum'} = qq|/cocktails/assets/images/ingredient-dark-rum.
 $INCLUDE{'lime-juice'} = qq|/cocktails/assets/images/ingredient-lime-juice.svg|;
 $INCLUDE{'tonic-water'} = qq|/cocktails/assets/images/ingredient-tonic-water.svg|;
 $INCLUDE{'coffee-liqueur'} = qq|/cocktails/assets/images/ingredient-coffee-liqueur.svg|;
+$INCLUDE{'calvados'} = qq|/cocktails/assets/images/ingredient-calvados.svg|;
+$INCLUDE{'dubonnet-rouge'} = qq |/cocktails/assets/images/ingredient-dubonnet-rouge.png|;
+$INCLUDE{'banana'} = qq|/cocktails/assets/images/ingredient-banana.svg|;
+$INCLUDE{'peach'} = qq|/cocktails/assets/images/ingredient-peach.svg|;
+$INCLUDE{'cherry'} = qq|/cocktails/assets/images/ingredient-cherry.svg|;
+$INCLUDE{'creme-de-menthe'} = qq|/cocktails/assets/images/ingredient-creme-de-menthe.svg|;
+$INCLUDE{'blackberry'} = qq|/cocktails/assets/images/ingredient-blackberry.svg|;
+
 $INCLUDE{'stirred'} = qq|/cocktails/assets/images/tool_stirred.svg|;
 $INCLUDE{'double-strained'} = qq|/cocktails/assets/images/tool_double_strain.svg|;
 
@@ -391,13 +399,21 @@ foreach $file (sort @files) {
     $ingredient{'spice-rum'} = `grep 'category:' $file | ag -i 'spice rum'`;
     $ingredient{'port'} = `grep 'category:' $file | ag -i 'port'`;
     $ingredient{'dubonnet-rouge'} = `grep 'category:' $file | ag -i 'dubonnet rouge'`;
-    $ingredient{'creme-de-casis'} = `grep 'category:' $file | ag -i 'Crème de casis'`;
+    $ingredient{'creme-de-cassis'} = `grep 'category:' $file | ag -i 'de cassis'`;
     $ingredient{'galliano'} = `grep 'category:' $file | ag -i 'galliano'`;
+    $ingredient{'galliano'} = `grep 'category:' $file | ag -i 'grand marnier'`;
     $ingredient{'pisco'} = `grep 'category:' $file | ag -i 'pisco'`;
     $ingredient{'reposado-tequila'} = `grep 'category:' $file | ag -i 'reposado tequila'`;
     $ingredient{'lime-juice'} = `grep 'category:' $file | ag -i 'lime juice'`;
     $ingredient{'coffee-liqueur'} = `grep 'category:' $file | ag -i 'coffee liqueur'`;
     $ingredient{'chartreuse'} = `grep 'category:' $file | ag -i 'chartreuse'`;
+    $ingredient{'calvados'} = `grep 'category:' $file | ag -i 'calvados'`;
+    $ingredient{'dubonnet-rouge'} = `grep 'category:' $file | ag -i 'dubonnet'`;
+    $ingredient{'banana'} = `grep 'category:' $file | ag -i 'banan'`;
+    $ingredient{'peach'} = `grep 'category:' $file | ag -i 'peach'`;
+    $ingredient{'cherry'} = `grep 'category:' $file | ag -i 'cherry liqueur'`;
+    $ingredient{'creme-de-menthe'} = `grep 'category:' $file | ag -i 'de menthe'`;
+    $ingredient{'blackberry'} = `grep 'category:' $file | ag -i 'me de mûre'`; # creme de mure
 
     my ($tool, $glass, $garnish, $ingredient, $ice) = "";
 

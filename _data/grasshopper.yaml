@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-cacao.svg
       title: Creme de cacao
+    - url: /cocktails/assets/images/ingredient-creme-de-menthe.svg
+      title: Creme de menthe
     - url: /cocktails/assets/images/ingredient-cacao.svg
       title: White creme de cacao
   tool:

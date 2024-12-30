@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-cherry.svg
+      title: Cherry
     - url: /cocktails/assets/images/ingredient-scotch.svg
       title: Scotch
   tool:

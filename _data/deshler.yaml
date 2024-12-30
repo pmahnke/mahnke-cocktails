@@ -2,7 +2,7 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-bourbon.svg
       title: Bourbon
-    - url: /cocktails/assets/images/ingredient-dubonnet-rouge.svg
+    - url: /cocktails/assets/images/ingredient-dubonnet-rouge.png
       title: Dubonnet rouge
     - url: /cocktails/assets/images/ingredient-lillet-rouge.svg
       title: Lillet rouge

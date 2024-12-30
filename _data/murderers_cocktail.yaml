@@ -1,6 +1,8 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+    - url: /cocktails/assets/images/ingredient-calvados.svg
+      title: Calvados
+    - url: /cocktails/assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
   tool:
     - url: /cocktails/assets/images/tool_stirred.svg
