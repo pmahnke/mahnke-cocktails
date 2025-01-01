@@ -1,0 +1,14 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-champagne.svg
+      title: Champagne
+    - url: /cocktails/assets/images/ingredient-campari.svg
+      title: Campari
+    - url: /cocktails/assets/images/ingredient-absinthe.svg
+      title: Absinthe
+  tool:
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /cocktails/assets/images/glass_coupe.svg
+      title: Coupe
