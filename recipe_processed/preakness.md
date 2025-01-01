@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Preakness"
 permalink: "/recipe/preakness.html"
 iconfile: preakness
-stars: 0
+stars: 3
 category: "Bourbon, Bénédictine"
 youtube: "1V0-c6u4xJA"
 excerpt: |

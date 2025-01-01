@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Queen's Park Swizzle"
 permalink: "/recipe/queens_park_swizzle.html"
 iconfile: queens_park_swizzle
-stars: 0
+stars: 4
 category: "Demerara Rum "
 youtube: "ox1-C1owN80"
 excerpt: |
