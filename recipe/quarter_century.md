@@ -6,9 +6,9 @@ permalink: "/recipe/quarter_century.html"
 iconfile: quarter_century
 stars: 0
 category: "Campari. Apricot Liqueur, Absinthe"
-youtube: "https://www.diffordsguide.com/cocktails/recipe/31242/sweet-virginia"
+youtube: "https://youtu.be/S7DGgeFsjyE?si=EgW7pRinyERkqE8T"
 excerpt: |
-  A fruity Sweet Manhattan that's perfect when you fancy some late-night spirited fruitiness. Eponymously named after the Rolling Stone's song, this is a riff on the classic Eastern Sin.
+  This is an Anders Erickson original cocktail created for New Year's Day, 2025.
 ---
 
 ### Ingredients
