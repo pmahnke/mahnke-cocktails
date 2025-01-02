@@ -15,10 +15,10 @@ excerpt: |
 
 |           Amount | Ingredient      | Brand                          |
 | ---------------: | --------------- | ------------------------------ |
-| 0.5 oz / 12.5 ml | Campari         | Campari                        |
-| 0.5 oz / 12.5 ml | Apricot Liqueur | Giffard Abricot du Roussillon  |
+| 0.5 oz / 12.5 ml / 12.5 ml | Campari         | Campari                        |
+| 0.5 oz / 12.5 ml / 12.5 ml | Apricot Liqueur | Giffard Abricot du Roussillon  |
 |    1 to 2 dashes | Absinthe        | St. George                     |
-|    4 oz / 100 ml | Champagne       | Albrecht Cremant D’Alsace Brut |
+|    4 oz / 100 ml / 100 ml | Champagne       | Albrecht Cremant D’Alsace Brut |
 
 ### Notes
 
