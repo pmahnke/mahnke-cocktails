@@ -1,0 +1,10 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-brandy.svg
+      title: BourBrandybon
+  glass:
+    - url: /cocktails/assets/images/glass_pint.svg
+      title: Parfait Cup
+  garnish:
+    - url: /cocktails/assets/images/fruit-orange.svg
+      title: Orange slice
