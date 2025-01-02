@@ -22,6 +22,8 @@ excerpt: |
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Low Ball, Large Ice cube
+- Glassware: 
+  - Low Ball
+  - Large Ice cube
 - Garnish: None
 - Special Prep: None
