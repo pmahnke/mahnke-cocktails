@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Embassy"
 permalink: "/recipe/embassy.html"
 iconfile: embassy
-stars: 0
+stars: 4
 category: "Cognac, Jamaican Rum"
 youtube: "YFqEvNdPrX8"
 excerpt: |
