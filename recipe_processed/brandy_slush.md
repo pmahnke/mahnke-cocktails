@@ -9,7 +9,7 @@ stars: 0
 category: "Brandy"
 youtube: "https://www.youtube.com/watch?v=rQ59lgXm8Ho"
 excerpt: |
-  The Wisconsin Brandy Slush is a midwest classic featuring an icy mix of fruit juice, tea, and brandy. This boozy punch is perfect to serve at your next party.<br><br>For a wintery twist, substitute the juice concentrates with cranberry and lime. Top with spicy ginger ale. Garnish with a sprig of rosemary.
+  This is a Wisconsin classic, and is nicknamed "Wisconsin's sangria". For a wintery twist, substitute the juice concentrates with cranberry and lime. Top with spicy ginger ale. Garnish with a sprig of rosemary.
 ---
 
 ## Recipe
@@ -18,12 +18,12 @@ excerpt: |
 
 |    Amount | Ingredient                                | Brand  |
 | --------: | ----------------------------------------- | ------ |
-|     12 oz | Frozen Concentrated Orange Juice (thawed) |
-|     12 oz | Frozen Concentrated Lemonade (thawed)     |
-|     16 oz | Brandy                                    | Korbel |
-|     40 oz | Water                                     |
-|     16 oz | Tea Simple Syrup                          |
-| 1 to 2 oz | Sprite, ginger ale, or soda water         |
+|     12 oz / 300 ml | Frozen Concentrated Orange Juice (thawed) |
+|     12 oz / 300 ml | Frozen Concentrated Lemonade (thawed)     |
+|     16 oz / 400 ml | Brandy                                    | Korbel |
+|     40 oz / 1000 ml | Water                                     |
+|     16 oz / 546.5 ml | Tea Simple Syrup                          |
+| 1 to 2 oz / 50 ml | Sprite, ginger ale, or soda water         |
 
 Orange slice for individual garnish
 

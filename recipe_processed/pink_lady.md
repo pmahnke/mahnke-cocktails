@@ -5,7 +5,7 @@ title: "The Pink Lady"
 permalink: "/recipe/pink_lady.html"
 iconfile: pink_lady
 stars: 4
-category: "Gin/Apple Brandy "
+category: "Gin, Apple Brandy "
 youtube: "MfHv2EOLUOo&t=336s"
 excerpt: |
   Discover your new favorite cocktail recipe or learn how to make a classic drink—like the Old Fashioned, mojito, or White Russian—right at home.
