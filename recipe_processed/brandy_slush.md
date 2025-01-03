@@ -15,14 +15,14 @@ excerpt: |
 
 ### Ingredients
 
-|            Amount | Ingredient                                                        | Brand  |
-| ----------------: | ----------------------------------------------------------------- | ------ |
-|    12 oz / 300 ml | Frozen Concentrated Orange Juice (thawed)                         |
-|    12 oz / 300 ml | Frozen Concentrated Lemonade (thawed)                             |
-|    16 oz / 400 ml | Brandy                                                            | Korbel |
-|   40 oz / 1000 ml | Water                                                             |
-|  16 oz / 546.5 ml | [Tea Simple Syrup]({%link recipe_processed/tea_simple_syrup.md%}) |
-| 1 to 2 oz / 50 ml | Sprite, ginger ale, or soda water                                 |
+|    Amount | Ingredient                                              | Brand  |
+| --------: | ------------------------------------------------------- | ------ |
+|     12 oz / 300 ml | Frozen Concentrated Orange Juice (thawed)               |
+|     12 oz / 300 ml | Frozen Concentrated Lemonade (thawed)                   |
+|     16 oz / 400 ml | Brandy                                                  | Korbel |
+|     40 oz / 1000 ml | Water                                                   |
+|     16 oz / 546.5 ml | [Tea Simple Syrup]({%link recipe_processed/tea_simple_syrup.md%}) |
+| 1 to 2 oz / 50 ml | Sprite, ginger ale, or soda water                       |
 
 Orange slice for individual garnish
 
