@@ -6,7 +6,7 @@ permalink: "/recipe/brandy_slush.html"
 iconfile: brandy_slush
 stars: 0
 category: "Brandy"
-youtube: "https://www.youtube.com/watch?v=rQ59lgXm8Ho"
+youtube: "rQ59lgXm8Ho"
 excerpt: |
   The Wisconsin Brandy Slush is a midwest classic featuring an icy mix of fruit juice, tea, and brandy. This boozy punch is perfect to serve at your next party.<br><br>For a wintery twist, substitute the juice concentrates with cranberry and lime. Top with spicy ginger ale. Garnish with a sprig of rosemary.
 ---

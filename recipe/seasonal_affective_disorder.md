@@ -6,7 +6,7 @@ permalink: "/recipe/seasonal_affective_disorder.html"
 iconfile: seasonal_affective_disorder
 stars: 0
 category: "Demerara Rum, Cognac, Absinthe"
-youtube: "https://www.youtube.com/watch?v=CfKrIWRMrNA"
+youtube: "CfKrIWRMrNA"
 excerpt: |
   This is an Anders original cocktail.
 ---
@@ -26,7 +26,7 @@ excerpt: |
 
 - Method: Shaken
 - Pour: Single Strain
-- Glassware: 
+- Glassware:
   - Low Ball
   - Crushed Ice
 - Garnish: Grated nutmeg

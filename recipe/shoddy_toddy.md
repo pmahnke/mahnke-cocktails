@@ -6,7 +6,7 @@ permalink: "/recipe/shoddy_toddy.html"
 iconfile: shoddy_toddy
 stars: 0
 category: "Gin, Bénédictine"
-youtube: "https://www.youtube.com/watch?v=CfKrIWRMrNA"
+youtube: "CfKrIWRMrNA"
 excerpt: |
   This is an Anders original cocktail.
 ---

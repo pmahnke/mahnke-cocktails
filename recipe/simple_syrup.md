@@ -3,8 +3,7 @@ layout: recipe
 title: "Semi-Rich Simple Syrup"
 type: syrup
 permalink: "/recipe/simple_syrup.html"
-youtube: "https://youtu.be/CvEDhkR6K14?si=MEQMeCrg0Zi8rePO"
-youtube_embed: "https://www.youtube.com/embed/re76GCvEDhkR6K14?si=EMdqje_4KECcUOJA"
+youtube: "CvEDhkR6K14"
 excerpt: |
   Semi-rich simple syrup is a versatile ingredient that can be used in a variety of cocktails and other drinks.
 ---

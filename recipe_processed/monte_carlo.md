@@ -6,9 +6,9 @@ permalink: "/recipe/monte_carlo.html"
 iconfile: wardroom
 stars: 0
 category: "Rye, Bénédictine"
-youtube: "https://www.youtube.com/watch?v=u1PQ-L6zvb8&t=15s"
+youtube: "u1PQ-L6zvb8&t=15s"
 excerpt: |
-  The Monte Carlo first appears in print in David Embury's 1948 <i>The Fine Art of Mixing Drinks</i> as "<i>1 part Bénédictine, 2 parts Rye, 1 or 2 dashes Angostura to each drink. Shake with cracked ice</i>".								
+  The Monte Carlo first appears in print in David Embury's 1948 <i>The Fine Art of Mixing Drinks</i> as "<i>1 part Bénédictine, 2 parts Rye, 1 or 2 dashes Angostura to each drink. Shake with cracked ice</i>".
 ---
 
 ### Ingredients

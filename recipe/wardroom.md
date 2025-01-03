@@ -6,7 +6,7 @@ permalink: "/recipe/wardroom.html"
 iconfile: wardroom
 stars: 0
 category: "Cognac, Dark Rum, Tawny Port"
-youtube: "https://www.youtube.com/watch?v=y41UN6AZSMs"
+youtube: "y41UN6AZSMs"
 excerpt: |
   Adapted from a 2020 recipe by Jason E. Clapham of Clapham Cocktails, Oxford, England. Jason says, "The Wardroom features port, cognac, and rum, the three favourite libations of the British Naval officer."
 ---

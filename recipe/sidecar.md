@@ -6,7 +6,7 @@ permalink: "/recipe/sidecar.html"
 iconfile: sidecar
 stars: 3
 category: Cognac
-youtube: "https://www.youtube.com/watch?v=re76GCUoiH4"
+youtube: "re76GCUoiH4"
 youtube_embed: "https://www.youtube.com/embed/re76GCUoiH4?si=EMdqje_4KECcUOJA"
 excerpt: |
   The Sidecar is a classic cocktail that has been enjoyed for over a century. It's a simple yet elegant drink that combines the flavors of cognac, orange liqueur, and lemon juice.
@@ -14,7 +14,7 @@ excerpt: |
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand    |
+| Amount | Ingredient       | Brand             |
 | -----: | ---------------- | ----------------- |
 | 1.5 oz | Cognac           | Maison Rouge VSOP |
 |   1 oz | Dry Curaçao      | Pierre Ferrand    |

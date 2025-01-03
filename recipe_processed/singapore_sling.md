@@ -7,7 +7,7 @@ permalink: "/recipe/singapore_sling.html"
 iconfile: singapore_sling
 stars: 0
 category: "Gin, Cherry Liqueur, Bénédictine"
-youtube: "https://www.youtube.com/watch?v=EjRcajuUkJk"
+youtube: "EjRcajuUkJk"
 youtube_embed: "https://www.youtube.com/embed/EjRcajuUkJk?si=EMdqje_4KECcUOJA"
 excerpt: |
   The Singapore sling is a gin-based sling cocktail from Singapore. This long drink was reputed to have been developed in 1915 by Ngiam Tong Boon, a bartender at the Long Bar in Raffles Hotel, Singapore.
@@ -19,16 +19,16 @@ excerpt: |
 
 ### Ingredients
 
-| Amount  | Ingredient                                        | Brand                      |
-| ------: | ------------------------------------------------- | -------------------------- |
-|  1.5 oz / 37.5 ml | Gin                                               | Tanglin Singapore          |
-| 0.75 oz / 19 ml | Cherry Liqueur                                    | Cherry Heering             |
-| 0.25 oz / 6.5 ml | Bénédictine                                       | Bénédictine DOM            |
-| 0.25 oz / 6.5 ml | Triple Sec                                        | Luxardo Triplum            |
-|    1 oz / 25 ml | Pineapple Juice                                   |                            |
-| 0.75 oz / 19 ml | Fresh Lime Juice                                  |                            |
+|  Amount | Ingredient                                      | Brand                      |
+| ------: | ----------------------------------------------- | -------------------------- |
+|  1.5 oz / 37.5 ml | Gin                                             | Tanglin Singapore          |
+| 0.75 oz / 19 ml | Cherry Liqueur                                  | Cherry Heering             |
+| 0.25 oz / 6.5 ml | Bénédictine                                     | Bénédictine DOM            |
+| 0.25 oz / 6.5 ml | Triple Sec                                      | Luxardo Triplum            |
+|    1 oz / 25 ml | Pineapple Juice                                 |                            |
+| 0.75 oz / 19 ml | Fresh Lime Juice                                |                            |
 | 0.25 oz / 6.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |                            |
-|  1 dash | Bitters                                           | Angostura Aromatic Bitters |
+|  1 dash | Bitters                                         | Angostura Aromatic Bitters |
 
 ### Notes
 

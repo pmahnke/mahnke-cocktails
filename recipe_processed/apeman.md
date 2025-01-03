@@ -6,7 +6,7 @@ permalink: '/recipe/apeman.html'
 iconfile: apeman
 stars: 0
 category: 'Bourbon, Oloroso Sherry, Banana Liquor'
-youtube: 'https://www.youtube.com/watch?v=CfKrIWRMrNA'
+youtube: 'CfKrIWRMrNA'
 excerpt: |
   This is an Anders original cocktail.
 ---
