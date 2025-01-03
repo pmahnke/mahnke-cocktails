@@ -13,12 +13,12 @@ excerpt: |
 
 ### Ingredients
 
-|           Amount | Ingredient      | Brand                          |
-| ---------------: | --------------- | ------------------------------ |
-| 0.5 oz / 12.5 ml | Campari         | Campari                        |
-| 0.5 oz / 12.5 ml | Apricot Liqueur | Giffard Abricot du Roussillon  |
-|    1 to 2 dashes | Absinthe        | St. George                     |
-|    4 oz / 100 ml | Champagne       | Albrecht Cremant D’Alsace Brut |
+|        Amount | Ingredient      | Brand                          |
+| ------------: | --------------- | ------------------------------ |
+|        0.5 oz | Campari         | Campari                        |
+|        0.5 oz | Apricot Liqueur | Giffard Abricot du Roussillon  |
+| 1 to 2 dashes | Absinthe        | St. George                     |
+|          4 oz | Champagne       | Albrecht Cremant D’Alsace Brut |
 
 ### Notes
 
@@ -26,4 +26,4 @@ excerpt: |
 - Pour: Julep Strain
 - Glassware: Coupe
 - Garnish: Expressed lemon oil
-- Special Prep: Pour cocktail into the coupe and top with champagne. Then express the lemon oil over the top.
+- Special Prep: Pour cocktail into the coupe and top with champagne. Then express the lemon oil over the top of the cocktail.
