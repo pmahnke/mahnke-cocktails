@@ -326,6 +326,7 @@ foreach $file (sort @files) {
     $ingredient{'dark-rum'} = `grep 'category:' $file | ag -i 'dark rum'`;
     $ingredient{'rye'} = `grep 'category:' $file | ag -i 'rye'`;
     $ingredient{'cognac'} = `grep 'category:' $file | ag -i 'cognac'`;
+    $ingredient{'cognac'} = `grep 'category:' $file | ag -i 'brandy'`;
     $ingredient{'lemon-juice'} = `grep 'category:' $file | ag -i 'lemon juice'`;
     $ingredient{'grenadine'} = `grep 'category:' $file | ag -i 'grenadine'`;
     $ingredient{'gin'} = `grep 'category:' $file | ag -i 'gin'`;

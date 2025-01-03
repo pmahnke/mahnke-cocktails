@@ -1,4 +1,9 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-allspice-dram.svg
+      title: Allspice dram
+    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+      title: Demerara rum
   tool:
     - url: /cocktails/assets/images/tool_double_strain.svg
       title: Double strained
