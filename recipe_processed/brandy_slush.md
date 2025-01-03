@@ -1,7 +1,6 @@
 ---
 layout: recipe
 author: Anders Erickson Cocktail Recipes
-type: multirecipe
 title: "Brandy Slush"
 permalink: "/recipe/brandy_slush.html"
 iconfile: brandy_slush
@@ -9,21 +8,21 @@ stars: 0
 category: "Brandy"
 youtube: "https://www.youtube.com/watch?v=rQ59lgXm8Ho"
 excerpt: |
-  This is a Wisconsin classic, and is nicknamed "Wisconsin's sangria". For a wintery twist, substitute the juice concentrates with cranberry and lime. Top with spicy ginger ale. Garnish with a sprig of rosemary.
+  The Wisconsin Brandy Slush is a midwest classic featuring an icy mix of fruit juice, tea, and brandy. This boozy punch is perfect to serve at your next party.<br><br>For a wintery twist, substitute the juice concentrates with cranberry and lime. Top with spicy ginger ale. Garnish with a sprig of rosemary.
 ---
 
 ## Recipe
 
 ### Ingredients
 
-|    Amount | Ingredient                                | Brand  |
-| --------: | ----------------------------------------- | ------ |
-|     12 oz / 300 ml | Frozen Concentrated Orange Juice (thawed) |
-|     12 oz / 300 ml | Frozen Concentrated Lemonade (thawed)     |
-|     16 oz / 400 ml | Brandy                                    | Korbel |
-|     40 oz / 1000 ml | Water                                     |
-|     16 oz / 546.5 ml | Tea Simple Syrup                          |
-| 1 to 2 oz / 50 ml | Sprite, ginger ale, or soda water         |
+|    Amount | Ingredient                                              | Brand  |
+| --------: | ------------------------------------------------------- | ------ |
+|     12 oz / 300 ml | Frozen Concentrated Orange Juice (thawed)               |
+|     12 oz / 300 ml | Frozen Concentrated Lemonade (thawed)                   |
+|     16 oz / 400 ml | Brandy                                                  | Korbel |
+|     40 oz / 1000 ml | Water                                                   |
+|     16 oz / 546.5 ml | [Tea Simple Syrup]({%link recipe_processed/tea_simple_syrup.md%}) |
+| 1 to 2 oz / 50 ml | Sprite, ginger ale, or soda water                       |
 
 Orange slice for individual garnish
 
@@ -39,20 +38,3 @@ Orange slice for individual garnish
   - Freeze for 12-24 hours.
   - Once frozen, scoop desired amount into a glass and top with soda.
   - Garnish with a slice of orange.
-
-## Tea Simple Syrup
-
-### Ingredients
-
-|          Amount | Ingredient  |
-| --------------: | ----------- |
-|      6 tea bags | Black Tea   |
-| 2 cups / 400 ml | Hot Water   |
-|  2 cups / 400 g | White Sugar |
-
-### Notes
-
-- Steep tea bags in hot water for 5-10 minutes.
-- Remove tea bags and add sugar.
-- Stir over low heat until sugar is completely dissolved.
-- Remove from heat.

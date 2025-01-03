@@ -1,7 +1,6 @@
 ---
 layout: recipe
 author: Anders Erickson Cocktail Recipes
-type: multirecipe
 title: "Brandy Slush"
 permalink: "/recipe/brandy_slush.html"
 iconfile: brandy_slush
@@ -16,14 +15,14 @@ excerpt: |
 
 ### Ingredients
 
-|    Amount | Ingredient                                | Brand  |
-| --------: | ----------------------------------------- | ------ |
-|     12 oz | Frozen Concentrated Orange Juice (thawed) |
-|     12 oz | Frozen Concentrated Lemonade (thawed)     |
-|     16 oz | Brandy                                    | Korbel |
-|     40 oz | Water                                     |
-|     16 oz | Tea Simple Syrup                          |
-| 1 to 2 oz | Sprite, ginger ale, or soda water         |
+|    Amount | Ingredient                                              | Brand  |
+| --------: | ------------------------------------------------------- | ------ |
+|     12 oz | Frozen Concentrated Orange Juice (thawed)               |
+|     12 oz | Frozen Concentrated Lemonade (thawed)                   |
+|     16 oz | Brandy                                                  | Korbel |
+|     40 oz | Water                                                   |
+|     16 oz | [Tea Simple Syrup]({%link recipe/tea_simple_syrup.md%}) |
+| 1 to 2 oz | Sprite, ginger ale, or soda water                       |
 
 Orange slice for individual garnish
 
@@ -39,20 +38,3 @@ Orange slice for individual garnish
   - Freeze for 12-24 hours.
   - Once frozen, scoop desired amount into a glass and top with soda.
   - Garnish with a slice of orange.
-
-## Tea Simple Syrup
-
-### Ingredients
-
-|          Amount | Ingredient  |
-| --------------: | ----------- |
-|      6 tea bags | Black Tea   |
-| 2 cups / 400 ml | Hot Water   |
-|  2 cups / 400 g | White Sugar |
-
-### Notes
-
-- Steep tea bags in hot water for 5-10 minutes.
-- Remove tea bags and add sugar.
-- Stir over low heat until sugar is completely dissolved.
-- Remove from heat.

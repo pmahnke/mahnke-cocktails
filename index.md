@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<div class="double_line"> </div>
+
 <div class="row">
     <div class="twelve columns" id="search">
         {% include search.html %}
