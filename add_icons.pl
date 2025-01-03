@@ -3,9 +3,11 @@
 my (%garnish, %glass, %ice, %tool, %ingredient, %INCLUDE) = "";
 
 # read directory
-my $dir = qq|/home/peter/src/personal/cocktails/recipe/|;
+my $rootdir = `pwd`;
+chop($rootdir);
 
-my $datadir = qq|/home/peter/src/personal/cocktails/_data/|;
+my $dir = $rootdir."/recipe/";
+my $datadir = $rootdir."/_data/";
 
 # garnishes
 $INCLUDE{'lemon-slice'} = qq|/cocktails/assets/images/fruit_lemon.svg|;
