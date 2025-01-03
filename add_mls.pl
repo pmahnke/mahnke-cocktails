@@ -2,9 +2,12 @@
 
 use Math::Round;
 
-my $dir = qq|/home/peter/src/personal/cocktails/recipe/|;
+my $rootdir = `pwd`;
+chop($rootdir);
 
-my $mydir = qq|/home/peter/src/personal/cocktails/recipe_processed/|;
+my $dir = $rootdir."/recipe/";
+
+my $mydir = $rootdir."/recipe_processed/";
 
 # read files in a directory
 opendir(DIR, $dir) or die "Cannot open directory $dir";
