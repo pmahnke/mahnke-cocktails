@@ -4,7 +4,7 @@ title: "Tea Simple Syrup"
 type: syrup
 permalink: "/recipe/tea_simple_syrup.html"
 iconfile: tea_simple_syrup
-youtube: ""
+youtube: "rQ59lgXm8Ho"
 excerpt: |
 ---
 
