@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Lucien Gaudin"
 permalink: "/recipe/lucien_gaudin.html"
 iconfile: lucien_gaudin
-stars: 0
+stars: 3
 category: "Plymouth Gin, White Vermouth, Campari "
 youtube: "NLF7z6MHMa0"
 excerpt: |
