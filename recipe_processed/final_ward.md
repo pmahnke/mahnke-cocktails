@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Final Ward"
 permalink: "/recipe/finalward.html"
 iconfile: final_ward
-stars: 3
+stars: 3.5
 category: "Rye, Green Chartreuse, Maraschino Liqueur"
 youtube: "NGPSk_jMZvA"
 excerpt: |
@@ -13,8 +13,8 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient         | Brand                      |
-| ------: | ------------------ | -------------------------- |
+|          Amount | Ingredient         | Brand                      |
+| --------------: | ------------------ | -------------------------- |
 | 0.75 oz / 19 ml | Rye                | Rittenhouse 100 Proof      |
 | 0.75 oz / 19 ml | Green Chartreuse   | Green Chartreuse           |
 | 0.75 oz / 19 ml | Maraschino Liqueur | Luxardo Maraschino Liqueur |

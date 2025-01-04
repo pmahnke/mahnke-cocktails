@@ -23,11 +23,11 @@ layout: default
                 {{ page.title }}
                 </a>
             </th>
-            <td class="no-border" style="width:50%;">
+            <td class="no-border" style="width:40%;">
                 {{ page.category }}
             </td>
-            <td class="no-border stars" style="width:15%">
-                {% assign counter = 0 %}{% for i in (1..5) %}{% if counter < page.stars %}<span class="checked">★</span>{% else %}☆{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}
+            <td class="no-border stars" style="width:25%">
+                {% include stars.html %}
             </td>
             </tr>
             {% endif %}
