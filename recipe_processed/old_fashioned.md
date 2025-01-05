@@ -5,7 +5,7 @@ title: "Old Fashioned"
 permalink: "/recipe/old_fashioned.html"
 iconfile: old_fashioned
 stars: 3
-category: "Bourbon "
+category: "Bourbon"
 youtube: "pdcrJ5V7YKM"
 ercerpt: |
   The Old Fashioned is arguably the most well-known whiskey cocktail in the world. Essentially just a slug of bourbon that’s been lightly sweetened with sugar and modified with a couple dashes of bitters, it’s dead simple to make, but within this basic template is a world of opinions and flavor.<br /><br />
