@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Junior (aka Quick Recovery)"
 permalink: "/recipe/junior.html"
 iconfile: junior
-stars: 0
+stars: 4
 category: "Rye, Bénédictine"
 youtube: "_bDARIxZlcE"
 excerpt: |
