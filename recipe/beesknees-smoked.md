@@ -15,7 +15,7 @@ excerpt: |
 
 |  Amount | Ingredient                                    | Brand                  |
 | ------: | --------------------------------------------- | ---------------------- |
-|    2 oz | Dry                                           | Gin The Botanist Islay |
+|    2 oz | Gin                                           | The Botanist Islay |
 | 0.75 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 | 0.75 oz | Fresh Lemon Juice                             |
 
