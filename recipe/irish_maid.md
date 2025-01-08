@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Irish Maid"
-categories: [ sour, cocktail]
+categories: [sour]
+eras: [modern]
 permalink: "/recipe/irishmaid.html"
 iconfile: irish_maid
 stars: 0

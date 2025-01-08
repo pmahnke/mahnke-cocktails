@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Frozoni"
-categories: [ campari, cocktail]
-eras: [ classic, modern]
+categories: [campari, champagne]
+eras: [anders]
+permalink: "/recipes/gin_rickey.html"
 iconfile: frozoni
 stars: 0
 base_spirits: "Gin, Campari, Prosecco"

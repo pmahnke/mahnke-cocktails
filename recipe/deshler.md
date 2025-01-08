@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Deshler"
-categories: [ cocktail ]
-eras: [ modern ]
+categories: [cocktail]
+eras: [classic]
+permalink: "/recipes/deshler.html"
 iconfile: deshler
 stars: 4
 base_spirits: "Rye, Dubonnet Rouge -OR- Bourbon, Lillet Rouge "

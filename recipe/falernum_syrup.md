@@ -3,7 +3,6 @@ layout: recipe
 title: "Falernum"
 type: syrup
 iconfile: falernum_syrup
-categories: [ tiki ]
 permalink: "/recipe/falernum.html"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

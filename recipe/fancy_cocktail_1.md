@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Fancy Cocktail No.1"
-categories: [ martini, cocktail]
+eras: [anders]
+categories: [cocktail]
 permalink: "/recipe/fancy_cocktail_1.html"
 iconfile: fancy_cocktail_1
 stars: 0

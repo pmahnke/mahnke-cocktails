@@ -1,8 +1,9 @@
 ---
 layout: recipe
 title: "Chicago Cocktail"
-categories: [ champagne, cocktail]
-eras: [ classic ]
+categories: [champagne]
+eras: [prohibition]
+permalink: "/recipes/chicago_cocktail.html"
 iconfile: chicago_cocktail
 stars: 3
 base_spirits: "Champagne, Cognac "

@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Fino Spritz"
-categories: [ spritz, cocktail]
-eras: [ classic, modern]
+categories: [spritz]
+eras: [modern]
+permalink: "/recipes/fino_spritz.html"
 iconfile: fino_spritz
 stars: 0
 base_spirits: "Fino Sherry, Maraschino Liqueur"

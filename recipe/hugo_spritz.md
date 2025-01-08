@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hugo Spritz"
-categories: [ spritz, cocktail]
+categories: [spritz]
+eras: [modern]
 permalink: "/recipe/hugo_spritz.html"
 iconfile: hugo_spritz
 stars: 0

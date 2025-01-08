@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Eggnog"
-categories: [ eggnog, cocktail]
+eras: [classic]
+categories: [eggnog]
 permalink: "/recipe/eggnog.html"
 iconfile: eggnog
 stars: 4

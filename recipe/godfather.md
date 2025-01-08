@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Godfather"
-categories: [ cocktail ]
+categories: [cocktail]
+eras: [modern]
 permalink: "/recipe/godfather.html"
 iconfile: godfather
 stars: 3

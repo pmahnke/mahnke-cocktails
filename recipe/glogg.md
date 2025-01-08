@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Glögg"
-categories: [ cocktail ]
+categories: [punch]
+eras: [classic]
 permalink: "/recipe/glogg.html"
 iconfile: glogg
 stars: 0

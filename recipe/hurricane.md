@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hurricane"
-categories: [ cocktail ]
-eras: [ new_orleans ]
+categories: [cocktail]
+eras: [new_orleans]
+permalink: "/recipes/hurricane.html"
 iconfile: hurricane
 stars: 4
 base_spirits: "Jamaican Rum, Dark Rum "

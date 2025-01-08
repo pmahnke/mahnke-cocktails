@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Coffee Negroni"
-categories: [ campari, coffee, cocktail]
-eras: [ modern ]
+categories: [campari, coffee, after_dinner]
+eras: [modern]
+permalink: "/recipes/coffee_negroni.html"
 iconfile: coffee_negroni
 stars: 0
 base_spirits: "Gin, Coffee Liqueur, Campari"

@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "El Presidente"
-categories: [ martini, cocktail]
-eras: [ classic ]
+categories: [cocktail]
+eras: [prohibition]
+permalink: "/recipes/el_presidente.html"
 iconfile: el_presidente
 stars: 4
 base_spirits: "Gin, White Vermouth"

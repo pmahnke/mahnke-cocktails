@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Chocolate Punch"
-categories: [ champagne, martini, punch, tiki, cocktail]
+categories: [punch]
+eras: [classic]
 permalink: "/recipe/chocolate_punch.html"
 iconfile: chocolate_punch
 stars: 0

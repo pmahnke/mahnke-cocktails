@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Espresso Martini"
-categories: [ coffee, martini, cocktail]
+eras: [modern]
+categories: [coffee, after_dinner]
 permalink: "/recipe/espresso_martini.html"
 iconfile: espresso_martini
 stars: 0

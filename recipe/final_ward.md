@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Final Ward"
-categories: [ sour, cocktail]
-permalink: "/recipe/finalward.html"
+eras: [modern]
+categories: [daisy]
+permalink: "/recipe/final_ward.html"
 iconfile: final_ward
 stars: 3
 base_spirits: "Rye, Green Chartreuse, Maraschino Liqueur"

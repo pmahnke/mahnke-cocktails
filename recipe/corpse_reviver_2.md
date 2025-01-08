@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Corpse Reviver #2"
-categories: [ cocktail ]
+categories: [cocktail]
+eras: [prohibition]
 permalink: "/recipe/corpse_reviver_2.html"
 iconfile: corpse_reviver_2
 stars: 5

@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Division Bell"
-categories: [ cocktail ]
-eras: [ classic, modern]
+categories: [cocktail]
+eras: [modern]
+permalink: "/recipes/division_bell.html"
 iconfile: division_bell
 stars: 0
 base_spirits: "Mezcal, Aperol, Maraschino Liqueur "

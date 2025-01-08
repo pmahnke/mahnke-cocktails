@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Forced Retirement"
-categories: [ campari, cocktail]
-eras: [ anders ]
+categories: [campari, highball]
+eras: [anders]
+permalink: "/recipes/forced_retirement.html"
 iconfile: forced_retirement
 stars: 0
 base_spirits: "Malört, Gin, Campari "

@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Doctor Funk"
-categories: [ cocktail ]
+categories: [tiki]
+eras: [modern]
 permalink: "/recipe/doctor_funk.html"
 iconfile: doctor_funk
 stars: 0

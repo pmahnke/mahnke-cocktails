@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Elk's Own"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [sour]
+eras: [classic]
+permalink: "recipes/elks_own.html"
 iconfile: elks_own
 stars: 5
 base_spirits: "Rye, Ruby Port "
