@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "20th Century"
-categories: [ cocktail ]
+categories: [ sour ]
+eras: [ classic ]
 permalink: "/recipe/20th_century.html"
 iconfile: 20th_century
 stars: 0

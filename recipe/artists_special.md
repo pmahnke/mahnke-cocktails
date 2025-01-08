@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Artist's Special"
-categories: [ cocktail ]
+categories: [ sour ]
+eras: [ Classic ]
 permalink: "/recipe/artists_special.html"
 iconfile: artists_special
 stars: 4

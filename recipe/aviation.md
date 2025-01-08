@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Aviation"
-categories: [ cocktail ]
+categories: [ sour ]
+eras: [ classic ]
 permalink: "/recipe/aviation.html"
 iconfile: aviation
 stars: 4
