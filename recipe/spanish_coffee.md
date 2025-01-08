@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Spanish Coffee"
-categories: [ coffee, cocktail]
+eras: [classic]
+categories: [after_dinner]
 permalink: "/recipe/spanish_coffee.html"
 iconfile: spanish_coffee
 stars: 0

@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Stinger"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [prohibition]
 iconfile: stinger
 stars: 4
 base_spirits: "Cognac, Crème de Menthe"

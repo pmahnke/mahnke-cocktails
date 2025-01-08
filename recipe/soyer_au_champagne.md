@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Soyer au Champagne"
-categories: [ champagne, cocktail]
+eras: [modern]
+categories: [after_dinner]
 permalink: "/recipe/soyer_au_champagne.html"
 iconfile: soyer_au_champagne
 stars: 0

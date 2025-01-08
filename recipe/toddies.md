@@ -3,8 +3,8 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Hot Toddies"
-categories: [ toddy, cocktail]
-eras: [ classic ]
+categories: [toddy]
+eras: [classic]
 iconfile: toddies
 stars: 0
 base_spirits: "Blended Scotch, Jamaican Rum, Mezcal "

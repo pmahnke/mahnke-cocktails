@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The White Lady"
-categories: [ cocktail ]
+eras: [prohibition]
+categories: [sour]
 permalink: "/recipe/white_lady.html"
 iconfile: white_lady
 stars: 4

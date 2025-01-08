@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tipperary"
-categories: [ campari, cocktail]
+eras: [modern]
+categories: [cocktail]
 permalink: "/recipe/tipperary.html"
 iconfile: tipperary
 stars: 0

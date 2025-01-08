@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Ward Eight"
-categories: [ cocktail ]
+categories: [sour]
+eras: [classic]
 permalink: "/recipe/ward_eight.html"
 iconfile: ward_eight
 stars: 0

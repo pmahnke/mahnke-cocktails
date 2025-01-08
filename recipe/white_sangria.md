@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "White Sangria"
-categories: [ punch, cocktail]
-eras: [ classic ]
+categories: [punch]
+eras: [classic]
 iconfile: white_sangria
 stars: 0
 base_spirits: "Apricot Liqueur, Fino Sherry, Dry White Wine"

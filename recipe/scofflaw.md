@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Scofflaw"
-categories: [ cocktail ]
+eras: [prohibition]
+categories: [sour]
 permalink: "/recipe/scofflaw.html"
 iconfile: scofflaw
 stars: 5

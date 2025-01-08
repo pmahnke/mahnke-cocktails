@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sazerac"
-categories: [ cocktail ]
-eras: [ new_orleans ]
+categories: [cocktail]
+eras: [new_orleans]
 iconfile: sazarac
 stars: 4
 base_spirits: "Rye, Cognac "

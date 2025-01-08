@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tartan"
-categories: [ martini, cocktail]
-eras: [ classic ]
+categories: [cocktail]
+eras: [anders]
 iconfile: tartan
 stars: 0
 base_spirits: "Single Malt Scotch, Amaro, Drambuie "

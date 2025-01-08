@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Star Cocktail"
-categories: [ cocktail ]
-eras: [ modern ]
+categories: [cocktail]
+eras: [classic]
 iconfile: star_cocktail
 stars: 3
 base_spirits: "Apple Brandy"

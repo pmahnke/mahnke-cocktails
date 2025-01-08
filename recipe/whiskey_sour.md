@@ -1,8 +1,8 @@
 ---
 layout: recipe
 title: "Whiskey Sour"
-categories: [ sour, cocktail]
-eras: [ classic ]
+categories: [sour]
+eras: [classic]
 iconfile: whiskey_sour
 stars: 5
 base_spirits: "Bourbon "

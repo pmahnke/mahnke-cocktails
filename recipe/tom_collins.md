@@ -1,8 +1,8 @@
 ---
 layout: recipe
 title: "Tom Collins"
-categories: [ collins, cocktail]
-eras: [ classic ]
+categories: [collins]
+eras: [classic]
 iconfile: tom_collins
 stars: 0
 base_spirits: "Old Tom Gin "

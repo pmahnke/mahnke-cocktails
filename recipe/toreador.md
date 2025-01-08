@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Toreador"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [sour]
+eras: [classic]
 iconfile: toreador
 stars: 0
 base_spirits: "Reposado Tequila, Apricot Liquer, Amontillado Sherry "

@@ -3,7 +3,8 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tradewinds Negroni"
 iconfile: tradewinds_negroni
-categories: [ cocktail ]
+eras: [modern]
+categories: [cocktail]
 permalink: "/recipe/tradewinds_negroni.html"
 stars: 0
 base_spirits: "Angostura Aromatic Bitters"

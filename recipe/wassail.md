@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Wassail"
-categories: [ beer, cocktail]
+eras: [classic]
+categories: [punch]
 permalink: "/recipe/wassail.html"
 iconfile: wassail
 stars: 0

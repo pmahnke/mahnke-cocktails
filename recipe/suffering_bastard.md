@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Suffering Bastard"
-categories: [ beer, cocktail]
+eras: [modern]
+categories: [buck]
 permalink: "/recipe/suffering_bastard.html"
 iconfile: suffering_bastard
 stars: 0

@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Wicked Word"
-categories: [ cocktail ]
+eras: [anders]
+categories: [daisy]
 permalink: "/recipe/wicked_word.html"
 iconfile: wicked_word
 stars: 0
