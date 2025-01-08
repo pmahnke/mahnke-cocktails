@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Between The Sheets"
-categories: [ cocktail]
-eras: [ prohibition ]
+categories: [cocktail]
+eras: [prohibition]
 permalink: "/recipe/between_the_sheets.html"
 iconfile: between_the_sheets
 stars: 0

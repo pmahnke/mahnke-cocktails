@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Alamagoozlum"
-categories: [ punch ]
-eras: [ classic ]
+categories: [punch]
+eras: [classic]
+permalink: "/recipe/alamagoozlum.html"
 iconfile: alamagoozlum
 stars: 0
 base_spirits: "Genever, Jamaican Rum, Yellow Chartreuse "

@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Alberto"
-categories: [ martini ]
-eras: [ prohibition ]
+categories: [martini]
+eras: [prohibition]
 permalink: "/recipe/alberto.html"
 iconfile: alberto
 stars: 0

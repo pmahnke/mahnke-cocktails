@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Paper Plane"
 categories: [daisy]
 eras: [modern]
+permalink: "/recipe/paper_plane.html"
 iconfile: paper_plane
 stars: 5
 base_spirits: "Bourbon, Amaro, Aperol"

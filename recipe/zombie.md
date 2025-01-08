@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Zombie"
 categories: [tiki]
 eras: [classic]
+permalink: "/recipe/zombie.html"
 iconfile: zombie
 stars: 0
 base_spirits: "Jamaican Rum, Gold Rum, Demerara Rum "

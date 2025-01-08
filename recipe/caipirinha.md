@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Caipirinha"
 categories: [sour]
 eras: [classic]
-permalink: "/recipes/caipirinha.html"
+permalink: "/recipe/caipirinha.html"
 iconfile: caipirinha
 stars: 4
 base_spirits: "Cachaça "

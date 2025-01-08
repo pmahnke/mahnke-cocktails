@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Penicillin"
 categories: [sour]
 eras: [modern]
+permalink: "/recipe/penicillin.html"
 iconfile: penicillin
 stars: 0
 base_spirits: "Scotch, Blended, Scotch, Single Malt "

@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Dark 'n Stormy"
 categories: [buck]
 eras: [classic]
-permalink: "/recipes/dark_n_stormy.html"
+permalink: "/recipe/dark_n_stormy.html"
 iconfile: dark_n_stormy
 stars: 5
 base_spirits: "Dark Rum "

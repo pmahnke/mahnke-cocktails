@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brandy Slush"
-categories: [ punch, cocktail]
-eras: [ classic ]
+categories: [punch]
+eras: [modern]
+permalink: "/recipe/brandy_slush.html"
 iconfile: brandy_slush
 stars: 0
 base_spirits: "Brandy"

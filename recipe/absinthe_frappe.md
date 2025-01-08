@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Absinthe Frappé"
-categories: [ frappe_swizzle ]
-eras: [ classic ]
+categories: [frappe_swizzle]
+eras: [classic]
+permalink: "/recipe/absinthe_frappe.html"
 iconfile: absinthe_frappe
 stars: 0
 base_spirits: "Absinthe"

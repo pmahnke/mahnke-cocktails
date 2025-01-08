@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Dark Daiquiri"
 categories: [sour]
 eras: [morder]
-permalink: "/recipes/dark_daiquiri.html"
+permalink: "/recipe/dark_daiquiri.html"
 iconfile: dark_daiquiri
 stars: 5
 base_spirits: "Jamaican Rum "

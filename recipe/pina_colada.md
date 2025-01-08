@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Piña Colada"
 categories: [tiki]
 eras: [classic]
+permalink: "/recipe/pina_colada.html"
 iconfile: pina_colada
 stars: 4
 base_spirits: "Light Rum "

@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Ford"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipes/ford.html"
+permalink: "/recipe/ford.html"
 iconfile: ford
 stars: 0
 base_spirits: "Old Tom Gin, Bénédictine"

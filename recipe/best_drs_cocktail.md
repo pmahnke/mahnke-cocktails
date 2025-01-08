@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Best Doctor's Cocktail"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [classic]
 permalink: "/recipe/best_drs_cocktail.html"
 iconfile: best_drs_cocktail
 stars: 4

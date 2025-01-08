@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brandy Crusta"
-categories: [ cocktail ]
-eras: [ new_orleans, classic]
+categories: [cocktail]
+eras: [new_orleans]
+permalink: "/recipe/brandy_crusta.html"
 iconfile: brandy_crusta
 stars: 4
 base_spirits: "Cognac, Maraschino Liqueur"

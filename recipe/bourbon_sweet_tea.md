@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bourbon Sweet Tea"
-categories: [ cocktail ]
+categories: [punch]
+eras: [anders]
 permalink: "/recipe/bourbon_sweet_tea.html"
 iconfile: bourbon_sweet_tea
 stars: 0

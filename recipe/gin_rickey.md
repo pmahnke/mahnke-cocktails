@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Gin Rickey"
 categories: [highball]
 eras: [classic]
-permalink: "/recipes/gin_rickey.html"
+permalink: "/recipe/gin_rickey.html"
 iconfile: gin_rickey
 stars: 0
 base_spirits: "Gin"

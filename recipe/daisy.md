@@ -5,7 +5,7 @@ type: multirecipe
 title: "The Daisy"
 categories: [daisy]
 eras: [classic]
-permalink: "/recipes/daisy.html"
+permalink: "/recipe/daisy.html"
 iconfile: daisy
 stars: 0
 base_spirits: "Cognac Jamaican Rum -OR- Gin, Bénédictine "

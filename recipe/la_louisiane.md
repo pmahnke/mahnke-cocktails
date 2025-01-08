@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "La Louisiane"
 categories: [cocktail]
 eras: [new_orleans]
-permalink: "/recipes/la_louisiane"
+permalink: "/recipe/la_louisiane"
 iconfile: la_louisiane
 stars: 5
 base_spirits: "Rye, Bénédictine "

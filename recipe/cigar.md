@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "The Cigar"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipes/cigar.html"
+permalink: "/recipe/cigar.html"
 iconfile: cigar
 stars: 0
 base_spirits: "Single Malt Scotch, Aperol "

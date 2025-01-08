@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Classic Margarita"
 categories: [daisy]
 eras: [prohibition]
+permalink: "/recipe/margarita.html"
 iconfile: margarita
 stars: 5
 base_spirits: "Reposado Tequila "

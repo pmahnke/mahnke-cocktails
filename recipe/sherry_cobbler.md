@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Sherry Cobbler"
 categories: [cobbler]
 eras: [classic]
+permalink: "/recipe/sherry_cobbler.html"
 iconfile: sherry_cobbler
 stars: 0
 base_spirits: "Oloroso Sherry "

@@ -2,6 +2,7 @@
 layout: recipe
 title: "Hibiscus Syrup"
 type: syrup
+permalink: "/recipe/hibiscus_syrup.html"
 iconfile: hibiscus_syrup
 permalink: "/recipe/hibiscussyrup.html"
 youtube: "MEQMeCrg0Zi8rePO"

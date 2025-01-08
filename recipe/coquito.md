@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Coquito"
 categories: [eggnog]
 eras: [classic]
-permalink: "/recipes/coquito.html"
+permalink: "/recipe/coquito.html"
 iconfile: coquito
 stars: 4
 base_spirits: "Gold Rum"

@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Americano"
-categories: [ campari, cocktail ]
-eras: [ classic ]
+categories: [campari, cocktail]
+eras: [classic]
 permalink: "/recipe/americano.html"
 iconfile: americano
 stars: 0

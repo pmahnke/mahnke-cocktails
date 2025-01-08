@@ -3,8 +3,9 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Grey Fox"
-categories: [ cocktail ]
-eras: [ anders ]
+categories: [cocktail]
+eras: [anders]
+permalink: "/recipe/grey_fox.html"
 iconfile: grey_fox
 stars: 0
 base_spirits: "Earl Grey Syrup, Lemon"

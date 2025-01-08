@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Barback’s Revenge"
-categories: [ coffee, cocktail]
-eras: [ Anders ]
+categories: [coffee, cocktail]
+eras: [anders]
 permalink: "/recipe/barbacks_revenge.html"
 iconfile: barbacks_revenge
 stars: 0

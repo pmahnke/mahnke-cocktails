@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bay Roc Special"
-categories: [ cocktail ]
-eras: [ modern ]
+categories: [cocktail]
+eras: [modern]
 permalink: "/recipe/bay_roc_special.html"
 iconfile: bay_roc_special
 stars: 0

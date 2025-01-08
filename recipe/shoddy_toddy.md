@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Shoddy Toddy"
 categories: [toddy]
 eras: [anders]
+permalink: "/recipe/shoddy_toddy.html"
 iconfile: shoddy_toddy
 stars: 0
 base_spirits: "Gin, Bénédictine"

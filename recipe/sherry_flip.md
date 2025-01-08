@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Sherry Flip"
 categories: [flip]
 eras: [classic]
+permalink: "/recipe/sherry_flip.html"
 iconfile: sherry_flip
 stars: 0
 base_spirits: "Oloroso Sherry "

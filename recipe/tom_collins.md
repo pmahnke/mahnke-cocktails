@@ -3,6 +3,7 @@ layout: recipe
 title: "Tom Collins"
 categories: [collins]
 eras: [classic]
+permalink: "/recipe/tom_collins.html"
 iconfile: tom_collins
 stars: 0
 base_spirits: "Old Tom Gin "

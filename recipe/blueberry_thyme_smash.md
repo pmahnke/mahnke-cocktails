@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Blueberry Thyme Smash"
-categories: [ smash, cocktail]
+categories: [smash]
+eras: [classic]
 permalink: "/recipe/blueberry_thyme_smash.html"
 iconfile: blueberry_thyme_smash
 stars: 0

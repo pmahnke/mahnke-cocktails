@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brandy Alexander"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [after_dinner, ice_cream]
+eras: [classic]
+permalink: "/recipe/brandy_alexander.html"
 iconfile: brandy_alexander
 stars: 0
 base_spirits: "Cognac, Crème de Cacao"

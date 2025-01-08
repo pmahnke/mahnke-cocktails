@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bourbon Renewal"
-categories: [ cocktail ]
+categories: [sour]
+eras: [modern]
 permalink: "/recipe/bourbon_renewal.html"
 iconfile: bourbon_renewal
 stars: 0

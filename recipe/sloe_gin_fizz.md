@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Sloe Gin Fizz"
 categories: [campari, fizz]
 eras: [classic]
+permalink: "/recipe/sloe_gin_fizz.html"
 iconfile: sloe_gin_fizz
 stars: 0
 base_spirits: "Sloe Gin "

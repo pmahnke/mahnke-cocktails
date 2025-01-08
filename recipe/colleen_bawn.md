@@ -3,7 +3,7 @@ layout: recipe
 title: "Colleen Bawn"
 categories: [flip]
 eras: [classic]
-permalink: "/recipes/colleen_bawn.html"
+permalink: "/recipe/colleen_bawn.html"
 iconfile: colleen_bawn
 stars: 3
 base_spirits: "Rye, Yellow Chartreuse, Bénédictine"

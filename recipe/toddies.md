@@ -5,6 +5,7 @@ type: multirecipe
 title: "Hot Toddies"
 categories: [toddy]
 eras: [classic]
+permalink: "/recipes/toddies.html"
 iconfile: toddies
 stars: 0
 base_spirits: "Blended Scotch, Jamaican Rum, Mezcal "

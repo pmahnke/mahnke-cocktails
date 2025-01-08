@@ -3,6 +3,7 @@ layout: recipe
 title: "Whiskey Sour"
 categories: [sour]
 eras: [classic]
+permalink: "/recipe/whiskey_sour.html"
 iconfile: whiskey_sour
 stars: 5
 base_spirits: "Bourbon "

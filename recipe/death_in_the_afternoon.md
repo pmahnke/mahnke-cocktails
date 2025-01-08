@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Death in the Afternoon"
 categories: [champagne]
 eras: [prohibition]
-permalink: "/recipes/death_in_the_afternoon.html"
+permalink: "/recipe/death_in_the_afternoon.html"
 iconfile: death_in_the_afternoon
 stars: 0
 base_spirits: "Absinthe, Champagne "

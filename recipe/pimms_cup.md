@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Pimm's Cup"
 categories: [highball]
 eras: [classic]
+permalink: "/recipe/pimms_cup.html"
 iconfile: pimms_cup
 stars: 0
 base_spirits: "Pimm's"

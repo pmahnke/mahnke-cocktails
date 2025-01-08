@@ -4,7 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "The Japanese Cocktail"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipes/japanese_cocktail.html"
+permalink: "/recipe/japanese_cocktail.html"
 iconfile: japanese_cocktail
 stars: 0
 base_spirits: "Cognac "

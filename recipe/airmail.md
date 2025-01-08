@@ -1,8 +1,9 @@
 ---
 layout: recipe
 title: "Airmail"
-categories: [ champagne, cocktail]
-eras: [ classic ]
+categories: [champagne]
+eras: [classic]
+permalink: "/recipe/airmail.html"
 iconfile: airmail
 stars: 0
 base_spirits: "Champagne, Gold Rum "

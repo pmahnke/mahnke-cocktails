@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Boulevardier"
-categories: [ campari, cocktail]
+categories: [campari, cocktail]
+eras: [prohibition]
 permalink: "/recipe/boulevardier.html"
 iconfile: boulevardier
 stars: 4
