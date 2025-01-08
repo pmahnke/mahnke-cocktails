@@ -1,0 +1,15 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-benedictine.svg
+      title: Benedictine
+    - url: /cocktails/assets/images/ingredient-chartreuse.svg
+      title: Green Chartreuse
+    - url: /cocktails/assets/images/ingredient-bitters.svg
+      title: Angostura Aromatic Bitters
+  tool:
+    - url: /cocktails/assets/images/tool_long-stirrer.svg
+      title: Bar Spoon
+  glass:
+    - url: /cocktails/assets/images/glass_cordial.svg
+      title: Pousse Cafe
+  garnish:
