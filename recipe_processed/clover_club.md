@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Clover Club"
-permalink: "/recipe/clover_club.html"
+categories: [ sour, cocktail]
+eras: [ classic ]
 iconfile: clover_club
 stars: 3
-category: "Gin "
+base_spirits: "Gin "
 youtube: "MfHv2EOLUOo&t=336s"
 excerpt: |
   This pre-Prohibition classic is one of Philadelphia’s contributions to the cocktail world. It is a classic cocktail known for its sweet and tart flavor profile and its silky, frothy texture. It's a member of the sour family, but leans more towards sweetness than tartness. The pale pink liquid, delicate white foam head, and raspberry garnish make it visually appealing.

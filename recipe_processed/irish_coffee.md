@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Irish Coffee"
+categories: [ coffee, cocktail]
 permalink: "/recipe/irish_coffee.html"
 iconfile: irish_coffee
 stars: 0
-category: "Irish Whiskey "
+base_spirits: "Irish Whiskey "
 youtube: "sJsY1LokABA"
 excerpt: |
   Irish Coffee is the perfect winter warming drink. To make it, combine Irish whiskey with sugar and coffee, and top it with cream.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Costume Party"
-permalink: "/recipe/costume_party.html"
+categories: [ cocktail ]
+eras: [ anders ]
 iconfile: costume_party
 stars: 0
-category: "Vodka, White Crème De Cacao, Apricot Liqueur"
+base_spirits: "Vodka, White Crème De Cacao, Apricot Liqueur"
 youtube: "i67-17-CZCQ"
 excerpt: |
   This is an Anders original cocktail.
@@ -26,4 +27,4 @@ excerpt: |
 - Pour: Double Strain
 - Glassware: Coupe
 - Garnish: None
-- Special Prep: Sugared Rim  
+- Special Prep: Sugared Rim

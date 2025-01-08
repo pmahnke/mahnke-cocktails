@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Paper Plane"
-permalink: "/recipe/paper_plane.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: paper_plane
 stars: 5
-category: "Bourbon, Amaro, Aperol"
+base_spirits: "Bourbon, Amaro, Aperol"
 youtube: "yu4JNOvec1k&t=6s"
 excerpt: |
   The Paper Plane cocktail is a simple variation on the classic Last Word. And it may be the best bourbon drink you may not have tried yet.

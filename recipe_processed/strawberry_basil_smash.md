@@ -1,10 +1,11 @@
 ---
 layout: recipe
 title: "Strawberry Basil Smash"
+categories: [ smash, cocktail]
 permalink: "/recipe/strawberry_basil_smash.html"
 iconfile: strawberry_basil_smash
 stars: 0
-category: "Jamaican Rum"
+base_spirits: "Jamaican Rum"
 youtube: "3i4QnRLlPFc"
 excerpt: |
   The Strawberry Basil Smash is a refreshing cocktail that combines the sweetness of strawberries with the herbaceousness of basil.

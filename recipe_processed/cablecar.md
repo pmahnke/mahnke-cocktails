@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Cablecar"
-permalink: "/recipe/cablecar.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: cablecar
 stars: 0
-category: "Spice Rum "
+base_spirits: "Spice Rum "
 youtube: "iUGkl-AVgbI"
 excerpt: |
   This classic cocktail is a simple yet delicious drink that is perfect for any occasion. It is made with spiced rum, orange curacao, lemon juice, and simple syrup.

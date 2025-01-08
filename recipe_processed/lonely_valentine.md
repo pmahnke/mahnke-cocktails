@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lonely Valentine"
+categories: [ cocktail ]
 permalink: "/recipe/lonely_valentine.html"
 iconfile: lonely_valentine
 stars: 0
-category: "Light Rum, Ruby Port, White Crème de Cacao "
+base_spirits: "Light Rum, Ruby Port, White Crème de Cacao "
 youtube: "UhRb_xqCXwQ"
 excerpt: |
   The Lonely Valentine is a cocktail that evokes a sense of bittersweet nostalgia. It's a complex blend of flavors that balances sweetness with bitterness, and warmth with tartness.<br /><br />

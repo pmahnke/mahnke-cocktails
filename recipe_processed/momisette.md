@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Momisette"
+categories: [ cocktail ]
 permalink: "/recipe/momisette.html"
 iconfile: momisette
 stars: 5
-category: "Absinthe "
+base_spirits: "Absinthe "
 youtube: "ABntm6FL8wc"
 excerpt: |
   The Momisette is a sparkling blend of pastis and orgeat served over ice. It’s easy to make and tastes great on a warm day.

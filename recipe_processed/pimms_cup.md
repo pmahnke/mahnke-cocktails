@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pimm's Cup"
-permalink: "/recipe/pimms_cup.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: pimms_cup
 stars: 0
-category: "Pimm's"
+base_spirits: "Pimm's"
 youtube: "TP5T65EWOx65zTsY"
 excerpt: |
   The Pimm’s Cup is a classic cocktail featuring Pimm’s No. 1, a gin-based liqueur. Mix it with lemon and ginger ale for ultimate refreshment.

@@ -1,10 +1,11 @@
 ---
 layout: recipe
 title: "Peach & Sage Smash"
+categories: [ smash, cocktail]
 permalink: "/recipe/peach_sage_smash.html"
 iconfile: peach_sage_smash
 stars: 0
-category: "Reposado Tequila"
+base_spirits: "Reposado Tequila"
 youtube: "3i4QnRLlPFc&t=220s"
 excerpt: |
   The Peach & Sage Smash is a refreshing and flavorful cocktail that combines the sweetness of peaches with the earthy notes of sage.

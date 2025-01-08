@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Improved Whiskey Cocktail"
+categories: [ cocktail ]
 permalink: "/recipe/improved_whiskey_cocktail.html"
 iconfile: improved_whiskey_cocktail
 stars: 0
-category: "Rye, Maraschino Liqueur, Absinthe"
+base_spirits: "Rye, Maraschino Liqueur, Absinthe"
 youtube: "8Mj790thvm8"
 excerpt: |
   The Whiskey Cocktail, along with this Improved version appeared in Jerry Thomas's 1876 <i>The Bar-tender's Guide</i>. The book also includes "Improved" versions of the Brandy Cocktail, and Gin Cocktail which are all what we today call <a href="/encyclopedia/500/cocktails/old-fashioned-cocktail">Old Fashioned cocktails</a>. In the words of Jerry Thomas, they have been "<i>improved by moistening the edge of the cocktail glass with a piece of lemon</i>." Such "improved" American cocktails from the period are also distinguished by using European ingredients, particularly maraschino liqueur and/or absinthe.

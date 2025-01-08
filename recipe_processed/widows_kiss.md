@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Widow's Kiss"
+categories: [ cocktail ]
 permalink: "/recipe/widows_kiss.html"
 iconfile: widows_kiss
 stars: 0
-category: "Apple Brandy, Yellow Chartreuse, Bénédictine DOM "
+base_spirits: "Apple Brandy, Yellow Chartreuse, Bénédictine DOM "
 youtube: "0JqyWyBiFus"
 excerpt: |
   A simple, and very potent, classic cocktail with apple brandy, yellow Chartreuse and Benedictine.

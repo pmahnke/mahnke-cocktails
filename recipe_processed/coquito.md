@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Coquito"
-permalink: "/recipe/coquito.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: coquito
 stars: 4
-category: "Gold Rum"
+base_spirits: "Gold Rum"
 youtube: "SAeGIcLjMlk"
 excerpt: |
   Creamy, rich Coquito may be a classic Puerto Rican holiday drink, but don't let the seasons limit you—this combination of rum, milk, coconut, and spices tastes great any time of year.

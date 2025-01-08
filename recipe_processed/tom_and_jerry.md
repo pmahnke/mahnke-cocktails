@@ -3,10 +3,11 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Tom & Jerry"
+categories: [ eggnog, cocktail]
 permalink: "/recipe/tomandjerry.html"
 iconfile: tom_and_jerry
 stars: 0
-category: "Jamaican Rum, Demerara Rum, Cognac "
+base_spirits: "Jamaican Rum, Demerara Rum, Cognac "
 youtube: "tfPrLUlFO8k"
 excerpt: |
   It is a variant of eggnog with brandy and rum added and served hot, usually in a mug or a bowl. Separate eggs.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Espresso Martini"
+categories: [ coffee, martini, cocktail]
 permalink: "/recipe/espresso_martini.html"
 iconfile: espresso_martini
 stars: 0
-category: "Coffee Liqueur, Vodka "
+base_spirits: "Coffee Liqueur, Vodka "
 youtube: "q0ebbWwoI10"
 excerpt: |
   The Espresso Martini is more than 40 years old, and remains one of the most popular cocktails in existence today. Discover why this simple combination of vodka, espresso, and coffee liqueur still works.

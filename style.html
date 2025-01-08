@@ -1,0 +1,19 @@
+---
+layout: default
+permalink: /style/
+title: Styles
+style: prohibition
+---
+
+page.style : {{ page.style }}
+
+
+<h1>All Styles</h1>
+
+{% for style in site.data.style %}
+
+<h4><a href="{{ style.slug }}.html">{{ style.name }}</a></h4>
+<p>{{ style.description }}</p>
+
+{% endfor %}
+

@@ -1,10 +1,11 @@
 ---
 layout: recipe
 title: "Sentimental Gentleman"
+categories: [ cocktail ]
 permalink: "/recipe/sentimental_gent.html"
 iconfile: sentimental_gent
 stars: 0
-category: "Scotch, Blended, Bénédictine, Walnut Liqueur"
+base_spirits: "Scotch, Blended, Bénédictine, Walnut Liqueur"
 youtube: "QFjRjAP-k1k&t=3s"
 excerpt: |
   The Sentimental Gentleman is a sophisticated and elegant cocktail that combines the warmth of whiskey with the herbal notes of Benedictine and the subtle sweetness of walnut liqueur.
@@ -22,7 +23,7 @@ excerpt: |
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: 
+- Glassware:
   - Low Ball
   - Large Ice cube
 - Garnish: None

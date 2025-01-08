@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The White Lady"
+categories: [ cocktail ]
 permalink: "/recipe/white_lady.html"
 iconfile: white_lady
 stars: 4
-category: "Triple Sec, Crème De Menthe -OR- Gin "
+base_spirits: "Triple Sec, Crème De Menthe -OR- Gin "
 youtube: "IAmf7XqE0T8"
 excerpt: |
   The White Lady cocktail was created by bartender Harry MacElhone and pairs gin with orange liqueur, lemon juice and egg white.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Satan's Whiskers"
-permalink: "/recipe/satans_whiskers.html"
+categories: [ cocktail ]
+eras: [ prohibition, classic]
 iconfile: satans_whiskers
 stars: 0
-category: "Gin "
+base_spirits: "Gin "
 youtube: "T3GsJVVGCFs"
 excerpt: |
   The Satan's Whiskers cocktail is a classic Prohibition-era drink with a devilishly delicious flavor profile.

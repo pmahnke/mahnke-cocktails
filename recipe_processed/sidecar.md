@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sidecar"
-permalink: "/recipe/sidecar.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: sidecar
 stars: 3
-category: Cognac
+base_spirits: Cognac
 youtube: "re76GCUoiH4"
 youtube_embed: "https://www.youtube.com/embed/re76GCUoiH4?si=EMdqje_4KECcUOJA"
 excerpt: |

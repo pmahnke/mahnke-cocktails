@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hotel National Cocktail"
-permalink: "/recipe/hotel_national.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: hotel_national
 stars: 4
-category: "Light Rum, Apricot Liqueur"
+base_spirits: "Light Rum, Apricot Liqueur"
 youtube: "aK-xI2Th2YE"
 excerpt: |
   The Hotel National / Nacional cocktail is a classic Cuban cocktail that has been enjoyed for decades. It is a refreshing and flavorful drink that is perfect for any occasion.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Embassy"
-permalink: "/recipe/embassy.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: embassy
 stars: 4
-category: "Cognac, Jamaican Rum"
+base_spirits: "Cognac, Jamaican Rum"
 youtube: "YFqEvNdPrX8"
 excerpt: |
   The Embassy Cocktail is a classic cocktail from the 1930s, originating from Hollywood's Embassy Club. It's a well-balanced and flavorful drink that combines brandy, rum, Cointreau, lime juice, and bitters.

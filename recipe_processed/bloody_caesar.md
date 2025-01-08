@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bloody Caesar"
+categories: [ cocktail ]
 permalink: "/recipe/bloody_caesar.html"
 iconfile: bloody_caesar
 stars: 3
-category: "Vodka "
+base_spirits: "Vodka "
 youtube: "CWN67QIvZP8"
 excerpt: |
   The Bloody Caesar is a clam-juice-spiked riff on the Bloody Mary. And it’s the national cocktail of Canada.

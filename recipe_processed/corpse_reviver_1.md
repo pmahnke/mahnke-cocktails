@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Corpse Reviver #1"
+categories: [ cocktail ]
 permalink: "/recipe/corpse_reviver_1.html"
 iconfile: corpse_reviver_1
 stars: 4
-category: "Calvados, Cognac"
+base_spirits: "Calvados, Cognac"
 youtube: "bGxOcLRCBWk"
 excerpt: |
   The first widely popularized corpse reviver cocktail is listed in The Savoy Cocktail Book and is a cognac-based cocktail that calls for two parts cognac, one part Calvados or apple brandy, and one part Italian vermouth. In bartender Craddock's notes he says "To be taken before 11AM, or whenever steam or energy is needed".

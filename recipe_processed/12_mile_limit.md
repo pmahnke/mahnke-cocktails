@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "12 Mile Limit"
-permalink: "/recipe/12_mile_limit.html"
+categories: [ cocktail ]
+eras: [ prohibition ]
 iconfile: 12_mile_limit
 stars: 4
-category: "Light Rum, Rye, Cognac"
+base_spirits: "Light Rum, Rye, Cognac"
 youtube: "6M6Xu_URmPg"
 excerpt: |
   In his <em>Vintage Sprits and Forgotten Cocktails</em>, Ted "Dr. Cocktail" Haigh affirms that Thomas Franklin Fairfax Millard (1868-1942), a war correspondent and journalist, is the confirmed author of the Twelve Mile Limit Cocktail.<br /><br />

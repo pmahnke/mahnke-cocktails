@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brown Derby"
-permalink: "/recipe/brown_derby.html"
+categories: [ sour, cocktail]
+eras: [ classic ]
 iconfile: brown_derby
 stars: 0
-category: "Bourbon "
+base_spirits: "Bourbon "
 youtube: "79htbyQ8nDY&t=62s"
 excerpt: |
   The Brown Derby cocktail, a classic bourbon, grapefruit, and honey drink, was named for the famous Los Angeles diner. It manages at once to be sweet, sour, and entirely delicious.

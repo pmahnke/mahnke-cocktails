@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Vieux Carré"
-permalink: "/recipe/vieux_carre.html"
+categories: [ cocktail ]
+eras: [ new_orleans, classic]
 iconfile: vieux_carre
 stars: 5
-category: "Rye, Cognac, Bénédictine"
+base_spirits: "Rye, Cognac, Bénédictine"
 youtube: "cDCdcwuM8yA"
 excerpt: |
   The Vieux Carré is a New Orleans cocktail dating back to the 1930s. See how rye, cognac and sweet vermouth create this well-balanced classic.

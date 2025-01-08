@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bramble"
+categories: [ cocktail ]
 permalink: "/recipe/bramble.html"
 iconfile: bramble
 stars: 0
-category: "Gin, Crème de Mûre "
+base_spirits: "Gin, Crème de Mûre "
 youtube: "fgE5H8W5K6M"
 excerpt: |
   The Bramble is a gin-kissed beauty of a cocktail. It features fresh lemon juice and blackberry liqueur.

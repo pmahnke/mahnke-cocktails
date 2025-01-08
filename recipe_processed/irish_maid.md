@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Irish Maid"
+categories: [ sour, cocktail]
 permalink: "/recipe/irishmaid.html"
 iconfile: irish_maid
 stars: 0
-category: "Irish Whiskey, Elderflower Liqueur "
+base_spirits: "Irish Whiskey, Elderflower Liqueur "
 youtube: "IIMug56LEiQ"
 excerpt: |
   The Irish Maid is a Whiskey Sour variation featuring Irish whiskey, lemon juice and fresh cucumber. It makes the case for whiskey as a summer drink.

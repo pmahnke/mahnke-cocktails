@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bamboo"
-permalink: "/recipe/bamboo.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: bamboo
 stars: 4
-category: "Oloroso Sherry "
+base_spirits: "Oloroso Sherry "
 youtube: "B8l-F1qcTYU&t=48s"
 excerpt: |
   Equal parts dry sherry and dry vermouth get propped up with two kinds of bitters in the Bamboo, a low-alcohol classic cocktail.

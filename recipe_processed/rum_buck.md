@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rum Buck"
+categories: [ beer, buck, cocktail]
 permalink: "/recipe/rum_buck.html"
 iconfile: rum_buck
 stars: 0
-category: "Dark Rum, Allspice Dram"
+base_spirits: "Dark Rum, Allspice Dram"
 youtube: "2EZBGowe0ho"
 excerpt: |
   A buck is a cocktail that is made with ginger ale or ginger beer, citrus juice, and any of a number of base liquors. Buck cocktails are sometimes called mules.

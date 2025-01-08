@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "White Stallion"
+categories: [ champagne, cocktail]
 permalink: "/recipe/white_stallion.html"
 iconfile: white_stallion
 stars: 0
-category: "Plymouth Gin, Grand Marnier, Champagne "
+base_spirits: "Plymouth Gin, Grand Marnier, Champagne "
 youtube: "E1TfYiFrnXk"
 excerpt: |
   This bubbly ice cream drink was inspired by two classics found in the Savoy Cocktail Book - the White Cargo and the Silver Stallion.

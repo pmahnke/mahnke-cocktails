@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brandy Alexander"
-permalink: "/recipe/brandy_alexander.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: brandy_alexander
 stars: 0
-category: "Cognac, Crème de Cacao"
+base_spirits: "Cognac, Crème de Cacao"
 youtube: "5LEgIoddxY4"
 excerpt: |
   The Brandy Alexander is a classic, combining cognac, crème de cacao and cream, it’s easy to make and even easier to drink.

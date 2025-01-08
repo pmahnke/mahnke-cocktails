@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Alberto"
+categories: [ martini, cocktail]
 permalink: "/recipe/alberto.html"
 iconfile: alberto
 stars: 0
-category: "Gin, Fino Sherry"
+base_spirits: "Gin, Fino Sherry"
 youtube: "PM_X8Ci0iXg"
 excerpt: |
   First published in William James "Billy" Tarling's 1937 <em>Café Royal Bar Book</em> where the invention of this cocktail is credited to A. J. Smith.

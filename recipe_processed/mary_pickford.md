@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mary Pickford"
-permalink: "/recipe/mary_pickford.html"
+categories: [ cocktail ]
+eras: [ prohibition, classic]
 iconfile: mary_pickford
 stars: 4
-category: "Light Rum, Maraschino Liqueur"
+base_spirits: "Light Rum, Maraschino Liqueur"
 youtube: "TGJZv0FTjk8"
 excerpt: |
   The Mary Pickford is a classic cocktail named after the famous silent film actress. It is a Prohibition-era cocktail that's made with: white rum, fresh pineapple juice, grenadine, and maraschino liqueur.

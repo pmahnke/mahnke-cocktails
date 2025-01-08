@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Jack Rose"
+categories: [ punch, cocktail]
 permalink: "/recipe/jackrose.html"
 iconfile: jack_rose
 stars: 0
-category: "Apple Brandy "
+base_spirits: "Apple Brandy "
 youtube: "7H7Cz53jDhc"
 excerpt: |
   The Jack Rose cocktail has a pretty pink hue that hides the strong punch of applejack, one of the USA’s native spirits.

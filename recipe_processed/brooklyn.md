@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brooklyn"
-permalink: "/recipe/brooklyn.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: brooklyn
 stars: 0
-category: "Rye, Maraschino Liqueur"
+base_spirits: "Rye, Maraschino Liqueur"
 youtube: "JU8xN_ty2i0"
 excerpt: |
   The Brooklyn cocktail is a classic pre-Prohibition cocktail that is experiencing a resurgence in popularity. It is a variation of the Manhattan, but with dry vermouth and Maraschino liqueur.

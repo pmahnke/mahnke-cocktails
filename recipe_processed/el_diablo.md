@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "El Diablo"
+categories: [ beer, cocktail]
 permalink: "/recipe/el_diablo.html"
 iconfile: el_diablo
 stars: 0
-category: "Reposado Tequila, Crème de Cassis"
+base_spirits: "Reposado Tequila, Crème de Cassis"
 youtube: "xN3ymSPZJjY"
 excerpt: |
   The El Diablo cocktail first appeared in 1946 in a Trader Vic’s recipe book. It features tequila, crème de cassis, lime and ginger beer.

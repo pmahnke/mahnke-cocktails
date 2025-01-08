@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Dark 'n Stormy"
-permalink: "/recipe/dark_n_stormy.html"
+categories: [ beer, cocktail]
+eras: [ classic ]
 iconfile: dark_n_stormy
 stars: 5
-category: "Dark Rum "
+base_spirits: "Dark Rum "
 youtube: "2EZBGowe0ho"
 excerpt: |
   The Dark and Stormy is a classic rum drink with close ties to a Bermuda-based distillery that dates to 1806.

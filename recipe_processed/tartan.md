@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tartan"
-permalink: "/recipe/tartan.html"
+categories: [ martini, cocktail]
+eras: [ classic ]
 iconfile: tartan
 stars: 0
-category: "Single Malt Scotch, Amaro, Drambuie "
+base_spirits: "Single Malt Scotch, Amaro, Drambuie "
 youtube: "Jqy3bhn-O9s"
 excerpt: |
   The Tartan cocktail is a classic scotch-based drink that gets its name from its warm, rich colors and complex flavors, reminiscent of the iconic Scottish fabric.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Marco Valdo Dionysus Cocktail Recipes
 title: "Chartreuse Swizzle"
+categories: [ frappe_swizzle, cocktail]
 permalink: "/recipe/chartreuseswizzle.html"
 iconfile: chartreuse_swizzle
 stars: 5
-category: "Green Chartreuse"
+base_spirits: "Green Chartreuse"
 youtube: "GiNen9YukD8"
 excerpt: |
   The Chartreuse Swizzle is a refreshing and unique cocktail that blends the herbal sweetness of Chartreuse with the tropical flavors of pineapple and lime.
@@ -25,8 +26,8 @@ excerpt: |
 
 - Method: Swizzled
 - Pour: Add all ingredients directly to the glass
-- Glassware: 
-    - High Ball
-    - Crushed Ice
+- Glassware:
+  - High Ball
+  - Crushed Ice
 - Garnish: Grated Nutmeg and a Mint Sprig
 - Special Prep: Swizzle in the glass, and top with additional crushed ice.

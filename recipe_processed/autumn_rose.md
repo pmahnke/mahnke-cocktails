@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Autumn Rose"
-permalink: "/recipe/autumn_rose.html"
+categories: [ cocktail ]
+eras: [ anders ]
 iconfile: autumn_rose
 stars: 4
-category: "Apple Brandy"
+base_spirits: "Apple Brandy"
 youtube: "9OxlSOioD_k"
 excerpt: |
   This cocktails is an Anders original.

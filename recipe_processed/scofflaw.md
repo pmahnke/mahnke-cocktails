@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Scofflaw"
+categories: [ cocktail ]
 permalink: "/recipe/scofflaw.html"
 iconfile: scofflaw
 stars: 5
-category: "Rye"
+base_spirits: "Rye"
 youtube: "nutbajkZ8Lc"
 excerpt: |
   The creatively named Scofflaw combines whiskey, dry vermouth, lemon juice and grenadine. It was invented in Paris during U.S. Prohibition.

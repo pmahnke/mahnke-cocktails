@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Psycho Killer"
+categories: [ campari, cocktail]
 permalink: "/recipe/psycho_killer.html"
 iconfile: psycho_killer
 stars: 0
-category: "Irish Whiskey, Campari, White Crème de Cacao, Banane du Brésil"
+base_spirits: "Irish Whiskey, Campari, White Crème de Cacao, Banane du Brésil"
 youtube: "u0N9FFJ1i5c"
 excerpt: |
   White cacao and banana liqueur balance the dry, bitter duo of cocoa nibs and Campari in this elegant Irish whiskey cocktail from The Dead Rabbit.

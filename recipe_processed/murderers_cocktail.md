@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Murderer’s Cocktail"
-permalink: "/recipe/murderers_cocktail.html"
+categories: [ cocktail ]
+eras: [ anders ]
 iconfile: murderers_cocktail
 stars: 4
-category: "Calvados, Jamaican Rum, Swedish Punsch"
+base_spirits: "Calvados, Jamaican Rum, Swedish Punsch"
 youtube: "i67-17-CZCQ"
 excerpt: |
   This is an Anders original cocktail.

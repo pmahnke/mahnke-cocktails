@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bee's Knees, Smoked"
-permalink: "/recipe/beesknees-smoked.html"
+categories: [ cocktail ]
+eras: [ prohibition, classic]
 iconfile: beesknees-smoked
 stars: 0
-category: "Gin "
+base_spirits: "Gin "
 youtube: "gZdT2GBf91I"
 excerpt: |
   This version is a twist on the classic Prohibition era Bee's Knees cocktail.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Boulevardier"
+categories: [ campari, cocktail]
 permalink: "/recipe/boulevardier.html"
 iconfile: boulevardier
 stars: 4
-category: "Bourbon, Campari"
+base_spirits: "Bourbon, Campari"
 youtube: "VAK-A7laGuE"
 excerpt: |
   Swap the gin for whiskey in a Negroni, and you get the delicious Boulevardier cocktail. Grab some Campari and sweet vermouth, and start mixing.

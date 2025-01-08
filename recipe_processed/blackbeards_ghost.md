@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Blackbeard’s Ghost"
-permalink: "/recipe/blackbeards_ghost.html"
+categories: [ cocktail ]
+eras: [ anders ]
 iconfile: blackbeards_ghost
 stars: 0
-category: "Gold Rum, Demerara Rum, Apricot Liqueur"
+base_spirits: "Gold Rum, Demerara Rum, Apricot Liqueur"
 youtube: "i67-17-CZCQ"
 excerpt: |
   This is an Anders original cocktail.

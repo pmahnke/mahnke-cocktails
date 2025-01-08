@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rusty Nail"
-permalink: "/recipe/rusty_nail.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: rusty_nail
 stars: 2
-category: "Scotch, Drambuie"
+base_spirits: "Scotch, Drambuie"
 youtube: "nTyrz70_OPA"
 excerpt: |
   The Rusty Nail is a classic two-part cocktail that combines scotch and Drambuie.

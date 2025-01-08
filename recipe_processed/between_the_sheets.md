@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Between The Sheets"
-permalink: "/recipe/between_the_sheets.html"
+categories: [ campari, cocktail]
+eras: [ prohibition, classic]
 iconfile: between_the_sheets
 stars: 0
-category: "Jamaican Rum, Demerara Rum, Campari"
+base_spirits: "Jamaican Rum, Demerara Rum, Campari"
 youtube: "YFqEvNdPrX8"
 excerpt: |
   This provocatively named Between the Sheets cocktail dates back to Prohibition and amps up the classic Sidecar formula with a dose of rum.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "El Presidente"
-permalink: "/recipe/el_presidente.html"
+categories: [ martini, cocktail]
+eras: [ classic ]
 iconfile: el_presidente
 stars: 4
-category: "Gin, White Vermouth"
+base_spirits: "Gin, White Vermouth"
 youtube: "1AZGE2FUAO4"
 excerpt: |
   The classic El Presidente cocktail was born in Cuba and combines white rum, dry vermouth, orange curaçao and grenadine. Hail to the chief.

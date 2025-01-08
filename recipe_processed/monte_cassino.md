@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Monte Cassino"
+categories: [ cocktail ]
 permalink: "/recipe/monte_cassino.html"
 iconfile: monte_cassino
 stars: 4
-category: "Rye, Yellow Chartreuse, Bénédictine"
+base_spirits: "Rye, Yellow Chartreuse, Bénédictine"
 youtube: "NGPSk_jMZvA"
 excerpt: |
   Benedictine, Yellow Chartreuse, rye and lemon juice shine in this bright, herbaceous Last Word variation.

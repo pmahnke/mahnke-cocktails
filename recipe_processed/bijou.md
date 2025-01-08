@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bijou"
-permalink: "/recipe/bijou.html"
+categories: [ martini, cocktail]
+eras: [ prohibition, modern]
 iconfile: bijou
 stars: 4
-category: "Gin, Green Chartreuse "
+base_spirits: "Gin, Green Chartreuse "
 youtube: "LeIeaxJR2kw"
 excerpt: |
   The bijou is a mixed alcoholic drink composed of gin, vermouth, and chartreuse. This cocktail was invented by Harry Johnson, "the father of professional bartending", who called it bijou because it combined the colors of three jewels, gin for diamond, vermouth for ruby, and chartreuse for emerald. An original-style bijou is made stirred with ice as Johnson's 1900 New and Improved Bartender Manual states "mix well with a spoon and serve." This recipe is also one of the oldest in the manual, dating back to the 1890s.<br /><br />

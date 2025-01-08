@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Whiskey Smash"
+categories: [ smash, cocktail]
 permalink: "/recipe/whiskey_smash.html"
 iconfile: whiskey_smash
 stars: 0
-category: "Bourbon "
+base_spirits: "Bourbon "
 youtube: "Jo1wxAfyLto"
 excerpt: |
   With bourbon, lemon and mint, the Whiskey Smash is a citrusy cousin to the Mint Julep. If that sounds good, wait until you make this recipe.

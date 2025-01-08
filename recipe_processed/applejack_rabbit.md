@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Applejack Rabbit"
+categories: [ cocktail ]
 permalink: "/recipe/applejack_rabbit.html"
 iconfile: applejack_rabbit
 stars: 0
-category: "Apple Brandy"
+base_spirits: "Apple Brandy"
 youtube: "9OxlSOioD_k"
 excerpt: |
   The Apple Jack Rabbit appears in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i> and in David A. Embury's 1948 <i>The Fine Art of Mixing Drinks</i> where he tells us "<i>This drink is also sometimes, for no reason at all, called the Applejack Dynamite. The same cocktail made with a gin base plus a dash of Angostura is called the Old Vermont.</i>"

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Corpse Reviver #2"
+categories: [ cocktail ]
 permalink: "/recipe/corpse_reviver_2.html"
 iconfile: corpse_reviver_2
 stars: 5
-category: "Gin, Cocchi Americano"
+base_spirits: "Gin, Cocchi Americano"
 youtube: "bGxOcLRCBWk"
 excerpt: |
   The Corpse Reviver No. 2 is a pre-Prohibition cocktail that was originally consumed in the morning, but tastes delicious any time of the day.

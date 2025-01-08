@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Affinity"
-permalink: "/recipe/affinity.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: affinity
 stars: 0
-category: "Scotch, Vermouth"
+base_spirits: "Scotch, Vermouth"
 youtube: "9lgx04fJrSM"
 excerpt: |
   The Affinity Cocktail is a classic whiskey-based cocktail that showcases the balance and harmony of its ingredients. It's a refined and sophisticated drink that's perfect for any occasion.

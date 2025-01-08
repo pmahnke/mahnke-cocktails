@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Final Ward"
+categories: [ sour, cocktail]
 permalink: "/recipe/finalward.html"
 iconfile: final_ward
 stars: 3
-category: "Rye, Green Chartreuse, Maraschino Liqueur"
+base_spirits: "Rye, Green Chartreuse, Maraschino Liqueur"
 youtube: "NGPSk_jMZvA"
 excerpt: |
   A twist on the Whiskey Sour, the Ward Eight has a fascinating history

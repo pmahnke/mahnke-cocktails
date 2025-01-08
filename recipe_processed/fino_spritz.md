@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Fino Spritz"
-permalink: "/recipe/fino_spritz.html"
+categories: [ spritz, cocktail]
+eras: [ classic, modern]
 iconfile: fino_spritz
 stars: 0
-category: "Fino Sherry, Maraschino Liqueur"
+base_spirits: "Fino Sherry, Maraschino Liqueur"
 youtube: "BUb54paVf0s"
 excerpt: |
   The Fino Spritz is a refreshing and modern take on the classic spritz cocktail, featuring Fino Sherry as its base spirit.

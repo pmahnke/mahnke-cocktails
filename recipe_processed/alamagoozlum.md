@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Alamagoozlum"
-permalink: "/recipe/alamagoozlum.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: alamagoozlum
 stars: 0
-category: "Genever, Jamaican Rum, Yellow Chartreuse "
+base_spirits: "Genever, Jamaican Rum, Yellow Chartreuse "
 youtube: "8H-IBvOX8EI"
 excerpt: |
   The Alamagoozlum is a vintage cocktail attributed to J.P. Morgan. It's a complex drink with a unique flavor profile, combining a variety of spirits and liqueurs.<br /><br />

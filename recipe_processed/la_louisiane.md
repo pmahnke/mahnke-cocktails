@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "La Louisiane"
-permalink: "/recipe/la_louisiane.html"
+categories: [ cocktail ]
+eras: [ new_orleans, classic]
 iconfile: la_louisiane
 stars: 5
-category: "Rye, Bénédictine "
+base_spirits: "Rye, Bénédictine "
 youtube: "9XLtsOKT6oY"
 excerpt: |
   The La Louisiane is a classic New Orleans cocktail with a rich history dating back to the 19th century. It is a rye-based Sweet Manhattan made even sweeter with herbal Bénédictine liqueur and bittered with Peychaud's and absinthe.

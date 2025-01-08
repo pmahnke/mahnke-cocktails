@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hurricane"
-permalink: "/recipe/hurricane.html"
+categories: [ cocktail ]
+eras: [ new_orleans ]
 iconfile: hurricane
 stars: 4
-category: "Jamaican Rum, Dark Rum "
+base_spirits: "Jamaican Rum, Dark Rum "
 youtube: "3b2-jFhtCyQ"
 excerpt: |
   The rum-spiked Hurricane cocktail is potent and fruity. Mix one up for a trip to New Orleans without the plane ticket.

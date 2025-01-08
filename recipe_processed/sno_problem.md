@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "S'no Problem"
+categories: [ cocktail ]
 permalink: "/recipe/sno_problem.html"
 iconfile: sno_problem
 stars: 0
-category: "Navy Strength Rum, Bourbon "
+base_spirits: "Navy Strength Rum, Bourbon "
 youtube: "s30L-iu171E"
 excerpt: |
   A blend of Jamaican rum, bourbon whiskey, rich demerara syrup, Angostura bitters, black tea, and oat milk.

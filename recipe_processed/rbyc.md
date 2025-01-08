@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Royal Bermuda Yacht Club"
+categories: [ cocktail ]
 permalink: "/recipe/royal_bermuda_yacht_club.html"
 iconfile: rbyc
 stars: 0
-category: "Demerara Rum, Light Rum"
+base_spirits: "Demerara Rum, Light Rum"
 youtube: "y3s1xmGfLkw"
 excerpt: |
   Created at the eponymous club, established in Bermuda in 1844 and largely frequented by British Army Officers. Royal Bermuda Yacht Club cocktail first appears in Crosby Gaige's 1941 <i>Cocktail Guide & Ladies' Companion</i> as the favourite cocktail of Mary Mabon, then a writer for <i>Harper's Bazaar</i> fashion magazine.

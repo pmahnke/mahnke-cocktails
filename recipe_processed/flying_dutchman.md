@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Flying Dutchman"
+categories: [ cocktail ]
 permalink: "/recipe/flyingdutchman.html"
 iconfile: flying_dutchman
 stars: 0
-category: "Genever, Yellow Chartreuse, Bénédictine"
+base_spirits: "Genever, Yellow Chartreuse, Bénédictine"
 youtube: "yh_WeCrFuRA"
 excerpt: |
   The Flying Dutchman from bartender Brian MacGregor features Bols genever, Benedictine and yellow Chartreuse. It’s easy to make but complex in flavor.

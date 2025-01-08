@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Cigar"
-permalink: "/recipe/cigar.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: cigar
 stars: 0
-category: "Single Malt Scotch, Aperol "
+base_spirits: "Single Malt Scotch, Aperol "
 youtube: "gZdT2GBf91I"
 excerpt: |
   The Cigar Cocktail is a classic cocktail that is designed to complement the flavors of a cigar. It is typically made with a blend of dark spirits, such as whiskey or rum, and sweet vermouth.

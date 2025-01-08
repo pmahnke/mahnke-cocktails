@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Spring Forward"
+categories: [ cocktail ]
 permalink: "/recipe/spring_forward.html"
 iconfile: spring_forward
 stars: 0
-category: "Pisco, Gin, Cocchi Americano"
+base_spirits: "Pisco, Gin, Cocchi Americano"
 youtube: "RRvfkkSjceM"
 excerpt: |
   The Spring Forward cocktail is a light and refreshing drink that's perfect for the warmer months.

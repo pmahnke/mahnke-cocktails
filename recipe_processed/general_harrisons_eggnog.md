@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "General Harrison’s Eggnog"
+categories: [ eggnog, cocktail]
 permalink: "/recipe/general_harrisons_eggnog.html"
 iconfile: general_harrisons_eggnog
 stars: 0
-category: "Demerara Rum, Allspice Dram, Dry Hard Cider"
+base_spirits: "Demerara Rum, Allspice Dram, Dry Hard Cider"
 youtube: "s7Rcx7Fekn4"
 excerpt: |
   This recipe came from Dale DeGroff in December 2012 who said: "A personal favourite, adapted from a recipe from Jerry Thomas' 1862 <i>How to Mix Drinks</i>: a totally different take on eggnog – made as a single-serve drink it includes a raw egg, so you need to shake the hell out of it."

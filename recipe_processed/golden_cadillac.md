@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Golden Cadillac"
-permalink: "/recipe/golden_cadillac.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: golden_cadillac
 stars: 0
-category: "Galliano, White Crème de Cacao"
+base_spirits: "Galliano, White Crème de Cacao"
 youtube: "x6QiK4firC4"
 excerpt: |
   Created in 1952 by bartender Frank Cline at Poor Red's, it is among the best cocktails to feature Galliano.

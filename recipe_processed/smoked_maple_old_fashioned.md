@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Smoked Maple Old Fashioned"
-permalink: "/recipe/smoked_maple_old_fashioned.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: smoked_maple_old_fashioned
 stars: 0
-category: "Bourbon "
+base_spirits: "Bourbon "
 youtube: "EOIWzKAQk9w"
 excerpt: |
   The Smoked Maple Old Fashioned is a variation of the classic cocktail that adds a smoky, sweet, and savory twist.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Martinez"
-permalink: "/recipe/martinez.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: martinez
 stars: 0
-category: "Gin, Maraschino Liqueur"
+base_spirits: "Gin, Maraschino Liqueur"
 youtube: 'MuxY7\_-_U_8'
 excerpt: |
   Composed of gin, sweet vermouth, maraschino liqueur and bitters, the classic Martinez cocktail dates back to the late 1800s.

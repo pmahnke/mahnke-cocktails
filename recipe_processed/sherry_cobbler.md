@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sherry Cobbler"
-permalink: "/recipe/sherry_cobbler.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: sherry_cobbler
 stars: 0
-category: "Oloroso Sherry "
+base_spirits: "Oloroso Sherry "
 youtube: "f7SpTmbMOsQ"
 excerpt: |
   Chill down with this old-school, low-alcohol sipper. The Sherry Cobbler is a classic, delicious alternative to the Mint Julep.

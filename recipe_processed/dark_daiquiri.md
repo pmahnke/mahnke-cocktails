@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Dark Daiquiri"
-permalink: "/recipe/dark_daiquiri.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: dark_daiquiri
 stars: 5
-category: "Jamaican Rum "
+base_spirits: "Jamaican Rum "
 youtube: "71jQRf5UrpE"
 excerpt: |
   The Dark Daiquiri is a classic cocktail that offers a rich and flavorful twist on the traditional Daiquiri. It's made with dark rum instead of light rum, adding a depth of molasses and spice notes to the drink.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hugo Spritz"
+categories: [ spritz, cocktail]
 permalink: "/recipe/hugo_spritz.html"
 iconfile: hugo_spritz
 stars: 0
-category: "Elderflower Liqueur, Prosecco"
+base_spirits: "Elderflower Liqueur, Prosecco"
 youtube: "BUb54paVf0s"
 excerpt: |
   The Hugo Spritz is a refreshing and easy-to-make cocktail that originated in South Tyrol, Italy. It's a light and floral drink, perfect for sipping on a warm day.

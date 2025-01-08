@@ -41,6 +41,7 @@ layout: default
     {% if page.excerpt %}
         <div id="excerpt">
             <p>{{ page.excerpt }}</p>
+            <p>{% for s in page.style %}{{ s }}, {% endfor %}</p>
         </div>
     {% endif %}
 
@@ -78,7 +79,7 @@ layout: default
         {% if page.youtube_embed %}
         <div id="youtube" style="display: none;">
             <object
-                data="{{ page.youtube_embed }}"
+                data="{{ page.youtube }}"
                 type="text/html"
                 width="1120"
                 height="630"

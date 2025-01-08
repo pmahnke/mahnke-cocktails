@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Perfect Manhattan"
-permalink: "/recipe/perfect_manhattan.html"
+categories: [ martini, cocktail]
+eras: [ classic ]
 iconfile: perfect_manhattan
 stars: 0
-category: "Rye "
+base_spirits: "Rye "
 youtube: "eWESf1b317Y&t=278s"
 excerpt: |
   Discover your new favorite cocktail recipe or learn how to make a classic drink—like the Old Fashioned, mojito, or White Russian—right at home.

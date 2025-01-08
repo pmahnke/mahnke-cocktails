@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Queen's Park Swizzle"
-permalink: "/recipe/queens_park_swizzle.html"
+categories: [ frappe_swizzle, cocktail]
+eras: [ classic ]
 iconfile: queens_park_swizzle
 stars: 4
-category: "Demerara Rum "
+base_spirits: "Demerara Rum "
 youtube: "ox1-C1owN80"
 excerpt: |
   The Queen's Park Swizzle is a classic rum cocktail that originated in Trinidad.

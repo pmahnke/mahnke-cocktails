@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sloe Gin Fizz"
-permalink: "/recipe/sloe_gin_fizz.html"
+categories: [ campari, fizz, cocktail]
+eras: [ classic ]
 iconfile: sloe_gin_fizz
 stars: 0
-category: "Sloe Gin "
+base_spirits: "Sloe Gin "
 youtube: "gGlTXp_oujk"
 excerpt: |
   The Sloe Gin Fizz cocktail is a classic for a reason. See how the tartness of sloe berries influence this tasty drink.

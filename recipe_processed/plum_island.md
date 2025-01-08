@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Plum Island"
+categories: [ cocktail ]
 permalink: "/recipe/plum_island.html"
 iconfile: plum_island
 stars: 4
-category: "Lillet Rouge, Gold Rum, Absinthe "
+base_spirits: "Lillet Rouge, Gold Rum, Absinthe "
 youtube: 'lWDA\_\_gwSow'
 excerpt: |
   Named for an island in Green Bay, this was created by Anders Ericson.

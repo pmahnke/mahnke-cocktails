@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sazerac"
-permalink: "/recipe/sazerac.html"
+categories: [ cocktail ]
+eras: [ new_orleans ]
 iconfile: sazarac
 stars: 4
-category: "Rye, Cognac "
+base_spirits: "Rye, Cognac "
 youtube: "dJ-sAEzw9Jc"
 excerpt: |
   The Sazerac is a local variation of a cognac or whiskey cocktail originally from New Orleans, named for the Sazerac de Forge et Fils brand of cognac brandy.

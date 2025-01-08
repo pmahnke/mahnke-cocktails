@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Angel Face"
-permalink: "/recipe/angel_face.html"
+categories: [ cocktail ]
+eras: [ modern ]
 iconfile: angel_face
 stars: 0
-category: "Gin, Apple Brandy, Apricot Liqueur"
+base_spirits: "Gin, Apple Brandy, Apricot Liqueur"
 youtube: "2nHl1pBETt8"
 excerpt: |
   Adapted from a recipe in Harry Craddock</a>'s 1930 <i>The Savoy Cocktail Book</i> which stipulates "Shake well and strain into cocktail glass," rather than to stir as modern convention dictates.

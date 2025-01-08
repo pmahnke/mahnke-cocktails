@@ -2,10 +2,11 @@
 layout: recipe
 type: non-alcoholic
 title: "Cherry Zip"
-permalink: "/recipe/cherryzip.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: cherry_zip
 stars: 0
-category: "Cherry Juice, Orgeat, Tea, Lemon"
+base_spirits: "Cherry Juice, Orgeat, Tea, Lemon"
 youtube: "ZE3G8aUyOn0"
 excerpt: |
   A twist on the classic Caipiroska, substituting the traditional muddled limes with sweet cherries. The result is a tangy and fruity cocktail with a subtle sweetness.

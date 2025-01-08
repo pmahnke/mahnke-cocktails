@@ -3,7 +3,8 @@ layout: recipe
 title: "15 Bottles to Build your Bar!"
 type: list
 iconfile: barlist2
-permalink: "/recipe/barlist2.html"
+categories: [ campari ]
+eras: [ new_orleans ]
 youtube: "v=7Z_mZ6wq1Rw"
 ---
 

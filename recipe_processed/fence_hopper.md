@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Fence Hopper"
+categories: [ beer, cocktail]
 permalink: "/recipe/fence_hopper.html"
 iconfile: fence_hopper
 stars: 0
-category: "Bourbon, IPA "
+base_spirits: "Bourbon, IPA "
 youtube: "Eg7DLBgwJqM"
 excerpt: |
   The Fence Hopper is a cocktail that blends bourbon whiskey with apple cider, maple syrup, lemon juice, Angostura bitters, and IPA beer.

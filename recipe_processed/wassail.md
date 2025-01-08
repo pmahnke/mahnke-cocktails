@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Wassail"
+categories: [ beer, cocktail]
 permalink: "/recipe/wassail.html"
 iconfile: wassail
 stars: 0
-category: "Apple Brandy, Amontillado Sherry, Dark Ale "
+base_spirits: "Apple Brandy, Amontillado Sherry, Dark Ale "
 youtube: "9cp5upHowwI"
 excerpt: |
   Wassail is a warm, spiced beverage with a rich history dating back to ancient England. It's traditionally made with mulled cider, ale, or wine, sweetened with honey or sugar, and flavored with warming spices like cinnamon, cloves, and nutmeg. It is often spiked with brandy and/or sherry.

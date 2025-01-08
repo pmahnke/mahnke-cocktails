@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Trinidad Sour"
+categories: [ sour, cocktail]
 permalink: "/recipe/trinidad_sour.html"
 iconfile: trinidad_sour
 stars: 0
-category: "Angostura Aromatic Bitters, Rye "
+base_spirits: "Angostura Aromatic Bitters, Rye "
 youtube: '\_BEaYWQjSu0'
 excerpt: |
   Love Angostura bitters? Try your hand at a drink that uses them as the base spirit rather than embellishment.

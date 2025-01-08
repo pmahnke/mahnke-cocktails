@@ -1,0 +1,32 @@
+key	name	search
+eras	new_orleans	orleans
+eras	prohibition	(^|[^-])\bprohibition\b
+eras	classic	(^|[^a-zA-Z])classic\b(?![\w\s]*modern)
+eras	modern	modern
+eras	anders	Anders Erickson classic
+eras	anders	Anders original
+eras	anders	original of Anders Erickson
+eras	anders	created by Anders Erickson
+categories	eggnog	eggnog
+categories	beer	beer
+categories	beer	stout
+categories	beer	ipa
+categories	coffee	coffee
+categories	tiki	tiki
+categories	punch	punch
+categories	sour	sour
+categories	fizz	fizz
+categories	buck	buck
+categories	campari	campari
+categories	daisy	daisy
+categories	highball	highball
+categories	flip	flip
+categories	smash	smash
+categories	collins	collins
+categories	frappe_swizzle	swizzle
+categories	frappe_swizzle	frapp
+categories	champagne	champagne
+categories	spritz	spritz
+categories	martini	martini
+categories	toddy	toddy
+categories	cocktail	cocktail

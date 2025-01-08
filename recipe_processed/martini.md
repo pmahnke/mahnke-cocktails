@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Martini"
-permalink: "/recipe/martini.html"
+categories: [ martini, cocktail]
+eras: [ classic ]
 iconfile: martini
 stars: 4
-category: "Gin "
+base_spirits: "Gin "
 youtube: "izZsjqnADAA"
 excerpt: |
   The Martini is a classic cocktail known for its elegance and simplicity. It is typically made with gin and vermouth, although vodka is a popular alternative. The drink is stirred with ice and strained into a cocktail glass, often garnished with an olive or a lemon twist.<br /><br />

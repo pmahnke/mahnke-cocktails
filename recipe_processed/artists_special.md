@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Artist's Special"
+categories: [ cocktail ]
 permalink: "/recipe/artists_special.html"
 iconfile: artists_special
 stars: 4
-category: "Bourbon, Amontillado Sherry "
+base_spirits: "Bourbon, Amontillado Sherry "
 youtube: "-Uhu81wqOl8"
 excerpt: |
   A voraciously pink Parisian special from the 1920s, this cocktail first appears in print in Harry MacElhone's 1927 <em>Barflies and Cocktails</em>.<br/><br/>

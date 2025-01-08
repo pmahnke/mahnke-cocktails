@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Monte Carlo"
+categories: [ cocktail ]
 permalink: "/recipe/monte_carlo.html"
 iconfile: wardroom
 stars: 0
-category: "Rye, Bénédictine"
+base_spirits: "Rye, Bénédictine"
 youtube: "u1PQ-L6zvb8&t=15s"
 excerpt: |
   The Monte Carlo first appears in print in David Embury's 1948 <i>The Fine Art of Mixing Drinks</i> as "<i>1 part Bénédictine, 2 parts Rye, 1 or 2 dashes Angostura to each drink. Shake with cracked ice</i>".

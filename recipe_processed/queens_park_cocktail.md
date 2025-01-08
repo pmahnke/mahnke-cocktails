@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Queen's Park Hotel Super Cocktail"
+categories: [ cocktail ]
 permalink: "/recipe/queens_park_cocktail.html"
 iconfile: queens_park_cocktail
 stars: 0
-category: "Gold Rum "
+base_spirits: "Gold Rum "
 youtube: "ASTV1OEXhbE"
 excerpt: |
   The Queen's Park Hotel Super Cocktail, also known as the Trinidadian Daiquiri, is a complex and flavorful drink that blends the sweetness of grenadine and vermouth with the tartness of lime juice and the spiciness of Angostura bitters.

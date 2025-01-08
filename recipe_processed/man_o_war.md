@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Man o’ War"
+categories: [ cocktail ]
 permalink: "/recipe/man_o_war.html"
 iconfile: man_o_war
 stars: 0
-category: "Bourbon, Oloroso Sherry"
+base_spirits: "Bourbon, Oloroso Sherry"
 youtube: "1V0-c6u4xJA"
 excerpt: |
   The Man o’ War cocktail is named for one of the finest racehorses in history. This citrusy bourbon drink is a winner.

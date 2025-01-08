@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Glögg"
+categories: [ cocktail ]
 permalink: "/recipe/glogg.html"
 iconfile: glogg
 stars: 0
-category: "Red Wine, Ruby Port, Cognac "
+base_spirits: "Red Wine, Ruby Port, Cognac "
 youtube: "2Xox9vdRGtM"
 excerpt: |
   Glögg is a popular Scandinavian mulled wine made with red wine, port, spices, fruit and nuts. Make this comforting hot cocktail when the weather is cold to warm you up and lift your spirits.

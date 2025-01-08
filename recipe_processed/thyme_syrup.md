@@ -4,6 +4,7 @@ author: Anders Erickson Cocktail Recipes
 title: "Thyme-Infused Syrup"
 type: syrup
 iconfile: thyme_syrup
+categories: [ cocktail ]
 permalink: "/recipe/thyme_syrup.html"
 youtube: "ZE3G8aUyOn0"
 excerpt: |

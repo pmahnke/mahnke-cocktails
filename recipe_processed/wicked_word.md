@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Wicked Word"
+categories: [ cocktail ]
 permalink: "/recipe/wicked_word.html"
 iconfile: wicked_word
 stars: 0
-category: "Cognac, Aperol, Black Sambuca"
+base_spirits: "Cognac, Aperol, Black Sambuca"
 youtube: "6Ic0zmBpUQw"
 excerpt: |
   The Wicked Word is a flaming cocktail that is basically an licoricy Oaxaca Old Fashioned.

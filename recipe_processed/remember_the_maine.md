@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Remember the Maine"
+categories: [ martini, cocktail]
 permalink: "/recipe/remember_the_maine.html"
 iconfile: remember_the_maine
 stars: 3
-category: "Rye "
+base_spirits: "Rye "
 youtube: "I2_xijYpP_Y"
 excerpt: |
   If you like a Rye Manhattan, you’ll love this historic variation that adds cherry liqueur and a bit of absinthe.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Frozoni"
-permalink: "/recipe/frozoni.html"
+categories: [ campari, cocktail]
+eras: [ classic, modern]
 iconfile: frozoni
 stars: 0
-category: "Gin, Campari, Prosecco"
+base_spirits: "Gin, Campari, Prosecco"
 youtube: "ipHnOhkGWug"
 excerpt: |
   The Frozoni is a frozen variation of the Enzoni cocktail, a modern classic that combines muddled grapes with Campari, gin, lemon juice, and simple syrup. The Frozoni adds frozen grapes and Prosecco or other sparkling wine to the mix, creating a refreshing and bubbly slushy drink.

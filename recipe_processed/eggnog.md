@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Eggnog"
+categories: [ eggnog, cocktail]
 permalink: "/recipe/eggnog.html"
 iconfile: eggnog
 stars: 4
-category: "Rum, Amontillado Sherry "
+base_spirits: "Rum, Amontillado Sherry "
 youtube: "s30L-iu171E"
 excerpt: |
   Eggnog is a creamy, festive cocktail that's perfect for the holiday season. It's made with a base of eggs, sugar, milk, and cream, and is typically flavored with spices like nutmeg, cinnamon, and cloves. Alcohol, such as brandy, rum, or bourbon, is often added to give it a kick.

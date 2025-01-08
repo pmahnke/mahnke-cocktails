@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Shrunken Skull"
-permalink: "/recipe/shrunken_skull.html"
+categories: [ tiki, cocktail]
+eras: [ classic ]
 iconfile: shrunken_skull
 stars: 0
-category: "Demerara Rum, Gold Rum "
+base_spirits: "Demerara Rum, Gold Rum "
 youtube: "pTBVVi20ONk"
 excerpt: |
   The Shrunken Skull is a classic Tiki cocktail that is a bit like a Daiquiri, but with a touch of mystery and a spooky presentation.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "La Rosita"
-permalink: "/recipe/la_rosita.html"
+categories: [ campari, cocktail]
+eras: [ classic ]
 iconfile: la_rosita
 stars: 0
-category: "Reposado Tequila, Campari "
+base_spirits: "Reposado Tequila, Campari "
 youtube: "UhRb_xqCXwQ"
 excerpt: |
   The Rosita is a classic cocktail that has been around for decades. It is a tequila-based drink that is similar to a Negroni, but with a few key differences. The Rosita uses equal parts tequila, Campari, and a blend of sweet and dry vermouth. It is typically garnished with an orange twist.

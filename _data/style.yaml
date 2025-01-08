@@ -1,0 +1,15 @@
+- name: Classic
+  slug: classic
+  description: Traditional cocktails.
+- name: Modern
+  slug: modern
+  description: Modern interpretations of classic cocktails.
+- name: Prohibition
+  slug: prohibition
+  description: Prohibition era cocktail recipes.
+- name: Sour
+  slug: sour
+  description: Sour cocktail recipes.
+- name: Highball
+  slug: highball
+  description: Highball cocktails recipes.

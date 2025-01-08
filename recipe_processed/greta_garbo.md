@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Greta Garbo"
+categories: [ punch, cocktail]
 permalink: "/recipe/greta_garbo.html"
 iconfile: greta_garbo
 stars: 0
-category: "Light Rum, Maraschino Liqueur -OR- Gin, Swedish Punch"
+base_spirits: "Light Rum, Maraschino Liqueur -OR- Gin, Swedish Punch"
 youtube: "79htbyQ8nDY&t=62s"
 excerpt: |
   The origins of this cocktail are unknown but it is named after the Swedish film actress and Hollywood star. Born Greta Lovisa Gustafsson on the 18th September 1905, Greta Garbo received three Academy Award nominations for Best Actress and an honorary one in 1954. She was ranked the fifth greatest female star of all time by the American Film Institute in 1999, behind Katharine Hepburn, Bette Davis, Audrey Hepburn, and Ingrid Bergman.<br /><br />

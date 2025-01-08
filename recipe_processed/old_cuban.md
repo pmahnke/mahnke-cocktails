@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Old Cuban"
-permalink: "/recipe/old_cuban.html"
+categories: [ champagne, cocktail]
+eras: [ classic, modern]
 iconfile: old_cuban
 stars: 0
-category: "Champagne, Gold Rum "
+base_spirits: "Champagne, Gold Rum "
 youtube: "IAaiRENeyvc&t=639s"
 excerpt: |
   It’s not quite a Mojito, not quite a French 75. This is the Old Cuban, a modern-classic cocktail from New York bartending legend Audrey Saunders.

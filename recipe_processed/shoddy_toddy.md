@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Shoddy Toddy"
-permalink: "/recipe/shoddy_toddy.html"
+categories: [ toddy, cocktail]
+eras: [ anders ]
 iconfile: shoddy_toddy
 stars: 0
-category: "Gin, Bénédictine"
+base_spirits: "Gin, Bénédictine"
 youtube: "CfKrIWRMrNA"
 excerpt: |
   This is an Anders original cocktail.

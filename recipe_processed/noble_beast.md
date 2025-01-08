@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Noble Beast"
-permalink: "/recipe/noble_beast.html"
+categories: [ coffee, flip, cocktail]
+eras: [ classic, anders]
 iconfile: noble_beast
 stars: 0
-category: "Angostura Aromatic Bitters "
+base_spirits: "Angostura Aromatic Bitters "
 youtube: "pzmVLMzQjNo"
 excerpt: |
   The Noble Beast is a cocktail created by Anders Erickson. It's a riff on the classic Sherry Flip, incorporating a whole egg for a creamy texture

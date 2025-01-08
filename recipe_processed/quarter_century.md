@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Quarter Century"
+categories: [ campari, champagne, cocktail]
 permalink: "/recipe/quarter_century.html"
 iconfile: quarter_century
 stars: 0
-category: "Campari. Apricot Liqueur, Absinthe"
+base_spirits: "Campari. Apricot Liqueur, Absinthe"
 youtube: "S7DGgeFsjyE"
 excerpt: |
   This is an Anders Erickson original cocktail created for New Year's Day, 2025.

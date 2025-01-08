@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Black-Eyed Susan"
-permalink: "/recipe/black_eyed_susan.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: black_eyed_susan
 stars: 0
-category: "Bourbon, Vodka"
+base_spirits: "Bourbon, Vodka"
 youtube: "1V0-c6u4xJA"
 excerpt: |
   Discover your new favorite cocktail recipe or learn how to make a classic drink—like the Old Fashioned, mojito, or White Russian—right at home.

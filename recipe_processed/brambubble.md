@@ -1,10 +1,11 @@
 ---
 layout: recipe
 title: "Brambubble"
+categories: [ champagne, cocktail]
 permalink: "/recipe/brambubble.html"
 iconfile: brambubble
 stars: 0
-category: "Champagne, Gin, Crème de Mûre"
+base_spirits: "Champagne, Gin, Crème de Mûre"
 youtube: "IAaiRENeyvc&t=639s"
 excerpt: |
   The Brambubble is a refreshing and vibrant cocktail that's perfect for summer. It's made with blackberry brandy, lemon juice, and ginger ale, and it's garnished with a blackberry and a lemon wheel.

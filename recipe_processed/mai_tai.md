@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mai Tai"
+categories: [ tiki, cocktail]
 permalink: "/recipe/mai_tai.html"
 iconfile: mai_tai
 stars: 4.5
-category: "Jamaican Rum, Rhum Ageicole "
+base_spirits: "Jamaican Rum, Rhum Ageicole "
 youtube: "gYJsPE1demY"
 excerpt: |
   It’s time you had a proper Mai Tai from Latitude 29 and Jeff “Beachbum” Berry, the renowned Tiki historian.

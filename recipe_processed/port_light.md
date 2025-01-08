@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Port Light"
+categories: [ tiki, cocktail]
 permalink: "/recipe/port_light.html"
 iconfile: port_light
 stars: 0
-category: "Bourbon"
+base_spirits: "Bourbon"
 youtube: "-DnpmdGBmgs&t=433s"
 excerpt: |
   The Port Light is a unique tiki cocktail that deviates from the traditional rum base by using bourbon instead. It was created by Sandro Conti for the Kahiki restaurant in Columbus, Ohio, in the early 1960s.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Gunshop Fizz"
+categories: [ fizz, cocktail]
 permalink: "/recipe/gunshop_fizz.html"
 iconfile: gunshop_fizz
 stars: 0
-category: "Peychaud's Bitters"
+base_spirits: "Peychaud's Bitters"
 youtube: "NYKEbNf5ksg"
 excerpt: |
   Markz Pazuniak and Kirk Estopinal's wholly unique take on a Pimm's Cup cocktail recipe calls for two full ounces of Peychaud's bitters.

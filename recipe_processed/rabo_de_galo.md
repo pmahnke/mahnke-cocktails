@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rabo De Galo"
-permalink: "/recipe/rabo_de_galo.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: rabo_de_galo
 stars: 0
-category: "Cachaça, Cynar Amaro"
+base_spirits: "Cachaça, Cynar Amaro"
 youtube: "YFqEvNdPrX8"
 excerpt: |
   The Rabo de Galo is a classic Brazilian cocktail known for its simplicity and bold flavors.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brandy Crusta"
-permalink: "/recipe/brandycrusta.html"
+categories: [ cocktail ]
+eras: [ new_orleans, classic]
 iconfile: brandy_crusta
 stars: 4
-category: "Cognac, Maraschino Liqueur"
+base_spirits: "Cognac, Maraschino Liqueur"
 youtube: "N0aPVPdLyQc"
 excerpt: |
   The Brandy Crusta is one of the oldest classic cocktails on record and a liquid calling card of its hometown of New Orleans.

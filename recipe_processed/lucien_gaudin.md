@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lucien Gaudin"
-permalink: "/recipe/lucien_gaudin.html"
+categories: [ campari, cocktail]
+eras: [ classic ]
 iconfile: lucien_gaudin
 stars: 3
-category: "Plymouth Gin, White Vermouth, Campari "
+base_spirits: "Plymouth Gin, White Vermouth, Campari "
 youtube: "NLF7z6MHMa0"
 excerpt: |
   The Lucien Gaudin is a classic gin cocktail named after the French Olympic fencer. It has the bitterness of Campari with gin, a nod to the Negroni, but with dry vermouth rather than sweet vermouth.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Yule Tidal Wave"
+categories: [ punch, cocktail]
 permalink: "/recipe/yule_tidal_wave.html"
 iconfile: yule_tidal_wave
 stars: 0
-category: "Rum, Bourbon, Cognac, Pear Brandy, Licor 43, Allspice Dram"
+base_spirits: "Rum, Bourbon, Cognac, Pear Brandy, Licor 43, Allspice Dram"
 youtube: "s30L-iu171E"
 excerpt: |
   This holiday punch, which combines allspice and vanilla with the bright zing of lemon and pineapple.

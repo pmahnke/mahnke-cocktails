@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Charles Dickens Punch"
-permalink: "/recipe/charles_dickens_punch.html"
+categories: [ punch, cocktail]
+eras: [ classic ]
 iconfile: charles_dickens_punch
 stars: 0
-category: "Over Proof Rum, Cognac "
+base_spirits: "Over Proof Rum, Cognac "
 youtube: "BXGS7Ai2hec"
 excerpt: |
   The classic Charles Dickens Punch is a fiery and flavorful concoction that was a favorite of the renowned author himself. While the exact recipe may have varied over time, the basic elements remain the same: a blend of rum, brandy, lemon, sugar, and hot water that is set on fire.

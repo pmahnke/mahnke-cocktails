@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lumberjack in Love"
+categories: [ beer, cocktail]
 permalink: "/recipe/lumberjack_in_love.html"
 iconfile: lumberjack_in_love
 stars: 0
-category: "Rye, Oktoberfest, Allspice Dram"
+base_spirits: "Rye, Oktoberfest, Allspice Dram"
 youtube: "Eg7DLBgwJqM"
 excerpt: |
   The Lumberjack in Love is a cocktail that combines the flavors of rye whiskey, allspice dram, cherry juice, lemon juice, semi-rich simple syrup, and beer.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Harvest Moon Punch (1/2 batch)"
-permalink: "/recipe/harvest_moon_punch.html"
+categories: [ punch, cocktail]
+eras: [ classic, anders]
 iconfile: harvest_moon_punch
 stars: 0
-category: "Jamacian Rum, Apple Brandy, Pear Liqueur, Allspice Dram"
+base_spirits: "Jamacian Rum, Apple Brandy, Pear Liqueur, Allspice Dram"
 youtube: "S5ipwEU7uHo"
 excerpt: |
   An original of Anders Erickson, based on a classic punch build. Black tea adds volume, and cuts down on the alcohol content.

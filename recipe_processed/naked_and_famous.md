@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Naked & Famous"
+categories: [ cocktail ]
 permalink: "/recipe/naked_and_famous.html"
 iconfile: naked_and_famous
 stars: 0
-category: "Mezcal, Yellow Chartreuse, Aperol "
+base_spirits: "Mezcal, Yellow Chartreuse, Aperol "
 youtube: "70cS-bRH9kA"
 excerpt: |
   With Aperol, mezcal, Yellow Chartreuse, and lime juice, the summery Naked and Famous cocktail is a refreshing drink to serve year-round.

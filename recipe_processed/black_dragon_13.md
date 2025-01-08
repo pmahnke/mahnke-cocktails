@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Black Dragon No. 13"
+categories: [ beer, coffee, cocktail]
 permalink: "/recipe/black_dragon_13.html"
 iconfile: black_dragon_13
 stars: 0
-category: "Cognac, Amaro, Stout "
+base_spirits: "Cognac, Amaro, Stout "
 youtube: "u0N9FFJ1i5c"
 excerpt: |
   The Black Dragon No. 13 is a unique and intriguing cocktail that combines the boldness of coffee and stout with the sophistication of cognac and amaro.

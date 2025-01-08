@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mint Julep"
+categories: [ cocktail ]
 permalink: "/recipe/mint_julep.html"
 iconfile: mint_julep
 stars: 4
-category: "Bourbon "
+base_spirits: "Bourbon "
 youtube: "xfLW5Na9QpM"
 excerpt: |
   The Mint Julep is the signature drink of the Kentucky Derby. But this easy-to-make bourbon cocktail shouldn’t be reserved for only one day a year.

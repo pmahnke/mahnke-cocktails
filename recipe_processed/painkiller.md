@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Painkiller (Inspired)"
+categories: [ cocktail ]
 permalink: "/recipe/painkiller.html"
 iconfile: painkiller
 stars: 4
-category: "Demerara Rum, Jamaican Rum "
+base_spirits: "Demerara Rum, Jamaican Rum "
 youtube: "XYfHK3goJLk"
 excerpt: |
   The Painkiller is a rich and fruity tropical drink that is a specialty of the British Virgin Islands. A relative of the Piña Colada, there are a few key differences you need to know in order to make this drink right.

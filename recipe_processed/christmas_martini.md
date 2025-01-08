@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Christmas Martini"
-permalink: "/recipe/christmas_martini.html"
+categories: [ martini, cocktail]
+eras: [ classic ]
 iconfile: christmas_martini
 stars: 0
-category: "Gin, Cocchi Americano"
+base_spirits: "Gin, Cocchi Americano"
 youtube: "ydBN6-j1I3M"
 excerpt: |
   The Christmas Martini is a festive twist on the classic cocktail, incorporating flavors reminiscent of the holiday season.

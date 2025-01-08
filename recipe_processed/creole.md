@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Creole"
-permalink: "/recipe/creole.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: creole
 stars: 4
-category: "Rye, Bénédictine, Amaro "
+base_spirits: "Rye, Bénédictine, Amaro "
 youtube: "BTPaTmkJxbM"
 excerpt: |
   The Creole cocktail is a classic cocktail with a rich history dating back to the early 1900s. It is known for its complex and balanced flavor profile, combining the sweetness of vermouth with the bitterness of Amaro and the herbal notes of Bénédictine.

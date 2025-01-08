@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Morning Glory Fizz"
-permalink: "/recipe/morning_glory_fizz.html"
+categories: [ fizz, sour, cocktail]
+eras: [ classic ]
 iconfile: morning_glory_fizz
 stars: 0
-category: "Single Malt Scotch, Absinthe "
+base_spirits: "Single Malt Scotch, Absinthe "
 youtube: "YMY0LtEq8mg"
 excerpt: |
   This classic, sour and aromatic cocktail is traditionally considered a morning after a pick-me-up. Want to make the perfect Gin Fizz? It's all in the shake.

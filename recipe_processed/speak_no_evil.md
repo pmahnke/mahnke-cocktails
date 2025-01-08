@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Speak No Evil"
+categories: [ cocktail ]
 permalink: "/recipe/speak_no_evil.html"
 iconfile: speak_no_evil
 stars: 0
-category: "Reposado Tequila, Mezcal, Allspice Dram"
+base_spirits: "Reposado Tequila, Mezcal, Allspice Dram"
 youtube: "-DnpmdGBmgs&t=433s"
 excerpt: |
   The Speak No Evil cocktail is a spicy, smoky, and slightly sweet drink that features mezcal as its base spirit.

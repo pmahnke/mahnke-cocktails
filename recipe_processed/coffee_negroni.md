@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Coffee Negroni"
-permalink: "/recipe/coffee_negroni.html"
+categories: [ campari, coffee, cocktail]
+eras: [ modern ]
 iconfile: coffee_negroni
 stars: 0
-category: "Gin, Coffee Liqueur, Campari"
+base_spirits: "Gin, Coffee Liqueur, Campari"
 youtube: "41iPKwfTE9E"
 excerpt: |
   A coffee Negroni is a modern, bittersweet, gin-forward cocktail that's made with coffee liqueur, gin, Campari, and sweet vermouth.

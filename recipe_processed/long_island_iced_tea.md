@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Long Island Iced Tea"
+categories: [ cocktail ]
 permalink: "/recipe/long_island_iced_tea.html"
 iconfile: long_island_iced_tea
 stars: 4
-category: "Vodka, Light Rum, Gin, Blanco Taquilla"
+base_spirits: "Vodka, Light Rum, Gin, Blanco Taquilla"
 youtube: "jLTLBQqWzq8"
 excerpt: |
   The Long Island Iced Tea is as boozy as cocktails get, with a guaranteed hangover. But with four liquors, one liqueur, lemon and cola, it somehow works.

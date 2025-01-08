@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Millionaire Cocktail #1"
+categories: [ cocktail ]
 permalink: "/recipe/millionaire_cocktail.html"
 iconfile: millionaire_cocktail
 stars: 0
-category: "Jamaican Rum, Apricot Liqueur"
+base_spirits: "Jamaican Rum, Apricot Liqueur"
 youtube: "CZ5KSKO3sbQ"
 excerpt: |
   Recipe adapted from Harry Craddock's 1930 <i>The Savoy Cocktail Book</i>. Craddock also lists a "Millionaire Cocktail (No.2)" as follows: 

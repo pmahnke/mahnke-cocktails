@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Manhattan"
-permalink: "/recipe/manhattan.html"
+categories: [ martini, cocktail]
+eras: [ classic ]
 iconfile: manhattan
 stars: 3
-category: Rye
+base_spirits: Rye
 youtube: "eWESf1b317Y&t=278s"
 youtube_embed: "https://www.youtube.com/embed/eWESf1b317Y?si=fVWUHbXnEHzF820P"
 excerpt: |

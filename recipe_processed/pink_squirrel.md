@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pink Squirrel"
+categories: [ cocktail ]
 permalink: "/recipe/pink_squirrel.html"
 iconfile: pink_squirrel
 stars: 0
-category: "Crème De Noyaux, White Crème De Cacao "
+base_spirits: "Crème De Noyaux, White Crème De Cacao "
 youtube: "kRPWDOCVByk&t=164s"
 excerpt: |
   The Pink Squirrel cocktail is boozy, creamy and easy to make. It combines the unusual liqueur, creme de noyaux, with creme de cacao and heavy cream, and ties to a legendary Midwest cocktail bar.

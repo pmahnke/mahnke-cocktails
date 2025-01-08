@@ -1,13 +1,13 @@
 ---
-
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Doctor Funk"
-permalink: '/recipe/doctor_funk.html'
+categories: [ cocktail ]
+permalink: "/recipe/doctor_funk.html"
 iconfile: doctor_funk
 stars: 0
-category: 'Jamaican Rum, Gold Rum, Absinthe'
-youtube: 'aMXyG72irqI'
+base_spirits: "Jamaican Rum, Gold Rum, Absinthe"
+youtube: "aMXyG72irqI"
 excerpt: |
   Created by Don Beach in the early 1950s at his The Don The Beachcomber restaurant in Palm Springs, this drink is named after Doctor Bernard Funk who was Robert Louis Stevenson's physician in Samoa. The good doctor is said to have concocted and prescribed an absinthe laced limeade so inspiring this cocktail.
 ---

@@ -3,10 +3,11 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Passion at the Disco"
+categories: [ cocktail ]
 permalink: "/recipe/passion_at_the-disco.html"
 iconfile: passion_at_the_disco
 stars: 0
-category: "Lime, Passion Fruit Syrup, Tonic Water"
+base_spirits: "Lime, Passion Fruit Syrup, Tonic Water"
 youtube: "ZE3G8aUyOn0"
 excerpt: |
   The Passion at the Disco cocktail is a refreshing and vibrant drink that combines the tropical flavors of passion fruit with the bright citrus notes of lime.

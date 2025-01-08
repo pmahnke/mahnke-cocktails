@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Negroni"
-permalink: "/recipe/negroni.html"
+categories: [ campari, cocktail]
+eras: [ classic ]
 iconfile: negroni
 stars: 3
-category: "Gin, Campari "
+base_spirits: "Gin, Campari "
 youtube: "lgy6vEX_hQg"
 excerpt: |
   Composed of gin, sweet vermouth and Campari, the Negroni is the classic three-ingredient cocktail you should absolutely master.

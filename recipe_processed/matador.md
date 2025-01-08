@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Matador"
+categories: [ cocktail ]
 permalink: "/recipe/matador.html"
 iconfile: matador
 stars: 0
-category: "Reposado Tequila, White Vermouth "
+base_spirits: "Reposado Tequila, White Vermouth "
 youtube: "3aV3DzDfW_A"
 excerpt: |
   The Matador is a tequila-based cocktail with a simple structure, similar to a margarita.

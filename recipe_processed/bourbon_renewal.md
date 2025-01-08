@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bourbon Renewal"
+categories: [ cocktail ]
 permalink: "/recipe/bourbon_renewal.html"
 iconfile: bourbon_renewal
 stars: 0
-category: "Bourbon, Crème de Cassis "
+base_spirits: "Bourbon, Crème de Cassis "
 youtube: "8WVlMjEGma4"
 excerpt: |
   The Bourbon Renewal is a refreshing and balanced cocktail that is perfect for any occasion. It is also a great way to showcase your favorite bourbon.

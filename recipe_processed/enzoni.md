@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Enzoni"
-permalink: "/recipe/enzoni.html"
+categories: [ campari, cocktail]
+eras: [ classic ]
 iconfile: enzoni
 stars: 0
-category: "Gin, Campari"
+base_spirits: "Gin, Campari"
 youtube: "ipHnOhkGWug"
 excerpt: |
   The Enzoni cocktail is a refreshing twist on the classic Negroni, created by Vincenzo Errico in 2003. It combines the bitterness of Campari with the sweetness of green grapes and the botanical depth of gin.

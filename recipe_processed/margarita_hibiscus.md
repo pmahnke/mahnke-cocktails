@@ -2,10 +2,11 @@
 layout: recipe
 author: Shannon Mustipher Cocktail Recipes
 title: "Hibiscus Margarita"
-permalink: "/recipe/margarita_hibiscus.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: margarita_hibiscus
 stars: 0
-category: "Reposado Tequila"
+base_spirits: "Reposado Tequila"
 youtube: "GiNen9YukD8"
 excerpt: |
   The margarita hibiscus cocktail is a refreshing and vibrant drink that combines the classic margarita with the floral notes of hibiscus. It typically includes tequila, orange liqueur, lime juice, and a homemade hibiscus syrup. The syrup adds a beautiful pink hue and a slightly sweet and tangy flavor to the drink.

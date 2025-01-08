@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Amaretto Sour"
-permalink: "/recipe/amaretto_sour.html"
+categories: [ sour, cocktail]
+eras: [ modern ]
 iconfile: amaretto_sour
 stars: 0
-category: "Amaretto, Apple Brandy"
+base_spirits: "Amaretto, Apple Brandy"
 youtube: "_nIr7E-cMOs"
 excerpt: |
   The cocktail was introduced to the public in 1974, devised by the importer of Amaretto di Saronno as a simple mix of two parts amaretto liqueur to one part lemon juice. It became a popular cocktail in the 1980s; most bartenders at the time substituted commercial sour mix for the lemon juice. The drink was popular as a one-dimensional easy-drinking cocktail, flavored mostly by the base spirit used.<br/ ><br />

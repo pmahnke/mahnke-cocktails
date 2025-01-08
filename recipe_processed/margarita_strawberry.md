@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Strawberry Frozen Margarita"
-permalink: "/recipe/margarita_strawberry.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: margarita_strawberry
 stars: 0
-category: "Reposado Tequila "
+base_spirits: "Reposado Tequila "
 youtube: "jxpT11WEtWQ"
 excerpt: |
   A Strawberry Margarita is a refreshing and fruity cocktail that blends the classic Margarita with the sweetness of strawberries.

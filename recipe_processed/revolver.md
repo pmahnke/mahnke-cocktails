@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Revolver"
+categories: [ coffee, cocktail]
 permalink: "/recipe/revolver.html"
 iconfile: revolver
 stars: 0
-category: "Bourbon, Coffee Liqueur"
+base_spirits: "Bourbon, Coffee Liqueur"
 youtube: "mFOZcQvZ6oY"
 excerpt: |
   A San Francisco original, and an exceptional coffee-laced riff on the Manhattan.

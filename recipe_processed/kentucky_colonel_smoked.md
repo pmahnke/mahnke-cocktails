@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Kentucky Colonel, Smoked"
-permalink: "/recipe/kentucky_colonel_smoked.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: kentucky_colonel_smoked
 stars: 0
-category: "Bourbon, Bénédictine"
+base_spirits: "Bourbon, Bénédictine"
 youtube: "gZdT2GBf91I"
 excerpt: |
   The Kentucky Colonel is a classic cocktail that pays homage to the state's famous bourbon whiskey. It's a simple yet elegant drink that combines bourbon, Benedictine, and Angostura bitters. The Benedictine adds a touch of sweetness and herbal notes, while the bitters balance the flavors.

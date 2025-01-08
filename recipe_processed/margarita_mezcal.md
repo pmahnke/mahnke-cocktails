@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mezcal Margarita"
-permalink: "/recipe/mezcal_margarita.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: margarita_mezcal
 stars: 0
-category: "Mezcal"
+base_spirits: "Mezcal"
 youtube: "TP5T65EWOx65zTsY"
 excerpt: |
   The Mezcal Margarita is a smoky, spicy twist on the classic margarita, swapping out tequila for mezcal.

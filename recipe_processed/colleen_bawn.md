@@ -1,10 +1,11 @@
 ---
 layout: recipe
 title: "Colleen Bawn"
-permalink: "/recipe/colleen_bawn.html"
+categories: [ flip, cocktail]
+eras: [ classic ]
 iconfile: colleen_bawn
 stars: 3
-category: "Rye, Yellow Chartreuse, Bénédictine"
+base_spirits: "Rye, Yellow Chartreuse, Bénédictine"
 youtube: "W50W19vwjmk"
 excerpt: |
   The Colleen Bawn is a classic cocktail with a rich history. It's a flip-style drink, meaning it includes a whole egg (both yolk and white) that is shaken vigorously to create a frothy texture.

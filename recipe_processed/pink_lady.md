@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Pink Lady"
-permalink: "/recipe/pink_lady.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: pink_lady
 stars: 4
-category: "Gin, Apple Brandy "
+base_spirits: "Gin, Apple Brandy "
 youtube: "MfHv2EOLUOo&t=336s"
 excerpt: |
   Discover your new favorite cocktail recipe or learn how to make a classic drink—like the Old Fashioned, mojito, or White Russian—right at home.

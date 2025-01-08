@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Suffering Bastard"
+categories: [ beer, cocktail]
 permalink: "/recipe/suffering_bastard.html"
 iconfile: suffering_bastard
 stars: 0
-category: "Gin, Cognac OR Bourbon"
+base_spirits: "Gin, Cognac OR Bourbon"
 youtube: "oRQtYcyRKVI"
 excerpt: |
   The Suffering Bastard cocktail uses both bourbon and gin. Born in Cairo, it was originally concocted for troops fighting in North Africa.

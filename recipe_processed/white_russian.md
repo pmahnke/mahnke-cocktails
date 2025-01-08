@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "White Russian"
-permalink: "/recipe/white_russian.html"
+categories: [ coffee, cocktail]
+eras: [ classic ]
 iconfile: white_russian
 stars: 4
-category: "Vodka, Kahlúa"
+base_spirits: "Vodka, Kahlúa"
 youtube: "z2lAXggbDDY"
 excerpt: |
   The White Russian is a classic three-ingredient cocktail that combines vodka, Kahlúa and cream. Here's how to make this iconic drink.

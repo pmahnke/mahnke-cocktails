@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Gin Rickey"
-permalink: "/recipe/gin_rickey.html"
+categories: [ collins, highball, cocktail]
+eras: [ classic ]
 iconfile: gin_rickey
 stars: 0
-category: "Gin"
+base_spirits: "Gin"
 youtube: "vOM5wbvegzo"
 excerpt: |
   The Gin Rickey is one of the few classic cocktails that doesn’t have an origin muddled by history or shrouded in rumors and innuendo. The invention of this refreshing highball is refreshingly clear: It was named after Joe Rickey, a Democratic lobbyist living in Washington, D.C., during the late 19th century.<br /><br />

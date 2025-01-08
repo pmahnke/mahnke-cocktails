@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Piña Colada"
-permalink: "/recipe/pina_colada.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: pina_colada
 stars: 4
-category: "Light Rum "
+base_spirits: "Light Rum "
 youtube: "eH9yt9JpXXk&t=6s"
 excerpt: |
   The Piña Colada is a classic tropical cocktail that is loved by many for its sweet and refreshing flavor. It is made with rum, pineapple juice, and cream of coconut, and is typically served blended with ice or shaken with ice and strained.

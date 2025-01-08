@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Blue Hawaii"
+categories: [ cocktail ]
 permalink: "/recipe/blue_hawaii.html"
 iconfile: blue_hawaii
 stars: 0
-category: "Light Rum, Rhum Agricole"
+base_spirits: "Light Rum, Rhum Agricole"
 youtube: "6bGqiC9qyQ8"
 excerpt: |
   Adapted from a recipe created in 1957 by Harry K. Yee at Henry Kaiser's Hawaiian Village Hotel (latterly the Hilton) in Waikiki, Oahu, Hawaii. The drink, created at the behest of Bols to aid sales of their blue curaçao, is named after the hit song from the 1937 Bing Crosby film, <i>Waikiki Wedding</i>, and not after what is generously described as a "musical-comedy" Elvis Presley 1961 film of the same name. That said, the Elvis film probably contributed to this cocktail's popularity.

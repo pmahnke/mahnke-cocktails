@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Fall Back"
+categories: [ cocktail ]
 permalink: "/recipe/fall_back.html"
 iconfile: fall_back
 stars: 0
-category: "Rye, Apple Brandy, Amaro Nonino"
+base_spirits: "Rye, Apple Brandy, Amaro Nonino"
 youtube: "_bDARIxZlcE"
 excerpt: |
   Adapted from a recipe created circa 2012-17 by Sasha Petraske for the John Dory Oyster Bar in Manhattan, New York City, USA.

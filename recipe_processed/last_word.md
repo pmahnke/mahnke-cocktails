@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Last Word"
-permalink: "/recipe/last_word.html"
+categories: [ cocktail ]
+eras: [ prohibition ]
 iconfile: last_word
 stars: 5
-category: "Gin, Green Chartreuse, Maraschino Liqueur"
+base_spirits: "Gin, Green Chartreuse, Maraschino Liqueur"
 youtube: "ueiHrjWgC-jSAvQn"
 excerpt: |
   The Last Word is a gin-based cocktail originating at the Detroit Athletic Club in the 1910s, shortly before the start of Prohibition.

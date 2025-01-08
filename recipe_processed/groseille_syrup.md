@@ -2,6 +2,7 @@
 layout: recipe
 title: "Groseille Syrup"
 type: syrup
+eras: [ classic ]
 permalink: "/recipe/groseillesyrup.html"
 youtube: "-Uhu81wqOl8"
 excerpt: |

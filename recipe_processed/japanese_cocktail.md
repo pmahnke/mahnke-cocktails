@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Japanese Cocktail"
-permalink: "/recipe/japanese.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: japanese_cocktail
 stars: 0
-category: "Cognac "
+base_spirits: "Cognac "
 youtube: "83TEnWyeqV0"
 excerpt: |
   These seven inventive cocktails show off the versatility of the Japanese fermented rice beverage.<br /><br />

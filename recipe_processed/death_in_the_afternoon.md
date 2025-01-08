@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Death in the Afternoon"
-permalink: "/recipe/death_in_the_afternoon.html"
+categories: [ champagne, cocktail]
+eras: [ new_orleans ]
 iconfile: death_in_the_afternoon
 stars: 0
-category: "Absinthe, Champagne "
+base_spirits: "Absinthe, Champagne "
 youtube: "-jb1-82N48U"
 excerpt: |
   Champion drinker Ernest Hemingway invented the Death in the Afternoon cocktail. It’s a potent pairing of absinthe and Champagne.

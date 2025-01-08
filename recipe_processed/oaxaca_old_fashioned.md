@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Oaxaca Old Fashioned"
+categories: [ cocktail ]
 permalink: "/recipe/oaxaca_old_fashioned.html"
 iconfile: oaxaca_old_fashioned
 stars: 0
-category: "Reposado Tequila, Mezcal"
+base_spirits: "Reposado Tequila, Mezcal"
 youtube: "LkXW1diKOvs"
 excerpt: |
   The Oaxaca Old Fashioned helped kick off the mezcal craze in the United States. Created in 2007 by New York bartender Phil Ward, the Oaxaca Old Fashioned introduced countless drinkers to the earthy spirit, which was unfamiliar to most consumers at the time. Ward first made the cocktail at Death & Co., the pioneering East Village bar, before placing it on the menu at Mayahuel, the dearly departed bar that he opened down the street.

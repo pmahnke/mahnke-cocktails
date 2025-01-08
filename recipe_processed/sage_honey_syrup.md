@@ -2,6 +2,7 @@
 layout: recipe
 title: "Sage Honey Syrup"
 type: syrup
+eras: [ classic ]
 permalink: "/recipe/sagehoneysyrup.html"
 youtube: "EKyIy5iG87Q"
 excerpt: |

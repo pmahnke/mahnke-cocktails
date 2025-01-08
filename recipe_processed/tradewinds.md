@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tradewinds"
-permalink: "/recipe/tradewinds.html"
+categories: [ tiki, cocktail]
+eras: [ classic ]
 iconfile: tradewinds
 stars: 0
-category: "Dark Rum, Gold Rum, Apricot Liqueur"
+base_spirits: "Dark Rum, Gold Rum, Apricot Liqueur"
 youtube: "RThEGH0sbgM"
 excerpt: |
   The Tradewinds is a classic tiki cocktail that blends the flavors of rum, apricot, coconut, and citrus.

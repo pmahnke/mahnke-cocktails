@@ -3,10 +3,11 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "A Little Thyme Off"
+categories: [ beer, cocktail]
 permalink: "/recipe/littlethymeoff.html"
 iconfile: a_little_thyme_off
 stars: 0
-category: "Lemon, Thyme Simple Syrup, Ginger Beer"
+base_spirits: "Lemon, Thyme Simple Syrup, Ginger Beer"
 youtube: "ZE3G8aUyOn0"
 excerpt: |
   The A Little Thyme Off cocktail is a refreshing and herbaceous drink that uses a thyme-infused simple syrup as its key ingredient. The syrup adds a subtle, savory flavor to the cocktail, which is then balanced by the tartness of lemon juice and the effervescence of ginger beer.

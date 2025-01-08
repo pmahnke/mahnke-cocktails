@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Preakness"
+categories: [ cocktail ]
 permalink: "/recipe/preakness.html"
 iconfile: preakness
 stars: 3
-category: "Bourbon, Bénédictine"
+base_spirits: "Bourbon, Bénédictine"
 youtube: "1V0-c6u4xJA"
 excerpt: |
   Named for a horse race that is not the Kentucky Derby, this Manhattan variation gets a splash of Benedictine for complexity.

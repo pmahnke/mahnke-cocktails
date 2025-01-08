@@ -2,7 +2,8 @@
 layout: recipe
 title: "Cocoa Nib Infused Campari"
 type: syrup
-permalink: "/recipe/cocaonibcampari.html"
+categories: [ campari ]
+eras: [ classic ]
 youtube: "u0N9FFJ1i5c"
 excerpt: |
   Cocoa nib-infused Campari is a way to add a chocolate flavor to cocktails and can be used to modify classic drinks like the Negroni and Boulevardier.

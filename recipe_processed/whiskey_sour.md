@@ -1,10 +1,11 @@
 ---
 layout: recipe
 title: "Whiskey Sour"
-permalink: "/recipe/whiskey_sour.html"
+categories: [ sour, cocktail]
+eras: [ classic ]
 iconfile: whiskey_sour
 stars: 5
-category: "Bourbon "
+base_spirits: "Bourbon "
 youtube: "bxTRtiS06W0&t=51s"
 excerpt: |
   The classic Whiskey Sour is the most famous representation of one of the worlds most popular types of cocktail. Easy to commit to memory, its simple go-to sour to add to your arsenal, and a cornerstone of drink-making that everyone should know.

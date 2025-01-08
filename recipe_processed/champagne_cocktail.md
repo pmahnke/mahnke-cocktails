@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Champagne Cocktail"
+categories: [ champagne, cocktail]
 permalink: "/recipe/champagne_cocktail.html"
 iconfile: champagne_cocktail
 stars: 5
-category: "Champagne, Cognac "
+base_spirits: "Champagne, Cognac "
 youtube: "WmMC1qb2LgA"
 excerpt: |
   The Champagne Cocktail, a simple combination of sparkling wine, bitters and sugar.

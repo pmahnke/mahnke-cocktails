@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Fog Cutter"
+categories: [ tiki, cocktail]
 permalink: "/recipe/fog_cutter.html"
 iconfile: fog_cutter
 stars: 4
-category: "Light Rum, Pisco, Gin, Amontillado Sherry "
+base_spirits: "Light Rum, Pisco, Gin, Amontillado Sherry "
 youtube: "kMqIu6zPv9s"
 excerpt: |
   The Fog Cutter is a vintage tiki cocktail frequently attributed to being invented by Victor Bergeron.  It's a complex blend of spirits, citrus juices, and orgeat syrup, creating a refreshing and invigorating drink.

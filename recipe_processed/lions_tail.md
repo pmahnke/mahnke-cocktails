@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lion's Tail"
-permalink: "/recipe/lionstail.html"
+categories: [ cocktail ]
+eras: [ prohibition, classic]
 iconfile: lions_tail
 stars: 5
-category: "Bourbon, Allspice Dram"
+base_spirits: "Bourbon, Allspice Dram"
 youtube: "r2NNClh94tQ"
 excerpt: |
   The Lion’s Tail is a classic cocktail stemming from Prohibition. it combines bourbon with allspice dram and bitters.

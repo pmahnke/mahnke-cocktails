@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sloe Gin Sour"
-permalink: "/recipe/sloe_gin_sour.html"
+categories: [ campari, sour, cocktail]
+eras: [ classic ]
 iconfile: sloe_gin_sour
 stars: 0
-category: "Sloe Gin, Campari"
+base_spirits: "Sloe Gin, Campari"
 youtube: "W50W19vwjmk"
 excerpt: |
   The Slow Gin Sour blends the sweet and tart flavors of sloe gin with the classic sour template.

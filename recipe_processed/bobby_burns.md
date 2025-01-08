@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bobby Burns"
-permalink: "/recipe/bobbyburns.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: bobby_burns
 stars: 0
-category: "Scotch, Blended, Bénédictine"
+base_spirits: "Scotch, Blended, Bénédictine"
 youtube: "X5haIFd1Ysw"
 excerpt: |
   A classic drink named for a Scottish poet. A variation of the Rob Roy, the Bobby Burns is a classic cocktail named after the Scottish poet Robert Burns.

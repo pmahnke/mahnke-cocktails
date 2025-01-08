@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Lucky Stone"
+categories: [ cocktail ]
 permalink: "/recipe/lucky_stone.html"
 iconfile: lucky_stone
 stars: 0
-category: "Irish Whiskey, Amontillado Sherry, Apricot Liquer "
+base_spirits: "Irish Whiskey, Amontillado Sherry, Apricot Liquer "
 youtube: "aRboP-f7LK0"
 excerpt: |
   The Lucky Stone is a cocktail that combines the flavors of Irish whiskey, Amontillado sherry, apricot liqueur, and Peychaud's bitters. It is a complex and balanced drink with a sweet and nutty flavor profile.

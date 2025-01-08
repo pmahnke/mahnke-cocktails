@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Soyer au Champagne"
+categories: [ champagne, cocktail]
 permalink: "/recipe/soyer_au_champagne.html"
 iconfile: soyer_au_champagne
 stars: 0
-category: "Champagne, Cognac, Bénédictine"
+base_spirits: "Champagne, Cognac, Bénédictine"
 youtube: "mhXp-T53DAs"
 excerpt: |
   The Soyer au Champagne is a luxurious and elegant cocktail, often described as an adult version of an ice cream float. It's a delightful blend of cognac, orange curaçao, maraschino liqueur, Champagne, and vanilla ice cream.

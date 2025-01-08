@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hemingway Daiquiri"
+categories: [ cocktail ]
 permalink: "/recipe/hemingway_daiquiri.html"
 iconfile: hemingway_daiquiri
 stars: 0
-category: "Light Rum, Maraschino Liqueur"
+base_spirits: "Light Rum, Maraschino Liqueur"
 youtube: "mILAxazthY4"
 excerpt: |
   The Hemingway Daiquiri cocktail takes its inspiration from Ernest Hemingway, who lived in Havana and enjoyed drinking sugarless Daiquiris.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Barback’s Revenge"
+categories: [ coffee, cocktail]
 permalink: "/recipe/barbacks_revenge.html"
 iconfile: barbacks_revenge
 stars: 0
-category: "Demerara Rum, Bénédictine, Amontillado Sherry"
+base_spirits: "Demerara Rum, Bénédictine, Amontillado Sherry"
 youtube: "RRvfkkSjceM"
 excerpt: |
   While it may sound menacing on the surface, this cocktail will be your cold-brew coffee's new best friend. With herbal sweetness from the rum and benedictine to savory elements from the sherry.

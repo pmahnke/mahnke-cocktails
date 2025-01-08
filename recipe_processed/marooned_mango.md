@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Marooned Mango"
+categories: [ cocktail ]
 permalink: "/recipe/marooned_mango.html"
 iconfile: marooned_mango
 stars: 4
-category: "Cachaça, Mango Liqueur"
+base_spirits: "Cachaça, Mango Liqueur"
 youtube: "xnXFbjQSu-k"
 ---
 

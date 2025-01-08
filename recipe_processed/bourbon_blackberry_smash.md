@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bourbon Blackberry Smash"
+categories: [ smash, cocktail]
 permalink: "/recipe/bourbon_blackberry_smash.html"
 iconfile: bourbon_blackberry_smash
 stars: 0
-category: "Bourbon"
+base_spirits: "Bourbon"
 youtube: "3i4QnRLlPFc&t=220s"
 excerpt: |
   The Blackberry Bourbon Smash is made with fresh muddled lime, blackberries, and mint mixed with bourbon and topped with soda water.

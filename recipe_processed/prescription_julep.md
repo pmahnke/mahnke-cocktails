@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Prescription Julep"
-permalink: "/recipe/prescription_julep.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: prescription_julep
 stars: 0
-category: "Cognac, Rye "
+base_spirits: "Cognac, Rye "
 youtube: "xfLW5Na9QpM"
 excerpt: |
   The Prescription Julep is a classic cocktail that dates back to the mid-1800s. It's a refreshing and complex drink that combines the flavors of rye whiskey, cognac, mint, and sugar.

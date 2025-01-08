@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Absinthe Frappé"
-permalink: "/recipe/absinthe_frappe.html"
+categories: [ frappe_swizzle, cocktail]
+eras: [ classic ]
 iconfile: absinthe_frappe
 stars: 0
-category: "Absinthe"
+base_spirits: "Absinthe"
 youtube: "g4_hKcbMLL4"
 excerpt: |
   This classic cocktail is herbaceous and refreshing thanks to its base spirit, anisette, soda water, crushed ice, and a mint garnish.

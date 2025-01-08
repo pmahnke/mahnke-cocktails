@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "See No Evil"
-permalink: "/recipe/see_no_evil.html"
+categories: [ cocktail ]
+eras: [ anders ]
 iconfile: see_no_evil
 stars: 0
-category: "Mezcal "
+base_spirits: "Mezcal "
 youtube: "xRJ9uAzTcaE"
 excerpt: |
   The See No Evil is a smoky, spicy cocktail created by Anders Erickson.
@@ -25,7 +26,7 @@ excerpt: |
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: 
+- Glassware:
   - Low Ball
   - Crushed Ice
 - Garnish: Grated nutmeg and mint sprig

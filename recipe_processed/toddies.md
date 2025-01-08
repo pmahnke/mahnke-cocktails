@@ -3,10 +3,11 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Hot Toddies"
-permalink: "/recipe/toddies.html"
+categories: [ toddy, cocktail]
+eras: [ classic ]
 iconfile: toddies
 stars: 0
-category: "Blended Scotch, Jamaican Rum, Mezcal "
+base_spirits: "Blended Scotch, Jamaican Rum, Mezcal "
 youtube: "DJtBN6yBnsA"
 excerpt: |
   The classic hot toddy is a comforting and warming beverage that has been used for centuries to soothe ailments and warm the soul.

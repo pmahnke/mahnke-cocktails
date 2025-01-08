@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hot Buttered Rum"
-permalink: "/recipe/hot_buttered_rum.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: hot_buttered_rum
 stars: 0
-category: "Dark Rum "
+base_spirits: "Dark Rum "
 youtube: "mBGgu3qRztY"
 excerpt: |
   The Hot Buttered Rum cocktail is a classic hot drink that will warm your soul during the cold winter.

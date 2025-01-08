@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Vesper"
+categories: [ martini, cocktail]
 permalink: "/recipe/vesper.html"
 iconfile: vesper
 stars: 0
-category: "Gin, Vodka, Cocchi Americano"
+base_spirits: "Gin, Vodka, Cocchi Americano"
 youtube: "TP5T65EWOx65zTsY"
 excerpt: |
   The gin-and-vodka-based Vesper cocktail made its debut in “Casino Royale.” If it’s good enough for James Bond, it’s probably good enough for you, too.

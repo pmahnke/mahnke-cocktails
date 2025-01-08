@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Best Doctor's Cocktail"
-permalink: "/recipe/best_drs_cocktail.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: best_drs_cocktail
 stars: 4
-category: "Jamaican Rum, Swedish Punsch"
+base_spirits: "Jamaican Rum, Swedish Punsch"
 youtube: "re76GCUoiH4&t=140s"
 excerpt: |
   The Doctor Cocktail is a classic cocktail that has been around for over a century. It's a simple yet refreshing drink that's perfect for any occasion.

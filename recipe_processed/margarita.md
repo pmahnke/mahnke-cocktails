@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Classic Margarita"
-permalink: "/recipe/margarita.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: margarita
 stars: 5
-category: "Reposado Tequila "
+base_spirits: "Reposado Tequila "
 youtube: "jxpT11WEtWQ"
 excerpt: |
   The classic Margarita combines tequila, lime and triple sec for ultimate refreshment. This tried-and-true recipe ensures a great, easy cocktail every time.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Philadelphia Fish House Punch"
-permalink: "/recipe/philly_fish_house_punch.html"
+categories: [ punch, cocktail]
+eras: [ classic ]
 iconfile: philly_fish_house_punch
 stars: 0
-category: "Cognac, Jamaican Rum, Apple Brandy, Peach Liqueur"
+base_spirits: "Cognac, Jamaican Rum, Apple Brandy, Peach Liqueur"
 youtube: "cJhKGTM3z20"
 excerpt: |
   The Philadelphia Fish House Punch is a classic punch recipe that has been enjoyed for centuries. It's a rich and complex drink with a balance of sweetness, acidity, and spirit.

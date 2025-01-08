@@ -3,9 +3,10 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tradewinds Negroni"
 iconfile: tradewinds_negroni
+categories: [ cocktail ]
 permalink: "/recipe/tradewinds_negroni.html"
 stars: 0
-category: "Angostura Aromatic Bitters"
+base_spirits: "Angostura Aromatic Bitters"
 youtube: "Lp5ktjaNFKc"
 excerpt: |
   Adapted from a recipe created by Justin Elliott at The Townsend, Austin, Texas, USA.

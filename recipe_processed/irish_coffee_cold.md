@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Cold Brew Irish Coffee"
-permalink: "/recipe/irish_coffee_cold.html"
+categories: [ coffee, cocktail]
+eras: [ classic, modern]
 iconfile: irish_coffee_cold
 stars: 0
-category: "Irish Whiskey, Coffee Liqueur"
+base_spirits: "Irish Whiskey, Coffee Liqueur"
 youtube: "sJsY1LokABA"
 excerpt: |
   The Cold Brew Irish Coffee is a refreshing and modern twist on the classic hot Irish coffee. This cocktail combines the bold flavors of cold brew coffee with the smooth warmth of Irish whiskey, creating a perfect drink for any occasion.

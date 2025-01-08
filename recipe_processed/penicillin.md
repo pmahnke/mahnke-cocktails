@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Penicillin"
-permalink: "/recipe/penicillin.html"
+categories: [ cocktail ]
+eras: [ classic, modern]
 iconfile: penicillin
 stars: 0
-category: "Scotch, Blended, Scotch, Single Malt "
+base_spirits: "Scotch, Blended, Scotch, Single Malt "
 youtube: "G51IC-s_ECI"
 excerpt: |
   The Penicillin cocktail is a scotch-based drink from New York bartender Sam Ross. The modern classic perfectly mixes smoke, ginger, and lemon.

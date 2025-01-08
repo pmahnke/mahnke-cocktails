@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Black Manhattan"
+categories: [ martini, cocktail]
 permalink: "/recipe/black_manhattan.html"
 iconfile: black_manhattan
 stars: 4
-category: "Rye, Amaro"
+base_spirits: "Rye, Amaro"
 youtube: "YWKJsv8PymI&t=205s"
 excerpt: |
   Adapted from a recipe created in 2015 by Todd Smith at <strong>Bourbon &amp; Branch</strong> in San Francisco, USA.

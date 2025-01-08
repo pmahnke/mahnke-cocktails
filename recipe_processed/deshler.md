@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Deshler"
-permalink: "/recipe/deshler.html"
+categories: [ cocktail ]
+eras: [ modern ]
 iconfile: deshler
 stars: 4
-category: "Rye, Dubonnet Rouge -OR- Bourbon, Lillet Rouge "
+base_spirits: "Rye, Dubonnet Rouge -OR- Bourbon, Lillet Rouge "
 youtube: "3vtklNLjMPw"
 excerpt: |
   Enjoy your favorite rye whiskey in this Dubonnet and Cointreau drink from famed New York bartender Brian Miller.

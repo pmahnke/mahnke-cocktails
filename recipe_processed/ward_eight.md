@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Ward Eight"
+categories: [ cocktail ]
 permalink: "/recipe/ward_eight.html"
 iconfile: ward_eight
 stars: 0
-category: "Rye "
+base_spirits: "Rye "
 youtube: "Gf8FdfHx-LmqZMg-"
 excerpt: |
   While it might not be the most well-known cocktail, it has a rich history dating back to the late 19th century. Legend has it that the drink was created in honor of Martin Lomasney, a powerful Boston politician who represented the city's Eighth Ward.

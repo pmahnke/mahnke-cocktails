@@ -2,10 +2,11 @@
 layout: recipe
 author: The Educated Barfly Cocktail Recipes
 title: "Sage Hen"
-permalink: "/recipe/sage_hen.html"
+categories: [ cocktail ]
+eras: [ modern ]
 iconfile: sage_hen
 stars: 0
-category: "Gin, Yellow Chartreuse "
+base_spirits: "Gin, Yellow Chartreuse "
 youtube: "EKyIy5iG87Q"
 excerpt: |
   The Sage Hen is a modern cocktail that showcases the unique flavors of sage and honey.

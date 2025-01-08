@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rum Manhattan"
-permalink: "/recipe/rum_manhattan.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: rum_manhattan
 stars: 3
-category: Demerara Rum
+base_spirits: Demerara Rum
 youtube: "eWESf1b317Y&t=278s"
 excerpt: |
   The Rum Manhattan is a variation of the classic Manhattan cocktail, swapping out the traditional whiskey base for a flavorful rum.

@@ -1,4 +1,4 @@
-{% assign bottles =  page.category | split: "," %}
+{% assign bottles =  page.base_spirits | split: "," %}
 {% for bottle in bottles -%}
   <a href="/cgi-bin/cocktail_search.cgi?a=search&q={{ bottle }}">{{ bottle }}</a>{% if forloop.last %}{% else %}, {% endif %}
 {% endfor %}

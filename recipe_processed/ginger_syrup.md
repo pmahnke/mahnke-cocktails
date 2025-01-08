@@ -2,6 +2,7 @@
 layout: recipe
 title: "Ginger Syrup"
 type: syrup
+categories: [ cocktail ]
 permalink: "/recipe/ginger_syrup.html"
 youtube: "vGBMrJgjZB4"
 excerpt: |

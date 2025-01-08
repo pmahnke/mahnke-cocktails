@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pegu Club"
-permalink: "/recipe/pegu_club.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: pegu_club
 stars: 3
-category: "Gin "
+base_spirits: "Gin "
 youtube: "YenVNoabM4"
 excerpt: |
   The Pegu Club cocktail is a classic gin-based drink with a touch of tropical flair. It was originally created at the Pegu Club in Burma and has since become a popular cocktail around the world.
@@ -13,7 +14,7 @@ excerpt: |
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand |
+|   Amount | Ingredient       | Brand                      |
 | -------: | ---------------- | -------------------------- |
 |   1.5 oz / 37.5 ml | Gin              | Plymouth                   |
 |  0.75 oz / 19 ml | Orange Curaçao   | Marie Brizard              |

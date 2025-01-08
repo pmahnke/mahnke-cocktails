@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Black Velvet"
+categories: [ beer, champagne, cocktail]
 permalink: "/recipe/black_velvet.html"
 iconfile: black_velvet
 stars: 0
-category: "Champagne, Stout "
+base_spirits: "Champagne, Stout "
 youtube: "IAaiRENeyvc&t=639s"
 excerpt: |
   High-class meets working-class in the Black Velvet, a marriage of Guinness and Champagne that’s smooth and bubbly.

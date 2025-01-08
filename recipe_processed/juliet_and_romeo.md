@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Juliet & Romeo"
+categories: [ cocktail ]
 permalink: "/recipe/juliet_and_romeo.html"
 iconfile: juliet_and_romeo
 stars: 0
-category: "Gin "
+base_spirits: "Gin "
 youtube: "Ttnf3PbJqnA"
 excerpt: |
   The Juliet & Romeo cocktail is a refreshing and complex drink that blends gin, cucumber, mint, lime juice, simple syrup, rose water, and bitters.

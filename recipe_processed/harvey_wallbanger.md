@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Harvey Wallbanger"
-permalink: "/recipe/harvey_wallbanger.html"
+categories: [ cocktail ]
+eras: [ classic, modern]
 iconfile: harvey_wallbanger
 stars: 0
-category: "Vodka, Galliano"
+base_spirits: "Vodka, Galliano"
 youtube: "YFqEvNdPrX8"
 excerpt: |
   The Harvey Wallbanger is a modern classic that combines a Screwdriver with the Italian liqueur Galliano.

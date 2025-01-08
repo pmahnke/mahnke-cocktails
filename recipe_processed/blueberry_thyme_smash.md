@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Blueberry Thyme Smash"
+categories: [ smash, cocktail]
 permalink: "/recipe/blueberry_thyme_smash.html"
 iconfile: blueberry_thyme_smash
 stars: 0
-category: "Gin"
+base_spirits: "Gin"
 youtube: "3i4QnRLlPFc&t=220s"
 excerpt: |
   This cocktail is a simple concoction of gin, lemon, blueberries, and thyme.

@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Caipirinha"
-permalink: "/recipe/caipirinha.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: caipirinha
 stars: 4
-category: "Cachaça "
+base_spirits: "Cachaça "
 youtube: "i1UHUyWerhg"
 excerpt: |
   The Caipirinha is a classic Brazilian cocktail known for its refreshing and tangy flavor. It's made with a few simple ingredients: cachaça, lime, sugar, and ice.

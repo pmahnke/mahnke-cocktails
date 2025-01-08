@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Toronto Cocktail"
-permalink: "/recipe/toronto_cocktail.html"
+categories: [ campari, martini, cocktail]
+eras: [ classic ]
 iconfile: toronto_cocktail
 stars: 3
-category: "Rye, Fernet Branca"
+base_spirits: "Rye, Fernet Branca"
 youtube: "fQfVijUec0A"
 excerpt: |
   The Mezcal Negroni is a smoky take on the classic Italian aperitivo. To make it, swap mezcal for gin, and stir with Campari and sweet vermouth.

@@ -3,10 +3,11 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Grey Fox"
-permalink: "/recipe/grey_fox.html"
+categories: [ cocktail ]
+eras: [ anders ]
 iconfile: grey_fox
 stars: 0
-category: "Earl Grey Syrup, Lemon"
+base_spirits: "Earl Grey Syrup, Lemon"
 youtube: "5wgvpo-xBnA"
 excerpt: |
   The Grey Fox is a non-alcoholic cocktail created by Anders Erickson featuring Earl Grey and lemon for flavors.

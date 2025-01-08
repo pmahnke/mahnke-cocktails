@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mojito"
-permalink: "/recipe/mojito.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: mojito
 stars: 4
-category: "Light Rum "
+base_spirits: "Light Rum "
 youtube: "KMypSCazyRw"
 excerpt: |
   The Mojito might be the perfect cocktail. With mint, simple syrup and white rum, the classic Mojito is easy to make and always refreshing.

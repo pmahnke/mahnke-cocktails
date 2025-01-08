@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Stinger"
-permalink: "/recipe/stinger.html"
+categories: [ cocktail ]
+eras: [ classic ]
 iconfile: stinger
 stars: 4
-category: "Cognac, Crème de Menthe"
+base_spirits: "Cognac, Crème de Menthe"
 youtube: "mBGgu3qRztY"
 excerpt: |
   Feel the sweet sting of cognac and crème de menthe with the Stinger, a classic high-society cocktail from the pre-Prohibition era.

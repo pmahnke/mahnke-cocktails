@@ -3,10 +3,11 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Spa Water"
+categories: [ cocktail ]
 permalink: "/recipe/spa_water.html"
 iconfile: spa_water
 stars: 3
-category: "Cucumber, Mint, Lime "
+base_spirits: "Cucumber, Mint, Lime "
 youtube: "5wgvpo-xBnA"
 excerpt: |
   A spa water cocktail is a mixed drink that typically includes cucumber slices, simple syrup, lime juice, water, and sparkling water.
@@ -26,8 +27,8 @@ excerpt: |
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: 
-    - Julep Cup
-    - Crushed Ice
+- Glassware:
+  - Julep Cup
+  - Crushed Ice
 - Garnish: Sprig of Mint and Slice of Cucumber
 - Special Prep: Add the cucumber, mint, lime juice and simple syrup to the cup and muddle. Fill the cup with crushed ice and top with soda water.

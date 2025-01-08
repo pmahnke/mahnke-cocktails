@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Ford"
-permalink: "/recipe/ford.html"
+categories: [ martini, cocktail]
+eras: [ classic ]
 iconfile: ford
 stars: 0
-category: "Old Tom Gin, Bénédictine"
+base_spirits: "Old Tom Gin, Bénédictine"
 youtube: "UJJqbCGHsOg"
 excerpt: |
   The Ford cocktail is a classic gin-based cocktail that dates back to the late 19th century. It is a Martini-style cocktail sweetened by both the use of old tom gin and Bénédictine D.O.M. liqueur.

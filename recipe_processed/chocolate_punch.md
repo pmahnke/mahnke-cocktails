@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Chocolate Punch"
+categories: [ champagne, martini, punch, tiki, cocktail]
 permalink: "/recipe/chocolate_punch.html"
 iconfile: chocolate_punch
 stars: 0
-category: "Cognac, Ruby Port, Crème de Cacao "
+base_spirits: "Cognac, Ruby Port, Crème de Cacao "
 youtube: "s30L-iu171E"
 excerpt: |
   The Chocolate Punch is a decadent and indulgent cocktail that combines the rich flavors of brandy, port, and dark crème de cacao.

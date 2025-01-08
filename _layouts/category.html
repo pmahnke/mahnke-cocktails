@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="double_line"> </div>
+
+<div class="row">
+    <div class="twelve columns" id="search">
+        {% include search.html %}
+    </div><!-- /div 12 col -->
+</div><!-- /div row -->
+
+<div class="row">
+    <div class="two-thirds column">
+        
+        {% assign s = site.data.style | where: "slug", page.style | first %}
+        <h2>{{ s.name }}</h2>
+        <p>{{ s.description }}</p>
+        
+        <table style="width:100%;">
+        {% for page in site.pages %}
+        {% if page.style == s.slug %}
+         <tr>
+            <th class="no-border" style="width:35%;">
+                <a href="{{ page.url | prepend: site.baseurl }}">
+                {{ page.title }}
+                </a>
+            </th>
+            <td class="no-border" style="width:40%;">
+                {% include category_search.html %}
+            </td>
+            <td class="no-border stars" style="width:25%">
+                {% include stars.html %}
+            </td>
+            </tr>
+        {% endif %}
+        {% endfor %}
+        </table>
+    </div>
+</div>
+

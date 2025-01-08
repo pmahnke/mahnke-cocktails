@@ -2,6 +2,7 @@
 layout: recipe
 title: "Grenadine Syrup"
 type: syrup
+categories: [ cocktail ]
 permalink: "/recipe/grenadine_syrup.html"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

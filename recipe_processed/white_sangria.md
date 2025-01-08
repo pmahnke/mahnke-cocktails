@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "White Sangria"
-permalink: "/recipe/white_sangria.html"
+categories: [ punch, cocktail]
+eras: [ classic ]
 iconfile: white_sangria
 stars: 0
-category: "Apricot Liqueur, Fino Sherry, Dry White Wine"
+base_spirits: "Apricot Liqueur, Fino Sherry, Dry White Wine"
 youtube: "mAxJU3qd8OE"
 excerpt: |
   A lighter and brighter version of the classic red sangria, made with white wine, fresh fruit, and a touch of sweetness.

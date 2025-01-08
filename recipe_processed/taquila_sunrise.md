@@ -3,10 +3,11 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Taquila Sunrise"
+categories: [ cocktail ]
 permalink: "/recipe/taquila_sunrise.html"
 iconfile: taquila_sunrise
 stars: 0
-category: "Creme de Cassis, Blanco Taquilla -OR- Reposado Tequila "
+base_spirits: "Creme de Cassis, Blanco Taquilla -OR- Reposado Tequila "
 youtube: "VNaSpZ3YOoM"
 excerpt: |
   The Tequila Sunrise was created in the early 1970s by Bobby Lozoff and Billy Rice at the Trident bar in Sausalito, California. The cocktail achieved notoriety after a member of the Rolling Stones tasted it at a party to kick off the 1972 tour. The band began ordering it at stops across the country and even dubbed the tour “the cocaine and Tequila Sunrise tour,” which helped to propel the drink’s popularity.

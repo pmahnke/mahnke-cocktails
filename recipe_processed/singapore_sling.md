@@ -3,10 +3,11 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Singapore Sling"
+categories: [ cocktail ]
 permalink: "/recipe/singapore_sling.html"
 iconfile: singapore_sling
 stars: 0
-category: "Gin, Cherry Liqueur, Bénédictine"
+base_spirits: "Gin, Cherry Liqueur, Bénédictine"
 youtube: "EjRcajuUkJk"
 youtube_embed: "https://www.youtube.com/embed/EjRcajuUkJk?si=EMdqje_4KECcUOJA"
 excerpt: |

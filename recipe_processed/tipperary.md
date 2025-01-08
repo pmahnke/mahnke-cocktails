@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tipperary"
+categories: [ campari, cocktail]
 permalink: "/recipe/tipperary.html"
 iconfile: tipperary
 stars: 0
-category: "Irish Whiskey, Green Chartreuse"
+base_spirits: "Irish Whiskey, Green Chartreuse"
 youtube: "2zQBXxC7ma8"
 excerpt: |
   Love the Bijou? Try a Tipperary, a Dead Rabbit favorite made with Irish whiskey, without the Campari.

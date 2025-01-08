@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Alton Brown’s Aged Eggnog"
-permalink: "/recipe/alton_browns_aged_eggnog.html"
+categories: [ eggnog, cocktail]
+eras: [ classic ]
 iconfile: alton_browns_aged_eggnog
 stars: 0
-category: "Jamaica Rum, Cognac, Bourbon"
+base_spirits: "Jamaica Rum, Cognac, Bourbon"
 youtube: "LINK"
 excerpt: |
   For Alton Brown's aged eggnog recipe click <a href="https://altonbrown.com/recipes/aged-eggnog/" target="_blank">here</a>.<br><br>

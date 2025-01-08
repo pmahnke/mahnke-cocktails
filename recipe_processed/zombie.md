@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Zombie"
-permalink: "/recipe/zombie.html"
+categories: [ tiki, cocktail]
+eras: [ classic ]
 iconfile: zombie
 stars: 0
-category: "Jamaican Rum, Gold Rum, Demerara Rum "
+base_spirits: "Jamaican Rum, Gold Rum, Demerara Rum "
 youtube: '\_eCla7H-TA0&t=4s'
 excerpt: |
   Discover your new favorite cocktail recipe or learn how to make a classic drink—like the Old Fashioned, mojito, or White Russian—right at home.

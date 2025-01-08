@@ -2,10 +2,11 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mexican Firing Squad"
+categories: [ collins, cocktail]
 permalink: "/recipe/mexican_firing_squad.html"
 iconfile: mexican_firing_squad
 stars: 0
-category: "Reposado Tequila "
+base_spirits: "Reposado Tequila "
 youtube: "3aV3DzDfW_A"
 excerpt: |
   The drink is essentially a tequila Collins, made with lime in place of lemon and grenadine in place of plain sugar, with the addition of some Angostura bitters.
