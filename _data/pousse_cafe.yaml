@@ -1,0 +1,19 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-creme-de-violette.svg
+      title: Creme de violette
+    - url: /cocktails/assets/images/ingredient-amaro.svg
+      title: Amaro Nonino
+    - url: /cocktails/assets/images/ingredient-chartreuse.svg
+      title: Green Chartreuse
+    - url: /cocktails/assets/images/ingredient-brandy.svg
+      title: Cognac
+    - url: /cocktails/assets/images/ingredient-absinthe.svg
+      title: Absinthe
+  tool:
+    - url: /cocktails/assets/images/tool_long-stirrer.svg
+      title: Bar Spoon
+  glass:
+    - url: /cocktails/assets/images/glass_cordial.svg
+      title: Pousse Cafe
+  garnish:
