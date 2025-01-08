@@ -2,7 +2,8 @@
 layout: recipe
 author: Zac Overman Cocktail Recipes
 title: "Angostura Colada"
-categories: [ cocktail ]
+categories: [ tiki ]
+eras: [ modern ]
 permalink: "/recipe/angostura_colada.html"
 iconfile: angostura_colada
 stars: 0

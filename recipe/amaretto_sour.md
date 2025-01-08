@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Amaretto Sour"
-categories: [ sour, cocktail]
+categories: [ sour ]
 eras: [ modern ]
 iconfile: amaretto_sour
 stars: 0

@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Alamagoozlum"
-categories: [ cocktail ]
+categories: [ punch ]
 eras: [ classic ]
 iconfile: alamagoozlum
 stars: 0

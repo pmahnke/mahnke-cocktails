@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bijou"
-categories: [ martini, cocktail]
-eras: [ prohibition, modern]
+categories: [ cocktail]
+eras: [ classic ]
+permalink: "/recipe/bijou.html"
 iconfile: bijou
 stars: 4
 base_spirits: "Gin, Green Chartreuse "
@@ -21,7 +22,7 @@ excerpt: |
 
 |  Amount | Ingredient                        | Brand                     |
 | ------: | --------------------------------- | ------------------------- |
-| 0.75 oz | Gin                               | lymouth                   |
+| 0.75 oz | Gin                               | Plymouth                   |
 | 0.75 oz | Sweet Vermouth                    | Cocchi Vermouth di Torino |
 | 0.75 oz | Green Chartreuse Green Chartreuse |
 |  1 dash | Orange Bitters                    | Regan's No. 6             |

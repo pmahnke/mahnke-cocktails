@@ -3,6 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Adonis"
 categories: [ cocktail ]
+eras: [ classic ]
 permalink: "/recipe/adonis.html"
 iconfile: adonis
 stars: 3
