@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Moscow Mule"
-categories: [ beer, cocktail]
-eras: [ classic ]
+categories: [buck]
+eras: [modern]
 iconfile: moscow_mule
 stars: 0
 base_spirits: "Vodka "

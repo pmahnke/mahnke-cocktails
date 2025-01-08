@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Negroni"
-categories: [ campari, cocktail]
-eras: [ classic ]
+categories: [campari, cocktail]
+eras: [prohibition]
 iconfile: negroni
 stars: 3
 base_spirits: "Gin, Campari "

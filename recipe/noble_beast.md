@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Noble Beast"
-categories: [ coffee, flip, cocktail]
-eras: [ classic, anders]
+categories: [coffee, flip]
+eras: [anders]
 iconfile: noble_beast
 stars: 0
 base_spirits: "Angostura Aromatic Bitters "

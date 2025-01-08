@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mojito"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [fizz]
+eras: [classic]
 iconfile: mojito
 stars: 4
 base_spirits: "Light Rum "

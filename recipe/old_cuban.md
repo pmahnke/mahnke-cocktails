@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Old Cuban"
-categories: [ champagne, cocktail]
-eras: [ classic, modern]
+categories: [spritz]
+eras: [modern]
 iconfile: old_cuban
 stars: 0
 base_spirits: "Champagne, Gold Rum "

@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Monte Cassino"
-categories: [ cocktail ]
+eras: [modern]
+categories: [daisy]
 permalink: "/recipe/monte_cassino.html"
 iconfile: monte_cassino
 stars: 4

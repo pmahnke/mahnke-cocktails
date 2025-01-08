@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Strawberry Frozen Margarita"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [daisy]
+eras: [modern]
 iconfile: margarita_strawberry
 stars: 0
 base_spirits: "Reposado Tequila "

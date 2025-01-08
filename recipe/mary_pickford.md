@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mary Pickford"
-categories: [ cocktail ]
-eras: [ prohibition, classic]
+categories: [cocktail]
+eras: [prohibition]
 iconfile: mary_pickford
 stars: 4
 base_spirits: "Light Rum, Maraschino Liqueur"

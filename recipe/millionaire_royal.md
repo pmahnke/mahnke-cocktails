@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Millionaire Royal"
-categories: [ cocktail ]
+eras: [prohibition]
+categories: [sour]
 permalink: "/recipe/millionaire_royal.html"
 iconfile: millionaire_royal
 stars: 4

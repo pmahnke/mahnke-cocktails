@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Old Pal"
-categories: [ campari, cocktail]
+eras: [prohibition]
+categories: [campari, cocktail]
 permalink: "/recipe/old_pal.html"
 iconfile: old_pal
 stars: 3

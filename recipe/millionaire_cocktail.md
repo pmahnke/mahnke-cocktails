@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Millionaire Cocktail #1"
-categories: [ cocktail ]
+eras: [prohibition]
+categories: [sour]
 permalink: "/recipe/millionaire_cocktail.html"
 iconfile: millionaire_cocktail
 stars: 0

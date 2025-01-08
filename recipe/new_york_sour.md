@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "New York Sour"
-categories: [ sour, cocktail]
-eras: [ classic ]
+categories: [sour]
+eras: [classic]
 iconfile: new_york_sour
 stars: 5
 base_spirits: "Bourbon, Red Wine "

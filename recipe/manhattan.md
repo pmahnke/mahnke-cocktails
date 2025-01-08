@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Manhattan"
-categories: [ martini, cocktail]
-eras: [ classic ]
+categories: [cocktail]
+eras: [classic]
 iconfile: manhattan
 stars: 3
 base_spirits: Rye

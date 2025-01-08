@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Matador"
-categories: [ cocktail ]
+eras: [modern]
+categories: [tiki]
 permalink: "/recipe/matador.html"
 iconfile: matador
 stars: 0

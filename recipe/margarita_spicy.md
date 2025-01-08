@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Smoky Spicy Margarita"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [daisy]
+eras: [modern]
 iconfile: margarita_spicy
 stars: 0
 base_spirits: "Mezcal "

@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Naked & Famous"
-categories: [ cocktail ]
+eras: [modern]
+categories: [daisy]
 permalink: "/recipe/naked_and_famous.html"
 iconfile: naked_and_famous
 stars: 0
