@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Penicillin"
-categories: [ cocktail ]
-eras: [ classic, modern]
+categories: [sour]
+eras: [modern]
 iconfile: penicillin
 stars: 0
 base_spirits: "Scotch, Blended, Scotch, Single Malt "

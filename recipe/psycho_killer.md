@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Psycho Killer"
-categories: [ campari, cocktail]
+eras: [modern]
+categories: [cocktail]
 permalink: "/recipe/psycho_killer.html"
 iconfile: psycho_killer
 stars: 0

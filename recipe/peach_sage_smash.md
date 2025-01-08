@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title: "Peach & Sage Smash"
-categories: [ smash, cocktail]
+eras: [modern]
+categories: [smash]
 permalink: "/recipe/peach_sage_smash.html"
 iconfile: peach_sage_smash
 stars: 0

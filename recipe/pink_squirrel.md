@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pink Squirrel"
-categories: [ cocktail ]
+eras: [modern]
+categories: [after_dinner]
 permalink: "/recipe/pink_squirrel.html"
 iconfile: pink_squirrel
 stars: 0

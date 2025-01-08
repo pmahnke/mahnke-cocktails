@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Remember the Maine"
-categories: [ martini, cocktail]
+eras: [prohibition]
+categories: [cocktail]
 permalink: "/recipe/remember_the_maine.html"
 iconfile: remember_the_maine
 stars: 3

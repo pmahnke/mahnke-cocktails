@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rum Manhattan"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [modern]
 iconfile: rum_manhattan
 stars: 3
 base_spirits: Demerara Rum

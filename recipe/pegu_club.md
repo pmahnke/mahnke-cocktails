@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pegu Club"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [daisy]
+eras: [prohibition]
 iconfile: pegu_club
 stars: 3
 base_spirits: "Gin "

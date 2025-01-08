@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pisco Sour"
-categories: [ sour, cocktail]
+categories: [sour]
+eras: [classic]
 permalink: "/recipe/pisco_sour.html"
 iconfile: pisco_sour
 stars: 5

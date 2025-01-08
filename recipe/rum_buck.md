@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rum Buck"
-categories: [ beer, buck, cocktail]
+eras: [classic]
+categories: [buck]
 permalink: "/recipe/rum_buck.html"
 iconfile: rum_buck
 stars: 0

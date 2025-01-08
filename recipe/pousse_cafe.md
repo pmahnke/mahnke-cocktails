@@ -2,6 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pousse Café"
+eras: [classic]
+categories: [pousse_cafe]
 permalink: "/recipe/pousse_cafe.html"
 iconfile: pousse_cafe
 stars: 0

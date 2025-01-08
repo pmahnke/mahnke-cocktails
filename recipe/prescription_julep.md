@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Prescription Julep"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [julep]
+eras: [classic]
 iconfile: prescription_julep
 stars: 0
 base_spirits: "Cognac, Rye "

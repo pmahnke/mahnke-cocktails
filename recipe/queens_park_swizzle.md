@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Queen's Park Swizzle"
-categories: [ frappe_swizzle, cocktail]
-eras: [ classic ]
+categories: [frappe_swizzle]
+eras: [prohibition]
 iconfile: queens_park_swizzle
 stars: 4
 base_spirits: "Demerara Rum "

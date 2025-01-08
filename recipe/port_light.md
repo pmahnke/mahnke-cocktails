@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Port Light"
-categories: [ tiki, cocktail]
+eras: [modern]
+categories: [tiki]
 permalink: "/recipe/port_light.html"
 iconfile: port_light
 stars: 0

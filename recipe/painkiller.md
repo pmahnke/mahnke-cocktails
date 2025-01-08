@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Painkiller (Inspired)"
-categories: [ cocktail ]
+categories: [tiki]
+eras: [modern]
 permalink: "/recipe/painkiller.html"
 iconfile: painkiller
 stars: 4

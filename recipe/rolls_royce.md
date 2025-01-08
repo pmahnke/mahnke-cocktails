@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rolls Royce"
-categories: [ martini, cocktail]
-eras: [ classic ]
+categories: [martini]
+eras: [prohibition]
 iconfile: rolls_royce
 stars: 0
 base_spirits: "Gin, Bénédictine"
