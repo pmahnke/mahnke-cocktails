@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Jasper’s Rum Punch"
-categories: [ punch, sour, cocktail]
-eras: [ classic ]
+categories: [punch]
+eras: [modern]
 iconfile: jaspers_rum_punch
 stars: 0
 base_spirits: "Overproof Jamaican Rum"

@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Jungle Bird"
-categories: [ campari, tiki, cocktail]
-eras: [ classic ]
+categories: [campari, tiki]
+eras: [modern]
 iconfile: jungle_bird
 stars: 0
 base_spirits: "Jamaican Rum, Demerara Rum, Campari"

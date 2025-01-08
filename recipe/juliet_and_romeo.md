@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Juliet & Romeo"
-categories: [ cocktail ]
+eras: [modern]
+categories: [sour]
 permalink: "/recipe/juliet_and_romeo.html"
 iconfile: juliet_and_romeo
 stars: 0

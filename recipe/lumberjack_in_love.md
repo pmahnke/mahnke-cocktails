@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lumberjack in Love"
-categories: [ beer, cocktail]
+eras: [anders]
+categories: [beer]
 permalink: "/recipe/lumberjack_in_love.html"
 iconfile: lumberjack_in_love
 stars: 0

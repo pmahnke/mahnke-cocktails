@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Jack Rose"
-categories: [ punch, cocktail]
+eras: [prohibition]
+categories: [sour]
 permalink: "/recipe/jackrose.html"
 iconfile: jack_rose
 stars: 0

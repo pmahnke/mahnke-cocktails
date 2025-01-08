@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lion's Tail"
-categories: [ cocktail ]
-eras: [ prohibition, classic]
+eras: [prohibition]
+categories: [sour]
+permalink: "/recipes/lions_tail.html"
 iconfile: lions_tail
 stars: 5
 base_spirits: "Bourbon, Allspice Dram"
