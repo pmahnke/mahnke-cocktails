@@ -2,7 +2,8 @@
 layout: recipe
 author: Marco Valdo Dionysus Cocktail Recipes
 title: "Chartreuse Swizzle"
-categories: [ frappe_swizzle, cocktail]
+eras: [modern]
+categories: [frappe_swizzle]
 permalink: "/recipe/chartreuseswizzle.html"
 iconfile: chartreuse_swizzle
 stars: 5

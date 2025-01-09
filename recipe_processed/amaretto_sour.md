@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Amaretto Sour"
-categories: [ sour, cocktail]
-eras: [ modern ]
+categories: [sour]
+eras: [modern]
+permalink: "/recipe/amaretto_sour.html"
 iconfile: amaretto_sour
 stars: 0
 base_spirits: "Amaretto, Apple Brandy"

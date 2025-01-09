@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mint Julep"
-categories: [ cocktail ]
+eras: [classic]
+categories: [julep]
 permalink: "/recipe/mint_julep.html"
 iconfile: mint_julep
 stars: 4

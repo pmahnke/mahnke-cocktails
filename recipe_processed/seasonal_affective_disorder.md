@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Seasonal Affective Disorder (S.A.D.)"
-categories: [ cocktail ]
-eras: [ anders ]
+categories: [cocktail]
+eras: [anders]
+permalink: "/recipe/seasonal_affective_disorder.html"
 iconfile: seasonal_affective_disorder
 stars: 0
 base_spirits: "Demerara Rum, Cognac, Absinthe"

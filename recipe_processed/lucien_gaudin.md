@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Lucien Gaudin"
-categories: [ campari, cocktail]
-eras: [ classic ]
+categories: [campari, cocktail]
+eras: [prohibition]
+permalink: "/recipe/lucien_gaudin.html"
 iconfile: lucien_gaudin
 stars: 3
 base_spirits: "Plymouth Gin, White Vermouth, Campari "

@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Black Rose"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [modern]
+permalink: "/recipe/black_rose.html"
 iconfile: black_rose
 stars: 2
 base_spirits: "Bourbon. Cognac"

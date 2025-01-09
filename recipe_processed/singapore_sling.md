@@ -3,7 +3,8 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Singapore Sling"
-categories: [ cocktail ]
+eras: [modern]
+categories: [tiki]
 permalink: "/recipe/singapore_sling.html"
 iconfile: singapore_sling
 stars: 0

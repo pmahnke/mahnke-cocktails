@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Haunted House"
-categories: [ cocktail ]
+eras: [modern]
+categories: [cocktail]
 permalink: "/recipe/haunted_house.html"
 iconfile: haunted_house
 stars: 0

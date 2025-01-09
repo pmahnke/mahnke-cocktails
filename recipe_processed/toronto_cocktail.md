@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Toronto Cocktail"
-categories: [ campari, martini, cocktail]
-eras: [ classic ]
+categories: [cocktail]
+eras: [prohibition]
+permalink: "/recipe/toronto_cocktail.html"
 iconfile: toronto_cocktail
 stars: 3
 base_spirits: "Rye, Fernet Branca"

@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Macunaíma"
-categories: [ cocktail ]
+eras: [modern]
+categories: [sour]
 permalink: "/recipe/macunaima.html"
 iconfile: macunaima
 stars: 4

@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hemingway Daiquiri"
-categories: [ cocktail ]
+categories: [sour]
+eras: [prohibition]
 permalink: "/recipe/hemingway_daiquiri.html"
 iconfile: hemingway_daiquiri
 stars: 0

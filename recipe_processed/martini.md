@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Martini"
-categories: [ martini, cocktail]
-eras: [ classic ]
+categories: [martini]
+eras: [classic]
+permalink: "/recipe/martini.html"
 iconfile: martini
 stars: 4
 base_spirits: "Gin "

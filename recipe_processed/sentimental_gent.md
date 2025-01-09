@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title: "Sentimental Gentleman"
-categories: [ cocktail ]
+eras: [modern]
+categories: [cocktail]
 permalink: "/recipe/sentimental_gent.html"
 iconfile: sentimental_gent
 stars: 0

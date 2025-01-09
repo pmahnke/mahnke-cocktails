@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Gunshop Fizz"
-categories: [ fizz, cocktail]
+categories: [fizz]
+eras: [new_orleans]
 permalink: "/recipe/gunshop_fizz.html"
 iconfile: gunshop_fizz
 stars: 0

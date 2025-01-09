@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Greta Garbo"
-categories: [ punch, cocktail]
+eras: [prohibition]
+categories: [cocktail]
 permalink: "/recipe/greta_garbo.html"
 iconfile: greta_garbo
 stars: 0

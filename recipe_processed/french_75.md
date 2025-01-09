@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "French 75"
-categories: [ champagne, sour, cocktail]
+eras: [prohibition]
+categories: [champagne]
 permalink: "/recipe/french75.html"
 iconfile: french_75
 stars: 5

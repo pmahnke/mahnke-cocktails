@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Martinez"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [martini]
+eras: [classic]
+permalink: "/recipe/martinez.html"
 iconfile: martinez
 stars: 0
 base_spirits: "Gin, Maraschino Liqueur"

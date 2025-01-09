@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Clover Club"
-categories: [ sour, cocktail]
-eras: [ classic ]
+categories: [sour]
+eras: [classic]
+permalink: "/recipe/clover_club.html"
 iconfile: clover_club
 stars: 3
 base_spirits: "Gin "

@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sangria"
-categories: [ punch, cocktail]
+eras: [classic]
+categories: [punch]
 permalink: "/recipe/sangria.html"
 iconfile: sangria
 stars: 0

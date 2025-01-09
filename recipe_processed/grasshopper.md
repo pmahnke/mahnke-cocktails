@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Grasshopper, Blended"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [after_dinner]
+eras: [modern]
+permalink: "/recipe/grasshopper.html"
 iconfile: grasshopper
 stars: 0
 base_spirits: "Crème De Menthe, White Crème De Cacao "

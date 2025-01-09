@@ -3,7 +3,8 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Taquila Sunrise"
-categories: [ cocktail ]
+eras: [classic]
+categories: [cocktail]
 permalink: "/recipe/taquila_sunrise.html"
 iconfile: taquila_sunrise
 stars: 0

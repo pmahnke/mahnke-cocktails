@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title: "Brambubble"
-categories: [ champagne, cocktail]
+categories: [champagne]
+eras: [anders]
 permalink: "/recipe/brambubble.html"
 iconfile: brambubble
 stars: 0

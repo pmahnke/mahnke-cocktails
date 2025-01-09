@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Improved Whiskey Cocktail"
-categories: [ cocktail ]
+categories: [cocktail]
+eras: [modern]
 permalink: "/recipe/improved_whiskey_cocktail.html"
 iconfile: improved_whiskey_cocktail
 stars: 0

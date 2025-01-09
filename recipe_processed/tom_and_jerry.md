@@ -3,7 +3,8 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "Tom & Jerry"
-categories: [ eggnog, cocktail]
+eras: [classic]
+categories: [eggnog]
 permalink: "/recipe/tomandjerry.html"
 iconfile: tom_and_jerry
 stars: 0

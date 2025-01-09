@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Blue Hawaii"
-categories: [ cocktail ]
+categories: [highball]
+eras: [modern]
 permalink: "/recipe/blue_hawaii.html"
 iconfile: blue_hawaii
 stars: 0

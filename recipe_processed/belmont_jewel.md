@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Belmont Jewel"
-categories: [ cocktail ]
+categories: [sour]
+eras: [modern]
 permalink: "/recipe/belmont_jewel.html"
 iconfile: belmont_jewel
 stars: 0

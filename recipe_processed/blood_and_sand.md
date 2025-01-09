@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Blood and Sand"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [prohibition]
+permalink: "/recipe/blood_and_sand.html"
 iconfile: blood_and_sand
 stars: 0
 base_spirits: "Blended Scotch, Cherry Liqueur "

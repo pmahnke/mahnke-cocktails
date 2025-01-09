@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Charles Dickens Punch"
-categories: [ punch, cocktail]
-eras: [ classic ]
+categories: [punch]
+eras: [classic]
+permalink: "/recipe/charles_dickens_punch.html"
 iconfile: charles_dickens_punch
 stars: 0
 base_spirits: "Over Proof Rum, Cognac "

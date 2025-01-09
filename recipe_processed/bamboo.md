@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bamboo"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [classic]
+permalink: "/recipe/bamboo.html"
 iconfile: bamboo
 stars: 4
 base_spirits: "Oloroso Sherry "

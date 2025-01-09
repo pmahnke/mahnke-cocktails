@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Perfect Manhattan"
-categories: [ martini, cocktail]
-eras: [ classic ]
+categories: [cocktail]
+eras: [classic]
+permalink: "/recipe/perfect_manhattan.html"
 iconfile: perfect_manhattan
 stars: 0
 base_spirits: "Rye "

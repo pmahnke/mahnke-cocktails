@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brooklyn"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [mordern]
+permalink: "/recipe/brooklyn.html"
 iconfile: brooklyn
 stars: 0
 base_spirits: "Rye, Maraschino Liqueur"

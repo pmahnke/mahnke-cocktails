@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Oaxaca Old Fashioned"
-categories: [ cocktail ]
+eras: [modern]
+categories: [cocktail]
 permalink: "/recipe/oaxaca_old_fashioned.html"
 iconfile: oaxaca_old_fashioned
 stars: 0

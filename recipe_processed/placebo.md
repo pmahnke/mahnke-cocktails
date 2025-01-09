@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Placebo (NA Painkiller)"
-categories: [ tiki, cocktail]
+categories: [tiki]
 permalink: "/recipe/placebo.html"
 iconfile: placebo
 stars: 0

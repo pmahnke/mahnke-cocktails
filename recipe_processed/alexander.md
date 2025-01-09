@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Alexander"
-categories: [ cocktail ]
-eras: [ prohibition ]
+categories: [cocktail]
+eras: [prohibition]
+permalink: "/recipe/alexander.html"
 iconfile: alexander
 stars: 0
 base_spirits: "Gin, Crème de Cacao"

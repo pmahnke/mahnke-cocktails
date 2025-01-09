@@ -1,0 +1,16 @@
+---
+layout: default
+permalink: /category/index.html
+title: Cocktail Categories
+---
+
+<h1>Cocktail Categories</h1>
+
+{% assign sorted = site.data.categories | sort: "name" %}
+{% for cat in sorted %}
+
+<h4><a href="{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></h4>
+<p>{{ cat.description }}</p>
+
+{% endfor %}
+ 

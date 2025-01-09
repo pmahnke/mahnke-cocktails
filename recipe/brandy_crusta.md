@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brandy Crusta"
-categories: [cocktail]
+categories: [crusta]
 eras: [new_orleans]
 permalink: "/recipe/brandy_crusta.html"
 iconfile: brandy_crusta

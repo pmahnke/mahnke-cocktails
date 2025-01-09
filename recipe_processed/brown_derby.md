@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brown Derby"
-categories: [ sour, cocktail]
-eras: [ classic ]
+categories: [sour]
+eras: [modern]
+permalink: "/recipe/brown_derby.html"
 iconfile: brown_derby
 stars: 0
 base_spirits: "Bourbon "

@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bramble"
-categories: [ cocktail ]
+categories: [cobbler]
+eras: [modern]
 permalink: "/recipe/bramble.html"
 iconfile: bramble
 stars: 0

@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Sloe Gin Sour"
-categories: [ campari, sour, cocktail]
-eras: [ classic ]
+categories: [sour]
+eras: [anders]
+permalink: "/recipe/sloe_gin_sour.html"
 iconfile: sloe_gin_sour
 stars: 0
 base_spirits: "Sloe Gin, Campari"

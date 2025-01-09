@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Jack Rose"
-categories: [ punch, cocktail]
-permalink: "/recipe/jackrose.html"
+eras: [prohibition]
+categories: [sour]
+permalink: "/recipe/jack_rose.html"
 iconfile: jack_rose
 stars: 0
 base_spirits: "Apple Brandy "

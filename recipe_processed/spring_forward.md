@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Spring Forward"
-categories: [ cocktail ]
+eras: [anders]
+categories: [cocktail]
 permalink: "/recipe/spring_forward.html"
 iconfile: spring_forward
 stars: 0

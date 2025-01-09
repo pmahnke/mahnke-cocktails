@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Vieux Carré"
-categories: [ cocktail ]
-eras: [ new_orleans, classic]
+categories: [cocktail]
+eras: [new_orleans]
+permalink: "/recipe/vieux_carre.html"
 iconfile: vieux_carre
 stars: 5
 base_spirits: "Rye, Cognac, Bénédictine"

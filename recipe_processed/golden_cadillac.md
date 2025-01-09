@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Golden Cadillac"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [fizz]
+eras: [modern]
+permalink: "/recipe/golden_cadillac.html"
 iconfile: golden_cadillac
 stars: 0
 base_spirits: "Galliano, White Crème de Cacao"

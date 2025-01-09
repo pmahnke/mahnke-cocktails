@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Junior (aka Quick Recovery)"
-categories: [ cocktail ]
+eras: [prohibition]
+categories: [sour]
 permalink: "/recipe/junior.html"
 iconfile: junior
 stars: 0

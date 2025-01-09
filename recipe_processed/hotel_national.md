@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Hotel National Cocktail"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [sour]
+eras: [prohibition]
+permalink: "/recipe/hotel_national.html"
 iconfile: hotel_national
 stars: 4
 base_spirits: "Light Rum, Apricot Liqueur"

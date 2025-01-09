@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Irish Maid"
-categories: [ sour, cocktail]
-permalink: "/recipe/irishmaid.html"
+categories: [sour]
+eras: [modern]
+permalink: "/recipe/irish_maid.html"
 iconfile: irish_maid
 stars: 0
 base_spirits: "Irish Whiskey, Elderflower Liqueur "

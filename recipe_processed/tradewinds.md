@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Tradewinds"
-categories: [ tiki, cocktail]
-eras: [ classic ]
+categories: [tiki]
+eras: [modern]
+permalink: "/recipe/tradewinds.html"
 iconfile: tradewinds
 stars: 0
 base_spirits: "Dark Rum, Gold Rum, Apricot Liqueur"

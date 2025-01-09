@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mezcal Margarita"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [daisy]
+eras: [modern]
+permalink: "/recipe/margarita_mezcal.html"
 iconfile: margarita_mezcal
 stars: 0
 base_spirits: "Mezcal"

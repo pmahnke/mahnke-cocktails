@@ -2,6 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pousse Café Shot"
+eras: [classic]
+categories: [shot]
 permalink: "/recipe/pousse_cafe_shot.html"
 iconfile: pousse_cafe_shot
 stars: 0

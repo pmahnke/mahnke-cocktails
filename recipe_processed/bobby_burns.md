@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Bobby Burns"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [classic]
+permalink: "/recipe/bobby_burns.html"
 iconfile: bobby_burns
 stars: 0
 base_spirits: "Scotch, Blended, Bénédictine"

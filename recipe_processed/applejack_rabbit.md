@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Applejack Rabbit"
-categories: [ cocktail ]
+categories: [sour]
+eras: [prohibition]
 permalink: "/recipe/applejack_rabbit.html"
 iconfile: applejack_rabbit
 stars: 0

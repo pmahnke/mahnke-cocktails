@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "General Harrison’s Eggnog"
-categories: [ eggnog, cocktail]
+categories: [eggnog]
+eras: [classic]
 permalink: "/recipe/general_harrisons_eggnog.html"
 iconfile: general_harrisons_eggnog
 stars: 0

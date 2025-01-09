@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "See No Evil"
-categories: [ cocktail ]
-eras: [ anders ]
+categories: [sour]
+eras: [anders]
+permalink: "/recipe/see_no_evil.html"
 iconfile: see_no_evil
 stars: 0
 base_spirits: "Mezcal "

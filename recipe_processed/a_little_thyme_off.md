@@ -3,8 +3,8 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "A Little Thyme Off"
-categories: [ beer, cocktail]
-permalink: "/recipe/littlethymeoff.html"
+categories: [cocktail]
+permalink: "/recipe/a_little_thyme_off.html"
 iconfile: a_little_thyme_off
 stars: 0
 base_spirits: "Lemon, Thyme Simple Syrup, Ginger Beer"

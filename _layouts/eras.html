@@ -12,14 +12,14 @@ layout: default
 
 <div class="row">
     <div class="two-thirds column">
-        
-        {% assign s = site.data.style | where: "slug", page.style | first %}
+
+        {% assign s = site.data.eras | where: "slug", page.eras | first %}
         <h2>{{ s.name }}</h2>
         <p>{{ s.description }}</p>
         
         <table style="width:100%;">
         {% for page in site.pages %}
-        {% if page.style == s.slug %}
+        {% if page.eras contains s.slug and page.layout == 'recipe' %}
          <tr>
             <th class="no-border" style="width:35%;">
                 <a href="{{ page.url | prepend: site.baseurl }}">

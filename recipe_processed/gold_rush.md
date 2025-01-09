@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Gold Rush"
-categories: [ cocktail ]
-eras: [ classic, modern]
+categories: [sour]
+eras: [modern]
+permalink: "/recipe/gold_rush.html"
 iconfile: gold_rush
 stars: 0
 base_spirits: "Bourbon"

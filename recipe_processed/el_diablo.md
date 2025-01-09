@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "El Diablo"
-categories: [ beer, cocktail]
+categories: [tikil]
+eras: [modern]
 permalink: "/recipe/el_diablo.html"
 iconfile: el_diablo
 stars: 0

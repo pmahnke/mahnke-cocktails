@@ -2,8 +2,9 @@
 layout: recipe
 author: The Educated Barfly Cocktail Recipes
 title: "Sage Hen"
-categories: [ cocktail ]
-eras: [ modern ]
+categories: [sour]
+eras: [modern]
+permalink: "/recipe/sage_hen.html"
 iconfile: sage_hen
 stars: 0
 base_spirits: "Gin, Yellow Chartreuse "

@@ -3,8 +3,9 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Devil's Day Off"
-categories: [ cocktail ]
-eras: [ anders ]
+categories: [cocktail]
+eras: [anders]
+permalink: "/recipe/devils_day_off.html"
 iconfile: devils_day_off
 stars: 0
 base_spirits: "Citrus, Bitter Red Soda"

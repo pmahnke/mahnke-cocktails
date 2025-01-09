@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Fog Cutter"
-categories: [ tiki, cocktail]
+eras: [modern]
+categories: [tiki]
 permalink: "/recipe/fog_cutter.html"
 iconfile: fog_cutter
 stars: 4

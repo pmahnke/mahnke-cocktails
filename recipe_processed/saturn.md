@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Saturn"
-categories: [ cocktail ]
+eras: [modern]
+categories: [tiki]
 permalink: "/recipe/saturn.html"
 iconfile: saturn
 stars: 0

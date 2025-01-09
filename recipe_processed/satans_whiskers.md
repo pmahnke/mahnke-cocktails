@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Satan's Whiskers"
-categories: [ cocktail ]
-eras: [ prohibition, classic]
+categories: [cocktail]
+eras: [prohibition]
+permalink: "/recipe/satans_whiskers.html"
 iconfile: satans_whiskers
 stars: 0
 base_spirits: "Gin "

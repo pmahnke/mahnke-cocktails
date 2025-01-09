@@ -2,8 +2,9 @@
 layout: recipe
 author: Difford's Guide Cocktail Recipes
 title: "Sweet Virginia"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [modern]
+permalink: "/recipe/sweet_virginia.html"
 iconfile: sweet_virginia
 stars: 3
 base_spirits: "Bourbon. Cherry Liqueur"

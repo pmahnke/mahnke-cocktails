@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Mundo Perdido"
-categories: [ tiki, cocktail]
+eras: [modern]
+categories: [tiki]
 permalink: "/recipe/mundo_perdido.html"
 iconfile: mundo_perdido
 stars: 0

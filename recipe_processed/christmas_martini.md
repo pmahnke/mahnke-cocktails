@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Christmas Martini"
-categories: [ martini, cocktail]
-eras: [ classic ]
+categories: [martini]
+eras: [anders]
+permalink: "/recipe/christmas_martini.html"
 iconfile: christmas_martini
 stars: 0
 base_spirits: "Gin, Cocchi Americano"

@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Affinity"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [classic]
+permalink: "/recipe/affinity.html"
 iconfile: affinity
 stars: 0
 base_spirits: "Scotch, Vermouth"

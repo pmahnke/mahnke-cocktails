@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Pendennis Club Cocktail"
-categories: [ sour, cocktail]
-eras: [ classic ]
+categories: [sour]
+eras: [classic]
+permalink: "/recipe/pendennis_club.html"
 iconfile: pendennis_club
 stars: 3
 base_spirits: "Gin, Apricot Liqueur "

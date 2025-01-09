@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Preakness"
-categories: [ cocktail ]
+categories: [cocktail]
+eras: [prohibition]
 permalink: "/recipe/preakness.html"
 iconfile: preakness
 stars: 3

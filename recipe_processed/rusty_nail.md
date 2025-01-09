@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rusty Nail"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [modern]
+permalink: "/recipe/rusty_nail.html"
 iconfile: rusty_nail
 stars: 2
 base_spirits: "Scotch, Drambuie"

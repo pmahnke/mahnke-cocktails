@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Revolver"
-categories: [ coffee, cocktail]
+eras: [modern]
+categories: [coffee, after_dinner]
 permalink: "/recipe/revolver.html"
 iconfile: revolver
 stars: 0

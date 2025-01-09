@@ -1,7 +1,8 @@
 ---
 layout: recipe
 title: "Strawberry Basil Smash"
-categories: [ smash, cocktail]
+eras: [classic]
+categories: [smash]
 permalink: "/recipe/strawberry_basil_smash.html"
 iconfile: strawberry_basil_smash
 stars: 0

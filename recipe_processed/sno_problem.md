@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "S'no Problem"
-categories: [ cocktail ]
+eras: [anders]
+categories: [toddy]
 permalink: "/recipe/sno_problem.html"
 iconfile: sno_problem
 stars: 0

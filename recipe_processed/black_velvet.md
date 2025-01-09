@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Black Velvet"
-categories: [ beer, champagne, cocktail]
+categories: [beer, champagne, cocktail]
+eras: [classic]
 permalink: "/recipe/black_velvet.html"
 iconfile: black_velvet
 stars: 0

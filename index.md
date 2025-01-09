@@ -27,7 +27,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             </th>
             <td class="no-border" style="width:40%;">
                 {% include category_search.html %}<br>
-                categories: {% for s in page.categories %}<a href="/cocktails/category/{{s}}.html">{{ s | capitalize }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}<br>
+                categories: {% for s in page.categories %}<a href="/cocktails/category/{{s}}_cocktails.html">{{ s | capitalize }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}<br>
                 eras: {% for s in page.eras %}<a href="/cocktails/era/{{s}}.html">{{ s | capitalize }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
             </td>
             <td class="no-border stars" style="width:25%">

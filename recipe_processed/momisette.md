@@ -2,7 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Momisette"
-categories: [ cocktail ]
+eras: [prohibition]
+categories: [fizz]
 permalink: "/recipe/momisette.html"
 iconfile: momisette
 stars: 5

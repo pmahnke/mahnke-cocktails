@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Apeman (Aka Happy Holidape)"
-categories: [ cocktail ]
-eras: [ anders ]
+categories: [cocktail]
+eras: [anders]
+permalink: "/recipe/apeman.html"
 iconfile: apeman
 stars: 0
 base_spirits: "Bourbon, Oloroso Sherry, Banana Liquor"

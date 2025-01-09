@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Rabo De Galo"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [cocktail]
+eras: [modern]
+permalink: "/recipe/rabo_de_galo.html"
 iconfile: rabo_de_galo
 stars: 0
 base_spirits: "Cachaça, Cynar Amaro"

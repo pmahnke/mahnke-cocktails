@@ -1,0 +1,15 @@
+- name: Anders Erickson
+  slug: anders
+  description: Cocktails created by former bartender and popular youtuber, Anders Erickson.
+- name: Classic
+  slug: classic
+  description: A classic cocktail is a drink that was invented before Prohibition and has endured over time, even if the recipes have changed.
+- name: Modern
+  slug: modern
+  description: Modern cocktails are a broad category of mixed drinks that have emerged in recent decades, often characterized by a focus on quality ingredients, innovative techniques, and creative flavor combinations. They draw inspiration from both classic cocktails and contemporary culinary trends.
+- name: Prohibition
+  slug: prohibition
+  description: Prohibition cocktails are a class of cocktails that were invented or popularized during the Prohibition era in the United States (1920-1933).
+- name: New Orleans
+  slug: new_orleans
+  description: New Orleans cocktails are a category of mixed drinks that are typically associated with the city of New Orleans, Louisiana. They are often characterized by their use of unique ingredients and bold flavors, reflecting the city's rich history and cultural diversity.

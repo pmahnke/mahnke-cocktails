@@ -47,7 +47,11 @@ layout: default
 
     {{ content }}
    
-
+        <p>
+        categories: {% for s in page.categories %}<a href="/cocktails/category/{{s}}_cocktails.html">{{ s | capitalize }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}<br>
+        era: {% for s in page.eras %}<a href="/cocktails/era/{{s}}.html">{{ s | capitalize }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}   
+        </p>
+        
     </div><!-- /div 2/3 -->
    
     <div class="one-third column">

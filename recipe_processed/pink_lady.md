@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "The Pink Lady"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [sour]
+eras: [prohibition]
+permalink: "/recipe/pink_lady.html"
 iconfile: pink_lady
 stars: 4
 base_spirits: "Gin, Apple Brandy "

@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Harvey Wallbanger"
-categories: [ cocktail ]
-eras: [ classic, modern]
+categories: [cocktail]
+eras: [modern]
+permalink: "/recipe/harvey_wallbanger.html"
 iconfile: harvey_wallbanger
 stars: 0
 base_spirits: "Vodka, Galliano"

@@ -3,8 +3,9 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: multirecipe
 title: "The Daisy"
-categories: [ daisy, highball, sour, cocktail]
-eras: [ modern ]
+categories: [daisy]
+eras: [classic]
+permalink: "/recipe/daisy.html"
 iconfile: daisy
 stars: 0
 base_spirits: "Cognac Jamaican Rum -OR- Gin, Bénédictine "

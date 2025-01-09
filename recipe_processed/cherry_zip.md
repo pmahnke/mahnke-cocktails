@@ -4,6 +4,7 @@ type: non-alcoholic
 title: "Cherry Zip"
 categories: [ cocktail ]
 eras: [ classic ]
+permalink: "/recipe/cherry_zip.html"
 iconfile: cherry_zip
 stars: 0
 base_spirits: "Cherry Juice, Orgeat, Tea, Lemon"
