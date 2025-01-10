@@ -26,9 +26,11 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
                 </a>
             </th>
             <td class="no-border" style="width:40%;">
-                {% include category_search.html %}<br>
+                {% include category_search.html %}
+                {% comment %}<br>
                 categories: {% for s in page.categories %}<a href="/cocktails/category/{{s}}_cocktails.html">{{ s | capitalize }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}<br>
                 eras: {% for s in page.eras %}<a href="/cocktails/era/{{s}}.html">{{ s | capitalize }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
+                {% endcomment %}
             </td>
             <td class="no-border stars" style="width:25%">
                 {% include stars.html %}
@@ -70,7 +72,21 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             {% endif %}
         {% endfor %}
         </ul>
-        <h2>Bar Essentials Lists</h2>
+        <h3>Recipes by category</h3>
+        <ul>
+        {% assign sorted = site.data.categories | sort: "name" %}
+        {% for cat in sorted %}
+            <li><a href="{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></li>
+        {% endfor %}
+        </ul>
+        <h3>Recipes by era</h3>
+        <ul>
+        {% assign sorted = site.data.eras | sort: "name" %}
+        {% for era in sorted %}
+            <li><a href="{{ era.slug }}.html">{{ era.name }}</a></li>
+        {% endfor %}
+        </ul>
+        <h3>Bar Essentials Lists</h3>
         <ul>
         {% for page in site.pages %}
             {% if page.type == "list" %}
@@ -80,12 +96,14 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             {% endif %}
         {% endfor %}
         </ul>
-        <h2>Links</h2>
+        <h3>Links</h3>
         <ul>
+            <li><strong>Anders Erickson's links</strong></li>
             <li><a href="https://www.youtube.com/@AndersErickson/videos" target="_blank">YouTube</a></li>
             <li><a href="https://www.anderserickson.com/" target="_blank">Website</a></li>
             <li><a href="https://www.patreon.com/anderserickson/posts" target="_blank">Patreon</a></li>
             <li><a href="https://curiada.com/collections/anders-erickson-spirits-collection?utm_campaign=Anders-Website-Primary-Link&utm_medium=Anders&utm_source=Partnership" target="_blank">Curiada</a></li>
+            <li><strong>Other links</strong></li>
             <li><a href="https://euvs-vintage-cocktail-books.cld.bz/" target="_blank">EUVS Vintage Cocktail Book PDFs</a></li>
             <li><a href="./AndersEricksonCocktailsList.numbers" target="_blank">Cocktail Ingredients Breakdown</a></li>
         </ul>

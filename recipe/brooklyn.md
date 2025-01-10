@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Brooklyn"
 categories: [cocktail]
-eras: [mordern]
+eras: [modern]
 permalink: "/recipe/brooklyn.html"
 iconfile: brooklyn
 stars: 0
