@@ -26,8 +26,8 @@ excerpt: |
 
 ### Notes
 
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Footed Rocks Glass
 - Garnish: Lemon Twist
 - Special Prep: None
