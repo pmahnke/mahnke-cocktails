@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Daiquri"
 categories: [sour]
-eras: [sour]
+eras: [classic]
 permalink: "/recipe/daiquri.html"
 iconfile: daiquri
 stars: 5

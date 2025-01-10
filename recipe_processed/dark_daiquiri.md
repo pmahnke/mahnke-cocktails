@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Dark Daiquiri"
 categories: [sour]
-eras: [morder]
+eras: [modern]
 permalink: "/recipe/dark_daiquiri.html"
 iconfile: dark_daiquiri
 stars: 5
