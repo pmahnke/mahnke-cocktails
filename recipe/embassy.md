@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/embassy.html"
 iconfile: embassy
-stars: 4
+stars: 3
 base_spirits: "Cognac, Jamaican Rum"
 youtube: "YFqEvNdPrX8"
 excerpt: |
