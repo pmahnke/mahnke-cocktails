@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson Cocktail Recipes
+creator: Harry Johnson
 title: "Bijou"
 categories: [cocktail]
 eras: [classic]

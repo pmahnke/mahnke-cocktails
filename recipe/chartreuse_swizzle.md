@@ -1,6 +1,7 @@
 ---
 layout: recipe
-author: Marco Valdo Dionysus Cocktail Recipes
+author: Anders Erickson Cocktail Recipes
+creator: Marco Valdo Dionysus
 title: "Chartreuse Swizzle"
 eras: [modern]
 categories: [frappe_swizzle]
