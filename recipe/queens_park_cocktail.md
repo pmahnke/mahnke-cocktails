@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/queens_park_cocktail.html"
 iconfile: queens_park_cocktail
-stars: 0
+stars: 3
 base_spirits: "Gold Rum "
 youtube: "ASTV1OEXhbE"
 excerpt: |
@@ -21,7 +21,7 @@ excerpt: |
 |   0.5 oz | Sweet Vermouth                                  | Cocchi Vermouth di Torino |
 |   0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 |   0.5 oz | Fresh Lime Juice                                |
-| 4 dashes | Bitters                                         | Angostura Aromatic        |
+| 4 dashes | Bitters                                         | Angostura Aromatic Bitters        |
 
 ### Notes
 
