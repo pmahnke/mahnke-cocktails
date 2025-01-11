@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
     - url: /cocktails/assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
     - url: /cocktails/assets/images/ingredient-port.svg

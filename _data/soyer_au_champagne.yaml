@@ -4,6 +4,8 @@ images:
       title: Benedictine
     - url: /cocktails/assets/images/ingredient-champagne.svg
       title: Champagne
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
   tool:
     - url: /cocktails/assets/images/tool_stirred.svg
       title: Stirred

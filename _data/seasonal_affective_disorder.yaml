@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-absinthe.svg
       title: Absinthe
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
     - url: /cocktails/assets/images/ingredient-dark-rum.svg
       title: Demerara rum
   tool:

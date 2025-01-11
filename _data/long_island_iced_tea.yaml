@@ -9,6 +9,3 @@ images:
   tool:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker
-  garnish:
-    - url: /cocktails/assets/images/fruit_lemon.svg
-      title: Lemon slice

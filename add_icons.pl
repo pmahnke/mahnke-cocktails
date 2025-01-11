@@ -329,7 +329,7 @@ foreach $file (sort @files) {
     $ingredient{'dark-rum'} = `grep 'base_spirits:' $file | ag -i 'dark rum'`;
     $ingredient{'rye'} = `grep 'base_spirits:' $file | ag -i 'rye'`;
     $ingredient{'cognac'} = `grep 'base_spirits:' $file | ag -i 'cognac'`;
-    $ingredient{'cognac'} = `grep 'base_spirits:' $file | ag -i 'brandy'`;
+    $ingredient{'cognac'} = `grep 'base_spirits:' $file | ag -i 'brandy'` if (!$ingredient{'cognac'});
     $ingredient{'lemon-juice'} = `grep 'base_spirits:' $file | ag -i 'lemon juice'`;
     $ingredient{'grenadine'} = `grep 'base_spirits:' $file | ag -i 'grenadine'`;
     $ingredient{'gin'} = `grep 'base_spirits:' $file | ag -i 'gin'`;

@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
     - url: /cocktails/assets/images/ingredient-creme-de-menthe.svg
       title: Creme de menthe
   tool:

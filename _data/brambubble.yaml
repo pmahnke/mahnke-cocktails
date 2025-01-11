@@ -15,8 +15,8 @@ images:
     - url: /cocktails/assets/images/glass_highball.svg
       title: Highball
   garnish:
-    - url: /cocktails/assets/images/fruit_lemon.svg
-      title: Lemon slice
+    - url: /cocktails/assets/images/fruit_blackberries.svg
+      title: Blackberries
   ice:
     - url: /cocktails/assets/images/ice_cubes.svg
       title: Cubes
