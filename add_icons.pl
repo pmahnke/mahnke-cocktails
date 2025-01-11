@@ -271,6 +271,7 @@ foreach $file (sort @files) {
     $garnish{'coffee'} = `ag -il 'coffee beans' $file`;
     $garnish{'lemon_cherry'} = `ag -il 'Cocktail cherry and lemon zest' $file`;
     $garnish{'cocktail-cherry'} = `ag -il 'cocktail cherry' $file` if (!$garnish{'lemon_cherry'} );
+    $garnish{'lemon-slice'} = `ag -il 'lemon wedge' $file`;
 
     $glass{'cobbler'} = `ag -il 'flared' $file`;
     $glass{'coffee'} = `ag -il 'coffee' $file`;

@@ -8,3 +8,6 @@ images:
   glass:
     - url: /cocktails/assets/images/glass_collins.svg
       title: Collins
+  garnish:
+    - url: /cocktails/assets/images/fruit_lemon.svg
+      title: Lemon slice
