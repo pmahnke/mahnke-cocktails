@@ -4,6 +4,8 @@ images:
       title: Apricot liqueur
     - url: /cocktails/assets/images/ingredient-sherry.svg
       title: Sherry
+    - url: /cocktails/assets/images/ingredient-white-wine.svg
+      title: White wine
   garnish:
     - url: /cocktails/assets/images/fruit_strawberry.svg
       title: Strawberry

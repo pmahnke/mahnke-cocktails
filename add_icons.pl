@@ -211,6 +211,8 @@ $INCLUDE{'peach'} = qq|/cocktails/assets/images/ingredient-peach.svg|;
 $INCLUDE{'cherry'} = qq|/cocktails/assets/images/ingredient-cherry.svg|;
 $INCLUDE{'creme-de-menthe'} = qq|/cocktails/assets/images/ingredient-creme-de-menthe.svg|;
 $INCLUDE{'blackberry'} = qq|/cocktails/assets/images/ingredient-blackberry.svg|;
+$INCLUDE{'red_wine'} = qq|/cocktails/assets/images/ingredient-red-wine.svg|;
+$INCLUDE{'white_wine'} = qq|/cocktails/assets/images/ingredient-white-wine.svg|;
 
 $INCLUDE{'stirred'} = qq|/cocktails/assets/images/tool_stirred.svg|;
 $INCLUDE{'double-strained'} = qq|/cocktails/assets/images/tool_double_strain.svg|;
@@ -294,7 +296,7 @@ foreach $file (sort @files) {
     $glass{'rocks'} .= `ag -il 'Rocks Glass' $file`;
     $glass{'sling'} = `ag -il 'sling' $file`;
     $glass{'snifter'} = `ag -il 'snifter' $file`;
-    $glass{'sour'} = `ag -il 'sour' $file`;
+    #$glass{'sour'} = `ag -il 'sour' $file`;
     $glass{'tiki'} = `ag -il 'tiki' $file`;
     #$glass{'whiskey'} = `ag -il 'whiskey' $file`;
 
@@ -417,7 +419,9 @@ foreach $file (sort @files) {
     $ingredient{'cherry'} = `grep 'base_spirits:' $file | ag -i 'cherry liqueur'`;
     $ingredient{'creme-de-menthe'} = `grep 'base_spirits:' $file | ag -i 'de menthe'`;
     $ingredient{'blackberry'} = `grep 'base_spirits:' $file | ag -i 'me de mûre'`; # creme de mure
-
+    $ingredient{'red_wine'} = `grep 'base_spirits:' $file | ag -i 'red wine'`; #
+    $ingredient{'white_wine'} = `grep 'base_spirits:' $file | ag -i 'white wine'`; #
+  
     my ($tool, $glass, $garnish, $ingredient, $ice) = "";
 
 #images:

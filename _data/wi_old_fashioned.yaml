@@ -6,8 +6,8 @@ images:
     - url: /cocktails/assets/images/tool_muddler.svg
       title: Muddler
   glass:
-    - url: /cocktails/assets/images/glass_sour.svg
-      title: Sour
+    - url: /cocktails/assets/images/glass_rocks.svg
+      title: Rocks
   garnish:
     - url: /cocktails/assets/images/fruit-orange.svg
       title: Orange slice

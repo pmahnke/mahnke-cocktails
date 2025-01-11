@@ -6,8 +6,8 @@ images:
     - url: /cocktails/assets/images/tool_muddler.svg
       title: Muddler
   glass:
-    - url: /cocktails/assets/images/glass_sour.svg
-      title: Sour
+    - url: /cocktails/assets/images/glass_double-old-fashioned.svg
+      title: Double old fashioned
   garnish:
     - url: /cocktails/assets/images/slice_lime.svg
       title: Lime slice

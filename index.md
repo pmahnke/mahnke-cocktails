@@ -72,14 +72,14 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             {% endif %}
         {% endfor %}
         </ul>
-        <h3>Recipes by category</h3>
+        <h3><a href="/cocktails/category/">Recipes by category</a></h3>
         <ul>
         {% assign sorted = site.data.categories | sort: "name" %}
         {% for cat in sorted %}
             <li><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></li>
         {% endfor %}
         </ul>
-        <h3>Recipes by era</h3>
+        <h3><a href="/cocktails/era/">Recipes by era</a></h3>
         <ul>
         {% assign sorted = site.data.eras | sort: "name" %}
         {% for era in sorted %}

@@ -8,8 +8,8 @@ images:
     - url: /cocktails/assets/images/tool_long-stirrer.svg
       title: Long stirrer
   glass:
-    - url: /cocktails/assets/images/glass_sour.svg
-      title: Sour
+    - url: /cocktails/assets/images/glass_highball.svg
+      title: Highball
   garnish:
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint

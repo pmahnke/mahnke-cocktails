@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-orange.svg
       title: Galliano
+    - url: /cocktails/assets/images/ingredient-red-wine.svg
+      title: Red wine
     - url: /cocktails/assets/images/ingredient-sherry.svg
       title: Sherry
   tool:

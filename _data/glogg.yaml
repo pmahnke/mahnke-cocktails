@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-port.svg
       title: Port
+    - url: /cocktails/assets/images/ingredient-red-wine.svg
+      title: Red wine
   garnish:
     - url: /cocktails/assets/images/twist_orange.svg
       title: Orange twist

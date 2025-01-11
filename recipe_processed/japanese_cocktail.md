@@ -42,13 +42,12 @@ excerpt: |
 
 ### Ingredients
 
-|       Amount | Ingredient                                      | Brand               |
-| -----------: | ----------------------------------------------- | ------------------- |
-| Ingredients: |
-|       1.5 oz / 37.5 ml | Cognac                                          | Pierre Ferrand 1840 |
-|      0.75 oz / 19 ml | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-|      0.75 oz / 19 ml | Fresh Lemon Juice                               |
-|     2 dashes | Peychaud's bitters                              | Peychaud's bitters  |
+|   Amount | Ingredient                                      | Brand               |
+| -------: | ----------------------------------------------- | ------------------- |
+|   1.5 oz / 37.5 ml | Cognac                                          | Pierre Ferrand 1840 |
+|  0.75 oz / 19 ml | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+|  0.75 oz / 19 ml | Fresh Lemon Juice                               |
+| 2 dashes | Peychaud's bitters                              | Peychaud's bitters  |
 
 ### Notes
 

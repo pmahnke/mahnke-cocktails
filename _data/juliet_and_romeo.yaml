@@ -8,8 +8,8 @@ images:
     - url: /cocktails/assets/images/tool_muddler.svg
       title: Muddler
   glass:
-    - url: /cocktails/assets/images/glass_sour.svg
-      title: Sour
+    - url: /cocktails/assets/images/glass_coupe.svg
+      title: Coupe
   garnish:
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint

@@ -18,5 +18,5 @@ excerpt: |
 
 ### Method
 
-1. In a heat resistant bowl or glass, combine 3 parts honey and| 1 part hot water.
+1. In a heat resistant bowl or glass, combine 3 parts honey and 1 part hot water.
 2. Stir until honey and water are completely integrated.
