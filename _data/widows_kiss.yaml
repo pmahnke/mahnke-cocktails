@@ -6,6 +6,8 @@ images:
       title: Benedictine
     - url: /cocktails/assets/images/ingredient-chartreuse.svg
       title: Chartreuse
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
   tool:
     - url: /cocktails/assets/images/tool_double_strain.svg
       title: Double strained

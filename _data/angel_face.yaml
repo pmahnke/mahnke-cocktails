@@ -4,6 +4,8 @@ images:
       title: Apple brandy
     - url: /cocktails/assets/images/ingredient-apricot-liqueur.svg
       title: Apricot liqueur
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
   tool:

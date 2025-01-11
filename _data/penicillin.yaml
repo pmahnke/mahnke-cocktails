@@ -8,8 +8,8 @@ images:
     - url: /cocktails/assets/images/tool_muddler.svg
       title: Muddler
   glass:
-    - url: /cocktails/assets/images/glass_rocks.svg
-      title: Rocks
+    - url: /cocktails/assets/images/glass_sour.svg
+      title: Sour
   ice:
     - url: /cocktails/assets/images/ice_large.svg
       title: Large

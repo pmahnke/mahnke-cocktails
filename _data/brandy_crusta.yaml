@@ -1,7 +1,5 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-cognac.svg
-      title: Cognac
     - url: /cocktails/assets/images/ingredient-maraschino-liqueur.svg
       title: Maraschino liqueur
   tool:

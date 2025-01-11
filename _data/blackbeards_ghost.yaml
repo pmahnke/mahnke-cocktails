@@ -10,8 +10,8 @@ images:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker
   glass:
-    - url: /cocktails/assets/images/glass_rocks.svg
-      title: Rocks
+    - url: /cocktails/assets/images/glass_tiki.svg
+      title: Tiki
   garnish:
     - url: /cocktails/assets/images/slice_pineapple.svg
       title: Pineapple slice

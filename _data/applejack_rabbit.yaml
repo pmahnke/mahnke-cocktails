@@ -2,12 +2,14 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-apple-brandy.svg
       title: Apple brandy
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
   tool:
     - url: /cocktails/assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+    - url: /cocktails/assets/images/glass_sour.svg
+      title: Sour
   garnish:
     - url: /cocktails/assets/images/fruit-orange.svg
       title: Orange slice

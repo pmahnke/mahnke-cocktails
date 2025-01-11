@@ -8,5 +8,5 @@ images:
     - url: /cocktails/assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_coupe.svg
-      title: Coupe
+    - url: /cocktails/assets/images/glass_martini.svg
+      title: Martini

@@ -4,6 +4,8 @@ images:
       title: Amaro
     - url: /cocktails/assets/images/ingredient-apple-brandy.svg
       title: Apple brandy
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
     - url: /cocktails/assets/images/ingredient-rye.svg
       title: Rye
   tool:

@@ -1,13 +1,11 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-cacao.svg
+    - url: /cocktails/assets/images/ingredient-creme_de_cacao.svg
       title: Creme de cacao
     - url: /cocktails/assets/images/ingredient-light-rum.svg
       title: Light rum
     - url: /cocktails/assets/images/ingredient-port.svg
       title: Port
-    - url: /cocktails/assets/images/ingredient-cacao.svg
-      title: White creme de cacao
   tool:
     - url: /cocktails/assets/images/tool_double_strain.svg
       title: Double strained

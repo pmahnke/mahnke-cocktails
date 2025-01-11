@@ -10,8 +10,8 @@ images:
     - url: /cocktails/assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_sling.svg
-      title: Sling
+    - url: /cocktails/assets/images/glass_tiki.svg
+      title: Tiki
   garnish:
     - url: /cocktails/assets/images/slice_pineapple.svg
       title: Pineapple slice

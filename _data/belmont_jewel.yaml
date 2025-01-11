@@ -8,8 +8,8 @@ images:
     - url: /cocktails/assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_rocks.svg
-      title: Rocks
+    - url: /cocktails/assets/images/glass_sour.svg
+      title: Sour
   garnish:
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint

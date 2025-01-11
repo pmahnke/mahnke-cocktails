@@ -7,6 +7,8 @@ images:
       title: Boston shaker
     - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
       title: Hawthorn strainer
+    - url: /cocktails/assets/images/tool_long-stirrer.svg
+      title: Long stirrer
   garnish:
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint

@@ -2,7 +2,7 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-cocchi-americano.svg
       title: Cocchi americano
-    - url: /cocktails/assets/images/ingredient-cacao.svg
+    - url: /cocktails/assets/images/ingredient-creme_de_cacao.svg
       title: Creme de cacao
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
@@ -10,8 +10,8 @@ images:
     - url: /cocktails/assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+    - url: /cocktails/assets/images/glass_sour.svg
+      title: Sour
   garnish:
     - url: /cocktails/assets/images/twist_cocktail-cherry.svg
       title: Cocktail cherry
