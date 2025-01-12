@@ -13,6 +13,8 @@ images:
     - url: /cocktails/assets/images/glass_highball.svg
       title: Highball
   garnish:
+    - url: /cocktails/assets/images/fruit_lemon.svg
+      title: Lemon slice
     - url: /cocktails/assets/images/herb_thyme.svg
       title: Thyme
   ice:

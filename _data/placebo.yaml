@@ -13,6 +13,8 @@ images:
     - url: /cocktails/assets/images/glass_tiki.svg
       title: Tiki
   garnish:
+    - url: /cocktails/assets/images/spice_cinnamon.svg
+      title: Cinnamon
     - url: /cocktails/assets/images/slice_pineapple.svg
       title: Pineapple slice
   ice:

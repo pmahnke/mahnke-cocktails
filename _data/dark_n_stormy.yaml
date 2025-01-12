@@ -3,6 +3,8 @@ images:
     - url: /cocktails/assets/images/ingredient-dark-rum.svg
       title: Dark rum
   glass:
+    - url: /cocktails/assets/images/glass_highball.svg
+      title: Highball
     - url: /cocktails/assets/images/glass_sling.svg
       title: Sling
   garnish:

@@ -1,4 +1,16 @@
 images:
   glass:
+    - url: /cocktails/assets/images/glass_coupe.svg
+      title: Coupe
+    - url: /cocktails/assets/images/glass_double-old-fashioned.svg
+      title: Double old fashioned
+    - url: /cocktails/assets/images/glass_flute.svg
+      title: Flute
+    - url: /cocktails/assets/images/glass_martini.svg
+      title: Martini
+    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+    - url: /cocktails/assets/images/glass_rocks.svg
+      title: Rocks
     - url: /cocktails/assets/images/glass_tiki.svg
       title: Tiki

@@ -10,6 +10,10 @@ images:
     - url: /cocktails/assets/images/tool_double_strain.svg
       title: Double strained
   glass:
+    - url: /cocktails/assets/images/glass_coupe.svg
+      title: Coupe
+    - url: /cocktails/assets/images/glass_margarita.svg
+      title: Margarita
     - url: /cocktails/assets/images/glass_tiki.svg
       title: Tiki
   garnish:

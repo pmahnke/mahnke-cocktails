@@ -6,6 +6,8 @@ images:
     - url: /cocktails/assets/images/tool_stirred.svg
       title: Stirred
   glass:
+    - url: /cocktails/assets/images/glass_martini.svg
+      title: Martini
     - url: /cocktails/assets/images/glass_old-fashioned.svg
       title: Old fashioned
   garnish:

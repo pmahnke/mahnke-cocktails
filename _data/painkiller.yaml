@@ -10,6 +10,8 @@ images:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater
   glass:
+    - url: /cocktails/assets/images/glass_rocks.svg
+      title: Rocks
     - url: /cocktails/assets/images/glass_tiki.svg
       title: Tiki
   garnish:

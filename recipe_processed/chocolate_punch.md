@@ -27,6 +27,6 @@ excerpt: |
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Low Ball / High Ball / Champagne Flute / Coupe / Nick & Nora / Tiki / Martini
+- Glassware: Coupe or Nick & Nora
 - Garnish: Grated chocolate
 - Special Prep: None

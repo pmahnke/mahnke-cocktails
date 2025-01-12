@@ -10,6 +10,8 @@ images:
     - url: /cocktails/assets/images/tool_long-stirrer.svg
       title: Long stirrer
   garnish:
+    - url: /cocktails/assets/images/spice_anise.svg
+      title: Anise
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint
   ice:

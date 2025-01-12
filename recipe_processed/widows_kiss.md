@@ -75,7 +75,7 @@ excerpt: |
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Lemon Peal
+- Garnish: Lemon Peel
 - Special Prep: Express Lemon oil over cocktail
 
 </div>

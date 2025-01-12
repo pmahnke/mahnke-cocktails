@@ -11,9 +11,33 @@ images:
     - url: /cocktails/assets/images/tool_stirred.svg
       title: Stirred
   glass:
+    - url: /cocktails/assets/images/spice_coffee.svg
+      title: Coffee
+    - url: /cocktails/assets/images/glass_collins.svg
+      title: Collins
+    - url: /cocktails/assets/images/glass_coupe.svg
+      title: Coupe
+    - url: /cocktails/assets/images/glass_flute.svg
+      title: Flute
+    - url: /cocktails/assets/images/glass_goblet.svg
+      title: Goblet
+    - url: /cocktails/assets/images/glass_julep-cup.svg
+      title: Julep cup
+    - url: /cocktails/assets/images/glass_margarita.svg
+      title: Margarita
+    - url: /cocktails/assets/images/glass_martini.svg
+      title: Martini
+    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+    - url: /cocktails/assets/images/glass_sling.svg
+      title: Sling
     - url: /cocktails/assets/images/glass_snifter.svg
       title: Snifter
   garnish:
+    - url: /cocktails/assets/images/herb_mint.svg
+      title: Mint
+    - url: /cocktails/assets/images/slice_pineapple.svg
+      title: Pineapple slice
     - url: /cocktails/assets/images/fruit_strawberry.svg
       title: Strawberry
   ice:

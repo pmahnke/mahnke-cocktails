@@ -3,6 +3,8 @@ images:
     - url: /cocktails/assets/images/ingredient-vodka.svg
       title: Vodka
   glass:
+    - url: /cocktails/assets/images/spice_coffee.svg
+      title: Coffee
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks
   ice:

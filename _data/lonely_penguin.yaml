@@ -11,6 +11,10 @@ images:
     - url: /cocktails/assets/images/glass_snifter.svg
       title: Snifter
   garnish:
+    - url: /cocktails/assets/images/fruit_blackberries.svg
+      title: Blackberries
+    - url: /cocktails/assets/images/fruit-orange.svg
+      title: Orange slice
     - url: /cocktails/assets/images/slice_pineapple.svg
       title: Pineapple slice
   ice:

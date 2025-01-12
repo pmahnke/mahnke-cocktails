@@ -11,6 +11,10 @@ images:
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks
   garnish:
+    - url: /cocktails/assets/images/spice_cinnamon.svg
+      title: Cinnamon
+    - url: /cocktails/assets/images/fruit_lemon.svg
+      title: Lemon slice
     - url: /cocktails/assets/images/twist_orange.svg
       title: Orange twist
   ice:

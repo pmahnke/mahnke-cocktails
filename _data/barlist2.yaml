@@ -1,4 +1,6 @@
 images:
   glass:
+    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
     - url: /cocktails/assets/images/glass_old-fashioned.svg
       title: Old fashioned

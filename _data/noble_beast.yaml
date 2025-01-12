@@ -8,5 +8,7 @@ images:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater
   glass:
+    - url: /cocktails/assets/images/spice_coffee.svg
+      title: Coffee
     - url: /cocktails/assets/images/glass_old-fashioned.svg
       title: Old fashioned

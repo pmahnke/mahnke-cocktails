@@ -246,32 +246,32 @@ foreach $file (sort @files) {
     print STDERR "file: $file\n";
 
     $garnish{'blackberries'} = `ag -il 'blackberr' $file`;
-    $garnish{'lemon-slice'} = `ag -il 'lemon wheel' $file`;
     $garnish{'olives'} = `ag -il 'olives' $file`;
     $garnish{'raspberries'} = `ag -il 'raspberri' $file`;
     $garnish{'strawberry'} = `ag -il 'strawberr' $file`;
     $garnish{'mint'} = `ag -il 'mint' $file`;
     $garnish{'thyme'} = `ag -il 'thyme' $file`;
     $garnish{'green-apple'} = `ag -il 'green apple' $file`;
-
     $garnish{'pineapple-slice'} = `ag -il 'pineapple' $file`;
     $garnish{'anise'} = `ag -il 'anise' $file`;
     $garnish{'cinnamon'} = `ag -il 'cinnamon' $file`;
     $garnish{'lime-slice'} = `ag -il 'lime wheel' $file`;
-    $garnish{'lime-slice'} .= `ag -il 'lime wedge' $file`;
-    $garnish{'lime-slice'} .= `ag -il 'lime oil' $file`;
+    $garnish{'lime-slice'} .= `ag -il 'lime wedge' $file` if (!$garnish{'lime-slice'});
+    $garnish{'lime-slice'} .= `ag -il 'lime oil' $file` if (!$garnish{'lime-slice'});
+    $garnish{'lemon-slice'} = `ag -il 'lemon wheel' $file`;
+    $garnish{'lemon-slice'} = `ag -il 'lemon wedge' $file` if (!$garnish{'lemon-slice'});
     $garnish{'lemon-twist'} = `ag -il 'lemon skin' $file`;
-    $garnish{'lemon-twist'} .= `ag -il 'lemon oil' $file`;
-    $garnish{'lemon-twist'} .= `ag -il 'lemon swath' $file`;
+    $garnish{'lemon-twist'} .= `ag -il 'lemon oil' $file` if (!$garnish{'lemon-twist'});
+    $garnish{'lemon-twist'} .= `ag -il 'lemon swath' $file` if (!$garnish{'lemon-twist'});
     $garnish{'orange-twist'} = `ag -il 'orange peel' $file`;
-    $garnish{'orange-twist'} .= `ag -il 'orange oil' $file`;
+    $garnish{'orange-twist'} .= `ag -il 'orange twist' $file` if (!$garnish{'orange-twist'});    
+    $garnish{'orange-twist'} .= `ag -il 'orange oil' $file` if (!$garnish{'orange-twist'});
     $garnish{'orange-slice'} = `ag -il 'orange slice' $file`;
-    $garnish{'orange-slice'} .= `ag -il 'orange wedge' $file`;
-    $garnish{'orange-slice'} .= `ag -il 'orange wheel' $file`;
+    $garnish{'orange-slice'} .= `ag -il 'orange wedge' $file` if (!$garnish{'orange-slice'});
+    $garnish{'orange-slice'} .= `ag -il 'orange wheel' $file` if (!$garnish{'orange-slice'});
     $garnish{'coffee'} = `ag -il 'coffee beans' $file`;
     $garnish{'lemon_cherry'} = `ag -il 'Cocktail cherry and lemon zest' $file`;
     $garnish{'cocktail-cherry'} = `ag -il 'cocktail cherry' $file` if (!$garnish{'lemon_cherry'} );
-    $garnish{'lemon-slice'} = `ag -il 'lemon wedge' $file`;
 
     $glass{'cobbler'} = `ag -il 'flared' $file`;
     $glass{'coffee'} = `ag -il 'coffee' $file`;
@@ -343,7 +343,7 @@ foreach $file (sort @files) {
     $ingredient{'sweet-vermouth'} = `grep 'base_spirits:' $file | ag -i 'sweet vermouth'`;
     $ingredient{'dry-vermouth'} = `grep 'base_spirits:' $file | ag -i 'dry vermouth'`;
     $ingredient{'orange-bitters'} = `grep 'base_spirits:' $file | ag -i 'orange bitters'`;
-    $ingredient{'white-vermouth'} = `grep 'base_spirits:' $file | ag -i 'vermouth'`;
+    $ingredient{'white-vermouth'} = `grep 'base_spirits:' $file | ag -i 'vermouth'` if (!$ingredient{'sweet-vermouth'} && !$ingredient{'dry-vermouth'});
     $ingredient{'bitters'} = `grep 'base_spirits:' $file | ag -i 'bitters'`;
     $ingredient{'single-malt-scotch'} = `grep 'base_spirits:' $file | ag -i 'single malt scotch'`;
     $ingredient{'gold-rum'} = `grep 'base_spirits:' $file | ag -i 'gold rum'`;
@@ -440,6 +440,7 @@ foreach $file (sort @files) {
     }
     foreach my $k (sort keys %tool) {
         next if (!$tool{$k});
+        print qq |found: $k\n| if ($ARGV[0]);
         my $n = $k;
         $tool = "  tool:\n" if (!$tool); # start of tools
         $tool .= &make_listing($k);
@@ -447,25 +448,28 @@ foreach $file (sort @files) {
     }
     foreach my $k (sort keys %glass) {
         next if (!$glass{$k});
-        $glass = "  glass:\n";
+        print qq |found: $k\n| if ($ARGV[0]);
+        $glass = "  glass:\n" if (!$glass);
         $glass .= &make_listing($k);
         $glass{$k} = "";
     }
     foreach my $k (sort keys %garnish) {
         next if (!$garnish{$k});
-        $garnish = "  garnish:\n";
+        print qq |found: $k\n| if ($ARGV[0]);
+        $garnish = "  garnish:\n" if (!$garnish);
         $garnish .= &make_listing($k);
         $garnish{$k} = "";
     }
     foreach my $k (sort keys %ice) {
         next if (!$ice{$k});
-        $ice = "  ice:\n";
+        print qq |found: $k\n| if ($ARGV[0]);        
+        $ice = "  ice:\n" if (!$ice);
         $ice .= &make_listing($k);
         $ice{$k} = "";
     }
 
 
-    if ($tool || $glass || $garnish || $ice ) {
+    if ($ingredient || $tool || $glass || $garnish || $ice ) {
     
         my $data = "images:\n";
 
@@ -477,9 +481,16 @@ foreach $file (sort @files) {
         print DATA $garnish;
         print DATA $ice;
         close (DATA);
-        ($tool, $glass, $garnish, $ice, $data) = "";
         print "wrote data file: $datafile\n";
-    
+        print qq |
+$data
+$ingredient
+$tool
+$glass
+$garnish
+$ice
+        | if ($ARGV[0]);
+        ($data, $ingredient, $tool, $glass, $garnish, $ice) = "";
         # add file to recipe.md ( RAN ONCE! )
         `awk '/permalink:/{print "iconfile: $iconfile"} 1' $file > $testfile` if (!`ag -li iconfile $file`);
 
@@ -490,6 +501,7 @@ sub make_listing {
     my $k = $_[0];
     my $listing .= "    - url: $INCLUDE{$k}\n";
     $listing .= "      title: ".&make_title($k)."\n";
+    # print "make_listing: $listing\n" if ($ARGV[0]);
     return($listing);
 }
 

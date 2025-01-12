@@ -11,5 +11,7 @@ images:
     - url: /cocktails/assets/images/glass_old-fashioned.svg
       title: Old fashioned
   garnish:
+    - url: /cocktails/assets/images/slice_lime.svg
+      title: Lime slice
     - url: /cocktails/assets/images/slice_pineapple.svg
       title: Pineapple slice

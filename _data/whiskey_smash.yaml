@@ -11,6 +11,8 @@ images:
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks
   garnish:
+    - url: /cocktails/assets/images/fruit_lemon.svg
+      title: Lemon slice
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint
   ice:

@@ -17,5 +17,7 @@ images:
     - url: /cocktails/assets/images/glass_coupe.svg
       title: Coupe
   garnish:
+    - url: /cocktails/assets/images/twist_cocktail-cherry.svg
+      title: Cocktail cherry
     - url: /cocktails/assets/images/twist_lemon.svg
       title: Lemon twist

@@ -17,6 +17,10 @@ images:
     - url: /cocktails/assets/images/glass_highball.svg
       title: Highball
   garnish:
+    - url: /cocktails/assets/images/spice_cinnamon.svg
+      title: Cinnamon
+    - url: /cocktails/assets/images/twist_cocktail-cherry.svg
+      title: Cocktail cherry
     - url: /cocktails/assets/images/fruit-orange.svg
       title: Orange slice
   ice:

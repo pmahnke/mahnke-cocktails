@@ -10,6 +10,8 @@ images:
     - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
       title: Hawthorn strainer
   glass:
+    - url: /cocktails/assets/images/glass_margarita.svg
+      title: Margarita
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks
   garnish:

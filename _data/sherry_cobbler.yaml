@@ -9,6 +9,10 @@ images:
     - url: /cocktails/assets/images/glass_goblet.svg
       title: Goblet
   garnish:
+    - url: /cocktails/assets/images/herb_mint.svg
+      title: Mint
+    - url: /cocktails/assets/images/fruit-orange.svg
+      title: Orange slice
     - url: /cocktails/assets/images/fruit_raspberries.svg
       title: Raspberries
   ice:

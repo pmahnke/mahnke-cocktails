@@ -10,6 +10,9 @@ images:
   glass:
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks
+  garnish:
+    - url: /cocktails/assets/images/fruit_lemon.svg
+      title: Lemon slice
   ice:
     - url: /cocktails/assets/images/ice_large.svg
       title: Large

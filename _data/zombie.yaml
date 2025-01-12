@@ -10,9 +10,13 @@ images:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker
   glass:
+    - url: /cocktails/assets/images/glass_old-fashioned.svg
+      title: Old fashioned
     - url: /cocktails/assets/images/glass_tiki.svg
       title: Tiki
   garnish:
+    - url: /cocktails/assets/images/spice_cinnamon.svg
+      title: Cinnamon
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint
   ice:

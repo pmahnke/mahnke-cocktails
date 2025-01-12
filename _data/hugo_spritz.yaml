@@ -8,5 +8,7 @@ images:
     - url: /cocktails/assets/images/tool_muddler.svg
       title: Muddler
   garnish:
+    - url: /cocktails/assets/images/slice_lime.svg
+      title: Lime slice
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint

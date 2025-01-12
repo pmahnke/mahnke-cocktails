@@ -13,6 +13,8 @@ images:
     - url: /cocktails/assets/images/glass_highball.svg
       title: Highball
   garnish:
+    - url: /cocktails/assets/images/herb_mint.svg
+      title: Mint
     - url: /cocktails/assets/images/fruit-orange.svg
       title: Orange slice
   ice:

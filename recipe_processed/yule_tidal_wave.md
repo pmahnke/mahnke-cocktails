@@ -33,5 +33,5 @@ excerpt: |
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Hurricane, On the Rocks
-- Garnish: Pineapple fronds, umbrella, & grated nutmeg for garnish
-- Special Prep: None"
+- Garnish: Pineapple fronds, umbrella, and grated nutmeg for garnish
+- Special Prep: None

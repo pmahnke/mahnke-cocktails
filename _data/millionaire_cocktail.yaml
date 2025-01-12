@@ -11,5 +11,7 @@ images:
     - url: /cocktails/assets/images/glass_coupe.svg
       title: Coupe
   garnish:
+    - url: /cocktails/assets/images/spice_anise.svg
+      title: Anise
     - url: /cocktails/assets/images/slice_lime.svg
       title: Lime slice

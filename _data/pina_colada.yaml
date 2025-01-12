@@ -6,6 +6,8 @@ images:
     - url: /cocktails/assets/images/tool_boston-shaker.svg
       title: Boston shaker
   glass:
+    - url: /cocktails/assets/images/glass_double-old-fashioned.svg
+      title: Double old fashioned
     - url: /cocktails/assets/images/glass_tiki.svg
       title: Tiki
   garnish:

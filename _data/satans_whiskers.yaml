@@ -8,3 +8,6 @@ images:
   glass:
     - url: /cocktails/assets/images/glass_nick-and-nora.svg
       title: Nick and nora
+  garnish:
+    - url: /cocktails/assets/images/twist_orange.svg
+      title: Orange twist

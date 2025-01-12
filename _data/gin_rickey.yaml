@@ -6,6 +6,8 @@ images:
     - url: /cocktails/assets/images/tool_muddler.svg
       title: Muddler
   glass:
+    - url: /cocktails/assets/images/glass_collins.svg
+      title: Collins
     - url: /cocktails/assets/images/glass_highball.svg
       title: Highball
   ice:

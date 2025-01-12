@@ -19,3 +19,5 @@ images:
   garnish:
     - url: /cocktails/assets/images/twist_lemon.svg
       title: Lemon twist
+    - url: /cocktails/assets/images/twist_orange.svg
+      title: Orange twist

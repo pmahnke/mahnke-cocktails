@@ -12,6 +12,8 @@ images:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater
   glass:
+    - url: /cocktails/assets/images/glass_hurricane.svg
+      title: Hurricane
     - url: /cocktails/assets/images/glass_tiki.svg
       title: Tiki
   garnish:

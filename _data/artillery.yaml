@@ -1,9 +1,9 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-benedictine.svg
-      title: Benedictine
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
+    - url: /cocktails/assets/images/ingredient-sweet-vermouth.svg
+      title: Sweet vermouth
   tool:
     - url: /cocktails/assets/images/tool_stirred.svg
       title: Stirred
@@ -13,5 +13,7 @@ images:
     - url: /cocktails/assets/images/glass_martini.svg
       title: Martini
   garnish:
-    - url: /cocktails/assets/images/twist_lemon.svg
-      title: Lemon twist
+    - url: /cocktails/assets/images/twist_cocktail-cherry.svg
+      title: Cocktail cherry
+    - url: /cocktails/assets/images/twist_orange.svg
+      title: Orange twist

@@ -21,7 +21,7 @@ excerpt: |
 |     1 oz | Dry Vermouth                                    | Dolin                 |
 |   0.5 oz | Fresh Lemon Juice                               |
 |  0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
-| 2 dashes | Orange Bitters                                  | Regan's Number 6      |
+| 2 dashes | Orange Bitters                                  | Regan's No. 6         |
 
 ### Notes
 

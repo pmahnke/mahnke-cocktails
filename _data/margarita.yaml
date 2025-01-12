@@ -12,6 +12,8 @@ images:
     - url: /cocktails/assets/images/tool_stirred.svg
       title: Stirred
   glass:
+    - url: /cocktails/assets/images/glass_margarita.svg
+      title: Margarita
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks
   garnish:

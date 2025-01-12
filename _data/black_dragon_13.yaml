@@ -8,5 +8,7 @@ images:
     - url: /cocktails/assets/images/tool_double_strain.svg
       title: Double strained
   glass:
+    - url: /cocktails/assets/images/spice_coffee.svg
+      title: Coffee
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks

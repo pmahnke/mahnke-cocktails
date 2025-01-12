@@ -27,6 +27,6 @@ excerpt: |
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: Low BallCrushed Ice
+- Glassware: Low Ball, Crushed Ice
 - Garnish: Grated nutmeg
 - Special Prep: None

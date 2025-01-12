@@ -5,6 +5,8 @@ images:
     - url: /cocktails/assets/images/ingredient-tequila.svg
       title: Tequila
   glass:
+    - url: /cocktails/assets/images/glass_double-old-fashioned.svg
+      title: Double old fashioned
     - url: /cocktails/assets/images/glass_margarita.svg
       title: Margarita
   garnish:
