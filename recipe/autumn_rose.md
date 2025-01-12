@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 title: "Autumn Rose"
-categories: [ sour ]
-eras: [ anders ]
+categories: [sour]
+eras: [anders]
 permalink: "/recipe/autumn_rose.html"
 iconfile: autumn_rose
 stars: 4
@@ -27,6 +27,6 @@ excerpt: |
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Nick &amp; Nora
+- Glassware: Nick & Nora
 - Garnish: Expressed lemon oil and twist
 - Special Prep: None

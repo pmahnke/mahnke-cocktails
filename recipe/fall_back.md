@@ -27,6 +27,6 @@ excerpt: |
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Nick &amp; Nora
+- Glassware: Nick & Nora
 - Garnish: Flamed orange oil
 - Special Prep: None

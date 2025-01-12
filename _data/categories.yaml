@@ -79,3 +79,6 @@
 - name: Coffee
   slug: coffee
   description: Coffee cocktails are a delightful fusion of the stimulating and energizing qualities of coffee with the sophisticated and flavorful world of cocktails. These drinks often incorporate coffee as a key ingredient, either as a base or a flavor enhancer.
+- name: Smoked
+  slug: smoked
+  description: A smoked cocktail is a beverage that incorporates smoke to infuse a smoky flavor and aroma into the drink. This technique elevates the cocktail experience by adding depth and complexity, transforming a simple drink into a memorable one.

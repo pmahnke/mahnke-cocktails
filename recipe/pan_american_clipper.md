@@ -26,6 +26,6 @@ excerpt: |
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Nick &amp; Nora
+- Glassware: Nick & Nora
 - Garnish: Expressed lemon oil
 - Special Prep: None

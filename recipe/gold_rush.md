@@ -25,6 +25,6 @@ excerpt: |
 
 - Method: Shaken
 - Pour: Single Strain
-- Glassware: Low BallLarge Ice cube
+- Glassware: Low Ball, Large Ice cube
 - Garnish: None
 - Special Prep: None

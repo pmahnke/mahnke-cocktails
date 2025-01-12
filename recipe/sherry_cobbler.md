@@ -29,4 +29,4 @@ excerpt: |
   - Goblet
   - Crushed Ice
 - Garnish: Fresh raspberries & mint
-- Special Prep: Serve with a straw."
+- Special Prep: Serve with a straw.
