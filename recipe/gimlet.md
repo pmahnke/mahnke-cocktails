@@ -15,11 +15,11 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient   | Brand     |
-| ------: | ------------ | --------- |
-|    2 oz | Gin          | Beefeater |
-| 0.75 oz | Lime Juice   |
-| 0.75 oz | Simple Syrup |
+|  Amount | Ingredient                                                | Brand     |
+| ------: | --------------------------------------------------------- | --------- |
+|    2 oz | Gin                                                       | Beefeater |
+| 0.75 oz | Lime Juice                                                |
+| 0.75 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
 ### Notes
 
