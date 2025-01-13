@@ -286,7 +286,7 @@ foreach $file (sort @files) {
     $glass{'hurricane'} = `ag -il 'hurricane' $file`;
     $glass{'julep-cup'} = `ag -il 'julep cup' $file`;
     $glass{'margarita'} = `ag -il 'margarita' $file`;
-    $glass{'martini'} = `ag -il 'martini' $file`;
+    $glass{'martini'} = `ag -il 'Glassware: Martini' $file`;
     $glass{'nick-and-nora'} = `ag -il 'nora' $file`;
     $glass{'double-old-fashioned'} = `ag -il 'double old fashioned' $file`;
     $glass{'double-old-fashioned'} .= `ag -il 'large glass' $file`;

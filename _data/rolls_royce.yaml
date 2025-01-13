@@ -10,8 +10,6 @@ images:
   glass:
     - url: /cocktails/assets/images/glass_coupe.svg
       title: Coupe
-    - url: /cocktails/assets/images/glass_martini.svg
-      title: Martini
   garnish:
     - url: /cocktails/assets/images/twist_lemon.svg
       title: Lemon twist
