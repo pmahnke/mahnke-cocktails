@@ -3,8 +3,8 @@ layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Grey Fox"
-categories: [cocktail]
-eras: [anders]
+categories: [ mocktail ]
+eras: [ anders ]
 permalink: "/recipe/grey_fox.html"
 iconfile: grey_fox
 stars: 0

@@ -1,9 +1,10 @@
 ---
 layout: recipe
+author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
 title: "Cherry Zip"
-categories: [ cocktail ]
-eras: [ classic ]
+categories: [ mocktail ]
+eras: [ anders ]
 permalink: "/recipe/cherry_zip.html"
 iconfile: cherry_zip
 stars: 0

@@ -4,25 +4,25 @@ author: The Educated Barfly
 title: "Jasmine"
 eras: [modern]
 categories: [sour, campari]
-permalink: '/recipe/jasmine.html'
+permalink: "/recipe/jasmine.html"
 iconfile: jasmine
 stars: 0
-base_spirits: 'Gin, Campari'
-youtube: 'b7rg7eshiQU'
+base_spirits: "Gin, Campari"
+youtube: "b7rg7eshiQU"
 excerpt: |
-  This drink was created by legendary barman Paul Harrington at the Townhouse in Emeryville, CA in 1990. It’s named after his friend Matt Jasmin who was sitting at the bar with Harrington one day and asked him to “Make me something you’ve never made before.” The inspiration for this drink was the Pegu Club, a cocktail Harrington was a bit obsessed with. The drink gained more notoriety when Harrington included it in his book “Cocktails” which is now out of print and goes for about 75 bucks on eBay if you’re thinking about getting a copy.<br><br>When Harrington handed Jasmin the cocktail Jasmin took a sip and said: "Congratulations, you just invented Grapefruit Juice." Many years later Harrington would realize that he had been spelling the last name of his friend all wrong. 
+  This drink was created by legendary barman Paul Harrington at the Townhouse in Emeryville, CA in 1990. It’s named after his friend Matt Jasmin who was sitting at the bar with Harrington one day and asked him to “Make me something you’ve never made before.” The inspiration for this drink was the Pegu Club, a cocktail Harrington was a bit obsessed with. The drink gained more notoriety when Harrington included it in his book “Cocktails” which is now out of print and goes for about 75 bucks on eBay if you’re thinking about getting a copy.<br><br>When Harrington handed Jasmin the cocktail Jasmin took a sip and said: "Congratulations, you just invented Grapefruit Juice." Many years later Harrington would realize that he had been spelling the last name of his friend all wrong.
 ---
 
 ### Ingredients
 
-| Amount  | Ingredient                      | Brand            |
-| ------: | ------------------------------- | ---------------- |
-|  1.5 oz / 37.5 ml | Gin | Beefeater |
+|  Amount | Ingredient        | Brand     |
+| ------: | ----------------- | --------- |
+|  1.5 oz / 37.5 ml | Gin               | Beefeater |
 | 0.75 oz / 19 ml | Fresh Lemon Juice |
-| 0.25 oz / 6.5 ml | Triple Sec | Cointreau |
-| 0.25 oz / 6.5 ml | Campari | Campari |
+| 0.25 oz / 6.5 ml | Triple Sec        | Cointreau |
+| 0.25 oz / 6.5 ml | Campari           | Campari   |
 
- ### Notes
+### Notes
 
 - Method: Shaken
 - Pour: Double Strain

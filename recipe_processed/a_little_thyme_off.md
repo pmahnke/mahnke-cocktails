@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
+categories: [ mocktail ]
+eras: [ anders ]
 title: "A Little Thyme Off"
-categories: [cocktail]
 permalink: "/recipe/a_little_thyme_off.html"
 iconfile: a_little_thyme_off
 stars: 0

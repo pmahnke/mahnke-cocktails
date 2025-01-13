@@ -2,8 +2,9 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
+categories: [ mocktail ]
+eras: [ anders ]
 title: "Spa Water"
-categories: [ cocktail ]
 permalink: "/recipe/spa_water.html"
 iconfile: spa_water
 stars: 3

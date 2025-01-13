@@ -2,6 +2,8 @@
 layout: recipe
 author: Anders Erickson Cocktail Recipes
 type: non-alcoholic
+categories: [ mocktail ]
+eras: [ anders ]
 title: "Pomegranate Limeade"
 permalink: "/recipe/pomegranate_limeade.html"
 iconfile: pomegranate_limeade
