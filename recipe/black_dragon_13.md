@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson
 title: "Black Dragon No. 13"
-categories: [ beer, coffee, cocktail]
-eras: [ Anders ]
+categories: [beer, coffee, cocktail]
+eras: [anders]
 permalink: "/recipe/black_dragon_13.html"
 iconfile: black_dragon_13
 stars: 0
