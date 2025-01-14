@@ -17,8 +17,8 @@ excerpt: |
 
 |        Amount | Ingredient                                               | Brand         |
 | ------------: | -------------------------------------------------------- | ------------- |
-|          2 oz / 50 ml | Bourbon                                                  | Buffalo Trace |
-|        0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|          <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Bourbon                                                  | Buffalo Trace |
+|        <span class="onex active">0.5 oz / 18.5 ml</span>  <span class="twox">1 oz / 36.5 ml</span> <span class="threex">1.5 oz / 55 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 6 to 8 leaves | Mint                                                     |
 
 ### Notes

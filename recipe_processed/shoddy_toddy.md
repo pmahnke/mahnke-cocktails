@@ -17,11 +17,11 @@ excerpt: |
 
 |    Amount | Ingredient                                      | Brand              |
 | --------: | ----------------------------------------------- | ------------------ |
-|      1 oz / 25 ml | Gin                                             | St. George         |
-|    0.5 oz / 12.5 ml | Bénédictine                                     | Bénédictine D.O.M. |
-|    0.5 oz / 12.5 ml | [Ginger Syrup]({%link recipe_processed/ginger_syrup.md%}) |
-|   0.25 oz / 6.5 ml | Fresh Lemon Juice                               |
-| 4 to 5 oz / 125 ml | Hot Green Tea                                   |
+|      <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gin                                             | St. George         |
+|    <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Bénédictine                                     | Bénédictine D.O.M. |
+|    <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | [Ginger Syrup]({%link recipe_processed/ginger_syrup.md%}) |
+|   <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Fresh Lemon Juice                               |
+| 4 to <span class="onex active">5 oz / 125 ml</span>  <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Hot Green Tea                                   |
 
 ### Notes
 

@@ -17,10 +17,10 @@ excerpt: |
 
 | Amount | Ingredient       | Brand                 |
 | -----: | ---------------- | --------------------- |
-|   1 oz / 25 ml | Gin              | Martin Miller’s       |
-|   1 oz / 25 ml | Fino Sherry      | Valdespino "Ynocente" |
-| 0.5 oz / 12.5 ml | Cocchi Americano | Cocchi Americano      |
-| 0.5 oz / 12.5 ml | Triple Sec       | Cointreau             |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gin              | Martin Miller’s       |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fino Sherry      | Valdespino "Ynocente" |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Cocchi Americano | Cocchi Americano      |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Triple Sec       | Cointreau             |
 
 ### Notes
 

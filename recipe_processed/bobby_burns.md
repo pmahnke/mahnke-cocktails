@@ -17,9 +17,9 @@ excerpt: |
 
 |  Amount | Ingredient      | Brand                     |
 | ------: | --------------- | ------------------------- |
-|    2 oz / 50 ml | Scotch, Blended | Monkey Shoulder           |
-|    1 oz / 25 ml | Sweet Vermouth  | Cocchi Vermouth Di Torino |
-|  0.5 oz / 12.5 ml | Bénédictine     | Bénédictine DOM           |
+|    <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Scotch, Blended | Monkey Shoulder           |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Sweet Vermouth  | Cocchi Vermouth Di Torino |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Bénédictine     | Bénédictine DOM           |
 | 1 strip | Lemon Peal      |
 
 ### Notes

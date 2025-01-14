@@ -17,12 +17,12 @@ excerpt: |
 
 |  Amount | Ingredient                                                | Brand               |
 | ------: | --------------------------------------------------------- | ------------------- |
-|    1 oz / 25 ml | Light Rum                                                 | Kōloa Kaua'i        |
-|  0.5 oz / 12.5 ml | Rhum Agricole                                             | Clément Canne Bleue |
-| 0.75 oz / 19 ml | Blue Curaçao                                              | Giffard             |
-|    3 oz / 75 ml | Fresh Pineapple Juice                                     |
-| 0.75 oz / 19 ml | Fresh Lime Juice                                          |
-|  0.5 oz / 18.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Light Rum                                                 | Kōloa Kaua'i        |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Rhum Agricole                                             | Clément Canne Bleue |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Blue Curaçao                                              | Giffard             |
+|    <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Fresh Pineapple Juice                                     |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                                          |
+|  <span class="onex active">0.5 oz / 18.5 ml</span>  <span class="twox">1 oz / 36.5 ml</span> <span class="threex">1.5 oz / 55 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

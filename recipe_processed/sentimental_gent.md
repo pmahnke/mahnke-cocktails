@@ -16,9 +16,9 @@ excerpt: |
 
 | Amount | Ingredient      | Brand           |
 | -----: | --------------- | --------------- |
-|   2 oz / 50 ml | Scotch, Blended | Monkey Shoulder |
-| 0.5 oz / 12.5 ml | Bénédictine     | Bénédictine DOM |
-| 0.5 oz / 12.5 ml | Walnut Liqueur  | Nux Alpina      |
+|   <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Scotch, Blended | Monkey Shoulder |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Bénédictine     | Bénédictine DOM |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Walnut Liqueur  | Nux Alpina      |
 
 ### Notes
 

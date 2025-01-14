@@ -17,10 +17,10 @@ excerpt: |
 
 | Amount | Ingredient       | Brand                          |
 | -----: | ---------------- | ------------------------------ |
-| 1.5 oz / 37.5 ml | Reposado Tequila | Siete Leguas                   |
-| 0.5 oz / 12.5 ml | Campari          | Campari                        |
-| 0.5 oz / 12.5 ml | Sweet Vermouth   | Cocchi Vermouth di Torino      |
-| 0.5 oz / 12.5 ml | Dry Vermouth     | Dolin Dry Vermouth de Chambéry |
+| <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Reposado Tequila | Siete Leguas                   |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Campari          | Campari                        |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Sweet Vermouth   | Cocchi Vermouth di Torino      |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Dry Vermouth     | Dolin Dry Vermouth de Chambéry |
 | 1 dash | Bitters          | Angostura Aromatic Bitters     |
 
 ### Notes

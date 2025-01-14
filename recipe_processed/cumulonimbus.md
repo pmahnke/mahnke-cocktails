@@ -20,7 +20,7 @@ excerpt: |
 |    2 Oz | Freshly Brewed Espresso                             |
 | 0.75 Oz | [Cinnamon Syrup]({%link recipe_processed/cinnamon_syrup.md%}) |
 | 3 Drops | Orange Blossom Water                                |
-| 0.75 oz / 19 ml | Egg White                                           |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Egg White                                           |
 |    1 Oz | Soda Water                                          |
 
 ### Notes

@@ -18,11 +18,11 @@ excerpt: |
 |  Amount | Ingredient                                                | Brand            |
 | ------: | --------------------------------------------------------- | ---------------- |
 | 1 whole | Strawberry                                                |
-|  0.5 oz / 18.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|    1 oz / 25 ml | Pisco                                                     | Barsol Quebranta |
-|  0.5 oz / 12.5 ml | Gin                                                       | Plymouth         |
-| 0.75 oz / 19 ml | Cocchi Americano                                          | Cocchi Americano |
-| 0.75 oz / 19 ml | Fresh Lemon Juice                                         |
+|  <span class="onex active">0.5 oz / 18.5 ml</span>  <span class="twox">1 oz / 36.5 ml</span> <span class="threex">1.5 oz / 55 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Pisco                                                     | Barsol Quebranta |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Gin                                                       | Plymouth         |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Cocchi Americano                                          | Cocchi Americano |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lemon Juice                                         |
 
 ### Notes
 

@@ -17,8 +17,8 @@ excerpt: |
 
 |   Amount | Ingredient           | Brand            |
 | -------: | -------------------- | ---------------- |
-|   1.5 oz / 37.5 ml | Vodka                | Russian Standard |
-|     3 oz / 75 ml | Clamato Juice        | Mott's           |
+|   <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Vodka                | Russian Standard |
+|     <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Clamato Juice        | Mott's           |
 | 2 dashes | Worcestershire Sauce | Lea & Perrins    |
 | 2 dashes | Hot Sauce            | Tabasco Sauce    |
 |     0.25 | Lime, Juiced         |

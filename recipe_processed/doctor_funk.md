@@ -17,13 +17,13 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand                                 |
 | ------: | ----------------------------------------------- | ------------------------------------- |
-| 0.75 oz / 19 ml | Jamaican Rum                                    | Hamilton Jamaican Pot Still Black     |
-| 0.75 oz / 19 ml | Gold Rum                                        | Holmes Cay Fiji Single Origin Edition |
-| 0.25 oz / 6.5 ml | Absinthe                                        | St. George                            |
-|  0.5 oz / 12.5 ml | Fresh Lemon Juice                               |
-|  0.5 oz / 12.5 ml | Fresh Lime Juice                                |
-| 0.75 oz / 19 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-|    1 oz / 25 ml | Sparkling Water                                 | Topo Chico                            |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Jamaican Rum                                    | Hamilton Jamaican Pot Still Black     |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Gold Rum                                        | Holmes Cay Fiji Single Origin Edition |
+| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Absinthe                                        | St. George                            |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lemon Juice                               |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lime Juice                                |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Sparkling Water                                 | Topo Chico                            |
 
 ### Notes
 

@@ -17,11 +17,11 @@ excerpt: |
 
 | Amount | Ingredient            | Brand            |
 | -----: | --------------------- | ---------------- |
-|   1 oz / 25 ml | Demerara Rum          | El Dorado 8 Year |
-|   1 oz / 25 ml | Jamaican Rum          | Smith & Cross    |
-|   3 oz / 75 ml | Fresh Pineapple Juice |
-|   1 oz / 25 ml | Cream Of Coconut      |
-|   1 oz / 25 ml | Fresh Orange Juice    |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Demerara Rum          | El Dorado 8 Year |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Jamaican Rum          | Smith & Cross    |
+|   <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Fresh Pineapple Juice |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cream Of Coconut      |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Orange Juice    |
 
 ### Notes
 

@@ -17,12 +17,12 @@ excerpt: |
 
 |  Amount | Ingredient                                                | Brand                 |
 | ------: | --------------------------------------------------------- | --------------------- |
-|    1 oz / 25 ml | Rye                                                       | Rittenhouse 100 Proof |
-|  0.5 oz / 12.5 ml | Allspice Dram                                             | St. Elizabeth         |
-|    2 oz / 50 ml | Montmorency Cherry Juice                                  |
-| 0.25 oz / 6.5 ml | Fresh Lemon Juice                                         |
-| 0.25 oz / 9 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|    4 oz / 100 ml | Oktoberfest                                               | Spiteful Brewing      |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Rye                                                       | Rittenhouse 100 Proof |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Allspice Dram                                             | St. Elizabeth         |
+|    <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Montmorency Cherry Juice                                  |
+| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Fresh Lemon Juice                                         |
+| <span class="onex active">0.25 oz / 9 ml</span>  <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|    <span class="onex active">4 oz / 100 ml</span>  <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Oktoberfest                                               | Spiteful Brewing      |
 
 ### Notes
 

@@ -17,8 +17,8 @@ excerpt: |
 
 |   Amount | Ingredient           | Brand                    |
 | -------: | -------------------- | ------------------------ |
-|     2 oz / 50 ml | Bourbon              | Elijah Craig Small Batch |
-|   0.5 oz / 12.5 ml | Maple Syrup          |
+|     <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Bourbon              | Elijah Craig Small Batch |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Maple Syrup          |
 | 3 dashes | Black Walnut Bitters | Fee Brothers             |
 
 ### Notes

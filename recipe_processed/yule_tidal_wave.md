@@ -17,15 +17,15 @@ excerpt: |
 
 |   Amount | Ingredient                                                | Brand                      |
 | -------: | --------------------------------------------------------- | -------------------------- |
-|  0.75 oz / 19 ml | Rum                                                       | Angostura 1919             |
-|  0.75 oz / 19 ml | Bourbon                                                   | Elijah Craig Small Batch   |
-|  0.75 oz / 19 ml | Cognac                                                    | Pierre Ferrand 1840        |
-|  0.75 oz / 19 ml | Pear Brandy                                               | Rothman & Winter           |
-|   0.5 oz / 12.5 ml | Licor 43                                                  | Licor 43                   |
-|  0.25 oz / 6.5 ml | Allspice Dram                                             | St. Elizabeth              |
-|     2 oz / 50 ml | Fresh Pineapple Juice                                     |
-|     1 oz / 25 ml | Fresh Lemon Juice                                         |
-|  0.25 oz / 9 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Rum                                                       | Angostura 1919             |
+|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Bourbon                                                   | Elijah Craig Small Batch   |
+|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Cognac                                                    | Pierre Ferrand 1840        |
+|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Pear Brandy                                               | Rothman & Winter           |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Licor 43                                                  | Licor 43                   |
+|  <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Allspice Dram                                             | St. Elizabeth              |
+|     <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Fresh Pineapple Juice                                     |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lemon Juice                                         |
+|  <span class="onex active">0.25 oz / 9 ml</span>  <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 | 2 dashes | Bitters                                                   | Angostura Aromatic Bitters |
 
 ### Notes

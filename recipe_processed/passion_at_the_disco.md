@@ -18,9 +18,9 @@ excerpt: |
 
 | Amount | Ingredient                                                    | Brand      |
 | -----: | ------------------------------------------------------------- | ---------- |
-|   1 oz / 25 ml | Fresh Lime Juice                                              |
-|   1 oz / 25 ml | [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%}) |
-|   2 oz / 50 ml | Indian Tonic Water                                            | Fever Tree |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice                                              |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%}) |
+|   <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Indian Tonic Water                                            | Fever Tree |
 
 ### Notes
 

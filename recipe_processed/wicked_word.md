@@ -17,10 +17,10 @@ excerpt: |
 
 | Amount | Ingredient        | Brand             |
 | -----: | ----------------- | ----------------- |
-|   1 oz / 25 ml | Cognac            | Maison Rouge VSOP |
-|   1 oz / 25 ml | Aperol            | Aperol            |
-|   1 oz / 25 ml | Fresh Lemon Juice |                   |
-|   1 oz / 25 ml | Black Sambuca     | Romana            |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cognac            | Maison Rouge VSOP |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Aperol            | Aperol            |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lemon Juice |                   |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Black Sambuca     | Romana            |
 
 ### Notes
 

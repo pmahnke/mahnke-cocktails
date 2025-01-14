@@ -17,8 +17,8 @@ excerpt: |
 
 |  Amount | Ingredient              | Brand           |
 | ------: | ----------------------- | --------------- |
-|    3 oz / 75 ml | Oloroso Sherry          | Lustau Don Nuño |
-|    1 oz / 25 ml | Orange Curaçao          | Marie Brizard   |
+|    <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Oloroso Sherry          | Lustau Don Nuño |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Orange Curaçao          | Marie Brizard   |
 | 1 whole | Orange Wheel, quartered |
 
 ### Notes

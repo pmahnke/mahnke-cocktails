@@ -17,10 +17,10 @@ excerpt: |
 
 |        Amount | Ingredient      | Brand                          |
 | ------------: | --------------- | ------------------------------ |
-|        0.5 oz / 12.5 ml | Campari         | Campari                        |
-|        0.5 oz / 12.5 ml | Apricot Liqueur | Giffard Abricot du Roussillon  |
+|        <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Campari         | Campari                        |
+|        <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Apricot Liqueur | Giffard Abricot du Roussillon  |
 | 1 to 2 dashes | Absinthe        | St. George                     |
-|          4 oz / 100 ml | Champagne       | Albrecht Cremant D’Alsace Brut |
+|          <span class="onex active">4 oz / 100 ml</span>  <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Champagne       | Albrecht Cremant D’Alsace Brut |
 
 ### Notes
 

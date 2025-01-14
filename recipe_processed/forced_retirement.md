@@ -17,12 +17,12 @@ excerpt: |
 
 |  Amount | Ingredient                                                    | Brand                |
 | ------: | ------------------------------------------------------------- | -------------------- |
-| 0.75 oz / 19 ml | Malört                                                        | Jeppson's            |
-|    1 oz / 25 ml | Gin                                                           | Beefeater London Dry |
-|  0.5 oz / 12.5 ml | Campari                                                       | Campari              |
-| 0.75 oz / 19 ml | [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%}) |
-| 0.75 oz / 19 ml | Fresh Lime Juice                                              |
-| 0.75 oz / 19 ml | Grapefruit Juice                                              |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Malört                                                        | Jeppson's            |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gin                                                           | Beefeater London Dry |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Campari                                                       | Campari              |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%}) |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                                              |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Grapefruit Juice                                              |
 
 ### Notes
 

@@ -23,9 +23,9 @@ excerpt: |
 
 |  Amount | Ingredient                        | Brand                     |
 | ------: | --------------------------------- | ------------------------- |
-| 0.75 oz / 19 ml | Gin                               | Plymouth                  |
-| 0.75 oz / 19 ml | Sweet Vermouth                    | Cocchi Vermouth di Torino |
-| 0.75 oz / 19 ml | Green Chartreuse Green Chartreuse |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Gin                               | Plymouth                  |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Sweet Vermouth                    | Cocchi Vermouth di Torino |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Green Chartreuse Green Chartreuse |
 |  1 dash | Orange Bitters                    | Regan's No. 6             |
 
 ### Notes
@@ -42,9 +42,9 @@ excerpt: |
 
 |  Amount | Ingredient       | Brand                     |
 | ------: | ---------------- | ------------------------- |
-| 1.25 oz / 31.5 ml | Gin              | Plymouth                  |
-| 0.75 oz / 19 ml | Sweet Vermouth   | Cocchi Vermouth di Torino |
-| 0.25 oz / 6.5 ml | Green Chartreuse | Green Chartreuse          |
+| <span class="onex active">1.25 oz / 31.5 ml</span>  <span class="twox">2.5 oz / 62.5 ml</span> <span class="threex">3.75 oz / 94 ml</span> | Gin              | Plymouth                  |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Sweet Vermouth   | Cocchi Vermouth di Torino |
+| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Green Chartreuse | Green Chartreuse          |
 |  1 dash | Orange Bitters   | Regan's No. 6             |
 
 ### Notes

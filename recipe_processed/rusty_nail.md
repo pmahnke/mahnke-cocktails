@@ -17,8 +17,8 @@ excerpt: |
 
 | Amount | Ingredient      | Brand           |
 | -----: | --------------- | --------------- |
-|   2 oz / 50 ml | Scotch, Blended | Monkey Shoulder |
-|   1 oz / 25 ml | Drambuie        | Drambuie        |
+|   <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Scotch, Blended | Monkey Shoulder |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Drambuie        | Drambuie        |
 
 ### Notes
 

@@ -17,10 +17,10 @@ excerpt: |
 
 |  Amount | Ingredient              | Brand                                         |
 | ------: | ----------------------- | --------------------------------------------- |
-|  1.5 oz / 37.5 ml | Apple Brandy            | Laird’s Straight Apple Brandy Bottled in Bond |
-| 0.5 oz / 12.5 ml. | Fresh Orange Juice      |
-| 0.5 oz / 12.5 ml. | Fresh Lemon Juice       |
-| 0.5 oz / 12.5 ml. | Pure Maple Syrup (Dark) |
+|  <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Apple Brandy            | Laird’s Straight Apple Brandy Bottled in Bond |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span>. | Fresh Orange Juice      |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span>. | Fresh Lemon Juice       |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span>. | Pure Maple Syrup (Dark) |
 
 ### Notes
 

@@ -17,14 +17,14 @@ excerpt: |
 
 |   Amount | Ingredient                                               | Brand                         |
 | -------: | -------------------------------------------------------- | ----------------------------- |
-|     1 oz / 25 ml | Gold Rum                                                 | Don Q                         |
-|   0.5 oz / 12.5 ml | Demerara Rum                                             | Hamilton 86                   |
-|   0.5 oz / 12.5 ml | Apricot Liqueur                                          | Giffard Abricot Du Roussillon |
-|   0.5 oz / 12.5 ml | Falernum                                                 | John D. Taylor’s              |
-|     1 oz / 25 ml | Fresh Orange Juice                                       |
-|   0.5 oz / 12.5 ml | Fresh Lemon Juice                                        |
-|   0.5 oz / 12.5 ml | Fresh Lime Juice                                         |
-|   0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gold Rum                                                 | Don Q                         |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Demerara Rum                                             | Hamilton 86                   |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Apricot Liqueur                                          | Giffard Abricot Du Roussillon |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Falernum                                                 | John D. Taylor’s              |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Orange Juice                                       |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lemon Juice                                        |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lime Juice                                         |
+|   <span class="onex active">0.5 oz / 18.5 ml</span>  <span class="twox">1 oz / 36.5 ml</span> <span class="threex">1.5 oz / 55 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 2 dashes | Angostura Bitters                                        |
 
 ### Notes

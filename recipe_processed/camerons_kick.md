@@ -17,10 +17,10 @@ excerpt: |
 
 | Amount | Ingredient                                      | Brand             |
 | -----: | ----------------------------------------------- | ----------------- |
-|   1 oz / 25 ml | Scotch, Blended                                 | Monkey Shoulder   |
-|   1 oz / 25 ml | Irish Whiskey                                   | Powers Gold Label |
-| 0.5 oz / 12.5 ml | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-| 0.5 oz / 12.5 ml | Fresh Lemon Juice                               |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Scotch, Blended                                 | Monkey Shoulder   |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Irish Whiskey                                   | Powers Gold Label |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lemon Juice                               |
 
 ### Notes
 

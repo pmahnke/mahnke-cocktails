@@ -17,9 +17,9 @@ excerpt: |
 
 |  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
-| 1.25 oz / 31.5 ml | Campari        | Campari                   |
-| 1.25 oz / 31.5 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
-|    3 oz / 75 ml | Soda Water     | Topo Chico                |
+| <span class="onex active">1.25 oz / 31.5 ml</span>  <span class="twox">2.5 oz / 62.5 ml</span> <span class="threex">3.75 oz / 94 ml</span> | Campari        | Campari                   |
+| <span class="onex active">1.25 oz / 31.5 ml</span>  <span class="twox">2.5 oz / 62.5 ml</span> <span class="threex">3.75 oz / 94 ml</span> | Sweet Vermouth | Cocchi Vermouth di Torino |
+|    <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Soda Water     | Topo Chico                |
 
 ### Notes
 

@@ -1,0 +1,97 @@
+#!/usr/bin/perl
+
+# create a set of pages that is a double and triple  recipe
+
+use Math::Round;
+
+my $rootdir = `pwd`;
+chop($rootdir);
+
+my $dir = $rootdir."/recipe/";
+
+my $mydir = $rootdir."/recipe_processed/";
+
+# read files in a directory
+opendir(DIR, $dir) or die "Cannot open directory $dir";
+
+while (my $file = readdir DIR) {
+    next if ($file !~ /\.md/);
+
+    my $infile = $dir.$file;
+    open (FILE, "$infile") or die "Cannot open $infile\n";
+
+    my $out = "";    
+    while (<FILE>) {
+
+        if (/((\d+\.\d+|\d+)) oz/) {
+	    
+	    my $oz = $1 * 1;
+	    
+	    my $in = "";
+	    $in = "simple" if (/simple/i);
+	    $in = "semi"   if (/semi/i);
+	    $in = "rich"   if (/rich/i);	    
+
+            my $ml = &convert($oz, $in);
+            $ml = qq|<span class="onex active">$oz oz \/ $ml ml</span> |;
+	    # 2x
+	    my $ozx = $oz * 2;
+	    my $mlx = &convert($ozx, $in);
+	    $ml .= qq| <span class="twox">$ozx oz \/ $mlx ml</span>|;
+	    #3x
+	    $ozx = $oz * 3;
+	    $mlx = &convert($ozx, $in);
+	    $ml .= qq| <span class="threex">$ozx oz \/ $mlx ml</span>|;
+            s/$oz oz/$ml/;
+            print "Converted $oz to $ml\n";
+        } else {
+            #print "line: $_\n";
+        }
+
+	# also convert links
+	s/link recipe\//link recipe_processed\//;
+	
+        $out .= $_;
+
+    }
+
+    close (FILE);
+
+    my $outfile = $mydir.$file;
+    open (NEWFILE, ">$outfile") or die "Cannot open newfile: $outfile\n";
+    print NEWFILE $out;
+    close (NEWFILE);
+
+    print "Saved: $outfile\n";
+
+}
+
+
+exit;
+
+sub convert {
+
+    # water 25 g = 1 oz
+    # rich syrup 36.68 g = 1 oz
+    # semi rich syrup 35 g = 1 oz
+    # simple syrup 34.16 g = 1 oz
+
+    my $oz = $_[0];
+    my $in = $_[1];
+    my $ml = "";
+
+    print "sub convert $oz for $in\n";
+
+    if ($in eq "rich") {
+	$ml = $oz * 36.68;
+    } elsif ($in eq "semi") {
+	$ml = $oz * 35.3;
+    } elsif ($in eq "simple") {
+	$ml = $oz * 34.16;
+    } else {
+	$ml = $oz * 25;
+    }
+    $ml = nearest(0.5, $ml);
+    return($ml);
+
+}

@@ -17,9 +17,9 @@ excerpt: |
 
 | Amount | Ingredient       | Brand                            |
 | -----: | ---------------- | -------------------------------- |
-| 1.5 oz / 37.5 ml | Gin              | Botanist                         |
-|   1 oz / 25 ml | Vodka            | Union Horse Distilling Co. Rider |
-| 0.5 oz / 12.5 ml | Cocchi Americano | Cocchi Americano                 |
+| <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Gin              | Botanist                         |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Vodka            | Union Horse Distilling Co. Rider |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Cocchi Americano | Cocchi Americano                 |
 
 ### Notes
 

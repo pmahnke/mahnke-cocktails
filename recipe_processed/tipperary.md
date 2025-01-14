@@ -17,9 +17,9 @@ excerpt: |
 
 |   Amount | Ingredient       | Brand                            |
 | -------: | ---------------- | -------------------------------- |
-|     2 oz / 50 ml | Irish Whiskey    | Redbreast 12 year                |
-|   0.5 oz / 12.5 ml | Sweet Vermouth   | Dolin Vermouth de Chambéry Rouge |
-|  0.25 oz / 6.5 ml | Green Chartreuse | Green Chartreuse                 |
+|     <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Irish Whiskey    | Redbreast 12 year                |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Sweet Vermouth   | Dolin Vermouth de Chambéry Rouge |
+|  <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Green Chartreuse | Green Chartreuse                 |
 | 2 dashes | Bitters          | Angostura Aromatic Bitters       |
 
 ### Notes

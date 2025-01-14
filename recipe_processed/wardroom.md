@@ -17,9 +17,9 @@ excerpt: |
 
 | Amount | Ingredient         | Brand                      |
 | -----: | ------------------ | -------------------------- |
-|   1 oz / 25 ml | Cognac             | Maison Rouge VSOP          |
-|   1 oz / 25 ml | Rum                | Flor de Caña 7 Year        |
-|   1 oz / 25 ml | Tawny Port         | Graham’s 20 Year           |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cognac             | Maison Rouge VSOP          |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Rum                | Flor de Caña 7 Year        |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Tawny Port         | Graham’s 20 Year           |
 | 1 dash | Bitters            | Angostura Aromatic Bitters |
 |  1 tsp | Maraschino Liqueur | Luxardo                    |
 

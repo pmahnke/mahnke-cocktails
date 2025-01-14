@@ -18,10 +18,10 @@ excerpt: |
 |        Amount | Ingredient        | Brand                 |
 | ------------: | ----------------- | --------------------- |
 | 1 small scoop | Vanilla Ice Cream |
-|        0.5 oz / 12.5 ml | Cognac            | Maison Rouge V.S.O.P. |
-|        0.5 oz / 12.5 ml | Orange Liqueur    | Grand Marnier         |
-|        0.5 oz / 12.5 ml | Bénédictine       | Bénédictine DOM       |
-|   1 to 1.5 oz / 37.5 ml | Brut Champagne    | Laurent-Perrier       |
+|        <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Cognac            | Maison Rouge V.S.O.P. |
+|        <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Orange Liqueur    | Grand Marnier         |
+|        <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Bénédictine       | Bénédictine DOM       |
+|   1 to <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Brut Champagne    | Laurent-Perrier       |
 
 ### Notes
 

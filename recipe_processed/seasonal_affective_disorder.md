@@ -17,11 +17,11 @@ excerpt: |
 
 |   Amount | Ingredient                                      | Brand             |
 | -------: | ----------------------------------------------- | ----------------- |
-|     1 oz / 25 ml | Demerara Rum                                    | Hamilton 86       |
-|   0.5 oz / 12.5 ml | Cognac                                          | Maison Rouge VSOP |
-|     1 oz / 25 ml | Fresh Lemon Juice                               |
-|   0.5 oz / 12.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-|   0.5 oz / 12.5 ml | Allspice Dram                                   | St. Elizabeth     |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Demerara Rum                                    | Hamilton 86       |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Cognac                                          | Maison Rouge VSOP |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lemon Juice                               |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Allspice Dram                                   | St. Elizabeth     |
 | 2 dashes | Absinthe                                        | St. George        |
 
 ### Notes

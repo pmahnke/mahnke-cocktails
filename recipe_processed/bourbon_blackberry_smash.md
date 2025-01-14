@@ -17,8 +17,8 @@ excerpt: |
 
 |        Amount | Ingredient   | Brand                    |
 | ------------: | ------------ | ------------------------ |
-|          2 oz / 50 ml | Bourbon      | Elijah Craig Small Batch |
-|       0.75 oz / 19 ml | Maple Syrup  |
+|          <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Bourbon      | Elijah Craig Small Batch |
+|       <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Maple Syrup  |
 |     0.5 whole | Lemon        |
 |       4 whole | Blackberries |
 | 6 to 8 leaves | Mint         |

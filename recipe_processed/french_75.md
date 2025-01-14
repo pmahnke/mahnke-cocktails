@@ -21,10 +21,10 @@ excerpt: |
 
 | Amount | Ingredient                                      | Brand             |
 | -----: | ----------------------------------------------- | ----------------- |
-|   2 oz / 50 ml | Champagne                                       |
-|   1 oz / 25 ml | Cognac                                          | Maison Rouge VSOP |
-| 0.5 oz / 12.5 ml | Fresh Lemon Juice                               |
-| 0.5 oz / 17 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|   <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Champagne                                       |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cognac                                          | Maison Rouge VSOP |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lemon Juice                               |
+| <span class="onex active">0.5 oz / 17 ml</span>  <span class="twox">1 oz / 34 ml</span> <span class="threex">1.5 oz / 51 ml</span> | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 
@@ -32,7 +32,7 @@ excerpt: |
 - Pour: Single Strain
 - Glassware: Champagne Flute
 - Garnish: Lemon Twist
-- Special Prep: Pour 2 oz / 50 ml of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.### Gin
+- Special Prep: Pour <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.### Gin
 
 </div>
 <div class="subrecipe" markdown="1">
@@ -43,10 +43,10 @@ excerpt: |
 
 | Amount | Ingredient                                      | Brand    |
 | -----: | ----------------------------------------------- | -------- |
-|   2 oz / 50 ml | Champagne                                       |
-|   1 oz / 25 ml | Gin                                             | Plymouth |
-| 0.5 oz / 12.5 ml | Fresh Lemon Juice                               |
-| 0.5 oz / 17 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|   <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Champagne                                       |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gin                                             | Plymouth |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lemon Juice                               |
+| <span class="onex active">0.5 oz / 17 ml</span>  <span class="twox">1 oz / 34 ml</span> <span class="threex">1.5 oz / 51 ml</span> | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 
@@ -54,6 +54,6 @@ excerpt: |
 - Pour: Single Strain
 - Glassware: Champagne Flute
 - Garnish: Lemon Twist
-- Special Prep: Pour 2 oz / 50 ml of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.
+- Special Prep: Pour <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.
 
 </div>

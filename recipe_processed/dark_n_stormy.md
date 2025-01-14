@@ -17,8 +17,8 @@ excerpt: |
 
 | Amount | Ingredient  | Brand                |
 | -----: | ----------- | -------------------- |
-| 1.5 oz / 37.5 ml | Dark Rum    | Gosling's Black Seal |
-| 4-5 oz / 125 ml | Ginger Beer | Barritt's            |
+| <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Dark Rum    | Gosling's Black Seal |
+| 4-<span class="onex active">5 oz / 125 ml</span>  <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Ginger Beer | Barritt's            |
 
 ### Notes
 

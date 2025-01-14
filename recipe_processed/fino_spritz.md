@@ -17,10 +17,10 @@ excerpt: |
 
 | Amount | Ingredient         | Brand      |
 | -----: | ------------------ | ---------- |
-|   2 oz / 50 ml | Fino Sherry        | Alvear     |
-| 0.5 oz / 12.5 ml | Maraschino Liqueur | Luxardo    |
-|   3 oz / 75 ml | Prosecco           | Ruffino    |
-|   1 oz / 25 ml | Soda Water         | Topo Chico |
+|   <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Fino Sherry        | Alvear     |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Maraschino Liqueur | Luxardo    |
+|   <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Prosecco           | Ruffino    |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Soda Water         | Topo Chico |
 
 ### Notes
 

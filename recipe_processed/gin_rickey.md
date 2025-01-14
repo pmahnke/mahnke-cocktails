@@ -24,8 +24,8 @@ excerpt: |
 | Amount | Ingredient      | Brand          |
 | -----: | --------------- | -------------- |
 | 1 half | Lime            |
-| 1.5 oz / 37.5 ml | Gin             | Martin Millers |
-|   3 oz / 75 ml | Sparkling Water | Topo Chico     |
+| <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Gin             | Martin Millers |
+|   <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Sparkling Water | Topo Chico     |
 
 #### Notes
 

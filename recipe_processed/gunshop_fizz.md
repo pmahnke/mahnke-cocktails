@@ -21,10 +21,10 @@ excerpt: |
 | 2 slices | Cucumber                                        |
 | 3 Swaths | Orange Zest                                     |
 | 3 Swaths | Grapefruit Zest                                 |
-|     2 oz / 50 ml | Bitters                                         | Peychaud's                                                                |
-|     1 oz / 25 ml | Fresh Lemon Juice                               |
-|     1 oz / 34 ml | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|     1 oz / 25 ml | Red Bitter Soda                                 | [Sanbitter](https://amzn.to/3d1Vm1I) or [Stappi](https://amzn.to/2NmvjHO) |
+|     <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Bitters                                         | Peychaud's                                                                |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lemon Juice                               |
+|     <span class="onex active">1 oz / 34 ml</span>  <span class="twox">2 oz / 68.5 ml</span> <span class="threex">3 oz / 102.5 ml</span> | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Red Bitter Soda                                 | [Sanbitter](https://amzn.to/3d1Vm1I) or [Stappi](https://amzn.to/2NmvjHO) |
 
 ### Notes
 

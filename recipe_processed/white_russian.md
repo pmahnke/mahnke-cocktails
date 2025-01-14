@@ -17,9 +17,9 @@ excerpt: |
 
 | Amount | Ingredient     | Brand     |
 | -----: | -------------- | --------- |
-|   1 oz / 25 ml | Vodka          | Finlandia |
-|   1 oz / 25 ml | Coffee Liqueur | Kahlúa    |
-|   1 oz / 25 ml | Heavy Cream    |           |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Vodka          | Finlandia |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Coffee Liqueur | Kahlúa    |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Heavy Cream    |           |
 
 ### Notes
 

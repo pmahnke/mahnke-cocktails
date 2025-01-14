@@ -17,11 +17,11 @@ excerpt: |
 
 | Amount | Ingredient                                            | Brand                      |
 | -----: | ----------------------------------------------------- | -------------------------- |
-| 1.5 oz / 37.5 ml | Bitters                                               | Angostura Aromatic Bitters |
-| 0.5 oz / 12.5 ml | Jamaican Rum                                          | Smith & Cross              |
-|   2 oz / 50 ml | Pineapple Juice                                       |                            |
-| 1.5 oz / 37.5 ml | [Cream of Coconut]({%link recipe_processed/demerara_syrup.md%}) |                            |
-|   1 oz / 25 ml | Fresh Lime Juice                                      |                            |
+| <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Bitters                                               | Angostura Aromatic Bitters |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Jamaican Rum                                          | Smith & Cross              |
+|   <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Pineapple Juice                                       |                            |
+| <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | [Cream of Coconut]({%link recipe_processed/demerara_syrup.md%}) |                            |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice                                      |                            |
 
 ### Notes
 

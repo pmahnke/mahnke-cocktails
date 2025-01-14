@@ -18,11 +18,11 @@ excerpt: |
 |  Amount | Ingredient                                                | Brand    |
 | ------: | --------------------------------------------------------- | -------- |
 | 5 whole | Grapes (frozen)                                           |
-|    1 oz / 25 ml | Gin                                                       | Botanist |
-|    1 oz / 25 ml | Campari                                                   | Campari  |
-| 0.75 oz / 19 ml | Fresh Lemon Juice                                         |
-|  0.5 oz / 18.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|    3 oz / 75 ml | Prosecco                                                  |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gin                                                       | Botanist |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Campari                                                   | Campari  |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lemon Juice                                         |
+|  <span class="onex active">0.5 oz / 18.5 ml</span>  <span class="twox">1 oz / 36.5 ml</span> <span class="threex">1.5 oz / 55 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|    <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Prosecco                                                  |
 
 ### Notes
 

@@ -17,7 +17,7 @@ excerpt: |
 
 |       Amount | Ingredient | Brand                 |
 | -----------: | ---------- | --------------------- |
-|         2 oz / 50 ml | Cachaça    | Novo Fogo Barrel-Aged |
+|         <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Cachaça    | Novo Fogo Barrel-Aged |
 |    0.5 whole | Fresh Lime |
 | 1 tablespoon | Cane Sugar |
 

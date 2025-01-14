@@ -17,9 +17,9 @@ excerpt: |
 
 |        Amount | Ingredient                                                | Brand                      |
 | ------------: | --------------------------------------------------------- | -------------------------- |
-|          2 oz / 50 ml | Gin                                                       | East London Liquor Company |
-|       0.75 oz / 19 ml | Lime Juice                                                |
-|       0.75 oz / 27.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|          <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Gin                                                       | East London Liquor Company |
+|       <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Lime Juice                                                |
+|       <span class="onex active">0.75 oz / 27.5 ml</span>  <span class="twox">1.5 oz / 55 ml</span> <span class="threex">2.25 oz / 82.5 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |       1 rinse | Absinthe                                                  |
 | 6 to 8 leaves | Mint                                                      |
 

@@ -17,8 +17,8 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand                     |
 | -------: | -------------- | ------------------------- |
-|   1.5 oz / 37.5 ml | Gin            | Plymouth                  |
-|   1.5 oz / 37.5 ml | Sweet Vermouth | Cocchi Vermouth di Torino |
+|   <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Gin            | Plymouth                  |
+|   <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Sweet Vermouth | Cocchi Vermouth di Torino |
 | 2 dashes | Orange Bitters | Regan's No. 6             |
 
 ### Notes

@@ -17,9 +17,9 @@ excerpt: |
 
 | Amount | Ingredient     | Brand                  |
 | -----: | -------------- | ---------------------- |
-|   2 oz / 50 ml | Rye            | Old Forester 100 Proof |
-|   1 oz / 25 ml | Orange Curaçao | Marie Brizard          |
-| 0.5 oz / 12.5 ml | Fernet Branca  | Fernet Branca          |
+|   <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Rye            | Old Forester 100 Proof |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Orange Curaçao | Marie Brizard          |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fernet Branca  | Fernet Branca          |
 
 ### Notes
 

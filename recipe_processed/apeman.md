@@ -17,12 +17,12 @@ excerpt: |
 
 |  Amount | Ingredient                                               | Brand                    |
 | ------: | -------------------------------------------------------- | ------------------------ |
-|    1 oz / 25 ml | Bourbon                                                  | Old Grand-Dad 100 Proof  |
-|  0.5 oz / 12.5 ml | Oloroso Sherry                                           | Lustau                   |
-|  0.5 oz / 12.5 ml | Banana Liquor                                            | Giffard Banane du Brésil |
-|  0.5 oz / 12.5 ml | Fresh Lemon Juice                                        |
-| 0.25 oz / 9 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-| 0.75 oz / 19 ml | Egg White                                                |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Bourbon                                                  | Old Grand-Dad 100 Proof  |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Oloroso Sherry                                           | Lustau                   |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Banana Liquor                                            | Giffard Banane du Brésil |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lemon Juice                                        |
+| <span class="onex active">0.25 oz / 9 ml</span>  <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Egg White                                                |
 
 ### Notes
 

@@ -21,9 +21,9 @@ excerpt: |
 
 | Amount | Ingredient                                    | Brand                                  |
 | -----: | --------------------------------------------- | -------------------------------------- |
-| 1.5 oz / 37.5 ml | Bourbon                                       | Still Austin ""The Musician"" Straight |
-|   1 oz / 25 ml | Pink Grapefruit Juice                         |
-| 0.5 oz / 12.5 ml | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
+| <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Bourbon                                       | Still Austin ""The Musician"" Straight |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Pink Grapefruit Juice                         |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
 
 ### Notes
 
@@ -42,10 +42,10 @@ excerpt: |
 
 |  Amount | Ingredient                                    | Brand                                  |
 | ------: | --------------------------------------------- | -------------------------------------- |
-|  1.5 oz / 37.5 ml | Bourbon                                       | Still Austin ""The Musician"" Straight |
-|    1 oz / 25 ml | White Grapefruit Juice                        |
-|  0.5 oz / 12.5 ml | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
-| 0.25 oz / 6.5 ml | Fresh Lemon Juice                             |
+|  <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Bourbon                                       | Still Austin ""The Musician"" Straight |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | White Grapefruit Juice                        |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
+| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Fresh Lemon Juice                             |
 
 ### Notes
 

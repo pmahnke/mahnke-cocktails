@@ -17,11 +17,11 @@ excerpt: |
 
 | Amount | Ingredient                                                  | Brand                         |
 | -----: | ----------------------------------------------------------- | ----------------------------- |
-|   1 oz / 25 ml | Dark Rum                                                    | Kōloa Kaua'i                  |
-|   1 oz / 25 ml | Gold Rum                                                    | Don Q                         |
-|   1 oz / 25 ml | Apricot Liqueur                                             | Giffard Abricot du Roussillon |
-|   1 oz / 25 ml | [Cream of Coconut]({%link recipe_processed/creamofcoconut_syrup.md%}) |
-|   1 oz / 25 ml | Fresh Lemon Juice                                           |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Dark Rum                                                    | Kōloa Kaua'i                  |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gold Rum                                                    | Don Q                         |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Apricot Liqueur                                             | Giffard Abricot du Roussillon |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | [Cream of Coconut]({%link recipe_processed/creamofcoconut_syrup.md%}) |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lemon Juice                                           |
 
 ### Notes
 

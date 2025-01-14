@@ -17,9 +17,9 @@ excerpt: |
 
 |    Amount | Ingredient                                               | Brand             |
 | --------: | -------------------------------------------------------- | ----------------- |
-|      1 oz / 25 ml | Irish Whiskey                                            | Powers Gold Label |
-|   0.25 oz / 9 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-| 3 to 4 oz / 100 ml | Hot Coffee                                               |
+|      <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Irish Whiskey                                            | Powers Gold Label |
+|   <span class="onex active">0.25 oz / 9 ml</span>  <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| 3 to <span class="onex active">4 oz / 100 ml</span>  <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Hot Coffee                                               |
 
 ### Notes
 

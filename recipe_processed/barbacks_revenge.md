@@ -17,10 +17,10 @@ excerpt: |
 
 | Amount | Ingredient            | Brand            |
 | -----: | --------------------- | ---------------- |
-|   1 oz / 25 ml | Demerara Rum          | El Dorado 8 Year |
-|   1 oz / 25 ml | Bénédictine           | Bénédictine DOM  |
-| 0.5 oz / 12.5 ml | Amontillado Sherry    | Lustau Los Arcos |
-|   1 oz / 25 ml | Cold Brew Concentrate |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Demerara Rum          | El Dorado 8 Year |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Bénédictine           | Bénédictine DOM  |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Amontillado Sherry    | Lustau Los Arcos |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cold Brew Concentrate |
 
 ### Notes
 

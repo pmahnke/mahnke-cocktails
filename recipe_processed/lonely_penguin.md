@@ -17,11 +17,11 @@ excerpt: |
 
 |   Amount | Ingredient                                                  | Brand                      |
 | -------: | ----------------------------------------------------------- | -------------------------- |
-|   1.5 oz / 37.5 ml | Rye                                                         | Rittenhouse 100 proof      |
-|   0.5 oz / 12.5 ml | Crème de Mûre                                               | Combier                    |
-|  0.75 oz / 19 ml | [Cream of Coconut]({%link recipe_processed/creamofcoconut_syrup.md%}) |                            |
-|  0.75 oz / 19 ml | Fresh Lemon Juice                                           |                            |
-|  0.25 oz / 9 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})   |                            |
+|   <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Rye                                                         | Rittenhouse 100 proof      |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Crème de Mûre                                               | Combier                    |
+|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | [Cream of Coconut]({%link recipe_processed/creamofcoconut_syrup.md%}) |                            |
+|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lemon Juice                                           |                            |
+|  <span class="onex active">0.25 oz / 9 ml</span>  <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})   |                            |
 | 2 dashes | Bitters                                                     | Angostura Aromatic Bitters |
 
 ### Notes

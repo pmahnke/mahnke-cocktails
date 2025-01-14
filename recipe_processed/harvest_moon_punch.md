@@ -17,13 +17,13 @@ excerpt: |
 
 | Amount | Ingredient                                               | Brand                   |
 | -----: | -------------------------------------------------------- | ----------------------- |
-|  12 oz / 300 ml | Jamacian Rum                                             | Appleton Estate 12 Year |
-|   9 oz / 225 ml | Apple Brandy                                             | Laird’s BIB Straight    |
-|   6 oz / 150 ml | Orchard Pear Liqueur                                     | Rothman & Winter        |
-|   3 oz / 75 ml | Allspice Dram                                            | St. Elizabeth           |
-|   6 oz / 220 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |                         |
-|   9 oz / 225 ml | Fresh Lemon Juice                                        |                         |
-| 24 oz / 600 ml. | Black Tea (chilled)                                      |                         |
+|  <span class="onex active">12 oz / 300 ml</span>  <span class="twox">24 oz / 600 ml</span> <span class="threex">36 oz / 900 ml</span> | Jamacian Rum                                             | Appleton Estate 12 Year |
+|   <span class="onex active">9 oz / 225 ml</span>  <span class="twox">18 oz / 450 ml</span> <span class="threex">27 oz / 675 ml</span> | Apple Brandy                                             | Laird’s BIB Straight    |
+|   <span class="onex active">6 oz / 150 ml</span>  <span class="twox">12 oz / 300 ml</span> <span class="threex">18 oz / 450 ml</span> | Orchard Pear Liqueur                                     | Rothman & Winter        |
+|   <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Allspice Dram                                            | St. Elizabeth           |
+|   <span class="onex active">6 oz / 220 ml</span>  <span class="twox">12 oz / 440 ml</span> <span class="threex">18 oz / 660 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |                         |
+|   <span class="onex active">9 oz / 225 ml</span>  <span class="twox">18 oz / 450 ml</span> <span class="threex">27 oz / 675 ml</span> | Fresh Lemon Juice                                        |                         |
+| <span class="onex active">24 oz / 600 ml</span>  <span class="twox">48 oz / 1200 ml</span> <span class="threex">72 oz / 1800 ml</span>. | Black Tea (chilled)                                      |                         |
 
 ### Notes
 

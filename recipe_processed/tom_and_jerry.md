@@ -47,7 +47,7 @@ excerpt: |
 | 0.125 tsp | Ground Clove     |
 | 0.125 tsp | Ground Allspice  |
 | 0.125 tsp | Ground Cinnamon  |
-|    0.5 oz / 12.5 ml | Jamaican Rum     | Appleton Estate V/X        |
+|    <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Jamaican Rum     | Appleton Estate V/X        |
 |  0.5 cups | Granulated Sugar |
 |   1 pinch | Salt             |
 |    1 dash | Bitters          | Angostura Aromatic Bitters |

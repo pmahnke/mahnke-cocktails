@@ -59,3 +59,23 @@ p.icons {
     text-align: right;
     clear:both;
     }
+
+
+
+/* measurement scaling */
+.onex, .twox, .threex {
+    display: none; /* Hide all spans by default */
+}
+.onex.active, .twox.active, .threex.active {
+    display: inline; /* Show the active span */
+}
+.menu a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+}
+.menu a.active {
+    font-weight: bold;
+    text-decoration: underline;
+}

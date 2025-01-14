@@ -18,11 +18,11 @@ excerpt: |
 
 |  Amount | Ingredient                        | Brand                   |
 | ------: | --------------------------------- | ----------------------- |
-|  1.5 oz / 37.5 ml | Green Chartreuse                  | Green Chartreuse        |
-|  0.5 oz / 12.5 ml | Falernum                          | John D. Taylor's Velvet |
-|    1 oz / 25 ml | Pineapple Juice                   |
-| 0.75 oz / 19 ml | Fresh Lime Juice                  |
-| 0.25 oz / 6.5 ml | Optional - Overproof Jamaican Rum | Wray & Nephew White     |
+|  <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Green Chartreuse                  | Green Chartreuse        |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Falernum                          | John D. Taylor's Velvet |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Pineapple Juice                   |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                  |
+| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Optional - Overproof Jamaican Rum | Wray & Nephew White     |
 
 ### Notes
 

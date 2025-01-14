@@ -18,8 +18,8 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
-|     2 oz / 50 ml | Rye            | Rittenhouse 100 Proof      |
-|     1 oz / 25 ml | Sweet Vermouth | Cocchi Vermouth di Torino  |
+|     <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Rye            | Rittenhouse 100 Proof      |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Sweet Vermouth | Cocchi Vermouth di Torino  |
 | 2 dashes | Bitters        | Angostura Aromatic Bitters |
 
 ### Notes

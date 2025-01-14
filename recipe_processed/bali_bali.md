@@ -17,16 +17,16 @@ excerpt: |
 
 |  Amount | Ingredient                                                | Brand                             |
 | ------: | --------------------------------------------------------- | --------------------------------- |
-| 0.75 oz / 19 ml | Jamaican Rum                                              | Hamilton Jamaican Pot Still Black |
-| 0.75 oz / 19 ml | Light Rum                                                 | Real McCoy 3 Year                 |
-| 0.75 oz / 19 ml | Cognac                                                    | Maison Rouge VSOP                 |
-| 0.75 oz / 19 ml | Gin                                                       | Beefeater London Dry              |
-|  0.5 oz / 12.5 ml | Falernum                                                  | John D. Taylor Velvet             |
-|  0.5 oz / 12.5 ml | Passion Fruit Syrup                                       |
-| 0.75 oz / 19 ml | Pineapple Juice                                           |
-| 0.75 oz / 19 ml | Orange Juice                                              |
-| 0.75 oz / 19 ml | Fresh Lime Juice                                          |
-| 0.25 oz / 9 ml | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Jamaican Rum                                              | Hamilton Jamaican Pot Still Black |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Light Rum                                                 | Real McCoy 3 Year                 |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Cognac                                                    | Maison Rouge VSOP                 |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Gin                                                       | Beefeater London Dry              |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Falernum                                                  | John D. Taylor Velvet             |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Passion Fruit Syrup                                       |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Pineapple Juice                                           |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Orange Juice                                              |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                                          |
+| <span class="onex active">0.25 oz / 9 ml</span>  <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

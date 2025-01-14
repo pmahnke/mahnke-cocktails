@@ -21,8 +21,8 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand           |
 | -------: | -------------- | --------------- |
-|  0.75 oz / 19 ml | Rye            | Wild Turkey 101 |
-|  0.75 oz / 19 ml | Dubonnet Rouge | Dubonnet Rouge  |
+|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Rye            | Wild Turkey 101 |
+|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Dubonnet Rouge | Dubonnet Rouge  |
 | 2 dashes | Orange Liqueur | Cointreau       |
 | 2 dashes | Bitters        | Peychaud's      |
 |  1 swath | Lemon Skin     |
@@ -45,9 +45,9 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand           |
 | -------: | -------------- | --------------- |
-|     2 oz / 50 ml | Rye            | Wild Turkey 101 |
-|     1 oz / 25 ml | Dubonnet Rouge | Dubonnet Rouge  |
-|  0.25 oz / 6.5 ml | Orange Liqueur | Cointreau       |
+|     <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Rye            | Wild Turkey 101 |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Dubonnet Rouge | Dubonnet Rouge  |
+|  <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Orange Liqueur | Cointreau       |
 | 2 dashes | Bitters        | Peychaud's      |
 |  1 swath | Lemon Skin     |
 |  1 swath | Orange Skin    |
@@ -69,9 +69,9 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand                |
 | -------: | -------------- | -------------------- |
-|     2 oz / 50 ml | Bourbon        | Old Grand-Dad Bonded |
-|     1 oz / 25 ml | Lillet Rouge   | Lillet Rouge         |
-|   0.5 oz / 12.5 ml | Orange Curaçao | Pierre Ferrand       |
+|     <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Bourbon        | Old Grand-Dad Bonded |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Lillet Rouge   | Lillet Rouge         |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Orange Curaçao | Pierre Ferrand       |
 | 2 dashes | Bitters        | Peychaud's           |
 |  1 swath | Lemon Skin     |
 |  1 swath | Orange Skin    |

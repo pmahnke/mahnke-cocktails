@@ -17,10 +17,10 @@ excerpt: |
 
 |   Amount | Ingredient                                      | Brand                      |
 | -------: | ----------------------------------------------- | -------------------------- |
-|     1 oz / 25 ml | Jamaican Rum                                    | Appleton Estate Signature  |
-|     1 oz / 25 ml | Rye                                             | Rittenhouse 100 Proof      |
-|   0.5 oz / 12.5 ml | Swedish Punsch                                  | Kronan                     |
-|  0.25 oz / 6.5 ml | [Ginger Syrup]({%link recipe_processed/ginger_syrup.md%}) |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Jamaican Rum                                    | Appleton Estate Signature  |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Rye                                             | Rittenhouse 100 Proof      |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Swedish Punsch                                  | Kronan                     |
+|  <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Ginger Syrup]({%link recipe_processed/ginger_syrup.md%}) |
 | 2 dashes | Bitters                                         | Angostura Aromatic Bitters |
 
 ### Notes

@@ -17,11 +17,11 @@ excerpt: |
 
 |  Amount | Ingredient                                               | Brand                          |
 | ------: | -------------------------------------------------------- | ------------------------------ |
-|  1.5 oz / 37.5 ml | Demerara Rum                                             | El Dorado 8 Year               |
-|  0.5 oz / 12.5 ml | Amontillado Sherry                                       | Lustau Amontillado 'Los Arcos' |
-|    1 oz / 36.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|  <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Demerara Rum                                             | El Dorado 8 Year               |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Amontillado Sherry                                       | Lustau Amontillado 'Los Arcos' |
+|    <span class="onex active">1 oz / 36.5 ml</span>  <span class="twox">2 oz / 73.5 ml</span> <span class="threex">3 oz / 110 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 1 whole | Egg                                                      |
-|    2 oz / 50 ml | Half & Half cream                                        |
+|    <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Half & Half cream                                        |
 | 1 pinch | Salt                                                     |
 
 ### Notes

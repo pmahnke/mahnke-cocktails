@@ -17,9 +17,9 @@ excerpt: |
 
 | Amount | Ingredient       | Brand                               |
 | -----: | ---------------- | ----------------------------------- |
-|   2 oz / 50 ml | Mezcal           | Del Maguey VIDA de San Luis Del Rio |
-|   1 oz / 25 ml | Orange Curaçao   | Marie Brizard                       |
-|   1 oz / 25 ml | Fresh Lime Juice |
+|   <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Mezcal           | Del Maguey VIDA de San Luis Del Rio |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Orange Curaçao   | Marie Brizard                       |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice |
 
 ### Notes
 

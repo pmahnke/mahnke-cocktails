@@ -19,11 +19,11 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand                                         |
 | ------: | ----------------------------------------------- | --------------------------------------------- |
-|    1 oz / 25 ml | Apple Brandy                                    | Laird's Straight Apple Brandy Bottled in Bond |
-|  0.5 oz / 12.5 ml | Blended Scotch Whisky                           | Monkey Shoulder Blended Malt Whisky           |
-| 0.75 oz / 19 ml | Fresh Lime Juice                                |
-|  0.5 oz / 12.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-| 0.75 oz / 19 ml | Egg White                                       |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Apple Brandy                                    | Laird's Straight Apple Brandy Bottled in Bond |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Blended Scotch Whisky                           | Monkey Shoulder Blended Malt Whisky           |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                                |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Egg White                                       |
 
 ### Notes
 

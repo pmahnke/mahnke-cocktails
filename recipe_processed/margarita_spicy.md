@@ -17,10 +17,10 @@ excerpt: |
 
 |        Amount | Ingredient       | Brand           |
 | ------------: | ---------------- | --------------- |
-|          2 oz / 50 ml | Mezcal           | Del Maguey Vida |
-|          1 oz / 25 ml | Orange Curaçao   | Marie Brizard   |
-|          1 oz / 25 ml | Fresh Lime Juice |
-|       0.25 oz / 6.5 ml | Agave Nectar     |
+|          <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Mezcal           | Del Maguey Vida |
+|          <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Orange Curaçao   | Marie Brizard   |
+|          <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice |
+|       <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Agave Nectar     |
 | 2 to 3 slices | Jalapeño         |
 
 ### Notes

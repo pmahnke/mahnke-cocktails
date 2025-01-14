@@ -23,13 +23,13 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand                      |
 | ------: | ----------------------------------------------- | -------------------------- |
-|  1.5 oz / 37.5 ml | Gin                                             | Tanglin Singapore          |
-| 0.75 oz / 19 ml | Cherry Liqueur                                  | Cherry Heering             |
-| 0.25 oz / 6.5 ml | Bénédictine                                     | Bénédictine DOM            |
-| 0.25 oz / 6.5 ml | Triple Sec                                      | Luxardo Triplum            |
-|    1 oz / 25 ml | Pineapple Juice                                 |                            |
-| 0.75 oz / 19 ml | Fresh Lime Juice                                |                            |
-| 0.25 oz / 6.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |                            |
+|  <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Gin                                             | Tanglin Singapore          |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Cherry Liqueur                                  | Cherry Heering             |
+| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Bénédictine                                     | Bénédictine DOM            |
+| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Triple Sec                                      | Luxardo Triplum            |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Pineapple Juice                                 |                            |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                                |                            |
+| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |                            |
 |  1 dash | Bitters                                         | Angostura Aromatic Bitters |
 
 ### Notes
@@ -51,12 +51,12 @@ excerpt: |
 
 |         |                   |                            |
 | ------: | ----------------- | -------------------------- |
-|    1 oz / 25 ml | Navy Strength Gin | Tanglin Black Powder       |
-|    1 oz / 25 ml | Cherry Liqueur    | Cherry Heering             |
-| 0.25 oz / 6.5 ml | Bénédictine       | Bénédictine DOM            |
-|    1 oz / 25 ml | Fresh Lime Juice  |                            |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Navy Strength Gin | Tanglin Black Powder       |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cherry Liqueur    | Cherry Heering             |
+| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Bénédictine       | Bénédictine DOM            |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice  |                            |
 |  1 dash | Bitters           | Angostura Aromatic Bitters |
-|    1 oz / 25 ml | Soda Water        | Topo Chico                 |
+|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Soda Water        | Topo Chico                 |
 
 ### Notes
 

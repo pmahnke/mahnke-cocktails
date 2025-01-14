@@ -12,7 +12,7 @@ excerpt: |
 
 |   Amount | Ingredient                |
 | -------: | ------------------------- |
-|    14 oz / 350 ml | Frozen Passion Fruit Pulp |
+|    <span class="onex active">14 oz / 350 ml</span>  <span class="twox">28 oz / 700 ml</span> <span class="threex">42 oz / 1050 ml</span> | Frozen Passion Fruit Pulp |
 | 2.5 cups | White Sugar               |
 
 ### Method

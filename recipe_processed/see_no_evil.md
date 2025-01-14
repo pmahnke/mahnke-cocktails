@@ -17,9 +17,9 @@ excerpt: |
 
 |        Amount | Ingredient                                      | Brand                      |
 | ------------: | ----------------------------------------------- | -------------------------- |
-|        1.5 oz / 37.5 ml | Mezcal                                          | Del Maguey Vida            |
-|       0.75 oz / 19 ml | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-|       0.75 oz / 19 ml | Fresh Lime Juice                                |
+|        <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Mezcal                                          | Del Maguey Vida            |
+|       <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+|       <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                                |
 |      3 dashes | Tabasco                                         | Tabasco                    |
 | 4 to 5 dashes | Bitters                                         | Angostura Aromatic Bitters |
 

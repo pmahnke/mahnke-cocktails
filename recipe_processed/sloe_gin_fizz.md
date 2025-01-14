@@ -17,10 +17,10 @@ excerpt: |
 
 |    Amount | Ingredient                                                | Brand    |
 | --------: | --------------------------------------------------------- | -------- |
-|      2 oz / 50 ml | Sloe Gin                                                  | Plymouth |
-|      1 oz / 25 ml | Fresh Lemon Juice                                         |
-|    0.5 oz / 18.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 2 to 3 oz / 75 ml | Sparkling Water Topo Chico                                |
+|      <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Sloe Gin                                                  | Plymouth |
+|      <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lemon Juice                                         |
+|    <span class="onex active">0.5 oz / 18.5 ml</span>  <span class="twox">1 oz / 36.5 ml</span> <span class="threex">1.5 oz / 55 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 2 to <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Sparkling Water Topo Chico                                |
 
 ### Notes
 
@@ -30,4 +30,4 @@ excerpt: |
   - High Ball
   - On the Rocks
 - Garnish: Lemon wheel and cocktail cherry
-- Special Prep: 1 For variations, drop Sloe Gin to 1.5 oz / 37.5 ml. (45 ml), & add 1/2 oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).
+- Special Prep: 1 For variations, drop Sloe Gin to <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span>. (45 ml), & add 1/2 oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).

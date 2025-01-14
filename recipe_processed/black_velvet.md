@@ -17,8 +17,8 @@ excerpt: |
 
 | Amount | Ingredient     | Brand            |
 | -----: | -------------- | ---------------- |
-|   4 oz / 100 ml | Stout          | Guinness Draught |
-|   4 oz / 100 ml | Sparkling Wine |
+|   <span class="onex active">4 oz / 100 ml</span>  <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Stout          | Guinness Draught |
+|   <span class="onex active">4 oz / 100 ml</span>  <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Sparkling Wine |
 
 ### Notes
 

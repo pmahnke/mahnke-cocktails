@@ -17,9 +17,9 @@ excerpt: |
 
 | Amount | Ingredient        | Brand                      |
 | -----: | ----------------- | -------------------------- |
-|   1 oz / 25 ml | Rosolio Italicus  | Rosolio di Bergamotto      |
-|   1 oz / 25 ml | Reposado Tequila  | Casamigos                  |
-|   1 oz / 25 ml | Manzanilla Sherry | Lustau Manzanilla Papirusa |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Rosolio Italicus  | Rosolio di Bergamotto      |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Reposado Tequila  | Casamigos                  |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Manzanilla Sherry | Lustau Manzanilla Papirusa |
 
 ### Notes
 

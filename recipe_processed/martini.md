@@ -19,8 +19,8 @@ excerpt: |
 
 |        Amount | Ingredient                   | Brand                          |
 | ------------: | ---------------------------- | ------------------------------ |
-|        1.5 oz / 37.5 ml | Gin                          | Martin Miller's                |
-|       0.75 oz / 19 ml | Dry Vermouth                 | Dolin Vermouth de Chambéry Dry |
+|        <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Gin                          | Martin Miller's                |
+|       <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Dry Vermouth                 | Dolin Vermouth de Chambéry Dry |
 | 1 to 2 dashes | Orange Bitters Regan's No. 6 |
 
 ### Notes

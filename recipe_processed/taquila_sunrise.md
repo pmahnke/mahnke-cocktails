@@ -22,10 +22,10 @@ excerpt: |
 
 |    Amount | Ingredient       | Brand                                   |
 | --------: | ---------------- | --------------------------------------- |
-|    1.5 oz / 37.5 ml | Reposado Tequila | Siete Leguas                            |
-|   0.75 oz / 19 ml | Creme de Cassis  | Jules Theuriet Creme de Cassis de Dijon |
-|    0.5 oz / 12.5 ml | Fresh Lime Juice |
-| 4 to 5 oz / 125 ml | Soda Water       |
+|    <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Reposado Tequila | Siete Leguas                            |
+|   <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Creme de Cassis  | Jules Theuriet Creme de Cassis de Dijon |
+|    <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lime Juice |
+| 4 to <span class="onex active">5 oz / 125 ml</span>  <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Soda Water       |
 
 ### Notes
 
@@ -44,9 +44,9 @@ excerpt: |
 
 | Amount | Ingredient     | Brand        |
 | -----: | -------------- | ------------ |
-|   2 oz / 50 ml | Blanco Tequila | Siete Leguas |
-|   4 oz / 100 ml | Orange Juice   |
-| 0.5 oz / 12.5 ml | Grenadine      | Monin        |
+|   <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Blanco Tequila | Siete Leguas |
+|   <span class="onex active">4 oz / 100 ml</span>  <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Orange Juice   |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Grenadine      | Monin        |
 
 ### Notes
 
@@ -65,12 +65,12 @@ excerpt: |
 
 |    Amount | Ingredient                                      | Brand                                   |
 | --------: | ----------------------------------------------- | --------------------------------------- |
-|    1.5 oz / 37.5 ml | Reposado Tequila                                | Siete Leguas                            |
-|    0.5 oz / 12.5 ml | Creme de Cassis                                 | Jules Theuriet Creme de Cassis de Dijon |
-|   0.25 oz / 6.5 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-|   0.75 oz / 19 ml | Fresh Lime Juice                                |
+|    <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Reposado Tequila                                | Siete Leguas                            |
+|    <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Creme de Cassis                                 | Jules Theuriet Creme de Cassis de Dijon |
+|   <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|   <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                                |
 |    1 dash | Bitters                                         | Angostura Aromatic Bitters              |
-| 4 to 5 oz / 125 ml | Soda Water                                      |
+| 4 to <span class="onex active">5 oz / 125 ml</span>  <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Soda Water                                      |
 
 ### Notes
 

@@ -17,8 +17,8 @@ excerpt: |
 
 |   Amount | Ingredient | Brand                        |
 | -------: | ---------- | ---------------------------- |
-|     5 oz / 125 ml | Champagne  | Laurent-Perrier ""La Cuvée"" |
-|  0.75 oz / 19 ml | Cognac     | Maison Rouge V.S.O.P.        |
+|     <span class="onex active">5 oz / 125 ml</span>  <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Champagne  | Laurent-Perrier ""La Cuvée"" |
+|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Cognac     | Maison Rouge V.S.O.P.        |
 |   1 cube | Sugar      | Brown or White               |
 | 10 drops | Bitters    | Angostura Aromatic Bitters   |
 

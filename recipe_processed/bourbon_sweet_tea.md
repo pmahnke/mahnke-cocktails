@@ -17,12 +17,12 @@ excerpt: |
 
 | Amount | Ingredient                                                | Brand                          |
 | -----: | --------------------------------------------------------- | ------------------------------ |
-| 1.5 oz / 37.5 ml | Bourbon                                                   | Old Grand-Dad 100 Proof Bonded |
-|   1 oz / 25 ml | Light Amaro                                               | Amaro Nonino                   |
-| 0.5 oz / 12.5 ml | Peach Liqueur                                             | Rothman & Winter               |
-| 0.5 oz / 12.5 ml | Fresh Lemon Juice                                         |
-| 0.5 oz / 18.5 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|   4 oz / 100 ml | Black Tea, chilled                                        |
+| <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Bourbon                                                   | Old Grand-Dad 100 Proof Bonded |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Light Amaro                                               | Amaro Nonino                   |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Peach Liqueur                                             | Rothman & Winter               |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lemon Juice                                         |
+| <span class="onex active">0.5 oz / 18.5 ml</span>  <span class="twox">1 oz / 36.5 ml</span> <span class="threex">1.5 oz / 55 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|   <span class="onex active">4 oz / 100 ml</span>  <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Black Tea, chilled                                        |
 
 ### Notes
 

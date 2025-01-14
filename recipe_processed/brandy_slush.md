@@ -17,12 +17,12 @@ excerpt: |
 
 |    Amount | Ingredient                                              | Brand  |
 | --------: | ------------------------------------------------------- | ------ |
-|     12 oz / 300 ml | Frozen Concentrated Orange Juice (thawed)               |
-|     12 oz / 300 ml | Frozen Concentrated Lemonade (thawed)                   |
-|     16 oz / 400 ml | Brandy                                                  | Korbel |
-|     40 oz / 1000 ml | Water                                                   |
-|     16 oz / 546.5 ml | [Tea Simple Syrup]({%link recipe_processed/tea_simple_syrup.md%}) |
-| 1 to 2 oz / 50 ml | Sprite, ginger ale, or soda water                       |
+|     <span class="onex active">12 oz / 300 ml</span>  <span class="twox">24 oz / 600 ml</span> <span class="threex">36 oz / 900 ml</span> | Frozen Concentrated Orange Juice (thawed)               |
+|     <span class="onex active">12 oz / 300 ml</span>  <span class="twox">24 oz / 600 ml</span> <span class="threex">36 oz / 900 ml</span> | Frozen Concentrated Lemonade (thawed)                   |
+|     <span class="onex active">16 oz / 400 ml</span>  <span class="twox">32 oz / 800 ml</span> <span class="threex">48 oz / 1200 ml</span> | Brandy                                                  | Korbel |
+|     <span class="onex active">40 oz / 1000 ml</span>  <span class="twox">80 oz / 2000 ml</span> <span class="threex">120 oz / 3000 ml</span> | Water                                                   |
+|     <span class="onex active">16 oz / 546.5 ml</span>  <span class="twox">32 oz / 1093 ml</span> <span class="threex">48 oz / 1639.5 ml</span> | [Tea Simple Syrup]({%link recipe_processed/tea_simple_syrup.md%}) |
+| 1 to <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Sprite, ginger ale, or soda water                       |
 
 Orange slice for individual garnish
 

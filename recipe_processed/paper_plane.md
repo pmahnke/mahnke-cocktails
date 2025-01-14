@@ -17,10 +17,10 @@ excerpt: |
 
 |  Amount | Ingredient        | Brand              |
 | ------: | ----------------- | ------------------ |
-| 0.75 oz / 19 ml | Bourbon           | Old Grandad Bonded |
-| 0.75 oz / 19 ml | Light Amaro       | Amaro Nonino       |
-| 0.75 oz / 19 ml | Aperol            | Aperol             |
-| 0.75 oz / 19 ml | Fresh Lemon Juice |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Bourbon           | Old Grandad Bonded |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Light Amaro       | Amaro Nonino       |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Aperol            | Aperol             |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lemon Juice |
 
 ### Notes
 

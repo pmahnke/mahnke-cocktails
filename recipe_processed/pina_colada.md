@@ -17,11 +17,11 @@ excerpt: |
 
 |     Amount | Ingredient            | Brand                 |
 | ---------: | --------------------- | --------------------- |
-|       2 oz / 50 ml | Light Rum             | The Real McCoy 3 Year |
-|       1 oz / 25 ml | Cream of Coconut      |
-|       1 oz / 25 ml | Coconut Milk          |
-|       6 oz / 150 ml | Fresh Pineapple Juice |
-| 8 to 10 oz / 250 ml | Crushed Ice           |
+|       <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Light Rum             | The Real McCoy 3 Year |
+|       <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cream of Coconut      |
+|       <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Coconut Milk          |
+|       <span class="onex active">6 oz / 150 ml</span>  <span class="twox">12 oz / 300 ml</span> <span class="threex">18 oz / 450 ml</span> | Fresh Pineapple Juice |
+| 8 to <span class="onex active">10 oz / 250 ml</span>  <span class="twox">20 oz / 500 ml</span> <span class="threex">30 oz / 750 ml</span> | Crushed Ice           |
 
 ### Notes
 

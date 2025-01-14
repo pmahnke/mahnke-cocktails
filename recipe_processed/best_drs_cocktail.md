@@ -17,10 +17,10 @@ excerpt: |
 
 |   Amount | Ingredient                                               | Brand                           |
 | -------: | -------------------------------------------------------- | ------------------------------- |
-|     1 oz / 25 ml | Jamaican Rum                                             | Appleton Estate Signature Blend |
-|  0.75 oz / 19 ml | Swedish Punsch                                           | Kronan                          |
-|  0.75 oz / 19 ml | Fresh Lime Juice                                         |                                 |
-|   0.5 oz / 18.5 ml | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |                                 |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Jamaican Rum                                             | Appleton Estate Signature Blend |
+|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Swedish Punsch                                           | Kronan                          |
+|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                                         |                                 |
+|   <span class="onex active">0.5 oz / 18.5 ml</span>  <span class="twox">1 oz / 36.5 ml</span> <span class="threex">1.5 oz / 55 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |                                 |
 | 2 dashes | Bitters                                                  | Angostura Aromatic Bitters      |
 
 ### Notes

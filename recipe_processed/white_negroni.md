@@ -17,9 +17,9 @@ excerpt: |
 
 |  Amount | Ingredient   | Brand        |
 | ------: | ------------ | ------------ |
-|  1.5 oz / 37.5 ml | Gin          | Plymouth     |
-| 0.75 oz / 19 ml | Suze         | Suze         |
-| 0.75 oz / 19 ml | Lillet Blanc | Lillet Blanc |
+|  <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Gin          | Plymouth     |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Suze         | Suze         |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Lillet Blanc | Lillet Blanc |
 
 ### Notes
 

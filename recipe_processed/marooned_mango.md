@@ -15,12 +15,12 @@ youtube: "xnXFbjQSu-k"
 
 |  Amount | Ingredient                                                | Brand                     |
 | ------: | --------------------------------------------------------- | ------------------------- |
-| 0.75 oz / 19 ml | Mango Liqueur                                             | Chinola                   |
-| 0.75 oz / 19 ml | Cachaça                                                   | Novo Fogo Silver          |
-| 0.75 oz / 19 ml | Sweet Vermouth                                            | Cocchi Vermouth di Torino |
-| 0.75 oz / 19 ml | Fresh Pineapple Juice                                     |
-|  0.5 oz / 12.5 ml | Fresh Lime Juice                                          |
-| 0.25 oz / 9 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Mango Liqueur                                             | Chinola                   |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Cachaça                                                   | Novo Fogo Silver          |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Sweet Vermouth                                            | Cocchi Vermouth di Torino |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Pineapple Juice                                     |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lime Juice                                          |
+| <span class="onex active">0.25 oz / 9 ml</span>  <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

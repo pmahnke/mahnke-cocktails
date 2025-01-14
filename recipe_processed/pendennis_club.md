@@ -17,9 +17,9 @@ excerpt: |
 
 |   Amount | Ingredient         | Brand                         |
 | -------: | ------------------ | ----------------------------- |
-|   1.5 oz / 37.5 ml | Gin                | Plymouth                      |
-|     1 oz / 25 ml | Apricot Liqueur    | Giffard Abricot du Roussillon |
-|   0.5 oz / 12.5 ml | Fresh Lemon Juice  |
+|   <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Gin                | Plymouth                      |
+|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Apricot Liqueur    | Giffard Abricot du Roussillon |
+|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lemon Juice  |
 | 2 dashes | Peychaud's Bitters | Peychaud's Bitters            |
 
 ### Notes

@@ -31,14 +31,14 @@ excerpt: |
 
 |  Amount | Ingredient                                                | Brand                      |
 | ------: | --------------------------------------------------------- | -------------------------- |
-|    2 oz / 50 ml | Genever                                                   | Bols                       |
-|  1.5 oz / 37.5 ml | Jamaican Rum                                              | Appleton Signature         |
-|  1.5 oz / 37.5 ml | Yellow Chartreuse                                         | Yellow Chartreuse          |
-|  0.5 oz / 12.5 ml | Orange Curaçao                                            | Marie Brizard              |
-|  0.5 oz / 12.5 ml | Bitters                                                   | Angostura Aromatic Bitters |
-|  1.5 oz / 55 ml | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 0.75 oz / 19 ml | Egg White                                                 |
-|    2 oz / 50 ml | Water                                                     |
+|    <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Genever                                                   | Bols                       |
+|  <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Jamaican Rum                                              | Appleton Signature         |
+|  <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Yellow Chartreuse                                         | Yellow Chartreuse          |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Orange Curaçao                                            | Marie Brizard              |
+|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Bitters                                                   | Angostura Aromatic Bitters |
+|  <span class="onex active">1.5 oz / 55 ml</span>  <span class="twox">3 oz / 110 ml</span> <span class="threex">4.5 oz / 165 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Egg White                                                 |
+|    <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Water                                                     |
 
 ### Notes
 

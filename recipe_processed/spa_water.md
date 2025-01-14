@@ -20,9 +20,9 @@ excerpt: |
 | ------------: | --------------------------------------------------------- | ---------- |
 |      4 slices | Cucumber                                                  |
 | 4 to 6 leaves | Mint                                                      |
-|          1 oz / 25 ml | Fresh Lime Juice                                          |
-|        0.5 oz / 18.5 ml | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|     2 to 3 oz / 75 ml | Soda Water                                                | Topo Chico |
+|          <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice                                          |
+|        <span class="onex active">0.5 oz / 18.5 ml</span>  <span class="twox">1 oz / 36.5 ml</span> <span class="threex">1.5 oz / 55 ml</span> | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|     2 to <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Soda Water                                                | Topo Chico |
 
 ### Notes
 

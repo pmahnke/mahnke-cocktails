@@ -17,10 +17,10 @@ excerpt: |
 
 |  Amount | Ingredient        | Brand     |
 | ------: | ----------------- | --------- |
-|  1.5 oz / 37.5 ml | Gin               | Beefeater |
-| 0.75 oz / 19 ml | Fresh Lemon Juice |
-| 0.25 oz / 6.5 ml | Triple Sec        | Cointreau |
-| 0.25 oz / 6.5 ml | Campari           | Campari   |
+|  <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Gin               | Beefeater |
+| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lemon Juice |
+| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Triple Sec        | Cointreau |
+| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Campari           | Campari   |
 
 ### Notes
 

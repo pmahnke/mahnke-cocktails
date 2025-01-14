@@ -18,10 +18,10 @@ excerpt: |
 
 |   Amount | Ingredient                                      | Brand      |
 | -------: | ----------------------------------------------- | ---------- |
-|   1.5 oz / 37.5 ml | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-|   1.5 oz / 37.5 ml | Fresh Lemon Juice                               |
+|   <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+|   <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Fresh Lemon Juice                               |
 | 4 leaves | Basil                                           |
-|     3 oz / 75 ml | Soda Water                                      | Topo Chico |
+|     <span class="onex active">3 oz / 75 ml</span>  <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Soda Water                                      | Topo Chico |
 
 ### Notes
 

@@ -22,11 +22,11 @@ excerpt: |
 
 | Amount | Ingredient                                      | Brand                              |
 | -----: | ----------------------------------------------- | ---------------------------------- |
-|   1 oz / 25 ml | Jamaica Rum                                     | Appleton Estate 12 year Rare Casks |
-| 1/2 oz / 50 ml | Apricot Liqueur                                 | Giffard Abricot du Roussillon      |
-| 1/2 oz / 50 ml | Sloe Gin                                        | Plymouth                           |
-| 3/4 oz / 100 ml | Fresh Lime Juice                                |
-| 1/4 oz / 100 ml | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Jamaica Rum                                     | Appleton Estate 12 year Rare Casks |
+| 1/<span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Apricot Liqueur                                 | Giffard Abricot du Roussillon      |
+| 1/<span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Sloe Gin                                        | Plymouth                           |
+| 3/<span class="onex active">4 oz / 100 ml</span>  <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Fresh Lime Juice                                |
+| 1/<span class="onex active">4 oz / 100 ml</span>  <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 
 ### Notes
 

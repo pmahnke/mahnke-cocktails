@@ -18,9 +18,9 @@ excerpt: |
 
 | Amount | Ingredient       | Brand             |
 | -----: | ---------------- | ----------------- |
-| 1.5 oz / 37.5 ml | Cognac           | Maison Rouge VSOP |
-|   1 oz / 25 ml | Dry Curaçao      | Pierre Ferrand    |
-| 0.5 oz / 12.5 ml | Fresh Lime Juice |                   |
+| <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Cognac           | Maison Rouge VSOP |
+|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Dry Curaçao      | Pierre Ferrand    |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lime Juice |                   |
 
 ### Notes
 

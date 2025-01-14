@@ -17,13 +17,13 @@ excerpt: |
 
 | Amount | Ingredient           | Brand                              |
 | -----: | -------------------- | ---------------------------------- |
-| 0.5 oz / 12.5 ml | Raspberry Gum Syrup  | Liber & Co.                        |
-| 0.5 oz / 12.5 ml | White Crème de Cacao | Marie Brizard                      |
-| 0.5 oz / 12.5 ml | Crème de Violette    | Rothman & Winter                   |
-| 0.5 oz / 12.5 ml | Light Amaro          | Amaro Nonino                       |
-| 0.5 oz / 12.5 ml | Green Chartreuse     | Green Chartreuse                   |
-| 0.5 oz / 12.5 ml | Cognac               | Pierre Ferrand 1840                |
-| 0.5 oz / 12.5 ml | Absinthe             | La Clandestine Absinthe Superieure |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Raspberry Gum Syrup  | Liber & Co.                        |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | White Crème de Cacao | Marie Brizard                      |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Crème de Violette    | Rothman & Winter                   |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Light Amaro          | Amaro Nonino                       |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Green Chartreuse     | Green Chartreuse                   |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Cognac               | Pierre Ferrand 1840                |
+| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Absinthe             | La Clandestine Absinthe Superieure |
 
 ### Notes
 

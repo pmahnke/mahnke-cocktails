@@ -13,7 +13,7 @@ excerpt: |
 |       Amount | Ingredient     |
 | -----------: | -------------- |
 |       2 cups | Heavy Cream    |
-|         2 oz / 50 ml | Crème de Cacao |
+|         <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Crème de Cacao |
 | 1 tablespoon | Powdered Sugar |
 
 ### Method:
