@@ -6,7 +6,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/royal_bermuda_yacht_club.html"
 iconfile: rbyc
-stars: 0
+stars: 4
 base_spirits: "Demerara Rum, Light Rum"
 youtube: "y3s1xmGfLkw"
 excerpt: |

@@ -7,7 +7,7 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/singapore_sling.html"
 iconfile: singapore_sling
-stars: 0
+stars: 4
 base_spirits: "Gin, Cherry Liqueur, Bénédictine"
 youtube: "EjRcajuUkJk"
 youtube_embed: "https://www.youtube.com/embed/EjRcajuUkJk?si=EMdqje_4KECcUOJA"

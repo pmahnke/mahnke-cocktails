@@ -6,7 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/monte_carlo.html"
 iconfile: wardroom
-stars: 0
+stars: 3
 base_spirits: "Rye, Bénédictine"
 youtube: "u1PQ-L6zvb8&t=15s"
 excerpt: |

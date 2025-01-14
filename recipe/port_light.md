@@ -6,7 +6,7 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/port_light.html"
 iconfile: port_light
-stars: 0
+stars: 4
 base_spirits: "Bourbon"
 youtube: "-DnpmdGBmgs&t=433s"
 excerpt: |
