@@ -17,9 +17,9 @@ excerpt: |
 
 |  Amount | Ingredient       | Brand                      |
 | ------: | ---------------- | -------------------------- |
-|    <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Gin              | Plymouth                   |
-|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Cocchi Americano | Cocchi Americano           |
-| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Orange Curaçao   | Marie Brizard              |
+|    <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Gin              | Plymouth                   |
+|  <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Cocchi Americano | Cocchi Americano           |
+| <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Orange Curaçao   | Marie Brizard              |
 |  1 dash | Bitters          | Angostura Aromatic Bitters |
 
 ### Notes

@@ -17,10 +17,10 @@ excerpt: |
 
 |        Amount | Ingredient         | Brand                          |
 | ------------: | ------------------ | ------------------------------ |
-|          <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Rye                | Rittenhouse 100 Proof          |
-|          <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Dry Vermouth       | Dolin Dry Vermouth De Chambéry |
-|       <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Maraschino Liqueur | Luxardo                        |
-|       <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Amaro              | Ramazzotti                     |
+|          <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Rye                | Rittenhouse 100 Proof          |
+|          <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Dry Vermouth       | Dolin Dry Vermouth De Chambéry |
+|       <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Maraschino Liqueur | Luxardo                        |
+|       <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Amaro              | Ramazzotti                     |
 | 2 to 3 dashes | Orange Bitters     | Fee Brothers                   |
 |       1 swath | Orange Peal        |
 

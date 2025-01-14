@@ -63,10 +63,10 @@ p.icons {
 
 
 /* measurement scaling */
-.onex, .twox, .threex {
+.onex, .onehalfx, .twox, .threex {
     display: none; /* Hide all spans by default */
 }
-.onex.active, .twox.active, .threex.active {
+.onex.active, .onehalfx.active, .twox.active, .threex.active {
     display: inline; /* Show the active span */
 }
 .menu a {

@@ -17,12 +17,12 @@ excerpt: |
 
 |  Amount | Ingredient                                               | Brand       |
 | ------: | -------------------------------------------------------- | ----------- |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Jamaican Rum                                             | Coruba      |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Demerara Rum                                             | Hamilton 86 |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Campari                                                  | Campari     |
-|  <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Fresh Pineapple Juice                                    |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                                         |
-|  <span class="onex active">0.5 oz / 18.5 ml</span>  <span class="twox">1 oz / 36.5 ml</span> <span class="threex">1.5 oz / 55 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Jamaican Rum                                             | Coruba      |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Demerara Rum                                             | Hamilton 86 |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Campari                                                  | Campari     |
+|  <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Fresh Pineapple Juice                                    |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                                         |
+|  <span class="onex active">0.5 oz / 18.5 ml</span> <span class="onehalfx">0.75 oz / 27.5 ml</span> <span class="twox">1 oz / 36.5 ml</span> <span class="threex">1.5 oz / 55 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 
 ### Notes
 

@@ -17,9 +17,9 @@ excerpt: |
 
 | Amount | Ingredient       | Brand                      |
 | -----: | ---------------- | -------------------------- |
-| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Bénédictine      | Bénédictine DOM            |
-| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Green Chartreuse | Green Chartreuse           |
-| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Bitters          | Angostura Aromatic Bitters |
+| <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Bénédictine      | Bénédictine DOM            |
+| <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Green Chartreuse | Green Chartreuse           |
+| <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Bitters          | Angostura Aromatic Bitters |
 
 ### Notes
 

@@ -17,13 +17,13 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand                                 |
 | ------: | ----------------------------------------------- | ------------------------------------- |
-|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Jamaican Rum                                    | Appleton 12 year Rare Blend           |
-|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Rhum Agricole                                   | La Favorite Ambre Rhum Agricole Ambre |
-|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Orange Curaçao                                  | Pierre Ferrand                        |
-|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice                                |
-|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Dark Rum                                        | Kōloa Kaua'i                          |
-| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Over Proof Rum                                  | Bacardi 151                           |
+|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Jamaican Rum                                    | Appleton 12 year Rare Blend           |
+|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Rhum Agricole                                   | La Favorite Ambre Rhum Agricole Ambre |
+|  <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Orange Curaçao                                  | Pierre Ferrand                        |
+|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice                                |
+|  <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+|  <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Dark Rum                                        | Kōloa Kaua'i                          |
+| <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Over Proof Rum                                  | Bacardi 151                           |
 
 ### Notes
 

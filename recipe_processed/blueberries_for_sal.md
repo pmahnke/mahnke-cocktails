@@ -21,7 +21,7 @@ excerpt: |
 |           1 Oz | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |           1 Oz | Fresh Lemon Juice                                         |
 | 8 to 10 leaves | Mint                                                      |
-|      3 to <span class="onex active">4 oz / 100 ml</span>  <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Ginger Beer                                               | Fever Tree |
+|      3 to <span class="onex active">4 oz / 100 ml</span> <span class="onehalfx">6 oz / 150 ml</span> <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Ginger Beer                                               | Fever Tree |
 
 ### Notes
 

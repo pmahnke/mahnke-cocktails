@@ -17,9 +17,9 @@ excerpt: |
 
 |  Amount | Ingredient      | Brand                           |
 | ------: | --------------- | ------------------------------- |
-| <span class="onex active">1.25 oz / 31.5 ml</span>  <span class="twox">2.5 oz / 62.5 ml</span> <span class="threex">3.75 oz / 94 ml</span> | Gin             | Beefeater                       |
-|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Apple Brandy    | Roger Groult Pays D’Auge 3 Year |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Apricot Liqueur | Giffard Abricot du Roussillon   |
+| <span class="onex active">1.25 oz / 31.5 ml</span> <span class="onehalfx">1.875 oz / 47 ml</span> <span class="twox">2.5 oz / 62.5 ml</span> <span class="threex">3.75 oz / 94 ml</span> | Gin             | Beefeater                       |
+|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Apple Brandy    | Roger Groult Pays D’Auge 3 Year |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Apricot Liqueur | Giffard Abricot du Roussillon   |
 
 ### Notes
 

@@ -25,11 +25,11 @@ excerpt: |
 ### Ingredients
 
 | -----: | ----------------------------------------------- | --------------------- |
-| <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Light Rum | El Dorado 3 Year |
-| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Rye | Rittenhouse 100 Proof |
-| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Cognac | Maison Rouge V.S.O.P. |
-| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lemon Juice | |
-| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) | |
+| <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Light Rum | El Dorado 3 Year |
+| <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Rye | Rittenhouse 100 Proof |
+| <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Cognac | Maison Rouge V.S.O.P. |
+| <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Lemon Juice | |
+| <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) | |
 
 ### Notes
 

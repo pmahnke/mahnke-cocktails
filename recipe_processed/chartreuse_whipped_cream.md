@@ -13,7 +13,7 @@ excerpt: |
 |       Amount | Ingredient       |
 | -----------: | ---------------- |
 |       2 cups | Heavy Cream      |
-|         <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Green Chartreuse |
+|         <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Green Chartreuse |
 | 1 tablespoon | Powdered Sugar   |
 
 ### Method:

@@ -17,10 +17,10 @@ excerpt: |
 
 |   Amount | Ingredient                                                         | Brand              |
 | -------: | ------------------------------------------------------------------ | ------------------ |
-|     <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Irish Whiskey                                                      | Red Breast 12 year |
-|  <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | [Cocoa Nib Infused Campari]({%link recipe_processed/cocoa_nib_campari.md %}) | Campari            |
-|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | White Crème de Cacao                                               | Marie Brizard      |
-|   <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Banane du Brésil                                                   | Giffard            |
+|     <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Irish Whiskey                                                      | Red Breast 12 year |
+|  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | [Cocoa Nib Infused Campari]({%link recipe_processed/cocoa_nib_campari.md %}) | Campari            |
+|   <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | White Crème de Cacao                                               | Marie Brizard      |
+|   <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Banane du Brésil                                                   | Giffard            |
 | 2 dashes | Absinthe                                                           |
 
 ### Notes

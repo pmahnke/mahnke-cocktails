@@ -15,7 +15,7 @@ excerpt: |
 | --------: | ----------- |
 | 0.75 cups | White Sugar |
 | 0.75 cups | Hot Water   |
-|    <span class="onex active">2.5 oz / 62.5 ml</span>  <span class="twox">5 oz / 125 ml</span> <span class="threex">7.5 oz / 187.5 ml</span> | Raspberries |
+|    <span class="onex active">2.5 oz / 62.5 ml</span> <span class="onehalfx">3.75 oz / 94 ml</span> <span class="twox">5 oz / 125 ml</span> <span class="threex">7.5 oz / 187.5 ml</span> | Raspberries |
 
 ### Method
 

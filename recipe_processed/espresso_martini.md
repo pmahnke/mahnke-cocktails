@@ -19,10 +19,10 @@ excerpt: |
 
 |  Amount | Ingredient                                               | Brand               |
 | ------: | -------------------------------------------------------- | ------------------- |
-|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Coffee Liqueur                                           | Mr. Black Cold Brew |
-|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Vodka                                                    | Russian Standard    |
-|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Freshly Brewed Espresso                                  |
-| <span class="onex active">0.25 oz / 9 ml</span>  <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Coffee Liqueur                                           | Mr. Black Cold Brew |
+|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Vodka                                                    | Russian Standard    |
+|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Freshly Brewed Espresso                                  |
+| <span class="onex active">0.25 oz / 9 ml</span> <span class="onehalfx">0.375 oz / 14 ml</span> <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 1 Swath | Lemon Oil                                                |
 
 ### Notes
@@ -39,10 +39,10 @@ excerpt: |
 
 |  Amount | Ingredient                                               | Brand               |
 | ------: | -------------------------------------------------------- | ------------------- |
-|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Coffee Liqueur                                           | Mr. Black Cold Brew |
-|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cognac                                                   | Maison Rouge VSOP   |
-|    <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Freshly Brewed Espresso                                  |
-| <span class="onex active">0.25 oz / 9 ml</span>  <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Coffee Liqueur                                           | Mr. Black Cold Brew |
+|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cognac                                                   | Maison Rouge VSOP   |
+|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Freshly Brewed Espresso                                  |
+| <span class="onex active">0.25 oz / 9 ml</span> <span class="onehalfx">0.375 oz / 14 ml</span> <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 1 Swath | Lemon Oil                                                |
 
 ### Notes

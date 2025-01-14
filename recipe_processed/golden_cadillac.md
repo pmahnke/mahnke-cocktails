@@ -19,9 +19,9 @@ excerpt: |
 
 | Amount | Ingredient           | Brand                |
 | -----: | -------------------- | -------------------- |
-|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Galliano             | Galliano L’Autentico |
-|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | White Crème de Cacao | Marie Brizard        |
-|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Heavy Cream          |
+|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Galliano             | Galliano L’Autentico |
+|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | White Crème de Cacao | Marie Brizard        |
+|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Heavy Cream          |
 
 ### Notes
 
@@ -38,10 +38,10 @@ excerpt: |
 |   Amount | Ingredient           | Brand                |
 | -------: | -------------------- | -------------------- |
 | 3 scoops | Vanilla Ice Cream    |
-|   <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Galliano             | Galliano L’Autentico |
-|   <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | White Crème de Cacao | Marie Brizard        |
-|     <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Half & Half          |
-|  <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Crushed Ice          |
+|   <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Galliano             | Galliano L’Autentico |
+|   <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | White Crème de Cacao | Marie Brizard        |
+|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Half & Half          |
+|  <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Crushed Ice          |
 
 ### Notes
 

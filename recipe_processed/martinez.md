@@ -17,10 +17,10 @@ excerpt: |
 
 |  Amount | Ingredient         | Brand                     |
 | ------: | ------------------ | ------------------------- |
-| <span class="onex active">1.25 oz / 31.5 ml</span>  <span class="twox">2.5 oz / 62.5 ml</span> <span class="threex">3.75 oz / 94 ml</span> | Gin                | Scofflaw Old Tom          |
-| <span class="onex active">1.25 oz / 31.5 ml</span>  <span class="twox">2.5 oz / 62.5 ml</span> <span class="threex">3.75 oz / 94 ml</span> | Sweet Vermouth     | Cocchi Vermouth di Torino |
-| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Maraschino Liqueur | Luxardo                   |
-| <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Orange Bitters     | Fee Brother's             |
+| <span class="onex active">1.25 oz / 31.5 ml</span> <span class="onehalfx">1.875 oz / 47 ml</span> <span class="twox">2.5 oz / 62.5 ml</span> <span class="threex">3.75 oz / 94 ml</span> | Gin                | Scofflaw Old Tom          |
+| <span class="onex active">1.25 oz / 31.5 ml</span> <span class="onehalfx">1.875 oz / 47 ml</span> <span class="twox">2.5 oz / 62.5 ml</span> <span class="threex">3.75 oz / 94 ml</span> | Sweet Vermouth     | Cocchi Vermouth di Torino |
+| <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Maraschino Liqueur | Luxardo                   |
+| <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Orange Bitters     | Fee Brother's             |
 
 ### Notes
 

@@ -17,10 +17,10 @@ excerpt: |
 
 |  Amount | Ingredient         | Brand                     |
 | ------: | ------------------ | ------------------------- |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Blended Scotch     | Monkey Shoulder           |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Sweet Vermouth     | Cocchi Vermouth di Torino |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Cherry Liqueur     | Cherry Heering            |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Orange Juice |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Blended Scotch     | Monkey Shoulder           |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Sweet Vermouth     | Cocchi Vermouth di Torino |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Cherry Liqueur     | Cherry Heering            |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Orange Juice |
 
 ### Notes
 

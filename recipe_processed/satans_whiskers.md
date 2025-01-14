@@ -17,11 +17,11 @@ excerpt: |
 
 |  Amount | Ingredient         | Brand                                                                           |
 | ------: | ------------------ | ------------------------------------------------------------------------------- |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Gin                | Plymouth                                                                        |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Dry Vermouth       | Dolin Vermouth de Chambéry Dry                                                  |
-| <span class="onex active">0.75 oz / 19 ml</span>  <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Sweet Vermouth     | Dolin Vermouth de Chambéry Rouge                                                |
-|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Orange Liqueur     | Pierre Ferrand Dry Curaçao (curled version) OR Grand Marnier (straight version) |
-|  <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Orange Juice |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Gin                | Plymouth                                                                        |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Dry Vermouth       | Dolin Vermouth de Chambéry Dry                                                  |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Sweet Vermouth     | Dolin Vermouth de Chambéry Rouge                                                |
+|  <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Orange Liqueur     | Pierre Ferrand Dry Curaçao (curled version) OR Grand Marnier (straight version) |
+|  <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Fresh Orange Juice |
 |  1 dash | Orange Bitters     | Regan's No.6                                                                    |
 
 ### Notes

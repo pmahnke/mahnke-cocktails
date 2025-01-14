@@ -18,8 +18,8 @@ excerpt: |
 |    Amount | Ingredient          | Brand                 |
 | --------: | ------------------- | --------------------- |
 |  1 bottle | Red Wine            |
-|     <span class="onex active">12 oz / 300 ml</span>  <span class="twox">24 oz / 600 ml</span> <span class="threex">36 oz / 900 ml</span> | Ruby Port           | Fonseca Bin #27       |
-|      <span class="onex active">6 oz / 150 ml</span>  <span class="twox">12 oz / 300 ml</span> <span class="threex">18 oz / 450 ml</span> | Cognac              | Maison Rouge V.S.O.P. |
+|     <span class="onex active">12 oz / 300 ml</span> <span class="onehalfx">18 oz / 450 ml</span> <span class="twox">24 oz / 600 ml</span> <span class="threex">36 oz / 900 ml</span> | Ruby Port           | Fonseca Bin #27       |
+|      <span class="onex active">6 oz / 150 ml</span> <span class="onehalfx">9 oz / 225 ml</span> <span class="twox">12 oz / 300 ml</span> <span class="threex">18 oz / 450 ml</span> | Cognac              | Maison Rouge V.S.O.P. |
 |  0.5 cups | Demerara Sugar      |
 | 0.25 cups | Raisins             |
 |   4 whole | Green Cardamom Pods |

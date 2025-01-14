@@ -32,16 +32,26 @@ while (my $file = readdir DIR) {
 	    $in = "semi"   if (/semi/i);
 	    $in = "rich"   if (/rich/i);	    
 
+	    # 1x
             my $ml = &convert($oz, $in);
             $ml = qq|<span class="onex active">$oz oz \/ $ml ml</span> |;
-	    # 2x
-	    my $ozx = $oz * 2;
+
+	    # 1.5x
+	    my $ozx = $oz * 1.5;
 	    my $mlx = &convert($ozx, $in);
-	    $ml .= qq| <span class="twox">$ozx oz \/ $mlx ml</span>|;
+	    $ml .= qq|<span class="onehalfx">$ozx oz \/ $mlx ml</span> |;
+
+	    # 2x
+	    $ozx = $oz * 2;
+	    $mlx = &convert($ozx, $in);
+	    $ml .= qq|<span class="twox">$ozx oz \/ $mlx ml</span> |;
+
+
 	    #3x
 	    $ozx = $oz * 3;
 	    $mlx = &convert($ozx, $in);
-	    $ml .= qq| <span class="threex">$ozx oz \/ $mlx ml</span>|;
+
+	    $ml .= qq|<span class="threex">$ozx oz \/ $mlx ml</span>|;
             s/$oz oz/$ml/;
             print "Converted $oz to $ml\n";
         } else {

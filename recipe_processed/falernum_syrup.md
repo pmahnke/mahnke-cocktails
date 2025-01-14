@@ -13,14 +13,14 @@ excerpt: |
 
 |   Amount | Ingredient                                                |
 | -------: | --------------------------------------------------------- |
-|     <span class="onex active">4 oz / 100 ml</span>  <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | El Dorado 151 Overproof Rum                               |
+|     <span class="onex active">4 oz / 100 ml</span> <span class="onehalfx">6 oz / 150 ml</span> <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | El Dorado 151 Overproof Rum                               |
 |  6 whole | Limes, zested                                             |
 | 50 grams | Toasted Almonds, chopped                                  |
 | 12 whole | Cloves                                                    |
 | 15 grams | Fresh Ginger, chopped                                     |
 |  0.5 tsp | Nutmeg, grated                                            |
 |  0.5 pod | Vanilla Bean                                              |
-|     <span class="onex active">8 oz / 293.5 ml</span>  <span class="twox">16 oz / 587 ml</span> <span class="threex">24 oz / 880.5 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|     <span class="onex active">8 oz / 293.5 ml</span> <span class="onehalfx">12 oz / 440 ml</span> <span class="twox">16 oz / 587 ml</span> <span class="threex">24 oz / 880.5 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Method
 

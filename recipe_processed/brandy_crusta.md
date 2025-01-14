@@ -17,11 +17,11 @@ excerpt: |
 
 |   Amount | Ingredient                                                | Brand                      |
 | -------: | --------------------------------------------------------- | -------------------------- |
-|     <span class="onex active">2 oz / 50 ml</span>  <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Cognac                                                    | Pierre Ferrand 1840        |
-|  <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Dry Curaçao                                               | Pierre Ferrand             |
-|  <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Maraschino Liqueur                                        | Luxardo                    |
-|  <span class="onex active">0.25 oz / 9 ml</span>  <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|  <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Fresh Lemon Juice                                         |
+|     <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Cognac                                                    | Pierre Ferrand 1840        |
+|  <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Dry Curaçao                                               | Pierre Ferrand             |
+|  <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Maraschino Liqueur                                        | Luxardo                    |
+|  <span class="onex active">0.25 oz / 9 ml</span> <span class="onehalfx">0.375 oz / 14 ml</span> <span class="twox">0.5 oz / 18.5 ml</span> <span class="threex">0.75 oz / 27.5 ml</span> | Semi-Rich [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|  <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Fresh Lemon Juice                                         |
 | 2 dashes | Bitters                                                   | Angostura Aromatic Bitters |
 
 ### Notes

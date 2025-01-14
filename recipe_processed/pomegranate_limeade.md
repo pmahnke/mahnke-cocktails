@@ -16,9 +16,9 @@ youtube: "YwHw259XAOU"
 
 | Amount | Ingredient                                      | Brand      |
 | -----: | ----------------------------------------------- | ---------- |
-|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice                                |
-|   <span class="onex active">5 oz / 125 ml</span>  <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Sparkling Water                                 | Topo Chico |
+|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice                                |
+|   <span class="onex active">5 oz / 125 ml</span> <span class="onehalfx">7.5 oz / 187.5 ml</span> <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Sparkling Water                                 | Topo Chico |
 
 ### Notes
 

@@ -17,8 +17,8 @@ ercerpt: |
 
 | Amount | Ingredient           | Brand            |
 | -----: | -------------------- | ---------------- |
-| <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Single Malt Whisky   | Talisker 10 Year |
-| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Amaretto di Saschira | Luxardo          |
+| <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Single Malt Whisky   | Talisker 10 Year |
+| <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Amaretto di Saschira | Luxardo          |
 
 ### Notes
 

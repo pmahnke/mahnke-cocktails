@@ -17,10 +17,10 @@ excerpt: |
 
 | Amount | Ingredient     | Brand                             |
 | -----: | -------------- | --------------------------------- |
-|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Calvados       | Roger Groult Pays D’auge 3 Year   |
-|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Swedish Punsch | Kronan                            |
-|   <span class="onex active">1 oz / 25 ml</span>  <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Jamaican Rum   | Appleton Estate 12 Year Rare Cask |
-| <span class="onex active">0.5 oz / 12.5 ml</span>  <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Absinthe       | St. George                        |
+|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Calvados       | Roger Groult Pays D’auge 3 Year   |
+|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Swedish Punsch | Kronan                            |
+|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Jamaican Rum   | Appleton Estate 12 Year Rare Cask |
+| <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Absinthe       | St. George                        |
 | 1 dash | Bitters        | Angostura Aromatic Bitters        |
 
 ### Notes

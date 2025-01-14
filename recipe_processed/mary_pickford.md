@@ -21,9 +21,9 @@ excerpt: |
 
 |       Amount | Ingredient                                      | Brand             |
 | -----------: | ----------------------------------------------- | ----------------- |
-|       <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Light Rum                                       | Real McCoy 3 Year |
-|       <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Fresh Pineapple Juice                           |
-|      <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|       <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Light Rum                                       | Real McCoy 3 Year |
+|       <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Fresh Pineapple Juice                           |
+|      <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 | 0.5 teaspoon | Maraschino Liqueur                              | Luxardo           |
 
 ### Notes
@@ -43,11 +43,11 @@ excerpt: |
 
 |       Amount | Ingredient                                      | Brand         |
 | -----------: | ----------------------------------------------- | ------------- |
-|       <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Light Rum                                       | Probitas      |
-|       <span class="onex active">1.5 oz / 37.5 ml</span>  <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Fresh Pineapple Juice                           |
-|      <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-|      <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Fresh Lime Juice                                |
-|      <span class="onex active">0.25 oz / 6.5 ml</span>  <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Allspice Dram                                   | St. Elizabeth |
+|       <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Light Rum                                       | Probitas      |
+|       <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Fresh Pineapple Juice                           |
+|      <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|      <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Fresh Lime Juice                                |
+|      <span class="onex active">0.25 oz / 6.5 ml</span> <span class="onehalfx">0.375 oz / 9.5 ml</span> <span class="twox">0.5 oz / 12.5 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Allspice Dram                                   | St. Elizabeth |
 | 0.5 teaspoon | Maraschino Liqueur                              | Luxardo       |
 
 ### Notes
