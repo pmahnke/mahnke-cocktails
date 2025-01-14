@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Angel Face"
 permalink: "/recipe/angel_face.html"
 iconfile: angel_face

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Shoddy Toddy"
 categories: [ toddy, cocktail]
 eras: [ anders ]

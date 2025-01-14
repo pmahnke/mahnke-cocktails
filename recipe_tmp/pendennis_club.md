@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Pendennis Club Cocktail"
 categories: [ sour, cocktail]
 eras: [ classic ]

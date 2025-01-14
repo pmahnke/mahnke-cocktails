@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Blackbeard’s Ghost"
 permalink: "/recipe/blackbeards_ghost.html"
 iconfile: blackbeards_ghost

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "The Lucky Stone"
 categories: [ cocktail ]
 permalink: "/recipe/lucky_stone.html"

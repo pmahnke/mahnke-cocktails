@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Harvey Wallbanger"
 permalink: "/recipe/harvey_wallbanger.html"
 iconfile: harvey_wallbanger

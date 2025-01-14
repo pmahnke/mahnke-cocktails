@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Monte Carlo"
 permalink: "/recipe/monte_carlo.html"
 iconfile: wardroom

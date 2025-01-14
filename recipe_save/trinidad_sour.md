@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Trinidad Sour"
 permalink: "/recipe/trinidad_sour.html"
 iconfile: trinidad_sour

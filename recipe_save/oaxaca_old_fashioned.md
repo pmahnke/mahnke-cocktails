@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Oaxaca Old Fashioned"
 permalink: "/recipe/oaxaca_old_fashioned.html"
 iconfile: oaxaca_old_fashioned

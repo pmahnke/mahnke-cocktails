@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "La Louisiane"
 categories: [cocktail]
 eras: [new_orleans]

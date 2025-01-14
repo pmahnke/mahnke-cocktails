@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Wicked Word"
 categories: [ cocktail ]
 permalink: "/recipe/wicked_word.html"

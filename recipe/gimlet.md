@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: The Educated Barfly
+author: Leandro DiMonriva
 title: "Gimlet"
 eras: [classic]
 categories: [sour]

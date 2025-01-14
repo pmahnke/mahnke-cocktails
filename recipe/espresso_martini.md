@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Espresso Martini"
 eras: [modern]
 categories: [coffee, after_dinner]

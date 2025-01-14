@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Jasper’s Rum Punch"
 permalink: "/recipe/jaspers_rum_punch.html"
 iconfile: jaspers_rum_punch

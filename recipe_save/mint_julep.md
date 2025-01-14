@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Mint Julep"
 permalink: "/recipe/mint_julep.html"
 iconfile: mint_julep

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Bramble"
 permalink: "/recipe/bramble.html"
 iconfile: bramble

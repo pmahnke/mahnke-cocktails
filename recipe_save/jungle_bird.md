@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Jungle Bird"
 permalink: "/recipe/jungle_bird.html"
 iconfile: jungle_bird

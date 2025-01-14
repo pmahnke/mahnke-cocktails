@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Autumn Rose"
 permalink: "/recipe/autumn_rose.html"
 iconfile: autumn_rose

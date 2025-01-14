@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Philadelphia Fish House Punch"
 categories: [ punch, cocktail]
 eras: [ classic ]

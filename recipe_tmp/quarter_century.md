@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Quarter Century"
 categories: [ campari, champagne, cocktail]
 permalink: "/recipe/quarter_century.html"

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Ward Eight"
 permalink: "/recipe/ward_eight.html"
 iconfile: ward_eight

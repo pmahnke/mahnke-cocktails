@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Black-Eyed Susan"
 categories: [ cocktail ]
 eras: [ classic ]

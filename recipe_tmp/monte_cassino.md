@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Monte Cassino"
 categories: [ cocktail ]
 permalink: "/recipe/monte_cassino.html"

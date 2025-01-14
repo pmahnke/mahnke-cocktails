@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Hotel National Cocktail"
 categories: [sour]
 eras: [prohibition]

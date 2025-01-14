@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Corpse Reviver #1"
 categories: [cocktail]
 eras: [prohibition]

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Bijou"
 permalink: "/recipe/bijou.html"
 iconfile: bijou

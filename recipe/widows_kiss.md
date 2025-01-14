@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "The Widow's Kiss"
 eras: [classic]
 categories: [cocktail]

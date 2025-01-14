@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Hugo Spritz"
 categories: [spritz]
 eras: [modern]

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Harvest Moon Punch (1/2 batch)"
 categories: [ punch, cocktail]
 eras: [ classic, anders]

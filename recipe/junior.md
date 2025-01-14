@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Junior (aka Quick Recovery)"
 eras: [prohibition]
 categories: [sour]

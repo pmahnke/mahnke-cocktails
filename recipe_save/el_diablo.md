@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "El Diablo"
 permalink: "/recipe/el_diablo.html"
 iconfile: el_diablo

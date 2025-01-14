@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Fall Back"
 permalink: "/recipe/fall_back.html"
 iconfile: fall_back

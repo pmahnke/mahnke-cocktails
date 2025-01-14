@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Between The Sheets"
 permalink: "/recipe/between_the_sheets.html"
 iconfile: between_the_sheets

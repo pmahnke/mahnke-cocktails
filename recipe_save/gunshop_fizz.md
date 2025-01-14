@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Gunshop Fizz"
 permalink: "/recipe/gunshop_fizz.html"
 iconfile: gunshop_fizz

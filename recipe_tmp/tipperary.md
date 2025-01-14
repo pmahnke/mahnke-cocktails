@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Tipperary"
 categories: [ campari, cocktail]
 permalink: "/recipe/tipperary.html"

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "The Irish Maid"
 permalink: "/recipe/irishmaid.html"
 iconfile: irish_maid

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Hemingway Daiquiri"
 permalink: "/recipe/hemingway_daiquiri.html"
 iconfile: hemingway_daiquiri

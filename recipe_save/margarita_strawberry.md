@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Strawberry Frozen Margarita"
 permalink: "/recipe/margarita_strawberry.html"
 iconfile: margarita_strawberry

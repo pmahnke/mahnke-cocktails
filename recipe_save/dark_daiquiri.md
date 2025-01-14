@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Dark Daiquiri"
 permalink: "/recipe/dark_daiquiri.html"
 iconfile: dark_daiquiri

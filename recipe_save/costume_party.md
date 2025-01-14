@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "The Costume Party"
 permalink: "/recipe/costume_party.html"
 iconfile: costume_party

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Star Cocktail"
 permalink: "/recipe/star_cocktail.html"
 iconfile: star_cocktail

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Port Light"
 permalink: "/recipe/port_light.html"
 iconfile: port_light

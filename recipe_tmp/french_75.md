@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "French 75"
 categories: [ champagne, sour, cocktail]
 permalink: "/recipe/french75.html"

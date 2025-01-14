@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Black Rose"
 permalink: "/recipe/black_rose.html"
 iconfile: black_rose

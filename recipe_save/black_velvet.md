@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Black Velvet"
 permalink: "/recipe/black_velvet.html"
 iconfile: black_velvet

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Blood and Sand"
 permalink: "/recipe/blood_and_sand.html"
 iconfile: blood_and_sand

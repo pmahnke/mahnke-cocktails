@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Lonely Penguin"
 categories: [ cocktail ]
 permalink: "/recipe/lonely_penguin.html"

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Eggnog"
 categories: [ eggnog, cocktail]
 permalink: "/recipe/eggnog.html"

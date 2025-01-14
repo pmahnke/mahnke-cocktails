@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Sloe Gin Sour"
 categories: [ campari, sour, cocktail]
 eras: [ classic ]

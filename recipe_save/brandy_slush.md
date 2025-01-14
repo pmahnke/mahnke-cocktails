@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Brandy Slush"
 permalink: "/recipe/brandy_slush.html"
 iconfile: brandy_slush

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Quarter Century"
 permalink: "/recipe/quarter_century.html"
 iconfile: quarter_century

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Satan's Whiskers"
 permalink: "/recipe/satans_whiskers.html"
 iconfile: satans_whiskers

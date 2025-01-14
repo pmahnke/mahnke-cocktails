@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Cold Brew Irish Coffee"
 permalink: "/recipe/irish_coffee_cold.html"
 iconfile: irish_coffee_cold

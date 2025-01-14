@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Preakness"
 categories: [ cocktail ]
 permalink: "/recipe/preakness.html"

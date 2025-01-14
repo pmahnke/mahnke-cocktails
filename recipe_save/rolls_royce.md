@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Rolls Royce"
 permalink: "/recipe/rolls_royce.html"
 iconfile: rolls_royce

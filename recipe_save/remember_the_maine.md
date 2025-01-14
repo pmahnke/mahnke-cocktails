@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Remember the Maine"
 permalink: "/recipe/remember_the_maine.html"
 iconfile: remember_the_maine

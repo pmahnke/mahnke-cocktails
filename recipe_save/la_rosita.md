@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "La Rosita"
 permalink: "/recipe/la_rosita.html"
 iconfile: la_rosita

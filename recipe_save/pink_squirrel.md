@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Pink Squirrel"
 permalink: "/recipe/pink_squirrel.html"
 iconfile: pink_squirrel

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Golden Cadillac"
 permalink: "/recipe/golden_cadillac.html"
 iconfile: golden_cadillac

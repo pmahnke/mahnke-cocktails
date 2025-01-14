@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "La Louisiane"
 permalink: "/recipe/la_louisiane.html"
 iconfile: la_louisiane

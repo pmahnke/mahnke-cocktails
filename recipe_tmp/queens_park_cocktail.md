@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Queen's Park Hotel Super Cocktail"
 categories: [ cocktail ]
 permalink: "/recipe/queens_park_cocktail.html"

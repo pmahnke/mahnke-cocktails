@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Yule Tidal Wave"
 categories: [ punch, cocktail]
 permalink: "/recipe/yule_tidal_wave.html"

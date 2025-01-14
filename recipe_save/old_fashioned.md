@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Old Fashioned"
 permalink: "/recipe/old_fashioned.html"
 iconfile: old_fashioned

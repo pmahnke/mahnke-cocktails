@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Coffee Negroni"
 permalink: "/recipe/coffee_negroni.html"
 iconfile: coffee_negroni

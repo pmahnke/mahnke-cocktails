@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "General Harrison’s Eggnog"
 permalink: "/recipe/general_harrisons_eggnog.html"
 iconfile: general_harrisons_eggnog

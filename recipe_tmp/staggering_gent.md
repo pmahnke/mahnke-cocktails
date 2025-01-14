@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Staggering Gentleman"
 categories: [ cocktail ]
 permalink: "/recipe/staggering_gent.html"

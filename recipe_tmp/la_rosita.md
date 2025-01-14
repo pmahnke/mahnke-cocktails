@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "La Rosita"
 categories: [ campari, cocktail]
 eras: [ classic ]

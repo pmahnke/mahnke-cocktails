@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Sloe Gin Sour"
 permalink: "/recipe/sloe_gin_sour.html"
 iconfile: sloe_gin_sour

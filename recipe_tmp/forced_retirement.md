@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Forced Retirement"
 categories: [ campari, cocktail]
 eras: [ anders ]

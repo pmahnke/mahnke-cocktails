@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "White Negroni"
 categories: [ cocktail ]
 permalink: "/recipe/white_negroni.html"

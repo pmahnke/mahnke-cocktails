@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Irish Coffee"
 permalink: "/recipe/irish_coffee.html"
 iconfile: irish_coffee

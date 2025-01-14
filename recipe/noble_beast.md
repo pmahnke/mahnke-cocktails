@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Noble Beast"
 categories: [coffee, flip]
 eras: [anders]

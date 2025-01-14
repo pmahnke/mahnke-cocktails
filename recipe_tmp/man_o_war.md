@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Man o’ War"
 categories: [ cocktail ]
 permalink: "/recipe/man_o_war.html"

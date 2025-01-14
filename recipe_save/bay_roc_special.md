@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Bay Roc Special"
 permalink: "/recipe/bay_roc_special.html"
 iconfile: bay_roc_special

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 creator: JP Morgan
 title: "Alamagoozlum"
 categories: [punch]

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Vieux Carré"
 permalink: "/recipe/vieux_carre.html"
 iconfile: vieux_carre

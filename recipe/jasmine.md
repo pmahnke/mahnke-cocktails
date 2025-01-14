@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: The Educated Barfly
+author: Leandro DiMonriva
 title: "Jasmine"
 eras: [modern]
 categories: [sour, campari]

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Mai Tai"
 permalink: "/recipe/mai_tai.html"
 iconfile: mai_tai

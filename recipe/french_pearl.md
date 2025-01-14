@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: The Educated Barfly
+author: Leandro DiMonriva
 title: "French Pearl"
 eras: [modern]
 categories: [sour]

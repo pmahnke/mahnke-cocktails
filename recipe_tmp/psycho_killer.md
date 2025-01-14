@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Psycho Killer"
 categories: [ campari, cocktail]
 permalink: "/recipe/psycho_killer.html"

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Gin Rickey"
 categories: [ collins, highball, cocktail]
 eras: [ classic ]

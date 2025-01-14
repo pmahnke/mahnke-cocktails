@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Morning Glory Fizz"
 permalink: "/recipe/morning_glory_fizz.html"
 iconfile: morning_glory_fizz

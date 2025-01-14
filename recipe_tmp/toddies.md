@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 type: multirecipe
 title: "Hot Toddies"
 categories: [ toddy, cocktail]

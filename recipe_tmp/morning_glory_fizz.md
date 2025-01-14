@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Morning Glory Fizz"
 categories: [ fizz, sour, cocktail]
 eras: [ classic ]

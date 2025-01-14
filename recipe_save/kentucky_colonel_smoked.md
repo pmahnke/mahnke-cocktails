@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Kentucky Colonel, Smoked"
 permalink: "/recipe/kentucky_colonel_smoked.html"
 iconfile: kentucky_colonel_smoked

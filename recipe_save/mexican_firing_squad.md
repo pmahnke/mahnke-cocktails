@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Mexican Firing Squad"
 permalink: "/recipe/mexican_firing_squad.html"
 iconfile: mexican_firing_squad

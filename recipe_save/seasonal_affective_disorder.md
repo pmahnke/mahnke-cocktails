@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Seasonal Affective Disorder (S.A.D.)"
 permalink: "/recipe/seasonal_affective_disorder.html"
 iconfile: seasonal_affective_disorder

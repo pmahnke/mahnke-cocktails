@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Cosmopolitan"
 categories: [cocktail]
 eras: [modern]

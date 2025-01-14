@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Soyer au Champagne"
 categories: [ champagne, cocktail]
 permalink: "/recipe/soyer_au_champagne.html"

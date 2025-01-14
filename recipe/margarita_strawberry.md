@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Strawberry Frozen Margarita"
 categories: [daisy]
 eras: [modern]

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "The Pink Lady"
 permalink: "/recipe/pink_lady.html"
 iconfile: pink_lady

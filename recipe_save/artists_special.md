@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Artist's Special"
 permalink: "/recipe/artists_special.html"
 iconfile: artists_special

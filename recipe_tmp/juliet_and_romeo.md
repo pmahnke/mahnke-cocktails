@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Juliet & Romeo"
 categories: [ cocktail ]
 permalink: "/recipe/juliet_and_romeo.html"

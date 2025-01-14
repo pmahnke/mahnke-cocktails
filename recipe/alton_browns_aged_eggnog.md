@@ -1,8 +1,8 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Alton Brown
 title: "Alton Brown’s Aged Eggnog"
-categories: [eggnog]
+categories: [eggnog, dairy]
 eras: [classic]
 permalink: "/recipe/alton_browns_aged_eggnog.html"
 iconfile: alton_browns_aged_eggnog

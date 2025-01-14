@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Old Cuban"
 categories: [ champagne, cocktail]
 eras: [ classic, modern]

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "The Murderer’s Cocktail"
 permalink: "/recipe/murderers_cocktail.html"
 iconfile: murderers_cocktail

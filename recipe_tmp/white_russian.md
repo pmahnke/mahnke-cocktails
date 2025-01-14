@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "White Russian"
 categories: [ coffee, cocktail]
 eras: [ classic ]

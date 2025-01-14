@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Alton Brown’s Aged Eggnog"
 categories: [eggnog]
 eras: [classic]

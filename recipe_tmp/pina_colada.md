@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Piña Colada"
 categories: [ cocktail ]
 eras: [ classic ]

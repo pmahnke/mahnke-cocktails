@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 creator: Marco Valdo Dionysus
 title: "Chartreuse Swizzle"
 eras: [modern]

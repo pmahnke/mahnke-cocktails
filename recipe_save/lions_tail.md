@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Lion's Tail"
 permalink: "/recipe/lionstail.html"
 iconfile: lions_tail

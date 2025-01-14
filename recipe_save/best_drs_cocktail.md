@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Best Doctor's Cocktail"
 permalink: "/recipe/best_drs_cocktail.html"
 iconfile: best_drs_cocktail

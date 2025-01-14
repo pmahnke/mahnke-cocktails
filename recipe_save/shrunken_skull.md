@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Shrunken Skull"
 permalink: "/recipe/shrunken_skull.html"
 iconfile: shrunken_skull

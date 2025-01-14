@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Old Cuban"
 permalink: "/recipe/old_cuban.html"
 iconfile: old_cuban

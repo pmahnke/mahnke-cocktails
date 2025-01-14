@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Brandy Alexander"
 categories: [after_dinner, ice_cream]
 eras: [classic]

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 creator: Harry Johnson
 title: "Bijou"
 categories: [cocktail]

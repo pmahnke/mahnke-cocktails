@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Blue Hawaii"
 permalink: "/recipe/blue_hawaii.html"
 iconfile: blue_hawaii

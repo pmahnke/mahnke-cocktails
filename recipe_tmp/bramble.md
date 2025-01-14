@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Bramble"
 categories: [ cocktail ]
 permalink: "/recipe/bramble.html"

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Cameron's Kick"
 permalink: "/recipe/camerons_kick.html"
 iconfile: camerons_kick

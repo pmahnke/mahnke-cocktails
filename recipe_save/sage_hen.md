@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: The Educated Barfly Cocktail Recipes
+author: Leandro DiMonriva Cocktail Recipes
 title: "Sage Hen"
 permalink: "/recipe/sage_hen.html"
 iconfile: sage_hen

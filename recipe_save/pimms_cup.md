@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Pimm's Cup"
 permalink: "/recipe/pimms_cup.html"
 iconfile: pimms_cup

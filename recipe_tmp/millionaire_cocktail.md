@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Millionaire Cocktail #1"
 categories: [ cocktail ]
 permalink: "/recipe/millionaire_cocktail.html"

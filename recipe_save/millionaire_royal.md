@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Millionaire Royal"
 permalink: "/recipe/millionaire_royal.html"
 iconfile: millionaire_royal

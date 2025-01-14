@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Martini"
 permalink: "/recipe/martini.html"
 iconfile: martini

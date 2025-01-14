@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Jasper’s Rum Punch"
 categories: [ punch, sour, cocktail]
 eras: [ classic ]

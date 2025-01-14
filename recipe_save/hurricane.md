@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Hurricane"
 permalink: "/recipe/hurricane.html"
 iconfile: hurricane

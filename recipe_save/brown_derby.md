@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Brown Derby"
 permalink: "/recipe/brown_derby.html"
 iconfile: brown_derby

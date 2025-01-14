@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Absinthe Frappé"
 permalink: "/recipe/absinthe_frappe.html"
 iconfile: absinthe_frappe

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Suffering Bastard"
 permalink: "/recipe/suffering_bastard.html"
 iconfile: suffering_bastard

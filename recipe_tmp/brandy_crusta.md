@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Brandy Crusta"
 categories: [ cocktail ]
 eras: [ new_orleans, classic]

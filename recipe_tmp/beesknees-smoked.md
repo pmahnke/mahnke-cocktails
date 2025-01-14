@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Bee's Knees, Smoked"
 categories: [ cocktail ]
 eras: [ prohibition, classic]

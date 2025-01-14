@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Belmont Jewel"
 permalink: "/recipe/belmont_jewel.html"
 iconfile: belmont_jewel

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Charles Dickens Punch"
 permalink: "/recipe/charles_dickens_punch.html"
 iconfile: charles_dickens_punch

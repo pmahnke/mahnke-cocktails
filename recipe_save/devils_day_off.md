@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 type: non-alcoholic
 title: "Devil's Day Off"
 permalink: "/recipe/devils_day_off.html"

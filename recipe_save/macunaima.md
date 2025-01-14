@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Macunaíma"
 permalink: "/recipe/macunaima.html"
 iconfile: macunaima

@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Prescription Julep"
 permalink: "/recipe/prescription_julep.html"
 iconfile: prescription_julep

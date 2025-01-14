@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Wisconsin Old Fashioned"
 categories: [ sour, cocktail]
 permalink: "/recipe/wi_old_fashioned.html"

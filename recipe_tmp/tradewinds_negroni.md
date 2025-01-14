@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Tradewinds Negroni"
 iconfile: tradewinds_negroni
 categories: [ cocktail ]

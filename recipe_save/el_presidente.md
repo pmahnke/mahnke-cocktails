@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "El Presidente"
 permalink: "/recipe/el_presidente.html"
 iconfile: el_presidente

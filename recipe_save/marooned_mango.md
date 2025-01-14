@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Marooned Mango"
 permalink: "/recipe/marooned_mango.html"
 iconfile: marooned_mango

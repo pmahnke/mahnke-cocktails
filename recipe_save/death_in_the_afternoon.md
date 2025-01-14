@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Death in the Afternoon"
 permalink: "/recipe/death_in_the_afternoon.html"
 iconfile: death_in_the_afternoon

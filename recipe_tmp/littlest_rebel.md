@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Littlest Rebel"
 categories: [ cocktail ]
 permalink: "/recipe/little_strebel.html"

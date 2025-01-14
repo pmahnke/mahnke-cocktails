@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Rabo De Galo"
 categories: [ cocktail ]
 eras: [ classic ]
