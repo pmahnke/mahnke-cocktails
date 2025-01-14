@@ -30,4 +30,7 @@ excerpt: |
 - Pour: Double Strain
 - Glassware: Nick & Nora
 - Garnish: Grated nutmeg
-- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
+- Special Prep:
+  - To prevent the egg white from scrambling: add the egg white, grenadine and triple sec to the cheater tin.
+  - Add the bourbon, lemon juice, absinthe to the main tin. Then add ice.
+  - Combine the two tins and shake.

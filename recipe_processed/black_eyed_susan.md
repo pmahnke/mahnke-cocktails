@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Black-Eyed Susan"
 categories: [highball]
 eras: [modern]

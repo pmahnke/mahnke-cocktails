@@ -6,7 +6,7 @@ categories: [cocktail, smoked]
 eras: [classic]
 permalink: "/recipe/beesknees-smoked.html"
 iconfile: beesknees-smoked
-stars: 0
+stars: 3
 base_spirits: "Gin "
 youtube: "gZdT2GBf91I"
 excerpt: |

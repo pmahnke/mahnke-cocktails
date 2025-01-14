@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Absinthe Frappé"
 categories: [frappe_swizzle]
 eras: [classic]

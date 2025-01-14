@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Applejack Rabbit"
 categories: [sour]
 eras: [prohibition]

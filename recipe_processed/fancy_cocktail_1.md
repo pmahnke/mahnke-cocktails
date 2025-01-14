@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "Fancy Cocktail No.1"
 eras: [anders]
 categories: [cocktail]

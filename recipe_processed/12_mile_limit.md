@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson Cocktail Recipes
 title: "12 Mile Limit"
 categories: [cocktail]
 eras: [prohibition]
