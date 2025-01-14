@@ -60,7 +60,12 @@ p.icons {
     clear:both;
     }
 
-
+@media (max-width: 767px) {
+/* Styles for screens smaller than 768px (phones) */
+    p.icons {
+        display: none;
+    }
+}
 
 /* measurement scaling */
 .onex, .onehalfx, .twox, .threex {
