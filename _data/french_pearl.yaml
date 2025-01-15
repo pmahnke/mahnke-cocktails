@@ -1,19 +1,19 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-gin.svg
-      title: Gin
     - url: /cocktails/assets/images/ingredient-absinthe.svg
       title: Absinthe
-    - url: /cocktails/assets/images/ingredient-simple-syrup.svg
-      title: Simple Syrup
-    - url: /cocktails/assets/images/ingredient-lime-juice.svg
-      title: Lime Juice
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
   tool:
     - url: /cocktails/assets/images/tool_double_strain.svg
       title: Double strained
+    - url: /cocktails/assets/images/tool_muddler.svg
+      title: Muddler
   glass:
     - url: /cocktails/assets/images/glass_coupe.svg
       title: Coupe
   garnish:
+    - url: /cocktails/assets/images/spice_anise.svg
+      title: Anise
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint

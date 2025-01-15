@@ -1,0 +1,20 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-ginger-beer.svg
+      title: Ginger beer
+    - url: /cocktails/assets/images/ingredient-lemon-juice.svg
+      title: Lemon juice
+  tool:
+    - url: /cocktails/assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /cocktails/assets/images/glass_highball.svg
+      title: Highball
+  garnish:
+    - url: /cocktails/assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes

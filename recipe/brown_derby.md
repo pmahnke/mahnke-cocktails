@@ -21,7 +21,7 @@ excerpt: |
 
 | Amount | Ingredient                                    | Brand                                  |
 | -----: | --------------------------------------------- | -------------------------------------- |
-| 1.5 oz | Bourbon                                       | Still Austin ""The Musician"" Straight |
+| 1.5 oz | Bourbon                                       | Still Austin "The Musician" Straight |
 |   1 oz | Pink Grapefruit Juice                         |
 | 0.5 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 
@@ -42,7 +42,7 @@ excerpt: |
 
 |  Amount | Ingredient                                    | Brand                                  |
 | ------: | --------------------------------------------- | -------------------------------------- |
-|  1.5 oz | Bourbon                                       | Still Austin ""The Musician"" Straight |
+|  1.5 oz | Bourbon                                       | Still Austin "The Musician" Straight |
 |    1 oz | White Grapefruit Juice                        |
 |  0.5 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 | 0.25 oz | Fresh Lemon Juice                             |

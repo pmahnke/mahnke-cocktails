@@ -7,7 +7,7 @@ categories: [punch]
 eras: [classic]
 permalink: "/recipe/alamagoozlum.html"
 iconfile: alamagoozlum
-stars: 0
+stars: 3.5
 base_spirits: "Genever, Jamaican Rum, Yellow Chartreuse "
 youtube: "8H-IBvOX8EI"
 excerpt: |
@@ -24,23 +24,23 @@ excerpt: |
   Both Charles H. Baker and David Embury credit the creation, or at least this cocktail's notoriety, to John Pierpont Morgan Sr. (1837 - 1913), a Wall Street banker and financier who headed the banking firm that went on to be known as J.P. Morgan and Co., then Morgan, Grenfell & Company.<br /><br />
 
 
-  J. P. Morgan liked to drink in style and frequented New York City's most fashionable clubs, including the Union Club. When his friend, John King, president of Erie Railroad, was blackballed from the Union Club, Morgan resigned and in 1891 established the Metropolitan Club of New York. He commissioned Stanford White to "...build me a club fit for gentlemen, forget the expense..." at One East 60th Street; on the corner of 5th Avenue. As the club's first President, he invited John King to be a charter member.<br /><br />
+  J. P. Morgan liked to drink in style and frequented New York City's most fashionable clubs, including the Union Club. When his friend, John King, president of Erie Railroad, was blackballed from the Union Club, Morgan resigned and in 1891 established the Metropolitan Club of New York. He commissioned Stanford White to "...build me a club fit for gentlemen, forget the expense..." at One East 60th Street; on the corner of 5th Avenue. As the club's first President, he invited John King to be a charter member.<br><br>
 
-  <strong>This recipe makes two cocktails</strong>
+  <b>This cocktail recipe makes two cocktails</b>
 ---
 
 ### Ingredients
 
-|                                                                                                                                                                                   Amount | Ingredient                                                          | Brand                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------- | -------------------------- |
-|               <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Genever                                                             | Bols                       |
-|   <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Jamaican Rum                                                        | Appleton Signature         |
-|   <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Yellow Chartreuse                                                   | Yellow Chartreuse          |
-|      <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Orange Curaçao                                                      | Marie Brizard              |
-|      <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Bitters                                                             | Angostura Aromatic Bitters |
-|      <span class="onex active">1.5 oz / 55 ml</span> <span class="onehalfx">2.25 oz / 82.5 ml</span> <span class="twox">3 oz / 110 ml</span> <span class="threex">4.5 oz / 165 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Egg White                                                           |
-|               <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Water                                                               |
+|  Amount | Ingredient                                                | Brand                      |
+| ------: | --------------------------------------------------------- | -------------------------- |
+|    <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Genever                                                   | Bols                       |
+|  <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Jamaican Rum                                              | Appleton Signature         |
+|  <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Yellow Chartreuse                                         | Yellow Chartreuse          |
+|  <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Orange Curaçao                                            | Marie Brizard              |
+|  <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Bitters                                                   | Angostura Aromatic Bitters |
+|  <span class="onex active">1.5 oz / 55 ml</span> <span class="onehalfx">2.25 oz / 82.5 ml</span> <span class="twox">3 oz / 110 ml</span> <span class="threex">4.5 oz / 165 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Egg White                                                 |
+|    <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Water                                                     |
 
 ### Notes
 
@@ -48,8 +48,9 @@ excerpt: |
 - Pour: Double Strain
 - Glassware: Coupe
 - Garnish: Pineapple slice
-- Special Prep: Reverse dry shake
-   - Shake cocktail with ice
-   - Double strain the cocktail into the cheater tin
-   - Dry shake the cocktail
-   - Pour the cocktail into two glasses
+- Special Prep:
+  - Reverse dry shake:
+    - Shake cocktail with ice first.
+    - Strain cocktail into the cheater tin.
+    - Remove ice
+    - Dry shake cocktail

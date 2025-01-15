@@ -6,7 +6,7 @@ eras: [modern]
 categories: [sour, campari]
 permalink: "/recipe/jasmine.html"
 iconfile: jasmine
-stars: 0
+stars: 3
 base_spirits: "Gin, Campari"
 youtube: "b7rg7eshiQU"
 excerpt: |

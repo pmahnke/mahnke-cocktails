@@ -1,13 +1,13 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 creator: JP Morgan
 title: "Alamagoozlum"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/alamagoozlum.html"
 iconfile: alamagoozlum
-stars: 3
+stars: 3.5
 base_spirits: "Genever, Jamaican Rum, Yellow Chartreuse "
 youtube: "8H-IBvOX8EI"
 excerpt: |
@@ -24,7 +24,9 @@ excerpt: |
   Both Charles H. Baker and David Embury credit the creation, or at least this cocktail's notoriety, to John Pierpont Morgan Sr. (1837 - 1913), a Wall Street banker and financier who headed the banking firm that went on to be known as J.P. Morgan and Co., then Morgan, Grenfell & Company.<br /><br />
 
 
-  J. P. Morgan liked to drink in style and frequented New York City's most fashionable clubs, including the Union Club. When his friend, John King, president of Erie Railroad, was blackballed from the Union Club, Morgan resigned and in 1891 established the Metropolitan Club of New York. He commissioned Stanford White to "...build me a club fit for gentlemen, forget the expense..." at One East 60th Street; on the corner of 5th Avenue. As the club's first President, he invited John King to be a charter member.
+  J. P. Morgan liked to drink in style and frequented New York City's most fashionable clubs, including the Union Club. When his friend, John King, president of Erie Railroad, was blackballed from the Union Club, Morgan resigned and in 1891 established the Metropolitan Club of New York. He commissioned Stanford White to "...build me a club fit for gentlemen, forget the expense..." at One East 60th Street; on the corner of 5th Avenue. As the club's first President, he invited John King to be a charter member.<br><br>
+
+  <b>This cocktail recipe makes two cocktails</b>
 ---
 
 ### Ingredients
@@ -46,4 +48,9 @@ excerpt: |
 - Pour: Double Strain
 - Glassware: Coupe
 - Garnish: Pineapple slice
-- Special Prep: Reverse dry shake
+- Special Prep:
+  - Reverse dry shake:
+    - Shake cocktail with ice first.
+    - Strain cocktail into the cheater tin.
+    - Remove ice
+    - Dry shake cocktail

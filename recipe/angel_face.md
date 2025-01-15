@@ -1,12 +1,12 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Angel Face"
-categories: [cocktail]
-eras: [modern]
+categories: [ cocktail ]
+eras: [ prohibition ]
 permalink: "/recipe/angel_face.html"
 iconfile: angel_face
-stars: 0
+stars: 3
 base_spirits: "Gin, Apple Brandy, Apricot Liqueur"
 youtube: "2nHl1pBETt8"
 excerpt: |

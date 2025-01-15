@@ -6,7 +6,7 @@ categories: [ sour ]
 eras: [ Classic ]
 permalink: "/recipe/artists_special.html"
 iconfile: artists_special
-stars: 4
+stars: 3,5
 base_spirits: "Bourbon, Amontillado Sherry "
 youtube: "-Uhu81wqOl8"
 excerpt: |

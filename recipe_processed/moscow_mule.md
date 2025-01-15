@@ -6,7 +6,7 @@ categories: [buck]
 eras: [modern]
 permalink: "/recipe/moscow_mule.html"
 iconfile: moscow_mule
-stars: 0
+stars: 4
 base_spirits: "Vodka "
 youtube: "mvo1CzEJd14"
 excerpt: |

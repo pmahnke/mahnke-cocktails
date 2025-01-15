@@ -10,5 +10,3 @@ images:
   glass:
     - url: /cocktails/assets/images/glass_coupe.svg
       title: Coupe
-    - url: /cocktails/assets/images/glass_martini.svg
-      title: Martini
