@@ -1,9 +1,9 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Absinthe Frappé"
-categories: [frappe_swizzle]
-eras: [classic]
+categories: [ frappe_swizzle ]
+eras: [ classic ]
 permalink: "/recipe/absinthe_frappe.html"
 iconfile: absinthe_frappe
 stars: 0
@@ -28,11 +28,13 @@ excerpt: |
 - Pour:
   - Open Pour
   - Single Strain
-- Glassware: Frappé Glass
+- Glassware: 
+  - Frappé Glass
+  - Crushed Ice
 - Garnish: Mint sprig
 - Special Prep:
   - Cut the quarter lemon into 2 wedges and remove the center pith and de-seed.
-  - Squeeze the juice into the tin.
+  - Squeeze the juice into the tin, then drop the lemon wedges into the tin.
   - Add the remaining ingredients and shake.
   - Hawthorn strain the cocktail into the cheater tin.
   - Then strain the cocktail into the glass filled with crushed ice
