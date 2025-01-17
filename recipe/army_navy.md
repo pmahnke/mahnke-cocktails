@@ -2,7 +2,7 @@
 layout: recipe
 author: Leandro DiMonriva
 title: "Army & Navy"
-eras: [Modern]
+eras: [modern]
 categories: [sour]
 permalink: "/recipe/army_navy.html"
 iconfile: army_navy
