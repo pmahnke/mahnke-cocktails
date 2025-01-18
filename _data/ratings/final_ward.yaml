@@ -1,0 +1,5 @@
+ratings:
+  - person: John
+    rating: 3
+  - person: Peter
+    rating: 4
