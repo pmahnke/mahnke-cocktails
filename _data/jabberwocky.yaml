@@ -1,0 +1,21 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /cocktails/assets/images/ingredient-lillet-blanc.svg
+      title: Lillet blanc
+    - url: /cocktails/assets/images/ingredient-sherry.svg
+      title: Sherry
+  tool:
+    - url: /cocktails/assets/images/tool_double_strain.svg
+      title: Double strained
+    - url: /cocktails/assets/images/tool_mixing-glass.svg
+      title: Mixing glass
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /cocktails/assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /cocktails/assets/images/twist_lemon.svg
+      title: Lemon twist
