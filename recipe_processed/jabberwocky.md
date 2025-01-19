@@ -25,7 +25,7 @@ excerpt: |
 ### Notes
 
 - Method: Stirred
-- Pour: Double Strain / Julep Strain / Open pour / Add all ingredients directly to the glass/pitcher/jar/bowl
+- Pour: Julep Strain
 - Glassware: Coupe
 - Garnish: Lemon Peel
 - Special Prep: Expressed lemon oil over cocktail
