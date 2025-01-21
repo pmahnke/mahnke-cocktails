@@ -93,15 +93,21 @@ sub convert {
     print "sub convert $oz for $in\n";
 
     if ($in eq "rich") {
-	$ml = $oz * 36.68;
+    	$ml = $oz * 36.68;
     } elsif ($in eq "semi") {
-	$ml = $oz * 35.3;
+	    $ml = $oz * 35.3;
     } elsif ($in eq "simple") {
-	$ml = $oz * 34.16;
+	    $ml = $oz * 34.16;
     } else {
-	$ml = $oz * 25;
+	    $ml = $oz * 25;
     }
-    $ml = nearest(0.5, $ml);
+    # OVERRIDE THE SIMPLE SYRUP CALCULATIONS FOR A TEST
+    $ml = $oz * 25;
+
+    # round to the nearest .5
+    #$ml = nearest(0.5, $ml);
+    # TEST 
+    $ml = nearest(1, $ml);
     return($ml);
 
 }

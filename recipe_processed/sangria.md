@@ -20,12 +20,12 @@ excerpt: |
 | 0.5 whole | Orange                                                   |
 | 0.5 whole | Lemon                                                    |
 | 0.5 whole | Apple                                                    |
-|      <span class="onex active">3 oz / 110 ml</span> <span class="onehalfx">4.5 oz / 165 ml</span> <span class="twox">6 oz / 220 ml</span> <span class="threex">9 oz / 330 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|      <span class="onex active">3 oz / 75 ml</span> <span class="onehalfx">4.5 oz / 113 ml</span> <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 |      <span class="onex active">4 oz / 100 ml</span> <span class="onehalfx">6 oz / 150 ml</span> <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Fresh Lemon Juice                                        |
 |      <span class="onex active">4 oz / 100 ml</span> <span class="onehalfx">6 oz / 150 ml</span> <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Grand Marnier                                            | Grand Marnier   |
 |      <span class="onex active">6 oz / 150 ml</span> <span class="onehalfx">9 oz / 225 ml</span> <span class="twox">12 oz / 300 ml</span> <span class="threex">18 oz / 450 ml</span> | Olorosso Sherry                                          | Lustau Don Nuño |
 |    750 ml | Red Wine Louis Jadot Beaujolais-Villages                 |
-|    <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Soda Water (Optional)                                    |
+|    <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Soda Water (Optional)                                    |
 
 ### Notes
 

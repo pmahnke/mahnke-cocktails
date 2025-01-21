@@ -17,9 +17,9 @@ excerpt: |
 
 |  Amount | Ingredient                                               | Brand                          |
 | ------: | -------------------------------------------------------- | ------------------------------ |
-|  <span class="onex active">1.5 oz / 37.5 ml</span> <span class="onehalfx">2.25 oz / 56.5 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 112.5 ml</span> | Demerara Rum                                             | El Dorado 8 Year               |
-|  <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Amontillado Sherry                                       | Lustau Amontillado 'Los Arcos' |
-|    <span class="onex active">1 oz / 36.5 ml</span> <span class="onehalfx">1.5 oz / 55 ml</span> <span class="twox">2 oz / 73.5 ml</span> <span class="threex">3 oz / 110 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|  <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Demerara Rum                                             | El Dorado 8 Year               |
+|  <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Amontillado Sherry                                       | Lustau Amontillado 'Los Arcos' |
+|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | 1 whole | Egg                                                      |
 |    <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Half & Half cream                                        |
 | 1 pinch | Salt                                                     |

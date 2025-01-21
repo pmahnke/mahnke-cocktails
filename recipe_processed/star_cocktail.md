@@ -17,8 +17,8 @@ excerpt: |
 
 | Amount | Ingredient     | Brand                             |
 | -----: | -------------- | --------------------------------- |
-|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Apple Brandy   | Laird’s Straight Apple Brandy BIB |
-|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 37.5 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Sweet Vermouth | Cocchi Vermouth di Torino         |
+|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Apple Brandy   | Laird’s Straight Apple Brandy BIB |
+|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Sweet Vermouth | Cocchi Vermouth di Torino         |
 | 1 dash | Bitters        | Angostura Aromatic Bitters        |
 | 1 dash | Bitters        | Peychaud’s Bitters                |
 

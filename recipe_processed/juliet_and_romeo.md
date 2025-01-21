@@ -18,10 +18,10 @@ excerpt: |
 |         Amount | Ingredient                                      | Brand                |
 | -------------: | ----------------------------------------------- | -------------------- |
 |           <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Gin                                             | Beefeater London Dry |
-|        <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 37.5 ml</span> <span class="threex">2.25 oz / 56.5 ml</span> | Fresh Lime Juice                                |
-|        <span class="onex active">0.75 oz / 25.5 ml</span> <span class="onehalfx">1.125 oz / 38.5 ml</span> <span class="twox">1.5 oz / 51 ml</span> <span class="threex">2.25 oz / 77 ml</span> | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|        <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Fresh Lime Juice                                |
+|        <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |        3 drops | Rose Water                                      |
-| 0.25 to <span class="onex active">0.5 oz / 12.5 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 37.5 ml</span> | Aquafaba                                        |
+| 0.25 to <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Aquafaba                                        |
 |       3 slices | Cucumber                                        |
 |        1 pinch | Salt                                            |
 |       4 leaves | Mint                                            |
