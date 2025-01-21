@@ -106,7 +106,7 @@ sub convert {
 
     # round to the nearest .5
     #$ml = nearest(0.5, $ml);
-    # TEST 
+    # TEST rounding to nearest 1
     $ml = nearest(1, $ml);
     return($ml);
 
