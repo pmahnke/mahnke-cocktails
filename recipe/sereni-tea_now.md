@@ -2,10 +2,10 @@
 layout: recipe
 author: Anders Erickson
 type: non-alcoholic
-categories: [ mocktail ]
-eras: [ anders ]
+categories: [mocktail]
+eras: [anders]
 title: "Sereni-Tea Now!"
-permalink: "/recipe/sereni-tea_now"
+permalink: "/recipe/sereni-tea_now.html"
 iconfile: sereni-tea_now
 stars: 0
 base_spirits: "Canned Pear, Grenadine, Lemon Juice, Hojicha Tea"
@@ -28,6 +28,6 @@ excerpt: |
 - Pour: Double Strain
 - Glassware: Coupe
 - Garnish: Lemon peel
-- Special Prep: 
+- Special Prep:
   - Take a can of pears and their syrup and blend them into a prrée.
   - Expressed lemon oil.
