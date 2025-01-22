@@ -55,3 +55,5 @@ exclude:
   - recipe/
   - recipe_tmp/
   - recipe_save/
+  - recipe_processed/template.md
+  

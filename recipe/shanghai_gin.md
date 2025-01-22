@@ -15,11 +15,11 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient        | Brand                      |
-| ------: | ----------------- | -------------------------- |
-| 0.75 oz | Gin               | The Botanist Islay Dry Gin |
-| 0.75 oz | Yellow Chartreuse | Yellow Chartreuse          |
-| 0.75 oz | Bénédictine       | Bénédictine DOM            |
+|  Amount | Ingredient        | Brand             |
+| ------: | ----------------- | ----------------- |
+| 0.75 oz | Gin               | Beefeaters        |
+| 0.75 oz | Yellow Chartreuse | Yellow Chartreuse |
+| 0.75 oz | Bénédictine       | Bénédictine DOM   |
 | 0.75 oz | Fresh Lemon Juice |
 
 ### Notes
