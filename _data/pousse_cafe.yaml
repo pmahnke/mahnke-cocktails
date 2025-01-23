@@ -12,7 +12,7 @@ images:
       title: Absinthe
   tool:
     - url: /cocktails/assets/images/tool_long-stirrer.svg
-      title: Bar Spoon
+      title: barspoon
   glass:
     - url: /cocktails/assets/images/glass_cordial.svg
       title: Pousse Cafe

@@ -1,9 +1,9 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Black Rose"
-categories: [cocktail]
-eras: [modern]
+categories: [ cocktail ]
+eras: [ modern ]
 permalink: "/recipe/black_rose.html"
 iconfile: black_rose
 stars: 2

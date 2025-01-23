@@ -28,4 +28,4 @@ excerpt: |
 - Pour: Add all ingredients directly to the glass
 - Glassware: Champagne
 - Garnish: Expressed oils of a lemon swath and an orange swath
-- Special Prep: Saturate the sugar cube in bitters in a bar spoon. Then add to the glass. Then add the cognac. Then fill with champagne.
+- Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne.

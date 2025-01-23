@@ -20,7 +20,7 @@ excerpt: |
 |      <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Light Rum                                       | Probitas                         |
 |     <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | White Vermouth                                  | Dolin Blanc Vermouth de Chambéry |
 |     <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Dry Curaçao                                     | Pierre Ferrand                   |
-| 1 bar spoon | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+| 1 barspoon | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 
 ### Notes
 

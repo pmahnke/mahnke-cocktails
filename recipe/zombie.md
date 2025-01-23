@@ -15,18 +15,18 @@ excerpt: |
 
 ### Ingredients
 
-|      Amount | Ingredient                                      | Brand                             |
-| ----------: | ----------------------------------------------- | --------------------------------- |
-|      1.5 oz | Jamaican Rum                                    | Appleton Estate 12 Year Rare Cask |
-|      1.5 oz | Gold Rum                                        | Don Q Gold                        |
-|        1 oz | Demerara Rum                                    | Hamilton 151                      |
-|      0.5 oz | Falernum                                        | John D. Taylor's Velvet           |
-|        1 oz | White Grapefruit Juice                          |
-|     0.75 oz | Fresh Lime Juice                                |
-|      0.5 oz | Cinnamon Syrup                                  |
-|     0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
-| 1 bar spoon | Absinthe                                        | La Clandestine                    |
-|    2 dashes | Bitters                                         | Angostura Aromatic Bitters        |
+|     Amount | Ingredient                                      | Brand                             |
+| ---------: | ----------------------------------------------- | --------------------------------- |
+|     1.5 oz | Jamaican Rum                                    | Appleton Estate 12 Year Rare Cask |
+|     1.5 oz | Gold Rum                                        | Don Q Gold                        |
+|       1 oz | Demerara Rum                                    | Hamilton 151                      |
+|     0.5 oz | Falernum                                        | John D. Taylor's Velvet           |
+|       1 oz | White Grapefruit Juice                          |
+|    0.75 oz | Fresh Lime Juice                                |
+|     0.5 oz | Cinnamon Syrup                                  |
+|    0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
+| 1 barspoon | Absinthe                                        | La Clandestine                    |
+|   2 dashes | Bitters                                         | Angostura Aromatic Bitters        |
 
 ### Notes
 

@@ -15,12 +15,12 @@ excerpt: |
 
 ### Ingredients
 
-|     Amount | Ingredient     | Brand                            |
-| ---------: | -------------- | -------------------------------- |
-|       2 oz | Gin            | Martin Miller's                  |
-|     0.5 oz | Dry Vermouth   | Dolin Vermouth de Chambéry Dry   |
-|     0.5 oz | Sweet Vermouth | Dolin Vermouth de Chambéry Rouge |
-| 1 teaspoon | Bénédictine    | Bénédictine DOM                  |
+|      Amount | Ingredient     | Brand                            |
+| ----------: | -------------- | -------------------------------- |
+|        2 oz | Gin            | Martin Miller's                  |
+|      0.5 oz | Dry Vermouth   | Dolin Vermouth de Chambéry Dry   |
+|      0.5 oz | Sweet Vermouth | Dolin Vermouth de Chambéry Rouge |
+| 2 barspoons | Bénédictine    | Bénédictine DOM                  |
 
 ### Notes
 

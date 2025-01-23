@@ -1,9 +1,9 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Bali Bali"
-categories: [tiki]
-eras: [modern]
+categories: [ tiki ]
+eras: [ modern ]
 permalink: "/recipe/bali_bali.html"
 iconfile: bali_bali
 stars: 4
