@@ -19,12 +19,12 @@ excerpt: |
 
 ### Ingredients
 
-|       Amount | Ingredient                                      | Brand             |
-| -----------: | ----------------------------------------------- | ----------------- |
-|       1.5 oz | Light Rum                                       | Real McCoy 3 Year |
-|       1.5 oz | Fresh Pineapple Juice                           |
-|      0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
-| 0.5 teaspoon | Maraschino Liqueur                              | Luxardo           |
+|     Amount | Ingredient                                      | Brand             |
+| ---------: | ----------------------------------------------- | ----------------- |
+|     1.5 oz | Light Rum                                       | Real McCoy 3 Year |
+|     1.5 oz | Fresh Pineapple Juice                           |
+|    0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
+| 1 barspoon | Maraschino Liqueur                              | Luxardo           |
 
 ### Notes
 
@@ -41,14 +41,14 @@ excerpt: |
 
 ### Ingredients
 
-|       Amount | Ingredient                                      | Brand         |
-| -----------: | ----------------------------------------------- | ------------- |
-|       1.5 oz | Light Rum                                       | Probitas      |
-|       1.5 oz | Fresh Pineapple Juice                           |
-|      0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
-|      0.25 oz | Fresh Lime Juice                                |
-|      0.25 oz | Allspice Dram                                   | St. Elizabeth |
-| 0.5 teaspoon | Maraschino Liqueur                              | Luxardo       |
+|     Amount | Ingredient                                      | Brand         |
+| ---------: | ----------------------------------------------- | ------------- |
+|     1.5 oz | Light Rum                                       | Probitas      |
+|     1.5 oz | Fresh Pineapple Juice                           |
+|    0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
+|    0.25 oz | Fresh Lime Juice                                |
+|    0.25 oz | Allspice Dram                                   | St. Elizabeth |
+| 1 barspoon | Maraschino Liqueur                              | Luxardo       |
 
 ### Notes
 
