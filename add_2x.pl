@@ -25,35 +25,65 @@ while (my $file = readdir DIR) {
 
         if (/((\d+\.\d+|\d+)) oz/) {
 	    
-	    my $oz = $1 * 1;
-	    
-	    my $in = "";
-	    $in = "simple" if (/simple/i);
-	    $in = "semi"   if (/semi/i);
-	    $in = "rich"   if (/rich/i);	    
+            my $oz = $1 * 1;
+            
+            my $in = "";
+            $in = "simple" if (/simple/i);
+            $in = "semi"   if (/semi/i);
+            $in = "rich"   if (/rich/i);	    
 
-	    # 1x
-            my $ml = &convert($oz, $in);
-            $ml = qq|<span class="onex active">$oz oz \/ $ml ml</span> |;
+            # 1x
+                my $ml = &convert($oz, $in);
+                $ml = qq|<span class="onex active">$oz oz \/ $ml ml</span> |;
 
-	    # 1.5x
-	    my $ozx = $oz * 1.5;
-	    my $mlx = &convert($ozx, $in);
-	    $ml .= qq|<span class="onehalfx">$ozx oz \/ $mlx ml</span> |;
+            # 1.5x
+            my $ozx = $oz * 1.5;
+            my $mlx = &convert($ozx, $in);
+            $ml .= qq|<span class="onehalfx">$ozx oz \/ $mlx ml</span> |;
 
-	    # 2x
-	    $ozx = $oz * 2;
-	    $mlx = &convert($ozx, $in);
-	    $ml .= qq|<span class="twox">$ozx oz \/ $mlx ml</span> |;
+            # 2x
+            $ozx = $oz * 2;
+            $mlx = &convert($ozx, $in);
+            $ml .= qq|<span class="twox">$ozx oz \/ $mlx ml</span> |;
 
 
-	    #3x
-	    $ozx = $oz * 3;
-	    $mlx = &convert($ozx, $in);
+            #3x
+            $ozx = $oz * 3;
+            $mlx = &convert($ozx, $in);
+            $ml .= qq|<span class="threex">$ozx oz \/ $mlx ml</span>|;
 
-	    $ml .= qq|<span class="threex">$ozx oz \/ $mlx ml</span>|;
             s/$oz oz/$ml/;
             print "Converted $oz to $ml\n";
+        } elsif (/(\d+) (dashes|dash|barspoons|barspoon|swathes|swath|teaspoon|tablespoon)/) {
+            my $dash = $1 * 1;
+            my $text = $2;
+            my $plural = "";
+            if ($text =~ /dash/) {
+                $plural = "dashes";
+            } elsif ($text =~ /barspoon/) {
+                $plural = "barspoons";
+            } elsif ($text =~ /swath/) {
+                $plural = "swathes";
+            } elsif ($text =~ /teaspoon/) {
+                $plural = "teaspoons";
+            } elsif ($text =~ /tablespoon/) {
+                $plural = "tablespoons";
+            } else {
+                $plural = $text;
+            }
+
+            my $dash_out = qq|<span class="onex active">$dash $text</span> |;
+            $dashx = $dash * 2; # using 2 for dashes and bar spoons
+            $dashx = $dash * 1.5 if ($text =~ /(teaspoon|tablespoon)/);
+            $dash_out .= qq|<span class="onehalfx">$dashx $plural</span> |;
+            $dashx = $dash * 2;
+            $dash_out .= qq|<span class="twox">$dashx $plural</span> |;
+            $dashx = $dash * 3;
+            $dash_out .= qq|<span class="threex">$dashx $plural</span> |;
+
+            s/$dash $text/$dash_out/;
+            print "Converted $dash $text to $dash_out\n"; 
+
         } else {
             #print "line: $_\n";
         }
