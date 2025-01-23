@@ -21,7 +21,7 @@ excerpt: |
 |  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Maraschino Liqueur | Luxardo                    |
 |  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Fresh Lemon Juice  |
 |  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Pineapple Juice    |
-| 3 dashes | Bitters            | Angostura Aromatic Bitters |
+| <span class="onex active">3 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>  | Bitters            | Angostura Aromatic Bitters |
 
 ### Notes
 

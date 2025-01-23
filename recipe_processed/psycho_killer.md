@@ -21,7 +21,7 @@ excerpt: |
 |  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | [Cocoa Nib Infused Campari]({%link recipe_processed/cocoa_nib_campari.md %}) | Campari            |
 |   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | White Crème de Cacao                                               | Marie Brizard      |
 |   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Banane du Brésil                                                   | Giffard            |
-| 2 dashes | Absinthe                                                           |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Absinthe                                                           |
 
 ### Notes
 

@@ -26,7 +26,7 @@ excerpt: |
 |      <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Cinnamon Syrup                                  |
 |     <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 | 1 bar spoon | Absinthe                                        | La Clandestine                    |
-|    2 dashes | Bitters                                         | Angostura Aromatic Bitters        |
+|    <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Bitters                                         | Angostura Aromatic Bitters        |
 
 ### Notes
 

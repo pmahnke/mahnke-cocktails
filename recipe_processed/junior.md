@@ -23,7 +23,7 @@ excerpt: |
 |   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Bénédictine                                              | Bénédictine D.O.M.         |
 |  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Fresh Lime Juice                                         |
 |  <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-| 2 dashes | Bitters                                                  | Angostura Aromatic Bitters |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Bitters                                                  | Angostura Aromatic Bitters |
 
 ### Notes
 

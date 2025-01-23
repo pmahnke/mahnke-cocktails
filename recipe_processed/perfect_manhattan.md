@@ -20,7 +20,7 @@ excerpt: |
 |     <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Rye            | Rittenhouse 100 Proof          |
 |   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Sweet Vermouth | Cocchi Vermouth di Torino      |
 |   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Dry Vermouth   | Dolin Vermouth De Chambéry Dry |
-| 2 dashes | Bitters        | Angostura Aromatic Bitters     |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Bitters        | Angostura Aromatic Bitters     |
 
 ### Notes
 

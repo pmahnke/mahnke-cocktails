@@ -21,7 +21,7 @@ excerpt: |
 | ------------: | ---------------------------- | ------------------------------ |
 |        <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Gin                          | Martin Miller's                |
 |       <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Dry Vermouth                 | Dolin Vermouth de Chambéry Dry |
-| 1 to 2 dashes | Orange Bitters Regan's No. 6 |
+| 1 to <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Orange Bitters Regan's No. 6 |
 
 ### Notes
 

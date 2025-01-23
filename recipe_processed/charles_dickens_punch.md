@@ -17,7 +17,7 @@ excerpt: |
 
 |    Amount | Ingredient                     | Brand             |
 | --------: | ------------------------------ | ----------------- |
-|  3 swaths | Lemons Peels                   |
+|  <span class="onex active">3 swath</span> <span class="onehalfx">6 swathes</span> <span class="twox">6 swathes</span> <span class="threex">9 swathes</span> s | Lemons Peels                   |
 | 0.75 cups | Demerara Sugar                 |
 |    2 cups | Pineapple-infused Jamaican Rum | Smith & Cross     |
 |     1 cup | Cognac                         | Maison Rouge VSOP |

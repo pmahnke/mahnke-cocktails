@@ -12,7 +12,7 @@ excerpt: |
 
 |       Amount | Ingredient |
 | -----------: | ---------- |
-| 1 tablespoon | Cocoa Nibs |
+| <span class="onex active">1 tablespoon</span> <span class="onehalfx">1.5 tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>  | Cocoa Nibs |
 |        1 cup | Campari    |
 
 Method:

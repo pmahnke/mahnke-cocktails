@@ -21,7 +21,7 @@ excerpt: |
 |   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Sweet Vermouth                                  | Cocchi Vermouth di Torino |
 |   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 |   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Fresh Lime Juice                                |
-| 4 dashes | Bitters                                         | Angostura Aromatic Bitters        |
+| <span class="onex active">4 dashes</span> <span class="onehalfx">8 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>  | Bitters                                         | Angostura Aromatic Bitters        |
 
 ### Notes
 

@@ -23,7 +23,7 @@ excerpt: |
 |     <span class="onex active">3 oz / 75 ml</span> <span class="onehalfx">4.5 oz / 113 ml</span> <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Orange Juice                                              |
 |  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Fresh Lemon Juice                                         |
 |  <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 2 swaths | Orange Peel                                               |
+| <span class="onex active">2 swath</span> <span class="onehalfx">4 swathes</span> <span class="twox">4 swathes</span> <span class="threex">6 swathes</span> s | Orange Peel                                               |
 
 ### Notes
 

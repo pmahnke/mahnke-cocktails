@@ -21,7 +21,7 @@ excerpt: |
 |        <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gold Rum                                                  | Don Q                              |
 |     <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |     <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Fresh Lime Juice                                          |
-| 2 barspoons | Absinthe                                                  | La Clandestine Absinthe Superieure |
+| <span class="onex active">2 barspoons</span> <span class="onehalfx">4 barspoons</span> <span class="twox">4 barspoons</span> <span class="threex">6 barspoons</span>  | Absinthe                                                  | La Clandestine Absinthe Superieure |
 |     6 drops | Almond Extract                                            |
 
 ### Notes

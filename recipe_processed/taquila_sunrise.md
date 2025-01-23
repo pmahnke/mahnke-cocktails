@@ -69,7 +69,7 @@ excerpt: |
 |    <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Creme de Cassis                                 | Jules Theuriet Creme de Cassis de Dijon |
 |   <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 |   <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Fresh Lime Juice                                |
-|    1 dash | Bitters                                         | Angostura Aromatic Bitters              |
+|    <span class="onex active">1 dash</span> <span class="onehalfx">2 dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>  | Bitters                                         | Angostura Aromatic Bitters              |
 | 4 to <span class="onex active">5 oz / 125 ml</span> <span class="onehalfx">7.5 oz / 188 ml</span> <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Soda Water                                      |
 
 ### Notes

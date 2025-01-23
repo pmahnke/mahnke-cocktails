@@ -22,8 +22,8 @@ excerpt: |
 |  <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Dry Curaçao     | Pierre Ferrand            |
 |  <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Sweet Vermouth  | Cocchi Vermouth di Torino |
 |  <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Pineapple Juice |
-|  1 dash | Bitters         | Peychaud’s                |
-|  1 dash | Bitters         | Boker's Bitters           |
+|  <span class="onex active">1 dash</span> <span class="onehalfx">2 dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>  | Bitters         | Peychaud’s                |
+|  <span class="onex active">1 dash</span> <span class="onehalfx">2 dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>  | Bitters         | Boker's Bitters           |
 
 ### Notes
 
