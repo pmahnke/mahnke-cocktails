@@ -30,7 +30,7 @@ excerpt: |
 |    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Pineapple Juice                                 |                            |
 | <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Fresh Lime Juice                                |                            |
 | <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |                            |
-|  1 dash | Bitters                                         | Angostura Aromatic Bitters |
+|  <span class="onex active">1 dash</span> <span class="onehalfx">2 dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>  | Bitters                                         | Angostura Aromatic Bitters |
 
 ### Notes
 
@@ -55,7 +55,7 @@ excerpt: |
 |    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cherry Liqueur    | Cherry Heering             |
 | <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Bénédictine       | Bénédictine DOM            |
 |    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice  |                            |
-|  1 dash | Bitters           | Angostura Aromatic Bitters |
+|  <span class="onex active">1 dash</span> <span class="onehalfx">2 dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>  | Bitters           | Angostura Aromatic Bitters |
 |    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Soda Water        | Topo Chico                 |
 
 ### Notes

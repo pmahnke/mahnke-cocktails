@@ -22,8 +22,8 @@ excerpt: |
 |     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Amaro             | Cynar                      |
 |     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Sweet Vermouth    | Cocchi Vermouth di Tornino |
 |  <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Fresh Lemon Juice |
-| 4 dashes | Orange Bitters    | Regan’s No. 6              |
-|  1 swath | Lemon Peel        |
+| <span class="onex active">4 dashes</span> <span class="onehalfx">8 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>  | Orange Bitters    | Regan’s No. 6              |
+|  <span class="onex active">1 swath</span> <span class="onehalfx">2 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>  | Lemon Peel        |
 
 ### Notes
 

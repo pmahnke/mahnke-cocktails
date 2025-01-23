@@ -20,7 +20,7 @@ excerpt: |
 |   .<span class="onex active">75 oz / 1875 ml</span> <span class="onehalfx">112.5 oz / 2813 ml</span> <span class="twox">150 oz / 3750 ml</span> <span class="threex">225 oz / 5625 ml</span> | London Dry gin    | Gin Mare                      |
 |   .<span class="onex active">75 oz / 1875 ml</span> <span class="onehalfx">112.5 oz / 2813 ml</span> <span class="twox">150 oz / 3750 ml</span> <span class="threex">225 oz / 5625 ml</span> | Manzanilla sherry | La Goya or Tio Pepe or Lustau |
 |   .<span class="onex active">75 oz / 1875 ml</span> <span class="onehalfx">112.5 oz / 2813 ml</span> <span class="twox">150 oz / 3750 ml</span> <span class="threex">225 oz / 5625 ml</span> | Lillet blanc      |
-| 2 dashes | Orange bitters    |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Orange bitters    |
 
 ### Notes
 

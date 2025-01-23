@@ -24,7 +24,7 @@ excerpt: |
 |     <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Light Rum                                       | Real McCoy 3 Year |
 |     <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Fresh Pineapple Juice                           |
 |    <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-| 1 barspoon | Maraschino Liqueur                              | Luxardo           |
+| <span class="onex active">1 barspoon</span> <span class="onehalfx">2 barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>  | Maraschino Liqueur                              | Luxardo           |
 
 ### Notes
 
@@ -48,7 +48,7 @@ excerpt: |
 |    <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 |    <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Fresh Lime Juice                                |
 |    <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Allspice Dram                                   | St. Elizabeth |
-| 1 barspoon | Maraschino Liqueur                              | Luxardo       |
+| <span class="onex active">1 barspoon</span> <span class="onehalfx">2 barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>  | Maraschino Liqueur                              | Luxardo       |
 
 ### Notes
 

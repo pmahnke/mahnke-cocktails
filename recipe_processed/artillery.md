@@ -19,7 +19,7 @@ excerpt: |
 | -------: | -------------- | ------------------------- |
 |   <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Gin            | Plymouth                  |
 |   <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Sweet Vermouth | Cocchi Vermouth di Torino |
-| 2 dashes | Orange Bitters | Regan's No. 6             |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Orange Bitters | Regan's No. 6             |
 
 ### Notes
 

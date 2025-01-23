@@ -22,7 +22,7 @@ excerpt: |
 |  <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 | <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Fresh Grapefruit Juice                                    |
 | <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Maraschino Liqueur                                        | Luxardo               |
-| 1 swath | Grapefruit Peel                                           |
+| <span class="onex active">1 swath</span> <span class="onehalfx">2 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>  | Grapefruit Peel                                           |
 
 ### Notes
 

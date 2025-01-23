@@ -24,8 +24,8 @@ excerpt: |
 |   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Rye                     | Rittenhouse 100 Proof     |
 |   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Sweet Vermouth          | Cocchi Vermouth di Torino |
 |   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Bénédictine             | Bénédictine DOM           |
-| 4 dashes | Herbsaint (or absinthe) |
-| 4 dashes | Bitters                 | Peychaud's Aromatic       |
+| <span class="onex active">4 dashes</span> <span class="onehalfx">8 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>  | Herbsaint (or absinthe) |
+| <span class="onex active">4 dashes</span> <span class="onehalfx">8 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>  | Bitters                 | Peychaud's Aromatic       |
 
 ### Notes
 
@@ -46,8 +46,8 @@ excerpt: |
 |   <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Rye            | Rittenhouse 100 Proof      |
 |  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Sweet Vermouth | Cocchi Vermouth di Torino  |
 |  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Bénédictine    | Bénédictine DOM            |
-| 4 dashes | Bitters        | Peychaud's                 |
-| 4 dashes | Bitters        | Angostura Aromatic Bitters |
+| <span class="onex active">4 dashes</span> <span class="onehalfx">8 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>  | Bitters        | Peychaud's                 |
+| <span class="onex active">4 dashes</span> <span class="onehalfx">8 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>  | Bitters        | Angostura Aromatic Bitters |
 |  1 rinse | Absinthe       |
 
 ### Notes
