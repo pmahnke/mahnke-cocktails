@@ -15,12 +15,12 @@ excerpt: |
 
 ### Ingredients
 
-|     Amount | Ingredient     | Brand                            |
-| ---------: | -------------- | -------------------------------- |
-|       <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Gin            | Martin Miller's                  |
-|     <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Dry Vermouth   | Dolin Vermouth de Chambéry Dry   |
-|     <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Sweet Vermouth | Dolin Vermouth de Chambéry Rouge |
-| <span class="onex active">1 teaspoon</span> <span class="onehalfx">1.5 teaspoons</span> <span class="twox">2 teaspoons</span> <span class="threex">3 teaspoons</span>  | Bénédictine    | Bénédictine DOM                  |
+|      Amount | Ingredient     | Brand                            |
+| ----------: | -------------- | -------------------------------- |
+|        <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Gin            | Martin Miller's                  |
+|      <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Dry Vermouth   | Dolin Vermouth de Chambéry Dry   |
+|      <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Sweet Vermouth | Dolin Vermouth de Chambéry Rouge |
+| <span class="onex active">2 barspoons</span> <span class="onehalfx">4 barspoons</span> <span class="twox">4 barspoons</span> <span class="threex">6 barspoons</span>  | Bénédictine    | Bénédictine DOM                  |
 
 ### Notes
 

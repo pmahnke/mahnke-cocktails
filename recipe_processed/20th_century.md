@@ -29,4 +29,4 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Cocktail Cherry optional
 - Special Prep:
-- OPTIONAL: 1 barspoon Tempus Fugit Crème de Cacao added to the glass and placed in the freezer to solidify
+- OPTIONAL: <span class="onex active">1 barspoon</span> <span class="onehalfx">2 barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>  Tempus Fugit Crème de Cacao added to the glass and placed in the freezer to solidify

@@ -1,9 +1,9 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Alexander"
-categories: [cocktail]
-eras: [prohibition]
+categories: [ cocktail, dairy ]
+eras: [ prohibition ]
 permalink: "/recipe/alexander.html"
 iconfile: alexander
 stars: 0
