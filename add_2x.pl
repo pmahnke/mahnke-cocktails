@@ -54,8 +54,14 @@ while (my $file = readdir DIR) {
 
             s/$oz oz/$ml/;
             print "Converted $oz to $ml\n";
+            
         } elsif (/(\d+) (dashes|dash|barspoons|barspoon|swathes|swath|teaspoon|tablespoon)/) {
+            
+            # convert non-ounce measures, logically as possible
+
             my $dash = $1 * 1;
+
+            # deal with making measures plural
             my $text = $2;
             my $plural = "";
             if ($text =~ /dash/) {
@@ -72,8 +78,9 @@ while (my $file = readdir DIR) {
                 $plural = $text;
             }
 
+            # build text
             my $dash_out = qq|<span class="onex active">$dash $text</span> |;
-            $dashx = $dash * 2; # using 2 for dashes and bar spoons
+            $dashx = $dash * 2; # using 2 for dashes and bar spoons for 1.5 recipes, as you can't do a 1/2 dash
             $dashx = $dash * 1.5 if ($text =~ /(teaspoon|tablespoon)/);
             $dash_out .= qq|<span class="onehalfx">$dashx $plural</span> |;
             $dashx = $dash * 2;
