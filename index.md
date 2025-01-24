@@ -15,9 +15,13 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
 <div class="row">
     <div class="two-thirds column"> 
         <h2>Cocktails</h2>
+        {% assign sorted = site.data.categories | sort: "name" %}
+        {% for cat in sorted %}
+        <h4><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></h4>
         <table style="width:100%;">
+        {% assign count = 0 %}
         {% for page in site.pages %}
-            {% if page.layout == "recipe" %}
+            {% if page.categories contains cat.slug and page.layout == "recipe" %}
             {% if page.type == nil or page.type == "multirecipe" %}
             <tr>
             <th class="no-border" style="width:35%;">
@@ -36,30 +40,14 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
                 {% include stars.html %}
             </td>
             </tr>
+            {% assign count = count | plus: 1 %}
+            {% if count > 4 %}{% break %}{% endif %} 
             {% endif %}
             {% endif %}
         {% endfor %}
         </table>
-        <h2>Non-Alcoholic Cocktails</h2>
-        <table style="width:100%;">
-        {% for page in site.pages %}
-            {% if page.layout == "recipe" and page.type == "non-alcoholic" %}
-            <tr>
-            <th class="no-border" style="width:35%;">
-                <a href="{{ page.url | prepend: site.baseurl }}">
-                {{ page.title }}
-                </a>
-            </th>
-            <td class="no-border" style="width:40%;">
-                {% include category_search.html %}
-            </td>
-            <td class="no-border stars">
-                {% include stars.html %}
-            </td>
-            </tr>
-            {% endif %}
+        <p><a href="category/{{ cat.slug }}_cocktails.html">More {{ cat.name }} cocktails ></a></p>
         {% endfor %}
-        </table>
     </div><!-- /div 2/3 -->
     <div class="one-third column">
         <h2>Syrups &amp; Mixers</h2>
