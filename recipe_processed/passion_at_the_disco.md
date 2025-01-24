@@ -1,7 +1,6 @@
 ---
 layout: recipe
 author: Anders Erickson
-type: non-alcoholic
 title: "Passion at the Disco"
 categories: [ mocktail ]
 eras: [ anders ]

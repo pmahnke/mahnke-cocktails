@@ -1,7 +1,6 @@
 ---
 layout: recipe
 author: Anders Erickson
-type: non-alcoholic
 categories: [ mocktail ]
 eras: [ prohibition ]
 title: "Pink Pearl"

@@ -1,7 +1,6 @@
 ---
 layout: recipe
 author: Anders Erickson
-type: non-alcoholic
 title: "Blueberries For Sal"
 categories: [ mocktail ]
 eras: [ anders ]

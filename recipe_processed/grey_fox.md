@@ -1,7 +1,6 @@
 ---
 layout: recipe
 author: Anders Erickson
-type: non-alcoholic
 title: "Grey Fox"
 categories: [ mocktail ]
 eras: [ anders ]

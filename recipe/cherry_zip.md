@@ -1,7 +1,6 @@
 ---
 layout: recipe
 author: Anders Erickson
-type: non-alcoholic
 title: "Cherry Zip"
 categories: [ mocktail ]
 eras: [ anders ]

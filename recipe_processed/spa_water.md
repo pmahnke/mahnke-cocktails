@@ -1,7 +1,6 @@
 ---
 layout: recipe
 author: Anders Erickson
-type: non-alcoholic
 categories: [ mocktail ]
 eras: [ anders ]
 title: "Spa Water"
