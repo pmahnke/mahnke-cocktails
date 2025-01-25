@@ -60,6 +60,15 @@ p.icons {
     clear:both;
     }
 
+h4 a:link, h4 a:visited, h4 a:active  {
+    text-decoration: none;
+    color: #222;
+}
+
+.more {
+    padding-bottom: 3em;
+}
+
 @media (max-width: 767px) {
 /* Styles for screens smaller than 768px (phones) */
     p.icons {

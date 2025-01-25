@@ -46,7 +46,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             {% endif %}
         {% endfor %}
         </table>
-        <p><a href="category/{{ cat.slug }}_cocktails.html">More {{ cat.name }} cocktails ></a></p>
+        <p class="more"><a href="category/{{ cat.slug }}_cocktails.html">More {{ cat.name }} cocktails ></a></p>
         {% endfor %}
     </div><!-- /div 2/3 -->
     <div class="one-third column">
