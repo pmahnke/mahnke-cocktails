@@ -2,7 +2,7 @@
 layout: recipe
 author: Shannon Mustipher Cocktail Recipes
 title: "Hibiscus Margarita"
-categories: [daisy]
+categories: [sour]
 eras: [modern]
 permalink: "/recipe/margarita_hibiscus.html"
 iconfile: margarita_hibiscus

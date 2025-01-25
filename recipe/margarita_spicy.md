@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Smoky Spicy Margarita"
-categories: [daisy]
+categories: [sour]
 eras: [modern]
 permalink: "/recipe/margarita_spicy.html"
 iconfile: margarita_spicy

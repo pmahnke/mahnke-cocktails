@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Grapefruit Ginger Margarita"
-categories: [daisy]
+categories: [sour]
 eras: [modern]
 permalink: "/recipe/margarita_ginger.html"
 iconfile: margarita_ginger

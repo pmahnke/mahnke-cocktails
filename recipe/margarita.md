@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Classic Margarita"
-categories: [daisy]
+categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/margarita.html"
 iconfile: margarita
