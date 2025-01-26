@@ -1,16 +1,22 @@
 ---
 layout: default
-permalink: /category/index.html
+permalink: /category/
 title: Cocktail Categories
 ---
 
-<h1>Cocktail Categories</h1>
+<div class="row">
+    <div class="nine columns" markdown="1">
 
-{% assign sorted = site.data.categories | sort: "name" %}
-{% for cat in sorted %}
+        <h3>Cocktail Categories</h3>
 
-<h4><a href="{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></h4>
-<p>{{ cat.description }}</p>
+        {% assign sorted = site.data.categories | sort: "name" %}
+        {% for cat in sorted %}
 
-{% endfor %}
+        <h4><a href="{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></h4>
+        <p>{{ cat.description }}</p>
+        <p><a href="{{ cat.slug }}_cocktails.html">See {{ cat.name }} cocktails ></a></p>
+
+        {% endfor %}
  
+    </div>
+</div>  

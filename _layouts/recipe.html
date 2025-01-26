@@ -1,30 +1,6 @@
 ---
 layout: default
 ---
-<div class="double_line"> </div>
-
-<div class="row">
-    <div class="one-half column">
-        {% if page.youtube %}
-        <div id="youtube-menu">
-            {% if page.youtube %}
-              {% if page.youtube contains "https" %}
-            <a href="{{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
-              {% else %}
-            <a href="https://www.youtube.com/watch?v={{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
-              {% endif %}
-            {% endif %}
-            {% if page.youtube_embed %}
-            <button id="youtube-button" onclick="toggleDiv()">Embedded</button>
-            {% endif %}
-        </div>
-        {% endif %}
-    </div><!-- /div 1/2 -->
-
-    <div class="one-half column" id="search">
-        {% include search.html %}
-    </div><!-- /div 1/2 -->
-</div><!-- /div row -->
 
 <div class="row">
     <div class="two-thirds column">

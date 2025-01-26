@@ -4,14 +4,6 @@ keywords:
 excerpt: "Classic, prohibition and modern cocktail recipes."
 ---
 
-<div class="double_line"> </div>
-
-<div class="row">
-    <div class="twelve columns" id="search">
-        {% include search.html %}
-    </div><!-- /div 12 col -->
-</div><!-- /div row -->
-
 <div class="row">
     <div class="two-thirds column"> 
         <h2>Cocktails</h2>
@@ -95,6 +87,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             <li><a href="https://euvs-vintage-cocktail-books.cld.bz/" target="_blank">EUVS Vintage Cocktail Book PDFs</a></li>
             <li><a href="./AndersEricksonCocktailsList.numbers" target="_blank">Cocktail Ingredients Breakdown</a></li>
         </ul>
+        <p><a href="{{ site.baseurl }}/about/">About this site</a></p>
     </div><!-- /div 1/3 -->
 
 </div><!-- /div row -->
