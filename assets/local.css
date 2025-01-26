@@ -60,7 +60,7 @@ p.icons {
     clear:both;
     }
 
-h4 a:link, h4 a:visited, h4 a:active  {
+    h1 a:link, h1 a:visited, h1 a:active, h4 a:link, h4 a:visited, h4 a:active  {
     text-decoration: none;
     color: #222;
 }
