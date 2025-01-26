@@ -4,10 +4,10 @@ author: Anders Erickson
 title: "NAME"
 categories:
   [
-    after_dinner,
-    beer,
-    buck,
-    campari,
+    after_dinner, 
+    beer, 
+    buck, 
+    campari, 
     champagne,
     cobbler,
     cocktail,
@@ -18,6 +18,7 @@ categories:
     fizz,
     flip,
     frappe_swizzle,
+    grog,
     highball,
     ice_cream,
     martini,
