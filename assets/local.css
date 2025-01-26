@@ -69,6 +69,12 @@ h4 a:link, h4 a:visited, h4 a:active  {
     padding-bottom: 3em;
 }
 
+.header img {
+    height: 8rem;
+    margin-bottom: -2rem;
+    padding-top: 1rem
+}
+
 @media (max-width: 767px) {
 /* Styles for screens smaller than 768px (phones) */
     p.icons {
