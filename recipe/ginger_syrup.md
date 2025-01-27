@@ -1,8 +1,11 @@
 ---
 layout: recipe
 title: "Ginger Syrup"
-type: syrup
+categories: [syrup]
 permalink: "/recipe/ginger_syrup.html"
+iconfile: ginger_syrup
+stars: 5
+base_spirits: "White Sugar, Fresh Ginger"
 youtube: "vGBMrJgjZB4"
 excerpt: |
   Take your cocktail to the next level with homemade ginger simple syrup. All it takes is ginger and sugar.

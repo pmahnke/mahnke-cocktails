@@ -1,9 +1,11 @@
 ---
 layout: recipe
 title: "Tea Simple Syrup"
-type: syrup
+categories: [syrup]
 permalink: "/recipe/tea_simple_syrup.html"
 iconfile: tea_simple_syrup
+stars: 5
+base_spirits: "Black Tea, White Sugar"
 youtube: "rQ59lgXm8Ho"
 excerpt: |
 ---

@@ -1,4 +1,7 @@
 images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
   tool:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater

@@ -1,8 +1,11 @@
 ---
 layout: recipe
 title: "Guava Syrup"
-type: syrup
+categories: [syrup]
 permalink: "/recipe/guava_syrup.html"
+iconfile: guava_syrup
+stars: 5
+base_spirits: "White Sugar, Guava Pulp"
 youtube: "-DnpmdGBmgs"
 excerpt: |
   Guava syrup is a sweet and tangy syrup made from the tropical guava fruit.

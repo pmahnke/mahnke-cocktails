@@ -1,9 +1,11 @@
 ---
 layout: recipe
 title: "Raspberry Syrup"
-type: syrup
+categories: [syrup]
 permalink: "/recipe/raspberrysyrup.html"
 iconfile: raspberry_syrup
+stars: 5
+base_spirits: "White Sugar, Raspberries"
 youtube: "vGBMrJgjZB4"
 excerpt: |
   Fresh raspberry syrup adds sweet, tart, fruity flavor to drinks of all kinds.

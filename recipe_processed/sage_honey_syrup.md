@@ -1,8 +1,11 @@
 ---
 layout: recipe
 title: "Sage Honey Syrup"
-type: syrup
-permalink: "/recipe/sagehoneysyrup.html"
+categories: [syrup]
+permalink: "/recipe/sage_honey_syrup.html"
+iconfile: sage_honey_syrup
+stars: 5
+base_spirits: "Honey, Sage"
 youtube: "EKyIy5iG87Q"
 excerpt: |
   Sage-infused honey syrup adds a unique twist to classic cocktails, creating a warm and comforting drink.

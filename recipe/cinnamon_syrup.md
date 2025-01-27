@@ -1,9 +1,11 @@
 ---
 layout: recipe
 title: "Cinnamon Syrup"
-type: syrup
-permalink: "/recipe/cinnamonsyrup.html"
+categories: [syrup]
+permalink: "/recipe/cinnamon_syrup.html"
 iconfile: cinnamon_syrup
+stars: 5
+base_spirits: "White Sugar, Cinnamon Sticks"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
   Add the taste of cinnamon to any drink with this simple cinnamon simple syrup recipe. It's easy and the long infusion creates a wonderful spiced flavor.
@@ -11,11 +13,11 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient      |
-| -------: | --------------- |
-| 1.5 Cups | White Sugar     |
-|    1 Cup | Hot Water       |
-|        4 | Cinnamon Sticks |
+|   Amount | Ingredient  |
+| -------: | ----------- |
+| 1.5 cups | White Sugar |
+|    1 cup | Hot Water   |
+| 4 sticks | Cinnamon    |
 
 ### Method
 

@@ -1,9 +1,14 @@
 ---
 layout: recipe
 title: "Rich Demerara Syrup"
-type: syrup
-permalink: "/recipe/demerarasyrup.html"
+categories: [syrup]
+permalink: "/recipe/demerara_syrup.html"
+iconfile: demerara_syrup
+stars: 5
+base_spirits: "Demerara Sugar"
 youtube: "MEQMeCrg0Zi8rePO"
+excerpt: |
+  Rich Demerara syrup is a versatile ingredient that can be used in a variety of cocktails and other drinks.
 ---
 
 ### Ingredients

@@ -1,9 +1,12 @@
 ---
 layout: recipe
 title: "Falernum"
-type: syrup
+categories: [syrup]
 iconfile: falernum_syrup
 permalink: "/recipe/falernum.html"
+iconfile: falernum
+stars: 0
+base_spirits: "Over Proof Rum, Almonds, Cloves, Ginger, Nutmeg, Vanilla Bean"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
   Falernum is a versatile and flavorful syrup with a rich history in Caribbean and tiki cocktails. It typically contains a blend of lime, ginger, almond, and cloves, creating a complex and balanced flavor profile.

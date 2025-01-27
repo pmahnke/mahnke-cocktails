@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Leandro DiMonriva Cocktail Recipes
+author: Leandro DiMonriva
 title: "Sage Hen"
 categories: [sour]
 eras: [modern]

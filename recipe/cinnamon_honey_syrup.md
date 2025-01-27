@@ -1,10 +1,12 @@
 ---
 layout: recipe
 title: "Cinnamon-Infused Honey Syrup"
-type: syrup
+categories: [syrup]
+permalink: "/recipe/cinnamon_honey_syrup.html"
 iconfile: cinnamon_honey_syrup
-permalink: "/recipe/cinnamonhoneysyrup.html"
-youtube: "79htbyQ8nDY&t=62s"
+stars: 5
+base_spirits: "Honey, Cinnamon Sticks"
+youtube: "79htbyQ8nDY"
 excerpt: |
   Like the simple cinnamon simple syrup recipe. This adds a touch of honey for a cinnamon spiced flavor.
 ---

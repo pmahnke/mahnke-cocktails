@@ -1,8 +1,11 @@
 ---
 layout: recipe
 title: "Orgeat Syrup"
-type: syrup
-permalink: "/recipe/orgeatsyrup.html"
+categories: [syrup]
+permalink: "/recipe/orgeat_syrup.html"
+iconfile: orgeat_syrup
+stars: 5
+base_spirits: "White Sugar, Almond Milk, Orange Blossom Water, Rose Water, Almond Extract"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
   Orgeat syrup is a sweet syrup made from almonds and sugar with a little rose water and/or orange flower water.

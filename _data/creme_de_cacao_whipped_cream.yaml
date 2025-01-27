@@ -1,0 +1,6 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-cream.svg
+      title: Cream
+    - url: /cocktails/assets/images/ingredient-creme_de_cacao.svg
+      title: Creme de cacao

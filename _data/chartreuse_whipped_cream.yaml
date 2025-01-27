@@ -1,0 +1,6 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-chartreuse.svg
+      title: Chartreuse
+    - url: /cocktails/assets/images/ingredient-cream.svg
+      title: Cream
