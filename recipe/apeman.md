@@ -1,8 +1,8 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "The Apeman (Aka Happy Holidape)"
-categories: [cocktail]
+categories: [sour]
 eras: [anders]
 permalink: "/recipe/apeman.html"
 iconfile: apeman

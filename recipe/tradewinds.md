@@ -20,7 +20,7 @@ excerpt: |
 |   1 oz | Dark Rum                                                    | Kōloa Kaua'i                  |
 |   1 oz | Gold Rum                                                    | Don Q                         |
 |   1 oz | Apricot Liqueur                                             | Giffard Abricot du Roussillon |
-|   1 oz | [Cream of Coconut]({%link recipe/creamofcoconut_syrup.md%}) |
+|   1 oz | [Cream of Coconut]({%link recipe/cream_of_coconut_syrup.md%}) |
 |   1 oz | Fresh Lemon Juice                                           |
 
 ### Notes
