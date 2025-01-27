@@ -30,4 +30,4 @@ excerpt: |
   - High Ball
   - On the Rocks
 - Garnish: Lemon wheel and cocktail cherry
-- Special Prep: 1 For variations, drop Sloe Gin to <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span>. (45 ml), & add 1/2 oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).
+- Special Prep: 1 For variations, drop Sloe Gin to <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span>. (45 ml), & add 0.5 oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).
