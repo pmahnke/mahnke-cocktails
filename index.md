@@ -9,7 +9,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         <h2>Cocktails</h2>
         {% assign sorted = site.data.categories | sort: "name" %}
         {% for cat in sorted %}
-        <h4><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></h4>
+        <h3><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></h3>
         <table style="width:100%;">
         {% assign count = 0 %}
         {% for page in site.pages %}
@@ -52,14 +52,14 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             {% endif %}
         {% endfor %}
         </ul>
-        <h3><a href="/cocktails/category/">Recipes by category</a></h3>
+        <h2><a href="/cocktails/category/">Recipes by category</a></h2>
         <ul>
         {% assign sorted = site.data.categories | sort: "name" %}
         {% for cat in sorted %}
             <li><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></li>
         {% endfor %}
         </ul>
-        <h3><a href="/cocktails/era/">Recipes by era</a></h3>
+        <h2><a href="/cocktails/era/">Recipes by era</a></h2>
         <ul>
         {% assign sorted = site.data.eras | sort: "name" %}
         {% for era in sorted %}
@@ -79,13 +79,17 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         <h3>Links</h3>
         <ul>
             <li><strong>Anders Erickson's links</strong></li>
-            <li><a href="https://www.youtube.com/@AndersErickson/videos" target="_blank">YouTube</a></li>
-            <li><a href="https://www.anderserickson.com/" target="_blank">Website</a></li>
-            <li><a href="https://www.patreon.com/anderserickson/posts" target="_blank">Patreon</a></li>
-            <li><a href="https://curiada.com/collections/anders-erickson-spirits-collection?utm_campaign=Anders-Website-Primary-Link&utm_medium=Anders&utm_source=Partnership" target="_blank">Curiada</a></li>
+            <ul>
+                <li><a href="https://www.youtube.com/@AndersErickson/videos" target="_blank">YouTube</a></li>
+                <li><a href="https://www.anderserickson.com/" target="_blank">Website</a></li>
+                <li><a href="https://www.patreon.com/anderserickson/posts" target="_blank">Patreon</a></li>
+                <li><a href="https://curiada.com/collections/anders-erickson-spirits-collection" target="_blank">Curiada</a></li>
+            </ul>
             <li><strong>Other links</strong></li>
-            <li><a href="https://euvs-vintage-cocktail-books.cld.bz/" target="_blank">EUVS Vintage Cocktail Book PDFs</a></li>
-            <li><a href="./AndersEricksonCocktailsList.numbers" target="_blank">Cocktail Ingredients Breakdown</a></li>
+            <ul>
+                <li><a href="https://euvs-vintage-cocktail-books.cld.bz/" target="_blank">EUVS Vintage Cocktail Book PDFs</a></li>
+                <li><a href="./AndersEricksonCocktailsList.numbers" target="_blank">Cocktail Ingredients Breakdown</a></li>
+            </ul>
         </ul>
         <p><a href="{{ site.baseurl }}/about/">About this site</a></p>
     </div><!-- /div 1/3 -->
