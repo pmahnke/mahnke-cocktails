@@ -2,9 +2,8 @@
 layout: recipe
 author: Leandro DiMonriva
 title: "Trader Vic's Grog"
-categories:
-  [ grog, tiki ]
-eras: [ modern ]
+categories: [grog, tiki]
+eras: [modern]
 permalink: "/recipe/trader_vics_grog.html"
 iconfile: trader_vics_grog
 stars: 0
@@ -16,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient         | Brand                       |
-| -------: | ------------------ | --------------------------- |
-|     2 oz | Jamaica Rum        | Coruba                      |
-|     1 oz | Fresh Lemon Juice  |
-|     1 oz | Pineapple Juice    |
-|     1 oz | Passionfruit Syrup |
-| 2 dashes | Bitters            | Angostura Aeromatic Bitters |
+|   Amount | Ingredient                                                              | Brand                       |
+| -------: | ----------------------------------------------------------------------- | --------------------------- |
+|     2 oz | Jamaica Rum                                                             | Coruba                      |
+|     1 oz | Fresh Lemon Juice                                                       |
+|     1 oz | Pineapple Juice                                                         |
+|     1 oz | [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%}) |
+| 2 dashes | Bitters                                                                 | Angostura Aeromatic Bitters |
 
 ### Notes
 
@@ -33,5 +32,3 @@ excerpt: |
   - Crushed Ice
 - Garnish: Mint Sprig and a cherry
 - Special Prep: None
-
-

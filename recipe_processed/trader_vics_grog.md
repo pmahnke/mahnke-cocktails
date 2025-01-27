@@ -2,9 +2,8 @@
 layout: recipe
 author: Leandro DiMonriva
 title: "Trader Vic's Grog"
-categories:
-  [ grog, tiki ]
-eras: [ modern ]
+categories: [grog, tiki]
+eras: [modern]
 permalink: "/recipe/trader_vics_grog.html"
 iconfile: trader_vics_grog
 stars: 0
@@ -16,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient         | Brand                       |
-| -------: | ------------------ | --------------------------- |
-|     <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Jamaica Rum        | Coruba                      |
-|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lemon Juice  |
-|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Pineapple Juice    |
-|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Passionfruit Syrup |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Bitters            | Angostura Aeromatic Bitters |
+|   Amount | Ingredient                                                              | Brand                       |
+| -------: | ----------------------------------------------------------------------- | --------------------------- |
+|     <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Jamaica Rum                                                             | Coruba                      |
+|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lemon Juice                                                       |
+|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Pineapple Juice                                                         |
+|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%}) |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Bitters                                                                 | Angostura Aeromatic Bitters |
 
 ### Notes
 
@@ -33,5 +32,3 @@ excerpt: |
   - Crushed Ice
 - Garnish: Mint Sprig and a cherry
 - Special Prep: None
-
-
