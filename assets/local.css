@@ -60,11 +60,6 @@ p.icons {
     clear:both;
     }
 
-    h1 a:link, h1 a:visited, h1 a:active, h4 a:link, h4 a:visited, h4 a:active  {
-    text-decoration: none;
-    color: #222;
-}
-
 .more {
     padding-bottom: 3em;
 }
@@ -75,11 +70,54 @@ p.icons {
     padding-top: 1rem
 }
 
+/* headings - large screens */
+h1 {
+    font-size: 40px;
+    font-weight: 550;
+}
+h2 {
+    font-size: 40px;
+    font-weight: 180;
+}
+h3 {
+    font-size: 24px;
+    font-weight: 550;
+}
+h4 {
+    font-size: 24px;
+    font-weight: 275;
+}
+
+h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a:link, h3 a:visited, h3 a:active, h4 a:link, h4 a:visited, h4 a:active  {
+    text-decoration: none;
+    color: #222;
+}
+
+
+
 @media (max-width: 767px) {
 /* Styles for screens smaller than 768px (phones) */
     p.icons {
         display: none;
     }
+    /* headings - small screens */
+    h1 {
+        font-size: 32px;
+        font-weight: 550;
+    }
+    h2 {
+        font-size: 32px;
+        font-weight: 180;
+    }
+    h3 {
+        font-size: 24px;
+        font-weight: 550;
+    }
+    h4 {
+        font-size: 24px;
+        font-weight: 275;
+    }
+
 }
 
 /* measurement scaling */
