@@ -42,17 +42,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         {% endfor %}
     </div><!-- /div 2/3 -->
     <div class="one-third column">
-        <h2>Syrups &amp; Mixers</h2>
-        <ul>
-        {% for page in site.pages %}
-            {% if page.type == "syrup" %}
-            <li><a href="{{ page.url | prepend: site.baseurl }}">
-                {{ page.title }}
-            </a></li>
-            {% endif %}
-        {% endfor %}
-        </ul>
-        <h2><a href="/cocktails/category/">Recipes by category</a></h2>
+        <h3><a href="/cocktails/category/">Recipes by category</a></h3>
         <ul>
         {% assign sorted = site.data.categories | sort: "name" %}
         {% for cat in sorted %}
@@ -64,6 +54,16 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         {% assign sorted = site.data.eras | sort: "name" %}
         {% for era in sorted %}
             <li><a href="era/{{ era.slug }}.html">{{ era.name }}</a></li>
+        {% endfor %}
+        </ul>
+        <h2>Syrups &amp; Mixers</h2>
+        <ul>
+        {% for page in site.pages %}
+            {% if page.type == "syrup" %}
+            <li><a href="{{ page.url | prepend: site.baseurl }}">
+                {{ page.title }}
+            </a></li>
+            {% endif %}
         {% endfor %}
         </ul>
         <h3>Bar Essentials Lists</h3>
@@ -91,7 +91,6 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
                 <li><a href="./AndersEricksonCocktailsList.numbers" target="_blank">Cocktail Ingredients Breakdown</a></li>
             </ul>
         </ul>
-        <p><a href="{{ site.baseurl }}/about/">About this site</a></p>
     </div><!-- /div 1/3 -->
 
 </div><!-- /div row -->
