@@ -8,8 +8,6 @@ images:
       title: Creme de cacao
     - url: /cocktails/assets/images/ingredient-irish-whiskey.svg
       title: Irish whiskey
-    - url: /cocktails/assets/images/ingredient-cacao.svg
-      title: White creme de cacao
   tool:
     - url: /cocktails/assets/images/tool_stirred.svg
       title: Stirred

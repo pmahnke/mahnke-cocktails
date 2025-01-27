@@ -337,7 +337,7 @@ foreach $file (sort @files) {
             $ingredient{'grenadine'} = 1 if (/grenadine/i);
             $ingredient{'gin'} = 1 if (/gin/i);
             $ingredient{'cocchi-americano'} = 1 if (/cocchi americano/i);
-            $ingredient{'white-creme-de-cacao'} = 1 if (/white crème de cacao/i);
+            #$ingredient{'white-creme-de-cacao'} = 1 if (/white crème de cacao/i);
             $ingredient{'ginger-beer'} = 1 if (/ginger beer/i);
             $ingredient{'absinthe'} = 1 if (/absinthe/i);
             $ingredient{'lemon-wedge'} = 1 if (/lemon wedge/i);
@@ -404,7 +404,7 @@ foreach $file (sort @files) {
             $ingredient{'cachaca'} = 1 if (/cacha/i);
             $ingredient{'amaro'} = 1 if (/amaro/i);
             $ingredient{'porter'} = 1 if (/porter/i);
-            $ingredient{'ipa'} = 1 if (/ipa/i);
+            # missing $ingredient{'ipa'} = 1 if (/ipa/i);
             $ingredient{'drambuie'} = 1 if (/drambuie/i);
             $ingredient{'spice-rum'} = 1 if (/spice rum/i);
             $ingredient{'port'} = 1 if (/port/i);
