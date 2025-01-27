@@ -1,0 +1,16 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /cocktails/assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican rum
+  tool:
+    - url: /cocktails/assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /cocktails/assets/images/glass_goblet.svg
+      title: Goblet
+    - url: /cocktails/assets/images/glass_julep-cup.svg
+      title: Julep cup
+    - url: /cocktails/assets/images/glass_old-fashioned.svg
+      title: Old fashioned

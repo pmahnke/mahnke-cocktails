@@ -24,7 +24,7 @@ excerpt: |
 | ------: | ----------------------------------------------- | ---------------------------------- |
 |    1 oz | Jamaica Rum                                     | Appleton Estate 12 year Rare Casks |
 |  0.5 oz | Apricot Liqueur                                 | Giffard Abricot du Roussillon      |
-| 10.5 oz | Sloe Gin                                        | Plymouth                           |
+|  0.5 oz | Sloe Gin                                        | Plymouth                           |
 | 0.75 oz | Fresh Lime Juice                                |
 |  0.25oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 
