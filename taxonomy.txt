@@ -30,3 +30,4 @@ categories	spritz	spritz
 categories	martini	martini
 categories	toddy	toddy
 categories	cocktail	cocktail
+categories	syrup	syrup

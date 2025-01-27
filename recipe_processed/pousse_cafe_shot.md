@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Pousse Café Shot"
 eras: [classic]
-categories: [shot]
+categories: [shot, pousse_cafe]
 permalink: "/recipe/pousse_cafe_shot.html"
 iconfile: pousse_cafe_shot
 stars: 0
