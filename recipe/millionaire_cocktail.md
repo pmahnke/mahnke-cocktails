@@ -20,13 +20,13 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient                                      | Brand                              |
-| -----: | ----------------------------------------------- | ---------------------------------- |
-|   1 oz | Jamaica Rum                                     | Appleton Estate 12 year Rare Casks |
-| 1/2 oz | Apricot Liqueur                                 | Giffard Abricot du Roussillon      |
-| 1/2 oz | Sloe Gin                                        | Plymouth                           |
-| 3/4 oz | Fresh Lime Juice                                |
-| 1/4 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
+|  Amount | Ingredient                                      | Brand                              |
+| ------: | ----------------------------------------------- | ---------------------------------- |
+|    1 oz | Jamaica Rum                                     | Appleton Estate 12 year Rare Casks |
+|  0.5 oz | Apricot Liqueur                                 | Giffard Abricot du Roussillon      |
+| 10.5 oz | Sloe Gin                                        | Plymouth                           |
+| 0.75 oz | Fresh Lime Juice                                |
+|  0.25oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 
 ### Notes
 

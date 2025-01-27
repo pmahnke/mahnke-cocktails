@@ -19,7 +19,7 @@ excerpt: |
 | ---------: | ------------------------------------------------- | --------------------------- |
 |       2 oz | Gin                                               | Hendricks or Martin Millers |
 |       1 oz | Fresh Lime Juice                                  |                             |
-|     3/4 oz | [Simple Syrup]({% link recipe/simple_syrup.md %}) |                             |
+|     0.75 oz | [Simple Syrup]({% link recipe/simple_syrup.md %}) |                             |
 | 2-3 slices | Cucumber                                          |                             |
 |   5 leaves | Mint                                              |                             |
 
