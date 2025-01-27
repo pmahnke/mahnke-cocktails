@@ -4,3 +4,6 @@ images:
       title: Cream
     - url: /cocktails/assets/images/ingredient-creme_de_cacao.svg
       title: Creme de cacao
+  garnish:
+    - url: /cocktails/assets/images/ingredient-sugar.svg
+      title: Sugar

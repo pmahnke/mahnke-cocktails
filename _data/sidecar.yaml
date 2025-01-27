@@ -8,3 +8,6 @@ images:
   glass:
     - url: /cocktails/assets/images/glass_coupe.svg
       title: Coupe
+  garnish:
+    - url: /cocktails/assets/images/ingredient-sugar.svg
+      title: Sugar

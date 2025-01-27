@@ -4,3 +4,6 @@ images:
       title: Chartreuse
     - url: /cocktails/assets/images/ingredient-cream.svg
       title: Cream
+  garnish:
+    - url: /cocktails/assets/images/ingredient-sugar.svg
+      title: Sugar

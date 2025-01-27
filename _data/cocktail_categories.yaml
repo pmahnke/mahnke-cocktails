@@ -38,6 +38,8 @@ images:
       title: Pineapple slice
     - url: /cocktails/assets/images/fruit_strawberry.svg
       title: Strawberry
+    - url: /cocktails/assets/images/ingredient-sugar.svg
+      title: Sugar
   ice:
     - url: /cocktails/assets/images/ice_cubes.svg
       title: Cubes

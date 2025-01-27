@@ -47,6 +47,7 @@ $INCLUDE{'lime-slice'} = qq|/cocktails/assets/images/slice_lime.svg|;
 $INCLUDE{'pineapple-slice'} = qq|/cocktails/assets/images/slice_pineapple.svg|;
 $INCLUDE{'anise'} = qq|/cocktails/assets/images/spice_anise.svg|;
 $INCLUDE{'cinnamon'} = qq|/cocktails/assets/images/spice_cinnamon.svg|;
+$INCLUDE{'sugar'} = qq|/cocktails/assets/images/ingredient-sugar.svg|;
 $INCLUDE{'boston-shaker'} = qq|/cocktails/assets/images/tool_boston-shaker.svg|;
 $INCLUDE{'grater'} = qq|/cocktails/assets/images/tool_grater.svg|;
 $INCLUDE{'hawthorn-strainer'} = qq|/cocktails/assets/images/tool_hawthorn-strainer.svg|;
@@ -274,6 +275,7 @@ foreach $file (sort @files) {
         $garnish{'orange-slice'} = 1 if (/orange wheel/i && !$garnish{'orange-slice'});
         $garnish{'coffee'} = 1 if (/coffee beans/i);
         $garnish{'lemon_cherry'} = 1 if (/Cocktail cherry and lemon zest/i);
+        $garnish{'sugar'} = 1 if (/sugar/i);
         $garnish{'cocktail-cherry'} = 1 if (/cocktail cherry/i && !$garnish{'lemon_cherry'} );
 
         $glass{'cobbler'} = 1 if (/flared/i);
@@ -356,6 +358,7 @@ foreach $file (sort @files) {
             $ingredient{'chartruese'} = 1 if (/chartruese/i);
             $ingredient{'orange-curacao'} = 1 if (/orange curacao/i);
             $ingredient{'egg-white'} = 1 if (/egg white/i);
+            
             
             $ingredient{'sparkling-water'} = 1 if (/sparkling water/i);
             #$ingredient{'sparkling-water'} = 1 if (/soda water/i && !$ingredient{'sparkling-water'});

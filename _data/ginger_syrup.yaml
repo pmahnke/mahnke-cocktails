@@ -2,3 +2,6 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-gin.svg
       title: Gin
+  garnish:
+    - url: /cocktails/assets/images/ingredient-sugar.svg
+      title: Sugar

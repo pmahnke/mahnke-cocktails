@@ -85,3 +85,6 @@
 - name: Smoked
   slug: smoked
   description: A smoked cocktail is a beverage that incorporates smoke to infuse a smoky flavor and aroma into the drink. This technique elevates the cocktail experience by adding depth and complexity, transforming a simple drink into a memorable one.
+- name: Syrups & Mixers
+  slug: syrup
+  description: Cocktail syrups and mixers are essential ingredients for creating delicious cocktails at home. They add flavor, sweetness, and complexity to drinks, making them more enjoyable.

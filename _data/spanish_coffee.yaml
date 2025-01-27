@@ -8,3 +8,6 @@ images:
   glass:
     - url: /cocktails/assets/images/spice_coffee.svg
       title: Coffee
+  garnish:
+    - url: /cocktails/assets/images/ingredient-sugar.svg
+      title: Sugar

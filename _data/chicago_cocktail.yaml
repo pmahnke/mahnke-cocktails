@@ -17,3 +17,5 @@ images:
   garnish:
     - url: /cocktails/assets/images/twist_lemon.svg
       title: Lemon twist
+    - url: /cocktails/assets/images/ingredient-sugar.svg
+      title: Sugar

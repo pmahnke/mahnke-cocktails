@@ -10,6 +10,9 @@ images:
       title: Collins
     - url: /cocktails/assets/images/glass_highball.svg
       title: Highball
+  garnish:
+    - url: /cocktails/assets/images/ingredient-sugar.svg
+      title: Sugar
   ice:
     - url: /cocktails/assets/images/ice_cubes.svg
       title: Cubes

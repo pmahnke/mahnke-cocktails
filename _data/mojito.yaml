@@ -10,3 +10,5 @@ images:
   garnish:
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint
+    - url: /cocktails/assets/images/ingredient-sugar.svg
+      title: Sugar

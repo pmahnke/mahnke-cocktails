@@ -10,3 +10,6 @@ images:
   glass:
     - url: /cocktails/assets/images/glass_rocks.svg
       title: Rocks
+  garnish:
+    - url: /cocktails/assets/images/ingredient-sugar.svg
+      title: Sugar

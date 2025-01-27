@@ -10,6 +10,8 @@ images:
   garnish:
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint
+    - url: /cocktails/assets/images/ingredient-sugar.svg
+      title: Sugar
   ice:
     - url: /cocktails/assets/images/ice_cubes.svg
       title: Cubes
