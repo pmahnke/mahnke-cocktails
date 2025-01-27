@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-creme_de_cacao.svg
       title: Creme de cacao
+    - url: /cocktails/assets/images/ingredient-orange.svg
+      title: Galliano
     - url: /cocktails/assets/images/ingredient-cacao.svg
       title: White creme de cacao
   tool:

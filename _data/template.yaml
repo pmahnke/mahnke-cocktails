@@ -1,0 +1,30 @@
+images:
+  tool:
+    - url: /cocktails/assets/images/tool_double_strain.svg
+      title: Double strained
+    - url: /cocktails/assets/images/tool_long-stirrer.svg
+      title: Long stirrer
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /cocktails/assets/images/spice_coffee.svg
+      title: Coffee
+    - url: /cocktails/assets/images/glass_collins.svg
+      title: Collins
+    - url: /cocktails/assets/images/glass_coupe.svg
+      title: Coupe
+    - url: /cocktails/assets/images/glass_flute.svg
+      title: Flute
+    - url: /cocktails/assets/images/glass_highball.svg
+      title: Highball
+    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+    - url: /cocktails/assets/images/glass_rocks.svg
+      title: Rocks
+    - url: /cocktails/assets/images/glass_tiki.svg
+      title: Tiki
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes
+    - url: /cocktails/assets/images/ice_large.svg
+      title: Large

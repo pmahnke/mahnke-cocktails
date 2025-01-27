@@ -12,6 +12,8 @@ images:
   garnish:
     - url: /cocktails/assets/images/spice_anise.svg
       title: Anise
+    - url: /cocktails/assets/images/fruit_lemon.svg
+      title: Lemon slice
     - url: /cocktails/assets/images/herb_mint.svg
       title: Mint
   ice:
