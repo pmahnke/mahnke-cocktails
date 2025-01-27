@@ -1,0 +1,9 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican rum
+  garnish:
+    - url: /cocktails/assets/images/spice_cinnamon.svg
+      title: Cinnamon
+    - url: /cocktails/assets/images/twist_lemon.svg
+      title: Lemon twist

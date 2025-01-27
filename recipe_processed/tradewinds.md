@@ -20,7 +20,7 @@ excerpt: |
 |   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Dark Rum                                                    | Kōloa Kaua'i                  |
 |   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gold Rum                                                    | Don Q                         |
 |   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Apricot Liqueur                                             | Giffard Abricot du Roussillon |
-|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | [Cream of Coconut]({%link recipe_processed/creamofcoconut_syrup.md%}) |
+|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | [Cream of Coconut]({%link recipe_processed/cream_of_coconut_syrup.md%}) |
 |   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lemon Juice                                           |
 
 ### Notes

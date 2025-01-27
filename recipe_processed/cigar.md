@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "The Cigar"
-categories: [cocktail]
+categories: [cocktail, smoked]
 eras: [prohibition]
 permalink: "/recipe/cigar.html"
 iconfile: cigar
