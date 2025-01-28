@@ -1,9 +1,9 @@
 ---
 layout: recipe
-author: Anders Erickson Cocktail Recipes
+author: Anders Erickson
 title: "Black-Eyed Susan"
-categories: [highball]
-eras: [modern]
+categories: [ highball ]
+eras: [ modern ]
 permalink: "/recipe/black_eyed_susan.html"
 iconfile: black_eyed_susan
 stars: 0

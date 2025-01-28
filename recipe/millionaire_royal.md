@@ -22,7 +22,7 @@ excerpt: |
 |  0.5 oz | Triple Sec                                      | Grand Marnier                  |
 |  1.5 oz | Bourbon                                         | Evan Williams 1783 Small Batch |
 | 0.75 oz | Fresh Lemon Juice                               |
-|   1 tsp | Absinthe                                        | St. George Verte               |
+|   1 barsoppn | Absinthe                                        | St. George Verte               |
 
 ### Notes
 

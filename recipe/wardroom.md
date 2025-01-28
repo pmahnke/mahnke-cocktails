@@ -21,7 +21,7 @@ excerpt: |
 |   1 oz | Rum                | Flor de Caña 7 Year        |
 |   1 oz | Tawny Port         | Graham’s 20 Year           |
 | 1 dash | Bitters            | Angostura Aromatic Bitters |
-|  1 tsp | Maraschino Liqueur | Luxardo                    |
+|  1 barsoppn | Maraschino Liqueur | Luxardo                    |
 
 ### Notes
 

@@ -20,7 +20,7 @@ excerpt: |
 |          <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Rye                                                       | Rittenhouse 100 proof |
 |       <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |                       |
 |      <span class="onex active">3 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>  | Cardamom Bitters                                          | Fee Brothers          |
-|         1 tsp | Maraschino Liqueur                                        | Luxardo               |
+|         1 barsoppn | Maraschino Liqueur                                        | Luxardo               |
 | 1 to <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Absinthe                                                  | St. George            |
 
 ### Notes

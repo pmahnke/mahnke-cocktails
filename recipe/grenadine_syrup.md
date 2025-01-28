@@ -17,7 +17,7 @@ excerpt: |
 | ------: | ---------------------- |
 |  3 cups | White Sugar            |
 |  2 cups | 100% Pomegranate Juice |
-|   1 tsp | Pomegranate Molasses   |
+|   1 barsoppn | Pomegranate Molasses   |
 | 0.5 tsp | Rose Water             |
 
 ### Method

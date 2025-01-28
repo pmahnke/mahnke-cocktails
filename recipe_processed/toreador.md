@@ -21,7 +21,7 @@ excerpt: |
 | <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Apricot Liquer     | Giffard Abricot du Roussillon |
 |  <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Fresh Lemon Juice  |
 | <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Amontillado Sherry | Lustau Los Arcos              |
-|   1 tsp | Light Agave Nectar |
+|   1 barsoppn | Light Agave Nectar |
 
 ### Notes
 
