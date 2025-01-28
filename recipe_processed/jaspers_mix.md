@@ -8,19 +8,19 @@ stars: 5
 base_spirits: "Angostura Aromatic Bitters, White Sugar"
 youtube: "sRTGCquUgMs"
 excerpt: |
-  Jasper's Mix is a rum-based cocktail mix that is popular in Jamaica. It is a simple syrup made with lime juice, sugar, Angostura bitters, and nutmeg. It is typically used to make rum punches, but it can also be used to make other cocktails.<br /><br />
+  Jasper's Mix is a rum-based cocktail mix that is popular in Jamaica. It is a simple syrup made with lime juice, sugar, Angostura bitters, and nutmeg. It is typically used to make rum punches, but it can also be used to make other cocktails.<br><br>
 
   The exact origins of Jasper's Mix are unknown, but it is believed to have been created by a bartender named Jasper Le Franc in the 1950s. Le Franc worked at the Bay Roc Hotel in Jamaica, and he is said to have created the mix to serve to guests at the hotel's bar.
 ---
 
 ### Ingredients
 
-|         Amount | Ingredient                 |
-| -------------: | -------------------------- |
-|          <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Fresh Lime Juice           |
-|       <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> cup </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> cup </span>| White Sugar                |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> barspoons</span>| Angostura Aromatic Bitters |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> tablespoons</span> <span class="twox">1 tablespoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span>| Freshly Grated Nutmeg      |
+|                                                                                                                                                                                                                                                                                           Amount | Ingredient                 |
+| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------- |
+|                                                                                                                 <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span> | Fresh Lime Juice           |
+|                  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> cup </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> cup </span> | White Sugar                |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> barspoons</span> | Angostura Aromatic Bitters |
+|                       <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> tablespoons</span> <span class="twox">1 tablespoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> | Freshly Grated Nutmeg      |
 
 ### Method
 
@@ -29,7 +29,6 @@ excerpt: |
 3. Rest in fridge for two hours, agitating occasionally.
 4. Store in fridge for up to 3-4 weeks.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -44,5 +43,3 @@ excerpt: |
   "recipeYield": "1 cocktail"
 }
 </script>
-
-    

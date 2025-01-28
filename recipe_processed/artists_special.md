@@ -2,27 +2,27 @@
 layout: recipe
 author: Anders Erickson
 title: "Artist's Special"
-categories: [ sour ]
-eras: [ Classic ]
+categories: [sour]
+eras: [Classic]
 permalink: "/recipe/artists_special.html"
 iconfile: artists_special
 stars: 3,5
 base_spirits: "Bourbon, Amontillado Sherry "
 youtube: "-Uhu81wqOl8"
 excerpt: |
-  A voraciously pink Parisian special from the 1920s, this cocktail first appears in print in Harry MacElhone's 1927 <em>Barflies and Cocktails</em>.<br/><br/>
+  A voraciously pink Parisian special from the 1920s, this cocktail first appears in print in Harry MacElhone's 1927 <em>Barflies and Cocktails</em>.<br><br>
 
   Exactly the same recipe appears three years later in Harry Craddock's 1930 <em>The Savoy Cocktail Book</em>.
 ---
 
 ### Ingredients
 
-|  Amount | Ingredient                                            | Brand                               |
-| ------: | ----------------------------------------------------- | ----------------------------------- |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Bourbon                                               | Old Grandad Bonded                  |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Amontillado Sherry                                    | Lustau Amontillado Los Arcos Sherry |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice                                     |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Groseille Syrup]({%link recipe_processed/groseille_syrup.md%}) |
+|                                                                                                                                                                                                                                                                                                  Amount | Ingredient                                                      | Brand                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------- | ----------------------------------- |
+|                                                                                                <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Bourbon                                                         | Old Grandad Bonded                  |
+|                                                                                                <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Amontillado Sherry                                              | Lustau Amontillado Los Arcos Sherry |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Fresh Lemon Juice                                               |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | [Groseille Syrup]({%link recipe_processed/groseille_syrup.md%}) |
 
 ### Notes
 
@@ -32,7 +32,6 @@ excerpt: |
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -54,5 +53,3 @@ excerpt: |
   "recipeYield": "1 cocktail"
 }
 </script>
-
-    

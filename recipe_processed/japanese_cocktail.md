@@ -10,7 +10,7 @@ stars: 0
 base_spirits: "Cognac "
 youtube: "83TEnWyeqV0"
 excerpt: |
-  These seven inventive cocktails show off the versatility of the Japanese fermented rice beverage.<br /><br />
+  These seven inventive cocktails show off the versatility of the Japanese fermented rice beverage.<br><br>
 
   The Japanese Cocktail is a classic cocktail created by Jerry Thomas in the 1800s. Despite its name, it has no connection to Japanese culture or ingredients.
 ---
@@ -21,11 +21,11 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                                      | Brand               |
-| -------: | ----------------------------------------------- | ------------------- |
-|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Cognac                                          | Pierre Ferrand 1840 |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Boker's Style (Cardamom) Bitters                |
+|                                                                                                                                                                                                                                                                 Amount | Ingredient                                                | Brand               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------- | ------------------- |
+|                                                                                             <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Cognac                                                    | Pierre Ferrand 1840 |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+|                                                                                                               <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span> | Boker's Style (Cardamom) Bitters                          |
 
 ### Notes
 
@@ -42,12 +42,12 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                                      | Brand               |
-| -------: | ----------------------------------------------- | ------------------- |
-|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Cognac                                          | Pierre Ferrand 1840 |
-|  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-|  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice                               |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Peychaud's bitters                              | Peychaud's bitters  |
+|                                                                                                                                                                                                                                                                                                  Amount | Ingredient                                                | Brand               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------- | ------------------- |
+|                               <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> | Cognac                                                    | Pierre Ferrand 1840 |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Fresh Lemon Juice                                         |
+|                                                                                                                                                <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span> | Peychaud's bitters                                        | Peychaud's bitters  |
 
 ### Notes
 
@@ -59,7 +59,6 @@ excerpt: |
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -106,5 +105,3 @@ excerpt: |
   "recipeYield": "1 cocktail"
 }
 </script>
-
-    

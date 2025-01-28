@@ -10,10 +10,10 @@ stars: 0
 base_spirits: "Gin"
 youtube: "vOM5wbvegzo"
 excerpt: |
-  The Gin Rickey is one of the few classic cocktails that doesn’t have an origin muddled by history or shrouded in rumors and innuendo. The invention of this refreshing highball is refreshingly clear: It was named after Joe Rickey, a Democratic lobbyist living in Washington, D.C., during the late 19th century.<br /><br />
+  The Gin Rickey is one of the few classic cocktails that doesn’t have an origin muddled by history or shrouded in rumors and innuendo. The invention of this refreshing highball is refreshingly clear: It was named after Joe Rickey, a Democratic lobbyist living in Washington, D.C., during the late 19th century.<br><br>
 
 
-  Favoring zero-sugar drinks, Rickey liked to combine bourbon and carbonated water. One day, he instructed a bartender at Shoomaker’s bar to add some lime to his preferred highball, and the Bourbon Rickey was born. The tart, dry drink is surprisingly balanced considering its lack of sugar and is invigorating on a warm day.<br /><br />
+  Favoring zero-sugar drinks, Rickey liked to combine bourbon and carbonated water. One day, he instructed a bartender at Shoomaker’s bar to add some lime to his preferred highball, and the Bourbon Rickey was born. The tart, dry drink is surprisingly balanced considering its lack of sugar and is invigorating on a warm day.<br><br>
 
 
   The Rickey took off, and soon, people were customizing the drink to their liking, with the Gin Rickey eventually becoming the most popular of them all. This simple twist subs gin for bourbon, taking advantage of the botanical spirit’s natural ability to pair with fresh lime (consider the Gimlet) and sparkling water (think of the Tom Collins). Sugar is present in both the aforementioned cocktails, but the Rickey stands on its own, relying on the gin and lime for flavor and the water for dilution and balance.
@@ -21,11 +21,11 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient      | Brand          |
-| -----: | --------------- | -------------- |
-| <span class="onex active">1 half </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> half </span> <span class="twox">2 half </span> <span class="threex">3 half </span>| Lime            |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Gin             | Martin Millers |
-|   <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Sparkling Water | Topo Chico     |
+|                                                                                                                                                                                                                                                                    Amount | Ingredient      | Brand          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------- | -------------- |
+|                                                                                      <span class="onex active">1 half </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> half </span> <span class="twox">2 half </span> <span class="threex">3 half </span> | Lime            |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> | Gin             | Martin Millers |
+|                                                               <span class="onex active">3 oz / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Sparkling Water | Topo Chico     |
 
 #### Notes
 
@@ -43,7 +43,6 @@ excerpt: |
   - Top with the sparkling water
   - Feel free to swap out the base spirit
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -73,5 +72,3 @@ excerpt: |
   "recipeYield": "1 cocktail"
 }
 </script>
-
-    

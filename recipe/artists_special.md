@@ -2,15 +2,15 @@
 layout: recipe
 author: Anders Erickson
 title: "Artist's Special"
-categories: [ sour ]
-eras: [ Classic ]
+categories: [sour]
+eras: [Classic]
 permalink: "/recipe/artists_special.html"
 iconfile: artists_special
 stars: 3,5
 base_spirits: "Bourbon, Amontillado Sherry "
 youtube: "-Uhu81wqOl8"
 excerpt: |
-  A voraciously pink Parisian special from the 1920s, this cocktail first appears in print in Harry MacElhone's 1927 <em>Barflies and Cocktails</em>.<br/><br/>
+  A voraciously pink Parisian special from the 1920s, this cocktail first appears in print in Harry MacElhone's 1927 <em>Barflies and Cocktails</em>.<br><br>
 
   Exactly the same recipe appears three years later in Harry Craddock's 1930 <em>The Savoy Cocktail Book</em>.
 ---
