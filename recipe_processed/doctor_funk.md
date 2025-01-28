@@ -52,31 +52,31 @@ excerpt: |
   " 1 oz Sparkling Water"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Crushed Ice
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Open Pour
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Low Ball
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Pineapple fronds
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Pour cocktail into the glass, and top with sparkling water
 '
   }",

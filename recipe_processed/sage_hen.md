@@ -46,23 +46,23 @@ excerpt: |
   "0.25 whole Red Delicious Apple"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Nick & Nora
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Sage leaf
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Dice the apple piece into 1/2 inch pieces, and drop them into the shaker tin. Muddle the apple piece in the shaker tin.
 '
   }",

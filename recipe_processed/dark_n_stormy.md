@@ -40,23 +40,23 @@ excerpt: |
   "4 to 5 oz Ginger Beer"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Built in the glass
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Add all ingredients directly to the glass
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: High Ball, On the Rocks
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Lime wedge
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Pour the ginger beer into the glass, then the rum.
 '
   }",

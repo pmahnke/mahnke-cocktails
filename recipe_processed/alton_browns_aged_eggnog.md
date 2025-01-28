@@ -61,35 +61,35 @@ excerpt: |
   "0.125 barspoon salt "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Build in a mixing bowl
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Add finished eggnog directly to mason jars
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Low Ball
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Grated nutmeg
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Beat yolks with sugar and nutmeg in large mixing bowl until mixture lightens in color.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Combine dairy, booze, and salt in separate vessel and slowly beat into egg mixture.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Move to glass jars and store sealed in the fridge.
 '
   }",

@@ -46,23 +46,23 @@ youtube: "xnXFbjQSu-k"
   "0.25 oz Semi-Rich Simple Syrup"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Nick & Nora
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: 3 drops Angostura Bitters & pineapple fronds
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: None
 '
   }",

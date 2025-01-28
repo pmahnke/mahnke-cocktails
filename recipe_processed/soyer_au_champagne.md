@@ -46,23 +46,23 @@ excerpt: |
   "1 to 1.5 oz Brut Champagne "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Stirred
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Julep Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Coupe
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: None
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass. Freeze for 15 to 20 minutes. Pour cocktail around the ice cream. Top with 1 to 1.5 ounces of champagne. Serve with a small spoon.
 '
   }",

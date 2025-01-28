@@ -48,31 +48,31 @@ excerpt: |
   " 0.5 oz Semi-Rich Simple Syrup"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Low Ball
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Large Ice Cube
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Grape
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Muddle the grapes in the cheater tin. Put the other ingredients in the large tin, add ice, and shake.
 '
   }",

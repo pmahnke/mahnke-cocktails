@@ -50,31 +50,31 @@ excerpt: |
   "0.75 oz Fresh Lemon Juice"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - High Ball
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Crushed Ice
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Basil
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: None
 '
   }",

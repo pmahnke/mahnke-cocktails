@@ -55,43 +55,43 @@ Orange slice for individual garnish
   "1 to 2 oz Sprite, ginger ale, or soda water"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Build in Tub
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Add all ingredients directly into the tub
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Parfait Cup
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Orange slice for individual garnish
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Combine orange juice, lemonade, brandy, tea syrup, and 5 cups (1200 ml) of water in a sealable container.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Stir to combine.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Freeze for 12-24 hours.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Once frozen, scoop desired amount into a glass and top with soda.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Garnish with a slice of orange.
 '
   }",

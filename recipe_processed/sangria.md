@@ -56,31 +56,31 @@ excerpt: |
   " 0.5 oz Soda Water (Optional) "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Build in the Pitcher
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Add all ingredients directly to the pitcher
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - High Ball
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - On the Rocks
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Soaked fruit
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Top glasses with soda water
 '
   }",

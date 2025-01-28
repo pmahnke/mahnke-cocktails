@@ -46,23 +46,23 @@ excerpt: |
   "0.25 cup Crushed Ice "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Blended
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Add all ingredients directly to the shaking tin
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Large Glass
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Grated Chocolate and Mint Sprig
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Blend cocktail with a stick blender in the shaking tin. Pour cocktail into glass. Top with [Chartreuse Whipped Cream]({%link recipe_processed/chartreuse_whipped_cream.md%}).
 '
   }",

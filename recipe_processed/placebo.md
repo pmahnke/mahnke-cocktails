@@ -48,23 +48,23 @@ excerpt: |
   "1 cup Crushed Ice "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Build in the Shaker Tin
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Open Pour
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Tiki, Crushed Ice
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Grated nutmeg, pineapple fronds, & tiki umbrella
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Add all ingredients to the larger shaker tin and blend with an emersion blender.
 '
   }",

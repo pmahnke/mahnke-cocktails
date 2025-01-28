@@ -54,23 +54,23 @@ excerpt: |
   " 4 pods Cardamom"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Build in the Pot
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Add all ingredients directly to the pot
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Tea cups
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Dried Apples
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Add spices to a spice bag.Add apple cider and the spice bag to a pot and heat.Add remaining ingredients to the pot.Simmer covered for 20 to 25 minutes.Turn off the heat, remove spice bag and add the apple brandy. Serve in tea cups garnished with the dries apple slices.
 '
   }",

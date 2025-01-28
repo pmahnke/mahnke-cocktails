@@ -54,31 +54,31 @@ excerpt: |
   "1 oz Red Bitter Soda"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - High Ball
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - On the Rocks
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: One whole strawberry and a cucumber wheel.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Muddle the whole strawberries, cucumber slices and orange and grapefruit swaths in the cheater tin till they are broken up. Add the remaining ingredients, and shake. Double strain into glass, top the drink with the red soda and garnish with a strawberry and a cucumber wheel.
 '
   }",

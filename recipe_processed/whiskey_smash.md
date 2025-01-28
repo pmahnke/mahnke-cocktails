@@ -44,23 +44,23 @@ excerpt: |
   "4 to 8 leaves Mint"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Low Ball, Large Ice cube
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Lemon wheel & mint sprig
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
 '
   }",

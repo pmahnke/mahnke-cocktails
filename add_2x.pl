@@ -41,7 +41,7 @@ while (my $file = readdir DIR) {
         }
 
         $FLAGnotes = 0 if (/<\/div>/ && $FLAGnotes); # deal with multirecipe, only render the first
-        $s_instructions .= qq |  {\n    "@type": "HowToStep",\n    "text": "$_"\n  },| if ($FLAGnotes && length($_) > 1);
+        $s_instructions .= qq |  {\n    "\@type": "HowToStep",\n    "text": "$_"\n  },| if ($FLAGnotes && length($_) > 1);
         $FLAGnotes = 1 if (/\#\#\# Notes/ && !$s_instructions); 
 
 

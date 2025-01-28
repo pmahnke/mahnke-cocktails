@@ -50,23 +50,23 @@ excerpt: |
   "0.25 oz Over Proof Rum "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Open Pour
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Tiki, Crushed Ice
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Mint Sprig, Inverted Lime Husk, Cocktail Cherry
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Add the mint sprig to the glass. Float the dark rum on the drink. Add the inverted lime shell and place the cocktail cherry inside. fill the lime shell with 151 rum and light.
 '
   }",

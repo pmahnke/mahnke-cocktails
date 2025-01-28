@@ -65,83 +65,83 @@ excerpt: |
   "0.5 oz Wash - See below "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Build in the Glass
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Add all ingredients directly to the glass
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Low Ball
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Crushed Ice
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Orange slice and a cocktail cherry
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Add the 2 wedges of orange and the cocktail cherry to the glass and muddle. Add the remaining ingredients. Top with the wash of choice.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '### Washes
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Sweet:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - 7 Up
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Sprite
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Sour:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Squirt
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Fresca
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Soda:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Soda Water
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Press:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Half Soda Water/Half Sweet
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- No Wash:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - No Floater
 '
   }",

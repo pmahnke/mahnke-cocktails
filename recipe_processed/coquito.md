@@ -64,59 +64,59 @@ excerpt: |
   "4 oz Gold Rum"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Blender
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: From a Pitcher
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Cocktail Glass
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Grated nutmeg
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Chill over night.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '### Spice Tea
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '|   Amount | Ingredient |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '| -------: | ---------- |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '| 4 sticks | Cinnamon   |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '| 25 whole | Cloves     |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '|  1 whole | Star Anise |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '|    1 cup | Water      |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '### Method:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '1. Boil water with spices until volume is reduced by half. Chill in fridge or freezer.
 '
   }",

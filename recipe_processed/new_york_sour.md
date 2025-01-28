@@ -46,23 +46,23 @@ excerpt: |
   "0.75 oz Red Wine"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Coupe
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: None
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Add all the ingredients to a shaking tin, except the red wine. For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white. Float the red wine on top of the cocktail. Lemon oil (optional).
 '
   }",

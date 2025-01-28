@@ -73,43 +73,43 @@ excerpt: |
   " 2 oz Water"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Coupe
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Pineapple slice
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '  - Reverse dry shake:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '    - Shake cocktail with ice first.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '    - Strain cocktail into the cheater tin.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '    - Remove ice
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '    - Dry shake cocktail
 '
   }",

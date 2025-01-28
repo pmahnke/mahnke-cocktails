@@ -44,23 +44,23 @@ excerpt: |
   "30 grams Vanilla Ice Cream"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Open Pour
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Champagne Flute
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Expressed orange or lemon oil
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Add the gin, orange liqueur and ice cream to a shaking tin and shake till the ice cream has melted and the cocktail is chilled. Add champagne to the flute, then add the cocktail.
 '
   }",

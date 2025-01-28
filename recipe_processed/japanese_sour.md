@@ -50,43 +50,43 @@ excerpt: |
   "4 oz Soda Water "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glass: Collins
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Lemon wedge
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: None
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '### Tips and Variations:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Shochu: Traditionally, shochu is used, but vodka works well as a substitute.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Honey Lemon Sour: Substitute [honey syrup]({% link recipe_processed/honey_syrup.md %}) for simple syrup.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Yuzu Lemon Sour: Add a splash of yuzu juice for a citrusy twist.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Salty Lemon Sour: Add a pinch of salt to the shaker for a savory kick.
 '
   }",

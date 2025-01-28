@@ -54,23 +54,23 @@ excerpt: |
   " 4 strips Orange Peel"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Simmered
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Ladle
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Wine
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Raisins from the pot
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Heat the alcohol in a non-reactive pot, but do not boil. Add sugar and spices in a pouch. Simmer for20 minutes. Take off the heat and add raisins. Let rest for one hour. Remove spice bag and serve hot.
 '
   }",

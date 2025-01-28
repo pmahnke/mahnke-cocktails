@@ -69,79 +69,79 @@ excerpt: |
   " 1 dash Orange Bitters "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Stirred
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Julep Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Nick & Nora
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Cocktail cherry
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Expressed lemon oil.
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '## Modern Bijou
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '### Ingredients
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '|  Amount | Ingredient       | Brand                     |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '| ------: | ---------------- | ------------------------- |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '| 1.25 oz | Gin              | Plymouth                  |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '| 0.75 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '| 0.25 oz | Green Chartreuse | Green Chartreuse          |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '|  1 dash | Orange Bitters   | Regan's No. 6             |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '### Notes
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Stirred
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Julep Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Nick & Nora
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Cocktail cherry
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: Expressed lemon oil.
 '
   }",

@@ -46,23 +46,23 @@ excerpt: |
   " 4 to 6 sprigs Thyme"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Blueberries & bundle of thyme Special
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blueberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
 '
   }",

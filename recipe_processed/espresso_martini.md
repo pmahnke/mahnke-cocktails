@@ -68,83 +68,83 @@ excerpt: |
   "1 Swath Lemon Oil "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Martini
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Lemon oil and 3 coffee beans
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: None
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '## 2
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '### Ingredients
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '|  Amount | Ingredient                                               | Brand               |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '| ------: | -------------------------------------------------------- | ------------------- |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '|    1 oz | Coffee Liqueur                                           | Mr. Black Cold Brew |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '|    1 oz | Cognac                                                   | Maison Rouge VSOP   |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '|    1 oz | Freshly Brewed Espresso                                  |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '| 0.25 oz | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '| 1 Swath | Lemon Oil                                                |
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '### Notes
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware: Martini
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Lemon oil and 3 coffee beans
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Special Prep: None
 '
   }",

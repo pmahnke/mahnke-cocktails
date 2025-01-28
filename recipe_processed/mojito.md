@@ -77,27 +77,27 @@ excerpt: |
   "3 to 5 oz Soda Water"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '-
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Pour: Double Strain
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Glassware:
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Garnish: Mint Sprig Special
 '
   },  {
-    '': 'HowToStep',
+    '@type': 'HowToStep',
     'text': '- Prep: Add mint leaves to the glass and bruise them gently with a barspoon. Pull them up the side of the glass to coat the glass with the essential oils. Add ice, and pour in the cocktail. Top with soda water.
 '
   }",
