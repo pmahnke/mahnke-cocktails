@@ -10,25 +10,21 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         {% assign sorted = site.data.categories | sort: "name" %}
         {% for cat in sorted %}
         <h3><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></h3>
-        <table style="width:100%;">
+        <table class="home_table">
         {% assign count = 0 %}
         {% for page in site.pages %}
             {% if page.categories contains cat.slug and page.layout == "recipe" %}
             {% if page.type == nil or page.type == "multirecipe" %}
             <tr>
-            <th class="no-border" style="width:35%;">
+            <th class="home_title">
                 <a href="{{ page.url | prepend: site.baseurl }}">
                 {{ page.title }}
                 </a>
             </th>
-            <td class="no-border" style="width:40%;">
+            <td class="home_spirits">
                 {% include category_search.html %}
-                {% comment %}<br>
-                categories: {% for s in page.categories %}<a href="/cocktails/category/{{s}}_cocktails.html">{{ s | capitalize }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}<br>
-                eras: {% for s in page.eras %}<a href="/cocktails/era/{{s}}.html">{{ s | capitalize }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}
-                {% endcomment %}
             </td>
-            <td class="no-border stars" style="width:25%">
+            <td class="home_stars">
                 {% include stars.html %}
             </td>
             </tr>

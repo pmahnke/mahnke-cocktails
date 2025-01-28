@@ -94,6 +94,22 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
 }
 
 
+/* styles for the homepage table */
+.home_table {
+    width: 100%;
+}
+.home_title {
+    width: 35%;
+}
+.home_spirits  {
+    width: 40%;
+}
+.home_stars  {
+    vertical-align: middle;
+    text-align: center;
+    width: 25%;
+}
+
 
 @media (max-width: 767px) {
 /* Styles for screens smaller than 768px (phones) */

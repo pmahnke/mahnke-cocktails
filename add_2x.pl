@@ -68,7 +68,7 @@ while (my $file = readdir DIR) {
             print "Converted $orig to $ml\n";
         }
 
-        # convert fractions from 0.75 to 3/4
+        # convert fractions from, for example 0.75 to 3/4
         s/(0\.125|\.125)/ <sup>1<\/sup>&frasl;<sub>8<\/sub>/g; # 1/8
         s/(0\.1875|\.1875)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 3/16, but make it 1/4
         s/(0\.25|\.25)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 1/4
