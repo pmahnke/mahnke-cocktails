@@ -37,11 +37,14 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "   2 cups Pineapple-infused Jamaican Rum",
-  "    1 cup Cognac                        "],
+    " 3 swaths Lemons Peels                  ",
+  "0.75 cups Demerara Sugar                ",
+  "   2 cups Pineapple-infused Jamaican Rum",
+  "    1 cup Cognac                        ",
+  "   4 cups Brewed Black Tea              "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Make in a large pot

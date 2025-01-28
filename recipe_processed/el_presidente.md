@@ -36,12 +36,13 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    1.5 oz Light Rum                                      ",
   "   0.75 oz White Vermouth                                 ",
-  "   0.25 oz Dry Curaçao                                    "],
+  "   0.25 oz Dry Curaçao                                    ",
+  "1 barspoon Grenadine"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

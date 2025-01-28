@@ -47,12 +47,19 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "       0.5 cup Jamaica Rum          ",
+    "       6 whole Egg Yolks            ",
+  "     0.5 pound Sugar                ",
+  "  0.5 barspoon Freshly Grated Nutmeg",
+  "         1 cup Half and Half        ",
+  "         1 cup Whole Milk           ",
+  "         1 cup Heavy Cream          ",
+  "       0.5 cup Jamaica Rum          ",
   "       0.5 cup Cognac               ",
-  "       0.5 cup Bourbon              "],
+  "       0.5 cup Bourbon              ",
+  "0.125 barspoon salt                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in a mixing bowl

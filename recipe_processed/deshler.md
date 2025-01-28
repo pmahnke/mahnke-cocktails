@@ -92,21 +92,27 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     " 0.75 oz Rye           ",
   " 0.75 oz Dubonnet Rouge",
   "2 dashes Orange Liqueur",
   "2 dashes Bitters       ",
+  " 1 swath Lemon Skin    ",
+  "2 swaths Orange Skin   ",
   "    2 oz Rye           ",
   "    1 oz Dubonnet Rouge",
   " 0.25 oz Orange Liqueur",
   "2 dashes Bitters       ",
+  " 1 swath Lemon Skin    ",
+  " 1 swath Orange Skin   ",
   "    2 oz Bourbon       ",
   "    1 oz Lillet Rouge  ",
   "  0.5 oz Orange Curaçao",
-  "2 dashes Bitters       "],
+  "2 dashes Bitters       ",
+  " 1 swath Lemon Skin    ",
+  " 1 swath Orange Skin   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken
@@ -115,8 +121,8 @@ excerpt: |
 - Garnish: Orange twist
 - Special Prep: Express the citrus oil into the mixing tin before dropping the swaths in the tin.
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## Modern Deshler
 
@@ -139,8 +145,8 @@ excerpt: |
 - Garnish: Orange twist
 - Special Prep: Express the citrus oil into the mixing glass before dropping the swaths in the glass.
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## Anders' Deshler
 
@@ -163,7 +169,7 @@ excerpt: |
 - Garnish: Orange twist
 - Special Prep: Express the citrus oil into the mixing glass before dropping the swaths in the glass.
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }

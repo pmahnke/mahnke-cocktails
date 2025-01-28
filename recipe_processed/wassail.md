@@ -41,12 +41,18 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "   2 cups Amontillado Sherry",
+    "   3 cups Fresh Apple Cider ",
+  "   2 cups Amontillado Sherry",
   "    1 cup Dark Beer         ",
-  "  0.5 cup Apple Brandy      "],
+  "  0.5 cup Apple Brandy      ",
+  "  0.5 cup Demerara Sugar    ",
+  "  8 whole Cloves            ",
+  "8 berries Allspice          ",
+  " 4 sticks Cinnamon          ",
+  "   4 pods Cardamom          "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Pot

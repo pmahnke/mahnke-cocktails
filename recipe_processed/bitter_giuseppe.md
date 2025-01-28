@@ -41,12 +41,14 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    1 oz Amaro            ",
   "    1 oz Sweet Vermouth   ",
-  "4 dashes Orange Bitters   "],
+  " 0.25 oz Fresh Lemon Juice",
+  "4 dashes Orange Bitters   ",
+  " 1 swath Lemon Peel       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

@@ -37,11 +37,12 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  2 oz Mezcal          ",
-  "  1 oz Orange Curaçao  "],
+  "  1 oz Orange Curaçao  ",
+  "  1 oz Fresh Lime Juice"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

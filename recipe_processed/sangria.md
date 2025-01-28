@@ -43,11 +43,18 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "     4 oz Grand Marnier                                           ",
-  "     6 oz Olorosso Sherry                                         "],
+    "0.5 whole Orange                                                  ",
+  "0.5 whole Lemon                                                   ",
+  "0.5 whole Apple                                                   ",
+  "     3 oz Rich Demerara Syrup",
+  "     4 oz Fresh Lemon Juice                                       ",
+  "     4 oz Grand Marnier                                           ",
+  "     6 oz Olorosso Sherry                                         ",
+  "   750 ml Red Wine Louis Jadot Beaujolais-Villages                ",
+  "   0.5 oz Soda Water (Optional)                                   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Pitcher

@@ -68,12 +68,20 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "1/6 cup Demerara Rum      ",
+    "1/3 cup Tom & Jerry Batter",
+  "1/6 cup Demerara Rum      ",
   "1/6 cup Cognac            ",
+  "       2 whole eggs            ",
+  "  0.5 barspoon Vanilla Extract ",
+  "0.125 barspoon Ground Clove    ",
+  "0.125 barspoon Ground Allspice ",
+  "0.125 barspoon Ground Cinnamon ",
   "        0.5 oz Jamaican Rum    ",
+  "      0.5 cups Granulated Sugar",
+  "       1 pinch Salt            ",
   "        1 dash Bitters         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
@@ -82,8 +90,8 @@ excerpt: |
 - Glassware: Tea Cup
 - Garnish: Grated nutmeg
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## Tom & Jerry Batter
 
@@ -109,7 +117,7 @@ excerpt: |
 4. Add salt to egg whites and whip to stiff peaks.
 5. Gently fold together egg whites with yolk mixture.
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }

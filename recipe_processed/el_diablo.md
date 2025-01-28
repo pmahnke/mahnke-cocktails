@@ -38,11 +38,12 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "1.5 oz Reposado Tequila",
   "0.5 oz Crème de Cassis ",
+  "0.5 oz Fresh Lime Juice",
   "  3 oz Ginger Beer     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "

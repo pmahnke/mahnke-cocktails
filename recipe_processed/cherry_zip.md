@@ -39,10 +39,14 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-  ],
+    "         1 oz Tart Cherry Juice (no sugar added)             ",
+  "         1 oz Orgeat Syrup",
+  "         1 oz Black Tea (cooled)                             ",
+  "       0.5 oz Fresh Lemon Juice                              ",
+  "0.25 barspoon Red Chili Flakes                               "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

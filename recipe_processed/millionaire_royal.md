@@ -41,11 +41,14 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "    0.5 oz Triple Sec                                     ",
+    "   0.75 oz Egg White                                      ",
+  "    0.5 oz Grenadine",
+  "    0.5 oz Triple Sec                                     ",
   "    1.5 oz Bourbon                                        ",
+  "   0.75 oz Fresh Lemon Juice                              ",
   "1 barspoon Absinthe                                       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "

@@ -38,10 +38,15 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-  ],
+    "   6 oz Pineapple Juice                                             ",
+  "   2 oz Fresh Orange Juice                                          ",
+  "   2 oz [Cream of Coconut] ({%link recipe_processed/cream_of_coconut_syrup.md%})",
+  "0.75 oz Fresh Lime Juice                                            ",
+  "1 pinch Ground Cinnamon                                             ",
+  "  1 cup Crushed Ice                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Shaker Tin

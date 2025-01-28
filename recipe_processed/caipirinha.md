@@ -37,10 +37,12 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "        2 oz Cachaça   "],
+    "        2 oz Cachaça   ",
+  "   0.5 whole Fresh Lime",
+  "1 tablespoon Cane Sugar"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

@@ -52,10 +52,21 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "4 oz Gold Rum"],
+    "8 oz Coconut Milk",
+  "4 oz Evaporated Milk",
+  "4 oz Sweetened Condensed Milk",
+  "2 oz Cream of Coconut",
+  "0.25 oz (7.5 ml) Vanilla Extract",
+  "2 oz Chilled Spice Tea",
+  "1 pinch Salt",
+  "4 oz Gold Rum",
+  "4 sticks Cinnamon  ",
+  "25 whole Cloves    ",
+  " 1 whole Star Anise",
+  "   1 cup Water     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Blender

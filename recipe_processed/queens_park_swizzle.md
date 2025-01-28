@@ -37,11 +37,14 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "          2 oz Demerara Rum                                            ",
-  " 4 to 6 dashes Bitters                                                 "],
+  "       0.75 oz Fresh Lime Juice                                        ",
+  "       0.25 oz Rich Demerara Syrup",
+  " 4 to 6 dashes Bitters                                                 ",
+  "8 to 10 leaves Mint                                                    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

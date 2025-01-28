@@ -40,10 +40,17 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "          2 oz Gin                                            "],
+    "          2 oz Gin                                            ",
+  "       0.75 oz Fresh Lime Juice                               ",
+  "       0.75 oz Simple Syrup",
+  "       3 drops Rose Water                                     ",
+  "0.25 to 0.5 oz Aquafaba                                       ",
+  "      3 slices Cucumber                                       ",
+  "       1 pinch Salt                                           ",
+  "      4 leaves Mint                                           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -33,10 +33,13 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-  ],
+    "      3 cups White Sugar           ",
+  "      2 cups 100% Pomegranate Juice",
+  "  1 barspoon Pomegranate Molasses  ",
+  "0.5 barspoon Rose Water            "],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
   "recipeYield": "1 cocktail"

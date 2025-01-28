@@ -40,12 +40,15 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "   1 oz Pisco                                                    ",
+    "1 whole Strawberry                                               ",
+  " 0.5 oz Semi-Rich Simple Syrup",
+  "   1 oz Pisco                                                    ",
   " 0.5 oz Gin                                                      ",
-  "0.75 oz Cocchi Americano                                         "],
+  "0.75 oz Cocchi Americano                                         ",
+  "0.75 oz Fresh Lemon Juice                                        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

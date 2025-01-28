@@ -36,11 +36,12 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    2 oz Rye                                                     ",
   " 0.25 oz Fernet Branca                                           ",
+  " 0.25 oz Rich Demerara Syrup",
   "2 dashes Bitters                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "

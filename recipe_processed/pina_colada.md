@@ -37,10 +37,14 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "      2 oz Light Rum            "],
+    "      2 oz Light Rum            ",
+  "      1 oz Cream of Coconut     ",
+  "      1 oz Coconut Milk         ",
+  "      6 oz Fresh Pineapple Juice",
+  "8 to 10 oz Crushed Ice          "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Blended

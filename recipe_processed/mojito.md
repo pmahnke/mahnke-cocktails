@@ -68,11 +68,19 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "           2 oz Light Rum                                               ",
-  "           2 oz Rum               "],
+  "        0.75 oz Fresh Lime Juice                                        ",
+  "         0.5 oz Rich Demerara Syrup",
+  "10 to 12 leaves Mint                                                    ",
+  "      3 to 5 oz Soda Water                                              ",
+  "           2 oz Rum               ",
+  "      0.5 whole Lime              ",
+  "   1 tablespoon Raw Demerara Sugar",
+  "10 to 12 leaves Mint              ",
+  "      3 to 5 oz Soda Water        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 -
@@ -82,8 +90,8 @@ excerpt: |
 - Garnish: Mint Sprig Special
 - Prep: Add mint leaves to the glass and bruise them gently with a barspoon. Pull them up the side of the glass to coat the glass with the essential oils. Add ice, and pour in the cocktail. Top with soda water.
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## Slow
 
@@ -106,7 +114,7 @@ excerpt: |
 - Garnish: Mint Sprig
 - Special Prep: Add mint leaves and sugar to the glass and bruise the mint gently with a barspoon. Pull the mint up the side of the glass to coat the glass with the essential oils. Cut the half lime into 4 wedges. Add the wedges to the glass and use a muddler to extrace the juice from the lime without destroying the mint. Add ice, and pour in the rum. Top with soda water.
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }

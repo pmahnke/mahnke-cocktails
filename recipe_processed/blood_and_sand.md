@@ -36,12 +36,13 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "0.75 oz Blended Scotch    ",
   "0.75 oz Sweet Vermouth    ",
-  "0.75 oz Cherry Liqueur    "],
+  "0.75 oz Cherry Liqueur    ",
+  "0.75 oz Fresh Orange Juice"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

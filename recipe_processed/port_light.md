@@ -38,12 +38,12 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  2 oz Bourbon                                                      ",
-  "0.5 oz [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%})",
-  "0.5 oz [Grenadine]({%link recipe_processed/grenadine_syrup.md%})              ",
+  "0.5 oz Passion Fruit Syrup",
+  "0.5 oz Grenadine              ",
   "  1 oz Fresh Lemon Juice                                            "],
   "name": "{{ page.title }}",
   "recipeInstructions": "

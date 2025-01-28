@@ -86,7 +86,7 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    1 oz Applejack        ",
@@ -109,8 +109,8 @@ excerpt: |
 - Garnish: None
 - Special Prep: None
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## Contemporary
 
@@ -131,8 +131,8 @@ excerpt: |
 - Garnish: Cocktail cherry
 - Special Prep: None
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## Anders' Version
 
@@ -153,7 +153,7 @@ excerpt: |
 - Garnish: Lemon Peel
 - Special Prep: Express Lemon oil over cocktail
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }

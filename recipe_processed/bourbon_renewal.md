@@ -39,11 +39,13 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "         2 oz Bourbon                                                  ",
   "       0.5 oz Crème de Cassis                                          ",
+  "         1 oz Fresh Lemon Juice                                        ",
+  "      0.25 oz Semi-Rich Simple Syrup",
   "1 to 2 dashes Bitters                                                  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "

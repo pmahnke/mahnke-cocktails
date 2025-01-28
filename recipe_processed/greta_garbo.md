@@ -22,13 +22,13 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                                                                                                                                                                  Amount | Ingredient                                                          | Brand                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------- | --------------------- |
-|                               <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> | Light Rum                                                           | The Real McCoy 3 Year |
-|      <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> | Maraschino Liqueur                                                  | Luxardo               |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Fresh lime juice                                                    |
-|                                  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|      <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> | Absinthe                                                            | St. George            |
+|  Amount | Ingredient                                                | Brand                 |
+| ------: | --------------------------------------------------------- | --------------------- |
+|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Light Rum                                                 | The Real McCoy 3 Year |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Maraschino Liqueur                                        | Luxardo               |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh lime juice                                          |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Absinthe                                                  | St. George            |
 
 ### Notes
 
@@ -45,12 +45,12 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                                                                                                                                                             Amount | Ingredient                                                          | Brand     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------- | --------- |
-|                                                                                           <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gin                                                                 | Beefeater |
-|                             <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> | Swedish Punsch                                                      | Kronan    |
-|                             <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> | Fresh Lemon Juice                                                   |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|  Amount | Ingredient                                                | Brand     |
+| ------: | --------------------------------------------------------- | --------- |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Gin                                                       | Beefeater |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Swedish Punsch                                            | Kronan    |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Lemon Juice                                         |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 
@@ -62,19 +62,24 @@ excerpt: |
 
 </div>
 
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     " 1.5 oz Light Rum                                                ",
   "0.25 oz Maraschino Liqueur                                       ",
+  "0.75 oz Fresh lime juice                                         ",
+  " 0.5 oz Semi-Rich Simple Syrup",
   "0.25 oz Absinthe                                                 ",
   "   1 oz Gin                                                      ",
-  " 0.5 oz Swedish Punsch                                           "],
+  " 0.5 oz Swedish Punsch                                           ",
+  " 0.5 oz Fresh Lemon Juice                                        ",
+  "0.25 oz Semi-Rich Simple Syrup"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken
@@ -83,8 +88,8 @@ excerpt: |
 - Garnish: Star anise
 - Special Prep: None
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## Number 2
 
@@ -105,8 +110,10 @@ excerpt: |
 - Garnish: Expressed lemon oil
 - Special Prep: None
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }
 </script>
+
+    

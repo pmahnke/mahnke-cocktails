@@ -35,10 +35,12 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "   2 oz Oloroso Sherry                                          "],
+    "   2 oz Oloroso Sherry                                          ",
+  " 0.5 oz Rich Demerara Syrup",
+  "1 whole Egg                                                     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

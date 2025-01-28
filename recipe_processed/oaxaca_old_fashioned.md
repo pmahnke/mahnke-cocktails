@@ -40,12 +40,13 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    1.5 oz Reposado Tequila",
   "    0.5 oz Mezcal          ",
-  "  2 dashes Bitters         "],
+  "  2 dashes Bitters         ",
+  "1 barspoon Agave Nectar    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

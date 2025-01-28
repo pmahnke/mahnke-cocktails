@@ -64,11 +64,17 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "  1 oz Cognac                                         ",
-  "  1 oz Gin                                            "],
+    "  2 oz Champagne                                      ",
+  "  1 oz Cognac                                         ",
+  "0.5 oz Fresh Lemon Juice                              ",
+  "0.5 oz Simple Syrup",
+  "  2 oz Champagne                                      ",
+  "  1 oz Gin                                            ",
+  "0.5 oz Fresh Lemon Juice                              ",
+  "0.5 oz Simple Syrup"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken
@@ -77,8 +83,8 @@ excerpt: |
 - Garnish: Lemon Twist
 - Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.### Gin
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## Gin
 
@@ -99,7 +105,7 @@ excerpt: |
 - Garnish: Lemon Twist
 - Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }

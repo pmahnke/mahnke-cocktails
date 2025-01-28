@@ -38,10 +38,15 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "   1.5 oz Blended Scotch                               "],
+    "   1.5 oz Blended Scotch                               ",
+  "   0.5 oz Honey Syrup",
+  "  0.25 oz Fresh Lemon Juice                            ",
+  "4 to 5 oz Chamomile Tea                                ",
+  "  1 stick Cinnamon                                     ",
+  "  4 whole Cloves                                       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

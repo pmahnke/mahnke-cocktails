@@ -39,10 +39,14 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    " 100 ml Red Bitter Soda       "],
+    "   2 oz Fresh Grapefruit Juice",
+  " 0.5 oz Fresh Lime Juice      ",
+  "0.25 oz Agave Nectar          ",
+  "1 pinch Cinnamon              ",
+  " 100 ml Red Bitter Soda       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

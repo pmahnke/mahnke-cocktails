@@ -37,10 +37,11 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "     2 oz Pimm's           ",
+  "  0.25 oz Fresh Lemon Juice",
   "3 to 4 oz Ginger Ale       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "

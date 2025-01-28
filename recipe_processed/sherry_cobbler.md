@@ -37,11 +37,12 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "   3 oz Oloroso Sherry         ",
-  "   1 oz Orange Curaçao         "],
+  "   1 oz Orange Curaçao         ",
+  "1 whole Orange Wheel, quartered"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

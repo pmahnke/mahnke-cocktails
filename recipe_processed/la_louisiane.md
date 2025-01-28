@@ -65,18 +65,20 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  0.5 oz Rye                    ",
   "  0.5 oz Sweet Vermouth         ",
   "  0.5 oz Bénédictine            ",
+  "4 dashes Herbsaint (or absinthe)",
   "4 dashes Bitters                ",
   "  1.5 oz Rye           ",
   " 0.75 oz Sweet Vermouth",
   " 0.75 oz Bénédictine   ",
   "4 dashes Bitters       ",
-  "4 dashes Bitters       "],
+  "4 dashes Bitters       ",
+  " 1 rinse Absinthe      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred
@@ -84,8 +86,8 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Cocktail cherry
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## Updated
 
@@ -107,7 +109,7 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Expressed lemon oil
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }

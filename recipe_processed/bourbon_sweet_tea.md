@@ -40,12 +40,15 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "1.5 oz Bourbon                                                  ",
   "  1 oz Light Amaro                                              ",
-  "0.5 oz Peach Liqueur                                            "],
+  "0.5 oz Peach Liqueur                                            ",
+  "0.5 oz Fresh Lemon Juice                                        ",
+  "0.5 oz Semi-Rich Simple Syrup",
+  "  4 oz Black Tea, chilled                                       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

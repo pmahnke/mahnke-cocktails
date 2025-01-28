@@ -43,13 +43,18 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    1 oz Gold Rum                                                ",
   "  0.5 oz Demerara Rum                                            ",
   "  0.5 oz Apricot Liqueur                                         ",
-  "  0.5 oz Falernum                                                "],
+  "  0.5 oz Falernum                                                ",
+  "    1 oz Fresh Orange Juice                                      ",
+  "  0.5 oz Fresh Lemon Juice                                       ",
+  "  0.5 oz Fresh Lime Juice                                        ",
+  "  0.5 oz Rich Demerara Syrup",
+  "2 dashes Angostura Bitters                                       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

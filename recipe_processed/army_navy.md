@@ -37,11 +37,14 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    2 oz Gin                                      ",
-  "2 dashes Bitters                                  "],
+  " 0.75 oz Fresh Lemon Juice                        ",
+  " 0.75 oz Orgeat",
+  "2 dashes Bitters                                  ",
+  " 5 drops 20% Saline Solution                      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

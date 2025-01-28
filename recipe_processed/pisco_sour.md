@@ -38,10 +38,14 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "   2 oz Pisco                                                    ",
+  " 0.5 oz Fresh Lemon Juice                                        ",
+  " 0.5 oz Fresh Lime Juice                                         ",
+  "0.75 oz Semi-Rich Simple Syrup",
+  "0.75 oz Raw Egg White / Aquafaba (chickpea water)                ",
   " 1 drop Bitters                                                  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "

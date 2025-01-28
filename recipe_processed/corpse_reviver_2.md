@@ -37,12 +37,13 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "0.75 oz Gin              ",
   "0.75 oz Cocchi Americano ",
   "0.75 oz Triple Sec       ",
+  "0.75 oz Fresh Lemon Juice",
   "1 rinse Absinthe         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "

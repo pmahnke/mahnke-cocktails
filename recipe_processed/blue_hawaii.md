@@ -40,12 +40,15 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "   1 oz Light Rum                                                ",
   " 0.5 oz Rhum Agricole                                            ",
-  "0.75 oz Blue Curaçao                                             "],
+  "0.75 oz Blue Curaçao                                             ",
+  "   3 oz Fresh Pineapple Juice                                    ",
+  "0.75 oz Fresh Lime Juice                                         ",
+  " 0.5 oz Semi-Rich Simple Syrup"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

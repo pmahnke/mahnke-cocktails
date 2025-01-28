@@ -43,10 +43,14 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "     3 to 4 oz Ginger Beer                                              "],
+    "15 to 20 whole Fresh Blueberries                                        ",
+  "          1 oz Semi-Rich Simple Syrup",
+  "          1 oz Fresh Lemon Juice                                        ",
+  "8 to 10 leaves Mint                                                     ",
+  "     3 to 4 oz Ginger Beer                                              "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

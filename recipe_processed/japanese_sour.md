@@ -42,12 +42,12 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  2 oz Shochu or Vodka                                  ",
   "  1 oz Lemon juice                                      ",
-  "0.5 oz [Simple Syrup]({% link recipe_processed/simple_syrup.md %})",
+  "0.5 oz Simple Syrup",
   "  4 oz Soda Water                                       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "

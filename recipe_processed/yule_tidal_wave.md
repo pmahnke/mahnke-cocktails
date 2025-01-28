@@ -42,7 +42,7 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     " 0.75 oz Rum                                                      ",
@@ -51,6 +51,9 @@ excerpt: |
   " 0.75 oz Pear Brandy                                              ",
   "  0.5 oz Licor 43                                                 ",
   " 0.25 oz Allspice Dram                                            ",
+  "    2 oz Fresh Pineapple Juice                                    ",
+  "    1 oz Fresh Lemon Juice                                        ",
+  " 0.25 oz Semi-rich Simple Syrup",
   "2 dashes Bitters                                                  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "

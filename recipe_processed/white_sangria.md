@@ -68,12 +68,22 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "        4 oz Apricot Liqueur                                         ",
+    "      1 half Peach, sliced                                           ",
+  "      1 half Lemon, sliced                                           ",
+  "4 to 5 whole Strawberries, sliced                                    ",
+  "        3 oz Semi-RichSimple Syrup",
+  "        4 oz Fresh Lemon Juice                                       ",
+  "        4 oz Apricot Liqueur                                         ",
   "        6 oz Fino Sherry                                             ",
   "      750 ml Dry White Wine                                          ",
+  "    2 slices Peach, sliced                                           ",
+  "    2 slices Lemon, sliced                                           ",
+  "1 to 2 whole Strawberries, sliced                                    ",
+  "     0.75 oz Semi-RichSimple Syrup",
+  "        1 oz Fresh Lemon Juice                                       ",
   "        1 oz Apricot Liqueur                                         ",
   "      1.5 oz Fino Sherry                                             ",
   "        6 oz Dry White Wine                                          "],
@@ -85,8 +95,8 @@ excerpt: |
 - Garnish: A strawberry and a peach slice
 - Special Prep: Optionally, top each glass with a splash of soda water
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ### Scaled Version (serves 1 to 2)
 
@@ -98,7 +108,7 @@ excerpt: |
 |      0.75 oz | [Semi-RichSimple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |         1 oz | Fresh Lemon Juice                                        |
 |         1 oz | Apricot Liqueur                                          | Giffard Orchard       |
-|       1.5 oz | Fino Sherry                                              | Valdespino "Ynocente" |
+|       1.5 oz | Fino Sherry                                              | Valdespino 'Ynocente' |
 |         6 oz | Dry White Wine                                           | Abellio Albariño      |
 
 ### Notes
@@ -109,7 +119,7 @@ excerpt: |
 - Garnish: A strawberry and a peach slice
 - Special Prep: Optionally, top each glass with a splash of soda water
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }

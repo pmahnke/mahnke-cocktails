@@ -39,13 +39,14 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    1.5 oz Vodka               ",
   "      3 oz Clamato Juice       ",
   "  2 dashes Worcestershire Sauce",
-  "  2 dashes Hot Sauce           "],
+  "  2 dashes Hot Sauce           ",
+  "0.25 whole Lime, Juiced        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

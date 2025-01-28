@@ -38,14 +38,15 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "         2 oz Rye               ",
   "         1 oz Dry Vermouth      ",
   "      0.25 oz Maraschino Liqueur",
   "      0.25 oz Amaro             ",
-  "2 to 3 dashes Orange Bitters    "],
+  "2 to 3 dashes Orange Bitters    ",
+  "      1 swath Orange Peal       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

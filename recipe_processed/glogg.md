@@ -41,11 +41,18 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "    12 oz Ruby Port          ",
-  "     6 oz Cognac             "],
+    " 1 bottle Red Wine           ",
+  "    12 oz Ruby Port          ",
+  "     6 oz Cognac             ",
+  " 0.5 cups Demerara Sugar     ",
+  "0.25 cups Raisins            ",
+  "  4 whole Green Cardamom Pods",
+  "  8 whole Cloves             ",
+  " 2 sticks Cinnamon           ",
+  " 4 strips Orange Peel        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Simmered

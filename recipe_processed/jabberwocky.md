@@ -36,11 +36,13 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  .75 oz London Dry gin   ",
-  "  .75 oz Manzanilla sherry"],
+  "  .75 oz Manzanilla sherry",
+  "  .75 oz Lillet blanc     ",
+  "2 dashes Orange bitters   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

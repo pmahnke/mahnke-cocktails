@@ -88,16 +88,22 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "   1.5 oz Reposado Tequila",
   "  0.75 oz Creme de Cassis ",
+  "   0.5 oz Fresh Lime Juice",
+  "4 to 5 oz Soda Water      ",
   "  2 oz Blanco Tequila",
+  "  4 oz Orange Juice  ",
   "0.5 oz Grenadine     ",
   "   1.5 oz Reposado Tequila                               ",
   "   0.5 oz Creme de Cassis                                ",
-  "   1 dash Bitters                                        "],
+  "  0.25 oz Grenadine",
+  "  0.75 oz Fresh Lime Juice                               ",
+  "   1 dash Bitters                                        ",
+  "4 to 5 oz Soda Water                                     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass
@@ -106,8 +112,8 @@ excerpt: |
 - Garnish: Lime wheel and cocktail cherry
 - Special Prep: None
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## 1970s Version
 
@@ -127,8 +133,8 @@ excerpt: |
 - Garnish: Orange slice
 - Special Prep: Stir orange juice and tequilla, then pour the grenadine down the side of the glass.
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## Modified
 
@@ -151,7 +157,7 @@ excerpt: |
 - Garnish: Lime wheel and cocktail cherry
 - Special Prep: None
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }

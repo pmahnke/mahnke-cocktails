@@ -29,10 +29,13 @@ while (my $file = readdir DIR) {
 	    s/link recipe\//link recipe_processed\//;
 
         # schema.org recipe
-        if (/^\| (.*) \| (.*) \| (.*) \|/) {
+        if (/^\| (.[^\|]*) \| (.[^\|]*) \|/) {
             if ($1 !~ /(---|Amount)/) {
                 #print "schema ingredient: $1 $2\n";
-                $s_ingredient .= qq |  "$1 $2",\n|;
+                my $s_raw_ingredient = "$1 $2";
+                $s_raw_ingredient =~ s/\"/\'/g; # replace double quotes with single
+                $s_raw_ingredient =~ s/\[(.*)\]\((.*)\)/$1/g;
+                $s_ingredient .= qq |  "$s_raw_ingredient",\n|;
             }
         }
  
@@ -99,6 +102,9 @@ while (my $file = readdir DIR) {
 
     chop($s_ingredient);
     chop($s_ingredient);
+    $s_ingredient =~ s/<(.[^>]*)>//g; # remove html tags
+    $s_instructions =~ s/<(.[^>]*)>//g; # remove html tags
+    $s_instructions =~ s/\"/\'/g; # replace double quotes with single
 
     $schema = qq ~
     
@@ -107,7 +113,7 @@ while (my $file = readdir DIR) {
   "\@context": "https://schema.org",
   "\@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
   $s_ingredient],

@@ -35,11 +35,11 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  1 oz Gold Rum                                     ",
-  "0.5 oz [Honey Syrup]({%link recipe_processed/honey_syrup.md%})",
+  "0.5 oz Honey Syrup",
   "0.5 oz Fresh Lime Juice                             ",
   "  2 oz Champagne                                    "],
   "name": "{{ page.title }}",

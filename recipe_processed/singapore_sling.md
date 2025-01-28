@@ -76,7 +76,7 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     " 1.5 oz Gin                                            ",
@@ -85,7 +85,7 @@ excerpt: |
   "0.25 oz Triple Sec                                     ",
   "   1 oz Pineapple Juice                                ",
   "0.75 oz Fresh Lime Juice                               ",
-  "0.25 oz [Grenadine]({%link recipe_processed/grenadine_syrup.md%})",
+  "0.25 oz Grenadine",
   " 1 dash Bitters                                        ",
   "                         ",
   "   1 oz Navy Strength Gin",
@@ -104,8 +104,8 @@ excerpt: |
 - Garnish: Pineapple wedge, pineapple fronds and an umbrella
 - Special Prep: None
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## 2.0
 
@@ -130,7 +130,7 @@ excerpt: |
 - Garnish: Lime wheel and a cocktail cherry
 - Special Prep: Strain cocktail into the glass and top with soda water.
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }

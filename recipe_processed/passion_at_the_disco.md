@@ -35,10 +35,12 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "  2 oz Indian Tonic Water                                           "],
+    "  1 oz Fresh Lime Juice                                             ",
+  "  1 oz Passion Fruit Syrup",
+  "  2 oz Indian Tonic Water                                           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

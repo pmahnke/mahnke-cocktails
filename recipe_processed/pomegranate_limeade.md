@@ -35,10 +35,12 @@ youtube: "YwHw259XAOU"
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "  5 oz Sparkling Water                                "],
+    "  1 oz Grenadine",
+  "  1 oz Fresh Lime Juice                               ",
+  "  5 oz Sparkling Water                                "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

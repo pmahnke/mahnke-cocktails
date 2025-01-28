@@ -55,11 +55,11 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    2 oz Brandy                                                   ",
-  " 0.25 oz [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})",
+  " 0.25 oz Semi-Rich Simple Syrup",
   "4 dashes Bitters                                                  ",
   "2 wedges Orange                                                   ",
   " 1 whole Cocktail Cherry                                          ",

@@ -36,12 +36,13 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     " 0.75 oz Gin              ",
   " 0.25 oz Orange Liqueur   ",
-  "  1.5 oz Champagne        "],
+  "  1.5 oz Champagne        ",
+  "30 grams Vanilla Ice Cream"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

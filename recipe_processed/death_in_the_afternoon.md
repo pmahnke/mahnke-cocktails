@@ -62,13 +62,15 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "1.5 oz Absinthe  ",
   "4.5 oz Champagne ",
   "   1 oz Absinthe                                                 ",
-  "   2 oz Champagne                                                "],
+  "   2 oz Champagne                                                ",
+  "0.25 oz Fresh Lemon Juice                                        ",
+  "0.25 oz Semi-rich Simple Syrup"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass
@@ -77,8 +79,8 @@ excerpt: |
 - Garnish: None
 - Special Prep: Pour the Absinthe into the glass and top with champagne. Add enough champagne to have the cocktail turn milky (the Louche Effect).
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## An Approachable Death in the Afternoon
 
@@ -99,7 +101,7 @@ excerpt: |
 - Garnish:
 - Special Prep: Pour the stirred cocktail into the glass and top with champagne.
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }

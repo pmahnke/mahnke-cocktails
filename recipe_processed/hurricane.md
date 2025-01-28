@@ -66,13 +66,19 @@ excerpt: |
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  1 oz Jamaican Rum                                                 ",
   "  1 oz Dark Rum                                                     ",
+  "  1 oz Passion Fruit Syrup",
+  "  1 oz Fresh Lemon Juice                                            ",
   "   1 oz Rum                                            ",
-  "   1 oz Demerara Rum                                   "],
+  "   1 oz Demerara Rum                                   ",
+  "   1 oz Passion Fruit Juice                            ",
+  " 0.5 oz Fresh Orange Juice                             ",
+  "0.25 oz Grenadine",
+  "0.25 oz Fresh Lime Juice                               "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken
@@ -81,8 +87,8 @@ excerpt: |
 - Garnish: Pineapple fronds and wind-blown umbrella Special
 - Prep: None
 
-</div>
-<div class="subrecipe" markdown="1">
+
+
 
 ## Number 2
 
@@ -105,7 +111,7 @@ excerpt: |
 - Garnish: Orange wheel, cherry, and wind-blown umbrella Special
 - Prep: None
 
-</div>
+
 ",
   "recipeYield": "1 cocktail"
 }

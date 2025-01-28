@@ -45,10 +45,15 @@ Orange slice for individual garnish
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "    16 oz Brandy                                                 "],
+    "    12 oz Frozen Concentrated Orange Juice (thawed)              ",
+  "    12 oz Frozen Concentrated Lemonade (thawed)                  ",
+  "    16 oz Brandy                                                 ",
+  "    40 oz Water                                                  ",
+  "    16 oz Tea Simple Syrup",
+  "1 to 2 oz Sprite, ginger ale, or soda water                      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in Tub
