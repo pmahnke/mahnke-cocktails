@@ -63,8 +63,8 @@ youtube: "v=7Z_mZ6wq1Rw"
     
 <script type="application/ld+json">
 {
-  "": "https://schema.org",
-  "": "Recipe",
+  "@context": "https://schema.org",
+  "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
