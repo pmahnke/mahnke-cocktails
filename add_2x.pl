@@ -20,11 +20,26 @@ while (my $file = readdir DIR) {
     my $infile = $dir.$file;
     open (FILE, "$infile") or die "Cannot open $infile\n";
 
-    my $out = "";    
+    my ($out, $schema, $s_ingredient, $s_instructions, $FLAGnotes) = "";    
     while (<FILE>) {
 
         my ($minq, $maxq, $meas, $orig) = "";
         
+    	# convert internal liquid links
+	    s/link recipe\//link recipe_processed\//;
+
+        # schema.org recipe
+        if (/^\| (.*) \| (.*) \| (.*) \|/) {
+            if ($1 !~ /(---|Amount)/) {
+                #print "schema ingredient: $1 $2\n";
+                $s_ingredient .= qq |  "$1 $2",\n|;
+            }
+        }
+ 
+        $s_instructions .= $_ if ($FLAGnotes);
+        $FLAGnotes = 1 if (/\#\#\# Notes/);  
+
+        # scaling
         if (/\|\s+([0-9]+) to (\d+) (\D[^\|]*)/) {
     
             # 5 to 6 oz
@@ -75,9 +90,6 @@ while (my $file = readdir DIR) {
         s/(0\.375|\.375)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 3/8, but make it 1/2
         s/(0\.5|\.5)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 1/2
         s/(0\.75|\.75)/ <sup>3<\/sup>&frasl;<sub>4<\/sub>/g; # 3/4
-
-    	# also convert interal liquid links
-	    s/link recipe\//link recipe_processed\//;
 	
         $out .= $_;
 
@@ -85,9 +97,30 @@ while (my $file = readdir DIR) {
 
     close (FILE);
 
+    $schema = qq ~
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  $s_ingredient],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "$s_instructions",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    ~;
+
+
     my $outfile = $mydir.$file;
     open (NEWFILE, ">$outfile") or die "Cannot open newfile: $outfile\n";
     print NEWFILE $out;
+    print NEWFILE $schema;
     close (NEWFILE);
 
     print "Saved: $outfile\n";

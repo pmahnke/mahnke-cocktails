@@ -30,3 +30,28 @@ excerpt: |
 - Glassware: Large glass
 - Garnish: Pineapple pieces, pineapple fronds and cocktail cherries
 - Special Prep: Use an emersion blender directly in the shaker tin. Blend intill frothy.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "      2 oz Light Rum            ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Blended
+- Pour: Open Pour
+- Glassware: Large glass
+- Garnish: Pineapple pieces, pineapple fronds and cocktail cherries
+- Special Prep: Use an emersion blender directly in the shaker tin. Blend intill frothy.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

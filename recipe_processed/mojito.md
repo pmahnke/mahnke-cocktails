@@ -61,3 +61,56 @@ excerpt: |
 - Special Prep: Add mint leaves and sugar to the glass and bruise the mint gently with a barspoon. Pull the mint up the side of the glass to coat the glass with the essential oils. Cut the half lime into 4 wedges. Add the wedges to the glass and use a muddler to extrace the juice from the lime without destroying the mint. Add ice, and pour in the rum. Top with soda water.
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "           2 oz Light Rum                                               ",
+  "           2 oz Rum               ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+-
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+- Garnish: Mint Sprig Special
+- Prep: Add mint leaves to the glass and bruise them gently with a barspoon. Pull them up the side of the glass to coat the glass with the essential oils. Add ice, and pour in the cocktail. Top with soda water.
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Slow
+
+### Ingredients
+
+|          Amount | Ingredient         | Brand                 |
+| --------------: | ------------------ | --------------------- |
+|            2 oz | Rum                | The Real McCoy 3 Year |
+|       0.5 whole | Lime               |
+|    1 tablespoon | Raw Demerara Sugar |
+| 10 to 12 leaves | Mint               |
+|       3 to 5 oz | Soda Water         |
+
+### Notes
+
+-
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware:
+- Garnish: Mint Sprig
+- Special Prep: Add mint leaves and sugar to the glass and bruise the mint gently with a barspoon. Pull the mint up the side of the glass to coat the glass with the essential oils. Cut the half lime into 4 wedges. Add the wedges to the glass and use a muddler to extrace the juice from the lime without destroying the mint. Add ice, and pour in the rum. Top with soda water.
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

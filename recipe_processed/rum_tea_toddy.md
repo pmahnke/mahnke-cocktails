@@ -31,3 +31,28 @@ excerpt: |
 - Glassware: Mug
 - Garnish: Clove-studded lemon peel
 - Special Prep: Express the lemon oil over the drink, then stud the peel with the cloves
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   1.5 oz Jamaican Rum                                            ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware: Mug
+- Garnish: Clove-studded lemon peel
+- Special Prep: Express the lemon oil over the drink, then stud the peel with the cloves
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

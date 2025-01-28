@@ -30,3 +30,31 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Cocktail Cherry optional
 - Special Prep: Add the cherry to the glass before straining the cocktail
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Gin              ",
+  "0.75 oz Cocchi Americano ",
+  "0.75 oz Triple Sec       ",
+  "1 rinse Absinthe         ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Nick & Nora
+- Garnish: Cocktail Cherry optional
+- Special Prep: Add the cherry to the glass before straining the cocktail
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

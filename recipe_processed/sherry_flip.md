@@ -28,3 +28,28 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Grated nutmeg
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   2 oz Oloroso Sherry                                          ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Grated nutmeg
+- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

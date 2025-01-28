@@ -29,3 +29,30 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Gin              ",
+  "0.75 oz Yellow Chartreuse",
+  "0.75 oz Bénédictine      ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Nick & Nora
+- Garnish: None
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -25,3 +25,21 @@ excerpt: |
 2. Add cinnamon sticks.
 3. Cover and simmer over low heat for 20-30 minutes (don't boil!).
 4. Once cooled, remove cinnamon sticks.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

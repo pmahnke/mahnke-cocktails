@@ -30,3 +30,30 @@ excerpt: |
   - Crushed Ice
 - Garnish: Lime wedge
 - Special Prep: Add the lime wedges and sugar to the glass and muddle. Add the cachaça, then add crushed ice and stir. Top with more crushed ice.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "        2 oz Cachaça   ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware:
+  - Double Old Fashioned Glass
+  - Crushed Ice
+- Garnish: Lime wedge
+- Special Prep: Add the lime wedges and sugar to the glass and muddle. Add the cachaça, then add crushed ice and stir. Top with more crushed ice.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

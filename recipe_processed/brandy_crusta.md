@@ -31,3 +31,31 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Sugared rim & long lemon peel
 - Special Prep: Heavily coat the outside of the glass with sugar. Wind the lemon peel around the inside of the glass.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    2 oz Cognac                                                   ",
+  " 0.25 oz Dry Curaçao                                              ",
+  " 0.25 oz Maraschino Liqueur                                       ",
+  "2 dashes Bitters                                                  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Sugared rim & long lemon peel
+- Special Prep: Heavily coat the outside of the glass with sugar. Wind the lemon peel around the inside of the glass.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -29,3 +29,29 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Lemon swath
 - Special Prep: Expressed lemon oil
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.5 oz Yellow Chartreuse",
+  "0.5 oz Bénédictine      ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Lemon swath
+- Special Prep: Expressed lemon oil
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

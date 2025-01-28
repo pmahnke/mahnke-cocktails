@@ -33,3 +33,35 @@ excerpt: |
   - Crushed Ice
 - Garnish: Orange wheel, grated cinnamon, and a cocktail cherry
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1.5 oz Reposado Tequila                             ",
+  "  0.5 oz Mezcal                                       ",
+  " 0.25 oz Allspice Dram                                ",
+  " 0.75 oz [Guava Syrup]({%link recipe_processed/guava_syrup.md%})",
+  "    1 oz Fresh Lemon Juice                            ",
+  "2 Dashes Bitters                                      ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Open Pour
+- Glassware:
+  - High Ball
+  - Crushed Ice
+- Garnish: Orange wheel, grated cinnamon, and a cocktail cherry
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

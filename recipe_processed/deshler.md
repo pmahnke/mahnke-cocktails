@@ -85,3 +85,89 @@ excerpt: |
 - Special Prep: Express the citrus oil into the mixing glass before dropping the swaths in the glass.
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 0.75 oz Rye           ",
+  " 0.75 oz Dubonnet Rouge",
+  "2 dashes Orange Liqueur",
+  "2 dashes Bitters       ",
+  "    2 oz Rye           ",
+  "    1 oz Dubonnet Rouge",
+  " 0.25 oz Orange Liqueur",
+  "2 dashes Bitters       ",
+  "    2 oz Bourbon       ",
+  "    1 oz Lillet Rouge  ",
+  "  0.5 oz Orange Curaçao",
+  "2 dashes Bitters       ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Orange twist
+- Special Prep: Express the citrus oil into the mixing tin before dropping the swaths in the tin.
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Modern Deshler
+
+### Ingredients
+
+|   Amount | Ingredient     | Brand           |
+| -------: | -------------- | --------------- |
+|     2 oz | Rye            | Wild Turkey 101 |
+|     1 oz | Dubonnet Rouge | Dubonnet Rouge  |
+|  0.25 oz | Orange Liqueur | Cointreau       |
+| 2 dashes | Bitters        | Peychaud's      |
+|  1 swath | Lemon Skin     |
+|  1 swath | Orange Skin    |
+
+### Notes
+
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: Orange twist
+- Special Prep: Express the citrus oil into the mixing glass before dropping the swaths in the glass.
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Anders' Deshler
+
+### Ingredients
+
+|   Amount | Ingredient     | Brand                |
+| -------: | -------------- | -------------------- |
+|     2 oz | Bourbon        | Old Grand-Dad Bonded |
+|     1 oz | Lillet Rouge   | Lillet Rouge         |
+|   0.5 oz | Orange Curaçao | Pierre Ferrand       |
+| 2 dashes | Bitters        | Peychaud's           |
+|  1 swath | Lemon Skin     |
+|  1 swath | Orange Skin    |
+
+### Notes
+
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: Orange twist
+- Special Prep: Express the citrus oil into the mixing glass before dropping the swaths in the glass.
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -57,3 +57,53 @@ excerpt: |
 - Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1 oz Cognac                                         ",
+  "  1 oz Gin                                            ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Single Strain
+- Glassware: Champagne Flute
+- Garnish: Lemon Twist
+- Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.### Gin
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Gin
+
+### Ingredients
+
+| Amount | Ingredient                                      | Brand    |
+| -----: | ----------------------------------------------- | -------- |
+|   2 oz | Champagne                                       |
+|   1 oz | Gin                                             | Plymouth |
+| 0.5 oz | Fresh Lemon Juice                               |
+| 0.5 oz | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+
+### Notes
+
+- Method: Shaken
+- Pour: Single Strain
+- Glassware: Champagne Flute
+- Garnish: Lemon Twist
+- Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -38,3 +38,38 @@ excerpt: |
   - Add the remaining ingredients and shake.
   - Hawthorn strain the cocktail into the cheater tin.
   - Then strain the cocktail into the glass filled with crushed ice
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    1 oz Absinthe                                                 ",
+  "    1 oz Sparkling Mineral Water                                  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour:
+  - Open Pour
+  - Single Strain
+- Glassware: 
+  - Frappé Glass
+  - Crushed Ice
+- Garnish: Mint sprig
+- Special Prep:
+  - Cut the quarter lemon into 2 wedges and remove the center pith and de-seed.
+  - Squeeze the juice into the tin, then drop the lemon wedges into the tin.
+  - Add the remaining ingredients and shake.
+  - Hawthorn strain the cocktail into the cheater tin.
+  - Then strain the cocktail into the glass filled with crushed ice
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

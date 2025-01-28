@@ -29,3 +29,31 @@ excerpt: |
 - Glassware:
 - Garnish: Lemon wheels Special
 - Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  2 oz Fino Sherry       ",
+  "0.5 oz Maraschino Liqueur",
+  "  3 oz Prosecco          ",
+  "  1 oz Soda Water        ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware:
+- Garnish: Lemon wheels Special
+- Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

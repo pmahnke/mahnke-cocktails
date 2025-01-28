@@ -61,3 +61,56 @@ excerpt: |
 - Special Prep: None
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 1.5 oz Light Rum                                                ",
+  "0.25 oz Maraschino Liqueur                                       ",
+  "0.25 oz Absinthe                                                 ",
+  "   1 oz Gin                                                      ",
+  " 0.5 oz Swedish Punsch                                           ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Star anise
+- Special Prep: None
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Number 2
+
+### Ingredients
+
+|  Amount | Ingredient                                                | Brand     |
+| ------: | --------------------------------------------------------- | --------- |
+|    1 oz | Gin                                                       | Beefeater |
+|  0.5 oz | Swedish Punsch                                            | Kronan    |
+|  0.5 oz | Fresh Lemon Juice                                         |
+| 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Expressed lemon oil
+- Special Prep: None
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

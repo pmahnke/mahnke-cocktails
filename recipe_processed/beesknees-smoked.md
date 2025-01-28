@@ -28,3 +28,28 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Lightly scorched rosemary sprig
 - Special Prep: Smoke this cocktail with your favorite cocktail-smoking contraption
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   2 oz Dry                                          ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Lightly scorched rosemary sprig
+- Special Prep: Smoke this cocktail with your favorite cocktail-smoking contraption
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

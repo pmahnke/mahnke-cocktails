@@ -31,3 +31,33 @@ excerpt: |
 - Glassware: Footed Rocks Glass
 - Garnish: Lemon Twist
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 0.75 oz Rye           ",
+  " 0.75 oz Cognac        ",
+  " 0.75 oz Sweet Vermouth",
+  "  0.5 oz Bénédictine   ",
+  "2 dashes Bitters       ",
+  "2 dashes Bitters       ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Footed Rocks Glass
+- Garnish: Lemon Twist
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

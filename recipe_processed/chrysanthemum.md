@@ -48,3 +48,30 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Orange Peel
 - Special Prep: Place the swath of orange peel in the mixing glass and stir it with the cocktail. This is called a regal stir, similar to the regal shake. Expressed orange oil over the top of the cocktail.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1.5 oz Dry Vermouth",
+  " 0.75 oz Bénédictine ",
+  "3 dashes Absinthe    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: Orange Peel
+- Special Prep: Place the swath of orange peel in the mixing glass and stir it with the cocktail. This is called a regal stir, similar to the regal shake. Expressed orange oil over the top of the cocktail.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

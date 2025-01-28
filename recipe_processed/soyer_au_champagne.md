@@ -30,3 +30,31 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass. Freeze for 15 to 20 minutes. Pour cocktail around the ice cream. Top with 1 to 1 <sup>1</sup>&frasl;<sub>2</sub> ounces of champagne. Serve with a small spoon.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "       0.5 oz Cognac           ",
+  "       0.5 oz Orange Liqueur   ",
+  "       0.5 oz Bénédictine      ",
+  "  1 to 1.5 oz Brut Champagne   ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: None
+- Special Prep: Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass. Freeze for 15 to 20 minutes. Pour cocktail around the ice cream. Top with 1 to 1.5 ounces of champagne. Serve with a small spoon.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

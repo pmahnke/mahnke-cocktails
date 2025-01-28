@@ -25,3 +25,21 @@ excerpt: |
 2. Over low heat, combine honey syrup and sage leaves - simmer for 5 minutes.
 3. Remove from heat and steep for up to 24 hours.
 4. After 24 hours, remove sage leaves and store sealed in the fridge for up to 2 months.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -28,3 +28,21 @@ excerpt: |
 2. Cap and shake to combine.
 3. Rest in fridge for two hours, agitating occasionally.
 4. Store in fridge for up to 3-4 weeks.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

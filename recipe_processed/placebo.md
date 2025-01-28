@@ -31,3 +31,27 @@ excerpt: |
 - Glassware: Tiki, Crushed Ice
 - Garnish: Grated nutmeg, pineapple fronds, & tiki umbrella
 - Special Prep: Add all ingredients to the larger shaker tin and blend with an emersion blender.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Shaker Tin
+- Pour: Open Pour
+- Glassware: Tiki, Crushed Ice
+- Garnish: Grated nutmeg, pineapple fronds, & tiki umbrella
+- Special Prep: Add all ingredients to the larger shaker tin and blend with an emersion blender.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

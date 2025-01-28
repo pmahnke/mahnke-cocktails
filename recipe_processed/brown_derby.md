@@ -56,3 +56,53 @@ excerpt: |
 - Special Prep: Expressed grapefruit oil
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "1.5 oz Bourbon                                      ",
+  " 1.5 oz Bourbon                                      ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Grapefruit peel
+- Special Prep: Expressed grapefruit oil
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Improved
+
+### Ingredients
+
+|  Amount | Ingredient                                    | Brand                                  |
+| ------: | --------------------------------------------- | -------------------------------------- |
+|  1.5 oz | Bourbon                                       | Still Austin "The Musician" Straight |
+|    1 oz | White Grapefruit Juice                        |
+|  0.5 oz | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
+| 0.25 oz | Fresh Lemon Juice                             |
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Grapefruit peel
+- Special Prep: Expressed grapefruit oil
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

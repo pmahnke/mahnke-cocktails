@@ -29,3 +29,28 @@ excerpt: |
 - Glassware: Low Ball, Large Ice cube
 - Garnish: Lemon wheel & mint sprig
 - Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "         2 oz Bourbon                                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Low Ball, Large Ice cube
+- Garnish: Lemon wheel & mint sprig
+- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

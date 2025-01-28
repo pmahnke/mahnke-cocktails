@@ -29,3 +29,31 @@ excerpt: |
 - Glassware: Champagne
 - Garnish: Expressed oils of a lemon swath and an orange swath
 - Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    5 oz Champagne ",
+  " 0.75 oz Cognac    ",
+  "  1 cube Sugar     ",
+  "10 drops Bitters   ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware: Champagne
+- Garnish: Expressed oils of a lemon swath and an orange swath
+- Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

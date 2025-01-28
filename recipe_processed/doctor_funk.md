@@ -34,3 +34,33 @@ excerpt: |
 - Glassware: Low Ball
 - Garnish: Pineapple fronds
 - Special Prep: Pour cocktail into the glass, and top with sparkling water
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Jamaican Rum                                   ",
+  "0.75 oz Gold Rum                                       ",
+  "0.25 oz Absinthe                                       ",
+  "   1 oz Sparkling Water                                ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method:
+  - Shaken
+  - Crushed Ice
+- Pour: Open Pour
+- Glassware: Low Ball
+- Garnish: Pineapple fronds
+- Special Prep: Pour cocktail into the glass, and top with sparkling water
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

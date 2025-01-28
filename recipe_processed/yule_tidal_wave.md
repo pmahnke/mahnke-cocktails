@@ -35,3 +35,34 @@ excerpt: |
 - Glassware: Hurricane, On the Rocks
 - Garnish: Pineapple fronds, umbrella, and grated nutmeg for garnish
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 0.75 oz Rum                                                      ",
+  " 0.75 oz Bourbon                                                  ",
+  " 0.75 oz Cognac                                                   ",
+  " 0.75 oz Pear Brandy                                              ",
+  "  0.5 oz Licor 43                                                 ",
+  " 0.25 oz Allspice Dram                                            ",
+  "2 dashes Bitters                                                  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Hurricane, On the Rocks
+- Garnish: Pineapple fronds, umbrella, and grated nutmeg for garnish
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

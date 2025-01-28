@@ -35,3 +35,21 @@ excerpt: |
 6. Add simple syrup.
 7. Stir or shake to combine.
 8. Stored covered in the fridge, this will last at least a year.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -31,3 +31,32 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Cocktail Cherry
 - Special Prep: Express orange oil over the cocktail, and wipe the rim with the peal.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "         2 oz Rye               ",
+  "         1 oz Dry Vermouth      ",
+  "      0.25 oz Maraschino Liqueur",
+  "      0.25 oz Amaro             ",
+  "2 to 3 dashes Orange Bitters    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: Cocktail Cherry
+- Special Prep: Express orange oil over the cocktail, and wipe the rim with the peal.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -25,3 +25,21 @@ excerpt: |
 2. Add cinnamon sticks and simmer for 2 minutes.
 3. Remove from heat and allow cinnamon to steep for 6-12 hours.
 4. Remove cinnamon sticks once steeping is complete.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

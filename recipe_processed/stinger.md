@@ -28,3 +28,29 @@ excerpt: |
 - Glassware: Low BallCrushed Ice
 - Garnish: Sprig of mint
 - Special Prep: Spray the absinthe over the top of the cocktail.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   2 oz Cognac         ",
+  "   1 oz Crème de Menthe",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Open Pour
+- Glassware: Low BallCrushed Ice
+- Garnish: Sprig of mint
+- Special Prep: Spray the absinthe over the top of the cocktail.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

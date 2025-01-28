@@ -28,3 +28,28 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Lime Wheel
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   2 oz Light Rum                                      ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Lime Wheel
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

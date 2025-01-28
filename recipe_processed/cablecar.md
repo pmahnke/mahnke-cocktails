@@ -29,3 +29,29 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Cinnamon sugar rim
 - Special Prep: Expressed orange oil
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 1.5 oz Spice Rum                                      ",
+  "0.75 oz Dry Curaçao                                    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Cinnamon sugar rim
+- Special Prep: Expressed orange oil
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

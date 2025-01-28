@@ -33,3 +33,34 @@ excerpt: |
 - Special Prep:
   - Blend cocktail with a stick blender in the shaking tin.
   - Pour cocktail into glass.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    1.5 oz Reposado Tequila",
+  "    0.5 oz Mezcal          ",
+  "  2 dashes Bitters         ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+  - Low Ball
+  - Large Ice Cube
+- Garnish: Expressed grapefruit oil and peel
+- Special Prep:
+  - Blend cocktail with a stick blender in the shaking tin.
+  - Pour cocktail into glass.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

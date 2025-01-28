@@ -33,3 +33,35 @@ excerpt: |
   - Crushed Ice
 - Garnish: 2 cocktail cherries (eyes), orange wedge (beak), 2 pineapple fronds (flippers), & cocktail umbrella for garnish (arranged to look like a penguin)
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1.5 oz Rye                                                        ",
+  "  0.5 oz Crème de Mûre                                              ",
+  " 0.75 oz [Cream of Coconut]({%link recipe_processed/cream_of_coconut_syrup.md%})",
+  " 0.75 oz Fresh Lemon Juice                                          ",
+  " 0.25 oz [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})  ",
+  "2 dashes Bitters                                                    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Open Pour
+- Glassware:
+  - Brandy Snifter
+  - Crushed Ice
+- Garnish: 2 cocktail cherries (eyes), orange wedge (beak), 2 pineapple fronds (flippers), & cocktail umbrella for garnish (arranged to look like a penguin)
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

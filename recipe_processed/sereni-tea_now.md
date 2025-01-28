@@ -30,3 +30,29 @@ excerpt: |
 - Special Prep:
   - Take a can of pears and their syrup and blend them into a prrée.
   - Expressed lemon oil.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Lemon peel
+- Special Prep:
+  - Take a can of pears and their syrup and blend them into a prrée.
+  - Expressed lemon oil.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

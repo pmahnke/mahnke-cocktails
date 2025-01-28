@@ -30,3 +30,30 @@ excerpt: |
   - On the Rocks
 - Garnish: Lemon wheel and cocktail cherry
 - Special Prep: Add cocktail to the glass with ice and top with soda water.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "     2 oz Old Tom Gin                                              ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - High Ball
+  - On the Rocks
+- Garnish: Lemon wheel and cocktail cherry
+- Special Prep: Add cocktail to the glass with ice and top with soda water.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

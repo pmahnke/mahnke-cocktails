@@ -35,3 +35,34 @@ excerpt: |
   - On the rocks
 - Garnish: Mint sprig and orange slice
 - Special Prep: Pour the ginger beer into the glass while pouring the cocktail.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "         1 oz Gin                                                     ",
+  "         1 oz Cognac                                                  ",
+  "         1 oz Bourbon                                                 ",
+  "2 to 3 dashes Bitters                                                 ",
+  "         3 oz Ginger Beer                                             ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - High Ball
+  - On the rocks
+- Garnish: Mint sprig and orange slice
+- Special Prep: Pour the ginger beer into the glass while pouring the cocktail.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

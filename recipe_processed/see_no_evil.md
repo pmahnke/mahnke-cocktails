@@ -32,3 +32,32 @@ excerpt: |
   - Crushed Ice
 - Garnish: Grated nutmeg and mint sprig
 - Special Prep: Open pour the cocktail into the glass. Top with additional crushed ice. Dash bitters on top.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "       1.5 oz Mezcal                                         ",
+  "     3 dashes Tabasco                                        ",
+  "4 to 5 dashes Bitters                                        ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Open Pour
+- Glassware:
+  - Low Ball
+  - Crushed Ice
+- Garnish: Grated nutmeg and mint sprig
+- Special Prep: Open pour the cocktail into the glass. Top with additional crushed ice. Dash bitters on top.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

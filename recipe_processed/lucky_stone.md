@@ -29,3 +29,31 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Cocktail cherry
 - Special Prep: Expressed lemon oil
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1.5 oz Irish Whiskey     ",
+  "    1 oz Amontillado Sherry",
+  "  0.5 oz Apricot Liquer    ",
+  "2 dashes Bitters           ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: Cocktail cherry
+- Special Prep: Expressed lemon oil
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

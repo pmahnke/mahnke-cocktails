@@ -29,3 +29,30 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: Express lemon oil over the cocktail, and wipe the rim with the peal.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   2 oz Scotch, Blended",
+  "   1 oz Sweet Vermouth ",
+  " 0.5 oz Bénédictine    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: None
+- Special Prep: Express lemon oil over the cocktail, and wipe the rim with the peal.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

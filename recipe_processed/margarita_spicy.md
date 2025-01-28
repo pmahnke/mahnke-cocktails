@@ -32,3 +32,31 @@ excerpt: |
   - On the Rocks
 - Garnish: Lime wheel
 - Special Prep: Muddle the jalapeño slices in the cheater tin before shaking. Tajin rim.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "         2 oz Mezcal          ",
+  "         1 oz Orange Curaçao  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - Low Ball
+  - On the Rocks
+- Garnish: Lime wheel
+- Special Prep: Muddle the jalapeño slices in the cheater tin before shaking. Tajin rim.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

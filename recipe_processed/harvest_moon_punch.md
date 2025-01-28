@@ -32,3 +32,34 @@ excerpt: |
 - Glassware: Punch Glass
 - Garnish: Grated nutmeg
 - Special Prep: Add large ice cubes of black tea and apple slices
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 12 oz Jamacian Rum                                            ",
+  "  9 oz Apple Brandy                                            ",
+  "  6 oz Orchard Pear Liqueur                                    ",
+  "  3 oz Allspice Dram                                           ",
+  "  6 oz [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%})",
+  "  9 oz Fresh Lemon Juice                                       ",
+  "24 oz. Black Tea (chilled)                                     ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: ShakenBuild in the serving vessel
+- Pour: Add all ingredients directly to the glaserving vesselss
+- Glassware: Punch Glass
+- Garnish: Grated nutmeg
+- Special Prep: Add large ice cubes of black tea and apple slices
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

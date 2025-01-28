@@ -63,3 +63,62 @@ excerpt: |
 - Special Prep: None
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 24 oz Cognac                                         ",
+  " 12 oz Jamaican Rum                                   ",
+  "  6 oz Peach Liqueur                                  ",
+  "  6 oz Apple Brandy                                   ",
+  "   1 oz Cognac                                         ",
+  " 0.5 oz Jamaican Rum                                   ",
+  "0.25 oz Peach Liqueur                                  ",
+  "0.25 oz Apple Brandy                                   ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in Punch Bowl
+- Pour: Add all ingredients directly to the punch bowl
+- Glassware: Punch Cups
+- Garnish: Citrus wheels in the punch bowl and grated nutmeg in the glass
+- Special Prep: None
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Single Serving
+
+## Ingredients
+
+|  Amount | Ingredient                                      | Brand                     |
+| ------: | ----------------------------------------------- | ------------------------- |
+|    1 oz | Cognac                                          | Pierre Ferrand 1840       |
+|  0.5 oz | Jamaican Rum                                    | Appleton Estate Signature |
+| 0.25 oz | Peach Liqueur                                   | Rothman & Winter Orchard  |
+| 0.25 oz | Apple Brandy                                    | Laird's Straight          |
+|  0.5 oz | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.75 oz | Fresh Lemon Juice                               |
+|    2 oz | Cold Water                                      |
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Punch Cup
+- Garnish: Grated nutmeg
+- Special Prep: None
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

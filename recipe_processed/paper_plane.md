@@ -29,3 +29,30 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Small paper plane
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Bourbon          ",
+  "0.75 oz Light Amaro      ",
+  "0.75 oz Aperol           ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Nick & Nora
+- Garnish: Small paper plane
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -33,3 +33,32 @@ excerpt: |
   - Crushed Ice
 - Garnish: Grated Nutmeg and a Mint Sprig
 - Special Prep: Swizzle in the glass, and top with additional crushed ice.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 1.5 oz Green Chartreuse                 ",
+  " 0.5 oz Falernum                         ",
+  "0.25 oz Optional - Overproof Jamaican Rum",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Swizzled
+- Pour: Add all ingredients directly to the glass
+- Glassware:
+  - High Ball
+  - Crushed Ice
+- Garnish: Grated Nutmeg and a Mint Sprig
+- Special Prep: Swizzle in the glass, and top with additional crushed ice.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

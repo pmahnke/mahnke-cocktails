@@ -56,3 +56,56 @@ excerpt: |
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Triple Sec       ",
+  "0.75 oz Crème De Menthe  ",
+  " 1.5 oz Gin                                            ",
+  "0.75 oz Triple Sec                                     ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Nick & Nora
+- Garnish: None
+- Special Prep: None
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Updated
+
+### Ingredients
+
+|  Amount | Ingredient                                      | Brand           |
+| ------: | ----------------------------------------------- | --------------- |
+|  1.5 oz | Gin                                             | Plymouth        |
+| 0.75 oz | Triple Sec                                      | Luxardo Triplum |
+| 0.75 oz | Fresh Lemon Juice                               |
+| 0.25 oz | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| 0.75 oz | Egg White / Aquafaba (chickpea water)           |
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Nick & Nora
+- Garnish: None
+- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

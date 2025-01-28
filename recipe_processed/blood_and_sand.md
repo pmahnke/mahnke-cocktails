@@ -29,3 +29,30 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Orange slice and cocktail cherry
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Blended Scotch    ",
+  "0.75 oz Sweet Vermouth    ",
+  "0.75 oz Cherry Liqueur    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Single Strain
+- Glassware: Coupe
+- Garnish: Orange slice and cocktail cherry
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

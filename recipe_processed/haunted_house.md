@@ -32,3 +32,33 @@ excerpt: |
   - Large Ice cube
 - Garnish: Expressed orange oil and cherry
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    1 oz Jamaican Rum                                   ",
+  "    1 oz Rye                                            ",
+  "  0.5 oz Swedish Punsch                                 ",
+  "2 dashes Bitters                                        ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+  - Low Ball
+  - Large Ice cube
+- Garnish: Expressed orange oil and cherry
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

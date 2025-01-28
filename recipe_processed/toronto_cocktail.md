@@ -29,3 +29,30 @@ excerpt: |
 - Glassware: Martini
 - Garnish: None
 - Special Prep: Flamed Orange Rind
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    2 oz Rye                                                     ",
+  " 0.25 oz Fernet Branca                                           ",
+  "2 dashes Bitters                                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Martini
+- Garnish: None
+- Special Prep: Flamed Orange Rind
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -54,3 +54,37 @@ excerpt: |
     - Strain cocktail into the cheater tin.
     - Remove ice
     - Dry shake cocktail
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   2 oz Genever                                                  ",
+  " 1.5 oz Jamaican Rum                                             ",
+  " 1.5 oz Yellow Chartreuse                                        ",
+  " 0.5 oz Orange Curaçao                                           ",
+  " 0.5 oz Bitters                                                  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Pineapple slice
+- Special Prep:
+  - Reverse dry shake:
+    - Shake cocktail with ice first.
+    - Strain cocktail into the cheater tin.
+    - Remove ice
+    - Dry shake cocktail
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

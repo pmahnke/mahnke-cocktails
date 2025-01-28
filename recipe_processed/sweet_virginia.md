@@ -32,3 +32,33 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Pinapple wedge and a cocktail cherry
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 1.5 oz Bourbon        ",
+  "0.75 oz Cherry Liqueur ",
+  " 0.5 oz Dry Curaçao    ",
+  " 0.5 oz Sweet Vermouth ",
+  " 1 dash Bitters        ",
+  " 1 dash Bitters        ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Pinapple wedge and a cocktail cherry
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

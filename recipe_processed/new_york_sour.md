@@ -30,3 +30,28 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: Add all the ingredients to a shaking tin, except the red wine. For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white. Float the red wine on top of the cocktail. Lemon oil (optional).
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 1.5 oz Bourbon                                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: None
+- Special Prep: Add all the ingredients to a shaking tin, except the red wine. For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white. Float the red wine on top of the cocktail. Lemon oil (optional).
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -31,3 +31,29 @@ excerpt: |
 - Glassware: Double Old Fashioned
 - Garnish: Strawberry
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "         2 oz Reposado Tequila   ",
+  "         1 oz Orange Curaçao     ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Blended
+- Pour: Add all ingredients directly to the blender
+- Glassware: Double Old Fashioned
+- Garnish: Strawberry
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

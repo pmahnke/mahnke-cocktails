@@ -28,3 +28,30 @@ excerpt: |
 - Glassware: Cocktail
 - Garnish: Grated Nutmeg
 - Special Prep: For an extra decadent alexander, substitute 2 scoops of vanilla ice cream for the cream. To mix, combine in a blender with half a scoop of ice for a frozen brandy alexander.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  2 oz Cognac        ",
+  "  1 oz Crème de Cacao",
+  "  1 oz Cream         ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Cocktail
+- Garnish: Grated Nutmeg
+- Special Prep: For an extra decadent alexander, substitute 2 scoops of vanilla ice cream for the cream. To mix, combine in a blender with half a scoop of ice for a frozen brandy alexander.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

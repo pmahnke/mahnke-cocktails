@@ -33,3 +33,32 @@ excerpt: |
   - On the Rocks
 - Garnish: Mint sprig
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "1.5 oz Bourbon                                                  ",
+  "  1 oz Light Amaro                                              ",
+  "0.5 oz Peach Liqueur                                            ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - Mason Jar
+  - On the Rocks
+- Garnish: Mint sprig
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

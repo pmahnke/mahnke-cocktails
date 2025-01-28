@@ -34,3 +34,32 @@ excerpt: |
   - Top with more soday water.
   - Expressed orange oil.
   - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: High Ball
+- Garnish: None
+- Special Prep:
+  - Add half the soda water to the glass
+  - Strain in the cocktail.
+  - Top with more soday water.
+  - Expressed orange oil.
+  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -31,3 +31,32 @@ excerpt: |
   - On the rocks
 - Garnish: 3 Blackberries
 - Special Prep: Pour cocktail into glass and top it off with champagne.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   1 oz Gin                                                      ",
+  " 0.5 oz Crème de Mûre                                            ",
+  "0.25 oz [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Single Strain
+- Glassware:
+  - High Ball
+  - On the rocks
+- Garnish: 3 Blackberries
+- Special Prep: Pour cocktail into glass and top it off with champagne.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

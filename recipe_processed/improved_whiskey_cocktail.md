@@ -30,3 +30,32 @@ excerpt: |
 - Glassware: Low Ball
 - Garnish: Expressed lemon oil and peel
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "         2 oz Rye                                                      ",
+  "      0.25 oz [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})",
+  "     3 dashes Cardamom Bitters                                         ",
+  "   1 barspoon Maraschino Liqueur                                       ",
+  "1 to 2 dashes Absinthe                                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Low Ball
+- Garnish: Expressed lemon oil and peel
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

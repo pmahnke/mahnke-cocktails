@@ -30,3 +30,31 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    2 oz Irish Whiskey                                                     ",
+  " 0.75 oz [Cocoa Nib Infused Campari]({%link recipe_processed/cocoa_nib_campari.md %})",
+  "  0.5 oz White Crème de Cacao                                              ",
+  "  0.5 oz Banane du Brésil                                                  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: None
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -30,3 +30,29 @@ excerpt: |
 - Glassware: Cocktail
 - Garnish: Lime Wheel
 - Special Prep: Let the cocktail rest to allow for the foam to subside before floating the lime wheel on top.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 1.5 oz Light Rum                                                ",
+  " 0.5 oz Apricot Liqueur                                          ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Cocktail
+- Garnish: Lime Wheel
+- Special Prep: Let the cocktail rest to allow for the foam to subside before floating the lime wheel on top.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

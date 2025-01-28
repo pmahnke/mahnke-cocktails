@@ -34,3 +34,30 @@ excerpt: |
 - Glassware: Tea cups
 - Garnish: Dried Apples
 - Special Prep: Add spices to a spice bag.Add apple cider and the spice bag to a pot and heat.Add remaining ingredients to the pot.Simmer covered for 20 to 25 minutes.Turn off the heat, remove spice bag and add the apple brandy. Serve in tea cups garnished with the dries apple slices.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   2 cups Amontillado Sherry",
+  "    1 cup Dark Beer         ",
+  "  0.5 cup Apple Brandy      ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Pot
+- Pour: Add all ingredients directly to the pot
+- Glassware: Tea cups
+- Garnish: Dried Apples
+- Special Prep: Add spices to a spice bag.Add apple cider and the spice bag to a pot and heat.Add remaining ingredients to the pot.Simmer covered for 20 to 25 minutes.Turn off the heat, remove spice bag and add the apple brandy. Serve in tea cups garnished with the dries apple slices.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

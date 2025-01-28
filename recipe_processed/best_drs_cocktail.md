@@ -30,3 +30,32 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    1 oz Jamaican Rum                                            ",
+  " 0.75 oz Swedish Punsch                                          ",
+  " 0.75 oz Fresh Lime Juice                                        ",
+  "  0.5 oz [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%})",
+  "2 dashes Bitters                                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: None
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

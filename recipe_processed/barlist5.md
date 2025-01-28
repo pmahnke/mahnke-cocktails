@@ -37,3 +37,21 @@ youtube: "v=hoJ1_OlfCA8"
   - <a href="https://amzn.to/3FtxYFo" target="_blank">My amaro book</a>
   - <a href="https://amzn.to/3nvHf9z" target="_blank">Great book on shrubs</a>
   - <a href="https://amzn.to/3qUSgn0" target="_blank">How's Your Drink?</a> (another book I've read over and over)
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

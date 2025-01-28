@@ -28,3 +28,30 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Expressed orange oil
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "1.25 oz Gin            ",
+  "   1 oz Apple Brandy   ",
+  "0.75 oz Apricot Liqueur",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: Expressed orange oil
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

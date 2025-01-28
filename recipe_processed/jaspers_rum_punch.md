@@ -29,3 +29,30 @@ excerpt: |
   - Crushed Ice
 - Garnish: Grated nutmeg and mint sprig
 - Special Prep: Top glass with additional crushed ice
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "1.5 oz Overproof Jamaican Rum                        ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Swizzled
+- Pour: Open Pour
+- Glassware:
+  - High Ball
+  - Crushed Ice
+- Garnish: Grated nutmeg and mint sprig
+- Special Prep: Top glass with additional crushed ice
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

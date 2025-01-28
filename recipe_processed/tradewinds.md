@@ -32,3 +32,32 @@ excerpt: |
   - Crushed Ice
 - Garnish: Grated Nutmeg, Pineapple Fronds and a Cocktail Umbrella
 - Special Prep: Stir the drink heavily in the glass.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1 oz Dark Rum                                                   ",
+  "  1 oz Gold Rum                                                   ",
+  "  1 oz Apricot Liqueur                                            ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware:
+  - Tiki
+  - Crushed Ice
+- Garnish: Grated Nutmeg, Pineapple Fronds and a Cocktail Umbrella
+- Special Prep: Stir the drink heavily in the glass.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

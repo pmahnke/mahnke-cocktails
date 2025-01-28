@@ -32,3 +32,33 @@ excerpt: |
   - Large Ice Cube
 - Garnish: Expressed lemon oil
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    1 oz Bourbon                                        ",
+  "    1 oz Cognac                                         ",
+  "3 dashes Bitters                                        ",
+  "  1 dash Bitters                                        ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+  - Low Ball
+  - Large Ice Cube
+- Garnish: Expressed lemon oil
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

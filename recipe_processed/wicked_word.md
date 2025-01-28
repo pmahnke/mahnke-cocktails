@@ -33,3 +33,35 @@ excerpt: |
   - Pour the cocktail into a Nick & Nora glass.
   - Into a small snifter add the sambuca, and light it.
   - Pour the flaming sambuca on the cocktail and stir.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1 oz Cognac           ",
+  "  1 oz Aperol           ",
+  "  1 oz Fresh Lemon Juice",
+  "  1 oz Black Sambuca    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Nick & Nora
+- Garnish: None
+- Special Prep:
+  - Add the cognac, Aperol and lemon juice to a shaker and shake.
+  - Pour the cocktail into a Nick & Nora glass.
+  - Into a small snifter add the sambuca, and light it.
+  - Pour the flaming sambuca on the cocktail and stir.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

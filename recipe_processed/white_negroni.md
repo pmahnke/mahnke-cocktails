@@ -30,3 +30,32 @@ excerpt: |
   - Large Ice cube
 - Garnish: Grapefruit zest
 - Special Prep: Express grapefruit oil on the drink.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 1.5 oz Gin         ",
+  "0.75 oz Suze        ",
+  "0.75 oz Lillet Blanc",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+  - Low Ball
+  - Large Ice cube
+- Garnish: Grapefruit zest
+- Special Prep: Express grapefruit oil on the drink.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

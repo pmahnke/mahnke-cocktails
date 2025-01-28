@@ -27,3 +27,21 @@ excerpt: |
 3. Add 2 cups simple syrup and simmer on low for 20 minutes.
 4. Remove from heat, let sit for 1 hour.
 5. Once cooled, filter off solids. Store sealed in fridge for up to 2 weeks.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

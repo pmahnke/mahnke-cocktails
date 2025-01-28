@@ -29,3 +29,31 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Expressed lemon oil
 - Special Prep: Pour cocktail into the coupe and top with champagne. Then express the lemon oil over the top of the cocktail.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "       0.5 oz Campari        ",
+  "       0.5 oz Apricot Liqueur",
+  "1 to 2 dashes Absinthe       ",
+  "         4 oz Champagne      ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: Expressed lemon oil
+- Special Prep: Pour cocktail into the coupe and top with champagne. Then express the lemon oil over the top of the cocktail.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

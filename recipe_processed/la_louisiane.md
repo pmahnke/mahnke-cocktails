@@ -58,3 +58,60 @@ excerpt: |
 - Garnish: Expressed lemon oil
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  0.5 oz Rye                    ",
+  "  0.5 oz Sweet Vermouth         ",
+  "  0.5 oz Bénédictine            ",
+  "4 dashes Bitters                ",
+  "  1.5 oz Rye           ",
+  " 0.75 oz Sweet Vermouth",
+  " 0.75 oz Bénédictine   ",
+  "4 dashes Bitters       ",
+  "4 dashes Bitters       ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: Cocktail cherry
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Updated
+
+### Ingredients
+
+|   Amount | Ingredient     | Brand                      |
+| -------: | -------------- | -------------------------- |
+|   1.5 oz | Rye            | Rittenhouse 100 Proof      |
+|  0.75 oz | Sweet Vermouth | Cocchi Vermouth di Torino  |
+|  0.75 oz | Bénédictine    | Bénédictine DOM            |
+| 4 dashes | Bitters        | Peychaud's                 |
+| 4 dashes | Bitters        | Angostura Aromatic Bitters |
+|  1 rinse | Absinthe       |
+
+### Notes
+
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: Expressed lemon oil
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

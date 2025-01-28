@@ -28,3 +28,31 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: Pour cocktail into glass and top it off with the champagne.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1 oz Gold Rum                                     ",
+  "0.5 oz [Honey Syrup]({%link recipe_processed/honey_syrup.md%})",
+  "0.5 oz Fresh Lime Juice                             ",
+  "  2 oz Champagne                                    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: None
+- Special Prep: Pour cocktail into glass and top it off with the champagne.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

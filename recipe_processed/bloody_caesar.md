@@ -32,3 +32,33 @@ excerpt: |
   - On the Rocks
 - Garnish: Your Choice
 - Special Prep: Celery Salt the rim
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    1.5 oz Vodka               ",
+  "      3 oz Clamato Juice       ",
+  "  2 dashes Worcestershire Sauce",
+  "  2 dashes Hot Sauce           ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware:
+  - High Ball
+  - On the Rocks
+- Garnish: Your Choice
+- Special Prep: Celery Salt the rim
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

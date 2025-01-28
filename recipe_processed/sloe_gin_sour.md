@@ -30,3 +30,29 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Expressed lemon oil and 3 drops of Angostura Bitters
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 1.5 oz Sloe Gin                                                 ",
+  " 0.5 oz Campari                                                  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Expressed lemon oil and 3 drops of Angostura Bitters
+- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

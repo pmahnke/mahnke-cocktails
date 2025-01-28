@@ -26,3 +26,21 @@ youtube: "v=I9XrSLALKA4"
 - BAR MATS
     - Rubber bar mat by <a href="https://amzn.to/3h2IJER" target="_blank">Yisharry Li (6"x12")</a>
     - Rubber bar mat by <a href="https://amzn.to/39HqQZ5" target="_blank">New Star (12"x18")</a>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

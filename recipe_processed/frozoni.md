@@ -31,3 +31,29 @@ excerpt: |
 - Glassware: High Ball
 - Garnish: Grape
 - Special Prep: Add  <sup>3</sup>&frasl;<sub>4</sub> cup of crushed ice to the tin. Blend cocktail with a stick blender in the shaking tin.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   1 oz Gin                                                      ",
+  "   1 oz Campari                                                  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Blended
+- Pour: Open Pour
+- Glassware: High Ball
+- Garnish: Grape
+- Special Prep: Add 0.75 cup of crushed ice to the tin. Blend cocktail with a stick blender in the shaking tin.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

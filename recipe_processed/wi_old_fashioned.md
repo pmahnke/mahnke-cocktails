@@ -48,3 +48,50 @@ excerpt: |
   - Half Soda Water/Half Sweet
 - No Wash:
   - No Floater
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    2 oz Brandy                                                   ",
+  " 0.25 oz [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})",
+  "4 dashes Bitters                                                  ",
+  "2 wedges Orange                                                   ",
+  " 1 whole Cocktail Cherry                                          ",
+  "  0.5 oz Wash - See below                                         ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware:
+  - Low Ball
+  - Crushed Ice
+- Garnish: Orange slice and a cocktail cherry
+- Special Prep: Add the 2 wedges of orange and the cocktail cherry to the glass and muddle. Add the remaining ingredients. Top with the wash of choice.
+
+### Washes
+
+- Sweet:
+  - 7 Up
+  - Sprite
+- Sour:
+  - Squirt
+  - Fresca
+- Soda:
+  - Soda Water
+- Press:
+  - Half Soda Water/Half Sweet
+- No Wash:
+  - No Floater
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

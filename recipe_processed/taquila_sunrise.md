@@ -81,3 +81,81 @@ excerpt: |
 - Special Prep: None
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   1.5 oz Reposado Tequila",
+  "  0.75 oz Creme de Cassis ",
+  "  2 oz Blanco Tequila",
+  "0.5 oz Grenadine     ",
+  "   1.5 oz Reposado Tequila                               ",
+  "   0.5 oz Creme de Cassis                                ",
+  "   1 dash Bitters                                        ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware:
+- Garnish: Lime wheel and cocktail cherry
+- Special Prep: None
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## 1970s Version
+
+### Ingredients
+
+| Amount | Ingredient     | Brand        |
+| -----: | -------------- | ------------ |
+|   2 oz | Blanco Tequila | Siete Leguas |
+|   4 oz | Orange Juice   |
+| 0.5 oz | Grenadine      | Monin        |
+
+### Notes
+
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware: Collins glass
+- Garnish: Orange slice
+- Special Prep: Stir orange juice and tequilla, then pour the grenadine down the side of the glass.
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Modified
+
+### Ingredients
+
+|    Amount | Ingredient                                      | Brand                                   |
+| --------: | ----------------------------------------------- | --------------------------------------- |
+|    1.5 oz | Reposado Tequila                                | Siete Leguas                            |
+|    0.5 oz | Creme de Cassis                                 | Jules Theuriet Creme de Cassis de Dijon |
+|   0.25 oz | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|   0.75 oz | Fresh Lime Juice                                |
+|    1 dash | Bitters                                         | Angostura Aromatic Bitters              |
+| 4 to 5 oz | Soda Water                                      |
+
+### Notes
+
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware: Collins glass
+- Garnish: Lime wheel and cocktail cherry
+- Special Prep: None
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

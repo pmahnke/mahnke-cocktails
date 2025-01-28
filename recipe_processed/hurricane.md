@@ -59,3 +59,57 @@ excerpt: |
 - Prep: None
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1 oz Jamaican Rum                                                 ",
+  "  1 oz Dark Rum                                                     ",
+  "   1 oz Rum                                            ",
+  "   1 oz Demerara Rum                                   ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Open Pour
+- Glassware: Hurricane Glass
+- Garnish: Pineapple fronds and wind-blown umbrella Special
+- Prep: None
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Number 2
+
+### Ingredients
+
+|  Amount | Ingredient                                      | Brand             |
+| ------: | ----------------------------------------------- | ----------------- |
+|    1 oz | Rum                                             | Real McCoy 3 Year |
+|    1 oz | Demerara Rum                                    | El Dorado 8 Year  |
+|    1 oz | Passion Fruit Juice                             |
+|  0.5 oz | Fresh Orange Juice                              |
+| 0.25 oz | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+| 0.25 oz | Fresh Lime Juice                                |
+
+### Notes
+
+- Method: Shaken
+- Pour: Open Pour
+- Glassware:
+- Garnish: Orange wheel, cherry, and wind-blown umbrella Special
+- Prep: None
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

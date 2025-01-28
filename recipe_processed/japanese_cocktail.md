@@ -58,3 +58,54 @@ excerpt: |
 - Special Prep:
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    2 oz Cognac                                         ",
+  "  1.5 oz Cognac                                         ",
+  "2 dashes Peychaud's bitters                             ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: Expressed lemon oil
+- Special Prep: None
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## The Improved Japanese Cocktail (Toby Cecchini)
+
+### Ingredients
+
+|   Amount | Ingredient                                      | Brand               |
+| -------: | ----------------------------------------------- | ------------------- |
+|   1.5 oz | Cognac                                          | Pierre Ferrand 1840 |
+|  0.75 oz | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+|  0.75 oz | Fresh Lemon Juice                               |
+| 2 dashes | Peychaud's bitters                              | Peychaud's bitters  |
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Nick & Nora
+- Garnish: None
+- Special Prep:
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

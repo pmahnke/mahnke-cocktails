@@ -28,3 +28,30 @@ excerpt: |
 - Glassware: Martini
 - Garnish: Grapefruit zest
 - Special Prep: Express grapefruit oil over cocktail.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1 oz Rosolio Italicus ",
+  "  1 oz Reposado Tequila ",
+  "  1 oz Manzanilla Sherry",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Martini
+- Garnish: Grapefruit zest
+- Special Prep: Express grapefruit oil over cocktail.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

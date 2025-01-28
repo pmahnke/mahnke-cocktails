@@ -30,3 +30,32 @@ excerpt: |
   - Large Ice cube
 - Garnish: Flamed lemon oil
 - Special Prep: Serve in a smoke-rinsed lowball glass
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "         2 oz Bourbon    ",
+  "       0.5 oz Bénédictine",
+  "3 to 4 dashes Bitters    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+  - Low Ball
+  - Large Ice cube
+- Garnish: Flamed lemon oil
+- Special Prep: Serve in a smoke-rinsed lowball glass
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

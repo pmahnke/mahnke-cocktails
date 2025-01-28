@@ -30,3 +30,32 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Lemon peel
 - Special Prep: Expressed lemon oil
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1.5 oz Rye Whiskey   ",
+  "    1 oz Sweet Vermouth",
+  " 0.25 oz Bénédictine   ",
+  " 0.25 oz Amaro         ",
+  "2 dashes Orange Bitters",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: Lemon peel
+- Special Prep: Expressed lemon oil
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

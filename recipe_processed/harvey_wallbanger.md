@@ -33,3 +33,32 @@ excerpt: |
   - On the rocks
 - Garnish: Orange wheel and cocktail cherry
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1.5 oz Vodka             ",
+  "    1 oz Galliano          ",
+  "  0.5 oz Dry Curaçao       ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - High Ball
+  - On the rocks
+- Garnish: Orange wheel and cocktail cherry
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

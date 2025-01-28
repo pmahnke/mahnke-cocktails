@@ -31,3 +31,29 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Mint leaf
 - Special Prep: Add mint leaves to the shaking tin and add other ingredients minus the champagne. Pour cocktail into glass and top it off with champagne.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "       1.5 oz Gold Rum                                                 ",
+  "2 to 3 dashes Bitters                                                  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Mint leaf
+- Special Prep: Add mint leaves to the shaking tin and add other ingredients minus the champagne. Pour cocktail into glass and top it off with champagne.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

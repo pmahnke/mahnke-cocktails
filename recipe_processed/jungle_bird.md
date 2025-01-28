@@ -33,3 +33,32 @@ excerpt: |
   - On the rocks
 - Garnish: Pineapple wedges and fronds
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Jamaican Rum                                            ",
+  "0.75 oz Demerara Rum                                            ",
+  "0.75 oz Campari                                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - High Ball
+  - On the rocks
+- Garnish: Pineapple wedges and fronds
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

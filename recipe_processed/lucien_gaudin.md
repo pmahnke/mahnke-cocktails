@@ -29,3 +29,31 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Orange peel
 - Special Prep: Expressed orange oil
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  1 oz Gin           ",
+  "0.5 oz White Vermouth",
+  "0.5 oz Campari       ",
+  "0.5 oz Cointreau     ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: Orange peel
+- Special Prep: Expressed orange oil
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -33,3 +33,32 @@ excerpt: |
   - Crushed Ice
 - Garnish: Pineapple slices, pineapple fronds, and cocktail umbrella
 - Special Prep: Pour cocktaill over crushed ice, and top with additional crushed ice.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   1 oz Light Rum                                                ",
+  " 0.5 oz Rhum Agricole                                            ",
+  "0.75 oz Blue Curaçao                                             ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - Hurricane Glass
+  - Crushed Ice
+- Garnish: Pineapple slices, pineapple fronds, and cocktail umbrella
+- Special Prep: Pour cocktaill over crushed ice, and top with additional crushed ice.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

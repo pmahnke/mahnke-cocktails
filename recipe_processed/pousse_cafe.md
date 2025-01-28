@@ -32,3 +32,34 @@ excerpt: |
 - Glassware: Pousse Cafe Glass
 - Garnish: None
 - Special Prep: Layer each ingredient carefully to show the individual layers.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.5 oz Raspberry Gum Syrup ",
+  "0.5 oz White Crème de Cacao",
+  "0.5 oz Crème de Violette   ",
+  "0.5 oz Light Amaro         ",
+  "0.5 oz Green Chartreuse    ",
+  "0.5 oz Cognac              ",
+  "0.5 oz Absinthe            ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Layer all ingredients directly to the glass
+- Glassware: Pousse Cafe Glass
+- Garnish: None
+- Special Prep: Layer each ingredient carefully to show the individual layers.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -61,3 +61,59 @@ excerpt: |
 - Special Prep: Optionally, top each glass with a splash of soda water
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "        4 oz Apricot Liqueur                                         ",
+  "        6 oz Fino Sherry                                             ",
+  "      750 ml Dry White Wine                                          ",
+  "        1 oz Apricot Liqueur                                         ",
+  "      1.5 oz Fino Sherry                                             ",
+  "        6 oz Dry White Wine                                          ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in Punch Bowl
+- Pour: Add all ingredients directly to the punch bowl
+- Glassware: Punch Cups
+- Garnish: A strawberry and a peach slice
+- Special Prep: Optionally, top each glass with a splash of soda water
+
+</div>
+<div class="subrecipe" markdown="1">
+
+### Scaled Version (serves 1 to 2)
+
+|       Amount | Ingredient                                               | Brand                 |
+| -----------: | -------------------------------------------------------- | --------------------- |
+|     2 slices | Peach, sliced                                            |
+|     2 slices | Lemon, sliced                                            |
+| 1 to 2 whole | Strawberries, sliced                                     |
+|      0.75 oz | [Semi-RichSimple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|         1 oz | Fresh Lemon Juice                                        |
+|         1 oz | Apricot Liqueur                                          | Giffard Orchard       |
+|       1.5 oz | Fino Sherry                                              | Valdespino "Ynocente" |
+|         6 oz | Dry White Wine                                           | Abellio Albariño      |
+
+### Notes
+
+- Method: Build in mason jar
+- Pour: Add all ingredients to the jar
+- Glassware: Punch Cups
+- Garnish: A strawberry and a peach slice
+- Special Prep: Optionally, top each glass with a splash of soda water
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

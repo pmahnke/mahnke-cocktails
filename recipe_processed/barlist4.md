@@ -33,3 +33,21 @@ youtube: "v=CODeSo8ePtM"
   - My <a href="https://amzn.to/3BScssO" target="_new">Citrus Bottle</a> (6.3oz/187ml) BULK ONLY
   - My <a href="https://amzn.to/3iezKkZ" target="_new">Syrup Carafe</a> (4 <sup>1</sup>&frasl;<sub>2</sub>oz/135ml)
   - Comparable <a href="https://amzn.to/2UX65E6" target="_new">Carafe</a> (6 <sup>1</sup>&frasl;<sub>2</sub>oz/195ml)
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

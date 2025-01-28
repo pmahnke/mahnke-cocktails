@@ -30,3 +30,32 @@ excerpt: |
   - On the Rocks
 - Garnish: Lemon Wheel
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "1.25 oz Campari       ",
+  "1.25 oz Sweet Vermouth",
+  "   3 oz Soda Water    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Built in the glass
+- Pour: Add all ingredients directly to the glass
+- Glassware:
+  - Low Ball
+  - On the Rocks
+- Garnish: Lemon Wheel
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

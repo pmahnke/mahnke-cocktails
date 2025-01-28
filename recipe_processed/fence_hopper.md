@@ -31,3 +31,30 @@ excerpt: |
 - Glassware: Beer Mug
 - Garnish: Cinnamon stick
 - Special Prep: Pour the IPA into the glass and top with the cocktail.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "     1 oz Bourbon          ",
+  " 2 dashes Bitters          ",
+  "3 to 4 oz IPA              ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Beer Mug
+- Garnish: Cinnamon stick
+- Special Prep: Pour the IPA into the glass and top with the cocktail.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

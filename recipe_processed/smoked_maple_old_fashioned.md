@@ -30,3 +30,31 @@ excerpt: |
   - Large Ice cube
 - Garnish: Orange Zest and Cocktail Cherry
 - Special Prep: Smoke the low ball glass with wood smoke. Express the orange zest over the cocktail.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    2 oz Bourbon             ",
+  "3 dashes Black Walnut Bitters",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+  - Low Ball
+  - Large Ice cube
+- Garnish: Orange Zest and Cocktail Cherry
+- Special Prep: Smoke the low ball glass with wood smoke. Express the orange zest over the cocktail.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

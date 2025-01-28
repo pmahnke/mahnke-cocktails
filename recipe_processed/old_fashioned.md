@@ -33,3 +33,31 @@ ercerpt: |
   - Large Ice cube
 - Garnish: Orange Zest and a Cocktail Cherry
 - Special Prep: On the rocks
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    2 oz Bourbon                                                 ",
+  "4 dashes Bitters                                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+  - Low Ball
+  - Large Ice cube
+- Garnish: Orange Zest and a Cocktail Cherry
+- Special Prep: On the rocks
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

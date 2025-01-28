@@ -42,3 +42,37 @@ excerpt: |
   - Drop in the second ice cube
   - Top with the sparkling water
   - Feel free to swap out the base spirit
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "1.5 oz Gin            ",
+  "  3 oz Sparkling Water",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware:
+  - High Ball
+  - On the Rocks
+- Garnish: lime shell
+- Special Prep:
+  - Drop in one ice cube
+  - Juice the half lime and drop in the lime shell
+  - Add the Gin
+  - Drop in the second ice cube
+  - Top with the sparkling water
+  - Feel free to swap out the base spirit
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

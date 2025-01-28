@@ -28,3 +28,30 @@ excerpt: |
 - Glassware: Cocktail Glass
 - Garnish: Grated nutmeg
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Rye              ",
+  "0.75 oz Yellow Chartreuse",
+  "0.75 oz Bénédictine      ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Single Strain
+- Glassware: Cocktail Glass
+- Garnish: Grated nutmeg
+- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

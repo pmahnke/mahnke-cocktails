@@ -27,3 +27,29 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Heavy cream float
 - Special Prep: Shake the heavy cream in a mixing tin till thick.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  2 oz Coffee Liqueur",
+  "  1 oz Irish Whiskey ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware: Nick & Nora
+- Garnish: Heavy cream float
+- Special Prep: Shake the heavy cream in a mixing tin till thick.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

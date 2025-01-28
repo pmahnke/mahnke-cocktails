@@ -31,3 +31,32 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Orange Twist
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Gin               ",
+  "0.75 oz Dry Vermouth      ",
+  "0.75 oz Sweet Vermouth    ",
+  " 0.5 oz Orange Liqueur    ",
+  " 1 dash Orange Bitters    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Nick & Nora
+- Garnish: Orange Twist
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

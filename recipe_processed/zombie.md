@@ -37,3 +37,35 @@ excerpt: |
 - Glassware: Tiki Glass
 - Garnish: Mint Sprig
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    1.5 oz Jamaican Rum                                   ",
+  "    1.5 oz Gold Rum                                       ",
+  "      1 oz Demerara Rum                                   ",
+  "    0.5 oz Falernum                                       ",
+  "1 barspoon Absinthe                                       ",
+  "  2 dashes Bitters                                        ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method:
+  - Shaken
+  - Crushed Ice
+- Pour: Open Pour
+- Glassware: Tiki Glass
+- Garnish: Mint Sprig
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

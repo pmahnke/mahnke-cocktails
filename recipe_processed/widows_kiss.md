@@ -79,3 +79,85 @@ excerpt: |
 - Special Prep: Express Lemon oil over cocktail
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    1 oz Applejack        ",
+  "  0.5 oz Bénédictine      ",
+  "  0.5 oz Yellow Chartreuse",
+  "2 dashes Bitters          ",
+  "    2 oz Applejack        ",
+  " 0.25 oz Bénédictine      ",
+  " 0.25 oz Yellow Chartreuse",
+  "2 dashes Bitters          ",
+  "  1.5 oz Applejack        ",
+  "  0.5 oz Bénédictine      ",
+  " 0.25 oz Yellow Chartreuse",
+  "2 dashes Bitters          ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: None
+- Special Prep: None
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Contemporary
+
+### Ingredients
+
+|   Amount | Ingredient        | Brand                      |
+| -------: | ----------------- | -------------------------- |
+|     2 oz | Applejack         | Laird's Straight 86        |
+|  0.25 oz | Bénédictine       | Bénédictine DOM            |
+|  0.25 oz | Yellow Chartreuse | Yellow Chartreuse          |
+| 2 dashes | Bitters           | Angostura Aromatic Bitters |
+
+### Notes
+
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: Cocktail cherry
+- Special Prep: None
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Anders' Version
+
+### Ingredients
+
+|   Amount | Ingredient        | Brand                      |
+| -------: | ----------------- | -------------------------- |
+|   1.5 oz | Applejack         | Laird's Straight 86        |
+|   0.5 oz | Bénédictine       | Bénédictine DOM            |
+|  0.25 oz | Yellow Chartreuse | Yellow Chartreuse          |
+| 2 dashes | Bitters           | Angostura Aromatic Bitters |
+
+### Notes
+
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: Lemon Peel
+- Special Prep: Express Lemon oil over cocktail
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

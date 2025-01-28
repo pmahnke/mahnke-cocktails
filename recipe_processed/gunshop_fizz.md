@@ -35,3 +35,31 @@ excerpt: |
   - On the Rocks
 - Garnish: One whole strawberry and a cucumber wheel.
 - Special Prep: Muddle the whole strawberries, cucumber slices and orange and grapefruit swaths in the cheater tin till they are broken up. Add the remaining ingredients, and shake. Double strain into glass, top the drink with the red soda and garnish with a strawberry and a cucumber wheel.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    2 oz Bitters                                        ",
+  "    1 oz Red Bitter Soda                                ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - High Ball
+  - On the Rocks
+- Garnish: One whole strawberry and a cucumber wheel.
+- Special Prep: Muddle the whole strawberries, cucumber slices and orange and grapefruit swaths in the cheater tin till they are broken up. Add the remaining ingredients, and shake. Double strain into glass, top the drink with the red soda and garnish with a strawberry and a cucumber wheel.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

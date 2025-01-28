@@ -29,3 +29,30 @@ youtube: "xnXFbjQSu-k"
 - Glassware: Nick & Nora
 - Garnish: 3 drops Angostura Bitters & pineapple fronds
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Mango Liqueur                                            ",
+  "0.75 oz Cachaça                                                  ",
+  "0.75 oz Sweet Vermouth                                           ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Nick & Nora
+- Garnish: 3 drops Angostura Bitters & pineapple fronds
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

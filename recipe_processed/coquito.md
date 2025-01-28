@@ -45,3 +45,41 @@ excerpt: |
 ### Method:
 
 1. Boil water with spices until volume is reduced by half. Chill in fridge or freezer.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "4 oz Gold Rum",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Blender
+- Pour: From a Pitcher
+- Glassware: Cocktail Glass
+- Garnish: Grated nutmeg
+- Special Prep: Chill over night.
+
+### Spice Tea
+
+|   Amount | Ingredient |
+| -------: | ---------- |
+| 4 sticks | Cinnamon   |
+| 25 whole | Cloves     |
+|  1 whole | Star Anise |
+|    1 cup | Water      |
+
+### Method:
+
+1. Boil water with spices until volume is reduced by half. Chill in fridge or freezer.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

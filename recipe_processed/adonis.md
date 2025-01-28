@@ -28,3 +28,30 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: Expressed orange oil
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    2 oz Oloroso Sherry",
+  "    1 oz Sweet Vermouth",
+  "2 dashes Orange Bitters",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: None
+- Special Prep: Expressed orange oil
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

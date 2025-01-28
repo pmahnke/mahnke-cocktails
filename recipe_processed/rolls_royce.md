@@ -29,3 +29,31 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Lemon peal
 - Special Prep: Expressed lemon oil
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "       2 oz Gin           ",
+  "     0.5 oz Dry Vermouth  ",
+  "     0.5 oz Sweet Vermouth",
+  "2 barspoons Bénédictine   ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: Lemon peal
+- Special Prep: Expressed lemon oil
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

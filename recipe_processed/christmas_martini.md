@@ -29,3 +29,31 @@ excerpt: |
 - Glassware: Martini
 - Garnish: Rosemary Sprig
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   2 oz Gin             ",
+  " 0.5 oz Cocchi Americano",
+  "0.25 oz Orange Curaçao  ",
+  " 1 dash Bitters         ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Martini
+- Garnish: Rosemary Sprig
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -40,3 +40,33 @@ excerpt: |
   - Beat yolks with sugar and nutmeg in large mixing bowl until mixture lightens in color.
   - Combine dairy, booze, and salt in separate vessel and slowly beat into egg mixture.
   - Move to glass jars and store sealed in the fridge.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "       0.5 cup Jamaica Rum          ",
+  "       0.5 cup Cognac               ",
+  "       0.5 cup Bourbon              ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in a mixing bowl
+- Pour: Add finished eggnog directly to mason jars
+- Glassware: Low Ball
+- Garnish: Grated nutmeg
+- Special Prep:
+  - Beat yolks with sugar and nutmeg in large mixing bowl until mixture lightens in color.
+  - Combine dairy, booze, and salt in separate vessel and slowly beat into egg mixture.
+  - Move to glass jars and store sealed in the fridge.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

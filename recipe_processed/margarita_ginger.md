@@ -31,3 +31,23 @@ Glassware:
 - On the Rocks
   Garnish: Candied ginger, Lime wheel
   Special Prep: Salted rim
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   2 oz Reposado Tequila                               ",
+  "0.75 oz Orange Curaçao                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

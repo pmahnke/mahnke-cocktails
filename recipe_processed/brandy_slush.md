@@ -38,3 +38,33 @@ Orange slice for individual garnish
   - Freeze for 12-24 hours.
   - Once frozen, scoop desired amount into a glass and top with soda.
   - Garnish with a slice of orange.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    16 oz Brandy                                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in Tub
+- Pour: Add all ingredients directly into the tub
+- Glassware: Parfait Cup
+- Garnish: Orange slice for individual garnish
+- Special Prep:
+  - Combine orange juice, lemonade, brandy, tea syrup, and 5 cups (1200 ml) of water in a sealable container.
+  - Stir to combine.
+  - Freeze for 12-24 hours.
+  - Once frozen, scoop desired amount into a glass and top with soda.
+  - Garnish with a slice of orange.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

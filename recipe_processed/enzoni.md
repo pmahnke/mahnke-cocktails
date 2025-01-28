@@ -32,3 +32,31 @@ excerpt: |
   - Large Ice Cube
 - Garnish: Grape
 - Special Prep: Muddle the grapes in the cheater tin. Put the other ingredients in the large tin, add ice, and shake.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   1 oz Gin                                                      ",
+  "   1 oz Campari                                                  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - Low Ball
+  - Large Ice Cube
+- Garnish: Grape
+- Special Prep: Muddle the grapes in the cheater tin. Put the other ingredients in the large tin, add ice, and shake.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

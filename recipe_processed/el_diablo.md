@@ -31,3 +31,32 @@ excerpt: |
   - On the Rocks
 - Garnish: Inverted lime rind filled with the Crème de cassis for an “interactive” garnish
 - Special Prep: Single strain into glass, top the drink with the ginger soda
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "1.5 oz Reposado Tequila",
+  "0.5 oz Crème de Cassis ",
+  "  3 oz Ginger Beer     ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Single Strain
+- Glassware:
+  - High Ball
+  - On the Rocks
+- Garnish: Inverted lime rind filled with the Crème de cassis for an “interactive” garnish
+- Special Prep: Single strain into glass, top the drink with the ginger soda
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

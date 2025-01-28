@@ -32,3 +32,31 @@ excerpt: |
   - Large Ice cube
 - Garnish: Candied Ginger
 - Special Prep: Muddle the ginger slices in the shaker tin until mushy. Then add the other ingredients, ice and shake.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "      2 oz Scotch, Blended                              ",
+  "   0.25 oz Scotch, Single Malt                          ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - Low Ball
+  - Large Ice cube
+- Garnish: Candied Ginger
+- Special Prep: Muddle the ginger slices in the shaker tin until mushy. Then add the other ingredients, ice and shake.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

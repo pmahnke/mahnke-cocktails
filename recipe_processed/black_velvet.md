@@ -27,3 +27,28 @@ excerpt: |
 - Glassware: Flared glass
 - Garnish:
 - Special Prep: Pour in the Guinness then float in the champagne
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  4 oz Stout         ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware: Flared glass
+- Garnish:
+- Special Prep: Pour in the Guinness then float in the champagne
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

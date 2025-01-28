@@ -31,3 +31,30 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Cocktail cherry and lemon zest for garnish
 - Special Prep: Stirring preserves the purple color
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   2 oz Gin               ",
+  "0.25 oz Crème de Violette ",
+  "0.25 oz Maraschino Liqueur",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: Cocktail cherry and lemon zest for garnish
+- Special Prep: Stirring preserves the purple color
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -33,3 +33,33 @@ excerpt: |
   - Add sugar and lime juice into a mixing glass and stir to dissolve sugar.
   - Add rum and 1 cube of ice to glass and stir until ice has diluted to more than half.
   - Strain into a glass or mug over ice and garnish with a lime wedge.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "      2 oz Demerara Rum    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+  - Low Ball
+  - On the Rocks
+- Garnish: Lime wedge
+- Special Prep:
+  - Add sugar and lime juice into a mixing glass and stir to dissolve sugar.
+  - Add rum and 1 cube of ice to glass and stir until ice has diluted to more than half.
+  - Strain into a glass or mug over ice and garnish with a lime wedge.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

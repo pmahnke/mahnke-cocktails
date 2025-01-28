@@ -37,3 +37,34 @@ excerpt: |
   - Crushed Ice
 - Garnish: Pineapple fronds & cocktail umbrella
 - Special Prep: Top with crushed ice.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Jamaican Rum                                             ",
+  "0.75 oz Light Rum                                                ",
+  "0.75 oz Cognac                                                   ",
+  "0.75 oz Gin                                                      ",
+  " 0.5 oz Falernum                                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Open Pour
+- Glassware:
+  - Tiki
+  - Crushed Ice
+- Garnish: Pineapple fronds & cocktail umbrella
+- Special Prep: Top with crushed ice.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -31,3 +31,33 @@ excerpt: |
   - Crushed Ice
 - Garnish: Pineapple Fronds and Cocktail Umbrella
 - Special Prep: Top with additional crushed ice
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  2 oz Bourbon                                                      ",
+  "0.5 oz [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%})",
+  "0.5 oz [Grenadine]({%link recipe_processed/grenadine_syrup.md%})              ",
+  "  1 oz Fresh Lemon Juice                                            ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Open Pour
+- Glassware:
+  - Tiki Glass
+  - Crushed Ice
+- Garnish: Pineapple Fronds and Cocktail Umbrella
+- Special Prep: Top with additional crushed ice
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

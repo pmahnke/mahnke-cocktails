@@ -327,3 +327,21 @@ excerpt: |
 - Created: Unknown but first known written reference on 7th November 1786 in <i>The Edinburgh Advertiser</i>
 - Example: Scotch Toddy
 - More info: A hot, short, mixed drink often taken to soothe the effects of a cold. Toddies usually contain lemon juice and spices.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -32,3 +32,32 @@ excerpt: |
 - Glassware: Tiki, Crushed Ice
 - Garnish: Mint Sprig, Inverted Lime Husk, Cocktail Cherry
 - Special Prep: Add the mint sprig to the glass. Float the dark rum on the drink. Add the inverted lime shell and place the cocktail cherry inside. fill the lime shell with 151 rum and light.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   1 oz Jamaican Rum                                   ",
+  "   1 oz Rhum Agricole                                  ",
+  " 0.5 oz Orange Curaçao                                 ",
+  " 0.5 oz Dark Rum                                       ",
+  "0.25 oz Over Proof Rum                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Open Pour
+- Glassware: Tiki, Crushed Ice
+- Garnish: Mint Sprig, Inverted Lime Husk, Cocktail Cherry
+- Special Prep: Add the mint sprig to the glass. Float the dark rum on the drink. Add the inverted lime shell and place the cocktail cherry inside. fill the lime shell with 151 rum and light.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

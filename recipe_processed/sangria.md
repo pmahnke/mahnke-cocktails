@@ -36,3 +36,31 @@ excerpt: |
   - On the Rocks
 - Garnish: Soaked fruit
 - Special Prep: Top glasses with soda water
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "     4 oz Grand Marnier                                           ",
+  "     6 oz Olorosso Sherry                                         ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Pitcher
+- Pour: Add all ingredients directly to the pitcher
+- Glassware:
+  - High Ball
+  - On the Rocks
+- Garnish: Soaked fruit
+- Special Prep: Top glasses with soda water
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

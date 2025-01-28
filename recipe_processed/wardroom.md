@@ -30,3 +30,32 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Cocktail cherry
 - Special Prep: Add the cherry to the glass before straining the cocktail.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "      1 oz Cognac            ",
+  "      1 oz Rum               ",
+  "      1 oz Tawny Port        ",
+  "    1 dash Bitters           ",
+  "1 barspoon Maraschino Liqueur",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: Cocktail cherry
+- Special Prep: Add the cherry to the glass before straining the cocktail.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

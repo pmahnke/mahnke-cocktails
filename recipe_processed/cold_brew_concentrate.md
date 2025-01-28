@@ -23,3 +23,21 @@ excerpt: |
 1. Combine 1 part by weight coarsely ground coffee with 8 parts by weight cold water.
 2. Stir to combine. Seal and store in fridge for 12-14 hours.
 3. Strain off coffee grounds.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

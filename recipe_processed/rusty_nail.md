@@ -27,3 +27,29 @@ excerpt: |
 - Glassware: Low BallLarge Ice cube
 - Garnish: None
 - Special Prep: Express lemon oil into cocktail
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  2 oz Scotch, Blended",
+  "  1 oz Drambuie       ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Low BallLarge Ice cube
+- Garnish: None
+- Special Prep: Express lemon oil into cocktail
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -59,3 +59,58 @@ excerpt: |
 - Special Prep: None
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    1.5 oz Light Rum                                      ",
+  "1 barspoon Maraschino Liqueur                             ",
+  "    1.5 oz Light Rum                                      ",
+  "   0.25 oz Allspice Dram                                  ",
+  "1 barspoon Maraschino Liqueur                             ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Pineapple fronds and cocktail cherry
+- Special Prep: None
+
+</div>
+<div class="subrecipe" markdown="1">
+
+## Updated
+
+### Ingredients
+
+|     Amount | Ingredient                                      | Brand         |
+| ---------: | ----------------------------------------------- | ------------- |
+|     1.5 oz | Light Rum                                       | Probitas      |
+|     1.5 oz | Fresh Pineapple Juice                           |
+|    0.25 oz | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|    0.25 oz | Fresh Lime Juice                                |
+|    0.25 oz | Allspice Dram                                   | St. Elizabeth |
+| 1 barspoon | Maraschino Liqueur                              | Luxardo       |
+
+### Notes
+
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Coupe
+- Garnish: Pineapple fronds and cocktail cherry
+- Special Prep: None
+
+</div>
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

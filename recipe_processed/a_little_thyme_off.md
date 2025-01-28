@@ -30,3 +30,30 @@ excerpt: |
   - On the Rocks
 - Garnish: Thyme sprigs & lemon wheel
 - Special Prep: Add the lemon juice and thyme-infused simple syrup to the shaker tin with ice. Give it a quick shake and double strain into the glass. Add ice. Fill remainder of the glass with ginger beer.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "4 to 5 oz Ginger Beer                                                 ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - High Ball
+  - On the Rocks
+- Garnish: Thyme sprigs & lemon wheel
+- Special Prep: Add the lemon juice and thyme-infused simple syrup to the shaker tin with ice. Give it a quick shake and double strain into the glass. Add ice. Fill remainder of the glass with ginger beer.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

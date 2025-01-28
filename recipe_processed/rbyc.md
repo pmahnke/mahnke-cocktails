@@ -30,3 +30,31 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Dehydrated lime wheel
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Demerara Rum    ",
+  "0.75 oz Light Rum       ",
+  " 0.5 oz Falernum        ",
+  " 0.5 oz Orange Curaçao  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Nick & Nora
+- Garnish: Dehydrated lime wheel
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

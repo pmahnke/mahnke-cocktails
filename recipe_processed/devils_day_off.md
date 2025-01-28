@@ -32,3 +32,30 @@ excerpt: |
   - On the Rocks
 - Garnish: Sprig of Rosemary
 - Special Prep: Shake cocktail and pour into the glass. Top with red bitter soda.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 100 ml Red Bitter Soda       ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Single Strain
+- Glassware:
+  - High Ball
+  - On the Rocks
+- Garnish: Sprig of Rosemary
+- Special Prep: Shake cocktail and pour into the glass. Top with red bitter soda.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

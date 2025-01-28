@@ -30,3 +30,30 @@ excerpt: |
 - Glassware: Large Beer Mug
 - Garnish: Grated Nutmeg
 - Special Prep: Pour the ale into the glass and top with the cocktail.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   1 oz Jamaican Rum                                            ",
+  "   1 oz Cognac                                                  ",
+  "  12 oz Porter                                                  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Large Beer Mug
+- Garnish: Grated Nutmeg
+- Special Prep: Pour the ale into the glass and top with the cocktail.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

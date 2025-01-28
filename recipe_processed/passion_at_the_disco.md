@@ -28,3 +28,28 @@ excerpt: |
 - Glassware: Low Ball
 - Garnish: Mint leaf
 - Special Prep: Add lime juice and passionfruit syrup to the shaker with ice and shake. pour mocktail into the glass and top with tonic water.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  2 oz Indian Tonic Water                                           ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Low Ball
+- Garnish: Mint leaf
+- Special Prep: Add lime juice and passionfruit syrup to the shaker with ice and shake. pour mocktail into the glass and top with tonic water.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

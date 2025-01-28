@@ -32,3 +32,30 @@ excerpt: |
   - Crushed Ice
 - Garnish: Sprig of Mint and Slice of Cucumber
 - Special Prep: Add the cucumber, mint, lime juice and simple syrup to the cup and muddle. Fill the cup with crushed ice and top with soda water.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    2 to 3 oz Soda Water                                               ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware:
+  - Julep Cup
+  - Crushed Ice
+- Garnish: Sprig of Mint and Slice of Cucumber
+- Special Prep: Add the cucumber, mint, lime juice and simple syrup to the cup and muddle. Fill the cup with crushed ice and top with soda water.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

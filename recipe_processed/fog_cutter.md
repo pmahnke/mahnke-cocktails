@@ -34,3 +34,34 @@ excerpt: |
   - Crushed Ice
 - Garnish: Orange wheel & mint sprig
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 1.5 oz Light Rum                                      ",
+  "0.75 oz Pisco                                          ",
+  " 0.5 oz Plymouth Gin                                   ",
+  " 0.5 oz Dry Curaçao                                    ",
+  "   1 oz Amontillado Sherry                             ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Open Pour
+- Glassware:
+  - Tiki
+  - Crushed Ice
+- Garnish: Orange wheel & mint sprig
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

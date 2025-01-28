@@ -31,3 +31,29 @@ excerpt: |
 - Glassware: Low Ball
 - Garnish: Grated nutmeg for garnish
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   1 oz Demerara Rum                                            ",
+  "0.25 oz Allspice Dram                                           ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Low Ball
+- Garnish: Grated nutmeg for garnish
+- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

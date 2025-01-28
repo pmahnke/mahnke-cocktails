@@ -32,3 +32,32 @@ excerpt: |
   - Large Ice cube
 - Garnish: Lemon wheel for garnish
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "         2 oz Bourbon                                                  ",
+  "       0.5 oz Crème de Cassis                                          ",
+  "1 to 2 dashes Bitters                                                  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - Low Ball
+  - Large Ice cube
+- Garnish: Lemon wheel for garnish
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

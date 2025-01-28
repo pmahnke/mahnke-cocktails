@@ -29,3 +29,31 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Lemon zest
 - Special Prep:
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "1.25 oz Gin               ",
+  "1.25 oz Sweet Vermouth    ",
+  "0.25 oz Maraschino Liqueur",
+  "0.25 oz Orange Bitters    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: Lemon zest
+- Special Prep:
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

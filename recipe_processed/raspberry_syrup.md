@@ -27,3 +27,21 @@ excerpt: |
 4. Pour simple syrup over raspberries in jar.
 5. Seal and steep in refrigerator for up to 24 hours.
 6. Strain syrup with a fine mesh strainer once steeping is complete.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+  ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

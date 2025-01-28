@@ -30,3 +30,31 @@ excerpt: |
 - Garnish: Cocktail Cherry optional
 - Special Prep:
 - OPTIONAL: 1 barspoon Tempus Fugit Crème de Cacao added to the glass and placed in the freezer to solidify
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Gin                 ",
+  "0.75 oz Cocchi Americano    ",
+  "0.75 oz White Crème de Cacao",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware: Nick & Nora
+- Garnish: Cocktail Cherry optional
+- Special Prep:
+- OPTIONAL: 1 barspoon Tempus Fugit Crème de Cacao added to the glass and placed in the freezer to solidify
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

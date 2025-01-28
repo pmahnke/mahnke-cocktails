@@ -35,3 +35,37 @@ excerpt: |
   - Extinguish the flames when the sugar is caramelized.
   - Add the remaining ingredients to the glass.
   - Top with lightly whipped heavy cream
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  0.75 oz Overproof Rum ",
+  "     1 oz Coffee Liqueur",
+  "   0.5 oz Orange Curaçao",
+  "2 to 3 oz Hot Coffee    ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Build in the glass
+- Pour: Add all ingredients directly to the glass
+- Glassware: Coffee Glass
+- Garnish: Grated nutmeg & burnt sugared rim
+- Special Prep:
+  - Sugar the rim of the glass.
+  - Add the overproof rum to the glass.
+  - Light it on fire.
+  - Extinguish the flames when the sugar is caramelized.
+  - Add the remaining ingredients to the glass.
+  - Top with lightly whipped heavy cream
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

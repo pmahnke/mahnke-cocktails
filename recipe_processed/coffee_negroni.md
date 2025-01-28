@@ -31,3 +31,33 @@ excerpt: |
   - Large Ice Cube
 - Garnish: None
 - Special Prep: Expressed lemon oil
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "   1 oz Gin           ",
+  "0.75 oz Coffee Liqueur",
+  "0.75 oz Campari       ",
+  "0.25 oz Sweet Vermouth",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware:
+  - Low Ball
+  - Large Ice Cube
+- Garnish: None
+- Special Prep: Expressed lemon oil
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

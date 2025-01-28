@@ -54,3 +54,53 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Cocktail cherry
 - Special Prep: Expressed lemon oil.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.75 oz Gin                              ",
+  "0.75 oz Sweet Vermouth                   ",
+  " 1 dash Orange Bitters                   ",
+  "1.25 oz Gin             ",
+  "0.75 oz Sweet Vermouth  ",
+  "0.25 oz Green Chartreuse",
+  " 1 dash Orange Bitters  ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: Cocktail cherry
+- Special Prep: Expressed lemon oil.
+
+## Modern Bijou
+
+### Ingredients
+
+|  Amount | Ingredient       | Brand                     |
+| ------: | ---------------- | ------------------------- |
+| 1.25 oz | Gin              | Plymouth                  |
+| 0.75 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |
+| 0.25 oz | Green Chartreuse | Green Chartreuse          |
+|  1 dash | Orange Bitters   | Regan's No. 6             |
+
+### Notes
+
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: Cocktail cherry
+- Special Prep: Expressed lemon oil.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

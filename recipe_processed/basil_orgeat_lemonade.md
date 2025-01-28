@@ -31,3 +31,30 @@ excerpt: |
   - Crushed Ice
 - Garnish: Basil Leaf and Lemon Wheel
 - Special Prep: Shake cocktail and pour into the glass. Top with soda water.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    3 oz Soda Water                                     ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - Goblet
+  - Crushed Ice
+- Garnish: Basil Leaf and Lemon Wheel
+- Special Prep: Shake cocktail and pour into the glass. Top with soda water.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

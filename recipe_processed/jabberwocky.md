@@ -29,3 +29,29 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Lemon Peel
 - Special Prep: Expressed lemon oil over cocktail
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  .75 oz London Dry gin   ",
+  "  .75 oz Manzanilla sherry",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Coupe
+- Garnish: Lemon Peel
+- Special Prep: Expressed lemon oil over cocktail
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

@@ -36,3 +36,35 @@ excerpt: |
   - Strain the cocktail into the glass.
   - Add ice
   - Top with the ginger beer.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "     3 to 4 oz Ginger Beer                                              ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
+  - High Ball
+  - On the Rocks
+- Garnish: Mint sprig
+- Special Prep:
+  - Press and slide the mint leaves in the glass.
+  - Add the blueberries, simple syrup and lemon juice to a shaker and shake with ice.
+  - Strain the cocktail into the glass.
+  - Add ice
+  - Top with the ginger beer.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

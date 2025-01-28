@@ -28,3 +28,30 @@ excerpt: |
 - Glassware: Nice & Nora
 - Garnish: Flamed orange oil
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    " 1.5 oz Bourbon       ",
+  "0.75 oz Campari       ",
+  "0.75 oz Sweet Vermouth",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Stirred
+- Pour: Julep Strained
+- Glassware: Nice & Nora
+- Garnish: Flamed orange oil
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

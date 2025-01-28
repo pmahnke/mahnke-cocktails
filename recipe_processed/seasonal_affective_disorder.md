@@ -33,3 +33,33 @@ excerpt: |
   - Crushed Ice
 - Garnish: Grated nutmeg
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "    1 oz Demerara Rum                                   ",
+  "  0.5 oz Cognac                                         ",
+  "  0.5 oz Allspice Dram                                  ",
+  "2 dashes Absinthe                                       ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Single Strain
+- Glassware:
+  - Low Ball
+  - Crushed Ice
+- Garnish: Grated nutmeg
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

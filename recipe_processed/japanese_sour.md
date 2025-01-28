@@ -35,3 +35,38 @@ excerpt: |
 - Honey Lemon Sour: Substitute [honey syrup]({% link recipe_processed/honey_syrup.md %}) for simple syrup.
 - Yuzu Lemon Sour: Add a splash of yuzu juice for a citrusy twist.
 - Salty Lemon Sour: Add a pinch of salt to the shaker for a savory kick.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "  2 oz Shochu or Vodka                                  ",
+  "  1 oz Lemon juice                                      ",
+  "0.5 oz [Simple Syrup]({% link recipe_processed/simple_syrup.md %})",
+  "  4 oz Soda Water                                       ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken
+- Pour: Double Strain
+- Glass: Collins
+- Garnish: Lemon wedge
+- Special Prep: None
+
+### Tips and Variations:
+
+- Shochu: Traditionally, shochu is used, but vodka works well as a substitute.
+- Honey Lemon Sour: Substitute [honey syrup]({% link recipe_processed/honey_syrup.md %}) for simple syrup.
+- Yuzu Lemon Sour: Add a splash of yuzu juice for a citrusy twist.
+- Salty Lemon Sour: Add a pinch of salt to the shaker for a savory kick.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

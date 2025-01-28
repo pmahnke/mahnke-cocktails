@@ -31,3 +31,31 @@ excerpt: |
 - Glassware: Tea Cup
 - Garnish: Grated cinnamon and holiday cookies
 - Special Prep: Temper your mug with hot water.
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "0.5 oz Navy Strength Rum                                       ",
+  "0.5 oz Bourbon                                                 ",
+  "1 dash Bitters                                                 ",
+  "  2 oz Black Tea, Hot                                          ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken / Stirred / Build in the Glass
+- Pour: Add all ingredients directly to the glass
+- Glassware: Tea Cup
+- Garnish: Grated cinnamon and holiday cookies
+- Special Prep: Temper your mug with hot water.
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    

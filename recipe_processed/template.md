@@ -61,3 +61,33 @@ excerpt: |
   - Crushed Ice
 - Garnish: None
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "": "https://schema.org",
+  "": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [
+    "       [NAME]({%link recipe_processed/NAME.md%})",
+  "                                      ",
+],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "
+- Method: Shaken/Stirred/Build in the Glass
+- Pour: Double Strain/Julep Strain/Open Pour/Add all ingredients directly to the glass
+- Glassware: Low Ball/High Ball/Champagne Flute/Coupe/Nick & Nora/Tiki/Martini
+  - GLASS
+  - Large Ice Cube
+  - On the Rocks
+  - Crushed Ice
+- Garnish: None
+- Special Prep: None
+",
+  "recipeYield": "1 cocktail",
+}
+</script>
+
+    
