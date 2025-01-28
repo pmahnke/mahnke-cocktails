@@ -4,7 +4,7 @@ title: "Cocktail Book Recommendations"
 type: list
 permalink: "/recipe/barlist5.html"
 iconfile: barlist5
-youtube: "v=hoJ1_OlfCA8"
+youtube: "hoJ1_OlfCA8"
 ---
 
 ### Books
