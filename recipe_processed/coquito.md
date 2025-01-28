@@ -16,14 +16,14 @@ excerpt: |
 ### Ingredients
 
 | ------: | ----------------------------------------------------------- | ----- |
-| <span class="onex active">8 oz / 200 ml</span> <span class="onehalfx">12 oz / 300 ml</span> <span class="twox">16 oz / 400 ml</span> <span class="threex">24 oz / 600 ml</span> | Coconut Milk |
-| <span class="onex active">4 oz / 100 ml</span> <span class="onehalfx">6 oz / 150 ml</span> <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Evaporated Milk |
-| <span class="onex active">4 oz / 100 ml</span> <span class="onehalfx">6 oz / 150 ml</span> <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Sweetened Condensed Milk |
-| <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | [Cream of Coconut]({%link recipe_processed/cream_of_coconut_syrup.md%}) |
-| <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | (7.5 ml) Vanilla Extract |
-| <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Chilled Spice Tea |
-| 1 pinch | Salt |
-| <span class="onex active">4 oz / 100 ml</span> <span class="onehalfx">6 oz / 150 ml</span> <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Gold Rum | Don Q |
+| <span class="onex active">8 oz  / 200 ml</span> <span class="onehalfx">12 oz  / 300 ml</span> <span class="twox">16 oz  / 400 ml</span> <span class="threex">24 oz  / 600 ml</span>| Coconut Milk |
+| <span class="onex active">4 oz  / 100 ml</span> <span class="onehalfx">6 oz  / 150 ml</span> <span class="twox">8 oz  / 200 ml</span> <span class="threex">12 oz  / 300 ml</span>| Evaporated Milk |
+| <span class="onex active">4 oz  / 100 ml</span> <span class="onehalfx">6 oz  / 150 ml</span> <span class="twox">8 oz  / 200 ml</span> <span class="threex">12 oz  / 300 ml</span>| Sweetened Condensed Milk |
+| <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| [Cream of Coconut]({%link recipe_processed/cream_of_coconut_syrup.md%}) |
+| <span class="onex active"><sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| (7.5 ml) Vanilla Extract |
+| <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Chilled Spice Tea |
+| <span class="onex active">1 pinch </span> <span class="onehalfx">1.5 pinch </span> <span class="twox">2 pinch </span> <span class="threex">3 pinch </span>| Salt |
+| <span class="onex active">4 oz  / 100 ml</span> <span class="onehalfx">6 oz  / 150 ml</span> <span class="twox">8 oz  / 200 ml</span> <span class="threex">12 oz  / 300 ml</span>| Gold Rum | Don Q |
 
 ### Notes
 
@@ -37,10 +37,10 @@ excerpt: |
 
 |   Amount | Ingredient |
 | -------: | ---------- |
-| 4 sticks | Cinnamon   |
-|       25 | Cloves     |
-|        1 | Star Anise |
-|    1 cup | Water      |
+| <span class="onex active">4 sticks </span> <span class="onehalfx">6 sticks </span> <span class="twox">8 sticks </span> <span class="threex">12 sticks </span>| Cinnamon   |
+| <span class="onex active">25 whole </span> <span class="onehalfx">37.5 whole </span> <span class="twox">50 whole </span> <span class="threex">75 whole </span>| Cloves     |
+|  <span class="onex active">1 whole </span> <span class="onehalfx">1.5 whole </span> <span class="twox">2 whole </span> <span class="threex">3 whole </span>| Star Anise |
+|    <span class="onex active">1 cup </span> <span class="onehalfx">1.5 cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Water      |
 
 ### Method:
 

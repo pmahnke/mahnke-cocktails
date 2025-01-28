@@ -17,12 +17,12 @@ excerpt: |
 
 |    Amount | Ingredient                                    | Brand           |
 | --------: | --------------------------------------------- | --------------- |
-|    <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Blended Scotch                                | Monkey Shoulder |
-|    <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
-|   <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Fresh Lemon Juice                             |
-| 4 to <span class="onex active">5 oz / 125 ml</span> <span class="onehalfx">7.5 oz / 188 ml</span> <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Chamomile Tea                                 |
-|   1 stick | Cinnamon                                      |
-|   4 whole | Cloves                                        |
+|    <span class="onex active">1.5 oz  / 38 ml</span> <span class="onehalfx">2.25 oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4.5 oz  / 113 ml</span>| Blended Scotch                                | Monkey Shoulder |
+|    <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
+|   <span class="onex active"><sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Fresh Lemon Juice                             |
+| <span class="onex active">4 to 5 oz  / 100 to 125 ml</span> <span class="onehalfx">6 to 7.5 oz  / 150 to 188 ml</span> <span class="twox">8 to 10 oz  / 200 to 250 ml</span> <span class="threex">12 to 15 oz  / 300 to 375 ml</span>| Chamomile Tea                                 |
+|   <span class="onex active">1 stick </span> <span class="onehalfx">1.5 stick </span> <span class="twox">2 stick </span> <span class="threex">3 stick </span>| Cinnamon                                      |
+|   <span class="onex active">4 whole </span> <span class="onehalfx">6 whole </span> <span class="twox">8 whole </span> <span class="threex">12 whole </span>| Cloves                                        |
 
 ### Notes
 

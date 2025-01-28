@@ -17,8 +17,8 @@ excerpt: |
 
 | Amount | Ingredient                                     | Brand         |
 | -----: | ---------------------------------------------- | ------------- |
-| <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | [Jasper’s Mix]({%link recipe_processed/jaspers_mix.md%}) |
-| <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Overproof Jamaican Rum                         | Wray & Nephew |
+| <span class="onex active">1.5 oz  / 38 ml</span> <span class="onehalfx">2.25 oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4.5 oz  / 113 ml</span>| [Jasper’s Mix]({%link recipe_processed/jaspers_mix.md%}) |
+| <span class="onex active">1.5 oz  / 38 ml</span> <span class="onehalfx">2.25 oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4.5 oz  / 113 ml</span>| Overproof Jamaican Rum                         | Wray & Nephew |
 
 ### Notes
 

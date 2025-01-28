@@ -19,10 +19,10 @@ excerpt: |
 
 |  Amount | Ingredient                                            | Brand                               |
 | ------: | ----------------------------------------------------- | ----------------------------------- |
-|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Bourbon                                               | Old Grandad Bonded                  |
-|    <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Amontillado Sherry                                    | Lustau Amontillado Los Arcos Sherry |
-| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Fresh Lemon Juice                                     |
-| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | [Groseille Syrup]({%link recipe_processed/groseille_syrup.md%}) |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Bourbon                                               | Old Grandad Bonded                  |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Amontillado Sherry                                    | Lustau Amontillado Los Arcos Sherry |
+| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Fresh Lemon Juice                                     |
+| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| [Groseille Syrup]({%link recipe_processed/groseille_syrup.md%}) |
 
 ### Notes
 

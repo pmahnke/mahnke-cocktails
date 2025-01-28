@@ -17,10 +17,10 @@ excerpt: |
 
 | Amount | Ingredient       | Brand                 |
 | -----: | ---------------- | --------------------- |
-|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gin              | Martin Miller’s       |
-|   <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fino Sherry      | Valdespino "Ynocente" |
-| <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Cocchi Americano | Cocchi Americano      |
-| <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Triple Sec       | Cointreau             |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Gin              | Martin Miller’s       |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fino Sherry      | Valdespino "Ynocente" |
+| <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Cocchi Americano | Cocchi Americano      |
+| <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Triple Sec       | Cointreau             |
 
 ### Notes
 

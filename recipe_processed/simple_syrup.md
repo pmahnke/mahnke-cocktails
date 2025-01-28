@@ -15,8 +15,8 @@ excerpt: |
 
 |   Amount | Ingredient  |
 | -------: | ----------- |
-| 1.5 cups | White Sugar |
-|    1 cup | Hot Water   |
+| <span class="onex active">1.5 cups </span> <span class="onehalfx">2.25 cups </span> <span class="twox">3 cups </span> <span class="threex">4.5 cups </span>| White Sugar |
+|    <span class="onex active">1 cup </span> <span class="onehalfx">1.5 cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Hot Water   |
 
 ### Method
 

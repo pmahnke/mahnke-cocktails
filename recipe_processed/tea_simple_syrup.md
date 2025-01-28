@@ -14,9 +14,9 @@ excerpt: |
 
 |          Amount | Ingredient  |
 | --------------: | ----------- |
-|      6 tea bags | Black Tea   |
-| 2 cups / 400 ml | Hot Water   |
-|  2 cups / 400 g | White Sugar |
+|      <span class="onex active">6 tea bags </span> <span class="onehalfx">9 tea bags </span> <span class="twox">12 tea bags </span> <span class="threex">18 tea bags </span>| Black Tea   |
+| <span class="onex active">2 cups / 400 ml </span> <span class="onehalfx">3 cups / 400 ml </span> <span class="twox">4 cups / 400 ml </span> <span class="threex">6 cups / 400 ml </span>| Hot Water   |
+|  <span class="onex active">2 cups / 400 g </span> <span class="onehalfx">3 cups / 400 g </span> <span class="twox">4 cups / 400 g </span> <span class="threex">6 cups / 400 g </span>| White Sugar |
 
 ### Method
 

@@ -17,18 +17,18 @@ excerpt: |
 
 ### Ingredients
 
-|       Amount | Ingredient            | Brand                       |
-| -----------: | --------------------- | --------------------------- |
-|      6 whole | Egg Yolks             |
-|    0.5 pound | Sugar                 |
-| 0.<span class="onex active">5 barspoon</span> <span class="onehalfx">10 barspoons</span> <span class="twox">10 barspoons</span> <span class="threex">15 barspoons</span>  | Freshly Grated Nutmeg |
-|        1 cup | Half and Half         |
-|        1 cup | Whole Milk            |
-|        1 cup | Heavy Cream           |
-|      0.5 cup | Jamaica Rum           | Appleton 12 year Rare Casks |
-|      0.5 cup | Cognac                | Maison Rouge VSOP           |
-|      0.5 cup | Bourbon               | Elijah Craig Small Batch    |
-| 1/<span class="onex active">8 barspoon</span> <span class="onehalfx">16 barspoons</span> <span class="twox">16 barspoons</span> <span class="threex">24 barspoons</span>  | salt                  |
+|         Amount | Ingredient            | Brand                       |
+| -------------: | --------------------- | --------------------------- |
+|        <span class="onex active">6 whole </span> <span class="onehalfx">9 whole </span> <span class="twox">12 whole </span> <span class="threex">18 whole </span>| Egg Yolks             |
+|      <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> pound </span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> pound </span> <span class="twox">1 pound </span> <span class="threex">1.5 pound </span>| Sugar                 |
+|   <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox">1 barspoons</span> <span class="threex">1.5 barspoons</span>| Freshly Grated Nutmeg |
+|          <span class="onex active">1 cup </span> <span class="onehalfx">1.5 cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Half and Half         |
+|          <span class="onex active">1 cup </span> <span class="onehalfx">1.5 cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Whole Milk            |
+|          <span class="onex active">1 cup </span> <span class="onehalfx">1.5 cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Heavy Cream           |
+|        <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1.5 cup </span>| Jamaica Rum           | Appleton 12 year Rare Casks |
+|        <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1.5 cup </span>| Cognac                | Maison Rouge VSOP           |
+|        <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1.5 cup </span>| Bourbon               | Elijah Craig Small Batch    |
+| <span class="onex active"><sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"><sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"><sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| salt                  |
 
 ### Notes
 

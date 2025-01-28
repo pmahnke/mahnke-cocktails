@@ -15,9 +15,9 @@ excerpt: |
 
 |    Amount | Ingredient  |
 | --------: | ----------- |
-| 0.75 cups | White Sugar |
-| 0.75 cups | Hot Water   |
-|    <span class="onex active">2.5 oz / 63 ml</span> <span class="onehalfx">3.75 oz / 94 ml</span> <span class="twox">5 oz / 125 ml</span> <span class="threex">7.5 oz / 188 ml</span> | Raspberries |
+| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="onehalfx">1.125 cups </span> <span class="twox">1.5 cups </span> <span class="threex">2.25 cups </span>| White Sugar |
+| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="onehalfx">1.125 cups </span> <span class="twox">1.5 cups </span> <span class="threex">2.25 cups </span>| Hot Water   |
+|    <span class="onex active">2.5 oz  / 63 ml</span> <span class="onehalfx">3.75 oz  / 94 ml</span> <span class="twox">5 oz  / 125 ml</span> <span class="threex">7.5 oz  / 188 ml</span>| Raspberries |
 
 ### Method
 

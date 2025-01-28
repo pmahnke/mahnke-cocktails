@@ -15,10 +15,10 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient  | Brand                |
-| -----: | ----------- | -------------------- |
-| 1.5 oz | Dark Rum    | Gosling's Black Seal |
-| 4-5 oz | Ginger Beer | Barritt's            |
+|    Amount | Ingredient  | Brand                |
+| --------: | ----------- | -------------------- |
+|    1.5 oz | Dark Rum    | Gosling's Black Seal |
+| 4 to 5 oz | Ginger Beer | Barritt's            |
 
 ### Notes
 

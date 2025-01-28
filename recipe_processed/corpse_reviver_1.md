@@ -17,9 +17,9 @@ excerpt: |
 
 |  Amount | Ingredient     | Brand                           |
 | ------: | -------------- | ------------------------------- |
-| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Calvados       | Roger Groult Pays D’auge 3 Year |
-| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Cognac         | Maison Rouge VSOP               |
-| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Sweet Vermouth | Cocchi Vermouth Di Torino       |
+| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Calvados       | Roger Groult Pays D’auge 3 Year |
+| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Cognac         | Maison Rouge VSOP               |
+| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Sweet Vermouth | Cocchi Vermouth Di Torino       |
 
 ### Notes
 

@@ -17,10 +17,10 @@ excerpt: |
 
 |   Amount | Ingredient | Brand                        |
 | -------: | ---------- | ---------------------------- |
-|     <span class="onex active">5 oz / 125 ml</span> <span class="onehalfx">7.5 oz / 188 ml</span> <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Champagne  | Laurent-Perrier ""La Cuvée"" |
-|  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Cognac     | Maison Rouge V.S.O.P.        |
-|   1 cube | Sugar      | Brown or White               |
-| 10 drops | Bitters    | Angostura Aromatic Bitters   |
+|     <span class="onex active">5 oz  / 125 ml</span> <span class="onehalfx">7.5 oz  / 188 ml</span> <span class="twox">10 oz  / 250 ml</span> <span class="threex">15 oz  / 375 ml</span>| Champagne  | Laurent-Perrier ""La Cuvée"" |
+|  <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Cognac     | Maison Rouge V.S.O.P.        |
+|   <span class="onex active">1 cube </span> <span class="onehalfx">1.5 cube </span> <span class="twox">2 cube </span> <span class="threex">3 cube </span>| Sugar      | Brown or White               |
+| <span class="onex active">10 drops </span> <span class="onehalfx">15 drops </span> <span class="twox">20 drops </span> <span class="threex">30 drops </span>| Bitters    | Angostura Aromatic Bitters   |
 
 ### Notes
 

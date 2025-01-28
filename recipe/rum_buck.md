@@ -15,12 +15,12 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient       | Brand                  |
-| ------: | ---------------- | ---------------------- |
-|  1.5 oz | Dark Rum         | Hamilton's 86 Demerara |
-| 0.25 oz | Fresh lime juice |
-|  0.5 oz | Allspice Dram    | St. Elizabeth          |
-|  4-5 oz | Ginger Beer      | Bundaberg              |
+|    Amount | Ingredient       | Brand                  |
+| --------: | ---------------- | ---------------------- |
+|    1.5 oz | Dark Rum         | Hamilton's 86 Demerara |
+|   0.25 oz | Fresh lime juice |
+|    0.5 oz | Allspice Dram    | St. Elizabeth          |
+| 4 to 5 oz | Ginger Beer      | Bundaberg              |
 
 ### Notes
 

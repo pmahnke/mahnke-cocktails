@@ -42,15 +42,15 @@ excerpt: |
 
 |         Amount | Ingredient       | Brand                      |
 | -------------: | ---------------- | -------------------------- |
-|        2 whole | eggs             |
-|   0.<span class="onex active">5 barspoon</span> <span class="onehalfx">10 barspoons</span> <span class="twox">10 barspoons</span> <span class="threex">15 barspoons</span>  | Vanilla Extract  |
-| 0.<span class="onex active">125 barspoon</span> <span class="onehalfx">250 barspoons</span> <span class="twox">250 barspoons</span> <span class="threex">375 barspoons</span>  | Ground Clove     |
-| 0.<span class="onex active">125 barspoon</span> <span class="onehalfx">250 barspoons</span> <span class="twox">250 barspoons</span> <span class="threex">375 barspoons</span>  | Ground Allspice  |
-| 0.<span class="onex active">125 barspoon</span> <span class="onehalfx">250 barspoons</span> <span class="twox">250 barspoons</span> <span class="threex">375 barspoons</span>  | Ground Cinnamon  |
-|         <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Jamaican Rum     | Appleton Estate V/X        |
-|       0.5 cups | Granulated Sugar |
-|        1 pinch | Salt             |
-|         <span class="onex active">1 dash</span> <span class="onehalfx">2 dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>  | Bitters          | Angostura Aromatic Bitters |
+|        <span class="onex active">2 whole </span> <span class="onehalfx">3 whole </span> <span class="twox">4 whole </span> <span class="threex">6 whole </span>| eggs             |
+|   <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox">1 barspoons</span> <span class="threex">1.5 barspoons</span>| Vanilla Extract  |
+| <span class="onex active"><sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"><sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"><sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Ground Clove     |
+| <span class="onex active"><sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"><sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"><sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Ground Allspice  |
+| <span class="onex active"><sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"><sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"><sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Ground Cinnamon  |
+|         <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Jamaican Rum     | Appleton Estate V/X        |
+|       <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="twox">1 cups </span> <span class="threex">1.5 cups </span>| Granulated Sugar |
+|        <span class="onex active">1 pinch </span> <span class="onehalfx">1.5 pinch </span> <span class="twox">2 pinch </span> <span class="threex">3 pinch </span>| Salt             |
+|         <span class="onex active">1 dashes</span> <span class="onehalfx">1.5 dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters          | Angostura Aromatic Bitters |
 
 ### Method
 

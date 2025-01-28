@@ -17,15 +17,15 @@ excerpt: |
 
 |    Amount | Ingredient         | Brand                            |
 | --------: | ------------------ | -------------------------------- |
-|    3 cups | Fresh Apple Cider  |
-|    2 cups | Amontillado Sherry | Lustau Los Arcos                 |
-|     1 cup | Dark Beer          | Begyle Brewing Christmas Ale     |
-|   0.5 cup | Apple Brandy       | Laird's Straight Bottled in Bond |
-|   0.5 cup | Demerara Sugar     |
-|   8 whole | Cloves             |
-| 8 berries | Allspice           |
-|  4 sticks | Cinnamon           |
-|    4 pods | Cardamom           |
+|    <span class="onex active">3 cups </span> <span class="onehalfx">4.5 cups </span> <span class="twox">6 cups </span> <span class="threex">9 cups </span>| Fresh Apple Cider  |
+|    <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span>| Amontillado Sherry | Lustau Los Arcos                 |
+|     <span class="onex active">1 cup </span> <span class="onehalfx">1.5 cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Dark Beer          | Begyle Brewing Christmas Ale     |
+|   <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1.5 cup </span>| Apple Brandy       | Laird's Straight Bottled in Bond |
+|   <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1.5 cup </span>| Demerara Sugar     |
+|   <span class="onex active">8 whole </span> <span class="onehalfx">12 whole </span> <span class="twox">16 whole </span> <span class="threex">24 whole </span>| Cloves             |
+| <span class="onex active">8 berries </span> <span class="onehalfx">12 berries </span> <span class="twox">16 berries </span> <span class="threex">24 berries </span>| Allspice           |
+|  <span class="onex active">4 sticks </span> <span class="onehalfx">6 sticks </span> <span class="twox">8 sticks </span> <span class="threex">12 sticks </span>| Cinnamon           |
+|    <span class="onex active">4 pods </span> <span class="onehalfx">6 pods </span> <span class="twox">8 pods </span> <span class="threex">12 pods </span>| Cardamom           |
 
 ### Notes
 

@@ -14,7 +14,7 @@ excerpt: |
   Chrysanthemum appears in Hugo R. Ensslin's 1917 <i>Recipes for Mixed Drinks</i> (and may well have been in his 1916 First Edition).
   <br>
   <blockquote><strong>Chrysanthemum Cocktail</strong>
-  <br>- <span class="onex active">3 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>  Absinthe
+  <br>- 3 dashes Absinthe
   <br>- ½ Benedictine
   <br>- ½ French Vermouth
   <br>Stir well in a mixing glass with cracked ice, strain and serve with a twist of Orange Peel.
@@ -36,10 +36,10 @@ excerpt: |
 
 |   Amount | Ingredient   | Brand                          |
 | -------: | ------------ | ------------------------------ |
-|   <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Dry Vermouth | Dolin Vermouth de Chambéry Dry |
-|  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Bénédictine  | Bénédictine D.O.M.             |
-| <span class="onex active">3 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>  | Absinthe     | St. George Verte               |
-|  <span class="onex active">1 swath</span> <span class="onehalfx">2 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>  | Orange Peel  |
+|   <span class="onex active">1.5 oz  / 38 ml</span> <span class="onehalfx">2.25 oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4.5 oz  / 113 ml</span>| Dry Vermouth | Dolin Vermouth de Chambéry Dry |
+|  <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Bénédictine  | Bénédictine D.O.M.             |
+| <span class="onex active">3 dashes</span> <span class="onehalfx">4.5 dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>| Absinthe     | St. George Verte               |
+|  <span class="onex active">1 swathes</span> <span class="onehalfx">1.5 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>| Orange Peel  |
 
 ### Notes
 

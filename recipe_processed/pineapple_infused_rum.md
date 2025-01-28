@@ -15,8 +15,8 @@ excerpt: |
 
 |  Amount | Ingredient                 |
 | ------: | -------------------------- |
-|  750 ml | Smith & Cross Jamaican Rum |
-| 1 whole | Pineapple                  |
+|  <span class="onex active">750 ml </span> <span class="onehalfx">1125 ml </span> <span class="twox">1500 ml </span> <span class="threex">2250 ml </span>| Smith & Cross Jamaican Rum |
+| <span class="onex active">1 whole </span> <span class="onehalfx">1.5 whole </span> <span class="twox">2 whole </span> <span class="threex">3 whole </span>| Pineapple                  |
 
 ### Method:
 

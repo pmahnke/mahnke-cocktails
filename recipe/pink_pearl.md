@@ -1,8 +1,8 @@
 ---
 layout: recipe
 author: Anders Erickson
-categories: [ mocktail ]
-eras: [ prohibition ]
+categories: [mocktail]
+eras: [prohibition]
 title: "Pink Pearl"
 permalink: "/recipe/pink_pearl.html"
 iconfile: pink_pearl
@@ -16,10 +16,10 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand |
 | ------: | ----------------------------------------------- | ----- |
-| 0.75 Oz | Egg White                                       |
-| 0.75 Oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
-|  1.5 Oz | Grapefruit Juice                                |
-|  0.5 Oz | Fresh Lemon Juice                               |
+| 0.75 oz | Egg White                                       |
+| 0.75 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
+|  1.5 oz | Grapefruit Juice                                |
+|  0.5 oz | Fresh Lemon Juice                               |
 
 and for garnish
 
@@ -29,6 +29,6 @@ and for garnish
 - Pour: Double Strain
 - Glassware: Nick &amp; Nora
 - Garnish: Cocktail cherry
-- Special Prep: 
-  - Expressed grapefruit oil. 
+- Special Prep:
+  - Expressed grapefruit oil.
   - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.

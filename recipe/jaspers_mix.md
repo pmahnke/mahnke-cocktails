@@ -15,12 +15,12 @@ excerpt: |
 
 ### Ingredients
 
-|        Amount | Ingredient                 |
-| ------------: | -------------------------- |
-|         1 cup | Fresh Lime Juice           |
-|      0.75 cup | White Sugar                |
-| 0.25 barspoon | Angostura Aromatic Bitters |
-|      0.5 tbsp | Freshly Grated Nutmeg      |
+|         Amount | Ingredient                 |
+| -------------: | -------------------------- |
+|          1 cup | Fresh Lime Juice           |
+|       0.75 cup | White Sugar                |
+|  0.25 barspoon | Angostura Aromatic Bitters |
+| 0.5 tablespoon | Freshly Grated Nutmeg      |
 
 ### Method
 

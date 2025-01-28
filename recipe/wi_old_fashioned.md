@@ -21,7 +21,7 @@ excerpt: |
 |  0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |                            |
 | 4 dashes | Bitters                                                   | Angostura Aromatic Bitters |
 | 2 wedges | Orange                                                    |                            |
-|        1 | Cocktail Cherry                                           |                            |
+|  1 whole | Cocktail Cherry                                           |                            |
 |   0.5 oz | Wash - See below                                          |                            |
 
 ### Notes

@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson
 title: "Blueberries For Sal"
-categories: [ mocktail ]
-eras: [ anders ]
+categories: [mocktail]
+eras: [anders]
 permalink: "/recipe/blueberries_for_sal.html"
 iconfile: blueberries_for_sal
 stars: 0
@@ -16,11 +16,11 @@ excerpt: |
 
 |         Amount | Ingredient                                                | Brand      |
 | -------------: | --------------------------------------------------------- | ---------- |
-|       15 to 20 | Fresh Blueberries                                         |
-|           1 Oz | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|           1 Oz | Fresh Lemon Juice                                         |
-| 8 to 10 leaves | Mint                                                      |
-|      3 to <span class="onex active">4 oz / 100 ml</span> <span class="onehalfx">6 oz / 150 ml</span> <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | Ginger Beer                                               | Fever Tree |
+| <span class="onex active">15 to 20 whole </span> <span class="onehalfx">22.5 to 30 whole </span> <span class="twox">30 to 40 whole </span> <span class="threex">45 to 60 whole </span>| Fresh Blueberries                                         |
+|           <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|           <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lemon Juice                                         |
+| <span class="onex active">8 to 10 leaves </span> <span class="onehalfx">12 to 15 leaves </span> <span class="twox">16 to 20 leaves </span> <span class="threex">24 to 30 leaves </span>| Mint                                                      |
+|      <span class="onex active">3 to 4 oz  / 75 to 100 ml</span> <span class="onehalfx">4.5 to 6 oz  / 113 to 150 ml</span> <span class="twox">6 to 8 oz  / 150 to 200 ml</span> <span class="threex">9 to 12 oz  / 225 to 300 ml</span>| Ginger Beer                                               | Fever Tree |
 
 ### Notes
 

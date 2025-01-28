@@ -17,10 +17,10 @@ excerpt: |
 
 |    Amount | Ingredient                                                | Brand    |
 | --------: | --------------------------------------------------------- | -------- |
-|      <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Sloe Gin                                                  | Plymouth |
-|      <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lemon Juice                                         |
-|    <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 2 to <span class="onex active">3 oz / 75 ml</span> <span class="onehalfx">4.5 oz / 113 ml</span> <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Sparkling Water Topo Chico                                |
+|      <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Sloe Gin                                                  | Plymouth |
+|      <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lemon Juice                                         |
+|    <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+| <span class="onex active">2 to 3 oz  / 50 to 75 ml</span> <span class="onehalfx">3 to 4.5 oz  / 75 to 113 ml</span> <span class="twox">4 to 6 oz  / 100 to 150 ml</span> <span class="threex">6 to 9 oz  / 150 to 225 ml</span>| Sparkling Water Topo Chico                                |
 
 ### Notes
 
@@ -30,4 +30,4 @@ excerpt: |
   - High Ball
   - On the Rocks
 - Garnish: Lemon wheel and cocktail cherry
-- Special Prep: 1 For variations, drop Sloe Gin to <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span>. (45 ml), & add 0.5 oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).
+- Special Prep: 1 For variations, drop Sloe Gin to 1.5 oz. (45 ml), & add <sup>1</sup>&frasl;<sub>2</sub> oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).

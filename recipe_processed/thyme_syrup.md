@@ -16,9 +16,9 @@ excerpt: |
 
 |    Amount | Ingredient         |
 | --------: | ------------------ |
-| 0.75 Cups | White Sugar        |
-|   0.5 Cup | Hot Water          |
-|  20 grams | Fresh Thyme Sprigs |
+| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> Cups </span> <span class="onehalfx">1.125 Cups </span> <span class="twox">1.5 Cups </span> <span class="threex">2.25 Cups </span>| White Sugar        |
+|   <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> Cup </span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> Cup </span> <span class="twox">1 Cup </span> <span class="threex">1.5 Cup </span>| Hot Water          |
+|  <span class="onex active">20 grams </span> <span class="onehalfx">30 grams </span> <span class="twox">40 grams </span> <span class="threex">60 grams </span>| Fresh Thyme Sprigs |
 
 ### Method
 

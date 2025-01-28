@@ -17,18 +17,18 @@ excerpt: |
 
 ### Ingredients
 
-|       Amount | Ingredient            | Brand                       |
-| -----------: | --------------------- | --------------------------- |
-|      6 whole | Egg Yolks             |
-|    0.5 pound | Sugar                 |
-| 0.5 barspoon | Freshly Grated Nutmeg |
-|        1 cup | Half and Half         |
-|        1 cup | Whole Milk            |
-|        1 cup | Heavy Cream           |
-|      0.5 cup | Jamaica Rum           | Appleton 12 year Rare Casks |
-|      0.5 cup | Cognac                | Maison Rouge VSOP           |
-|      0.5 cup | Bourbon               | Elijah Craig Small Batch    |
-| 1/8 barspoon | salt                  |
+|         Amount | Ingredient            | Brand                       |
+| -------------: | --------------------- | --------------------------- |
+|        6 whole | Egg Yolks             |
+|      0.5 pound | Sugar                 |
+|   0.5 barspoon | Freshly Grated Nutmeg |
+|          1 cup | Half and Half         |
+|          1 cup | Whole Milk            |
+|          1 cup | Heavy Cream           |
+|        0.5 cup | Jamaica Rum           | Appleton 12 year Rare Casks |
+|        0.5 cup | Cognac                | Maison Rouge VSOP           |
+|        0.5 cup | Bourbon               | Elijah Craig Small Batch    |
+| 0.125 barspoon | salt                  |
 
 ### Notes
 

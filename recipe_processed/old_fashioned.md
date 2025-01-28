@@ -19,10 +19,10 @@ ercerpt: |
 
 |   Amount | Ingredient                                               | Brand                         |
 | -------: | -------------------------------------------------------- | ----------------------------- |
-|     <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Bourbon                                                  | Colonel E.H. Taylor 100 Proof |
-|  <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-| <span class="onex active">4 dashes</span> <span class="onehalfx">8 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>  | Bitters                                                  | Angostura Aromatic Bitters    |
-|  1 wedge | Orange Wedge                                             |
+|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Bourbon                                                  | Colonel E.H. Taylor 100 Proof |
+|  <span class="onex active"><sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| <span class="onex active">4 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>| Bitters                                                  | Angostura Aromatic Bitters    |
+|  <span class="onex active">1 wedge </span> <span class="onehalfx">1.5 wedge </span> <span class="twox">2 wedge </span> <span class="threex">3 wedge </span>| Orange Wedge                                             |
 
 ### Notes
 

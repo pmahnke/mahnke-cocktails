@@ -17,9 +17,9 @@ excerpt: |
 
 |    Amount | Ingredient                                                   | Brand      |
 | --------: | ------------------------------------------------------------ | ---------- |
-|      <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lemon Juice                                            |
-|      <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | [Thyme-Infused Simple Syrup]({%link recipe_processed/thyme_syrup.md%}) |
-| 4 to <span class="onex active">5 oz / 125 ml</span> <span class="onehalfx">7.5 oz / 188 ml</span> <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Ginger Beer                                                  | Fever Tree |
+|      <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lemon Juice                                            |
+|      <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| [Thyme-Infused Simple Syrup]({%link recipe_processed/thyme_syrup.md%}) |
+| <span class="onex active">4 to 5 oz  / 100 to 125 ml</span> <span class="onehalfx">6 to 7.5 oz  / 150 to 188 ml</span> <span class="twox">8 to 10 oz  / 200 to 250 ml</span> <span class="threex">12 to 15 oz  / 300 to 375 ml</span>| Ginger Beer                                                  | Fever Tree |
 
 ### Notes
 

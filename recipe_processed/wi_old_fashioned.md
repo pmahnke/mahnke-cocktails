@@ -17,12 +17,12 @@ excerpt: |
 
 |   Amount | Ingredient                                                | Brand                      |
 | -------: | --------------------------------------------------------- | -------------------------- |
-|     <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Brandy                                                    | Korbel                     |
-|  <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |                            |
-| <span class="onex active">4 dashes</span> <span class="onehalfx">8 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>  | Bitters                                                   | Angostura Aromatic Bitters |
-| 2 wedges | Orange                                                    |                            |
-|        1 | Cocktail Cherry                                           |                            |
-|   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Wash - See below                                          |                            |
+|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Brandy                                                    | Korbel                     |
+|  <span class="onex active"><sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |                            |
+| <span class="onex active">4 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>| Bitters                                                   | Angostura Aromatic Bitters |
+| <span class="onex active">2 wedges </span> <span class="onehalfx">3 wedges </span> <span class="twox">4 wedges </span> <span class="threex">6 wedges </span>| Orange                                                    |                            |
+|  <span class="onex active">1 whole </span> <span class="onehalfx">1.5 whole </span> <span class="twox">2 whole </span> <span class="threex">3 whole </span>| Cocktail Cherry                                           |                            |
+|   <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Wash - See below                                          |                            |
 
 ### Notes
 

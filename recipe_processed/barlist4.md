@@ -11,7 +11,7 @@ youtube: "v=CODeSo8ePtM"
 
 - TOP THREE
   - Comparable <a href="https://libbeyglass.pxf.io/ORmrPN" target="_new">Double Old Fashioned Glass</a> (12oz/360ml): Use code ANDERS10 to get 10% off at checkout!
-  - My <a href="https://amzn.to/3BVcy2U" target="_new">Chicago Highball</a> (10.5oz/315ml)
+  - My <a href="https://amzn.to/3BVcy2U" target="_new">Chicago Highball</a> (1<sup>1</sup>&frasl;<sub>2</sub>oz/315ml)
   - My <a href="https://amzn.to/3GreJQD" target="_new">Nick & Nora Glass</a> (5.25oz/157ml)
 - LOWBALLS
   - Comparable <a href="https://libbeyglass.pxf.io/ORmrPN" target="_new">Double Old Fashioned Glass</a> (12oz/360ml): Use code ANDERS10 to get 10% off at checkout!
@@ -19,7 +19,7 @@ youtube: "v=CODeSo8ePtM"
   - My <a href="https://libbeyglass.pxf.io/e4AKmj" target="_new">Mai Tai Glass</a> (13oz/390ml) Use code ANDERS10 to get 10% off at checkout!
   - My <a href="https://amzn.to/3yfeP6D" target="_new">Tiki Lowball</a> (12oz/360ml)
 - HIGHBALLS
-  - My <a href="https://amzn.to/3BVcy2U" target="_new">Chicago Highball</a> (10.5oz/315ml)
+  - My <a href="https://amzn.to/3BVcy2U" target="_new">Chicago Highball</a> (1<sup>1</sup>&frasl;<sub>2</sub>oz/315ml)
   - Pacific Crystal <a href="http://shrsl.com/49kvb" target="_new">Tiki Glasses</a> (15oz/450ml): Use code ANDERS15 for 15% off!
 - STEMMED
   - My <a href="https://amzn.to/3GreJQD" target="_new">Nick & Nora Glass</a> (6oz/180ml)

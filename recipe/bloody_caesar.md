@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient           | Brand            |
-| -------: | -------------------- | ---------------- |
-|   1.5 oz | Vodka                | Russian Standard |
-|     3 oz | Clamato Juice        | Mott's           |
-| 2 dashes | Worcestershire Sauce | Lea & Perrins    |
-| 2 dashes | Hot Sauce            | Tabasco Sauce    |
-|     0.25 | Lime, Juiced         |
+|     Amount | Ingredient           | Brand            |
+| ---------: | -------------------- | ---------------- |
+|     1.5 oz | Vodka                | Russian Standard |
+|       3 oz | Clamato Juice        | Mott's           |
+|   2 dashes | Worcestershire Sauce | Lea & Perrins    |
+|   2 dashes | Hot Sauce            | Tabasco Sauce    |
+| 0.25 whole | Lime, Juiced         |
 
 ### Notes
 

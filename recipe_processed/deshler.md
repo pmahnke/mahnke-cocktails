@@ -21,12 +21,12 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand           |
 | -------: | -------------- | --------------- |
-|  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Rye            | Wild Turkey 101 |
-|  <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Dubonnet Rouge | Dubonnet Rouge  |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Orange Liqueur | Cointreau       |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Bitters        | Peychaud's      |
-|  <span class="onex active">1 swath</span> <span class="onehalfx">2 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>  | Lemon Skin     |
-| <span class="onex active">2 swath</span> <span class="onehalfx">4 swathes</span> <span class="twox">4 swathes</span> <span class="threex">6 swathes</span> s | Orange Skin    |
+|  <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Rye            | Wild Turkey 101 |
+|  <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Dubonnet Rouge | Dubonnet Rouge  |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Orange Liqueur | Cointreau       |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters        | Peychaud's      |
+|  <span class="onex active">1 swathes</span> <span class="onehalfx">1.5 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>| Lemon Skin     |
+| <span class="onex active">2 swathes</span> <span class="onehalfx">3 swathes</span> <span class="twox">4 swathes</span> <span class="threex">6 swathes</span>| Orange Skin    |
 
 ### Notes
 
@@ -45,12 +45,12 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand           |
 | -------: | -------------- | --------------- |
-|     <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Rye            | Wild Turkey 101 |
-|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Dubonnet Rouge | Dubonnet Rouge  |
-|  <span class="onex active">0.25 oz / 6 ml</span> <span class="onehalfx">0.375 oz / 9 ml</span> <span class="twox">0.5 oz / 13 ml</span> <span class="threex">0.75 oz / 19 ml</span> | Orange Liqueur | Cointreau       |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Bitters        | Peychaud's      |
-|  <span class="onex active">1 swath</span> <span class="onehalfx">2 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>  | Lemon Skin     |
-|  <span class="onex active">1 swath</span> <span class="onehalfx">2 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>  | Orange Skin    |
+|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Rye            | Wild Turkey 101 |
+|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Dubonnet Rouge | Dubonnet Rouge  |
+|  <span class="onex active"><sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Orange Liqueur | Cointreau       |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters        | Peychaud's      |
+|  <span class="onex active">1 swathes</span> <span class="onehalfx">1.5 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>| Lemon Skin     |
+|  <span class="onex active">1 swathes</span> <span class="onehalfx">1.5 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>| Orange Skin    |
 
 ### Notes
 
@@ -69,12 +69,12 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand                |
 | -------: | -------------- | -------------------- |
-|     <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Bourbon        | Old Grand-Dad Bonded |
-|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Lillet Rouge   | Lillet Rouge         |
-|   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Orange Curaçao | Pierre Ferrand       |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Bitters        | Peychaud's           |
-|  <span class="onex active">1 swath</span> <span class="onehalfx">2 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>  | Lemon Skin     |
-|  <span class="onex active">1 swath</span> <span class="onehalfx">2 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>  | Orange Skin    |
+|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Bourbon        | Old Grand-Dad Bonded |
+|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Lillet Rouge   | Lillet Rouge         |
+|   <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Orange Curaçao | Pierre Ferrand       |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters        | Peychaud's           |
+|  <span class="onex active">1 swathes</span> <span class="onehalfx">1.5 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>| Lemon Skin     |
+|  <span class="onex active">1 swathes</span> <span class="onehalfx">1.5 swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>| Orange Skin    |
 
 ### Notes
 

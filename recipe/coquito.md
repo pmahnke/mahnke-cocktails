@@ -38,8 +38,8 @@ excerpt: |
 |   Amount | Ingredient |
 | -------: | ---------- |
 | 4 sticks | Cinnamon   |
-|       25 | Cloves     |
-|        1 | Star Anise |
+| 25 whole | Cloves     |
+|  1 whole | Star Anise |
 |    1 cup | Water      |
 
 ### Method:

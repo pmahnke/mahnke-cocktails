@@ -17,12 +17,12 @@ excerpt: |
 
 |   Amount | Ingredient         | Brand                |
 | -------: | ------------------ | -------------------- |
-|   <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Vodka              | Finlandia            |
-|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Galliano           | Galliano L’autentico |
-|   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Dry Curaçao        | Pierre Ferrand       |
-|     <span class="onex active">3 oz / 75 ml</span> <span class="onehalfx">4.5 oz / 113 ml</span> <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Fresh Orange Juice |
-|   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Fresh Lemon Juice  |
-| <span class="onex active">2 swath</span> <span class="onehalfx">4 swathes</span> <span class="twox">4 swathes</span> <span class="threex">6 swathes</span> s | Orange Peel        |
+|   <span class="onex active">1.5 oz  / 38 ml</span> <span class="onehalfx">2.25 oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4.5 oz  / 113 ml</span>| Vodka              | Finlandia            |
+|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Galliano           | Galliano L’autentico |
+|   <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Dry Curaçao        | Pierre Ferrand       |
+|     <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4.5 oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Fresh Orange Juice |
+|   <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Fresh Lemon Juice  |
+| <span class="onex active">2 swathes</span> <span class="onehalfx">3 swathes</span> <span class="twox">4 swathes</span> <span class="threex">6 swathes</span>| Orange Peel        |
 
 ### Notes
 

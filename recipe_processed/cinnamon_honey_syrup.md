@@ -15,9 +15,9 @@ excerpt: |
 
 |    Amount | Ingredient    |
 | --------: | ------------- |
-| 0.67 cups | Honey         |
-| 0.33 cups | Boiling Water |
-|  2 sticks | Cinnamon      |
+| <span class="onex active">0.67 cups </span> <span class="onehalfx">1.<sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="twox">1.34 cups </span> <span class="threex">2.01 cups </span>| Honey         |
+| <span class="onex active">0.33 cups </span> <span class="onehalfx">0.495 cups </span> <span class="twox">0.66 cups </span> <span class="threex">0.99 cups </span>| Boiling Water |
+|  <span class="onex active">2 sticks </span> <span class="onehalfx">3 sticks </span> <span class="twox">4 sticks </span> <span class="threex">6 sticks </span>| Cinnamon      |
 
 ### Method
 

@@ -17,11 +17,11 @@ excerpt: |
 
 |         Amount | Ingredient                                                | Brand        |
 | -------------: | --------------------------------------------------------- | ------------ |
-|           <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Gin                                                       | The Botanist |
-|        <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|      0.5 whole | Lemon                                                     |
-| 10 to 15 whole | Blueberries                                               |
-|  4 to 6 sprigs | Thyme                                                     |
+|           <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Gin                                                       | The Botanist |
+|        <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|      <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> whole </span> <span class="twox">1 whole </span> <span class="threex">1.5 whole </span>| Lemon                                                     |
+| <span class="onex active">10 to 15 whole </span> <span class="onehalfx">15 to 22.5 whole </span> <span class="twox">20 to 30 whole </span> <span class="threex">30 to 45 whole </span>| Blueberries                                               |
+|  <span class="onex active">4 to 6 sprigs </span> <span class="onehalfx">6 to 9 sprigs </span> <span class="twox">8 to 12 sprigs </span> <span class="threex">12 to 18 sprigs </span>| Thyme                                                     |
 
 ### Notes
 

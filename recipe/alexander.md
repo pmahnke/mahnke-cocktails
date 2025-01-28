@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson
 title: "Alexander"
-categories: [ cocktail, dairy ]
-eras: [ prohibition ]
+categories: [cocktail, dairy]
+eras: [prohibition]
 permalink: "/recipe/alexander.html"
 iconfile: alexander
 stars: 0
@@ -40,7 +40,7 @@ excerpt: |
 
 |  Amount | Ingredient     | Brand                                                     |
 | ------: | -------------- | --------------------------------------------------------- |
-| 0.75 os | Gin            | Martin Millers                                            |
+| 0.75 oz | Gin            | Martin Millers                                            |
 | 0.75 oz | Crème de Cacao | Tempus Fugit                                              |
 | 0.75 oz | Cream          | half & half, heavy cream, or a favorite non-dairy creamer |
 

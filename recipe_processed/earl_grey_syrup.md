@@ -15,8 +15,8 @@ excerpt: |
 
 |    Amount | Ingredient           |
 | --------: | -------------------- |
-| 400 grams | White Sugar          |
-| 200 grams | Strong Earl Grey Tea |
+| <span class="onex active">400 grams </span> <span class="onehalfx">600 grams </span> <span class="twox">800 grams </span> <span class="threex">1200 grams </span>| White Sugar          |
+| <span class="onex active">200 grams </span> <span class="onehalfx">300 grams </span> <span class="twox">400 grams </span> <span class="threex">600 grams </span>| Strong Earl Grey Tea |
 
 ### Method:
 

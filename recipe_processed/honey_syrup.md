@@ -15,8 +15,8 @@ excerpt: |
 
 |  Amount | Ingredient    |
 | ------: | ------------- |
-| 3 parts | Honey         |
-| 1 parts | Boiling Water |
+| <span class="onex active">3 parts </span> <span class="onehalfx">4.5 parts </span> <span class="twox">6 parts </span> <span class="threex">9 parts </span>| Honey         |
+| <span class="onex active">1 parts </span> <span class="onehalfx">1.5 parts </span> <span class="twox">2 parts </span> <span class="threex">3 parts </span>| Boiling Water |
 
 ### Method
 

@@ -47,7 +47,7 @@ excerpt: |
 | --------------: | ------------------ | --------------------- |
 |            2 oz | Rum                | The Real McCoy 3 Year |
 |       0.5 whole | Lime               |
-|           1 tbs | Raw Demerara Sugar |
+|    1 tablespoon | Raw Demerara Sugar |
 | 10 to 12 leaves | Mint               |
 |       3 to 5 oz | Soda Water         |
 

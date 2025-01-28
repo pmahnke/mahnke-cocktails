@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient           | Brand            |
-| -------: | -------------------- | ---------------- |
-|   <span class="onex active">1.5 oz / 38 ml</span> <span class="onehalfx">2.25 oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4.5 oz / 113 ml</span> | Vodka                | Russian Standard |
-|     <span class="onex active">3 oz / 75 ml</span> <span class="onehalfx">4.5 oz / 113 ml</span> <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Clamato Juice        | Mott's           |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Worcestershire Sauce | Lea & Perrins    |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">4 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>  | Hot Sauce            | Tabasco Sauce    |
-|     0.25 | Lime, Juiced         |
+|     Amount | Ingredient           | Brand            |
+| ---------: | -------------------- | ---------------- |
+|     <span class="onex active">1.5 oz  / 38 ml</span> <span class="onehalfx">2.25 oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4.5 oz  / 113 ml</span>| Vodka                | Russian Standard |
+|       <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4.5 oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Clamato Juice        | Mott's           |
+|   <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Worcestershire Sauce | Lea & Perrins    |
+|   <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Hot Sauce            | Tabasco Sauce    |
+| <span class="onex active"><sup>1</sup>&frasl;<sub>4</sub> whole </span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox"><sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="threex"><sup>3</sup>&frasl;<sub>4</sub> whole </span>| Lime, Juiced         |
 
 ### Notes
 

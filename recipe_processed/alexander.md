@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson
 title: "Alexander"
-categories: [ cocktail, dairy ]
-eras: [ prohibition ]
+categories: [cocktail, dairy]
+eras: [prohibition]
 permalink: "/recipe/alexander.html"
 iconfile: alexander
 stars: 0
@@ -40,9 +40,9 @@ excerpt: |
 
 |  Amount | Ingredient     | Brand                                                     |
 | ------: | -------------- | --------------------------------------------------------- |
-| 0.75 os | Gin            | Martin Millers                                            |
-| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Crème de Cacao | Tempus Fugit                                              |
-| <span class="onex active">0.75 oz / 19 ml</span> <span class="onehalfx">1.125 oz / 28 ml</span> <span class="twox">1.5 oz / 38 ml</span> <span class="threex">2.25 oz / 56 ml</span> | Cream          | half & half, heavy cream, or a favorite non-dairy creamer |
+| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Gin            | Martin Millers                                            |
+| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Crème de Cacao | Tempus Fugit                                              |
+| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Cream          | half & half, heavy cream, or a favorite non-dairy creamer |
 
 ### Notes
 

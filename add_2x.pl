@@ -23,80 +23,61 @@ while (my $file = readdir DIR) {
     my $out = "";    
     while (<FILE>) {
 
-        if (/((\d+\.\d+|\d+)) oz/) {
-	    
-            my $oz = $1 * 1;
-            
-            my $in = "";
-            $in = "simple" if (/simple/i);
-            $in = "semi"   if (/semi/i);
-            $in = "rich"   if (/rich/i);	    
+        my ($minq, $maxq, $meas, $orig) = "";
+        
+        if (/\|\s+([0-9]+) to (\d+) (\D[^\|]*)/) {
+    
+            # 5 to 6 oz
+            $orig = "$1 to $2 $3" ;
+            $minq = $1 * 1.0;
+            $maxq = $2 * 1.0;
+            $meas = $3;
+    
+        } elsif (/\|\s+([0-9]*\.[0-9]+|[0-9]+) (\D[^\|]*)/) {
+    
+            # 5 oz
+            $orig = "$1 $2";
+            $minq = $1 * 1.0;
+            $meas = $2;
+    
+        } 
+
+        if ($minq) {
+
+            print qq |found  min: $minq max: $maxq measure: $meas from: $_\n|;
+            #<STDIN>;
 
             # 1x
-                my $ml = &convert($oz, $in);
-                $ml = qq|<span class="onex active">$oz oz \/ $ml ml</span> |;
+            my $scale = &convert($meas, 1, $minq, $maxq);
+            $ml = qq|<span class="onex active">$scale</span> |;
 
             # 1.5x
-            my $ozx = $oz * 1.5;
-            my $mlx = &convert($ozx, $in);
-            $ml .= qq|<span class="onehalfx">$ozx oz \/ $mlx ml</span> |;
+            $scale = &convert($meas, 1.5 , $minq, $maxq);
+            $ml .= qq|<span class="onehalfx">$scale</span> |;
 
             # 2x
-            $ozx = $oz * 2;
-            $mlx = &convert($ozx, $in);
-            $ml .= qq|<span class="twox">$ozx oz \/ $mlx ml</span> |;
+            $scale = &convert($meas, 2 , $minq, $maxq);
+            $ml .= qq|<span class="twox">$scale</span> |;
 
 
             #3x
-            $ozx = $oz * 3;
-            $mlx = &convert($ozx, $in);
-            $ml .= qq|<span class="threex">$ozx oz \/ $mlx ml</span>|;
+            $scale = &convert($meas, 3 , $minq, $maxq);
+            $ml .= qq|<span class="threex">$scale</span>|;
 
-            s/$oz oz/$ml/;
-            print "Converted $oz to $ml\n";
-            
-        } elsif (/(\d+) (dashes|dash|barspoons|barspoon|swathes|swath|teaspoon|tablespoon)/) {
-            
-            # convert non-ounce measures, logically as possible
-
-            my $dash = $1 * 1;
-
-            # deal with making measures plural
-            my $text = $2;
-            my $plural = "";
-            if ($text =~ /dash/) {
-                $plural = "dashes";
-            } elsif ($text =~ /barspoon/) {
-                $plural = "barspoons";
-            } elsif ($text =~ /swath/) {
-                $plural = "swathes";
-            } elsif ($text =~ /teaspoon/) {
-                $plural = "teaspoons";
-            } elsif ($text =~ /tablespoon/) {
-                $plural = "tablespoons";
-            } else {
-                $plural = $text;
-            }
-
-            # build text
-            my $dash_out = qq|<span class="onex active">$dash $text</span> |;
-            $dashx = $dash * 2; # using 2 for dashes and bar spoons for 1.5 recipes, as you can't do a 1/2 dash
-            $dashx = $dash * 1.5 if ($text =~ /(teaspoon|tablespoon)/);
-            $dash_out .= qq|<span class="onehalfx">$dashx $plural</span> |;
-            $dashx = $dash * 2;
-            $dash_out .= qq|<span class="twox">$dashx $plural</span> |;
-            $dashx = $dash * 3;
-            $dash_out .= qq|<span class="threex">$dashx $plural</span> |;
-
-            s/$dash $text/$dash_out/;
-            print "Converted $dash $text to $dash_out\n"; 
-
-        } else {
-            #print "line: $_\n";
+            s/$orig/$ml/;
+            print "Converted $orig to $ml\n";
         }
 
-	# also convert links
-	s/link recipe\//link recipe_processed\//;
+        # convert fractions from 0.75 to 3/4
+        s/0.125/<sup>1<\/sup>&frasl;<sub>8<\/sub>/; # 1/8
+        s/0.1875/<sup>1<\/sup>&frasl;<sub>4<\/sub>/; # 3/16, but make it 1/4
+        s/0.25/<sup>1<\/sup>&frasl;<sub>4<\/sub>/; # 1/4
+        s/0.375/<sup>1<\/sup>&frasl;<sub>2<\/sub>/; # 3/8, but make it 1/2
+        s/0.5/<sup>1<\/sup>&frasl;<sub>2<\/sub>/; # 1/2
+        s/0.75/<sup>3<\/sup>&frasl;<sub>4<\/sub>/; # 3/4
+
+    	# also convert interal liquid links
+	    s/link recipe\//link recipe_processed\//;
 	
         $out .= $_;
 
@@ -118,33 +99,62 @@ exit;
 
 sub convert {
 
+    # 0 - measure, 1 - scale,  2 - min qty, 3 - max qty
+
     # water 25 g = 1 oz
     # rich syrup 36.68 g = 1 oz
     # semi rich syrup 35 g = 1 oz
     # simple syrup 34.16 g = 1 oz
 
-    my $oz = $_[0];
-    my $in = $_[1];
-    my $ml = "";
+    my $meas  = $_[0];
+    my $scale = $_[1];
+    my $minq  = $_[2];
+    my $maxq  = $_[3] if ($_[3]);
+    my $out = "";
+    my $FLAGoz = 0;
 
-    print "sub convert $oz for $in\n";
+    print "sub convert $minq $maxq $meas scale: $scale\n";
 
-    if ($in eq "rich") {
-    	$ml = $oz * 36.68;
-    } elsif ($in eq "semi") {
-	    $ml = $oz * 35.3;
-    } elsif ($in eq "simple") {
-	    $ml = $oz * 34.16;
-    } else {
-	    $ml = $oz * 25;
+    # scale all 
+    $minq = $minq * $scale;
+    $maxq = $maxq * $scale if ($maxq);
+
+
+    if ($meas =~ /oz/i) {
+        # only create an ml for oz
+        $FLAGoz = 1;
+        $minml = $minq * 25;
+        $maxml = $maxq * 25 if ($maxq);
     }
-    # OVERRIDE THE SIMPLE SYRUP CALCULATIONS FOR A TEST
-    $ml = $oz * 25;
 
-    # round to the nearest .5
-    #$ml = nearest(0.5, $ml);
-    # TEST rounding to nearest 1
-    $ml = nearest(1, $ml);
-    return($ml);
+    # deal with making measures plural
+    if ($meas =~ /dash/) {
+        $meas = "dashes";
+    } elsif ($meas =~ /barspoon/) {
+        $meas = "barspoons";
+    } elsif ($meas =~ /swath/) {
+        $meas = "swathes";
+    } elsif ($meas =~ /teaspoon/) {
+        $meas = "teaspoons";
+    } elsif ($meas =~ /tablespoon/) {
+        $meas = "tablespoons";
+    } 
+
+    # round mls to the nearest .5
+    $minml = nearest(1, $minml) if ($minml);
+    $maxml = nearest(1, $maxml) if ($maxml);
+
+    $out = $minq;
+    $out .= " to " . $maxq if ($maxq);
+    $out .= " $meas";
+    if ($FLAGoz) {
+        $out .= " / $minml";
+        $out .= " to " . $maxml if ($maxml);
+        $out .= " ml";
+    }
+
+    ($minq, $maxq, $minml, $maxml, $meas) = "";
+
+    return($out);
 
 }
