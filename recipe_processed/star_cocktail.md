@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1 oz Apple Brandy  ",
-  "  1 oz Sweet Vermouth",
-  "1 dash Bitters       ",
-  "1 dash Bitters       "],
+  "recipeIngredient": [  "1 oz Apple Brandy",
+  "1 oz Sweet Vermouth",
+  "1 dash Bitters ",
+  "1 dash Bitters "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Nick &amp; Nora
-- Garnish: Expressed lemon oil
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick &amp; Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed lemon oil
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

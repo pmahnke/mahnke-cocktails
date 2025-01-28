@@ -37,18 +37,31 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "     1 oz Irish Whiskey                                           ",
-  "  0.25 oz Rich Demerara Syrup",
-  "3 to 4 oz Hot Coffee                                              "],
+  "recipeIngredient": [  " 1 oz Irish Whiskey ",
+  "0.25 oz Rich Demerara Syrup",
+  "3 to 4 oz Hot Coffee"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Glass
-- Pour: Add all ingredients directly to the glass
-- Glassware: Mug
-- Garnish: Heavy cream float
-- Special Prep: Shake the heavy cream in a mixing tin till thick.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Mug
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Heavy cream float
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Shake the heavy cream in a mixing tin till thick.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

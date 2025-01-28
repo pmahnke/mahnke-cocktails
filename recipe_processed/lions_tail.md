@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1.5 oz Bourbon                                                 ",
-  "  0.5 oz Allspice Dram                                           ",
-  " 0.75 oz Fresh Lime Juice                                        ",
+  "recipeIngredient": [  "1.5 oz Bourbon ",
+  "0.5 oz Allspice Dram ",
+  " 0.75 oz Fresh Lime Juice",
   " 0.25 oz Rich Demerara Syrup",
-  "2 Dashes Bitters                                                 ",
-  " 0.75 oz Optional - Raw Egg White or Aquafaba (chickpea water)   "],
+  "2 Dashes Bitters ",
+  " 0.75 oz Optional - Raw Egg White or Aquafaba (chickpea water) "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Lime twist
-- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba. Raw Egg WhiteAquafaba (chickpea water)
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lime twist
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba. Raw Egg WhiteAquafaba (chickpea water)
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

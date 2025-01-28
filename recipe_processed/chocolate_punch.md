@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1 oz Cognac                                                   ",
-  " 0.5 oz Ruby Port                                                ",
-  " 0.5 oz Crème de Cacao                                           ",
+  "recipeIngredient": [  " 1 oz Cognac ",
+  " 0.5 oz Ruby Port",
+  " 0.5 oz Crème de Cacao ",
   "0.25 oz Semi-Rich Simple Syrup",
-  "   1 oz Heavy Cream                                              "],
+  " 1 oz Heavy Cream"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe or Nick & Nora
-- Garnish: Grated chocolate
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe or Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated chocolate
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

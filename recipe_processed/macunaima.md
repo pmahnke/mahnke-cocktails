@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Cachaça                                                  ",
-  " 0.5 oz Fresh Lemon Juice                                        ",
+  "recipeIngredient": [  " 1.5 oz Cachaça",
+  " 0.5 oz Fresh Lemon Juice",
   " 0.5 oz Semi-Rich Simple Syrup",
-  "0.25 oz Fernet Branca                                            "],
+  "0.25 oz Fernet Branca"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Small Low Ball
-- Garnish: None
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Small Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

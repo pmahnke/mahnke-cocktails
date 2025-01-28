@@ -47,26 +47,54 @@ Orange slice for individual garnish
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    12 oz Frozen Concentrated Orange Juice (thawed)              ",
-  "    12 oz Frozen Concentrated Lemonade (thawed)                  ",
-  "    16 oz Brandy                                                 ",
-  "    40 oz Water                                                  ",
-  "    16 oz Tea Simple Syrup",
-  "1 to 2 oz Sprite, ginger ale, or soda water                      "],
+  "recipeIngredient": [  "12 oz Frozen Concentrated Orange Juice (thawed)",
+  "12 oz Frozen Concentrated Lemonade (thawed)",
+  "16 oz Brandy ",
+  "40 oz Water",
+  "16 oz Tea Simple Syrup",
+  "1 to 2 oz Sprite, ginger ale, or soda water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in Tub
-- Pour: Add all ingredients directly into the tub
-- Glassware: Parfait Cup
-- Garnish: Orange slice for individual garnish
-- Special Prep:
-  - Combine orange juice, lemonade, brandy, tea syrup, and 5 cups (1200 ml) of water in a sealable container.
-  - Stir to combine.
-  - Freeze for 12-24 hours.
-  - Once frozen, scoop desired amount into a glass and top with soda.
-  - Garnish with a slice of orange.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in Tub
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly into the tub
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Parfait Cup
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange slice for individual garnish
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Combine orange juice, lemonade, brandy, tea syrup, and 5 cups (1200 ml) of water in a sealable container.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Stir to combine.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Freeze for 12-24 hours.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Once frozen, scoop desired amount into a glass and top with soda.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Garnish with a slice of orange.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

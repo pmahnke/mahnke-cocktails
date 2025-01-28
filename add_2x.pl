@@ -35,11 +35,13 @@ while (my $file = readdir DIR) {
                 my $s_raw_ingredient = "$1 $2";
                 $s_raw_ingredient =~ s/\"/\'/g; # replace double quotes with single
                 $s_raw_ingredient =~ s/\[(.*)\]\((.*)\)/$1/g;
+                $s_raw_ingredient =~ s/  //g;
                 $s_ingredient .= qq |  "$s_raw_ingredient",\n|;
             }
         }
  
-        $s_instructions .= $_ if ($FLAGnotes);
+
+        $s_instructions .= qq |  {\n    "@type": "HowToStep",\n    "text": "$_"\n  },| if ($FLAGnotes && length($_) > 1);
         $FLAGnotes = 1 if (/\#\#\# Notes/);  
 
         # scaling
@@ -102,6 +104,7 @@ while (my $file = readdir DIR) {
 
     chop($s_ingredient);
     chop($s_ingredient);
+    chop($s_instructions);
     $s_ingredient =~ s/<(.[^>]*)>//g; # remove html tags
     $s_instructions =~ s/<(.[^>]*)>//g; # remove html tags
     $s_instructions =~ s/\"/\'/g; # replace double quotes with single
@@ -115,8 +118,7 @@ while (my $file = readdir DIR) {
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-  $s_ingredient],
+  "recipeIngredient": [$s_ingredient],
   "name": "{{ page.title }}",
   "recipeInstructions": "$s_instructions",
   "recipeYield": "1 cocktail"

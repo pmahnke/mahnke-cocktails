@@ -37,18 +37,31 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   2 oz Cognac         ",
-  "   1 oz Crème de Menthe",
-  "1 spray Absinthe       "],
+  "recipeIngredient": [  " 2 oz Cognac ",
+  " 1 oz Crème de Menthe",
+  "1 spray Absinthe "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Open Pour
-- Glassware: Low BallCrushed Ice
-- Garnish: Sprig of mint
-- Special Prep: Spray the absinthe over the top of the cocktail.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low BallCrushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Sprig of mint
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Spray the absinthe over the top of the cocktail.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

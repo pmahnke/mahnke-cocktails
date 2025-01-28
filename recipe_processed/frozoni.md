@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "5 whole Grapes (frozen)                                          ",
-  "   1 oz Gin                                                      ",
-  "   1 oz Campari                                                  ",
-  "0.75 oz Fresh Lemon Juice                                        ",
+  "recipeIngredient": [  "5 whole Grapes (frozen)",
+  " 1 oz Gin",
+  " 1 oz Campari",
+  "0.75 oz Fresh Lemon Juice",
   " 0.5 oz Semi-Rich Simple Syrup",
-  "   3 oz Prosecco                                                 "],
+  " 3 oz Prosecco "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Blended
-- Pour: Open Pour
-- Glassware: High Ball
-- Garnish: Grape
-- Special Prep: Add 0.75 cup of crushed ice to the tin. Blend cocktail with a stick blender in the shaking tin.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Blended
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grape
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add 0.75 cup of crushed ice to the tin. Blend cocktail with a stick blender in the shaking tin.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

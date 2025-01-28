@@ -63,42 +63,92 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "0.75 oz Gin                              ",
-  "0.75 oz Sweet Vermouth                   ",
+  "recipeIngredient": [  "0.75 oz Gin",
+  "0.75 oz Sweet Vermouth ",
   "0.75 oz Green Chartreuse Green Chartreuse",
-  " 1 dash Orange Bitters                   ",
-  "1.25 oz Gin             ",
-  "0.75 oz Sweet Vermouth  ",
+  " 1 dash Orange Bitters ",
+  "1.25 oz Gin ",
+  "0.75 oz Sweet Vermouth",
   "0.25 oz Green Chartreuse",
-  " 1 dash Orange Bitters  "],
+  " 1 dash Orange Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Nick & Nora
-- Garnish: Cocktail cherry
-- Special Prep: Expressed lemon oil.
-
-## Modern Bijou
-
-### Ingredients
-
-|  Amount | Ingredient       | Brand                     |
-| ------: | ---------------- | ------------------------- |
-| 1.25 oz | Gin              | Plymouth                  |
-| 0.75 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |
-| 0.25 oz | Green Chartreuse | Green Chartreuse          |
-|  1 dash | Orange Bitters   | Regan's No. 6             |
-
-### Notes
-
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Nick & Nora
-- Garnish: Cocktail cherry
-- Special Prep: Expressed lemon oil.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Expressed lemon oil.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## Modern Bijou
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  Amount | Ingredient       | Brand                     |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| ------: | ---------------- | ------------------------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 1.25 oz | Gin              | Plymouth                  |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.75 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.25 oz | Green Chartreuse | Green Chartreuse          |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  1 dash | Orange Bitters   | Regan's No. 6             |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Expressed lemon oil.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

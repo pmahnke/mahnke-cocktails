@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "       1.5 oz Gold Rum                                                 ",
-  "      0.75 oz Fresh Lime Juice                                         ",
-  "       0.5 oz Semi-Rich Simple Syrup",
-  "2 to 3 dashes Bitters                                                  ",
-  "6 to 8 leaves Mint                                                     ",
-  "         2 oz Sparkling Wine                                           "],
+  "recipeIngredient": [  " 1.5 oz Gold Rum ",
+  "0.75 oz Fresh Lime Juice ",
+  " 0.5 oz Semi-Rich Simple Syrup",
+  "2 to 3 dashes Bitters",
+  "6 to 8 leaves Mint ",
+  " 2 oz Sparkling Wine "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Mint leaf
-- Special Prep: Add mint leaves to the shaking tin and add other ingredients minus the champagne. Pour cocktail into glass and top it off with champagne.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint leaf
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add mint leaves to the shaking tin and add other ingredients minus the champagne. Pour cocktail into glass and top it off with champagne.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -66,47 +66,104 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  2 oz Champagne                                      ",
-  "  1 oz Cognac                                         ",
-  "0.5 oz Fresh Lemon Juice                              ",
+  "recipeIngredient": [  "2 oz Champagne",
+  "1 oz Cognac ",
+  "0.5 oz Fresh Lemon Juice",
   "0.5 oz Simple Syrup",
-  "  2 oz Champagne                                      ",
-  "  1 oz Gin                                            ",
-  "0.5 oz Fresh Lemon Juice                              ",
+  "2 oz Champagne",
+  "1 oz Gin",
+  "0.5 oz Fresh Lemon Juice",
   "0.5 oz Simple Syrup"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Single Strain
-- Glassware: Champagne Flute
-- Garnish: Lemon Twist
-- Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.### Gin
-
-
-
-
-## Gin
-
-### Ingredients
-
-| Amount | Ingredient                                      | Brand    |
-| -----: | ----------------------------------------------- | -------- |
-|   2 oz | Champagne                                       |
-|   1 oz | Gin                                             | Plymouth |
-| 0.5 oz | Fresh Lemon Juice                               |
-| 0.5 oz | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-
-### Notes
-
-- Method: Shaken
-- Pour: Single Strain
-- Glassware: Champagne Flute
-- Garnish: Lemon Twist
-- Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.
-
-
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Champagne Flute
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon Twist
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.### Gin
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## Gin
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| Amount | Ingredient                                      | Brand    |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| -----: | ----------------------------------------------- | -------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   2 oz | Champagne                                       |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   1 oz | Gin                                             | Plymouth |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.5 oz | Fresh Lemon Juice                               |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.5 oz | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Champagne Flute
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon Twist
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

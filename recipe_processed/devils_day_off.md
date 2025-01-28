@@ -41,22 +41,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   2 oz Fresh Grapefruit Juice",
-  " 0.5 oz Fresh Lime Juice      ",
-  "0.25 oz Agave Nectar          ",
-  "1 pinch Cinnamon              ",
-  " 100 ml Red Bitter Soda       "],
+  "recipeIngredient": [  " 2 oz Fresh Grapefruit Juice",
+  " 0.5 oz Fresh Lime Juice",
+  "0.25 oz Agave Nectar",
+  "1 pinch Cinnamon",
+  " 100 ml Red Bitter Soda "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Single Strain
-- Glassware:
-  - High Ball
-  - On the Rocks
-- Garnish: Sprig of Rosemary
-- Special Prep: Shake cocktail and pour into the glass. Top with red bitter soda.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Sprig of Rosemary
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Shake cocktail and pour into the glass. Top with red bitter soda.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

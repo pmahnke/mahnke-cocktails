@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  .75 oz London Dry gin   ",
-  "  .75 oz Manzanilla sherry",
-  "  .75 oz Lillet blanc     ",
-  "2 dashes Orange bitters   "],
+  "recipeIngredient": [  ".75 oz London Dry gin ",
+  ".75 oz Manzanilla sherry",
+  ".75 oz Lillet blanc ",
+  "2 dashes Orange bitters "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: Lemon Peel
-- Special Prep: Expressed lemon oil over cocktail
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon Peel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Expressed lemon oil over cocktail
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -44,25 +44,56 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  0.75 oz Overproof Rum ",
-  "     1 oz Coffee Liqueur",
-  "   0.5 oz Orange Curaçao",
-  "2 to 3 oz Hot Coffee    "],
+  "recipeIngredient": [  "0.75 oz Overproof Rum ",
+  " 1 oz Coffee Liqueur",
+  " 0.5 oz Orange Curaçao",
+  "2 to 3 oz Hot Coffee"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the glass
-- Pour: Add all ingredients directly to the glass
-- Glassware: Coffee Glass
-- Garnish: Grated nutmeg & burnt sugared rim
-- Special Prep:
-  - Sugar the rim of the glass.
-  - Add the overproof rum to the glass.
-  - Light it on fire.
-  - Extinguish the flames when the sugar is caramelized.
-  - Add the remaining ingredients to the glass.
-  - Top with lightly whipped heavy cream
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coffee Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg & burnt sugared rim
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Sugar the rim of the glass.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Add the overproof rum to the glass.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Light it on fire.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Extinguish the flames when the sugar is caramelized.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Add the remaining ingredients to the glass.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Top with lightly whipped heavy cream
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

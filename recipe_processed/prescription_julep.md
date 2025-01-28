@@ -41,21 +41,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "       1.5 oz Cognac                                                  ",
-  "       0.5 oz Rye                                                     ",
-  "       0.5 oz Rich Demerara Syrup",
-  "6 to 8 leaves Mint                                                    "],
+  "recipeIngredient": [  " 1.5 oz Cognac",
+  " 0.5 oz Rye ",
+  " 0.5 oz Rich Demerara Syrup",
+  "6 to 8 leaves Mint"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: 
-    - Julep Cup
-    - Crushed Ice
-- Garnish: Mint Sprig
-- Special Prep: Add mint leaves directly to the shaking tin. Then build the cocktail. Top with additional crushed ice.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: 
+'
+  },  {
+    '': 'HowToStep',
+    'text': '    - Julep Cup
+'
+  },  {
+    '': 'HowToStep',
+    'text': '    - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint Sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add mint leaves directly to the shaking tin. Then build the cocktail. Top with additional crushed ice.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

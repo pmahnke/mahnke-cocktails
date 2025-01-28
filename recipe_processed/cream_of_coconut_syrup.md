@@ -32,10 +32,9 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1.75 cups White Sugar                              ",
-  "  13.5 oz Unsweetened Full Fat Coconut Milk (1 Can)",
-  "  1 pinch Salt                                     "],
+  "recipeIngredient": [  "1.75 cups White Sugar",
+  "13.5 oz Unsweetened Full Fat Coconut Milk (1 Can)",
+  "1 pinch Salt "],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
   "recipeYield": "1 cocktail"

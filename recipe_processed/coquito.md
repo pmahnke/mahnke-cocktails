@@ -54,8 +54,7 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "8 oz Coconut Milk",
+  "recipeIngredient": [  "8 oz Coconut Milk",
   "4 oz Evaporated Milk",
   "4 oz Sweetened Condensed Milk",
   "2 oz Cream of Coconut",
@@ -63,31 +62,68 @@ excerpt: |
   "2 oz Chilled Spice Tea",
   "1 pinch Salt",
   "4 oz Gold Rum",
-  "4 sticks Cinnamon  ",
-  "25 whole Cloves    ",
+  "4 sticks Cinnamon",
+  "25 whole Cloves",
   " 1 whole Star Anise",
-  "   1 cup Water     "],
+  " 1 cup Water "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Blender
-- Pour: From a Pitcher
-- Glassware: Cocktail Glass
-- Garnish: Grated nutmeg
-- Special Prep: Chill over night.
-
-### Spice Tea
-
-|   Amount | Ingredient |
-| -------: | ---------- |
-| 4 sticks | Cinnamon   |
-| 25 whole | Cloves     |
-|  1 whole | Star Anise |
-|    1 cup | Water      |
-
-### Method:
-
-1. Boil water with spices until volume is reduced by half. Chill in fridge or freezer.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Blender
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: From a Pitcher
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Cocktail Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Chill over night.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Spice Tea
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   Amount | Ingredient |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| -------: | ---------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 4 sticks | Cinnamon   |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 25 whole | Cloves     |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  1 whole | Star Anise |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|    1 cup | Water      |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Method:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '1. Boil water with spices until volume is reduced by half. Chill in fridge or freezer.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -42,23 +42,42 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1.5 oz Vodka             ",
-  "    1 oz Galliano          ",
-  "  0.5 oz Dry Curaçao       ",
-  "    3 oz Fresh Orange Juice",
-  "  0.5 oz Fresh Lemon Juice ",
-  "2 swaths Orange Peel       "],
+  "recipeIngredient": [  "1.5 oz Vodka ",
+  "1 oz Galliano",
+  "0.5 oz Dry Curaçao ",
+  "3 oz Fresh Orange Juice",
+  "0.5 oz Fresh Lemon Juice ",
+  "2 swaths Orange Peel "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - High Ball
-  - On the rocks
-- Garnish: Orange wheel and cocktail cherry
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange wheel and cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -37,18 +37,31 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   2 oz Dry                                          ",
+  "recipeIngredient": [  " 2 oz Dry",
   "0.75 oz Honey Syrup",
-  "0.75 oz Fresh Lemon Juice                            "],
+  "0.75 oz Fresh Lemon Juice"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Lightly scorched rosemary sprig
-- Special Prep: Smoke this cocktail with your favorite cocktail-smoking contraption
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lightly scorched rosemary sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Smoke this cocktail with your favorite cocktail-smoking contraption
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

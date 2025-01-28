@@ -41,22 +41,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "         2 oz Mezcal          ",
-  "         1 oz Orange Curaçao  ",
-  "         1 oz Fresh Lime Juice",
-  "      0.25 oz Agave Nectar    ",
-  "2 to 3 slices Jalapeño        "],
+  "recipeIngredient": [  " 2 oz Mezcal",
+  " 1 oz Orange Curaçao",
+  " 1 oz Fresh Lime Juice",
+  "0.25 oz Agave Nectar",
+  "2 to 3 slices Jalapeño"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Low Ball
-  - On the Rocks
-- Garnish: Lime wheel
-- Special Prep: Muddle the jalapeño slices in the cheater tin before shaking. Tajin rim.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lime wheel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Muddle the jalapeño slices in the cheater tin before shaking. Tajin rim.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

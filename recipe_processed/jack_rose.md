@@ -37,18 +37,31 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Apple Brandy                                   ",
+  "recipeIngredient": [  " 1.5 oz Apple Brandy ",
   "0.75 oz Grenadine",
-  "0.75 oz Fresh Lemon or Lime Juice                      "],
+  "0.75 oz Fresh Lemon or Lime Juice"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: None
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

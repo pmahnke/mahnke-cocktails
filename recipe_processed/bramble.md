@@ -40,21 +40,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Gin                                                      ",
-  "0.75 oz Fresh Lemon Juice                                        ",
+  "recipeIngredient": [  " 1.5 oz Gin",
+  "0.75 oz Fresh Lemon Juice",
   " 0.5 oz Semi-Rich Simple Syrup",
-  " 0.5 oz Crème de Mûre                                            "],
+  " 0.5 oz Crème de Mûre"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Low Ball
-  - Crushed Ice
-- Garnish: Lemon wheel and blackberries
-- Special Prep: Shake the gin, lemon juice and [Simple Syrup]({%link recipe_processed/simple_syrup.md%}). Pour into the glass over crushed ice. Top the glass with more crushed ice. Then top with the Crème de Mûre.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon wheel and blackberries
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Shake the gin, lemon juice and [Simple Syrup]({%link recipe_processed/simple_syrup.md%}). Pour into the glass over crushed ice. Top the glass with more crushed ice. Then top with the Crème de Mûre.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -38,20 +38,36 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    1 oz Cognac        ",
-  " 0.25 oz Dry Curaçao   ",
-  "2 dashes Bitters       ",
-  "    2 oz Sparkling Wine"],
+  "recipeIngredient": [  "1 oz Cognac",
+  " 0.25 oz Dry Curaçao ",
+  "2 dashes Bitters ",
+  "2 oz Sparkling Wine"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Single Strain
-- Glassware: Coupe
-- Garnish: None
-- Special Prep: Pour cocktail into glass and top it off with champagne and to with
-  expressed orange OR lemon oil.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour cocktail into glass and top it off with champagne and to with
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  expressed orange OR lemon oil.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1 oz Demerara Rum         ",
-  "  1 oz Jamaican Rum         ",
-  "  3 oz Fresh Pineapple Juice",
-  "  1 oz Cream Of Coconut     ",
-  "  1 oz Fresh Orange Juice   "],
+  "recipeIngredient": [  "1 oz Demerara Rum ",
+  "1 oz Jamaican Rum ",
+  "3 oz Fresh Pineapple Juice",
+  "1 oz Cream Of Coconut ",
+  "1 oz Fresh Orange Juice "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Open Pour
-- Glassware: Low Ball, Crushed Ice
-- Garnish: Grated nutmeg
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low Ball, Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

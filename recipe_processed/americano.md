@@ -39,20 +39,39 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1.25 oz Campari       ",
+  "recipeIngredient": [  "1.25 oz Campari ",
   "1.25 oz Sweet Vermouth",
-  "   3 oz Soda Water    "],
+  " 3 oz Soda Water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Built in the glass
-- Pour: Add all ingredients directly to the glass
-- Glassware:
-  - Low Ball
-  - On the Rocks
-- Garnish: Lemon Wheel
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Built in the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon Wheel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

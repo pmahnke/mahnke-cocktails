@@ -68,51 +68,114 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1 oz Jamaican Rum                                                 ",
-  "  1 oz Dark Rum                                                     ",
-  "  1 oz Passion Fruit Syrup",
-  "  1 oz Fresh Lemon Juice                                            ",
-  "   1 oz Rum                                            ",
-  "   1 oz Demerara Rum                                   ",
-  "   1 oz Passion Fruit Juice                            ",
-  " 0.5 oz Fresh Orange Juice                             ",
+  "recipeIngredient": [  "1 oz Jamaican Rum ",
+  "1 oz Dark Rum ",
+  "1 oz Passion Fruit Syrup",
+  "1 oz Fresh Lemon Juice",
+  " 1 oz Rum",
+  " 1 oz Demerara Rum ",
+  " 1 oz Passion Fruit Juice",
+  " 0.5 oz Fresh Orange Juice ",
   "0.25 oz Grenadine",
-  "0.25 oz Fresh Lime Juice                               "],
+  "0.25 oz Fresh Lime Juice "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Open Pour
-- Glassware: Hurricane Glass
-- Garnish: Pineapple fronds and wind-blown umbrella Special
-- Prep: None
-
-
-
-
-## Number 2
-
-### Ingredients
-
-|  Amount | Ingredient                                      | Brand             |
-| ------: | ----------------------------------------------- | ----------------- |
-|    1 oz | Rum                                             | Real McCoy 3 Year |
-|    1 oz | Demerara Rum                                    | El Dorado 8 Year  |
-|    1 oz | Passion Fruit Juice                             |
-|  0.5 oz | Fresh Orange Juice                              |
-| 0.25 oz | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-| 0.25 oz | Fresh Lime Juice                                |
-
-### Notes
-
-- Method: Shaken
-- Pour: Open Pour
-- Glassware:
-- Garnish: Orange wheel, cherry, and wind-blown umbrella Special
-- Prep: None
-
-
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Hurricane Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Pineapple fronds and wind-blown umbrella Special
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Prep: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## Number 2
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  Amount | Ingredient                                      | Brand             |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| ------: | ----------------------------------------------- | ----------------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|    1 oz | Rum                                             | Real McCoy 3 Year |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|    1 oz | Demerara Rum                                    | El Dorado 8 Year  |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|    1 oz | Passion Fruit Juice                             |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.5 oz | Fresh Orange Juice                              |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.25 oz | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.25 oz | Fresh Lime Juice                                |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange wheel, cherry, and wind-blown umbrella Special
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Prep: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

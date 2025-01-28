@@ -46,27 +46,46 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    1.5 oz Jamaican Rum                                   ",
-  "    1.5 oz Gold Rum                                       ",
-  "      1 oz Demerara Rum                                   ",
-  "    0.5 oz Falernum                                       ",
-  "      1 oz White Grapefruit Juice                         ",
-  "   0.75 oz Fresh Lime Juice                               ",
-  "    0.5 oz Cinnamon Syrup                                 ",
-  "   0.25 oz Grenadine",
-  "1 barspoon Absinthe                                       ",
-  "  2 dashes Bitters                                        "],
+  "recipeIngredient": [  "1.5 oz Jamaican Rum ",
+  "1.5 oz Gold Rum ",
+  "1 oz Demerara Rum ",
+  "0.5 oz Falernum ",
+  "1 oz White Grapefruit Juice ",
+  " 0.75 oz Fresh Lime Juice ",
+  "0.5 oz Cinnamon Syrup ",
+  " 0.25 oz Grenadine",
+  "1 barspoon Absinthe ",
+  "2 dashes Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method:
-  - Shaken
-  - Crushed Ice
-- Pour: Open Pour
-- Glassware: Tiki Glass
-- Garnish: Mint Sprig
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Tiki Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint Sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

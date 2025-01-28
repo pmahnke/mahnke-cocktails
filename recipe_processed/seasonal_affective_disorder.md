@@ -42,23 +42,42 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    1 oz Demerara Rum                                   ",
-  "  0.5 oz Cognac                                         ",
-  "    1 oz Fresh Lemon Juice                              ",
-  "  0.5 oz Grenadine",
-  "  0.5 oz Allspice Dram                                  ",
-  "2 dashes Absinthe                                       "],
+  "recipeIngredient": [  "1 oz Demerara Rum ",
+  "0.5 oz Cognac ",
+  "1 oz Fresh Lemon Juice",
+  "0.5 oz Grenadine",
+  "0.5 oz Allspice Dram",
+  "2 dashes Absinthe "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Single Strain
-- Glassware:
-  - Low Ball
-  - Crushed Ice
-- Garnish: Grated nutmeg
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

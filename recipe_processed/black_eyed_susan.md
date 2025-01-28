@@ -43,24 +43,43 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    1 oz Bourbon                                                  ",
-  "    1 oz Vodka                                                    ",
-  "  0.5 oz Peach Liqueur                                            ",
-  "    3 oz Orange Juice                                             ",
-  " 0.75 oz Fresh Lemon Juice                                        ",
+  "recipeIngredient": [  "1 oz Bourbon",
+  "1 oz Vodka",
+  "0.5 oz Peach Liqueur",
+  "3 oz Orange Juice ",
+  " 0.75 oz Fresh Lemon Juice",
   " 0.25 oz Semi-Rich Simple Syrup",
-  "2 swaths Orange Peel                                              "],
+  "2 swaths Orange Peel"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - High Ball
-  - On the Rocks
-- Garnish: Orange wheel and cocktail cherry
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange wheel and cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -40,21 +40,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  2 oz Bourbon                                                      ",
+  "recipeIngredient": [  "2 oz Bourbon",
   "0.5 oz Passion Fruit Syrup",
-  "0.5 oz Grenadine              ",
-  "  1 oz Fresh Lemon Juice                                            "],
+  "0.5 oz Grenadine",
+  "1 oz Fresh Lemon Juice"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Open Pour
-- Glassware:
-  - Tiki Glass
-  - Crushed Ice
-- Garnish: Pineapple Fronds and Cocktail Umbrella
-- Special Prep: Top with additional crushed ice
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Tiki Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Pineapple Fronds and Cocktail Umbrella
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Top with additional crushed ice
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

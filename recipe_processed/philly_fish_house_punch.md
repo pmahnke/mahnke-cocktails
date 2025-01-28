@@ -72,56 +72,122 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 24 oz Cognac                                         ",
-  " 12 oz Jamaican Rum                                   ",
-  "  6 oz Peach Liqueur                                  ",
-  "  6 oz Apple Brandy                                   ",
+  "recipeIngredient": [  " 24 oz Cognac ",
+  " 12 oz Jamaican Rum ",
+  "6 oz Peach Liqueur",
+  "6 oz Apple Brandy ",
   " 12 oz Simple Syrup",
-  " 18 oz Fresh Lemon Juice                              ",
-  " 96 oz Cold Water                                     ",
-  "   1 oz Cognac                                         ",
-  " 0.5 oz Jamaican Rum                                   ",
-  "0.25 oz Peach Liqueur                                  ",
-  "0.25 oz Apple Brandy                                   ",
+  " 18 oz Fresh Lemon Juice",
+  " 96 oz Cold Water ",
+  " 1 oz Cognac ",
+  " 0.5 oz Jamaican Rum ",
+  "0.25 oz Peach Liqueur",
+  "0.25 oz Apple Brandy ",
   " 0.5 oz Simple Syrup",
-  "0.75 oz Fresh Lemon Juice                              ",
-  "   2 oz Cold Water                                     "],
+  "0.75 oz Fresh Lemon Juice",
+  " 2 oz Cold Water "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in Punch Bowl
-- Pour: Add all ingredients directly to the punch bowl
-- Glassware: Punch Cups
-- Garnish: Citrus wheels in the punch bowl and grated nutmeg in the glass
-- Special Prep: None
-
-
-
-
-## Single Serving
-
-## Ingredients
-
-|  Amount | Ingredient                                      | Brand                     |
-| ------: | ----------------------------------------------- | ------------------------- |
-|    1 oz | Cognac                                          | Pierre Ferrand 1840       |
-|  0.5 oz | Jamaican Rum                                    | Appleton Estate Signature |
-| 0.25 oz | Peach Liqueur                                   | Rothman & Winter Orchard  |
-| 0.25 oz | Apple Brandy                                    | Laird's Straight          |
-|  0.5 oz | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| 0.75 oz | Fresh Lemon Juice                               |
-|    2 oz | Cold Water                                      |
-
-### Notes
-
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Punch Cup
-- Garnish: Grated nutmeg
-- Special Prep: None
-
-
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in Punch Bowl
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the punch bowl
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Punch Cups
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Citrus wheels in the punch bowl and grated nutmeg in the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## Single Serving
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  Amount | Ingredient                                      | Brand                     |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| ------: | ----------------------------------------------- | ------------------------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|    1 oz | Cognac                                          | Pierre Ferrand 1840       |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.5 oz | Jamaican Rum                                    | Appleton Estate Signature |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.25 oz | Peach Liqueur                                   | Rothman & Winter Orchard  |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.25 oz | Apple Brandy                                    | Laird's Straight          |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.5 oz | [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.75 oz | Fresh Lemon Juice                               |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|    2 oz | Cold Water                                      |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Punch Cup
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

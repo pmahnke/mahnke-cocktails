@@ -67,50 +67,107 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  0.5 oz Rye                    ",
-  "  0.5 oz Sweet Vermouth         ",
-  "  0.5 oz Bénédictine            ",
+  "recipeIngredient": [  "0.5 oz Rye",
+  "0.5 oz Sweet Vermouth ",
+  "0.5 oz Bénédictine",
   "4 dashes Herbsaint (or absinthe)",
-  "4 dashes Bitters                ",
-  "  1.5 oz Rye           ",
+  "4 dashes Bitters",
+  "1.5 oz Rye ",
   " 0.75 oz Sweet Vermouth",
-  " 0.75 oz Bénédictine   ",
-  "4 dashes Bitters       ",
-  "4 dashes Bitters       ",
-  " 1 rinse Absinthe      "],
+  " 0.75 oz Bénédictine ",
+  "4 dashes Bitters ",
+  "4 dashes Bitters ",
+  " 1 rinse Absinthe"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Nick & Nora
-- Garnish: Cocktail cherry
-
-
-
-
-## Updated
-
-### Ingredients
-
-|   Amount | Ingredient     | Brand                      |
-| -------: | -------------- | -------------------------- |
-|   1.5 oz | Rye            | Rittenhouse 100 Proof      |
-|  0.75 oz | Sweet Vermouth | Cocchi Vermouth di Torino  |
-|  0.75 oz | Bénédictine    | Bénédictine DOM            |
-| 4 dashes | Bitters        | Peychaud's                 |
-| 4 dashes | Bitters        | Angostura Aromatic Bitters |
-|  1 rinse | Absinthe       |
-
-### Notes
-
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Nick & Nora
-- Garnish: Expressed lemon oil
-
-
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## Updated
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   Amount | Ingredient     | Brand                      |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| -------: | -------------- | -------------------------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   1.5 oz | Rye            | Rittenhouse 100 Proof      |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.75 oz | Sweet Vermouth | Cocchi Vermouth di Torino  |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.75 oz | Bénédictine    | Bénédictine DOM            |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 4 dashes | Bitters        | Peychaud's                 |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 4 dashes | Bitters        | Angostura Aromatic Bitters |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  1 rinse | Absinthe       |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed lemon oil
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

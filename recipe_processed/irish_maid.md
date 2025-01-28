@@ -41,22 +41,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "2 slices Cucumber                                                 ",
-  "    2 oz Irish Whiskey                                            ",
-  "  0.5 oz Elderflower Liqueur                                      ",
-  " 0.75 oz Fresh Lemon Juice                                        ",
-  "  0.5 oz Semi-Rich Simple Syrup"],
+  "recipeIngredient": [  "2 slices Cucumber ",
+  "2 oz Irish Whiskey",
+  "0.5 oz Elderflower Liqueur",
+  " 0.75 oz Fresh Lemon Juice",
+  "0.5 oz Semi-Rich Simple Syrup"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Low Ball
-  - On the Rocks
-- Garnish: Cucumber ribbon
-- Special Prep: Muddle the cucumber in the cheater tin.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cucumber ribbon
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Muddle the cucumber in the cheater tin.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

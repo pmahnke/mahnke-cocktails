@@ -47,20 +47,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1 oz Light Rum",
+  "recipeIngredient": [  "1 oz Light Rum",
   "0.5 oz Rye",
   "0.5 oz Cognac",
   "0.5 oz Fresh Lemon Juice",
   "0.5 oz Grenadine"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Footed Rocks Glass
-- Garnish: Lemon Swath
-- Special Prep: Express the lemon oil over the cocktail.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Footed Rocks Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon Swath
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Express the lemon oil over the cocktail.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

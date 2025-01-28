@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "          2 oz Gin                                                      ",
-  "       0.75 oz Semi-rich Simple Syrup",
-  "     0.5 whole Lemon                                                    ",
-  "10 to 15 whole Blueberries                                              ",
-  " 4 to 6 sprigs Thyme                                                    "],
+  "recipeIngredient": [  "2 oz Gin",
+  " 0.75 oz Semi-rich Simple Syrup",
+  " 0.5 whole Lemon",
+  "10 to 15 whole Blueberries",
+  " 4 to 6 sprigs Thyme"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-- Garnish: Blueberries & bundle of thyme Special
-- Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blueberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Blueberries & bundle of thyme Special
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blueberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

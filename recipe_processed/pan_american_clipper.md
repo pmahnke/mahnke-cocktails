@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Apple Brandy                                   ",
-  "0.75 oz Fresh Lemon Juice                              ",
+  "recipeIngredient": [  " 1.5 oz Apple Brandy ",
+  "0.75 oz Fresh Lemon Juice",
   " 0.5 oz Grenadine",
-  "1 rinse Absinthe                                       "],
+  "1 rinse Absinthe "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Expressed lemon oil
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed lemon oil
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

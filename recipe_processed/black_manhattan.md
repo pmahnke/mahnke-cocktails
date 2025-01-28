@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    2 oz Rye           ",
-  "    1 oz Amaro         ",
-  "2 dashes Bitters       ",
+  "recipeIngredient": [  "2 oz Rye ",
+  "1 oz Amaro ",
+  "2 dashes Bitters ",
   "2 dashes Orange Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Double Strain
-- Glassware: Martini
-- Garnish: Cocktail Cherry
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Martini
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cocktail Cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

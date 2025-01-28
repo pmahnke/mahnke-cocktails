@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "0.75 oz Rye              ",
+  "recipeIngredient": [  "0.75 oz Rye",
   "0.75 oz Yellow Chartreuse",
-  "0.75 oz Bénédictine      ",
+  "0.75 oz Bénédictine",
   "0.75 oz Fresh Lemon Juice"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Cocktail Cherry
-- Special Prep: Add the cherry to the glass before straining the cocktail
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cocktail Cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add the cherry to the glass before straining the cocktail
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

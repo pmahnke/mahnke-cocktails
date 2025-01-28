@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Light Rum                                                ",
-  " 0.5 oz Apricot Liqueur                                          ",
-  "   1 oz Pineapple Juice                                          ",
-  " 0.5 oz Fresh Lime Juice                                         ",
+  "recipeIngredient": [  " 1.5 oz Light Rum",
+  " 0.5 oz Apricot Liqueur",
+  " 1 oz Pineapple Juice",
+  " 0.5 oz Fresh Lime Juice ",
   "0.25 oz Semi-rich Simple Syrup"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Cocktail
-- Garnish: Lime Wheel
-- Special Prep: Let the cocktail rest to allow for the foam to subside before floating the lime wheel on top.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Cocktail
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lime Wheel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Let the cocktail rest to allow for the foam to subside before floating the lime wheel on top.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

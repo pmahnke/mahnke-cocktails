@@ -59,43 +59,96 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1 oz Galliano            ",
-  "  1 oz White Crème de Cacao",
-  "  1 oz Heavy Cream         ",
-  "3 scoops Vanilla Ice Cream   ",
-  "  1.5 oz Galliano            ",
-  "  1.5 oz White Crème de Cacao",
-  "    1 oz Half & Half         ",
-  " 0.25 oz Crushed Ice         "],
+  "recipeIngredient": [  "1 oz Galliano",
+  "1 oz White Crème de Cacao",
+  "1 oz Heavy Cream ",
+  "3 scoops Vanilla Ice Cream ",
+  "1.5 oz Galliano",
+  "1.5 oz White Crème de Cacao",
+  "1 oz Half & Half ",
+  " 0.25 oz Crushed Ice "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Grated nutmeg
-- Special Prep: None
-
-### The Blended Milkshake
-
-### Ingredients
-
-|   Amount | Ingredient           | Brand                |
-| -------: | -------------------- | -------------------- |
-| 3 scoops | Vanilla Ice Cream    |
-|   1.5 oz | Galliano             | Galliano L’Autentico |
-|   1.5 oz | White Crème de Cacao | Marie Brizard        |
-|     1 oz | Half & Half          |
-|  0.25 oz | Crushed Ice          |
-
-### Notes
-
-- Method: Blended
-- Pour: open pour
-- Glassware: Large Glass
-- Garnish: Grated nutmeg
-- Special Prep: Top with [crème de cacao whipped cream]({%link recipe_processed/creme_de_cacao_whipped_cream.md%}).
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### The Blended Milkshake
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   Amount | Ingredient           | Brand                |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| -------: | -------------------- | -------------------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 3 scoops | Vanilla Ice Cream    |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   1.5 oz | Galliano             | Galliano L’Autentico |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   1.5 oz | White Crème de Cacao | Marie Brizard        |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|     1 oz | Half & Half          |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.25 oz | Crushed Ice          |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Blended
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: open pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Large Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Top with [crème de cacao whipped cream]({%link recipe_processed/creme_de_cacao_whipped_cream.md%}).
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

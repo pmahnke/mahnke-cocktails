@@ -37,18 +37,31 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1.5 oz Sweet Vermouth    ",
-  "  1 oz Single Malt Scotch",
-  "0.5 oz Aperol            "],
+  "recipeIngredient": [  "1.5 oz Sweet Vermouth",
+  "1 oz Single Malt Scotch",
+  "0.5 oz Aperol"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Footed Rocks Glass
-- Garnish: Grapefruit oil
-- Special Prep: Scorched cinnamon stick for garnish
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Footed Rocks Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grapefruit oil
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Scorched cinnamon stick for garnish
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -37,18 +37,31 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1 oz Rosolio Italicus ",
-  "  1 oz Reposado Tequila ",
-  "  1 oz Manzanilla Sherry"],
+  "recipeIngredient": [  "1 oz Rosolio Italicus ",
+  "1 oz Reposado Tequila ",
+  "1 oz Manzanilla Sherry"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Martini
-- Garnish: Grapefruit zest
-- Special Prep: Express grapefruit oil over cocktail.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Martini
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grapefruit zest
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Express grapefruit oil over cocktail.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

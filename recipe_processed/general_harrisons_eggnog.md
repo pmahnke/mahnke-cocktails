@@ -40,20 +40,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1 whole Egg                                                     ",
-  "   1 oz Demerara Rum                                            ",
-  "0.25 oz Allspice Dram                                           ",
+  "recipeIngredient": [  "1 whole Egg ",
+  " 1 oz Demerara Rum",
+  "0.25 oz Allspice Dram ",
   " 0.5 oz Rich Demerara Syrup",
-  "   3 oz Dry Hard Cider                                          "],
+  " 3 oz Dry Hard Cider"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Low Ball
-- Garnish: Grated nutmeg for garnish
-- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg for garnish
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

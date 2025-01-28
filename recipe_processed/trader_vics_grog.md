@@ -41,22 +41,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    2 oz Jamaica Rum                                                            ",
-  "    1 oz Fresh Lemon Juice                                                      ",
-  "    1 oz Pineapple Juice                                                        ",
-  "    1 oz Passion Fruit Syrup",
-  "2 dashes Bitters                                                                "],
+  "recipeIngredient": [  "2 oz Jamaica Rum",
+  "1 oz Fresh Lemon Juice",
+  "1 oz Pineapple Juice",
+  "1 oz Passion Fruit Syrup",
+  "2 dashes Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Open Pour
-- Glassware:
-  - Low Ball
-  - Crushed Ice
-- Garnish: Mint Sprig and a cherry
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint Sprig and a cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

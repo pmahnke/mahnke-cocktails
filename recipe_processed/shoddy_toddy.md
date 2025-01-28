@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "     1 oz Gin                                            ",
-  "   0.5 oz Bénédictine                                    ",
-  "   0.5 oz Ginger Syrup",
-  "  0.25 oz Fresh Lemon Juice                              ",
-  "4 to 5 oz Hot Green Tea                                  "],
+  "recipeIngredient": [  " 1 oz Gin",
+  " 0.5 oz Bénédictine",
+  " 0.5 oz Ginger Syrup",
+  "0.25 oz Fresh Lemon Juice",
+  "4 to 5 oz Hot Green Tea"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Glass
-- Pour: Add all ingredients directly to the glass
-- Glassware: Mug
-- Garnish: Expressed lemon oil & clove-studded lemon peel
-- Special Prep: Temper the mug with hot water before building the toddy.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Mug
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed lemon oil & clove-studded lemon peel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Temper the mug with hot water before building the toddy.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

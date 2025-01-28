@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1.5 oz Crème de Menthe     ",
-  "  1.5 oz White Crème de Cacao",
-  "    1 oz Heavy Cream         ",
-  "3 scoops Vanilla Ice Cream   ",
-  "0.25 cup Crushed Ice         "],
+  "recipeIngredient": [  "1.5 oz Crème de Menthe ",
+  "1.5 oz White Crème de Cacao",
+  "1 oz Heavy Cream ",
+  "3 scoops Vanilla Ice Cream ",
+  "0.25 cup Crushed Ice "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Blended
-- Pour: Add all ingredients directly to the shaking tin
-- Glassware: Large Glass
-- Garnish: Grated Chocolate and Mint Sprig
-- Special Prep: Blend cocktail with a stick blender in the shaking tin. Pour cocktail into glass. Top with [Chartreuse Whipped Cream]({%link recipe_processed/chartreuse_whipped_cream.md%}).
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Blended
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the shaking tin
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Large Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated Chocolate and Mint Sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Blend cocktail with a stick blender in the shaking tin. Pour cocktail into glass. Top with [Chartreuse Whipped Cream]({%link recipe_processed/chartreuse_whipped_cream.md%}).
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

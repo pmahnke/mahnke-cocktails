@@ -42,23 +42,42 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "0.75 oz Jamaican Rum                                            ",
-  "0.75 oz Demerara Rum                                            ",
-  "0.75 oz Campari                                                 ",
-  " 1.5 oz Fresh Pineapple Juice                                   ",
-  "0.75 oz Fresh Lime Juice                                        ",
+  "recipeIngredient": [  "0.75 oz Jamaican Rum",
+  "0.75 oz Demerara Rum",
+  "0.75 oz Campari ",
+  " 1.5 oz Fresh Pineapple Juice ",
+  "0.75 oz Fresh Lime Juice",
   " 0.5 oz Rich Demerara Syrup"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - High Ball
-  - On the rocks
-- Garnish: Pineapple wedges and fronds
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Pineapple wedges and fronds
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

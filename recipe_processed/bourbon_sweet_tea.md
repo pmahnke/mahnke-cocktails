@@ -42,23 +42,42 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1.5 oz Bourbon                                                  ",
-  "  1 oz Light Amaro                                              ",
-  "0.5 oz Peach Liqueur                                            ",
-  "0.5 oz Fresh Lemon Juice                                        ",
+  "recipeIngredient": [  "1.5 oz Bourbon",
+  "1 oz Light Amaro",
+  "0.5 oz Peach Liqueur",
+  "0.5 oz Fresh Lemon Juice",
   "0.5 oz Semi-Rich Simple Syrup",
-  "  4 oz Black Tea, chilled                                       "],
+  "4 oz Black Tea, chilled "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Mason Jar
-  - On the Rocks
-- Garnish: Mint sprig
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Mason Jar
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

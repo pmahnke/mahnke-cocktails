@@ -40,21 +40,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1 oz Demerara Rum                                   ",
-  "  1 oz Gold Rum                                       ",
-  "  1 oz Grenadine",
-  "  1 oz Fresh Lime Juice                               "],
+  "recipeIngredient": [  "1 oz Demerara Rum ",
+  "1 oz Gold Rum ",
+  "1 oz Grenadine",
+  "1 oz Fresh Lime Juice "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method:
-  - Shaken
-  - Crushed Ice
-- Pour: Open Pour
-- Glassware: Tiki Glass
-- Garnish: Pineapple fronds and cocktail umbrella for garnish
-- Special Prep: Add the cherry to the glass before straining the cocktail
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Tiki Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Pineapple fronds and cocktail umbrella for garnish
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add the cherry to the glass before straining the cocktail
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

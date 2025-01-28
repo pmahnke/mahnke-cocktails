@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "0.75 oz Gin               ",
-  "0.75 oz Dry Vermouth      ",
-  "0.75 oz Sweet Vermouth    ",
-  " 0.5 oz Orange Liqueur    ",
+  "recipeIngredient": [  "0.75 oz Gin ",
+  "0.75 oz Dry Vermouth",
+  "0.75 oz Sweet Vermouth",
+  " 0.5 oz Orange Liqueur",
   " 0.5 oz Fresh Orange Juice",
-  " 1 dash Orange Bitters    "],
+  " 1 dash Orange Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Orange Twist
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange Twist
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

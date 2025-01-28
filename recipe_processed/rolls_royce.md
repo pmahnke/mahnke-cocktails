@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "       2 oz Gin           ",
-  "     0.5 oz Dry Vermouth  ",
-  "     0.5 oz Sweet Vermouth",
-  "2 barspoons Bénédictine   "],
+  "recipeIngredient": [  " 2 oz Gin ",
+  " 0.5 oz Dry Vermouth",
+  " 0.5 oz Sweet Vermouth",
+  "2 barspoons Bénédictine "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: Lemon peal
-- Special Prep: Expressed lemon oil
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon peal
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Expressed lemon oil
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

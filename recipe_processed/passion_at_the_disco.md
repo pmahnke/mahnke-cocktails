@@ -37,18 +37,31 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1 oz Fresh Lime Juice                                             ",
-  "  1 oz Passion Fruit Syrup",
-  "  2 oz Indian Tonic Water                                           "],
+  "recipeIngredient": [  "1 oz Fresh Lime Juice ",
+  "1 oz Passion Fruit Syrup",
+  "2 oz Indian Tonic Water "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Low Ball
-- Garnish: Mint leaf
-- Special Prep: Add lime juice and passionfruit syrup to the shaker with ice and shake. pour mocktail into the glass and top with tonic water.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint leaf
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add lime juice and passionfruit syrup to the shaker with ice and shake. pour mocktail into the glass and top with tonic water.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

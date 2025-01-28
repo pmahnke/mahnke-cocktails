@@ -31,10 +31,9 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "      2 cups Heavy Cream     ",
-  "        2 oz Green Chartreuse",
-  "1 tablespoon Powdered Sugar  "],
+  "recipeIngredient": [  "2 cups Heavy Cream ",
+  "2 oz Green Chartreuse",
+  "1 tablespoon Powdered Sugar"],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
   "recipeYield": "1 cocktail"

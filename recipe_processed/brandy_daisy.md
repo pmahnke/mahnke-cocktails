@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "0.75 oz Cognac                                                   ",
-  "0.25 oz Jamaican Rum                                             ",
-  "0.25 oz Dry Curaçao                                              ",
-  " 0.5 oz Fresh Lemon Juice                                        ",
+  "recipeIngredient": [  "0.75 oz Cognac ",
+  "0.25 oz Jamaican Rum ",
+  "0.25 oz Dry Curaçao",
+  " 0.5 oz Fresh Lemon Juice",
   "0.25 oz Semi-Rich Simple Syrup",
-  "0.25 oz Sparkling Water                                          "],
+  "0.25 oz Sparkling Water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Cocktail Glass
-- Garnish: None
-- Special Prep: Pour cocktail into the glass, and top with sparkling water.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Cocktail Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour cocktail into the glass, and top with sparkling water.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

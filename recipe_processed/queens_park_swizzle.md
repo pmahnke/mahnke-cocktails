@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "          2 oz Demerara Rum                                            ",
-  "       0.75 oz Fresh Lime Juice                                        ",
-  "       0.25 oz Rich Demerara Syrup",
-  " 4 to 6 dashes Bitters                                                 ",
-  "8 to 10 leaves Mint                                                    "],
+  "recipeIngredient": [  "2 oz Demerara Rum",
+  " 0.75 oz Fresh Lime Juice",
+  " 0.25 oz Rich Demerara Syrup",
+  " 4 to 6 dashes Bitters ",
+  "8 to 10 leaves Mint"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Glass
-- Pour: Add all ingredients directly to the glass
-- Glassware: High Ball, Crushed Ice
-- Garnish: Mint Sprig
-- Special Prep: Press and slide the mint leaves in the glass first. Then build the cocktail. Stir vigorously (swizzle) to combine. Top with crushed ice. Float the bitters on top.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: High Ball, Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint Sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Press and slide the mint leaves in the glass first. Then build the cocktail. Stir vigorously (swizzle) to combine. Top with crushed ice. Float the bitters on top.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

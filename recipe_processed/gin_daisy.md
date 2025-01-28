@@ -42,22 +42,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Gin                                            ",
-  "0.25 oz Bénédictine                                    ",
+  "recipeIngredient": [  " 1.5 oz Gin",
+  "0.25 oz Bénédictine",
   " 0.5 oz Grenadine",
-  "0.75 oz Fresh Lemon Juice                              ",
-  "   1 oz Sparkling Water                                "],
+  "0.75 oz Fresh Lemon Juice",
+  " 1 oz Sparkling Water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Low Ball
-  - On the Rocks
-- Garnish: Mint sprig
-- Special Prep: Pour cocktail into the glass, and top with sparkling water.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour cocktail into the glass, and top with sparkling water.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

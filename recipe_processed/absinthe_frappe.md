@@ -47,28 +47,68 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "2 wedges Lemon                                                    ",
-  "  0.5 oz Semi-Rich Simple Syrup",
-  "    1 oz Absinthe                                                 ",
-  "    1 oz Sparkling Mineral Water                                  "],
+  "recipeIngredient": [  "2 wedges Lemon",
+  "0.5 oz Semi-Rich Simple Syrup",
+  "1 oz Absinthe ",
+  "1 oz Sparkling Mineral Water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour:
-  - Open Pour
-  - Single Strain
-- Glassware: 
-  - Frappé Glass
-  - Crushed Ice
-- Garnish: Mint sprig
-- Special Prep:
-  - Cut the quarter lemon into 2 wedges and remove the center pith and de-seed.
-  - Squeeze the juice into the tin, then drop the lemon wedges into the tin.
-  - Add the remaining ingredients and shake.
-  - Hawthorn strain the cocktail into the cheater tin.
-  - Then strain the cocktail into the glass filled with crushed ice
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: 
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Frappé Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Cut the quarter lemon into 2 wedges and remove the center pith and de-seed.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Squeeze the juice into the tin, then drop the lemon wedges into the tin.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Add the remaining ingredients and shake.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Hawthorn strain the cocktail into the cheater tin.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Then strain the cocktail into the glass filled with crushed ice
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

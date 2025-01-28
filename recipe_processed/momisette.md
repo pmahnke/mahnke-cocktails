@@ -40,21 +40,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1.5 oz Absinthe                                       ",
-  "  0.75 oz Orgeat Syrup",
-  "   0.5 oz Fresh Lemon Juice                              ",
-  "2 to 3 oz Sparkling Water                                "],
+  "recipeIngredient": [  " 1.5 oz Absinthe ",
+  "0.75 oz Orgeat Syrup",
+  " 0.5 oz Fresh Lemon Juice",
+  "2 to 3 oz Sparkling Water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Single Strain
-- Glassware:
-  - High Ball
-  - On the Rocks
-- Garnish: None
-- Special Prep: Single strain into glass, top the drink with the sparkling water.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Single strain into glass, top the drink with the sparkling water.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -49,28 +49,50 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "       6 whole Egg Yolks            ",
-  "     0.5 pound Sugar                ",
-  "  0.5 barspoon Freshly Grated Nutmeg",
-  "         1 cup Half and Half        ",
-  "         1 cup Whole Milk           ",
-  "         1 cup Heavy Cream          ",
-  "       0.5 cup Jamaica Rum          ",
-  "       0.5 cup Cognac               ",
-  "       0.5 cup Bourbon              ",
-  "0.125 barspoon salt                 "],
+  "recipeIngredient": [  " 6 whole Egg Yolks",
+  " 0.5 pound Sugar",
+  "0.5 barspoon Freshly Grated Nutmeg",
+  " 1 cup Half and Half",
+  " 1 cup Whole Milk ",
+  " 1 cup Heavy Cream",
+  " 0.5 cup Jamaica Rum",
+  " 0.5 cup Cognac ",
+  " 0.5 cup Bourbon",
+  "0.125 barspoon salt "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in a mixing bowl
-- Pour: Add finished eggnog directly to mason jars
-- Glassware: Low Ball
-- Garnish: Grated nutmeg
-- Special Prep:
-  - Beat yolks with sugar and nutmeg in large mixing bowl until mixture lightens in color.
-  - Combine dairy, booze, and salt in separate vessel and slowly beat into egg mixture.
-  - Move to glass jars and store sealed in the fridge.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in a mixing bowl
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add finished eggnog directly to mason jars
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Beat yolks with sugar and nutmeg in large mixing bowl until mixture lightens in color.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Combine dairy, booze, and salt in separate vessel and slowly beat into egg mixture.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Move to glass jars and store sealed in the fridge.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

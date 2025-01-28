@@ -42,23 +42,42 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1.5 oz Reposado Tequila                             ",
-  "  0.5 oz Mezcal                                       ",
-  " 0.25 oz Allspice Dram                                ",
+  "recipeIngredient": [  "1.5 oz Reposado Tequila ",
+  "0.5 oz Mezcal ",
+  " 0.25 oz Allspice Dram",
   " 0.75 oz Guava Syrup",
-  "    1 oz Fresh Lemon Juice                            ",
-  "2 Dashes Bitters                                      "],
+  "1 oz Fresh Lemon Juice",
+  "2 Dashes Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Open Pour
-- Glassware:
-  - High Ball
-  - Crushed Ice
-- Garnish: Orange wheel, grated cinnamon, and a cocktail cherry
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange wheel, grated cinnamon, and a cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

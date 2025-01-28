@@ -42,23 +42,42 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1 oz Light Rum                                                ",
-  " 0.5 oz Rhum Agricole                                            ",
-  "0.75 oz Blue Curaçao                                             ",
-  "   3 oz Fresh Pineapple Juice                                    ",
-  "0.75 oz Fresh Lime Juice                                         ",
+  "recipeIngredient": [  " 1 oz Light Rum",
+  " 0.5 oz Rhum Agricole",
+  "0.75 oz Blue Curaçao ",
+  " 3 oz Fresh Pineapple Juice",
+  "0.75 oz Fresh Lime Juice ",
   " 0.5 oz Semi-Rich Simple Syrup"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Hurricane Glass
-  - Crushed Ice
-- Garnish: Pineapple slices, pineapple fronds, and cocktail umbrella
-- Special Prep: Pour cocktaill over crushed ice, and top with additional crushed ice.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Hurricane Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Pineapple slices, pineapple fronds, and cocktail umbrella
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour cocktaill over crushed ice, and top with additional crushed ice.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

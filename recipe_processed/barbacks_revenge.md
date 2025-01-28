@@ -40,21 +40,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1 oz Demerara Rum         ",
-  "  1 oz Bénédictine          ",
-  "0.5 oz Amontillado Sherry   ",
-  "  1 oz Cold Brew Concentrate"],
+  "recipeIngredient": [  "1 oz Demerara Rum ",
+  "1 oz Bénédictine",
+  "0.5 oz Amontillado Sherry ",
+  "1 oz Cold Brew Concentrate"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware:
-  - Low Ball
-  - Large Ice Cube
-- Garnish: Expressed lemon oil
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Ice Cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed lemon oil
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

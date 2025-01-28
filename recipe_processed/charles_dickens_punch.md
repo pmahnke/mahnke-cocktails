@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 3 swaths Lemons Peels                  ",
-  "0.75 cups Demerara Sugar                ",
-  "   2 cups Pineapple-infused Jamaican Rum",
-  "    1 cup Cognac                        ",
-  "   4 cups Brewed Black Tea              "],
+  "recipeIngredient": [  " 3 swaths Lemons Peels",
+  "0.75 cups Demerara Sugar",
+  " 2 cups Pineapple-infused Jamaican Rum",
+  "1 cup Cognac",
+  " 4 cups Brewed Black Tea"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Make in a large pot
-- Pour: Laddle
-- Glassware: Tea cups
-- Garnish: Expressed lemon oil
-- Special Prep: Add lemon peels and the sugar to a cold sauce pan and massage the sugar into the peels. Let this sit for 24 hours. This is called an oleo-saccharum. Next, make four cups |of black tea in the usual manner. Add the rum and cognac to the oleo-saccharum. Put the pot on a low heat to warm up the mixture, but do not boil. Turn off heat and light mixture to caramelize the sugars. Add lemon juice and tea. Return to low heat and do not boil. Remove lemon peels before serving.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Make in a large pot
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Laddle
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Tea cups
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed lemon oil
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add lemon peels and the sugar to a cold sauce pan and massage the sugar into the peels. Let this sit for 24 hours. This is called an oleo-saccharum. Next, make four cups |of black tea in the usual manner. Add the rum and cognac to the oleo-saccharum. Put the pot on a low heat to warm up the mixture, but do not boil. Turn off heat and light mixture to caramelize the sugars. Add lemon juice and tea. Return to low heat and do not boil. Remove lemon peels before serving.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1.5 oz Genever          ",
+  "recipeIngredient": [  "1.5 oz Genever",
   "0.5 oz Yellow Chartreuse",
-  "0.5 oz Bénédictine      ",
+  "0.5 oz Bénédictine",
   "0.5 oz Fresh Lemon Juice"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Lemon swath
-- Special Prep: Expressed lemon oil
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon swath
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Expressed lemon oil
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

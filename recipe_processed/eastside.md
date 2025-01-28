@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "      2 oz Gin                                              ",
-  "      1 oz Fresh Lime Juice                                 ",
-  "    0.75 oz Simple Syrup",
-  "2-3 slices Cucumber                                         ",
-  "  5 leaves Mint                                             "],
+  "recipeIngredient": [  "2 oz Gin",
+  "1 oz Fresh Lime Juice ",
+  "0.75 oz Simple Syrup",
+  "2-3 slices Cucumber ",
+  "5 leaves Mint "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Mint leaf or a slice of Cucumber
-- Special Prep: Start by adding your gin, lime and simple syrup to a cocktail shaker then drop in 2-3 cucumber slices and firmly muddle into the liquid. Once muddled, and 6 mint leaves and lightly crush them with your muddler. Add ice, shake for 10 seconds, and double strain into a chilled cocktail glass. Finish it off with a cool cucumber garnish, or drop in a floating mint leaf.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint leaf or a slice of Cucumber
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Start by adding your gin, lime and simple syrup to a cocktail shaker then drop in 2-3 cucumber slices and firmly muddle into the liquid. Once muddled, and 6 mint leaves and lightly crush them with your muddler. Add ice, shake for 10 seconds, and double strain into a chilled cocktail glass. Finish it off with a cool cucumber garnish, or drop in a floating mint leaf.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -38,20 +38,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "          2 oz Jamaican Rum                                            ",
-  "        0.5 oz Rich Demerara Syrup",
-  "     0.5 whole Lemon                                                   ",
-  "       2 whole Strawberries                                            ",
-  "8 to 10 leaves Basil                                                   "],
+  "recipeIngredient": [  "2 oz Jamaican Rum",
+  "0.5 oz Rich Demerara Syrup",
+  " 0.5 whole Lemon ",
+  " 2 whole Strawberries",
+  "8 to 10 leaves Basil "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-- Garnish: Strawberry slices & basil sprig
-- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, strawberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Strawberry slices & basil sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, strawberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

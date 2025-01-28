@@ -42,22 +42,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Green Chartreuse                 ",
-  " 0.5 oz Falernum                         ",
-  "   1 oz Pineapple Juice                  ",
-  "0.75 oz Fresh Lime Juice                 ",
+  "recipeIngredient": [  " 1.5 oz Green Chartreuse ",
+  " 0.5 oz Falernum ",
+  " 1 oz Pineapple Juice",
+  "0.75 oz Fresh Lime Juice ",
   "0.25 oz Optional - Overproof Jamaican Rum"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Swizzled
-- Pour: Add all ingredients directly to the glass
-- Glassware:
-  - High Ball
-  - Crushed Ice
-- Garnish: Grated Nutmeg and a Mint Sprig
-- Special Prep: Swizzle in the glass, and top with additional crushed ice.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Swizzled
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated Nutmeg and a Mint Sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Swizzle in the glass, and top with additional crushed ice.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

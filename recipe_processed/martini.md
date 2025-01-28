@@ -39,18 +39,31 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "       1.5 oz Gin                         ",
-  "      0.75 oz Dry Vermouth                ",
+  "recipeIngredient": [  " 1.5 oz Gin ",
+  "0.75 oz Dry Vermouth",
   "1 to 2 dashes Orange Bitters Regan's No. 6"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Martini
-- Garnish: Olive
-- Special Prep: Expressed lemon oil
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Martini
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Olive
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Expressed lemon oil
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

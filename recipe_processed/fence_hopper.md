@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "     1 oz Bourbon          ",
-  "     1 oz Fresh Apple Cider",
-  "   0.5 oz Maple Syrup      ",
-  "  0.25 oz Fresh Lemon Juice",
-  " 2 dashes Bitters          ",
-  "3 to 4 oz IPA              "],
+  "recipeIngredient": [  " 1 oz Bourbon",
+  " 1 oz Fresh Apple Cider",
+  " 0.5 oz Maple Syrup",
+  "0.25 oz Fresh Lemon Juice",
+  " 2 dashes Bitters",
+  "3 to 4 oz IPA"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Beer Mug
-- Garnish: Cinnamon stick
-- Special Prep: Pour the IPA into the glass and top with the cocktail.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Beer Mug
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cinnamon stick
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour the IPA into the glass and top with the cocktail.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

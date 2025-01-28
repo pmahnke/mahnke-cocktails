@@ -51,26 +51,63 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1 half Lime           ",
-  "1.5 oz Gin            ",
-  "  3 oz Sparkling Water"],
+  "recipeIngredient": [  "1 half Lime ",
+  "1.5 oz Gin",
+  "3 oz Sparkling Water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Glass
-- Pour: Add all ingredients directly to the glass
-- Glassware:
-  - High Ball
-  - On the Rocks
-- Garnish: lime shell
-- Special Prep:
-  - Drop in one ice cube
-  - Juice the half lime and drop in the lime shell
-  - Add the Gin
-  - Drop in the second ice cube
-  - Top with the sparkling water
-  - Feel free to swap out the base spirit
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: lime shell
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Drop in one ice cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Juice the half lime and drop in the lime shell
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Add the Gin
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Drop in the second ice cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Top with the sparkling water
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Feel free to swap out the base spirit
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

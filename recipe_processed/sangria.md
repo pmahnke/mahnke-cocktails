@@ -45,26 +45,45 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "0.5 whole Orange                                                  ",
-  "0.5 whole Lemon                                                   ",
-  "0.5 whole Apple                                                   ",
-  "     3 oz Rich Demerara Syrup",
-  "     4 oz Fresh Lemon Juice                                       ",
-  "     4 oz Grand Marnier                                           ",
-  "     6 oz Olorosso Sherry                                         ",
-  "   750 ml Red Wine Louis Jadot Beaujolais-Villages                ",
-  "   0.5 oz Soda Water (Optional)                                   "],
+  "recipeIngredient": [  "0.5 whole Orange",
+  "0.5 whole Lemon ",
+  "0.5 whole Apple ",
+  " 3 oz Rich Demerara Syrup",
+  " 4 oz Fresh Lemon Juice ",
+  " 4 oz Grand Marnier ",
+  " 6 oz Olorosso Sherry ",
+  " 750 ml Red Wine Louis Jadot Beaujolais-Villages",
+  " 0.5 oz Soda Water (Optional) "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Pitcher
-- Pour: Add all ingredients directly to the pitcher
-- Glassware:
-  - High Ball
-  - On the Rocks
-- Garnish: Soaked fruit
-- Special Prep: Top glasses with soda water
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Pitcher
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the pitcher
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Soaked fruit
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Top glasses with soda water
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -39,20 +39,39 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  2 oz Reposado Tequila",
-  "  1 oz Orange Curaçao  ",
-  "  1 oz Fresh Lime Juice"],
+  "recipeIngredient": [  "2 oz Reposado Tequila",
+  "1 oz Orange Curaçao",
+  "1 oz Fresh Lime Juice"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken/Stirred/Build in the Glass
-- Pour: Single Strain
-- Glassware:
-  - Low Ball
-  - On the Rocks
-- Garnish: Lime wheel
-- Special Prep: Salted rim
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken/Stirred/Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lime wheel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Salted rim
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -43,24 +43,46 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   0.75 oz Egg White                                      ",
-  "    0.5 oz Grenadine",
-  "    0.5 oz Triple Sec                                     ",
-  "    1.5 oz Bourbon                                        ",
-  "   0.75 oz Fresh Lemon Juice                              ",
-  "1 barspoon Absinthe                                       "],
+  "recipeIngredient": [  " 0.75 oz Egg White",
+  "0.5 oz Grenadine",
+  "0.5 oz Triple Sec ",
+  "1.5 oz Bourbon",
+  " 0.75 oz Fresh Lemon Juice",
+  "1 barspoon Absinthe "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Grated nutmeg
-- Special Prep:
-  - To prevent the egg white from scrambling: add the egg white, grenadine and triple sec to the cheater tin.
-  - Add the bourbon, lemon juice, absinthe to the main tin. Then add ice.
-  - Combine the two tins and shake.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - To prevent the egg white from scrambling: add the egg white, grenadine and triple sec to the cheater tin.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Add the bourbon, lemon juice, absinthe to the main tin. Then add ice.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Combine the two tins and shake.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

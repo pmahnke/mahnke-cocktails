@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   2 oz Scotch, Blended",
-  "   1 oz Sweet Vermouth ",
-  " 0.5 oz Bénédictine    ",
-  "1 strip Lemon Peal     "],
+  "recipeIngredient": [  " 2 oz Scotch, Blended",
+  " 1 oz Sweet Vermouth ",
+  " 0.5 oz Bénédictine",
+  "1 strip Lemon Peal "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: None
-- Special Prep: Express lemon oil over the cocktail, and wipe the rim with the peal.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Express lemon oil over the cocktail, and wipe the rim with the peal.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -39,20 +39,39 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Sweet Vermouth",
-  "0.75 oz Triple Sec    ",
-  "0.75 oz Bitters       "],
+  "recipeIngredient": [  " 1.5 oz Sweet Vermouth",
+  "0.75 oz Triple Sec",
+  "0.75 oz Bitters "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware:
-  - Low Ball
-  - Large Ice Cube
-- Garnish: Expressed orange oil and peel
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Ice Cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed orange oil and peel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

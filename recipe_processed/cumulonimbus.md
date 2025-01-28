@@ -43,25 +43,53 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   2 oz Freshly Brewed Espresso                            ",
+  "recipeIngredient": [  " 2 oz Freshly Brewed Espresso",
   "0.75 oz Cinnamon Syrup",
-  "3 Drops Orange Blossom Water                               ",
-  "0.75 oz Egg White                                          ",
-  "   1 oz Soda Water                                         "],
+  "3 Drops Orange Blossom Water ",
+  "0.75 oz Egg White",
+  " 1 oz Soda Water "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: High Ball
-- Garnish: None
-- Special Prep:
-  - Add half the soda water to the glass
-  - Strain in the cocktail.
-  - Top with more soday water.
-  - Expressed orange oil.
-  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Add half the soda water to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Strain in the cocktail.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Top with more soday water.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Expressed orange oil.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

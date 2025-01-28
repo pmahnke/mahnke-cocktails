@@ -38,21 +38,34 @@ youtube: "xnXFbjQSu-k"
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "0.75 oz Mango Liqueur                                            ",
-  "0.75 oz Cachaça                                                  ",
-  "0.75 oz Sweet Vermouth                                           ",
-  "0.75 oz Fresh Pineapple Juice                                    ",
-  " 0.5 oz Fresh Lime Juice                                         ",
+  "recipeIngredient": [  "0.75 oz Mango Liqueur",
+  "0.75 oz Cachaça",
+  "0.75 oz Sweet Vermouth ",
+  "0.75 oz Fresh Pineapple Juice",
+  " 0.5 oz Fresh Lime Juice ",
   "0.25 oz Semi-Rich Simple Syrup"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: 3 drops Angostura Bitters & pineapple fronds
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: 3 drops Angostura Bitters & pineapple fronds
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

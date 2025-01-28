@@ -43,24 +43,43 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "0.75 oz Jamaican Rum                                   ",
-  "0.75 oz Gold Rum                                       ",
-  "0.25 oz Absinthe                                       ",
-  " 0.5 oz Fresh Lemon Juice                              ",
-  " 0.5 oz Fresh Lime Juice                               ",
+  "recipeIngredient": [  "0.75 oz Jamaican Rum ",
+  "0.75 oz Gold Rum ",
+  "0.25 oz Absinthe ",
+  " 0.5 oz Fresh Lemon Juice",
+  " 0.5 oz Fresh Lime Juice ",
   "0.75 oz Grenadine",
-  "   1 oz Sparkling Water                                "],
+  " 1 oz Sparkling Water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method:
-  - Shaken
-  - Crushed Ice
-- Pour: Open Pour
-- Glassware: Low Ball
-- Garnish: Pineapple fronds
-- Special Prep: Pour cocktail into the glass, and top with sparkling water
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Pineapple fronds
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour cocktail into the glass, and top with sparkling water
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -40,21 +40,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "         2 oz Vodka           ",
-  "      0.75 oz Fresh Lime Juice",
-  "2 to 3 dashes Bitters         ",
-  "     4 to 5 oz Ginger Beer     "],
+  "recipeIngredient": [  " 2 oz Vodka ",
+  "0.75 oz Fresh Lime Juice",
+  "2 to 3 dashes Bitters ",
+  " 4 to 5 oz Ginger Beer "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Glass
-- Pour: Add all ingredients directly to the glass
-- Glassware:
-  - Copper Mug
-  - On the Rocks
-- Garnish: Large mint sprig
-- Special Prep: Pour in the vodka, lime juice and bitters then top with the ginger beer.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Copper Mug
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Large mint sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour in the vodka, lime juice and bitters then top with the ginger beer.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

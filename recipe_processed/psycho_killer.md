@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    2 oz Irish Whiskey                                                     ",
+  "recipeIngredient": [  "2 oz Irish Whiskey ",
   " 0.75 oz Cocoa Nib Infused Campari",
-  "  0.5 oz White Crème de Cacao                                              ",
-  "  0.5 oz Banane du Brésil                                                  ",
-  "2 dashes Absinthe                                                          "],
+  "0.5 oz White Crème de Cacao",
+  "0.5 oz Banane du Brésil",
+  "2 dashes Absinthe"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Nick & Nora
-- Garnish: None
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

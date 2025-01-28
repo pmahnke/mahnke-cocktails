@@ -36,12 +36,11 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "      3 cups White Sugar            ",
-  "      2 cups Unsweetened Almond Milk",
-  "  1 barspoon Orange Blossom Water   ",
-  "0.5 barspoon Rose Water             ",
-  "0.5 barspoon Almond Extract         "],
+  "recipeIngredient": [  "3 cups White Sugar",
+  "2 cups Unsweetened Almond Milk",
+  "1 barspoon Orange Blossom Water ",
+  "0.5 barspoon Rose Water ",
+  "0.5 barspoon Almond Extract "],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
   "recipeYield": "1 cocktail"

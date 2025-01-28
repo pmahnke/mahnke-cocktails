@@ -63,28 +63,56 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   2 oz Genever                                                  ",
-  " 1.5 oz Jamaican Rum                                             ",
-  " 1.5 oz Yellow Chartreuse                                        ",
-  " 0.5 oz Orange Curaçao                                           ",
-  " 0.5 oz Bitters                                                  ",
+  "recipeIngredient": [  " 2 oz Genever",
+  " 1.5 oz Jamaican Rum ",
+  " 1.5 oz Yellow Chartreuse",
+  " 0.5 oz Orange Curaçao ",
+  " 0.5 oz Bitters",
   " 1.5 oz Semi-Rich Simple Syrup",
-  "0.75 oz Egg White                                                ",
-  "   2 oz Water                                                    "],
+  "0.75 oz Egg White",
+  " 2 oz Water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Pineapple slice
-- Special Prep:
-  - Reverse dry shake:
-    - Shake cocktail with ice first.
-    - Strain cocktail into the cheater tin.
-    - Remove ice
-    - Dry shake cocktail
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Pineapple slice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Reverse dry shake:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '    - Shake cocktail with ice first.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '    - Strain cocktail into the cheater tin.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '    - Remove ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '    - Dry shake cocktail
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

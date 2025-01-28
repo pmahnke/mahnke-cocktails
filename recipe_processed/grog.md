@@ -42,23 +42,51 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "      2 oz Demerara Rum    ",
-  "    0.5 oz Fresh Lime Juice",
-  "1 barspoon Demerara Sugar  "],
+  "recipeIngredient": [  "2 oz Demerara Rum",
+  "0.5 oz Fresh Lime Juice",
+  "1 barspoon Demerara Sugar"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware:
-  - Low Ball
-  - On the Rocks
-- Garnish: Lime wedge
-- Special Prep:
-  - Add sugar and lime juice into a mixing glass and stir to dissolve sugar.
-  - Add rum and 1 cube of ice to glass and stir until ice has diluted to more than half.
-  - Strain into a glass or mug over ice and garnish with a lime wedge.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lime wedge
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Add sugar and lime juice into a mixing glass and stir to dissolve sugar.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Add rum and 1 cube of ice to glass and stir until ice has diluted to more than half.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Strain into a glass or mug over ice and garnish with a lime wedge.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

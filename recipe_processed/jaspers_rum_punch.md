@@ -38,19 +38,38 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1.5 oz Jasper’s Mix",
-  "1.5 oz Overproof Jamaican Rum                        "],
+  "recipeIngredient": [  "1.5 oz Jasper’s Mix",
+  "1.5 oz Overproof Jamaican Rum"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Swizzled
-- Pour: Open Pour
-- Glassware:
-  - High Ball
-  - Crushed Ice
-- Garnish: Grated nutmeg and mint sprig
-- Special Prep: Top glass with additional crushed ice
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Swizzled
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg and mint sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Top glass with additional crushed ice
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

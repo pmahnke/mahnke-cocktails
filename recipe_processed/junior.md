@@ -41,20 +41,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1.5 oz Rye                                                     ",
-  "  0.5 oz Bénédictine                                             ",
-  " 0.75 oz Fresh Lime Juice                                        ",
+  "recipeIngredient": [  "1.5 oz Rye ",
+  "0.5 oz Bénédictine ",
+  " 0.75 oz Fresh Lime Juice",
   " 0.25 oz Rich Demerara Syrup",
-  "2 dashes Bitters                                                 "],
+  "2 dashes Bitters "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Dehydrated lime wheel
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Dehydrated lime wheel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

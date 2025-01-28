@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "      1 oz Cognac            ",
-  "      1 oz Rum               ",
-  "      1 oz Tawny Port        ",
-  "    1 dash Bitters           ",
+  "recipeIngredient": [  "1 oz Cognac",
+  "1 oz Rum ",
+  "1 oz Tawny Port",
+  "1 dash Bitters ",
   "1 barspoon Maraschino Liqueur"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: Cocktail cherry
-- Special Prep: Add the cherry to the glass before straining the cocktail.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add the cherry to the glass before straining the cocktail.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

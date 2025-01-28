@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1 oz Rye                                                      ",
-  " 0.5 oz Allspice Dram                                            ",
-  "   2 oz Montmorency Cherry Juice                                 ",
-  "0.25 oz Fresh Lemon Juice                                        ",
+  "recipeIngredient": [  " 1 oz Rye",
+  " 0.5 oz Allspice Dram",
+  " 2 oz Montmorency Cherry Juice ",
+  "0.25 oz Fresh Lemon Juice",
   "0.25 oz Semi-Rich Simple Syrup",
-  "   4 oz Oktoberfest                                              "],
+  " 4 oz Oktoberfest"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: High Ball
-- Garnish: Cocktail cherry
-- Special Prep: Pour the beer into the glass and top with the cocktail.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour the beer into the glass and top with the cocktail.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

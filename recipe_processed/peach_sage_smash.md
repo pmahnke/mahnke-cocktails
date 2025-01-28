@@ -38,20 +38,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "          2 oz Reposado Tequila  ",
-  "        0.5 oz Light Agave Nectar",
-  "     0.5 whole Lemon             ",
-  "       1 Small Peach             ",
-  "8 to 10 leaves Sage              "],
+  "recipeIngredient": [  "2 oz Reposado Tequila",
+  "0.5 oz Light Agave Nectar",
+  " 0.5 whole Lemon ",
+  " 1 Small Peach ",
+  "8 to 10 leaves Sage"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Low Ball, Large Ice Cube
-- Garnish: Peach slices & sage leaves
-- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, the peach and agave nectar into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low Ball, Large Ice Cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Peach slices & sage leaves
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, the peach and agave nectar into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

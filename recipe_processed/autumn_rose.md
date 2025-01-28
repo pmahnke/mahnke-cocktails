@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Apple Brandy                                   ",
-  " 0.5 oz White Vermouth                                 ",
-  "0.25 oz Apricot Liqueur                                ",
+  "recipeIngredient": [  " 1.5 oz Apple Brandy ",
+  " 0.5 oz White Vermouth ",
+  "0.25 oz Apricot Liqueur",
   "0.25 oz Grenadine",
-  " 0.5 oz Fresh Lemon Juice                              "],
+  " 0.5 oz Fresh Lemon Juice"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Expressed lemon oil and twist
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed lemon oil and twist
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

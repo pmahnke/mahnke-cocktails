@@ -32,9 +32,8 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   14 oz Frozen Passion Fruit Pulp",
-  "2.5 cups White Sugar              "],
+  "recipeIngredient": [  " 14 oz Frozen Passion Fruit Pulp",
+  "2.5 cups White Sugar"],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
   "recipeYield": "1 cocktail"

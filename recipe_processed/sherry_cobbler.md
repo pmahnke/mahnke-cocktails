@@ -39,20 +39,39 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   3 oz Oloroso Sherry         ",
-  "   1 oz Orange Curaçao         ",
+  "recipeIngredient": [  " 3 oz Oloroso Sherry ",
+  " 1 oz Orange Curaçao ",
   "1 whole Orange Wheel, quartered"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Goblet
-  - Crushed Ice
-- Garnish: Fresh raspberries & mint
-- Special Prep: Serve with a straw.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Goblet
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Fresh raspberries & mint
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Serve with a straw.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

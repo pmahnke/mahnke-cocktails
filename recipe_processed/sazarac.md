@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1.5 oz Rye                                                      ",
-  "  0.5 oz Cognac                                                   ",
+  "recipeIngredient": [  "1.5 oz Rye",
+  "0.5 oz Cognac ",
   " 0.25 oz Semi-rich Simple Syrup",
-  "3 dashes Bitters                                                  ",
-  "  1 dash Bitters                                                  ",
-  " 1 rinse Absinthe                                                 "],
+  "3 dashes Bitters",
+  "1 dash Bitters",
+  " 1 rinse Absinthe "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Low Ball
-- Garnish: Lemon zest
-- Special Prep: Rinse the glass with absinthe. Strain in cocktail. Express lemon oil on the drink.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon zest
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Rinse the glass with absinthe. Strain in cocktail. Express lemon oil on the drink.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

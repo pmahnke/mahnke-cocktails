@@ -37,19 +37,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "0.75 oz Rye              ",
+  "recipeIngredient": [  "0.75 oz Rye",
   "0.75 oz Yellow Chartreuse",
-  "0.75 oz Bénédictine      ",
-  "1 whole Egg              "],
+  "0.75 oz Bénédictine",
+  "1 whole Egg"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Single Strain
-- Glassware: Cocktail Glass
-- Garnish: Grated nutmeg
-- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Cocktail Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

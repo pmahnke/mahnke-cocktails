@@ -41,22 +41,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Gin                                      ",
+  "recipeIngredient": [  " 1.5 oz Gin",
   " 0.5 oz Orgeat",
-  "0.25 oz Passion Fruit Syrup                      ",
-  "0.25 oz Falernum                                 ",
-  " 0.5 oz Fresh Lemon Juice                        "],
+  "0.25 oz Passion Fruit Syrup",
+  "0.25 oz Falernum ",
+  " 0.5 oz Fresh Lemon Juice"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Blended
-- Pour: Open Pour
-- Glassware: Large Glass
-- Garnish: Cherry and lemon peel made to look like Saturn with a ring
-- Special Prep:
-  - Blend cocktail with a stick blender in the shaking tin.
-  - Pour cocktail into glass.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Blended
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Large Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cherry and lemon peel made to look like Saturn with a ring
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Blend cocktail with a stick blender in the shaking tin.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Pour cocktail into glass.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

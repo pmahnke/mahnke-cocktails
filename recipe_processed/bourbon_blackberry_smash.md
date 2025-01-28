@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "         2 oz Bourbon     ",
-  "      0.75 oz Maple Syrup ",
-  "    0.5 whole Lemon       ",
-  "      4 whole Blackberries",
-  "6 to 8 leaves Mint        "],
+  "recipeIngredient": [  " 2 oz Bourbon ",
+  "0.75 oz Maple Syrup ",
+  "0.5 whole Lemon ",
+  "4 whole Blackberries",
+  "6 to 8 leaves Mint"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-- Garnish: Blackberry & mint sprig
-- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blackberries and maple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Blackberry & mint sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blackberries and maple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

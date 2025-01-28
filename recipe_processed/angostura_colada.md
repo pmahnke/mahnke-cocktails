@@ -41,22 +41,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1.5 oz Bitters                                              ",
-  "0.5 oz Jamaican Rum                                         ",
-  "  2 oz Pineapple Juice                                      ",
+  "recipeIngredient": [  "1.5 oz Bitters",
+  "0.5 oz Jamaican Rum ",
+  "2 oz Pineapple Juice",
   "1.5 oz Cream of Coconut",
-  "  1 oz Fresh Lime Juice                                     "],
+  "1 oz Fresh Lime Juice "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Open Pour
-- Glassware:
-  - Snifter
-  - Crushed Ice
-- Garnish: Grated Nutmeg, Pineapple Fronds, and Pineapple Slices
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Snifter
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated Nutmeg, Pineapple Fronds, and Pineapple Slices
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -57,38 +57,94 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    2 oz Brandy                                                   ",
+  "recipeIngredient": [  "2 oz Brandy ",
   " 0.25 oz Semi-Rich Simple Syrup",
-  "4 dashes Bitters                                                  ",
-  "2 wedges Orange                                                   ",
-  " 1 whole Cocktail Cherry                                          ",
-  "  0.5 oz Wash - See below                                         "],
+  "4 dashes Bitters",
+  "2 wedges Orange ",
+  " 1 whole Cocktail Cherry",
+  "0.5 oz Wash - See below "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Glass
-- Pour: Add all ingredients directly to the glass
-- Glassware:
-  - Low Ball
-  - Crushed Ice
-- Garnish: Orange slice and a cocktail cherry
-- Special Prep: Add the 2 wedges of orange and the cocktail cherry to the glass and muddle. Add the remaining ingredients. Top with the wash of choice.
-
-### Washes
-
-- Sweet:
-  - 7 Up
-  - Sprite
-- Sour:
-  - Squirt
-  - Fresca
-- Soda:
-  - Soda Water
-- Press:
-  - Half Soda Water/Half Sweet
-- No Wash:
-  - No Floater
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange slice and a cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add the 2 wedges of orange and the cocktail cherry to the glass and muddle. Add the remaining ingredients. Top with the wash of choice.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Washes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Sweet:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - 7 Up
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Sprite
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Sour:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Squirt
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Fresca
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Soda:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Soda Water
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Press:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Half Soda Water/Half Sweet
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- No Wash:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - No Floater
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

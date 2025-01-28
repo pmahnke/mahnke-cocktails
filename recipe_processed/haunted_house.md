@@ -41,22 +41,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    1 oz Jamaican Rum                                   ",
-  "    1 oz Rye                                            ",
-  "  0.5 oz Swedish Punsch                                 ",
+  "recipeIngredient": [  "1 oz Jamaican Rum ",
+  "1 oz Rye",
+  "0.5 oz Swedish Punsch ",
   " 0.25 oz Ginger Syrup",
-  "2 dashes Bitters                                        "],
+  "2 dashes Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware:
-  - Low Ball
-  - Large Ice cube
-- Garnish: Expressed orange oil and cherry
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Ice cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed orange oil and cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

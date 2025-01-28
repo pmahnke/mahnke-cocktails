@@ -44,25 +44,38 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 0.75 oz Rum                                                      ",
-  " 0.75 oz Bourbon                                                  ",
-  " 0.75 oz Cognac                                                   ",
-  " 0.75 oz Pear Brandy                                              ",
-  "  0.5 oz Licor 43                                                 ",
-  " 0.25 oz Allspice Dram                                            ",
-  "    2 oz Fresh Pineapple Juice                                    ",
-  "    1 oz Fresh Lemon Juice                                        ",
+  "recipeIngredient": [  " 0.75 oz Rum",
+  " 0.75 oz Bourbon",
+  " 0.75 oz Cognac ",
+  " 0.75 oz Pear Brandy",
+  "0.5 oz Licor 43 ",
+  " 0.25 oz Allspice Dram",
+  "2 oz Fresh Pineapple Juice",
+  "1 oz Fresh Lemon Juice",
   " 0.25 oz Semi-rich Simple Syrup",
-  "2 dashes Bitters                                                  "],
+  "2 dashes Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Hurricane, On the Rocks
-- Garnish: Pineapple fronds, umbrella, and grated nutmeg for garnish
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Hurricane, On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Pineapple fronds, umbrella, and grated nutmeg for garnish
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

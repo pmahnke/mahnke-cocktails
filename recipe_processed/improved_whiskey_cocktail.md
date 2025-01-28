@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "         2 oz Rye                                                      ",
-  "      0.25 oz Semi-Rich Simple Syrup",
-  "     3 dashes Cardamom Bitters                                         ",
-  "   1 barspoon Maraschino Liqueur                                       ",
-  "1 to 2 dashes Absinthe                                                 "],
+  "recipeIngredient": [  " 2 oz Rye",
+  "0.25 oz Semi-Rich Simple Syrup",
+  " 3 dashes Cardamom Bitters ",
+  " 1 barspoon Maraschino Liqueur ",
+  "1 to 2 dashes Absinthe "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Low Ball
-- Garnish: Expressed lemon oil and peel
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed lemon oil and peel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

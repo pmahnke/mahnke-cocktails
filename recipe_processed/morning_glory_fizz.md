@@ -41,22 +41,35 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "      2 oz Single Malt Scotch                                       ",
-  "   0.75 oz Fresh Lemon Juice                                        ",
-  "   0.25 oz Fresh Lime Juice                                         ",
-  "   0.75 oz Semi-Rich Simple Syrup",
-  "1 barspoon Absinthe                                                 ",
-  "   0.75 oz Egg White                                                ",
-  "      1 oz Sparkling Water                                          "],
+  "recipeIngredient": [  "2 oz Single Malt Scotch ",
+  " 0.75 oz Fresh Lemon Juice",
+  " 0.25 oz Fresh Lime Juice ",
+  " 0.75 oz Semi-Rich Simple Syrup",
+  "1 barspoon Absinthe ",
+  " 0.75 oz Egg White",
+  "1 oz Sparkling Water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: High Ball
-- Garnish:
-- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg white. Add one ounce of soda water to the glass. Add the cocktail and expressed orange oil.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg white. Add one ounce of soda water to the glass. Add the cocktail and expressed orange oil.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

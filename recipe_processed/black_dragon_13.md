@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1 oz Cognac                                                            ",
-  " 0.5 oz Amaro                                                             ",
-  "   1 oz Cold Brew Concentrate ",
-  "0.25 oz Rich Demerara Syrup          ",
-  "   4 oz Stout                                                             "],
+  "recipeIngredient": [  " 1 oz Cognac",
+  " 0.5 oz Amaro ",
+  " 1 oz Cold Brew Concentrate ",
+  "0.25 oz Rich Demerara Syrup",
+  " 4 oz Stout "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Low Ball
-- Garnish: None
-- Special Prep: Pour the stout into the glass and top with the cocktail.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour the stout into the glass and top with the cocktail.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

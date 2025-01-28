@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    2 oz Gin                                      ",
-  " 0.75 oz Fresh Lemon Juice                        ",
+  "recipeIngredient": [  "2 oz Gin",
+  " 0.75 oz Fresh Lemon Juice",
   " 0.75 oz Orgeat",
-  "2 dashes Bitters                                  ",
-  " 5 drops 20% Saline Solution                      "],
+  "2 dashes Bitters",
+  " 5 drops 20% Saline Solution"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: None
-- Special Prep: Expressed lemon oil
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Expressed lemon oil
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

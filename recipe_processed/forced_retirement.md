@@ -42,23 +42,42 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "0.75 oz Malört                                                       ",
-  "   1 oz Gin                                                          ",
-  " 0.5 oz Campari                                                      ",
+  "recipeIngredient": [  "0.75 oz Malört ",
+  " 1 oz Gin",
+  " 0.5 oz Campari",
   "0.75 oz Passion Fruit Syrup",
-  "0.75 oz Fresh Lime Juice                                             ",
-  "0.75 oz Grapefruit Juice                                             "],
+  "0.75 oz Fresh Lime Juice ",
+  "0.75 oz Grapefruit Juice "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Swizzled
-- Pour: Add all ingredients directly to the glass
-- Glassware:
-  - High Ball
-  - Crushed Ice
-- Garnish: Pineapple fronds & cocktail umbrella
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Swizzled
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Pineapple fronds & cocktail umbrella
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

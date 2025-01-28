@@ -37,18 +37,31 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "0.5 oz Bénédictine     ",
+  "recipeIngredient": [  "0.5 oz Bénédictine ",
   "0.5 oz Green Chartreuse",
-  "0.5 oz Bitters         "],
+  "0.5 oz Bitters "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Glass
-- Pour: Layer all ingredients directly to the glass
-- Glassware: Shot Glass
-- Garnish: None
-- Special Prep: Layer each ingredient carefully to show the individual layers.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Layer all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Shot Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Layer each ingredient carefully to show the individual layers.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

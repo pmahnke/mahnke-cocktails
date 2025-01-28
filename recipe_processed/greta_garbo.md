@@ -70,48 +70,105 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Light Rum                                                ",
-  "0.25 oz Maraschino Liqueur                                       ",
-  "0.75 oz Fresh lime juice                                         ",
+  "recipeIngredient": [  " 1.5 oz Light Rum",
+  "0.25 oz Maraschino Liqueur ",
+  "0.75 oz Fresh lime juice ",
   " 0.5 oz Semi-Rich Simple Syrup",
-  "0.25 oz Absinthe                                                 ",
-  "   1 oz Gin                                                      ",
-  " 0.5 oz Swedish Punsch                                           ",
-  " 0.5 oz Fresh Lemon Juice                                        ",
+  "0.25 oz Absinthe ",
+  " 1 oz Gin",
+  " 0.5 oz Swedish Punsch ",
+  " 0.5 oz Fresh Lemon Juice",
   "0.25 oz Semi-Rich Simple Syrup"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Star anise
-- Special Prep: None
-
-
-
-
-## Number 2
-
-### Ingredients
-
-|  Amount | Ingredient                                                | Brand     |
-| ------: | --------------------------------------------------------- | --------- |
-|    1 oz | Gin                                                       | Beefeater |
-|  0.5 oz | Swedish Punsch                                            | Kronan    |
-|  0.5 oz | Fresh Lemon Juice                                         |
-| 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-
-### Notes
-
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Expressed lemon oil
-- Special Prep: None
-
-
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Star anise
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## Number 2
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  Amount | Ingredient                                                | Brand     |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| ------: | --------------------------------------------------------- | --------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|    1 oz | Gin                                                       | Beefeater |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.5 oz | Swedish Punsch                                            | Kronan    |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.5 oz | Fresh Lemon Juice                                         |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed lemon oil
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

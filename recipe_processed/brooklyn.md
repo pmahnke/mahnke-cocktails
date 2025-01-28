@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "         2 oz Rye               ",
-  "         1 oz Dry Vermouth      ",
-  "      0.25 oz Maraschino Liqueur",
-  "      0.25 oz Amaro             ",
-  "2 to 3 dashes Orange Bitters    ",
-  "      1 swath Orange Peal       "],
+  "recipeIngredient": [  " 2 oz Rye ",
+  " 1 oz Dry Vermouth",
+  "0.25 oz Maraschino Liqueur",
+  "0.25 oz Amaro ",
+  "2 to 3 dashes Orange Bitters",
+  "1 swath Orange Peal "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Nick & Nora
-- Garnish: Cocktail Cherry
-- Special Prep: Express orange oil over the cocktail, and wipe the rim with the peal.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cocktail Cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Express orange oil over the cocktail, and wipe the rim with the peal.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

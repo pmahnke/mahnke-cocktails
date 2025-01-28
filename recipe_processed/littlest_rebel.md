@@ -41,20 +41,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1 oz Apple Brandy                                   ",
-  " 0.5 oz Blended Scotch Whisky                          ",
-  "0.75 oz Fresh Lime Juice                               ",
+  "recipeIngredient": [  " 1 oz Apple Brandy ",
+  " 0.5 oz Blended Scotch Whisky",
+  "0.75 oz Fresh Lime Juice ",
   " 0.5 oz Grenadine",
-  "0.75 oz Egg White                                      "],
+  "0.75 oz Egg White"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Expressed lime oil
-- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed lime oil
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

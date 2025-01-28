@@ -39,20 +39,39 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    2 oz Bourbon             ",
-  "  0.5 oz Maple Syrup         ",
+  "recipeIngredient": [  "2 oz Bourbon ",
+  "0.5 oz Maple Syrup ",
   "3 dashes Black Walnut Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware:
-  - Low Ball
-  - Large Ice cube
-- Garnish: Orange Zest and Cocktail Cherry
-- Special Prep: Smoke the low ball glass with wood smoke. Express the orange zest over the cocktail.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Ice cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange Zest and Cocktail Cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Smoke the low ball glass with wood smoke. Express the orange zest over the cocktail.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

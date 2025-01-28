@@ -40,21 +40,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1.5 oz Reposado Tequila",
+  "recipeIngredient": [  "1.5 oz Reposado Tequila",
   "0.5 oz Crème de Cassis ",
   "0.5 oz Fresh Lime Juice",
-  "  3 oz Ginger Beer     "],
+  "3 oz Ginger Beer "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Single Strain
-- Glassware:
-  - High Ball
-  - On the Rocks
-- Garnish: Inverted lime rind filled with the Crème de cassis for an “interactive” garnish
-- Special Prep: Single strain into glass, top the drink with the ginger soda
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Inverted lime rind filled with the Crème de cassis for an “interactive” garnish
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Single strain into glass, top the drink with the ginger soda
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

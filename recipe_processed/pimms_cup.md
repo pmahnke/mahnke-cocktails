@@ -39,20 +39,39 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "     2 oz Pimm's           ",
-  "  0.25 oz Fresh Lemon Juice",
-  "3 to 4 oz Ginger Ale       "],
+  "recipeIngredient": [  " 2 oz Pimm's ",
+  "0.25 oz Fresh Lemon Juice",
+  "3 to 4 oz Ginger Ale "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Single Strain
-- Glassware:
-  - High Ball
-  - On the Rocks
-- Garnish: Cucumber strip cut up, strawberries, and a sprig of mint
-- Special Prep: Pour ginger ale and shaken Pimm's and lemon mixture into glass together.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cucumber strip cut up, strawberries, and a sprig of mint
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour ginger ale and shaken Pimm's and lemon mixture into glass together.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

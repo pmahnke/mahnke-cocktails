@@ -40,21 +40,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "     2 oz Sloe Gin                                                 ",
-  "     1 oz Fresh Lemon Juice                                        ",
-  "   0.5 oz Semi-Rich Simple Syrup",
-  "2 to 3 oz Sparkling Water Topo Chico                               "],
+  "recipeIngredient": [  " 2 oz Sloe Gin ",
+  " 1 oz Fresh Lemon Juice",
+  " 0.5 oz Semi-Rich Simple Syrup",
+  "2 to 3 oz Sparkling Water Topo Chico "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - High Ball
-  - On the Rocks
-- Garnish: Lemon wheel and cocktail cherry
-- Special Prep: 1 For variations, drop Sloe Gin to 1.5 oz. (45 ml), & add 0.5 oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon wheel and cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: 1 For variations, drop Sloe Gin to 1.5 oz. (45 ml), & add 0.5 oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

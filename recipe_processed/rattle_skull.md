@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1 oz Jamaican Rum                                            ",
-  "   1 oz Cognac                                                  ",
-  "  12 oz Porter                                                  ",
-  "0.75 oz Fresh Lime Juice                                        ",
+  "recipeIngredient": [  " 1 oz Jamaican Rum",
+  " 1 oz Cognac",
+  "12 oz Porter",
+  "0.75 oz Fresh Lime Juice",
   " 0.5 oz Rich Demerara Syrup"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Large Beer Mug
-- Garnish: Grated Nutmeg
-- Special Prep: Pour the ale into the glass and top with the cocktail.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Large Beer Mug
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated Nutmeg
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour the ale into the glass and top with the cocktail.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

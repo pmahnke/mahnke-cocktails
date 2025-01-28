@@ -37,18 +37,31 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1.5 oz Gin             ",
-  "  1 oz Vodka           ",
+  "recipeIngredient": [  "1.5 oz Gin ",
+  "1 oz Vodka ",
   "0.5 oz Cocchi Americano"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Martini
-- Garnish: Lemon Twist
-- Special Prep: Lillet Blanc may be substituted for Cocchi Americano.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Martini
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon Twist
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Lillet Blanc may be substituted for Cocchi Americano.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

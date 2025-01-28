@@ -45,26 +45,45 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    1 oz Gold Rum                                                ",
-  "  0.5 oz Demerara Rum                                            ",
-  "  0.5 oz Apricot Liqueur                                         ",
-  "  0.5 oz Falernum                                                ",
-  "    1 oz Fresh Orange Juice                                      ",
-  "  0.5 oz Fresh Lemon Juice                                       ",
-  "  0.5 oz Fresh Lime Juice                                        ",
-  "  0.5 oz Rich Demerara Syrup",
-  "2 dashes Angostura Bitters                                       "],
+  "recipeIngredient": [  "1 oz Gold Rum",
+  "0.5 oz Demerara Rum",
+  "0.5 oz Apricot Liqueur ",
+  "0.5 oz Falernum",
+  "1 oz Fresh Orange Juice",
+  "0.5 oz Fresh Lemon Juice ",
+  "0.5 oz Fresh Lime Juice",
+  "0.5 oz Rich Demerara Syrup",
+  "2 dashes Angostura Bitters "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Open Pour
-- Glassware:
-  - Low Ball
-  - Crushed Ice
-- Garnish: Dehydrated lime wheel and pineapple fronds for garnish
-- Special Prep: Top with crushed ice.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Dehydrated lime wheel and pineapple fronds for garnish
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Top with crushed ice.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

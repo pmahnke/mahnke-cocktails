@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   6 oz Pineapple Juice                                             ",
-  "   2 oz Fresh Orange Juice                                          ",
-  "   2 oz [Cream of Coconut] ({%link recipe_processed/cream_of_coconut_syrup.md%})",
-  "0.75 oz Fresh Lime Juice                                            ",
-  "1 pinch Ground Cinnamon                                             ",
-  "  1 cup Crushed Ice                                                 "],
+  "recipeIngredient": [  " 6 oz Pineapple Juice ",
+  " 2 oz Fresh Orange Juice",
+  " 2 oz [Cream of Coconut] ({%link recipe_processed/cream_of_coconut_syrup.md%})",
+  "0.75 oz Fresh Lime Juice",
+  "1 pinch Ground Cinnamon ",
+  "1 cup Crushed Ice "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Shaker Tin
-- Pour: Open Pour
-- Glassware: Tiki, Crushed Ice
-- Garnish: Grated nutmeg, pineapple fronds, & tiki umbrella
-- Special Prep: Add all ingredients to the larger shaker tin and blend with an emersion blender.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Shaker Tin
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Tiki, Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg, pineapple fronds, & tiki umbrella
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add all ingredients to the larger shaker tin and blend with an emersion blender.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

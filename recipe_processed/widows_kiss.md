@@ -88,73 +88,172 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    1 oz Applejack        ",
-  "  0.5 oz Bénédictine      ",
-  "  0.5 oz Yellow Chartreuse",
-  "2 dashes Bitters          ",
-  "    2 oz Applejack        ",
-  " 0.25 oz Bénédictine      ",
+  "recipeIngredient": [  "1 oz Applejack",
+  "0.5 oz Bénédictine",
+  "0.5 oz Yellow Chartreuse",
+  "2 dashes Bitters",
+  "2 oz Applejack",
+  " 0.25 oz Bénédictine",
   " 0.25 oz Yellow Chartreuse",
-  "2 dashes Bitters          ",
-  "  1.5 oz Applejack        ",
-  "  0.5 oz Bénédictine      ",
+  "2 dashes Bitters",
+  "1.5 oz Applejack",
+  "0.5 oz Bénédictine",
   " 0.25 oz Yellow Chartreuse",
-  "2 dashes Bitters          "],
+  "2 dashes Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: None
-- Special Prep: None
-
-
-
-
-## Contemporary
-
-### Ingredients
-
-|   Amount | Ingredient        | Brand                      |
-| -------: | ----------------- | -------------------------- |
-|     2 oz | Applejack         | Laird's Straight 86        |
-|  0.25 oz | Bénédictine       | Bénédictine DOM            |
-|  0.25 oz | Yellow Chartreuse | Yellow Chartreuse          |
-| 2 dashes | Bitters           | Angostura Aromatic Bitters |
-
-### Notes
-
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: Cocktail cherry
-- Special Prep: None
-
-
-
-
-## Anders' Version
-
-### Ingredients
-
-|   Amount | Ingredient        | Brand                      |
-| -------: | ----------------- | -------------------------- |
-|   1.5 oz | Applejack         | Laird's Straight 86        |
-|   0.5 oz | Bénédictine       | Bénédictine DOM            |
-|  0.25 oz | Yellow Chartreuse | Yellow Chartreuse          |
-| 2 dashes | Bitters           | Angostura Aromatic Bitters |
-
-### Notes
-
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: Lemon Peel
-- Special Prep: Express Lemon oil over cocktail
-
-
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## Contemporary
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   Amount | Ingredient        | Brand                      |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| -------: | ----------------- | -------------------------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|     2 oz | Applejack         | Laird's Straight 86        |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.25 oz | Bénédictine       | Bénédictine DOM            |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.25 oz | Yellow Chartreuse | Yellow Chartreuse          |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 2 dashes | Bitters           | Angostura Aromatic Bitters |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## Anders' Version
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   Amount | Ingredient        | Brand                      |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| -------: | ----------------- | -------------------------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   1.5 oz | Applejack         | Laird's Straight 86        |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   0.5 oz | Bénédictine       | Bénédictine DOM            |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.25 oz | Yellow Chartreuse | Yellow Chartreuse          |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 2 dashes | Bitters           | Angostura Aromatic Bitters |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon Peel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Express Lemon oil over cocktail
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

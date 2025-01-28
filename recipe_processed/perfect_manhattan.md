@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    2 oz Rye           ",
-  "  0.5 oz Sweet Vermouth",
-  "  0.5 oz Dry Vermouth  ",
-  "2 dashes Bitters       "],
+  "recipeIngredient": [  "2 oz Rye ",
+  "0.5 oz Sweet Vermouth",
+  "0.5 oz Dry Vermouth",
+  "2 dashes Bitters "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Martini
-- Garnish: Cocktail Cherry
-- Special Prep: Sugared Rim
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Martini
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cocktail Cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Sugared Rim
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

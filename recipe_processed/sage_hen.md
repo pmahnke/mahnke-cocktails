@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    1.5 oz Gin                                                            ",
-  "   0.25 oz Yellow Chartreuse                                              ",
-  "   0.75 oz Fresh Lemon Juice                                              ",
-  "    0.5 oz Sage Infused Honey Syrup",
-  "0.25 whole Red Delicious Apple                                            "],
+  "recipeIngredient": [  "1.5 oz Gin",
+  " 0.25 oz Yellow Chartreuse",
+  " 0.75 oz Fresh Lemon Juice",
+  "0.5 oz Sage Infused Honey Syrup",
+  "0.25 whole Red Delicious Apple"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Sage leaf
-- Special Prep: Dice the apple piece into 1/2 inch pieces, and drop them into the shaker tin. Muddle the apple piece in the shaker tin.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Sage leaf
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Dice the apple piece into 1/2 inch pieces, and drop them into the shaker tin. Muddle the apple piece in the shaker tin.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

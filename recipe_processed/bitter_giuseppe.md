@@ -43,22 +43,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    1 oz Amaro            ",
-  "    1 oz Sweet Vermouth   ",
+  "recipeIngredient": [  "1 oz Amaro",
+  "1 oz Sweet Vermouth ",
   " 0.25 oz Fresh Lemon Juice",
-  "4 dashes Orange Bitters   ",
-  " 1 swath Lemon Peel       "],
+  "4 dashes Orange Bitters ",
+  " 1 swath Lemon Peel "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware:
-  - Low Ball
-  - Large Ice Cube
-- Garnish: Lemon Peel
-- Special Prep: Expressed lemon oil
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Ice Cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon Peel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Expressed lemon oil
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

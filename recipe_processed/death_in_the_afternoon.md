@@ -64,45 +64,102 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1.5 oz Absinthe  ",
+  "recipeIngredient": [  "1.5 oz Absinthe",
   "4.5 oz Champagne ",
-  "   1 oz Absinthe                                                 ",
-  "   2 oz Champagne                                                ",
-  "0.25 oz Fresh Lemon Juice                                        ",
+  " 1 oz Absinthe ",
+  " 2 oz Champagne",
+  "0.25 oz Fresh Lemon Juice",
   "0.25 oz Semi-rich Simple Syrup"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Glass
-- Pour: Add all ingredients directly to the glass
-- Glassware: Nick & Nora
-- Garnish: None
-- Special Prep: Pour the Absinthe into the glass and top with champagne. Add enough champagne to have the cocktail turn milky (the Louche Effect).
-
-
-
-
-## An Approachable Death in the Afternoon
-
-### Ingredients
-
-|  Amount | Ingredient                                                | Brand                                |
-| ------: | --------------------------------------------------------- | ------------------------------------ |
-|    1 oz | Absinthe                                                  | Nouvelle Orleans Absinthe Superieure |
-|    2 oz | Champagne                                                 | Laurent-Pierre La Cuvee Brut         |
-| 0.25 oz | Fresh Lemon Juice                                         |
-| 0.25 oz | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-
-### Notes
-
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Nick & Nora
-- Garnish:
-- Special Prep: Pour the stirred cocktail into the glass and top with champagne.
-
-
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour the Absinthe into the glass and top with champagne. Add enough champagne to have the cocktail turn milky (the Louche Effect).
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## An Approachable Death in the Afternoon
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  Amount | Ingredient                                                | Brand                                |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| ------: | --------------------------------------------------------- | ------------------------------------ |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|    1 oz | Absinthe                                                  | Nouvelle Orleans Absinthe Superieure |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|    2 oz | Champagne                                                 | Laurent-Pierre La Cuvee Brut         |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.25 oz | Fresh Lemon Juice                                         |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 0.25 oz | [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour the stirred cocktail into the glass and top with champagne.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

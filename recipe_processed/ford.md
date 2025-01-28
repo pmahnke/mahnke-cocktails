@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1.5 oz Old Tom Gin   ",
-  "  1.5 oz Dry Vermouth  ",
-  " 0.25 oz Bénédictine   ",
+  "recipeIngredient": [  "1.5 oz Old Tom Gin ",
+  "1.5 oz Dry Vermouth",
+  " 0.25 oz Bénédictine ",
   "3 dashes Orange Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: Orange Peal
-- Special Prep: Expressed orange oil
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange Peal
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Expressed orange oil
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

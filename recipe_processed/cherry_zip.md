@@ -41,22 +41,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "         1 oz Tart Cherry Juice (no sugar added)             ",
-  "         1 oz Orgeat Syrup",
-  "         1 oz Black Tea (cooled)                             ",
-  "       0.5 oz Fresh Lemon Juice                              ",
-  "0.25 barspoon Red Chili Flakes                               "],
+  "recipeIngredient": [  " 1 oz Tart Cherry Juice (no sugar added) ",
+  " 1 oz Orgeat Syrup",
+  " 1 oz Black Tea (cooled) ",
+  " 0.5 oz Fresh Lemon Juice",
+  "0.25 barspoon Red Chili Flakes "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Large Glass
-  - Crushed Ice
-- Garnish: Mint sprig
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

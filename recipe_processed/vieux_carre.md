@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 0.75 oz Rye           ",
-  " 0.75 oz Cognac        ",
+  "recipeIngredient": [  " 0.75 oz Rye ",
+  " 0.75 oz Cognac",
   " 0.75 oz Sweet Vermouth",
-  "  0.5 oz Bénédictine   ",
-  "2 dashes Bitters       ",
-  "2 dashes Bitters       "],
+  "0.5 oz Bénédictine ",
+  "2 dashes Bitters ",
+  "2 dashes Bitters "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Footed Rocks Glass
-- Garnish: Lemon Twist
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Footed Rocks Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon Twist
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

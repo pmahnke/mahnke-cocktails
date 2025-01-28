@@ -41,22 +41,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "         2 oz Bourbon                                                  ",
-  "       0.5 oz Crème de Cassis                                          ",
-  "         1 oz Fresh Lemon Juice                                        ",
-  "      0.25 oz Semi-Rich Simple Syrup",
-  "1 to 2 dashes Bitters                                                  "],
+  "recipeIngredient": [  " 2 oz Bourbon",
+  " 0.5 oz Crème de Cassis",
+  " 1 oz Fresh Lemon Juice",
+  "0.25 oz Semi-Rich Simple Syrup",
+  "1 to 2 dashes Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Low Ball
-  - Large Ice cube
-- Garnish: Lemon wheel for garnish
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Ice cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon wheel for garnish
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

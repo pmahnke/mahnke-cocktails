@@ -40,22 +40,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1 oz Gin                                                      ",
-  " 0.5 oz Crème de Mûre                                            ",
+  "recipeIngredient": [  " 1 oz Gin",
+  " 0.5 oz Crème de Mûre",
   "0.25 oz Semi-Rich Simple Syrup",
-  " 0.5 oz Fresh Lemon Juice                                        ",
-  "   4 oz Sparkling Wine                                           "],
+  " 0.5 oz Fresh Lemon Juice",
+  " 4 oz Sparkling Wine "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Single Strain
-- Glassware:
-  - High Ball
-  - On the rocks
-- Garnish: 3 Blackberries
-- Special Prep: Pour cocktail into glass and top it off with champagne.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Single Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: 3 Blackberries
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour cocktail into glass and top it off with champagne.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

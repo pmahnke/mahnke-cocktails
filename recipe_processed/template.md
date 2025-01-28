@@ -70,21 +70,46 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "       NAME",
-  "                                      "],
+  "recipeIngredient": [  " NAME",
+  ""],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken/Stirred/Build in the Glass
-- Pour: Double Strain/Julep Strain/Open Pour/Add all ingredients directly to the glass
-- Glassware: Low Ball/High Ball/Champagne Flute/Coupe/Nick & Nora/Tiki/Martini
-  - GLASS
-  - Large Ice Cube
-  - On the Rocks
-  - Crushed Ice
-- Garnish: None
-- Special Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken/Stirred/Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain/Julep Strain/Open Pour/Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low Ball/High Ball/Champagne Flute/Coupe/Nick & Nora/Tiki/Martini
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - GLASS
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Ice Cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

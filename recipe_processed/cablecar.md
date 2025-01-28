@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Spice Rum                                      ",
-  "0.75 oz Dry Curaçao                                    ",
-  "   1 oz Fresh Lemon Juice                              ",
+  "recipeIngredient": [  " 1.5 oz Spice Rum",
+  "0.75 oz Dry Curaçao",
+  " 1 oz Fresh Lemon Juice",
   " 0.5 oz Simple Syrup"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Cinnamon sugar rim
-- Special Prep: Expressed orange oil
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cinnamon sugar rim
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Expressed orange oil
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

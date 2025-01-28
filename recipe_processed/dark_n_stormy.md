@@ -36,17 +36,30 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1.5 oz Dark Rum   ",
+  "recipeIngredient": [  " 1.5 oz Dark Rum ",
   "4 to 5 oz Ginger Beer"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Built in the glass
-- Pour: Add all ingredients directly to the glass
-- Glassware: High Ball, On the Rocks
-- Garnish: Lime wedge
-- Special Prep: Pour the ginger beer into the glass, then the rum.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Built in the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: High Ball, On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lime wedge
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour the ginger beer into the glass, then the rum.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

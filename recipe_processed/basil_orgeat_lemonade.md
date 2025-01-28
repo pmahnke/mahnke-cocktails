@@ -40,21 +40,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1.5 oz Orgeat Syrup",
-  "  1.5 oz Fresh Lemon Juice                              ",
-  "4 leaves Basil                                          ",
-  "    3 oz Soda Water                                     "],
+  "recipeIngredient": [  "1.5 oz Orgeat Syrup",
+  "1.5 oz Fresh Lemon Juice",
+  "4 leaves Basil",
+  "3 oz Soda Water "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Goblet
-  - Crushed Ice
-- Garnish: Basil Leaf and Lemon Wheel
-- Special Prep: Shake cocktail and pour into the glass. Top with soda water.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Goblet
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Basil Leaf and Lemon Wheel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Shake cocktail and pour into the glass. Top with soda water.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

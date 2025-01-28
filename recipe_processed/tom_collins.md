@@ -39,21 +39,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "     2 oz Old Tom Gin                                              ",
-  "     1 oz Fresh Lemon Juice                                        ",
-  "   0.5 oz Semi-Rich Simple Syrup",
-  "2 to 3 oz Soda Water                                               "],
+  "recipeIngredient": [  " 2 oz Old Tom Gin",
+  " 1 oz Fresh Lemon Juice",
+  " 0.5 oz Semi-Rich Simple Syrup",
+  "2 to 3 oz Soda Water "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - High Ball
-  - On the Rocks
-- Garnish: Lemon wheel and cocktail cherry
-- Special Prep: Add cocktail to the glass with ice and top with soda water.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon wheel and cocktail cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add cocktail to the glass with ice and top with soda water.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

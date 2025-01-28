@@ -41,22 +41,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "5 whole Grapes                                                   ",
-  "   1 oz Gin                                                      ",
-  "   1 oz Campari                                                  ",
-  "0.75 oz Fresh Lemon Juice                                        ",
+  "recipeIngredient": [  "5 whole Grapes ",
+  " 1 oz Gin",
+  " 1 oz Campari",
+  "0.75 oz Fresh Lemon Juice",
   " 0.5 oz Semi-Rich Simple Syrup"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Low Ball
-  - Large Ice Cube
-- Garnish: Grape
-- Special Prep: Muddle the grapes in the cheater tin. Put the other ingredients in the large tin, add ice, and shake.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Ice Cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grape
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Muddle the grapes in the cheater tin. Put the other ingredients in the large tin, add ice, and shake.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

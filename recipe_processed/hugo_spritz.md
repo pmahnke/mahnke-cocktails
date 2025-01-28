@@ -39,20 +39,36 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "       0.5 oz Elderflower Liqueur",
-  "4 to 6 leaves Mint               ",
-  "         3 oz Prosecco           ",
-  "         1 oz Soda Water         "],
+  "recipeIngredient": [  " 0.5 oz Elderflower Liqueur",
+  "4 to 6 leaves Mint ",
+  " 3 oz Prosecco ",
+  " 1 oz Soda Water "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Glass
-- Pour: Add all ingredients directly to the glass
-- Glassware:
-- Garnish: Mint sprig and lime wheel Special
-- Prep: Add the mint and elderflower liqueur to the glass and muddle. Allow to sit
-  for a minute before adding the prosecco and soda water.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint sprig and lime wheel Special
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Prep: Add the mint and elderflower liqueur to the glass and muddle. Allow to sit
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  for a minute before adding the prosecco and soda water.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

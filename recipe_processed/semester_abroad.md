@@ -37,18 +37,31 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  2 oz Rye           ",
-  "  1 oz Orange Curaçao",
+  "recipeIngredient": [  "2 oz Rye ",
+  "1 oz Orange Curaçao",
   "0.5 oz Fernet Branca "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Nick & Nora
-- Garnish: Orange zest
-- Special Prep: Express orange oil over the cocktail.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange zest
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Express orange oil over the cocktail.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

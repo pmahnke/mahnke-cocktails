@@ -33,8 +33,7 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "400 grams White Sugar         ",
+  "recipeIngredient": [  "400 grams White Sugar ",
   "200 grams Strong Earl Grey Tea"],
   "name": "{{ page.title }}",
   "recipeInstructions": "",

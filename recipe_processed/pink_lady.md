@@ -39,20 +39,33 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Gin                                            ",
-  " 0.5 oz Apple Brandy                                   ",
-  "0.75 oz Fresh Lemon Juice                              ",
+  "recipeIngredient": [  " 1.5 oz Gin",
+  " 0.5 oz Apple Brandy ",
+  "0.75 oz Fresh Lemon Juice",
   " 0.5 oz Grenadine",
-  "0.75 oz Raw Egg White / Aquafaba (chickpea water)      "],
+  "0.75 oz Raw Egg White / Aquafaba (chickpea water)"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Cocktail Cherry
-- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the Egg white or aquafaba.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Cocktail Cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the Egg white or aquafaba.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

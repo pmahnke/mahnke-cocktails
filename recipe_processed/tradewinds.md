@@ -41,22 +41,41 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1 oz Dark Rum                                                   ",
-  "  1 oz Gold Rum                                                   ",
-  "  1 oz Apricot Liqueur                                            ",
-  "  1 oz Cream of Coconut",
-  "  1 oz Fresh Lemon Juice                                          "],
+  "recipeIngredient": [  "1 oz Dark Rum ",
+  "1 oz Gold Rum ",
+  "1 oz Apricot Liqueur",
+  "1 oz Cream of Coconut",
+  "1 oz Fresh Lemon Juice"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Glass
-- Pour: Add all ingredients directly to the glass
-- Glassware:
-  - Tiki
-  - Crushed Ice
-- Garnish: Grated Nutmeg, Pineapple Fronds and a Cocktail Umbrella
-- Special Prep: Stir the drink heavily in the glass.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Tiki
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Crushed Ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated Nutmeg, Pineapple Fronds and a Cocktail Umbrella
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Stir the drink heavily in the glass.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

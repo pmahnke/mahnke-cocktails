@@ -45,27 +45,61 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "15 to 20 whole Fresh Blueberries                                        ",
-  "          1 oz Semi-Rich Simple Syrup",
-  "          1 oz Fresh Lemon Juice                                        ",
-  "8 to 10 leaves Mint                                                     ",
-  "     3 to 4 oz Ginger Beer                                              "],
+  "recipeIngredient": [  "15 to 20 whole Fresh Blueberries",
+  "1 oz Semi-Rich Simple Syrup",
+  "1 oz Fresh Lemon Juice",
+  "8 to 10 leaves Mint ",
+  " 3 to 4 oz Ginger Beer"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - High Ball
-  - On the Rocks
-- Garnish: Mint sprig
-- Special Prep:
-  - Press and slide the mint leaves in the glass.
-  - Add the blueberries, simple syrup and lemon juice to a shaker and shake with ice.
-  - Strain the cocktail into the glass.
-  - Add ice
-  - Top with the ginger beer.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Mint sprig
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Press and slide the mint leaves in the glass.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Add the blueberries, simple syrup and lemon juice to a shaker and shake with ice.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Strain the cocktail into the glass.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Add ice
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Top with the ginger beer.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

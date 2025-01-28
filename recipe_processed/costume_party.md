@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1 oz Vodka               ",
+  "recipeIngredient": [  " 1 oz Vodka ",
   "0.75 oz White Crème De Cacao",
-  " 0.5 oz Apricot Liqueur     ",
-  " 0.5 oz Fresh Lemon Juice   "],
+  " 0.5 oz Apricot Liqueur ",
+  " 0.5 oz Fresh Lemon Juice "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: None
-- Special Prep: Sugared Rim
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Sugared Rim
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

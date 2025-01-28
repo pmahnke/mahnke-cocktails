@@ -39,20 +39,39 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1.5 oz Gin         ",
-  "0.75 oz Suze        ",
+  "recipeIngredient": [  " 1.5 oz Gin ",
+  "0.75 oz Suze",
   "0.75 oz Lillet Blanc"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware:
-  - Low Ball
-  - Large Ice cube
-- Garnish: Grapefruit zest
-- Special Prep: Express grapefruit oil on the drink.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Ice cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grapefruit zest
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Express grapefruit oil on the drink.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

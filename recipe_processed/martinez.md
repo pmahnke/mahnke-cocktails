@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "1.25 oz Gin               ",
-  "1.25 oz Sweet Vermouth    ",
+  "recipeIngredient": [  "1.25 oz Gin ",
+  "1.25 oz Sweet Vermouth",
   "0.25 oz Maraschino Liqueur",
-  "0.25 oz Orange Bitters    "],
+  "0.25 oz Orange Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: Lemon zest
-- Special Prep:
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon zest
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

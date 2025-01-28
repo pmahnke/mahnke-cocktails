@@ -39,21 +39,40 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1 oz Canned Pear (Puréed With Syrup)                ",
+  "recipeIngredient": [  " 1 oz Canned Pear (Puréed With Syrup)",
   "0.75 oz Grenadine",
-  " 0.5 oz Fresh Lemon Juice                              ",
-  "   2 oz Chilled Hojicha (Roasted Green Tea)            "],
+  " 0.5 oz Fresh Lemon Juice",
+  " 2 oz Chilled Hojicha (Roasted Green Tea)"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Lemon peel
-- Special Prep:
-  - Take a can of pears and their syrup and blend them into a prrée.
-  - Expressed lemon oil.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon peel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Take a can of pears and their syrup and blend them into a prrée.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Expressed lemon oil.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  2 oz Fino Sherry       ",
+  "recipeIngredient": [  "2 oz Fino Sherry ",
   "0.5 oz Maraschino Liqueur",
-  "  3 oz Prosecco          ",
-  "  1 oz Soda Water        "],
+  "3 oz Prosecco",
+  "1 oz Soda Water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Build in the Glass
-- Pour: Add all ingredients directly to the glass
-- Glassware:
-- Garnish: Lemon wheels Special
-- Prep: None
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Build in the Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon wheels Special
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Prep: None
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

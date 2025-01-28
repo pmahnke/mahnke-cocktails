@@ -42,21 +42,40 @@ ercerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    2 oz Bourbon                                                 ",
+  "recipeIngredient": [  "2 oz Bourbon ",
   " 0.25 oz Rich Demerara Syrup",
-  "4 dashes Bitters                                                 ",
-  " 1 wedge Orange Wedge                                            "],
+  "4 dashes Bitters ",
+  " 1 wedge Orange Wedge"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware:
-  - Low Ball
-  - Large Ice cube
-- Garnish: Orange Zest and a Cocktail Cherry
-- Special Prep: On the rocks
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Ice cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange Zest and a Cocktail Cherry
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: On the rocks
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

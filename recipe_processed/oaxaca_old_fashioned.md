@@ -42,23 +42,48 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "    1.5 oz Reposado Tequila",
-  "    0.5 oz Mezcal          ",
-  "  2 dashes Bitters         ",
-  "1 barspoon Agave Nectar    "],
+  "recipeIngredient": [  "1.5 oz Reposado Tequila",
+  "0.5 oz Mezcal",
+  "2 dashes Bitters ",
+  "1 barspoon Agave Nectar"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware:
-  - Low Ball
-  - Large Ice Cube
-- Garnish: Expressed grapefruit oil and peel
-- Special Prep:
-  - Blend cocktail with a stick blender in the shaking tin.
-  - Pour cocktail into glass.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Low Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Large Ice Cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed grapefruit oil and peel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Blend cocktail with a stick blender in the shaking tin.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - Pour cocktail into glass.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

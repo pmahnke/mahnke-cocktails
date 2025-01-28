@@ -37,19 +37,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1 oz Gold Rum                                     ",
+  "recipeIngredient": [  "1 oz Gold Rum ",
   "0.5 oz Honey Syrup",
-  "0.5 oz Fresh Lime Juice                             ",
-  "  2 oz Champagne                                    "],
+  "0.5 oz Fresh Lime Juice ",
+  "2 oz Champagne"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: None
-- Special Prep: Pour cocktail into glass and top it off with the champagne.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour cocktail into glass and top it off with the champagne.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

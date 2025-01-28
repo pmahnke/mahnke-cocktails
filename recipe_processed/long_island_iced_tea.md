@@ -42,23 +42,36 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  1 oz Vodka                                                   ",
-  "  1 oz Light Rum                                               ",
-  "  1 oz Gin                                                     ",
-  "  1 oz Blanco Tequila                                          ",
-  "  1 oz Triple Sec                                              ",
-  "  1 oz Fresh Lemon Juice                                       ",
+  "recipeIngredient": [  "1 oz Vodka ",
+  "1 oz Light Rum ",
+  "1 oz Gin ",
+  "1 oz Blanco Tequila",
+  "1 oz Triple Sec",
+  "1 oz Fresh Lemon Juice ",
   "0.5 oz Rich Demerara Syrup",
-  "0.5 oz Cola Coca-Cola                                          "],
+  "0.5 oz Cola Coca-Cola"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Open Pour
-- Glassware: Large Mug
-- Garnish: Lemon Wheel
-- Special Prep: Top with Coca-Cola
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Open Pour
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Large Mug
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon Wheel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Top with Coca-Cola
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

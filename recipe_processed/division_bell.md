@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   1 oz Mezcal            ",
-  "0.75 oz Aperol            ",
+  "recipeIngredient": [  " 1 oz Mezcal",
+  "0.75 oz Aperol",
   " 0.5 oz Maraschino Liqueur",
-  "0.75 oz Fresh Lime Juice  "],
+  "0.75 oz Fresh Lime Juice"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Nick & Nora
-- Garnish: Expressed grapefruit oil
-- Special Prep:
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Expressed grapefruit oil
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep:
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

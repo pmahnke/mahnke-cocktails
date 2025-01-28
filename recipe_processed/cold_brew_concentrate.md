@@ -32,9 +32,8 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 1 part Coarsely Ground Coffee",
-  "8 parts Water                 "],
+  "recipeIngredient": [  " 1 part Coarsely Ground Coffee",
+  "8 parts Water "],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
   "recipeYield": "1 cocktail"

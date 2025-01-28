@@ -94,83 +94,194 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 0.75 oz Rye           ",
+  "recipeIngredient": [  " 0.75 oz Rye ",
   " 0.75 oz Dubonnet Rouge",
   "2 dashes Orange Liqueur",
-  "2 dashes Bitters       ",
-  " 1 swath Lemon Skin    ",
-  "2 swaths Orange Skin   ",
-  "    2 oz Rye           ",
-  "    1 oz Dubonnet Rouge",
+  "2 dashes Bitters ",
+  " 1 swath Lemon Skin",
+  "2 swaths Orange Skin ",
+  "2 oz Rye ",
+  "1 oz Dubonnet Rouge",
   " 0.25 oz Orange Liqueur",
-  "2 dashes Bitters       ",
-  " 1 swath Lemon Skin    ",
-  " 1 swath Orange Skin   ",
-  "    2 oz Bourbon       ",
-  "    1 oz Lillet Rouge  ",
-  "  0.5 oz Orange Curaçao",
-  "2 dashes Bitters       ",
-  " 1 swath Lemon Skin    ",
-  " 1 swath Orange Skin   "],
+  "2 dashes Bitters ",
+  " 1 swath Lemon Skin",
+  " 1 swath Orange Skin ",
+  "2 oz Bourbon ",
+  "1 oz Lillet Rouge",
+  "0.5 oz Orange Curaçao",
+  "2 dashes Bitters ",
+  " 1 swath Lemon Skin",
+  " 1 swath Orange Skin "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Orange twist
-- Special Prep: Express the citrus oil into the mixing tin before dropping the swaths in the tin.
-
-
-
-
-## Modern Deshler
-
-### Ingredients
-
-|   Amount | Ingredient     | Brand           |
-| -------: | -------------- | --------------- |
-|     2 oz | Rye            | Wild Turkey 101 |
-|     1 oz | Dubonnet Rouge | Dubonnet Rouge  |
-|  0.25 oz | Orange Liqueur | Cointreau       |
-| 2 dashes | Bitters        | Peychaud's      |
-|  1 swath | Lemon Skin     |
-|  1 swath | Orange Skin    |
-
-### Notes
-
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: Orange twist
-- Special Prep: Express the citrus oil into the mixing glass before dropping the swaths in the glass.
-
-
-
-
-## Anders' Deshler
-
-### Ingredients
-
-|   Amount | Ingredient     | Brand                |
-| -------: | -------------- | -------------------- |
-|     2 oz | Bourbon        | Old Grand-Dad Bonded |
-|     1 oz | Lillet Rouge   | Lillet Rouge         |
-|   0.5 oz | Orange Curaçao | Pierre Ferrand       |
-| 2 dashes | Bitters        | Peychaud's           |
-|  1 swath | Lemon Skin     |
-|  1 swath | Orange Skin    |
-
-### Notes
-
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: Orange twist
-- Special Prep: Express the citrus oil into the mixing glass before dropping the swaths in the glass.
-
-
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange twist
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Express the citrus oil into the mixing tin before dropping the swaths in the tin.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## Modern Deshler
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   Amount | Ingredient     | Brand           |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| -------: | -------------- | --------------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|     2 oz | Rye            | Wild Turkey 101 |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|     1 oz | Dubonnet Rouge | Dubonnet Rouge  |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  0.25 oz | Orange Liqueur | Cointreau       |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 2 dashes | Bitters        | Peychaud's      |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  1 swath | Lemon Skin     |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  1 swath | Orange Skin    |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange twist
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Express the citrus oil into the mixing glass before dropping the swaths in the glass.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  },  {
+    '': 'HowToStep',
+    'text': '## Anders' Deshler
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Ingredients
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   Amount | Ingredient     | Brand                |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| -------: | -------------- | -------------------- |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|     2 oz | Bourbon        | Old Grand-Dad Bonded |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|     1 oz | Lillet Rouge   | Lillet Rouge         |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|   0.5 oz | Orange Curaçao | Pierre Ferrand       |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '| 2 dashes | Bitters        | Peychaud's           |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  1 swath | Lemon Skin     |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '|  1 swath | Orange Skin    |
+'
+  },  {
+    '': 'HowToStep',
+    'text': '### Notes
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Coupe
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Orange twist
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Express the citrus oil into the mixing glass before dropping the swaths in the glass.
+'
+  },  {
+    '': 'HowToStep',
+    'text': '
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

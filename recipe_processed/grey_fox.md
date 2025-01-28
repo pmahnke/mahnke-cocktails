@@ -38,19 +38,32 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "     1 oz Fresh Lemon Juice                                         ",
-  "     1 oz Rich Earl Grey Syrup",
-  "  0.75 oz Aquafaba                                                  ",
-  "2 to 3 oz Tonic Water                                               "],
+  "recipeIngredient": [  " 1 oz Fresh Lemon Juice ",
+  " 1 oz Rich Earl Grey Syrup",
+  "0.75 oz Aquafaba",
+  "2 to 3 oz Tonic Water "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: High Ball, On the Rocks
-- Garnish: Lemon Zest, Sprig of Thyme or Lavender
-- Special Prep: Pour in one ounce of tonic water, then pour in the cocktail. Top off with tonic water.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: High Ball, On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Lemon Zest, Sprig of Thyme or Lavender
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Pour in one ounce of tonic water, then pour in the cocktail. Top off with tonic water.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

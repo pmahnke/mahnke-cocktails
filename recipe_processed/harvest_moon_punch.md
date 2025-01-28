@@ -41,22 +41,35 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    " 12 oz Jamacian Rum                                            ",
-  "  9 oz Apple Brandy                                            ",
-  "  6 oz Orchard Pear Liqueur                                    ",
-  "  3 oz Allspice Dram                                           ",
-  "  6 oz Rich Demerara Syrup",
-  "  9 oz Fresh Lemon Juice                                       ",
-  "24 oz. Black Tea (chilled)                                     "],
+  "recipeIngredient": [  " 12 oz Jamacian Rum",
+  "9 oz Apple Brandy",
+  "6 oz Orchard Pear Liqueur",
+  "3 oz Allspice Dram ",
+  "6 oz Rich Demerara Syrup",
+  "9 oz Fresh Lemon Juice ",
+  "24 oz. Black Tea (chilled) "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: ShakenBuild in the serving vessel
-- Pour: Add all ingredients directly to the glaserving vesselss
-- Glassware: Punch Glass
-- Garnish: Grated nutmeg
-- Special Prep: Add large ice cubes of black tea and apple slices
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: ShakenBuild in the serving vessel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Add all ingredients directly to the glaserving vesselss
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Punch Glass
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Grated nutmeg
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add large ice cubes of black tea and apple slices
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

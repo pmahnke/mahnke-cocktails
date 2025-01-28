@@ -40,21 +40,34 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "   2 oz Pisco                                                    ",
-  " 0.5 oz Fresh Lemon Juice                                        ",
-  " 0.5 oz Fresh Lime Juice                                         ",
+  "recipeIngredient": [  " 2 oz Pisco",
+  " 0.5 oz Fresh Lemon Juice",
+  " 0.5 oz Fresh Lime Juice ",
   "0.75 oz Semi-Rich Simple Syrup",
-  "0.75 oz Raw Egg White / Aquafaba (chickpea water)                ",
-  " 1 drop Bitters                                                  "],
+  "0.75 oz Raw Egg White / Aquafaba (chickpea water)",
+  " 1 drop Bitters"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware: Wine
-- Garnish: None
-- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Wine
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

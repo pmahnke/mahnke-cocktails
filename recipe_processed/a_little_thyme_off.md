@@ -39,20 +39,39 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "     1 oz Fresh Lemon Juice                                           ",
-  "     1 oz Thyme-Infused Simple Syrup",
-  "4 to 5 oz Ginger Beer                                                 "],
+  "recipeIngredient": [  " 1 oz Fresh Lemon Juice ",
+  " 1 oz Thyme-Infused Simple Syrup",
+  "4 to 5 oz Ginger Beer "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - High Ball
-  - On the Rocks
-- Garnish: Thyme sprigs & lemon wheel
-- Special Prep: Add the lemon juice and thyme-infused simple syrup to the shaker tin with ice. Give it a quick shake and double strain into the glass. Add ice. Fill remainder of the glass with ginger beer.
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Shaken
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Double Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware:
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - High Ball
+'
+  },  {
+    '': 'HowToStep',
+    'text': '  - On the Rocks
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: Thyme sprigs & lemon wheel
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Add the lemon juice and thyme-infused simple syrup to the shaker tin with ice. Give it a quick shake and double strain into the glass. Add ice. Fill remainder of the glass with ginger beer.
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>

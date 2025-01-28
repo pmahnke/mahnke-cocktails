@@ -36,17 +36,30 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [
-    "  2 oz Scotch, Blended",
-  "  1 oz Drambuie       "],
+  "recipeIngredient": [  "2 oz Scotch, Blended",
+  "1 oz Drambuie "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "
-- Method: Stirred
-- Pour: Julep Strain
-- Glassware: Low BallLarge Ice cube
-- Garnish: None
-- Special Prep: Express lemon oil into cocktail
-",
+  "recipeInstructions": "  {
+    '': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Glassware: Low BallLarge Ice cube
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '': 'HowToStep',
+    'text': '- Special Prep: Express lemon oil into cocktail
+'
+  }",
   "recipeYield": "1 cocktail"
 }
 </script>
