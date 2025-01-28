@@ -74,11 +74,7 @@ excerpt: |
   "0.25 oz Maraschino Liqueur ",
   "0.75 oz Fresh lime juice ",
   " 0.5 oz Semi-Rich Simple Syrup",
-  "0.25 oz Absinthe ",
-  " 1 oz Gin",
-  " 0.5 oz Swedish Punsch ",
-  " 0.5 oz Fresh Lemon Juice",
-  "0.25 oz Semi-Rich Simple Syrup"],
+  "0.25 oz Absinthe "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '': 'HowToStep',
@@ -99,74 +95,6 @@ excerpt: |
   },  {
     '': 'HowToStep',
     'text': '- Special Prep: None
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '## Number 2
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Ingredients
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|  Amount | Ingredient                                                | Brand     |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| ------: | --------------------------------------------------------- | --------- |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|    1 oz | Gin                                                       | Beefeater |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|  0.5 oz | Swedish Punsch                                            | Kronan    |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|  0.5 oz | Fresh Lemon Juice                                         |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Notes
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Glassware: Coupe
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Garnish: Expressed lemon oil
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Special Prep: None
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
 '
   }",
   "recipeYield": "1 cocktail"

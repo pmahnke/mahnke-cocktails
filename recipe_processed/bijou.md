@@ -66,11 +66,7 @@ excerpt: |
   "recipeIngredient": [  "0.75 oz Gin",
   "0.75 oz Sweet Vermouth ",
   "0.75 oz Green Chartreuse Green Chartreuse",
-  " 1 dash Orange Bitters ",
-  "1.25 oz Gin ",
-  "0.75 oz Sweet Vermouth",
-  "0.25 oz Green Chartreuse",
-  " 1 dash Orange Bitters"],
+  " 1 dash Orange Bitters "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '': 'HowToStep',

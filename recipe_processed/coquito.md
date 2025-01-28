@@ -61,11 +61,7 @@ excerpt: |
   "0.25 oz (7.5 ml) Vanilla Extract",
   "2 oz Chilled Spice Tea",
   "1 pinch Salt",
-  "4 oz Gold Rum",
-  "4 sticks Cinnamon",
-  "25 whole Cloves",
-  " 1 whole Star Anise",
-  " 1 cup Water "],
+  "4 oz Gold Rum"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '': 'HowToStep',

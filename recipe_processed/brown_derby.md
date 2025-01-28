@@ -67,11 +67,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  "1.5 oz Bourbon",
   "1 oz Pink Grapefruit Juice",
-  "0.5 oz Honey Syrup",
-  " 1.5 oz Bourbon",
-  " 1 oz White Grapefruit Juice ",
-  " 0.5 oz Honey Syrup",
-  "0.25 oz Fresh Lemon Juice"],
+  "0.5 oz Honey Syrup"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '': 'HowToStep',
@@ -92,74 +88,6 @@ excerpt: |
   },  {
     '': 'HowToStep',
     'text': '- Special Prep: Expressed grapefruit oil
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '## Improved
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Ingredients
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|  Amount | Ingredient                                    | Brand                                  |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| ------: | --------------------------------------------- | -------------------------------------- |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|  1.5 oz | Bourbon                                       | Still Austin 'The Musician' Straight |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|    1 oz | White Grapefruit Juice                        |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|  0.5 oz | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| 0.25 oz | Fresh Lemon Juice                             |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Notes
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Glassware: Coupe
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Garnish: Grapefruit peel
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Special Prep: Expressed grapefruit oil
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
 '
   }",
   "recipeYield": "1 cocktail"

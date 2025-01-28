@@ -71,12 +71,6 @@ excerpt: |
   "recipeIngredient": [  "1.5 oz Light Rum",
   "1.5 oz Fresh Pineapple Juice",
   " 0.25 oz Grenadine",
-  "1 barspoon Maraschino Liqueur ",
-  "1.5 oz Light Rum",
-  "1.5 oz Fresh Pineapple Juice",
-  " 0.25 oz Grenadine",
-  " 0.25 oz Fresh Lime Juice ",
-  " 0.25 oz Allspice Dram",
   "1 barspoon Maraschino Liqueur "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
@@ -98,82 +92,6 @@ excerpt: |
   },  {
     '': 'HowToStep',
     'text': '- Special Prep: None
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '## Updated
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Ingredients
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|     Amount | Ingredient                                      | Brand         |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| ---------: | ----------------------------------------------- | ------------- |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|     1.5 oz | Light Rum                                       | Probitas      |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|     1.5 oz | Fresh Pineapple Juice                           |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|    0.25 oz | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|    0.25 oz | Fresh Lime Juice                                |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|    0.25 oz | Allspice Dram                                   | St. Elizabeth |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| 1 barspoon | Maraschino Liqueur                              | Luxardo       |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Notes
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Glassware: Coupe
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Garnish: Pineapple fronds and cocktail cherry
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Special Prep: None
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
 '
   }",
   "recipeYield": "1 cocktail"

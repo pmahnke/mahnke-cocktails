@@ -72,16 +72,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  "1/3 cup Tom & Jerry Batter",
   "1/6 cup Demerara Rum",
-  "1/6 cup Cognac",
-  " 2 whole eggs",
-  "0.5 barspoon Vanilla Extract ",
-  "0.125 barspoon Ground Clove",
-  "0.125 barspoon Ground Allspice ",
-  "0.125 barspoon Ground Cinnamon ",
-  "0.5 oz Jamaican Rum",
-  "0.5 cups Granulated Sugar",
-  " 1 pinch Salt",
-  "1 dash Bitters "],
+  "1/6 cup Cognac"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '': 'HowToStep',
@@ -98,94 +89,6 @@ excerpt: |
   },  {
     '': 'HowToStep',
     'text': '- Garnish: Grated nutmeg
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '## Tom & Jerry Batter
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Ingredients
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|         Amount | Ingredient       | Brand                      |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| -------------: | ---------------- | -------------------------- |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|        2 whole | eggs             |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|   0.5 barspoon | Vanilla Extract  |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| 0.125 barspoon | Ground Clove     |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| 0.125 barspoon | Ground Allspice  |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| 0.125 barspoon | Ground Cinnamon  |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|         0.5 oz | Jamaican Rum     | Appleton Estate V/X        |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|       0.5 cups | Granulated Sugar |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|        1 pinch | Salt             |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|         1 dash | Bitters          | Angostura Aromatic Bitters |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Method
-'
-  },  {
-    '': 'HowToStep',
-    'text': '1. In a small bowl, combine spices and rum. Stir and set aside.
-'
-  },  {
-    '': 'HowToStep',
-    'text': '2. Separate eggs into two bowls.
-'
-  },  {
-    '': 'HowToStep',
-    'text': '3. Add sugar, vanilla extract, bitters, and spice mixture to the yolks. Stir to combine.
-'
-  },  {
-    '': 'HowToStep',
-    'text': '4. Add salt to egg whites and whip to stiff peaks.
-'
-  },  {
-    '': 'HowToStep',
-    'text': '5. Gently fold together egg whites with yolk mixture.
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
 '
   }",
   "recipeYield": "1 cocktail"

@@ -29,7 +29,7 @@ while (my $file = readdir DIR) {
 	    s/link recipe\//link recipe_processed\//;
 
         # schema.org recipe
-        if (/^\| (.[^\|]*) \| (.[^\|]*) \|/) {
+        if (/^\| (.[^\|]*) \| (.[^\|]*) \|/ && !$s_instructions) {
             if ($1 !~ /(---|Amount)/) {
                 #print "schema ingredient: $1 $2\n";
                 my $s_raw_ingredient = "$1 $2";
@@ -39,10 +39,11 @@ while (my $file = readdir DIR) {
                 $s_ingredient .= qq |  "$s_raw_ingredient",\n|;
             }
         }
- 
 
+        $FLAGnotes = 0 if (/<\/div>/ && $FLAGnotes); # deal with multirecipe, only render the first
         $s_instructions .= qq |  {\n    "@type": "HowToStep",\n    "text": "$_"\n  },| if ($FLAGnotes && length($_) > 1);
-        $FLAGnotes = 1 if (/\#\#\# Notes/);  
+        $FLAGnotes = 1 if (/\#\#\# Notes/ && !$s_instructions); 
+
 
         # scaling
         if (/\|\s+([0-9]+) to (\d+) (\D[^\|]*)/) {
@@ -135,6 +136,7 @@ while (my $file = readdir DIR) {
     close (NEWFILE);
 
     print "Saved: $outfile\n";
+    ($s_ingredient, $s_instructions, $FLAGnotes) = "";
 
 }
 

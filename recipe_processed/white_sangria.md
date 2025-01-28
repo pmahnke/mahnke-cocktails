@@ -77,15 +77,7 @@ excerpt: |
   "4 oz Fresh Lemon Juice ",
   "4 oz Apricot Liqueur ",
   "6 oz Fino Sherry ",
-  "750 ml Dry White Wine",
-  "2 slices Peach, sliced ",
-  "2 slices Lemon, sliced ",
-  "1 to 2 whole Strawberries, sliced",
-  " 0.75 oz Semi-RichSimple Syrup",
-  "1 oz Fresh Lemon Juice ",
-  "1 oz Apricot Liqueur ",
-  "1.5 oz Fino Sherry ",
-  "6 oz Dry White Wine"],
+  "750 ml Dry White Wine"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '': 'HowToStep',
@@ -106,86 +98,6 @@ excerpt: |
   },  {
     '': 'HowToStep',
     'text': '- Special Prep: Optionally, top each glass with a splash of soda water
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Scaled Version (serves 1 to 2)
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|       Amount | Ingredient                                               | Brand                 |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| -----------: | -------------------------------------------------------- | --------------------- |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|     2 slices | Peach, sliced                                            |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|     2 slices | Lemon, sliced                                            |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| 1 to 2 whole | Strawberries, sliced                                     |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|      0.75 oz | [Semi-RichSimple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|         1 oz | Fresh Lemon Juice                                        |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|         1 oz | Apricot Liqueur                                          | Giffard Orchard       |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|       1.5 oz | Fino Sherry                                              | Valdespino 'Ynocente' |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|         6 oz | Dry White Wine                                           | Abellio Albariño      |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Notes
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Method: Build in mason jar
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Pour: Add all ingredients to the jar
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Glassware: Punch Cups
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Garnish: A strawberry and a peach slice
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Special Prep: Optionally, top each glass with a splash of soda water
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
 '
   }",
   "recipeYield": "1 cocktail"

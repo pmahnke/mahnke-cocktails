@@ -71,13 +71,7 @@ excerpt: |
   "0.5 oz Sweet Vermouth ",
   "0.5 oz Bénédictine",
   "4 dashes Herbsaint (or absinthe)",
-  "4 dashes Bitters",
-  "1.5 oz Rye ",
-  " 0.75 oz Sweet Vermouth",
-  " 0.75 oz Bénédictine ",
-  "4 dashes Bitters ",
-  "4 dashes Bitters ",
-  " 1 rinse Absinthe"],
+  "4 dashes Bitters"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '': 'HowToStep',
@@ -94,78 +88,6 @@ excerpt: |
   },  {
     '': 'HowToStep',
     'text': '- Garnish: Cocktail cherry
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '## Updated
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Ingredients
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|   Amount | Ingredient     | Brand                      |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| -------: | -------------- | -------------------------- |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|   1.5 oz | Rye            | Rittenhouse 100 Proof      |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|  0.75 oz | Sweet Vermouth | Cocchi Vermouth di Torino  |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|  0.75 oz | Bénédictine    | Bénédictine DOM            |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| 4 dashes | Bitters        | Peychaud's                 |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| 4 dashes | Bitters        | Angostura Aromatic Bitters |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|  1 rinse | Absinthe       |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Notes
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Method: Stirred
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Pour: Julep Strain
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Glassware: Nick & Nora
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Garnish: Expressed lemon oil
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
 '
   }",
   "recipeYield": "1 cocktail"

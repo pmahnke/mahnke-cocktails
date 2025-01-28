@@ -69,11 +69,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  "2 oz Cognac ",
   "0.5 oz Orgeat Syrup",
-  "2 dashes Boker's Style (Cardamom) Bitters ",
-  "1.5 oz Cognac ",
-  " 0.75 oz Orgeat Syrup",
-  " 0.75 oz Fresh Lemon Juice",
-  "2 dashes Peychaud's bitters "],
+  "2 dashes Boker's Style (Cardamom) Bitters "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '': 'HowToStep',
@@ -94,74 +90,6 @@ excerpt: |
   },  {
     '': 'HowToStep',
     'text': '- Special Prep: None
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
-'
-  },  {
-    '': 'HowToStep',
-    'text': '## The Improved Japanese Cocktail (Toby Cecchini)
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Ingredients
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|   Amount | Ingredient                                      | Brand               |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| -------: | ----------------------------------------------- | ------------------- |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|   1.5 oz | Cognac                                          | Pierre Ferrand 1840 |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|  0.75 oz | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '|  0.75 oz | Fresh Lemon Juice                               |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '| 2 dashes | Peychaud's bitters                              | Peychaud's bitters  |
-'
-  },  {
-    '': 'HowToStep',
-    'text': '### Notes
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Glassware: Nick & Nora
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Garnish: None
-'
-  },  {
-    '': 'HowToStep',
-    'text': '- Special Prep:
-'
-  },  {
-    '': 'HowToStep',
-    'text': '
 '
   }",
   "recipeYield": "1 cocktail"
