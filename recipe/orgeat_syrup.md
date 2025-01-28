@@ -13,13 +13,13 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient              |
-| ------: | ----------------------- |
-|  3 cups | White Sugar             |
-|  2 cups | Unsweetened Almond Milk |
-|   1 barsoppn | Orange Blossom Water    |
-| 0.5 tsp | Rose Water              |
-| 0.5 tsp | Almond Extract          |
+|       Amount | Ingredient              |
+| -----------: | ----------------------- |
+|       3 cups | White Sugar             |
+|       2 cups | Unsweetened Almond Milk |
+|   1 barspoon | Orange Blossom Water    |
+| 0.5 barspoon | Rose Water              |
+| 0.5 barspoon | Almond Extract          |
 
 ### Method
 

@@ -15,12 +15,12 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient       | Brand                      |
-| -------: | ---------------- | -------------------------- |
-|   1.5 oz | Reposado Tequila | Siete Leguas               |
-|   0.5 oz | Mezcal           | Del Maguey Vida            |
-| 2 dashes | Bitters          | Angostura Aromatic Bitters |
-|    1 barsoppn | Agave Nectar     |
+|     Amount | Ingredient       | Brand                      |
+| ---------: | ---------------- | -------------------------- |
+|     1.5 oz | Reposado Tequila | Siete Leguas               |
+|     0.5 oz | Mezcal           | Del Maguey Vida            |
+|   2 dashes | Bitters          | Angostura Aromatic Bitters |
+| 1 barspoon | Agave Nectar     |
 
 ### Notes
 

@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson
 title: "Cherry Zip"
-categories: [ mocktail ]
-eras: [ anders ]
+categories: [mocktail]
+eras: [anders]
 permalink: "/recipe/cherry_zip.html"
 iconfile: cherry_zip
 stars: 0
@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                                      | Brand |
-| -------: | ----------------------------------------------- | ----- |
-|     1 oz | Tart Cherry Juice (no sugar added)              |
-|     1 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
-|     1 oz | Black Tea (cooled)                              |
-|   0.5 oz | Fresh Lemon Juice                               |
-| 0.25 tsp | Red Chili Flakes                                |
+|        Amount | Ingredient                                      | Brand |
+| ------------: | ----------------------------------------------- | ----- |
+|          1 oz | Tart Cherry Juice (no sugar added)              |
+|          1 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
+|          1 oz | Black Tea (cooled)                              |
+|        0.5 oz | Fresh Lemon Juice                               |
+| 0.25 barspoon | Red Chili Flakes                                |
 
 ### Notes
 

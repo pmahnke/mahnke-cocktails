@@ -1,8 +1,8 @@
 ---
 layout: recipe
 title: "Airmail"
-categories: [champagne]
-eras: [classic]
+categories: [ champagne, cocktail]
+eras: [ classic ]
 permalink: "/recipe/airmail.html"
 iconfile: airmail
 stars: 0

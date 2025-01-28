@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient         | Brand                      |
-| -----: | ------------------ | -------------------------- |
-|   1 oz | Cognac             | Maison Rouge VSOP          |
-|   1 oz | Rum                | Flor de Caña 7 Year        |
-|   1 oz | Tawny Port         | Graham’s 20 Year           |
-| 1 dash | Bitters            | Angostura Aromatic Bitters |
-|  1 barsoppn | Maraschino Liqueur | Luxardo                    |
+|     Amount | Ingredient         | Brand                      |
+| ---------: | ------------------ | -------------------------- |
+|       1 oz | Cognac             | Maison Rouge VSOP          |
+|       1 oz | Rum                | Flor de Caña 7 Year        |
+|       1 oz | Tawny Port         | Graham’s 20 Year           |
+|     1 dash | Bitters            | Angostura Aromatic Bitters |
+| 1 barspoon | Maraschino Liqueur | Luxardo                    |
 
 ### Notes
 

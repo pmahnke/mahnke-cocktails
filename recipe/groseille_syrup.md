@@ -13,12 +13,12 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient             |
-| -------: | ---------------------- |
-| 1.5 cups | White Sugar            |
-|    1 cup | 100% Red Currant Juice |
-|    1 barsoppn | Pomegranate Molasses   |
-| 0.25 tsp | Rose Water             |
+|        Amount | Ingredient             |
+| ------------: | ---------------------- |
+|      1.5 cups | White Sugar            |
+|         1 cup | 100% Red Currant Juice |
+|    1 barspoon | Pomegranate Molasses   |
+| 0.25 barspoon | Rose Water             |
 
 ### Method
 

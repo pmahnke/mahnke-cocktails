@@ -13,12 +13,12 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient             |
-| ------: | ---------------------- |
-|  3 cups | White Sugar            |
-|  2 cups | 100% Pomegranate Juice |
-|   1 barsoppn | Pomegranate Molasses   |
-| 0.5 tsp | Rose Water             |
+|       Amount | Ingredient             |
+| -----------: | ---------------------- |
+|       3 cups | White Sugar            |
+|       2 cups | 100% Pomegranate Juice |
+|   1 barspoon | Pomegranate Molasses   |
+| 0.5 barspoon | Rose Water             |
 
 ### Method
 

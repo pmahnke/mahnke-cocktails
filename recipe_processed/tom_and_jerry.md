@@ -40,17 +40,17 @@ excerpt: |
 
 ### Ingredients
 
-|    Amount | Ingredient       | Brand                      |
-| --------: | ---------------- | -------------------------- |
-|   2 whole | eggs             |
-|   0.5 tsp | Vanilla Extract  |
-| 0.125 tsp | Ground Clove     |
-| 0.125 tsp | Ground Allspice  |
-| 0.125 tsp | Ground Cinnamon  |
-|    <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Jamaican Rum     | Appleton Estate V/X        |
-|  0.5 cups | Granulated Sugar |
-|   1 pinch | Salt             |
-|    <span class="onex active">1 dash</span> <span class="onehalfx">2 dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>  | Bitters          | Angostura Aromatic Bitters |
+|         Amount | Ingredient       | Brand                      |
+| -------------: | ---------------- | -------------------------- |
+|        2 whole | eggs             |
+|   0.<span class="onex active">5 barspoon</span> <span class="onehalfx">10 barspoons</span> <span class="twox">10 barspoons</span> <span class="threex">15 barspoons</span>  | Vanilla Extract  |
+| 0.<span class="onex active">125 barspoon</span> <span class="onehalfx">250 barspoons</span> <span class="twox">250 barspoons</span> <span class="threex">375 barspoons</span>  | Ground Clove     |
+| 0.<span class="onex active">125 barspoon</span> <span class="onehalfx">250 barspoons</span> <span class="twox">250 barspoons</span> <span class="threex">375 barspoons</span>  | Ground Allspice  |
+| 0.<span class="onex active">125 barspoon</span> <span class="onehalfx">250 barspoons</span> <span class="twox">250 barspoons</span> <span class="threex">375 barspoons</span>  | Ground Cinnamon  |
+|         <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Jamaican Rum     | Appleton Estate V/X        |
+|       0.5 cups | Granulated Sugar |
+|        1 pinch | Salt             |
+|         <span class="onex active">1 dash</span> <span class="onehalfx">2 dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>  | Bitters          | Angostura Aromatic Bitters |
 
 ### Method
 

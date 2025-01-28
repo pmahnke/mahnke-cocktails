@@ -14,16 +14,16 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                                                |
-| -------: | --------------------------------------------------------- |
-|     <span class="onex active">4 oz / 100 ml</span> <span class="onehalfx">6 oz / 150 ml</span> <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | El Dorado 151 Overproof Rum                               |
-|  6 whole | Limes, zested                                             |
-| 50 grams | Toasted Almonds, chopped                                  |
-| 12 whole | Cloves                                                    |
-| 15 grams | Fresh Ginger, chopped                                     |
-|  0.5 tsp | Nutmeg, grated                                            |
-|  0.5 pod | Vanilla Bean                                              |
-|     <span class="onex active">8 oz / 200 ml</span> <span class="onehalfx">12 oz / 300 ml</span> <span class="twox">16 oz / 400 ml</span> <span class="threex">24 oz / 600 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|       Amount | Ingredient                                                |
+| -----------: | --------------------------------------------------------- |
+|         <span class="onex active">4 oz / 100 ml</span> <span class="onehalfx">6 oz / 150 ml</span> <span class="twox">8 oz / 200 ml</span> <span class="threex">12 oz / 300 ml</span> | El Dorado 151 Overproof Rum                               |
+|      6 whole | Limes, zested                                             |
+|     50 grams | Toasted Almonds, chopped                                  |
+|     12 whole | Cloves                                                    |
+|     15 grams | Fresh Ginger, chopped                                     |
+| 0.<span class="onex active">5 barspoon</span> <span class="onehalfx">10 barspoons</span> <span class="twox">10 barspoons</span> <span class="threex">15 barspoons</span>  | Nutmeg, grated                                            |
+|      0.5 pod | Vanilla Bean                                              |
+|         <span class="onex active">8 oz / 200 ml</span> <span class="onehalfx">12 oz / 300 ml</span> <span class="twox">16 oz / 400 ml</span> <span class="threex">24 oz / 600 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Method
 

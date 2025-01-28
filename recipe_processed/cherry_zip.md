@@ -2,8 +2,8 @@
 layout: recipe
 author: Anders Erickson
 title: "Cherry Zip"
-categories: [ mocktail ]
-eras: [ anders ]
+categories: [mocktail]
+eras: [anders]
 permalink: "/recipe/cherry_zip.html"
 iconfile: cherry_zip
 stars: 0
@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                                      | Brand |
-| -------: | ----------------------------------------------- | ----- |
-|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Tart Cherry Juice (no sugar added)              |
-|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-|     <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Black Tea (cooled)                              |
-|   <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Fresh Lemon Juice                               |
-| 0.25 tsp | Red Chili Flakes                                |
+|        Amount | Ingredient                                      | Brand |
+| ------------: | ----------------------------------------------- | ----- |
+|          <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Tart Cherry Juice (no sugar added)              |
+|          <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+|          <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1.5 oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Black Tea (cooled)                              |
+|        <span class="onex active">0.5 oz / 13 ml</span> <span class="onehalfx">0.75 oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1.5 oz / 38 ml</span> | Fresh Lemon Juice                               |
+| 0.<span class="onex active">25 barspoon</span> <span class="onehalfx">50 barspoons</span> <span class="twox">50 barspoons</span> <span class="threex">75 barspoons</span>  | Red Chili Flakes                                |
 
 ### Notes
 

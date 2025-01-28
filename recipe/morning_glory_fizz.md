@@ -15,15 +15,15 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient                                                | Brand                     |
-| ------: | --------------------------------------------------------- | ------------------------- |
-|    2 oz | Single Malt Scotch                                        | Aberfeldy 12 Year         |
-| 0.75 oz | Fresh Lemon Juice                                         |
-| 0.25 oz | Fresh Lime Juice                                          |
-| 0.75 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
-|   1 barsoppn | Absinthe                                                  | St. George Absinthe Verte |
-| 0.75 oz | Egg White                                                 |
-|    1 oz | Sparkling Water                                           | Topo Chico                |
+|     Amount | Ingredient                                                | Brand                     |
+| ---------: | --------------------------------------------------------- | ------------------------- |
+|       2 oz | Single Malt Scotch                                        | Aberfeldy 12 Year         |
+|    0.75 oz | Fresh Lemon Juice                                         |
+|    0.25 oz | Fresh Lime Juice                                          |
+|    0.75 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| 1 barspoon | Absinthe                                                  | St. George Absinthe Verte |
+|    0.75 oz | Egg White                                                 |
+|       1 oz | Sparkling Water                                           | Topo Chico                |
 
 ### Notes
 

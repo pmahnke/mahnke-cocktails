@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot liqueur
     - url: /cocktails/assets/images/ingredient-reposado-tequila.svg
       title: Reposado tequila
     - url: /cocktails/assets/images/ingredient-sherry.svg

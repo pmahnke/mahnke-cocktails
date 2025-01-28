@@ -40,17 +40,17 @@ excerpt: |
 
 ### Ingredients
 
-|    Amount | Ingredient       | Brand                      |
-| --------: | ---------------- | -------------------------- |
-|   2 whole | eggs             |
-|   0.5 tsp | Vanilla Extract  |
-| 0.125 tsp | Ground Clove     |
-| 0.125 tsp | Ground Allspice  |
-| 0.125 tsp | Ground Cinnamon  |
-|    0.5 oz | Jamaican Rum     | Appleton Estate V/X        |
-|  0.5 cups | Granulated Sugar |
-|   1 pinch | Salt             |
-|    1 dash | Bitters          | Angostura Aromatic Bitters |
+|         Amount | Ingredient       | Brand                      |
+| -------------: | ---------------- | -------------------------- |
+|        2 whole | eggs             |
+|   0.5 barspoon | Vanilla Extract  |
+| 0.125 barspoon | Ground Clove     |
+| 0.125 barspoon | Ground Allspice  |
+| 0.125 barspoon | Ground Cinnamon  |
+|         0.5 oz | Jamaican Rum     | Appleton Estate V/X        |
+|       0.5 cups | Granulated Sugar |
+|        1 pinch | Salt             |
+|         1 dash | Bitters          | Angostura Aromatic Bitters |
 
 ### Method
 
