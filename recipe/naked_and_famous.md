@@ -19,7 +19,7 @@ excerpt: |
 | ------: | ----------------- | ----------------- |
 | 0.75 oz | Mezcal            | Del Maguey Vida   |
 | 0.75 oz | Yellow Chartreuse | Yellow Chartreuse |
-| 0.75 oz | Apero             | Aperol            |
+| 0.75 oz | Aperol            | Aperol            |
 | 0.75 oz | Fresh Lime Juice  |
 
 ### Notes
