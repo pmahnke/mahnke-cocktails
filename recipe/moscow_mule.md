@@ -20,7 +20,7 @@ excerpt: |
 |          2 oz | Vodka            | Valentine                  |
 |       0.75 oz | Fresh Lime Juice |
 | 2 to 3 dashes | Bitters          | Angostura Aromatic Bitters |
-|      4 to5 oz | Ginger Beer      |
+|      4 to 5 oz | Ginger Beer      |
 
 ### Notes
 

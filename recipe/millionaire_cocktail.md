@@ -26,7 +26,7 @@ excerpt: |
 |  0.5 oz | Apricot Liqueur                                 | Giffard Abricot du Roussillon      |
 |  0.5 oz | Sloe Gin                                        | Plymouth                           |
 | 0.75 oz | Fresh Lime Juice                                |
-|  0.25oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
+| 0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 
 ### Notes
 
