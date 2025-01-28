@@ -58,7 +58,7 @@ excerpt: |
   - Add the bourbon, lemon juice, absinthe to the main tin. Then add ice.
   - Combine the two tins and shake.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

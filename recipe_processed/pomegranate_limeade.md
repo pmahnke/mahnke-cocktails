@@ -49,7 +49,7 @@ youtube: "YwHw259XAOU"
 - Garnish: Lime wheel and cocktail umbrella
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Lime twist
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba. Raw Egg WhiteAquafaba (chickpea water)
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -64,7 +64,7 @@ excerpt: |
   - Combine dairy, booze, and salt in separate vessel and slowly beat into egg mixture.
   - Move to glass jars and store sealed in the fridge.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

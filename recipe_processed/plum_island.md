@@ -56,7 +56,7 @@ excerpt: |
 - Garnish: Grated nutmeg, pineapple fronds, and cocktail umbrella
 - Special Prep: Top with crushed ice.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

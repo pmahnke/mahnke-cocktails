@@ -49,7 +49,7 @@ excerpt: |
 - Garnish: Lemon peel
 - Special Prep: Express lemon oil over the cocktail.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -55,7 +55,7 @@ excerpt: |
 - Garnish: Pineapple Fronds and Cocktail Umbrella
 - Special Prep: Top with additional crushed ice
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

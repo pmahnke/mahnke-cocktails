@@ -55,7 +55,7 @@ excerpt: |
 - Garnish: Grated nutmeg and mint sprig
 - Special Prep: Open pour the cocktail into the glass. Top with additional crushed ice. Dash bitters on top.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

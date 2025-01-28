@@ -50,7 +50,7 @@ excerpt: |
 - Garnish: Expressed grapefruit oil
 - Special Prep:
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

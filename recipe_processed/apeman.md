@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Expressed lemon oil & grated nutmeg
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

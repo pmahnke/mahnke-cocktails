@@ -85,7 +85,7 @@ excerpt: |
 - Garnish: None
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

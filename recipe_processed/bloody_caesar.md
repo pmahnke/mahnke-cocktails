@@ -56,7 +56,7 @@ excerpt: |
 - Garnish: Your Choice
 - Special Prep: Celery Salt the rim
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -54,7 +54,7 @@ excerpt: |
 - Garnish: Inverted lime rind filled with the Crème de cassis for an “interactive” garnish
 - Special Prep: Single strain into glass, top the drink with the ginger soda
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

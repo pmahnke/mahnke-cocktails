@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Cinnamon stick
 - Special Prep: Temper your mug with hot water.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

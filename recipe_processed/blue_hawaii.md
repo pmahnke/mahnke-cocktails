@@ -56,7 +56,7 @@ excerpt: |
 - Garnish: Pineapple slices, pineapple fronds, and cocktail umbrella
 - Special Prep: Pour cocktaill over crushed ice, and top with additional crushed ice.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

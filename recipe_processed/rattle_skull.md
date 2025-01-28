@@ -51,7 +51,7 @@ excerpt: |
 - Garnish: Grated Nutmeg
 - Special Prep: Pour the ale into the glass and top with the cocktail.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -48,7 +48,7 @@ excerpt: |
 - Garnish: Lemon Zest, Sprig of Thyme or Lavender
 - Special Prep: Pour in one ounce of tonic water, then pour in the cocktail. Top off with tonic water.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

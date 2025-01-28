@@ -94,7 +94,7 @@ excerpt: |
 - Garnish: Lemon oil and 3 coffee beans
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

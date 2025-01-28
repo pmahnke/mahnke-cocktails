@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Basil Leaf and Lemon Wheel
 - Special Prep: Shake cocktail and pour into the glass. Top with soda water.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

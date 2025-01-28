@@ -47,7 +47,7 @@ excerpt: |
 - Garnish: Lime wedge
 - Special Prep: Pour the ginger beer into the glass, then the rum.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

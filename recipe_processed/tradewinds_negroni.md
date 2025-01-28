@@ -53,7 +53,7 @@ excerpt: |
 - Garnish: Expressed orange oil and peel
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

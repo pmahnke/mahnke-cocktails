@@ -51,7 +51,7 @@ excerpt: |
   - Take a can of pears and their syrup and blend them into a prrée.
   - Expressed lemon oil.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

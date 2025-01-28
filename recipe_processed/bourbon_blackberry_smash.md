@@ -49,7 +49,7 @@ excerpt: |
 - Garnish: Blackberry & mint sprig
 - Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blackberries and maple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

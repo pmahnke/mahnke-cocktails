@@ -50,7 +50,7 @@ excerpt: |
 - Garnish: Lemon Twist
 - Special Prep: Expel lemon oil over the cocktail
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

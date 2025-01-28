@@ -53,7 +53,7 @@ excerpt: |
 - Garnish: Grapefruit zest
 - Special Prep: Express grapefruit oil on the drink.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

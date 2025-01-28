@@ -50,7 +50,7 @@ youtube: "xnXFbjQSu-k"
 - Garnish: 3 drops Angostura Bitters & pineapple fronds
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

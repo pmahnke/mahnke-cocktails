@@ -49,7 +49,7 @@ excerpt: |
 - Garnish: Pineapple pieces, pineapple fronds and cocktail cherries
 - Special Prep: Use an emersion blender directly in the shaker tin. Blend intill frothy.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

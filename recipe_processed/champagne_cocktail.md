@@ -51,7 +51,7 @@ excerpt: |
 - Garnish: Expressed oils of a lemon swath and an orange swath
 - Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

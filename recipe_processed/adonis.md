@@ -49,7 +49,7 @@ excerpt: |
 - Garnish: None
 - Special Prep: Expressed orange oil
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

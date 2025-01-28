@@ -49,7 +49,7 @@ excerpt: |
 - Garnish: Orange zest
 - Special Prep: Express orange oil over the cocktail.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -51,7 +51,7 @@ excerpt: |
 - Garnish: Expressed lemon oil and twist
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

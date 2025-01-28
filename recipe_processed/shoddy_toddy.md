@@ -50,7 +50,7 @@ excerpt: |
 - Garnish: Expressed lemon oil & clove-studded lemon peel
 - Special Prep: Temper the mug with hot water before building the toddy.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

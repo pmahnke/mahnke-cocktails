@@ -56,7 +56,7 @@ excerpt: |
 - Garnish: Pineapple wedges and fronds
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -46,7 +46,7 @@ excerpt: |
 - Garnish:
 - Special Prep: Pour in the Guinness then float in the champagne
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -53,7 +53,7 @@ excerpt: |
 - Garnish: None
 - Special Prep: Flamed Orange Rind
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

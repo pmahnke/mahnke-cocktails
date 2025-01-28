@@ -50,7 +50,7 @@ excerpt: |
 - Garnish: Clove-studded lemon peel
 - Special Prep: Express the lemon oil over the drink, then stud the peel with the cloves
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -60,7 +60,7 @@ excerpt: |
 - Garnish: Mint sprig and orange slice
 - Special Prep: Pour the ginger beer into the glass while pouring the cocktail.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

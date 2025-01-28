@@ -51,7 +51,7 @@ ercerpt: |
 - Garnish: Expressed orange oil and cocktail cherry
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

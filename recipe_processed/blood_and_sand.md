@@ -50,7 +50,7 @@ excerpt: |
 - Garnish: Orange slice and cocktail cherry
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

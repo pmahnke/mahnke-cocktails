@@ -50,7 +50,7 @@ excerpt: |
 - Garnish: Grated nutmeg and mint sprig
 - Special Prep: Top glass with additional crushed ice
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

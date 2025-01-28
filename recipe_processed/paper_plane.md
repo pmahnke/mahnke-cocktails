@@ -50,7 +50,7 @@ excerpt: |
 - Garnish: Small paper plane
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

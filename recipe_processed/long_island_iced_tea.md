@@ -56,7 +56,7 @@ excerpt: |
 - Garnish: Lemon Wheel
 - Special Prep: Top with Coca-Cola
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

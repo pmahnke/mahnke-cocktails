@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Orange Zest and Cocktail Cherry
 - Special Prep: Smoke the low ball glass with wood smoke. Express the orange zest over the cocktail.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

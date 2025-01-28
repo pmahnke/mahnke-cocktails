@@ -54,7 +54,7 @@ excerpt: |
 - Garnish: Lime wheel
 - Special Prep: Pour the ginger beer into the glass while pouring the cocktail. Add the allspice dram as a float
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

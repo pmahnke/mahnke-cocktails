@@ -56,7 +56,7 @@ excerpt: |
 - Garnish: Grated Nutmeg and a Mint Sprig
 - Special Prep: Swizzle in the glass, and top with additional crushed ice.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -55,7 +55,7 @@ excerpt: |
 - Garnish: Mint Sprig, Inverted Lime Husk, Cocktail Cherry
 - Special Prep: Add the mint sprig to the glass. Float the dark rum on the drink. Add the inverted lime shell and place the cocktail cherry inside. fill the lime shell with 151 rum and light.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

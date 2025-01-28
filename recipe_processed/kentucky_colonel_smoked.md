@@ -53,7 +53,7 @@ excerpt: |
 - Garnish: Flamed lemon oil
 - Special Prep: Serve in a smoke-rinsed lowball glass
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

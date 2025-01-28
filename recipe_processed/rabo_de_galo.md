@@ -53,7 +53,7 @@ excerpt: |
 - Garnish: Expressed Lime Oil And Lime Peel
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -54,7 +54,7 @@ excerpt: |
 - Garnish: Cucumber ribbon
 - Special Prep: Muddle the cucumber in the cheater tin.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -49,7 +49,7 @@ excerpt: |
 - Garnish: Flamed orange oil
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

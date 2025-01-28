@@ -92,7 +92,7 @@ excerpt: |
 - Garnish: Grated nutmeg
 - Special Prep: Top with [crème de cacao whipped cream]({%link recipe_processed/creme_de_cacao_whipped_cream.md%}).
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

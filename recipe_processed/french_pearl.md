@@ -49,7 +49,7 @@ excerpt: |
 - Garnish: Mint Leaf
 - Special Prep: Lightly muddle the mint leaves in the shaker tin
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

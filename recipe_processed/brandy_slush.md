@@ -62,7 +62,7 @@ Orange slice for individual garnish
   - Once frozen, scoop desired amount into a glass and top with soda.
   - Garnish with a slice of orange.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

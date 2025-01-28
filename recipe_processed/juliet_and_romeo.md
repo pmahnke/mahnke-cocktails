@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Mint leaf with a drop of rose water on it and 3 drops of Angostura Bitters
 - Special Prep: Drop the cucumber into the cheater tin, add a pinch of salt and muddle. Build the cocktail in the mixing tin. Add ice to the cheater tin. combine the two tins and shake.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

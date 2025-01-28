@@ -53,7 +53,7 @@ excerpt: |
 - Garnish: Sprig of Rosemary
 - Special Prep: Shake cocktail and pour into the glass. Top with red bitter soda.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

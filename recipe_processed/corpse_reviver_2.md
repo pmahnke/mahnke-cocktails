@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Cocktail Cherry optional
 - Special Prep: Add the cherry to the glass before straining the cocktail
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

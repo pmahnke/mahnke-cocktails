@@ -50,7 +50,7 @@ youtube: "v=hoJ1_OlfCA8"
   ],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

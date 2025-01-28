@@ -55,7 +55,7 @@ excerpt: |
 - Garnish: Mint sprig
 - Special Prep: Pour cocktail into glass and top it off with the sparkling water.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -53,7 +53,7 @@ excerpt: |
 - Garnish: Sugared rim & long lemon peel
 - Special Prep: Heavily coat the outside of the glass with sugar. Wind the lemon peel around the inside of the glass.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

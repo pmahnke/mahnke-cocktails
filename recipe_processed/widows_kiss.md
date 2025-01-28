@@ -155,7 +155,7 @@ excerpt: |
 
 </div>
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

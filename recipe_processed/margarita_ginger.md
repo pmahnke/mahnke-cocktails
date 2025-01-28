@@ -45,7 +45,7 @@ Glassware:
   "0.75 oz Orange Curaçao                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

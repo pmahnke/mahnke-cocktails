@@ -59,7 +59,7 @@ excerpt: |
   - Into a small snifter add the sambuca, and light it.
   - Pour the flaming sambuca on the cocktail and stir.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

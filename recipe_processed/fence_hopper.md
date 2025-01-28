@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Cinnamon stick
 - Special Prep: Pour the IPA into the glass and top with the cocktail.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

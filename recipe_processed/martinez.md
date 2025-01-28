@@ -51,7 +51,7 @@ excerpt: |
 - Garnish: Lemon zest
 - Special Prep:
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

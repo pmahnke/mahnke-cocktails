@@ -50,7 +50,7 @@ excerpt: |
 - Garnish: None
 - Special Prep: Pour the stout into the glass and top with the cocktail.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -51,7 +51,7 @@ excerpt: |
 - Garnish: Lime wheel
 - Special Prep: Regal shake with the grapefruit peel in the shaker.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

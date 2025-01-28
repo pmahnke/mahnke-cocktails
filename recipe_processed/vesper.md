@@ -49,7 +49,7 @@ excerpt: |
 - Garnish: Lemon Twist
 - Special Prep: Lillet Blanc may be substituted for Cocchi Americano.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

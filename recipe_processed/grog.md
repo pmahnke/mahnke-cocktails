@@ -57,7 +57,7 @@ excerpt: |
   - Add rum and 1 cube of ice to glass and stir until ice has diluted to more than half.
   - Strain into a glass or mug over ice and garnish with a lime wedge.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

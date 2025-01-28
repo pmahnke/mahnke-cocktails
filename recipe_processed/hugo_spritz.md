@@ -52,7 +52,7 @@ excerpt: |
 - Prep: Add the mint and elderflower liqueur to the glass and muddle. Allow to sit
   for a minute before adding the prosecco and soda water.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

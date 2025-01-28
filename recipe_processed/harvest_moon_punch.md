@@ -57,7 +57,7 @@ excerpt: |
 - Garnish: Grated nutmeg
 - Special Prep: Add large ice cubes of black tea and apple slices
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

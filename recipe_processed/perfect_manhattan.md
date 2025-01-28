@@ -51,7 +51,7 @@ excerpt: |
 - Garnish: Cocktail Cherry
 - Special Prep: Sugared Rim
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

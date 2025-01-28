@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Salted Rim, Lime Wheel
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

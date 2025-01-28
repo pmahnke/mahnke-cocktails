@@ -59,7 +59,7 @@ excerpt: |
 - Garnish: 2 cocktail cherries (eyes), orange wedge (beak), 2 pineapple fronds (flippers), & cocktail umbrella for garnish (arranged to look like a penguin)
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -58,7 +58,7 @@ excerpt: |
   - Blend cocktail with a stick blender in the shaking tin.
   - Pour cocktail into glass.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

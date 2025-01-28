@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Cucumber strip cut up, strawberries, and a sprig of mint
 - Special Prep: Pour ginger ale and shaken Pimm's and lemon mixture into glass together.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

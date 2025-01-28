@@ -50,7 +50,7 @@ excerpt: |
 - Garnish: Orange Zest and Cocktail Cherry
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

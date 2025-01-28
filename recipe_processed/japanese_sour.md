@@ -64,7 +64,7 @@ excerpt: |
 - Yuzu Lemon Sour: Add a splash of yuzu juice for a citrusy twist.
 - Salty Lemon Sour: Add a pinch of salt to the shaker for a savory kick.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

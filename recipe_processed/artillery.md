@@ -49,7 +49,7 @@ excerpt: |
 - Garnish: Cocktail cherry and or an orange twist
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

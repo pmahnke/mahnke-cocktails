@@ -89,7 +89,7 @@ excerpt: |
 - No Wash:
   - No Floater
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

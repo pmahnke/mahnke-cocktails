@@ -59,7 +59,7 @@ excerpt: |
 - Garnish: Orange wheel, grated cinnamon, and a cocktail cherry
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

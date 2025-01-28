@@ -49,7 +49,7 @@ excerpt: |
 - Garnish: Grapefruit oil
 - Special Prep: Scorched cinnamon stick for garnish
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

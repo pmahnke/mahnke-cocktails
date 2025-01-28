@@ -50,7 +50,7 @@ excerpt: |
 - Garnish: None
 - Special Prep: Express lemon oil over the cocktail, and wipe the rim with the peal.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

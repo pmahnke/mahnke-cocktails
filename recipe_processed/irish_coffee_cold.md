@@ -47,7 +47,7 @@ excerpt: |
 - Garnish: Heavy cream float
 - Special Prep: Shake the heavy cream in a mixing tin till thick.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

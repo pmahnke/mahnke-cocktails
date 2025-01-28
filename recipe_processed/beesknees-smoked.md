@@ -47,7 +47,7 @@ excerpt: |
 - Garnish: Lightly scorched rosemary sprig
 - Special Prep: Smoke this cocktail with your favorite cocktail-smoking contraption
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

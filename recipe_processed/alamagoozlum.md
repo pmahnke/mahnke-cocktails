@@ -82,7 +82,7 @@ excerpt: |
     - Remove ice
     - Dry shake cocktail
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

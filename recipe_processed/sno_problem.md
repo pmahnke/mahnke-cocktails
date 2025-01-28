@@ -53,7 +53,7 @@ excerpt: |
 - Garnish: Grated cinnamon and holiday cookies
 - Special Prep: Temper your mug with hot water.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

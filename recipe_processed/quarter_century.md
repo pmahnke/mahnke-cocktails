@@ -51,7 +51,7 @@ excerpt: |
 - Garnish: Expressed lemon oil
 - Special Prep: Pour cocktail into the coupe and top with champagne. Then express the lemon oil over the top of the cocktail.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

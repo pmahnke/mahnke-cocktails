@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Fresh raspberries & mint
 - Special Prep: Serve with a straw.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

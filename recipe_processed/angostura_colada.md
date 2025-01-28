@@ -57,7 +57,7 @@ excerpt: |
 - Garnish: Grated Nutmeg, Pineapple Fronds, and Pineapple Slices
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

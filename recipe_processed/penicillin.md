@@ -54,7 +54,7 @@ excerpt: |
 - Garnish: Candied Ginger
 - Special Prep: Muddle the ginger slices in the shaker tin until mushy. Then add the other ingredients, ice and shake.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

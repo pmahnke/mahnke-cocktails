@@ -55,7 +55,7 @@ ercerpt: |
 - Garnish: Orange Zest and a Cocktail Cherry
 - Special Prep: On the rocks
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

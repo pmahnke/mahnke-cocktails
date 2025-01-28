@@ -59,7 +59,7 @@ excerpt: |
 - Garnish: Lemon Swath
 - Special Prep: Express the lemon oil over the cocktail.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

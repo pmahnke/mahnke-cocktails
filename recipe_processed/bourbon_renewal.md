@@ -55,7 +55,7 @@ excerpt: |
 - Garnish: Lemon wheel for garnish
 - Special Prep: None
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

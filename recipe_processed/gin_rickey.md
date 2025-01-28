@@ -70,7 +70,7 @@ excerpt: |
   - Top with the sparkling water
   - Feel free to swap out the base spirit
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

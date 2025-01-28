@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Cocktail cherry
 - Special Prep: Pour the beer into the glass and top with the cocktail.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -67,7 +67,7 @@ excerpt: |
   - Hawthorn strain the cocktail into the cheater tin.
   - Then strain the cocktail into the glass filled with crushed ice
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

@@ -62,7 +62,7 @@ excerpt: |
   - Add ice
   - Top with the ginger beer.
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 

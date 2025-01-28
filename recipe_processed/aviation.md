@@ -52,7 +52,7 @@ excerpt: |
 - Garnish: Cocktail cherry and lemon zest for garnish
 - Special Prep: Stirring preserves the purple color
 ",
-  "recipeYield": "1 cocktail",
+  "recipeYield": "1 cocktail"
 }
 </script>
 
