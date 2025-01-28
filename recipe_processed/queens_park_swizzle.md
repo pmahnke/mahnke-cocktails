@@ -41,8 +41,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "          2 oz Demerara Rum                                            ",
-  " 4 to 6 dashes Bitters                                                 ",
-],
+  " 4 to 6 dashes Bitters                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

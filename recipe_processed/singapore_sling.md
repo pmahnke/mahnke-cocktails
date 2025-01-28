@@ -93,8 +93,7 @@ excerpt: |
   "0.25 oz Bénédictine      ",
   "   1 oz Fresh Lime Juice ",
   " 1 dash Bitters          ",
-  "   1 oz Soda Water       ",
-],
+  "   1 oz Soda Water       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

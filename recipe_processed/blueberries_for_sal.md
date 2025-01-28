@@ -46,8 +46,7 @@ excerpt: |
   "description": "{{ page.excerpt }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "     3 to 4 oz Ginger Beer                                              ",
-],
+    "     3 to 4 oz Ginger Beer                                              "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -44,8 +44,7 @@ excerpt: |
     "    2 oz Cognac                                                   ",
   " 0.25 oz Dry Curaçao                                              ",
   " 0.25 oz Maraschino Liqueur                                       ",
-  "2 dashes Bitters                                                  ",
-],
+  "2 dashes Bitters                                                  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -45,8 +45,7 @@ excerpt: |
   "recipeIngredient": [
     "   1 oz Light Rum                                                ",
   " 0.5 oz Rhum Agricole                                            ",
-  "0.75 oz Blue Curaçao                                             ",
-],
+  "0.75 oz Blue Curaçao                                             "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

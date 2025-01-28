@@ -44,8 +44,7 @@ excerpt: |
   "      0.25 oz [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})",
   "     3 dashes Cardamom Bitters                                         ",
   "   1 barspoon Maraschino Liqueur                                       ",
-  "1 to 2 dashes Absinthe                                                 ",
-],
+  "1 to 2 dashes Absinthe                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "0.75 oz Rye              ",
   "0.75 oz Yellow Chartreuse",
-  "0.75 oz Bénédictine      ",
-],
+  "0.75 oz Bénédictine      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

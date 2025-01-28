@@ -72,8 +72,7 @@ excerpt: |
     "  1 oz Jamaican Rum                                                 ",
   "  1 oz Dark Rum                                                     ",
   "   1 oz Rum                                            ",
-  "   1 oz Demerara Rum                                   ",
-],
+  "   1 oz Demerara Rum                                   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

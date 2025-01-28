@@ -47,8 +47,7 @@ excerpt: |
   " 0.5 oz Dry Curaçao    ",
   " 0.5 oz Sweet Vermouth ",
   " 1 dash Bitters        ",
-  " 1 dash Bitters        ",
-],
+  " 1 dash Bitters        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

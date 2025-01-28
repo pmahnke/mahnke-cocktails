@@ -51,8 +51,7 @@ excerpt: |
   "0.75 oz Light Rum                                                ",
   "0.75 oz Cognac                                                   ",
   "0.75 oz Gin                                                      ",
-  " 0.5 oz Falernum                                                 ",
-],
+  " 0.5 oz Falernum                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

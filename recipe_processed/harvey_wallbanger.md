@@ -45,8 +45,7 @@ excerpt: |
   "recipeIngredient": [
     "  1.5 oz Vodka             ",
   "    1 oz Galliano          ",
-  "  0.5 oz Dry Curaçao       ",
-],
+  "  0.5 oz Dry Curaçao       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

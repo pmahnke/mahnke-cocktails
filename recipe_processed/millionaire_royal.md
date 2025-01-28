@@ -46,8 +46,7 @@ excerpt: |
   "recipeIngredient": [
     "    0.5 oz Triple Sec                                     ",
   "    1.5 oz Bourbon                                        ",
-  "1 barspoon Absinthe                                       ",
-],
+  "1 barspoon Absinthe                                       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

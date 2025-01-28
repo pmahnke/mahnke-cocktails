@@ -38,8 +38,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  2 oz Scotch, Blended",
-  "  1 oz Drambuie       ",
-],
+  "  1 oz Drambuie       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

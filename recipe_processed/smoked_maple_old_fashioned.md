@@ -41,8 +41,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    2 oz Bourbon             ",
-  "3 dashes Black Walnut Bitters",
-],
+  "3 dashes Black Walnut Bitters"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

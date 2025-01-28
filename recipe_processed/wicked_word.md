@@ -46,8 +46,7 @@ excerpt: |
     "  1 oz Cognac           ",
   "  1 oz Aperol           ",
   "  1 oz Fresh Lemon Juice",
-  "  1 oz Black Sambuca    ",
-],
+  "  1 oz Black Sambuca    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

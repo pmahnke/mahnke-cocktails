@@ -48,8 +48,7 @@ excerpt: |
   "0.75 oz Pisco                                          ",
   " 0.5 oz Plymouth Gin                                   ",
   " 0.5 oz Dry Curaçao                                    ",
-  "   1 oz Amontillado Sherry                             ",
-],
+  "   1 oz Amontillado Sherry                             "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

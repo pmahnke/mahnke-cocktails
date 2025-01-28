@@ -44,8 +44,7 @@ excerpt: |
     "0.75 oz Cognac                                                   ",
   "0.25 oz Jamaican Rum                                             ",
   "0.25 oz Dry Curaçao                                              ",
-  "0.25 oz Sparkling Water                                          ",
-],
+  "0.25 oz Sparkling Water                                          "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

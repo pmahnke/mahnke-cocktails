@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "  2 oz Barrel Strength Bourbon",
   "0.5 oz Bénédictine            ",
-  "0.5 oz Walnut Liqueur         ",
-],
+  "0.5 oz Walnut Liqueur         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

@@ -48,8 +48,7 @@ excerpt: |
   " 0.25 oz Allspice Dram                                ",
   " 0.75 oz [Guava Syrup]({%link recipe_processed/guava_syrup.md%})",
   "    1 oz Fresh Lemon Juice                            ",
-  "2 Dashes Bitters                                      ",
-],
+  "2 Dashes Bitters                                      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

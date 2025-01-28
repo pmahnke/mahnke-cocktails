@@ -106,8 +106,7 @@ excerpt: |
   "    2 oz Bourbon       ",
   "    1 oz Lillet Rouge  ",
   "  0.5 oz Orange Curaçao",
-  "2 dashes Bitters       ",
-],
+  "2 dashes Bitters       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

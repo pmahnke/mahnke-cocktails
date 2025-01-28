@@ -42,8 +42,7 @@ excerpt: |
     "    2 oz Rye           ",
   "  0.5 oz Sweet Vermouth",
   "  0.5 oz Dry Vermouth  ",
-  "2 dashes Bitters       ",
-],
+  "2 dashes Bitters       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

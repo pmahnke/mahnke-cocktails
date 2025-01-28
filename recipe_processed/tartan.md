@@ -44,8 +44,7 @@ excerpt: |
   "0.75 oz Sweet Vermouth",
   "0.25 oz Drambuie      ",
   "0.25 oz Amaro         ",
-  " 1 dash Bitters       ",
-],
+  " 1 dash Bitters       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

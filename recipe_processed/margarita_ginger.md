@@ -42,8 +42,7 @@ Glassware:
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "   2 oz Reposado Tequila                               ",
-  "0.75 oz Orange Curaçao                                 ",
-],
+  "0.75 oz Orange Curaçao                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
   "recipeYield": "1 cocktail",

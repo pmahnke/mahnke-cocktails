@@ -41,8 +41,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "     2 oz Pimm's           ",
-  "3 to 4 oz Ginger Ale       ",
-],
+  "3 to 4 oz Ginger Ale       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

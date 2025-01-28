@@ -73,8 +73,7 @@ excerpt: |
   "1 barspoon Maraschino Liqueur                             ",
   "    1.5 oz Light Rum                                      ",
   "   0.25 oz Allspice Dram                                  ",
-  "1 barspoon Maraschino Liqueur                             ",
-],
+  "1 barspoon Maraschino Liqueur                             "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

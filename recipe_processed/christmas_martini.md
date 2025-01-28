@@ -42,8 +42,7 @@ excerpt: |
     "   2 oz Gin             ",
   " 0.5 oz Cocchi Americano",
   "0.25 oz Orange Curaçao  ",
-  " 1 dash Bitters         ",
-],
+  " 1 dash Bitters         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

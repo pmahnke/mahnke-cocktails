@@ -42,8 +42,7 @@ excerpt: |
     "    2 oz Irish Whiskey   ",
   "  0.5 oz Sweet Vermouth  ",
   " 0.25 oz Green Chartreuse",
-  "2 dashes Bitters         ",
-],
+  "2 dashes Bitters         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

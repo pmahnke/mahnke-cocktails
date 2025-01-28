@@ -44,8 +44,7 @@ excerpt: |
   " 0.75 oz Swedish Punsch                                          ",
   " 0.75 oz Fresh Lime Juice                                        ",
   "  0.5 oz [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%})",
-  "2 dashes Bitters                                                 ",
-],
+  "2 dashes Bitters                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -44,8 +44,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  1.5 oz Crème De Noyaux     ",
-  "  1.5 oz White Crème De Cacao",
-],
+  "  1.5 oz White Crème De Cacao"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Blended

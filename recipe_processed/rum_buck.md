@@ -43,8 +43,7 @@ excerpt: |
   "recipeIngredient": [
     "   1.5 oz Dark Rum        ",
   "   0.5 oz Allspice Dram   ",
-  "4 to 5 oz Ginger Beer     ",
-],
+  "4 to 5 oz Ginger Beer     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

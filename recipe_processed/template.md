@@ -72,8 +72,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "       [NAME]({%link recipe_processed/NAME.md%})",
-  "                                      ",
-],
+  "                                      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken/Stirred/Build in the Glass

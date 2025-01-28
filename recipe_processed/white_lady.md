@@ -69,8 +69,7 @@ excerpt: |
     "0.75 oz Triple Sec       ",
   "0.75 oz Crème De Menthe  ",
   " 1.5 oz Gin                                            ",
-  "0.75 oz Triple Sec                                     ",
-],
+  "0.75 oz Triple Sec                                     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

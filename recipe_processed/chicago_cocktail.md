@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "    1 oz Cognac        ",
   " 0.25 oz Dry Curaçao   ",
-  "2 dashes Bitters       ",
-],
+  "2 dashes Bitters       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

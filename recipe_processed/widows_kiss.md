@@ -100,8 +100,7 @@ excerpt: |
   "  1.5 oz Applejack        ",
   "  0.5 oz Bénédictine      ",
   " 0.25 oz Yellow Chartreuse",
-  "2 dashes Bitters          ",
-],
+  "2 dashes Bitters          "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -63,8 +63,7 @@ excerpt: |
     "  1 oz Galliano            ",
   "  1 oz White Crème de Cacao",
   "  1.5 oz Galliano            ",
-  "  1.5 oz White Crème de Cacao",
-],
+  "  1.5 oz White Crème de Cacao"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

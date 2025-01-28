@@ -45,8 +45,7 @@ excerpt: |
   "recipeIngredient": [
     "   1 oz Pisco                                                    ",
   " 0.5 oz Gin                                                      ",
-  "0.75 oz Cocchi Americano                                         ",
-],
+  "0.75 oz Cocchi Americano                                         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -45,8 +45,7 @@ excerpt: |
   "         1 oz Dry Vermouth      ",
   "      0.25 oz Maraschino Liqueur",
   "      0.25 oz Amaro             ",
-  "2 to 3 dashes Orange Bitters    ",
-],
+  "2 to 3 dashes Orange Bitters    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

@@ -42,8 +42,7 @@ excerpt: |
     "  1.5 oz Gin             ",
   " 0.75 oz Orange Curaçao  ",
   " 0.75 oz Fresh Lime Juice",
-  "2 dashes Bitters         ",
-],
+  "2 dashes Bitters         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

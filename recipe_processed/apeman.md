@@ -43,8 +43,7 @@ excerpt: |
   "recipeIngredient": [
     "   1 oz Bourbon                                                 ",
   " 0.5 oz Oloroso Sherry                                          ",
-  " 0.5 oz Banana Liquor                                           ",
-],
+  " 0.5 oz Banana Liquor                                           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

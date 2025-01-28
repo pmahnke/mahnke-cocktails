@@ -40,8 +40,7 @@ ercerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "1.5 oz Single Malt Whisky  ",
-  "0.5 oz Amaretto di Saschira",
-],
+  "0.5 oz Amaretto di Saschira"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

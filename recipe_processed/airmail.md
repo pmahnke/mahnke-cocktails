@@ -41,8 +41,7 @@ excerpt: |
     "  1 oz Gold Rum                                     ",
   "0.5 oz [Honey Syrup]({%link recipe_processed/honey_syrup.md%})",
   "0.5 oz Fresh Lime Juice                             ",
-  "  2 oz Champagne                                    ",
-],
+  "  2 oz Champagne                                    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

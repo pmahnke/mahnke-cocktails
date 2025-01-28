@@ -46,8 +46,7 @@ excerpt: |
   "recipeIngredient": [
     "    1 oz Amaro            ",
   "    1 oz Sweet Vermouth   ",
-  "4 dashes Orange Bitters   ",
-],
+  "4 dashes Orange Bitters   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

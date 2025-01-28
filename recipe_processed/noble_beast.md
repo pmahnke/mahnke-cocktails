@@ -39,8 +39,7 @@ excerpt: |
   "description": "{{ page.excerpt }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "   1 oz Bitters                                                 ",
-],
+    "   1 oz Bitters                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

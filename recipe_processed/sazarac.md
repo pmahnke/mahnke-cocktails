@@ -45,8 +45,7 @@ excerpt: |
   "  0.5 oz Cognac                                                   ",
   "3 dashes Bitters                                                  ",
   "  1 dash Bitters                                                  ",
-  " 1 rinse Absinthe                                                 ",
-],
+  " 1 rinse Absinthe                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

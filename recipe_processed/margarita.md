@@ -41,8 +41,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  2 oz Reposado Tequila",
-  "  1 oz Orange Curaçao  ",
-],
+  "  1 oz Orange Curaçao  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken/Stirred/Build in the Glass

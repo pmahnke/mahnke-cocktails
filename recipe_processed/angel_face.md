@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "1.25 oz Gin            ",
   "   1 oz Apple Brandy   ",
-  "0.75 oz Apricot Liqueur",
-],
+  "0.75 oz Apricot Liqueur"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

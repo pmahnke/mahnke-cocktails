@@ -46,8 +46,7 @@ excerpt: |
   "recipeIngredient": [
     "    1 oz Bourbon                                                  ",
   "    1 oz Vodka                                                    ",
-  "  0.5 oz Peach Liqueur                                            ",
-],
+  "  0.5 oz Peach Liqueur                                            "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

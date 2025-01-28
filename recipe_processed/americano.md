@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "1.25 oz Campari       ",
   "1.25 oz Sweet Vermouth",
-  "   3 oz Soda Water    ",
-],
+  "   3 oz Soda Water    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Built in the glass

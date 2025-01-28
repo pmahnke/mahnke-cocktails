@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "  2 oz Aperol    ",
   "  3 oz Prosecco  ",
-  "  1 oz Soda Water",
-],
+  "  1 oz Soda Water"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

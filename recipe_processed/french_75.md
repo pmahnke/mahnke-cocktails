@@ -68,8 +68,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  1 oz Cognac                                         ",
-  "  1 oz Gin                                            ",
-],
+  "  1 oz Gin                                            "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -43,8 +43,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    2 oz Jamaica Rum                                                            ",
-  "2 dashes Bitters                                                                ",
-],
+  "2 dashes Bitters                                                                "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

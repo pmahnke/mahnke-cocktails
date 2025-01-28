@@ -45,8 +45,7 @@ excerpt: |
   "recipeIngredient": [
     " 1.5 oz Gin                                            ",
   "0.25 oz Bénédictine                                    ",
-  "   1 oz Sparkling Water                                ",
-],
+  "   1 oz Sparkling Water                                "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

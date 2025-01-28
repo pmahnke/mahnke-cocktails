@@ -65,8 +65,7 @@ excerpt: |
     "   1 oz Coffee Liqueur                                          ",
   "   1 oz Vodka                                                   ",
   "   1 oz Coffee Liqueur                                          ",
-  "   1 oz Cognac                                                  ",
-],
+  "   1 oz Cognac                                                  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

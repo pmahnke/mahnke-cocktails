@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "   1 oz Vodka               ",
   "0.75 oz White Crème De Cacao",
-  " 0.5 oz Apricot Liqueur     ",
-],
+  " 0.5 oz Apricot Liqueur     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

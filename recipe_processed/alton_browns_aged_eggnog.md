@@ -52,8 +52,7 @@ excerpt: |
   "recipeIngredient": [
     "       0.5 cup Jamaica Rum          ",
   "       0.5 cup Cognac               ",
-  "       0.5 cup Bourbon              ",
-],
+  "       0.5 cup Bourbon              "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in a mixing bowl

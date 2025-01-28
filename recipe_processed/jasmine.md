@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     " 1.5 oz Gin              ",
   "0.25 oz Triple Sec       ",
-  "0.25 oz Campari          ",
-],
+  "0.25 oz Campari          "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

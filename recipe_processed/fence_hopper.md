@@ -43,8 +43,7 @@ excerpt: |
   "recipeIngredient": [
     "     1 oz Bourbon          ",
   " 2 dashes Bitters          ",
-  "3 to 4 oz IPA              ",
-],
+  "3 to 4 oz IPA              "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

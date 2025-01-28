@@ -44,8 +44,7 @@ excerpt: |
   "recipeIngredient": [
     "  1 oz Dark Rum                                                   ",
   "  1 oz Gold Rum                                                   ",
-  "  1 oz Apricot Liqueur                                            ",
-],
+  "  1 oz Apricot Liqueur                                            "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

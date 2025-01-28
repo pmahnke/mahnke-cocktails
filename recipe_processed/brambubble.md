@@ -43,8 +43,7 @@ excerpt: |
   "recipeIngredient": [
     "   1 oz Gin                                                      ",
   " 0.5 oz Crème de Mûre                                            ",
-  "0.25 oz [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})",
-],
+  "0.25 oz [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

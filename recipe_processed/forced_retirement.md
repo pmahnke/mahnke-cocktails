@@ -45,8 +45,7 @@ excerpt: |
   "recipeIngredient": [
     "0.75 oz Malört                                                       ",
   "   1 oz Gin                                                          ",
-  " 0.5 oz Campari                                                      ",
-],
+  " 0.5 oz Campari                                                      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Swizzled

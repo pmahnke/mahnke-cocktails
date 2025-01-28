@@ -43,8 +43,7 @@ excerpt: |
   "recipeIngredient": [
     "1.5 oz Reposado Tequila",
   "0.5 oz Crème de Cassis ",
-  "  3 oz Ginger Beer     ",
-],
+  "  3 oz Ginger Beer     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "1.5 oz Cachaça       ",
   "0.5 oz Sweet Vermouth",
-  "0.5 oz Cynar Amaro   ",
-],
+  "0.5 oz Cynar Amaro   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

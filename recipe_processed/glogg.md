@@ -45,8 +45,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    12 oz Ruby Port          ",
-  "     6 oz Cognac             ",
-],
+  "     6 oz Cognac             "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Simmered

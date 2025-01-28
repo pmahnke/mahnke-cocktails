@@ -45,8 +45,7 @@ excerpt: |
   "recipeIngredient": [
     "1.5 oz Bourbon                                                  ",
   "  1 oz Light Amaro                                              ",
-  "0.5 oz Peach Liqueur                                            ",
-],
+  "0.5 oz Peach Liqueur                                            "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

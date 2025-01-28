@@ -44,8 +44,7 @@ excerpt: |
     "   1 oz Gin           ",
   "0.75 oz Coffee Liqueur",
   "0.75 oz Campari       ",
-  "0.25 oz Sweet Vermouth",
-],
+  "0.25 oz Sweet Vermouth"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

@@ -63,8 +63,7 @@ excerpt: |
   "recipeIngredient": [
     "0.75 oz Gin           ",
   "0.75 oz Crème de Cacao",
-  "0.75 oz Cream         ",
-],
+  "0.75 oz Cream         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

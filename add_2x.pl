@@ -97,6 +97,9 @@ while (my $file = readdir DIR) {
 
     close (FILE);
 
+    chop($s_ingredient);
+    chop($s_ingredient);
+
     $schema = qq ~
     
 <script type="application/ld+json">

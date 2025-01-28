@@ -45,8 +45,7 @@ excerpt: |
   "recipeIngredient": [
     "    1.5 oz Reposado Tequila",
   "    0.5 oz Mezcal          ",
-  "  2 dashes Bitters         ",
-],
+  "  2 dashes Bitters         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

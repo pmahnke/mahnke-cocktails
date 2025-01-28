@@ -44,8 +44,7 @@ excerpt: |
   "    1 oz Apple Brandy  ",
   "  0.5 oz Light Amaro   ",
   "  0.5 oz Sweet Vermouth",
-  "2 dashes Bitters       ",
-],
+  "2 dashes Bitters       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

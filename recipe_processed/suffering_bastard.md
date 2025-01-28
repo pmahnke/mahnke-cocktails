@@ -49,8 +49,7 @@ excerpt: |
   "         1 oz Cognac                                                  ",
   "         1 oz Bourbon                                                 ",
   "2 to 3 dashes Bitters                                                 ",
-  "         3 oz Ginger Beer                                             ",
-],
+  "         3 oz Ginger Beer                                             "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

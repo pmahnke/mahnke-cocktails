@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "    2 oz Demerara Rum  ",
   "    1 oz Sweet Vermouth",
-  "2 dashes Bitters       ",
-],
+  "2 dashes Bitters       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

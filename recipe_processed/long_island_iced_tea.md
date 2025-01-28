@@ -47,8 +47,7 @@ excerpt: |
   "  1 oz Light Rum                                               ",
   "  1 oz Gin                                                     ",
   "  1 oz Blanco Tequila                                          ",
-  "  1 oz Triple Sec                                              ",
-],
+  "  1 oz Triple Sec                                              "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

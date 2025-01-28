@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "1.5 oz Gin             ",
   "  1 oz Vodka           ",
-  "0.5 oz Cocchi Americano",
-],
+  "0.5 oz Cocchi Americano"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

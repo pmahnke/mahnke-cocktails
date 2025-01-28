@@ -47,8 +47,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "     4 oz Grand Marnier                                           ",
-  "     6 oz Olorosso Sherry                                         ",
-],
+  "     6 oz Olorosso Sherry                                         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Pitcher

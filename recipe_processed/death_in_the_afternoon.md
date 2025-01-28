@@ -68,8 +68,7 @@ excerpt: |
     "1.5 oz Absinthe  ",
   "4.5 oz Champagne ",
   "   1 oz Absinthe                                                 ",
-  "   2 oz Champagne                                                ",
-],
+  "   2 oz Champagne                                                "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

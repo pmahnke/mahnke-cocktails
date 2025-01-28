@@ -43,8 +43,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "         2 oz Mezcal          ",
-  "         1 oz Orange Curaçao  ",
-],
+  "         1 oz Orange Curaçao  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

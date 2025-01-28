@@ -48,8 +48,7 @@ excerpt: |
   " 0.75 oz [Cream of Coconut]({%link recipe_processed/cream_of_coconut_syrup.md%})",
   " 0.75 oz Fresh Lemon Juice                                          ",
   " 0.25 oz [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%})  ",
-  "2 dashes Bitters                                                    ",
-],
+  "2 dashes Bitters                                                    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

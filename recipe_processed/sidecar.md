@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "1.5 oz Cognac          ",
   "  1 oz Dry Curaçao     ",
-  "0.5 oz Fresh Lime Juice",
-],
+  "0.5 oz Fresh Lime Juice"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

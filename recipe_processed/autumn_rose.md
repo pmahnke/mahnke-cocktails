@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     " 1.5 oz Apple Brandy                                   ",
   " 0.5 oz White Vermouth                                 ",
-  "0.25 oz Apricot Liqueur                                ",
-],
+  "0.25 oz Apricot Liqueur                                "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

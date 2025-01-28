@@ -63,8 +63,7 @@ excerpt: |
   "4 dashes Bitters                                                  ",
   "2 wedges Orange                                                   ",
   " 1 whole Cocktail Cherry                                          ",
-  "  0.5 oz Wash - See below                                         ",
-],
+  "  0.5 oz Wash - See below                                         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "0.75 oz Rye               ",
   "0.75 oz Green Chartreuse  ",
-  "0.75 oz Maraschino Liqueur",
-],
+  "0.75 oz Maraschino Liqueur"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

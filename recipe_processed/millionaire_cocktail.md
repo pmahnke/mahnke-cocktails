@@ -47,8 +47,7 @@ excerpt: |
   "recipeIngredient": [
     "   1 oz Jamaica Rum                                    ",
   " 0.5 oz Apricot Liqueur                                ",
-  " 0.5 oz Sloe Gin                                       ",
-],
+  " 0.5 oz Sloe Gin                                       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -48,8 +48,7 @@ excerpt: |
   "  3 oz Allspice Dram                                           ",
   "  6 oz [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%})",
   "  9 oz Fresh Lemon Juice                                       ",
-  "24 oz. Black Tea (chilled)                                     ",
-],
+  "24 oz. Black Tea (chilled)                                     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: ShakenBuild in the serving vessel

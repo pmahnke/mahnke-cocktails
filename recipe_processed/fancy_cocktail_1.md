@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "  1 oz Rosolio Italicus ",
   "  1 oz Reposado Tequila ",
-  "  1 oz Manzanilla Sherry",
-],
+  "  1 oz Manzanilla Sherry"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

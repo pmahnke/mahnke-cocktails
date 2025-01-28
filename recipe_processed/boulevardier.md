@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     " 1.5 oz Bourbon       ",
   "0.75 oz Campari       ",
-  "0.75 oz Sweet Vermouth",
-],
+  "0.75 oz Sweet Vermouth"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

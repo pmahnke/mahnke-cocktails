@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "  1.5 oz Rye                                            ",
   "    1 oz Dry Vermouth                                   ",
-  "2 dashes Orange Bitters                                 ",
-],
+  "2 dashes Orange Bitters                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

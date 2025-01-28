@@ -45,8 +45,7 @@ excerpt: |
   "recipeIngredient": [
     "     1.5 oz Lillet Rouge                                             ",
   "       1 oz Gold Rum                                                 ",
-  "2 barspoons Absinthe                                                 ",
-],
+  "2 barspoons Absinthe                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -50,8 +50,7 @@ excerpt: |
   "recipeIngredient": [
     "1 oz Light Rum",
   "0.5 oz Rye",
-  "0.5 oz Cognac",
-],
+  "0.5 oz Cognac"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

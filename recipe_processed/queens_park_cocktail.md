@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "  1.5 oz Gold Rum                                       ",
   "  0.5 oz Sweet Vermouth                                 ",
-  "4 dashes Bitters                                        ",
-],
+  "4 dashes Bitters                                        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -46,8 +46,7 @@ excerpt: |
     "    1 oz Demerara Rum                                   ",
   "  0.5 oz Cognac                                         ",
   "  0.5 oz Allspice Dram                                  ",
-  "2 dashes Absinthe                                       ",
-],
+  "2 dashes Absinthe                                       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

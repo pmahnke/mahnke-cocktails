@@ -44,8 +44,7 @@ excerpt: |
   "      1 oz Rum               ",
   "      1 oz Tawny Port        ",
   "    1 dash Bitters           ",
-  "1 barspoon Maraschino Liqueur",
-],
+  "1 barspoon Maraschino Liqueur"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

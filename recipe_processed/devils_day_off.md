@@ -42,8 +42,7 @@ excerpt: |
   "description": "{{ page.excerpt }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    " 100 ml Red Bitter Soda       ",
-],
+    " 100 ml Red Bitter Soda       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

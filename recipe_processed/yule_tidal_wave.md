@@ -51,8 +51,7 @@ excerpt: |
   " 0.75 oz Pear Brandy                                              ",
   "  0.5 oz Licor 43                                                 ",
   " 0.25 oz Allspice Dram                                            ",
-  "2 dashes Bitters                                                  ",
-],
+  "2 dashes Bitters                                                  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

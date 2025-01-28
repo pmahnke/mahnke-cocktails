@@ -40,8 +40,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     " 1.5 oz Vodka           ",
-  "0.75 oz Triple Sec      ",
-],
+  "0.75 oz Triple Sec      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

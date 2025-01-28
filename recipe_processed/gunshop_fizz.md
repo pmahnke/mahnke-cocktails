@@ -46,8 +46,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    2 oz Bitters                                        ",
-  "    1 oz Red Bitter Soda                                ",
-],
+  "    1 oz Red Bitter Soda                                "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

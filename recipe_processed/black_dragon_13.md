@@ -41,8 +41,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "   1 oz Cognac                                                            ",
-  " 0.5 oz Amaro                                                             ",
-],
+  " 0.5 oz Amaro                                                             "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -43,8 +43,7 @@ excerpt: |
   "recipeIngredient": [
     "  1 oz Demerara Rum         ",
   "  1 oz Bénédictine          ",
-  "0.5 oz Amontillado Sherry   ",
-],
+  "0.5 oz Amontillado Sherry   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

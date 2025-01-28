@@ -43,8 +43,7 @@ excerpt: |
   "recipeIngredient": [
     "   2 oz Gin               ",
   "0.25 oz Crème de Violette ",
-  "0.25 oz Maraschino Liqueur",
-],
+  "0.25 oz Maraschino Liqueur"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

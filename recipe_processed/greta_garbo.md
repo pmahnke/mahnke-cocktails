@@ -75,8 +75,7 @@ excerpt: |
   "0.25 oz Maraschino Liqueur                                       ",
   "0.25 oz Absinthe                                                 ",
   "   1 oz Gin                                                      ",
-  " 0.5 oz Swedish Punsch                                           ",
-],
+  " 0.5 oz Swedish Punsch                                           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

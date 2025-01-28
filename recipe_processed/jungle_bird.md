@@ -45,8 +45,7 @@ excerpt: |
   "recipeIngredient": [
     "0.75 oz Jamaican Rum                                            ",
   "0.75 oz Demerara Rum                                            ",
-  "0.75 oz Campari                                                 ",
-],
+  "0.75 oz Campari                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

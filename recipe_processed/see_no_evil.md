@@ -44,8 +44,7 @@ excerpt: |
   "recipeIngredient": [
     "       1.5 oz Mezcal                                         ",
   "     3 dashes Tabasco                                        ",
-  "4 to 5 dashes Bitters                                        ",
-],
+  "4 to 5 dashes Bitters                                        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -80,8 +80,7 @@ excerpt: |
   "   1 oz Cognac                                         ",
   " 0.5 oz Jamaican Rum                                   ",
   "0.25 oz Peach Liqueur                                  ",
-  "0.25 oz Apple Brandy                                   ",
-],
+  "0.25 oz Apple Brandy                                   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in Punch Bowl

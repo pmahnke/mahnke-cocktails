@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "   1 oz Jamaican Rum                                            ",
   "   1 oz Cognac                                                  ",
-  "  12 oz Porter                                                  ",
-],
+  "  12 oz Porter                                                  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

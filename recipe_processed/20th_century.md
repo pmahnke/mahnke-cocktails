@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "0.75 oz Gin                 ",
   "0.75 oz Cocchi Americano    ",
-  "0.75 oz White Crème de Cacao",
-],
+  "0.75 oz White Crème de Cacao"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

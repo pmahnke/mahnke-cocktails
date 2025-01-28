@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "   1 oz Cognac                                                   ",
   " 0.5 oz Ruby Port                                                ",
-  " 0.5 oz Crème de Cacao                                           ",
-],
+  " 0.5 oz Crème de Cacao                                           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

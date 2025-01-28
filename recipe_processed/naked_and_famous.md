@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "0.75 oz Mezcal           ",
   "0.75 oz Yellow Chartreuse",
-  "0.75 oz Apero            ",
-],
+  "0.75 oz Apero            "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

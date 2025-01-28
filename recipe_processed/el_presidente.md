@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "    1.5 oz Light Rum                                      ",
   "   0.75 oz White Vermouth                                 ",
-  "   0.25 oz Dry Curaçao                                    ",
-],
+  "   0.25 oz Dry Curaçao                                    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

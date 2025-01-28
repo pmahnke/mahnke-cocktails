@@ -45,8 +45,7 @@ excerpt: |
   "recipeIngredient": [
     " 1.5 oz Green Chartreuse                 ",
   " 0.5 oz Falernum                         ",
-  "0.25 oz Optional - Overproof Jamaican Rum",
-],
+  "0.25 oz Optional - Overproof Jamaican Rum"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Swizzled

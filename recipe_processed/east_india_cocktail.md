@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "  1.5 oz Cognac            ",
   " 0.75 oz Maraschino Liqueur",
-  "3 dashes Bitters           ",
-],
+  "3 dashes Bitters           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

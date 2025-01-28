@@ -43,8 +43,7 @@ excerpt: |
     "    2 oz Irish Whiskey                                                     ",
   " 0.75 oz [Cocoa Nib Infused Campari]({%link recipe_processed/cocoa_nib_campari.md %})",
   "  0.5 oz White Crème de Cacao                                              ",
-  "  0.5 oz Banane du Brésil                                                  ",
-],
+  "  0.5 oz Banane du Brésil                                                  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

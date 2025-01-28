@@ -42,8 +42,7 @@ excerpt: |
     "  1 oz Gin             ",
   "  1 oz Fino Sherry     ",
   "0.5 oz Cocchi Americano",
-  "0.5 oz Triple Sec      ",
-],
+  "0.5 oz Triple Sec      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

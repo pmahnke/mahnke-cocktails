@@ -76,8 +76,7 @@ excerpt: |
   "      750 ml Dry White Wine                                          ",
   "        1 oz Apricot Liqueur                                         ",
   "      1.5 oz Fino Sherry                                             ",
-  "        6 oz Dry White Wine                                          ",
-],
+  "        6 oz Dry White Wine                                          "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in Punch Bowl

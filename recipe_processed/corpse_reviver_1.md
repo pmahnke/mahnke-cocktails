@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "0.75 oz Calvados      ",
   "0.75 oz Cognac        ",
-  "0.75 oz Sweet Vermouth",
-],
+  "0.75 oz Sweet Vermouth"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

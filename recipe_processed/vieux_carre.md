@@ -46,8 +46,7 @@ excerpt: |
   " 0.75 oz Sweet Vermouth",
   "  0.5 oz Bénédictine   ",
   "2 dashes Bitters       ",
-  "2 dashes Bitters       ",
-],
+  "2 dashes Bitters       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

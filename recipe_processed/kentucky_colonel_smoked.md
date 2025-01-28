@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "         2 oz Bourbon    ",
   "       0.5 oz Bénédictine",
-  "3 to 4 dashes Bitters    ",
-],
+  "3 to 4 dashes Bitters    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

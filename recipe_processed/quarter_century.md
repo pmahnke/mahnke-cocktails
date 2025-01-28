@@ -42,8 +42,7 @@ excerpt: |
     "       0.5 oz Campari        ",
   "       0.5 oz Apricot Liqueur",
   "1 to 2 dashes Absinthe       ",
-  "         4 oz Champagne      ",
-],
+  "         4 oz Champagne      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

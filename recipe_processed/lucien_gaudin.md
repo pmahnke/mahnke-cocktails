@@ -42,8 +42,7 @@ excerpt: |
     "  1 oz Gin           ",
   "0.5 oz White Vermouth",
   "0.5 oz Campari       ",
-  "0.5 oz Cointreau     ",
-],
+  "0.5 oz Cointreau     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

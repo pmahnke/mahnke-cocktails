@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "0.75 oz Cognac           ",
   "0.75 oz Light Rum        ",
-  "   1 oz Dry Curaçao      ",
-],
+  "   1 oz Dry Curaçao      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

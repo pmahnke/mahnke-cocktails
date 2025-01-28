@@ -52,8 +52,7 @@ excerpt: |
   "      1 oz Demerara Rum                                   ",
   "    0.5 oz Falernum                                       ",
   "1 barspoon Absinthe                                       ",
-  "  2 dashes Bitters                                        ",
-],
+  "  2 dashes Bitters                                        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method:

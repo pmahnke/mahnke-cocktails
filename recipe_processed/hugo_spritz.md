@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "       0.5 oz Elderflower Liqueur",
   "         3 oz Prosecco           ",
-  "         1 oz Soda Water         ",
-],
+  "         1 oz Soda Water         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

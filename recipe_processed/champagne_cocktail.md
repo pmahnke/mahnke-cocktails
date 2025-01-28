@@ -42,8 +42,7 @@ excerpt: |
     "    5 oz Champagne ",
   " 0.75 oz Cognac    ",
   "  1 cube Sugar     ",
-  "10 drops Bitters   ",
-],
+  "10 drops Bitters   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

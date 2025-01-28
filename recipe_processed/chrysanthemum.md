@@ -60,8 +60,7 @@ excerpt: |
   "recipeIngredient": [
     "  1.5 oz Dry Vermouth",
   " 0.75 oz Bénédictine ",
-  "3 dashes Absinthe    ",
-],
+  "3 dashes Absinthe    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

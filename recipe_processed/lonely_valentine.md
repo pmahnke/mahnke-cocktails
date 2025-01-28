@@ -44,8 +44,7 @@ excerpt: |
   "recipeIngredient": [
     " 1.5 oz Light Rum                                                ",
   " 0.5 oz Ruby Port                                                ",
-  " 0.5 oz White Crème de Cacao                                     ",
-],
+  " 0.5 oz White Crème de Cacao                                     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "  2 oz Cognac        ",
   "  1 oz Crème de Cacao",
-  "  1 oz Cream         ",
-],
+  "  1 oz Cream         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

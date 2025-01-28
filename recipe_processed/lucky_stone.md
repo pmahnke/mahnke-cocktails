@@ -42,8 +42,7 @@ excerpt: |
     "  1.5 oz Irish Whiskey     ",
   "    1 oz Amontillado Sherry",
   "  0.5 oz Apricot Liquer    ",
-  "2 dashes Bitters           ",
-],
+  "2 dashes Bitters           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

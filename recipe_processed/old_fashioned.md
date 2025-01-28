@@ -44,8 +44,7 @@ ercerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "    2 oz Bourbon                                                 ",
-  "4 dashes Bitters                                                 ",
-],
+  "4 dashes Bitters                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

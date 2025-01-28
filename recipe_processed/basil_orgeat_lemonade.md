@@ -41,8 +41,7 @@ excerpt: |
   "description": "{{ page.excerpt }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "    3 oz Soda Water                                     ",
-],
+    "    3 oz Soda Water                                     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

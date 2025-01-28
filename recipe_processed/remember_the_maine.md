@@ -42,8 +42,7 @@ excerpt: |
     " 1.5 oz Rye           ",
   "0.75 oz Sweet Vermouth",
   "0.25 oz Cherry Heering",
-  "1 rinse Absinthe      ",
-],
+  "1 rinse Absinthe      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

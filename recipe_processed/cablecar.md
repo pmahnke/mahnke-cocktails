@@ -40,8 +40,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     " 1.5 oz Spice Rum                                      ",
-  "0.75 oz Dry Curaçao                                    ",
-],
+  "0.75 oz Dry Curaçao                                    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

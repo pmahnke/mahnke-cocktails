@@ -49,8 +49,7 @@ excerpt: |
     "    1 oz Gold Rum                                                ",
   "  0.5 oz Demerara Rum                                            ",
   "  0.5 oz Apricot Liqueur                                         ",
-  "  0.5 oz Falernum                                                ",
-],
+  "  0.5 oz Falernum                                                "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

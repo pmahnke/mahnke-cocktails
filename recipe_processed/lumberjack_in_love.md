@@ -43,8 +43,7 @@ excerpt: |
   "recipeIngredient": [
     "   1 oz Rye                                                      ",
   " 0.5 oz Allspice Dram                                            ",
-  "   4 oz Oktoberfest                                              ",
-],
+  "   4 oz Oktoberfest                                              "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

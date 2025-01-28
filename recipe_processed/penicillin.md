@@ -43,8 +43,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "      2 oz Scotch, Blended                              ",
-  "   0.25 oz Scotch, Single Malt                          ",
-],
+  "   0.25 oz Scotch, Single Malt                          "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

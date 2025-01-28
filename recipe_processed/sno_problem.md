@@ -44,8 +44,7 @@ excerpt: |
     "0.5 oz Navy Strength Rum                                       ",
   "0.5 oz Bourbon                                                 ",
   "1 dash Bitters                                                 ",
-  "  2 oz Black Tea, Hot                                          ",
-],
+  "  2 oz Black Tea, Hot                                          "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken / Stirred / Build in the Glass

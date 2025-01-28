@@ -42,8 +42,7 @@ excerpt: |
     "    2 oz Rye           ",
   "    1 oz Amaro         ",
   "2 dashes Bitters       ",
-  "2 dashes Orange Bitters",
-],
+  "2 dashes Orange Bitters"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

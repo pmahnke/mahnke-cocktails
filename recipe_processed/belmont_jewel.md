@@ -44,8 +44,7 @@ excerpt: |
   "recipeIngredient": [
     "   1.5 oz Bourbon                                        ",
   "   0.5 oz Oloroso Sherry                                 ",
-  "2 to 3 oz Sparkling Water                                ",
-],
+  "2 to 3 oz Sparkling Water                                "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

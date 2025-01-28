@@ -68,8 +68,7 @@ excerpt: |
   " 1.5 oz Jamaican Rum                                             ",
   " 1.5 oz Yellow Chartreuse                                        ",
   " 0.5 oz Orange Curaçao                                           ",
-  " 0.5 oz Bitters                                                  ",
-],
+  " 0.5 oz Bitters                                                  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

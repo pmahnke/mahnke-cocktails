@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "  1.5 oz Gin           ",
   "  1.5 oz Sweet Vermouth",
-  "2 dashes Orange Bitters",
-],
+  "2 dashes Orange Bitters"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

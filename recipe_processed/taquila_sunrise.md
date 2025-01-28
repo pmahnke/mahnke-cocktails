@@ -97,8 +97,7 @@ excerpt: |
   "0.5 oz Grenadine     ",
   "   1.5 oz Reposado Tequila                               ",
   "   0.5 oz Creme de Cassis                                ",
-  "   1 dash Bitters                                        ",
-],
+  "   1 dash Bitters                                        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

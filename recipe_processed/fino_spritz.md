@@ -42,8 +42,7 @@ excerpt: |
     "  2 oz Fino Sherry       ",
   "0.5 oz Maraschino Liqueur",
   "  3 oz Prosecco          ",
-  "  1 oz Soda Water        ",
-],
+  "  1 oz Soda Water        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

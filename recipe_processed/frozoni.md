@@ -42,8 +42,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "   1 oz Gin                                                      ",
-  "   1 oz Campari                                                  ",
-],
+  "   1 oz Campari                                                  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Blended

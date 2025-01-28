@@ -43,8 +43,7 @@ excerpt: |
     "0.75 oz Demerara Rum    ",
   "0.75 oz Light Rum       ",
   " 0.5 oz Falernum        ",
-  " 0.5 oz Orange Curaçao  ",
-],
+  " 0.5 oz Orange Curaçao  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

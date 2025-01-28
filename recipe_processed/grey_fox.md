@@ -39,8 +39,7 @@ excerpt: |
   "description": "{{ page.excerpt }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "2 to 3 oz Tonic Water                                               ",
-],
+    "2 to 3 oz Tonic Water                                               "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

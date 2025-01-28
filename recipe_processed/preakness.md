@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     " 1.5 oz Bourbon       ",
   "0.75 oz Sweet Vermouth",
-  "0.25 oz Bénédictine   ",
-],
+  "0.25 oz Bénédictine   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

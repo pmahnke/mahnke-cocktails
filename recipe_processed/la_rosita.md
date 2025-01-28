@@ -46,8 +46,7 @@ excerpt: |
   "0.5 oz Campari         ",
   "0.5 oz Sweet Vermouth  ",
   "0.5 oz Dry Vermouth    ",
-  "1 dash Bitters         ",
-],
+  "1 dash Bitters         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

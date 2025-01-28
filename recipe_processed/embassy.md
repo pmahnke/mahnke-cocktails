@@ -43,8 +43,7 @@ excerpt: |
     " 0.75 oz Cognac          ",
   " 0.75 oz Jamaican Rum    ",
   "    1 oz Orange Curaçao  ",
-  "2 dashes Bitters         ",
-],
+  "2 dashes Bitters         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -46,8 +46,7 @@ excerpt: |
   "recipeIngredient": [
     "   2 cups Amontillado Sherry",
   "    1 cup Dark Beer         ",
-  "  0.5 cup Apple Brandy      ",
-],
+  "  0.5 cup Apple Brandy      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Pot

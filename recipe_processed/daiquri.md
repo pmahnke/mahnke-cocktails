@@ -38,8 +38,7 @@ excerpt: |
   "description": "{{ page.excerpt }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "   2 oz Light Rum                                      ",
-],
+    "   2 oz Light Rum                                      "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

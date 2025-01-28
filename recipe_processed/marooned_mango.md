@@ -41,8 +41,7 @@ youtube: "xnXFbjQSu-k"
   "recipeIngredient": [
     "0.75 oz Mango Liqueur                                            ",
   "0.75 oz Cachaça                                                  ",
-  "0.75 oz Sweet Vermouth                                           ",
-],
+  "0.75 oz Sweet Vermouth                                           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

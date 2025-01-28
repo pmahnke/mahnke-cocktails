@@ -42,8 +42,7 @@ excerpt: |
     "  1.5 oz Old Tom Gin   ",
   "  1.5 oz Dry Vermouth  ",
   " 0.25 oz Bénédictine   ",
-  "3 dashes Orange Bitters",
-],
+  "3 dashes Orange Bitters"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

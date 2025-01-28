@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "    2 oz Oloroso Sherry",
   "    1 oz Sweet Vermouth",
-  "2 dashes Orange Bitters",
-],
+  "2 dashes Orange Bitters"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

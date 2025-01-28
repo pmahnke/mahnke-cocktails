@@ -45,8 +45,7 @@ excerpt: |
     "    1.5 oz Vodka               ",
   "      3 oz Clamato Juice       ",
   "  2 dashes Worcestershire Sauce",
-  "  2 dashes Hot Sauce           ",
-],
+  "  2 dashes Hot Sauce           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

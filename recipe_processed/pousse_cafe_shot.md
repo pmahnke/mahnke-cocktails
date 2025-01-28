@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "0.5 oz Bénédictine     ",
   "0.5 oz Green Chartreuse",
-  "0.5 oz Bitters         ",
-],
+  "0.5 oz Bitters         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

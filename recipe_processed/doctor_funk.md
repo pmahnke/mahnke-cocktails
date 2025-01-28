@@ -47,8 +47,7 @@ excerpt: |
     "0.75 oz Jamaican Rum                                   ",
   "0.75 oz Gold Rum                                       ",
   "0.25 oz Absinthe                                       ",
-  "   1 oz Sparkling Water                                ",
-],
+  "   1 oz Sparkling Water                                "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method:

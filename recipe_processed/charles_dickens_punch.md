@@ -41,8 +41,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "   2 cups Pineapple-infused Jamaican Rum",
-  "    1 cup Cognac                        ",
-],
+  "    1 cup Cognac                        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Make in a large pot

@@ -44,8 +44,7 @@ excerpt: |
     "  2 oz Bourbon                                                      ",
   "0.5 oz [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%})",
   "0.5 oz [Grenadine]({%link recipe_processed/grenadine_syrup.md%})              ",
-  "  1 oz Fresh Lemon Juice                                            ",
-],
+  "  1 oz Fresh Lemon Juice                                            "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

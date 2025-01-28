@@ -48,8 +48,7 @@ Orange slice for individual garnish
   "description": "{{ page.excerpt }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "    16 oz Brandy                                                 ",
-],
+    "    16 oz Brandy                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in Tub

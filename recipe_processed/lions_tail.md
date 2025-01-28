@@ -43,8 +43,7 @@ excerpt: |
   "recipeIngredient": [
     "  1.5 oz Bourbon                                                 ",
   "  0.5 oz Allspice Dram                                           ",
-  "2 Dashes Bitters                                                 ",
-],
+  "2 Dashes Bitters                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

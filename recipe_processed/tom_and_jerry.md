@@ -74,8 +74,7 @@ excerpt: |
     "1/6 cup Demerara Rum      ",
   "1/6 cup Cognac            ",
   "        0.5 oz Jamaican Rum    ",
-  "        1 dash Bitters         ",
-],
+  "        1 dash Bitters         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

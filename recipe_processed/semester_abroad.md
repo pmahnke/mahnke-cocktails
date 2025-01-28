@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "  2 oz Rye           ",
   "  1 oz Orange Curaçao",
-  "0.5 oz Fernet Branca ",
-],
+  "0.5 oz Fernet Branca "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

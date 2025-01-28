@@ -48,8 +48,7 @@ excerpt: |
   "0.5 oz Light Amaro         ",
   "0.5 oz Green Chartreuse    ",
   "0.5 oz Cognac              ",
-  "0.5 oz Absinthe            ",
-],
+  "0.5 oz Absinthe            "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

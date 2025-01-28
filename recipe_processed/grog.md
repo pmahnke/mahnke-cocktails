@@ -43,8 +43,7 @@ excerpt: |
   "description": "{{ page.excerpt }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "      2 oz Demerara Rum    ",
-],
+    "      2 oz Demerara Rum    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

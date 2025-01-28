@@ -48,8 +48,7 @@ excerpt: |
     "  2 oz Shochu or Vodka                                  ",
   "  1 oz Lemon juice                                      ",
   "0.5 oz [Simple Syrup]({% link recipe_processed/simple_syrup.md %})",
-  "  4 oz Soda Water                                       ",
-],
+  "  4 oz Soda Water                                       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

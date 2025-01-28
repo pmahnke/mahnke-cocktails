@@ -44,8 +44,7 @@ excerpt: |
   "recipeIngredient": [
     "      2 oz Single Malt Scotch                                       ",
   "1 barspoon Absinthe                                                 ",
-  "      1 oz Sparkling Water                                          ",
-],
+  "      1 oz Sparkling Water                                          "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -70,8 +70,7 @@ excerpt: |
   "recipeIngredient": [
     "    2 oz Cognac                                         ",
   "  1.5 oz Cognac                                         ",
-  "2 dashes Peychaud's bitters                             ",
-],
+  "2 dashes Peychaud's bitters                             "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

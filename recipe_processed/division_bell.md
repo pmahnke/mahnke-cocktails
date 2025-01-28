@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "   1 oz Mezcal            ",
   "0.75 oz Aperol            ",
-  " 0.5 oz Maraschino Liqueur",
-],
+  " 0.5 oz Maraschino Liqueur"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

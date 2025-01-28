@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "  1 oz Vodka         ",
   "  1 oz Coffee Liqueur",
-  "  1 oz Heavy Cream   ",
-],
+  "  1 oz Heavy Cream   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

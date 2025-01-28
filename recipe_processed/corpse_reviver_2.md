@@ -43,8 +43,7 @@ excerpt: |
     "0.75 oz Gin              ",
   "0.75 oz Cocchi Americano ",
   "0.75 oz Triple Sec       ",
-  "1 rinse Absinthe         ",
-],
+  "1 rinse Absinthe         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

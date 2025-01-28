@@ -42,8 +42,7 @@ excerpt: |
     "  0.75 oz Single Malt Scotch",
   "  0.75 oz Sweet Vermouth    ",
   "  0.75 oz White Vermouth    ",
-  "2 dashes Bitters           ",
-],
+  "2 dashes Bitters           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     "    1.5 oz Reposado Tequila  ",
   "   0.75 oz Apricot Liqueur   ",
-  "   0.25 oz Amontillado Sherry",
-],
+  "   0.25 oz Amontillado Sherry"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

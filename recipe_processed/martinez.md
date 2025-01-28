@@ -42,8 +42,7 @@ excerpt: |
     "1.25 oz Gin               ",
   "1.25 oz Sweet Vermouth    ",
   "0.25 oz Maraschino Liqueur",
-  "0.25 oz Orange Bitters    ",
-],
+  "0.25 oz Orange Bitters    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

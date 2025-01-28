@@ -42,8 +42,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "   1 oz Bourbon                                              ",
-  "   1 oz Amontillado Sherry                                   ",
-],
+  "   1 oz Amontillado Sherry                                   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

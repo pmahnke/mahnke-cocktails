@@ -48,8 +48,7 @@ excerpt: |
   "0.75 oz Apple Brandy                                            ",
   "   1 oz Fresh Lemon Juice                                       ",
   "0.25 oz [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%})",
-  " 0.5 oz Egg White                                               ",
-],
+  " 0.5 oz Egg White                                               "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

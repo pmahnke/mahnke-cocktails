@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "0.75 oz Blended Scotch    ",
   "0.75 oz Sweet Vermouth    ",
-  "0.75 oz Cherry Liqueur    ",
-],
+  "0.75 oz Cherry Liqueur    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

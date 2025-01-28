@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     " 1.5 oz Sweet Vermouth",
   "0.75 oz Triple Sec    ",
-  "0.75 oz Bitters       ",
-],
+  "0.75 oz Bitters       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     " 1.5 oz Rye           ",
   "0.75 oz Campari       ",
-  "0.75 oz White Vermouth",
-],
+  "0.75 oz White Vermouth"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

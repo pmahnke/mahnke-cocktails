@@ -40,8 +40,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  .75 oz London Dry gin   ",
-  "  .75 oz Manzanilla sherry",
-],
+  "  .75 oz Manzanilla sherry"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "  1.5 oz Gin               ",
   "    1 oz Apricot Liqueur   ",
-  "2 dashes Peychaud's Bitters",
-],
+  "2 dashes Peychaud's Bitters"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

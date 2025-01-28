@@ -37,8 +37,7 @@ excerpt: |
   "description": "{{ page.excerpt }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "  4 oz Stout         ",
-],
+    "  4 oz Stout         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

@@ -48,8 +48,7 @@ excerpt: |
     "  0.75 oz Overproof Rum ",
   "     1 oz Coffee Liqueur",
   "   0.5 oz Orange Curaçao",
-  "2 to 3 oz Hot Coffee    ",
-],
+  "2 to 3 oz Hot Coffee    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the glass

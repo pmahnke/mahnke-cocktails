@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     " 0.75 oz Gin              ",
   " 0.25 oz Orange Liqueur   ",
-  "  1.5 oz Champagne        ",
-],
+  "  1.5 oz Champagne        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

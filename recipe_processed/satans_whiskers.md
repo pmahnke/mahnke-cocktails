@@ -45,8 +45,7 @@ excerpt: |
   "0.75 oz Dry Vermouth      ",
   "0.75 oz Sweet Vermouth    ",
   " 0.5 oz Orange Liqueur    ",
-  " 1 dash Orange Bitters    ",
-],
+  " 1 dash Orange Bitters    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

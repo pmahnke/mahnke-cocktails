@@ -44,8 +44,7 @@ excerpt: |
   "recipeIngredient": [
     "  1.5 oz Rye                                                     ",
   "  0.5 oz Bénédictine                                             ",
-  "2 dashes Bitters                                                 ",
-],
+  "2 dashes Bitters                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

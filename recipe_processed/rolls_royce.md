@@ -42,8 +42,7 @@ excerpt: |
     "       2 oz Gin           ",
   "     0.5 oz Dry Vermouth  ",
   "     0.5 oz Sweet Vermouth",
-  "2 barspoons Bénédictine   ",
-],
+  "2 barspoons Bénédictine   "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

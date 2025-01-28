@@ -46,8 +46,7 @@ excerpt: |
   "   1 oz Rhum Agricole                                  ",
   " 0.5 oz Orange Curaçao                                 ",
   " 0.5 oz Dark Rum                                       ",
-  "0.25 oz Over Proof Rum                                 ",
-],
+  "0.25 oz Over Proof Rum                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

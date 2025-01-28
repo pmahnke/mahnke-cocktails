@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "   2 oz Scotch, Blended",
   "   1 oz Sweet Vermouth ",
-  " 0.5 oz Bénédictine    ",
-],
+  " 0.5 oz Bénédictine    "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

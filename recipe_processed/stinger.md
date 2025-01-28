@@ -39,8 +39,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "   2 oz Cognac         ",
-  "   1 oz Crème de Menthe",
-],
+  "   1 oz Crème de Menthe"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

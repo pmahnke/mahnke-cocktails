@@ -46,8 +46,7 @@ excerpt: |
   "0.5 oz Jamaican Rum                                         ",
   "  2 oz Pineapple Juice                                      ",
   "1.5 oz [Cream of Coconut]({%link recipe_processed/demerara_syrup.md%})",
-  "  1 oz Fresh Lime Juice                                     ",
-],
+  "  1 oz Fresh Lime Juice                                     "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

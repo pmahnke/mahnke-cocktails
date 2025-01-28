@@ -38,8 +38,7 @@ excerpt: |
   "description": "{{ page.excerpt }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
-    "     1 oz Irish Whiskey                                           ",
-],
+    "     1 oz Irish Whiskey                                           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Build in the Glass

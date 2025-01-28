@@ -42,8 +42,7 @@ excerpt: |
   "recipeIngredient": [
     " 1.5 oz Gin         ",
   "0.75 oz Suze        ",
-  "0.75 oz Lillet Blanc",
-],
+  "0.75 oz Lillet Blanc"],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

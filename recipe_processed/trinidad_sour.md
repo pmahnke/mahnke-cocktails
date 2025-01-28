@@ -40,8 +40,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "   1 oz Bitters                                        ",
-  " 0.5 oz Rye                                            ",
-],
+  " 0.5 oz Rye                                            "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

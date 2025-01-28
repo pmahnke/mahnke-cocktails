@@ -44,8 +44,7 @@ excerpt: |
   "recipeIngredient": [
     "         2 oz Bourbon                                                  ",
   "       0.5 oz Crème de Cassis                                          ",
-  "1 to 2 dashes Bitters                                                  ",
-],
+  "1 to 2 dashes Bitters                                                  "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

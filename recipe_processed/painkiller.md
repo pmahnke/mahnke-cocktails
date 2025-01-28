@@ -41,8 +41,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [
     "  1 oz Demerara Rum         ",
-  "  1 oz Jamaican Rum         ",
-],
+  "  1 oz Jamaican Rum         "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

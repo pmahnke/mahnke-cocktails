@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "0.75 oz Bourbon          ",
   "0.75 oz Light Amaro      ",
-  "0.75 oz Aperol           ",
-],
+  "0.75 oz Aperol           "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Shaken

@@ -45,8 +45,7 @@ excerpt: |
     "    1 oz Bourbon                                        ",
   "    1 oz Cognac                                         ",
   "3 dashes Bitters                                        ",
-  "  1 dash Bitters                                        ",
-],
+  "  1 dash Bitters                                        "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

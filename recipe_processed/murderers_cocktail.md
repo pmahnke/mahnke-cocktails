@@ -44,8 +44,7 @@ excerpt: |
   "  1 oz Swedish Punsch",
   "  1 oz Jamaican Rum  ",
   "0.5 oz Absinthe      ",
-  "1 dash Bitters       ",
-],
+  "1 dash Bitters       "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

@@ -40,8 +40,7 @@ excerpt: |
   "recipeIngredient": [
     "1.5 oz Sweet Vermouth    ",
   "  1 oz Single Malt Scotch",
-  "0.5 oz Aperol            ",
-],
+  "0.5 oz Aperol            "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred

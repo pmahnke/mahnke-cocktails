@@ -41,8 +41,7 @@ excerpt: |
   "recipeIngredient": [
     "    2 oz Rye                                                     ",
   " 0.25 oz Fernet Branca                                           ",
-  "2 dashes Bitters                                                 ",
-],
+  "2 dashes Bitters                                                 "],
   "name": "{{ page.title }}",
   "recipeInstructions": "
 - Method: Stirred
