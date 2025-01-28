@@ -17,10 +17,10 @@ excerpt: |
 
 |        Amount | Ingredient          | Brand       |
 | ------------: | ------------------- | ----------- |
-|        <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Elderflower Liqueur | St. Germain |
+|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Elderflower Liqueur | St. Germain |
 | <span class="onex active">4 to 6 leaves </span> <span class="onehalfx">6 to 9 leaves </span> <span class="twox">8 to 12 leaves </span> <span class="threex">12 to 18 leaves </span>| Mint                |
-|          <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4.5 oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Prosecco            | Ruffino     |
-|          <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Soda Water          | Topo Chico  |
+|          <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Prosecco            | Ruffino     |
+|          <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Soda Water          | Topo Chico  |
 
 ### Notes
 

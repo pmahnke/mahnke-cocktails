@@ -17,9 +17,9 @@ excerpt: |
 |         Amount | Ingredient         | Brand   |
 | -------------: | ------------------ | ------- |
 |           <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Reposado Tequila   | Milagro |
-|         <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Light Agave Nectar |
-|      <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> whole </span> <span class="twox">1 whole </span> <span class="threex">1.5 whole </span>| Lemon              |
-|        <span class="onex active">1 Small </span> <span class="onehalfx">1.5 Small </span> <span class="twox">2 Small </span> <span class="threex">3 Small </span>| Peach              |
+|         <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Light Agave Nectar |
+|      <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> whole </span> <span class="twox">1 whole </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span>| Lemon              |
+|        <span class="onex active">1 Small </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> Small </span> <span class="twox">2 Small </span> <span class="threex">3 Small </span>| Peach              |
 | <span class="onex active">8 to 10 leaves </span> <span class="onehalfx">12 to 15 leaves </span> <span class="twox">16 to 20 leaves </span> <span class="threex">24 to 30 leaves </span>| Sage               |
 
 ### Notes

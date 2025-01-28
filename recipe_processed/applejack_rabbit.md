@@ -17,10 +17,10 @@ excerpt: |
 
 |  Amount | Ingredient              | Brand                                         |
 | ------: | ----------------------- | --------------------------------------------- |
-|  <span class="onex active">1.5 oz  / 38 ml</span> <span class="onehalfx">2.25 oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4.5 oz  / 113 ml</span>| Apple Brandy            | Laird’s Straight Apple Brandy Bottled in Bond |
-| <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz.  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz.  / 19 ml</span> <span class="twox">1 oz.  / 25 ml</span> <span class="threex">1.5 oz.  / 38 ml</span>| Fresh Orange Juice      |
-| <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz.  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz.  / 19 ml</span> <span class="twox">1 oz.  / 25 ml</span> <span class="threex">1.5 oz.  / 38 ml</span>| Fresh Lemon Juice       |
-| <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz.  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz.  / 19 ml</span> <span class="twox">1 oz.  / 25 ml</span> <span class="threex">1.5 oz.  / 38 ml</span>| Pure Maple Syrup (Dark) |
+|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Apple Brandy            | Laird’s Straight Apple Brandy Bottled in Bond |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz.  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz.  / 19 ml</span> <span class="twox">1 oz.  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz.  / 38 ml</span>| Fresh Orange Juice      |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz.  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz.  / 19 ml</span> <span class="twox">1 oz.  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz.  / 38 ml</span>| Fresh Lemon Juice       |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz.  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz.  / 19 ml</span> <span class="twox">1 oz.  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz.  / 38 ml</span>| Pure Maple Syrup (Dark) |
 
 ### Notes
 

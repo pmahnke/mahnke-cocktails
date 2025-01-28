@@ -17,10 +17,10 @@ excerpt: |
 
 | Amount | Ingredient        | Brand             |
 | -----: | ----------------- | ----------------- |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Cognac            | Maison Rouge VSOP |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Aperol            | Aperol            |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lemon Juice |                   |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Black Sambuca     | Romana            |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Cognac            | Maison Rouge VSOP |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Aperol            | Aperol            |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lemon Juice |                   |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Black Sambuca     | Romana            |
 
 ### Notes
 

@@ -16,8 +16,8 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
-|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Cognac         | Maison Rouge VSOP          |
-|  <span class="onex active"><sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Dry Curaçao    | Pierre Ferrand             |
+|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Cognac         | Maison Rouge VSOP          |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Dry Curaçao    | Pierre Ferrand             |
 | <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters        | Angostura Aromatic Bitters |
 |     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Sparkling Wine |
 

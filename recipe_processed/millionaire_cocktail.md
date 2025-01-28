@@ -22,11 +22,11 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand                              |
 | ------: | ----------------------------------------------- | ---------------------------------- |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Jamaica Rum                                     | Appleton Estate 12 year Rare Casks |
-|  <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Apricot Liqueur                                 | Giffard Abricot du Roussillon      |
-|  <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Sloe Gin                                        | Plymouth                           |
-| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Fresh Lime Juice                                |
-|  <sup>1</sup>&frasl;<sub>4</sub>oz | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Jamaica Rum                                     | Appleton Estate 12 year Rare Casks |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Apricot Liqueur                                 | Giffard Abricot du Roussillon      |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Sloe Gin                                        | Plymouth                           |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lime Juice                                |
+|   <sup>1</sup>&frasl;<sub>4</sub>oz | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 
 ### Notes
 

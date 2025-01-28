@@ -40,9 +40,9 @@ excerpt: |
 
 |  Amount | Ingredient     | Brand                                                     |
 | ------: | -------------- | --------------------------------------------------------- |
-| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Gin            | Martin Millers                                            |
-| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Crème de Cacao | Tempus Fugit                                              |
-| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1.125 oz  / 28 ml</span> <span class="twox">1.5 oz  / 38 ml</span> <span class="threex">2.25 oz  / 56 ml</span>| Cream          | half & half, heavy cream, or a favorite non-dairy creamer |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Gin            | Martin Millers                                            |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Crème de Cacao | Tempus Fugit                                              |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Cream          | half & half, heavy cream, or a favorite non-dairy creamer |
 
 ### Notes
 

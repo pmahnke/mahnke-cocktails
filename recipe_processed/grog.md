@@ -18,8 +18,8 @@ excerpt: |
 |     Amount | Ingredient       | Brand    |
 | ---------: | ---------------- | -------- |
 |       <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Demerara Rum     | Pusser's |
-|     <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Fresh Lime Juice |
-| <span class="onex active">1 barspoons</span> <span class="onehalfx">1.5 barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Demerara Sugar   |
+|     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Lime Juice |
+| <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Demerara Sugar   |
 
 ### Notes
 

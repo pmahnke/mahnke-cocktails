@@ -15,7 +15,7 @@ excerpt: |
 
 |  Amount | Ingredient             |
 | ------: | ---------------------- |
-|  <span class="onex active">1 part </span> <span class="onehalfx">1.5 part </span> <span class="twox">2 part </span> <span class="threex">3 part </span>| Coarsely Ground Coffee |
+|  <span class="onex active">1 part </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> part </span> <span class="twox">2 part </span> <span class="threex">3 part </span>| Coarsely Ground Coffee |
 | <span class="onex active">8 parts </span> <span class="onehalfx">12 parts </span> <span class="twox">16 parts </span> <span class="threex">24 parts </span>| Water                  |
 
 ### Method

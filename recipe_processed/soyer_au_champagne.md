@@ -17,11 +17,11 @@ excerpt: |
 
 |        Amount | Ingredient        | Brand                 |
 | ------------: | ----------------- | --------------------- |
-| <span class="onex active">1 small scoop </span> <span class="onehalfx">1.5 small scoop </span> <span class="twox">2 small scoop </span> <span class="threex">3 small scoop </span>| Vanilla Ice Cream |
-|        <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Cognac            | Maison Rouge V.S.O.P. |
-|        <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Orange Liqueur    | Grand Marnier         |
-|        <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1.5 oz  / 38 ml</span>| Bénédictine       | Bénédictine DOM       |
-|   <span class="onex active">1 to 1.5 oz  / 25 ml</span> <span class="onehalfx">1.5 to 1.5 oz  / 38 ml</span> <span class="twox">2 to 1.5 oz  / 50 ml</span> <span class="threex">3 to 1.5 oz  / 75 ml</span>| Brut Champagne    | Laurent-Perrier       |
+| <span class="onex active">1 small scoop </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> small scoop </span> <span class="twox">2 small scoop </span> <span class="threex">3 small scoop </span>| Vanilla Ice Cream |
+|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Cognac            | Maison Rouge V.S.O.P. |
+|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Orange Liqueur    | Grand Marnier         |
+|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Bénédictine       | Bénédictine DOM       |
+|   <span class="onex active">1 to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 50 ml</span> <span class="threex">3 to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span>| Brut Champagne    | Laurent-Perrier       |
 
 ### Notes
 
@@ -29,4 +29,4 @@ excerpt: |
 - Pour: Julep Strain
 - Glassware: Coupe
 - Garnish: None
-- Special Prep: Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass. Freeze for 15 to 20 minutes. Pour cocktail around the ice cream. Top with 1 to 1.5 ounces of champagne. Serve with a small spoon.
+- Special Prep: Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass. Freeze for 15 to 20 minutes. Pour cocktail around the ice cream. Top with 1 to 1 <sup>1</sup>&frasl;<sub>2</sub> ounces of champagne. Serve with a small spoon.

@@ -16,11 +16,11 @@ excerpt: |
 
 |         Amount | Ingredient                                                | Brand      |
 | -------------: | --------------------------------------------------------- | ---------- |
-| <span class="onex active">15 to 20 whole </span> <span class="onehalfx">22.5 to 30 whole </span> <span class="twox">30 to 40 whole </span> <span class="threex">45 to 60 whole </span>| Fresh Blueberries                                         |
-|           <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|           <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lemon Juice                                         |
+| <span class="onex active">15 to 20 whole </span> <span class="onehalfx">22 <sup>1</sup>&frasl;<sub>2</sub> to 30 whole </span> <span class="twox">30 to 40 whole </span> <span class="threex">45 to 60 whole </span>| Fresh Blueberries                                         |
+|           <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|           <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lemon Juice                                         |
 | <span class="onex active">8 to 10 leaves </span> <span class="onehalfx">12 to 15 leaves </span> <span class="twox">16 to 20 leaves </span> <span class="threex">24 to 30 leaves </span>| Mint                                                      |
-|      <span class="onex active">3 to 4 oz  / 75 to 100 ml</span> <span class="onehalfx">4.5 to 6 oz  / 113 to 150 ml</span> <span class="twox">6 to 8 oz  / 150 to 200 ml</span> <span class="threex">9 to 12 oz  / 225 to 300 ml</span>| Ginger Beer                                               | Fever Tree |
+|      <span class="onex active">3 to 4 oz  / 75 to 100 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 6 oz  / 113 to 150 ml</span> <span class="twox">6 to 8 oz  / 150 to 200 ml</span> <span class="threex">9 to 12 oz  / 225 to 300 ml</span>| Ginger Beer                                               | Fever Tree |
 
 ### Notes
 

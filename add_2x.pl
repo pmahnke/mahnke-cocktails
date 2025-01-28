@@ -69,12 +69,12 @@ while (my $file = readdir DIR) {
         }
 
         # convert fractions from 0.75 to 3/4
-        s/0.125/<sup>1<\/sup>&frasl;<sub>8<\/sub>/; # 1/8
-        s/0.1875/<sup>1<\/sup>&frasl;<sub>4<\/sub>/; # 3/16, but make it 1/4
-        s/0.25/<sup>1<\/sup>&frasl;<sub>4<\/sub>/; # 1/4
-        s/0.375/<sup>1<\/sup>&frasl;<sub>2<\/sub>/; # 3/8, but make it 1/2
-        s/0.5/<sup>1<\/sup>&frasl;<sub>2<\/sub>/; # 1/2
-        s/0.75/<sup>3<\/sup>&frasl;<sub>4<\/sub>/; # 3/4
+        s/(0\.125|\.125)/ <sup>1<\/sup>&frasl;<sub>8<\/sub>/g; # 1/8
+        s/(0\.1875|\.1875)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 3/16, but make it 1/4
+        s/(0\.25|\.25)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 1/4
+        s/(0\.375|\.375)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 3/8, but make it 1/2
+        s/(0\.5|\.5)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 1/2
+        s/(0\.75|\.75)/ <sup>3<\/sup>&frasl;<sub>4<\/sub>/g; # 3/4
 
     	# also convert interal liquid links
 	    s/link recipe\//link recipe_processed\//;

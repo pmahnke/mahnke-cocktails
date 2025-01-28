@@ -15,10 +15,10 @@ excerpt: |
 
 |       Amount | Ingredient             |
 | -----------: | ---------------------- |
-|       <span class="onex active">3 cups </span> <span class="onehalfx">4.5 cups </span> <span class="twox">6 cups </span> <span class="threex">9 cups </span>| White Sugar            |
+|       <span class="onex active">3 cups </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="twox">6 cups </span> <span class="threex">9 cups </span>| White Sugar            |
 |       <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span>| 100% Pomegranate Juice |
-|   <span class="onex active">1 barspoons</span> <span class="onehalfx">1.5 barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Pomegranate Molasses   |
-| <span class="onex active"><sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="onehalfx"><sup>3</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox">1 barspoons</span> <span class="threex">1.5 barspoons</span>| Rose Water             |
+|   <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Pomegranate Molasses   |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox">1 barspoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Rose Water             |
 
 ### Method
 

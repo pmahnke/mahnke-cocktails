@@ -17,10 +17,10 @@ excerpt: |
 
 |  Amount | Ingredient         | Brand                     |
 | ------: | ------------------ | ------------------------- |
-| <span class="onex active">1.25 oz  / 31 ml</span> <span class="onehalfx">1.875 oz  / 47 ml</span> <span class="twox">2.5 oz  / 63 ml</span> <span class="threex">3.75 oz  / 94 ml</span>| Gin                | Scofflaw Old Tom          |
-| <span class="onex active">1.25 oz  / 31 ml</span> <span class="onehalfx">1.875 oz  / 47 ml</span> <span class="twox">2.5 oz  / 63 ml</span> <span class="threex">3.75 oz  / 94 ml</span>| Sweet Vermouth     | Cocchi Vermouth di Torino |
-| <span class="onex active"><sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Maraschino Liqueur | Luxardo                   |
-| <span class="onex active"><sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"><sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"><sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Orange Bitters     | Fee Brother's             |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 31 ml</span> <span class="onehalfx">1.875 oz  / 47 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 63 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 94 ml</span>| Gin                | Scofflaw Old Tom          |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 31 ml</span> <span class="onehalfx">1.875 oz  / 47 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 63 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 94 ml</span>| Sweet Vermouth     | Cocchi Vermouth di Torino |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Maraschino Liqueur | Luxardo                   |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Orange Bitters     | Fee Brother's             |
 
 ### Notes
 

@@ -16,7 +16,7 @@ excerpt: |
 | Amount | Ingredient     |
 | -----: | -------------- |
 | <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span>| Demerara Sugar |
-|  <span class="onex active">1 cup </span> <span class="onehalfx">1.5 cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Hot Water      |
+|  <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Hot Water      |
 
 ### Method
 

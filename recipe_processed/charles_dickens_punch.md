@@ -17,10 +17,10 @@ excerpt: |
 
 |    Amount | Ingredient                     | Brand             |
 | --------: | ------------------------------ | ----------------- |
-|  <span class="onex active">3 swathes</span> <span class="onehalfx">4.5 swathes</span> <span class="twox">6 swathes</span> <span class="threex">9 swathes</span>| Lemons Peels                   |
-| <span class="onex active"><sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="onehalfx">1.125 cups </span> <span class="twox">1.5 cups </span> <span class="threex">2.25 cups </span>| Demerara Sugar                 |
+|  <span class="onex active">3 swathes</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> swathes</span> <span class="twox">6 swathes</span> <span class="threex">9 swathes</span>| Lemons Peels                   |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> cups </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> cups </span>| Demerara Sugar                 |
 |    <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span>| Pineapple-infused Jamaican Rum | Smith & Cross     |
-|     <span class="onex active">1 cup </span> <span class="onehalfx">1.5 cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Cognac                         | Maison Rouge VSOP |
+|     <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Cognac                         | Maison Rouge VSOP |
 |    <span class="onex active">4 cups </span> <span class="onehalfx">6 cups </span> <span class="twox">8 cups </span> <span class="threex">12 cups </span>| Brewed Black Tea               |
 
 ### Notes

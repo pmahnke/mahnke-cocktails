@@ -215,7 +215,7 @@ excerpt: |
 ### Pousse café
 
 - Comprises: Spirits + liqueurs + syrups
-- Glass: Tall thin shot glass or small schooner (2.5oz max capacity)
+- Glass: Tall thin shot glass or small schooner (2 <sup>1</sup>&frasl;<sub>2</sub>oz max capacity)
 - Serve: Layered in glass
 - Created: Unknown
 - Example: Pousse-Café

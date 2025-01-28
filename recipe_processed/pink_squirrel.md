@@ -17,11 +17,11 @@ excerpt: |
 
 |   Amount | Ingredient           | Brand         |
 | -------: | -------------------- | ------------- |
-|   <span class="onex active">1.5 oz  / 38 ml</span> <span class="onehalfx">2.25 oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4.5 oz  / 113 ml</span>| Crème De Noyaux      | Tempus Fugit  |
-|   <span class="onex active">1.5 oz  / 38 ml</span> <span class="onehalfx">2.25 oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4.5 oz  / 113 ml</span>| White Crème De Cacao | Marie Brizard |
-|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1.5 oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Heavy Cream          |
-| <span class="onex active">3 scoops </span> <span class="onehalfx">4.5 scoops </span> <span class="twox">6 scoops </span> <span class="threex">9 scoops </span>| Vanilla Ice Cream    |
-| <span class="onex active"><sup>1</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx"><sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox"><sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex"><sup>3</sup>&frasl;<sub>4</sub> cup </span>| Crushed Ice          |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Crème De Noyaux      | Tempus Fugit  |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| White Crème De Cacao | Marie Brizard |
+|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Heavy Cream          |
+| <span class="onex active">3 scoops </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> scoops </span> <span class="twox">6 scoops </span> <span class="threex">9 scoops </span>| Vanilla Ice Cream    |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> cup </span>| Crushed Ice          |
 
 ### Notes
 

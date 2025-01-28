@@ -17,10 +17,10 @@ excerpt: |
 
 |   Amount | Ingredient                                      | Brand      |
 | -------: | ----------------------------------------------- | ---------- |
-|   <span class="onex active">1.5 oz  / 38 ml</span> <span class="onehalfx">2.25 oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4.5 oz  / 113 ml</span>| [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-|   <span class="onex active">1.5 oz  / 38 ml</span> <span class="onehalfx">2.25 oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4.5 oz  / 113 ml</span>| Fresh Lemon Juice                               |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Fresh Lemon Juice                               |
 | <span class="onex active">4 leaves </span> <span class="onehalfx">6 leaves </span> <span class="twox">8 leaves </span> <span class="threex">12 leaves </span>| Basil                                           |
-|     <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4.5 oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Soda Water                                      | Topo Chico |
+|     <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Soda Water                                      | Topo Chico |
 
 ### Notes
 
