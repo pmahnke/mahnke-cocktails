@@ -62,7 +62,8 @@ excerpt: |
     'text': '- Special Prep: Spray the absinthe over the top of the cocktail.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

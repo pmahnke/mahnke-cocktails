@@ -70,7 +70,8 @@ excerpt: |
     'text': '- Special Prep: Layer each ingredient carefully to show the individual layers.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

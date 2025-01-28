@@ -145,7 +145,8 @@ excerpt: |
     'text': '- Special Prep: Expressed lemon oil.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

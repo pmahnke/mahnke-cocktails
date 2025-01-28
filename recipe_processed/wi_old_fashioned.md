@@ -145,7 +145,8 @@ excerpt: |
     'text': '  - No Floater
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

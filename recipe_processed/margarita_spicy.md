@@ -76,7 +76,8 @@ excerpt: |
     'text': '- Special Prep: Muddle the jalapeño slices in the cheater tin before shaking. Tajin rim.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

@@ -94,7 +94,8 @@ excerpt: |
     'text': '  - Top with lightly whipped heavy cream
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

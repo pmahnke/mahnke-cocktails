@@ -88,7 +88,8 @@ excerpt: |
     'text': '- Special Prep: Pour the Absinthe into the glass and top with champagne. Add enough champagne to have the cocktail turn milky (the Louche Effect).
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

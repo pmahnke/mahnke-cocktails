@@ -64,7 +64,8 @@ excerpt: |
     'text': '- Special Prep: Pour in one ounce of tonic water, then pour in the cocktail. Top off with tonic water.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

@@ -72,7 +72,8 @@ excerpt: |
     'text': '- Special Prep: Pour ginger ale and shaken Pimm's and lemon mixture into glass together.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

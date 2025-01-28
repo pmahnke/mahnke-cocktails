@@ -77,7 +77,8 @@ excerpt: |
     'text': '- Special Prep: Swizzle in the glass, and top with additional crushed ice.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

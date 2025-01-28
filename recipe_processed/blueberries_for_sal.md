@@ -100,7 +100,8 @@ excerpt: |
     'text': '  - Top with the ginger beer.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

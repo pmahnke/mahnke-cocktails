@@ -68,7 +68,8 @@ excerpt: |
     'text': '- Special Prep: Add all ingredients to the larger shaker tin and blend with an emersion blender.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

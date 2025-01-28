@@ -92,7 +92,8 @@ excerpt: |
     'text': '- Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.### Gin
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

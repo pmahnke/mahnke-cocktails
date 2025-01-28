@@ -78,7 +78,8 @@ excerpt: |
     'text': '- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

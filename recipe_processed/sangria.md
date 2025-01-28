@@ -84,7 +84,8 @@ excerpt: |
     'text': '- Special Prep: Top glasses with soda water
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

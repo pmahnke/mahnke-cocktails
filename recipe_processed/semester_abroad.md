@@ -62,7 +62,8 @@ excerpt: |
     'text': '- Special Prep: Express orange oil over the cocktail.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

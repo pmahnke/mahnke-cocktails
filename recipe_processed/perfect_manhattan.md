@@ -64,7 +64,8 @@ excerpt: |
     'text': '- Special Prep: Sugared Rim
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

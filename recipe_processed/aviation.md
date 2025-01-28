@@ -66,7 +66,8 @@ excerpt: |
     'text': '- Special Prep: Stirring preserves the purple color
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

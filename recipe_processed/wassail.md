@@ -74,7 +74,8 @@ excerpt: |
     'text': '- Special Prep: Add spices to a spice bag.Add apple cider and the spice bag to a pot and heat.Add remaining ingredients to the pot.Simmer covered for 20 to 25 minutes.Turn off the heat, remove spice bag and add the apple brandy. Serve in tea cups garnished with the dries apple slices.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

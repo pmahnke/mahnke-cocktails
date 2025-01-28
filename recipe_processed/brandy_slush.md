@@ -95,7 +95,8 @@ Orange slice for individual garnish
     'text': '  - Garnish with a slice of orange.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

@@ -54,7 +54,8 @@ excerpt: |
   "8 oz Semi-Rich Simple Syrup"],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

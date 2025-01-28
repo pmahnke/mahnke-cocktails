@@ -76,7 +76,8 @@ excerpt: |
     'text': '- Special Prep: Muddle the cucumber in the cheater tin.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

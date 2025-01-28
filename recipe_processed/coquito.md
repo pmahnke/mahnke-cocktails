@@ -120,7 +120,8 @@ excerpt: |
     'text': '1. Boil water with spices until volume is reduced by half. Chill in fridge or freezer.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

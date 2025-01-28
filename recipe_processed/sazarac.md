@@ -68,7 +68,8 @@ excerpt: |
     'text': '- Special Prep: Rinse the glass with absinthe. Strain in cocktail. Express lemon oil on the drink.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

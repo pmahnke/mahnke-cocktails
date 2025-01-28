@@ -80,7 +80,8 @@ excerpt: |
     'text': '- Special Prep: Pour cocktail into the glass, and top with sparkling water
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

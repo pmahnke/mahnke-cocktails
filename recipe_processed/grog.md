@@ -87,7 +87,8 @@ excerpt: |
     'text': '  - Strain into a glass or mug over ice and garnish with a lime wedge.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

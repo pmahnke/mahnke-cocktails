@@ -73,7 +73,8 @@ excerpt: |
     'text': '- Special Prep: Add cocktail to the glass with ice and top with soda water.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

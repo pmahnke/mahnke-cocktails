@@ -93,7 +93,8 @@ excerpt: |
     'text': '  - Move to glass jars and store sealed in the fridge.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

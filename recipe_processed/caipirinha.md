@@ -72,7 +72,8 @@ excerpt: |
     'text': '- Special Prep: Add the lime wedges and sugar to the glass and muddle. Add the cachaça, then add crushed ice and stir. Top with more crushed ice.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

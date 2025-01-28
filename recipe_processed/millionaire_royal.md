@@ -83,7 +83,8 @@ excerpt: |
     'text': '  - Combine the two tins and shake.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

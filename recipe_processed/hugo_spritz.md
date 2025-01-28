@@ -69,7 +69,8 @@ excerpt: |
     'text': '  for a minute before adding the prosecco and soda water.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

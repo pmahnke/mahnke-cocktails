@@ -72,7 +72,8 @@ excerpt: |
     'text': '- Special Prep: Serve in a smoke-rinsed lowball glass
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

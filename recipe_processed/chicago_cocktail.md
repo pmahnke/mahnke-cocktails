@@ -68,7 +68,8 @@ excerpt: |
     'text': '  expressed orange OR lemon oil.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

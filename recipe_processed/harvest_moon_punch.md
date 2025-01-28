@@ -70,7 +70,8 @@ excerpt: |
     'text': '- Special Prep: Add large ice cubes of black tea and apple slices
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

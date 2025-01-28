@@ -122,7 +122,8 @@ excerpt: |
     'text': '- Special Prep: Express the citrus oil into the mixing tin before dropping the swaths in the tin.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

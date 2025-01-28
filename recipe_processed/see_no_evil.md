@@ -76,7 +76,8 @@ excerpt: |
     'text': '- Special Prep: Open pour the cocktail into the glass. Top with additional crushed ice. Dash bitters on top.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

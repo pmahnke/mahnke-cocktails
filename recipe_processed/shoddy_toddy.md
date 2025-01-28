@@ -66,7 +66,8 @@ excerpt: |
     'text': '- Special Prep: Temper the mug with hot water before building the toddy.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

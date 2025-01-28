@@ -66,7 +66,8 @@ excerpt: |
     'text': '- Special Prep: Add all the ingredients to a shaking tin, except the red wine. For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white. Float the red wine on top of the cocktail. Lemon oil (optional).
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

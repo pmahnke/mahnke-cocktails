@@ -36,7 +36,8 @@ excerpt: |
   "1 tablespoon Powdered Sugar"],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

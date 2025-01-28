@@ -65,7 +65,8 @@ excerpt: |
     'text': '- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, the peach and agave nectar into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

@@ -72,7 +72,8 @@ excerpt: |
     'text': '- Special Prep: Top with Coca-Cola
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

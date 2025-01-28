@@ -90,7 +90,8 @@ excerpt: |
     'text': '- Garnish: Cocktail cherry
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

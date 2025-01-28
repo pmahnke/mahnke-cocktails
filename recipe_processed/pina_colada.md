@@ -66,7 +66,8 @@ excerpt: |
     'text': '- Special Prep: Use an emersion blender directly in the shaker tin. Blend intill frothy.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

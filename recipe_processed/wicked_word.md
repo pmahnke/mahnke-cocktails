@@ -84,7 +84,8 @@ excerpt: |
     'text': '  - Pour the flaming sambuca on the cocktail and stir.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

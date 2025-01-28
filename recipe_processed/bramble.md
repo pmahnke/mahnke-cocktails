@@ -74,7 +74,8 @@ excerpt: |
     'text': '- Special Prep: Shake the gin, lemon juice and [Simple Syrup]({%link recipe_processed/simple_syrup.md%}). Pour into the glass over crushed ice. Top the glass with more crushed ice. Then top with the Crème de Mûre.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

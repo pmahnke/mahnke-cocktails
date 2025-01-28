@@ -69,7 +69,8 @@ excerpt: |
     'text': '- OPTIONAL: 1 barspoon Tempus Fugit Crème de Cacao added to the glass and placed in the freezer to solidify
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

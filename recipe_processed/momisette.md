@@ -74,7 +74,8 @@ excerpt: |
     'text': '- Special Prep: Single strain into glass, top the drink with the sparkling water.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

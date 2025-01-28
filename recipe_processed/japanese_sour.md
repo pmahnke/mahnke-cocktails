@@ -90,7 +90,8 @@ excerpt: |
     'text': '- Salty Lemon Sour: Add a pinch of salt to the shaker for a savory kick.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

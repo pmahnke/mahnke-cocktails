@@ -68,7 +68,8 @@ excerpt: |
     'text': '- Special Prep: Express the orange oil over the drink, then stud the peel with the cloves.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

@@ -108,7 +108,8 @@ excerpt: |
     'text': '  - Feel free to swap out the base spirit
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

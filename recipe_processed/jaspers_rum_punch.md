@@ -70,7 +70,8 @@ excerpt: |
     'text': '- Special Prep: Top glass with additional crushed ice
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

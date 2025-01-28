@@ -64,7 +64,8 @@ excerpt: |
     'text': '- Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

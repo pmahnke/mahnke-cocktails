@@ -63,7 +63,8 @@ excerpt: |
     'text': '- Special Prep: Pour cocktail into glass and top it off with the champagne.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

@@ -78,7 +78,8 @@ excerpt: |
     'text': '- Special Prep: Pour cocktaill over crushed ice, and top with additional crushed ice.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

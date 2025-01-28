@@ -60,7 +60,8 @@ excerpt: |
     'text': '- Special Prep: Express lemon oil into cocktail
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

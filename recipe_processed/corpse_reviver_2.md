@@ -66,7 +66,8 @@ excerpt: |
     'text': '- Special Prep: Add the cherry to the glass before straining the cocktail
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

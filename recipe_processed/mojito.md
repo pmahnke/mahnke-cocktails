@@ -101,7 +101,8 @@ excerpt: |
     'text': '- Prep: Add mint leaves to the glass and bruise them gently with a barspoon. Pull them up the side of the glass to coat the glass with the essential oils. Add ice, and pour in the cocktail. Top with soda water.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

@@ -74,7 +74,8 @@ excerpt: |
     'text': '- Special Prep: Salted rim
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

@@ -37,7 +37,8 @@ excerpt: |
   "1 whole Pineapple "],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

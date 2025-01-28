@@ -66,7 +66,8 @@ excerpt: |
     'text': '- Special Prep: Press and slide the mint leaves in the glass first. Then build the cocktail. Stir vigorously (swizzle) to combine. Top with crushed ice. Float the bitters on top.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

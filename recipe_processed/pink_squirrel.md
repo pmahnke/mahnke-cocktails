@@ -81,7 +81,8 @@ excerpt: |
     'text': '  - Top With [Chartreuse Whipped Cream]({%link recipe_processed/chartreuse_whipped_cream.md%}).
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

@@ -72,7 +72,8 @@ excerpt: |
     'text': '- Special Prep: Add mint leaves directly to the shaking tin. Then build the cocktail. Top with additional crushed ice.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

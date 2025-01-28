@@ -66,7 +66,8 @@ excerpt: |
     'text': '- Special Prep: Blend cocktail with a stick blender in the shaking tin. Pour cocktail into glass. Top with [Chartreuse Whipped Cream]({%link recipe_processed/chartreuse_whipped_cream.md%}).
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

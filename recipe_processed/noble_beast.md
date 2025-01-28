@@ -64,7 +64,8 @@ excerpt: |
     'text': '- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

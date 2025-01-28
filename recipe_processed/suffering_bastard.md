@@ -82,7 +82,8 @@ excerpt: |
     'text': '- Special Prep: Pour the ginger beer into the glass while pouring the cocktail.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

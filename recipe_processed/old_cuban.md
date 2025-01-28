@@ -68,7 +68,8 @@ excerpt: |
     'text': '- Special Prep: Add mint leaves to the shaking tin and add other ingredients minus the champagne. Pour cocktail into glass and top it off with champagne.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

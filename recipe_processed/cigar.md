@@ -62,7 +62,8 @@ excerpt: |
     'text': '- Special Prep: Scorched cinnamon stick for garnish
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

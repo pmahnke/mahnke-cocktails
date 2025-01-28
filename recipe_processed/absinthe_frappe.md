@@ -109,7 +109,8 @@ excerpt: |
     'text': '  - Then strain the cocktail into the glass filled with crushed ice
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

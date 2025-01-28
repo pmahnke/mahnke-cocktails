@@ -74,7 +74,8 @@ excerpt: |
     'text': '- Special Prep: Single strain into glass, top the drink with the ginger soda
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

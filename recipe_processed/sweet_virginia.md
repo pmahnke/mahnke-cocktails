@@ -70,7 +70,8 @@ excerpt: |
     'text': '- Special Prep: None
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

@@ -43,7 +43,8 @@ excerpt: |
   "0.5 barspoon Almond Extract "],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

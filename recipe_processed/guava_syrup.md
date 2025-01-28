@@ -38,7 +38,8 @@ excerpt: |
   "0.5 cups Water"],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

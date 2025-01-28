@@ -122,7 +122,8 @@ while (my $file = readdir DIR) {
   "recipeIngredient": [$s_ingredient],
   "name": "{{ page.title }}",
   "recipeInstructions": "$s_instructions",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

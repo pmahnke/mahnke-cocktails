@@ -68,7 +68,8 @@ excerpt: |
     'text': '- Special Prep: Express orange oil over the cocktail, and wipe the rim with the peal.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

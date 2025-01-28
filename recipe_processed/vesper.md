@@ -62,7 +62,8 @@ excerpt: |
     'text': '- Special Prep: Lillet Blanc may be substituted for Cocchi Americano.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

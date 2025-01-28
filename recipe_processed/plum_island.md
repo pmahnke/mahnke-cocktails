@@ -78,7 +78,8 @@ excerpt: |
     'text': '- Special Prep: Top with crushed ice.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

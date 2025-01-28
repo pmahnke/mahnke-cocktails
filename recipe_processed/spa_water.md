@@ -76,7 +76,8 @@ excerpt: |
     'text': '- Special Prep: Add the cucumber, mint, lime juice and simple syrup to the cup and muddle. Fill the cup with crushed ice and top with soda water.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

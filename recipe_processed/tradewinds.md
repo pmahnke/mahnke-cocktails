@@ -76,7 +76,8 @@ excerpt: |
     'text': '- Special Prep: Stir the drink heavily in the glass.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 

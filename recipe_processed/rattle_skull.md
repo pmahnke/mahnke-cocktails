@@ -66,7 +66,8 @@ excerpt: |
     'text': '- Special Prep: Pour the ale into the glass and top with the cocktail.
 '
   }",
-  "recipeYield": "1 cocktail"
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail"
 }
 </script>
 
