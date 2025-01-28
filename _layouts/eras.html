@@ -9,22 +9,22 @@ layout: default
         <h2>{{ s.name }}</h2>
         <p>{{ s.description }}</p>
         
-        <table style="width:100%;">
+        <table class="home_table">
         {% for page in site.pages %}
         {% if page.eras contains s.slug and page.layout == 'recipe' %}
-         <tr>
-            <th class="no-border" style="width:35%;">
+        <tr>
+            <th class="home_title">
                 <a href="{{ page.url | prepend: site.baseurl }}">
                 {{ page.title }}
                 </a>
             </th>
-            <td class="no-border" style="width:40%;">
+            <td class="home_spirits">
                 {% include category_search.html %}
             </td>
-            <td class="no-border stars" style="width:25%">
+            <td class="home_stars">
                 {% include stars.html %}
             </td>
-            </tr>
+        </tr>
         {% endif %}
         {% endfor %}
         </table>
