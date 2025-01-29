@@ -52,18 +52,6 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             <li><a href="era/{{ era.slug }}.html">{{ era.name }}</a></li>
         {% endfor %}
         </ul>
-        <!--
-        <h2>Syrups &amp; Mixers</h2>
-        <ul>
-        {% for page in site.pages %}
-            {% if page.type == "syrup" %}
-            <li><a href="{{ page.url | prepend: site.baseurl }}">
-                {{ page.title }}
-            </a></li>
-            {% endif %}
-        {% endfor %}
-        </ul>
-        -->
         <h3>Bar Essentials Lists</h3>
         <ul>
         {% for page in site.pages %}
