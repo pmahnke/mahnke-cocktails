@@ -37,7 +37,7 @@
 - name: Martini
   slug: martini
   description: Martini is a cocktail containing gin and vermouth and optionally orange bitters.
-  name: Non-Alcoholic Cocktails
+- name: Non-Alcoholic Cocktails
   slug: mocktail
   description: A non-alcoholic cocktail, or "mocktail", is a beverage that mimics the complexity and presentation of a traditional cocktail.
 - name: Pousse Café
