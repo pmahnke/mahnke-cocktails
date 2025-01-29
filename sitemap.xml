@@ -1,0 +1,16 @@
+---
+layout: null
+sitemap: true
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for page in site.pages %}
+    <url>
+      <loc>{{ site.baseurl }}{{ page.url }}</loc>
+      <lastmod>{{ site.time | date_to_xml }}</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>0.8</priority>
+    </url>
+  {% endfor %}
+</urlset>
