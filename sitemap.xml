@@ -7,7 +7,7 @@ sitemap: true
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% for page in site.pages %}
     <url>
-      <loc>https://www.mahnke.net/cocktails{{ page.url }}</loc>
+      <loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
       <lastmod>{{ site.time | date_to_xml }}</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>

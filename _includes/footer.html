@@ -1,7 +1,7 @@
 <div class="double_line"> </div>
 <div class="row">
     <div class="twelve columns header">
-        <p><a href="{{ site.baseurl }}/about/">About this site</a></p>
+        <p><a href="{{ page.url | prepend: site.baseurl }}/about/">About this site</a></p>
     </div>
 </div>
-<script src="{{ site.baseurl }}/assets/local.js"></script>
+<script src="{{ page.url | prepend: site.baseurl }}/assets/local.js"></script>
