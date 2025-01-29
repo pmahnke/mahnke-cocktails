@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Vesper"
 eras: [modern]
-categories: [after_dinner, martini]
+categories: [martini]
 permalink: "/recipe/vesper.html"
 iconfile: vesper
 stars: 0
