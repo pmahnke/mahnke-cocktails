@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Joe Scialom
 title: "Suffering Bastard"
 eras: [modern]
 categories: [buck]
@@ -10,7 +11,7 @@ stars: 0
 base_spirits: "Gin, Cognac OR Bourbon"
 youtube: "oRQtYcyRKVI"
 excerpt: |
-  The Suffering Bastard cocktail uses both bourbon and gin. Born in Cairo, it was originally concocted for troops fighting in North Africa.
+  The Suffering Bastard cocktail uses both bourbon and gin. Born in Cairo at the Shepheard's Hotel, it was originally concocted as a hangover cure for troops fighting in North Africa.
 ---
 
 ### Ingredients

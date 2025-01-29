@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: C.A. Tuck
 title: "20th Century"
 categories: [ sour ]
 eras: [ classic ]
