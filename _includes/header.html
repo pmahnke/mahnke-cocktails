@@ -1,6 +1,6 @@
 <div class="row">
     <div class="twelve columns header">
-       <h1><a href="{{ site:baseurl }}/"><img src="{{ site:baseurl }}/assets/images/logo_image.svg" alt="Logo" height="80" width="80"> {{ site.title | escape }}</a></h1>
+       <h1><a href="{{ page.url | prepend: site.baseurl }}"><img src="{{ page.url | prepend: site.baseurl }}/assets/images/logo_image.svg" alt="Logo" height="80" width="80"> {{ site.title | escape }}</a></h1>
     </div>
 </div>
 
