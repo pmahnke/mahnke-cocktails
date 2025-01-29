@@ -3,11 +3,11 @@ layout: recipe
 author: "Behind the Bar"
 title: "Jaberwocky"
 categories: [martini]
-eras: [classic]
+eras: [prohibition]
 permalink: "/recipe/jabberwocky.html"
 iconfile: jabberwocky
 stars:
-base_spirits: "Sherry, Gin, Lillet blanc"
+base_spirits: "Manzanilla Sherry, Gin, Lillet blanc"
 youtube: "tGudsyMDO_g"
 excerpt: |
   This marriage of dry sherry, gin and Lillet from the Savoy Cocktail book is a most refined and nuanced sipper.
