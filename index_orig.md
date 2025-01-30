@@ -10,27 +10,41 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         {% assign sorted = site.data.categories | sort: "name" %}
         {% for cat in sorted %}
         <h3><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></h3>
-        <ul class="home_list">
+        <table class="home_table">
         {% assign count = 0 %}
         {% for page in site.pages %}
             {% if page.categories contains cat.slug and page.layout == "recipe" %}
             {% if page.type == nil or page.type == "multirecipe" %}
-            <li class="home_list_item">
+            <tr>
+            <th class="home_title">
                 <a href="{{ page.url | prepend: site.baseurl }}">
                 {{ page.title }}
                 </a>
-                <span class="home_list_stars">{% include home_stars.html %}</span>
-            </li>
+            </th>
+            <td class="home_spirits">
+                {% include category_search.html %}
+            </td>
+            <td class="home_stars">
+                {% include stars.html %}
+            </td>
+            </tr>
+            {% assign count = count | plus: 1 %}
+            {% if count > 4 %}{% break %}{% endif %} 
             {% endif %}
             {% endif %}
         {% endfor %}
-        </ul>
+        </table>
         <p class="more"><a href="category/{{ cat.slug }}_cocktails.html">More {{ cat.name }} cocktails ></a></p>
         {% endfor %}
     </div><!-- /div 2/3 -->
     <div class="one-third column">
-        <h3>Recipes by Base Spirit</h3>
-        {% include spirits_list.html %}
+        <h3><a href="/cocktails/category/">Recipes by category</a></h3>
+        <ul>
+        {% assign sorted = site.data.categories | sort: "name" %}
+        {% for cat in sorted %}
+            <li><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></li>
+        {% endfor %}
+        </ul>
         <h3><a href="/cocktails/era/">Recipes by era</a></h3>
         <ul>
         {% assign sorted = site.data.eras | sort: "name" %}
