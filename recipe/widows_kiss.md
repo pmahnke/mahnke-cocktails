@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/widows_kiss.html"
 iconfile: widows_kiss
 stars: 3
-base_spirits: "Apple Brandy, Yellow Chartreuse, Bénédictine DOM "
+base_spirits: "Apple Brandy, Yellow Chartreuse, Bénédictine "
 youtube: "0JqyWyBiFus"
 excerpt: |
   A simple, and very potent, classic cocktail with apple brandy, yellow Chartreuse and Benedictine.

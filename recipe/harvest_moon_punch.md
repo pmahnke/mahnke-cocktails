@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/harvest_moon_punch.html"
 iconfile: harvest_moon_punch
 stars: 0
-base_spirits: "Jamacian Rum, Apple Brandy, Pear Liqueur, Allspice Dram"
+base_spirits: "Jamaican Rum, Apple Brandy, Pear Liqueur, Allspice Dram"
 youtube: "S5ipwEU7uHo"
 excerpt: |
   An original of Anders Erickson, based on a classic punch build. Black tea adds volume, and cuts down on the alcohol content.
@@ -17,7 +17,7 @@ excerpt: |
 
 | Amount | Ingredient                                               | Brand                   |
 | -----: | -------------------------------------------------------- | ----------------------- |
-|  12 oz | Jamacian Rum                                             | Appleton Estate 12 Year |
+|  12 oz | Jamaican Rum                                             | Appleton Estate 12 Year |
 |   9 oz | Apple Brandy                                             | Laird’s BIB Straight    |
 |   6 oz | Orchard Pear Liqueur                                     | Rothman & Winter        |
 |   3 oz | Allspice Dram                                            | St. Elizabeth           |

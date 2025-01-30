@@ -29,13 +29,8 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         {% endfor %}
     </div><!-- /div 2/3 -->
     <div class="one-third column">
-        <h3><a href="/cocktails/category/">Recipes by category</a></h3>
-        <ul>
-        {% assign sorted = site.data.categories | sort: "name" %}
-        {% for cat in sorted %}
-            <li><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></li>
-        {% endfor %}
-        </ul>
+        <h3>Recipes by Base Spirit</h3>
+        {% include spirits_list.html %}
         <h3><a href="/cocktails/era/">Recipes by era</a></h3>
         <ul>
         {% assign sorted = site.data.eras | sort: "name" %}

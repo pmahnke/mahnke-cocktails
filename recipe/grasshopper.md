@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/grasshopper.html"
 iconfile: grasshopper
 stars: 0
-base_spirits: "Crème De Menthe, White Crème De Cacao "
+base_spirits: "Crème de Menthe, White Crème de Cacao "
 youtube: "kRPWDOCVByk&t=164s"
 excerpt: |
   The Grasshopper is a classic cocktail known for its vibrant green color and creamy, minty-chocolate flavor. It is a sweet, minty classic that tastes better than your traditional dessert.

@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/costume_party.html"
 iconfile: costume_party
 stars: 0
-base_spirits: "Vodka, White Crème De Cacao, Apricot Liqueur"
+base_spirits: "Vodka, White Crème de Cacao, Apricot Liqueur"
 youtube: "i67-17-CZCQ"
 excerpt: |
   This is an Anders original cocktail.
@@ -18,7 +18,7 @@ excerpt: |
 |  Amount | Ingredient           | Brand                         |
 | ------: | -------------------- | ----------------------------- |
 |    1 oz | Vodka                | Finlandia                     |
-| 0.75 oz | White Crème De Cacao | Marie Brizard                 |
+| 0.75 oz | White Crème de Cacao | Marie Brizard                 |
 |  0.5 oz | Apricot Liqueur      | Giffard Abricot Du Roussillon |
 |  0.5 oz | Fresh Lemon Juice    |
 

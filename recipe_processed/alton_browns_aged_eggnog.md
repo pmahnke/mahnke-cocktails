@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/alton_browns_aged_eggnog.html"
 iconfile: alton_browns_aged_eggnog
 stars: 0
-base_spirits: "Jamaica Rum, Cognac, Bourbon"
+base_spirits: "Jamaican Rum, Cognac, Bourbon"
 youtube: "LINK"
 excerpt: |
   For Alton Brown's aged eggnog recipe click <a href="https://altonbrown.com/recipe/aged-eggnog/" target="_blank">here</a>.<br><br>
@@ -25,7 +25,7 @@ excerpt: |
 |          <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Half and Half         |
 |          <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Whole Milk            |
 |          <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Heavy Cream           |
-|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span>| Jamaica Rum           | Appleton 12 year Rare Casks |
+|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span>| Jamaican Rum          | Appleton 12 year Rare Casks |
 |        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span>| Cognac                | Maison Rouge VSOP           |
 |        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span>| Bourbon               | Elijah Craig Small Batch    |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| salt                  |
@@ -55,7 +55,7 @@ excerpt: |
   " 1 cup Half and Half",
   " 1 cup Whole Milk ",
   " 1 cup Heavy Cream",
-  " 0.5 cup Jamaica Rum",
+  " 0.5 cup Jamaican Rum ",
   " 0.5 cup Cognac ",
   " 0.5 cup Bourbon",
   "0.125 barspoon salt "],

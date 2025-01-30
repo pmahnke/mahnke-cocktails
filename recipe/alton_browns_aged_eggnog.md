@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/alton_browns_aged_eggnog.html"
 iconfile: alton_browns_aged_eggnog
 stars: 0
-base_spirits: "Jamaica Rum, Cognac, Bourbon"
+base_spirits: "Jamaican Rum, Cognac, Bourbon"
 youtube: "LINK"
 excerpt: |
   For Alton Brown's aged eggnog recipe click <a href="https://altonbrown.com/recipe/aged-eggnog/" target="_blank">here</a>.<br><br>
@@ -25,7 +25,7 @@ excerpt: |
 |          1 cup | Half and Half         |
 |          1 cup | Whole Milk            |
 |          1 cup | Heavy Cream           |
-|        0.5 cup | Jamaica Rum           | Appleton 12 year Rare Casks |
+|        0.5 cup | Jamaican Rum          | Appleton 12 year Rare Casks |
 |        0.5 cup | Cognac                | Maison Rouge VSOP           |
 |        0.5 cup | Bourbon               | Elijah Craig Small Batch    |
 | 0.125 barspoon | salt                  |

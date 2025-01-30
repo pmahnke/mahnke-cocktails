@@ -7,7 +7,7 @@ title: "Pink Pearl"
 permalink: "/recipe/pink_pearl.html"
 iconfile: pink_pearl
 stars: 0
-base_spirits: "Grenaadine, Grapefruit Juice, Lemon Juice"
+base_spirits: "Grenadine, Grapefruit Juice, Lemon Juice"
 youtube: "s0nUq0Q9yUk"
 excerpt: |
 ---

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
-title: "Rabo De Galo"
+title: "Rabo de Galo"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/rabo_de_galo.html"

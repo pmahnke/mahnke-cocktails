@@ -7,7 +7,7 @@ categories: [after_dinner]
 permalink: "/recipe/spanish_coffee.html"
 iconfile: spanish_coffee
 stars: 0
-base_spirits: "Overproof Rum, Coffee Liqueur"
+base_spirits: "Overproof Jamaican Rum, Coffee Liqueur"
 youtube: "p3X7_-TVIDs"
 excerpt: |
   Or 'carajillo', is a coffee drink enjoyed throughout many Spanish-speaking countries. It's made with booze — usually rum, brandy or Licor 43.

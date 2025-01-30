@@ -8,7 +8,7 @@ categories: [buck]
 permalink: "/recipe/suffering_bastard.html"
 iconfile: suffering_bastard
 stars: 0
-base_spirits: "Gin, Cognac OR Bourbon"
+base_spirits: "Gin, Cognac -OR- Bourbon"
 youtube: "oRQtYcyRKVI"
 excerpt: |
   The Suffering Bastard cocktail uses both bourbon and gin. Born in Cairo at the Shepheard's Hotel, it was originally concocted as a hangover cure for troops fighting in North Africa.

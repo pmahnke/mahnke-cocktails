@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/apeman.html"
 iconfile: apeman
 stars: 0
-base_spirits: "Bourbon, Oloroso Sherry, Banana Liquor"
+base_spirits: "Bourbon, Oloroso Sherry, Banana Liqueur"
 youtube: "CfKrIWRMrNA"
 excerpt: |
   This is an Anders original cocktail.

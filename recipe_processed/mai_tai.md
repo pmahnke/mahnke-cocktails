@@ -7,7 +7,7 @@ categories: [tiki]
 permalink: "/recipe/mai_tai.html"
 iconfile: mai_tai
 stars: 4 <sup>1</sup>&frasl;<sub>2</sub>
-base_spirits: "Jamaican Rum, Rhum Ageicole "
+base_spirits: "Jamaican Rum, Rhum Agricole"
 youtube: "gYJsPE1demY"
 excerpt: |
   It’s time you had a proper Mai Tai from Latitude 29 and Jeff “Beachbum” Berry, the renowned Tiki historian.

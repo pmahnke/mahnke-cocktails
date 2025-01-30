@@ -5,7 +5,7 @@ categories: [syrup]
 permalink: "/recipe/jaspers_mix.html"
 iconfile: jaspers_mix
 stars: 5
-base_spirits: "Angostura Aromatic Bitters, White Sugar"
+base_spirits: "Angostura Bitters, White Sugar"
 youtube: "sRTGCquUgMs"
 excerpt: |
   Jasper's Mix is a rum-based cocktail mix that is popular in Jamaica. It is a simple syrup made with lime juice, sugar, Angostura bitters, and nutmeg. It is typically used to make rum punches, but it can also be used to make other cocktails.<br><br>

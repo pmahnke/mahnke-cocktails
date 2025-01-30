@@ -7,7 +7,7 @@ categories: [after_dinner]
 permalink: "/recipe/pink_squirrel.html"
 iconfile: pink_squirrel
 stars: 0
-base_spirits: "Crème De Noyaux, White Crème De Cacao "
+base_spirits: "Crème de Noyaux, White Crème de Cacao "
 youtube: "kRPWDOCVByk&t=164s"
 excerpt: |
   The Pink Squirrel cocktail is boozy, creamy and easy to make. It combines the unusual liqueur, creme de noyaux, with creme de cacao and heavy cream, and ties to a legendary Midwest cocktail bar.
@@ -17,8 +17,8 @@ excerpt: |
 
 |   Amount | Ingredient           | Brand         |
 | -------: | -------------------- | ------------- |
-|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Crème De Noyaux      | Tempus Fugit  |
-|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| White Crème De Cacao | Marie Brizard |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Crème de Noyaux      | Tempus Fugit  |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| White Crème de Cacao | Marie Brizard |
 |     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Heavy Cream          |
 | <span class="onex active">3 scoops </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> scoops </span> <span class="twox">6 scoops </span> <span class="threex">9 scoops </span>| Vanilla Ice Cream    |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> cup </span>| Crushed Ice          |
@@ -42,8 +42,8 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "1.5 oz Crème De Noyaux ",
-  "1.5 oz White Crème De Cacao",
+  "recipeIngredient": [  "1.5 oz Crème de Noyaux ",
+  "1.5 oz White Crème de Cacao",
   "1 oz Heavy Cream ",
   "3 scoops Vanilla Ice Cream ",
   "0.25 cup Crushed Ice "],

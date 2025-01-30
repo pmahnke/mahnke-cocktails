@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/staggering_gent.html"
 iconfile: staggering_gent
 stars: 0
-base_spirits: "Barrel Strength Bourbon, Bénédictine, Walnut Liqueur"
+base_spirits: "Bourbon, Bénédictine, Walnut Liqueur"
 youtube: "QFjRjAP-k1k&t=3s"
 excerpt: |
   The Staggering Gentleman is a powerful cocktail that combines the rich flavors of bourbon with the complexity of Benedictine and walnut liqueur.

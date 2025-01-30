@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/white_lady.html"
 iconfile: white_lady
 stars: 4
-base_spirits: "Triple Sec, Crème De Menthe -OR- Gin "
+base_spirits: "Triple Sec, Crème de Menthe -OR- Gin "
 youtube: "IAmf7XqE0T8"
 excerpt: |
   The White Lady cocktail was created by bartender Harry MacElhone and pairs gin with orange liqueur, lemon juice and egg white.
@@ -21,7 +21,7 @@ excerpt: |
 |  Amount | Ingredient        | Brand           |
 | ------: | ----------------- | --------------- |
 | 0.75 oz | Triple Sec        | Luxardo Triplum |
-| 0.75 oz | Crème De Menthe   | Tempus Fugit    |
+| 0.75 oz | Crème de Menthe   | Tempus Fugit    |
 | 0.75 oz | Fresh Lemon Juice |
 
 ### Notes

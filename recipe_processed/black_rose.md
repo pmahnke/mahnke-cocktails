@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Black Rose"
-categories: [ cocktail ]
-eras: [ modern ]
+categories: [cocktail]
+eras: [modern]
 permalink: "/recipe/black_rose.html"
 iconfile: black_rose
 stars: 2
-base_spirits: "Bourbon. Cognac"
+base_spirits: "Bourbon, Cognac"
 youtube: "YwHw259XAOU"
 excerpt: |
   The Black Rose cocktail is a classic drink that combines the flavors of bourbon, cognac, grenadine, and bitters.

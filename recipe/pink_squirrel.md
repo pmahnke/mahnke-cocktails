@@ -7,7 +7,7 @@ categories: [after_dinner]
 permalink: "/recipe/pink_squirrel.html"
 iconfile: pink_squirrel
 stars: 0
-base_spirits: "Crème De Noyaux, White Crème De Cacao "
+base_spirits: "Crème de Noyaux, White Crème de Cacao "
 youtube: "kRPWDOCVByk&t=164s"
 excerpt: |
   The Pink Squirrel cocktail is boozy, creamy and easy to make. It combines the unusual liqueur, creme de noyaux, with creme de cacao and heavy cream, and ties to a legendary Midwest cocktail bar.
@@ -17,8 +17,8 @@ excerpt: |
 
 |   Amount | Ingredient           | Brand         |
 | -------: | -------------------- | ------------- |
-|   1.5 oz | Crème De Noyaux      | Tempus Fugit  |
-|   1.5 oz | White Crème De Cacao | Marie Brizard |
+|   1.5 oz | Crème de Noyaux      | Tempus Fugit  |
+|   1.5 oz | White Crème de Cacao | Marie Brizard |
 |     1 oz | Heavy Cream          |
 | 3 scoops | Vanilla Ice Cream    |
 | 0.25 cup | Crushed Ice          |

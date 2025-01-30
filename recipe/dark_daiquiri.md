@@ -17,7 +17,7 @@ excerpt: |
 
 | Amount | Ingredient                                               | Brand                                 |
 | -----: | -------------------------------------------------------- | ------------------------------------- |
-|   2 oz | Jamacian Rum                                             | Hamilton Jamaican Black Pot Still Rum |
+|   2 oz | Jamaican Rum                                             | Hamilton Jamaican Black Pot Still Rum |
 |   1 oz | Fresh Lime Juice                                         |
 | 0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 
