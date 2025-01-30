@@ -1,3 +1,5 @@
+/* style for small screens */
+
 a:link, a:visited, a:active
 {
 	color:#009;
@@ -47,21 +49,20 @@ ul {
   li {
     padding-left: 1em; 
     text-indent: -.7em;
+    margin: .25em 0;
   }
   
   ul > li::before {
     content: "⇒ ";
     color: #E1AD01; 
-    font-size: x-large;
+    font-size: 2rem;
   }
 p.icons {
-    vertical-align: middle;
-    text-align: right;
-    clear:both;
-    }
+    display: none;
+}
 
 .more {
-    padding-bottom: 3em;
+    padding: 3em 0;
 }
 
 .header img {
@@ -70,13 +71,13 @@ p.icons {
     padding-top: 1rem
 }
 
-/* headings - large screens */
+/* headings - smnall screens */
 h1 {
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 550;
 }
 h2 {
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 180;
 }
 h3 {
@@ -92,7 +93,6 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     text-decoration: none;
     color: #222;
 }
-
 
 /* styles for the homepage table */
 .home_table {
@@ -111,29 +111,32 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
 }
 
 
-@media (max-width: 767px) {
-/* Styles for screens smaller than 768px (phones) */
-    p.icons {
-        display: none;
-    }
-    /* headings - small screens */
-    h1 {
-        font-size: 32px;
-        font-weight: 550;
-    }
-    h2 {
-        font-size: 32px;
-        font-weight: 180;
-    }
-    h3 {
-        font-size: 24px;
-        font-weight: 550;
-    }
-    h4 {
-        font-size: 24px;
-        font-weight: 275;
-    }
+.home_list li::before {
+    content: unset;
+}
 
+.home_list {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two equal columns */
+    gap: .25em 1em; /* Space between items */
+    padding: 0;
+    list-style: none;
+    max-width: 100%; /* Adjust as needed */
+}
+
+.home_list_item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: .25em .5em;
+    padding: 5px 0;
+}
+  
+.home_list_stars {
+    display: none;
+}
+.home-star {
+    width: 18px;
 }
 
 /* measurement scaling */
@@ -142,6 +145,10 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
 }
 .onex.active, .onehalfx.active, .twox.active, .threex.active {
     display: inline; /* Show the active span */
+}
+.menu {
+    font-variant-caps: small-caps;
+    margin: 2rem 0;  
 }
 .menu a {
     margin-right: 10px;
@@ -153,3 +160,48 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     font-weight: bold;
     text-decoration: underline;
 }
+
+@media (max-width: 1024px) {
+    /* Styles for screens smaller than 1024px (tablets) */
+
+    .home_list_stars {
+        display: unset;
+        margin-left: auto; /* Pushes stars to the right */
+    }
+    .home-star {
+        width: 12px;
+    }
+}
+
+@media (min-width: 768px) {
+    /* Styles for screens smaller than 768px (phones) */
+    
+    p.icons {
+        vertical-align: middle;
+        text-align: right;
+        clear:both;        
+    }
+    /* headings - larger screens */
+    h1 {
+        font-size: 40px;
+        font-weight: 550;
+    }
+    h2 {
+        font-size: 40px;
+        font-weight: 180;
+    }
+    h3 {
+        font-size: 24px;
+        font-weight: 550;
+    }
+    h4 {
+        font-size: 24px;
+        font-weight: 275;
+    }
+    .home_list_stars {
+        display: unset;
+        margin-left: auto; /* Pushes stars to the right */
+    }
+
+}
+
