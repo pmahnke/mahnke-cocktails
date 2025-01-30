@@ -161,18 +161,6 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     text-decoration: underline;
 }
 
-@media (max-width: 1024px) {
-    /* Styles for screens smaller than 1024px (tablets) */
-
-    .home_list_stars {
-        display: unset;
-        margin-left: auto; /* Pushes stars to the right */
-    }
-    .home-star {
-        width: 12px;
-    }
-}
-
 @media (min-width: 768px) {
     /* Styles for screens smaller than 768px (phones) */
     
@@ -203,5 +191,17 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
         margin-left: auto; /* Pushes stars to the right */
     }
 
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    /* Styles for screens smaller than 1024px (tablets) */
+
+    .home_list_stars {
+        display: unset;
+        margin-left: auto; /* Pushes stars to the right */
+    }
+    .home-star {
+        width: 12px;
+    }
 }
 
