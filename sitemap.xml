@@ -8,7 +8,7 @@ sitemap: true
   {% for page in site.pages %}
     <url>
       <loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
-      <lastmod>{{ site.time | date_to_xml }}</lastmod>
+      <lastmod>{{ site.time | date: "%Y-%m-%dT%H:%M:%SZ" }}</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
