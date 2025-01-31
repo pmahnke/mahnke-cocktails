@@ -19,7 +19,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
                 <a href="{{ page.url | prepend: site.baseurl }}">
                 {{ page.title }}
                 </a>
-                <span class="home_list_stars">{% include home_stars.html %}</span>
+                {% include home_stars.html %}
             </li>
             {% endif %}
             {% endif %}

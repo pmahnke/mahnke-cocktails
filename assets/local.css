@@ -109,8 +109,12 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     text-align: center;
     width: 25%;
 }
-
-
+.non-home-star {
+    width: 12px;
+}
+.non_home_list_stars {
+    display: none;
+}
 .home_list li::before {
     content: unset;
 }
@@ -136,7 +140,11 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     display: none;
 }
 .home-star {
-    width: 18px;
+    width: 12px;
+}
+.home-rating-text {
+    display: unset;
+    font-size: .75em;
 }
 
 /* measurement scaling */
@@ -162,12 +170,12 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
 }
 
 @media (min-width: 768px) {
-    /* Styles for screens smaller than 768px (phones) */
-    
+    /* Styles for screens smaller than 768px (phones) */   
     p.icons {
+        display: block;
         vertical-align: middle;
         text-align: right;
-        clear:both;        
+        clear: both;        
     }
     /* headings - larger screens */
     h1 {
@@ -190,10 +198,15 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
         display: unset;
         margin-left: auto; /* Pushes stars to the right */
     }
-
+    .non_home_list_stars {
+        display: unset;
+    }
+    .home-rating-text {
+        display: none;
+    }  
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 1024px) {
     /* Styles for screens smaller than 1024px (tablets) */
 
     .home_list_stars {
@@ -201,7 +214,15 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
         margin-left: auto; /* Pushes stars to the right */
     }
     .home-star {
-        width: 12px;
+        width: 18px;
     }
+    .home-rating-text {
+        display: none;
+    }
+    .non-home-star {
+        width: 24px;
+    }
+    
+    
 }
 
