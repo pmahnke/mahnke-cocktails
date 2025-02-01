@@ -9,7 +9,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         <h2>Cocktails</h2>
         {% assign sorted = site.data.categories | sort: "name" %}
         {% for cat in sorted %}
-        <h3><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></h3>
+        <h3><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }} {% if cat.url %}<img src="{{ cat.url }}" alt="" class="category_icon_small">{% endif %}</a></h3>
         <ul class="home_list">
         {% assign count = 0 %}
         {% for page in site.pages %}

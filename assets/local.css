@@ -168,6 +168,12 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     font-weight: bold;
     text-decoration: underline;
 }
+.category_icon_small {
+    display: none;
+}
+.category_icon_large {
+    display: none;
+}
 
 @media (min-width: 768px) {
     /* Styles for screens smaller than 768px (phones) */   
@@ -222,7 +228,16 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     .non-home-star {
         width: 24px;
     }
-    
+    .category_icon_small {
+        display: inline;
+        width: 8rem;
+        vertical-align: bottom;
+    }
+    .category_icon_large {
+        display: inline;
+        width: 24rem;
+        text-align: right;
+    }
     
 }
 
