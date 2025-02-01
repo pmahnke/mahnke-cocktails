@@ -120,6 +120,15 @@ title: index of images
     <li><img src="assets/images/ingredient-whiskey.svg" width="100"><br>whiskey</li>
     <li><img src="assets/images/ingredient-white-wine.svg" width="100"><br>white-wine</li>
 </ul>
+<h3>Fruit</h3>
+<ul>
+<li><img src="assets/images/fruit_blackberries.svg" width="100"><br>blackberries</li>
+<li><img src="assets/images/fruit-orange.svg" width="100"><br>orange</li>
+<li><img src="assets/images/fruit_lemon.svg" width="100"><br>lemon</li>
+<li><img src="assets/images/fruit_raspberries.svg" width="100"><br>raspberries</li>
+<li><img src="assets/images/fruit_olives.svg" width="100"><br>olives</li>
+<li><img src="assets/images/fruit_strawberry.svg" width="100"><br>strawberry</li>
+</ul>
 <h3>Twists</h3>
 <ul>
 <li><img src="assets/images/twist_cocktail-cherry.svg" width="100"><br>cocktail-cherry</li>
