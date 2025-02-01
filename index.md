@@ -19,7 +19,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
                 <a href="{{ page.url | prepend: site.baseurl }}">
                 {{ page.title }}
                 </a>
-                {%- include home_stars.html -%}
+                {%- if cat.slug != "syrup" -%}{%- include home_stars.html -%}{%- endif -%}
             </li>
             {%- endif -%}
             {%- endif -%}

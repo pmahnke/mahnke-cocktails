@@ -22,7 +22,7 @@ layout: default
                     {%- include category_search.html -%}
                 </td>
                 <td class="home_stars">
-                    {%- include stars.html -%}
+                    {%- if s.slug != 'syrup' -%}{%- include stars.html -%}{%- endif -%}
                 </td>
             </tr>
         {%- endif -%}
