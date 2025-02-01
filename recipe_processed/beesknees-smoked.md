@@ -15,11 +15,11 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient                                    | Brand                  |
-| ------: | --------------------------------------------- | ---------------------- |
-|    <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Dry                                           | Gin The Botanist Islay |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice                             |
+|                                                                                                                                                                                                                                                                                                  Amount | Ingredient                                              | Brand                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------- | ---------------------- |
+|                                                                                                                              <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Dry                                                     | Gin The Botanist Islay |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Fresh Lemon Juice                                       |
 
 ### Notes
 
@@ -29,14 +29,13 @@ excerpt: |
 - Garnish: Lightly scorched rosemary sprig
 - Special Prep: Smoke this cocktail with your favorite cocktail-smoking contraption
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  " 2 oz Dry",
   "0.75 oz Honey Syrup",
   "0.75 oz Fresh Lemon Juice"],
@@ -66,5 +65,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

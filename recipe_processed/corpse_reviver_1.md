@@ -15,11 +15,11 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient     | Brand                           |
-| ------: | -------------- | ------------------------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Calvados       | Roger Groult Pays D’auge 3 Year |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Cognac         | Maison Rouge VSOP               |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Sweet Vermouth | Cocchi Vermouth Di Torino       |
+|                                                                                                                                                                                                                                                                                                  Amount | Ingredient     | Brand                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------- | ------------------------------- |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Calvados       | Roger Groult Pays D’auge 3 Year |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Cognac         | Maison Rouge VSOP               |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Sweet Vermouth | Cocchi Vermouth Di Torino       |
 
 ### Notes
 
@@ -29,14 +29,13 @@ excerpt: |
 - Garnish: Expressed orange oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "0.75 oz Calvados",
   "0.75 oz Cognac",
   "0.75 oz Sweet Vermouth"],
@@ -66,5 +65,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

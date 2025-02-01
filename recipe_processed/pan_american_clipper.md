@@ -15,12 +15,12 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient                                      | Brand   |
-| ------: | ----------------------------------------------- | ------- |
-|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Apple Brandy                                    | Laird’s |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice                               |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-| <span class="onex active">1 rinse </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> rinse </span> <span class="twox">2 rinse </span> <span class="threex">3 rinse </span>| Absinthe                                        |
+|                                                                                                                                                                                                                                                                                                  Amount | Ingredient                                                | Brand   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------- | ------- |
+|                               <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> | Apple Brandy                                              | Laird’s |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Fresh Lemon Juice                                         |
+|                                  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> | [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
+|                                                                                                                <span class="onex active">1 rinse </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> rinse </span> <span class="twox">2 rinse </span> <span class="threex">3 rinse </span> | Absinthe                                                  |
 
 ### Notes
 
@@ -30,14 +30,13 @@ excerpt: |
 - Garnish: Expressed lemon oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  " 1.5 oz Apple Brandy ",
   "0.75 oz Fresh Lemon Juice",
   " 0.5 oz Grenadine",
@@ -68,5 +67,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

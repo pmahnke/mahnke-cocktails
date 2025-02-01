@@ -15,11 +15,11 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient       | Brand         |
-| -----: | ---------------- | ------------- |
-|   <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Reposado Tequila | Milagro       |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Orange Curaçao   | Marie Brizard |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lime Juice |
+|                                                                                                                                                                                                   Amount | Ingredient       | Brand         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------- | ------------- |
+|                               <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Reposado Tequila | Milagro       |
+| <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Orange Curaçao   | Marie Brizard |
+| <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Fresh Lime Juice |
 
 ### Notes
 
@@ -31,14 +31,13 @@ excerpt: |
 - Garnish: Lime wheel
 - Special Prep: Salted rim
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "2 oz Reposado Tequila",
   "1 oz Orange Curaçao",
   "1 oz Fresh Lime Juice"],
@@ -76,5 +75,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

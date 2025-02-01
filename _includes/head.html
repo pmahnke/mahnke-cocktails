@@ -12,9 +12,9 @@
       gtag('config', 'G-2XJC3WX9P5');
     </script>
 
-    <title>{{ site.title | escape }}{% if page.title %} - {{ page.title | escape }}{% endif %}</title>
-    <meta name="twitter:title" content="{{ site.title | escape }}{% if page.title %} - {{ page.title | escape }}{% endif %}" >
-    <meta property="og:title" content="{{ site.title | escape }}{% if page.title %} - {{ page.title | escape }}{% endif %}" >
+    <title>{{ site.title | escape }}{%- if page.title -%}- {{ page.title | escape }}{%- endif -%}</title>
+    <meta name="twitter:title" content="{{ site.title | escape }}{%- if page.title -%}- {{ page.title | escape }}{%- endif -%}" >
+    <meta property="og:title" content="{{ site.title | escape }}{%- if page.title -%}- {{ page.title | escape }}{%- endif -%}" >
     <meta name="keywords" content="cocktail, cocktail recipe, {{ page.keywords | join: ', ' | escape }}, {{ page.base_spirits | join: ', ' | escape }}, {{ page.style | join: ', ' | escape }}">
     <meta name="description" content="{{ page.excerpt | strip_html | replace: '"', "'" | truncatewords: 150 }}">
     <meta property="og:description" content="{{ page.excerpt | strip_html | replace: '"', "'" | truncatewords: 150 }}">

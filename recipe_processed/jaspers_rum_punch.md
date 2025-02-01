@@ -15,10 +15,10 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient                                     | Brand         |
-| -----: | ---------------------------------------------- | ------------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| [Jasper’s Mix]({%link recipe_processed/jaspers_mix.md%}) |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Overproof Jamaican Rum                         | Wray & Nephew |
+|                                                                                                                                                                                                                                                                    Amount | Ingredient                                               | Brand         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------- | ------------- |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> | [Jasper’s Mix]({%link recipe_processed/jaspers_mix.md%}) |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> | Overproof Jamaican Rum                                   | Wray & Nephew |
 
 ### Notes
 
@@ -30,14 +30,13 @@ excerpt: |
 - Garnish: Grated nutmeg and mint sprig
 - Special Prep: Top glass with additional crushed ice
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "1.5 oz Jasper’s Mix",
   "1.5 oz Overproof Jamaican Rum"],
   "name": "{{ page.title }}",
@@ -74,5 +73,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

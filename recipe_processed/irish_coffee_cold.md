@@ -15,10 +15,10 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient     | Brand               |
-| -----: | -------------- | ------------------- |
-|   <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Coffee Liqueur | Mr. Black Cold Brew |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Irish Whiskey  | Powers Gold Label   |
+|                                                                                                                                                                                                   Amount | Ingredient     | Brand               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------- | ------------------- |
+|                               <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Coffee Liqueur | Mr. Black Cold Brew |
+| <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Irish Whiskey  | Powers Gold Label   |
 
 ### Notes
 
@@ -28,14 +28,13 @@ excerpt: |
 - Garnish: Heavy cream float
 - Special Prep: Shake the heavy cream in a mixing tin till thick.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "2 oz Coffee Liqueur",
   "1 oz Irish Whiskey "],
   "name": "{{ page.title }}",
@@ -64,5 +63,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

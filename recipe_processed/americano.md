@@ -15,11 +15,11 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient     | Brand                     |
-| ------: | -------------- | ------------------------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 31 ml</span> <span class="onehalfx">1.875 oz  / 47 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 63 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 94 ml</span>| Campari        | Campari                   |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 31 ml</span> <span class="onehalfx">1.875 oz  / 47 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 63 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 94 ml</span>| Sweet Vermouth | Cocchi Vermouth di Torino |
-|    <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Soda Water     | Topo Chico                |
+|                                                                                                                                                                                                                                                                       Amount | Ingredient     | Brand                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------- | ------------------------- |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz / 31 ml</span> <span class="onehalfx">1.875 oz / 47 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz / 63 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz / 94 ml</span> | Campari        | Campari                   |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz / 31 ml</span> <span class="onehalfx">1.875 oz / 47 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz / 63 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz / 94 ml</span> | Sweet Vermouth | Cocchi Vermouth di Torino |
+|                                                                  <span class="onex active">3 oz / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Soda Water     | Topo Chico                |
 
 ### Notes
 
@@ -31,14 +31,13 @@ excerpt: |
 - Garnish: Lemon Wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "1.25 oz Campari ",
   "1.25 oz Sweet Vermouth",
   " 3 oz Soda Water"],
@@ -76,5 +75,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

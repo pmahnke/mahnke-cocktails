@@ -8,15 +8,15 @@ title: Cocktail Eras
     <div class="nine columns" markdown="1">
         <h3>Cocktail Eras</h3>
 
-        {% assign sorted = site.data.eras | sort: "name" %}
+        {%- assign sorted = site.data.eras | sort: "name" -%}
 
-        {% for era in sorted %}
+        {%- for era in sorted -%}
 
         <h4><a href="{{ era.slug }}.html">{{ era.name }}</a></h4>
         <p>{{ era.description }}</p>
         <p><a href="{{ era.slug }}.html">See {{ era.name }} cocktails ></a></p>
 
-        {% endfor %}
+        {%- endfor -%}
 
     </div>
 </div>

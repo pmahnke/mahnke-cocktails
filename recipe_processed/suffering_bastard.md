@@ -16,16 +16,16 @@ excerpt: |
 
 ### Ingredients
 
-|        Amount | Ingredient                                               | Brand                      |
-| ------------: | -------------------------------------------------------- | -------------------------- |
-|          <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Gin                                                      | Beefeaters                 |
-|          <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Cognac                                                   | Maison Rouge VSOP          |
-|               | - OR -                                                   |
-|          <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Bourbon                                                  | Old Grand-Dad 100 Proof    |
-|       <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lime Juice                                         |
-|       <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-| <span class="onex active">2 to 3 dashes</span> <span class="onehalfx">3 to 4 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">4 to 6 dashes</span> <span class="threex">6 to 9 dashes</span>| Bitters                                                  | Angostura Aromatic Bitters |
-|          <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Ginger Beer                                              | Fever Tree                 |
+|                                                                                                                                                                                                                                                                                                  Amount | Ingredient                                                         | Brand                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------ | -------------------------- |
+|                                                                                                <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Gin                                                                | Beefeaters                 |
+|                                                                                                <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cognac                                                             | Maison Rouge VSOP          |
+|                                                                                                                                                                                                                                                                                                         | - OR -                                                             |
+|                                                                                                <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Bourbon                                                            | Old Grand-Dad 100 Proof    |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Fresh Lime Juice                                                   |
+|      <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|                                                                                            <span class="onex active">2 to 3 dashes</span> <span class="onehalfx">3 to 4 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">4 to 6 dashes</span> <span class="threex">6 to 9 dashes</span> | Bitters                                                            | Angostura Aromatic Bitters |
+|                                                                                             <span class="onex active">3 oz / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Ginger Beer                                                        | Fever Tree                 |
 
 ### Notes
 
@@ -37,14 +37,13 @@ excerpt: |
 - Garnish: Mint sprig and orange slice
 - Special Prep: Pour the ginger beer into the glass while pouring the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  " 1 oz Gin ",
   " 1 oz Cognac",
   "- OR -",
@@ -87,5 +86,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

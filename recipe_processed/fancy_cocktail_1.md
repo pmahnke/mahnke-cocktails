@@ -15,11 +15,11 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient        | Brand                      |
-| -----: | ----------------- | -------------------------- |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Rosolio Italicus  | Rosolio di Bergamotto      |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Reposado Tequila  | Casamigos                  |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Manzanilla Sherry | Lustau Manzanilla Papirusa |
+|                                                                                                                                                                                                   Amount | Ingredient        | Brand                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------------- | -------------------------- |
+| <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Rosolio Italicus  | Rosolio di Bergamotto      |
+| <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Reposado Tequila  | Casamigos                  |
+| <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Manzanilla Sherry | Lustau Manzanilla Papirusa |
 
 ### Notes
 
@@ -29,14 +29,13 @@ excerpt: |
 - Garnish: Grapefruit zest
 - Special Prep: Express grapefruit oil over cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "1 oz Rosolio Italicus ",
   "1 oz Reposado Tequila ",
   "1 oz Manzanilla Sherry"],
@@ -66,5 +65,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

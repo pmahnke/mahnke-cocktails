@@ -15,12 +15,12 @@ excerpt: |
 
 ### Ingredients
 
-|     Amount | Ingredient       | Brand                      |
-| ---------: | ---------------- | -------------------------- |
-|     <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Reposado Tequila | Siete Leguas               |
-|     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Mezcal           | Del Maguey Vida            |
-|   <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters          | Angostura Aromatic Bitters |
-| <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Agave Nectar     |
+|                                                                                                                                                                                                                                                                    Amount | Ingredient       | Brand                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------- | -------------------------- |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> | Reposado Tequila | Siete Leguas               |
+|    <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> | Mezcal           | Del Maguey Vida            |
+|                                                                                                                  <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span> | Bitters          | Angostura Aromatic Bitters |
+|                                                                      <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span> | Agave Nectar     |
 
 ### Notes
 
@@ -34,14 +34,13 @@ excerpt: |
   - Blend cocktail with a stick blender in the shaking tin.
   - Pour cocktail into glass.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "1.5 oz Reposado Tequila",
   "0.5 oz Mezcal",
   "2 dashes Bitters ",
@@ -88,5 +87,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

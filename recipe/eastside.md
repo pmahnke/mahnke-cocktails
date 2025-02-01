@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|     Amount | Ingredient                                        | Brand                       |
-| ---------: | ------------------------------------------------- | --------------------------- |
-|       2 oz | Gin                                               | Hendricks or Martin Millers |
-|       1 oz | Fresh Lime Juice                                  |                             |
-|     0.75 oz | [Simple Syrup]({% link recipe/simple_syrup.md %}) |                             |
-| 2-3 slices | Cucumber                                          |                             |
-|   5 leaves | Mint                                              |                             |
+|     Amount | Ingredient                                          | Brand                       |
+| ---------: | --------------------------------------------------- | --------------------------- |
+|       2 oz | Gin                                                 | Hendricks or Martin Millers |
+|       1 oz | Fresh Lime Juice                                    |                             |
+|    0.75 oz | [Simple Syrup]({%- link recipe/simple_syrup.md -%}) |                             |
+| 2-3 slices | Cucumber                                            |                             |
+|   5 leaves | Mint                                                |                             |
 
 ### Notes
 

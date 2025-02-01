@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient                                                | Brand         |
-| ------: | --------------------------------------------------------- | ------------- |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Bourbon                                                   | Old Grand-Dad |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Rye                                                       | Rittenhouse   |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice                                         |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Orgeat]({%link recipe_processed/orgeat_syrup.md%})                 |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|                                                                                                                                                                                                                                                                                                  Amount | Ingredient                                                          | Brand         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------- | ------------- |
+|                                                                                                <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Bourbon                                                             | Old Grand-Dad |
+|                                                                                                <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Rye                                                                 | Rittenhouse   |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Fresh Lemon Juice                                                   |
+|                                  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> | [Orgeat]({%link recipe_processed/orgeat_syrup.md%})                 |
+|      <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 
@@ -31,14 +31,13 @@ excerpt: |
 - Garnish: None
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  " 1 oz Bourbon",
   " 1 oz Rye",
   "0.75 oz Fresh Lemon Juice",
@@ -70,5 +69,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

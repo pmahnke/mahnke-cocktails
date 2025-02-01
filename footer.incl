@@ -2,7 +2,7 @@
 ---
 <!-- footer -->
 
-      {% include footer.html %}
+      {%- include footer.html -%}
 
    </div><!-- /div container - default.html -->
   </body>

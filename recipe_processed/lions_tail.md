@@ -15,14 +15,14 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                                               | Brand                      |
-| -------: | -------------------------------------------------------- | -------------------------- |
-|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Bourbon                                                  | Eagle Rare                 |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Allspice Dram                                            | St. Elizabeth              |
-|  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lime Juice                                         |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-| <span class="onex active">2 Dashes </span> <span class="onehalfx">3 Dashes </span> <span class="twox">4 Dashes </span> <span class="threex">6 Dashes </span>| Bitters                                                  | Angostura Aromatic Bitters |
-|  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Optional - Raw Egg White or Aquafaba (chickpea water)    |
+|                                                                                                                                                                                                                                                                                                  Amount | Ingredient                                                         | Brand                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------ | -------------------------- |
+|                               <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> | Bourbon                                                            | Eagle Rare                 |
+|                                  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="twox">1 oz / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> | Allspice Dram                                                      | St. Elizabeth              |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Fresh Lime Juice                                                   |
+|      <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|                                                                                                                                            <span class="onex active">2 Dashes </span> <span class="onehalfx">3 Dashes </span> <span class="twox">4 Dashes </span> <span class="threex">6 Dashes </span> | Bitters                                                            | Angostura Aromatic Bitters |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Optional - Raw Egg White or Aquafaba (chickpea water)              |
 
 ### Notes
 
@@ -32,14 +32,13 @@ excerpt: |
 - Garnish: Lime twist
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba. Raw Egg WhiteAquafaba (chickpea water)
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "1.5 oz Bourbon ",
   "0.5 oz Allspice Dram ",
   " 0.75 oz Fresh Lime Juice",
@@ -72,5 +71,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

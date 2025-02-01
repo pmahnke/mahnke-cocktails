@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|     Amount | Ingredient            | Brand                 |
-| ---------: | --------------------- | --------------------- |
-|       <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Light Rum             | The Real McCoy 3 Year |
-|       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Cream of Coconut      |
-|       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Coconut Milk          |
-|       <span class="onex active">6 oz  / 150 ml</span> <span class="onehalfx">9 oz  / 225 ml</span> <span class="twox">12 oz  / 300 ml</span> <span class="threex">18 oz  / 450 ml</span>| Fresh Pineapple Juice |
-| <span class="onex active">8 to 10 oz  / 200 to 250 ml</span> <span class="onehalfx">12 to 15 oz  / 300 to 375 ml</span> <span class="twox">16 to 20 oz  / 400 to 500 ml</span> <span class="threex">24 to 30 oz  / 600 to 750 ml</span>| Crushed Ice           |
+|                                                                                                                                                                                                                              Amount | Ingredient            | Brand                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------- | --------------------- |
+|                                                          <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Light Rum             | The Real McCoy 3 Year |
+|                            <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Cream of Coconut      |
+|                            <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Coconut Milk          |
+|                                                      <span class="onex active">6 oz / 150 ml</span> <span class="onehalfx">9 oz / 225 ml</span> <span class="twox">12 oz / 300 ml</span> <span class="threex">18 oz / 450 ml</span> | Fresh Pineapple Juice |
+| <span class="onex active">8 to 10 oz / 200 to 250 ml</span> <span class="onehalfx">12 to 15 oz / 300 to 375 ml</span> <span class="twox">16 to 20 oz / 400 to 500 ml</span> <span class="threex">24 to 30 oz / 600 to 750 ml</span> | Crushed Ice           |
 
 ### Notes
 
@@ -31,14 +31,13 @@ excerpt: |
 - Garnish: Pineapple pieces, pineapple fronds and cocktail cherries
 - Special Prep: Use an emersion blender directly in the shaker tin. Blend intill frothy.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "2 oz Light Rum",
   "1 oz Cream of Coconut ",
   "1 oz Coconut Milk ",
@@ -70,5 +69,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

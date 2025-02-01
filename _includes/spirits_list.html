@@ -1,24 +1,24 @@
-{% assign all_spirits = "" %}
+{%- assign all_spirits = "" -%}
 
-{% for page in site.pages %}
-  {% assign cleaned_list = page.base_spirits | replace: " -OR- ", ", " %}
-  {% assign spirits = cleaned_list | strip | split: ", " %}
-  {% for spirit in spirits %}
-    {% unless page.categories contains "mocktail" or page.categories contains "syrup"  %}
-    {% assign spirit_clean = spirit | strip  %}
-    {% unless all_spirits contains spirit_clean %}
-      {% assign all_spirits = all_spirits | append: spirit_clean | append: "|" %}
-    {% endunless %}
-    {% endunless %}
-  {% endfor %}
-{% endfor %}
+{%- for page in site.pages -%}
+  {%- assign cleaned_list = page.base_spirits | replace: " -OR- ", ", " -%}
+  {%- assign spirits = cleaned_list | strip | split: ", " -%}
+  {%- for spirit in spirits -%}
+    {%- unless page.categories contains "mocktail" or page.categories contains "syrup"  -%}
+    {%- assign spirit_clean = spirit | strip  -%}
+    {%- unless all_spirits contains spirit_clean -%}
+      {%- assign all_spirits = all_spirits | append: spirit_clean | append: "|" -%}
+    {%- endunless -%}
+    {%- endunless -%}
+  {%- endfor -%}
+{%- endfor -%}
 
-{% assign unique_spirits = all_spirits | split: "|" | sort %}
+{%- assign unique_spirits = all_spirits | split: "|" | sort -%}
 
 <ul>
-  {% for spirit in unique_spirits %}
-    {% if spirit != "" %}
+  {%- for spirit in unique_spirits -%}
+    {%- if spirit != "" -%}
       <li><a href="/cgi-bin/cocktail_search.cgi?a=search&q={{ spirit }}">{{ spirit }}</a></li>
-    {% endif %}
-  {% endfor %}
+    {%- endif -%}
+  {%- endfor -%}
 </ul>

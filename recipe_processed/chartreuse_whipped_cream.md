@@ -13,24 +13,23 @@ excerpt: |
 
 ### Ingredients
 
-|       Amount | Ingredient       |
-| -----------: | ---------------- |
-|       <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span>| Heavy Cream      |
-|         <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Green Chartreuse |
-| <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Powdered Sugar   |
+|                                                                                                                                                                                                       Amount | Ingredient       |
+| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------- |
+|                                                         <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span> | Heavy Cream      |
+|                                   <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Green Chartreuse |
+| <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span> | Powdered Sugar   |
 
 ### Method:
 
 1. Whisk just until the cream reaches stiff peaks.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "2 cups Heavy Cream ",
   "2 oz Green Chartreuse",
   "1 tablespoon Powdered Sugar"],
@@ -40,5 +39,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

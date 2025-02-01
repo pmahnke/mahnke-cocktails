@@ -13,12 +13,12 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                                                |
-| -------: | --------------------------------------------------------- |
-| <span class="onex active">2 sticks </span> <span class="onehalfx">3 sticks </span> <span class="twox">4 sticks </span> <span class="threex">6 sticks </span>| Cinnamon                                                  |
-|  <span class="onex active">3 whole </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">6 whole </span> <span class="threex">9 whole </span>| Cloves                                                    |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> cup </span>| Dried Hibiscus                                            |
-|   <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|                                                                                                                                                                                                                                                                       Amount | Ingredient                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------- |
+|                                                                                                                 <span class="onex active">2 sticks </span> <span class="onehalfx">3 sticks </span> <span class="twox">4 sticks </span> <span class="threex">6 sticks </span> | Cinnamon                                                            |
+|                                                                                     <span class="onex active">3 whole </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">6 whole </span> <span class="threex">9 whole </span> | Cloves                                                              |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> | Dried Hibiscus                                                      |
+|                                                                                                                         <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Method
 
@@ -28,14 +28,13 @@ excerpt: |
 4. Remove from heat, let sit for 1 hour.
 5. Once cooled, filter off solids. Store sealed in fridge for up to 2 weeks.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "2 sticks Cinnamon ",
   " 3 whole Cloves ",
   "0.25 cup Dried Hibiscus ",
@@ -46,5 +45,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

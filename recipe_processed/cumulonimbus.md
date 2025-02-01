@@ -14,13 +14,13 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient                                          | Brand |
-| ------: | --------------------------------------------------- | ----- |
-|    <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Freshly Brewed Espresso                             |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Cinnamon Syrup]({%link recipe_processed/cinnamon_syrup.md%}) |
-| <span class="onex active">3 Drops </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> Drops </span> <span class="twox">6 Drops </span> <span class="threex">9 Drops </span>| Orange Blossom Water                                |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Egg White                                           |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Soda Water                                          |
+|                                                                                                                                                                                                                                                                                                  Amount | Ingredient                                                    | Brand |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------- | ----- |
+|                                                                                                                              <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Freshly Brewed Espresso                                       |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | [Cinnamon Syrup]({%link recipe_processed/cinnamon_syrup.md%}) |
+|                                                                                                                <span class="onex active">3 Drops </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> Drops </span> <span class="twox">6 Drops </span> <span class="threex">9 Drops </span> | Orange Blossom Water                                          |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Egg White                                                     |
+|                                                                                                <span class="onex active">1 oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="twox">2 oz / 50 ml</span> <span class="threex">3 oz / 75 ml</span> | Soda Water                                                    |
 
 ### Notes
 
@@ -35,14 +35,13 @@ excerpt: |
   - Expressed orange oil.
   - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  " 2 oz Freshly Brewed Espresso",
   "0.75 oz Cinnamon Syrup",
   "3 Drops Orange Blossom Water ",
@@ -94,5 +93,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

@@ -13,10 +13,10 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                |
-| -------: | ------------------------- |
-|    <span class="onex active">14 oz  / 350 ml</span> <span class="onehalfx">21 oz  / 525 ml</span> <span class="twox">28 oz  / 700 ml</span> <span class="threex">42 oz  / 1050 ml</span>| Frozen Passion Fruit Pulp |
-| <span class="onex active">2 <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="onehalfx">3 <sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="twox">5 cups </span> <span class="threex">7 <sup>1</sup>&frasl;<sub>2</sub> cups </span>| White Sugar               |
+|                                                                                                                                                                                                                                               Amount | Ingredient                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------- |
+|                                                                    <span class="onex active">14 oz / 350 ml</span> <span class="onehalfx">21 oz / 525 ml</span> <span class="twox">28 oz / 700 ml</span> <span class="threex">42 oz / 1050 ml</span> | Frozen Passion Fruit Pulp |
+| <span class="onex active">2 <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="onehalfx">3 <sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="twox">5 cups </span> <span class="threex">7 <sup>1</sup>&frasl;<sub>2</sub> cups </span> | White Sugar               |
 
 ### Method
 
@@ -24,14 +24,13 @@ excerpt: |
 2. Stir over heat until sugar is completely dissolved.
 3. Remove from heat and let cool.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  " 14 oz Frozen Passion Fruit Pulp",
   "2.5 cups White Sugar"],
   "name": "{{ page.title }}",
@@ -40,5 +39,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

@@ -328,14 +328,13 @@ excerpt: |
 - Example: Scotch Toddy
 - More info: A hot, short, mixed drink often taken to soothe the effects of a cold. Toddies usually contain lemon juice and spices.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
@@ -343,5 +342,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

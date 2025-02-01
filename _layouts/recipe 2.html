@@ -6,16 +6,16 @@ layout: default
     <div class="two-thirds column">
 
         <div id="top_container">
-            {% if page.youtube %}
+            {%- if page.youtube -%}
             <div id="youtube-menu">
-                {% if page.youtube %}
+                {%- if page.youtube -%}
                 <a href="{{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
-                {% endif %}
-                {% if page.youtube_embed %}
+                {%- endif -%}
+                {%- if page.youtube_embed -%}
                 <button id="youtube-button" onclick="toggleDiv()">Embedded</button>
-                {% endif %}
+                {%- endif -%}
             </div>
-            {% endif %}
+            {%- endif -%}
 
             <div id="search">
             <form action="{{ site.baseurl }}/search.cgi" method="get">
@@ -28,14 +28,14 @@ layout: default
 
     <div id="page_title">
         <h2 style="display: inline-block;">{{ page.title }} </h2>
-        <div id="stars">{% assign counter = 0 %}{% for i in (1..5) %}{% if counter < page.stars %}<span class="checked">★</span>{% else %}☆{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}</div>
+        <div id="stars">{%- assign counter = 0 -%}{%- for i in (1..5) -%}{%- if counter < page.stars -%}<span class="checked">★</span>{%- else -%}☆{%- endif -%}{%- assign counter = counter | plus: 1 -%}{%- endfor -%}</div>
      </div>
 
-    {% if page.excerpt %}
+    {%- if page.excerpt -%}
     <div id="excerpt">
         <p>{{ page.excerpt }}</p>
     </div>
-    {% endif %}
+    {%- endif -%}
 
 
     {{ content }}
@@ -45,7 +45,7 @@ layout: default
         <a href="javascript:window.history.back()" class="button">Back</a>
     </div>
 
-    {% if page.youtube_embed %}
+    {%- if page.youtube_embed -%}
     <div id="youtube" style="display: none;">
         <object
             data="{{ page.youtube_embed }}"
@@ -54,7 +54,7 @@ layout: default
             height="630"
         >
     </div>
-    {% endif %}
+    {%- endif -%}
 
     </div><!-- /div 2/3 -->
 </div><!-- /div row -->

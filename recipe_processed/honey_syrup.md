@@ -13,24 +13,23 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient    |
-| ------: | ------------- |
-| <span class="onex active">3 parts </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> parts </span> <span class="twox">6 parts </span> <span class="threex">9 parts </span>| Honey         |
-| <span class="onex active">1 parts </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> parts </span> <span class="twox">2 parts </span> <span class="threex">3 parts </span>| Boiling Water |
+|                                                                                                                                                                                   Amount | Ingredient    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------- |
+| <span class="onex active">3 parts </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> parts </span> <span class="twox">6 parts </span> <span class="threex">9 parts </span> | Honey         |
+| <span class="onex active">1 parts </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> parts </span> <span class="twox">2 parts </span> <span class="threex">3 parts </span> | Boiling Water |
 
 ### Method
 
 1. In a heat resistant bowl or glass, combine 3 parts honey and 1 part hot water.
 2. Stir until honey and water are completely integrated.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  "3 parts Honey",
   "1 parts Boiling Water"],
   "name": "{{ page.title }}",
@@ -39,5 +38,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

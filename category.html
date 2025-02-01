@@ -9,14 +9,14 @@ title: Cocktail Categories
 
         <h3>Cocktail Categories</h3>
 
-        {% assign sorted = site.data.categories | sort: "name" %}
-        {% for cat in sorted %}
+        {%- assign sorted = site.data.categories | sort: "name" -%}
+        {%- for cat in sorted -%}
 
         <h4><a href="{{ cat.slug }}_cocktails.html">{{ cat.name }}</a></h4>
         <p>{{ cat.description }}</p>
         <p><a href="{{ cat.slug }}_cocktails.html">See {{ cat.name }} cocktails ></a></p>
 
-        {% endfor %}
+        {%- endfor -%}
  
     </div>
 </div>  

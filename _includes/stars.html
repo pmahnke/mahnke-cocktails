@@ -1,17 +1,17 @@
-{% assign rating = site.data.ratings[page.iconfile].ratings %}
-{% assign sum = 0 %}
-{% assign average = 0 %}
-{% assign sz = rating | size %}
-{% if sz > 0 %}
-  {% for r in rating %}
-    {% assign sum = sum | plus: r.rating %}
-  {% endfor %}
-{% assign sum = sum | times: 1.0 %}
-{% assign average = sum | divided_by: sz %}
-{% endif %}
-{% comment %}mobile verion: 4*{% endcomment %}
-{% assign int_version = average | round %}
-{% assign float_version = average | plus: 0 %}
-{% if int_version == 0 %}{% elsif float_version == int_version %}<span class="home-rating-text">{{ int_version }}<svg class="non-home-star" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#fcc200"><g><rect fill="none" height="24" width="24" x="0"/><polygon points="14.43,10 12,2 9.57,10 2,10 8.18,14.41 5.83,22 12,17.31 18.18,22 15.83,14.41 22,10"/></g></svg></span>{% else %}<span class="home-rating-text">{{ float_version }}<svg class="non-home-star" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#fcc200"><g><rect fill="none" height="24" width="24" x="0"/><polygon points="14.43,10 12,2 9.57,10 2,10 8.18,14.41 5.83,22 12,17.31 18.18,22 15.83,14.41 22,10"/></g></svg></span>{% endif %}
-{% comment %}large verion: ****{% endcomment %}
-<span class="non_home_list_stars">{% assign whole = average | floor %}{% assign half = average | modulo: 1 %}{% assign counter = 0 %}{% for i in (0..4) %}{% if counter < whole %}<svg class="non-home-star" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#fcc200"><g><rect fill="none" height="24" width="24" x="0"/><polygon points="14.43,10 12,2 9.57,10 2,10 8.18,14.41 5.83,22 12,17.31 18.18,22 15.83,14.41 22,10"/></g></svg>{% elsif counter == whole and half == 0.5 %}<svg class="non-home-star" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#fcc200"><path d="M480-644v236l96 74-36-122 90-64H518l-38-124ZM233-120l93-304L80-600h304l96-320 96 320h304L634-424l93 304-247-188-247 188Z"/></svg>{% else %}<svg class="non-home-star" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#999999"><path d="m384-334 96-74 96 74-36-122 90-64H518l-38-124-38 124H330l90 64-36 122ZM233-120l93-304L80-600h304l96-320 96 320h304L634-424l93 304-247-188-247 188Zm247-369Z"/></svg>{% endif %}{% assign counter = counter | plus: 1 %}{% endfor %}</span>
+{%- assign rating = site.data.ratings[page.iconfile].ratings -%}
+{%- assign sum = 0 -%}
+{%- assign average = 0 -%}
+{%- assign sz = rating | size -%}
+{%- if sz > 0 -%}
+  {%- for r in rating -%}
+    {%- assign sum = sum | plus: r.rating -%}
+  {%- endfor -%}
+{%- assign sum = sum | times: 1.0 -%}
+{%- assign average = sum | divided_by: sz -%}
+{%- endif -%}
+{%- comment -%}mobile verion: 4*{%- endcomment -%}
+{%- assign int_version = average | round -%}
+{%- assign float_version = average | plus: 0 -%}
+{%- if int_version == 0 -%}{%- elsif float_version == int_version -%}<span class="home-rating-text">{{ int_version }}<svg class="non-home-star" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#fcc200"><g><rect fill="none" height="24" width="24" x="0"/><polygon points="14.43,10 12,2 9.57,10 2,10 8.18,14.41 5.83,22 12,17.31 18.18,22 15.83,14.41 22,10"/></g></svg></span>{%- else -%}<span class="home-rating-text">{{ float_version }}<svg class="non-home-star" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#fcc200"><g><rect fill="none" height="24" width="24" x="0"/><polygon points="14.43,10 12,2 9.57,10 2,10 8.18,14.41 5.83,22 12,17.31 18.18,22 15.83,14.41 22,10"/></g></svg></span>{%- endif -%}
+{%- comment -%}large verion: ****{%- endcomment -%}
+<span class="non_home_list_stars">{%- assign whole = average | floor -%}{%- assign half = average | modulo: 1 -%}{%- assign counter = 0 -%}{%- for i in (0..4) -%}{%- if counter < whole -%}<svg class="non-home-star" xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#fcc200"><g><rect fill="none" height="24" width="24" x="0"/><polygon points="14.43,10 12,2 9.57,10 2,10 8.18,14.41 5.83,22 12,17.31 18.18,22 15.83,14.41 22,10"/></g></svg>{%- elsif counter == whole and half == 0.5 -%}<svg class="non-home-star" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#fcc200"><path d="M480-644v236l96 74-36-122 90-64H518l-38-124ZM233-120l93-304L80-600h304l96-320 96 320h304L634-424l93 304-247-188-247 188Z"/></svg>{%- else -%}<svg class="non-home-star" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#999999"><path d="m384-334 96-74 96 74-36-122 90-64H518l-38-124-38 124H330l90 64-36 122ZM233-120l93-304L80-600h304l96-320 96 320h304L634-424l93 304-247-188-247 188Zm247-369Z"/></svg>{%- endif -%}{%- assign counter = counter | plus: 1 -%}{%- endfor -%}</span>

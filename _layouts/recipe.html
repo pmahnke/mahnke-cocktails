@@ -7,19 +7,19 @@ layout: default
         <h2>{{ page.title }} </h2>
     </div><!-- /div 2/3 -->
     <div class="one-third column stars">
-        {% include stars.html %}
+        {%- include stars.html -%}
     </div><!-- /div 1/3-->    
 </div><!-- /div row -->
 
 <div class="row">
     <div class="two-thirds column">
-    {% include recipe_taxonomy.html %}
-    {% if page.excerpt %}
+    {%- include recipe_taxonomy.html -%}
+    {%- if page.excerpt -%}
         <div id="excerpt">
             <p>{{ page.excerpt }}</p>
-            <p>{% for s in page.style %}{{ s }}, {% endfor %}</p>
+            <p>{%- for s in page.style -%}{{ s }}, {%- endfor -%}</p>
         </div>
-    {% endif %}
+    {%- endif -%}
 
     {{ content }}
 
@@ -27,21 +27,21 @@ layout: default
    
     <div class="one-third column">
 
-        {% for ingredient in site.data[page.iconfile].images.ingredient %}
+        {%- for ingredient in site.data[page.iconfile].images.ingredient -%}
         <p class="icons"><img src="{{ ingredient.url }}" alt="{{ ingredient.title }}" title="{{ ingredient.title }}" width="150"></p>
-        {% endfor %}
-        {% for tools in site.data[page.iconfile].images.tool %}
+        {%- endfor -%}
+        {%- for tools in site.data[page.iconfile].images.tool -%}
         <p class="icons"><img src="{{ tools.url }}" alt="{{ tools.title }}" title="{{ tools.title }}" width="150"></p>
-        {% endfor %}
-        {% for glass in site.data[page.iconfile].images.glass %}
+        {%- endfor -%}
+        {%- for glass in site.data[page.iconfile].images.glass -%}
         <p class="icons"><img src="{{ glass.url }}" alt="{{ glass.title }}" width="150"></p>
-        {% endfor %}
-        {% for ice in site.data[page.iconfile].images.ice %}
+        {%- endfor -%}
+        {%- for ice in site.data[page.iconfile].images.ice -%}
         <p class="icons"><img src="{{ ice.url }}" alt="{{ ice.title }}" width="150"></p>
-        {% endfor %}
-        {% for garnish in site.data[page.iconfile].images.garnish %}
+        {%- endfor -%}
+        {%- for garnish in site.data[page.iconfile].images.garnish -%}
         <p class="icons"><img src="{{ garnish.url }}" alt="{{ garnish.title }}" width="150"></p>
-        {% endfor %}
+        {%- endfor -%}
     
     </div><!-- /div 1/3 -->
 
@@ -49,13 +49,13 @@ layout: default
 
 <div class="row">
     <div class="twelve columns">
-    {% include scale_menu.html %}
+    {%- include scale_menu.html -%}
     </div>
 
     <div class="twelve columns" style="padding:10px 0;">
         <a href="javascript:window.history.back()" class="button">Back</a>
 
-        {% if page.youtube_embed %}
+        {%- if page.youtube_embed -%}
         <div id="youtube" style="display: none;">
             <object
                 data="{{ page.youtube }}"
@@ -64,7 +64,7 @@ layout: default
                 height="630"
             >
         </div>
-        {% endif %}
+        {%- endif -%}
 
     </div>
 </div>

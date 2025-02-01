@@ -15,12 +15,12 @@ excerpt: |
 
 ### Ingredients
 
-|         Amount | Ingredient                 |
-| -------------: | -------------------------- |
-|          <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Fresh Lime Juice           |
-|       <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> cup </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> cup </span>| White Sugar                |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> barspoons</span>| Angostura Aromatic Bitters |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> tablespoons</span> <span class="twox">1 tablespoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span>| Freshly Grated Nutmeg      |
+|                                                                                                                                                                                                                                                                                           Amount | Ingredient                 |
+| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------- |
+|                                                                                                                 <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span> | Fresh Lime Juice           |
+|                  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> cup </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> cup </span> | White Sugar                |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> barspoons</span> | Angostura Aromatic Bitters |
+|                       <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> tablespoons</span> <span class="twox">1 tablespoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> | Freshly Grated Nutmeg      |
 
 ### Method
 
@@ -29,14 +29,13 @@ excerpt: |
 3. Rest in fridge for two hours, agitating occasionally.
 4. Store in fridge for up to 3-4 weeks.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
   "recipeIngredient": [  " 1 cup Fresh Lime Juice",
   "0.75 cup White Sugar ",
   " 0.25 barspoon Angostura Aromatic Bitters",
@@ -47,5 +46,3 @@ excerpt: |
   "recipeCategory": "cocktail"
 }
 </script>
-
-    

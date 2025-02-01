@@ -5,13 +5,13 @@ layout: default
 <div class="row">
     <div class="two-thirds column">
         
-        {% assign s = site.data.categories | where: "slug", page.categories | first %}
+        {%- assign s = site.data.categories | where: "slug", page.categories | first -%}
         <h2>{{ s.name }}</h2>
         <p>{{ s.description }}</p>
         
         <table class="home_table">
-        {% for page in site.pages %}
-        {% if page.categories contains s.slug and page.layout == 'recipe' %}
+        {%- for page in site.pages -%}
+        {%- if page.categories contains s.slug and page.layout == 'recipe' -%}
             <tr>
                 <th class="home_title">
                     <a href="{{ page.url | prepend: site.baseurl }}">
@@ -19,17 +19,17 @@ layout: default
                     </a>
                 </th>
                 <td class="home_spirits">
-                    {% include category_search.html %}
+                    {%- include category_search.html -%}
                 </td>
                 <td class="home_stars">
-                    {% include stars.html %}
+                    {%- include stars.html -%}
                 </td>
             </tr>
-        {% endif %}
-        {% endfor %}
+        {%- endif -%}
+        {%- endfor -%}
         </table>
     </div>
-    <div class="one-third column">{% if s.url %}<img src="{{ s.url }}" alt="{{ s.name }}" class="category_icon_large">{% endif %}</div>
+    <div class="one-third column">{%- if s.url -%}<img src="{{ s.url }}" alt="{{ s.name }}" class="category_icon_large">{%- endif -%}</div>
 </div>
 
 
