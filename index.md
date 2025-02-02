@@ -4,8 +4,8 @@ keywords:
 excerpt: "Classic, prohibition and modern cocktail recipes."
 ---
 
-<div class="row">
-    <div class="two-thirds column"> 
+<div class="grid-container two-thirds">
+    <div><!-- div 2/3 -->
         <h2>Cocktails</h2>
         {%- assign sorted = site.data.categories | sort: "name" -%}
         {%- for cat in sorted -%}
@@ -28,7 +28,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         <p class="more"><a href="category/{{ cat.slug }}_cocktails.html">More {{ cat.name }} cocktails ></a></p>
         {%- endfor -%}
     </div><!-- /div 2/3 -->
-    <div class="one-third column">
+    <div><!-- div 1/3 -->
         <h3>Recipes by Base Spirit</h3>
         {%- include spirits_list.html -%}
         <h3><a href="/cocktails/era/">Recipes by era</a></h3>
@@ -64,5 +64,4 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             </ul>
         </ul>
     </div><!-- /div 1/3 -->
-
-</div><!-- /div row -->
+</div><!-- /div grid-container -->
