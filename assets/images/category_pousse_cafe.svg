@@ -1,0 +1,19 @@
+<svg width="200" height="400" viewBox="0 0 200 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Glass Outline -->
+  <path d="M80,50 Q100,40 120,50 L130,250 Q130,270 110,290 L90,290 Q70,270 70,250 Z" stroke="black" fill="none" stroke-width="3"/>
+  
+  <!-- Layers of the Pousse Café -->
+  <rect x="75" y="230" width="50" height="20" fill="#4A2C2A" stroke="black" stroke-width="1"/> <!-- Dark layer -->
+  <rect x="75" y="210" width="50" height="20" fill="#DAA520" stroke="black" stroke-width="1"/> <!-- Golden layer -->
+  <rect x="75" y="190" width="50" height="20" fill="#8B0000" stroke="black" stroke-width="1"/> <!-- Red layer -->
+  <rect x="75" y="170" width="50" height="20" fill="#2E8B57" stroke="black" stroke-width="1"/> <!-- Green layer -->
+  <rect x="75" y="150" width="50" height="20" fill="#87CEFA" stroke="black" stroke-width="1"/> <!-- Blue layer -->
+  <rect x="75" y="130" width="50" height="20" fill="#FFD700" stroke="black" stroke-width="1"/> <!-- Yellow layer -->
+
+  <!-- Glass Stem -->
+  <line x1="100" y1="290" x2="100" y2="330" stroke="black" stroke-width="3"/>
+
+  <!-- Glass Base -->
+  <ellipse cx="100" cy="340" rx="30" ry="10" stroke="black" fill="none" stroke-width="3"/>
+</svg>
+

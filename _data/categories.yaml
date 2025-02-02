@@ -56,6 +56,7 @@
   description: A non-alcoholic cocktail, or "mocktail", is a beverage that mimics the complexity and presentation of a traditional cocktail.
 - name: Pousse Café
   slug: pousse_cafe
+  url: /cocktails/assets/images/category_pousse_cafe.svg
   description: Pousse-cafés are very short, layered cocktails, served in a tall Pousse-café glass. Each ingredient must be poured carefully into the glass so that it floats on the previous layer.
 - name: Punch
   slug: punch
@@ -83,6 +84,7 @@
   description: A hot, short, mixed drink often taken to soothe the effects of a cold. Toddies usually contain lemon juice and spices.
 - name: Ice Cream
   slug: ice_cream
+  url: /cocktails/assets/images/category_ice_cream.svg
   description: An ice cream cocktail is a Wisconsin-style drink that combines ice cream with liquor.
 - name: Cocktail
   slug: cocktail

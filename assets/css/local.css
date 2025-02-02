@@ -1,0 +1,245 @@
+/* style for small screens */
+
+a:link, a:visited, a:active
+{
+	color:#009;
+    text-decoration: none;
+}
+	a:hover
+{
+	color:#F30;
+    text-decoration: underline;
+}
+
+.header {
+    text-align: center;
+    }
+.stars {
+    font-size: x-large;
+    vertical-align: middle;
+    text-align: right;
+}
+span.checked {
+    color:#fcc200;
+}
+
+/* search */
+#search {
+    text-align: right;
+}
+#search_text, #search_button {
+    display: inline-block;
+}
+#search_text {
+    min-width: 22rem;
+}
+
+.double_line {
+    height: 11px;
+    background: #fafbf6 url('/cocktails/assets/images/recipe_bar.png') repeat-x;
+    margin: 0 0 2em 0 ;
+}
+/* list */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    padding-left: 1em; 
+    text-indent: -.7em;
+    margin: .25em 0;
+  }
+  
+  ul > li::before {
+    content: "⇒ ";
+    color: #E1AD01; 
+    font-size: 2rem;
+  }
+p.icons {
+    display: none;
+}
+
+.more {
+    padding: 3em 0;
+}
+
+.header img {
+    height: 8rem;
+    margin-bottom: -2rem;
+    padding-top: 1rem
+}
+
+/* headings - smnall screens */
+h1 {
+    font-size: 32px;
+    font-weight: 550;
+}
+h2 {
+    font-size: 32px;
+    font-weight: 180;
+}
+h3 {
+    font-size: 24px;
+    font-weight: 550;
+}
+h4 {
+    font-size: 24px;
+    font-weight: 275;
+}
+
+h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a:link, h3 a:visited, h3 a:active, h4 a:link, h4 a:visited, h4 a:active  {
+    text-decoration: none;
+    color: #222;
+}
+
+/* styles for the homepage table */
+.home_table {
+    width: 100%;
+}
+.home_title {
+    width: 35%;
+}
+.home_spirits  {
+    width: 40%;
+}
+.home_stars  {
+    vertical-align: middle;
+    text-align: center;
+    width: 25%;
+}
+.non-home-star {
+    width: 12px;
+}
+.non_home_list_stars {
+    display: none;
+}
+.home_list li::before {
+    content: unset;
+}
+
+.home_list {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two equal columns */
+    gap: .25em 1em; /* Space between items */
+    padding: 0;
+    list-style: none;
+    max-width: 100%; /* Adjust as needed */
+}
+
+.home_list_item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: .25em .5em;
+    padding: 5px 0;
+}
+  
+.home_list_stars {
+    display: none;
+}
+.home-star {
+    width: 12px;
+}
+.home-rating-text {
+    display: unset;
+    font-size: .75em;
+}
+
+/* measurement scaling */
+.onex, .onehalfx, .twox, .threex {
+    display: none; /* Hide all spans by default */
+}
+.onex.active, .onehalfx.active, .twox.active, .threex.active {
+    display: inline; /* Show the active span */
+}
+.menu {
+    font-variant-caps: small-caps;
+    margin: 2rem 0;  
+}
+.menu a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+}
+.menu a.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+.category_icon_small {
+    display: none;
+}
+.category_icon_large {
+    display: none;
+}
+
+@media (min-width: 768px) {
+    /* Styles for screens smaller than 768px (phones) */   
+    p.icons {
+        display: block;
+        vertical-align: middle;
+        text-align: right;
+        clear: both;        
+    }
+    /* headings - larger screens */
+    h1 {
+        font-size: 40px;
+        font-weight: 550;
+    }
+    h2 {
+        font-size: 40px;
+        font-weight: 180;
+    }
+    h3 {
+        font-size: 24px;
+        font-weight: 550;
+    }
+    h4 {
+        font-size: 24px;
+        font-weight: 275;
+    }
+    .home_list_stars {
+        display: unset;
+        margin-left: auto; /* Pushes stars to the right */
+    }
+    .non_home_list_stars {
+        display: unset;
+    }
+    .home-rating-text {
+        display: none;
+    }  
+}
+
+@media (min-width: 1024px) {
+    /* Styles for screens smaller than 1024px (tablets) */
+
+    .home_list_stars {
+        display: unset;
+        margin-left: auto; /* Pushes stars to the right */
+    }
+    .home-star {
+        width: 18px;
+    }
+    .home-rating-text {
+        display: none;
+    }
+    .non-home-star {
+        width: 24px;
+    }
+    .category_icon_small {
+        display: inline;
+        width: 8rem;
+        max-height: 10rem;
+        vertical-align: bottom;
+    }
+    .category_icon_large {
+        display: inline;
+        width: 24rem;
+        max-height: 24rem;
+        text-align: right;
+    }
+    
+}
+
