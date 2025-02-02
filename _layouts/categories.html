@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<div class="row">
-    <div class="two-thirds column">
-        
+<div class="grid-container two-thirds">
+    <div><!-- div 2/3 -->
+
         {%- assign s = site.data.categories | where: "slug", page.categories | first -%}
         <h2>{{ s.name }}</h2>
         <p>{{ s.description }}</p>
@@ -28,8 +28,10 @@ layout: default
         {%- endif -%}
         {%- endfor -%}
         </table>
-    </div>
-    <div class="one-third column">{%- if s.url -%}<img src="{{ s.url }}" alt="{{ s.name }}" class="category_icon_large">{%- endif -%}</div>
-</div>
+    </div><!-- /div 2/3-->
+    <div><!-- div 1/3 -->
+        {%- if s.url -%}<img src="{{ s.url }}" alt="{{ s.name }}" class="category_icon_large">{%- endif -%}
+    </div><!-- /div 1/3 -->
+</div><!-- /div grid-container -->
 
 

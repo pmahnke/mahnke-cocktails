@@ -125,7 +125,7 @@ html {
 	max-width: var(--grid-max-width);
 	margin: 0 auto;
 	padding: 20px;
-	text-align: center;
+	/* text-align: center; */
 	display: grid;
 	grid-gap: 20px;
 	gap: 20px;
@@ -148,6 +148,9 @@ html {
 	.grid-container.quarters {
 		grid-template-columns: repeat(4, 1fr);
 	}
+  .grid-container.two-thirds {
+    grid-template-columns: 2fr 1fr;
+  }
 	.grid-container.thirds {
 		grid-template-columns: repeat(3, 1fr);
 	}

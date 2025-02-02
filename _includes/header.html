@@ -1,30 +1,25 @@
-<div class="row">
-    <div class="twelve columns header">
-       <h1><a href="{{ site.baseurl | prepend: site.url }}/"><img src="{{ site.baseurl | prepend: site.url }}/assets/images/logo_image.svg" alt="Logo" height="80" width="80"> {{ site.title | escape }}</a></h1>
-    </div>
-</div>
+<div class="grid-container full">
+  <div class="header"><!--div full -->
+    <h1><a href="{{ site.baseurl | prepend: site.url }}/"><img src="{{ site.baseurl | prepend: site.url }}/assets/images/logo_image.svg" alt="Logo" height="80" width="80"> {{ site.title | escape }}</a></h1>
+  </div><!-- /div full -->
 
-<div class="double_line"> </div>
+  <div class="double_line"> </div><!-- full div full-->
+</div><!-- /div grid-container -->
 
-<div class="row">
-    <div class="one-half column">
-        {%- if page.youtube -%}
-        <div id="youtube-menu">
-            {%- if page.youtube -%}
-              {%- if page.youtube contains "https" -%}
-            <a href="{{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
-              {%- else -%}
-            <a href="https://www.youtube.com/watch?v={{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
-              {%- endif -%}
-            {%- endif -%}
-            {%- if page.youtube_embed -%}
-            <button id="youtube-button" onclick="toggleDiv()">Embedded</button>
-            {%- endif -%}
-        </div>
-        {%- endif -%}&nbsp;
-    </div><!-- /div 1/2 -->
+<div class="grid-container halves">
+  <div><!-- div half -->
+    {%- if page.youtube -%}
+      {%- if page.youtube contains "https" -%}
+    <a href="{{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
+      {%- else -%}
+    <a href="https://www.youtube.com/watch?v={{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
+      {%- endif -%}
+      {%- if page.youtube_embed -%}
+    <button id="youtube-button" onclick="toggleDiv()">Embedded</button>
+      {%- endif -%}{%- endif -%}&nbsp;
+  </div><!-- /div 1/2 -->
 
-    <div class="one-half column" id="search">
-        {%- include search.html -%}
-    </div><!-- /div 1/2 -->
-</div><!-- /div row -->
+  <div class="" id="search"><!-- div 1/2 -->
+    {%- include search.html -%}
+  </div><!-- /div 1/2 -->
+</div><!-- /div grid-container -->

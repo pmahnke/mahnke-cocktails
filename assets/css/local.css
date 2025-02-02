@@ -175,7 +175,9 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     display: none;
 }
 
-@media (min-width: 768px) {
+
+/* Larger than mobile (default point when grid becomes active) */
+@media (min-width: 600px) {
     /* Styles for screens smaller than 768px (phones) */   
     p.icons {
         display: block;
@@ -210,11 +212,11 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     .home-rating-text {
         display: none;
     }  
+
 }
 
-@media (min-width: 1024px) {
-    /* Styles for screens smaller than 1024px (tablets) */
-
+/* Larger than phablet */
+@media (min-width: 900px) {
     .home_list_stars {
         display: unset;
         margin-left: auto; /* Pushes stars to the right */
@@ -240,6 +242,11 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
         max-height: 24rem;
         text-align: right;
     }
-    
+
+}
+
+/* Larger than tablet */
+@media (min-width: 1200px) {
+
 }
 

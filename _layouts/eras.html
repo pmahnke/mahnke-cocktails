@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div class="row">
-    <div class="two-thirds column">
+<div class="grid-container two-thirds">
+    <div><!-- div 2/3 -->
 
         {%- assign s = site.data.eras | where: "slug", page.eras | first -%}
         <h2>{{ s.name }}</h2>
@@ -28,6 +28,6 @@ layout: default
         {%- endif -%}
         {%- endfor -%}
         </table>
-    </div>
-</div>
-
+    </div><!-- /div 2/3-->
+    <div></div><!-- empty div 1/3 -->
+</div><!-- /div grid-container -->
