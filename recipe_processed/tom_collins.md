@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Tom Collins"
+author: "Anders Erickson"
 categories: [collins]
 eras: [classic]
 permalink: "/recipe/tom_collins/"

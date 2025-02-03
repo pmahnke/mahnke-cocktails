@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Colleen Bawn"
+author: "Anders Erickson"
 categories: [flip]
 eras: [classic]
 permalink: "/recipe/colleen_bawn/"

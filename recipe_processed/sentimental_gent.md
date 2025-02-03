@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Sentimental Gentleman"
+author: "Anders Erickson"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/sentimental_gent/"
