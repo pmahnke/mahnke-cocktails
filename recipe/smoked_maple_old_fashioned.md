@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Smoked Maple Old Fashioned"
-categories: [cocktail]
+categories: [cocktail, smoked]
 eras: [classic]
 permalink: "/recipe/smoked_maple_old_fashioned/"
 iconfile: smoked_maple_old_fashioned
