@@ -1,8 +1,8 @@
 ---
-layout: recipe
+layout: default-plain
 title: "Cocktail Book Recommendations"
 type: list
-permalink: "/recipe/barlist5/"
+permalink: "/bar_list/cocktail_books/"
 iconfile: barlist5
 youtube: "hoJ1_OlfCA8"
 ---

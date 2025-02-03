@@ -1,9 +1,9 @@
 ---
-layout: recipe
+layout: default-plain
 title: "5 Tools to UP Your Game!"
 type: list
 iconfile: barlist3
-permalink: "/recipe/barlist3/"
+permalink: "/bar_list/five_tools/"
 youtube: "v=I9XrSLALKA4"
 ---
 

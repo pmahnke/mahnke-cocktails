@@ -1,9 +1,9 @@
 ---
-layout: recipe
+layout: default-plain
 title: "Cocktail Glasses: Essentials and Favorites"
 type: list
 iconfile: barlist4
-permalink: "/recipe/barlist4/"
+permalink: "/bar_list/cocktail_glasses/"
 youtube: "v=CODeSo8ePtM"
 ---
 

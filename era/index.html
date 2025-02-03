@@ -1,0 +1,16 @@
+---
+layout: default-plain
+permalink: /era/
+title: Cocktail Eras
+---
+
+{%- assign sorted = site.data.eras | sort: "name" -%}
+
+{%- for era in sorted -%}
+
+<h4><a href="{{ era.slug }}">{{ era.name }}</a></h4>
+<p>{{ era.description }}</p>
+<p><a href="{{ era.slug }}">See {{ era.name }} cocktails ></a></p>
+
+{%- endfor -%}
+
