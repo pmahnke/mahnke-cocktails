@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Man o’ War"
 eras: [prohibition]
 categories: [cocktail]
-permalink: "/recipe/man_o_war"
+permalink: "/recipe/man_o_war/"
 iconfile: man_o_war
 stars: 0
 base_spirits: "Bourbon, Oloroso Sherry"

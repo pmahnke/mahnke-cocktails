@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Lion's Tail"
 eras: [prohibition]
 categories: [sour]
-permalink: "/recipe/lions_tail"
+permalink: "/recipe/lions_tail/"
 iconfile: lions_tail
 stars: 5
 base_spirits: "Bourbon, Allspice Dram"

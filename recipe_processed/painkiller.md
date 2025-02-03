@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Painkiller (Inspired)"
 categories: [tiki]
 eras: [modern]
-permalink: "/recipe/painkiller"
+permalink: "/recipe/painkiller/"
 iconfile: painkiller
 stars: 4
 base_spirits: "Demerara Rum, Jamaican Rum "

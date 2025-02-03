@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Absinthe Frappé"
 categories: [frappe_swizzle]
 eras: [classic]
-permalink: "/recipe/absinthe_frappe"
+permalink: "/recipe/absinthe_frappe/"
 iconfile: absinthe_frappe
 stars: 0
 base_spirits: "Absinthe"

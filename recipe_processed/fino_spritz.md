@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Fino Spritz"
 categories: [spritz]
 eras: [modern]
-permalink: "/recipe/fino_spritz"
+permalink: "/recipe/fino_spritz/"
 iconfile: fino_spritz
 stars: 0
 base_spirits: "Fino Sherry, Maraschino Liqueur"

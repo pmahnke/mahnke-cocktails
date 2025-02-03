@@ -4,7 +4,7 @@ author: Leandro DiMonriva
 title: "Army & Navy"
 eras: [modern]
 categories: [sour]
-permalink: "/recipe/army_navy"
+permalink: "/recipe/army_navy/"
 iconfile: army_navy
 stars: 3:5
 base_spirits: "Gin"

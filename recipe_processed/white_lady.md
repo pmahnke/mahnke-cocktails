@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "The White Lady"
 eras: [prohibition]
 categories: [sour]
-permalink: "/recipe/white_lady"
+permalink: "/recipe/white_lady/"
 iconfile: white_lady
 stars: 4
 base_spirits: "Triple Sec, Crème de Menthe -OR- Gin "

@@ -3,7 +3,7 @@ layout: recipe
 title: "Chicago Cocktail"
 categories: [champagne]
 eras: [prohibition]
-permalink: "/recipe/chicago_cocktail"
+permalink: "/recipe/chicago_cocktail/"
 iconfile: chicago_cocktail
 stars: 3
 base_spirits: "Champagne, Cognac "

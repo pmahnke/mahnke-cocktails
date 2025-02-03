@@ -4,7 +4,7 @@ author: Pusser's Rum
 title: "Grog"
 categories: [grog]
 eras: [classic]
-permalink: "/recipe/grog"
+permalink: "/recipe/grog/"
 iconfile: grog
 stars: 4
 base_spirits: "Demerara Rum"

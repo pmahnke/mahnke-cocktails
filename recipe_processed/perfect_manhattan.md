@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Perfect Manhattan"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/perfect_manhattan"
+permalink: "/recipe/perfect_manhattan/"
 iconfile: perfect_manhattan
 stars: 0
 base_spirits: "Rye "

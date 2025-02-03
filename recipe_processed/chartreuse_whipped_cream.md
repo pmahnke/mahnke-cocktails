@@ -2,7 +2,7 @@
 layout: recipe
 title: "Chartreuse Infused Whipped Cream"
 categories: [syrup]
-permalink: "/recipe/chartreuse_whipped_cream"
+permalink: "/recipe/chartreuse_whipped_cream/"
 iconfile: chartreuse_whipped_cream
 stars: 5
 base_spirits: "Green Chartreuse, Heavy Cream, Powdered Sugar"

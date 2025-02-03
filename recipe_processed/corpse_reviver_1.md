@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Corpse Reviver #1"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/corpse_reviver_1"
+permalink: "/recipe/corpse_reviver_1/"
 iconfile: corpse_reviver_1
 stars: 4
 base_spirits: "Calvados, Cognac"

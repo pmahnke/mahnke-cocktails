@@ -4,7 +4,7 @@ author: Anders Erickson
 categories: [mocktail]
 eras: [anders, tiki]
 title: "Placebo (NA Painkiller)"
-permalink: "/recipe/placebo"
+permalink: "/recipe/placebo/"
 iconfile: placebo
 stars: 0
 base_spirits: "Pineapple, Orange, Cream of Coconut"

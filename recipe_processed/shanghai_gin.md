@@ -4,7 +4,7 @@ author: Leandro DiMonriva
 title: "Shanghai Gin"
 categories: [daisy]
 eras: [modern]
-permalink: "/recipe/shanghai_gin"
+permalink: "/recipe/shanghai_gin/"
 iconfile: shanghai_gin
 stars: 4
 base_spirits: "Gin, Yellow Chartreuse, Bénédictine"

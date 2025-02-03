@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Elk's Own"
 categories: [sour]
 eras: [classic]
-permalink: "recipes/elks_own"
+permalink: "recipes/elks_own/"
 iconfile: elks_own
 stars: 5
 base_spirits: "Rye, Ruby Port "

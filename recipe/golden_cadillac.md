@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Golden Cadillac"
 categories: [fizz]
 eras: [modern]
-permalink: "/recipe/golden_cadillac"
+permalink: "/recipe/golden_cadillac/"
 iconfile: golden_cadillac
 stars: 0
 base_spirits: "Galliano, White Crème de Cacao"

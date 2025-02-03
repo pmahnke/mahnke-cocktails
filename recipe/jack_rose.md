@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Jack Rose"
 eras: [prohibition]
 categories: [sour]
-permalink: "/recipe/jack_rose"
+permalink: "/recipe/jack_rose/"
 iconfile: jack_rose
 stars: 3.5
 base_spirits: "Apple Brandy "

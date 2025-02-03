@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Daiquri"
 categories: [sour]
 eras: [classic]
-permalink: "/recipe/daiquri"
+permalink: "/recipe/daiquri/"
 iconfile: daiquri
 stars: 5
 base_spirits: "Light Rum"

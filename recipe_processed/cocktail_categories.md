@@ -3,7 +3,7 @@ layout: recipe
 title: "Cocktail Categories"
 type: list
 iconfile: cocktail_categories
-permalink: "/recipe/cocktail_categories"
+permalink: "/recipe/cocktail_categories/"
 youtube: ""
 excerpt: |
   The world of cocktails comprises numerous different cocktail families, each family having its own surname, distinctive traits, genetics and history. Some of these cocktail families are forgotten and facing extinction while others, such as the Daiquiri, Sour and Colada dynasties, are better known now than when they were first conceived. Follows the 36 families which populate the world of cocktails.<br><br>While not advocating that every cocktail should be pigeonholed under one of the following headings – history/rules should not be allowed to stifle creativity – these cocktail family names do give an indication to the drinker the style of cocktail they are ordering. Consequently, if a cocktail carries one of the following family names, then its ingredients, serving vessel and style should reflect the traits suggested by that name.

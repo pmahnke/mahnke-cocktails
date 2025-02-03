@@ -2,7 +2,7 @@
 layout: recipe
 title: "Rich Earl Grey Syrup"
 categories: [syrup]
-permalink: "/recipe/earl_grey_syrup"
+permalink: "/recipe/earl_grey_syrup/"
 iconfile: earl_grey_syrup
 stars: 5
 base_spirits: "White Sugar, Earl Grey Tea"

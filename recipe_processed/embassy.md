@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Embassy"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/embassy"
+permalink: "/recipe/embassy/"
 iconfile: embassy
 stars: 3
 base_spirits: "Cognac, Jamaican Rum"

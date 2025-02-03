@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Monte Carlo"
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/monte_carlo"
+permalink: "/recipe/monte_carlo/"
 iconfile: wardroom
 stars: 3
 base_spirits: "Rye, Bénédictine"

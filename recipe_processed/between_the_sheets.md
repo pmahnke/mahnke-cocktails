@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Between The Sheets"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/between_the_sheets"
+permalink: "/recipe/between_the_sheets/"
 iconfile: between_the_sheets
 stars: 4
 base_spirits: "Jamaican Rum, Demerara Rum, Campari"

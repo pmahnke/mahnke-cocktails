@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Bamboo"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/bamboo"
+permalink: "/recipe/bamboo/"
 iconfile: bamboo
 stars: 4
 base_spirits: "Oloroso Sherry "

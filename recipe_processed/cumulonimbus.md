@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Cumulonimbus"
 categories: [mocktail]
 eras: [anders]
-permalink: "/recipe/cumulonimbus"
+permalink: "/recipe/cumulonimbus/"
 iconfile: cumulonimbus
 stars: 0
 base_spirits: "Espresso, Cinnamon Syrup, Soda Water"

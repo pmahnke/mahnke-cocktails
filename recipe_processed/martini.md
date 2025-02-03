@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Martini"
 categories: [martini]
 eras: [classic]
-permalink: "/recipe/martini"
+permalink: "/recipe/martini/"
 iconfile: martini
 stars: 4
 base_spirits: "Gin "

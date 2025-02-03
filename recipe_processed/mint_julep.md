@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Mint Julep"
 eras: [classic]
 categories: [julep]
-permalink: "/recipe/mint_julep"
+permalink: "/recipe/mint_julep/"
 iconfile: mint_julep
 stars: 4
 base_spirits: "Bourbon "

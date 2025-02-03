@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Naked & Famous"
 eras: [modern]
 categories: [daisy]
-permalink: "/recipe/naked_and_famous"
+permalink: "/recipe/naked_and_famous/"
 iconfile: naked_and_famous
 stars: 0
 base_spirits: "Mezcal, Yellow Chartreuse, Aperol "

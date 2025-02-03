@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Noble Beast"
 categories: [coffee, flip]
 eras: [anders]
-permalink: "/recipe/noble_beast"
+permalink: "/recipe/noble_beast/"
 iconfile: noble_beast
 stars: 0
 base_spirits: "Angostura Bitters"

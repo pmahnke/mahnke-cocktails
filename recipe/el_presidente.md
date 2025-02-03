@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "El Presidente"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/el_presidente"
+permalink: "/recipe/el_presidente/"
 iconfile: el_presidente
 stars: 4
 base_spirits: "Gin, White Vermouth"

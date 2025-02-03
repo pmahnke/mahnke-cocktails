@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Pimm's Cup"
 categories: [highball]
 eras: [classic]
-permalink: "/recipe/pimms_cup"
+permalink: "/recipe/pimms_cup/"
 iconfile: pimms_cup
 stars: 0
 base_spirits: "Pimm's"

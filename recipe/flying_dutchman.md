@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Flying Dutchman"
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/flyingdutchman"
+permalink: "/recipe/flyingdutchman/"
 iconfile: flying_dutchman
 stars: 0
 base_spirits: "Genever, Yellow Chartreuse, Bénédictine"

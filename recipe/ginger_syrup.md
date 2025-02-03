@@ -2,7 +2,7 @@
 layout: recipe
 title: "Ginger Syrup"
 categories: [syrup]
-permalink: "/recipe/ginger_syrup"
+permalink: "/recipe/ginger_syrup/"
 iconfile: ginger_syrup
 stars: 5
 base_spirits: "White Sugar, Fresh Ginger"

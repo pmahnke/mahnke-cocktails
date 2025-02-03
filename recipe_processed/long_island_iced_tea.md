@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Long Island Iced Tea"
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/long_island_iced_tea"
+permalink: "/recipe/long_island_iced_tea/"
 iconfile: long_island_iced_tea
 stars: 4
 base_spirits: "Vodka, Light Rum, Gin, Blanco Taquilla"

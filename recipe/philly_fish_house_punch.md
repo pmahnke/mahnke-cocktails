@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Philadelphia Fish House Punch"
 categories: [punch]
 eras: [classic]
-permalink: "/recipe/philly_fish_house_punch"
+permalink: "/recipe/philly_fish_house_punch/"
 iconfile: philly_fish_house_punch
 stars: 0
 base_spirits: "Cognac, Jamaican Rum, Apple Brandy, Peach Liqueur"

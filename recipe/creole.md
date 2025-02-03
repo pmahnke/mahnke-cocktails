@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Creole"
 categories: [cocktail]
 eras: [new_orleans]
-permalink: "/recipe/creole"
+permalink: "/recipe/creole/"
 iconfile: creole
 stars: 4
 base_spirits: "Rye, Bénédictine, Amaro "

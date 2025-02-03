@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Corpse Reviver #2"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/corpse_reviver_2"
+permalink: "/recipe/corpse_reviver_2/"
 iconfile: corpse_reviver_2
 stars: 5
 base_spirits: "Gin, Cocchi Americano"

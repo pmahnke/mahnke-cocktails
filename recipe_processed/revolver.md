@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Revolver"
 eras: [modern]
 categories: [coffee, after_dinner]
-permalink: "/recipe/revolver"
+permalink: "/recipe/revolver/"
 iconfile: revolver
 stars: 0
 base_spirits: "Bourbon, Coffee Liqueur"

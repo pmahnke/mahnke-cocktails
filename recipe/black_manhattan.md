@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Black Manhattan"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/black_manhattan"
+permalink: "/recipe/black_manhattan/"
 iconfile: black_manhattan
 stars: 4
 base_spirits: "Rye, Amaro"

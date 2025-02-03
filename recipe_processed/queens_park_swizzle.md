@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Queen's Park Swizzle"
 categories: [frappe_swizzle]
 eras: [prohibition]
-permalink: "/recipe/queens_park_swizzle"
+permalink: "/recipe/queens_park_swizzle/"
 iconfile: queens_park_swizzle
 stars: 4
 base_spirits: "Demerara Rum "

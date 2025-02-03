@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Espresso Martini"
 eras: [modern]
 categories: [coffee, after_dinner]
-permalink: "/recipe/espresso_martini"
+permalink: "/recipe/espresso_martini/"
 iconfile: espresso_martini
 stars: 0
 base_spirits: "Coffee Liqueur, Vodka "

@@ -2,7 +2,7 @@
 layout: recipe
 title: "15 Bottles to Build your Bar!"
 type: list
-permalink: "/recipe/barlist2"
+permalink: "/recipe/barlist2/"
 iconfile: barlist2
 youtube: "v=7Z_mZ6wq1Rw"
 ---

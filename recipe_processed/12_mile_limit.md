@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "12 Mile Limit"
 categories: [sour]
 eras: [prohibition]
-permalink: "/recipe/12_mile_limit"
+permalink: "/recipe/12_mile_limit/"
 iconfile: 12_mile_limit
 stars: 4
 base_spirits: "Light Rum, Rye, Cognac"

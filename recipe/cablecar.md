@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Cablecar"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/cablecar"
+permalink: "/recipe/cablecar/"
 iconfile: cablecar
 stars: 0
 base_spirits: "Spice Rum "

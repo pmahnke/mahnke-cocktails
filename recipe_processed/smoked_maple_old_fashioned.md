@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Smoked Maple Old Fashioned"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/smoked_maple_old_fashioned"
+permalink: "/recipe/smoked_maple_old_fashioned/"
 iconfile: smoked_maple_old_fashioned
 stars: 0
 base_spirits: "Bourbon "

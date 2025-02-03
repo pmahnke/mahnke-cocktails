@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Irish Coffee"
 categories: [coffee]
 eras: [modern]
-permalink: "/recipe/irish_coffee"
+permalink: "/recipe/irish_coffee/"
 iconfile: irish_coffee
 stars: 0
 base_spirits: "Irish Whiskey "

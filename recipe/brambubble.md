@@ -3,7 +3,7 @@ layout: recipe
 title: "Brambubble"
 categories: [champagne]
 eras: [anders]
-permalink: "/recipe/brambubble"
+permalink: "/recipe/brambubble/"
 iconfile: brambubble
 stars: 0
 base_spirits: "Champagne, Gin, Crème de Mûre"

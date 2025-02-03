@@ -5,7 +5,7 @@ title: "Tradewinds Negroni"
 iconfile: tradewinds_negroni
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/tradewinds_negroni"
+permalink: "/recipe/tradewinds_negroni/"
 stars: 0
 base_spirits: "Angostura Bitters"
 youtube: "Lp5ktjaNFKc"

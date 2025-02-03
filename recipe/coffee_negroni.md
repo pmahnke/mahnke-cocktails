@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Coffee Negroni"
 categories: [campari, coffee, after_dinner]
 eras: [modern]
-permalink: "/recipe/coffee_negroni"
+permalink: "/recipe/coffee_negroni/"
 iconfile: coffee_negroni
 stars: 0
 base_spirits: "Gin, Coffee Liqueur, Campari"

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Clover Club"
 categories: [sour]
 eras: [classic]
-permalink: "/recipe/clover_club"
+permalink: "/recipe/clover_club/"
 iconfile: clover_club
 stars: 3
 base_spirits: "Gin "

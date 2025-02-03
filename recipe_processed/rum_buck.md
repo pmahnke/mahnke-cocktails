@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Rum Buck"
 eras: [classic]
 categories: [buck]
-permalink: "/recipe/rum_buck"
+permalink: "/recipe/rum_buck/"
 iconfile: rum_buck
 stars: 0
 base_spirits: "Dark Rum, Allspice Dram"

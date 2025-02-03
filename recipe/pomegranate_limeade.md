@@ -4,7 +4,7 @@ author: Anders Erickson
 categories: [mocktail]
 eras: [anders]
 title: "Pomegranate Limeade"
-permalink: "/recipe/pomegranate_limeade"
+permalink: "/recipe/pomegranate_limeade/"
 iconfile: pomegranate_limeade
 stars: 0
 base_spirits: "Grenadine, Sparkling Water, Lime"

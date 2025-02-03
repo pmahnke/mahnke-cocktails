@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Affinity"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/affinity"
+permalink: "/recipe/affinity/"
 iconfile: affinity
 stars: 0
 base_spirits: "Scotch, Sweet Vermouth, White Vermouth"

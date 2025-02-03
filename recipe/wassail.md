@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Wassail"
 eras: [classic]
 categories: [punch]
-permalink: "/recipe/wassail"
+permalink: "/recipe/wassail/"
 iconfile: wassail
 stars: 0
 base_spirits: "Apple Brandy, Amontillado Sherry, Dark Ale "

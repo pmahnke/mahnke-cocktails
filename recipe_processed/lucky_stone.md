@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "The Lucky Stone"
 eras: [anders]
 categories: [cocktail]
-permalink: "/recipe/lucky_stone"
+permalink: "/recipe/lucky_stone/"
 iconfile: lucky_stone
 stars: 0
 base_spirits: "Irish Whiskey, Amontillado Sherry, Apricot Liqueur"

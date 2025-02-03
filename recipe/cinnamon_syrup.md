@@ -2,7 +2,7 @@
 layout: recipe
 title: "Cinnamon Syrup"
 categories: [syrup]
-permalink: "/recipe/cinnamon_syrup"
+permalink: "/recipe/cinnamon_syrup/"
 iconfile: cinnamon_syrup
 stars: 5
 base_spirits: "White Sugar, Cinnamon Sticks"

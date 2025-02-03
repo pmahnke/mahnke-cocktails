@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Queen's Park Hotel Super Cocktail"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/queens_park_cocktail"
+permalink: "/recipe/queens_park_cocktail/"
 iconfile: queens_park_cocktail
 stars: 3
 base_spirits: "Gold Rum "

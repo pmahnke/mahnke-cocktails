@@ -4,7 +4,7 @@ author: Leandro DiMonriva
 title: "Whiskey Daisy #3"
 eras: [classic]
 categories: [daisy]
-permalink: "/recipe/whiskey_daisy_3"
+permalink: "/recipe/whiskey_daisy_3/"
 iconfile: whiskey_daisy_3
 stars: 3 <sup>1</sup>&frasl;<sub>2</sub>
 base_spirits: "Bourbon, Rye"

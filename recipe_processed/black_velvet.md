@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Black Velvet"
 categories: [beer, champagne, cocktail]
 eras: [classic]
-permalink: "/recipe/black_velvet"
+permalink: "/recipe/black_velvet/"
 iconfile: black_velvet
 stars: 0
 base_spirits: "Champagne, Stout "

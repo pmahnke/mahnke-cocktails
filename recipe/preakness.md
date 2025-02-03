@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Preakness"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/preakness"
+permalink: "/recipe/preakness/"
 iconfile: preakness
 stars: 3
 base_spirits: "Bourbon, Bénédictine"

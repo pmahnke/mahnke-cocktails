@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Paper Plane"
 categories: [daisy]
 eras: [modern]
-permalink: "/recipe/paper_plane"
+permalink: "/recipe/paper_plane/"
 iconfile: paper_plane
 stars: 5
 base_spirits: "Bourbon, Amaro, Aperol"

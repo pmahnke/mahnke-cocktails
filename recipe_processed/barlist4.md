@@ -3,7 +3,7 @@ layout: recipe
 title: "Cocktail Glasses: Essentials and Favorites"
 type: list
 iconfile: barlist4
-permalink: "/recipe/barlist4"
+permalink: "/recipe/barlist4/"
 youtube: "v=CODeSo8ePtM"
 ---
 

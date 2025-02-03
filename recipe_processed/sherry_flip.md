@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Sherry Flip"
 categories: [flip]
 eras: [classic]
-permalink: "/recipe/sherry_flip"
+permalink: "/recipe/sherry_flip/"
 iconfile: sherry_flip
 stars: 0
 base_spirits: "Oloroso Sherry "

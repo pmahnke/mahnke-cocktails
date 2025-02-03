@@ -4,7 +4,7 @@ author: Leandro DiMonriva
 title: "Gimlet"
 eras: [classic]
 categories: [sour]
-permalink: "/recipe/gimlet"
+permalink: "/recipe/gimlet/"
 iconfile: gimlet
 stars: 5
 base_spirits: "Gin"

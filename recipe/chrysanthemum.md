@@ -5,7 +5,7 @@ creator: Hugo R. Ensslin
 title: "Chrysanthemum"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/chrysanthemum"
+permalink: "/recipe/chrysanthemum/"
 iconfile: chrysanthemum
 stars: 0
 base_spirits: "Bénédictine, Absinthe"

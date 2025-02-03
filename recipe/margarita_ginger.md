@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Grapefruit Ginger Margarita"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/margarita_ginger"
+permalink: "/recipe/margarita_ginger/"
 iconfile: margarita_ginger
 stars: 0
 base_spirits: "Reposado Tequila "

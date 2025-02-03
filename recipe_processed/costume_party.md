@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "The Costume Party"
 categories: [cocktail]
 eras: [anders]
-permalink: "/recipe/costume_party"
+permalink: "/recipe/costume_party/"
 iconfile: costume_party
 stars: 0
 base_spirits: "Vodka, White Crème de Cacao, Apricot Liqueur"

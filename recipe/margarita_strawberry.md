@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Strawberry Frozen Margarita"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/margarita_strawberry"
+permalink: "/recipe/margarita_strawberry/"
 iconfile: margarita_strawberry
 stars: 0
 base_spirits: "Reposado Tequila "

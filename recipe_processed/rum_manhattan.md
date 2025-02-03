@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Rum Manhattan"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/rum_manhattan"
+permalink: "/recipe/rum_manhattan/"
 iconfile: rum_manhattan
 stars: 3
 base_spirits: Demerara Rum

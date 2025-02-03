@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Aperol Spritz"
 categories: [spritz]
 eras: [modern]
-permalink: "/recipe/aperol_spritz"
+permalink: "/recipe/aperol_spritz/"
 iconfile: aperol_spritz
 stars: 0
 base_spirits: "Aperol, Prosecco"

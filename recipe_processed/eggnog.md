@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Eggnog"
 eras: [classic]
 categories: [eggnog]
-permalink: "/recipe/eggnog"
+permalink: "/recipe/eggnog/"
 iconfile: eggnog
 stars: 4
 base_spirits: "Rum, Amontillado Sherry "

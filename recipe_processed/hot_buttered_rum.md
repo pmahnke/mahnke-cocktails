@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Hot Buttered Rum"
 categories: [toddy]
 eras: [classic]
-permalink: "/recipe/hot_buttered_rum"
+permalink: "/recipe/hot_buttered_rum/"
 iconfile: hot_buttered_rum
 stars: 0
 base_spirits: "Dark Rum "

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Tipperary"
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/tipperary"
+permalink: "/recipe/tipperary/"
 iconfile: tipperary
 stars: 0
 base_spirits: "Irish Whiskey, Green Chartreuse"

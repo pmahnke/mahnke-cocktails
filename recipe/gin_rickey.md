@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Gin Rickey"
 categories: [highball]
 eras: [classic]
-permalink: "/recipe/gin_rickey"
+permalink: "/recipe/gin_rickey/"
 iconfile: gin_rickey
 stars: 0
 base_spirits: "Gin"

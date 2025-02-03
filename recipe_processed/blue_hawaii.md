@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Blue Hawaii"
 categories: [highball]
 eras: [modern]
-permalink: "/recipe/blue_hawaii"
+permalink: "/recipe/blue_hawaii/"
 iconfile: blue_hawaii
 stars: 0
 base_spirits: "Light Rum, Rhum Agricole"

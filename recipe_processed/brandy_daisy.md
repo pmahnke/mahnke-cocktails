@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Brandy Daisy"
 categories: [daisy]
 eras: [classic]
-permalink: "/recipe/brandy_daisy"
+permalink: "/recipe/brandy_daisy/"
 iconfile: brandy_daisy
 stars: 0
 base_spirits: "Cognac, Jamaican Rum"

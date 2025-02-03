@@ -2,7 +2,7 @@
 layout: recipe
 title: "Tea Simple Syrup"
 categories: [syrup]
-permalink: "/recipe/tea_simple_syrup"
+permalink: "/recipe/tea_simple_syrup/"
 iconfile: tea_simple_syrup
 stars: 5
 base_spirits: "Black Tea, White Sugar"

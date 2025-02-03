@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Mundo Perdido"
 eras: [modern]
 categories: [tiki]
-permalink: "/recipe/mundo_perdido"
+permalink: "/recipe/mundo_perdido/"
 iconfile: mundo_perdido
 stars: 0
 base_spirits: "Demerara Rum, Apple Brandy"

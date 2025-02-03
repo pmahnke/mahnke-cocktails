@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Fog Cutter"
 eras: [modern]
 categories: [tiki]
-permalink: "/recipe/fog_cutter"
+permalink: "/recipe/fog_cutter/"
 iconfile: fog_cutter
 stars: 4
 base_spirits: "Light Rum, Pisco, Gin, Amontillado Sherry "

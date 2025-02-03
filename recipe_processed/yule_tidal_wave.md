@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Yule Tidal Wave"
 eras: [anders]
 categories: [tiki]
-permalink: "/recipe/yule_tidal_wave"
+permalink: "/recipe/yule_tidal_wave/"
 iconfile: yule_tidal_wave
 stars: 0
 base_spirits: "Rum, Bourbon, Cognac, Pear Brandy, Licor 43, Allspice Dram"

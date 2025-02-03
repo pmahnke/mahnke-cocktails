@@ -3,7 +3,7 @@ layout: recipe
 title: "Sentimental Gentleman"
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/sentimental_gent"
+permalink: "/recipe/sentimental_gent/"
 iconfile: sentimental_gent
 stars: 0
 base_spirits: "Scotch, Blended, Bénédictine, Walnut Liqueur"

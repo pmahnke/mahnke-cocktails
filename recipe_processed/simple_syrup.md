@@ -2,7 +2,7 @@
 layout: recipe
 title: "Semi-Rich Simple Syrup"
 categories: [syrup]
-permalink: "/recipe/simple_syrup"
+permalink: "/recipe/simple_syrup/"
 iconfile: simple_syrup
 stars: 5
 base_spirits: "Sugar"

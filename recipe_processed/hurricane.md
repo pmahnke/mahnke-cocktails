@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Hurricane"
 categories: [cocktail]
 eras: [new_orleans]
-permalink: "/recipe/hurricane"
+permalink: "/recipe/hurricane/"
 iconfile: hurricane
 stars: 4
 base_spirits: "Jamaican Rum, Dark Rum "

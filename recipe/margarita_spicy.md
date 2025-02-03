@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Smoky Spicy Margarita"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/margarita_spicy"
+permalink: "/recipe/margarita_spicy/"
 iconfile: margarita_spicy
 stars: 0
 base_spirits: "Mezcal "

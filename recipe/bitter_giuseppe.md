@@ -5,7 +5,7 @@ creator: Stephan Cole
 title: "Bitter Giuseppe"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/bitter_giuseppe"
+permalink: "/recipe/bitter_giuseppe/"
 iconfile: bitter_giuseppe
 stars: 0
 base_spirits: "Cynar Amaro"

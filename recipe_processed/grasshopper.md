@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Grasshopper, Blended"
 categories: [after_dinner]
 eras: [modern]
-permalink: "/recipe/grasshopper"
+permalink: "/recipe/grasshopper/"
 iconfile: grasshopper
 stars: 0
 base_spirits: "Crème de Menthe, White Crème de Cacao "

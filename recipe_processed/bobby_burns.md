@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Bobby Burns"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/bobby_burns"
+permalink: "/recipe/bobby_burns/"
 iconfile: bobby_burns
 stars: 0
 base_spirits: "Scotch, Blended, Bénédictine"

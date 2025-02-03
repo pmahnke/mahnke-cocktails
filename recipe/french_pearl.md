@@ -5,7 +5,7 @@ creator: Audrey Saunders
 title: "French Pearl"
 eras: [modern]
 categories: [sour]
-permalink: "/recipe/french_pearl"
+permalink: "/recipe/french_pearl/"
 iconfile: french_pearl
 stars: 0
 base_spirits: "Gin, Absinthe"

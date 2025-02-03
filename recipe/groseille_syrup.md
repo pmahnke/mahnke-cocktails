@@ -2,7 +2,7 @@
 layout: recipe
 title: "Groseille Syrup"
 categories: [syrup]
-permalink: "/recipe/groseille_syrup"
+permalink: "/recipe/groseille_syrup/"
 iconfile: groseille_syrup
 stars: 5
 base_spirits: "White Sugar, Red Currant Juice, Pomegranate Molasses, Rose Water"

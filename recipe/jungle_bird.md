@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Jungle Bird"
 categories: [campari, tiki]
 eras: [modern]
-permalink: "/recipe/jungle_bird"
+permalink: "/recipe/jungle_bird/"
 iconfile: jungle_bird
 stars: 0
 base_spirits: "Jamaican Rum, Demerara Rum, Campari"

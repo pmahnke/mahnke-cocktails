@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Semester Abroad"
 eras: [anders]
 categories: [cocktail]
-permalink: "/recipe/semester_abroad"
+permalink: "/recipe/semester_abroad/"
 iconfile: semester_abroad
 stars: 0
 base_spirits: "Rye, Fernet Branca"

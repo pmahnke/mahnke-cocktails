@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Chocolate Punch"
 categories: [punch]
 eras: [classic]
-permalink: "/recipe/chocolate_punch"
+permalink: "/recipe/chocolate_punch/"
 iconfile: chocolate_punch
 stars: 0
 base_spirits: "Cognac, Ruby Port, Crème de Cacao "

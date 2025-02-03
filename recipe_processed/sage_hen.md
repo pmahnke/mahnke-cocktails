@@ -4,7 +4,7 @@ author: Leandro DiMonriva
 title: "Sage Hen"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/sage_hen"
+permalink: "/recipe/sage_hen/"
 iconfile: sage_hen
 stars: 0
 base_spirits: "Gin, Yellow Chartreuse "

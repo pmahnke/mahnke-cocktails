@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Shrunken Skull"
 categories: [tiki]
 eras: [modern]
-permalink: "/recipe/shrunken_skull"
+permalink: "/recipe/shrunken_skull/"
 iconfile: shrunken_skull
 stars: 0
 base_spirits: "Demerara Rum, Gold Rum "

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Mai Tai"
 eras: [modern]
 categories: [tiki]
-permalink: "/recipe/mai_tai"
+permalink: "/recipe/mai_tai/"
 iconfile: mai_tai
 stars: 4.5
 base_spirits: "Jamaican Rum, Rhum Agricole"

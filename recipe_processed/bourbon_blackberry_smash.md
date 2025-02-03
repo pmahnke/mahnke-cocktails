@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Bourbon Blackberry Smash"
 categories: [smash]
 eras: [classic]
-permalink: "/recipe/bourbon_blackberry_smash"
+permalink: "/recipe/bourbon_blackberry_smash/"
 iconfile: bourbon_blackberry_smash
 stars: 0
 base_spirits: "Bourbon"

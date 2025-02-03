@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Wisconsin Old Fashioned"
 eras: [prohibition]
 categories: [cocktail]
-permalink: "/recipe/wi_old_fashioned"
+permalink: "/recipe/wi_old_fashioned/"
 iconfile: wi_old_fashioned
 stars: 4
 base_spirits: "Brandy"

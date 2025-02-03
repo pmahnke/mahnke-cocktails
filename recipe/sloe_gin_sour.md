@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Sloe Gin Sour"
 categories: [sour]
 eras: [anders]
-permalink: "/recipe/sloe_gin_sour"
+permalink: "/recipe/sloe_gin_sour/"
 iconfile: sloe_gin_sour
 stars: 0
 base_spirits: "Sloe Gin, Campari"

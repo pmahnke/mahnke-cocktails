@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Port Light"
 eras: [modern]
 categories: [tiki]
-permalink: "/recipe/port_light"
+permalink: "/recipe/port_light/"
 iconfile: port_light
 stars: 4
 base_spirits: "Bourbon"

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Aviation"
 categories: [sour]
 eras: [classic]
-permalink: "/recipe/aviation"
+permalink: "/recipe/aviation/"
 iconfile: aviation
 stars: 4
 base_spirits: "Gin, Crème de Violette "

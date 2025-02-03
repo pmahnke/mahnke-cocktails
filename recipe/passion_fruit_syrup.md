@@ -2,7 +2,7 @@
 layout: recipe
 title: "Passion Fruit Syrup"
 categories: [syrup]
-permalink: "/recipe/passion_fruit_syrup"
+permalink: "/recipe/passion_fruit_syrup/"
 iconfile: passion_fruit_syrup
 stars: 5
 base_spirits: "White Sugar, Passion Fruit Pulp"

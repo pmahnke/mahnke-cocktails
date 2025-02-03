@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Artist's Special"
 categories: [sour]
 eras: [Classic]
-permalink: "/recipe/artists_special"
+permalink: "/recipe/artists_special/"
 iconfile: artists_special
 stars: 3,5
 base_spirits: "Bourbon, Amontillado Sherry "

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Best Doctor's Cocktail"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/best_drs_cocktail"
+permalink: "/recipe/best_drs_cocktail/"
 iconfile: best_drs_cocktail
 stars: 4
 base_spirits: "Jamaican Rum, Swedish Punsch"

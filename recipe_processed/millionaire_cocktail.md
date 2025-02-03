@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Millionaire Cocktail #1"
 eras: [prohibition]
 categories: [sour]
-permalink: "/recipe/millionaire_cocktail"
+permalink: "/recipe/millionaire_cocktail/"
 iconfile: millionaire_cocktail
 stars: 0
 base_spirits: "Jamaican Rum, Apricot Liqueur"

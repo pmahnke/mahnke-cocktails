@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Gold Rush"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/gold_rush"
+permalink: "/recipe/gold_rush/"
 iconfile: gold_rush
 stars: 0
 base_spirits: "Bourbon"

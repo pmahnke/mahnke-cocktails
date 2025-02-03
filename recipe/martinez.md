@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Martinez"
 categories: [martini]
 eras: [classic]
-permalink: "/recipe/martinez"
+permalink: "/recipe/martinez/"
 iconfile: martinez
 stars: 0
 base_spirits: "Gin, Maraschino Liqueur"

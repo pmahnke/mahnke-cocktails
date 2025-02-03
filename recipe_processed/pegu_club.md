@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Pegu Club"
 categories: [daisy]
 eras: [prohibition]
-permalink: "/recipe/pegu_club"
+permalink: "/recipe/pegu_club/"
 iconfile: pegu_club
 stars: 3
 base_spirits: "Gin "

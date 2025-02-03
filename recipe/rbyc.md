@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Royal Bermuda Yacht Club"
 eras: [modern]
 categories: [sour]
-permalink: "/recipe/royal_bermuda_yacht_club"
+permalink: "/recipe/royal_bermuda_yacht_club/"
 iconfile: rbyc
 stars: 4
 base_spirits: "Demerara Rum, Light Rum"

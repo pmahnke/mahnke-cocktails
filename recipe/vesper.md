@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Vesper"
 eras: [modern]
 categories: [martini]
-permalink: "/recipe/vesper"
+permalink: "/recipe/vesper/"
 iconfile: vesper
 stars: 0
 base_spirits: "Gin, Vodka, Cocchi Americano"

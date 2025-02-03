@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Soyer au Champagne"
 eras: [modern]
 categories: [after_dinner]
-permalink: "/recipe/soyer_au_champagne"
+permalink: "/recipe/soyer_au_champagne/"
 iconfile: soyer_au_champagne
 stars: 0
 base_spirits: "Champagne, Cognac, Bénédictine"

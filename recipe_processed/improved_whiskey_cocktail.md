@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Improved Whiskey Cocktail"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/improved_whiskey_cocktail"
+permalink: "/recipe/improved_whiskey_cocktail/"
 iconfile: improved_whiskey_cocktail
 stars: 4
 base_spirits: "Rye, Maraschino Liqueur, Absinthe"

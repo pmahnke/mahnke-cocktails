@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Blueberry Thyme Smash"
 categories: [smash]
 eras: [classic]
-permalink: "/recipe/blueberry_thyme_smash"
+permalink: "/recipe/blueberry_thyme_smash/"
 iconfile: blueberry_thyme_smash
 stars: 0
 base_spirits: "Gin"

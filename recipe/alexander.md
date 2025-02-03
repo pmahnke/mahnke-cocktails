@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Alexander"
 categories: [cocktail, dairy]
 eras: [prohibition]
-permalink: "/recipe/alexander"
+permalink: "/recipe/alexander/"
 iconfile: alexander
 stars: 0
 base_spirits: "Gin, Crème de Cacao"

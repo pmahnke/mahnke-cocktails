@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Lonely Penguin"
 eras: [anders]
 categories: [cocktail]
-permalink: "/recipe/lonely_penguin"
+permalink: "/recipe/lonely_penguin/"
 iconfile: lonely_penguin
 stars: 0
 base_spirits: "Rye, Crème de Mûre"

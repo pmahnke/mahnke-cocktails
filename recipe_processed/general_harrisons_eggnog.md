@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "General Harrison’s Eggnog"
 categories: [eggnog]
 eras: [classic]
-permalink: "/recipe/general_harrisons_eggnog"
+permalink: "/recipe/general_harrisons_eggnog/"
 iconfile: general_harrisons_eggnog
 stars: 0
 base_spirits: "Demerara Rum, Allspice Dram, Dry Hard Cider"

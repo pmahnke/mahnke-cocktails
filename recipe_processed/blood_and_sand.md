@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Blood and Sand"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/blood_and_sand"
+permalink: "/recipe/blood_and_sand/"
 iconfile: blood_and_sand
 stars: 0
 base_spirits: "Blended Scotch, Cherry Liqueur "

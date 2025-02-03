@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Autumn Rose"
 categories: [sour]
 eras: [anders]
-permalink: "/recipe/autumn_rose"
+permalink: "/recipe/autumn_rose/"
 iconfile: autumn_rose
 stars: 3 <sup>1</sup>&frasl;<sub>2</sub>
 base_spirits: "Apple Brandy"

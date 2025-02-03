@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Barback’s Revenge"
 categories: [coffee, cocktail]
 eras: [anders]
-permalink: "/recipe/barbacks_revenge"
+permalink: "/recipe/barbacks_revenge/"
 iconfile: barbacks_revenge
 stars: 0
 base_spirits: "Demerara Rum, Bénédictine, Amontillado Sherry"

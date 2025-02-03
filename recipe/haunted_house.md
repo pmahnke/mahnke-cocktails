@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Haunted House"
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/haunted_house"
+permalink: "/recipe/haunted_house/"
 iconfile: haunted_house
 stars: 0
 base_spirits: "Jamaican Rum, Rye, Swedish Punsch "

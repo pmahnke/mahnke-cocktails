@@ -4,7 +4,7 @@ author: "Leandro DiMonriva"
 title: "Artillery"
 categories: [martini]
 eras: [classic]
-permalink: "/recipe/artillery"
+permalink: "/recipe/artillery/"
 iconfile: artillery
 stars:
 base_spirits: "Gin, Sweet Vermouth"

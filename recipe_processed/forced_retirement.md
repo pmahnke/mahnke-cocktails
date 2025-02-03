@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Forced Retirement"
 categories: [campari, highball]
 eras: [anders]
-permalink: "/recipe/forced_retirement"
+permalink: "/recipe/forced_retirement/"
 iconfile: forced_retirement
 stars: 0
 base_spirits: "Malört, Gin, Campari "

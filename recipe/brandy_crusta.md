@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Brandy Crusta"
 categories: [crusta]
 eras: [new_orleans]
-permalink: "/recipe/brandy_crusta"
+permalink: "/recipe/brandy_crusta/"
 iconfile: brandy_crusta
 stars: 4
 base_spirits: "Cognac, Maraschino Liqueur"

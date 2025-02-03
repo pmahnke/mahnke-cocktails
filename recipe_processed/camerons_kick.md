@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Cameron's Kick"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/camerons_kick"
+permalink: "/recipe/camerons_kick/"
 iconfile: camerons_kick
 stars: 0
 base_spirits: "Scotch, Blended, Irish Whiskey"

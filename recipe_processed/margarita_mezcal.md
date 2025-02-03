@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Mezcal Margarita"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/margarita_mezcal"
+permalink: "/recipe/margarita_mezcal/"
 iconfile: margarita_mezcal
 stars: 0
 base_spirits: "Mezcal"

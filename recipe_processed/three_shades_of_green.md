@@ -4,7 +4,7 @@ author: The Consulate UWS
 title: "Three Shades of Green"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/three_shades_of_green"
+permalink: "/recipe/three_shades_of_green/"
 iconfile: three_shades_of_green
 stars: 0
 base_spirits: "Gin, Green Chartreuse"

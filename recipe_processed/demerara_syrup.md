@@ -2,7 +2,7 @@
 layout: recipe
 title: "Rich Demerara Syrup"
 categories: [syrup]
-permalink: "/recipe/demerara_syrup"
+permalink: "/recipe/demerara_syrup/"
 iconfile: demerara_syrup
 stars: 5
 base_spirits: "Demerara Sugar"

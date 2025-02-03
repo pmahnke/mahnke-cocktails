@@ -5,7 +5,7 @@ creator: Harry Johnson
 title: "Bijou"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/bijou"
+permalink: "/recipe/bijou/"
 iconfile: bijou
 stars: 4
 base_spirits: "Gin, Green Chartreuse "

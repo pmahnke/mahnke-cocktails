@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Millionaire Royal"
 eras: [prohibition]
 categories: [sour]
-permalink: "/recipe/millionaire_royal"
+permalink: "/recipe/millionaire_royal/"
 iconfile: millionaire_royal
 stars: 4
 base_spirits: "Bourbon, Grand Marnier, Absinthe"

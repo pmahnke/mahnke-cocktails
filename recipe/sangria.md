@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Sangria"
 eras: [classic]
 categories: [punch]
-permalink: "/recipe/sangria"
+permalink: "/recipe/sangria/"
 iconfile: sangria
 stars: 0
 base_spirits: "Red Wine, Oloroso Sherry, Grand Marnier "

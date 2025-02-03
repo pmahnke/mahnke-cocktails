@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "La Rosita"
 categories: [campari, cocktail]
 eras: [modern]
-permalink: "/recipe/la_rosita"
+permalink: "/recipe/la_rosita/"
 iconfile: la_rosita
 stars: 0
 base_spirits: "Reposado Tequila, Campari "

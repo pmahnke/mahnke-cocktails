@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Whiskey Smash"
 categories: [smash]
 eras: [classic]
-permalink: "/recipe/whiskey_smash"
+permalink: "/recipe/whiskey_smash/"
 iconfile: whiskey_smash
 stars: 0
 base_spirits: "Bourbon "

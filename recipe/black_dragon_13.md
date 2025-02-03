@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Black Dragon No. 13"
 categories: [beer, coffee, cocktail]
 eras: [anders]
-permalink: "/recipe/black_dragon_13"
+permalink: "/recipe/black_dragon_13/"
 iconfile: black_dragon_13
 stars: 0
 base_spirits: "Cognac, Amaro, Stout "

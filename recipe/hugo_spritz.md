@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Hugo Spritz"
 categories: [spritz]
 eras: [modern]
-permalink: "/recipe/hugo_spritz"
+permalink: "/recipe/hugo_spritz/"
 iconfile: hugo_spritz
 stars: 0
 base_spirits: "Elderflower Liqueur, Prosecco"

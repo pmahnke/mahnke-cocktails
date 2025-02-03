@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Pousse Café Shot"
 eras: [classic]
 categories: [shot, pousse_cafe]
-permalink: "/recipe/pousse_cafe_shot"
+permalink: "/recipe/pousse_cafe_shot/"
 iconfile: pousse_cafe_shot
 stars: 0
 category: "Bénédictine, Green Chartreuse, Angostura Bitters"

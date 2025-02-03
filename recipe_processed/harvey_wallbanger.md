@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Harvey Wallbanger"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/harvey_wallbanger"
+permalink: "/recipe/harvey_wallbanger/"
 iconfile: harvey_wallbanger
 stars: 0
 base_spirits: "Vodka, Galliano"

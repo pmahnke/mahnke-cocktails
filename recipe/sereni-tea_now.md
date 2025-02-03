@@ -4,7 +4,7 @@ author: Anders Erickson
 categories: [mocktail]
 eras: [anders]
 title: "Sereni-Tea Now!"
-permalink: "/recipe/sereni-tea_now"
+permalink: "/recipe/sereni-tea_now/"
 iconfile: sereni-tea_now
 stars: 0
 base_spirits: "Canned Pear, Grenadine, Lemon Juice, Hojicha Tea"
