@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /category/cocktail_cocktails
+permalink: "/category/cocktail_cocktails/"
 title: Cocktails
 categories: cocktail
 ---

@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /category/fizz_cocktails
+permalink: "/category/fizz_cocktails/"
 title: Fizz Cocktails
 categories: fizz
 ---

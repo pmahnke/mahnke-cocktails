@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /category/eggnog_cocktails
+permalink: "/category/eggnog_cocktails/"
 title: Eggnog Cocktails
 categories: eggnog
 ---

@@ -1,6 +1,6 @@
 ---
 layout: eras
-permalink: /era/modern
+permalink: "/era/modern/"
 title: Modern Cocktails
 eras: modern
 ---

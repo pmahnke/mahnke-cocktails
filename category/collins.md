@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /category/collins_cocktails
+permalink: "/category/collins_cocktails/"
 title: Collins Cocktails
 categories: collins
 ---

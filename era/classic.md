@@ -1,6 +1,6 @@
 ---
 layout: eras
-permalink: /era/classic
+permalink: "/era/classic/"
 title: Classic cocktails
 eras: classic
 ---

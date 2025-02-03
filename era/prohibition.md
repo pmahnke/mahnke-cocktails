@@ -1,6 +1,6 @@
 ---
 layout: eras
-permalink: /era/prohibition
+permalink: "/era/prohibition/"
 title: Prohibition Cocktails
 eras: prohibition
 ---
