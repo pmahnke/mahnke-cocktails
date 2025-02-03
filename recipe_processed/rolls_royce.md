@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Rolls Royce"
 categories: [martini]
 eras: [prohibition]
-permalink: "/recipe/rolls_royce.html"
+permalink: "/recipe/rolls_royce"
 iconfile: rolls_royce
 stars: 0
 base_spirits: "Gin, Bénédictine"

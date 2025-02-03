@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "S'no Problem"
 eras: [anders]
 categories: [toddy]
-permalink: "/recipe/sno_problem.html"
+permalink: "/recipe/sno_problem"
 iconfile: sno_problem
 stars: 0
 base_spirits: "Navy Strength Rum, Bourbon "

@@ -2,9 +2,9 @@
 layout: recipe
 author: Anders Erickson
 title: "Bali Bali"
-categories: [ tiki ]
-eras: [ modern ]
-permalink: "/recipe/bali_bali.html"
+categories: [tiki]
+eras: [modern]
+permalink: "/recipe/bali_bali"
 iconfile: bali_bali
 stars: 4
 base_spirits: "Black Rum, Light Rum, Cognac, Gin "

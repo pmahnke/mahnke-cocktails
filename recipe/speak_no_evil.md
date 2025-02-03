@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Speak No Evil"
 eras: [anders]
 categories: [cocktail]
-permalink: "/recipe/speak_no_evil.html"
+permalink: "/recipe/speak_no_evil"
 iconfile: speak_no_evil
 stars: 0
 base_spirits: "Reposado Tequila, Mezcal, Allspice Dram"

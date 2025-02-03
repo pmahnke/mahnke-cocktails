@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Brown Derby"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/brown_derby.html"
+permalink: "/recipe/brown_derby"
 iconfile: brown_derby
 stars: 0
 base_spirits: "Bourbon "
@@ -19,8 +19,8 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient                                    | Brand                                  |
-| -----: | --------------------------------------------- | -------------------------------------- |
+| Amount | Ingredient                                    | Brand                                |
+| -----: | --------------------------------------------- | ------------------------------------ |
 | 1.5 oz | Bourbon                                       | Still Austin "The Musician" Straight |
 |   1 oz | Pink Grapefruit Juice                         |
 | 0.5 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
@@ -40,8 +40,8 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient                                    | Brand                                  |
-| ------: | --------------------------------------------- | -------------------------------------- |
+|  Amount | Ingredient                                    | Brand                                |
+| ------: | --------------------------------------------- | ------------------------------------ |
 |  1.5 oz | Bourbon                                       | Still Austin "The Musician" Straight |
 |    1 oz | White Grapefruit Juice                        |
 |  0.5 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |

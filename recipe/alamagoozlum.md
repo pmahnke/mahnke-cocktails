@@ -5,7 +5,7 @@ creator: JP Morgan
 title: "Alamagoozlum"
 categories: [punch]
 eras: [classic]
-permalink: "/recipe/alamagoozlum.html"
+permalink: "/recipe/alamagoozlum"
 iconfile: alamagoozlum
 stars: 3.5
 base_spirits: "Genever, Jamaican Rum, Yellow Chartreuse "

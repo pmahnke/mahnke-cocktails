@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Old Fashioned"
 eras: [classic]
 categories: [cocktail]
-permalink: "/recipe/old_fashioned.html"
+permalink: "/recipe/old_fashioned"
 iconfile: old_fashioned
 stars: 3
 base_spirits: "Bourbon"

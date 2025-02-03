@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Stinger"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/stinger.html"
+permalink: "/recipe/stinger"
 iconfile: stinger
 stars: 4
 base_spirits: "Cognac, Crème de Menthe"

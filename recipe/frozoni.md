@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Frozoni"
 categories: [campari, champagne]
 eras: [anders]
-permalink: "/recipe/frozoni.html"
+permalink: "/recipe/frozoni"
 iconfile: frozoni
 stars: 0
 base_spirits: "Gin, Campari, Prosecco"

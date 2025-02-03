@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "French 75"
 eras: [prohibition]
 categories: [champagne]
-permalink: "/recipe/french75.html"
+permalink: "/recipe/french75"
 iconfile: french_75
 stars: 5
 base_spirits: "Champagne, Cognac -OR- Gin "

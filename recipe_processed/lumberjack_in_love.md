@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Lumberjack in Love"
 eras: [anders]
 categories: [beer]
-permalink: "/recipe/lumberjack_in_love.html"
+permalink: "/recipe/lumberjack_in_love"
 iconfile: lumberjack_in_love
 stars: 0
 base_spirits: "Rye, Oktoberfest, Allspice Dram"

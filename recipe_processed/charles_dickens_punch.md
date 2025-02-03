@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Charles Dickens Punch"
 categories: [punch]
 eras: [classic]
-permalink: "/recipe/charles_dickens_punch.html"
+permalink: "/recipe/charles_dickens_punch"
 iconfile: charles_dickens_punch
 stars: 0
 base_spirits: "Over Proof Rum, Cognac "

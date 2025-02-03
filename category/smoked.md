@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /category/smoked_cocktails.html
+permalink: /category/smoked_cocktails
 title: Smoked Cocktails
 categories: smoked
 ---

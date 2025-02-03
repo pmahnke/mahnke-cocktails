@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "The Widow's Kiss"
 eras: [classic]
 categories: [cocktail]
-permalink: "/recipe/widows_kiss.html"
+permalink: "/recipe/widows_kiss"
 iconfile: widows_kiss
 stars: 3
 base_spirits: "Apple Brandy, Yellow Chartreuse, Bénédictine "

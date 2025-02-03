@@ -4,7 +4,7 @@ author: Leandro DiMonriva
 title: "Jasmine"
 eras: [modern]
 categories: [sour, campari]
-permalink: "/recipe/jasmine.html"
+permalink: "/recipe/jasmine"
 iconfile: jasmine
 stars: 3
 base_spirits: "Gin, Campari"

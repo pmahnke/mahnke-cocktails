@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Fall Back"
 eras: [anders]
 categories: [cocktail]
-permalink: "/recipe/fall_back.html"
+permalink: "/recipe/fall_back"
 iconfile: fall_back
 stars: 0
 base_spirits: "Rye, Apple Brandy, Amaro Nonino"

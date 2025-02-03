@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Pisco Sour"
 categories: [sour]
 eras: [classic]
-permalink: "/recipe/pisco_sour.html"
+permalink: "/recipe/pisco_sour"
 iconfile: pisco_sour
 stars: 5
 base_spirits: "Pisco "

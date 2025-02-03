@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Penicillin"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/penicillin.html"
+permalink: "/recipe/penicillin"
 iconfile: penicillin
 stars: 0
 base_spirits: "Scotch, Blended, Scotch, Single Malt "

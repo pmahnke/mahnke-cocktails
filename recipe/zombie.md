@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Zombie"
 categories: [tiki]
 eras: [classic]
-permalink: "/recipe/zombie.html"
+permalink: "/recipe/zombie"
 iconfile: zombie
 stars: 0
 base_spirits: "Jamaican Rum, Gold Rum, Demerara Rum "

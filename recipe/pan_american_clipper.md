@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Pan American Clipper"
 eras: [prohibition]
 categories: [sour]
-permalink: "/recipe/pan_american_clipper.html"
+permalink: "/recipe/pan_american_clipper"
 iconfile: pan_american_clipper
 stars: 0
 base_spirits: "Apple Brandy"

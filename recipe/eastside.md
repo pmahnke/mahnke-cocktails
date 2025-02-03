@@ -4,7 +4,7 @@ author: "Cara Devine"
 title: "Eastside"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/eastside.html"
+permalink: "/recipe/eastside"
 iconfile: eastside
 stars:
 base_spirits: "Gin"

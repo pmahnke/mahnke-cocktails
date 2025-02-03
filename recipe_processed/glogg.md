@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Glögg"
 categories: [punch]
 eras: [classic]
-permalink: "/recipe/glogg.html"
+permalink: "/recipe/glogg"
 iconfile: glogg
 stars: 0
 base_spirits: "Red Wine, Ruby Port, Cognac "

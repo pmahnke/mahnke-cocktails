@@ -4,7 +4,7 @@ author: Leandro DiMonriva
 title: "East India Cocktail"
 eras: [classic]
 categories: [sour]
-permalink: "/recipe/east_india_cocktail.html"
+permalink: "/recipe/east_india_cocktail"
 iconfile: east_india_cocktail
 stars: 4
 base_spirits: "Cognac, Maraschino Liqueur"

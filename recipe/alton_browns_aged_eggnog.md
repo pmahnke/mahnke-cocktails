@@ -4,7 +4,7 @@ author: Alton Brown
 title: "Alton Brown’s Aged Eggnog"
 categories: [eggnog, dairy]
 eras: [classic]
-permalink: "/recipe/alton_browns_aged_eggnog.html"
+permalink: "/recipe/alton_browns_aged_eggnog"
 iconfile: alton_browns_aged_eggnog
 stars: 0
 base_spirits: "Jamaican Rum, Cognac, Bourbon"

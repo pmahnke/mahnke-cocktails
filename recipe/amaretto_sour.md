@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Amaretto Sour"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/amaretto_sour.html"
+permalink: "/recipe/amaretto_sour"
 iconfile: amaretto_sour
 stars: 0
 base_spirits: "Amaretto, Apple Brandy"

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Cold Brew Irish Coffee"
 categories: [coffee, cocktail]
 eras: [modern]
-permalink: "/recipe/irish_coffee_cold.html"
+permalink: "/recipe/irish_coffee_cold"
 iconfile: irish_coffee_cold
 stars: 0
 base_spirits: "Irish Whiskey, Coffee Liqueur"

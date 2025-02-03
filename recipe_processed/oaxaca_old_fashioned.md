@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Oaxaca Old Fashioned"
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/oaxaca_old_fashioned.html"
+permalink: "/recipe/oaxaca_old_fashioned"
 iconfile: oaxaca_old_fashioned
 stars: 0
 base_spirits: "Reposado Tequila, Mezcal"

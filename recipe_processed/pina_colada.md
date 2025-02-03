@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Piña Colada"
 categories: [tiki]
 eras: [classic]
-permalink: "/recipe/pina_colada.html"
+permalink: "/recipe/pina_colada"
 iconfile: pina_colada
 stars: 4
 base_spirits: "Light Rum "

@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /category/highball_cocktails.html
+permalink: /category/highball_cocktails
 title: Highball Cocktails
 categories: highball
 ---

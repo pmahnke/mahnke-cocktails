@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Bourbon Sweet Tea"
 categories: [punch]
 eras: [anders]
-permalink: "/recipe/bourbon_sweet_tea.html"
+permalink: "/recipe/bourbon_sweet_tea"
 iconfile: bourbon_sweet_tea
 stars: 0
 base_spirits: "Bourbon, Light Amaro, Peach Liqueur "

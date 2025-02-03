@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Moscow Mule"
 categories: [buck]
 eras: [modern]
-permalink: "/recipe/moscow_mule.html"
+permalink: "/recipe/moscow_mule"
 iconfile: moscow_mule
 stars: 4
 base_spirits: "Vodka "

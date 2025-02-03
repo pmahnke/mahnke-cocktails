@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Rabo de Galo"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/rabo_de_galo.html"
+permalink: "/recipe/rabo_de_galo"
 iconfile: rabo_de_galo
 stars: 0
 base_spirits: "Cachaça, Cynar Amaro"

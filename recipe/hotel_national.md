@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Hotel National Cocktail"
 categories: [sour]
 eras: [prohibition]
-permalink: "/recipe/hotel_national.html"
+permalink: "/recipe/hotel_national"
 iconfile: hotel_national
 stars: 4
 base_spirits: "Light Rum, Apricot Liqueur"

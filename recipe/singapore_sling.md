@@ -5,7 +5,7 @@ type: multirecipe
 title: "Singapore Sling"
 eras: [modern]
 categories: [tiki]
-permalink: "/recipe/singapore_sling.html"
+permalink: "/recipe/singapore_sling"
 iconfile: singapore_sling
 stars: 4
 base_spirits: "Gin, Cherry Liqueur, Bénédictine"

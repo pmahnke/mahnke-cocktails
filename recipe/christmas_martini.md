@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Christmas Martini"
 categories: [martini]
 eras: [anders]
-permalink: "/recipe/christmas_martini.html"
+permalink: "/recipe/christmas_martini"
 iconfile: christmas_martini
 stars: 0
 base_spirits: "Gin, Cocchi Americano"

@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /category/martini_cocktails.html
+permalink: /category/martini_cocktails
 title: Martini Cocktails
 categories: martini
 ---

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Staggering Gentleman"
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/staggering_gent.html"
+permalink: "/recipe/staggering_gent"
 iconfile: staggering_gent
 stars: 0
 base_spirits: "Bourbon, Bénédictine, Walnut Liqueur"

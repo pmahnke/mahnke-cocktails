@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Bee's Knees, Smoked"
 categories: [cocktail, smoked]
 eras: [classic]
-permalink: "/recipe/beesknees-smoked.html"
+permalink: "/recipe/beesknees-smoked"
 iconfile: beesknees-smoked
 stars: 3
 base_spirits: "Gin "

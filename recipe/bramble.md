@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Bramble"
 categories: [cobbler]
 eras: [modern]
-permalink: "/recipe/bramble.html"
+permalink: "/recipe/bramble"
 iconfile: bramble
 stars: 0
 base_spirits: "Gin, Crème de Mûre "

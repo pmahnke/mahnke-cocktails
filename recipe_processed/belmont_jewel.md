@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Belmont Jewel"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/belmont_jewel.html"
+permalink: "/recipe/belmont_jewel"
 iconfile: belmont_jewel
 stars: 3 <sup>1</sup>&frasl;<sub>2</sub>
 base_spirits: "Bourbon, Oloroso Sherry"

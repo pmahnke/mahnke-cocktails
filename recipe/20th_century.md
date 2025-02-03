@@ -3,9 +3,9 @@ layout: recipe
 author: Anders Erickson
 creator: C.A. Tuck
 title: "20th Century"
-categories: [ sour ]
-eras: [ classic ]
-permalink: "/recipe/20th_century.html"
+categories: [sour]
+eras: [classic]
+permalink: "/recipe/20th_century"
 iconfile: 20th_century
 stars: 0
 base_spirits: "Gin, Cocchi Americano, Crème de Cacao "

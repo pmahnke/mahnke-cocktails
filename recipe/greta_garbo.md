@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Greta Garbo"
 eras: [prohibition]
 categories: [cocktail]
-permalink: "/recipe/greta_garbo.html"
+permalink: "/recipe/greta_garbo"
 iconfile: greta_garbo
 stars: 0
 base_spirits: "Light Rum, Maraschino Liqueur -OR- Gin, Swedish Punsch"

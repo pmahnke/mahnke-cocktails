@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Fence Hopper"
 eras: [anders]
 categories: [beer]
-permalink: "/recipe/fence_hopper.html"
+permalink: "/recipe/fence_hopper"
 iconfile: fence_hopper
 stars: 0
 base_spirits: "Bourbon, IPA "

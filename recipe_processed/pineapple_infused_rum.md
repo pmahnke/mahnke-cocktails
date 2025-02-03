@@ -2,7 +2,7 @@
 layout: recipe
 title: "Pineapple Infused Rum"
 categories: [syrup]
-permalink: "/recipe/pineappleinfusedrum.html"
+permalink: "/recipe/pineappleinfusedrum"
 iconfile: pineapple_infused_rum
 stars: 5
 base_spirits: "Jamaican Rum, Pineapple"

@@ -4,7 +4,7 @@ author: "Behind the Bar"
 title: "Jaberwocky"
 categories: [martini]
 eras: [prohibition]
-permalink: "/recipe/jabberwocky.html"
+permalink: "/recipe/jabberwocky"
 iconfile: jabberwocky
 stars:
 base_spirits: "Manzanilla Sherry, Gin, Lillet Blanc"

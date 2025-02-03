@@ -1,11 +1,10 @@
 ---
-
 layout: recipe
-author: Anders Erickson 
+author: Anders Erickson
 title: "Prescription Julep"
 categories: [julep]
 eras: [classic]
-permalink: "/recipe/prescription_julep.html"
+permalink: "/recipe/prescription_julep"
 iconfile: prescription_julep
 stars: 0
 base_spirits: "Cognac, Rye "
@@ -16,7 +15,7 @@ excerpt: |
 
 ### Ingredients
 
-| Amount  | Ingredient               | Brand                       |
+|        Amount | Ingredient                                               | Brand                 |
 | ------------: | -------------------------------------------------------- | --------------------- |
 |        1.5 oz | Cognac                                                   | Maison Rouge V.S.O.P. |
 |        0.5 oz | Rye                                                      | Rittenhouse 100 Proof |
@@ -27,8 +26,8 @@ excerpt: |
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: 
-    - Julep Cup
-    - Crushed Ice
+- Glassware:
+  - Julep Cup
+  - Crushed Ice
 - Garnish: Mint Sprig
 - Special Prep: Add mint leaves directly to the shaking tin. Then build the cocktail. Top with additional crushed ice.

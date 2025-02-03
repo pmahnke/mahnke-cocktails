@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "New York Sour"
 categories: [sour]
 eras: [classic]
-permalink: "/recipe/new_york_sour.html"
+permalink: "/recipe/new_york_sour"
 iconfile: new_york_sour
 stars: 5
 base_spirits: "Bourbon, Red Wine "

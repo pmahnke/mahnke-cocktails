@@ -4,7 +4,7 @@ author: Zac Overman Cocktail Recipes
 title: "Angostura Colada"
 categories: [tiki]
 eras: [modern]
-permalink: "/recipe/angostura_colada.html"
+permalink: "/recipe/angostura_colada"
 iconfile: angostura_colada
 stars: 0
 base_spirits: "Angostura Bitters, Jamaican Rum"

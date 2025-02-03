@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Scofflaw"
 eras: [prohibition]
 categories: [sour]
-permalink: "/recipe/scofflaw.html"
+permalink: "/recipe/scofflaw"
 iconfile: scofflaw
 stars: 5
 base_spirits: "Rye"

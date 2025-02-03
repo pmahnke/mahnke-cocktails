@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Wardroom"
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/wardroom.html"
+permalink: "/recipe/wardroom"
 iconfile: wardroom
 stars: 0
 base_spirits: "Cognac, Dark Rum, Tawny Port"

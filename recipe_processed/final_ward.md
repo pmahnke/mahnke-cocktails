@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Final Ward"
 eras: [modern]
 categories: [daisy]
-permalink: "/recipe/final_ward.html"
+permalink: "/recipe/final_ward"
 iconfile: final_ward
 stars: 3
 base_spirits: "Rye, Green Chartreuse, Maraschino Liqueur"

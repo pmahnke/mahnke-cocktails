@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Hemingway Daiquiri"
 categories: [sour]
 eras: [prohibition]
-permalink: "/recipe/hemingway_daiquiri.html"
+permalink: "/recipe/hemingway_daiquiri"
 iconfile: hemingway_daiquiri
 stars: 0
 base_spirits: "Light Rum, Maraschino Liqueur"

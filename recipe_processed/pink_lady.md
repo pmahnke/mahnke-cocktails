@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "The Pink Lady"
 categories: [sour]
 eras: [prohibition]
-permalink: "/recipe/pink_lady.html"
+permalink: "/recipe/pink_lady"
 iconfile: pink_lady
 stars: 4
 base_spirits: "Gin, Apple Brandy "

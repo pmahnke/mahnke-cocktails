@@ -5,7 +5,7 @@ creator: Joe Scialom
 title: "Suffering Bastard"
 eras: [modern]
 categories: [buck]
-permalink: "/recipe/suffering_bastard.html"
+permalink: "/recipe/suffering_bastard"
 iconfile: suffering_bastard
 stars: 0
 base_spirits: "Gin, Cognac -OR- Bourbon"

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Ward Eight"
 categories: [sour]
 eras: [classic]
-permalink: "/recipe/ward_eight.html"
+permalink: "/recipe/ward_eight"
 iconfile: ward_eight
 stars: 0
 base_spirits: "Rye "

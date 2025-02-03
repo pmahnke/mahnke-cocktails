@@ -2,7 +2,7 @@
 layout: recipe
 title: "Raspberry Syrup"
 categories: [syrup]
-permalink: "/recipe/raspberrysyrup.html"
+permalink: "/recipe/raspberrysyrup"
 iconfile: raspberry_syrup
 stars: 5
 base_spirits: "White Sugar, Raspberries"

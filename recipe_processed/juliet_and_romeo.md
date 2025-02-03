@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Juliet & Romeo"
 eras: [modern]
 categories: [sour]
-permalink: "/recipe/juliet_and_romeo.html"
+permalink: "/recipe/juliet_and_romeo"
 iconfile: juliet_and_romeo
 stars: 0
 base_spirits: "Gin "

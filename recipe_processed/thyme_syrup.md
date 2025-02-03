@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Thyme-Infused Syrup"
 categories: [syrup]
-permalink: "/recipe/thyme_syrup.html"
+permalink: "/recipe/thyme_syrup"
 iconfile: thyme_syrup
 stars: 5
 base_spirits: "Thyme, White Sugar"

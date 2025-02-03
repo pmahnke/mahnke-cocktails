@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Macunaíma"
 eras: [modern]
 categories: [sour]
-permalink: "/recipe/macunaima.html"
+permalink: "/recipe/macunaima"
 iconfile: macunaima
 stars: 4
 base_spirits: "Cachaça, Fernet Branca"

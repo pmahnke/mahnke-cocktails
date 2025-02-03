@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Satan's Whiskers"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/satans_whiskers.html"
+permalink: "/recipe/satans_whiskers"
 iconfile: satans_whiskers
 stars: 0
 base_spirits: "Gin "

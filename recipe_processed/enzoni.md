@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Enzoni"
 categories: [campari, cocktail]
 eras: [modern]
-permalink: "/recipe/enzoni.html"
+permalink: "/recipe/enzoni"
 iconfile: enzoni
 stars: 0
 base_spirits: "Gin, Campari"

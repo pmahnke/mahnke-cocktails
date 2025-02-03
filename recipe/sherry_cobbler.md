@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Sherry Cobbler"
 categories: [cobbler]
 eras: [classic]
-permalink: "/recipe/sherry_cobbler.html"
+permalink: "/recipe/sherry_cobbler"
 iconfile: sherry_cobbler
 stars: 0
 base_spirits: "Oloroso Sherry "

@@ -3,7 +3,7 @@ layout: recipe
 title: "Strawberry Basil Smash"
 eras: [classic]
 categories: [smash]
-permalink: "/recipe/strawberry_basil_smash.html"
+permalink: "/recipe/strawberry_basil_smash"
 iconfile: strawberry_basil_smash
 stars: 0
 base_spirits: "Jamaican Rum"

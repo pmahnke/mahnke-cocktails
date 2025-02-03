@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Shoddy Toddy"
 categories: [toddy]
 eras: [anders]
-permalink: "/recipe/shoddy_toddy.html"
+permalink: "/recipe/shoddy_toddy"
 iconfile: shoddy_toddy
 stars: 0
 base_spirits: "Gin, Bénédictine"

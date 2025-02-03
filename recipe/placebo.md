@@ -1,10 +1,10 @@
 ---
 layout: recipe
 author: Anders Erickson
-categories: [ mocktail ]
-eras: [ anders, tiki ]
+categories: [mocktail]
+eras: [anders, tiki]
 title: "Placebo (NA Painkiller)"
-permalink: "/recipe/placebo.html"
+permalink: "/recipe/placebo"
 iconfile: placebo
 stars: 0
 base_spirits: "Pineapple, Orange, Cream of Coconut"
@@ -15,14 +15,14 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient                                                   | Brand |
-| ------: | ------------------------------------------------------------ | ----- |
-|    6 oz | Pineapple Juice                                              |
-|    2 oz | Fresh Orange Juice                                           |
+|  Amount | Ingredient                                                     | Brand |
+| ------: | -------------------------------------------------------------- | ----- |
+|    6 oz | Pineapple Juice                                                |
+|    2 oz | Fresh Orange Juice                                             |
 |    2 oz | [Cream of Coconut] ({%link recipe/cream_of_coconut_syrup.md%}) |
-| 0.75 oz | Fresh Lime Juice                                             |
-| 1 pinch | Ground Cinnamon                                              |
-|   1 cup | Crushed Ice                                                  |
+| 0.75 oz | Fresh Lime Juice                                               |
+| 1 pinch | Ground Cinnamon                                                |
+|   1 cup | Crushed Ice                                                    |
 
 ### Notes
 

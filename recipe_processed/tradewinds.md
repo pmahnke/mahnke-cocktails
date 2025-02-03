@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Tradewinds"
 categories: [tiki]
 eras: [modern]
-permalink: "/recipe/tradewinds.html"
+permalink: "/recipe/tradewinds"
 iconfile: tradewinds
 stars: 0
 base_spirits: "Dark Rum, Gold Rum, Apricot Liqueur"

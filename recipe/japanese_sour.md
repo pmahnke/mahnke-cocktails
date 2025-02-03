@@ -4,7 +4,7 @@ author: "Owen Mahnke"
 title: "Japanese Lemon Sour"
 categories: [sour, collins]
 eras: [modern]
-permalink: "/recipe/japanese_sour.html"
+permalink: "/recipe/japanese_sour"
 iconfile: japanese_sour
 stars: 4
 base_spirits: "Shochu, Vodka"

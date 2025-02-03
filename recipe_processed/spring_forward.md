@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Spring Forward"
 eras: [anders]
 categories: [cocktail]
-permalink: "/recipe/spring_forward.html"
+permalink: "/recipe/spring_forward"
 iconfile: spring_forward
 stars: 0
 base_spirits: "Pisco, Gin, Cocchi Americano"

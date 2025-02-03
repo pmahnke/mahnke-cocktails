@@ -2,9 +2,9 @@
 layout: recipe
 author: Anders Erickson
 title: "Black-Eyed Susan"
-categories: [ highball ]
-eras: [ modern ]
-permalink: "/recipe/black_eyed_susan.html"
+categories: [highball]
+eras: [modern]
+permalink: "/recipe/black_eyed_susan"
 iconfile: black_eyed_susan
 stars: 0
 base_spirits: "Bourbon, Vodka"

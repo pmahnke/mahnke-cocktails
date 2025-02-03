@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Pendennis Club Cocktail"
 categories: [sour]
 eras: [classic]
-permalink: "/recipe/pendennis_club.html"
+permalink: "/recipe/pendennis_club"
 iconfile: pendennis_club
 stars: 3
 base_spirits: "Gin, Apricot Liqueur "

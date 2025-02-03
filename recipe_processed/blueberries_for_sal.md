@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Blueberries For Sal"
 categories: [mocktail]
 eras: [anders]
-permalink: "/recipe/blueberries_for_sal.html"
+permalink: "/recipe/blueberries_for_sal"
 iconfile: blueberries_for_sal
 stars: 0
 base_spirits: "Blueberries, Ginger Beer, Lemon Juice"

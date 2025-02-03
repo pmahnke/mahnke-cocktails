@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Quarter Century"
 eras: [anders]
 categories: [campari, champagne]
-permalink: "/recipe/quarter_century.html"
+permalink: "/recipe/quarter_century"
 iconfile: quarter_century
 stars: 0
 base_spirits: "Campari, Apricot Liqueur, Absinthe"

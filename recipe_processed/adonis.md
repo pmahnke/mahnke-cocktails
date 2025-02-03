@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Adonis"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/adonis.html"
+permalink: "/recipe/adonis"
 iconfile: adonis
 stars: 3
 base_spirits: "Oloroso Sherry "

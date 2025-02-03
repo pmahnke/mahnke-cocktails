@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Toronto Cocktail"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/toronto_cocktail.html"
+permalink: "/recipe/toronto_cocktail"
 iconfile: toronto_cocktail
 stars: 3
 base_spirits: "Rye, Fernet Branca"

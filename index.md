@@ -9,7 +9,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         <h2>Cocktails</h2>
         {%- assign sorted = site.data.categories | sort: "name" -%}
         {%- for cat in sorted -%}
-        <h3><a href="category/{{ cat.slug }}_cocktails.html">{{ cat.name }} {%- if cat.url -%}<img src="{{ cat.url }}" alt="" class="category_icon_small">{%- endif -%}</a></h3>
+        <h3><a href="category/{{ cat.slug }}_cocktails">{{ cat.name }} {%- if cat.url -%}<img src="{{ cat.url }}" alt="" class="category_icon_small">{%- endif -%}</a></h3>
         <ul class="home_list">
         {%- assign count = 0 -%}
         {%- for page in site.pages -%}
@@ -25,7 +25,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             {%- endif -%}
         {%- endfor -%}
         </ul>
-        <p class="more"><a href="category/{{ cat.slug }}_cocktails.html">More {{ cat.name }} cocktails ></a></p>
+        <p class="more"><a href="category/{{ cat.slug }}_cocktails">More {{ cat.name }} cocktails ></a></p>
         {%- endfor -%}
     </div><!-- /div 2/3 -->
     <div><!-- div 1/3 -->
@@ -35,7 +35,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         <ul>
         {%- assign sorted = site.data.eras | sort: "name" -%}
         {%- for era in sorted -%}
-            <li><a href="era/{{ era.slug }}.html">{{ era.name }}</a></li>
+            <li><a href="era/{{ era.slug }}">{{ era.name }}</a></li>
         {%- endfor -%}
         </ul>
         <h3>Bar Essentials Lists</h3>

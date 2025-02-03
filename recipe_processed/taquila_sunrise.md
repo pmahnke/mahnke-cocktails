@@ -5,7 +5,7 @@ type: multirecipe
 title: "Taquila Sunrise"
 eras: [classic]
 categories: [cocktail]
-permalink: "/recipe/taquila_sunrise.html"
+permalink: "/recipe/taquila_sunrise"
 iconfile: taquila_sunrise
 stars: 0
 base_spirits: "Crème de Cassis, Blanco Taquilla -OR- Reposado Tequila "

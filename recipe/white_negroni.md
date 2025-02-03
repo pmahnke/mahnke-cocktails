@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "White Negroni"
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/white_negroni.html"
+permalink: "/recipe/white_negroni"
 iconfile: white_negroni
 stars: 0
 base_spirits: "Gin, Suze, Lillet Blanc"

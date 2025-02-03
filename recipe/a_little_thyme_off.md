@@ -1,10 +1,10 @@
 ---
 layout: recipe
 author: Anders Erickson
-categories: [ mocktail ]
-eras: [ anders ]
+categories: [mocktail]
+eras: [anders]
 title: "A Little Thyme Off"
-permalink: "/recipe/a_little_thyme_off.html"
+permalink: "/recipe/a_little_thyme_off"
 iconfile: a_little_thyme_off
 stars: 0
 base_spirits: "Lemon, Thyme Simple Syrup, Ginger Beer"

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Plum Island"
 eras: [anders]
 categories: [tiki]
-permalink: "/recipe/plum_island.html"
+permalink: "/recipe/plum_island"
 iconfile: plum_island
 stars: 4
 base_spirits: "Lillet Rouge, Gold Rum, Absinthe "

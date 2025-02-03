@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Cherry Zip"
 categories: [mocktail]
 eras: [anders]
-permalink: "/recipe/cherry_zip.html"
+permalink: "/recipe/cherry_zip"
 iconfile: cherry_zip
 stars: 0
 base_spirits: "Cherry Juice, Orgeat, Tea, Lemon"

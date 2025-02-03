@@ -3,7 +3,7 @@ layout: recipe
 title: "Falernum"
 categories: [syrup]
 iconfile: falernum_syrup
-permalink: "/recipe/falernum.html"
+permalink: "/recipe/falernum"
 iconfile: falernum
 stars: 0
 base_spirits: "Over Proof Rum, Almonds, Cloves, Ginger, Nutmeg, Vanilla Bean"

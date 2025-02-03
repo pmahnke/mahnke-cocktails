@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Saturn"
 eras: [modern]
 categories: [tiki]
-permalink: "/recipe/saturn.html"
+permalink: "/recipe/saturn"
 iconfile: saturn
 stars: 0
 base_spirits: "Gin"

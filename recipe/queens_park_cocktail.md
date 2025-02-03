@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Queen's Park Hotel Super Cocktail"
 categories: [cocktail]
 eras: [prohibition]
-permalink: "/recipe/queens_park_cocktail.html"
+permalink: "/recipe/queens_park_cocktail"
 iconfile: queens_park_cocktail
 stars: 3
 base_spirits: "Gold Rum "
@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                                      | Brand                     |
-| -------: | ----------------------------------------------- | ------------------------- |
-|   1.5 oz | Gold Rum                                        | Angostura 1919            |
-|   0.5 oz | Sweet Vermouth                                  | Cocchi Vermouth di Torino |
+|   Amount | Ingredient                                      | Brand                      |
+| -------: | ----------------------------------------------- | -------------------------- |
+|   1.5 oz | Gold Rum                                        | Angostura 1919             |
+|   0.5 oz | Sweet Vermouth                                  | Cocchi Vermouth di Torino  |
 |   0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 |   0.5 oz | Fresh Lime Juice                                |
-| 4 dashes | Bitters                                         | Angostura Aromatic Bitters        |
+| 4 dashes | Bitters                                         | Angostura Aromatic Bitters |
 
 ### Notes
 

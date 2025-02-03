@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Alberto"
 categories: [martini]
 eras: [prohibition]
-permalink: "/recipe/alberto.html"
+permalink: "/recipe/alberto"
 iconfile: alberto
 stars: 0
 base_spirits: "Gin, Fino Sherry"

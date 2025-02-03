@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Bay Roc Special"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/bay_roc_special.html"
+permalink: "/recipe/bay_roc_special"
 iconfile: bay_roc_special
 stars: 0
 base_spirits: "Jamaican Rum, Drambuie"

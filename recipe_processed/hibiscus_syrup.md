@@ -2,7 +2,7 @@
 layout: recipe
 title: "Hibiscus Syrup"
 categories: [syrup]
-permalink: "/recipe/hibiscus_syrup.html"
+permalink: "/recipe/hibiscus_syrup"
 iconfile: hibiscus_syrup
 stars: 5
 base_spirits: "Cinnamon Sticks, Cloves, Dried Hibiscus"

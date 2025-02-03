@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Matador"
 eras: [modern]
 categories: [tiki]
-permalink: "/recipe/matador.html"
+permalink: "/recipe/matador"
 iconfile: matador
 stars: 0
 base_spirits: "Reposado Tequila, White Vermouth "

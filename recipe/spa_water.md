@@ -1,10 +1,10 @@
 ---
 layout: recipe
 author: Anders Erickson
-categories: [ mocktail ]
-eras: [ anders ]
+categories: [mocktail]
+eras: [anders]
 title: "Spa Water"
-permalink: "/recipe/spa_water.html"
+permalink: "/recipe/spa_water"
 iconfile: spa_water
 stars: 3
 base_spirits: "Cucumber, Mint, Lime "

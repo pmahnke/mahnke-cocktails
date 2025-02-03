@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /category/campari_cocktails.html
+permalink: /category/campari_cocktails
 title: Campari Cocktails
 categories: campari
 ---

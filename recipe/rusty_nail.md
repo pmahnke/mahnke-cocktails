@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Rusty Nail"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/rusty_nail.html"
+permalink: "/recipe/rusty_nail"
 iconfile: rusty_nail
 stars: 2
 base_spirits: "Scotch, Drambuie"

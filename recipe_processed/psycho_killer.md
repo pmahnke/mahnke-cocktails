@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Psycho Killer"
 eras: [modern]
 categories: [cocktail]
-permalink: "/recipe/psycho_killer.html"
+permalink: "/recipe/psycho_killer"
 iconfile: psycho_killer
 stars: 0
 base_spirits: "Irish Whiskey, Campari, White Crème de Cacao, Banane du Brésil"

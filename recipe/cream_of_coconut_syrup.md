@@ -2,7 +2,7 @@
 layout: recipe
 title: "Cream of Coconut"
 categories: [syrup]
-permalink: "/recipe/cream_of_coconut_syrup.html"
+permalink: "/recipe/cream_of_coconut_syrup"
 iconfile: cream_of_coconut_syrup
 stars: 5
 base_spirits: "White Sugar, Coconut Milk"

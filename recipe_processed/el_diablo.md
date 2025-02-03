@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "El Diablo"
 categories: [tikil]
 eras: [modern]
-permalink: "/recipe/el_diablo.html"
+permalink: "/recipe/el_diablo"
 iconfile: el_diablo
 stars: 0
 base_spirits: "Reposado Tequila, Crème de Cassis"

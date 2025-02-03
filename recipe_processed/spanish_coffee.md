@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Spanish Coffee"
 eras: [classic]
 categories: [after_dinner]
-permalink: "/recipe/spanish_coffee.html"
+permalink: "/recipe/spanish_coffee"
 iconfile: spanish_coffee
 stars: 0
 base_spirits: "Overproof Jamaican Rum, Coffee Liqueur"

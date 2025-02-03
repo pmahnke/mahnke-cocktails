@@ -31,6 +31,9 @@ plugins:
   - jekyll-feed
 # posts_dir: _posts
 
+# pretty links /about not about.html
+permalink: pretty
+
 # Build settings
 markdown: kramdown
 

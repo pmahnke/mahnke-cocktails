@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Champagne Cocktail"
 categories: [champagne]
 eras: [classic]
-permalink: "/recipe/champagne_cocktail.html"
+permalink: "/recipe/champagne_cocktail"
 iconfile: champagne_cocktail
 stars: 5
 base_spirits: "Champagne, Cognac "

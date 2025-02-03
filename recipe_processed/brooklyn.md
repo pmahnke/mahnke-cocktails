@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Brooklyn"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/brooklyn.html"
+permalink: "/recipe/brooklyn"
 iconfile: brooklyn
 stars: 0
 base_spirits: "Rye, Maraschino Liqueur"

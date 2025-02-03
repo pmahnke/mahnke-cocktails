@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Momisette"
 eras: [prohibition]
 categories: [fizz]
-permalink: "/recipe/momisette.html"
+permalink: "/recipe/momisette"
 iconfile: momisette
 stars: 5
 base_spirits: "Absinthe "

@@ -5,7 +5,7 @@ creator: Hugo R. Ensslin
 title: "Chrysanthemum"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/chrysanthemum.html"
+permalink: "/recipe/chrysanthemum"
 iconfile: chrysanthemum
 stars: 0
 base_spirits: "Bénédictine, Absinthe"
@@ -29,7 +29,7 @@ excerpt: |
   <br>Shake well and strain into cocktail glass.  Squeeze orange peel on top.
   <br>* Well-known and very popular in the American Bar of the S.S. " Europa."
   <br><cite>Harry Craddock, 1930</cite></blockquote>
-  This cocktail may be named after <i>The Chrysanthemum</i>, a 1904 piece by the famous ragtime composer and pianist Scott Joplin and released on record in 1916.			
+  This cocktail may be named after <i>The Chrysanthemum</i>, a 1904 piece by the famous ragtime composer and pianist Scott Joplin and released on record in 1916.
 ---
 
 ### Ingredients

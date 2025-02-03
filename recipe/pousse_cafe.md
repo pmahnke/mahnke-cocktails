@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Pousse Café"
 eras: [classic]
 categories: [pousse_cafe]
-permalink: "/recipe/pousse_cafe.html"
+permalink: "/recipe/pousse_cafe"
 iconfile: pousse_cafe
 stars: 0
 category: "White Crème de Cacao, Crème de Violette, Light Amaro, Green Chartreuse, Cognac, Absinthe"

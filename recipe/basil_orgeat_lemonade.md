@@ -2,9 +2,9 @@
 layout: recipe
 author: Anders Erickson
 title: "Basil Orgeat Lemonade"
-categories: [ mocktail ]
-eras: [ anders ]
-permalink: "/recipe/basilorgeatlemonade.html"
+categories: [mocktail]
+eras: [anders]
+permalink: "/recipe/basilorgeatlemonade"
 iconfile: basil_orgeat_lemonade
 stars: 0
 base_spirits: "Orgeat, Lemon, Basil"

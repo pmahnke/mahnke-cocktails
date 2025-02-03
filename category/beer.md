@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /category/beer_cocktails.html
+permalink: /category/beer_cocktails
 title: Beer Cocktails
 categories: beer
 ---

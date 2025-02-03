@@ -3,7 +3,7 @@ layout: recipe
 title: "Peach & Sage Smash"
 eras: [modern]
 categories: [smash]
-permalink: "/recipe/peach_sage_smash.html"
+permalink: "/recipe/peach_sage_smash"
 iconfile: peach_sage_smash
 stars: 0
 base_spirits: "Reposado Tequila"

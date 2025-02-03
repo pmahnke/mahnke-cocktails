@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Americano"
 categories: [campari, cocktail]
 eras: [classic]
-permalink: "/recipe/americano.html"
+permalink: "/recipe/americano"
 iconfile: americano
 stars: 0
 base_spirits: "Campari "

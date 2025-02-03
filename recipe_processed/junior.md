@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Junior (aka Quick Recovery)"
 eras: [prohibition]
 categories: [sour]
-permalink: "/recipe/junior.html"
+permalink: "/recipe/junior"
 iconfile: junior
 stars: 3 <sup>1</sup>&frasl;<sub>2</sub>
 base_spirits: "Rye, Bénédictine"

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Wicked Word"
 eras: [anders]
 categories: [daisy]
-permalink: "/recipe/wicked_word.html"
+permalink: "/recipe/wicked_word"
 iconfile: wicked_word
 stars: 0
 base_spirits: "Cognac, Aperol, Black Sambuca"

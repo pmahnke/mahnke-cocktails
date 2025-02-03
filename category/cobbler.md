@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /category/cobbler_cocktails.html
+permalink: /category/cobbler_cocktails
 title: Cobbler Cocktails
 categories: cobbler
 ---

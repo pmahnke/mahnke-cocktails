@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Jasper’s Rum Punch"
 categories: [punch]
 eras: [modern]
-permalink: "/recipe/jaspers_rum_punch.html"
+permalink: "/recipe/jaspers_rum_punch"
 iconfile: jaspers_rum_punch
 stars: 0
 base_spirits: "Overproof Jamaican Rum"

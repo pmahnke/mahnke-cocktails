@@ -5,7 +5,7 @@ type: multirecipe
 title: "Gin Daisy"
 categories: [daisy]
 eras: [classic]
-permalink: "/recipe/gin_daisy.html"
+permalink: "/recipe/gin_daisy"
 iconfile: gin_daisy
 stars: 0
 base_spirits: "Gin, Bénédictine"

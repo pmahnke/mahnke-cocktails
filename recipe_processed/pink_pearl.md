@@ -4,7 +4,7 @@ author: Anders Erickson
 categories: [mocktail]
 eras: [prohibition]
 title: "Pink Pearl"
-permalink: "/recipe/pink_pearl.html"
+permalink: "/recipe/pink_pearl"
 iconfile: pink_pearl
 stars: 0
 base_spirits: "Grenadine, Grapefruit Juice, Lemon Juice"

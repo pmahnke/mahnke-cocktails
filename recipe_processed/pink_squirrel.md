@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Pink Squirrel"
 eras: [modern]
 categories: [after_dinner]
-permalink: "/recipe/pink_squirrel.html"
+permalink: "/recipe/pink_squirrel"
 iconfile: pink_squirrel
 stars: 0
 base_spirits: "Crème de Noyaux, White Crème de Cacao "

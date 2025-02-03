@@ -2,9 +2,9 @@
 layout: recipe
 author: Anders Erickson
 title: "Passion at the Disco"
-categories: [ mocktail ]
-eras: [ anders ]
-permalink: "/recipe/passion_at_the-disco.html"
+categories: [mocktail]
+eras: [anders]
+permalink: "/recipe/passion_at_the-disco"
 iconfile: passion_at_the_disco
 stars: 0
 base_spirits: "Lime, Passion Fruit Syrup, Tonic Water"

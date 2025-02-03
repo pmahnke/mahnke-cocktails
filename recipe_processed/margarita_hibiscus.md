@@ -4,7 +4,7 @@ author: Shannon Mustipher Cocktail Recipes
 title: "Hibiscus Margarita"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/margarita_hibiscus.html"
+permalink: "/recipe/margarita_hibiscus"
 iconfile: margarita_hibiscus
 stars: 0
 base_spirits: "Reposado Tequila"

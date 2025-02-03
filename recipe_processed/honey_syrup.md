@@ -2,7 +2,7 @@
 layout: recipe
 title: "Honey Syrup"
 categories: [syrup]
-permalink: "/recipe/honey_syrup.html"
+permalink: "/recipe/honey_syrup"
 iconfile: honey_syrup
 stars: 5
 base_spirits: "Honey"

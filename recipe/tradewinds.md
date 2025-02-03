@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Tradewinds"
 categories: [tiki]
 eras: [modern]
-permalink: "/recipe/tradewinds.html"
+permalink: "/recipe/tradewinds"
 iconfile: tradewinds
 stars: 0
 base_spirits: "Dark Rum, Gold Rum, Apricot Liqueur"
@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient                                                  | Brand                         |
-| -----: | ----------------------------------------------------------- | ----------------------------- |
-|   1 oz | Dark Rum                                                    | Kōloa Kaua'i                  |
-|   1 oz | Gold Rum                                                    | Don Q                         |
-|   1 oz | Apricot Liqueur                                             | Giffard Abricot du Roussillon |
+| Amount | Ingredient                                                    | Brand                         |
+| -----: | ------------------------------------------------------------- | ----------------------------- |
+|   1 oz | Dark Rum                                                      | Kōloa Kaua'i                  |
+|   1 oz | Gold Rum                                                      | Don Q                         |
+|   1 oz | Apricot Liqueur                                               | Giffard Abricot du Roussillon |
 |   1 oz | [Cream of Coconut]({%link recipe/cream_of_coconut_syrup.md%}) |
-|   1 oz | Fresh Lemon Juice                                           |
+|   1 oz | Fresh Lemon Juice                                             |
 
 ### Notes
 

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Monte Cassino"
 eras: [modern]
 categories: [daisy]
-permalink: "/recipe/monte_cassino.html"
+permalink: "/recipe/monte_cassino"
 iconfile: monte_cassino
 stars: 4
 base_spirits: "Rye, Yellow Chartreuse, Bénédictine"

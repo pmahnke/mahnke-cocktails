@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "See No Evil"
 categories: [sour]
 eras: [anders]
-permalink: "/recipe/see_no_evil.html"
+permalink: "/recipe/see_no_evil"
 iconfile: see_no_evil
 stars: 0
 base_spirits: "Mezcal "

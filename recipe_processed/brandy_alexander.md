@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Brandy Alexander"
 categories: [after_dinner, ice_cream]
 eras: [classic]
-permalink: "/recipe/brandy_alexander.html"
+permalink: "/recipe/brandy_alexander"
 iconfile: brandy_alexander
 stars: 0
 base_spirits: "Cognac, Crème de Cacao"

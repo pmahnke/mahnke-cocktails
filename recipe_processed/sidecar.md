@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Sidecar"
 categories: [sour]
 eras: [classic]
-permalink: "/recipe/sidecar.html"
+permalink: "/recipe/sidecar"
 iconfile: sidecar
 stars: 3
 base_spirits: Cognac

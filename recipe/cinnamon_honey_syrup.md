@@ -2,7 +2,7 @@
 layout: recipe
 title: "Cinnamon-Infused Honey Syrup"
 categories: [syrup]
-permalink: "/recipe/cinnamon_honey_syrup.html"
+permalink: "/recipe/cinnamon_honey_syrup"
 iconfile: cinnamon_honey_syrup
 stars: 5
 base_spirits: "Honey, Cinnamon Sticks"

@@ -1,6 +1,6 @@
 ---
 layout: categories
-permalink: /category/champagne_cocktails.html
+permalink: /category/champagne_cocktails
 title: Champagne Cocktails
 categories: champagne
 ---

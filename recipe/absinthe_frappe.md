@@ -2,9 +2,9 @@
 layout: recipe
 author: Anders Erickson
 title: "Absinthe Frappé"
-categories: [ frappe_swizzle ]
-eras: [ classic ]
-permalink: "/recipe/absinthe_frappe.html"
+categories: [frappe_swizzle]
+eras: [classic]
+permalink: "/recipe/absinthe_frappe"
 iconfile: absinthe_frappe
 stars: 0
 base_spirits: "Absinthe"
@@ -28,7 +28,7 @@ excerpt: |
 - Pour:
   - Open Pour
   - Single Strain
-- Glassware: 
+- Glassware:
   - Frappé Glass
   - Crushed Ice
 - Garnish: Mint sprig

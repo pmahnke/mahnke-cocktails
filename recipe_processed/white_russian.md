@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "White Russian"
 categories: [coffee, after_dinner]
 eras: [modern]
-permalink: "/recipe/white_russian.html"
+permalink: "/recipe/white_russian"
 iconfile: white_russian
 stars: 4
 base_spirits: "Vodka, Kahlúa"

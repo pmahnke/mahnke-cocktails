@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Harvest Moon Punch (1/2 batch)"
 categories: [punch]
 eras: [anders]
-permalink: "/recipe/harvest_moon_punch.html"
+permalink: "/recipe/harvest_moon_punch"
 iconfile: harvest_moon_punch
 stars: 0
 base_spirits: "Jamaican Rum, Apple Brandy, Pear Liqueur, Allspice Dram"

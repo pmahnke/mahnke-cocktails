@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Lonely Valentine"
 eras: [anders]
 categories: [cocktail]
-permalink: "/recipe/lonely_valentine.html"
+permalink: "/recipe/lonely_valentine"
 iconfile: lonely_valentine
 stars: 0
 base_spirits: "Light Rum, Ruby Port, White Crème de Cacao "

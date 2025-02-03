@@ -1,6 +1,6 @@
 ---
 layout: eras
-permalink: /era/anders.html
+permalink: /era/anders
 title: Anders Erickson Cocktails
 eras: anders
 ---

@@ -1,6 +1,6 @@
 ---
 layout: eras
-permalink: /era/new_orleans.html
+permalink: /era/new_orleans
 title: New Orleans Cocktails
 eras: new_orleans
 ---

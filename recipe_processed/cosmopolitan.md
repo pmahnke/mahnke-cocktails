@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Cosmopolitan"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/cosmopolitan.html"
+permalink: "/recipe/cosmopolitan"
 iconfile: cosmopolitan
 stars: 3
 base_spirits: "Vodka "

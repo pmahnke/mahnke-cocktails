@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Grey Fox"
 categories: [mocktail]
 eras: [anders]
-permalink: "/recipe/grey_fox.html"
+permalink: "/recipe/grey_fox"
 iconfile: grey_fox
 stars: 0
 base_spirits: "Earl Grey Syrup, Lemon"

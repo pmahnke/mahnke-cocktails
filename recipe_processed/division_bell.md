@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "The Division Bell"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/division_bell.html"
+permalink: "/recipe/division_bell"
 iconfile: division_bell
 stars: 0
 base_spirits: "Mezcal, Aperol, Maraschino Liqueur "

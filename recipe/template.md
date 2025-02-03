@@ -4,10 +4,10 @@ author: Anders Erickson
 title: "NAME"
 categories:
   [
-    after_dinner, 
-    beer, 
-    buck, 
-    campari, 
+    after_dinner,
+    beer,
+    buck,
+    campari,
     champagne,
     cobbler,
     cocktail,
@@ -32,7 +32,7 @@ categories:
     toddy,
   ]
 eras: [anders, classic, modern, new_orleans, prohibition]
-permalink: "/recipe/NAME.html"
+permalink: "/recipe/NAME"
 iconfile: NAME
 stars: 0
 base_spirits: "SPIRIT, SPIRIT"

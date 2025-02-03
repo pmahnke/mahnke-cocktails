@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Gunshop Fizz"
 categories: [fizz]
 eras: [new_orleans]
-permalink: "/recipe/gunshop_fizz.html"
+permalink: "/recipe/gunshop_fizz"
 iconfile: gunshop_fizz
 stars: 0
 base_spirits: "Peychaud's Bitters"

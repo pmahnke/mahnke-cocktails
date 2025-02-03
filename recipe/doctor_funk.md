@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Doctor Funk"
 categories: [tiki]
 eras: [modern]
-permalink: "/recipe/doctor_funk.html"
+permalink: "/recipe/doctor_funk"
 iconfile: doctor_funk
 stars: 0
 base_spirits: "Jamaican Rum, Gold Rum, Absinthe"

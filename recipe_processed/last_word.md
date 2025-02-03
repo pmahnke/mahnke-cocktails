@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Last Word"
 categories: [daisy]
 eras: [prohibition]
-permalink: "/recipe/last_word.html"
+permalink: "/recipe/last_word"
 iconfile: last_word
 stars: 5
 base_spirits: "Gin, Green Chartreuse, Maraschino Liqueur"

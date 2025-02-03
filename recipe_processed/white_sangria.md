@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "White Sangria"
 categories: [punch]
 eras: [classic]
-permalink: "/recipe/white_sangria.html"
+permalink: "/recipe/white_sangria"
 iconfile: white_sangria
 stars: 0
 base_spirits: "Apricot Liqueur, Fino Sherry, White Wine"

@@ -2,7 +2,7 @@
 layout: recipe
 title: "Guava Syrup"
 categories: [syrup]
-permalink: "/recipe/guava_syrup.html"
+permalink: "/recipe/guava_syrup"
 iconfile: guava_syrup
 stars: 5
 base_spirits: "White Sugar, Guava Pulp"

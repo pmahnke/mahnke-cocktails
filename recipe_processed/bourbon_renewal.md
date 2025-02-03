@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Bourbon Renewal"
 categories: [sour]
 eras: [modern]
-permalink: "/recipe/bourbon_renewal.html"
+permalink: "/recipe/bourbon_renewal"
 iconfile: bourbon_renewal
 stars: 0
 base_spirits: "Bourbon, Crème de Cassis "

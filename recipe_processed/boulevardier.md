@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Boulevardier"
 categories: [campari, cocktail]
 eras: [prohibition]
-permalink: "/recipe/boulevardier.html"
+permalink: "/recipe/boulevardier"
 iconfile: boulevardier
 stars: 4
 base_spirits: "Bourbon, Campari"

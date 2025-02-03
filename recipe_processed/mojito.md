@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Mojito"
 categories: [fizz]
 eras: [classic]
-permalink: "/recipe/mojito.html"
+permalink: "/recipe/mojito"
 iconfile: mojito
 stars: 4
 base_spirits: "Light Rum "

@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Tartan"
 categories: [cocktail]
 eras: [anders]
-permalink: "/recipe/tartan.html"
+permalink: "/recipe/tartan"
 iconfile: tartan
 stars: 0
 base_spirits: "Single Malt Scotch, Amaro, Drambuie "

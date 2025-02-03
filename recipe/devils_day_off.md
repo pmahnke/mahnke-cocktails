@@ -2,9 +2,9 @@
 layout: recipe
 author: Anders Erickson
 title: "Devil's Day Off"
-categories: [ mocktail ]
-eras: [ anders ]
-permalink: "/recipe/devils_day_off.html"
+categories: [mocktail]
+eras: [anders]
+permalink: "/recipe/devils_day_off"
 iconfile: devils_day_off
 stars: 0
 base_spirits: "Citrus, Bitter Red Soda"

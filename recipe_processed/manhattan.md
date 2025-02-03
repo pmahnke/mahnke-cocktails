@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Manhattan"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/manhattan.html"
+permalink: "/recipe/manhattan"
 iconfile: manhattan
 stars: 3
 base_spirits: Rye

@@ -2,9 +2,9 @@
 layout: recipe
 author: Anders Erickson
 title: "Applejack Rabbit"
-categories: [ sour ]
-eras: [ prohibition ]
-permalink: "/recipe/applejack_rabbit.html"
+categories: [sour]
+eras: [prohibition]
+permalink: "/recipe/applejack_rabbit"
 iconfile: applejack_rabbit
 stars: 0
 base_spirits: "Apple Brandy"

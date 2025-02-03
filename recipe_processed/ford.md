@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Ford"
 categories: [martini]
 eras: [classic]
-permalink: "/recipe/ford.html"
+permalink: "/recipe/ford"
 iconfile: ford
 stars: 3
 base_spirits: "Old Tom Gin, Bénédictine"

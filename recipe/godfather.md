@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "The Godfather"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/godfather.html"
+permalink: "/recipe/godfather"
 iconfile: godfather
 stars: 3
 base_spirits: "Single Malt Scotch "

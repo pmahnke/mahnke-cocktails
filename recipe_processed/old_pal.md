@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Old Pal"
 eras: [prohibition]
 categories: [campari, cocktail]
-permalink: "/recipe/old_pal.html"
+permalink: "/recipe/old_pal"
 iconfile: old_pal
 stars: 3
 base_spirits: "Rye, Campari "
