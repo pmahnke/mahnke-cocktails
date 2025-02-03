@@ -6,3 +6,6 @@ vendor
 Gemfile.lock
 .DS_store
 *.*~
+OldGemfile.lock
+OldGemfile
+Gemfile

@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-grenadine.svg
+      title: Grenadine
     - url: /cocktails/assets/images/ingredient-lemon-juice.svg
       title: Lemon juice
   tool:

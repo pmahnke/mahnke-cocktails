@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-coffee-liqueur.svg
       title: Coffee liqueur
+    - url: /cocktails/assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican rum
   tool:
     - url: /cocktails/assets/images/tool_grater.svg
       title: Grater

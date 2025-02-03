@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /cocktails/assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot liqueur
     - url: /cocktails/assets/images/ingredient-irish-whiskey.svg
       title: Irish whiskey
     - url: /cocktails/assets/images/ingredient-sherry.svg
