@@ -74,7 +74,7 @@ excerpt: |
     'text': '- Special Prep: Heat the alcohol in a non-reactive pot, but do not boil. Add sugar and spices in a pouch. Simmer for20 minutes. Take off the heat and add raisins. Let rest for one hour. Remove spice bag and serve hot.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

@@ -65,7 +65,7 @@ excerpt: |
     'text': '- Special Prep: Float the Ppeychaud's on the top of the cocktail.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

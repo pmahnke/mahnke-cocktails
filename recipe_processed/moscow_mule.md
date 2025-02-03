@@ -74,7 +74,7 @@ excerpt: |
     'text': '- Special Prep: Pour in the vodka, lime juice and bitters then top with the ginger beer.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

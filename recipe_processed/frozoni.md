@@ -68,7 +68,7 @@ excerpt: |
     'text': '- Special Prep: Add 0.75 cup of crushed ice to the tin. Blend cocktail with a stick blender in the shaking tin.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

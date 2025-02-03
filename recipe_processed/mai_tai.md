@@ -70,7 +70,7 @@ excerpt: |
     'text': '- Special Prep: Add the mint sprig to the glass. Float the dark rum on the drink. Add the inverted lime shell and place the cocktail cherry inside. fill the lime shell with 151 rum and light.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

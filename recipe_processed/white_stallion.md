@@ -64,7 +64,7 @@ excerpt: |
     'text': '- Special Prep: Add the gin, orange liqueur and ice cream to a shaking tin and shake till the ice cream has melted and the cocktail is chilled. Add champagne to the flute, then add the cocktail.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

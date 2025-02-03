@@ -74,7 +74,7 @@ excerpt: |
     'text': '- Special Prep: Add the sugar cube, soda water and bitters to the glass and muddle them into a fine paste. Then add the rye whiskey amd ice and stir. Expressed lemon oil over the cocktail.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

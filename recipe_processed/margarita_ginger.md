@@ -47,7 +47,7 @@ Glassware:
   "0.25 oz Ginger Syrup"],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

@@ -76,7 +76,7 @@ excerpt: |
     'text': '- Special Prep: Muddle the ginger slices in the shaker tin until mushy. Then add the other ingredients, ice and shake.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

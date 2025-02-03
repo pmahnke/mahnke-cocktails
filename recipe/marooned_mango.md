@@ -9,6 +9,8 @@ iconfile: marooned_mango
 stars: 4
 base_spirits: "Cachaça, Mango Liqueur"
 youtube: "xnXFbjQSu-k"
+excerpt: |
+  The Marooned Mango is a delightful tropical cocktail that is perfect for those seeking a sweet, tangy, and refreshing drink. Its vibrant color and fruity flavors make it a visually appealing and delicious choice for any occasion.
 ---
 
 ### Ingredients

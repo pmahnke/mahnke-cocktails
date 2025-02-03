@@ -66,7 +66,7 @@ excerpt: |
     'text': '- Special Prep: Start by adding your gin, lime and simple syrup to a cocktail shaker then drop in 2-3 cucumber slices and firmly muddle into the liquid. Once muddled, and 6 mint leaves and lightly crush them with your muddler. Add ice, shake for 10 seconds, and double strain into a chilled cocktail glass. Finish it off with a cool cucumber garnish, or drop in a floating mint leaf.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

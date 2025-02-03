@@ -68,7 +68,7 @@ excerpt: |
     'text': '- Special Prep: Add the basil and cucumber wheels to the cheater tin and muddle into a paste. Add other ingredients to the large tin and add ice. Combine the contents of both tins, and shake.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

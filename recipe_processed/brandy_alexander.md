@@ -62,7 +62,7 @@ excerpt: |
     'text': '- Special Prep: For an extra decadent alexander, substitute 2 scoops of vanilla ice cream for the cream. To mix, combine in a blender with half a scoop of ice for a frozen brandy alexander.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

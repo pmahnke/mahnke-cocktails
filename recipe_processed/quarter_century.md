@@ -64,7 +64,7 @@ excerpt: |
     'text': '- Special Prep: Pour cocktail into the coupe and top with champagne. Then express the lemon oil over the top of the cocktail.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

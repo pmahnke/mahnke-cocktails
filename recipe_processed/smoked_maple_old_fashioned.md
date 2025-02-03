@@ -72,7 +72,7 @@ excerpt: |
     'text': '- Special Prep: Smoke the low ball glass with wood smoke. Express the orange zest over the cocktail.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

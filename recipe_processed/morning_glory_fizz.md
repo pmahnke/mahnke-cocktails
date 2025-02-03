@@ -70,7 +70,7 @@ excerpt: |
     'text': '- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg white. Add one ounce of soda water to the glass. Add the cocktail and expressed orange oil.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

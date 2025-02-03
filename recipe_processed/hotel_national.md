@@ -66,7 +66,7 @@ excerpt: |
     'text': '- Special Prep: Let the cocktail rest to allow for the foam to subside before floating the lime wheel on top.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

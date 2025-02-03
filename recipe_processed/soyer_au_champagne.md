@@ -66,7 +66,7 @@ excerpt: |
     'text': '- Special Prep: Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass. Freeze for 15 to 20 minutes. Pour cocktail around the ice cream. Top with 1 to 1.5 ounces of champagne. Serve with a small spoon.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

@@ -66,7 +66,7 @@ excerpt: |
     'text': '- Special Prep: Dice the apple piece into 1/2 inch pieces, and drop them into the shaker tin. Muddle the apple piece in the shaker tin.
 '
   }",
-  "recipeYield": "1 to 3 cocktails",
+  "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",

@@ -9,7 +9,7 @@ iconfile: old_fashioned
 stars: 3
 base_spirits: "Bourbon"
 youtube: "pdcrJ5V7YKM"
-ercerpt: |
+excerpt: |
   The Old Fashioned is arguably the most well-known whiskey cocktail in the world. Essentially just a slug of bourbon that’s been lightly sweetened with sugar and modified with a couple dashes of bitters, it’s dead simple to make, but within this basic template is a world of opinions and flavor.<br><br>
 
   The Old Fashioned as we know it comes from an early mixed drink simply called the Whiskey Cocktail, thought to be popularized in the late 1700s when it was fashionable to add a few dashes of bitters to a glass of whiskey. The cocktail’s creation goes hand in hand with the proliferation of both whiskey and commercial bitters, an aromatic ingredient with medicinal origins that involved steeping herbs, barks, botanicals, and other plant extracts in spirits to create a curative that could be mixed with water or other ingredients, often to aid in digestion.
