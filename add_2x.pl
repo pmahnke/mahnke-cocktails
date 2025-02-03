@@ -122,8 +122,14 @@ while (my $file = readdir DIR) {
   "recipeIngredient": [$s_ingredient],
   "name": "{{ page.title }}",
   "recipeInstructions": "$s_instructions",
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail"
+  "recipeYield": "1 to 3 cocktails",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
 }
 </script>
 

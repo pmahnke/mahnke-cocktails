@@ -1,0 +1,12 @@
+{%- assign rating = site.data.ratings[page.iconfile].ratings -%}
+{%- assign sum = 0 -%}
+{%- assign average = 0 -%}
+{%- assign sz = rating | size -%}
+{%- if sz > 0 -%}
+  {%- for r in rating -%}
+    {%- assign sum = sum | plus: r.rating -%}
+  {%- endfor -%}
+{%- assign sum = sum | times: 1.0 -%}
+{%- assign average = sum | divided_by: sz -%}
+{{ average }}
+{%- endif -%}

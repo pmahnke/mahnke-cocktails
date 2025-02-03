@@ -13,10 +13,10 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                            Amount | Ingredient           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------- |
-| <span class="onex active">400 grams </span> <span class="onehalfx">600 grams </span> <span class="twox">800 grams </span> <span class="threex">1200 grams </span> | White Sugar          |
-|  <span class="onex active">200 grams </span> <span class="onehalfx">300 grams </span> <span class="twox">400 grams </span> <span class="threex">600 grams </span> | Strong Earl Grey Tea |
+|    Amount | Ingredient           |
+| --------: | -------------------- |
+| <span class="onex active">400 grams </span> <span class="onehalfx">600 grams </span> <span class="twox">800 grams </span> <span class="threex">1200 grams </span>| White Sugar          |
+| <span class="onex active">200 grams </span> <span class="onehalfx">300 grams </span> <span class="twox">400 grams </span> <span class="threex">600 grams </span>| Strong Earl Grey Tea |
 
 ### Method:
 
@@ -25,18 +25,27 @@ excerpt: |
 3. Over low heat, stir until sugar is dissolved (don't boil!).
 4. Remove from heat and let cool.
 
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  "400 grams White Sugar ",
   "200 grams Strong Earl Grey Tea"],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail"
+  "recipeYield": "1 to 3 cocktails",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
 }
 </script>
+
+    

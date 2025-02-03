@@ -15,12 +15,12 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                                                                                                                                                                  Amount | Ingredient | Brand                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------- | ---------------------------- |
-|                                                                                          <span class="onex active">5 oz / 125 ml</span> <span class="onehalfx">7 <sup>1</sup>&frasl;<sub>2</sub> oz / 188 ml</span> <span class="twox">10 oz / 250 ml</span> <span class="threex">15 oz / 375 ml</span> | Champagne  | Laurent-Perrier ""La Cuvée"" |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> | Cognac     | Maison Rouge V.S.O.P.        |
-|                                                                                                                    <span class="onex active">1 cube </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cube </span> <span class="twox">2 cube </span> <span class="threex">3 cube </span> | Sugar      | Brown or White               |
-|                                                                                                                                            <span class="onex active">10 drops </span> <span class="onehalfx">15 drops </span> <span class="twox">20 drops </span> <span class="threex">30 drops </span> | Bitters    | Angostura Aromatic Bitters   |
+|   Amount | Ingredient | Brand                        |
+| -------: | ---------- | ---------------------------- |
+|     <span class="onex active">5 oz  / 125 ml</span> <span class="onehalfx">7 <sup>1</sup>&frasl;<sub>2</sub> oz  / 188 ml</span> <span class="twox">10 oz  / 250 ml</span> <span class="threex">15 oz  / 375 ml</span>| Champagne  | Laurent-Perrier ""La Cuvée"" |
+|  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Cognac     | Maison Rouge V.S.O.P.        |
+|   <span class="onex active">1 cube </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cube </span> <span class="twox">2 cube </span> <span class="threex">3 cube </span>| Sugar      | Brown or White               |
+| <span class="onex active">10 drops </span> <span class="onehalfx">15 drops </span> <span class="twox">20 drops </span> <span class="threex">30 drops </span>| Bitters    | Angostura Aromatic Bitters   |
 
 ### Notes
 
@@ -30,13 +30,14 @@ excerpt: |
 - Garnish: Expressed oils of a lemon swath and an orange swath
 - Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne.
 
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  "5 oz Champagne ",
   " 0.75 oz Cognac",
   "1 cube Sugar ",
@@ -63,7 +64,15 @@ excerpt: |
     'text': '- Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne.
 '
   }",
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail"
+  "recipeYield": "1 to 3 cocktails",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
 }
 </script>
+
+    

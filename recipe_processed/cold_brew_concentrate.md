@@ -13,10 +13,10 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                                               Amount | Ingredient             |
-| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------- |
-| <span class="onex active">1 part </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> part </span> <span class="twox">2 part </span> <span class="threex">3 part </span> | Coarsely Ground Coffee |
-|                          <span class="onex active">8 parts </span> <span class="onehalfx">12 parts </span> <span class="twox">16 parts </span> <span class="threex">24 parts </span> | Water                  |
+|  Amount | Ingredient             |
+| ------: | ---------------------- |
+|  <span class="onex active">1 part </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> part </span> <span class="twox">2 part </span> <span class="threex">3 part </span>| Coarsely Ground Coffee |
+| <span class="onex active">8 parts </span> <span class="onehalfx">12 parts </span> <span class="twox">16 parts </span> <span class="threex">24 parts </span>| Water                  |
 
 ### Method
 
@@ -24,18 +24,27 @@ excerpt: |
 2. Stir to combine. Seal and store in fridge for 12-14 hours.
 3. Strain off coffee grounds.
 
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  " 1 part Coarsely Ground Coffee",
   "8 parts Water "],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail"
+  "recipeYield": "1 to 3 cocktails",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
 }
 </script>
+
+    

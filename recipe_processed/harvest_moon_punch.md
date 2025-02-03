@@ -15,15 +15,15 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                                                                          Amount | Ingredient                                                         | Brand                   |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------ | ----------------------- |
-|                                <span class="onex active">12 oz / 300 ml</span> <span class="onehalfx">18 oz / 450 ml</span> <span class="twox">24 oz / 600 ml</span> <span class="threex">36 oz / 900 ml</span> | Jamaican Rum                                                       | Appleton Estate 12 Year |
-| <span class="onex active">9 oz / 225 ml</span> <span class="onehalfx">13 <sup>1</sup>&frasl;<sub>2</sub> oz / 338 ml</span> <span class="twox">18 oz / 450 ml</span> <span class="threex">27 oz / 675 ml</span> | Apple Brandy                                                       | Laird’s BIB Straight    |
-|                                  <span class="onex active">6 oz / 150 ml</span> <span class="onehalfx">9 oz / 225 ml</span> <span class="twox">12 oz / 300 ml</span> <span class="threex">18 oz / 450 ml</span> | Orchard Pear Liqueur                                               | Rothman & Winter        |
-|     <span class="onex active">3 oz / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Allspice Dram                                                      | St. Elizabeth           |
-|                                  <span class="onex active">6 oz / 150 ml</span> <span class="onehalfx">9 oz / 225 ml</span> <span class="twox">12 oz / 300 ml</span> <span class="threex">18 oz / 450 ml</span> | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |                         |
-| <span class="onex active">9 oz / 225 ml</span> <span class="onehalfx">13 <sup>1</sup>&frasl;<sub>2</sub> oz / 338 ml</span> <span class="twox">18 oz / 450 ml</span> <span class="threex">27 oz / 675 ml</span> | Fresh Lemon Juice                                                  |                         |
-|                          <span class="onex active">24 oz. / 600 ml</span> <span class="onehalfx">36 oz. / 900 ml</span> <span class="twox">48 oz. / 1200 ml</span> <span class="threex">72 oz. / 1800 ml</span> | Black Tea (chilled)                                                |                         |
+| Amount | Ingredient                                               | Brand                   |
+| -----: | -------------------------------------------------------- | ----------------------- |
+|  <span class="onex active">12 oz  / 300 ml</span> <span class="onehalfx">18 oz  / 450 ml</span> <span class="twox">24 oz  / 600 ml</span> <span class="threex">36 oz  / 900 ml</span>| Jamaican Rum                                             | Appleton Estate 12 Year |
+|   <span class="onex active">9 oz  / 225 ml</span> <span class="onehalfx">13 <sup>1</sup>&frasl;<sub>2</sub> oz  / 338 ml</span> <span class="twox">18 oz  / 450 ml</span> <span class="threex">27 oz  / 675 ml</span>| Apple Brandy                                             | Laird’s BIB Straight    |
+|   <span class="onex active">6 oz  / 150 ml</span> <span class="onehalfx">9 oz  / 225 ml</span> <span class="twox">12 oz  / 300 ml</span> <span class="threex">18 oz  / 450 ml</span>| Orchard Pear Liqueur                                     | Rothman & Winter        |
+|   <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Allspice Dram                                            | St. Elizabeth           |
+|   <span class="onex active">6 oz  / 150 ml</span> <span class="onehalfx">9 oz  / 225 ml</span> <span class="twox">12 oz  / 300 ml</span> <span class="threex">18 oz  / 450 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |                         |
+|   <span class="onex active">9 oz  / 225 ml</span> <span class="onehalfx">13 <sup>1</sup>&frasl;<sub>2</sub> oz  / 338 ml</span> <span class="twox">18 oz  / 450 ml</span> <span class="threex">27 oz  / 675 ml</span>| Fresh Lemon Juice                                        |                         |
+| <span class="onex active">24 oz.  / 600 ml</span> <span class="onehalfx">36 oz.  / 900 ml</span> <span class="twox">48 oz.  / 1200 ml</span> <span class="threex">72 oz.  / 1800 ml</span>| Black Tea (chilled)                                      |                         |
 
 ### Notes
 
@@ -33,13 +33,14 @@ excerpt: |
 - Garnish: Grated nutmeg
 - Special Prep: Add large ice cubes of black tea and apple slices
 
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  " 12 oz Jamaican Rum",
   "9 oz Apple Brandy",
   "6 oz Orchard Pear Liqueur",
@@ -69,7 +70,15 @@ excerpt: |
     'text': '- Special Prep: Add large ice cubes of black tea and apple slices
 '
   }",
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail"
+  "recipeYield": "1 to 3 cocktails",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
 }
 </script>
+
+    

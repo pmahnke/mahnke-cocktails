@@ -16,13 +16,13 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                                                                                                                                    Amount | Ingredient       | Brand                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------- | -------------------------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> | Jamaican Rum     | Appleton 12yr Rum          |
-|                                                                                                                                                                                                                                         <sup>3</sup>&frasl;<sub>4</sub>oz | Green Chartreuse | Green Chartreuse           |
-|                                                                                                                                                                                                                                         <sup>3</sup>&frasl;<sub>4</sub>oz | Falernum         | Velvet Falernum            |
-|                                                                                                                                                                                                                                         <sup>3</sup>&frasl;<sub>4</sub>oz | Fresh Lime Juice |
-|                                                                                                              <span class="onex active">10 dashes</span> <span class="onehalfx">15 dashes</span> <span class="twox">20 dashes</span> <span class="threex">30 dashes</span> | Bitters          | Angostura Aromatic Bitters |
+|    Amount | Ingredient       | Brand                      |
+| --------: | ---------------- | -------------------------- |
+|    <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Jamaican Rum     | Appleton 12yr Rum          |
+|     <sup>3</sup>&frasl;<sub>4</sub>oz | Green Chartreuse | Green Chartreuse           |
+|     <sup>3</sup>&frasl;<sub>4</sub>oz | Falernum         | Velvet Falernum            |
+|     <sup>3</sup>&frasl;<sub>4</sub>oz | Fresh Lime Juice |
+| <span class="onex active">10 dashes</span> <span class="onehalfx">15 dashes</span> <span class="twox">20 dashes</span> <span class="threex">30 dashes</span>| Bitters          | Angostura Aromatic Bitters |
 
 ### Notes
 
@@ -34,13 +34,14 @@ excerpt: |
 - Garnish: Mint Sprig
 - Special Prep: Dry shake the cocktail and pour over crushed ice. Top with Angostura Bitters.
 
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  " 1.5 oz Jamaican Rum",
   " 0.75oz Green Chartreuse",
   " 0.75oz Falernum",
@@ -76,7 +77,15 @@ excerpt: |
     'text': '- Special Prep: Dry shake the cocktail and pour over crushed ice. Top with Angostura Bitters.
 '
   }",
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail"
+  "recipeYield": "1 to 3 cocktails",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
 }
 </script>
+
+    

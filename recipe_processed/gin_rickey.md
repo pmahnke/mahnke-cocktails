@@ -21,11 +21,11 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                                                                                                                                    Amount | Ingredient      | Brand          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------- | -------------- |
-|                                                                                      <span class="onex active">1 half </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> half </span> <span class="twox">2 half </span> <span class="threex">3 half </span> | Lime            |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz / 56 ml</span> <span class="twox">3 oz / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> | Gin             | Martin Millers |
-|                                                               <span class="onex active">3 oz / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz / 113 ml</span> <span class="twox">6 oz / 150 ml</span> <span class="threex">9 oz / 225 ml</span> | Sparkling Water | Topo Chico     |
+| Amount | Ingredient      | Brand          |
+| -----: | --------------- | -------------- |
+| <span class="onex active">1 half </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> half </span> <span class="twox">2 half </span> <span class="threex">3 half </span>| Lime            |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Gin             | Martin Millers |
+|   <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Sparkling Water | Topo Chico     |
 
 #### Notes
 
@@ -43,13 +43,14 @@ excerpt: |
   - Top with the sparkling water
   - Feel free to swap out the base spirit
 
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  "1 half Lime ",
   "1.5 oz Gin",
   "3 oz Sparkling Water"],
@@ -107,7 +108,15 @@ excerpt: |
     'text': '  - Feel free to swap out the base spirit
 '
   }",
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail"
+  "recipeYield": "1 to 3 cocktails",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
 }
 </script>
+
+    

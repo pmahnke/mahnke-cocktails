@@ -1,0 +1,1 @@
+{%- if page.categories %}{% for p in page.categories %}{% assign c = site.data.categories | where: "slug", p | first %}{{ c.name }} cocktail{% if forloop.last %}{% else %}, {% endif %}{% endfor %}{% endif -%}

@@ -13,11 +13,11 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                        Amount | Ingredient       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------- |
-|          <span class="onex active">150 ml </span> <span class="onehalfx">225 ml </span> <span class="twox">300 ml </span> <span class="threex">450 ml </span> | Wildflower Honey |
-|            <span class="onex active">50 ml </span> <span class="onehalfx">75 ml </span> <span class="twox">100 ml </span> <span class="threex">150 ml </span> | Boiling Water    |
-| <span class="onex active">4 leaves </span> <span class="onehalfx">6 leaves </span> <span class="twox">8 leaves </span> <span class="threex">12 leaves </span> | Sage             |
+|   Amount | Ingredient       |
+| -------: | ---------------- |
+|   <span class="onex active">150 ml </span> <span class="onehalfx">225 ml </span> <span class="twox">300 ml </span> <span class="threex">450 ml </span>| Wildflower Honey |
+|    <span class="onex active">50 ml </span> <span class="onehalfx">75 ml </span> <span class="twox">100 ml </span> <span class="threex">150 ml </span>| Boiling Water    |
+| <span class="onex active">4 leaves </span> <span class="onehalfx">6 leaves </span> <span class="twox">8 leaves </span> <span class="threex">12 leaves </span>| Sage             |
 
 ### Method:
 
@@ -26,19 +26,28 @@ excerpt: |
 3. Remove from heat and steep for up to 24 hours.
 4. After 24 hours, remove sage leaves and store sealed in the fridge for up to 2 months.
 
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  "150 ml Wildflower Honey",
   " 50 ml Boiling Water ",
   "4 leaves Sage"],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail"
+  "recipeYield": "1 to 3 cocktails",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
 }
 </script>
+
+    

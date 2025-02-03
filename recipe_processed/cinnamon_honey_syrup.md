@@ -13,11 +13,11 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                            Amount | Ingredient    |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------- |
-| <span class="onex active">0.67 cups </span> <span class="onehalfx">1.005 cups </span> <span class="twox">1.34 cups </span> <span class="threex">2.01 cups </span> | Honey         |
-| <span class="onex active">0.33 cups </span> <span class="onehalfx">0.495 cups </span> <span class="twox">0.66 cups </span> <span class="threex">0.99 cups </span> | Boiling Water |
-|      <span class="onex active">2 sticks </span> <span class="onehalfx">3 sticks </span> <span class="twox">4 sticks </span> <span class="threex">6 sticks </span> | Cinnamon      |
+|    Amount | Ingredient    |
+| --------: | ------------- |
+| <span class="onex active">0.67 cups </span> <span class="onehalfx">1.005 cups </span> <span class="twox">1.34 cups </span> <span class="threex">2.01 cups </span>| Honey         |
+| <span class="onex active">0.33 cups </span> <span class="onehalfx">0.495 cups </span> <span class="twox">0.66 cups </span> <span class="threex">0.99 cups </span>| Boiling Water |
+|  <span class="onex active">2 sticks </span> <span class="onehalfx">3 sticks </span> <span class="twox">4 sticks </span> <span class="threex">6 sticks </span>| Cinnamon      |
 
 ### Method
 
@@ -26,19 +26,28 @@ excerpt: |
 3. Cover and simmer over low heat for 20-30 minutes (don't boil!).
 4. Once cooled, remove cinnamon sticks.
 
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  "0.67 cups Honey",
   "0.33 cups Boiling Water",
   " 2 sticks Cinnamon "],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail"
+  "recipeYield": "1 to 3 cocktails",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
 }
 </script>
+
+    

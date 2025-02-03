@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                                                                                                                                                             Amount | Ingredient                                                          | Brand                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------- | --------------------- |
-|                                                                                                                         <span class="onex active">2 oz / 50 ml</span> <span class="onehalfx">3 oz / 75 ml</span> <span class="twox">4 oz / 100 ml</span> <span class="threex">6 oz / 150 ml</span> | Rye                                                                 | Rittenhouse 100 proof |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz / 19 ml</span> | [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |                       |
-|                                                                                                           <span class="onex active">3 dashes</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span> | Cardamom Bitters                                                    | Fee Brothers          |
-|                                                                                               <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span> | Maraschino Liqueur                                                  | Luxardo               |
-|                                                                                       <span class="onex active">1 to 2 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> to 3 dashes</span> <span class="twox">2 to 4 dashes</span> <span class="threex">3 to 6 dashes</span> | Absinthe                                                            | St. George            |
+|        Amount | Ingredient                                                | Brand                 |
+| ------------: | --------------------------------------------------------- | --------------------- |
+|          <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Rye                                                       | Rittenhouse 100 proof |
+|       <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |                       |
+|      <span class="onex active">3 dashes</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>| Cardamom Bitters                                          | Fee Brothers          |
+|    <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Maraschino Liqueur                                        | Luxardo               |
+| <span class="onex active">1 to 2 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> to 3 dashes</span> <span class="twox">2 to 4 dashes</span> <span class="threex">3 to 6 dashes</span>| Absinthe                                                  | St. George            |
 
 ### Notes
 
@@ -31,13 +31,14 @@ excerpt: |
 - Garnish: Expressed lemon oil and peel
 - Special Prep: None
 
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  " 2 oz Rye",
   "0.25 oz Semi-Rich Simple Syrup",
   " 3 dashes Cardamom Bitters ",
@@ -65,7 +66,15 @@ excerpt: |
     'text': '- Special Prep: None
 '
   }",
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail"
+  "recipeYield": "1 to 3 cocktails",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
 }
 </script>
+
+    

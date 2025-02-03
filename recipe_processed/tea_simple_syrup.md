@@ -12,11 +12,11 @@ excerpt: |
 
 ### Ingredients
 
-|                                                                                                                                                                                   Amount | Ingredient  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------- |
-|                   <span class="onex active">6 tea bags </span> <span class="onehalfx">9 tea bags </span> <span class="twox">12 tea bags </span> <span class="threex">18 tea bags </span> | Black Tea   |
-| <span class="onex active">2 cups / 400 ml </span> <span class="onehalfx">3 cups / 400 ml </span> <span class="twox">4 cups / 400 ml </span> <span class="threex">6 cups / 400 ml </span> | Hot Water   |
-|     <span class="onex active">2 cups / 400 g </span> <span class="onehalfx">3 cups / 400 g </span> <span class="twox">4 cups / 400 g </span> <span class="threex">6 cups / 400 g </span> | White Sugar |
+|          Amount | Ingredient  |
+| --------------: | ----------- |
+|      <span class="onex active">6 tea bags </span> <span class="onehalfx">9 tea bags </span> <span class="twox">12 tea bags </span> <span class="threex">18 tea bags </span>| Black Tea   |
+| <span class="onex active">2 cups / 400 ml </span> <span class="onehalfx">3 cups / 400 ml </span> <span class="twox">4 cups / 400 ml </span> <span class="threex">6 cups / 400 ml </span>| Hot Water   |
+|  <span class="onex active">2 cups / 400 g </span> <span class="onehalfx">3 cups / 400 g </span> <span class="twox">4 cups / 400 g </span> <span class="threex">6 cups / 400 g </span>| White Sugar |
 
 ### Method
 
@@ -25,19 +25,28 @@ excerpt: |
 3. Stir over low heat until sugar is completely dissolved.
 4. Remove from heat.
 
+    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{%- for ingredient in site.data[page.iconfile].images.ingredient limit: 1 -%}{{ ingredient.url }}{%- endfor -%}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  " 6 tea bags Black Tea",
   "2 cups / 400 ml Hot Water",
   " 2 cups / 400 g White Sugar"],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail"
+  "recipeYield": "1 to 3 cocktails",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
 }
 </script>
+
+    
