@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Brambubble"
+author: "Anders Erickson"
 categories: [champagne]
 eras: [anders]
 permalink: "/recipe/brambubble/"

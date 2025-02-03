@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Peach & Sage Smash"
+author: "Anders Erickson"
 eras: [modern]
 categories: [smash]
 permalink: "/recipe/peach_sage_smash/"

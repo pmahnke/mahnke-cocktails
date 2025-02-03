@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Chicago Cocktail"
+author: "Anders Erickson"
 categories: [champagne]
 eras: [prohibition]
 permalink: "/recipe/chicago_cocktail/"

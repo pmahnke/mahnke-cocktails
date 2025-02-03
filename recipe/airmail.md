@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Airmail"
+author: "Anders Erickson"
 categories: [champagne, cocktail]
 eras: [classic]
 permalink: "/recipe/airmail/"

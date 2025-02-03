@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Whiskey Sour"
+author: "Anders Erickson"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/whiskey_sour/"

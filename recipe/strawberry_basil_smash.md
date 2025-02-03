@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: "Strawberry Basil Smash"
+author: "Anders Erickson"
 eras: [classic]
 categories: [smash]
 permalink: "/recipe/strawberry_basil_smash/"
