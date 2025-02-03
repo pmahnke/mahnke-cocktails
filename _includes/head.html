@@ -19,6 +19,11 @@
     <meta name="description" content="{{ page.excerpt | strip_html | replace: '"', "'" | truncatewords: 150 }}">
     <meta property="og:description" content="{{ page.excerpt | strip_html | replace: '"', "'" | truncatewords: 150 }}">
 
+    {%- if page.url -%}
+    {%- assign canonical_url = site.url | append: page.url -%}
+    <link rel="canonical" href="{{ canonical_url | replace:'index.html','' | replace:'index.md','' }}">
+    {%- endif %}
+
     <link rel="stylesheet" media="screen" type="text/css" href="{{ site.baseurl }}/assets/css/normalize.css">
     <link rel="stylesheet" media="screen" type="text/css" href="{{ site.baseurl }}/assets/css/barebones.css">
     <link rel="stylesheet" media="screen" type="text/css" href="{{ site.baseurl }}/assets/css/skeleton-legacy.css">
