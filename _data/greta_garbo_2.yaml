@@ -15,7 +15,5 @@ images:
     - url: /cocktails/assets/images/glass_nick-and-nora.svg
       title: Nick and nora
   garnish:
-    - url: /cocktails/assets/images/spice_anise.svg
-      title: Anise
     - url: /cocktails/assets/images/twist_lemon.svg
       title: Lemon twist
