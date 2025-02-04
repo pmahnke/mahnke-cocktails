@@ -1,8 +1,6 @@
 images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /cocktails/assets/images/ingredient-sloe-gin.svg
       title: Sloe gin
   tool:
     - url: /cocktails/assets/images/tool_double_strain.svg
