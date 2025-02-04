@@ -1,7 +1,7 @@
 ---
 layout: default-plain
-excerpt: "John's rating page"
-permalink: /rate/john.html
+excerpt: "John's Rating Page"
+permalink: /rate/john/
 ---
 
 <div class="grid_container full">
