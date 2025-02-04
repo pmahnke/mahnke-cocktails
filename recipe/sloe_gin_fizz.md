@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Sloe Gin Fizz"
-categories: [campari, fizz]
+categories: [fizz]
 eras: [classic]
 permalink: "/recipe/sloe_gin_fizz/"
 iconfile: sloe_gin_fizz

@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Sloe Gin Sour"
-categories: [sour]
+categories: [sour, campari]
 eras: [anders]
 permalink: "/recipe/sloe_gin_sour/"
 iconfile: sloe_gin_sour
