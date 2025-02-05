@@ -20,7 +20,7 @@ excerpt: |
 | ------: | --------------------------------------------------------- | ---------------- |
 |  1.5 oz | Gin                                                       | Plymouth         |
 | 0.25 oz | Absinthe                                                  | Pernod           |
-| 0.75 oz | Fresg Lemon Juice                                         |
+| 0.75 oz | Fresh Lemon Juice                                         |
 | 0.75 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |                  |
 | 0.75 oz | Egg White                                                 |                  |
 | 0.25 oz | Green Chartreuse                                          | Green Chartreuse |
