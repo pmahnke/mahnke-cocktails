@@ -1,9 +1,10 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Jerry Thomas
 title: "Improved Whiskey Cocktail"
 categories: [cocktail]
-eras: [modern]
+eras: [classic]
 permalink: "/recipe/improved_whiskey_cocktail/"
 iconfile: improved_whiskey_cocktail
 stars: 4
