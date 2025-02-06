@@ -1,7 +1,5 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-gin.svg
-      title: Gin
     - url: /cocktails/assets/images/ingredient-light-rum.svg
       title: Light rum
     - url: /cocktails/assets/images/ingredient-maraschino-liqueur.svg
@@ -17,5 +15,3 @@ images:
   garnish:
     - url: /cocktails/assets/images/spice_anise.svg
       title: Anise
-    - url: /cocktails/assets/images/twist_lemon.svg
-      title: Lemon twist
