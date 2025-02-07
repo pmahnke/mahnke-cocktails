@@ -1,0 +1,76 @@
+---
+layout: recipe
+author: Anders Erickson
+title: "Pink Gin"
+categories: [cocktail]
+eras: [classic]
+permalink: "/recipe/pink_gin/"
+iconfile: pink_gin
+stars: 0
+base_spirits: "Plymouth Gin, Angostura Aromatic Bitters"
+youtube: "PLi_quAjz8g"
+excerpt: |
+  Pink gin is widely thought to have been created by members of the Royal Navy. Plymouth gin is a 'sweet' gin, as opposed to London gin which is 'dry', and was added to Angostura bitters to make the consumption of Angostura bitters more enjoyable as they were used as a treatment for sea sickness in 1824 by Dr. Johann Gottlieb Benjamin Siegert.
+  <br><br>
+  The Royal Navy then brought the idea for the drink to bars in England, where this method of serving was first noted on the mainland. By the 1870s, gin was becoming increasingly popular and many of the finer establishments in England were serving pink gins.
+---
+
+### Ingredients
+
+|   Amount | Ingredient   | Brand                      |
+| -------: | ------------ | -------------------------- |
+|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Plymouth Gin | Plymouth Gin               |
+| <span class="onex active">4 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>| Bitters      | Angostura Aromatic Bitters |
+
+### Notes
+
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora
+- Garnish: None
+- Special Prep: Expressed lemon oil
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": "{{ page.author }}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "recipeIngredient": [  "2 oz Plymouth Gin",
+  "4 dashes Bitters "],
+  "name": "{{ page.title }}",
+  "recipeInstructions": "  {
+    '@type': 'HowToStep',
+    'text': '- Method: Stirred
+'
+  },  {
+    '@type': 'HowToStep',
+    'text': '- Pour: Julep Strain
+'
+  },  {
+    '@type': 'HowToStep',
+    'text': '- Glassware: Nick & Nora
+'
+  },  {
+    '@type': 'HowToStep',
+    'text': '- Garnish: None
+'
+  },  {
+    '@type': 'HowToStep',
+    'text': '- Special Prep: Expressed lemon oil
+'
+  }",
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  "recipeCuisine": "global",
+  "prepTime": "20 minutes",
+  "cookTime": "15 second",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "nutrition": "NA"
+}
+</script>
+
+    
