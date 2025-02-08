@@ -45,10 +45,10 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient                      | Brand |
-| -----: | ------------------------------- | ----- |
-|        | [NAME]({%link recipe/NAME.md%}) |       |
-|        |                                 |       |
+| Amount | Ingredient | Brand |
+| -----: | ---------- | ----- |
+|        |            |       |
+|        |            |       |
 
 ### Notes
 
