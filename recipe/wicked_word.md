@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Wicked Word"
 eras: [anders]
-categories: [daisy]
+categories: [sour]
 permalink: "/recipe/wicked_word/"
 iconfile: wicked_word
 stars: 0

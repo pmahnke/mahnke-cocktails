@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Naked & Famous"
 eras: [modern]
-categories: [daisy]
+categories: [sour]
 permalink: "/recipe/naked_and_famous/"
 iconfile: naked_and_famous
 stars: 0

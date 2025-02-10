@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Paper Plane"
-categories: [daisy]
+categories: [sour]
 eras: [modern]
 permalink: "/recipe/paper_plane/"
 iconfile: paper_plane

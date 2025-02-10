@@ -2,7 +2,7 @@
 layout: recipe
 author: Leandro DiMonriva
 title: "Shanghai Gin"
-categories: [daisy]
+categories: [sour]
 eras: [modern]
 permalink: "/recipe/shanghai_gin/"
 iconfile: shanghai_gin

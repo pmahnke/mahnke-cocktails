@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Final Ward"
 eras: [modern]
-categories: [daisy]
+categories: [sour]
 permalink: "/recipe/final_ward/"
 iconfile: final_ward
 stars: 3
