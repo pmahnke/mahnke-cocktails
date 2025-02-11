@@ -1,8 +1,8 @@
 ---
 layout: recipe
 author: Anders Erickson
-title: "Grasshopper, Blended"
-categories: [after_dinner]
+title: "Blended Grasshopper"
+categories: [after_dinner, ice_cream]
 eras: [modern]
 permalink: "/recipe/grasshopper/"
 iconfile: grasshopper
