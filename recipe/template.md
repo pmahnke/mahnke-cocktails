@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickson, Leandro DiMonriva
 title: "NAME"
 categories:
   [

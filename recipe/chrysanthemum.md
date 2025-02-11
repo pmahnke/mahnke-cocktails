@@ -27,7 +27,7 @@ excerpt: |
   <br>- 1/3 Bénédictine.
   <br>- 2/3 French Vermouth.
   <br>Shake well and strain into cocktail glass.  Squeeze orange peel on top.
-  <br>* Well-known and very popular in the American Bar of the S.S. " Europa."
+  <br>* Well-known and very popular in the American Bar of the S.S. "Europa."
   <br><cite>Harry Craddock, 1930</cite></blockquote>
   This cocktail may be named after <i>The Chrysanthemum</i>, a 1904 piece by the famous ragtime composer and pianist Scott Joplin and released on record in 1916.
 ---
