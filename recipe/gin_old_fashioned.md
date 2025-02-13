@@ -5,7 +5,7 @@ title: "Gin Old Fashioned"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/gin_old_fashioned/"
-iconfile: NAgin_old_fashionedME
+iconfile: gin_old_fashioned
 stars: 0
 base_spirits: "Old Tom Gin"
 youtube: "0rnil0_xFnM"
