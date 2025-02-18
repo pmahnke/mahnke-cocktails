@@ -15,12 +15,12 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient                                                          | Brand              |
-| -------: | ------------------------------------------------------------------- | ------------------ |
-|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Irish Whiskey                                                       | Red Breast 12 year |
-|  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Cocoa Nib Infused Campari]({%link recipe_processed/cocoa_nib_campari.md -%}) | Campari            |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| White Crème de Cacao                                                | Marie Brizard      |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Banane du Brésil                                                    | Giffard            |
+|   Amount | Ingredient                                                          | Brand                    |
+| -------: | ------------------------------------------------------------------- | ------------------------ |
+|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Irish Whiskey                                                       | Red Breast 12 year       |
+|  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Cocoa Nib Infused Campari]({%link recipe_processed/cocoa_nib_campari.md -%}) | Campari                  |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| White Crème de Cacao                                                | Marie Brizard            |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Banana Liquor                                                       | Giffard Banane du Brésil |
 | <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Absinthe                                                            |
 
 ### Notes
@@ -42,7 +42,7 @@ excerpt: |
   "recipeIngredient": [  "2 oz Irish Whiskey",
   " 0.75 oz Cocoa Nib Infused Campari",
   "0.5 oz White Crème de Cacao ",
-  "0.5 oz Banane du Brésil ",
+  "0.5 oz Banana Liquor",
   "2 dashes Absinthe "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
