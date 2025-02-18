@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Jerry Thomas
 title: "The Japanese Cocktail"
 categories: [cocktail]
 eras: [classic]
@@ -10,9 +11,15 @@ stars: 0
 base_spirits: "Cognac "
 youtube: "83TEnWyeqV0"
 excerpt: |
-  These seven inventive cocktails show off the versatility of the Japanese fermented rice beverage.<br><br>
-
-  The Japanese Cocktail is a classic cocktail created by Jerry Thomas in the 1800s. Despite its name, it has no connection to Japanese culture or ingredients.
+  Adapted from a recipe first published in Jerry "The Professor" Thomas' 1862 <i>Bartender's Guide</i>. This is one of the few cocktails in the book which is believed to be his own creation.
+  <blockquote class='long-form__quote border-heavy'><p><strong>Japanese Cocktail.</strong>
+  <br>(Use small bar glass.)
+  <br>1 table-spoon of orgeat syrup.
+  <br>½ teaspoonful of Bogart's bitters.
+  <br>1 wine-glass of brandy.
+  <br>1 or 2 pieces of lemon peel.
+  <br>Fill the tumbler one-third with ice, and stir well with a spoon.</blockquote>
+  It is thought that he created and named the drink in 1860 to commemorate the first Japanese mission to the USA. While in New York, the delegates stayed at the Metropolitan Hotel, just a block away from Jerry Thomas' bar at 622 Broadway. And as David Wondrich writes in his 2015 <i>Updated and Revised Imbibe!</i>, "I can't imagine that in their strolls around the neighbourhood, they wouldn't have stopped in to see the Professor for a quick one. And if you were Jerry Thomas, wouldn't you come up with something special to mark the occasion?"
 ---
 
 <div class="subrecipe" markdown="1">
