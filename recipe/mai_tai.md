@@ -23,7 +23,7 @@ excerpt: |
 |    1 oz | Fresh Lime Juice                                |
 |  0.5 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
 |  0.5 oz | Dark Rum                                        | Kōloa Kaua'i                          |
-| 0.25 oz | Over Proof Rum                                  | Bacardi 151                           |
+| 0.25 oz | Overproof Rum                                  | Bacardi 151                           |
 
 ### Notes
 
