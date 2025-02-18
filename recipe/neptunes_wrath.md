@@ -20,7 +20,7 @@ excerpt: |
 | ------: | --------------------------------------------------------- | ---------------- |
 |  1.5 oz | Gin                                                       | Plymouth         |
 | 0.25 oz | Absinthe                                                  | Pernod           |
-| 0.75 oz | Fresh Lemon Juice                                         |
+| 0.75 oz | Fresg Lemon Juice                                         |
 | 0.75 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |                  |
 | 0.75 oz | Egg White                                                 |                  |
 | 0.25 oz | Green Chartreuse                                          | Green Chartreuse |
@@ -36,3 +36,4 @@ excerpt: |
   - Strain cocktail into the glass.
   - Light the Green Chartreuse on fire in the jigger, and float on top of the cocktail
   - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
+/Users/john/Documents/GitHub/mahnke-cocktails/recipe/neptunes_wrath.md

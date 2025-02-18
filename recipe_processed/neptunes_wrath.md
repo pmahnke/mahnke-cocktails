@@ -20,7 +20,7 @@ excerpt: |
 | ------: | --------------------------------------------------------- | ---------------- |
 |  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Gin                                                       | Plymouth         |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Absinthe                                                  | Pernod           |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice                                         |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresg Lemon Juice                                         |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |                  |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Egg White                                                 |                  |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Green Chartreuse                                          | Green Chartreuse |
@@ -36,7 +36,7 @@ excerpt: |
   - Strain cocktail into the glass.
   - Light the Green Chartreuse on fire in the jigger, and float on top of the cocktail
   - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
-
+/Users/john/Documents/GitHub/mahnke-cocktails/recipe/neptunes_wrath.md
     
 <script type="application/ld+json">
 {
@@ -47,7 +47,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  " 1.5 oz Gin",
   "0.25 oz Absinthe ",
-  "0.75 oz Fresh Lemon Juice",
+  "0.75 oz Fresg Lemon Juice",
   "0.75 oz Semi-Rich Simple Syrup",
   "0.75 oz Egg White",
   "0.25 oz Green Chartreuse "],
@@ -88,6 +88,9 @@ excerpt: |
     '@type': 'HowToStep',
     'text': '  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 '
+  },  {
+    '@type': 'HowToStep',
+    'text': '/Users/john/Documents/GitHub/mahnke-cocktails/recipe/neptunes_wrath.md'
   }",
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
