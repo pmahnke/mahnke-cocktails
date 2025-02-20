@@ -1,16 +1,17 @@
 ---
 layout: recipe
 author: Anders Erickson
-title: "Cablecar"
+creator: Tony Abou-Ganim
+title: "Cable Car"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/cablecar/"
-iconfile: cablecar
+permalink: "/recipe/cable_car/"
+iconfile: cable_car
 stars: 0
 base_spirits: "Spice Rum "
 youtube: "iUGkl-AVgbI"
 excerpt: |
-  This classic cocktail is a simple yet delicious drink that is perfect for any occasion. It is made with spiced rum, orange curacao, lemon juice, and simple syrup.
+  Created in 1996 by Tony Abou-Ganim at the Starlight Room, a nightclub and cocktail lounge atop San Francisco's Sir Francis Drake Hotel (now the Beacon Grand Hotel). The Nob Hill cable cars pass by the bar, hence its catchphrase, "between the stars and the cable cars," and this contemporary classic cocktail's name.
 ---
 
 ### Ingredients
