@@ -16,11 +16,11 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient       | Brand             |
-| -----: | ---------------- | ----------------- |
-| 1.5 oz | Cognac           | Maison Rouge VSOP |
-|   1 oz | Dry Curaçao      | Pierre Ferrand    |
-| 0.5 oz | Fresh Lime Juice |                   |
+| Amount | Ingredient        | Brand             |
+| -----: | ----------------- | ----------------- |
+| 1.5 oz | Cognac            | Maison Rouge VSOP |
+|   1 oz | Dry Curaçao       | Pierre Ferrand    |
+| 0.5 oz | Fresh Lemon Juice |                   |
 
 ### Notes
 
