@@ -29,7 +29,7 @@ excerpt: |
   - Goblet
   - Crushed Ice
 - Garnish: Fresh raspberries & mint
-- Special Prep: Serve with a straw.
+- Special Prep: juice and add the 4 quarters of the orange wheel to the shaker.
 
     
 <script type="application/ld+json">
@@ -69,7 +69,7 @@ excerpt: |
 '
   },  {
     '@type': 'HowToStep',
-    'text': '- Special Prep: Serve with a straw.
+    'text': '- Special Prep: juice and add the 4 quarters of the orange wheel to the shaker.
 '
   }",
   "recipeYield": "1 cocktail",

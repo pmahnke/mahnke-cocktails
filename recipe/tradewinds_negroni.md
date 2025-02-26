@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Justin Elliott
 title: "Tradewinds Negroni"
 iconfile: tradewinds_negroni
 eras: [modern]
