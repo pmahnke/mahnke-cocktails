@@ -23,7 +23,7 @@ excerpt: |
 
 ### Notes
 
-- Method: Shaken/Stirred/Build in the Glass
+- Method: Shaken
 - Pour: Single Strain
 - Glassware:
   - Low Ball

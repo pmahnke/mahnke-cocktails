@@ -1,7 +1,7 @@
 ---
 layout: recipe
 author: "Behind the Bar"
-title: "Jaberwocky"
+title: "Jabberwocky"
 categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/jabberwocky/"

@@ -23,7 +23,7 @@ excerpt: |
 
 ### Notes
 
-- Method: Shaken/Stirred/Build in the Glass
+- Method: Shaken
 - Pour: Single Strain
 - Glassware:
   - Low Ball
@@ -45,7 +45,7 @@ excerpt: |
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '@type': 'HowToStep',
-    'text': '- Method: Shaken/Stirred/Build in the Glass
+    'text': '- Method: Shaken
 '
   },  {
     '@type': 'HowToStep',

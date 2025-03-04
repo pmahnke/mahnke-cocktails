@@ -26,11 +26,10 @@ excerpt: |
 Method: Shaken
 Pour: Double Strain
 Glassware:
-
-- Low Ball
-- On the Rocks
-  Garnish: Candied ginger, Lime wheel
-  Special Prep: Salted rim
+  - Low Ball
+  - On the Rocks
+Garnish: Candied ginger, Lime wheel
+Special Prep: Salted rim
 
     
 <script type="application/ld+json">

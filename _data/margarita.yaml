@@ -9,8 +9,6 @@ images:
       title: Boston shaker
     - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
       title: Hawthorn strainer
-    - url: /cocktails/assets/images/tool_stirred.svg
-      title: Stirred
   glass:
     - url: /cocktails/assets/images/glass_margarita.svg
       title: Margarita
