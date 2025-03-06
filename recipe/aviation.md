@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Hugo Ensslin
 title: "Aviation"
 categories: [sour]
 eras: [classic]

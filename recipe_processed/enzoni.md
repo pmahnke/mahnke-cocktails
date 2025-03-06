@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Vincenzo Errico
 title: "Enzoni"
 categories: [campari, cocktail]
 eras: [modern]

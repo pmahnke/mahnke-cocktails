@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Leandro DiMonriva
+creator: Trader Vic Bergeron
 title: "Trader Vic's Grog"
 categories: [grog, tiki]
 eras: [modern]

@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: "Cara Devine"
+creator: George Delgado
 title: "Eastside"
 categories: [sour]
 eras: [modern]

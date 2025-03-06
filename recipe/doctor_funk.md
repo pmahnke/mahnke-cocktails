@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Don Beach
 title: "Doctor Funk"
 categories: [tiki]
 eras: [modern]

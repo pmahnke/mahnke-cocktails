@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Harry MacElhone
 title: "The White Lady"
 eras: [prohibition]
 categories: [sour]

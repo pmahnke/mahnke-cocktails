@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Jeff Beachbum Berry
 title: "Mundo Perdido"
 eras: [modern]
 categories: [tiki]
