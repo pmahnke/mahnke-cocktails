@@ -19,7 +19,7 @@ excerpt: |
 | ------: | ------------------ | -------------------------- |
 | 0.75 oz | Gin                | The Botanist Islay Dry Gin |
 | 0.75 oz | Green Chartreuse   | Green Chartreuse           |
-| 0.75 oz | Maraschino Liqueur | Luxardo Maraschino Liqueur |
+| 0.75 oz | Maraschino Liqueur | Luxardo                    |
 | 0.75 oz | Fresh Lime Juice   |
 
 ### Notes

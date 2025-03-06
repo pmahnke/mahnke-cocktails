@@ -16,11 +16,11 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient         | Brand                      |
-| ------: | ------------------ | -------------------------- |
-|    2 oz | Rye                | Old Overholt               |
-| 0.75 oz | Maraschino Liqueur | Luxardo Maraschino Liqueur |
-|  0.5 oz | Punt e Mes         | Punt e Mes                 |
+|  Amount | Ingredient         | Brand        |
+| ------: | ------------------ | ------------ |
+|    2 oz | Rye                | Old Overholt |
+| 0.75 oz | Maraschino Liqueur | Luxardo      |
+|  0.5 oz | Punt e Mes         | Punt e Mes   |
 
 ### Notes
 

@@ -16,16 +16,14 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient       | Brand |
-| -------: | ---------------- | ----- |
-|    <span class="onex active">12 oz  / 300 ml</span> <span class="onehalfx">18 oz  / 450 ml</span> <span class="twox">24 oz  / 600 ml</span> <span class="threex">36 oz  / 900 ml</span>| Ale              | Old Speckled Hen      |
-|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Jamaican Rum     | Smith & Cross      |
+|   Amount | Ingredient       | Brand            |
+| -------: | ---------------- | ---------------- |
+|    <span class="onex active">12 oz  / 300 ml</span> <span class="onehalfx">18 oz  / 450 ml</span> <span class="twox">24 oz  / 600 ml</span> <span class="threex">36 oz  / 900 ml</span>| Ale              | Old Speckled Hen |
+|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Jamaican Rum     | Smith & Cross    |
 |  <span class="onex active">1 whole </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">2 whole </span> <span class="threex">3 whole </span>| Egg              |
 |     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Demerara Sugar   |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> tsp </span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> tsp </span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> tsp </span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> tsp </span>| Ginger, Powdered |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> tsp </span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> tsp </span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> tsp </span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> tsp </span>| Nutmeg, Grated   |
-
-12oz brown or amber ale with 1oz of sugar 1oz of brandy and one egg, alone with 1/4th teaspoon ginger and nutmeg did t
 
 ### Notes
 
@@ -33,7 +31,7 @@ excerpt: |
 - Pour: Add all ingredients directly to the glass
 - Glassware: Beer Mug
 - Garnish: None
-- Special Prep: 
+- Special Prep:
   1. Heat the ale, but do not boil
   1. Add the egg, sugar and spices to a bowl, and whisk to combine
   1. Add the hot ale to one mug, and the batter to another
@@ -73,7 +71,7 @@ excerpt: |
 '
   },  {
     '@type': 'HowToStep',
-    'text': '- Special Prep: 
+    'text': '- Special Prep:
 '
   },  {
     '@type': 'HowToStep',

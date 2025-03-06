@@ -16,16 +16,14 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient       | Brand |
-| -------: | ---------------- | ----- |
-|    12 oz | Ale              | Old Speckled Hen      |
-|     1 oz | Jamaican Rum     | Smith & Cross      |
+|   Amount | Ingredient       | Brand            |
+| -------: | ---------------- | ---------------- |
+|    12 oz | Ale              | Old Speckled Hen |
+|     1 oz | Jamaican Rum     | Smith & Cross    |
 |  1 whole | Egg              |
 |     1 oz | Demerara Sugar   |
 | 0.25 tsp | Ginger, Powdered |
 | 0.25 tsp | Nutmeg, Grated   |
-
-12oz brown or amber ale with 1oz of sugar 1oz of brandy and one egg, alone with 1/4th teaspoon ginger and nutmeg did t
 
 ### Notes
 
@@ -33,7 +31,7 @@ excerpt: |
 - Pour: Add all ingredients directly to the glass
 - Glassware: Beer Mug
 - Garnish: None
-- Special Prep: 
+- Special Prep:
   1. Heat the ale, but do not boil
   1. Add the egg, sugar and spices to a bowl, and whisk to combine
   1. Add the hot ale to one mug, and the batter to another

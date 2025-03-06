@@ -15,11 +15,11 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient         | Brand                      |
-| ------: | ------------------ | -------------------------- |
-| 0.75 oz | Rye                | Rittenhouse 100 Proof      |
-| 0.75 oz | Green Chartreuse   | Green Chartreuse           |
-| 0.75 oz | Maraschino Liqueur | Luxardo Maraschino Liqueur |
+|  Amount | Ingredient         | Brand                 |
+| ------: | ------------------ | --------------------- |
+| 0.75 oz | Rye                | Rittenhouse 100 Proof |
+| 0.75 oz | Green Chartreuse   | Green Chartreuse      |
+| 0.75 oz | Maraschino Liqueur | Luxardo               |
 | 0.75 oz | Fresh Lemon Juice  |
 
 ### Notes
