@@ -21,7 +21,7 @@ excerpt: |
 |     2 oz | Sloe Gin           | Plymouth                  |
 |     1 oz | Sweet Vermouth     | Cocchi Vermouth di Torino |
 | 0.375 oz | Dry Curacao        | Pierre Ferrand            |
-|  .375 oz | Maraschino Liqueur | Luxardo                   |
+| 0.375 oz | Maraschino Liqueur | Luxardo                   |
 | 2 Dashes | Campari            | Campari                   |
 
 ### Notes
