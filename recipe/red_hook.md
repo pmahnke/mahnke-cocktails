@@ -5,8 +5,8 @@ creator: Vincenzo Errico
 title: "Red Hook"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/NAME/"
-iconfile: NAME
+permalink: "/recipe/red_hook/"
+iconfile: red_hook
 stars: 0
 base_spirits: "Rye, Maraschino Liqueur, Punt e Mes"
 youtube: "0sjcxjmJMv0"
