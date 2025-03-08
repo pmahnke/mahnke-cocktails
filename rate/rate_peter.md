@@ -24,7 +24,7 @@ permalink: "/rate/rate_peter.html"
             {%- endcomment -%}
         </td>
         <td class="home_stars">
-            {%- include edit_stars.html name="John" -%}
+            {%- include edit_stars.html name="Peter" -%}
         </td>
         </tr>
         {%- endif -%}
