@@ -1,0 +1,9 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /cocktails/assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino liqueur
+  glass:
+    - url: /cocktails/assets/images/glass_coupe.svg
+      title: Coupe
