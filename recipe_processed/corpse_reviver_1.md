@@ -2,24 +2,24 @@
 layout: recipe
 author: Anders Erickson
 title: "Corpse Reviver #1"
-categories: [cocktail]
+categories: [cocktail, corpse_reviver]
 eras: [prohibition]
 permalink: "/recipe/corpse_reviver_1/"
 iconfile: corpse_reviver_1
 stars: 4
 base_spirits: "Calvados, Cognac"
-youtube: "bGxOcLRCBWk"
+youtube: "rMCsrbidAJ4"
 excerpt: |
   The first widely popularized corpse reviver cocktail is listed in The Savoy Cocktail Book and is a cognac-based cocktail that calls for two parts cognac, one part Calvados or apple brandy, and one part Italian vermouth. In bartender Craddock's notes he says "To be taken before 11AM, or whenever steam or energy is needed".
 ---
 
 ### Ingredients
 
-|  Amount | Ingredient     | Brand                           |
-| ------: | -------------- | ------------------------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Calvados       | Roger Groult Pays D’auge 3 Year |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Cognac         | Maison Rouge VSOP               |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Sweet Vermouth | Cocchi Vermouth Di Torino       |
+|  Amount | Ingredient     | Brand                         |
+| ------: | -------------- | ----------------------------- |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Cognac         | Maison Rouge VSOP             |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Apple Brandy   | Laird’s Straight Applejack 86 |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Sweet Vermouth | Cocchi Vermouth Di Torino     |
 
 ### Notes
 
@@ -37,8 +37,8 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "0.75 oz Calvados",
-  "0.75 oz Cognac",
+  "recipeIngredient": [  " 1 oz Cognac",
+  " 0.5 oz Apple Brandy",
   "0.75 oz Sweet Vermouth"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
