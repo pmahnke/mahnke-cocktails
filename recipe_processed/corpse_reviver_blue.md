@@ -1,27 +1,27 @@
 ---
 layout: recipe
 author: Anders Erickson
-title: "Corpse Reviver #2"
-categories: [sour]
-eras: [prohibition]
-permalink: "/recipe/corpse_reviver_2/"
-iconfile: corpse_reviver_2
-stars: 5
+title: "Corpse Reviver #Blue"
+categories: [sour, corpse_reviver]
+eras: [modern]
+permalink: "/recipe/corpse_reviver_blue/"
+iconfile: corpse_reviver_blue
+stars: 0
 base_spirits: "Gin, Cocchi Americano"
-youtube: "bGxOcLRCBWk"
+youtube: "rMCsrbidAJ4"
 excerpt: |
-  The Corpse Reviver No. 2 is a pre-Prohibition cocktail that was originally consumed in the morning, but tastes delicious any time of the day.
+  The Corpse Reviver No. Blue is a modern riff on the Corpse Reviver No. 2 cocktail that was originally consumed in the morning, but tastes delicious any time of the day.
 ---
 
 ### Ingredients
 
-|  Amount | Ingredient        | Brand                      |
-| ------: | ----------------- | -------------------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Gin               | The Botanist Islay Dry Gin |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Cocchi Americano  | Cocchi Americano           |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Triple Sec        | Luxardo Triplum            |
+|  Amount | Ingredient        | Brand            |
+| ------: | ----------------- | ---------------- |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Gin               | The Botanist     |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Cocchi Americano  | Cocchi Americano |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Blue Curaçao      | Giffard          |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice |
-| <span class="onex active">1 rinse </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> rinse </span> <span class="twox">2 rinse </span> <span class="threex">3 rinse </span>| Absinthe          | La Clandestine             |
+| <span class="onex active">1 rinse </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> rinse </span> <span class="twox">2 rinse </span> <span class="threex">3 rinse </span>| Absinthe          | St. George Verte |
 
 ### Notes
 
@@ -41,7 +41,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  "0.75 oz Gin",
   "0.75 oz Cocchi Americano ",
-  "0.75 oz Triple Sec ",
+  "0.75 oz Blue Curaçao ",
   "0.75 oz Fresh Lemon Juice",
   "1 rinse Absinthe "],
   "name": "{{ page.title }}",
