@@ -31,12 +31,12 @@ excerpt: |
 - Pour: Double Strain
 - Glassware: Coupe
 - Garnish: Flaming Green Chartreuse
-- Special Prep: 
+- Special Prep:
   - Add all ingredients, but the Green Chartreuse, to the cocktail shaker.
   - Strain cocktail into the glass.
   - Light the Green Chartreuse on fire in the jigger, and float on top of the cocktail
   - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
-/Users/john/Documents/GitHub/mahnke-cocktails/recipe/neptunes_wrath.md
+
     
 <script type="application/ld+json">
 {
@@ -70,7 +70,7 @@ excerpt: |
 '
   },  {
     '@type': 'HowToStep',
-    'text': '- Special Prep: 
+    'text': '- Special Prep:
 '
   },  {
     '@type': 'HowToStep',
@@ -88,9 +88,6 @@ excerpt: |
     '@type': 'HowToStep',
     'text': '  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 '
-  },  {
-    '@type': 'HowToStep',
-    'text': '/Users/john/Documents/GitHub/mahnke-cocktails/recipe/neptunes_wrath.md'
   }",
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
