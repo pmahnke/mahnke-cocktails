@@ -33,7 +33,7 @@ excerpt: |
 - Garnish: None
 - Special Prep:
   1. Heat the ale, but do not boil
-  1. Add the egg, sugar and spices to a bowl, and whisk to combine
+  1. Add the rum, egg, sugar and spices to a bowl, and whisk to combine
   1. Add the hot ale to one mug, and the batter to another
   1. Toss the ale into the batter
   1. Continue to toss the now mixed drink back and forth several times until the drink is smooth.
@@ -79,7 +79,7 @@ excerpt: |
 '
   },  {
     '@type': 'HowToStep',
-    'text': '  1. Add the egg, sugar and spices to a bowl, and whisk to combine
+    'text': '  1. Add the rum, egg, sugar and spices to a bowl, and whisk to combine
 '
   },  {
     '@type': 'HowToStep',
