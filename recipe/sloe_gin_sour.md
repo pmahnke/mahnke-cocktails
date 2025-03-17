@@ -28,5 +28,5 @@ excerpt: |
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Expressed lemon oil and 3 drops of Angostura Bitters
+- Garnish: Expressed lemon oil and 3 drops of Angostura Aromatic Bitters
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.

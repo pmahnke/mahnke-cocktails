@@ -32,7 +32,7 @@ excerpt: |
   - High Ball
   - Crushed Ice
 - Garnish: Mint Sprig
-- Special Prep: Dry shake the cocktail and pour over crushed ice. Top with Angostura Bitters.
+- Special Prep: Dry shake the cocktail and pour over crushed ice. Top with Angostura Aromatic Bitters.
 
     
 <script type="application/ld+json">
@@ -74,7 +74,7 @@ excerpt: |
 '
   },  {
     '@type': 'HowToStep',
-    'text': '- Special Prep: Dry shake the cocktail and pour over crushed ice. Top with Angostura Bitters.
+    'text': '- Special Prep: Dry shake the cocktail and pour over crushed ice. Top with Angostura Aromatic Bitters.
 '
   }",
   "recipeYield": "1 cocktail",

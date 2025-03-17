@@ -10,7 +10,7 @@ stars: 0
 base_spirits: "Reposado Tequila "
 youtube: "3aV3DzDfW_A"
 excerpt: |
-  The drink is essentially a tequila Collins, made with lime in place of lemon and grenadine in place of plain sugar, with the addition of some Angostura bitters.
+  The drink is essentially a tequila Collins, made with lime in place of lemon and grenadine in place of plain sugar, with the addition of some Angostura Aromatic Bitters.
 ---
 
 ### Ingredients

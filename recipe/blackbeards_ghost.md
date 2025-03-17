@@ -25,7 +25,7 @@ excerpt: |
 |   0.5 oz | Fresh Lemon Juice                                        |
 |   0.5 oz | Fresh Lime Juice                                         |
 |   0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
-| 2 dashes | Angostura Bitters                                        |
+| 2 dashes | Angostura Aromatic Bitters                                        |
 
 ### Notes
 

@@ -18,7 +18,7 @@ excerpt: |
   <br>- ½ Benedictine
   <br>- ½ French Vermouth
   <br>Stir well in a mixing glass with cracked ice, strain and serve with a twist of Orange Peel.
-  <br><cite class='alt-font alt-font--natural'>Hugo R. Ensslin, 1917</cite>
+  <br><cite>Hugo R. Ensslin, 1917</cite>
   </blockquote>
   It then reappears in Harry Craddock's influential 1930 <i>The Savoy Cocktail Book</i> where Craddock says, "Well-known and very popular in the American Bar of the S.S. Europa.".
   <br>

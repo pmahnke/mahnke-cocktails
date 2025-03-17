@@ -7,7 +7,7 @@ categories: [shot, pousse_cafe]
 permalink: "/recipe/pousse_cafe_shot/"
 iconfile: pousse_cafe_shot
 stars: 0
-base_spirits: "Bénédictine, Green Chartreuse, Angostura Bitters"
+base_spirits: "Bénédictine, Green Chartreuse, Angostura Aromatic Bitters"
 youtube: "4OJd_phsa5w"
 excerpt: |
   Pousse Café is a style of drink that has many layers (typically between three and seven). When made properly they're absolutely beautiful, but they require time, patience, and a steady hand. For this reason they aren't popular among most bartenders - it's a quick way to find yourself in the weeds! However, if you're curious and wanting to try your hand at it, this is a fun way to explore new flavor combinations! There are some things to keep in mind. You want to have an idea of each ingredients' density (heavier ingredients fall to the bottom), and consider the drink's evolution of flavors as you sip your way through it. That's not to say you can't shoot your Pousse Cafés, but the more layers, the muddier the shot will be. Patience is a virtue. The Pousse Café is both the test and the reward.

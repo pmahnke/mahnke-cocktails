@@ -10,7 +10,7 @@ stars: 0
 base_spirits: "Navy Strength Rum, Bourbon "
 youtube: "s30L-iu171E"
 excerpt: |
-  A blend of Jamaican rum, bourbon whiskey, rich demerara syrup, Angostura bitters, black tea, and oat milk.
+  A blend of Jamaican rum, bourbon whiskey, rich demerara syrup, Angostura Aromatic Bitters, black tea, and oat milk.
 ---
 
 ### Ingredients

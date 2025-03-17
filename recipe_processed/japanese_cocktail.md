@@ -1,6 +1,7 @@
 ---
 layout: recipe
-author: Anders Erickson
+author: Anders Erickso 
+ n
 creator: Jerry Thomas
 title: "The Japanese Cocktail"
 categories: [cocktail]

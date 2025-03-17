@@ -7,10 +7,10 @@ categories: [sour]
 permalink: "/recipe/trinidad_sour/"
 iconfile: trinidad_sour
 stars: 0
-base_spirits: "Angostura Bitters, Rye "
+base_spirits: "Angostura Aromatic Bitters, Rye "
 youtube: '\_BEaYWQjSu0'
 excerpt: |
-  Love Angostura bitters? Try your hand at a drink that uses them as the base spirit rather than embellishment.
+  Love Angostura Aromatic Bitters? Try your hand at a drink that uses them as the base spirit rather than embellishment.
 ---
 
 ### Ingredients

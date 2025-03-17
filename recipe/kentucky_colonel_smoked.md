@@ -10,7 +10,7 @@ stars: 0
 base_spirits: "Bourbon, Bénédictine"
 youtube: "gZdT2GBf91I"
 excerpt: |
-  The Kentucky Colonel is a classic cocktail that pays homage to the state's famous bourbon whiskey. It's a simple yet elegant drink that combines bourbon, Benedictine, and Angostura bitters. The Benedictine adds a touch of sweetness and herbal notes, while the bitters balance the flavors.
+  The Kentucky Colonel is a classic cocktail that pays homage to the state's famous bourbon whiskey. It's a simple yet elegant drink that combines bourbon, Benedictine, and Angostura Aromatic Bitters. The Benedictine adds a touch of sweetness and herbal notes, while the bitters balance the flavors.
 ---
 
 ### Ingredients

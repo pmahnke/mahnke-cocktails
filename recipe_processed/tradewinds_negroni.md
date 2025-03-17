@@ -8,7 +8,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/tradewinds_negroni/"
 stars: 0
-base_spirits: "Angostura Bitters"
+base_spirits: "Angostura Aromatic Bitters"
 youtube: "Lp5ktjaNFKc"
 excerpt: |
   Adapted from a recipe created by Justin Elliott at The Townsend, Austin, Texas, USA.

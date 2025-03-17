@@ -29,5 +29,5 @@ excerpt: |
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: 3 drops Angostura Bitters & pineapple fronds
+- Garnish: 3 drops Angostura Aromatic Bitters & pineapple fronds
 - Special Prep: None
