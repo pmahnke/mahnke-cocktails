@@ -32,3 +32,48 @@ function toggleDiv() {
 }
 
 
+// Allow the user to keep a page alive with a link //
+let wakeLock = null;
+let isWakeLockActive = false;
+
+async function requestWakeLock() {
+    try {
+        wakeLock = await navigator.wakeLock.request("screen");
+        isWakeLockActive = true;
+        document.getElementById("toggleWakeLock").textContent = "Allow Sleep";
+        
+        wakeLock.addEventListener("release", () => {
+            isWakeLockActive = false;
+            document.getElementById("toggleWakeLock").textContent = "Stop Sleep";
+        });
+
+        console.log("Wake Lock is active");
+    } catch (err) {
+        console.error("Wake Lock request failed:", err);
+    }
+}
+
+function releaseWakeLock() {
+    if (wakeLock) {
+        wakeLock.release();
+        wakeLock = null;
+        isWakeLockActive = false;
+        document.getElementById("toggleWakeLock").textContent = "Stop Sleep";
+        console.log("Wake Lock is released");
+    }
+}
+
+document.getElementById("toggleWakeLock").addEventListener("click", async (event) => {
+    event.preventDefault();
+    if (isWakeLockActive) {
+        releaseWakeLock();
+    } else {
+        await requestWakeLock();
+    }
+});
+
+document.addEventListener("visibilitychange", async () => {
+    if (isWakeLockActive && document.visibilityState === "visible") {
+        await requestWakeLock();
+    }
+});
