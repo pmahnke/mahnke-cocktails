@@ -1,55 +1,67 @@
-// Scale Menu Functionality
-const menuLinks = document.querySelectorAll(".menu a");
-const spans = document.querySelectorAll("span");
+// Select elements
+const menuLinks = document.querySelectorAll('.menu a');
+const spans = document.querySelectorAll('span');
+const wakeLockButton = document.getElementById("toggleWakeLock");
 
-menuLinks.forEach((link) => {
-    link.addEventListener("click", (event) => {
+menuLinks.forEach(link => {
+    link.addEventListener('click', (event) => {
+        if (event.target === wakeLockButton) return; // Ignore wake lock button
         event.preventDefault();
 
         // Remove active class from all links and spans
-        menuLinks.forEach((link) => link.classList.remove("active"));
-        spans.forEach((span) => span.classList.remove("active"));
+        menuLinks.forEach(l => l.classList.remove('active'));
+        spans.forEach(span => span.classList.remove('active'));
 
-        // Add active class to the clicked link and corresponding spans
-        const target = event.target.getAttribute("data-target");
-        event.target.classList.add("active");
-        document.querySelectorAll(`.${target}`).forEach((span) => span.classList.add("active"));
+        // Add active class to clicked link and corresponding spans
+        const target = event.target.getAttribute('data-target');
+        event.target.classList.add('active');
+        document.querySelectorAll(`.${target}`).forEach(span => span.classList.add('active'));
     });
 });
 
-// Wake Lock (Prevent Screen from Sleeping) via Inline Video
-let video;
-let isAwake = false;
+// Wake Lock functionality
+let wakeLock = null;
+let isWakeLockActive = false;
 
-function toggleWakeLock() {
-    if (!isAwake) {
-        // Create and append the hidden video if it doesn’t exist
-        if (!video) {
-            video = document.createElement("video");
-            video.src = "data:video/mp4;base64,AAAAIGZ0eXBpc29tAAACAGlzb21pc28yYXZjMQAAAYl..."; // A tiny silent MP4 (base64 encoded)
-            video.loop = true;
-            video.muted = true;
-            video.autoplay = true;
-            video.playsInline = true;
-            video.style.position = "absolute";
-            video.style.width = "1px";
-            video.style.height = "1px";
-            video.style.opacity = "0.01";
-            video.style.pointerEvents = "none";
-            document.body.appendChild(video);
+async function toggleWakeLock() {
+    if (isWakeLockActive) {
+        if (wakeLock) {
+            await wakeLock.release();
+            wakeLock = null;
+            console.log("Wake Lock is released");
         }
-        document.getElementById("toggleWakeLock").textContent = "Allow Sleep";
-        console.log("Wake Lock (via inline video) is active");
+        isWakeLockActive = false;
     } else {
-        // Remove the video to allow sleeping
-        if (video) {
-            video.remove();
-            video = null;
+        try {
+            wakeLock = await navigator.wakeLock.request("screen");
+            wakeLock.addEventListener("release", () => {
+                isWakeLockActive = false;
+                updateWakeLockButton();
+                console.log("Wake Lock was automatically released");
+            });
+            isWakeLockActive = true;
+            console.log("Wake Lock is active");
+        } catch (err) {
+            console.error("Wake Lock request failed:", err);
+            return;
         }
-        document.getElementById("toggleWakeLock").textContent = "Stop Sleep";
-        console.log("Wake Lock (via inline video) is released");
     }
-    isAwake = !isAwake;
+    updateWakeLockButton();
 }
 
-document.getElementById("toggleWakeLock").addEventListener("click", toggleWakeLock);
+function updateWakeLockButton() {
+    wakeLockButton.textContent = isWakeLockActive ? "Allow Sleep" : "Stop Sleep";
+}
+
+// Set up event listeners
+wakeLockButton.addEventListener("click", (event) => {
+    event.preventDefault();
+    toggleWakeLock();
+});
+
+// Re-acquire wake lock when returning to the page
+document.addEventListener("visibilitychange", async () => {
+    if (isWakeLockActive && document.visibilityState === "visible") {
+        await toggleWakeLock();
+    }
+});
