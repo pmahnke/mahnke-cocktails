@@ -21,6 +21,7 @@ excerpt: |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Sweet Vermouth     | Cocchi Vermouth di Torino |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Cherry Liqueur     | Cherry Heering            |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Orange Juice |
+| <span class="onex active">1 swathes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>| Orange Peel        |
 
 ### Notes
 
@@ -28,7 +29,7 @@ excerpt: |
 - Pour: Single Strain
 - Glassware: Coupe
 - Garnish: Orange slice and cocktail cherry
-- Special Prep: None
+- Special Prep: Express the orange oil from the peel into the shaker and ad peel. Add all other ingredients and shake.
 
     
 <script type="application/ld+json">
@@ -41,7 +42,8 @@ excerpt: |
   "recipeIngredient": [  "0.75 oz Blended Scotch",
   "0.75 oz Sweet Vermouth",
   "0.75 oz Cherry Liqueur",
-  "0.75 oz Fresh Orange Juice"],
+  "0.75 oz Fresh Orange Juice",
+  "1 swath Orange Peel "],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '@type': 'HowToStep',
@@ -61,7 +63,7 @@ excerpt: |
 '
   },  {
     '@type': 'HowToStep',
-    'text': '- Special Prep: None
+    'text': '- Special Prep: Express the orange oil from the peel into the shaker and ad peel. Add all other ingredients and shake.
 '
   }",
   "recipeYield": "1 cocktail",

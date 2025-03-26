@@ -21,6 +21,7 @@ excerpt: |
 | 0.75 oz | Sweet Vermouth     | Cocchi Vermouth di Torino |
 | 0.75 oz | Cherry Liqueur     | Cherry Heering            |
 | 0.75 oz | Fresh Orange Juice |
+| 1 swath | Orange Peel        |
 
 ### Notes
 
@@ -28,4 +29,4 @@ excerpt: |
 - Pour: Single Strain
 - Glassware: Coupe
 - Garnish: Orange slice and cocktail cherry
-- Special Prep: None
+- Special Prep: Express the orange oil from the peel into the shaker and ad peel. Add all other ingredients and shake.
