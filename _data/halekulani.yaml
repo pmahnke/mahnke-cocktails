@@ -1,0 +1,20 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /cocktails/assets/images/ingredient-rye.svg
+      title: Rye
+  tool:
+    - url: /cocktails/assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+    - url: /cocktails/assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /cocktails/assets/images/slice_pineapple.svg
+      title: Pineapple slice
+  ice:
+    - url: /cocktails/assets/images/ice_cubes.svg
+      title: Cubes
