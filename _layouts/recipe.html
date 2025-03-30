@@ -13,7 +13,7 @@ layout: default
         {%- include recipe_taxonomy.html -%}
 
         {%- if page.excerpt -%}
-            <p>{{ page.excerpt }}</p>
+            <p>{{ page.excerpt | markdownify }}</p>
             <p>{%- for s in page.style -%}{{ s }}, {%- endfor -%}</p>
         {%- endif -%}
 
