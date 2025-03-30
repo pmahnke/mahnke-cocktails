@@ -21,12 +21,12 @@ excerpt: |
 
 | Amount | Ingredient                                                | Brand                   |
 | -----: | --------------------------------------------------------- | ----------------------- |
-|   <span class="onex active">50 ml </span> <span class="onehalfx">75 ml </span> <span class="twox">100 ml </span> <span class="threex">150 ml </span>| botanical-heavy gin                                       | The Botanist            |
-|   <span class="onex active">15 ml </span> <span class="onehalfx">22 <sup>1</sup>&frasl;<sub>2</sub> ml </span> <span class="twox">30 ml </span> <span class="threex">45 ml </span>| melon liqueur                                             | Briottet Crème de Melon |
-|   <span class="onex active">20 ml </span> <span class="onehalfx">30 ml </span> <span class="twox">40 ml </span> <span class="threex">60 ml </span>| fresh lemon juice                                         |
-|   <span class="onex active">20 ml </span> <span class="onehalfx">30 ml </span> <span class="twox">40 ml </span> <span class="threex">60 ml </span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|  <span class="onex active">1 tsp </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tsp </span> <span class="twox">2 tsp </span> <span class="threex">3 tsp </span>| liquid shio koji                                          |
-|   <span class="onex active">15 ml </span> <span class="onehalfx">22 <sup>1</sup>&frasl;<sub>2</sub> ml </span> <span class="twox">30 ml </span> <span class="threex">45 ml </span>| egg white                                                 |
+|   <span class="onex active">1.66666666666667 oz / 50 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>2</sub> oz / 75 ml</span> <span class="twox">3 <sup>1</sup>&frasl;<sub>3</sub> oz / 100 ml</span> <span class="threex">5 oz / 150 ml</span>| Botanical-heavy Gin                                       | The Botanist            |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz / 23 ml</span> <span class="twox">1 oz / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 45 ml</span>| Melon Liqueur                                             | Briottet Crème de Melon |
+|   <span class="onex active">0.666666666666667 oz / 20 ml</span> <span class="onehalfx">1 oz / 30 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>3</sub> oz / 40 ml</span> <span class="threex">2 oz / 60 ml</span>| Lemon Juice                                         |
+|   <span class="onex active">0.666666666666667 oz / 20 ml</span> <span class="onehalfx">1 oz / 30 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>3</sub> oz / 40 ml</span> <span class="threex">2 oz / 60 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|  <span class="onex active">1 tsp </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tsp </span> <span class="twox">2 tsp </span> <span class="threex">3 tsp </span>| Liquid Shio Koji                                          |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz / 23 ml</span> <span class="twox">1 oz / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz / 45 ml</span>| Egg white                                                 |
 
 ### Notes
 
@@ -44,12 +44,12 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "50 ml botanical-heavy gin",
-  "15 ml melon liqueur",
-  "20 ml fresh lemon juice",
+  "recipeIngredient": [  "50 ml Botanical-heavy Gin",
+  "15 ml Melon Liqueur",
+  "20 ml Lemon Juice",
   "20 ml Semi-Rich Simple Syrup",
-  " 1 tsp liquid shio koji ",
-  "15 ml egg white"],
+  " 1 tsp Liquid Shio Koji ",
+  "15 ml Egg white"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '@type': 'HowToStep',

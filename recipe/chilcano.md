@@ -18,11 +18,11 @@ excerpt: |
 
 |   Amount | Ingredient                                                  | Brand                                    |
 | -------: | ----------------------------------------------------------- | ---------------------------------------- |
-|    60 ml | acholada pisco                                              | Barsol                                   |
-|    25 ml | lime juice                                                  |
-|    10 ml | [ginger syrup]({% link recipe_processed/ginger_syrup.md %}) | or ginger cordial or Stone’s ginger wine |
+|    60 ml | Acholada Pisco                                              | Barsol                                   |
+|    25 ml | Lime Juice                                                  |
+|    10 ml | [Ginger Syrup]({% link recipe_processed/ginger_syrup.md %}) | or Ginger cordial or Stone’s Ginger wine |
 | 2 dashes | Angostora bitters                                           |
-|   100 ml | club soda                                                   |
+|   100 ml | Club Soda                                                   |
 
 
 ### Notes

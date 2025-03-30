@@ -15,8 +15,8 @@ excerpt: |
 
 |   Amount | Ingredient       |
 | -------: | ---------------- |
-|   <span class="onex active">150 ml </span> <span class="onehalfx">225 ml </span> <span class="twox">300 ml </span> <span class="threex">450 ml </span>| Wildflower Honey |
-|    <span class="onex active">50 ml </span> <span class="onehalfx">75 ml </span> <span class="twox">100 ml </span> <span class="threex">150 ml </span>| Boiling Water    |
+|   <span class="onex active">5 oz / 150 ml</span> <span class="onehalfx">7 <sup>1</sup>&frasl;<sub>2</sub> oz / 225 ml</span> <span class="twox">10 oz / 300 ml</span> <span class="threex">15 oz / 450 ml</span>| Wildflower Honey |
+|    <span class="onex active">1.66666666666667 oz / 50 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>2</sub> oz / 75 ml</span> <span class="twox">3 <sup>1</sup>&frasl;<sub>3</sub> oz / 100 ml</span> <span class="threex">5 oz / 150 ml</span>| Boiling Water    |
 | <span class="onex active">4 leaves </span> <span class="onehalfx">6 leaves </span> <span class="twox">8 leaves </span> <span class="threex">12 leaves </span>| Sage             |
 
 ### Method:

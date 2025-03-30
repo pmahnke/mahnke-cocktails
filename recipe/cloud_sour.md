@@ -21,12 +21,12 @@ excerpt: |
 
 | Amount | Ingredient                                                | Brand                   |
 | -----: | --------------------------------------------------------- | ----------------------- |
-|   50 ml | botanical-heavy gin                                       | The Botanist            |
-|   15 ml | melon liqueur                                             | Briottet Crème de Melon |
-|   20 ml | fresh lemon juice                                         |
+|   50 ml | Botanical-heavy Gin                                       | The Botanist            |
+|   15 ml | Melon Liqueur                                             | Briottet Crème de Melon |
+|   20 ml | Lemon Juice                                         |
 |   20 ml | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
-|  1 tsp | liquid shio koji                                          |
-|   15 ml | egg white                                                 |
+|  1 tsp | Liquid Shio Koji                                          |
+|   15 ml | Egg white                                                 |
 
 ### Notes
 

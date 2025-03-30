@@ -18,11 +18,11 @@ excerpt: |
 
 |   Amount | Ingredient                                                  | Brand                                    |
 | -------: | ----------------------------------------------------------- | ---------------------------------------- |
-|    <span class="onex active">60 ml </span> <span class="onehalfx">90 ml </span> <span class="twox">120 ml </span> <span class="threex">180 ml </span>| acholada pisco                                              | Barsol                                   |
-|    <span class="onex active">25 ml </span> <span class="onehalfx">37 <sup>1</sup>&frasl;<sub>2</sub> ml </span> <span class="twox">50 ml </span> <span class="threex">75 ml </span>| lime juice                                                  |
-|    <span class="onex active">10 ml </span> <span class="onehalfx">15 ml </span> <span class="twox">20 ml </span> <span class="threex">30 ml </span>| [ginger syrup]({% link recipe_processed/ginger_syrup.md %}) | or ginger cordial or Stone’s ginger wine |
+|    <span class="onex active">2 oz / 60 ml</span> <span class="onehalfx">3 oz / 90 ml</span> <span class="twox">4 oz / 120 ml</span> <span class="threex">6 oz / 180 ml</span>| Acholada Pisco                                              | Barsol                                   |
+|    <span class="onex active"> <sup>5</sup>&frasl;<sub>6</sub> oz / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>4</sub> oz / 38 ml</span> <span class="twox">1.66666666666667 oz / 50 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>2</sub> oz / 75 ml</span>| Lime Juice                                                  |
+|    <span class="onex active"> <sup>1</sup>&frasl;<sub>3</sub> oz / 10 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz / 15 ml</span> <span class="twox">0.666666666666667 oz / 20 ml</span> <span class="threex">1 oz / 30 ml</span>| [Ginger Syrup]({% link recipe_processed/ginger_syrup.md %}) | or Ginger cordial or Stone’s Ginger wine |
 | <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Angostora bitters                                           |
-|   <span class="onex active">100 ml </span> <span class="onehalfx">150 ml </span> <span class="twox">200 ml </span> <span class="threex">300 ml </span>| club soda                                                   |
+|   <span class="onex active">3 <sup>1</sup>&frasl;<sub>3</sub> oz / 100 ml</span> <span class="onehalfx">5 oz / 150 ml</span> <span class="twox">6.66666666666667 oz / 200 ml</span> <span class="threex">10 oz / 300 ml</span>| Club Soda                                                   |
 
 
 ### Notes
@@ -41,11 +41,11 @@ excerpt: |
   "author": "{{ page.author }}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 60 ml acholada pisco ",
-  " 25 ml lime juice ",
-  " 10 ml ginger syrup",
+  "recipeIngredient": [  " 60 ml Acholada Pisco ",
+  " 25 ml Lime Juice ",
+  " 10 ml Ginger Syrup",
   "2 dashes Angostora bitters",
-  "100 ml club soda"],
+  "100 ml Club Soda"],
   "name": "{{ page.title }}",
   "recipeInstructions": "  {
     '@type': 'HowToStep',

@@ -93,8 +93,10 @@ while (my $file = readdir DIR) {
         s/(0\.125|\.125)/ <sup>1<\/sup>&frasl;<sub>8<\/sub>/g; # 1/8
         s/(0\.1875|\.1875)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 3/16, but make it 1/4
         s/(0\.25|\.25)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 1/4
+        s/0\.3333*|\.3333*/ <sup>1<\/sup>&frasl;<sub>3<\/sub>/g; # 1/3
         s/(0\.375|\.375)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 3/8, but make it 1/2
         s/(0\.5|\.5)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 1/2
+        s/0\.8333*|\.8333*/ <sup>5<\/sup>&frasl;<sub>6<\/sub>/g; # 5/6
         s/(0\.75|\.75)/ <sup>3<\/sup>&frasl;<sub>4<\/sub>/g; # 3/4
 	
         $out .= $_;
@@ -180,6 +182,17 @@ sub convert {
         $maxml = $maxq * 25 if ($maxq);
     }
 
+    if ($meas =~ /ml/i) {
+        # try to make oz from ml, assume 25 ml=1 oz, basically pretend they are oz for the rest of the script
+        $FLAGoz = 1;
+        $minml = $minq;
+        $maxml = $maxq;
+        $minq = $minq / 30;
+        $maxq = $maxq / 30;
+        $meas = "oz";
+
+    }
+
     # deal with making measures plural
     if ($meas =~ /dash/) {
         $meas = "dashes";
@@ -200,6 +213,7 @@ sub convert {
     $out = $minq;
     $out .= " to " . $maxq if ($maxq);
     $out .= " $meas";
+
     if ($FLAGoz) {
         $out .= " / $minml";
         $out .= " to " . $maxml if ($maxml);
