@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Go-To Hot Toddy"
 categories: [toddy]
 eras: [classic, modern]
-permalink: "/recipes/go-to_toddy/"
+permalink: "/recipe/go-to_toddy/"
 iconfile: go-to_toddy
 stars: 0
 base_spirits: "Blended Scotch "
