@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Mezcal & Hibiscus Toddy"
 categories: [toddy]
 eras: [classic, modern]
-permalink: "/recipes/mezcal_hibiscus_toddy/"
+permalink: "/recipe/mezcal_hibiscus_toddy/"
 iconfile: mezcal_hibiscus_toddy
 stars: 0
 base_spirits: " Mezcal "
