@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson, Leandro DiMonriva
+author: Anders Erickson
 title: "Dirty Martini"
 categories: [martini]
 eras: [classic]
