@@ -45,7 +45,7 @@ excerpt: |
 |       2 whole | Olives         |                                |
 |    1 barspoon | Olive Brine    |                                |
 |        1.5 oz | Gin            | Plymouth                       |
-|       0.75 oz | Drt Vermouth   | Dolin Dry Vermouth de Chambéry |
+|       0.75 oz | Dry Vermouth   | Dolin Dry Vermouth de Chambéry |
 | 1 to 2 dashes | Orange Bitters | Regan’s No. 6                  |
 
 ### Notes
