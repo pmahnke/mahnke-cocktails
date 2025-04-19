@@ -1,4 +1,3 @@
-
 ---
 layout: recipe
 author: Anders Erickson
