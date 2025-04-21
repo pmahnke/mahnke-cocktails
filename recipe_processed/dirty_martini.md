@@ -60,7 +60,7 @@ excerpt: |
 
 <div class="subrecipe" markdown="1">
 
-## Anders' Variation On The Dirty Martini
+## Anders' Variation on the Dirty Martini
 
 ### Ingredients
 
@@ -74,8 +74,8 @@ excerpt: |
 
 ### Notes
 
-- Method: Shaken/Stirred/Build in the Glass
-- Pour: Double Strain/Julep Strain/Open Pour/Add all ingredients directly to the glass
+- Method: Stirred
+- Pour: Julep Strain
 - Glassware: Coupe
 - Garnish: An olive
 - Special Prep: None
