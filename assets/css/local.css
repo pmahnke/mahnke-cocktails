@@ -250,3 +250,6 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
 
 }
 
+div.subrecipe {
+  margin-bottom: 30px;
+}
