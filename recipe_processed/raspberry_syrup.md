@@ -17,7 +17,7 @@ excerpt: |
 | --------: | ----------- |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> cups </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> cups </span>| White Sugar |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> cups </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> cups </span>| Hot Water   |
-|    <span class="onex active">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 63 ml</span> <span class="onehalfx">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 94 ml</span> <span class="twox">5 oz  / 125 ml</span> <span class="threex">7 <sup>1</sup>&frasl;<sub>2</sub> oz  / 188 ml</span>| Raspberries |
+|    <span class="onex active">6 oz  / 150 ml</span> <span class="onehalfx">9 oz  / 225 ml</span> <span class="twox">12 oz  / 300 ml</span> <span class="threex">18 oz  / 450 ml</span>| Raspberries |
 
 ### Method
 
@@ -38,7 +38,7 @@ excerpt: |
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  "0.75 cups White Sugar",
   "0.75 cups Hot Water",
-  " 2.5 oz Raspberries"],
+  " 6 oz Raspberries"],
   "name": "{{ page.title }}",
   "recipeInstructions": "",
   "recipeYield": "1 cocktail",
