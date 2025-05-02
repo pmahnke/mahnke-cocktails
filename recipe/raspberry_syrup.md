@@ -17,7 +17,7 @@ excerpt: |
 | --------: | ----------- |
 | 0.75 cups | White Sugar |
 | 0.75 cups | Hot Water   |
-|    6 oz | Raspberries |
+|      6 oz | Raspberries |
 
 ### Method
 
