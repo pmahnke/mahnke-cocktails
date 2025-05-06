@@ -10,7 +10,7 @@ stars: 0
 base_spirits: "Bourbon, Vodka"
 youtube: "1V0-c6u4xJA"
 excerpt: |
-  Discover your new favorite cocktail recipe or learn how to make a classic drink—like the Old Fashioned, mojito, or White Russian—right at home.
+  Each of the Triple Crown races has its own official drink. The iconic mint julep always accompanies the Kentucky Derby, the Belmont Stakes has the Belmont jewel, and the Preakness Stakes' official drink is the black-eyed Susan. Named after the Maryland state flower and first created in 1973, it's a refreshing cocktail that anyone can make at home.
 ---
 
 ### Ingredients
