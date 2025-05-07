@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Don Beach
 title: "Zombie"
 categories: [tiki]
 eras: [classic]
@@ -10,7 +11,7 @@ stars: 0
 base_spirits: "Jamaican Rum, Gold Rum, Demerara Rum "
 youtube: '\_eCla7H-TA0&t=4s'
 excerpt: |
-  Discover your new favorite cocktail recipe or learn how to make a classic drink—like the Old Fashioned, mojito, or White Russian—right at home.
+  Created by Don Beach in 1934 at Don the Beachcomber's in Hollywood, USA. This recipe is adapted from one published in Jeff Berry's Sippin' Safari, which Jeff sourced from the 1937 notebook of Beachcomber's waiter Dick Santiago.
 ---
 
 ### Ingredients

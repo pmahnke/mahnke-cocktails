@@ -10,7 +10,7 @@ stars: 4
 base_spirits: "Gin, Apple Brandy "
 youtube: "MfHv2EOLUOo&t=336s"
 excerpt: |
-  Discover your new favorite cocktail recipe or learn how to make a classic drink—like the Old Fashioned, mojito, or White Russian—right at home.
+  The cocktail is probably named in honour of the American actress Hazel Dawn (1890-1988), who played the lead role in the 1911 Broadway hit musical comedy The Pink Lady by Ivan Caryll. She rose to fame playing this role and subsequently appeared in 15 feature films, but always retained The Pink Lady nickname.<br><br>The cocktail's creator is not recorded, but sometimes it is attributed to the American actress and interior decorator Elsie de Wolfe (1859-1950).
 ---
 
 ### Ingredients

@@ -10,7 +10,7 @@ stars: 0
 base_spirits: "Rye "
 youtube: "eWESf1b317Y&t=278s"
 excerpt: |
-  Discover your new favorite cocktail recipe or learn how to make a classic drink—like the Old Fashioned, mojito, or White Russian—right at home.
+  The Manhattan, a classic cocktail, believed to have started around the 1860s or 1870s, with a rich history, is a sophisticated and timeless drink that has captivated cocktail enthusiasts for generations. The Perfect Manhattan uses equal parts of sweet and dry vermouth.
 ---
 
 ### Ingredients
