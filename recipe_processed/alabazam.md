@@ -10,9 +10,7 @@ stars: 0
 base_spirits: "Cognac, Angostura Bitters"
 youtube: "nXED2nkfEEQ"
 excerpt: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  <br><br>
-  Donec vitae hendrerit risus. Pellentesque a blandit mi.
+  A very appealing 19th century cocktail, invented in 1878 by Leo Engel at the Criterion in London. It was a twist on the Brandy Crusta.
 ---
 
 ### Ingredients
