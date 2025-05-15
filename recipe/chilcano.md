@@ -5,7 +5,7 @@ creator: "Llama Inn, London EC2"
 title: "Chilcano"
 categories: [ spritz ]
 eras: [ modern  ]
-permalink: "/recipe/chilcano.html"
+permalink: "/recipe/chilcano/"
 iconfile: chilcano
 stars: 
 base_spirits: "Pisco"

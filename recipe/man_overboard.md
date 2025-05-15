@@ -5,7 +5,7 @@ creator: "Ryan Sheehan of Lowcountry"
 title: "Man Overboard"
 categories: [  sour ]
 eras: [ modern]
-permalink: "/recipe/man_overboard.html"
+permalink: "/recipe/man_overboard/"
 iconfile: man_overboard
 stars: 
 base_spirits: "Rye, Triple sec"
