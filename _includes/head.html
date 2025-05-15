@@ -20,7 +20,7 @@
     <meta property="og:description" content="{{ page.excerpt | strip_html | replace: '"', "'" | truncatewords: 150 }}">
 
     {% if page.url -%}
-    {%- assign canonical_url = site.url | append: page.url -%}
+    {%- assign canonical_url = site.url | append: site.baseurl | append: page.url -%}
     <link rel="canonical" href="{{ canonical_url | replace:'index.html','' | replace:'index.md','' }}">
     {%- endif %}
 
