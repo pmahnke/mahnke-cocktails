@@ -5,7 +5,7 @@ creator: "Seed Library"
 title: "Cloud Sour"
 categories: [ sour ]
 eras: [ modern ]
-permalink: "/recipe/cloud_sour.html"
+permalink: "/recipe/cloud_sour/"
 iconfile: cloud_sour
 stars: 
 base_spirits: "Gin"

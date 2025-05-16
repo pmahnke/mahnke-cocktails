@@ -1,0 +1,15 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot liqueur
+    - url: /cocktails/assets/images/ingredient-sloe-gin.svg
+      title: Sloe gin
+  tool:
+    - url: /cocktails/assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  garnish:
+    - url: /cocktails/assets/images/slice_lime.svg
+      title: Lime slice
