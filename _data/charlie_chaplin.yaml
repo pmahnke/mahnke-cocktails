@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /cocktails/assets/images/ingredient-apricot-liqueur.svg
       title: Apricot liqueur
+    - url: /cocktails/assets/images/ingredient-gin.svg
+      title: Gin
     - url: /cocktails/assets/images/ingredient-sloe-gin.svg
       title: Sloe gin
   tool:
