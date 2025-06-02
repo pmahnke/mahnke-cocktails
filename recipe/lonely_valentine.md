@@ -23,7 +23,7 @@ excerpt: |
 |  0.5 oz | Ruby Port                                                 | Fonsecca Bin 27   |
 |  0.5 oz | White Crème de Cacao                                      | Marie Brizard     |
 | 0.75 oz | Fresh Lemon Juice                                         |
-| 0.25 oz | Semi-Rich [Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
 ### Notes
 

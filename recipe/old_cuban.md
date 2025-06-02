@@ -19,7 +19,7 @@ excerpt: |
 | ------------: | --------------------------------------------------------- | -------------------------- |
 |        1.5 oz | Gold Rum                                                  | Angostura 1919             |
 |       0.75 oz | Fresh Lime Juice                                          |
-|        0.5 oz | Semi-Rich [Simple Syrup]({%link recipe/simple_syrup.md%}) |
+|        0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 2 to 3 dashes | Bitters                                                   | Angostura Aromatic Bitters |
 | 6 to 8 leaves | Mint                                                      |
 |          2 oz | Sparkling Wine                                            |

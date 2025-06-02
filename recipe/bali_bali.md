@@ -26,7 +26,7 @@ excerpt: |
 | 0.75 oz | Pineapple Juice                                           |
 | 0.75 oz | Orange Juice                                              |
 | 0.75 oz | Fresh Lime Juice                                          |
-| 0.25 oz | Semi-Rich [Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
 ### Notes
 

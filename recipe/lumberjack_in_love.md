@@ -21,7 +21,7 @@ excerpt: |
 |  0.5 oz | Allspice Dram                                             | St. Elizabeth         |
 |    2 oz | Montmorency Cherry Juice                                  |
 | 0.25 oz | Fresh Lemon Juice                                         |
-| 0.25 oz | Semi-Rich [Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |    4 oz | Oktoberfest                                               | Spiteful Brewing      |
 
 ### Notes
