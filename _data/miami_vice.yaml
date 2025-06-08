@@ -1,0 +1,15 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-light-rum.svg
+      title: Light rum
+  tool:
+    - url: /cocktails/assets/images/tool_long-stirrer.svg
+      title: Long stirrer
+  glass:
+    - url: /cocktails/assets/images/glass_hurricane.svg
+      title: Hurricane
+  garnish:
+    - url: /cocktails/assets/images/slice_pineapple.svg
+      title: Pineapple slice
+    - url: /cocktails/assets/images/fruit_strawberry.svg
+      title: Strawberry

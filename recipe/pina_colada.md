@@ -15,13 +15,13 @@ excerpt: |
 
 ### Ingredients
 
-|     Amount | Ingredient            | Brand                 |
-| ---------: | --------------------- | --------------------- |
-|       2 oz | Light Rum             | The Real McCoy 3 Year |
-|       1 oz | Cream of Coconut      |
-|       1 oz | Coconut Milk          |
-|       6 oz | Fresh Pineapple Juice |
-| 8 to 10 oz | Crushed Ice           |
+|     Amount | Ingredient                                                    | Brand                 |
+| ---------: | ------------------------------------------------------------- | --------------------- |
+|       2 oz | Light Rum                                                     | The Real McCoy 3 Year |
+|       1 oz | [Cream of Coconut]({%link recipe/cream_of_coconut_syrup.md%}) |
+|       1 oz | Coconut Milk                                                  |
+|       6 oz | Fresh Pineapple Juice                                         |
+| 8 to 10 oz | Crushed Ice                                                   |
 
 ### Notes
 
