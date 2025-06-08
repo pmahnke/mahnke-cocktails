@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Miami Vice"
-categories: [frappe_swizzle, sour]
+categories: [frozen, sour]
 eras: [modern]
 permalink: "/recipe/miami_vice/"
 iconfile: miami_vice
