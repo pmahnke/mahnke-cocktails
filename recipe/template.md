@@ -1,7 +1,7 @@
 ---
 layout: recipe
-author: Anders Erickson, Leandro DiMonriva
-title: "NAME"
+author: Anders Erickson
+title: "Algonquin"
 categories:
   [
     after_dinner,
@@ -32,8 +32,8 @@ categories:
     toddy,
   ]
 eras: [anders, classic, modern, new_orleans, prohibition]
-permalink: "/recipe/NAME/"
-iconfile: NAME
+permalink: "/recipe/algonquin/"
+iconfile: algonquin
 stars: 0
 base_spirits: "SPIRIT, SPIRIT"
 youtube: "LINK"

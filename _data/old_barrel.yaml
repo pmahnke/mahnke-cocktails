@@ -1,0 +1,20 @@
+images:
+  ingredient:
+    - url: /cocktails/assets/images/ingredient-benedictine.svg
+      title: Benedictine
+    - url: /cocktails/assets/images/ingredient-rye.svg
+      title: Rye
+    - url: /cocktails/assets/images/ingredient-sherry.svg
+      title: Sherry
+  tool:
+    - url: /cocktails/assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /cocktails/assets/images/glass_old-fashioned.svg
+      title: Old fashioned
+  garnish:
+    - url: /cocktails/assets/images/twist_lemon.svg
+      title: Lemon twist
+  ice:
+    - url: /cocktails/assets/images/ice_large.svg
+      title: Large
