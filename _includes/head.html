@@ -12,9 +12,9 @@
       gtag('config', 'G-2XJC3WX9P5');
     </script>
 
-    <title>{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {%- endif -%}{{ site.title | escape }}</title>
-    <meta name="twitter:title" content="{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {%- endif -%}{{ site.title | escape }}" >
-    <meta property="og:title" content="{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {%- endif -%}{{ site.title | escape }}" >
+    <title>{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {% endif %}{{ site.title | escape }}</title>
+    <meta name="twitter:title" content="{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {% endif %}{{ site.title | escape }}" >
+    <meta property="og:title" content="{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {% endif %}{{ site.title | escape }}" >
     <meta name="keywords" content="cocktail, cocktail recipe, {{ page.keywords | join: ', ' | escape }}, {{ page.base_spirits | join: ', ' | escape }}, {{ page.style | join: ', ' | escape }}">
     <meta name="description" content="{{ page.excerpt | strip_html | replace: '"', "'" | truncatewords: 150 }}">
     <meta property="og:description" content="{{ page.excerpt | strip_html | replace: '"', "'" | truncatewords: 150 }}">
