@@ -41,7 +41,10 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  " 2 whole Strawberries ",
@@ -53,7 +56,8 @@ excerpt: |
   "1 oz Simple Syrup",
   "1 oz Red Bitter Soda"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
+  "recipeInstructions": [
+      {
     '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
@@ -81,15 +85,15 @@ excerpt: |
     '@type': 'HowToStep',
     'text': '- Special Prep: Muddle the whole strawberries, cucumber slices and orange and grapefruit swaths in the cheater tin till they are broken up. Add the remaining ingredients, and shake. Double strain into glass, top the drink with the red soda and garnish with a strawberry and a cucumber wheel.
 '
-  }",
+  }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
 }
 </script>
 

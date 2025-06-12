@@ -37,7 +37,10 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  " 2 oz Sloe Gin ",
@@ -45,7 +48,8 @@ excerpt: |
   " 0.5 oz Semi-Rich Simple Syrup",
   "2 to 3 oz Sparkling Water Topo Chico "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
+  "recipeInstructions": [
+      {
     '@type': 'HowToStep',
     'text': '- Method: Shaken
 '
@@ -73,15 +77,15 @@ excerpt: |
     '@type': 'HowToStep',
     'text': '- Special Prep: 1 For variations, drop Sloe Gin to 1.5 oz. (45 ml), & add 0.5 oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).
 '
-  }",
+  }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
 }
 </script>
 

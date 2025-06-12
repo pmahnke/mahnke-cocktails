@@ -38,7 +38,10 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  " 60 ml Acholada Pisco ",
@@ -47,7 +50,8 @@ excerpt: |
   "2 dashes Angostora bitters",
   "100 ml Club Soda"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
+  "recipeInstructions": [
+      {
     '@type': 'HowToStep',
     'text': '- Method: Build in the Glass
 '
@@ -70,15 +74,15 @@ excerpt: |
   },  {
     '@type': 'HowToStep',
     'text': '- Special Prep: Measure everything bar the soda into a tall glass, add ice and stir to combine. Top up with soda to taste, and serve.'
-  }",
+  }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
 }
 </script>
 

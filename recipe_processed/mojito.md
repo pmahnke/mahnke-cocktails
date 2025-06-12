@@ -67,7 +67,10 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  " 2 oz Light Rum ",
@@ -76,7 +79,8 @@ excerpt: |
   "10 to 12 leaves Mint",
   "3 to 5 oz Soda Water"],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
+  "recipeInstructions": [
+      {
     '@type': 'HowToStep',
     'text': '-
 '
@@ -100,15 +104,15 @@ excerpt: |
     '@type': 'HowToStep',
     'text': '- Prep: Add mint leaves to the glass and bruise them gently with a barspoon. Pull them up the side of the glass to coat the glass with the essential oils. Add ice, and pour in the cocktail. Top with soda water.
 '
-  }",
+  }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
 }
 </script>
 

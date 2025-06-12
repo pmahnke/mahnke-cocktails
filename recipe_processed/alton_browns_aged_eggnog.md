@@ -46,7 +46,10 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "recipeIngredient": [  " 6 whole Egg Yolks",
@@ -60,7 +63,8 @@ excerpt: |
   " 0.5 cup Bourbon",
   "0.125 barspoon salt "],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
+  "recipeInstructions": [
+      {
     '@type': 'HowToStep',
     'text': '- Method: Build in a mixing bowl
 '
@@ -92,15 +96,15 @@ excerpt: |
     '@type': 'HowToStep',
     'text': '  - Move to glass jars and store sealed in the fridge.
 '
-  }",
+  }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
   "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
 }
 </script>
 
