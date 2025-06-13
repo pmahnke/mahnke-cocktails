@@ -56,102 +56,106 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "1 oz Galliano",
+  "recipeIngredient": [
+  "1 oz Galliano",
   "1 oz White Crème de Cacao",
-  "1 oz Heavy Cream "],
+  "1 oz Heavy Cream "
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Nick & Nora
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Grated nutmeg
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: None
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '### The Blended Milkshake
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '### Ingredients
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|   Amount | Ingredient           | Brand                |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| -------: | -------------------- | -------------------- |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| 3 scoops | Vanilla Ice Cream    |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|   1.5 oz | Galliano             | Galliano L’Autentico |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|   1.5 oz | White Crème de Cacao | Marie Brizard        |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|     1 oz | Half & Half          |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|  0.25 oz | Crushed Ice          |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '### Notes
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Method: Blended
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: open pour
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Large Glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Grated nutmeg
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Top with [crème de cacao whipped cream]({%link recipe_processed/creme_de_cacao_whipped_cream.md%}).
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Nick & Nora"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Grated nutmeg"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: None"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "### The Blended Milkshake"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "### Ingredients"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|   Amount | Ingredient           | Brand                |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| -------: | -------------------- | -------------------- |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| 3 scoops | Vanilla Ice Cream    |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|   1.5 oz | Galliano             | Galliano L’Autentico |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|   1.5 oz | White Crème de Cacao | Marie Brizard        |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|     1 oz | Half & Half          |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|  0.25 oz | Crushed Ice          |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "### Notes"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Blended"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: open pour"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Large Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Grated nutmeg"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Top with [crème de cacao whipped cream]({%link recipe_processed/creme_de_cacao_whipped_cream.md%})."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

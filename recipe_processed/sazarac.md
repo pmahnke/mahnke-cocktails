@@ -37,45 +37,49 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "1.5 oz Rye",
+  "recipeIngredient": [
+  "1.5 oz Rye",
   "0.5 oz Cognac ",
   " 0.25 oz Semi-rich Simple Syrup",
   "3 dashes Bitters",
   "1 dash Bitters",
-  " 1 rinse Absinthe "],
+  " 1 rinse Absinthe "
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Stirred
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Julep Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Low Ball
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Lemon zest
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Rinse the glass with absinthe. Strain in cocktail. Express lemon oil on the drink.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Stirred"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Julep Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Low Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Lemon zest"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Rinse the glass with absinthe. Strain in cocktail. Express lemon oil on the drink."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

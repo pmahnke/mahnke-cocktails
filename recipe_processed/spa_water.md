@@ -38,52 +38,56 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 4 slices Cucumber ",
+  "recipeIngredient": [
+  " 4 slices Cucumber ",
   "4 to 6 leaves Mint ",
   " 1 oz Fresh Lime Juice ",
   " 0.5 oz Semi-rich Simple Syrup",
-  "2 to 3 oz Soda Water "],
+  "2 to 3 oz Soda Water "
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in the Glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Julep Cup
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Crushed Ice
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Sprig of Mint and Slice of Cucumber
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Add the cucumber, mint, lime juice and simple syrup to the cup and muddle. Fill the cup with crushed ice and top with soda water.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Julep Cup"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Crushed Ice"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Sprig of Mint and Slice of Cucumber"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Add the cucumber, mint, lime juice and simple syrup to the cup and muddle. Fill the cup with crushed ice and top with soda water."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

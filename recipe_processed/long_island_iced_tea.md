@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/long_island_iced_tea/"
 iconfile: long_island_iced_tea
 stars: 4
-base_spirits: "Vodka, Light Rum, Gin, Blanco Taquila"
+base_spirits: "Vodka, Light Rum, Gin, Blanco Tequila"
 youtube: "jLTLBQqWzq8"
 excerpt: |
   The Long Island Iced Tea is as boozy as cocktails get, with a guaranteed hangover. But with four liquors, one liqueur, lemon and cola, it somehow works.
@@ -39,47 +39,51 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "1 oz Vodka ",
+  "recipeIngredient": [
+  "1 oz Vodka ",
   "1 oz Light Rum ",
   "1 oz Gin ",
   "1 oz Blanco Tequila",
   "1 oz Triple Sec",
   "1 oz Fresh Lemon Juice ",
   "0.5 oz Rich Demerara Syrup",
-  "0.5 oz Cola Coca-Cola"],
+  "0.5 oz Cola Coca-Cola"
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Open Pour
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Large Mug
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Lemon Wheel
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Top with Coca-Cola
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Open Pour"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Large Mug"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Lemon Wheel"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Top with Coca-Cola"
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

@@ -36,44 +36,48 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "2 oz Gin",
+  "recipeIngredient": [
+  "2 oz Gin",
   " 0.75 oz Semi-rich Simple Syrup",
   " 0.5 whole Lemon",
   "10 to 15 whole Blueberries",
-  " 4 to 6 sprigs Thyme"],
+  " 4 to 6 sprigs Thyme"
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Blueberries & bundle of thyme Special
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blueberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Blueberries & bundle of thyme Special"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blueberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

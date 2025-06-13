@@ -40,10 +40,13 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 3 cups Fresh Apple Cider ",
+  "recipeIngredient": [
+  " 3 cups Fresh Apple Cider ",
   " 2 cups Amontillado Sherry",
   "1 cup Dark Beer ",
   "0.5 cup Apple Brandy",
@@ -51,37 +54,38 @@ excerpt: |
   "8 whole Cloves",
   "8 berries Allspice",
   " 4 sticks Cinnamon",
-  " 4 pods Cardamom"],
+  " 4 pods Cardamom"
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in the Pot
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the pot
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Tea cups
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Dried Apples
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Add spices to a spice bag.Add apple cider and the spice bag to a pot and heat.Add remaining ingredients to the pot.Simmer covered for 20 to 25 minutes.Turn off the heat, remove spice bag and add the apple brandy. Serve in tea cups garnished with the dries apple slices.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Pot"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the pot"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Tea cups"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Dried Apples"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Add spices to a spice bag.Add apple cider and the spice bag to a pot and heat.Add remaining ingredients to the pot.Simmer covered for 20 to 25 minutes.Turn off the heat, remove spice bag and add the apple brandy. Serve in tea cups garnished with the dries apple slices."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

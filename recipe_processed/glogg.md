@@ -40,10 +40,13 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 1 bottle Red Wine ",
+  "recipeIngredient": [
+  " 1 bottle Red Wine ",
   "12 oz Ruby Port",
   " 6 oz Cognac ",
   " 0.5 cups Demerara Sugar ",
@@ -51,37 +54,38 @@ excerpt: |
   "4 whole Green Cardamom Pods",
   "8 whole Cloves ",
   " 2 sticks Cinnamon ",
-  " 4 strips Orange Peel"],
+  " 4 strips Orange Peel"
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Simmered
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Ladle
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Wine
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Raisins from the pot
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Heat the alcohol in a non-reactive pot, but do not boil. Add sugar and spices in a pouch. Simmer for20 minutes. Take off the heat and add raisins. Let rest for one hour. Remove spice bag and serve hot.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Simmered"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Ladle"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Wine"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Raisins from the pot"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Heat the alcohol in a non-reactive pot, but do not boil. Add sugar and spices in a pouch. Simmer for20 minutes. Take off the heat and add raisins. Let rest for one hour. Remove spice bag and serve hot."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

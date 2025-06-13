@@ -36,44 +36,48 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "2 oz Light Rum",
+  "recipeIngredient": [
+  "2 oz Light Rum",
   "1 oz Cream of Coconut",
   "1 oz Coconut Milk ",
   "6 oz Fresh Pineapple Juice",
-  "8 to 10 oz Crushed Ice"],
+  "8 to 10 oz Crushed Ice"
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Blended
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Open Pour
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Large glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Pineapple pieces, pineapple fronds and cocktail cherries
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Use an emersion blender directly in the shaker tin. Blend intill frothy.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Blended"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Open Pour"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Large glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Pineapple pieces, pineapple fronds and cocktail cherries"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Use an emersion blender directly in the shaker tin. Blend intill frothy."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

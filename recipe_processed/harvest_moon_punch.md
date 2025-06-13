@@ -38,46 +38,50 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 12 oz Jamaican Rum",
+  "recipeIngredient": [
+  " 12 oz Jamaican Rum",
   "9 oz Apple Brandy",
   "6 oz Orchard Pear Liqueur",
   "3 oz Allspice Dram ",
   "6 oz Rich Demerara Syrup",
   "9 oz Fresh Lemon Juice ",
-  "24 oz. Black Tea (chilled) "],
+  "24 oz. Black Tea (chilled) "
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: ShakenBuild in the serving vessel
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the glaserving vesselss
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Punch Glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Grated nutmeg
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Add large ice cubes of black tea and apple slices
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: ShakenBuild in the serving vessel"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the glaserving vesselss"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Punch Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Grated nutmeg"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Add large ice cubes of black tea and apple slices"
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

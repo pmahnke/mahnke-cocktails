@@ -54,105 +54,109 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "2 oz Brandy ",
+  "recipeIngredient": [
+  "2 oz Brandy ",
   " 0.25 oz Semi-Rich Simple Syrup",
   "4 dashes Bitters",
   "2 wedges Orange ",
   " 1 whole Cocktail Cherry",
-  "0.5 oz Wash - See below "],
+  "0.5 oz Wash - See below "
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in the Glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Low Ball
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Crushed Ice
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Orange slice and a cocktail cherry
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Add the 2 wedges of orange and the cocktail cherry to the glass and muddle. Add the remaining ingredients. Top with the wash of choice.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '### Washes
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Sweet:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - 7 Up
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Sprite
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Sour:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Squirt
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Fresca
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Soda:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Soda Water
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Press:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Half Soda Water/Half Sweet
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- No Wash:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - No Floater
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Low Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Crushed Ice"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Orange slice and a cocktail cherry"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Add the 2 wedges of orange and the cocktail cherry to the glass and muddle. Add the remaining ingredients. Top with the wash of choice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "### Washes"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Sweet:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - 7 Up"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Sprite"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Sour:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Squirt"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Fresca"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Soda:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Soda Water"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Press:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Half Soda Water/Half Sweet"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- No Wash:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - No Floater"
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

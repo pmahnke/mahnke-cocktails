@@ -36,44 +36,48 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 1.5 oz Light Rum",
+  "recipeIngredient": [
+  " 1.5 oz Light Rum",
   " 0.5 oz Apricot Liqueur",
   " 1 oz Pineapple Juice",
   " 0.5 oz Fresh Lime Juice ",
-  "0.25 oz Semi-rich Simple Syrup"],
+  "0.25 oz Semi-rich Simple Syrup"
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Cocktail
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Lime Wheel
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Let the cocktail rest to allow for the foam to subside before floating the lime wheel on top.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Cocktail"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Lime Wheel"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Let the cocktail rest to allow for the foam to subside before floating the lime wheel on top."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

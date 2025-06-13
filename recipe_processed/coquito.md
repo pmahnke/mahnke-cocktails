@@ -51,83 +51,87 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "8 oz Coconut Milk",
+  "recipeIngredient": [
+  "8 oz Coconut Milk",
   "4 oz Evaporated Milk",
   "4 oz Sweetened Condensed Milk",
   "2 oz Cream of Coconut",
   "0.25 oz (7.5 ml) Vanilla Extract",
   "2 oz Chilled Spice Tea",
   "1 pinch Salt",
-  "4 oz Gold Rum"],
+  "4 oz Gold Rum"
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Blender
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: From a Pitcher
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Cocktail Glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Grated nutmeg
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Chill over night.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '### Spice Tea
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|   Amount | Ingredient |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| -------: | ---------- |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| 4 sticks | Cinnamon   |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| 25 whole | Cloves     |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|  1 whole | Star Anise |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|    1 cup | Water      |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '### Method:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '1. Boil water with spices until volume is reduced by half. Chill in fridge or freezer.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Blender"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: From a Pitcher"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Cocktail Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Grated nutmeg"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Chill over night."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "### Spice Tea"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|   Amount | Ingredient |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| -------: | ---------- |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| 4 sticks | Cinnamon   |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| 25 whole | Cloves     |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|  1 whole | Star Anise |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|    1 cup | Water      |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "### Method:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "1. Boil water with spices until volume is reduced by half. Chill in fridge or freezer."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

@@ -38,51 +38,55 @@ and for garnish
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "0.75 oz Egg White",
+  "recipeIngredient": [
+  "0.75 oz Egg White",
   "0.75 oz Grenadine",
   " 1.5 oz Grapefruit Juice ",
-  " 0.5 oz Fresh Lemon Juice"],
+  " 0.5 oz Fresh Lemon Juice"
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Nick &amp; Nora
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Cocktail cherry
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Expressed grapefruit oil.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Nick &amp; Nora"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Cocktail cherry"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Expressed grapefruit oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

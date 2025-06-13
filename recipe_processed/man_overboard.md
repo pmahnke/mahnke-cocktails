@@ -39,44 +39,48 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 35 ml Rye whiskey",
+  "recipeIngredient": [
+  " 35 ml Rye whiskey",
   " 25 ml Triple sec ",
   " 20 ml Sweet red vermouth ",
   " 15 ml Fresh lemon juice",
-  " 10 ml Semi-Rich Simple Syrup"],
+  " 10 ml Semi-Rich Simple Syrup"
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain 
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Nick & Nora
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Lemon twist
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Pour all the liquids into a shaker filled with ice, shake hard, then double strain into a nick & nora glass (or coupe). Garnish with the lemon twist and serve.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Nick & Nora"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Lemon twist"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Pour all the liquids into a shaker filled with ice, shake hard, then double strain into a nick & nora glass (or coupe). Garnish with the lemon twist and serve."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

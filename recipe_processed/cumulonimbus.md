@@ -40,64 +40,68 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 2 oz Freshly Brewed Espresso",
+  "recipeIngredient": [
+  " 2 oz Freshly Brewed Espresso",
   "0.75 oz Cinnamon Syrup",
   "3 Drops Orange Blossom Water ",
   "0.75 oz Egg White",
-  " 1 oz Soda Water "],
+  " 1 oz Soda Water "
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: High Ball
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: None
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Add half the soda water to the glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Strain in the cocktail.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Top with more soday water.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Expressed orange oil.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: High Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: None"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Add half the soda water to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Strain in the cocktail."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Top with more soday water."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Expressed orange oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

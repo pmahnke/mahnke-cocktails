@@ -43,65 +43,69 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 12 oz Ale ",
+  "recipeIngredient": [
+  " 12 oz Ale ",
   "1 oz Jamaican Rum",
   " 1 whole Egg ",
   "1 oz Demerara Sugar",
   "0.25 tsp Ginger, Powdered",
-  "0.25 tsp Nutmeg, Grated"],
+  "0.25 tsp Nutmeg, Grated"
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in the Glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Beer Mug
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: None
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  1. Heat the ale, but do not boil
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  1. Add the rum, egg, sugar and spices to a bowl, and whisk to combine
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  1. Add the hot ale to one mug, and the batter to another
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  1. Toss the ale into the batter
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  1. Continue to toss the now mixed drink back and forth several times until the drink is smooth.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Beer Mug"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: None"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Heat the ale, but do not boil"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Add the rum, egg, sugar and spices to a bowl, and whisk to combine"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Add the hot ale to one mug, and the batter to another"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Toss the ale into the batter"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Continue to toss the now mixed drink back and forth several times until the drink is smooth."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

@@ -36,44 +36,48 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 3 swaths Lemons Peels",
+  "recipeIngredient": [
+  " 3 swaths Lemons Peels",
   "0.75 cups Demerara Sugar",
   " 2 cups Pineapple-infused Jamaican Rum",
   "1 cup Cognac",
-  " 4 cups Brewed Black Tea"],
+  " 4 cups Brewed Black Tea"
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Make in a large pot
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Laddle
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Tea cups
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Expressed lemon oil
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Add lemon peels and the sugar to a cold sauce pan and massage the sugar into the peels. Let this sit for 24 hours. This is called an oleo-saccharum. Next, make four cups |of black tea in the usual manner. Add the rum and cognac to the oleo-saccharum. Put the pot on a low heat to warm up the mixture, but do not boil. Turn off heat and light mixture to caramelize the sugars. Add lemon juice and tea. Return to low heat and do not boil. Remove lemon peels before serving.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Make in a large pot"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Laddle"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Tea cups"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Expressed lemon oil"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Add lemon peels and the sugar to a cold sauce pan and massage the sugar into the peels. Let this sit for 24 hours. This is called an oleo-saccharum. Next, make four cups |of black tea in the usual manner. Add the rum and cognac to the oleo-saccharum. Put the pot on a low heat to warm up the mixture, but do not boil. Turn off heat and light mixture to caramelize the sugars. Add lemon juice and tea. Return to low heat and do not boil. Remove lemon peels before serving."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 
