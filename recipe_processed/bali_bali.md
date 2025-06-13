@@ -48,8 +48,8 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "0.75 oz Jamaican Rum ",
+  "recipeIngredient": [
+  "0.75 oz Jamaican Rum ",
   "0.75 oz Light Rum",
   "0.75 oz Cognac ",
   "0.75 oz Gin",
@@ -58,46 +58,46 @@ excerpt: |
   "0.75 oz Pineapple Juice",
   "0.75 oz Orange Juice ",
   "0.75 oz Fresh Lime Juice ",
-  "0.25 oz Semi-Rich Simple Syrup"],
+  "0.25 oz Semi-Rich Simple Syrup"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Open Pour
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Tiki
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Crushed Ice
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Pineapple fronds & cocktail umbrella
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Top with crushed ice.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Open Pour"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Tiki"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Crushed Ice"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Pineapple fronds & cocktail umbrella"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Top with crushed ice."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

@@ -47,8 +47,8 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "0.5 whole Orange",
+  "recipeIngredient": [
+  "0.5 whole Orange",
   "0.5 whole Lemon ",
   "0.5 whole Apple ",
   " 3 oz Rich Demerara Syrup",
@@ -56,46 +56,46 @@ excerpt: |
   " 4 oz Grand Marnier ",
   " 6 oz Olorosso Sherry ",
   " 750 ml Red Wine Louis Jadot Beaujolais-Villages",
-  " 0.5 oz Soda Water (Optional) "],
+  " 0.5 oz Soda Water (Optional) "
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in the Pitcher
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the pitcher
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - High Ball
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - On the Rocks
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Soaked fruit
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Top glasses with soda water
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Pitcher"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the pitcher"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - High Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - On the Rocks"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Soaked fruit"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Top glasses with soda water"
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

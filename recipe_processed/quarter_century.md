@@ -40,42 +40,42 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 0.5 oz Campari",
+  "recipeIngredient": [
+  " 0.5 oz Campari",
   " 0.5 oz Apricot Liqueur",
   "1 to 2 dashes Absinthe ",
-  " 4 oz Champagne"],
+  " 4 oz Champagne"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Stirred
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Julep Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Coupe
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Expressed lemon oil
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Pour cocktail into the coupe and top with champagne. Then express the lemon oil over the top of the cocktail.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Stirred"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Julep Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Coupe"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Expressed lemon oil"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Pour cocktail into the coupe and top with champagne. Then express the lemon oil over the top of the cocktail."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

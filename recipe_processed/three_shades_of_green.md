@@ -42,44 +42,44 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "1.5 oz Gin",
+  "recipeIngredient": [
+  "1.5 oz Gin",
   "0.5 oz Green Chartreuse ",
   "0.5 oz Semi-Rich Simple Syrup",
   "0.5 oz Fresh Lemon Juice",
   "3 slices Cucumber ",
-  "5 leaves Basil"],
+  "5 leaves Basil"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Coupe
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Cucumber wheel
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Add the basil and cucumber wheels to the cheater tin and muddle into a paste. Add other ingredients to the large tin and add ice. Combine the contents of both tins, and shake.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Coupe"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Cucumber wheel"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Add the basil and cucumber wheels to the cheater tin and muddle into a paste. Add other ingredients to the large tin and add ice. Combine the contents of both tins, and shake."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

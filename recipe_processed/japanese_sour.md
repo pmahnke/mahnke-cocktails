@@ -46,62 +46,62 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "2 oz Shochu or Vodka",
+  "recipeIngredient": [
+  "2 oz Shochu or Vodka",
   "1 oz Lemon juice",
   "0.5 oz Simple Syrup",
-  "4 oz Soda Water "],
+  "4 oz Soda Water "
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glass: Collins
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Lemon wedge
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: None
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '### Tips and Variations:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Shochu: Traditionally, shochu is used, but vodka works well as a substitute.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Honey Lemon Sour: Substitute [honey syrup]({%- link recipe_processed/honey_syrup.md -%}) for simple syrup.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Yuzu Lemon Sour: Add a splash of yuzu juice for a citrusy twist.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Salty Lemon Sour: Add a pinch of salt to the shaker for a savory kick.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glass: Collins"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Lemon wedge"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: None"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "### Tips and Variations:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Shochu: Traditionally, shochu is used, but vodka works well as a substitute."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Honey Lemon Sour: Substitute [honey syrup]({%- link recipe_processed/honey_syrup.md -%}) for simple syrup."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Yuzu Lemon Sour: Add a splash of yuzu juice for a citrusy twist."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Salty Lemon Sour: Add a pinch of salt to the shaker for a savory kick."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

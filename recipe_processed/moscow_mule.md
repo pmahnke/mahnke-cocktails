@@ -42,50 +42,50 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 2 oz Vodka ",
+  "recipeIngredient": [
+  " 2 oz Vodka ",
   "0.75 oz Fresh Lime Juice",
   "2 to 3 dashes Bitters ",
-  "4 to 5 oz Ginger Beer "],
+  "4 to 5 oz Ginger Beer "
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in the Glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Copper Mug
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - On the Rocks
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Large mint sprig
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Pour in the vodka, lime juice and bitters then top with the ginger beer.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Copper Mug"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - On the Rocks"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Large mint sprig"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Pour in the vodka, lime juice and bitters then top with the ginger beer."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

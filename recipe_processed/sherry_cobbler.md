@@ -41,49 +41,49 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 3 oz Oloroso Sherry ",
+  "recipeIngredient": [
+  " 3 oz Oloroso Sherry ",
   " 1 oz Orange Curaçao ",
-  "1 whole Orange Wheel, quartered"],
+  "1 whole Orange Wheel, quartered"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Goblet
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Crushed Ice
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Fresh raspberries & mint
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: juice and add the 4 quarters of the orange wheel to the shaker.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Goblet"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Crushed Ice"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Fresh raspberries & mint"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: juice and add the 4 quarters of the orange wheel to the shaker."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

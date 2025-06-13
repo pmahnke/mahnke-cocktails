@@ -40,42 +40,42 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 1 oz Vodka ",
+  "recipeIngredient": [
+  " 1 oz Vodka ",
   "0.75 oz White Crème de Cacao",
   " 0.5 oz Apricot Liqueur ",
-  " 0.5 oz Fresh Lemon Juice "],
+  " 0.5 oz Fresh Lemon Juice "
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Coupe
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: None
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Sugared Rim
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Coupe"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: None"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Sugared Rim"
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

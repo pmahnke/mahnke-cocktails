@@ -42,44 +42,44 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 1.5 oz Mezcal ",
+  "recipeIngredient": [
+  " 1.5 oz Mezcal ",
   " 0.5 oz Agave Nectar ",
   "0.25 oz Fresh Lemon Juice",
   "4 to 5 oz Hibiscus Tea ",
   "1 Stick Cinnamon ",
-  "4 whole Cloves "],
+  "4 whole Cloves "
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in the Glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Mug
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Clove-studded orange peel
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Express the orange oil over the drink, then stud the peel with the cloves.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Mug"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Clove-studded orange peel"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Express the orange oil over the drink, then stud the peel with the cloves."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

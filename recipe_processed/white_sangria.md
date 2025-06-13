@@ -72,46 +72,46 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "1 half Peach, sliced ",
+  "recipeIngredient": [
+  "1 half Peach, sliced ",
   "1 half Lemon, sliced ",
   "4 to 5 whole Strawberries, sliced",
   "3 oz Semi-RichSimple Syrup",
   "4 oz Fresh Lemon Juice ",
   "4 oz Apricot Liqueur ",
   "6 oz Fino Sherry ",
-  "750 ml Dry White Wine"],
+  "750 ml Dry White Wine"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in Punch Bowl
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the punch bowl
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Punch Cups
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: A strawberry and a peach slice
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Optionally, top each glass with a splash of soda water
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in Punch Bowl"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the punch bowl"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Punch Cups"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: A strawberry and a peach slice"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Optionally, top each glass with a splash of soda water"
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

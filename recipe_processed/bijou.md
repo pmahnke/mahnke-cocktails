@@ -63,98 +63,98 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "0.75 oz Gin ",
+  "recipeIngredient": [
+  "0.75 oz Gin ",
   "0.75 oz Sweet Vermouth",
   "0.75 oz Green Chartreuse",
-  " 1 dash Orange Bitters"],
+  " 1 dash Orange Bitters"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Stirred
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Julep Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Nick & Nora
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Cocktail cherry
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Expressed lemon oil.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '## Modern Bijou
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '### Ingredients
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|  Amount | Ingredient       | Brand                     |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| ------: | ---------------- | ------------------------- |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| 1.25 oz | Gin              | Plymouth                  |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| 0.75 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| 0.25 oz | Green Chartreuse | Green Chartreuse          |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|  1 dash | Orange Bitters   | Regan's No. 6             |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '### Notes
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Method: Stirred
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Julep Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Nick & Nora
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Cocktail cherry
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Expressed lemon oil.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Stirred"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Julep Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Nick & Nora"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Cocktail cherry"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Expressed lemon oil."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "## Modern Bijou"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "### Ingredients"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|  Amount | Ingredient       | Brand                     |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| ------: | ---------------- | ------------------------- |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| 1.25 oz | Gin              | Plymouth                  |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| 0.75 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| 0.25 oz | Green Chartreuse | Green Chartreuse          |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|  1 dash | Orange Bitters   | Regan's No. 6             |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "### Notes"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Stirred"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Julep Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Nick & Nora"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Cocktail cherry"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Expressed lemon oil."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

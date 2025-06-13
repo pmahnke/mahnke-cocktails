@@ -46,53 +46,53 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "0.75 oz Jamaican Rum ",
+  "recipeIngredient": [
+  "0.75 oz Jamaican Rum ",
   "0.75 oz Gold Rum ",
   "0.25 oz Absinthe ",
   " 0.5 oz Fresh Lemon Juice",
   " 0.5 oz Fresh Lime Juice ",
   "0.75 oz Grenadine",
-  " 1 oz Sparkling Water"],
+  " 1 oz Sparkling Water"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Crushed Ice
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Open Pour
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Low Ball
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Pineapple fronds
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Pour cocktail into the glass, and top with sparkling water
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Crushed Ice"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Open Pour"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Low Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Pineapple fronds"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Pour cocktail into the glass, and top with sparkling water"
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

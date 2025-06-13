@@ -40,8 +40,10 @@ while (my $file = readdir DIR) {
             }
         }
 
+        my $step = $_;
+        chop($step);
         $FLAGnotes = 0 if (/<\/div>/ && $FLAGnotes); # deal with multirecipe, only render the first
-        $s_instructions .= qq |  {\n    "\@type": "HowToStep",\n    "text": "$_"\n  },| if ($FLAGnotes && length($_) > 1);
+        $s_instructions .= qq |    {\n      "\@type": "HowToStep",\n      "text": "$step"\n    },\n| if ($FLAGnotes && length($_) > 1);
         $FLAGnotes = 1 if (/\#\#\# Notes/ && !$s_instructions); 
 
 
@@ -110,9 +112,14 @@ while (my $file = readdir DIR) {
     chop($s_ingredient);
     chop($s_ingredient);
     chop($s_instructions);
+    chop($s_instructions);
     $s_ingredient =~ s/<(.[^>]*)>//g; # remove html tags
     $s_instructions =~ s/<(.[^>]*)>//g; # remove html tags
-    $s_instructions =~ s/\"/\'/g; # replace double quotes with single
+    #$s_instructions =~ s/\"/\'/g; # replace double quotes with single
+
+
+    # remove image as it isn't of the cocktail   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+
 
     $schema = qq ~
     
@@ -125,24 +132,27 @@ while (my $file = readdir DIR) {
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [$s_ingredient],
+  "recipeIngredient": [
+$s_ingredient
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-    $s_instructions
+$s_instructions
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 
     ~;
 
+    $schema =~ s/,,/,/g;
+    $schema =~ s/,"/"/g;
 
     my $outfile = $mydir.$file;
     open (NEWFILE, ">$outfile") or die "Cannot open newfile: $outfile\n";

@@ -47,71 +47,71 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "15 to 20 whole Fresh Blueberries",
+  "recipeIngredient": [
+  "15 to 20 whole Fresh Blueberries",
   "1 oz Semi-Rich Simple Syrup",
   "1 oz Fresh Lemon Juice",
   "8 to 10 leaves Mint ",
-  " 3 to 4 oz Ginger Beer"],
+  " 3 to 4 oz Ginger Beer"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - High Ball
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - On the Rocks
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Mint sprig
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Press and slide the mint leaves in the glass.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Add the blueberries, simple syrup and lemon juice to a shaker and shake with ice.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Strain the cocktail into the glass.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Add ice
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Top with the ginger beer.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - High Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - On the Rocks"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Mint sprig"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Press and slide the mint leaves in the glass."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Add the blueberries, simple syrup and lemon juice to a shaker and shake with ice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Strain the cocktail into the glass."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Add ice"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Top with the ginger beer."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

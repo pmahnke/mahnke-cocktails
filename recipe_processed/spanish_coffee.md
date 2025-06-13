@@ -46,66 +46,66 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "0.75 oz Overproof Rum ",
+  "recipeIngredient": [
+  "0.75 oz Overproof Rum ",
   " 1 oz Coffee Liqueur",
   " 0.5 oz Orange Curaçao",
-  "2 to 3 oz Hot Coffee"],
+  "2 to 3 oz Hot Coffee"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in the glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Coffee Glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Grated nutmeg & burnt sugared rim
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Sugar the rim of the glass.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Add the overproof rum to the glass.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Light it on fire.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Extinguish the flames when the sugar is caramelized.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Add the remaining ingredients to the glass.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Top with lightly whipped heavy cream
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Coffee Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Grated nutmeg & burnt sugared rim"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Sugar the rim of the glass."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Add the overproof rum to the glass."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Light it on fire."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Extinguish the flames when the sugar is caramelized."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Add the remaining ingredients to the glass."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Top with lightly whipped heavy cream"
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

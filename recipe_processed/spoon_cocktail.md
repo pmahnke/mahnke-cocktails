@@ -42,50 +42,50 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "1 cube Sugar",
+  "recipeIngredient": [
+  "1 cube Sugar",
   "1 splash Soda Water ",
   "2 dashes Bitters",
-  "2 oz Rye Whiskey"],
+  "2 oz Rye Whiskey"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in the Glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Low Ball
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Large Ice Cube
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Serve with a small spoon (optional)
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Add the sugar cube, soda water and bitters to the glass and muddle them into a fine paste. Then add the rye whiskey amd ice and stir. Expressed lemon oil over the cocktail.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Low Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Large Ice Cube"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Serve with a small spoon (optional)"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Add the sugar cube, soda water and bitters to the glass and muddle them into a fine paste. Then add the rye whiskey amd ice and stir. Expressed lemon oil over the cocktail."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

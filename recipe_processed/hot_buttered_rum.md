@@ -44,46 +44,46 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 2 oz Dark Rum ",
+  "recipeIngredient": [
+  " 2 oz Dark Rum ",
   " 1 tablespoon Butter ",
   " 1 tablespoon Brown Sugar",
   "0.25 teaspoon Ground Cinnamon",
   "1 pinch Ground Clove ",
   "1 pinch Ground Allspice",
   "0.25 teaspoon Vanilla Extract",
-  " 4 oz Hot water"],
+  " 4 oz Hot water"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in the Glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Mug
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Cinnamon stick
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Temper your mug with hot water.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Mug"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Cinnamon stick"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Temper your mug with hot water."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

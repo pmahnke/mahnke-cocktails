@@ -53,62 +53,62 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "1.5 oz Light Rum",
+  "recipeIngredient": [
+  "1.5 oz Light Rum",
   "1 oz Semi-Rich Simple Syrup",
   "1 oz Fresh Lime Juice ",
   " 140 g Frozen Strawberries",
   "1.5 oz Light Rum",
   " 1 oz. Cream of Coconut",
   "1 oz Fresh Pineapple Juice",
-  " 140 g Frozen Pineapple "],
+  " 140 g Frozen Pineapple "
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Blended
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Open Pour
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Hurricane
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: None
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: 
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  1. Add all ingredients of each cocktaill into seperare shaking tins
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  1. Use an emersion blender to throughly blend the cocktails
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  1. Pour the two cocktails into the hurricane glass simultaniously to create the vertical split
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  1. Place a straw into each side
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Blended"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Open Pour"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Hurricane"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: None"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Add all ingredients of each cocktaill into seperare shaking tins"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Use an emersion blender to throughly blend the cocktails"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Pour the two cocktails into the hurricane glass simultaniously to create the vertical split"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Place a straw into each side"
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

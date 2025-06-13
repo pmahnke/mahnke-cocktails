@@ -47,60 +47,60 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 1.5 oz Gin",
+  "recipeIngredient": [
+  " 1.5 oz Gin",
   "0.25 oz Absinthe ",
   "0.75 oz Fresh Lemon Juice",
   "0.75 oz Semi-Rich Simple Syrup",
   "0.75 oz Egg White",
-  "0.25 oz Green Chartreuse "],
+  "0.25 oz Green Chartreuse "
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Coupe
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Flaming Green Chartreuse
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Add all ingredients, but the Green Chartreuse, to the cocktail shaker.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Strain cocktail into the glass.
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Light the Green Chartreuse on fire in the jigger, and float on top of the cocktail
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Coupe"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Flaming Green Chartreuse"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Add all ingredients, but the Green Chartreuse, to the cocktail shaker."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Strain cocktail into the glass."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Light the Green Chartreuse on fire in the jigger, and float on top of the cocktail"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

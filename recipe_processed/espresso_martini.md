@@ -63,103 +63,103 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 1 oz Coffee Liqueur",
+  "recipeIngredient": [
+  " 1 oz Coffee Liqueur",
   " 1 oz Vodka ",
   " 1 oz Freshly Brewed Espresso ",
   "0.25 oz Rich Demerara Syrup",
-  "1 Swath Lemon Oil "],
+  "1 Swath Lemon Oil "
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Martini
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Lemon oil and 3 coffee beans
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: None
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '## 2
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '### Ingredients
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|  Amount | Ingredient                                               | Brand               |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| ------: | -------------------------------------------------------- | ------------------- |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|    1 oz | Coffee Liqueur                                           | Mr. Black Cold Brew |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|    1 oz | Cognac                                                   | Maison Rouge VSOP   |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '|    1 oz | Freshly Brewed Espresso                                  |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| 0.25 oz | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '| 1 Swath | Lemon Oil                                                |
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '### Notes
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Double Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Martini
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Lemon oil and 3 coffee beans
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: None
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Martini"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Lemon oil and 3 coffee beans"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: None"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "## 2"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "### Ingredients"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|  Amount | Ingredient                                               | Brand               |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| ------: | -------------------------------------------------------- | ------------------- |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|    1 oz | Coffee Liqueur                                           | Mr. Black Cold Brew |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|    1 oz | Cognac                                                   | Maison Rouge VSOP   |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "|    1 oz | Freshly Brewed Espresso                                  |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| 0.25 oz | [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "| 1 Swath | Lemon Oil                                                |"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "### Notes"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Martini"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Lemon oil and 3 coffee beans"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: None"
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

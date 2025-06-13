@@ -74,45 +74,45 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 24 oz Cognac ",
+  "recipeIngredient": [
+  " 24 oz Cognac ",
   " 12 oz Jamaican Rum ",
   "6 oz Peach Liqueur",
   "6 oz Apple Brandy ",
   " 12 oz Simple Syrup",
   " 18 oz Fresh Lemon Juice",
-  " 96 oz Cold Water "],
+  " 96 oz Cold Water "
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Build in Punch Bowl
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Add all ingredients directly to the punch bowl
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Punch Cups
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Citrus wheels in the punch bowl and grated nutmeg in the glass
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: None
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in Punch Bowl"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the punch bowl"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Punch Cups"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Citrus wheels in the punch bowl and grated nutmeg in the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: None"
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

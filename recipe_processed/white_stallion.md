@@ -40,42 +40,42 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 0.75 oz Gin",
+  "recipeIngredient": [
+  " 0.75 oz Gin",
   " 0.25 oz Orange Liqueur ",
   "1.5 oz Champagne",
-  "30 grams Vanilla Ice Cream"],
+  "30 grams Vanilla Ice Cream"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
-      {
-    '@type': 'HowToStep',
-    'text': '- Method: Shaken
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Open Pour
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware: Champagne Flute
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Expressed orange or lemon oil
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Add the gin, orange liqueur and ice cream to a shaking tin and shake till the ice cream has melted and the cocktail is chilled. Add champagne to the flute, then add the cocktail.
-'
-  }
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Open Pour"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Champagne Flute"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Expressed orange or lemon oil"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Add the gin, orange liqueur and ice cream to a shaking tin and shake till the ice cream has melted and the cocktail is chilled. Add champagne to the flute, then add the cocktail."
+    }
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 
