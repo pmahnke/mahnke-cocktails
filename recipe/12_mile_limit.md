@@ -24,12 +24,13 @@ excerpt: |
 
 ### Ingredients
 
+| Amount | Ingredient                                      | Brand                 |
 | -----: | ----------------------------------------------- | --------------------- |
-| 1 oz | Light Rum | El Dorado 3 Year |
-| 0.5 oz | Rye | Rittenhouse 100 Proof |
-| 0.5 oz | Cognac | Maison Rouge V.S.O.P. |
-| 0.5 oz | Fresh Lemon Juice | |
-| 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) | |
+|   1 oz | Light Rum                                       | El Dorado 3 Year      |
+| 0.5 oz | Rye                                             | Rittenhouse 100 Proof |
+| 0.5 oz | Cognac                                          | Maison Rouge V.S.O.P. |
+| 0.5 oz | Fresh Lemon Juice                               |
+| 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 
 ### Notes
 

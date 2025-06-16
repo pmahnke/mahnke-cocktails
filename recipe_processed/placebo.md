@@ -42,13 +42,14 @@ excerpt: |
     "name": "{{ page.author }}"
     },
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  " 6 oz Pineapple Juice",
+  "recipeIngredient": [
+  " 6 oz Pineapple Juice",
   " 2 oz Fresh Orange Juice ",
   " 2 oz Cream of Coconut",
   "0.75 oz Fresh Lime Juice ",
   "1 pinch Ground Cinnamon",
-  "1 cup Crushed Ice"],
+  "1 cup Crushed Ice"
+    ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
     {
