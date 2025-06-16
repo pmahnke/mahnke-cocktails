@@ -37,51 +37,56 @@ excerpt: |
 {
   "@context": "https://schema.org",
   "@type": "Recipe",
-  "author": "{{ page.author }}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-  "recipeIngredient": [  "2 oz Rye ",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  "2 oz Rye ",
   "0.5 oz Bénédictine ",
   "0.5 oz Amontillado Sherry",
-  "3 dash Bitters "],
+  "3 dash Bitters "
+    ],
   "name": "{{ page.title }}",
-  "recipeInstructions": "  {
-    '@type': 'HowToStep',
-    'text': '- Method: Stirred
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Pour: Julep Strain
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Glassware:
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Low Ball
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '  - Large Ice Cube
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Garnish: Lemon swath
-'
-  },  {
-    '@type': 'HowToStep',
-    'text': '- Special Prep: Express lemon oil on the drink.
-'
-  }",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Stirred"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Julep Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Low Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Large Ice Cube"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Lemon swath"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Express lemon oil on the drink."
+    }
+    ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  "aggregateRating": "{%- if page.stars -%}{%- include stars_metadata.html %} out of 5{% else %}NA{%- endif -%}",
+  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
   "recipeCuisine": "global",
-  "prepTime": "20 minutes",
-  "cookTime": "15 second",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}",
-  "nutrition": "NA"
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
 }
 </script>
 

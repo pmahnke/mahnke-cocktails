@@ -48,6 +48,7 @@ Orange slice for individual garnish
     "@type": "Person",
     "name": "{{ page.author }}"
     },
+  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "12 oz Frozen Concentrated Orange Juice (thawed)",
