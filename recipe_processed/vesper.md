@@ -8,7 +8,7 @@ permalink: "/recipe/vesper/"
 iconfile: vesper
 stars: 0
 base_spirits: "Gin, Vodka, Cocchi Americano"
-youtube: "TP5T65EWOx65zTsY"
+youtube: "VBSjE-P_C58"
 excerpt: |
   The gin-and-vodka-based Vesper cocktail made its debut in “Casino Royale.” If it’s good enough for James Bond, it’s probably good enough for you, too.
 ---

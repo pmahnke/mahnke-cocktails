@@ -8,7 +8,7 @@ permalink: "/recipe/pimms_cup/"
 iconfile: pimms_cup
 stars: 0
 base_spirits: "Pimm's"
-youtube: "TP5T65EWOx65zTsY"
+youtube: "CGq0rFP_Jl0"
 excerpt: |
   The Pimm’s Cup is a classic cocktail featuring Pimm’s No. 1, a gin-based liqueur. Mix it with lemon and ginger ale for ultimate refreshment.
 ---

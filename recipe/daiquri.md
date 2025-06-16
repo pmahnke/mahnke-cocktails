@@ -8,7 +8,7 @@ permalink: "/recipe/daiquri/"
 iconfile: daiquri
 stars: 5
 base_spirits: "Light Rum"
-youtube: "TP5T65EWOx65zTsY"
+youtube: "VBSjE-P_C58"
 excerpt: |
   Its origins trace back to the late 19th century in Cuba, where it gained popularity among American miners working in the Santiago de Cuba region. The Daiquiri's enduring appeal lies in its balance of sweet, sour, and tart flavors.
 ---

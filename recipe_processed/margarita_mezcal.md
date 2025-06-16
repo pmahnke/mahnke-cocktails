@@ -8,7 +8,7 @@ permalink: "/recipe/margarita_mezcal/"
 iconfile: margarita_mezcal
 stars: 0
 base_spirits: "Mezcal"
-youtube: "TP5T65EWOx65zTsY"
+youtube: "VBSjE-P_C58"
 excerpt: |
   The Mezcal Margarita is a smoky, spicy twist on the classic margarita, swapping out tequila for mezcal.
 ---
