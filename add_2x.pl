@@ -120,7 +120,6 @@ while (my $file = readdir DIR) {
 
     # remove image as it isn't of the cocktail   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
 
-
     $schema = qq ~
     
 <script type="application/ld+json">
@@ -131,7 +130,7 @@ while (my $file = readdir DIR) {
     "\@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
 $s_ingredient
