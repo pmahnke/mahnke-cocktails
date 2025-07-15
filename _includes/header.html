@@ -1,10 +1,15 @@
 <div class="grid-container full">
-  <div class="header"><!--div full -->
-    <h1><a href="{{ site.baseurl | prepend: site.url }}/"><img src="{{ site.baseurl | prepend: site.url }}/assets/images/logo_image.svg" alt="Logo" height="80" width="80"> {{ site.title | escape }}</a></h1>
-  </div><!-- /div full -->
+  <div class="header">
+    <img src="{{ site.baseurl | prepend: site.url }}/assets/images/thebarspoon_left.svg" alt="a long barspoon" class="logo-image logo-image-left"  height="20%" width="20%">
 
-  <div class="double_line"> </div><!-- full div full-->
-</div><!-- /div grid-container -->
+    <h1 class="site-title">
+      <a href="{{ site.baseurl | prepend: site.url }}/">{{ site.title | escape }}</a>
+    </h1>
+
+    <img src="{{ site.baseurl | prepend: site.url }}/assets/images/thebarspoon_right.svg" alt="a long barspoon" class="logo-image logo-image-right" height="20%" width="20%">
+  </div>
+</div>
+
 
 <div class="grid-container halves">
   <div><!-- div half -->

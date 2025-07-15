@@ -1,119 +1,119 @@
 - name: Buck
   slug: buck
-  url: /cocktails/assets/images/category_buck.svg
+  url: /assets/images/category_buck.svg
   description: Comprises of a spirit plus ginger beer or ginger ale and lime juice. Bucks originated during the Prohibition era in the form of the Gin Buck.
 - name: Cobbler
   slug: cobbler
-  url: /cocktails/assets/images/category_cobbler.svg
+  url: /assets/images/category_cobbler.svg
   description: Cobblers have a spirit or wine base with fruit and sugar. It was created in the 1930s.
 - name: Collins
   slug: collins
-  url: /cocktails/assets/images/category_collins.svg
+  url: /assets/images/category_collins.svg
   description: Created in London in 1814 with the Tom Collins, it comprises a spirit with lemon or lime juice and sugar or sweet liqueur with soda water.
 - name: Crusta
   slug: crusta
-  url: /cocktails/assets/images/category_crusta.svg
+  url: /assets/images/category_crusta.svg
   description: A Crusta is a cocktail with a sugared rim and a lemon or orange zest garnish, and is typically made with a spirit, lemon juice, sugar, and bitters. Created in the 1840s.
 - name: Daisy
   slug: daisy
-  url: /cocktails/assets/images/category_daisy.svg
+  url: /assets/images/category_daisy.svg
   description: A loose term suggesting a spirit-based drink with liqueur (mostly orange) or flavoured syrup, often served over crushed ice. Daisies always contain lemon or lime juice.
 - name: Eggnog
   slug: eggnog
-  url: /cocktails/assets/images/category_eggnog.svg
+  url: /assets/images/category_eggnog.svg
   description: Eggnogs contain sugar, milk (or cream) and the yolk of a fresh egg with either rum, brandy, bourbon or a combination of spirits. Eggnogs are now usually shaken with cubed ice and served straight-up, often with a nutmeg dusting.
 - name: Fizz
   slug: fizz
-  url: /cocktails/assets/images/category_fizz.svg
+  url: /assets/images/category_fizz.svg
   description: Fizzes are based on spirit, citrus fruit juices and sugar, which are shaken with ice and strained into an ice-filled Collins glass, then topped up with something fizzy - soda water, ginger ale or even champagne.
 - name: Flip
   slug: flip
-  url: /cocktails/assets/images/category_flip.svg
+  url: /assets/images/category_flip.svg
   description: A flip is a cocktail containing egg (the whole egg or just the yolk), sugar and any spirit or fortified wine. Flips are similar to Eggnogs but while Eggnogs contain milk or cream, Flips don’t.
 - name: Frappé & Swizzle
   slug: frappe_swizzle
-  url: /cocktails/assets/images/category_frappe_swizzle.svg
+  url: /assets/images/category_frappe_swizzle.svg
   description: Any liqueur, spirit, cocktail, coffee or even just milk served over crushed ice.
 - name: Grog
   slug: grog
-  url: /cocktails/assets/images/category_grog.svg
+  url: /assets/images/category_grog.svg
   description: Any drink made with rum and diluted with water can be called a grog, but grogs usually also contain lemon juice, sugar and aromatic fruits or spices. They can be served hot or cold in a mug or a glass.
 - name: Highball
   slug: highball
-  url: /cocktails/assets/images/category_highball.svg
+  url: /assets/images/category_highball.svg
   description: Highballs are simple small mixed drinks, most commonly with only two ingredients - a spirit and a carbonate, served in a tall ice-filled glass.
 - name: Julep
   slug: julep
-  url: /cocktails/assets/images/category_julep.svg
+  url: /assets/images/category_julep.svg
   description: Juleps are long drinks with muddled fresh mint and sugar served with crushed ice.
 - name: Martini
   slug: martini
-  url: /cocktails/assets/images/category_martini.svg
+  url: /assets/images/category_martini.svg
   description: Martini is a cocktail containing gin and vermouth and optionally orange bitters.
 - name: Non-Alcoholic Cocktails
   slug: mocktail
-  url: /cocktails/assets/images/category_mocktail.svg
+  url: /assets/images/category_mocktail.svg
   description: A non-alcoholic cocktail, or "mocktail", is a beverage that mimics the complexity and presentation of a traditional cocktail.
 - name: Pousse Café
   slug: pousse_cafe
-  url: /cocktails/assets/images/category_pousse_cafe.svg
+  url: /assets/images/category_pousse_cafe.svg
   description: Pousse-cafés are very short, layered cocktails, served in a tall Pousse-café glass. Each ingredient must be poured carefully into the glass so that it floats on the previous layer.
 - name: Punch
   slug: punch
-  url: /cocktails/assets/images/category_punch.svg
+  url: /assets/images/category_punch.svg
   description: Made from a spirit, citrus, sugar and spices, the punch was created in 17th century India.
 - name: Smash
   slug: smash
-  url: /cocktails/assets/images/category_smash.svg
+  url: /assets/images/category_smash.svg
   description: A spirit with mint and sugar. A short julep-like mixed drink containing sugar, mint and spirit, and served over ice (crushed or cubed) in an old-fashioned glass.
 - name: Sour
   slug: sour
-  url: /cocktails/assets/images/category_sour.svg
+  url: /assets/images/category_sour.svg
   description: Sours are citrus fruit influenced (mostly lime) short spirit (or liqueur) based mixed drinks sweetend with sugar/liqueur/honey and sometimes with egg white. Sometimes topped with champagne or soda water.
 - name: Spritz
   slug: spritz
-  url: /cocktails/assets/images/category_spritz.svg
+  url: /assets/images/category_spritz.svg
   description: A spritz is a cocktail that typically contains sparkling wine, a bitter liqueur, and soda water. The name comes from the German word spritzen, which means "to splash".
 - name: Tiki
   slug: tiki
-  url: /cocktails/assets/images/category_tiki.svg
+  url: /assets/images/category_tiki.svg
   description: Tiki cocktails are a type of island-inspired drink that are typically made with rum, fruit, and colorful garnishes. They are often served in fun glasses, such as decorative ceramic mugs, and are known for their lavish garnishes, which can include pineapple, maraschino cherries, swizzle sticks, cocktail umbrellas, or flowers.
 - name: Toddy
   slug: toddy
-  url: /cocktails/assets/images/category_toddy.svg
+  url: /assets/images/category_toddy.svg
   description: A hot, short, mixed drink often taken to soothe the effects of a cold. Toddies usually contain lemon juice and spices.
 - name: Ice Cream
   slug: ice_cream
-  url: /cocktails/assets/images/category_ice_cream.svg
+  url: /assets/images/category_ice_cream.svg
   description: An ice cream cocktail is a Wisconsin-style drink that combines ice cream with liquor.
 - name: Cocktail
   slug: cocktail
-  url: /cocktails/assets/images/category_cocktail.svg
+  url: /assets/images/category_cocktail.svg
   description: Very simpily, a cocktail is a mixed drink that contains 3 or more different ingredients.
 - name: Campari
   slug: campari
-  url: /cocktails/assets/images/category_campari.svg
+  url: /assets/images/category_campari.svg
   description: Cocktails that contains Campari, an Italian liqueur with a bitter, herbal, and orange flavor.
 - name: Champagne
   slug: champagne
-  url: /cocktails/assets/images/category_champagne.svg
+  url: /assets/images/category_champagne.svg
   description: Cocktails that contain a sparkling wine.
 - name: Beer Cocktails
   slug: beer
   description: Beer cocktails are drinks that contain beer as a primary ingredient, often mixed with other beverages like spirits or juices.
 - name: After Dinner
   slug: after_dinner
-  url: /cocktails/assets/images/category_after_dinner.svg
+  url: /assets/images/category_after_dinner.svg
   description: Known as digestifs, are alcoholic drinks typically served after a meal to help with digestion. The word "digestif" comes from the French word for "digestive".
 - name: Coffee
   slug: coffee
-  url: /cocktails/assets/images/category_coffee.svg
+  url: /assets/images/category_coffee.svg
   description: Coffee cocktails are a delightful fusion of the stimulating and energizing qualities of coffee with the sophisticated and flavorful world of cocktails. These drinks often incorporate coffee as a key ingredient, either as a base or a flavor enhancer.
 - name: Smoked
   slug: smoked
-  url: /cocktails/assets/images/category_smoked.svg
+  url: /assets/images/category_smoked.svg
   description: A smoked cocktail is a beverage that incorporates smoke to infuse a smoky flavor and aroma into the drink. This technique elevates the cocktail experience by adding depth and complexity, transforming a simple drink into a memorable one.
 - name: Syrups & Mixers
   slug: syrup
-  url: /cocktails/assets/images/ingredient-simple-syrup.svg
+  url: /assets/images/ingredient-simple-syrup.svg
   description: Cocktail syrups and mixers are essential ingredients for creating delicious cocktails at home. They add flavor, sweetness, and complexity to drinks, making them more enjoyable.

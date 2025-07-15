@@ -1,18 +1,18 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-creme-de-casis.svg
+    - url: /assets/images/ingredient-creme-de-casis.svg
       title: Creme de cassis
-    - url: /cocktails/assets/images/ingredient-reposado-tequila.svg
+    - url: /assets/images/ingredient-reposado-tequila.svg
       title: Reposado tequila
-    - url: /cocktails/assets/images/ingredient-tequila.svg
+    - url: /assets/images/ingredient-tequila.svg
       title: Tequila
   glass:
-    - url: /cocktails/assets/images/glass_collins.svg
+    - url: /assets/images/glass_collins.svg
       title: Collins
   garnish:
-    - url: /cocktails/assets/images/twist_cocktail-cherry.svg
+    - url: /assets/images/twist_cocktail-cherry.svg
       title: Cocktail cherry
-    - url: /cocktails/assets/images/slice_lime.svg
+    - url: /assets/images/slice_lime.svg
       title: Lime slice
-    - url: /cocktails/assets/images/fruit-orange.svg
+    - url: /assets/images/fruit-orange.svg
       title: Orange slice

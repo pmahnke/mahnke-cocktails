@@ -1,15 +1,15 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-jamacian-rum.svg
+    - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
-    - url: /cocktails/assets/images/ingredient-mezcal.svg
+    - url: /assets/images/ingredient-mezcal.svg
       title: Mezcal
-    - url: /cocktails/assets/images/ingredient-scotch.svg
+    - url: /assets/images/ingredient-scotch.svg
       title: Scotch
   garnish:
-    - url: /cocktails/assets/images/spice_cinnamon.svg
+    - url: /assets/images/spice_cinnamon.svg
       title: Cinnamon
-    - url: /cocktails/assets/images/twist_lemon.svg
+    - url: /assets/images/twist_lemon.svg
       title: Lemon twist
-    - url: /cocktails/assets/images/twist_orange.svg
+    - url: /assets/images/twist_orange.svg
       title: Orange twist

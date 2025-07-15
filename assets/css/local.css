@@ -65,11 +65,55 @@ p.icons {
     padding: 3em 0;
 }
 
-.header img {
+.sheader img {
     height: 8rem;
     margin-bottom: -2rem;
     padding-top: 1rem
 }
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; /* helps when on mobile */
+  text-align: center;
+}
+
+.logo-image {
+  width: 20%;
+  height: auto;
+}
+
+.logo-image-left,
+.logo-image-right {
+  display: block;
+  padding: 0 1rem;
+}
+
+.site-title {
+    margin-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+  }
+
+  .logo-image-left {
+    display: none;
+  }
+
+  .logo-image-right {
+    margin-top: 10px;
+    width: 55%
+  }
+  .site-title {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+}
+
+
 
 /* headings - smnall screens */
 h1 {
