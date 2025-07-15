@@ -1,17 +1,17 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-chartreuse.svg
+    - url: /assets/images/ingredient-chartreuse.svg
       title: Chartreuse
-    - url: /cocktails/assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
       title: Gin
-    - url: /cocktails/assets/images/ingredient-maraschino-liqueur.svg
+    - url: /assets/images/ingredient-maraschino-liqueur.svg
       title: Maraschino liqueur
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/glass_nick-and-nora.svg
       title: Nick and nora
   garnish:
-    - url: /cocktails/assets/images/twist_cocktail-cherry.svg
+    - url: /assets/images/twist_cocktail-cherry.svg
       title: Cocktail cherry

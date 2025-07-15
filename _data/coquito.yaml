@@ -1,17 +1,17 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-dark-rum.svg
       title: Gold rum
   tool:
-    - url: /cocktails/assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
       title: Grater
-    - url: /cocktails/assets/images/tool_mixing-glass.svg
+    - url: /assets/images/tool_mixing-glass.svg
       title: Mixing glass
   glass:
-    - url: /cocktails/assets/images/glass_old-fashioned.svg
+    - url: /assets/images/glass_old-fashioned.svg
       title: Old fashioned
   garnish:
-    - url: /cocktails/assets/images/spice_anise.svg
+    - url: /assets/images/spice_anise.svg
       title: Anise
-    - url: /cocktails/assets/images/spice_cinnamon.svg
+    - url: /assets/images/spice_cinnamon.svg
       title: Cinnamon

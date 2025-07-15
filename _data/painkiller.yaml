@@ -1,22 +1,22 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-dark-rum.svg
       title: Demerara rum
-    - url: /cocktails/assets/images/ingredient-jamacian-rum.svg
+    - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
+    - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker
-    - url: /cocktails/assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
       title: Grater
   glass:
-    - url: /cocktails/assets/images/glass_rocks.svg
+    - url: /assets/images/glass_rocks.svg
       title: Rocks
-    - url: /cocktails/assets/images/glass_tiki.svg
+    - url: /assets/images/glass_tiki.svg
       title: Tiki
   garnish:
-    - url: /cocktails/assets/images/slice_pineapple.svg
+    - url: /assets/images/slice_pineapple.svg
       title: Pineapple slice
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

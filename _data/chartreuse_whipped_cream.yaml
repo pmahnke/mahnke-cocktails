@@ -1,9 +1,9 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-chartreuse.svg
+    - url: /assets/images/ingredient-chartreuse.svg
       title: Chartreuse
-    - url: /cocktails/assets/images/ingredient-cream.svg
+    - url: /assets/images/ingredient-cream.svg
       title: Cream
   garnish:
-    - url: /cocktails/assets/images/ingredient-sugar.svg
+    - url: /assets/images/ingredient-sugar.svg
       title: Sugar

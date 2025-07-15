@@ -1,17 +1,17 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-amaro.svg
+    - url: /assets/images/ingredient-amaro.svg
       title: Amaro
-    - url: /cocktails/assets/images/ingredient-benedictine.svg
+    - url: /assets/images/ingredient-benedictine.svg
       title: Benedictine
-    - url: /cocktails/assets/images/ingredient-rye.svg
+    - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/glass_nick-and-nora.svg
       title: Nick and nora
   garnish:
-    - url: /cocktails/assets/images/twist_lemon.svg
+    - url: /assets/images/twist_lemon.svg
       title: Lemon twist

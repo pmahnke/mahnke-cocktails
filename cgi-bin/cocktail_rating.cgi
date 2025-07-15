@@ -14,9 +14,9 @@ use utf8;
 
 require ("/home/stmargarets/cgi-bin/common.pl");
 
-$thisScript    = qq |https://mahnke.net/cgi-bin/cocktail_rating.cgi|;
-$DIRdata       = qq |/home/mahnke/src/mahnke-cocktails/_data/ratings/|;
-$DIRincludes   = qq |/home/mahnke/html/cocktails|;
+$thisScript    = qq |https://thebarspoon.com/cgi-bin/cocktail_rating.cgi|;
+$DIRdata       = qq |/home/cocktails/src/mahnke-cocktails/_data/ratings/|;
+$DIRincludes   = qq |/home/cocktails/html/cocktails|;
 
 my ($msg, %F) = "";
 

@@ -1,15 +1,15 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-creme-de-violette.svg
+    - url: /assets/images/ingredient-creme-de-violette.svg
       title: Creme de violette
-    - url: /cocktails/assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
       title: Gin
   tool:
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_coupe.svg
+    - url: /assets/images/glass_coupe.svg
       title: Coupe
   garnish:
-    - url: /cocktails/assets/images/twist_lemon_cherry.svg
+    - url: /assets/images/twist_lemon_cherry.svg
       title: Lemon cherry

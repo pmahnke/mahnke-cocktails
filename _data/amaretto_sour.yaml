@@ -1,20 +1,20 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-amaretto.svg
+    - url: /assets/images/ingredient-amaretto.svg
       title: Amaretto
-    - url: /cocktails/assets/images/ingredient-apple-brandy.svg
+    - url: /assets/images/ingredient-apple-brandy.svg
       title: Apple brandy
-    - url: /cocktails/assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-cognac.svg
       title: Cognac
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_rocks.svg
+    - url: /assets/images/glass_rocks.svg
       title: Rocks
   garnish:
-    - url: /cocktails/assets/images/twist_cocktail-cherry.svg
+    - url: /assets/images/twist_cocktail-cherry.svg
       title: Cocktail cherry
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

@@ -1,14 +1,14 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bitters.svg
+    - url: /assets/images/ingredient-bitters.svg
       title: Bitters
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
-    - url: /cocktails/assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
       title: Grater
   glass:
-    - url: /cocktails/assets/images/spice_coffee.svg
+    - url: /assets/images/spice_coffee.svg
       title: Coffee
-    - url: /cocktails/assets/images/glass_old-fashioned.svg
+    - url: /assets/images/glass_old-fashioned.svg
       title: Old fashioned

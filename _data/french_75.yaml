@@ -1,16 +1,16 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-champagne.svg
+    - url: /assets/images/ingredient-champagne.svg
       title: Champagne
-    - url: /cocktails/assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-cognac.svg
       title: Cognac
-    - url: /cocktails/assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
       title: Gin
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
+    - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker
-    - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
+    - url: /assets/images/tool_hawthorn-strainer.svg
       title: Hawthorn strainer
   glass:
-    - url: /cocktails/assets/images/glass_flute.svg
+    - url: /assets/images/glass_flute.svg
       title: Flute

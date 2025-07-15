@@ -19,8 +19,8 @@ permalink: "/rate/rate_peter.html"
         <td class="home_spirits">
             {%- include category_search.html -%}
             {%- comment -%}<br>
-            categories: {%- for s in page.categories -%}<a href="/cocktails/category/{{s}}_cocktails.html">{{ s | capitalize }}</a>{%- if forloop.last -%}{%- else -%}, {%- endif -%}{%- endfor -%}<br>
-            eras: {%- for s in page.eras -%}<a href="/cocktails/era/{{s}}.html">{{ s | capitalize }}</a>{%- if forloop.last -%}{%- else -%}, {%- endif -%}{%- endfor -%}
+            categories: {%- for s in page.categories -%}<a href="/category/{{s}}_cocktails.html">{{ s | capitalize }}</a>{%- if forloop.last -%}{%- else -%}, {%- endif -%}{%- endfor -%}<br>
+            eras: {%- for s in page.eras -%}<a href="/era/{{s}}.html">{{ s | capitalize }}</a>{%- if forloop.last -%}{%- else -%}, {%- endif -%}{%- endfor -%}
             {%- endcomment -%}
         </td>
         <td class="home_stars">

@@ -1,10 +1,10 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-pisco.svg
+    - url: /assets/images/ingredient-pisco.svg
       title: Pisco
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   garnish:
-    - url: /cocktails/assets/images/ingredient-sugar.svg
+    - url: /assets/images/ingredient-sugar.svg
       title: Sugar

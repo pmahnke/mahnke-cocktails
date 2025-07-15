@@ -1,15 +1,15 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-coffee-liqueur.svg
+    - url: /assets/images/ingredient-coffee-liqueur.svg
       title: Coffee liqueur
-    - url: /cocktails/assets/images/ingredient-jamacian-rum.svg
+    - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
   tool:
-    - url: /cocktails/assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
       title: Grater
   glass:
-    - url: /cocktails/assets/images/spice_coffee.svg
+    - url: /assets/images/spice_coffee.svg
       title: Coffee
   garnish:
-    - url: /cocktails/assets/images/ingredient-sugar.svg
+    - url: /assets/images/ingredient-sugar.svg
       title: Sugar

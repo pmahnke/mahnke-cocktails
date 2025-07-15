@@ -1,18 +1,18 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-cachaca.svg
+    - url: /assets/images/ingredient-cachaca.svg
       title: Cachaca
   tool:
-    - url: /cocktails/assets/images/tool_muddler.svg
+    - url: /assets/images/tool_muddler.svg
       title: Muddler
   glass:
-    - url: /cocktails/assets/images/glass_double-old-fashioned.svg
+    - url: /assets/images/glass_double-old-fashioned.svg
       title: Double old fashioned
   garnish:
-    - url: /cocktails/assets/images/slice_lime.svg
+    - url: /assets/images/slice_lime.svg
       title: Lime slice
-    - url: /cocktails/assets/images/ingredient-sugar.svg
+    - url: /assets/images/ingredient-sugar.svg
       title: Sugar
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

@@ -1,21 +1,21 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
       title: Gin
-    - url: /cocktails/assets/images/ingredient-vodka.svg
+    - url: /assets/images/ingredient-vodka.svg
       title: Vodka
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
+    - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker
-    - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
+    - url: /assets/images/tool_hawthorn-strainer.svg
       title: Hawthorn strainer
-    - url: /cocktails/assets/images/tool_muddler.svg
+    - url: /assets/images/tool_muddler.svg
       title: Muddler
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_coupe.svg
+    - url: /assets/images/glass_coupe.svg
       title: Coupe
   garnish:
-    - url: /cocktails/assets/images/fruit_olives.svg
+    - url: /assets/images/fruit_olives.svg
       title: Olives

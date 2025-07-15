@@ -1,17 +1,17 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-campari.svg
+    - url: /assets/images/ingredient-campari.svg
       title: Campari
-    - url: /cocktails/assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
       title: Gin
-    - url: /cocktails/assets/images/ingredient-vermouth.svg
+    - url: /assets/images/ingredient-vermouth.svg
       title: White vermouth
   tool:
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/glass_nick-and-nora.svg
       title: Nick and nora
   garnish:
-    - url: /cocktails/assets/images/twist_orange.svg
+    - url: /assets/images/twist_orange.svg
       title: Orange twist

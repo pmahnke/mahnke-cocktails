@@ -1,24 +1,24 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-blackberry.svg
+    - url: /assets/images/ingredient-blackberry.svg
       title: Blackberry
-    - url: /cocktails/assets/images/ingredient-champagne.svg
+    - url: /assets/images/ingredient-champagne.svg
       title: Champagne
-    - url: /cocktails/assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
       title: Gin
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
+    - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker
-    - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
+    - url: /assets/images/tool_hawthorn-strainer.svg
       title: Hawthorn strainer
   glass:
-    - url: /cocktails/assets/images/glass_highball.svg
+    - url: /assets/images/glass_highball.svg
       title: Highball
   garnish:
-    - url: /cocktails/assets/images/fruit_blackberries.svg
+    - url: /assets/images/fruit_blackberries.svg
       title: Blackberries
-    - url: /cocktails/assets/images/fruit_lemon.svg
+    - url: /assets/images/fruit_lemon.svg
       title: Lemon slice
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

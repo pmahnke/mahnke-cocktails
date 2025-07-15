@@ -1,17 +1,17 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-absinthe.svg
+    - url: /assets/images/ingredient-absinthe.svg
       title: Absinthe
-    - url: /cocktails/assets/images/ingredient-scotch.svg
+    - url: /assets/images/ingredient-scotch.svg
       title: Scotch
-    - url: /cocktails/assets/images/ingredient-single-malt-scotch.svg
+    - url: /assets/images/ingredient-single-malt-scotch.svg
       title: Single malt scotch
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_highball.svg
+    - url: /assets/images/glass_highball.svg
       title: Highball
   garnish:
-    - url: /cocktails/assets/images/twist_orange.svg
+    - url: /assets/images/twist_orange.svg
       title: Orange twist

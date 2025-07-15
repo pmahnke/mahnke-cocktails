@@ -1,18 +1,18 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-jamacian-rum.svg
+    - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
+    - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker
   glass:
-    - url: /cocktails/assets/images/glass_tiki.svg
+    - url: /assets/images/glass_tiki.svg
       title: Tiki
   garnish:
-    - url: /cocktails/assets/images/twist_cocktail-cherry.svg
+    - url: /assets/images/twist_cocktail-cherry.svg
       title: Cocktail cherry
-    - url: /cocktails/assets/images/herb_mint.svg
+    - url: /assets/images/herb_mint.svg
       title: Mint
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

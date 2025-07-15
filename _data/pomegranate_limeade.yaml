@@ -1,18 +1,18 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-grenadine.svg
+    - url: /assets/images/ingredient-grenadine.svg
       title: Grenadine
-    - url: /cocktails/assets/images/ingredient-soda-water.svg
+    - url: /assets/images/ingredient-soda-water.svg
       title: Sparkling water
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_highball.svg
+    - url: /assets/images/glass_highball.svg
       title: Highball
   garnish:
-    - url: /cocktails/assets/images/slice_lime.svg
+    - url: /assets/images/slice_lime.svg
       title: Lime slice
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

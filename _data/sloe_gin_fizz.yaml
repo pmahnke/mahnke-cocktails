@@ -1,20 +1,20 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
       title: Gin
-    - url: /cocktails/assets/images/ingredient-sloe-gin.svg
+    - url: /assets/images/ingredient-sloe-gin.svg
       title: Sloe gin
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_highball.svg
+    - url: /assets/images/glass_highball.svg
       title: Highball
   garnish:
-    - url: /cocktails/assets/images/twist_cocktail-cherry.svg
+    - url: /assets/images/twist_cocktail-cherry.svg
       title: Cocktail cherry
-    - url: /cocktails/assets/images/fruit_lemon.svg
+    - url: /assets/images/fruit_lemon.svg
       title: Lemon slice
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

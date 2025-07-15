@@ -1,6 +1,6 @@
 images:
   garnish:
-    - url: /cocktails/assets/images/ingredient-sugar.svg
+    - url: /assets/images/ingredient-sugar.svg
       title: Sugar
-    - url: /cocktails/assets/images/herb_thyme.svg
+    - url: /assets/images/herb_thyme.svg
       title: Thyme

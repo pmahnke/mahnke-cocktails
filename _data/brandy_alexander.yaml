@@ -1,14 +1,14 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-cognac.svg
       title: Cognac
-    - url: /cocktails/assets/images/ingredient-creme_de_cacao.svg
+    - url: /assets/images/ingredient-creme_de_cacao.svg
       title: Creme de cacao
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
-    - url: /cocktails/assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
       title: Grater
   glass:
-    - url: /cocktails/assets/images/glass_old-fashioned.svg
+    - url: /assets/images/glass_old-fashioned.svg
       title: Old fashioned

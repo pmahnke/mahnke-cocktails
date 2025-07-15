@@ -22,11 +22,11 @@ use Encode qw(decode encode);
 my (%F, $site, @files, $results, $msg) = "";
 
 # default file and directory locations (linux)
-my $DIR           = qq |/home/mahnke/src/mahnke-cocktails|;
-my $DIRincludes   = qq |/home/mahnke/html/cocktails|;
-my $DIRposts      = qq |/home/mahnke/src/mahnke-cocktails/recipe/|;
+my $DIR           = qq |/home/cocktails/src/mahnke-cocktails|;
+my $DIRincludes   = qq |/home/cocktails/html/cocktails|;
+my $DIRposts      = qq |/home/cocktails/src/mahnke-cocktails/recipe/|;
 
-$site = qq|/cocktails|;
+$site = qq||;
 
 require ("/home/stmargarets/cgi-bin/common.pl");
 

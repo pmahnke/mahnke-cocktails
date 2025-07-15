@@ -1,17 +1,17 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bourbon.svg
+    - url: /assets/images/ingredient-bourbon.svg
       title: Bourbon
-    - url: /cocktails/assets/images/ingredient-coffee-liqueur.svg
+    - url: /assets/images/ingredient-coffee-liqueur.svg
       title: Coffee liqueur
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/spice_coffee.svg
+    - url: /assets/images/spice_coffee.svg
       title: Coffee
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/glass_nick-and-nora.svg
       title: Nick and nora
   garnish:
-    - url: /cocktails/assets/images/twist_orange.svg
+    - url: /assets/images/twist_orange.svg
       title: Orange twist

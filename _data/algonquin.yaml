@@ -1,17 +1,17 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-rye.svg
+    - url: /assets/images/ingredient-rye.svg
       title: Rye
-    - url: /cocktails/assets/images/ingredient-sherry.svg
+    - url: /assets/images/ingredient-sherry.svg
       title: Sherry
-    - url: /cocktails/assets/images/ingredient-vermouth.svg
+    - url: /assets/images/ingredient-vermouth.svg
       title: White vermouth
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/glass_nick-and-nora.svg
       title: Nick and nora
   garnish:
-    - url: /cocktails/assets/images/slice_pineapple.svg
+    - url: /assets/images/slice_pineapple.svg
       title: Pineapple slice

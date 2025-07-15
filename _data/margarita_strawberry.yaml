@@ -1,17 +1,17 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-reposado-tequila.svg
+    - url: /assets/images/ingredient-reposado-tequila.svg
       title: Reposado tequila
-    - url: /cocktails/assets/images/ingredient-tequila.svg
+    - url: /assets/images/ingredient-tequila.svg
       title: Tequila
   glass:
-    - url: /cocktails/assets/images/glass_double-old-fashioned.svg
+    - url: /assets/images/glass_double-old-fashioned.svg
       title: Double old fashioned
-    - url: /cocktails/assets/images/glass_margarita.svg
+    - url: /assets/images/glass_margarita.svg
       title: Margarita
   garnish:
-    - url: /cocktails/assets/images/fruit_strawberry.svg
+    - url: /assets/images/fruit_strawberry.svg
       title: Strawberry
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

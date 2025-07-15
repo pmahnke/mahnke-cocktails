@@ -1,16 +1,16 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-banana.svg
+    - url: /assets/images/ingredient-banana.svg
       title: Banana
-    - url: /cocktails/assets/images/ingredient-campari.svg
+    - url: /assets/images/ingredient-campari.svg
       title: Campari
-    - url: /cocktails/assets/images/ingredient-creme_de_cacao.svg
+    - url: /assets/images/ingredient-creme_de_cacao.svg
       title: Creme de cacao
-    - url: /cocktails/assets/images/ingredient-irish-whiskey.svg
+    - url: /assets/images/ingredient-irish-whiskey.svg
       title: Irish whiskey
   tool:
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/glass_nick-and-nora.svg
       title: Nick and nora

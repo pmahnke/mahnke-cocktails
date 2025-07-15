@@ -31,7 +31,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
     <div><!-- div 1/3 -->
         <h3>Recipes by Base Spirit</h3>
         {%- include spirits_list.html -%}
-        <h3><a href="/cocktails/era/">Recipes by era</a></h3>
+        <h3><a href="/era/">Recipes by era</a></h3>
         <ul>
         {%- assign sorted = site.data.eras | sort: "name" -%}
         {%- for era in sorted -%}

@@ -1,18 +1,18 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bitters.svg
+    - url: /assets/images/ingredient-bitters.svg
       title: Bitters
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
-    - url: /cocktails/assets/images/tool_muddler.svg
+    - url: /assets/images/tool_muddler.svg
       title: Muddler
   glass:
-    - url: /cocktails/assets/images/glass_highball.svg
+    - url: /assets/images/glass_highball.svg
       title: Highball
   garnish:
-    - url: /cocktails/assets/images/fruit_strawberry.svg
+    - url: /assets/images/fruit_strawberry.svg
       title: Strawberry
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

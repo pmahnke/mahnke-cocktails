@@ -1,18 +1,18 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-dark-rum.svg
       title: Demerara rum
   tool:
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_rocks.svg
+    - url: /assets/images/glass_rocks.svg
       title: Rocks
   garnish:
-    - url: /cocktails/assets/images/slice_lime.svg
+    - url: /assets/images/slice_lime.svg
       title: Lime slice
-    - url: /cocktails/assets/images/ingredient-sugar.svg
+    - url: /assets/images/ingredient-sugar.svg
       title: Sugar
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

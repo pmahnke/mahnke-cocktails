@@ -36,7 +36,7 @@ span.checked {
 
 .double_line {
     height: 11px;
-    background: #fafbf6 url('/cocktails/assets/images/recipe_bar.png') repeat-x;
+    background: #fafbf6 url('/assets/images/recipe_bar.png') repeat-x;
     margin: 0 0 2em 0 ;
 }
 /* list */

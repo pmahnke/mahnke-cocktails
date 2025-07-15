@@ -1,22 +1,22 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-reposado-tequila.svg
+    - url: /assets/images/ingredient-reposado-tequila.svg
       title: Reposado tequila
-    - url: /cocktails/assets/images/ingredient-tequila.svg
+    - url: /assets/images/ingredient-tequila.svg
       title: Tequila
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
+    - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker
-    - url: /cocktails/assets/images/tool_hawthorn-strainer.svg
+    - url: /assets/images/tool_hawthorn-strainer.svg
       title: Hawthorn strainer
   glass:
-    - url: /cocktails/assets/images/glass_margarita.svg
+    - url: /assets/images/glass_margarita.svg
       title: Margarita
-    - url: /cocktails/assets/images/glass_rocks.svg
+    - url: /assets/images/glass_rocks.svg
       title: Rocks
   garnish:
-    - url: /cocktails/assets/images/slice_lime.svg
+    - url: /assets/images/slice_lime.svg
       title: Lime slice
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

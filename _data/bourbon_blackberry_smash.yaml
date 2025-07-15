@@ -1,14 +1,14 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-bourbon.svg
+    - url: /assets/images/ingredient-bourbon.svg
       title: Bourbon
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
-    - url: /cocktails/assets/images/tool_muddler.svg
+    - url: /assets/images/tool_muddler.svg
       title: Muddler
   garnish:
-    - url: /cocktails/assets/images/fruit_blackberries.svg
+    - url: /assets/images/fruit_blackberries.svg
       title: Blackberries
-    - url: /cocktails/assets/images/herb_mint.svg
+    - url: /assets/images/herb_mint.svg
       title: Mint

@@ -1,21 +1,21 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-reposado-tequila.svg
+    - url: /assets/images/ingredient-reposado-tequila.svg
       title: Reposado tequila
-    - url: /cocktails/assets/images/ingredient-tequila.svg
+    - url: /assets/images/ingredient-tequila.svg
       title: Tequila
-    - url: /cocktails/assets/images/ingredient-vermouth.svg
+    - url: /assets/images/ingredient-vermouth.svg
       title: White vermouth
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_coupe.svg
+    - url: /assets/images/glass_coupe.svg
       title: Coupe
-    - url: /cocktails/assets/images/glass_margarita.svg
+    - url: /assets/images/glass_margarita.svg
       title: Margarita
-    - url: /cocktails/assets/images/glass_tiki.svg
+    - url: /assets/images/glass_tiki.svg
       title: Tiki
   garnish:
-    - url: /cocktails/assets/images/slice_pineapple.svg
+    - url: /assets/images/slice_pineapple.svg
       title: Pineapple slice

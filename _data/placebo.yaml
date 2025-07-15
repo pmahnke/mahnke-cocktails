@@ -1,22 +1,22 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-cream.svg
+    - url: /assets/images/ingredient-cream.svg
       title: Cream
-    - url: /cocktails/assets/images/ingredient-cream-of-cocunut.svg
+    - url: /assets/images/ingredient-cream-of-cocunut.svg
       title: Cream of coconut
   tool:
-    - url: /cocktails/assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
       title: Grater
-    - url: /cocktails/assets/images/tool_shaker.svg
+    - url: /assets/images/tool_shaker.svg
       title: Shaker
   glass:
-    - url: /cocktails/assets/images/glass_tiki.svg
+    - url: /assets/images/glass_tiki.svg
       title: Tiki
   garnish:
-    - url: /cocktails/assets/images/spice_cinnamon.svg
+    - url: /assets/images/spice_cinnamon.svg
       title: Cinnamon
-    - url: /cocktails/assets/images/slice_pineapple.svg
+    - url: /assets/images/slice_pineapple.svg
       title: Pineapple slice
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

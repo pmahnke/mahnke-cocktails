@@ -21,7 +21,7 @@ if ($ENV{'CONTENT_LENGTH'} || $ENV{'QUERY_STRING'}) {
 print qq|Content-type: text/plain\n\n|;
 
 &post_receive();
-
+&copy_other_files();
 # &copy_other_repos() if ($ARGV[0]);
 
 print "\nDone.\n\n";
@@ -30,26 +30,26 @@ exit;
 
 sub post_receive {
 
-    my $GIT_REPO      = '/home/mahnke/src/mahnke-cocktails';
+    my $GIT_REPO      = '/home/cocktails/src/mahnke-cocktails';
     my $TMP_GIT_CLONE = '/tmp/git/mahnke-cocktails';
-    my $PUBLIC_WWW    = '/home/mahnke/html/cocktails';
+    my $PUBLIC_WWW    = '/home/cocktails/html/cocktails';
 
     `unset GIT_INDEX_FILE`;
     `unset GIT_DIR`;
     chdir $GIT_REPO;
     print `git pull`;
     # print `bundle exec jekyll build -I --source $GIT_REPO --destination $PUBLIC_WWW`;
-     print "bundle exec jekyll build --source $GIT_REPO --destination $PUBLIC_WWW\n";
+    print "bundle exec jekyll build --source $GIT_REPO --destination $PUBLIC_WWW\n";
     print `bundle exec jekyll build --source $GIT_REPO --destination $PUBLIC_WWW`;
 
 }
 
-sub copy_other_repos {
+sub copy_other_files {
 
     # index files
-    my $dir = "/home/mahnke/src/mahnke-index";
-    my $dest_dir = "/home/mahnke/html/";
+    my $dir = "/home/cocktails/src/mahnke-cocktails/cgi-bin/";
+    my $dest_dir = "/home/cocktails/cgi-bin/";
     chdir $dir;
-    `cp -R * $dest_dir`;
-
+    print `cp -R * $dest_dir`;
+    print "copied cgi files\n";
 }

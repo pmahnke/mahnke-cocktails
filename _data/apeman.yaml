@@ -1,19 +1,19 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-banana.svg
+    - url: /assets/images/ingredient-banana.svg
       title: Banana
-    - url: /cocktails/assets/images/ingredient-bourbon.svg
+    - url: /assets/images/ingredient-bourbon.svg
       title: Bourbon
-    - url: /cocktails/assets/images/ingredient-sherry.svg
+    - url: /assets/images/ingredient-sherry.svg
       title: Sherry
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
-    - url: /cocktails/assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
       title: Grater
   glass:
-    - url: /cocktails/assets/images/glass_coupe.svg
+    - url: /assets/images/glass_coupe.svg
       title: Coupe
   garnish:
-    - url: /cocktails/assets/images/twist_lemon.svg
+    - url: /assets/images/twist_lemon.svg
       title: Lemon twist

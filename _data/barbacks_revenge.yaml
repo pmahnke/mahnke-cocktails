@@ -1,22 +1,22 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-benedictine.svg
+    - url: /assets/images/ingredient-benedictine.svg
       title: Benedictine
-    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-dark-rum.svg
       title: Demerara rum
-    - url: /cocktails/assets/images/ingredient-sherry.svg
+    - url: /assets/images/ingredient-sherry.svg
       title: Sherry
   tool:
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/spice_coffee.svg
+    - url: /assets/images/spice_coffee.svg
       title: Coffee
-    - url: /cocktails/assets/images/glass_rocks.svg
+    - url: /assets/images/glass_rocks.svg
       title: Rocks
   garnish:
-    - url: /cocktails/assets/images/twist_lemon.svg
+    - url: /assets/images/twist_lemon.svg
       title: Lemon twist
   ice:
-    - url: /cocktails/assets/images/ice_large.svg
+    - url: /assets/images/ice_large.svg
       title: Large

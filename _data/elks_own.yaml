@@ -1,14 +1,14 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-port.svg
+    - url: /assets/images/ingredient-port.svg
       title: Port
-    - url: /cocktails/assets/images/ingredient-rye.svg
+    - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
-    - url: /cocktails/assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
       title: Grater
   glass:
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/glass_nick-and-nora.svg
       title: Nick and nora

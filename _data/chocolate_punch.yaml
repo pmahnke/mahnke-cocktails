@@ -1,18 +1,18 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-cognac.svg
       title: Cognac
-    - url: /cocktails/assets/images/ingredient-creme_de_cacao.svg
+    - url: /assets/images/ingredient-creme_de_cacao.svg
       title: Creme de cacao
-    - url: /cocktails/assets/images/ingredient-port.svg
+    - url: /assets/images/ingredient-port.svg
       title: Port
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
-    - url: /cocktails/assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
       title: Grater
   glass:
-    - url: /cocktails/assets/images/glass_coupe.svg
+    - url: /assets/images/glass_coupe.svg
       title: Coupe
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/glass_nick-and-nora.svg
       title: Nick and nora

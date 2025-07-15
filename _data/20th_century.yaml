@@ -1,17 +1,17 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-cocchi-americano.svg
+    - url: /assets/images/ingredient-cocchi-americano.svg
       title: Cocchi americano
-    - url: /cocktails/assets/images/ingredient-creme_de_cacao.svg
+    - url: /assets/images/ingredient-creme_de_cacao.svg
       title: Creme de cacao
-    - url: /cocktails/assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
       title: Gin
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/glass_nick-and-nora.svg
       title: Nick and nora
   garnish:
-    - url: /cocktails/assets/images/twist_cocktail-cherry.svg
+    - url: /assets/images/twist_cocktail-cherry.svg
       title: Cocktail cherry

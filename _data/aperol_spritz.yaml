@@ -1,9 +1,9 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-aperol.svg
+    - url: /assets/images/ingredient-aperol.svg
       title: Aperol
-    - url: /cocktails/assets/images/ingredient-prosecco.svg
+    - url: /assets/images/ingredient-prosecco.svg
       title: Prosecco
   garnish:
-    - url: /cocktails/assets/images/fruit-orange.svg
+    - url: /assets/images/fruit-orange.svg
       title: Orange slice

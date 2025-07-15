@@ -1,11 +1,11 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-champagne.svg
+    - url: /assets/images/ingredient-champagne.svg
       title: Champagne
-    - url: /cocktails/assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-cognac.svg
       title: Cognac
   garnish:
-    - url: /cocktails/assets/images/twist_lemon.svg
+    - url: /assets/images/twist_lemon.svg
       title: Lemon twist
-    - url: /cocktails/assets/images/ingredient-sugar.svg
+    - url: /assets/images/ingredient-sugar.svg
       title: Sugar

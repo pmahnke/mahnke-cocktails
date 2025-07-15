@@ -1,14 +1,14 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-benedictine.svg
+    - url: /assets/images/ingredient-benedictine.svg
       title: Benedictine
-    - url: /cocktails/assets/images/ingredient-champagne.svg
+    - url: /assets/images/ingredient-champagne.svg
       title: Champagne
-    - url: /cocktails/assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-cognac.svg
       title: Cognac
   tool:
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_coupe.svg
+    - url: /assets/images/glass_coupe.svg
       title: Coupe

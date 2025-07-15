@@ -1,15 +1,15 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
       title: Gin
-    - url: /cocktails/assets/images/ingredient-sherry.svg
+    - url: /assets/images/ingredient-sherry.svg
       title: Sherry
   tool:
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_martini.svg
+    - url: /assets/images/glass_martini.svg
       title: Martini
   garnish:
-    - url: /cocktails/assets/images/twist_orange.svg
+    - url: /assets/images/twist_orange.svg
       title: Orange twist

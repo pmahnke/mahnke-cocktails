@@ -1,14 +1,14 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-aperol.svg
+    - url: /assets/images/ingredient-aperol.svg
       title: Aperol
-    - url: /cocktails/assets/images/ingredient-chartreuse.svg
+    - url: /assets/images/ingredient-chartreuse.svg
       title: Chartreuse
-    - url: /cocktails/assets/images/ingredient-mezcal.svg
+    - url: /assets/images/ingredient-mezcal.svg
       title: Mezcal
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/glass_nick-and-nora.svg
       title: Nick and nora

@@ -1,9 +1,9 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
       title: Gin
   glass:
-    - url: /cocktails/assets/images/glass_double-old-fashioned.svg
+    - url: /assets/images/glass_double-old-fashioned.svg
       title: Double old fashioned
-    - url: /cocktails/assets/images/glass_tiki.svg
+    - url: /assets/images/glass_tiki.svg
       title: Tiki

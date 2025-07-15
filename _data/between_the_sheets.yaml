@@ -1,17 +1,17 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-campari.svg
+    - url: /assets/images/ingredient-campari.svg
       title: Campari
-    - url: /cocktails/assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-dark-rum.svg
       title: Demerara rum
-    - url: /cocktails/assets/images/ingredient-jamacian-rum.svg
+    - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
   glass:
-    - url: /cocktails/assets/images/glass_coupe.svg
+    - url: /assets/images/glass_coupe.svg
       title: Coupe
   garnish:
-    - url: /cocktails/assets/images/twist_lemon.svg
+    - url: /assets/images/twist_lemon.svg
       title: Lemon twist

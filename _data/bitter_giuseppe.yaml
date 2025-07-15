@@ -1,16 +1,16 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-amaro.svg
+    - url: /assets/images/ingredient-amaro.svg
       title: Amaro
   tool:
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_rocks.svg
+    - url: /assets/images/glass_rocks.svg
       title: Rocks
   garnish:
-    - url: /cocktails/assets/images/twist_lemon.svg
+    - url: /assets/images/twist_lemon.svg
       title: Lemon twist
   ice:
-    - url: /cocktails/assets/images/ice_large.svg
+    - url: /assets/images/ice_large.svg
       title: Large

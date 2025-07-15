@@ -1,14 +1,14 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-absinthe.svg
+    - url: /assets/images/ingredient-absinthe.svg
       title: Absinthe
-    - url: /cocktails/assets/images/ingredient-elderflower-liqueur.svg
+    - url: /assets/images/ingredient-elderflower-liqueur.svg
       title: Elderflower liqueur
   tool:
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_old-fashioned.svg
+    - url: /assets/images/glass_old-fashioned.svg
       title: Old fashioned
-    - url: /cocktails/assets/images/glass_rocks.svg
+    - url: /assets/images/glass_rocks.svg
       title: Rocks

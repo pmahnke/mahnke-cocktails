@@ -1,8 +1,8 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-benedictine.svg
+    - url: /assets/images/ingredient-benedictine.svg
       title: Benedictine
-    - url: /cocktails/assets/images/ingredient-bitters.svg
+    - url: /assets/images/ingredient-bitters.svg
       title: Bitters
-    - url: /cocktails/assets/images/ingredient-chartreuse.svg
+    - url: /assets/images/ingredient-chartreuse.svg
       title: Chartreuse

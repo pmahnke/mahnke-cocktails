@@ -1,9 +1,9 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-benedictine.svg
+    - url: /assets/images/ingredient-benedictine.svg
       title: Benedictine
-    - url: /cocktails/assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
       title: Gin
   garnish:
-    - url: /cocktails/assets/images/twist_lemon.svg
+    - url: /assets/images/twist_lemon.svg
       title: Lemon twist

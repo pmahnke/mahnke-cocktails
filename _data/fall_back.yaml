@@ -1,19 +1,19 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-amaro.svg
+    - url: /assets/images/ingredient-amaro.svg
       title: Amaro
-    - url: /cocktails/assets/images/ingredient-apple-brandy.svg
+    - url: /assets/images/ingredient-apple-brandy.svg
       title: Apple brandy
-    - url: /cocktails/assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-cognac.svg
       title: Cognac
-    - url: /cocktails/assets/images/ingredient-rye.svg
+    - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:
-    - url: /cocktails/assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /cocktails/assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/glass_nick-and-nora.svg
       title: Nick and nora
   garnish:
-    - url: /cocktails/assets/images/twist_orange.svg
+    - url: /assets/images/twist_orange.svg
       title: Orange twist

@@ -1,13 +1,13 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-pisco.svg
+    - url: /assets/images/ingredient-pisco.svg
       title: Pisco
   glass:
-    - url: /cocktails/assets/images/glass_collins.svg
+    - url: /assets/images/glass_collins.svg
       title: Collins
   garnish:
-    - url: /cocktails/assets/images/ingredient-sugar.svg
+    - url: /assets/images/ingredient-sugar.svg
       title: Sugar
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes

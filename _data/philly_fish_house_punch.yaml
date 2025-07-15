@@ -1,15 +1,15 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-apple-brandy.svg
+    - url: /assets/images/ingredient-apple-brandy.svg
       title: Apple brandy
-    - url: /cocktails/assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-cognac.svg
       title: Cognac
-    - url: /cocktails/assets/images/ingredient-jamacian-rum.svg
+    - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
-    - url: /cocktails/assets/images/ingredient-peach.svg
+    - url: /assets/images/ingredient-peach.svg
       title: Peach
   tool:
-    - url: /cocktails/assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
       title: Double strained
-    - url: /cocktails/assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
       title: Grater

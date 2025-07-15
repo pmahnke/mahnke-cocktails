@@ -1,28 +1,28 @@
 images:
   ingredient:
-    - url: /cocktails/assets/images/ingredient-allspice-dram.svg
+    - url: /assets/images/ingredient-allspice-dram.svg
       title: Allspice dram
-    - url: /cocktails/assets/images/ingredient-mezcal.svg
+    - url: /assets/images/ingredient-mezcal.svg
       title: Mezcal
-    - url: /cocktails/assets/images/ingredient-reposado-tequila.svg
+    - url: /assets/images/ingredient-reposado-tequila.svg
       title: Reposado tequila
-    - url: /cocktails/assets/images/ingredient-tequila.svg
+    - url: /assets/images/ingredient-tequila.svg
       title: Tequila
   tool:
-    - url: /cocktails/assets/images/tool_boston-shaker.svg
+    - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker
-    - url: /cocktails/assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
       title: Grater
   glass:
-    - url: /cocktails/assets/images/glass_highball.svg
+    - url: /assets/images/glass_highball.svg
       title: Highball
   garnish:
-    - url: /cocktails/assets/images/spice_cinnamon.svg
+    - url: /assets/images/spice_cinnamon.svg
       title: Cinnamon
-    - url: /cocktails/assets/images/twist_cocktail-cherry.svg
+    - url: /assets/images/twist_cocktail-cherry.svg
       title: Cocktail cherry
-    - url: /cocktails/assets/images/fruit-orange.svg
+    - url: /assets/images/fruit-orange.svg
       title: Orange slice
   ice:
-    - url: /cocktails/assets/images/ice_cubes.svg
+    - url: /assets/images/ice_cubes.svg
       title: Cubes
