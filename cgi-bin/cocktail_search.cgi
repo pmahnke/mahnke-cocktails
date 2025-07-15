@@ -93,6 +93,7 @@ sub performSearch {
 
     open (AG, "$agcommand |") || die "can't run ag command\n";
     while (<AG>) {
+	next if (/template.md/);
         push @files, $_;
         #print STDERR "MATCH $_\n";
     }
