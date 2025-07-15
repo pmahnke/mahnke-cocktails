@@ -1,4 +1,4 @@
---
+---
 layout: default-plain
 excerpt: "John's Rating Page"
 permalink: /rate/john/
