@@ -16,7 +16,7 @@ require ("/home/stmargarets/cgi-bin/common.pl");
 
 $thisScript    = qq |https://thebarspoon.com/cgi-bin/cocktail_rating.cgi|;
 $DIRdata       = qq |/home/cocktails/src/mahnke-cocktails/_data/ratings/|;
-$DIRincludes   = qq |/home/cocktails/html/cocktails|;
+$DIRincludes   = qq |/home/cocktails/html|;
 
 my ($msg, %F) = "";
 

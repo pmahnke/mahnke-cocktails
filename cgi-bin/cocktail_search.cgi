@@ -23,7 +23,7 @@ my (%F, $site, @files, $results, $msg) = "";
 
 # default file and directory locations (linux)
 my $DIR           = qq |/home/cocktails/src/mahnke-cocktails|;
-my $DIRincludes   = qq |/home/cocktails/html/cocktails|;
+my $DIRincludes   = qq |/home/cocktails/html|;
 my $DIRposts      = qq |/home/cocktails/src/mahnke-cocktails/recipe/|;
 
 $site = qq||;

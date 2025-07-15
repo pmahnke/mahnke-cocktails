@@ -32,7 +32,7 @@ sub post_receive {
 
     my $GIT_REPO      = '/home/cocktails/src/mahnke-cocktails';
     my $TMP_GIT_CLONE = '/tmp/git/mahnke-cocktails';
-    my $PUBLIC_WWW    = '/home/cocktails/html/cocktails';
+    my $PUBLIC_WWW    = '/home/cocktails/html';
 
     `unset GIT_INDEX_FILE`;
     `unset GIT_DIR`;
