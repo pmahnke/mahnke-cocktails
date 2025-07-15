@@ -2,6 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Alabazam"
+creator: Leo Engel
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/alabazam/"
