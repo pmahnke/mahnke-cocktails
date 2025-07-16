@@ -42,6 +42,11 @@ markdown: kramdown
 #    output: true
 #    permalink: /:style/:title/
 
+#collections:
+#  recipe:
+#    output: true # Set to true if you want each recipe to generate its own page
+#    permalink: /{{ collection }}/:name/ # Optional: Custom permalink structure
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

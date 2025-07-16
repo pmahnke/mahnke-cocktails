@@ -1,9 +1,9 @@
 ---
-layout: recipe
+layout: default-plain
 title: "Cocktail Categories"
 type: list
 iconfile: cocktail_categories
-permalink: "/recipe/cocktail_categories/"
+permalink: "/bar_list/cocktail_categories/"
 youtube: ""
 excerpt: |
   The world of cocktails comprises numerous different cocktail families, each family having its own surname, distinctive traits, genetics and history. Some of these cocktail families are forgotten and facing extinction while others, such as the Daiquiri, Sour and Colada dynasties, are better known now than when they were first conceived. Follows the 36 families which populate the world of cocktails.<br><br>While not advocating that every cocktail should be pigeonholed under one of the following headings – history/rules should not be allowed to stifle creativity – these cocktail family names do give an indication to the drinker the style of cocktail they are ordering. Consequently, if a cocktail carries one of the following family names, then its ingredients, serving vessel and style should reflect the traits suggested by that name.
@@ -32,7 +32,7 @@ excerpt: |
 - Glass: Collins or Cobbler glass
 - Serve: Shaken and served over crushed ice garnished with lots of fresh berries and fruits
 - Created: 1930s
-- Example: [Bramble]({%link recipe_processed/bramble.md%})
+- Example: [Bramble](/recipe/bramble)
 
 ### Colada
 
@@ -40,7 +40,7 @@ excerpt: |
 - Glass: Poco Grande / Colada glass
 - Serve: Blended with crushed ice
 - Created: Pre-1922
-- Example: [Piña Colada]({%link recipe_processed/pina_colada.md%})
+- Example: [Piña Colada](/recipe/pina_colada)
 - More info: Colada, Spanish for 'washed', or in this case 'strained', refers to a cocktail blended (or sometimes shaken) with fruit juice and often coconut.
 
 ### Collins
@@ -49,7 +49,7 @@ excerpt: |
 - Glass: Collins
 - Serve: Traditionally a stirred/built drink but now often shaken. Always served long over ice.
 - Created: London 1814
-- Example: [Tom Collins]({%link recipe_processed/tom_collins.md%})
+- Example: [Tom Collins](/recipe/tom_collins)
 
 ### Cooler
 
@@ -66,7 +66,7 @@ excerpt: |
 - Glass: Fluted glass – usually wine glass
 - Serve: Shaken and strained into sugar rimmed glass with a large lemon zest
 - Created: 1840s or 1850s
-- Example: [Brandy Crusta]({%link recipe_processed/brandy_crusta.md%})
+- Example: [Brandy Crusta](/recipe/brandy_crusta)
 
 ### Cup
 
@@ -74,14 +74,14 @@ excerpt: |
 - Glass: Originally small tankards but now Collins or goblet
 - Serve: Mixed over ice in the glass they are served in.
 - Created: Mid 1800s
-- Example: [Pimm's Cup]({%link recipe_processed/pimms_cup.md%})
+- Example: [Pimm's Cup](/recipe/pimms_cup)
 
 ### Daisy
 
 - Comprises: Spirit + liqueur (usually orange) + lemon or lime juice
 - Glass: Coupe, old-fashioned, goblet
 - Serve: Shaken and served straight-up, on-the-rocks or frozen
-- Example: [Margarita]({%link recipe_processed/margarita.md%})
+- Example: [Margarita](/recipe/margarita)
 - Created: Pre-1876
 - More info: A loose term suggesting a spirit-based drink with liqueur (mostly orange) or flavoured syrup, often served over crushed ice. Daisies always contain lemon or lime juice.
 
@@ -91,7 +91,7 @@ excerpt: |
 - Glass: Old-fashioned, Collins or toddy
 - Serve: Shaken and served straight-up. Also served hot.
 - Created: 1600s
-- Example: [Eggnog]({%link recipe_processed/eggnog.md%})
+- Example: [Eggnog](/recipe/eggnog)
 - More info: Eggnogs contain sugar, milk (or cream) and the yolk of a fresh egg with either rum, brandy, bourbon or a combination of spirits. Eggnogs are now usually shaken with cubed ice and served straight-up, often with a nutmeg dusting. They are traditionally served at Christmas.
 
 ### Fix
@@ -119,7 +119,7 @@ excerpt: |
 - Glass: Coupe or wine glass
 - Serve: Shaken and served up or mixed and heated
 - Created: 1600s England
-- Example: [Sherry Flip]({%link recipe_processed/sherry_flip.md%})
+- Example: [Sherry Flip](/recipe/sherry_flip)
 - More info: A flip is a cocktail containing egg (the whole egg or just the yolk), sugar and any spirit or fortified wine. Flips are similar to Eggnogs but while Eggnogs contain milk or cream, Flips don't. Flips were originally served hot, often heated with a red-hot poker. Today they are occasionally served hot but more usually cold – shaken with ice and strained into a chilled coupe or wine glass, usually with a nutmeg dusting.
 
 ### Frappé
@@ -128,7 +128,7 @@ excerpt: |
 - Glass: Not specific
 - Serve: Poured over crushed ice
 - Created: 1800s
-- Example: [Absinthe Frappé]({%link recipe_processed/absinthe_frappe.md%})
+- Example: [Absinthe Frappé](/recipe/absinthe_frappe)
 - More info: Pronounced 'frap-pay', this refers to any liqueur, spirit, cocktail, coffee or even just milk served over crushed ice.
 
 ### Frozen
@@ -137,7 +137,7 @@ excerpt: |
 - Glass: Not specific
 - Serve: Blended with crushed ice
 - Created: Originally made with shaved ice (which dates back to when man had a knife sharp enough to cut ice), 'frozen' cocktails emerged after Fred Waring released his electric blender in 1937.
-- Example: [Frozen Strawberry Margarita]({%link recipe_processed/margarita_strawberry.md%})
+- Example: [Frozen Strawberry Margarita](/recipe/margarita_strawberry)
 - More info: Frozen drinks are cocktails mixed by blending the ingredients with crushed ice to produce a cocktail with a slushy consistency.
 
 ### Grog
@@ -164,7 +164,7 @@ excerpt: |
 - Glass: Julep cup
 - Serve: With muddled mint and served over crushed ice.
 - Created: Unknown. First known publication 1634 in a court poem by John Milton, England.
-- Example: [Mint Julep]({%link recipe_processed/mint_julep.md%})
+- Example: [Mint Julep](/recipe/mint_julep)
 - More info: Juleps are long drinks with muddled fresh mint and sugar served with crushed ice. Now synonymous with bourbon, Juleps were originally often based on rum or brandy – they can now be based on almost any spirit, although bourbon remains the default.
 
 ### Martini
@@ -173,7 +173,7 @@ excerpt: |
 - Glass: Cocktail (V-shaped Martini)
 - Serve: Shaken or stirred and served straight-up
 - Created: Unknown. Earlier origins but first "Martini Cocktail" published in Tim Daly's 1903 <i>Bartenders Encyclopedia</i>
-- Example: [Martini]({%link recipe_processed/martini.md%})
+- Example: [Martini](/recipe/martini)
 - More info: Martini was (and some would argue still is) a type of cocktail containing gin and vermouth (and optionally orange bitters) served in a stemmed glass, in its heyday usually with a 'V' shaped bowl, commonly referred to as a Martini glass. From the 50s onwards, Martinis were often made with vodka.
 
 ### 'Martini'/Alternatini/Neo Martini/Alternatini/Fruit Martini
@@ -182,7 +182,7 @@ excerpt: |
 - Glass: Originally a V-shaped Martini glass but now often a coupe
 - Serve: Shaken and served straight-up
 - Created: 1990s
-- Example: [Espresso Martini]({%link recipe_processed/espresso_martini.md%})
+- Example: [Espresso Martini](/recipe/espresso_martini)
 - More info: The bastard child of the cocktail world but thanks to the Espresso Martini, Porn Star Martini and French Martini, arguably the second most successful cocktail dynasty. These 'imposter-' / 'sudo-' / 'Mock-tinis' emerged in the 1990s becoming popular in New York and dominating cocktail menus in London. They grew on the back of the vodka boom, hence tend to be vodka-based. They are predominantly shaken drinks and the only thing they have in common with a true Martini (see above) is they are (or at least were) served in V-shaped Martini glasses but in recent years are more commonly served in coupe glasses.
 
 ### Mull
@@ -200,7 +200,7 @@ excerpt: |
 - Glass: Varies
 - Serve: Shaken and over ice
 - Created: Unknown
-- Example: [Eggnog]({%link recipe_processed/eggnog.md%})
+- Example: [Eggnog](/recipe/eggnog)
 - More info: Nogs traditionally contain egg and cream or milk (whereas Flips contain egg but not milk or cream). Nogs originate from medieval Britain's hot, milky posset (see below). The name originates from rum being known as a Grog and the cups it was served in being called Noggins. Hence, egg and nog became Eggnog.
 
 ### Posset
@@ -215,7 +215,7 @@ excerpt: |
 ### Pousse café
 
 - Comprises: Spirits + liqueurs + syrups
-- Glass: Tall thin shot glass or small schooner (2 <sup>1</sup>&frasl;<sub>2</sub>oz max capacity)
+- Glass: Tall thin shot glass or small schooner (2.5oz max capacity)
 - Serve: Layered in glass
 - Created: Unknown
 - Example: Pousse-Café
@@ -227,7 +227,7 @@ excerpt: |
 - Glass: Punch cup (or Collins glass)
 - Serve: Mixed in a punch bowl (or individually mixed and served on-the-rocks)
 - Created: 17th century India
-- Example: [Fish House Punch]({%link recipe_processed/philly_fish_house_punch.md%})
+- Example: [Fish House Punch](/recipe/philly_fish_house_punch)
 
 ### Rickey
 
@@ -235,7 +235,7 @@ excerpt: |
 - Glass: Highball or sour glass
 - Serve: On-the-rocks
 - Created: 1880 by George A. Williamson at Shoomaker's Bar, Washington DC
-- Example: [Gin Rickey]({%link recipe_processed/gin_rickey.md%})
+- Example: [Gin Rickey](/recipe/gin_rickey)
 - More info: Something of a cross between a Collins and a Sour, Rickeys are short mixed drinks containing lime juice, soda and normally gin, although they can also be made with brandy, whisk(e)y or rum and were originally made with bourbon. Rickeys are served in a highball or sour glass (or an old-fashioned will do) but shorter/smaller than a Collins glass.
 
 ### Sangaree
@@ -262,7 +262,7 @@ excerpt: |
 - Glass: Collins
 - Serve: Usually mixed in the glass and served on-the-rocks
 - Created: Unknown but popular in 1950s
-- Example: [Harvey_wallbanger]({%link recipe_processed/harvey_wallbanger.md%})
+- Example: [Harvey_wallbanger](/recipe/harvey_wallbanger)
 - More info: This loose term describes a cocktail that contains orange juice and any white spirit – it probably derives from the 50s drink the Screwdriver. A whole family of Slow Screw cocktails emerged.
 
 ### Shrub
@@ -289,7 +289,7 @@ excerpt: |
 - Glass: Old-fashioned
 - Serve: Over cubed or crushed ice
 - Created: Unknown but around since 1850s
-- Example: [Strawberry Basil Smash]({%link recipe_processed/strawberry_basil_smash.md%})
+- Example: [Strawberry Basil Smash](/recipe/strawberry_basil_smash)
 - More info: A short julep-like mixed drink containing sugar, mint and spirit, and served over ice (crushed or cubed) in an old-fashioned glass.
 
 ### Sour
@@ -298,7 +298,7 @@ excerpt: |
 - Glass: Old-fashioned or sour glass.
 - Serve: Shaken and served on-the-rocks or shaken and served straight-up.
 - Created: The first record of a Sour appears in 1856 and the first known written recipe appears six years later in Jerry Thomas' 1862 <i>The Bartender's Guide</i>.
-- Example: [Whiskey Sour]({%link recipe_processed/whiskey_sour.md%})
+- Example: [Whiskey Sour](/recipe/whiskey_sour)
 - More info: Sours are citrus fruit influenced (mostly lime) short spirit (or liqueur) based mixed drinks sweetend with sugar/liqueur/honey and sometimes with egg white. Sometimes topped with champagne or soda water.
 
 ### Swizzle
@@ -307,7 +307,7 @@ excerpt: |
 - Glass: Collins
 - Serve: Mixed in a glass filled with crushed ice using a swizzle stick
 - Created: Originated from the 17th century Switchel
-- Example: [Chartreuse Swizzle]({%link recipe_processed/chartreuse_swizzle.md%})
+- Example: [Chartreuse Swizzle](/recipe/chartreuse_swizzle)
 - More info: Swizzles originated in the West Indies and were originally rum coolers made in tall glasses with ice, stirred with a twig until the glass became frosted.
 
 ### Tea
@@ -316,7 +316,7 @@ excerpt: |
 - Glass: Collins
 - Serve: Shaken and built or simply assembled in an ice-filled glass
 - Created: Said by some to have emerged during Prohibition
-- Example: [Long Island Iced Tea]({%link recipe_processed/long_island_iced_tea.md%})
+- Example: [Long Island Iced Tea](/recipe/long_island_iced_tea)
 - More info: A long, mixed drink containing at least two clear spirits and served in a tall, ice-filled glass.
 
 ### Toddy
@@ -327,33 +327,3 @@ excerpt: |
 - Created: Unknown but first known written reference on 7th November 1786 in <i>The Edinburgh Advertiser</i>
 - Example: Scotch Toddy
 - More info: A hot, short, mixed drink often taken to soothe the effects of a cold. Toddies usually contain lemon juice and spices.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {%- if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": "{%- include stars_metadata.html %} out of 5",{%- endif -%}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {%- include category_metadata.html -%}, {%- include spirits_metadata.html -%}"
-}
-</script>
-
-    
