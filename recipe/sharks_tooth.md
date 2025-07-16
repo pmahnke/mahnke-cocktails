@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/sharks_tooth/"
 iconfile: sharks_tooth
 stars: 0
-base_spirits: "Jamaican Rum, Barbados Rum, Cherry liqueur, Maraschino Liquour"
+base_spirits: "Jamaican Rum, Barbados Rum, Cherry Liqueur, Maraschino Liqueur"
 youtube: "https://curiada.com/blogs/news/sharks-tooth-cocktail-recipe-featuring-barbados-and-jamaica-rums"
 excerpt: |
   Originally surfacing during tiki's heyday, today there are variations to suit every palate. Here the recipe is very rum-forward, served straight up after a quick shake with ice, and the presentation is more understated than might typically be expected.
@@ -19,8 +19,8 @@ excerpt: |
 | ---------: | --------------------------------------------------------- | ---------------------- |
 |       1 oz | Jamaican Rum                                              | Appleton Estate 5 Year |
 |       1 oz | Barbados Rum                                              | Plantation 5 Year      |
-| 1 barspoon | Cherry liqueur                                            | Cherry Heering         |
-| 1 barspoon | Maraschino Liquour                                        | Luxardo                |
+| 1 barspoon | Cherry Liqueur                                            | Cherry Heering         |
+| 1 barspoon | Maraschino Liqueur                                        | Luxardo                |
 |     0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |     0.5 oz | Fresh Lime Juice                                          |
 |     0.5 oz | Fresh Pineapple Juice                                     |

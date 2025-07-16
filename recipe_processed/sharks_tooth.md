@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/sharks_tooth/"
 iconfile: sharks_tooth
 stars: 0
-base_spirits: "Jamaican Rum, Barbados Rum, Cherry liqueur, Maraschino Liquour"
+base_spirits: "Jamaican Rum, Barbados Rum, Cherry Liqueur, Maraschino Liqueur"
 youtube: "https://curiada.com/blogs/news/sharks-tooth-cocktail-recipe-featuring-barbados-and-jamaica-rums"
 excerpt: |
   Originally surfacing during tiki's heyday, today there are variations to suit every palate. Here the recipe is very rum-forward, served straight up after a quick shake with ice, and the presentation is more understated than might typically be expected.
@@ -19,8 +19,8 @@ excerpt: |
 | ---------: | --------------------------------------------------------- | ---------------------- |
 |       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Jamaican Rum                                              | Appleton Estate 5 Year |
 |       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Barbados Rum                                              | Plantation 5 Year      |
-| <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Cherry liqueur                                            | Cherry Heering         |
-| <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Maraschino Liquour                                        | Luxardo                |
+| <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Cherry Liqueur                                            | Cherry Heering         |
+| <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Maraschino Liqueur                                        | Luxardo                |
 |     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Lime Juice                                          |
 |     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Pineapple Juice                                     |
@@ -47,8 +47,8 @@ excerpt: |
   "recipeIngredient": [
   "1 oz Jamaican Rum ",
   "1 oz Barbados Rum ",
-  "1 barspoon Cherry liqueur ",
-  "1 barspoon Maraschino Liquour ",
+  "1 barspoon Cherry Liqueur ",
+  "1 barspoon Maraschino Liqueur ",
   "0.5 oz Semi-Rich Simple Syrup",
   "0.5 oz Fresh Lime Juice ",
   "0.5 oz Fresh Pineapple Juice"
