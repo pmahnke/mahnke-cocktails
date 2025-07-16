@@ -5,9 +5,11 @@
   {%- assign spirits = cleaned_list | strip | split: ", " -%}
   {%- for spirit in spirits -%}
     {%- unless page.categories contains "mocktail" or page.categories contains "syrup"  -%}
+    {%- unless spirit contains "SPIRIT" -%}
     {%- assign spirit_clean = spirit | strip  -%}
     {%- unless all_spirits contains spirit_clean -%}
       {%- assign all_spirits = all_spirits | append: spirit_clean | append: "|" -%}
+    {%- endunless -%}
     {%- endunless -%}
     {%- endunless -%}
   {%- endfor -%}
