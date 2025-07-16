@@ -16,13 +16,13 @@ excerpt: |
 
 ### Ingredients
 
-|     Amount | Ingredient                                          | Brand                       |
-| ---------: | --------------------------------------------------- | --------------------------- |
-|       <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Gin                                                 | Hendricks or Martin Millers |
-|       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lime Juice                                    |                             |
-|    <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Simple Syrup]({%- link recipe_processed/simple_syrup.md -%}) |                             |
-| 2-3 slices | Cucumber                                            |                             |
-|   <span class="onex active">5 leaves </span> <span class="onehalfx">7 <sup>1</sup>&frasl;<sub>2</sub> leaves </span> <span class="twox">10 leaves </span> <span class="threex">15 leaves </span>| Mint                                                |                             |
+|     Amount | Ingredient                                                    | Brand                       |
+| ---------: | ------------------------------------------------------------- | --------------------------- |
+|       <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Gin                                                           | Hendricks or Martin Millers |
+|       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lime Juice                                              |                             |
+|    <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Semi-Rich Simple Syrup]({%- link recipe_processed/simple_syrup.md -%}) |                             |
+| 2-3 slices | Cucumber                                                      |                             |
+|   <span class="onex active">5 leaves </span> <span class="onehalfx">7 <sup>1</sup>&frasl;<sub>2</sub> leaves </span> <span class="twox">10 leaves </span> <span class="threex">15 leaves </span>| Mint                                                          |                             |
 
 ### Notes
 
@@ -46,7 +46,7 @@ excerpt: |
   "recipeIngredient": [
   "2 oz Gin",
   "1 oz Fresh Lime Juice ",
-  " 0.75 oz Simple Syrup",
+  " 0.75 oz Semi-Rich Simple Syrup",
   "2-3 slices Cucumber ",
   "5 leaves Mint "
     ],
