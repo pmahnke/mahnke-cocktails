@@ -60,7 +60,6 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             <li><strong>Other links</strong></li>
             <ul>
                 <li><a href="https://euvs-vintage-cocktail-books.cld.bz/" target="_blank">EUVS Vintage Cocktail Book PDFs</a></li>
-                <li><a href="./AndersEricksonCocktailsList.numbers" target="_blank">Cocktail Ingredients Breakdown</a></li>
             </ul>
         </ul>
     </div><!-- /div 1/3 -->

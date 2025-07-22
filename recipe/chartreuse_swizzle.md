@@ -5,7 +5,7 @@ creator: Marco Valdo Dionysus
 title: "Chartreuse Swizzle"
 eras: [modern]
 categories: [frappe_swizzle]
-permalink: "/recipe/chartreuseswizzle/"
+permalink: "/recipe/chartreuse_swizzle/"
 iconfile: chartreuse_swizzle
 stars: 5
 base_spirits: "Green Chartreuse"
