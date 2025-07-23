@@ -30,7 +30,7 @@ excerpt: |
 
 ### Notes
 
-- Method: Tumbled between two pint plasses
+- Method: Rolled between two pint plasses
 - Pour: Add all ingredients directly to the glass
 - Glassware:
   - Pint
