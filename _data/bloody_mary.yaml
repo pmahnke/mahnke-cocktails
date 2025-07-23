@@ -1,0 +1,13 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-vodka.svg
+      title: Vodka
+  glass:
+    - url: /assets/images/glass_pint.svg
+      title: Pint
+  garnish:
+    - url: /assets/images/fruit_olives.svg
+      title: Olives
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes
