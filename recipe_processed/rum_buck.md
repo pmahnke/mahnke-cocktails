@@ -30,7 +30,9 @@ excerpt: |
   - High Ball
   - On the Rocks
 - Garnish: Lime wheel
-- Special Prep: Pour the ginger beer into the glass while pouring the cocktail. Add the allspice dram as a float
+- Special Prep: 
+  1. Pour the ginger beer into the glass while pouring the cocktail. 
+  1. Add the allspice dram as a float
 
     
 <script type="application/ld+json">
@@ -77,7 +79,15 @@ excerpt: |
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Pour the ginger beer into the glass while pouring the cocktail. Add the allspice dram as a float"
+      "text": "- Special Prep: "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Pour the ginger beer into the glass while pouring the cocktail. "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Add the allspice dram as a float"
     }
     ],
   "recipeYield": "1 cocktail",

@@ -4,7 +4,7 @@ author: Leandro DiMonriva
 creator: Paul Harrington
 title: "Jasmine"
 eras: [modern]
-categories: [sour, campari]
+categories: [campari, sour]
 permalink: "/recipe/jasmine/"
 iconfile: jasmine
 stars: 3

@@ -29,4 +29,7 @@ excerpt: |
 - Pour: Add all ingredients directly to the shaking tin
 - Glassware: Large Glass
 - Garnish: Grated Chocolate and Mint Sprig
-- Special Prep: Blend cocktail with a stick blender in the shaking tin. Pour cocktail into glass. Top with [Chartreuse Whipped Cream]({%link recipe/chartreuse_whipped_cream.md%}).
+- Special Prep: 
+  - Blend cocktail with a stick blender in the shaking tin. 
+  - Pour cocktail into glass. 
+  - Top with [Chartreuse Whipped Cream]({%link recipe/chartreuse_whipped_cream.md%}).

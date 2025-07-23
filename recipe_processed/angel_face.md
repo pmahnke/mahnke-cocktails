@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Harry Craddock
 title: "Angel Face"
 categories: [cocktail]
 eras: [prohibition]

@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Alton Brown
+creator: Alton Brown
 title: "Alton Brown’s Aged Eggnog"
 categories: [eggnog, dairy]
 eras: [classic]

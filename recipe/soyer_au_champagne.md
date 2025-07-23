@@ -29,4 +29,9 @@ excerpt: |
 - Pour: Julep Strain
 - Glassware: Coupe
 - Garnish: None
-- Special Prep: Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass. Freeze for 15 to 20 minutes. Pour cocktail around the ice cream. Top with 1 to 1.5 ounces of champagne. Serve with a small spoon.
+- Special Prep: 
+    1. Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass. 
+    1. Freeze for 15 to 20 minutes. 
+    1. Pour cocktail around the ice cream. 
+    1. Top with 1 to 1.5 ounces of champagne. 
+    1. Serve with a small spoon.

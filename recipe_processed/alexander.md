@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Alexander"
 categories: [cocktail, dairy]
-eras: [prohibition]
+eras: [classic]
 permalink: "/recipe/alexander/"
 iconfile: alexander
 stars: 0

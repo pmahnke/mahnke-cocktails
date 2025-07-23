@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Dick Bradsell
 title: "Espresso Martini"
 eras: [modern]
 categories: [coffee, after_dinner]
@@ -33,7 +34,7 @@ excerpt: |
 - Garnish: Lemon oil and 3 coffee beans
 - Special Prep: None
 
-## 2
+## Riff
 
 ### Ingredients
 
@@ -95,7 +96,7 @@ excerpt: |
     },
     {
       "@type": "HowToStep",
-      "text": "## 2"
+      "text": "## Riff"
     },
     {
       "@type": "HowToStep",

@@ -33,8 +33,8 @@ excerpt: |
   - Crushed Ice
 - Garnish: Mint sprig
 - Special Prep:
-  - Cut the quarter lemon into 2 wedges and remove the center pith and de-seed.
-  - Squeeze the juice into the tin, then drop the lemon wedges into the tin.
-  - Add the remaining ingredients and shake.
-  - Hawthorn strain the cocktail into the cheater tin.
-  - Then strain the cocktail into the glass filled with crushed ice
+  1. Cut the quarter lemon into 2 wedges and remove the center pith and de-seed.
+  1. Squeeze the juice into the tin, then drop the lemon wedges into the tin.
+  1. Add the remaining ingredients and shake.
+  1. Hawthorn strain the cocktail into the cheater tin.
+  1. Then strain the cocktail into the glass filled with crushed ice

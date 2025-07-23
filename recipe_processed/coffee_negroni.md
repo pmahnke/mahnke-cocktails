@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Coffee Negroni"
-categories: [campari, coffee, after_dinner]
+categories: [after_dinner, campari, coffee]
 eras: [modern]
 permalink: "/recipe/coffee_negroni/"
 iconfile: coffee_negroni

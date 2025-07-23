@@ -14,20 +14,35 @@ excerpt: |
   The Suffering Bastard cocktail uses both bourbon and gin. Born in Cairo at the Shepheard's Hotel, it was originally concocted as a hangover cure for troops fighting in North Africa.
 ---
 
+## Cognac Version
+
 ### Ingredients
 
 |        Amount | Ingredient                                               | Brand                      |
 | ------------: | -------------------------------------------------------- | -------------------------- |
 |          1 oz | Gin                                                      | Beefeaters                 |
 |          1 oz | Cognac                                                   | Maison Rouge VSOP          |
-|               | - OR -                                                   |
+|       0.75 oz | Fresh Lime Juice                                         |
+|       0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
+| 2 to 3 dashes | Bitters                                                  | Angostura Aromatic Bitters |
+|          3 oz | Ginger Beer                                              | Fever Tree                 |
+
+## Bourbon Version
+
+### Ingredients
+
+|        Amount | Ingredient                                               | Brand                      |
+| ------------: | -------------------------------------------------------- | -------------------------- |
+|          1 oz | Gin                                                      | Beefeaters                 |
 |          1 oz | Bourbon                                                  | Old Grand-Dad 100 Proof    |
 |       0.75 oz | Fresh Lime Juice                                         |
 |       0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 2 to 3 dashes | Bitters                                                  | Angostura Aromatic Bitters |
 |          3 oz | Ginger Beer                                              | Fever Tree                 |
 
-### Notes
+
+
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

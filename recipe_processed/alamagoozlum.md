@@ -50,10 +50,10 @@ excerpt: |
 - Garnish: Pineapple slice
 - Special Prep:
   - Reverse dry shake:
-    - Shake cocktail with ice first.
-    - Strain cocktail into the cheater tin.
-    - Remove ice
-    - Dry shake cocktail
+    1. Shake cocktail with ice first.
+    1. Strain cocktail into the cheater tin.
+    1. Remove ice
+    1. Dry shake cocktail
 
     
 <script type="application/ld+json">
@@ -104,19 +104,19 @@ excerpt: |
     },
     {
       "@type": "HowToStep",
-      "text": "    - Shake cocktail with ice first."
+      "text": "    1. Shake cocktail with ice first."
     },
     {
       "@type": "HowToStep",
-      "text": "    - Strain cocktail into the cheater tin."
+      "text": "    1. Strain cocktail into the cheater tin."
     },
     {
       "@type": "HowToStep",
-      "text": "    - Remove ice"
+      "text": "    1. Remove ice"
     },
     {
       "@type": "HowToStep",
-      "text": "    - Dry shake cocktail"
+      "text": "    1. Dry shake cocktail"
     }
     ],
   "recipeYield": "1 cocktail",

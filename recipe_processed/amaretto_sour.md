@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Jeffrey Morgenthaler
 title: "Amaretto Sour"
 categories: [sour]
 eras: [modern]

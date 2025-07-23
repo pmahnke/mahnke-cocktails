@@ -31,7 +31,7 @@ excerpt: |
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Collins glass
+- Glassware: Collins Glass
 - Garnish: Lime wheel and cocktail cherry
 - Special Prep: None
 
@@ -52,7 +52,7 @@ excerpt: |
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Collins glass
+- Glassware: Collins Glass
 - Garnish: Orange slice
 - Special Prep: Stir orange juice and tequilla, then pour the grenadine down the side of the glass.
 
@@ -76,7 +76,7 @@ excerpt: |
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Collins glass
+- Glassware: Collins Glass
 - Garnish: Lime wheel and cocktail cherry
 - Special Prep: None
 

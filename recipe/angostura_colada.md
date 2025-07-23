@@ -1,6 +1,7 @@
 ---
 layout: recipe
-author: Zac Overman Cocktail Recipes
+author: Anders Erickson
+creator: Zac Overman
 title: "Angostura Colada"
 categories: [tiki]
 eras: [modern]
@@ -8,7 +9,7 @@ permalink: "/recipe/angostura_colada/"
 iconfile: angostura_colada
 stars: 0
 base_spirits: "Angostura Aromatic Bitters, Jamaican Rum"
-youtube: "-DnpmdGBmgs&t=433s"
+youtube: "-DnpmdGBmgs"
 excerpt: |
   Adapted from a recipe created 2nd October 2013 by New York bartender Zac Overman while experimenting at home. His Trinidad Colada a.k.a. Angostura Colada debuted at the Sunken Harbor Club in Brooklyn when it opened on 23 January 2014.
 ---

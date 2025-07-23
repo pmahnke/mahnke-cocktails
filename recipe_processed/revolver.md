@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Revolver"
 eras: [modern]
-categories: [coffee, after_dinner]
+categories: [Coffee, Cocktail]
 permalink: "/recipe/revolver/"
 iconfile: revolver
 stars: 0

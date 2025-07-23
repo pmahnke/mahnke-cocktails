@@ -1,6 +1,7 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Gaspare Campari
 title: "Americano"
 categories: [campari, cocktail]
 eras: [classic]

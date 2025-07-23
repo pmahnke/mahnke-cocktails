@@ -28,7 +28,7 @@ excerpt: |
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass and stir
-- Glassware: Collins glass
+- Glassware: Collins Glass
   - On the rocks
 - Garnish: None
 - Special Prep: 
