@@ -36,4 +36,4 @@ excerpt: |
   - Pint
   - On the Rocks
 - Garnish: Lemon twist, Brussels sprouts, green beans, olives or the more traditional stalk of celery
-- Special Prep: None
+- Special Prep: Add a sidecar of American lager.
