@@ -1,8 +1,9 @@
 ---
 layout: recipe
 author: Anders Erickson
+creator: Trader Vic
 title: "El Diablo"
-categories: [tikil]
+categories: [tiki]
 eras: [modern]
 permalink: "/recipe/el_diablo/"
 iconfile: el_diablo
