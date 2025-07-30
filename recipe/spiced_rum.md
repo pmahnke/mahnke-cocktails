@@ -1,8 +1,8 @@
 ---
 layout: recipe
 title: "Spiced Rum"
-Author: Wayne Curtis
-Creator: Martin Cate
+author: Wayne Curtis
+creator: Martin Cate
 categories: [syrup]
 permalink: "/recipe/spiced_rum/"
 iconfile: spiced_rum
