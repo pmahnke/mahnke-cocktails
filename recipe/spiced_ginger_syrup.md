@@ -17,10 +17,10 @@ excerpt: |
 | -----------: | ----------------- |
 |      1 whole | Star Anise        |
 | 0.5 teaspoon | Cardamom Pods     |
-|  1 teaspoons | Black Peppercorns |
-|   1 teaspoon | Allspice Berries  |
-|       0.5 lb | Fresh Ginger      |
-|     1.5 cups | Water             |
+|   1 teaspoon | Black Peppercorns |
+| 0.5 teaspoon | Allspice Berries  |
+|    0.5 pound | Fresh Ginger      |
+|      1.5 cup | Water             |
 |        1 cup | Demerara Sugar    |
 
 ### Method

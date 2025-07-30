@@ -17,10 +17,10 @@ excerpt: |
 | -----------: | ----------------- |
 |      <span class="onex active">1 whole </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">2 whole </span> <span class="threex">3 whole </span>| Star Anise        |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="twox">1 teaspoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span>| Cardamom Pods     |
-|  <span class="onex active">1 teaspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="twox">2 teaspoons</span> <span class="threex">3 teaspoons</span>| Black Peppercorns |
-|   <span class="onex active">1 teaspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="twox">2 teaspoons</span> <span class="threex">3 teaspoons</span>| Allspice Berries  |
-|       <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> lb </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> lb </span> <span class="twox">1 lb </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> lb </span>| Fresh Ginger      |
-|     <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> cups </span> <span class="twox">3 cups </span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> cups </span>| Water             |
+|   <span class="onex active">1 teaspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="twox">2 teaspoons</span> <span class="threex">3 teaspoons</span>| Black Peppercorns |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="twox">1 teaspoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span>| Allspice Berries  |
+|    <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> pound </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> pound </span> <span class="twox">1 pound </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> pound </span>| Fresh Ginger      |
+|      <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">3 cup </span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> cup </span>| Water             |
 |        <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Demerara Sugar    |
 
 ### Method
@@ -46,10 +46,10 @@ excerpt: |
   "recipeIngredient": [
   " 1 whole Star Anise ",
   "0.5 teaspoon Cardamom Pods",
-  " 1 teaspoons Black Peppercorns",
-  "1 teaspoon Allspice Berries ",
-  "0.5 lb Fresh Ginger ",
-  "1.5 cups Water",
+  "1 teaspoon Black Peppercorns",
+  "0.5 teaspoon Allspice Berries ",
+  " 0.5 pound Fresh Ginger ",
+  " 1.5 cup Water",
   " 1 cup Demerara Sugar "
     ],
   "name": "{{ page.title }}",
