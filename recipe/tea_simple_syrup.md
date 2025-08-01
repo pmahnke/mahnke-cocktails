@@ -12,11 +12,11 @@ excerpt: |
 
 ### Ingredients
 
-|          Amount | Ingredient  |
-| --------------: | ----------- |
-|      6 tea bags | Black Tea   |
-| 2 cups / 400 ml | Hot Water   |
-|  2 cups / 400 g | White Sugar |
+|     Amount | Ingredient  |
+| ---------: | ----------- |
+| 6 tea bags | Black Tea   |
+|     2 cups | Hot Water   |
+|     2 cups | White Sugar |
 
 ### Method
 

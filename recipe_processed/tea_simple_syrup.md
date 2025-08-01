@@ -12,11 +12,11 @@ excerpt: |
 
 ### Ingredients
 
-|          Amount | Ingredient  |
-| --------------: | ----------- |
-|      <span class="onex active">6 tea bags </span> <span class="onehalfx">9 tea bags </span> <span class="twox">12 tea bags </span> <span class="threex">18 tea bags </span>| Black Tea   |
-| <span class="onex active">0.0666666666666667 oz / 2 ml</span> <span class="onehalfx">0.1 oz / 3 ml</span> <span class="twox">0.133333333333333 oz / 4 ml</span> <span class="threex">0.2 oz / 6 ml</span>| Hot Water   |
-|  <span class="onex active">2 cups / 400 g </span> <span class="onehalfx">3 cups / 400 g </span> <span class="twox">4 cups / 400 g </span> <span class="threex">6 cups / 400 g </span>| White Sugar |
+|     Amount | Ingredient  |
+| ---------: | ----------- |
+| <span class="onex active">6 tea bags </span> <span class="onehalfx">9 tea bags </span> <span class="twox">12 tea bags </span> <span class="threex">18 tea bags </span>| Black Tea   |
+|     <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span>| Hot Water   |
+|     <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span>| White Sugar |
 
 ### Method
 
@@ -37,9 +37,9 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 6 tea bags Black Tea",
-  "2 cups / 400 ml Hot Water",
-  " 2 cups / 400 g White Sugar"
+  "6 tea bags Black Tea",
+  "2 cups Hot Water",
+  "2 cups White Sugar"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
