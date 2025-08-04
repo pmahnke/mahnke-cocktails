@@ -57,7 +57,7 @@ Special Prep: Salted rim
   "recipeCategory": "cocktail",
   {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %},
+   "ratingValue": "{%- include stars_metadata.html %}",
    "bestRating": "5",
    "reviewCount": "2"}{%- endif %}
   "recipeCuisine": "global",
