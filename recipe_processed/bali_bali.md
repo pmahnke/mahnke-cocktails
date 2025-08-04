@@ -98,7 +98,7 @@ excerpt: |
    "@type": "AggregateRating",
    "ratingValue": "{%- include stars_metadata.html %}",
    "bestRating": "5",
-   "reviewCount": "2"}{%- endif %}
+   "reviewCount": "2"},{%- endif %}
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
