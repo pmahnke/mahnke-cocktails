@@ -10,6 +10,7 @@ stars: 0
 base_spirits: "Grenadine, Grapefruit Juice, Lemon Juice"
 youtube: "s0nUq0Q9yUk"
 excerpt: |
+  A classic 1937 Cafe Royal mocktail with a big hit of grapefruit.
 ---
 
 ### Ingredients
@@ -20,8 +21,6 @@ excerpt: |
 | 0.75 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 |  1.5 oz | Grapefruit Juice                                |
 |  0.5 oz | Fresh Lemon Juice                               |
-
-and for garnish
 
 ### Notes
 
