@@ -7,7 +7,7 @@ categories: [campari, cocktail]
 eras: [classic]
 permalink: "/recipe/americano/"
 iconfile: americano
-stars: 0
+stars: 3
 base_spirits: "Campari "
 youtube: "lgy6vEX_hQg"
 excerpt: |

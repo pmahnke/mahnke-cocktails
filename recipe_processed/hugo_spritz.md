@@ -6,7 +6,7 @@ categories: [spritz]
 eras: [modern]
 permalink: "/recipe/hugo_spritz/"
 iconfile: hugo_spritz
-stars: 0
+stars: 2.5
 base_spirits: "Elderflower Liqueur, Prosecco"
 youtube: "BUb54paVf0s"
 excerpt: |

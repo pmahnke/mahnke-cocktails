@@ -6,7 +6,7 @@ categories: [spritz]
 eras: [modern]
 permalink: "/recipe/aperol_spritz/"
 iconfile: aperol_spritz
-stars: 0
+stars: 3.25
 base_spirits: "Aperol, Prosecco"
 youtube: "BUb54paVf0s"
 excerpt: |

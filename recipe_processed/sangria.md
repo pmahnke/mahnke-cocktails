@@ -6,7 +6,7 @@ eras: [classic]
 categories: [punch]
 permalink: "/recipe/sangria/"
 iconfile: sangria
-stars: 0
+stars: 4.5
 base_spirits: "Red Wine, Oloroso Sherry, Grand Marnier "
 youtube: "NNI--bxevNo"
 excerpt: |
