@@ -6,7 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/jack_rose/"
 iconfile: jack_rose
-stars: 3 <sup>1</sup>&frasl;<sub>2</sub>
+stars: 0
 base_spirits: "Apple Brandy "
 youtube: "7H7Cz53jDhc"
 excerpt: |

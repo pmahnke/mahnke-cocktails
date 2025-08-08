@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/cable_car/"
 iconfile: cable_car
-stars: 0
+stars: 4
 base_spirits: "Spice Rum "
 youtube: "iUGkl-AVgbI"
 excerpt: |

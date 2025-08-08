@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/bobby_burns/"
 iconfile: bobby_burns
-stars: 0
+stars: 3.5
 base_spirits: "Scotch, Blended, Bénédictine"
 youtube: "X5haIFd1Ysw"
 excerpt: |

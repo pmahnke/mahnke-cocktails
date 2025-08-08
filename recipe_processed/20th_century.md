@@ -7,7 +7,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/20th_century/"
 iconfile: 20th_century
-stars: 0
+stars: 4
 base_spirits: "Gin, Cocchi Americano, Crème de Cacao "
 youtube: "6AyWk5teLv8"
 excerpt: |

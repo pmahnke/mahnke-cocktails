@@ -4,7 +4,7 @@ title: "Jasper's Mix (1/2 batch)"
 categories: [syrup]
 permalink: "/recipe/jaspers_mix/"
 iconfile: jaspers_mix
-stars: 5
+stars: 0
 base_spirits: "Angostura Aromatic Bitters, White Sugar"
 youtube: "sRTGCquUgMs"
 excerpt: |

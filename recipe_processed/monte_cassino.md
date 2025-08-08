@@ -6,7 +6,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/monte_cassino/"
 iconfile: monte_cassino
-stars: 4
+stars: 4.25
 base_spirits: "Rye, Yellow Chartreuse, Bénédictine"
 youtube: "NGPSk_jMZvA"
 excerpt: |

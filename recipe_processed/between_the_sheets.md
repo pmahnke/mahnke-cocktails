@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/between_the_sheets/"
 iconfile: between_the_sheets
-stars: 4
+stars: 2
 base_spirits: "Jamaican Rum, Demerara Rum, Campari"
 youtube: "VnuAR_wPOZA"
 excerpt: |

@@ -6,7 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/scofflaw/"
 iconfile: scofflaw
-stars: 5
+stars: 4.5
 base_spirits: "Rye"
 youtube: "nutbajkZ8Lc"
 excerpt: |

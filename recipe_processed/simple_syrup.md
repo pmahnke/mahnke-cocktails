@@ -4,7 +4,7 @@ title: "Semi-Rich Simple Syrup"
 categories: [syrup]
 permalink: "/recipe/simple_syrup/"
 iconfile: simple_syrup
-stars: 5
+stars: 0
 base_spirits: "Sugar"
 youtube: CvEDhkR6K14
 excerpt: |

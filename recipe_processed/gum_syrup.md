@@ -4,7 +4,7 @@ title: "Gum Syrup"
 categories: [syrup]
 permalink: "/recipe/gum_syrup/"
 iconfile: gum_syrup
-stars: 5
+stars: 0
 base_spirits: "Sugar, Powdered Gum Arabic"
 youtube: CvEDhkR6K14
 excerpt: |

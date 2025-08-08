@@ -7,7 +7,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/aviation/"
 iconfile: aviation
-stars: 4
+stars: 4.5
 base_spirits: "Gin, Crème de Violette "
 youtube: "Kmw5D32W8sM&t=345sY"
 excerpt: |

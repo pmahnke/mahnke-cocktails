@@ -6,7 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/wardroom/"
 iconfile: wardroom
-stars: 0
+stars: 3
 base_spirits: "Cognac, Dark Rum, Tawny Port"
 youtube: "y41UN6AZSMs"
 excerpt: |

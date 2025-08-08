@@ -4,7 +4,7 @@ title: "Cocoa Nib Infused Campari"
 categories: [syrup, campari]
 permalink: "/recipe/cocoa_nib_campari/"
 iconfile: cocoa_nib_campari
-stars: 5
+stars: 0
 base_spirits: "Campari, Cocoa Nibs"
 youtube: "u0N9FFJ1i5c"
 excerpt: |

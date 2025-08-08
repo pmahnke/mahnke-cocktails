@@ -6,7 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/autumn_rose/"
 iconfile: autumn_rose
-stars: 3 <sup>1</sup>&frasl;<sub>2</sub>
+stars: 4
 base_spirits: "Apple Brandy"
 youtube: "9OxlSOioD_k"
 excerpt: |

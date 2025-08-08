@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/absinthe_old_fashioned/"
 iconfile: absinthe_old_fashioned
-stars: 0
+stars: 3
 base_spirits: "Absinthe, Elderflower Liqueur"
 youtube: "0rnil0_xFnM"
 excerpt: |

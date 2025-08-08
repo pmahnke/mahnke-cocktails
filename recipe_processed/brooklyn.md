@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/brooklyn/"
 iconfile: brooklyn
-stars: 0
+stars: 3.5
 base_spirits: "Rye, Maraschino Liqueur"
 youtube: "JU8xN_ty2i0"
 excerpt: |

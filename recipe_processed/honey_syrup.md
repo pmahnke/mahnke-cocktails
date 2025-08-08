@@ -4,7 +4,7 @@ title: "Honey Syrup"
 categories: [syrup]
 permalink: "/recipe/honey_syrup/"
 iconfile: honey_syrup
-stars: 5
+stars: 0
 base_spirits: "Honey"
 youtube: "kRdWT71gBb5UcAU8"
 excerpt: |

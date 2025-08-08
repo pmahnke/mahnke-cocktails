@@ -6,7 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/paper_plane/"
 iconfile: paper_plane
-stars: 5
+stars: 4.5
 base_spirits: "Bourbon, Amaro, Aperol"
 youtube: "yu4JNOvec1k&t=6s"
 excerpt: |

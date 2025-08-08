@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/sazarac/"
 iconfile: sazarac
-stars: 4
+stars: 4.25
 base_spirits: "Rye, Cognac "
 youtube: "dJ-sAEzw9Jc"
 excerpt: |

@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/manhattan/"
 iconfile: manhattan
-stars: 3
+stars: 4
 base_spirits: Rye
 youtube: "eWESf1b317Y&t=278s"
 youtube_embed: "https://www.youtube.com/embed/eWESf1b317Y?si=fVWUHbXnEHzF820P"

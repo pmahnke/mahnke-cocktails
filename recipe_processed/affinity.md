@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/affinity/"
 iconfile: affinity
-stars: 0
+stars: 4
 base_spirits: "Scotch, Sweet Vermouth, White Vermouth"
 youtube: "9lgx04fJrSM"
 excerpt: |

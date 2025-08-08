@@ -6,7 +6,7 @@ creator: Martin Cate
 categories: [syrup]
 permalink: "/recipe/spiced_rum/"
 iconfile: spiced_rum
-stars: 5
+stars: 0
 base_spirits: "Demerara Rum, Spices"
 youtube: "https://www.liquor.com/articles/spice-your-rum/"
 excerpt: 

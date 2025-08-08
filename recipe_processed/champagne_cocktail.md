@@ -6,7 +6,7 @@ categories: [champagne]
 eras: [classic]
 permalink: "/recipe/champagne_cocktail/"
 iconfile: champagne_cocktail
-stars: 5
+stars: 4.5
 base_spirits: "Champagne, Cognac "
 youtube: "WmMC1qb2LgA"
 excerpt: |

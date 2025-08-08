@@ -7,7 +7,7 @@ categories: [ sour ]
 eras: [ modern ]
 permalink: "/recipe/cloud_sour/"
 iconfile: cloud_sour
-stars: 
+stars: 0
 base_spirits: "Gin"
 youtube: ""
 excerpt: |

@@ -4,7 +4,7 @@ title: "Raspberry Syrup"
 categories: [syrup]
 permalink: "/recipe/raspberrysyrup/"
 iconfile: raspberry_syrup
-stars: 5
+stars: 0
 base_spirits: "White Sugar, Raspberries"
 youtube: "vGBMrJgjZB4"
 excerpt: |

@@ -6,7 +6,7 @@ creator: James Worden
 categories: [syrup]
 permalink: "/recipe/spiced_ginger_syrup/"
 iconfile: spiced_ginger_syrup
-stars: 5
+stars: 0
 base_spirits: "Sugar, Spices"
 youtube:
 excerpt: |

@@ -6,7 +6,7 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/wi_old_fashioned/"
 iconfile: wi_old_fashioned
-stars: 4
+stars: 3.5
 base_spirits: "Brandy"
 youtube: "wr1pjEwi4P0"
 excerpt: |

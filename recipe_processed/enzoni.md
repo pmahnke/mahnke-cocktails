@@ -7,7 +7,7 @@ categories: [campari, cocktail]
 eras: [modern]
 permalink: "/recipe/enzoni/"
 iconfile: enzoni
-stars: 0
+stars: 4
 base_spirits: "Gin, Campari"
 youtube: "ipHnOhkGWug"
 excerpt: |

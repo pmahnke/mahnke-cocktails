@@ -7,7 +7,7 @@ eras: [modern]
 categories: [buck]
 permalink: "/recipe/suffering_bastard/"
 iconfile: suffering_bastard
-stars: 0
+stars: 3.5
 base_spirits: "Gin, Cognac -OR- Bourbon"
 youtube: "oRQtYcyRKVI"
 excerpt: |

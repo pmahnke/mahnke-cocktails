@@ -6,7 +6,7 @@ categories: [buck]
 eras: [classic]
 permalink: "/recipe/dark_n_stormy/"
 iconfile: dark_n_stormy
-stars: 5
+stars: 4.5
 base_spirits: "Dark Rum "
 youtube: "2EZBGowe0ho"
 excerpt: |

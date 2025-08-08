@@ -4,7 +4,7 @@ title: "Sage Honey Syrup"
 categories: [syrup]
 permalink: "/recipe/sage_honey_syrup/"
 iconfile: sage_honey_syrup
-stars: 5
+stars: 0
 base_spirits: "Honey, Sage"
 youtube: "EKyIy5iG87Q"
 excerpt: |

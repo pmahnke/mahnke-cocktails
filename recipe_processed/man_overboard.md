@@ -7,7 +7,7 @@ categories: [  sour ]
 eras: [ modern]
 permalink: "/recipe/man_overboard/"
 iconfile: man_overboard
-stars: 
+stars: 0
 base_spirits: "Rye, Triple Sec"
 youtube: ""
 excerpt: |

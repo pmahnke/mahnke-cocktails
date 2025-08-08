@@ -7,7 +7,7 @@ categories: [punch]
 eras: [classic]
 permalink: "/recipe/alamagoozlum/"
 iconfile: alamagoozlum
-stars: 3 <sup>1</sup>&frasl;<sub>2</sub>
+stars: 3.5
 base_spirits: "Genever, Jamaican Rum, Yellow Chartreuse "
 youtube: "8H-IBvOX8EI"
 excerpt: |

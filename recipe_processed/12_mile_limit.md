@@ -7,7 +7,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/12_mile_limit/"
 iconfile: 12_mile_limit
-stars: 4
+stars: 3.75
 base_spirits: "Light Rum, Rye, Cognac"
 youtube: "6M6Xu_URmPg"
 excerpt: |

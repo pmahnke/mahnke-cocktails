@@ -4,7 +4,7 @@ title: "Guava Syrup"
 categories: [syrup]
 permalink: "/recipe/guava_syrup/"
 iconfile: guava_syrup
-stars: 5
+stars: 0
 base_spirits: "White Sugar, Guava Pulp"
 youtube: "-DnpmdGBmgs"
 excerpt: |

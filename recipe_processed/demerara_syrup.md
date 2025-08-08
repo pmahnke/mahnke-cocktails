@@ -4,7 +4,7 @@ title: "Rich Demerara Syrup"
 categories: [syrup]
 permalink: "/recipe/demerara_syrup/"
 iconfile: demerara_syrup
-stars: 5
+stars: 0
 base_spirits: "Demerara Sugar"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

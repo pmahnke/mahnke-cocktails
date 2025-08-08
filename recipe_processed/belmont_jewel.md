@@ -6,7 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/belmont_jewel/"
 iconfile: belmont_jewel
-stars: 3 <sup>1</sup>&frasl;<sub>2</sub>
+stars: 3.5
 base_spirits: "Bourbon, Oloroso Sherry"
 youtube: "1V0-c6u4xJA"
 excerpt: |

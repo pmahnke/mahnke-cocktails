@@ -4,7 +4,7 @@ title: "Passion Fruit Syrup"
 categories: [syrup]
 permalink: "/recipe/passion_fruit_syrup/"
 iconfile: passion_fruit_syrup
-stars: 5
+stars: 0
 base_spirits: "White Sugar, Passion Fruit Pulp"
 youtube: "vGBMrJgjZB4"
 excerpt: |

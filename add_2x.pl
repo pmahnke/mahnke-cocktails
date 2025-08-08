@@ -20,11 +20,25 @@ while (my $file = readdir DIR) {
     my $infile = $dir.$file;
     open (FILE, "$infile") or die "Cannot open $infile\n";
 
-    my ($out, $schema, $s_ingredient, $s_instructions, $FLAGnotes) = "";    
+    my ($out, $schema, $s_ingredient, $s_instructions, $FLAGnotes, $rating) = "";    
     while (<FILE>) {
 
-        my ($minq, $maxq, $meas, $orig) = "";
+        my ($minq, $maxq, $meas, $orig, $iconfile) = "";
         
+        # get the icon file to get the ratings
+        $iconfile = $1 if (/iconfile: (.*)/);
+        if ($iconfile) {
+            $rating = &process_ratings($iconfile);
+            $_ = "iconfile: $iconfile\n";
+            print STDERR qq |found iconfile: $iconfile, leaving line: $_\n|;
+        }
+
+        # replace stars: front matter with new number
+        if (/stars:/) {
+            print STDERR qq |replacing $_ with $rating\n|;
+            s/stars: .*/stars: $rating/;
+        }
+
     	# convert internal liquid links
 	    s/link recipe\//link recipe_processed\//;
 
@@ -92,17 +106,18 @@ while (my $file = readdir DIR) {
         }
 
         # convert fractions from, for example 0.75 to 3/4
-        s/(0\.125|\.125)/ <sup>1<\/sup>&frasl;<sub>8<\/sub>/g; # 1/8
-        s/(0\.1666*7|\.1666*7)/ <sup>1<\/sup>&frasl;<sub>6<\/sub>/g; # 1/6
-        s/(0\.1875|\.1875)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 3/16, but make it 1/4
-        s/(0\.25|\.25)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 1/4
-        s/0\.3333*|\.3333*/ <sup>1<\/sup>&frasl;<sub>3<\/sub>/g; # 1/3
-        s/(0\.375|\.375)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 3/8, but make it 1/2
-        s/(0\.5|\.5)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 1/2
-        s/0\.6666*7|\.6666*7/ <sup>2<\/sup>&frasl;<sub>3<\/sub>/g; # 2/3
-        s/0\.8333*|\.8333*/ <sup>5<\/sup>&frasl;<sub>6<\/sub>/g; # 5/6
-        s/(0\.75|\.75)/ <sup>3<\/sup>&frasl;<sub>4<\/sub>/g; # 3/4
-	
+        if (!/stars:/) {
+            s/(0\.125|\.125)/ <sup>1<\/sup>&frasl;<sub>8<\/sub>/g; # 1/8
+            s/(0\.1666*7|\.1666*7)/ <sup>1<\/sup>&frasl;<sub>6<\/sub>/g; # 1/6
+            s/(0\.1875|\.1875)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 3/16, but make it 1/4
+            s/(0\.25|\.25)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 1/4
+            s/0\.3333*|\.3333*/ <sup>1<\/sup>&frasl;<sub>3<\/sub>/g; # 1/3
+            s/(0\.375|\.375)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 3/8, but make it 1/2
+            s/(0\.5|\.5)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 1/2
+            s/0\.6666*7|\.6666*7/ <sup>2<\/sup>&frasl;<sub>3<\/sub>/g; # 2/3
+            s/0\.8333*|\.8333*/ <sup>5<\/sup>&frasl;<sub>6<\/sub>/g; # 5/6
+            s/(0\.75|\.75)/ <sup>3<\/sup>&frasl;<sub>4<\/sub>/g; # 3/4
+        }
         $out .= $_;
 
     }
@@ -243,5 +258,28 @@ sub convert {
     ($minq, $maxq, $minml, $maxml, $meas) = "";
 
     return($out);
+
+}
+
+sub process_ratings {
+
+    # get the current ratings from the yaml, put the average back in the recipe
+    my ($stars, $count) = "";
+    
+    my $rating_file = $rootdir . "/_data/ratings/" . $_[0] . ".yaml";
+    return(0) if (!-e "$rating_file");
+
+    open (RATING, "$rating_file") || die "Cannot open $rating_file\n";
+    while (<RATING>) {
+        if (/rating: (.*)/) {
+            print STDERR qq|found rating $1 in $rating_file\n|;
+            $stars += $1;
+            $count++;
+        }
+    }
+    close (RATING);
+    my $sum = $stars/$count;
+    print STDERR qq|rating: stars - $stars count - $count average - $sum\n|;
+    return ($sum);
 
 }

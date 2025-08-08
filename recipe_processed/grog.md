@@ -6,7 +6,7 @@ categories: [grog]
 eras: [classic]
 permalink: "/recipe/grog/"
 iconfile: grog
-stars: 4
+stars: 0
 base_spirits: "Demerara Rum"
 youtube: "https://pussersrum.com/blogs/cocktails/grog-cocktail?srsltid=AfmBOor-6PscaIXmngwY_iaX-LYLMNQTbODfvJlzWD1bkmP-KFb3IkoO"
 excerpt: |

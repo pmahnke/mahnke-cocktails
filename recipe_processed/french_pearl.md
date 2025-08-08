@@ -7,7 +7,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/french_pearl/"
 iconfile: french_pearl
-stars: 0
+stars: 4
 base_spirits: "Gin, Absinthe"
 youtube: "OA7FWMVx9AY"
 excerpt: |

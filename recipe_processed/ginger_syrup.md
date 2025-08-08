@@ -4,7 +4,7 @@ title: "Ginger Syrup"
 categories: [syrup]
 permalink: "/recipe/ginger_syrup/"
 iconfile: ginger_syrup
-stars: 5
+stars: 0
 base_spirits: "White Sugar, Fresh Ginger"
 youtube: "vGBMrJgjZB4"
 excerpt: |

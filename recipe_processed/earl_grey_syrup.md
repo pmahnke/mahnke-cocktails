@@ -4,7 +4,7 @@ title: "Rich Earl Grey Syrup"
 categories: [syrup]
 permalink: "/recipe/earl_grey_syrup/"
 iconfile: earl_grey_syrup
-stars: 5
+stars: 0
 base_spirits: "White Sugar, Earl Grey Tea"
 youtube: "5wgvpo-xBnA"
 excerpt: |

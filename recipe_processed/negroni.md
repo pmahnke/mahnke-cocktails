@@ -6,7 +6,7 @@ categories: [campari, cocktail]
 eras: [prohibition]
 permalink: "/recipe/negroni/"
 iconfile: negroni
-stars: 3
+stars: 3.75
 base_spirits: "Gin, Campari "
 youtube: "lgy6vEX_hQg"
 excerpt: |

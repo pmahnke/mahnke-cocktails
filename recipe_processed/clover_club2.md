@@ -6,7 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/clover_club2/"
 iconfile: clover_club2
-stars: 3
+stars: 0
 base_spirits: "Gin "
 youtube: "MkLZovhDN_k"
 excerpt: |

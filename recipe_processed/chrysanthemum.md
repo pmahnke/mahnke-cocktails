@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/chrysanthemum/"
 iconfile: chrysanthemum
-stars: 0
+stars: 3.5
 base_spirits: "Bénédictine, Absinthe"
 youtube: "ivuVwMUiQ_U"
 excerpt: |

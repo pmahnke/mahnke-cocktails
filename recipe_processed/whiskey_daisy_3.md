@@ -6,7 +6,7 @@ eras: [classic]
 categories: [daisy]
 permalink: "/recipe/whiskey_daisy_3/"
 iconfile: whiskey_daisy_3
-stars: 3 <sup>1</sup>&frasl;<sub>2</sub>
+stars: 3.5
 base_spirits: "Bourbon, Rye"
 youtube: "XggEyhSR2Dk"
 excerpt: |

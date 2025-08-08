@@ -4,7 +4,7 @@ title: "Tea Simple Syrup"
 categories: [syrup]
 permalink: "/recipe/tea_simple_syrup/"
 iconfile: tea_simple_syrup
-stars: 5
+stars: 0
 base_spirits: "Black Tea, White Sugar"
 youtube: "rQ59lgXm8Ho"
 excerpt: |

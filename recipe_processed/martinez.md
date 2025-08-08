@@ -6,7 +6,7 @@ categories: [martini]
 eras: [classic]
 permalink: "/recipe/martinez/"
 iconfile: martinez
-stars: 0
+stars: 3.5
 base_spirits: "Gin, Maraschino Liqueur"
 youtube: 'MuxY7\_-_U_8'
 excerpt: |

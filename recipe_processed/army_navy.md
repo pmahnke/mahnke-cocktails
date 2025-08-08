@@ -6,7 +6,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/army_navy/"
 iconfile: army_navy
-stars: 3:5
+stars: 3.5
 base_spirits: "Gin"
 youtube: "XggEyhSR2Dk"
 excerpt: |

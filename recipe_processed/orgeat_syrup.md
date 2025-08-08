@@ -4,7 +4,7 @@ title: "Orgeat Syrup"
 categories: [syrup]
 permalink: "/recipe/orgeat_syrup/"
 iconfile: orgeat_syrup
-stars: 5
+stars: 0
 base_spirits: "White Sugar, Almond Milk, Orange Blossom Water, Rose Water, Almond Extract"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

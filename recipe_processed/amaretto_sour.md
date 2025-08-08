@@ -7,7 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/amaretto_sour/"
 iconfile: amaretto_sour
-stars: 0
+stars: 3.5
 base_spirits: "Amaretto, Apple Brandy"
 youtube: "_nIr7E-cMOs"
 excerpt: |

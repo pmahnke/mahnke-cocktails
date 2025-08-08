@@ -6,7 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/flyingdutchman/"
 iconfile: flying_dutchman
-stars: 0
+stars: 4
 base_spirits: "Genever, Yellow Chartreuse, Bénédictine"
 youtube: "yh_WeCrFuRA"
 excerpt: |

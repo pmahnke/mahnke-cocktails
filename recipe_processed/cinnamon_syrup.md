@@ -4,7 +4,7 @@ title: "Cinnamon Syrup"
 categories: [syrup]
 permalink: "/recipe/cinnamon_syrup/"
 iconfile: cinnamon_syrup
-stars: 5
+stars: 0
 base_spirits: "White Sugar, Cinnamon Sticks"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

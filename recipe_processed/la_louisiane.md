@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/la_louisiane/"
 iconfile: la_louisiane
-stars: 5
+stars: 4.5
 base_spirits: "Rye, Bénédictine "
 youtube: "9XLtsOKT6oY"
 excerpt: |

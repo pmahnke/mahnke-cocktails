@@ -6,7 +6,7 @@ categories: [martini]
 eras: [classic]
 permalink: "/recipe/artillery/"
 iconfile: artillery
-stars:
+stars: 3.5
 base_spirits: "Gin, Sweet Vermouth"
 youtube: "jzg4GuY4Fcg"
 excerpt: |

@@ -6,7 +6,7 @@ eras: [prohibition]
 categories: [fizz]
 permalink: "/recipe/momisette/"
 iconfile: momisette
-stars: 5
+stars: 4.5
 base_spirits: "Absinthe "
 youtube: "ABntm6FL8wc"
 excerpt: |

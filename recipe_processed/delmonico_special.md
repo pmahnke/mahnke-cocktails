@@ -7,7 +7,7 @@ categories: [martini]
 eras: [classic]
 permalink: "/recipe/delmonico_special/"
 iconfile: delmonico_special
-stars: 0
+stars: 3.5
 base_spirits: "Navy Strength Gin, Cognac, Blanc Vermouth"
 youtube: "NmaOqrUOJOE"
 excerpt: |

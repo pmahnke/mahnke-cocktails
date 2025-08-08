@@ -4,7 +4,7 @@ title: "Groseille Syrup"
 categories: [syrup]
 permalink: "/recipe/groseille_syrup/"
 iconfile: groseille_syrup
-stars: 5
+stars: 0
 base_spirits: "White Sugar, Red Currant Juice, Pomegranate Molasses, Rose Water"
 youtube: "-Uhu81wqOl8"
 excerpt: |

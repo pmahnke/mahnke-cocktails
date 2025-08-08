@@ -6,7 +6,7 @@ eras: [modern]
 categories: [martini]
 permalink: "/recipe/vesper/"
 iconfile: vesper
-stars: 0
+stars: 3
 base_spirits: "Gin, Vodka, Cocchi Americano"
 youtube: "VBSjE-P_C58"
 excerpt: |

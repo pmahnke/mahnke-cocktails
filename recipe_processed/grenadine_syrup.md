@@ -4,7 +4,7 @@ title: "Grenadine Syrup"
 categories: [syrup]
 permalink: "/recipe/grenadine_syrup/"
 iconfile: grenadine_syrup
-stars: 5
+stars: 0
 base_spirits: "White Sugar, Pomegranate Juice, Pomegranate Molasses, Rose Water"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

@@ -4,7 +4,7 @@ title: "Hibiscus Syrup"
 categories: [syrup]
 permalink: "/recipe/hibiscus_syrup/"
 iconfile: hibiscus_syrup
-stars: 5
+stars: 0
 base_spirits: "Cinnamon Sticks, Cloves, Dried Hibiscus"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
