@@ -461,7 +461,6 @@ foreach $file (sort @files) {
     if (-e "$rootdir$cocktail_image") {
         # image of the cocktail exists, so add it
         print qq |cocktail $shortname has a icon\n|;
-        <STDIN>;
         $cocktail_icon = "  cocktail:\n    - url: $cocktail_image\n      title: ".&make_title($shortname)."\n";
     }
 
