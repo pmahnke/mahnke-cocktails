@@ -7,7 +7,7 @@ images:
   glass:
     - url: /assets/images/glass_double-old-fashioned.svg
       title: Double old fashioned
-    - url: /assets/images/cocktail_margarita.svg
+    - url: /assets/images/glass_margarita.svg
       title: Margarita
   garnish:
     - url: /assets/images/fruit_strawberry.svg

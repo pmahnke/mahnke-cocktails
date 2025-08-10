@@ -1,7 +1,4 @@
 images:
-  cocktail:
-    - url: /assets/images/glass_martini.svg
-      title: Martini
   ingredient:
     - url: /assets/images/ingredient-gin.svg
       title: Gin

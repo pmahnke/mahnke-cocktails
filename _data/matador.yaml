@@ -12,7 +12,7 @@ images:
   glass:
     - url: /assets/images/glass_coupe.svg
       title: Coupe
-    - url: /assets/images/cocktail_margarita.svg
+    - url: /assets/images/glass_margarita.svg
       title: Margarita
     - url: /assets/images/glass_tiki.svg
       title: Tiki
