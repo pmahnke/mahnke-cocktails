@@ -151,6 +151,9 @@ html {
   .grid-container.two-thirds {
     grid-template-columns: 2fr 1fr;
   }
+  .grid-container.two-one-thirds {
+    grid-template-columns: 1fr 2fr;
+  }
 	.grid-container.thirds {
 		grid-template-columns: repeat(3, 1fr);
 	}

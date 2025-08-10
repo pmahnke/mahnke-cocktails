@@ -218,6 +218,20 @@ $INCLUDE{'white_wine'} = qq|/assets/images/ingredient-white-wine.svg|;
 $INCLUDE{'stirred'} = qq|/assets/images/tool_stirred.svg|;
 $INCLUDE{'double-strained'} = qq|/assets/images/tool_double_strain.svg|;
 
+# cocktails
+$INCLUDE{'elks_own'} = qq|/assets/images/cocktail_elks_own.svg|;
+$INCLUDE{'vieux_carre'} = qq|/assets/images/cocktail_vieux_carre.svg|;
+$INCLUDE{'artists_special'} = qq|/assets/images/cocktail_artists_special.svg|;
+$INCLUDE{'last_word'} = qq|/assets/images/cocktail_last_word.svg|;
+$INCLUDE{'dark_daiquiri'} = qq|/assets/images/cocktail_dark_daiquiri.svg|;
+$INCLUDE{'daiquiri'} = qq|/assets/images/cocktail_daiquiri.svg|;
+$INCLUDE{'gimlet'} = qq|/assets/images/cocktail_gimlet.svg|;
+$INCLUDE{'pisco_sour'} = qq|/assets/images/cocktail_pisco_sour.svg|;
+$INCLUDE{'margarita'} = qq|/assets/images/cocktail_margarita.svg|;
+$INCLUDE{'chartreuse_swizzle'} = qq|/assets/images/cocktail_chartreuse_swizzle.svg|;
+$INCLUDE{'corpse_reviver_2'} = qq|/assets/images/cocktail_corpse_reviver_2.svg|;
+$INCLUDE{'lions_tail'} = qq|/assets/images/cocktail_lions_tail.svg|;
+
 # read files in a directory
 opendir(DIR, $dir) or die "Cannot open directory $dir: $!";
 
@@ -236,6 +250,8 @@ foreach $file (sort @files) {
 
     my $datafile = $file;
     $datafile =~ s/\.md/.yaml/;
+    my $shortname = $datafile;
+    $shortname =~ s/.yaml//;
     $datafile = $datadir.$datafile;
 
     my $testfile = qq|/home/peter/src/personal/cocktails/recipe_processed/|.$file;
@@ -244,7 +260,7 @@ foreach $file (sort @files) {
 
     $file = $dir.$file;
 
-    print STDERR "file: $file\n";
+    print STDERR "file: $file shortname: $shortname\n";
 
     open (FILE, "$file") || die "Cannot open $file\n";
     while (<FILE>) {
@@ -433,12 +449,19 @@ foreach $file (sort @files) {
     $tool{'boston-shaker'} = 0 if ($tool{'double-strained'}); # you don't need both
     $tool{'julep-strainer'} = 0 if ($tool{'stirred'}); # you don't need both
 
-    my ($tool, $glass, $garnish, $ingredient, $ice) = "";
+    my ($tool, $glass, $garnish, $ingredient, $ice, $cocktail_icon) = "";
 
 #images:
 #  tool:
 #    - url: /assets/images/tool_boston-shaker.svg
 #      title: Boston Shaker
+
+    if ($INCLUDE{$shortname}) {
+        # image of the cocktail exists, so add it
+        print qq |cocktail $shortname has a icon\n|;
+        $cocktail_icon = "  cocktail:\n";
+        $cocktail_icon .= &make_listing($shortname);
+    }
 
     foreach my $k (sort keys %ingredient) {
         next if (!$ingredient{$k});
@@ -485,6 +508,7 @@ foreach $file (sort @files) {
 
         open (DATA, ">$datafile") or die "Cannot open datafile: $datafile\n";
         print DATA $data;
+        print DATA $cocktail_icon if ($cocktail_icon);
         print DATA $ingredient;
         print DATA $tool;
         print DATA $glass;
@@ -494,6 +518,7 @@ foreach $file (sort @files) {
         print "wrote data file: $datafile\n";
         print qq |
 $data
+$cocktail_icon
 $ingredient
 $tool
 $glass

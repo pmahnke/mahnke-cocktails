@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/cocktail_last_word.svg
+      title: Last word
   ingredient:
     - url: /assets/images/ingredient-chartreuse.svg
       title: Chartreuse

@@ -5,9 +5,30 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
 ---
 
 <div class="grid-container two-thirds">
+
     <div><!-- div 2/3 -->
-        
-        <h2>Cocktails by Rating</h2>
+
+        <h2>5-Star Cocktails</h2>
+
+        <div class="grid-container">
+
+            {%- assign fivestar_recipes = "" | split: "" -%}
+            {%- for page in site.pages -%}
+                {%- if page.layout == "recipe" and page.stars == 5-%}
+                    {%- assign fivestar_recipes = fivestar_recipes | push: page -%}
+                {%- endif -%}
+            {%- endfor -%}
+    
+            {%- assign sorted_list = fivestar_recipes | sort: "title" -%}
+            {%- for page in sorted_list -%}
+            <div>
+               {%- include recipe_card.html page=page -%}
+            </div>
+            {%- endfor -%}
+            
+        </div>
+
+        <h2>Our favorite cocktails</h2>
         {% comment %}
         Step 1: Gather all recipe pages into a single list first for efficiency.
         {% endcomment %}
@@ -37,6 +58,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             {% endcomment %}
             {%- if pages_at_this_level.size > 0 -%}
                 <h3>{{ i }} star cocktails</h3>
+
                 <ul class="home_list">
                     {%- assign sorted_by_title = pages_at_this_level | sort: "title" -%}
                     {%- for page in sorted_by_title -%}
@@ -120,4 +142,4 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             </ul>
         </ul>
     </div><!-- /div 1/3 -->
-</div><!-- /div grid-container -->
+</><!-- /div grid-container -->

@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/cocktail_chartreuse_swizzle.svg
+      title: Chartreuse swizzle
   ingredient:
     - url: /assets/images/ingredient-chartreuse.svg
       title: Chartreuse

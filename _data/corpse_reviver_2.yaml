@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/cocktail_corpse_reviver_2.svg
+      title: Corpse reviver 2
   ingredient:
     - url: /assets/images/ingredient-cocchi-americano.svg
       title: Cocchi americano

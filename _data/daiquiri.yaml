@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/cocktail_daiquiri.svg
+      title: Daiquiri
   ingredient:
     - url: /assets/images/ingredient-light-rum.svg
       title: Light rum

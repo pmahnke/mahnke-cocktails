@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/cocktail_elks_own.svg
+      title: Elks own
   ingredient:
     - url: /assets/images/ingredient-port.svg
       title: Port

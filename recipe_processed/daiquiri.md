@@ -1,11 +1,11 @@
 ---
 layout: recipe
 author: Anders Erickson
-title: "Daiquri"
+title: "Daiquiri"
 categories: [sour]
 eras: [classic]
-permalink: "/recipe/daiquri/"
-iconfile: daiquri
+permalink: "/recipe/daiquiri/"
+iconfile: daiquiri
 stars: 5
 base_spirits: "Light Rum"
 youtube: "VBSjE-P_C58"

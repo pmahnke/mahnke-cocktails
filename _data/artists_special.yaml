@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/cocktail_artists_special.svg
+      title: Artists special
   ingredient:
     - url: /assets/images/ingredient-bourbon.svg
       title: Bourbon

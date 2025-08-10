@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/cocktail_vieux_carre.svg
+      title: Vieux carre
   ingredient:
     - url: /assets/images/ingredient-benedictine.svg
       title: Benedictine

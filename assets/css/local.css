@@ -191,6 +191,17 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     font-size: .75em;
 }
 
+/* CSS for rotating right */
+.rotate-right {
+  transform: rotate(40deg);
+}
+
+/* CSS for rotating left */
+.rotate-left {
+  transform: rotate(-40deg);
+}
+
+
 /* measurement scaling */
 .onex, .onehalfx, .twox, .threex {
     display: none; /* Hide all spans by default */
@@ -297,3 +308,34 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
 div.subrecipe {
   margin-bottom: 30px;
 }
+
+
+
+
+  /* Style for the card container */
+  .recipe_card {
+    display: flex; /* Use flexbox for easy alignment */
+    justify-content: space-between; /* Pushes text left and image right */
+    align-items: center; /* Vertically aligns content in the middle */
+    padding: 1rem;
+    border: 1px solid #e1e1e1;
+    border-radius: 4px;
+    margin-bottom: 1rem; /* Space below each card */
+    height: 100%;
+  }
+
+  /* Container for the text content */
+  .recipe_card .card-content {
+    flex-grow: 1; /* Allows this element to take up available space */
+  }
+
+  /* Container for the image, prevents it from shrinking */
+  .recipe_card .card-image {
+    flex-shrink: 0;
+    padding-left: 1rem;
+  }
+  
+  /* Helper class to rotate the image */
+  .rotate-right {
+    transform: rotate(20deg);
+  }

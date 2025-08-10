@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Artist's Special"
 categories: [sour]
-eras: [Classic]
+eras: [classic]
 permalink: "/recipe/artists_special/"
 iconfile: artists_special
 stars: 5

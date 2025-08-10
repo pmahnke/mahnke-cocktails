@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/cocktail_pisco_sour.svg
+      title: Pisco sour
   ingredient:
     - url: /assets/images/ingredient-pisco.svg
       title: Pisco

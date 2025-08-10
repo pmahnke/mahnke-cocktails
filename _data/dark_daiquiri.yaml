@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/cocktail_dark_daiquiri.svg
+      title: Dark daiquiri
   ingredient:
     - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum

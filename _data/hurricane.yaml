@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/glass_hurricane.svg
+      title: Hurricane
   ingredient:
     - url: /assets/images/ingredient-dark-rum.svg
       title: Dark rum

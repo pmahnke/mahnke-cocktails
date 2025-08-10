@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/cocktail_lions_tail.svg
+      title: Lions tail
   ingredient:
     - url: /assets/images/ingredient-allspice-dram.svg
       title: Allspice dram

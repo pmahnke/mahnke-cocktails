@@ -1,4 +1,7 @@
 images:
+  cocktail:
+    - url: /assets/images/cocktail_gimlet.svg
+      title: Gimlet
   ingredient:
     - url: /assets/images/ingredient-gin.svg
       title: Gin
