@@ -9,6 +9,7 @@ iconfile: absinthe_frappe
 stars: 3.5
 base_spirits: "Absinthe"
 youtube: "g4_hKcbMLL4"
+description: "A classic and refreshing frappé built around the distinct anise and herbal flavors of absinthe."
 excerpt: |
   This classic cocktail is herbaceous and refreshing thanks to its base spirit, anisette, soda water, crushed ice, and a mint garnish.
 ---

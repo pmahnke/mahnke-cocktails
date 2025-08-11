@@ -9,6 +9,7 @@ iconfile: irish_coffee
 stars: 3
 base_spirits: "Irish Whiskey "
 youtube: "sJsY1LokABA"
+description: "A classic winter warming drink that combines hot coffee and Irish whiskey, sweetened with sugar and topped with cream."
 excerpt: |
   Irish Coffee is the perfect winter warming drink. To make it, combine Irish whiskey with sugar and coffee, and top it with cream.
 ---

@@ -9,6 +9,7 @@ iconfile: dark_daiquiri
 stars: 5
 base_spirits: "Jamaican Rum "
 youtube: "71jQRf5UrpE"
+description: "A classic cocktail that offers a rich and flavorful twist on the traditional Daiquiri by using dark rum for added molasses and spice notes."
 excerpt: |
   The Dark Daiquiri is a classic cocktail that offers a rich and flavorful twist on the traditional Daiquiri. It's made with dark rum instead of light rum, adding a depth of molasses and spice notes to the drink.
 ---

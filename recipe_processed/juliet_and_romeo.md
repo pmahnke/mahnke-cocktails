@@ -9,6 +9,7 @@ iconfile: juliet_and_romeo
 stars: 0
 base_spirits: "Gin "
 youtube: "Ttnf3PbJqnA"
+description: "A refreshing and complex modern sour that blends gin with cucumber, mint, lime, and a hint of rose water."
 excerpt: |
   The Juliet & Romeo cocktail is a refreshing and complex drink that blends gin, cucumber, mint, lime juice, simple syrup, rose water, and bitters.
 ---

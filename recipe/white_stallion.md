@@ -9,6 +9,7 @@ iconfile: white_stallion
 stars: 0
 base_spirits: "Plymouth Gin, Grand Marnier, Champagne "
 youtube: "E1TfYiFrnXk"
+description: "A bubbly and decadent modern ice cream drink inspired by classic Savoy cocktails, featuring gin, Grand Marnier, and Champagne."
 excerpt: |
   This bubbly ice cream drink was inspired by two classics found in the Savoy Cocktail Book - the White Cargo and the Silver Stallion.
 ---

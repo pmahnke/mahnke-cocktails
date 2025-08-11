@@ -10,6 +10,7 @@ iconfile: man_overboard
 stars: 
 base_spirits: "Rye, Triple Sec"
 youtube: ""
+description: "A modern sour that adapts the classic Man o' War cocktail, adding the spiciness of rye while dialing down the booziness."
 excerpt: |
   The nick & nora glass is named after Nick and Nora Charles in the classic 1934 movie The Thin Man, based on Dashiell Hammett’s book of the same name. Thanks to Nora’s sizable inheritance, the couple lead a life of leisure and spend most of their time at least slightly sozzled, so I like to imagine they’d be rather partial to this concoction. It’s an ode to an old classic called a man o’ war, adapted to add the spiciness of rye while dialling down the booziness a bit. Serve as an aperitif or the first cocktail of many on a night out.
   

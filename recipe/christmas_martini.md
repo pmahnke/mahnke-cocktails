@@ -9,6 +9,7 @@ iconfile: christmas_martini
 stars: 0
 base_spirits: "Gin, Cocchi Americano"
 youtube: "ydBN6-j1I3M"
+description: "A festive twist on the classic Martini, incorporating flavors reminiscent of the holiday season."
 excerpt: |
   The Christmas Martini is a festive twist on the classic cocktail, incorporating flavors reminiscent of the holiday season.
 ---

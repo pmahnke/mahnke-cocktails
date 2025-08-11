@@ -10,6 +10,7 @@ iconfile: trader_vics_grog
 stars: 0
 base_spirits: "Jamaican Rum"
 youtube: "3Nl9aWKvwmw"
+description: "A classic tiki grog from Trader Vic Bergeron, this is a reimagining of the Navy Grog with a distinct rum and citrus profile."
 excerpt: |
   Trader Vic's Grog is a tiki cocktail that originated from the Navy Grog, a rum drink created by Donn Beach. Trader Vic Bergeron, the founder of the Trader Vic's chain, reimagined the Navy Grog.
 ---

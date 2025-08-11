@@ -9,6 +9,7 @@ iconfile: boulevardier
 stars: 4
 base_spirits: "Bourbon, Campari"
 youtube: "VAK-A7laGuE"
+description: "A classic Prohibition-era cocktail that swaps the gin in a Negroni for the rich, warm character of whiskey."
 excerpt: |
   Swap the gin for whiskey in a Negroni, and you get the delicious Boulevardier cocktail. Grab some Campari and sweet vermouth, and start mixing.
 ---

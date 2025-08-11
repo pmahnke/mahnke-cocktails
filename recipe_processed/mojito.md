@@ -9,6 +9,7 @@ iconfile: mojito
 stars: 4
 base_spirits: "Light Rum "
 youtube: "KMypSCazyRw"
+description: "A classic and refreshing Cuban highball, celebrated for its vibrant mix of white rum, fresh mint, lime, sugar, and soda water."
 excerpt: |
   The Mojito might be the perfect cocktail. With mint, simple syrup and white rum, the classic Mojito is easy to make and always refreshing.
 ---

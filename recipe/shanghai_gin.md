@@ -9,6 +9,7 @@ iconfile: shanghai_gin
 stars: 4
 base_spirits: "Gin, Yellow Chartreuse, Bénédictine"
 youtube: "6OApD96Wn_M"
+description: "A modern sour featuring a complex combination of gin, yellow Chartreuse, Bénédictine, and lemon."
 excerpt: |
   The Shanghai Gin was first created at a Vietnamese restaurant in San Francisco called The Slanted Door.  A yet-to-be-named bartender found the recipe for a drink called "Shanghai Gin Fizz" in some old bar manual (nobody knows what book it was). Apparently the book was not that interesting but this one cocktail piqued his interest and he set about reconstructing it.
 ---

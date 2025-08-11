@@ -10,6 +10,7 @@ iconfile: bitter_giuseppe
 stars: 0
 base_spirits: "Cynar Amaro"
 youtube: "AHPatRO71U8"
+description: "A modern classic, low-ABV cocktail that uses the artichoke-based amaro Cynar as its foundational spirit."
 excerpt: |
   This low ABV cocktail is considered a modern classic, and is responsible for numerous variations. It was created by Stephan Cole at the Violet Hour in Chicago. It’s often compared to a Negroni because of its bitter finish, but the build is very different. This is one of the rare instances we'll stir a drink containing citrus! And it's a great pre-dinner drink.
 ---

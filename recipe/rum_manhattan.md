@@ -9,6 +9,7 @@ iconfile: rum_manhattan
 stars: 3
 base_spirits: Demerara Rum
 youtube: "eWESf1b317Y&t=278s"
+description: "A modern variation of the classic Manhattan cocktail that swaps out the traditional whiskey base for a flavorful rum."
 excerpt: |
   The Rum Manhattan is a variation of the classic Manhattan cocktail, swapping out the traditional whiskey base for a flavorful rum.
 ---

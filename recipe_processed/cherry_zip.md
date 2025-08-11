@@ -9,6 +9,7 @@ iconfile: cherry_zip
 stars: 0
 base_spirits: "Cherry Juice, Orgeat, Tea, Lemon"
 youtube: "ZE3G8aUyOn0"
+description: "A tart and fruity non-alcoholic cocktail that combines cherry juice with the nutty sweetness of orgeat."
 excerpt: |
   A twist on the classic Caipiroska, substituting the traditional muddled limes with sweet cherries. The result is a tangy and fruity cocktail with a subtle sweetness.
 ---

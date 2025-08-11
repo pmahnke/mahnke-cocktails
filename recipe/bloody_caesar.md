@@ -9,6 +9,7 @@ iconfile: bloody_caesar
 stars: 3
 base_spirits: "Vodka "
 youtube: "CWN67QIvZP8"
+description: "Canada's national cocktail, this is a savory riff on the Bloody Mary that gets its unique character from clam-infused tomato juice."
 excerpt: |
   The Bloody Caesar is a clam-juice-spiked riff on the Bloody Mary. And it’s the national cocktail of Canada.
 ---

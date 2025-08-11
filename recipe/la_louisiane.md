@@ -9,6 +9,7 @@ iconfile: la_louisiane
 stars: 5
 base_spirits: "Rye, Bénédictine "
 youtube: "9XLtsOKT6oY"
+description: "A classic New Orleans cocktail, this is a rich and complex variation on the Sazerac featuring rye, Bénédictine, and absinthe."
 excerpt: |
   The La Louisiane is a classic New Orleans cocktail with a rich history dating back to the 19th century. It is a rye-based Sweet Manhattan made even sweeter with herbal Bénédictine liqueur and bittered with Peychaud's and absinthe.
 ---

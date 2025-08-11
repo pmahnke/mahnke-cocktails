@@ -10,6 +10,7 @@ iconfile: enzoni
 stars: 4
 base_spirits: "Gin, Campari"
 youtube: "ipHnOhkGWug"
+description: "A refreshing modern classic from 2003 that twists the Negroni formula by muddling fresh green grapes with gin and Campari."
 excerpt: |
   The Enzoni cocktail is a refreshing twist on the classic Negroni, created by Vincenzo Errico in 2003. It combines the bitterness of Campari with the sweetness of green grapes and the botanical depth of gin.
 ---

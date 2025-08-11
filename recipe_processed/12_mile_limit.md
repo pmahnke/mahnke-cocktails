@@ -10,6 +10,7 @@ iconfile: 12_mile_limit
 stars: 3.75
 base_spirits: "Light Rum, Rye, Cognac"
 youtube: "6M6Xu_URmPg"
+description: "A Prohibition-era sour whose name references the extension of US jurisdiction offshore, strengthening a classic rum cocktail with rye and cognac."
 excerpt: |
   In his <em>Vintage Sprits and Forgotten Cocktails</em>, Ted "Dr. Cocktail" Haigh affirms that Thomas Franklin Fairfax Millard (1868-1942), a war correspondent and journalist, is the confirmed author of the Twelve Mile Limit Cocktail.<br><br>
   The Twelve Mile Limit is one of several Prohibition-era cocktails whose name references the distance from a shore that a nation's territorial waters. During the 18th century this was established as three nautical miles (5.6 km), the distance a cannonball could be shot from the shore to repel incursions. Hence, during Prohibition, US jurisdiction was limited to three miles offshore so allowing the legal supply of alcohol to parties on board boats just outside territorial waters.<br><br>

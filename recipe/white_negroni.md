@@ -9,6 +9,7 @@ iconfile: white_negroni
 stars: 0
 base_spirits: "Gin, Suze, Lillet Blanc"
 youtube: "fBax4HODqyA"
+description: "A popular and modern Negroni variation that swaps the red Campari and sweet vermouth for their lighter, floral counterparts: Suze and Lillet Blanc."
 excerpt: |
   The White Negroni Cocktail is a Negroni riff featuring gin, Suze and Lillet Blanc. It’s light, bittersweet and floral.
 ---

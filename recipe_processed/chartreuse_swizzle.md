@@ -10,6 +10,7 @@ iconfile: chartreuse_swizzle
 stars: 5
 base_spirits: "Green Chartreuse"
 youtube: "GiNen9YukD8"
+description: "A refreshing and unique modern cocktail that blends the herbal sweetness of Green Chartreuse with tropical pineapple and lime."
 excerpt: |
   The Chartreuse Swizzle is a refreshing and unique cocktail that blends the herbal sweetness of Chartreuse with the tropical flavors of pineapple and lime.
 ---

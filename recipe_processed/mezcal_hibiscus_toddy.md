@@ -9,6 +9,7 @@ iconfile: mezcal_hibiscus_toddy
 stars: 0
 base_spirits: " Mezcal "
 youtube: "DJtBN6yBnsA"
+description: "A modern hot toddy that combines the smoky notes of mezcal with the floral, tart flavor of hibiscus."
 excerpt: |
   The classic hot toddy is a comforting and warming beverage that has been used for centuries to soothe ailments and warm the soul.
 ---

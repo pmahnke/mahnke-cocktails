@@ -10,6 +10,7 @@ iconfile: delmonico_special
 stars: 0
 base_spirits: "Navy Strength Gin, Cognac, Blanc Vermouth"
 youtube: "NmaOqrUOJOE"
+description: "A classic gin-based Martini-style cocktail from the 1800s, balanced with cognac and blanc vermouth."
 excerpt: |
   This one dates back to the 1800s at Delmonico’s Restaurant in New York City. Delmonico’s rich history dates back 200 years. It’s considered to be the first fine dining restaurant in the US, and gave us dishes like Eggs Benedict, Baked Alaska, Wedge Salad, and Delmonico Stake. It also gave us this classic gin-based cocktail that’s balanced with cognac and vermouth. Give this recipe a try if you enjoy a Martinez or a Wet Martini.
 ---

@@ -9,6 +9,7 @@ iconfile: flying_dutchman
 stars: 4
 base_spirits: "Genever, Yellow Chartreuse, Bénédictine"
 youtube: "yh_WeCrFuRA"
+description: "A modern cocktail with complex herbal flavors, featuring Dutch genever, Bénédictine, and yellow Chartreuse."
 excerpt: |
   The Flying Dutchman from bartender Brian MacGregor features Bols genever, Benedictine and yellow Chartreuse. It’s easy to make but complex in flavor.
 ---

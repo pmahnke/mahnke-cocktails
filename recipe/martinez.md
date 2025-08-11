@@ -9,6 +9,7 @@ iconfile: martinez
 stars: 0
 base_spirits: "Gin, Maraschino Liqueur"
 youtube: 'MuxY7\_-_U_8'
+description: "A classic cocktail from the late 1800s, considered a precursor to the modern Martini, featuring gin, sweet vermouth, and maraschino liqueur."
 excerpt: |
   Composed of gin, sweet vermouth, maraschino liqueur and bitters, the classic Martinez cocktail dates back to the late 1800s.
 ---

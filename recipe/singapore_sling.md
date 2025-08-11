@@ -11,6 +11,7 @@ stars: 4
 base_spirits: "Gin, Cherry Liqueur, Bénédictine"
 youtube: "EjRcajuUkJk"
 youtube_embed: "https://www.youtube.com/embed/EjRcajuUkJk?si=EMdqje_4KECcUOJA"
+description: "A classic and complex long drink from Singapore, developed in 1915, featuring a gin base with cherry liqueur and Bénédictine."
 excerpt: |
   The Singapore sling is a gin-based sling cocktail from Singapore. This long drink was reputed to have been developed in 1915 by Ngiam Tong Boon, a bartender at the Long Bar in Raffles Hotel, Singapore.
 ---

@@ -9,6 +9,7 @@ iconfile: prescription_julep
 stars: 0
 base_spirits: "Cognac, Rye "
 youtube: "xfLW5Na9QpM"
+description: "A classic and complex julep from the mid-1800s that combines both rye whiskey and cognac with fresh mint."
 excerpt: |
   The Prescription Julep is a classic cocktail that dates back to the mid-1800s. It's a refreshing and complex drink that combines the flavors of rye whiskey, cognac, mint, and sugar.
 ---

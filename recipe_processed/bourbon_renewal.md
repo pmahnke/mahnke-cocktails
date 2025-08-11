@@ -9,6 +9,7 @@ iconfile: bourbon_renewal
 stars: 0
 base_spirits: "Bourbon, Crème de Cassis "
 youtube: "8WVlMjEGma4"
+description: "A modern classic sour that pairs the sweetness of bourbon with the rich, dark fruit flavor of crème de cassis."
 excerpt: |
   The Bourbon Renewal is a refreshing and balanced cocktail that is perfect for any occasion. It is also a great way to showcase your favorite bourbon.
 ---

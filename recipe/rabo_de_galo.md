@@ -9,6 +9,7 @@ iconfile: rabo_de_galo
 stars: 0
 base_spirits: "Cachaça, Cynar Amaro"
 youtube: "YFqEvNdPrX8"
+description: "A classic and simple Brazilian cocktail known for its bold flavors, combining cachaça with the bittersweet notes of Cynar."
 excerpt: |
   The Rabo de Galo is a classic Brazilian cocktail known for its simplicity and bold flavors.
 ---

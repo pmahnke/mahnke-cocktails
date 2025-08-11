@@ -9,6 +9,7 @@ iconfile: sweet_virginia
 stars: 3
 base_spirits: "Bourbon, Cherry Liqueur"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/31242/sweet-virginia"
+description: "A fruity modern Sweet Manhattan variation, eponymously named after the Rolling Stones' song."
 excerpt: |
   A fruity Sweet Manhattan that's perfect when you fancy some late-night spirited fruitiness. Eponymously named after the Rolling Stone's song, this is a riff on the classic Eastern Sin.
 ---

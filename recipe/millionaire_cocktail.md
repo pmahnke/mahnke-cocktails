@@ -9,6 +9,7 @@ iconfile: millionaire_cocktail
 stars: 0
 base_spirits: "Jamaican Rum, Apricot Liqueur"
 youtube: "CZ5KSKO3sbQ"
+description: "A classic Prohibition-era sour with a rich flavor profile from Jamaican rum, sloe gin, and apricot liqueur."
 excerpt: |
   Recipe adapted from Harry Craddock's 1930 <i>The Savoy Cocktail Book</i>. Craddock also lists a "Millionaire Cocktail (No.2)" as follows: 
   <br>- 1 Dash Anisette

@@ -9,6 +9,7 @@ iconfile: pimms_cup
 stars: 0
 base_spirits: "Pimm's"
 youtube: "CGq0rFP_Jl0"
+description: "A classic and quintessentially British highball, this is a refreshing drink featuring Pimm's No. 1, a gin-based liqueur, mixed with lemonade or ginger ale and fresh fruit."
 excerpt: |
   The Pimm’s Cup is a classic cocktail featuring Pimm’s No. 1, a gin-based liqueur. Mix it with lemon and ginger ale for ultimate refreshment.
 ---

@@ -9,6 +9,7 @@ iconfile: lonely_penguin
 stars: 0
 base_spirits: "Rye, Crème de Mûre"
 youtube: "Hw-KZJNvtts"
+description: "A unique original cocktail that combines the flavors of whiskey, lemon, blackberry, and coconut."
 excerpt: |
   Created by Anders Ericson, the Lonely Penguin is a unique and refreshing drink that combines the flavors of whiskey, lemon, blackberry, and coconut. It's a perfect choice for those who enjoy a bit of sweetness with their spirits.
 ---

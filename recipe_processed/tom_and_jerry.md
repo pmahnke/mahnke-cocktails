@@ -10,6 +10,7 @@ iconfile: tom_and_jerry
 stars: 0
 base_spirits: "Jamaican Rum, Demerara Rum, Cognac "
 youtube: "tfPrLUlFO8k"
+description: "A classic hot eggnog variation, served warm and featuring a rich batter made with separated eggs, rum, and brandy."
 excerpt: |
   It is a variant of eggnog with brandy and rum added and served hot, usually in a mug or a bowl. Separate eggs.
 ---

@@ -10,6 +10,7 @@ iconfile: corpse_reviver_godfrey
 stars: 0
 base_spirits: "Gin, Vodka"
 youtube: "rMCsrbidAJ4"
+description: "A classic variation from the Cafe Royal Cocktail Book featuring both gin and vodka."
 excerpt: |
   This recipe comes from the Cafe Royal Cocktail Book.
 ---

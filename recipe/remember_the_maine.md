@@ -9,6 +9,7 @@ iconfile: remember_the_maine
 stars: 3
 base_spirits: "Rye "
 youtube: "I2_xijYpP_Y"
+description: "A historic and complex Prohibition-era Manhattan variation that adds cherry liqueur and a dash of absinthe to a rye whiskey base."
 excerpt: |
   If you like a Rye Manhattan, you’ll love this historic variation that adds cherry liqueur and a bit of absinthe.
 ---

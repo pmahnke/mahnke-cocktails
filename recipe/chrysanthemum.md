@@ -10,6 +10,7 @@ iconfile: chrysanthemum
 stars: 0
 base_spirits: "Bénédictine, Absinthe"
 youtube: "ivuVwMUiQ_U"
+description: "A classic low-alcohol cocktail from the early 20th century that features Bénédictine and absinthe with a French vermouth base."
 excerpt: |
   Chrysanthemum appears in Hugo R. Ensslin's 1917 <i>Recipes for Mixed Drinks</i> (and may well have been in his 1916 First Edition).
   <br>

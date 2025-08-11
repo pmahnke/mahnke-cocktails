@@ -9,6 +9,7 @@ iconfile: golden_cadillac
 stars: 0
 base_spirits: "Galliano, White Crème de Cacao"
 youtube: "x6QiK4firC4"
+description: "A creamy, dessert-like fizz from 1952, known for its distinct golden color and flavor from Galliano liqueur."
 excerpt: |
   Created in 1952 by bartender Frank Cline at Poor Red's, it is among the best cocktails to feature Galliano.
 ---

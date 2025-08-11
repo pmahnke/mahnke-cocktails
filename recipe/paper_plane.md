@@ -9,6 +9,7 @@ iconfile: paper_plane
 stars: 5
 base_spirits: "Bourbon, Amaro, Aperol"
 youtube: "yu4JNOvec1k&t=6s"
+description: "A modern classic and a variation on the Last Word, this is a perfectly balanced sour with equal parts bourbon, Aperol, Amaro Nonino, and lemon."
 excerpt: |
   The Paper Plane cocktail is a simple variation on the classic Last Word. And it may be the best bourbon drink you may not have tried yet.
 ---

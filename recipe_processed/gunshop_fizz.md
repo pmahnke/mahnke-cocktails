@@ -9,6 +9,7 @@ iconfile: gunshop_fizz
 stars: 0
 base_spirits: "Peychaud's Bitters"
 youtube: "NYKEbNf5ksg"
+description: "A unique and modern fizz that boldly uses two full ounces of Peychaud's bitters as its base spirit."
 excerpt: |
   Markz Pazuniak and Kirk Estopinal's wholly unique take on a Pimm's Cup cocktail recipe calls for two full ounces of Peychaud's bitters.
 ---

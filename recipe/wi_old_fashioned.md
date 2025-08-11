@@ -9,6 +9,7 @@ iconfile: wi_old_fashioned
 stars: 4
 base_spirits: "Brandy"
 youtube: "wr1pjEwi4P0"
+description: "A unique regional variation of the Old Fashioned from Wisconsin, which uses brandy, muddled fruit, and is topped with either sweet or sour soda."
 excerpt: |
   A Wisconsin old fashioned is not your typical old fashioned; it muddles sugar, bitters and orange with brandy and finishes with a crisp pour of a sweet or sour soda.
 ---

@@ -10,6 +10,7 @@ iconfile: absinthe_old_fashioned
 stars: 3
 base_spirits: "Absinthe, Elderflower Liqueur"
 youtube: "0rnil0_xFnM"
+description: "A modern twist on the Old Fashioned that uses absinthe as its base, complemented by elderflower liqueur."
 excerpt: |
   Invented by bartender Doug Petry of Rye in Louisville, Kentucky, this cocktail truly stretches the boundaries of its namesake. While it presents a soft color palette (reddish Peychaud’s bitters floated atop milky white absinthe), the Absinthe Old-Fashioned packs a punch. If you didn’t already have enough reasons to make a pilgrimage to Kentucky and explore its cocktail scene, this one alone is worth the trip.
 ---

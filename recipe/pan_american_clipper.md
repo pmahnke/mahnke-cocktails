@@ -9,6 +9,7 @@ iconfile: pan_american_clipper
 stars: 0
 base_spirits: "Apple Brandy"
 youtube: "YwHw259XAOU"
+description: "A bright-hued sour from the 1930s, this is a classic cocktail that features apple brandy, lime, grenadine, and a hint of absinthe."
 excerpt: |
   Pan American Airways, “Pan Am” for short, was at one point the epitome of style for jet-setting travelers, so it’s no surprise that its eponymous cocktail is equally fabulous. A mixture of apple brandy, lime juice, grenadine, and absinthe, the bright-hued sour dates to 1939, when prolific cocktail writer and world traveler Charles H. Baker included the recipe in The Gentleman’s Companion. Baker had settled down in Coconut Grove, Florida, near Pan Am’s first international airport; in his seminal book, he wrote that the recipe came “from the notebook of one of our pilot friends who—when off duty—may seek one.”
 ---

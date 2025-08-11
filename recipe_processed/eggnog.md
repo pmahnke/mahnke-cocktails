@@ -9,6 +9,7 @@ iconfile: eggnog
 stars: 4
 base_spirits: "Rum, Amontillado Sherry "
 youtube: "s30L-iu171E"
+description: "A creamy, festive classic cocktail perfect for the holidays, made with eggs, sugar, milk, and typically spiked with rum or sherry."
 excerpt: |
   Eggnog is a creamy, festive cocktail that's perfect for the holiday season. It's made with a base of eggs, sugar, milk, and cream, and is typically flavored with spices like nutmeg, cinnamon, and cloves. Alcohol, such as brandy, rum, or bourbon, is often added to give it a kick.
 ---

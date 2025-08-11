@@ -9,6 +9,7 @@ iconfile: basil_orgeat_lemonade
 stars: 0
 base_spirits: "Orgeat, Lemon, Basil"
 youtube: "5wgvpo-xBnA"
+description: "A refreshing non-alcoholic drink that blends tart lemonade with the nutty sweetness of orgeat and the herbaceousness of fresh basil."
 excerpt: |
   Basil Orgeat Lemonade is a refreshing and unique non-alcoholic cocktail that blends the tartness of lemonade with the nutty sweetness of orgeat syrup and the herbaceousness of fresh basil.
 ---

@@ -9,6 +9,7 @@ iconfile: army_navy
 stars: 3:5
 base_spirits: "Gin"
 youtube: "XggEyhSR2Dk"
+description: "A classic gin sour with a unique flavor profile derived from the almond and floral notes of orgeat syrup."
 excerpt: |
   This cocktail first appears in David A. Embury's 1948 <i>The Fine Art of Mixing Drinks</i> so establishing a 'made before' date. Little else is known but based upon its name, folk suggest it originated at The Army and Navy Club in Washington, D.C.. The club's lounge is also said to be "where the famous Daiquiri cocktail was introduced to the United States."
 ---

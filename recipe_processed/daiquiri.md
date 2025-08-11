@@ -9,6 +9,7 @@ iconfile: daiquiri
 stars: 5
 base_spirits: "Light Rum"
 youtube: "VBSjE-P_C58"
+description: "The quintessential classic sour from Cuba, celebrated for its perfect balance of light rum, sugar, and tart lime."
 excerpt: |
   Its origins trace back to the late 19th century in Cuba, where it gained popularity among American miners working in the Santiago de Cuba region. The Daiquiri's enduring appeal lies in its balance of sweet, sour, and tart flavors.
 ---

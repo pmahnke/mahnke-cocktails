@@ -10,6 +10,7 @@ iconfile: bay_roc_special
 stars: 0
 base_spirits: "Jamaican Rum, Drambuie"
 youtube: "sRTGCquUgMs"
+description: "A classic cocktail from Jamaica that balances the spice and honey notes of Drambuie with Jamaican rum."
 excerpt: |
   The Bay Roc Special is a classic cocktail created by Jasper LeFranc at the Bay Roc Hotel in Jamaica in 1972. It's a powerful libation with a balance of spice, honey, and rum.
 ---

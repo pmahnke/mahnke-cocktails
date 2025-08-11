@@ -9,6 +9,7 @@ iconfile: brambubble
 stars: 0
 base_spirits: "Champagne, Gin, Crème de Mûre"
 youtube: "IAaiRENeyvc&t=639s"
+description: "A refreshing and vibrant Champagne cocktail made with blackberry brandy, lemon, and ginger ale."
 excerpt: |
   The Brambubble is a refreshing and vibrant cocktail that's perfect for summer. It's made with blackberry brandy, lemon juice, and ginger ale, and it's garnished with a blackberry and a lemon wheel.
 ---

@@ -9,6 +9,7 @@ iconfile: corpse_reviver_1871
 stars: 0
 base_spirits: "Cognac, Maraschino Liqueur"
 youtube: "rMCsrbidAJ4"
+description: "A classic cocktail from an 1871 guide, featuring cognac and maraschino liqueur."
 excerpt: |
   This recipe is found in the Gentleman's Table Guide, published in 1871, written by E. Ricket and C. Thomas.
 ---

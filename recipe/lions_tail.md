@@ -9,6 +9,7 @@ iconfile: lions_tail
 stars: 5
 base_spirits: "Bourbon, Allspice Dram"
 youtube: "r2NNClh94tQ"
+description: "A classic Prohibition-era sour that combines the richness of bourbon with the unique warming spice of allspice dram."
 excerpt: |
   The Lion’s Tail is a classic cocktail stemming from Prohibition. it combines bourbon with allspice dram and bitters.
 ---

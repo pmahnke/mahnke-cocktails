@@ -9,6 +9,7 @@ iconfile: harvest_moon_punch
 stars: 0
 base_spirits: "Jamaican Rum, Apple Brandy, Pear Liqueur, Allspice Dram"
 youtube: "S5ipwEU7uHo"
+description: "An original punch with autumnal flavors, featuring Jamaican rum, apple brandy, pear liqueur, and allspice dram."
 excerpt: |
   An original of Anders Erickson, based on a classic punch build. Black tea adds volume, and cuts down on the alcohol content.
 ---

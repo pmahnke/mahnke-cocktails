@@ -9,6 +9,7 @@ iconfile: whiskey_smash
 stars: 0
 base_spirits: "Bourbon "
 youtube: "Jo1wxAfyLto"
+description: "A classic and citrusy cousin to the Mint Julep, this is a refreshing smash made with bourbon, lemon, and mint."
 excerpt: |
   With bourbon, lemon and mint, the Whiskey Smash is a citrusy cousin to the Mint Julep. If that sounds good, wait until you make this recipe.
 ---

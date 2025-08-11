@@ -9,6 +9,7 @@ iconfile: widows_kiss
 stars: 3
 base_spirits: "Apple Brandy, Yellow Chartreuse, Bénédictine "
 youtube: "0JqyWyBiFus"
+description: "A potent and herbaceous classic cocktail that features a unique blend of apple brandy with Yellow Chartreuse and Bénédictine."
 excerpt: |
   A simple, and very potent, classic cocktail with apple brandy, yellow Chartreuse and Benedictine.
 ---

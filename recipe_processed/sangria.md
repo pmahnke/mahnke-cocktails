@@ -9,6 +9,7 @@ iconfile: sangria
 stars: 4.5
 base_spirits: "Red Wine, Oloroso Sherry, Grand Marnier "
 youtube: "NNI--bxevNo"
+description: "A classic and festive Spanish punch, traditionally consisting of red wine, sherry, and chopped fruit, often with other spirits."
 excerpt: |
   A punch, sangria traditionally consists of red wine and chopped fruit, often with other ingredients or spirits.
 ---

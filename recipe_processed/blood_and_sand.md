@@ -9,6 +9,7 @@ iconfile: blood_and_sand
 stars: 3.5
 base_spirits: "Blended Scotch, Cherry Liqueur "
 youtube: "r50WUk960qI"
+description: "A classic Scotch cocktail from the 1930s that uniquely combines whisky with cherry liqueur, sweet vermouth, and orange juice."
 excerpt: |
   The Blood and Sand is a classic scotch cocktail dating back to at least 1930. It includes cherry liqueur, sweet vermouth and orange juice.
 ---

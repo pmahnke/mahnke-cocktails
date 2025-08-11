@@ -9,6 +9,7 @@ iconfile: deshler
 stars: 4
 base_spirits: "Rye, Dubonnet Rouge -OR- Bourbon, Lillet Rouge "
 youtube: "3vtklNLjMPw"
+description: "A classic cocktail that pairs rye whiskey with the wine-based aperitif Dubonnet and Cointreau."
 excerpt: |
   Enjoy your favorite rye whiskey in this Dubonnet and Cointreau drink from famed New York bartender Brian Miller.
 ---

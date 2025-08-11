@@ -9,6 +9,7 @@ iconfile: wardroom
 stars: 3
 base_spirits: "Cognac, Dark Rum, Tawny Port"
 youtube: "y41UN6AZSMs"
+description: "A modern cocktail with a naval theme, featuring a rich combination of port, cognac, and dark rum."
 excerpt: |
   Adapted from a 2020 recipe by Jason E. Clapham of Clapham Cocktails, Oxford, England. Jason says, "The Wardroom features port, cognac, and rum, the three favourite libations of the British Naval officer."
 ---

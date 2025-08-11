@@ -10,6 +10,7 @@ iconfile: fall_back
 stars: 0
 base_spirits: "Rye, Apple Brandy, Amaro Nonino"
 youtube: "_bDARIxZlcE"
+description: "A modern cocktail that combines the autumnal flavors of rye, apple brandy, and the herbal sweetness of Amaro Nonino."
 excerpt: |
   Adapted from a recipe created circa 2012-17 by Sasha Petraske for the John Dory Oyster Bar in Manhattan, New York City, USA.
 ---

@@ -10,6 +10,7 @@ iconfile: cloud_sour
 stars: 0
 base_spirits: "Gin"
 youtube: ""
+description: "A modern sour with a funky, umami-rich character derived from the use of shio koji, a fermented rice marinade."
 excerpt: |
   This is a simplified version of a drink we serve at Seed Library, and its freshness makes it a lovely way to welcome the long-overdue arrival of spring. Shio koji is a funky, umami-rich Japanese ingredient made from fermented rice, and is more commonly used in marinades and for seasoning, much as miso and soy sauce are – look for it in specialist food stores and online.
 

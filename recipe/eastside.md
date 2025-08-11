@@ -10,6 +10,7 @@ iconfile: eastside
 stars:
 base_spirits: "Gin"
 youtube: "0iFzihjeyXg"
+description: "A modern gin-based sour from 2004, essentially a Southside with the addition of fresh cucumber."
 excerpt: |
   The Eastside is a gin-based drink made with fresh cucumber and mint, lime juice, and simple syrup, created by George Delgado in 2004 in New York City.
 ---

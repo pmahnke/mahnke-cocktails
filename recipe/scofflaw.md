@@ -9,6 +9,7 @@ iconfile: scofflaw
 stars: 5
 base_spirits: "Rye"
 youtube: "nutbajkZ8Lc"
+description: "A creatively named Prohibition-era sour invented in Paris, which combines whiskey, dry vermouth, lemon juice, and grenadine."
 excerpt: |
   The creatively named Scofflaw combines whiskey, dry vermouth, lemon juice and grenadine. It was invented in Paris during U.S. Prohibition.
 ---

@@ -9,6 +9,7 @@ iconfile: martini
 stars: 4
 base_spirits: "Gin "
 youtube: "izZsjqnADAA"
+description: "The iconic, elegant, and simple classic cocktail, typically made with gin and dry vermouth and garnished with an olive or a lemon twist."
 excerpt: |
   The Martini is a classic cocktail known for its elegance and simplicity. It is typically made with gin and vermouth, although vodka is a popular alternative. The drink is stirred with ice and strained into a cocktail glass, often garnished with an olive or a lemon twist.<br><br>
 

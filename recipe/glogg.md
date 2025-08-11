@@ -9,6 +9,7 @@ iconfile: glogg
 stars: 0
 base_spirits: "Red Wine, Ruby Port, Cognac "
 youtube: "2Xox9vdRGtM"
+description: "A popular Scandinavian mulled wine, this is a comforting hot punch made with red wine, port, cognac, spices, and fruit."
 excerpt: |
   Glögg is a popular Scandinavian mulled wine made with red wine, port, spices, fruit and nuts. Make this comforting hot cocktail when the weather is cold to warm you up and lift your spirits.
 ---

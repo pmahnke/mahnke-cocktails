@@ -9,6 +9,7 @@ iconfile: black_velvet
 stars: 3
 base_spirits: "Champagne, Stout "
 youtube: "IAaiRENeyvc&t=639s"
+description: "A classic layered drink that marries the crisp bubbles of Champagne with the smooth, roasty character of Guinness stout."
 excerpt: |
   High-class meets working-class in the Black Velvet, a marriage of Guinness and Champagne that’s smooth and bubbly.
 ---

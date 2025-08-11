@@ -10,6 +10,7 @@ iconfile: neptunes_wrath
 stars: 0
 base_spirits: "Gin, Absinthe, Green Chartreuse"
 youtube: "eoMchfbaVPw"
+description: "A visually dramatic modern sour that represents the fury of the sea with its green hue from absinthe and a flaming Chartreuse float."
 excerpt: |
   Adapted from a recipe created circa 2007 by Toby Maloney at The Violet Hour in Chicago. The foaming surface, green hue of the absinthe and flaming Chartreuse represents Neptune expressing his fury with a dangerously rough sea.
 ---

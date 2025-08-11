@@ -9,6 +9,7 @@ iconfile: hot_buttered_rum
 stars: 0
 base_spirits: "Dark Rum "
 youtube: "mBGgu3qRztY"
+description: "A classic hot toddy perfect for winter, featuring a rich, spiced butter batter that melts into hot rum and water."
 excerpt: |
   The Hot Buttered Rum cocktail is a classic hot drink that will warm your soul during the cold winter.
 ---

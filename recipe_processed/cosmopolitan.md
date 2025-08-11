@@ -9,6 +9,7 @@ iconfile: cosmopolitan
 stars: 3
 base_spirits: "Vodka "
 youtube: "SP8Pc-Db7yQ"
+description: "A modern classic known for its vibrant pink color, this is a tart and sweet cocktail featuring citrus vodka, cranberry, and lime."
 excerpt: |
   The Cosmopolitan is a simple cocktail with a big history. The "Cosmo" is known for its vibrant pink color and tart, sweet flavor. It gained widespread popularity in the 1990s, particularly after its association with the TV show "Sex and the City."
 ---

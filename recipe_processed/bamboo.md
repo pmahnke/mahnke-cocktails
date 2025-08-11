@@ -9,6 +9,7 @@ iconfile: bamboo
 stars: 4
 base_spirits: "Oloroso Sherry "
 youtube: "B8l-F1qcTYU&t=48s"
+description: "A low-alcohol classic cocktail that combines equal parts dry sherry and dry vermouth with two kinds of bitters."
 excerpt: |
   Equal parts dry sherry and dry vermouth get propped up with two kinds of bitters in the Bamboo, a low-alcohol classic cocktail.
 ---

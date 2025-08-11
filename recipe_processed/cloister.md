@@ -10,6 +10,7 @@ iconfile: cloister
 stars: 0
 base_spirits: "Gin, Yellow Chartreuse"
 youtube: "LINK"
+description: "A modern sour that combines gin with the herbal sweetness of yellow Chartreuse and the brightness of grapefruit and lemon."
 excerpt: |
   Adapted from a recipe in Thomas Mario's 1971 <i>Playboy's Bar Guide</i>:<br>
   <blockquote>

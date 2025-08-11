@@ -11,6 +11,7 @@ iconfile: japanese_cocktail
 stars: 0
 base_spirits: "Cognac "
 youtube: "83TEnWyeqV0"
+description: "A classic cocktail from the 1860s, created by Jerry Thomas, that features a simple but elegant combination of cognac and orgeat syrup."
 excerpt: |
   Adapted from a recipe first published in Jerry "The Professor" Thomas' 1862 <i>Bartender's Guide</i>. This is one of the few cocktails in the book which is believed to be his own creation.
   <blockquote class='long-form__quote border-heavy'><p><strong>Japanese Cocktail.</strong>

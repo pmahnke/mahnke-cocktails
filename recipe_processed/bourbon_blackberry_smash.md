@@ -9,6 +9,7 @@ iconfile: bourbon_blackberry_smash
 stars: 0
 base_spirits: "Bourbon"
 youtube: "3i4QnRLlPFc&t=220s"
+description: "A refreshing smash made with fresh muddled lime, blackberries, and mint mixed with bourbon and topped with soda water."
 excerpt: |
   The Blackberry Bourbon Smash is made with fresh muddled lime, blackberries, and mint mixed with bourbon and topped with soda water.
 ---

@@ -9,6 +9,7 @@ iconfile: old_fashioned
 stars: 3
 base_spirits: "Bourbon"
 youtube: "pdcrJ5V7YKM"
+description: "Arguably the original cocktail, this is a timeless classic made by lightly sweetening a spirit (typically bourbon or rye) with sugar and seasoning it with bitters."
 excerpt: |
   The Old Fashioned is arguably the most well-known whiskey cocktail in the world. Essentially just a slug of bourbon that’s been lightly sweetened with sugar and modified with a couple dashes of bitters, it’s dead simple to make, but within this basic template is a world of opinions and flavor.<br><br>
 

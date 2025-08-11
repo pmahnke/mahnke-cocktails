@@ -9,6 +9,7 @@ iconfile: dirty_martini
 stars: 0
 base_spirits: "Vodka, Gin"
 youtube: "cwunL1zBgnI"
+description: "A classic savory Martini variation that incorporates a small amount of olive brine for a salty kick."
 excerpt: |
   Cocktail historian David Wondrich has traced the origins of the Dirty Martini back to 1901 and a bartender called John E. O'Connor, who served a Dry Martini with muddled olives at New York's Waldorf Astoria.<br /><br />The first written reference to brine being added to a Martini-style cocktail appears in G.H. Steele's 1930 <i>My New Cocktail Book</i>.
 ---

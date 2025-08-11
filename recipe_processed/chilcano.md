@@ -10,6 +10,7 @@ iconfile: chilcano
 stars:
 base_spirits: "Pisco"
 youtube: ""
+description: "A popular and refreshing Peruvian highball that combines pisco with lime and ginger ale."
 excerpt: |
   This is the second most popular way to drink pisco in Peru, after a sour. If you don’t have ginger syrup, cordial or wine to hand, you can always swap the soda for ginger ale, though if you’ve got a sweet tooth, you may also want to add a drop of sugar syrup, too.
 ---

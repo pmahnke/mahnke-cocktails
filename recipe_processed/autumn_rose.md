@@ -9,6 +9,7 @@ iconfile: autumn_rose
 stars: 4
 base_spirits: "Apple Brandy"
 youtube: "9OxlSOioD_k"
+description: "An original sour cocktail that features the warm, autumnal flavors of apple brandy."
 excerpt: |
   This cocktails is an Anders original.
 ---

@@ -9,6 +9,7 @@ iconfile: wassail
 stars: 0
 base_spirits: "Apple Brandy, Amontillado Sherry, Dark Ale "
 youtube: "9cp5upHowwI"
+description: "A warm, spiced classic beverage with ancient roots, traditionally made with mulled cider or ale and often spiked with brandy and sherry."
 excerpt: |
   Wassail is a warm, spiced beverage with a rich history dating back to ancient England. It's traditionally made with mulled cider, ale, or wine, sweetened with honey or sugar, and flavored with warming spices like cinnamon, cloves, and nutmeg. It is often spiked with brandy and/or sherry.
 ---

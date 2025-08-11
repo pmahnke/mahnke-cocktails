@@ -9,6 +9,7 @@ iconfile: morning_glory_fizz
 stars: 0
 base_spirits: "Single Malt Scotch, Absinthe "
 youtube: "YMY0LtEq8mg"
+description: 'A classic "hair of the dog" fizz traditionally considered a morning pick-me-up, featuring Scotch and a hint of absinthe.'
 excerpt: |
   This classic, sour and aromatic cocktail is traditionally considered a morning after a pick-me-up. Want to make the perfect Gin Fizz? It's all in the shake.
 ---

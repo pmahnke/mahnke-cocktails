@@ -9,6 +9,7 @@ iconfile: sage_hen
 stars: 0
 base_spirits: "Gin, Yellow Chartreuse "
 youtube: "EKyIy5iG87Q"
+description: "A modern sour that showcases the unique savory and sweet flavors of fresh sage and honey."
 excerpt: |
   The Sage Hen is a modern cocktail that showcases the unique flavors of sage and honey.
 ---

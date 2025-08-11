@@ -9,6 +9,7 @@ iconfile: matador
 stars: 0
 base_spirits: "Reposado Tequila, White Vermouth "
 youtube: "3aV3DzDfW_A"
+description: "A simple, tiki-style cocktail similar to a Margarita, featuring tequila, pineapple, and lime."
 excerpt: |
   The Matador is a tequila-based cocktail with a simple structure, similar to a margarita.
 ---

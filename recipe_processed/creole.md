@@ -9,6 +9,7 @@ iconfile: creole
 stars: 4
 base_spirits: "Rye, Bénédictine, Amaro "
 youtube: "BTPaTmkJxbM"
+description: "A classic New Orleans cocktail from the early 1900s with a complex flavor profile combining rye, sweet vermouth, amaro, and Bénédictine."
 excerpt: |
   The Creole cocktail is a classic cocktail with a rich history dating back to the early 1900s. It is known for its complex and balanced flavor profile, combining the sweetness of vermouth with the bitterness of Amaro and the herbal notes of Bénédictine.
 ---

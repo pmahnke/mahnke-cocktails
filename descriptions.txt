@@ -1,0 +1,335 @@
+12_mile_limit	A Prohibition-era sour whose name references the extension of US jurisdiction offshore, strengthening a classic rum cocktail with rye and cognac.
+20th_century	A classic gin sour from 1937 featuring crème de cacao, named in honor of the famous 20th Century Limited passenger train.
+a_little_thyme_off	A refreshing and herbaceous non-alcoholic cocktail featuring a thyme-infused simple syrup balanced with lemon and ginger beer.
+absinthe_frappe	A classic and refreshing frappé built around the distinct anise and herbal flavors of absinthe.
+absinthe_old_fashioned	A modern twist on the Old Fashioned that uses absinthe as its base, complemented by elderflower liqueur.
+adonis	A low-alcohol classic from the 1880s that balances the nutty notes of Oloroso sherry with sweet vermouth.
+affinity	A sophisticated classic that creates a harmonious blend of Scotch, sweet vermouth, and dry vermouth.
+airmail	A celebratory classic cocktail that combines gold rum and honey with the effervescence of Champagne.
+alabazam	A 19th-century sour that enhances cognac with the orange notes of triple sec and a hint of bitters.
+alamagoozlum	A complex and uniquely named vintage punch combining genever, Jamaican rum, and Chartreuse.
+alberto	A Prohibition-era Martini variation that pairs the dryness of gin with the salinity of Fino sherry.
+alexander	A creamy and decadent classic that combines gin with the chocolate notes of crème de cacao and cream.
+algonquin	A Prohibition-era sour named for the famous Manhattan hotel, featuring rye whiskey and pineapple juice.
+alton_browns_aged_eggnog	A rich and complex holiday classic that blends Jamaican rum, cognac, and bourbon, designed to be aged for depth of flavor.
+amaretto_sour	A modern sour that elevates the classic amaretto base with the structure of cask-strength bourbon and the texture of egg white.
+americano	A refreshing Italian aperitif from the 1860s that builds upon the bittersweet flavor of Campari with sweet vermouth and soda water.
+angel_face	A classic, spirit-forward cocktail from the Prohibition era that perfectly balances gin, apple brandy, and apricot liqueur.
+angostura_colada	A modern tiki creation that puts Angostura bitters center stage as the base ingredient in a creative colada format.
+apeman	An original sour cocktail that pairs bourbon and Oloroso sherry with the tropical sweetness of banana liqueur.
+aperol_spritz	An iconic and refreshing Italian aperitif that combines the bittersweet notes of Aperol with the sparkle of prosecco and a splash of soda.
+applejack_rabbit	A classic Prohibition-era sour that highlights the robust character of apple brandy with citrus and maple syrup.
+army_navy	A classic gin sour with a unique flavor profile derived from the almond and floral notes of orgeat syrup.
+artillery	A classic Martini variation known for its balanced blend of sweet and savory flavors, with a subtle herbaceousness from the gin.
+artists_special	A classic Parisian sour from the 1920s that combines the richness of bourbon and sherry with the tartness of red currant syrup.
+autumn_rose	An original sour cocktail that features the warm, autumnal flavors of apple brandy.
+aviation	A classic gin sour from the early 20th century, celebrated for its floral notes and sky-blue hue from crème de violette.
+bali_bali	A potent classic tiki cocktail that packs a punch with its complex blend of four different spirits.
+bamboo	A low-alcohol classic cocktail that combines equal parts dry sherry and dry vermouth with two kinds of bitters.
+barbacks_revenge	A unique coffee cocktail that combines herbal Bénédictine and savory Amontillado sherry with cold brew.
+basil_orgeat_lemonade	A refreshing non-alcoholic drink that blends tart lemonade with the nutty sweetness of orgeat and the herbaceousness of fresh basil.
+bay_roc_special	A classic cocktail from Jamaica that balances the spice and honey notes of Drambuie with Jamaican rum.
+beesknees_smoked	A smoky twist on the classic Prohibition-era Bee's Knees, which traditionally combines gin, lemon, and honey.
+belmont_jewel	The official cocktail of the Belmont Stakes, this is a refreshing and fruity bourbon sour.
+best_drs_cocktail	A simple yet refreshing classic cocktail that features Jamaican rum and the unique spice of Swedish Punsch.
+between_the_sheets	A provocatively named Prohibition-era cocktail that enhances the classic Sidecar formula with a dose of rum.
+bijou	A classic cocktail from the 1890s that combines gin, sweet vermouth, and Green Chartreuse, named for the jewel tones of its ingredients.
+bitter_giuseppe	A modern classic, low-ABV cocktail that uses the artichoke-based amaro Cynar as its foundational spirit.
+black_dragon_13	A unique and intriguing cocktail that combines the boldness of coffee and stout with the sophistication of cognac and amaro.
+black_eyed_susan	The official drink of the Preakness Stakes, this is a refreshing highball combining bourbon and vodka with citrus and pineapple.
+black_manhattan	A modern classic from 2015 that replaces the sweet vermouth in a traditional Manhattan with a rich, herbal amaro.
+black_rose	A classic cocktail that combines the rich flavors of bourbon and cognac with sweet grenadine and bitters.
+black_velvet	A classic layered drink that marries the crisp bubbles of Champagne with the smooth, roasty character of Guinness stout.
+blackbeards_ghost	An original tiki cocktail that features a blend of gold and demerara rums with sweet apricot liqueur.
+blood_and_sand	A classic Scotch cocktail from the 1930s that uniquely combines whisky with cherry liqueur, sweet vermouth, and orange juice.
+bloody_caesar	Canada's national cocktail, this is a savory riff on the Bloody Mary that gets its unique character from clam-infused tomato juice.
+bloody_mary	A classic savory cocktail from the 1920s, featuring vodka and tomato juice with a complex blend of spices.
+blue_hawaii	A vibrant and tropical highball created in 1957 to showcase blue curaçao, blended with rum and pineapple.
+blueberries_for_sal	A refreshing non-alcoholic drink combining the fruity sweetness of blueberries with the spice of ginger beer.
+blueberry_thyme_smash	A simple and refreshing smash that combines gin with the fruity notes of blueberries and the herbal character of thyme.
+bobby_burns	A classic cocktail named for the Scottish poet Robert Burns, this is a Rob Roy variation made richer with Bénédictine.
+boulevardier	A classic Prohibition-era cocktail that swaps the gin in a Negroni for the rich, warm character of whiskey.
+bourbon_blackberry_smash	A refreshing smash made with fresh muddled lime, blackberries, and mint mixed with bourbon and topped with soda water.
+bourbon_lift	A playful and nostalgic modern fizz that combines bourbon and coffee liqueur with orgeat and cream.
+bourbon_renewal	A modern classic sour that pairs the sweetness of bourbon with the rich, dark fruit flavor of crème de cassis.
+bourbon_sweet_tea	A boozy take on the iconic Southern Sweet Tea, perfect for porch sipping.
+bramble	A modern classic from the 1980s, this is a refreshing gin drink built over crushed ice with lemon and blackberry liqueur.
+brambubble	A refreshing and vibrant Champagne cocktail made with blackberry brandy, lemon, and ginger ale.
+brandy_alexander	A classic creamy after-dinner drink that combines cognac with the chocolate notes of crème de cacao and cream.
+brandy_crusta	One of the oldest classic cocktails from New Orleans, known for its distinctive sugared rim and long lemon peel garnish.
+brandy_daisy	A classic cocktail category defined by a spirit, citrus, and sweetener, topped with a splash of soda water.
+brandy_slush	A classic Midwestern party punch featuring an icy, make-ahead mix of fruit juice, tea, and brandy.
+brooklyn	A classic pre-Prohibition cocktail and Manhattan variation that incorporates dry vermouth and Maraschino liqueur.
+brown_derby	A classic Hollywood-era sour named for the famous Los Angeles diner, combining bourbon with grapefruit and honey.
+cable_car	A modern classic from 1996, this is a twist on the classic Sidecar featuring spiced rum.
+caipirinha	The national drink of Brazil, this is a classic and refreshing cocktail made by muddling fresh lime and sugar with cachaça.
+camerons_kick	A classic cocktail that uniquely combines the distinct flavors of both Scotch and Irish whiskeys in a sour format with orgeat.
+champagne_cocktail	A simple and elegant classic that enhances Champagne with a sugar cube soaked in Angostura bitters.
+charles_dickens_punch	A classic and flavorful punch, famously enjoyed by the author, featuring a blend of rum, brandy, and lemon set ablaze.
+charlie_chaplin	A pre-Prohibition sour named for the silent film star, featuring a simple and fruity combination of sloe gin and apricot liqueur.
+chartreuse_swizzle	A refreshing and unique modern cocktail that blends the herbal sweetness of Green Chartreuse with tropical pineapple and lime.
+cherry_zip	A tart and fruity non-alcoholic cocktail that combines cherry juice with the nutty sweetness of orgeat.
+chicago_cocktail	A classic Prohibition-era cocktail that starts like an Old Fashioned with brandy and bitters but is topped with Champagne.
+chilcano	A popular and refreshing Peruvian highball that combines pisco with lime and ginger ale.
+chocolate_punch	A decadent and indulgent classic punch that combines the rich flavors of brandy, port, and dark crème de cacao.
+christmas_martini	A festive twist on the classic Martini, incorporating flavors reminiscent of the holiday season.
+chrysanthemum	A classic low-alcohol cocktail from the early 20th century that features Bénédictine and absinthe with a French vermouth base.
+churchill	A mid-century classic named for the British prime minister, this is a modified Whiskey Sour featuring Scotch, sweet vermouth, and orange liqueur.
+cigar	A classic smoked cocktail designed to complement the flavors of a cigar, typically made with dark spirits and sweet vermouth.
+cloister	A modern sour that combines gin with the herbal sweetness of yellow Chartreuse and the brightness of grapefruit and lemon.
+cloud_sour	A modern sour with a funky, umami-rich character derived from the use of shio koji, a fermented rice marinade.
+clover_club	A pre-Prohibition classic from Philadelphia known for its silky, frothy texture and beautiful pink hue from raspberry syrup.
+clover_club2	A pre-Prohibition classic from Philadelphia known for its silky, frothy texture and beautiful pink hue from raspberry syrup.
+coffee_negroni	A modern, bittersweet after-dinner cocktail that adds the rich flavor of coffee liqueur to the classic Negroni formula.
+colleen_bawn	A classic flip-style cocktail with a rich, frothy texture, combining rye whiskey with the herbal notes of Chartreuse and Bénédictine.
+coquito	A creamy and rich classic Puerto Rican holiday punch combining rum, milk, coconut, and spices.
+corn_and_oil	A traditional Barbadian drink from the 1700s, featuring dark rum sweetened and flavored with falernum liqueur.
+corpse_reviver_1	The original Corpse Reviver, this is a cognac-based cocktail intended as a "hair of the dog" morning drink.
+corpse_reviver_1871	A classic cocktail from an 1871 guide, featuring cognac and maraschino liqueur.
+corpse_reviver_2	The most famous of the Corpse Revivers, this is a bright, pre-Prohibition sour featuring equal parts gin, Lillet Blanc, orange liqueur, and lemon, with an absinthe rinse.
+corpse_reviver_2a	A modern riff on the classic Corpse Reviver No. 2 that incorporates the unique spice of Swedish Punsch.
+corpse_reviver_blue	A modern, visually striking riff on the Corpse Reviver No. 2 that gets its color from blue curaçao.
+corpse_reviver_cafe_royal	A classic variation from the Cafe Royal Cocktail Book that adds the effervescence of Champagne to a cognac base.
+corpse_reviver_godfrey	A classic variation from the Cafe Royal Cocktail Book featuring both gin and vodka.
+cosmopolitan	A modern classic known for its vibrant pink color, this is a tart and sweet cocktail featuring citrus vodka, cranberry, and lime.
+costume_party	An original cocktail with a complex profile of vodka, white crème de cacao, and apricot liqueur.
+creole	A classic New Orleans cocktail from the early 1900s with a complex flavor profile combining rye, sweet vermouth, amaro, and Bénédictine.
+cumulonimbus	A non-alcoholic coffee drink featuring espresso and cinnamon syrup topped with soda water.
+daiquiri	The quintessential classic sour from Cuba, celebrated for its perfect balance of light rum, sugar, and tart lime.
+dark_daiquiri	A classic cocktail that offers a rich and flavorful twist on the traditional Daiquiri by using dark rum for added molasses and spice notes.
+dark_n_stormy	A classic highball from Bermuda that features a simple but potent combination of dark rum and spicy ginger beer.
+death_in_the_afternoon	A potent and simple cocktail invented by Ernest Hemingway, consisting of absinthe topped with Champagne.
+delmonico_special	A classic gin-based Martini-style cocktail from the 1800s, balanced with cognac and blanc vermouth.
+deshler	A classic cocktail that pairs rye whiskey with the wine-based aperitif Dubonnet and Cointreau.
+devils_day_off	A refreshing non-alcoholic cocktail that features a combination of grapefruit, lime, agave, cinnamon, and the bittersweet notes of Sanbitter soda.
+dirty_martini	A classic savory Martini variation that incorporates a small amount of olive brine for a salty kick.
+division_bell	A modern classic that combines the smoky flavor of mezcal with the bittersweet notes of Aperol and the complexity of Maraschino liqueur.
+doctor_funk	A classic tiki cocktail with a unique flavor profile that includes an absinthe-laced limeade.
+east_india_cocktail	A classic sour from the 1880s that features cognac, pineapple, and maraschino liqueur, with ingredients indicative of the East India Trading Company's imports.
+eastside	A modern gin-based sour from 2004, essentially a Southside with the addition of fresh cucumber.
+eggnog	A creamy, festive classic cocktail perfect for the holidays, made with eggs, sugar, milk, and typically spiked with rum or sherry.
+el_diablo	A classic tiki cocktail from the 1940s that combines reposado tequila with the sweet blackcurrant flavor of crème de cassis and spicy ginger beer.
+el_presidente	A classic Cuban cocktail from the Prohibition era, this is a sophisticated and slightly sweet drink featuring rum, vermouth, and curaçao.
+elks_own	A complex and flavorful classic sour that blends the warmth of rye whiskey with the sweetness of port wine, balanced by tart lemon.
+embassy	A classic cocktail from the 1930s Embassy Club in Hollywood, this is a well-balanced and flavorful drink combining brandy, rum, and Cointreau.
+enzoni	A refreshing modern classic from 2003 that twists the Negroni formula by muddling fresh green grapes with gin and Campari.
+espresso_martini	A modern classic that provides a rich and energizing combination of vodka, fresh espresso, and coffee liqueur.
+fall_back	A modern cocktail that combines the autumnal flavors of rye, apple brandy, and the herbal sweetness of Amaro Nonino.
+fancy_cocktail_1	An elegant, spirit-forward original cocktail that pairs the citrus and floral notes of Rosolio with reposado tequila and dry sherry.
+fence_hopper	A unique beer cocktail that blends bourbon with apple cider, maple syrup, and is topped with an IPA.
+final_ward	A modern classic and a twist on the Last Word, this sour cocktail swaps gin for rye whiskey.
+fino_spritz	A refreshing and modern take on the classic spritz, featuring the crisp, dry character of Fino Sherry as its base.
+flip	A historic category of drink originally made with rum or brandy, beer, and sugar, heated to create a frothy texture.
+flying_dutchman	A modern cocktail with complex herbal flavors, featuring Dutch genever, Bénédictine, and yellow Chartreuse.
+fog_cutter	A vintage tiki classic with a complex blend of spirits, including light rum, pisco, and gin, balanced with citrus and orgeat.
+forced_retirement	A unique and intensely bitter highball that prominently features Malört, a classic Chicago spirit.
+ford	A classic Martini-style cocktail from the late 19th century, sweetened with Old Tom gin and the herbal complexity of Bénédictine.
+freight_train_swizzle	A bright and herbaceous modern swizzle that pairs funky Jamaican rum with the intense herbal notes of Green Chartreuse.
+french_75	A classic and celebratory sparkling cocktail that combines either gin or cognac with lemon, sugar, and Champagne.
+french_pearl	A modern classic from 2006, this is a refreshing gin sour with a distinct anise note from an absinthe rinse.
+frozoni	A frozen, slushy variation of the Enzoni cocktail, blending gin, Campari, and muddled grapes with the sparkle of prosecco.
+general_harrisons_eggnog	A classic eggnog variation named for a US president, featuring a unique base of hard cider and demerara rum.
+gimlet	A classic and sharp sour whose history traces back to the British Royal Navy, traditionally combining gin with lime cordial.
+gin_daisy	A classic Daisy variation that uses gin as its base, complemented by the herbal sweetness of Bénédictine.
+gin_old_fashioned	A classic Old Fashioned preparation that uses the slightly sweeter Old Tom gin as its base instead of whiskey.
+gin_rickey	A classic and refreshingly tart highball from the late 19th century, featuring gin, fresh lime, and carbonated water with no added sugar.
+glogg	A popular Scandinavian mulled wine, this is a comforting hot punch made with red wine, port, cognac, spices, and fruit.
+go-to_toddy	A comforting and warming classic beverage, traditionally made with a spirit, hot water, honey, and lemon.
+godfather	A simple and classic modern cocktail made with just two ingredients: Scotch whisky and amaretto.
+gold_rush	A modern classic from the early 2000s, this is a simple but delicious whiskey sour that uses honey syrup as its sweetener.
+golden_cadillac	A creamy, dessert-like fizz from 1952, known for its distinct golden color and flavor from Galliano liqueur.
+grasshopper	A sweet, minty-chocolate after-dinner classic known for its vibrant green color from crème de menthe.
+greenpoint	A modern classic and Manhattan variation from the early 2000s, named for a Brooklyn neighborhood and featuring yellow Chartreuse.
+greta_garbo_1	A Prohibition-era cocktail named for the Hollywood star, featuring light rum and maraschino liqueur.
+greta_garbo_2	A Prohibition-era cocktail named for the Swedish actress, featuring gin and the unique spice of Swedish Punsch.
+grey_fox	A non-alcoholic cocktail featuring the distinct flavors of Earl Grey tea and fresh lemon.
+grog	A historic naval drink from the 18th century, created to make rum rations more palatable by adding water, lime juice, and sugar.
+gunshop_fizz	A unique and modern fizz that boldly uses two full ounces of Peychaud's bitters as its base spirit.
+halekulani	A classic tropical cocktail from the Prohibition era that uniquely uses whiskey as its base instead of the more common rum.
+harvest_moon_punch	An original punch with autumnal flavors, featuring Jamaican rum, apple brandy, pear liqueur, and allspice dram.
+harvey_wallbanger	A modern classic that enhances a simple Screwdriver (vodka and orange juice) with a float of the Italian liqueur Galliano.
+haunted_house	A modern cocktail with a complex profile, combining Jamaican rum, rye, and the unique spice of Swedish Punsch.
+hemingway_daiquiri	A classic Daiquiri variation created for Ernest Hemingway, featuring maraschino liqueur and grapefruit juice with no added sugar.
+hot_buttered_rum	A classic hot toddy perfect for winter, featuring a rich, spiced butter batter that melts into hot rum and water.
+hotel_national	A classic Cuban sour from the Prohibition era, featuring light rum, apricot liqueur, and pineapple juice.
+hugo_spritz	A refreshing and floral modern spritz from Italy, combining elderflower liqueur with prosecco and mint.
+hurricane	A potent and fruity classic from New Orleans, famous for its blend of rums and passion fruit flavor.
+improved_whiskey_cocktail	A classic Old Fashioned variation from the 1870s, "improved" with the addition of European ingredients like maraschino liqueur and absinthe.
+irish_coffee	A classic winter warming drink that combines hot coffee and Irish whiskey, sweetened with sugar and topped with cream.
+irish_coffee_cold	A refreshing modern twist on the classic, this cocktail combines cold brew coffee with the smooth warmth of Irish whiskey.
+irish_maid	A refreshing modern whiskey sour variation that features Irish whiskey, elderflower liqueur, and fresh muddled cucumber.
+jabberwocky	A refined and nuanced Martini-style sipper from the Savoy Cocktail book, featuring a marriage of dry sherry, gin, and Lillet.
+jack_rose	A classic Prohibition-era sour with a distinct pink hue, highlighting applejack, one of America's native spirits.
+japanese_cocktail	A classic cocktail from the 1860s, created by Jerry Thomas, that features a simple but elegant combination of cognac and orgeat syrup.
+japanese_sour	A refreshing and easy-to-make modern sour that features Japanese shochu as its base.
+jasmine	A modern classic from the 1990s, this is a vibrant and bittersweet sour that balances gin and Campari with citrus.
+jaspers_rum_punch	A classic Jamaican rum punch that uses a sweet, sour, and spicy secret ingredient known as Jasper's Mix.
+juliet_and_romeo	A refreshing and complex modern sour that blends gin with cucumber, mint, lime, and a hint of rose water.
+jungle_bird	A classic tiki cocktail from the 1970s with a unique bitter twist from the inclusion of Campari.
+junior	A classic Prohibition-era sour, also known as the "Quick Recovery," that pairs rye whiskey with the herbal sweetness of Bénédictine.
+kentucky_colonel_smoked	A classic cocktail that pays homage to Kentucky bourbon, enhanced with the herbal notes of Bénédictine and the aroma of smoke.
+la_louisiane	A classic New Orleans cocktail, this is a rich and complex variation on the Sazerac featuring rye, Bénédictine, and absinthe.
+la_rosita	A classic and complex tequila-based Negroni variation that uses a blend of both sweet and dry vermouths.
+last_word	A sharp, pungent, and complex Prohibition-era classic featuring equal parts gin, Green Chartreuse, maraschino liqueur, and lime.
+lions_tail	A classic Prohibition-era sour that combines the richness of bourbon with the unique warming spice of allspice dram.
+littlest_rebel	A Prohibition-era sour with a complex smoky and fruity profile, blending apple brandy and Scotch whisky.
+lonely_penguin	A unique original cocktail that combines the flavors of whiskey, lemon, blackberry, and coconut.
+lonely_valentine	An original cocktail with a bittersweet profile, combining light rum, ruby port, and white crème de cacao.
+long_island_iced_tea	A famously potent modern cocktail that combines four different spirits (vodka, rum, gin, tequila) with triple sec, lemon, and a splash of cola.
+lucien_gaudin	A classic Prohibition-era cocktail named for a French Olympic fencer, this is a Negroni variation that uses dry vermouth instead of sweet.
+lucky_stone	An original cocktail with a complex and balanced profile, combining Irish whiskey with the nutty notes of Amontillado sherry and sweet apricot.
+lumberjack_in_love	A unique beer cocktail that combines rye whiskey, allspice dram, cherry, and lemon with an Oktoberfest beer.
+macunaima	A modern Brazilian sour that features cachaça as its base, with the unique bitter complexity of Fernet Branca.
+mai_tai	A quintessential tiki classic that balances two types of rum with the flavors of orange curaçao, orgeat, and lime.
+man_o_war	A citrusy bourbon sour from the Prohibition era, named for one of history's most famous racehorses.
+man_overboard	A modern sour that adapts the classic Man o' War cocktail, adding the spiciness of rye while dialing down the booziness.
+manhattan	A timeless and sophisticated classic from the 1800s, perfectly balancing the spice of rye whiskey with sweet vermouth and bitters.
+margarita	The iconic classic sour that perfectly combines the earthy notes of tequila with the bright citrus of lime and triple sec.
+margarita_ginger	A refreshing and flavorful modern twist on the classic Margarita, combining the bold spice of ginger with zesty lime and tequila.
+margarita_hibiscus	A refreshing and vibrant modern Margarita that incorporates the floral and tangy notes of a homemade hibiscus syrup.
+margarita_mezcal	A modern twist on the classic Margarita that swaps tequila for its smoky cousin, mezcal.
+margarita_spicy	A modern Margarita variation that adds a kick of heat from muddled jalapeños and often features a spicy salt rim.
+margarita_strawberry	A refreshing and fruity modern cocktail that blends the classic Margarita with the sweetness of fresh strawberries.
+marooned_mango	A delightful tropical original cocktail that features a sweet and tangy combination of cachaça and mango liqueur.
+martinez	A classic cocktail from the late 1800s, considered a precursor to the modern Martini, featuring gin, sweet vermouth, and maraschino liqueur.
+martini	The iconic, elegant, and simple classic cocktail, typically made with gin and dry vermouth and garnished with an olive or a lemon twist.
+mary_pickford	A classic Prohibition-era cocktail named for the silent film star, featuring a tropical blend of white rum, pineapple juice, and grenadine.
+matador	A simple, tiki-style cocktail similar to a Margarita, featuring tequila, pineapple, and lime.
+mexican_firing_squad	A classic Collins-style cocktail that features tequila, lime, and grenadine, topped with soda and a few dashes of Angostura bitters.
+mezcal_hibiscus_toddy	A modern hot toddy that combines the smoky notes of mezcal with the floral, tart flavor of hibiscus.
+miami_vice	A fun, frozen modern mashup of two tropical classics: the Piña Colada and the Strawberry Daiquiri.
+millionaire_cocktail	A classic Prohibition-era sour with a rich flavor profile from Jamaican rum, sloe gin, and apricot liqueur.
+millionaire_royal	A very satisfactory classic sour, featuring bourbon, Grand Marnier, and a hint of absinthe.
+mint_julep	The signature drink of the Kentucky Derby, this is a classic and refreshing cocktail made with bourbon, fresh mint, and sugar served over crushed ice.
+mojito	A classic and refreshing Cuban highball, celebrated for its vibrant mix of white rum, fresh mint, lime, sugar, and soda water.
+momisette	A sparkling and refreshing Prohibition-era fizz that combines the anise flavor of pastis with the nutty sweetness of orgeat.
+monkey_gland	A classic sour from the 1920s with a unique name, combining gin, orange juice, and a hint of absinthe.
+wardroom	A modern cocktail that combines the rich flavors of rye whiskey and Bénédictine, similar to a whiskey Old Fashioned.
+monte_cassino	A bright and herbaceous modern Last Word variation that uses rye whiskey as its base spirit.
+morning_glory_fizz	A classic "hair of the dog" fizz traditionally considered a morning pick-me-up, featuring Scotch and a hint of absinthe.
+moscow_mule	A classic modern buck, born in Los Angeles, famous for its refreshing combination of vodka, spicy ginger beer, and lime, traditionally served in a copper mug.
+mundo_perdido	A unique and flavorful modern tiki cocktail that features a combination of dark rum, apple brandy, and cinnamon.
+murderers_cocktail	An original cocktail with a complex profile, combining Calvados, Jamaican rum, and the unique spice of Swedish Punsch.
+naked_and_famous	A modern, summery, and refreshing sour featuring an equal-parts combination of mezcal, yellow Chartreuse, Aperol, and lime.
+negroni	The iconic Italian aperitif, this is a classic and perfectly balanced three-ingredient cocktail composed of gin, Campari, and sweet vermouth.
+neptunes_wrath	A visually dramatic modern sour that represents the fury of the sea with its green hue from absinthe and a flaming Chartreuse float.
+new_york_sour	A classic and visually appealing whiskey sour variation that features a striking red wine float on top.
+noble_beast	An original flip cocktail that incorporates a whole egg for a creamy texture, with a base of Angostura bitters and coffee.
+oaxaca_old_fashioned	A modern classic from 2007 that kicked off the mezcal craze, splitting the base of a traditional Old Fashioned between tequila and mezcal.
+old_barrel	A modern riff on a classic Old Fashioned with rye whiskey spice, herbal Bénédictine complexity, and vinous sherry.
+old_cuban	A modern classic from legendary bartender Audrey Saunders, this drink is a sophisticated cross between a Mojito and a French 75.
+old_fashioned	Arguably the original cocktail, this is a timeless classic made by lightly sweetening a spirit (typically bourbon or rye) with sugar and seasoning it with bitters.
+old_hickory	A light, low-ABV classic named for President Andrew Jackson, featuring a simple and smooth combination of sweet and dry vermouths.
+old_pal	A classic Prohibition-era cocktail and a cousin to the Boulevardier, this is a spirit-forward drink that combines rye whiskey, Campari, and dry vermouth.
+painkiller	A rich and fruity modern tropical tiki drink from the British Virgin Islands, similar to a Piña Colada but with orange juice and nutmeg.
+paloma	A simple, classic, and incredibly refreshing Mexican highball that combines tequila with grapefruit soda and a squeeze of lime.
+pan_american_clipper	A bright-hued sour from the 1930s, this is a classic cocktail that features apple brandy, lime, grenadine, and a hint of absinthe.
+paper_plane	A modern classic and a variation on the Last Word, this is a perfectly balanced sour with equal parts bourbon, Aperol, Amaro Nonino, and lemon.
+passion_at_the_disco	A refreshing and vibrant non-alcoholic drink that combines the tropical flavor of passion fruit with the bright citrus of lime and tonic water.
+peach_sage_smash	A refreshing and flavorful modern smash that combines the sweetness of fresh peaches with the earthy, savory notes of sage.
+pegu_club	A classic gin-based sour from the Prohibition era with a touch of tropical flair, originally created at the Pegu Club in Burma.
+pendennis_club	A classic gin sour from Louisville, Kentucky, with a unique flavor profile thanks to the addition of Apricot Liqueur and Peychaud's bitters.
+penicillin	A modern classic from New York bartender Sam Ross, this is a Scotch-based sour that perfectly balances the flavors of smoky whisky, spicy ginger, and sweet honey.
+perfect_manhattan	A classic Manhattan variation that achieves a "perfect" balance by using equal parts of both sweet and dry vermouth.
+philly_fish_house_punch	A potent and historic classic American punch recipe that combines a rich blend of cognac, Jamaican rum, apple brandy, and peach liqueur.
+pimms_cup	A classic and quintessentially British highball, this is a refreshing drink featuring Pimm's No. 1, a gin-based liqueur, mixed with lemonade or ginger ale and fresh fruit.
+pina_colada	A classic sweet and refreshing tropical tiki cocktail made with rum, pineapple juice, and cream of coconut.
+pink_gin	A classic and simple naval cocktail, originally created by adding a few dashes of Angostura bitters to Plymouth gin.
+pink_lady	A classic Prohibition-era sour with a beautiful pink hue, featuring gin, apple brandy, and grenadine, with an egg white for a frothy texture.
+pink_pearl	A classic non-alcoholic cocktail from 1937 with a big, refreshing hit of grapefruit.
+pink_squirrel	A creamy, sweet after-dinner drink and Midwest classic, this cocktail gets its unique flavor and pink color from crème de noyaux.
+pisco_sour	The national drink of both Peru and Chile, this is an earthy and refreshing classic sour featuring pisco, lime, and a frothy egg white top.
+placebo	A non-alcoholic, tropical blend of pineapple juice, orange juice, cream of coconut, and spices, inspired by the Painkiller cocktail.
+plum_island	An original tiki cocktail featuring a unique combination of gold rum, Lillet Rouge, and a hint of absinthe.
+pomegranate_limeade	A refreshing and vibrant non-alcoholic drink that balances the sweet-tart flavors of pomegranate (from grenadine) and fresh lime.
+port_light	A unique tiki cocktail from the 1960s that deviates from the traditional rum base by using bourbon instead.
+pousse_cafe	A visually striking style of layered drink that requires a steady hand to create beautiful stripes of different liqueurs in a glass.
+pousse_cafe_shot	A simplified, three-layer shot version of the classic Pousse Café, featuring Bénédictine, Green Chartreuse, and Angostura bitters.
+preakness	A classic Manhattan variation named for the famous horse race, which gets an added layer of herbal complexity from Bénédictine.
+prescription_julep	A classic and complex julep from the mid-1800s that combines both rye whiskey and cognac with fresh mint.
+psycho_killer	An elegant and complex modern Irish whiskey cocktail from The Dead Rabbit, featuring Campari, white cacao, and banana liqueur.
+quarter_century	An original sparkling cocktail that combines the bittersweet notes of Campari and apricot liqueur with a hint of absinthe.
+queens_park_cocktail	A complex and flavorful Prohibition-era drink, also known as the Trinidadian Daiquiri.
+queens_park_swizzle	A classic and refreshing rum swizzle that originated at the Queen's Park Hotel in Trinidad.
+rabo_de_galo	A classic and simple Brazilian cocktail known for its bold flavors, combining cachaça with the bittersweet notes of Cynar.
+rattle_skull	A classic and potent cocktail from the 18th century, made with a formidable combination of rum, brandy, and porter beer.
+rbyc	A modern sour from the 1940s, this cocktail features a sophisticated blend of rum, falernum, and Cointreau.
+red_hook	A modern classic from 2003 that launched a wave of Manhattan variations, this drink features rye, Punt e Mes, and maraschino liqueur.
+remember_the_maine	A historic and complex Prohibition-era Manhattan variation that adds cherry liqueur and a dash of absinthe to a rye whiskey base.
+revolver	A modern classic from San Francisco, this is an exceptional coffee-laced riff on the Manhattan.
+rolls_royce	A sophisticated and elegant Prohibition-era Martini variation, featuring the addition of both sweet vermouth and Bénédictine.
+rum_buck	A classic and refreshing highball made with dark rum, citrus, and the spicy kick of ginger beer.
+rum_manhattan	A modern variation of the classic Manhattan cocktail that swaps out the traditional whiskey base for a flavorful rum.
+rum_tea_toddy	A comforting and classic hot toddy that combines the warmth of Jamaican rum with black tea.
+rusty_nail	A classic and simple two-part modern cocktail that combines the smoky notes of Scotch with the sweet and herbal character of Drambuie.
+sage_hen	A modern sour that showcases the unique savory and sweet flavors of fresh sage and honey.
+sailors_punch	A modern punch recipe featuring bourbon as its base spirit.
+sangria	A classic and festive Spanish punch, traditionally consisting of red wine, sherry, and chopped fruit, often with other spirits.
+satans_whiskers	A classic Prohibition-era cocktail with a devilishly delicious flavor profile, essentially a Perfect Martini with the addition of orange juice and Grand Marnier.
+saturn	An award-winning tiki classic from 1967 that uniquely uses gin as its base, flavored with passion fruit, falernum, and orgeat.
+sazarac	A classic and iconic New Orleans cocktail, traditionally made with rye or cognac, bitters, and sugar in a glass rinsed with absinthe.
+scofflaw	A creatively named Prohibition-era sour invented in Paris, which combines whiskey, dry vermouth, lemon juice, and grenadine.
+seasonal_affective_disorder	An original cocktail with a complex profile, combining demerara rum, cognac, and a hint of absinthe.
+see_no_evil	A smoky and spicy original sour cocktail featuring mezcal as its base.
+semester_abroad	An original cocktail that is a pretty and flavorful variation on the Cape Codder.
+sentimental_gent	A sophisticated and elegant modern cocktail that combines the warmth of blended Scotch with the herbal notes of Bénédictine and walnut liqueur.
+sereni-tea_now	A non-alcoholic drink featuring the flavors of pear, grenadine, lemon, and roasted Hojicha tea.
+shamrock	A classic cocktail from the early 20th century that combines Irish whiskey with the herbal flavors of Green Chartreuse and crème de menthe.
+shanghai_gin	A modern sour featuring a complex combination of gin, yellow Chartreuse, Bénédictine, and lemon.
+sharks_tooth	A classic tiki cocktail with a rum-forward profile, served straight up with cherry and maraschino liqueurs.
+sherry_cobbler	A classic and refreshing low-alcohol sipper from the 1800s, made with sherry, sugar, and citrus served over crushed ice.
+sherry_flip	A rich and creamy classic cocktail from the 1800s, made with sherry, a whole egg, and sugar.
+shoddy_toddy	An original hot toddy featuring a unique combination of gin and the herbal liqueur Bénédictine.
+shrunken_skull	A classic tiki cocktail similar to a Daiquiri, with a touch of mystery from its blend of rums and spice.
+sidecar	A classic and elegant sour from the early 20th century, combining the rich flavors of cognac, orange liqueur, and lemon juice.
+siesta	A modern classic from 2006, this is a bright and crisp sour similar to a Hemingway Daiquiri, but with tequila and a bitter Campari finish.
+singapore_sling	A classic and complex long drink from Singapore, developed in 1915, featuring a gin base with cherry liqueur and Bénédictine.
+sloe_gin_fizz	A classic fizz that highlights the tart and fruity character of sloe berries in a refreshing sour format.
+sloe_gin_martinez	A brilliant modern reconstruction of the Classic Martinez, featuring sloe gin and a touch of Campari.
+sloe_gin_sour	An original sour that blends the sweet and tart flavors of sloe gin with the classic sour template and a hint of Campari.
+smoked_maple_old_fashioned	A modern variation of the classic Old Fashioned that adds a smoky, sweet, and savory twist by using maple syrup and a smoke rinse.
+sno_problem	An original hot toddy featuring a unique blend of Jamaican rum, bourbon, and oat milk.
+southside	A simple and refreshing pre-Prohibition classic sour that combines gin, citrus, and fresh mint.
+soyer_au_champagne	A luxurious and elegant classic cocktail, often described as an adult ice cream float, combining cognac, liqueurs, Champagne, and vanilla ice cream.
+spa_water	A refreshing non-alcoholic drink that typically includes muddled cucumber, mint, simple syrup, and lime juice.
+spanish_coffee	A classic after-dinner drink, also known as a carajillo, made with coffee and a spirit—usually rum, brandy, or Licor 43.
+speak_no_evil	A spicy, smoky, and slightly sweet original cocktail that features mezcal as its base spirit.
+spoon_cocktail	The original "cock-tail" as defined in 1806, this is a simple, stimulating liquor composed of a spirit (rye), sugar, water, and bitters.
+spring_forward	A light and refreshing original cocktail perfect for warmer months, featuring a unique combination of pisco, gin, and Cocchi Americano.
+staggering_gentleman	A powerful modern cocktail that combines the rich flavors of bourbon with the herbal complexity of Bénédictine and walnut liqueur.
+star_cocktail	A classic cocktail from the 1870s, featuring apple brandy, sweet vermouth, and bitters.
+stinger	A classic high-society cocktail from the pre-Prohibition era, with a sweet sting from its simple two-part combination of cognac and crème de menthe.
+strawberry_basil_smash	A refreshing classic smash that combines the sweetness of fresh strawberries with the savory, herbaceous notes of basil.
+suffering_bastard	A classic "hair of the dog" buck from the 1940s, originally created as a hangover cure, uniquely featuring both gin and bourbon.
+sweet_virginia	A fruity modern Sweet Manhattan variation, eponymously named after the Rolling Stones' song.
+taquila_sunrise	A classic and visually stunning cocktail from the early 1970s, known for its layered "sunrise" effect created by floating grenadine in tequila and orange juice.
+tartan	A classic Scotch-based cocktail with warm, rich colors and complex flavors, reminiscent of the iconic Scottish fabric.
+tequila_sunrise	A classic and visually stunning cocktail from the early 1970s, known for its layered "sunrise" effect created by floating grenadine in tequila and orange juice.
+three_shades_of_green	An original modern cocktail with a complex herbal profile from gin and Green Chartreuse.
+tipperary	A modern favorite from The Dead Rabbit, this is a variation on the Bijou that uses Irish whiskey as its base.
+tom_and_jerry	A classic hot eggnog variation, served warm and featuring a rich batter made with separated eggs, rum, and brandy.
+tom_collins	A classic and straightforwardly refreshing Collins cocktail that combines Old Tom gin with lemon juice, sugar, and club soda.
+toreador	A classic cocktail that predates the Margarita, showcasing tequila in a balanced and approachable sour format with apricot liqueur.
+toronto_cocktail	A classic Prohibition-era cocktail that tempers the spice of rye whiskey with the intensely bitter and herbal notes of Fernet Branca.
+trader_vics_grog	A classic tiki grog from Trader Vic Bergeron, this is a reimagining of the Navy Grog with a distinct rum and citrus profile.
+tradewinds	A classic tiki cocktail that blends the tropical flavors of rum, apricot, coconut, and citrus.
+tradewinds_negroni	A modern Negroni variation that uses Angostura bitters as a key flavor component.
+trinidad_sour	A bold and unique modern sour that uses a full ounce of Angostura bitters as its base ingredient.
+vesper	A classic Martini variation invented by Ian Fleming for James Bond, featuring a potent combination of both gin and vodka with Cocchi Americano.
+vieux_carre	A classic and complex New Orleans cocktail from the 1930s, featuring a rich, spirit-forward blend of rye, cognac, and Bénédictine.
+ward_eight	A classic whiskey sour with a rich history from late 19th-century Boston, featuring rye whiskey and a touch of grenadine.
+wardroom	A modern cocktail with a naval theme, featuring a rich combination of port, cognac, and dark rum.
+wassail	A warm, spiced classic beverage with ancient roots, traditionally made with mulled cider or ale and often spiked with brandy and sherry.
+whiskey_daisy_3	A classic Daisy variation that uses whiskey as its base spirit, served with citrus and a sweetener.
+whiskey_smash	A classic and citrusy cousin to the Mint Julep, this is a refreshing smash made with bourbon, lemon, and mint.
+whiskey_sour	A timeless classic and cornerstone of drink-making, this sour perfectly balances the richness of whiskey with the tartness of lemon.
+white_lady	A classic Prohibition-era sour that pairs the botanicals of gin with orange liqueur, lemon juice, and a silky egg white.
+white_negroni	A popular and modern Negroni variation that swaps the red Campari and sweet vermouth for their lighter, floral counterparts: Suze and Lillet Blanc.
+white_russian	A classic and creamy modern after-dinner drink that combines vodka, coffee liqueur, and cream.
+white_sangria	A lighter and brighter classic version of sangria, made with white wine, sherry, fresh fruit, and a touch of sweetness.
+white_stallion	A bubbly and decadent modern ice cream drink inspired by classic Savoy cocktails, featuring gin, Grand Marnier, and Champagne.
+wi_old_fashioned	A unique regional variation of the Old Fashioned from Wisconsin, which uses brandy, muddled fruit, and is topped with either sweet or sour soda.
+wicked_word	An original flaming cocktail with a licorice-forward profile, similar to an Oaxacan Old Fashioned.
+widows_kiss	A potent and herbaceous classic cocktail that features a unique blend of apple brandy with Yellow Chartreuse and Bénédictine.
+yule_tidal_wave	A festive and complex original holiday tiki punch that combines multiple spirits with allspice, vanilla, lemon, and pineapple.
+zombie	A notoriously potent classic tiki cocktail from 1934, featuring a powerful and complex blend of multiple rums and spices.

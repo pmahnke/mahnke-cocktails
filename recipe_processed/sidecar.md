@@ -10,6 +10,7 @@ stars: 3
 base_spirits: Cognac
 youtube: "re76GCUoiH4"
 youtube_embed: "https://www.youtube.com/embed/re76GCUoiH4?si=EMdqje_4KECcUOJA"
+description: "A classic and elegant sour from the early 20th century, combining the rich flavors of cognac, orange liqueur, and lemon juice."
 excerpt: |
   The Sidecar is a classic cocktail that has been enjoyed for over a century. It's a simple yet elegant drink that combines the flavors of cognac, orange liqueur, and lemon juice.
 ---

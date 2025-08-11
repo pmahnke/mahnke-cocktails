@@ -9,6 +9,7 @@ iconfile: clover_club2
 stars: 0
 base_spirits: "Gin "
 youtube: "MkLZovhDN_k"
+description: "A pre-Prohibition classic from Philadelphia known for its silky, frothy texture and beautiful pink hue from raspberry syrup."
 excerpt: |
   This pre-Prohibition classic is one of Philadelphia’s contributions to the cocktail world. It is a classic cocktail known for its sweet and tart flavor profile and its silky, frothy texture. It's a member of the sour family, but leans more towards sweetness than tartness. The pale pink liquid, delicate white foam head, and raspberry garnish make it visually appealing.
 ---

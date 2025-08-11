@@ -9,6 +9,7 @@ iconfile: aperol_spritz
 stars: 0
 base_spirits: "Aperol, Prosecco"
 youtube: "BUb54paVf0s"
+description: "An iconic and refreshing Italian aperitif that combines the bittersweet notes of Aperol with the sparkle of prosecco and a splash of soda."
 excerpt: |
   The Aperol Spritz is one of the most popular aperitif cocktails in Italy and with just Aperol, prosecco and club soda, it’s as easy to make as it is to drink.
 ---

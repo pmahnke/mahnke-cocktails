@@ -9,6 +9,7 @@ iconfile: mint_julep
 stars: 4
 base_spirits: "Bourbon "
 youtube: "xfLW5Na9QpM"
+description: "The signature drink of the Kentucky Derby, this is a classic and refreshing cocktail made with bourbon, fresh mint, and sugar served over crushed ice."
 excerpt: |
   The Mint Julep is the signature drink of the Kentucky Derby. But this easy-to-make bourbon cocktail shouldn’t be reserved for only one day a year.
 ---

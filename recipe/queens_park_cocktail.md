@@ -9,6 +9,7 @@ iconfile: queens_park_cocktail
 stars: 3
 base_spirits: "Gold Rum "
 youtube: "ASTV1OEXhbE"
+description: "A complex and flavorful Prohibition-era drink, also known as the Trinidadian Daiquiri."
 excerpt: |
   The Queen's Park Hotel Super Cocktail, also known as the Trinidadian Daiquiri, is a complex and flavorful drink that blends the sweetness of grenadine and vermouth with the tartness of lime juice and the spiciness of Angostura Aromatic Bitters.
 ---

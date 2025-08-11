@@ -9,6 +9,7 @@ iconfile: junior
 stars: 3.5
 base_spirits: "Rye, Bénédictine"
 youtube: "_bDARIxZlcE"
+description: 'A classic Prohibition-era sour, also known as the "Quick Recovery," that pairs rye whiskey with the herbal sweetness of Bénédictine.'
 excerpt: |
   This drink appeared in a 1937 issue of Esquire magazine, and was recently rediscovered by David Wondrich. Jim Meehan includes it in his wonderful cocktail tome, The PDT Cocktail Book.
 ---

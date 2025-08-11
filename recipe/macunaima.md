@@ -9,6 +9,7 @@ iconfile: macunaima
 stars: 4
 base_spirits: "Cachaça, Fernet Branca"
 youtube: "xnXFbjQSu-k"
+description: "A modern Brazilian sour that features cachaça as its base, with the unique bitter complexity of Fernet Branca."
 excerpt: |
   Pronounced 'Ma-cu-nayma', this is adapted from a recipe created in 2014 by Arnaldo Hirai at his Boca de Ouro bar in São Paulo, Brazil. According to Arnaldo, his recipe started to take shape in 2014 and was almost called Caxirola, after the rattle created by Carlinhos Brown to be the official musical instrument for the World Cup in Brazil later that year.
 ---

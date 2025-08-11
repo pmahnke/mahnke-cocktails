@@ -9,6 +9,7 @@ iconfile: haunted_house
 stars: 0
 base_spirits: "Jamaican Rum, Rye, Swedish Punsch "
 youtube: "u0N9FFJ1i5c"
+description: "A modern cocktail with a complex profile, combining Jamaican rum, rye, and the unique spice of Swedish Punsch."
 excerpt: |
   The Haunted House cocktail is a spooky and delicious drink that's perfect for Halloween or any other spooky occasion. It's made with bourbon, apple cider, lemon juice, and a variety of spices, including cinnamon, nutmeg, and cloves. The drink is garnished with a cinnamon stick and a lemon wheel, making it both festive and festive.
 ---

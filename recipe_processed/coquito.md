@@ -9,6 +9,7 @@ iconfile: coquito
 stars: 4
 base_spirits: "Gold Rum"
 youtube: "SAeGIcLjMlk"
+description: "A creamy and rich classic Puerto Rican holiday punch combining rum, milk, coconut, and spices."
 excerpt: |
   Creamy, rich Coquito may be a classic Puerto Rican holiday drink, but don't let the seasons limit you—this combination of rum, milk, coconut, and spices tastes great any time of year.
 ---

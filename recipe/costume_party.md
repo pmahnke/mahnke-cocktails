@@ -9,6 +9,7 @@ iconfile: costume_party
 stars: 0
 base_spirits: "Vodka, White Crème de Cacao, Apricot Liqueur"
 youtube: "i67-17-CZCQ"
+description: "An original cocktail with a complex profile of vodka, white crème de cacao, and apricot liqueur."
 excerpt: |
   This is an Anders original cocktail.
 ---

@@ -9,6 +9,7 @@ iconfile: lucky_stone
 stars: 0
 base_spirits: "Irish Whiskey, Amontillado Sherry, Apricot Liqueur"
 youtube: "aRboP-f7LK0"
+description: "An original cocktail with a complex and balanced profile, combining Irish whiskey with the nutty notes of Amontillado sherry and sweet apricot."
 excerpt: |
   The Lucky Stone is a cocktail that combines the flavors of Irish whiskey, Amontillado sherry, apricot liqueur, and Peychaud's bitters. It is a complex and balanced drink with a sweet and nutty flavor profile.
 ---

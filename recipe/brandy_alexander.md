@@ -9,6 +9,7 @@ iconfile: brandy_alexander
 stars: 0
 base_spirits: "Cognac, Crème de Cacao"
 youtube: "5LEgIoddxY4"
+description: "A classic creamy after-dinner drink that combines cognac with the chocolate notes of crème de cacao and cream."
 excerpt: |
   The Brandy Alexander is a classic, combining cognac, crème de cacao and cream, it’s easy to make and even easier to drink.
 ---

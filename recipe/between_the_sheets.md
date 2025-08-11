@@ -9,6 +9,7 @@ iconfile: between_the_sheets
 stars: 4
 base_spirits: "Jamaican Rum, Demerara Rum, Campari"
 youtube: "VnuAR_wPOZA"
+description: "A provocatively named Prohibition-era cocktail that enhances the classic Sidecar formula with a dose of rum."
 excerpt: |
   This provocatively named Between the Sheets cocktail dates back to Prohibition and amps up the classic Sidecar formula with a dose of rum.
 ---

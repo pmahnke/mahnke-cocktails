@@ -9,6 +9,7 @@ iconfile: painkiller
 stars: 4
 base_spirits: "Demerara Rum, Jamaican Rum "
 youtube: "XYfHK3goJLk"
+description: "A rich and fruity modern tropical tiki drink from the British Virgin Islands, similar to a Piña Colada but with orange juice and nutmeg."
 excerpt: |
   The Painkiller is a rich and fruity tropical drink that is a specialty of the British Virgin Islands. A relative of the Piña Colada, there are a few key differences you need to know in order to make this drink right.
 ---

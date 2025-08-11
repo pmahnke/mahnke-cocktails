@@ -9,6 +9,7 @@ iconfile: ford
 stars: 3
 base_spirits: "Old Tom Gin, Bénédictine"
 youtube: "UJJqbCGHsOg"
+description: "A classic Martini-style cocktail from the late 19th century, sweetened with Old Tom gin and the herbal complexity of Bénédictine."
 excerpt: |
   The Ford cocktail is a classic gin-based cocktail that dates back to the late 19th century. It is a Martini-style cocktail sweetened by both the use of old tom gin and Bénédictine D.O.M. liqueur.
 ---

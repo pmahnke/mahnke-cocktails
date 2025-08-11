@@ -10,6 +10,7 @@ iconfile: freight_train_swizzle
 stars: 0
 base_spirits: "Jamaican Rum, Green Chartreuse"
 youtube: "cSPKyfVh3T4"
+description: "A bright and herbaceous modern swizzle that pairs funky Jamaican rum with the intense herbal notes of Green Chartreuse."
 excerpt: |
   A bright and herbaceous swizzle variant from legendary barman Sam Ross.
 ---

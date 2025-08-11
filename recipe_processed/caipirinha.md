@@ -9,6 +9,7 @@ iconfile: caipirinha
 stars: 4
 base_spirits: "Cachaça "
 youtube: "i1UHUyWerhg"
+description: "The national drink of Brazil, this is a classic and refreshing cocktail made by muddling fresh lime and sugar with cachaça."
 excerpt: |
   The Caipirinha is a classic Brazilian cocktail known for its refreshing and tangy flavor. It's made with a few simple ingredients: cachaça, lime, sugar, and ice.
 ---

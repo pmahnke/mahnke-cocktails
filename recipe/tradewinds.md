@@ -9,6 +9,7 @@ iconfile: tradewinds
 stars: 0
 base_spirits: "Dark Rum, Gold Rum, Apricot Liqueur"
 youtube: "RThEGH0sbgM"
+description: "A classic tiki cocktail that blends the tropical flavors of rum, apricot, coconut, and citrus."
 excerpt: |
   The Tradewinds is a classic tiki cocktail that blends the flavors of rum, apricot, coconut, and citrus.
 ---

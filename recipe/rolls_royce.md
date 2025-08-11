@@ -9,6 +9,7 @@ iconfile: rolls_royce
 stars: 0
 base_spirits: "Gin, Bénédictine"
 youtube: "UJJqbCGHsOg"
+description: "A sophisticated and elegant Prohibition-era Martini variation, featuring the addition of both sweet vermouth and Bénédictine."
 excerpt: |
   The Rolls Royce cocktail is a sophisticated and elegant drink, fitting for its luxurious namesake. It's a variation of the Martini, with the addition of sweet vermouth and Benedictine, which add complexity and depth to the classic gin and dry vermouth base.
 ---

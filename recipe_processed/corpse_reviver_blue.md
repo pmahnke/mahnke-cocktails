@@ -9,6 +9,7 @@ iconfile: corpse_reviver_blue
 stars: 0
 base_spirits: "Gin, Cocchi Americano"
 youtube: "rMCsrbidAJ4"
+description: "A modern, visually striking riff on the Corpse Reviver No. 2 that gets its color from blue curaçao."
 excerpt: |
   The Corpse Reviver No. Blue is a modern riff on the Corpse Reviver No. 2 cocktail that was originally consumed in the morning, but tastes delicious any time of the day.
 ---

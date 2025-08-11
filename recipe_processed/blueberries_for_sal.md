@@ -9,6 +9,7 @@ iconfile: blueberries_for_sal
 stars: 0
 base_spirits: "Blueberries, Ginger Beer, Lemon Juice"
 youtube: "s0nUq0Q9yUk"
+description: "A refreshing non-alcoholic drink combining the fruity sweetness of blueberries with the spice of ginger beer."
 excerpt: |
 ---
 

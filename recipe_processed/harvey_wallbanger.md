@@ -9,6 +9,7 @@ iconfile: harvey_wallbanger
 stars: 0
 base_spirits: "Vodka, Galliano"
 youtube: "YFqEvNdPrX8"
+description: "A modern classic that enhances a simple Screwdriver (vodka and orange juice) with a float of the Italian liqueur Galliano."
 excerpt: |
   The Harvey Wallbanger is a modern classic that combines a Screwdriver with the Italian liqueur Galliano.
 ---

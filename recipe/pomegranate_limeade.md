@@ -9,6 +9,7 @@ iconfile: pomegranate_limeade
 stars: 0
 base_spirits: "Grenadine, Sparkling Water, Lime"
 youtube: "YwHw259XAOU"
+description: "A refreshing and vibrant non-alcoholic drink that balances the sweet-tart flavors of pomegranate (from grenadine) and fresh lime."
 excerpt: |
   Pomegranate limeade is a refreshing and vibrant drink that balances the sweet-tart flavors of pomegranate and lime. It can be enjoyed on its own as a non-alcoholic beverage or used as a base for cocktails.
 ---

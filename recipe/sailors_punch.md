@@ -9,6 +9,7 @@ iconfile: sailors_punch
 stars: 0
 base_spirits: "Bourbon"
 youtube: ""
+description: "A modern punch recipe featuring bourbon as its base spirit."
 excerpt: |
   This punch was served at Latitude, a restaurant that has long since closed. It was my favorite drink they served. I was lucky enough to have found the recipe online.
 ---

@@ -9,6 +9,7 @@ iconfile: tom_collins
 stars: 0
 base_spirits: "Old Tom Gin "
 youtube: "DKkHTEozo7o"
+description: "A classic and straightforwardly refreshing Collins cocktail that combines Old Tom gin with lemon juice, sugar, and club soda."
 excerpt: |
   The classic Tom Collins is a straightforward and refreshing cocktail that combines gin with lemon juice, sugar and club soda.
 ---

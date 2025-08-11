@@ -9,6 +9,7 @@ iconfile: corpse_reviver_2
 stars: 5
 base_spirits: "Gin, Cocchi Americano"
 youtube: "bGxOcLRCBWk"
+description: "The most famous of the Corpse Revivers, this is a bright, pre-Prohibition sour featuring equal parts gin, Lillet Blanc, orange liqueur, and lemon, with an absinthe rinse."
 excerpt: |
   The Corpse Reviver No. 2 is a pre-Prohibition cocktail that was originally consumed in the morning, but tastes delicious any time of the day.
 ---

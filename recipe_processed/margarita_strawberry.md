@@ -9,6 +9,7 @@ iconfile: margarita_strawberry
 stars: 0
 base_spirits: "Reposado Tequila "
 youtube: "jxpT11WEtWQ"
+description: "A refreshing and fruity modern cocktail that blends the classic Margarita with the sweetness of fresh strawberries."
 excerpt: |
   A Strawberry Margarita is a refreshing and fruity cocktail that blends the classic Margarita with the sweetness of strawberries.
 ---

@@ -9,6 +9,7 @@ iconfile: black_rose
 stars: 2
 base_spirits: "Bourbon, Cognac"
 youtube: "YwHw259XAOU"
+description: "A classic cocktail that combines the rich flavors of bourbon and cognac with sweet grenadine and bitters."
 excerpt: |
   The Black Rose cocktail is a classic drink that combines the flavors of bourbon, cognac, grenadine, and bitters.
 ---

@@ -9,6 +9,7 @@ iconfile: pink_gin
 stars: 0
 base_spirits: "Plymouth Gin, Angostura Aromatic Bitters"
 youtube: "PLi_quAjz8g"
+description: "A classic and simple naval cocktail, originally created by adding a few dashes of Angostura bitters to Plymouth gin."
 excerpt: |
   Pink gin is widely thought to have been created by members of the Royal Navy. Plymouth gin is a 'sweet' gin, as opposed to London gin which is 'dry', and was added to Angostura Aromatic Bitters to make the consumption of Angostura Aromatic Bitters more enjoyable as they were used as a treatment for sea sickness in 1824 by Dr. Johann Gottlieb Benjamin Siegert.
   <br><br>

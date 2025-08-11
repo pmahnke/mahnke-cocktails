@@ -9,6 +9,7 @@ iconfile: elks_own
 stars: 5
 base_spirits: "Rye, Ruby Port "
 youtube: "zxDfN7UCTZs&t=34s"
+description: "A complex and flavorful classic sour that blends the warmth of rye whiskey with the sweetness of port wine, balanced by tart lemon."
 excerpt: |
   The Elk's Own is a classic cocktail with a rich history dating back to the 19th century. It's a complex and flavorful drink that blends the warmth of rye whiskey with the sweetness of port wine, balanced by tart lemon juice and a touch of sweetness from simple syrup. The addition of egg white creates a smooth, frothy texture.
 ---

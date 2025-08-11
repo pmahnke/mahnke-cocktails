@@ -9,6 +9,7 @@ iconfile: halekulani
 stars: 0
 base_spirits: "Bourbon, Rye"
 youtube: "uiegg1DsKQU"
+description: "A classic tropical cocktail from the Prohibition era that uniquely uses whiskey as its base instead of the more common rum."
 excerpt: |
   This drink gets lumped in with classic tiki cocktails because it's a tropical recipe from around the same era. There are a few key differences, though.The Halekulani calls for whiskey instead of rum, it's served up rather than over crushed ice, and it was created on an actual Polynesian island. But it is still dangerously easy to drink and will have you wishing you were on a tropical beach somewhere. 
 ---

@@ -9,6 +9,7 @@ iconfile: corpse_reviver_2a
 stars: 0
 base_spirits: "Gin, Swedish Punsch"
 youtube: "rMCsrbidAJ4"
+description: "A modern riff on the classic Corpse Reviver No. 2 that incorporates the unique spice of Swedish Punsch."
 excerpt: |
   The Corpse Reviver No. 2a is a riff on the Corpse Reviver No. 2 cocktail that was originally consumed in the morning, but tastes delicious any time of the day.
 ---

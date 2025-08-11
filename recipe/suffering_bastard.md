@@ -10,6 +10,7 @@ iconfile: suffering_bastard
 stars: 0
 base_spirits: "Gin, Cognac -OR- Bourbon"
 youtube: "oRQtYcyRKVI"
+description: 'A classic "hair of the dog" buck from the 1940s, originally created as a hangover cure, uniquely featuring both gin and bourbon.'
 excerpt: |
   The Suffering Bastard cocktail uses both bourbon and gin. Born in Cairo at the Shepheard's Hotel, it was originally concocted as a hangover cure for troops fighting in North Africa.
 ---

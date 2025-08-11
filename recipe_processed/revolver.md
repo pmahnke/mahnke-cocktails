@@ -9,6 +9,7 @@ iconfile: revolver
 stars: 0
 base_spirits: "Bourbon, Coffee Liqueur"
 youtube: "mFOZcQvZ6oY"
+description: "A modern classic from San Francisco, this is an exceptional coffee-laced riff on the Manhattan."
 excerpt: |
   A San Francisco original, and an exceptional coffee-laced riff on the Manhattan.
 ---

@@ -9,6 +9,7 @@ iconfile: yule_tidal_wave
 stars: 0
 base_spirits: "Rum, Bourbon, Cognac, Pear Brandy, Licor 43, Allspice Dram"
 youtube: "s30L-iu171E"
+description: "A festive and complex original holiday tiki punch that combines multiple spirits with allspice, vanilla, lemon, and pineapple."
 excerpt: |
   This holiday punch, which combines allspice and vanilla with the bright zing of lemon and pineapple.
 ---

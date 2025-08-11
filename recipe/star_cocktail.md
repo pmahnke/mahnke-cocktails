@@ -9,6 +9,7 @@ iconfile: star_cocktail
 stars: 3
 base_spirits: "Apple Brandy"
 youtube: "9OxlSOioD_k"
+description: "A classic cocktail from the 1870s, featuring apple brandy, sweet vermouth, and bitters."
 excerpt: |
   Said to have been created in the 1870s by a bartender at the legendary Manhattan Club, which once stood at the north corner of 34th Street and 5th Avenue, New York City. Our recipe is adapted from George J. Kappeler's 1895 <i>Modern American Drinks – How to Mix and Serve All Kinds of Cups and Drinks</i>. The "Star Cocktail (No. 2)" notably also appears in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i>.
 ---

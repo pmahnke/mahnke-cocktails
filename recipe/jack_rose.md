@@ -9,6 +9,7 @@ iconfile: jack_rose
 stars: 3.5
 base_spirits: "Apple Brandy "
 youtube: "7H7Cz53jDhc"
+description: "A classic Prohibition-era sour with a distinct pink hue, highlighting applejack, one of America's native spirits."
 excerpt: |
   The Jack Rose cocktail has a pretty pink hue that hides the strong punch of applejack, one of the USA’s native spirits.
 ---

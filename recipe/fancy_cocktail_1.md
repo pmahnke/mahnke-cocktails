@@ -9,6 +9,7 @@ iconfile: fancy_cocktail_1
 stars: 0
 base_spirits: "Rosolio, Reposado Tequila, Manzanilla Sherry "
 youtube: "AfbytyV2PdY"
+description: "An elegant, spirit-forward original cocktail that pairs the citrus and floral notes of Rosolio with reposado tequila and dry sherry."
 excerpt: |
   The Fancy Cocktail No. 1 is an Anders Erickson original, equal parts recipe pairing the citrus/floral notes in Italicus Rosolio di Bergamotto with a reposado tequila and a dry sherry. Each component supports the next, elevating this cocktail in perfect balance. It's an elegant, spirit forward sipper.
 ---

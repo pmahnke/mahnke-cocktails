@@ -9,6 +9,7 @@ iconfile: mai_tai
 stars: 4.5
 base_spirits: "Jamaican Rum, Rhum Agricole"
 youtube: "gYJsPE1demY"
+description: "A quintessential tiki classic that balances two types of rum with the flavors of orange curaçao, orgeat, and lime."
 excerpt: |
   It’s time you had a proper Mai Tai from Latitude 29 and Jeff “Beachbum” Berry, the renowned Tiki historian.
 ---

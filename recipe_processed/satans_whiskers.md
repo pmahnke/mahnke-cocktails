@@ -9,6 +9,7 @@ iconfile: satans_whiskers
 stars: 0
 base_spirits: "Gin "
 youtube: "T3GsJVVGCFs"
+description: "A classic Prohibition-era cocktail with a devilishly delicious flavor profile, essentially a Perfect Martini with the addition of orange juice and Grand Marnier."
 excerpt: |
   The Satan's Whiskers cocktail is a classic Prohibition-era drink with a devilishly delicious flavor profile.
 ---

@@ -10,6 +10,7 @@ permalink: "/recipe/tradewinds_negroni/"
 stars: 0
 base_spirits: "Angostura Aromatic Bitters"
 youtube: "Lp5ktjaNFKc"
+description: "A modern Negroni variation that uses Angostura bitters as a key flavor component."
 excerpt: |
   Adapted from a recipe created by Justin Elliott at The Townsend, Austin, Texas, USA.
 ---

@@ -9,6 +9,7 @@ iconfile: rusty_nail
 stars: 2
 base_spirits: "Scotch, Drambuie"
 youtube: "nTyrz70_OPA"
+description: "A classic and simple two-part modern cocktail that combines the smoky notes of Scotch with the sweet and herbal character of Drambuie."
 excerpt: |
   The Rusty Nail is a classic two-part cocktail that combines scotch and Drambuie.
 ---

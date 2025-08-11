@@ -9,6 +9,7 @@ iconfile: psycho_killer
 stars: 0
 base_spirits: "Irish Whiskey, Campari, White Crème de Cacao, Banane du Brésil"
 youtube: "u0N9FFJ1i5c"
+description: "An elegant and complex modern Irish whiskey cocktail from The Dead Rabbit, featuring Campari, white cacao, and banana liqueur."
 excerpt: |
   White cacao and banana liqueur balance the dry, bitter duo of cocoa nibs and Campari in this elegant Irish whiskey cocktail from The Dead Rabbit.
 ---

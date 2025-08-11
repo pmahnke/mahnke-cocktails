@@ -9,6 +9,7 @@ iconfile: murderers_cocktail
 stars: 4
 base_spirits: "Calvados, Jamaican Rum, Swedish Punsch"
 youtube: "i67-17-CZCQ"
+description: "An original cocktail with a complex profile, combining Calvados, Jamaican rum, and the unique spice of Swedish Punsch."
 excerpt: |
   This is an Anders original cocktail.
 ---

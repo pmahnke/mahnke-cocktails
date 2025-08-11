@@ -9,6 +9,7 @@ iconfile: gin_rickey
 stars: 0
 base_spirits: "Gin"
 youtube: "vOM5wbvegzo"
+description: "A classic and refreshingly tart highball from the late 19th century, featuring gin, fresh lime, and carbonated water with no added sugar."
 excerpt: |
   The Gin Rickey is one of the few classic cocktails that doesn’t have an origin muddled by history or shrouded in rumors and innuendo. The invention of this refreshing highball is refreshingly clear: It was named after Joe Rickey, a Democratic lobbyist living in Washington, D.C., during the late 19th century.<br><br>
 

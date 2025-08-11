@@ -10,6 +10,7 @@ iconfile: alamagoozlum
 stars: 3.5
 base_spirits: "Genever, Jamaican Rum, Yellow Chartreuse "
 youtube: "8H-IBvOX8EI"
+description: "A complex and uniquely named vintage punch combining genever, Jamaican rum, and Chartreuse."
 excerpt: |
   The Alamagoozlum is a vintage cocktail attributed to J.P. Morgan. It's a complex drink with a unique flavor profile, combining a variety of spirits and liqueurs.<br><br>
 

@@ -9,6 +9,7 @@ iconfile: semester_abroad
 stars: 0
 base_spirits: "Rye, Fernet Branca"
 youtube: "mBGgu3qRztY"
+description: "An original cocktail that is a pretty and flavorful variation on the Cape Codder."
 excerpt: |
   A pretty cocktail, variation on the Cape Codder.
 ---

@@ -10,6 +10,7 @@ iconfile: alton_browns_aged_eggnog
 stars: 0
 base_spirits: "Jamaican Rum, Cognac, Bourbon"
 youtube: "LINK"
+description: "A rich and complex holiday classic that blends Jamaican rum, cognac, and bourbon, designed to be aged for depth of flavor."
 excerpt: |
   For Alton Brown's aged eggnog recipe click <a href="https://altonbrown.com/recipe/aged-eggnog/" target="_blank">here</a>.<br><br>
   Although most Americans think of eggnog as something they get out of a milk carton during the two-week period leading up to December 25, eggnog actually descends from sack posset, a strong, thick English beverage built upon eggs, milk, and either a fortified wine (like Madeira) or ale.<br><br>

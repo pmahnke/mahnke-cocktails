@@ -9,6 +9,7 @@ iconfile: hemingway_daiquiri
 stars: 0
 base_spirits: "Light Rum, Maraschino Liqueur"
 youtube: "mILAxazthY4"
+description: "A classic Daiquiri variation created for Ernest Hemingway, featuring maraschino liqueur and grapefruit juice with no added sugar."
 excerpt: |
   The Hemingway Daiquiri cocktail takes its inspiration from Ernest Hemingway, who lived in Havana and enjoyed drinking sugarless Daiquiris.
 ---

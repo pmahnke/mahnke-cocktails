@@ -9,6 +9,7 @@ iconfile: sherry_flip
 stars: 0
 base_spirits: "Oloroso Sherry "
 youtube: "mBGgu3qRztY"
+description: "A rich and creamy classic cocktail from the 1800s, made with sherry, a whole egg, and sugar."
 excerpt: |
   The Sherry Flip is a classic cocktail that has been around since the 1800s. It is a rich and creamy drink that is perfect for sipping on a cold winter day. The cocktail is made with sherry, egg, sugar, and spices.
 ---

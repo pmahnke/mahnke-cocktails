@@ -9,6 +9,7 @@ iconfile: sloe_gin_fizz
 stars: 0
 base_spirits: "Sloe Gin "
 youtube: "gGlTXp_oujk"
+description: "A classic fizz that highlights the tart and fruity character of sloe berries in a refreshing sour format."
 excerpt: |
   The Sloe Gin Fizz cocktail is a classic for a reason. See how the tartness of sloe berries influence this tasty drink.
 ---

@@ -9,6 +9,7 @@ iconfile: perfect_manhattan
 stars: 0
 base_spirits: "Rye "
 youtube: "eWESf1b317Y&t=278s"
+description: 'A classic Manhattan variation that achieves a "perfect" balance by using equal parts of both sweet and dry vermouth.'
 excerpt: |
   The Manhattan, a classic cocktail, believed to have started around the 1860s or 1870s, with a rich history, is a sophisticated and timeless drink that has captivated cocktail enthusiasts for generations. The Perfect Manhattan uses equal parts of sweet and dry vermouth.
 ---

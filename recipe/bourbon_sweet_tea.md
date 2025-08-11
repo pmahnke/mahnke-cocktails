@@ -9,6 +9,7 @@ iconfile: bourbon_sweet_tea
 stars: 0
 base_spirits: "Bourbon, Light Amaro, Peach Liqueur "
 youtube: "1b4nHX4RjdY"
+description: "A boozy take on the iconic Southern Sweet Tea, perfect for porch sipping."
 excerpt: |
   You're all set for sitting on the porch, rocking your cares away with this boozy take on the iconic Sweet Tea.
 ---

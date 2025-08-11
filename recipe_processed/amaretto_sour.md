@@ -10,6 +10,7 @@ iconfile: amaretto_sour
 stars: 3.5
 base_spirits: "Amaretto, Apple Brandy"
 youtube: "_nIr7E-cMOs"
+description: "A modern sour that elevates the classic amaretto base with the structure of cask-strength bourbon and the texture of egg white."
 excerpt: |
   The cocktail was introduced to the public in 1974, devised by the importer of Amaretto di Saronno as a simple mix of two parts amaretto liqueur to one part lemon juice. It became a popular cocktail in the 1980s; most bartenders at the time substituted commercial sour mix for the lemon juice. The drink was popular as a one-dimensional easy-drinking cocktail, flavored mostly by the base spirit used.<br/ ><br>
 

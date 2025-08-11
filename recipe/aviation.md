@@ -10,6 +10,7 @@ iconfile: aviation
 stars: 4
 base_spirits: "Gin, Crème de Violette "
 youtube: "Kmw5D32W8sM&t=345sY"
+description: "A classic gin sour from the early 20th century, celebrated for its floral notes and sky-blue hue from crème de violette."
 excerpt: |
   The aviation was created by Hugo Ensslin, head bartender at the Hotel Wallick in New York, in the early twentieth century. The first published recipe appeared in Ensslin's 1916 <em>Recipes for Mixed Drinks</em>. Ensslin's recipe called for two thirds El Bart gin, one third lemon juice, 2 dashes maraschino liqueur, and 2 dashes crème de violette.<br><br>
 

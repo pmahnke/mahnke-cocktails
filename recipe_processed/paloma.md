@@ -9,6 +9,7 @@ iconfile: paloma
 stars: 0
 base_spirits: "Blanco Tequila"
 youtube: "yyVU7U-8WLc"
+description: "A simple, classic, and incredibly refreshing Mexican highball that combines tequila with grapefruit soda and a squeeze of lime."
 excerpt: |
   Paloma is Spanish for 'dove'. Its origins are unknown although it is reputed to date back to the 1950s. Some attribute its creation to the legendary Don Javier Delgado Corona, the former owner/bartender of La Capilla (The Chapel) in Tequila, Mexico, who created the Batanga.									
 ---
