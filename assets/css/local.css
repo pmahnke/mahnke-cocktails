@@ -313,7 +313,7 @@ div.subrecipe {
 
 
   /* Style for the card container */
-  .recipe_card {
+.recipe_card {
     display: flex; /* Use flexbox for easy alignment */
     justify-content: space-between; /* Pushes text left and image right */
     align-items: center; /* Vertically aligns content in the middle */
