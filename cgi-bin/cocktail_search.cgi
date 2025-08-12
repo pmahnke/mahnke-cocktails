@@ -129,9 +129,10 @@ sub prepareResults {
         $cat =~ s/\"//g;
         $Y{'cat'} = $cat if ($cat);
 
-       	$exc = `ag --nonumbers -A 1 excerpt: $file`;
-	$exc =~ s/excerpt://;
-	$exc =~ s/ \|\n//;
+       	$exc = `ag --nonumbers -A 0 description: $file`;
+	$exc =~ s/description://;
+	substr($exc, 0, 2) = ""; # Remove the first character
+	substr($exc, -2) = "";  
 	$Y{'excerpt'} = $exc if ($exc);
 
         $permalink = `ag --nonumbers -A 0 permalink: $file`;
@@ -189,7 +190,7 @@ sub prepareResults {
 	   <td class="home_spirits">$Y{'cat'}</td>
 	   <td class="home_stars">$stars</td>
 	 </tr>
-	 <tr style="border-bottom: 1px solid #E1E1E1;">
+	 <tr>
 	   <td colspan="2">$Y{'excerpt'}</td>
          </tr>
 	|;

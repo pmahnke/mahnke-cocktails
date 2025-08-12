@@ -16,8 +16,8 @@
     <meta name="twitter:title" content="{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {% endif %}{{ site.title | escape }}" >
     <meta property="og:title" content="{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {% endif %}{{ site.title | escape }}" >
     <meta name="keywords" content="cocktail, cocktail recipe, {{ page.keywords | join: ', ' | escape }}, {{ page.base_spirits | join: ', ' | escape }}, {{ page.style | join: ', ' | escape }}">
-    <meta name="description" content="{{ page.excerpt | strip_html | replace: '"', "'" | truncatewords: 150 }}">
-    <meta property="og:description" content="{{ page.excerpt | strip_html | replace: '"', "'" | truncatewords: 150 }}">
+    <meta name="description" content="{{ page.description | strip_html | replace: '"', "'" | truncatewords: 150 }}">
+    <meta property="og:description" content="{{ page.description | strip_html | replace: '"', "'" | truncatewords: 150 }}">
     <link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/images/favicon.png">
     <link rel="shortcut icon" href="{{ site.baseurl }}/assets/images/favicon.png">
 
