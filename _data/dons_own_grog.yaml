@@ -1,0 +1,22 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-blackberry.svg
+      title: Blackberry
+    - url: /assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican rum
+  tool:
+    - url: /assets/images/tool_grater.svg
+      title: Grater
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/fruit_blackberries.svg
+      title: Blackberries
+    - url: /assets/images/slice_pineapple.svg
+      title: Pineapple slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes
