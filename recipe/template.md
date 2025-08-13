@@ -37,6 +37,7 @@ iconfile: NAME
 stars: 0
 base_spirits: "SPIRIT, SPIRIT"
 youtube: "LINK"
+description: "from_gemini?"
 excerpt: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   <br><br>
