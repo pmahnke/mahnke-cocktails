@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Forced Retirement"
-categories: [campari, highball]
+categories: [campari, sour]
 eras: [anders]
 permalink: "/recipe/forced_retirement/"
 iconfile: forced_retirement

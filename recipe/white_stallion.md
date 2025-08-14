@@ -7,7 +7,7 @@ categories: [after_dinner, ice_cream]
 permalink: "/recipe/white_stallion/"
 iconfile: white_stallion
 stars: 0
-base_spirits: "Plymouth Gin, Grand Marnier, Champagne "
+base_spirits: "Plymouth Gin, Curaçao, Champagne "
 youtube: "E1TfYiFrnXk"
 description: "A bubbly and decadent modern ice cream drink inspired by classic Savoy cocktails, featuring gin, Grand Marnier, and Champagne."
 excerpt: |
@@ -19,7 +19,7 @@ excerpt: |
 |   Amount | Ingredient        | Brand           |
 | -------: | ----------------- | --------------- |
 |  0.75 oz | Gin               | Plymouth        |
-|  0.25 oz | Orange Liqueur    | Grand Marnier   |
+|  0.25 oz | Curaçao           | Grand Marnier   |
 |   1.5 oz | Champagne         | Taittinger Brut |
 | 30 grams | Vanilla Ice Cream |
 

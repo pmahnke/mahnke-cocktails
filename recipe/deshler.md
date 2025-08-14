@@ -24,7 +24,7 @@ excerpt: |
 | -------: | -------------- | --------------- |
 |  0.75 oz | Rye            | Wild Turkey 101 |
 |  0.75 oz | Dubonnet Rouge | Dubonnet Rouge  |
-| 2 dashes | Orange Liqueur | Cointreau       |
+| 2 dashes | Triple Sec     | Cointreau       |
 | 2 dashes | Bitters        | Peychaud's      |
 |  1 swath | Lemon Skin     |
 | 2 swaths | Orange Skin    |
@@ -48,7 +48,7 @@ excerpt: |
 | -------: | -------------- | --------------- |
 |     2 oz | Rye            | Wild Turkey 101 |
 |     1 oz | Dubonnet Rouge | Dubonnet Rouge  |
-|  0.25 oz | Orange Liqueur | Cointreau       |
+|  0.25 oz | Triple Sec     | Cointreau       |
 | 2 dashes | Bitters        | Peychaud's      |
 |  1 swath | Lemon Skin     |
 |  1 swath | Orange Skin    |
@@ -72,7 +72,7 @@ excerpt: |
 | -------: | -------------- | -------------------- |
 |     2 oz | Bourbon        | Old Grand-Dad Bonded |
 |     1 oz | Lillet Rouge   | Lillet Rouge         |
-|   0.5 oz | Orange Curaçao | Pierre Ferrand       |
+|   0.5 oz | Dry Curaçao | Pierre Ferrand       |
 | 2 dashes | Bitters        | Peychaud's           |
 |  1 swath | Lemon Skin     |
 |  1 swath | Orange Skin    |

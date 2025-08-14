@@ -7,7 +7,7 @@ categories: [after_dinner, ice_cream]
 permalink: "/recipe/white_stallion/"
 iconfile: white_stallion
 stars: 0
-base_spirits: "Plymouth Gin, Grand Marnier, Champagne "
+base_spirits: "Plymouth Gin, Curaçao, Champagne "
 youtube: "E1TfYiFrnXk"
 description: "A bubbly and decadent modern ice cream drink inspired by classic Savoy cocktails, featuring gin, Grand Marnier, and Champagne."
 excerpt: |
@@ -19,7 +19,7 @@ excerpt: |
 |   Amount | Ingredient        | Brand           |
 | -------: | ----------------- | --------------- |
 |  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Gin               | Plymouth        |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Orange Liqueur    | Grand Marnier   |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Curaçao           | Grand Marnier   |
 |   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Champagne         | Taittinger Brut |
 | <span class="onex active">30 grams </span> <span class="onehalfx">45 grams </span> <span class="twox">60 grams </span> <span class="threex">90 grams </span>| Vanilla Ice Cream |
 
@@ -44,7 +44,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Gin",
-  " 0.25 oz Orange Liqueur ",
+  " 0.25 oz Curaçao",
   "1.5 oz Champagne",
   "30 grams Vanilla Ice Cream"
     ],
