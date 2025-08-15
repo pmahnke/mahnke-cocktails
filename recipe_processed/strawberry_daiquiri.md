@@ -9,7 +9,7 @@ iconfile: "strawberry_daiquiri"
 stars: 0
 base_spirits: "Gold Rum, Banana Liqueur"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/1885/strawberry-daiquiri-frozen"
-description: "A frozen strawberry daiquiri is a vibrant, ruby-red cocktail, blended to a slushy consistency and characterized by the sweet, ripe flavor of strawberries balanced with a hint of tart lime and a kick of rum."
+description: "A vibrant, ruby-red cocktail, blended to a slushy consistency and characterized by the sweet, ripe flavor of strawberries."
 excerpt: |
   A frozen strawberry daiquiri is a vibrant, ruby-red cocktail, blended to a slushy consistency and characterized by the sweet, ripe flavor of strawberries balanced with a hint of tart lime and a kick of rum.
 ---
