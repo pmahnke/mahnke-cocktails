@@ -117,3 +117,7 @@
   slug: syrup
   url: /assets/images/ingredient-simple-syrup.svg
   description: Cocktail syrups and mixers are essential ingredients for creating delicious cocktails at home. They add flavor, sweetness, and complexity to drinks, making them more enjoyable.
+- name: Frozen
+  slug: frozen
+  url: /assets/images/category_frozen.svg
+  description: Frozen cocktails are a delightful way to enjoy a cool, refreshing drink, especially on a hot day.
