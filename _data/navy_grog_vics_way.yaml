@@ -1,0 +1,14 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Demerara rum
+    - url: /assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican rum
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/herb_mint.svg
+      title: Mint

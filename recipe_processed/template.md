@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson, Leandro DiMonriva
+author: Anders Erickson, Leandro DiMonriva, Cara Devine
 title: "NAME"
 categories:
   [
@@ -18,6 +18,7 @@ categories:
     fizz,
     flip,
     frappe_swizzle,
+    frozen,
     grog,
     highball,
     ice_cream,
@@ -53,7 +54,7 @@ excerpt: |
 
 ### Notes
 
-- Method: Shaken/Stirred/Build in the Glass
+- Method: Shaken/Stirred/Build in the Glass/Blended
 - Pour: Double Strain/Julep Strain/Open Pour/Add all ingredients directly to the glass
 - Glassware: Low Ball/High Ball/Champagne Flute/Coupe/Nick & Nora/Tiki/Martini
   - GLASS
@@ -82,7 +83,7 @@ excerpt: |
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken/Stirred/Build in the Glass"
+      "text": "- Method: Shaken/Stirred/Build in the Glass/Blended"
     },
     {
       "@type": "HowToStep",
