@@ -1,11 +1,4 @@
-{%- assign average = page.stars -%}
-{%- assign int_version = average | round -%}
-{%- assign float_version = average | plus: 0 -%}
-
-{%- comment-%}mobile verion: 4*{%- endcomment -%}
-{%- if int_version == 0 -%}{%- elsif float_version == int_version -%}<span class="home-rating-text">{{ int_version }}<img src="/assets/images/star_full.svg" class="home-star" alt=""></span>{%- else -%}<span class="home-rating-text">{{ float_version }}<img src="/assets/images/star_full.svg" class="home-star" alt=""></span>{%- endif -%}
-
-{%- comment -%}large verion: ****{%- endcomment -%}
-<span class="home_list_stars">{%- assign whole = average | floor -%}{%- assign half = average | modulo: 1 -%}{%- assign counter = 0 -%}{%- for i in (0..4) -%}{%- if counter < whole -%}<img src="/assets/images/star_full.svg" class="home-star" alt="">{%- elsif counter == whole and half >= 0.5 -%}<img src="/assets/images/star_half.svg" class="home-star" alt="">{%- else -%}<img src="/assets/images/star_empty.svg" class="home-star" alt="">{%- endif -%}{%- assign counter = counter | plus: 1 -%}{%- endfor -%}</span>
-
-
+{% if page.stars and page.stars > 0 %}
+  <span class="mobile-rating mobile-rating-small">{{ page.stars }} ★</span>
+{% endif %}
+  <div class="stars stars-small" style="--rating: {{ page.stars }};" aria-label="Rating: {{ page.stars }} out of 5 stars"></div>

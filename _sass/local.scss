@@ -148,17 +148,6 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
 .home_spirits  {
     width: 40%;
 }
-.home_stars  {
-    vertical-align: middle;
-    text-align: center;
-    width: 25%;
-}
-.non-home-star {
-    width: 12px;
-}
-.non_home_list_stars {
-    display: none;
-}
 .home_list li::before {
     content: unset;
 }
@@ -180,17 +169,6 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     padding: .25rem 0;
 }
   
-.home_list_stars {
-    display: none;
-}
-.home-star {
-    width: 12px;
-}
-.home-rating-text {
-    display: unset;
-    font-size: .75em;
-}
-
 /* CSS for rotating right */
 .rotate-right {
   transform: rotate(40deg);
@@ -257,34 +235,10 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
         font-size: 24px;
         font-weight: 275;
     }
-    .home_list_stars {
-        display: unset;
-        margin-left: auto; /* Pushes stars to the right */
-    }
-    .non_home_list_stars {
-        display: unset;
-    }
-    .home-rating-text {
-        display: none;
-    }  
-
 }
 
 /* Larger than phablet */
 @media (min-width: 900px) {
-    .home_list_stars {
-        display: unset;
-        margin-left: auto; /* Pushes stars to the right */
-    }
-    .home-star {
-        width: 18px;
-    }
-    .home-rating-text {
-        display: none;
-    }
-    .non-home-star {
-        width: 24px;
-    }
     .category_icon_small {
         display: inline;
         width: 8rem;
@@ -339,3 +293,81 @@ div.subrecipe {
   .rotate-right {
     transform: rotate(20deg);
   }
+
+
+
+  /* new stars with css */
+/* ==========================================================================
+   Star Rating Styles (Mobile First)
+   ========================================================================== */
+
+/* --- Default (Mobile) Styles --- */
+/* The full 5-star display is HIDDEN on mobile by default */
+.stars {
+  display: none;
+}
+
+/* The compact numerical display is VISIBLE on mobile by default */
+.mobile-rating {
+  display: inline-block;
+  font-size: 1.5rem; /* Default size for recipe pages */
+  color: #fcc200;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
+/* Modifier for a smaller version on the homepage */
+.mobile-rating.mobile-rating-small {
+  font-size: 0.85rem;
+}
+
+
+/* --- Widescreen Styles (600px and wider) --- */
+@media (min-width: 600px) {
+
+  /* HIDE the mobile version on larger screens */
+  .mobile-rating {
+    display: none;
+  }
+
+  /* SHOW the 5-star version on larger screens */
+  .stars {
+    /* Base styles for the 5-star display */
+    text-align: right;
+    display: inline-block;
+    --star-size: 3rem; /* Default size for recipe pages */
+    --star-color: #e1e1e1;
+    --star-background: #ffc107;
+    --star-spacing: 3px;
+    font-family: Times, 'Times New Roman', serif;
+    line-height: 1;
+    position: relative;
+  }
+
+  .stars::before {
+    content: '★★★★★';
+    letter-spacing: var(--star-spacing);
+    background: linear-gradient(90deg, 
+      var(--star-background) calc(var(--rating) / 5 * 100%), 
+      transparent calc(var(--rating) / 5 * 100%)
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .stars::after {
+      content: '★★★★★';
+      letter-spacing: var(--star-spacing);
+      color: var(--star-color);
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: -1;
+  }
+  
+  /* Modifier for smaller 5-star display on the homepage */
+  .stars.stars-small {
+    --star-size: 0.5rem;
+    --star-spacing: -3px;
+  }
+}
