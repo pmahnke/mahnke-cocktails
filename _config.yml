@@ -26,10 +26,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thebarspoon.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-#theme: minima
+sass:
+  sass_dir: _sass
+  style: :compressed
+
 plugins:
   - jekyll-feed
-# posts_dir: _posts
+
 
 # pretty links /about not about.html
 permalink: pretty
@@ -37,21 +40,6 @@ permalink: pretty
 # Build settings
 markdown: kramdown
 
-#collections:
-#  style:
-#    output: true
-#    permalink: /:style/:title/
-
-#collections:
-#  recipe:
-#    output: true # Set to true if you want each recipe to generate its own page
-#    permalink: /{{ collection }}/:name/ # Optional: Custom permalink structure
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
