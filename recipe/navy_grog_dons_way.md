@@ -10,7 +10,7 @@ iconfile: navy_grog_dons_way
 stars: 0
 base_spirits: "Demerara Rum, Jamaican Rum, White Rum"
 youtube: "I3jeItKyZCs"
-description: "Don the Beachcomber's Navy Grog is a classic Tiki cocktail created in the 1940s. It's a rum-based drink that typically uses a blend of three different types of rum—dark Jamaican, gold Demerara, and white rum—along with fresh lime juice, white grapefruit juice, and honey syrup."
+description: "Classic Tiki cocktail created in the 1940s. It's a rum-based drink that typically uses a blend of three different types of rum."
 excerpt: |
   Don the Beachcomber's Navy Grog is a classic Tiki cocktail created in 1941 by the legendary bartender Donn Beach. It is a powerful drink that typically contains a blend of three rums: dark Jamaican, gold Demerara, and white Cuban or Puerto Rican rum. The rums are mixed with fresh lime juice, white grapefruit juice, and honey syrup. Unlike other famous Tiki drinks, it does not use complex flavored syrups like orgeat or falernum.
   <br><br>
