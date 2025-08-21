@@ -261,29 +261,5 @@ ENDOFHTML
 
     binmode STDOUT, ":utf8";
     print "Content-type: text/html\n\n$out\n";
-    exit;
-    
-}
-
-
-sub prepStars {
-
-    my $s = $_[0];
-    my $w = int($s);
-    my $h = $s % 1;
-    my $out = "";
-    
-    for (my $i = 1; $i <= 5; $i++) {
-
-	if ($i < $w) {
-	    $out .= qq |<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#fcc200"><g><rect fill="none" height="24" width="24" x="0"/><polygon points="14.43,10 12,2 9.57,10 2,10 8.18,14.41 5.83,22 12,17.31 18.18,22 15.83,14.41 22,10"/></g></svg>|;
-	} elsif ($i == $w && $h == 0.5 ) {
-	    $out .= qq |<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#fcc200"><path d="M480-644v236l96 74-36-122 90-64H518l-38-124ZM233-120l93-304L80-600h304l96-320 96 320h304L634-424l93 304-247-188-247 188Z"/></svg>|;
-	} else {
-	    $out .= qq |<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#999999"><path d="m384-334 96-74 96 74-36-122 90-64H518l-38-124-38 124H330l90 64-36 122ZM233-120l93-304L80-600h304l96-320 96 320h304L634-424l93 304-247-188-247 188Zm247-369Z"/></svg>|;
-	}
-	
-    }
-    return($out);
-
+    exit;    
 }
