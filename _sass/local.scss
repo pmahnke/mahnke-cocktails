@@ -296,56 +296,48 @@ div.subrecipe {
 
 
 
-  /* new stars with css */
+
 /* ==========================================================================
-   Star Rating Styles (Mobile First)
+   Final Unified Star Rating (with Size Modifier)
    ========================================================================== */
 
-/* --- Default (Mobile) Styles --- */
-/* The full 5-star display is HIDDEN on mobile by default */
-.stars {
-  display: none;
-}
-
-/* The compact numerical display is VISIBLE on mobile by default */
-.mobile-rating {
+.star-rating {
+  /* --- You can customize these variables --- */
+  --rating: 0;
+  --star-size-mobile: 1.1rem;      /* Default mobile size */
+  --star-size-desktop: 3rem;     /* Default desktop size */
+  --star-color: #e1e1e1;           /* Empty star color */
+  --star-background: #ffc107;     /* Filled star color */
+  --star-spacing: 3px;
+  
+  /* --- Mobile Styles (Default) --- */
   display: inline-block;
-  font-size: 1.5rem; /* Default size for recipe pages */
-  color: #fcc200;
+  position: relative;
+  font-size: var(--star-size-mobile);
   font-weight: bold;
+  color: var(--star-background);
   white-space: nowrap;
 }
 
-/* Modifier for a smaller version on the homepage */
-.mobile-rating.mobile-rating-small {
-  font-size: 0.85rem;
+/* Hide the pseudo-elements on mobile by default */
+.star-rating::before, .star-rating::after {
+  content: '';
 }
 
-
-/* --- Widescreen Styles (600px and wider) --- */
+/* --- DESKTOP STYLES (600px and wider) --- */
 @media (min-width: 600px) {
 
-  /* HIDE the mobile version on larger screens */
-  .mobile-rating {
-    display: none;
+  /* Hide the real text content (the number) by setting its font size to 0 */
+  .star-rating {
+    font-size: 0;
+    float: right;
+    margin-right: 1rem;
   }
 
-  /* SHOW the 5-star version on larger screens */
-  .stars {
-    /* Base styles for the 5-star display */
-    text-align: right;
-    display: inline-block;
-    --star-size: 3rem; /* Default size for recipe pages */
-    --star-color: #e1e1e1;
-    --star-background: #ffc107;
-    --star-spacing: 3px;
-    font-family: Times, 'Times New Roman', serif;
-    line-height: 1;
-    position: relative;
-  }
-
-  .stars::before {
+  /* Create the visual 5-star display using the pseudo-elements */
+  .star-rating::before {
     content: '★★★★★';
+    font-size: var(--star-size-desktop); /* Reset the font size for the stars */
     letter-spacing: var(--star-spacing);
     background: linear-gradient(90deg, 
       var(--star-background) calc(var(--rating) / 5 * 100%), 
@@ -355,19 +347,22 @@ div.subrecipe {
     -webkit-text-fill-color: transparent;
   }
 
-  .stars::after {
-      content: '★★★★★';
-      letter-spacing: var(--star-spacing);
-      color: var(--star-color);
-      position: absolute;
-      top: 0;
-      left: 0;
-      z-index: -1;
+  .star-rating::after {
+    content: '★★★★★';
+    font-size: var(--star-size-desktop); /* Reset the font size for the stars */
+    letter-spacing: var(--star-spacing);
+    color: var(--star-color);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
   }
-  
-  /* Modifier for smaller 5-star display on the homepage */
-  .stars.stars-small {
-    --star-size: 0.5rem;
-    --star-spacing: -3px;
-  }
+}
+
+/* --- MODIFIER CLASS FOR SMALLER STARS --- */
+/* This rule overrides the size variables when the .star-rating--small class is present */
+.star-rating.star-rating--small {
+    --star-size-mobile: 1.25rem;  /* Smaller size for homepage mobile */
+    --star-size-desktop: 1.75rem;   /* Smaller size for homepage desktop */
+    --star-spacing: 0px;
 }

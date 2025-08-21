@@ -1,4 +1,5 @@
-{% if page.stars and page.stars > 0 %}
-  <span class="mobile-rating">{{ page.stars }} ★</span>
+{% if page.stars %}
+  <div class="star-rating" style="--rating: {{ page.stars | default: 0 }};" aria-label="Rating: {{ page.stars | default: 0 }} out of 5 stars">
+    {% if page.stars > 0 %}{{ page.stars }} ★{% endif %}
+  </div>
 {% endif %}
-  <div class="stars" style="--rating: {{ page.stars }};" aria-label="Rating: {{ page.stars }} out of 5 stars"></div>
