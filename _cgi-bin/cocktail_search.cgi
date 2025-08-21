@@ -124,8 +124,9 @@ sub prepareResults {
         $stars =~ s/\"//g;
         $Y{'stars'} = $stars if ($stars);
 
-	$cat = `ag --nonumbers -A 0 category: $file`;
-        $cat =~ s/category://;
+	$cat = `ag --nonumbers -A 0 categories: $file`;
+        $cat =~ s/categories://;
+	$cat =~ s/(\[|\])//g;
         $cat =~ s/\"//g;
         $Y{'cat'} = $cat if ($cat);
 
