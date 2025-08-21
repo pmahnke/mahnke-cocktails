@@ -179,16 +179,19 @@ sub prepareResults {
 	    }
 	}
 	
-    	# prepare the output
-    	$Y{'title'} =~ s/"//g; # clean-up title
-	my $stars = &prepStars($Y{'stars'});
-    	my ($date, $time) = split (" ", $Y{'date'}); # get date from datetime
+	# prepare the output
+  	$Y{'title'} =~ s/"//g; # clean-up title
+	my $stars = 0;
+    $stars = $Y{'stars'} if ($Y{'stars'});
+    my $stars_text = "";
+    $stars_text = $stars . " ★" if ($stars);
+   	my ($date, $time) = split (" ", $Y{'date'}); # get date from datetime
 
 	$result .= qq |
          <tr class="home_table">
      	   <th class="home_title""><a href="$site$Y{'permalink'}">$Y{'title'}</a></th>
 	   <td class="home_spirits">$Y{'cat'}</td>
-	   <td class="home_stars">$stars</td>
+	   <td class="home_stars"><div class="star-rating" style="--rating: $stars;" aria-label="Rating: $stars out of 5 stars">$stars_text</div></td>
 	 </tr>
 	 <tr>
 	   <td colspan="2">$Y{'excerpt'}</td>
