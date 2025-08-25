@@ -1,11 +1,11 @@
 ---
 layout: recipe
 author: Anders Erickson
-title: "Best Doctor's Cocktail"
+title: "Doctor Cocktail"
 categories: [cocktail]
 eras: [classic]
-permalink: "/recipe/best_drs_cocktail/"
-iconfile: best_drs_cocktail
+permalink: "/recipe/doctor_cocktail/"
+iconfile: doctor_cocktail
 stars: 4
 base_spirits: "Jamaican Rum, Swedish Punsch"
 youtube: "re76GCUoiH4&t=140s"
