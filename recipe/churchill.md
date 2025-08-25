@@ -17,12 +17,12 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient | Brand |
-| -----: | ---------- | ----- |
-|    1.5 oz| Blended Scotch|
-|0.5 oz|Triple Sec| Cointreau|
-|0.5 oz| Sweet Vermouth|
-|0.5 oz | Fresh Lime Juice|
+| Amount | Ingredient         | Brand                     |
+| -----: | ------------------ | ------------------------- |
+| 1.5 oz | Blended Scotch   |
+| 0.5 oz | Triple Sec       | Cointreau |
+| 0.5 oz | Sweet Vermouth   |
+| 0.5 oz | Fresh Lime Juice |
 
 ### Notes
 

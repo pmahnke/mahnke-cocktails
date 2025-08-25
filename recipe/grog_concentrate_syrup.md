@@ -7,6 +7,7 @@ iconfile: grog_concentrate_syrup
 stars: 5
 base_spirits: "Coca-Cola, Allspice, Sugar"
 youtube: "I3jeItKyZCs"
+description: "A non-alcoholic, spiced syrup primarily used in Tiki cocktails."
 excerpt: |
   Grog Concentrate is a non-alcoholic, spiced syrup primarily used in Tiki cocktails. Its flavor profile is complex, often featuring notes of allspice, cinnamon, and other spices, and it's most famously used in the Trader Vic's version of the Navy Grog. It provides a quick way to add a signature spiced flavor to cocktails without needing to create multiple syrups from scratch.
 ---

@@ -47,7 +47,7 @@ sub post_receive {
 sub copy_other_files {
 
     # index files
-    my $dir = "/home/cocktails/src/mahnke-cocktails/cgi-bin/";
+    my $dir = "/home/cocktails/src/mahnke-cockta_ils/cgi-bin/";
     my $dest_dir = "/home/cocktails/cgi-bin/";
     chdir $dir;
     print `cp -R * $dest_dir`;
