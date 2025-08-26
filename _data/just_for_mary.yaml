@@ -1,0 +1,14 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-cherry.svg
+      title: Cherry
+    - url: /assets/images/ingredient-lillet-blanc.svg
+      title: Lillet blanc
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
