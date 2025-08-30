@@ -14,3 +14,6 @@ images:
   glass:
     - url: /assets/images/glass_flute.svg
       title: Flute
+  garnish:
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

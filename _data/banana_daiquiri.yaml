@@ -5,18 +5,8 @@ images:
     - url: /assets/images/ingredient-dark-rum.svg
       title: Gold rum
   glass:
-    - url: /assets/images/glass_coupe.svg
-      title: Coupe
-    - url: /assets/images/glass_flute.svg
-      title: Flute
-    - url: /assets/images/glass_highball.svg
-      title: Highball
     - url: /assets/images/glass_hurricane.svg
       title: Hurricane
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
     - url: /assets/images/glass_tiki.svg
       title: Tiki
   ice:

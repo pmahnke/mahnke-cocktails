@@ -1,18 +1,18 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-absinthe.svg
-      title: Absinthe
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Demerara rum
   tool:
     - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker
-    - url: /assets/images/tool_hawthorn-strainer.svg
-      title: Hawthorn strainer
   glass:
     - url: /assets/images/glass_highball.svg
       title: Highball
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
   garnish:
-    - url: /assets/images/spice_anise.svg
-      title: Anise
+    - url: /assets/images/slice_pineapple.svg
+      title: Pineapple slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

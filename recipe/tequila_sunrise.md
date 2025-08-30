@@ -47,7 +47,7 @@ excerpt: |
 | -----: | -------------- | ------------ |
 |   2 oz | Blanco Tequila | Siete Leguas |
 |   4 oz | Orange Juice   |
-| 0.5 oz | Grenadine      | Monin        |
+| 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})      | Monin        |
 
 ### Notes
 

@@ -19,6 +19,8 @@ images:
       title: Orange slice
     - url: /assets/images/twist_orange.svg
       title: Orange twist
+    - url: /assets/images/slice_pineapple.svg
+      title: Pineapple slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes
