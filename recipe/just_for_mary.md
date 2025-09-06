@@ -21,8 +21,8 @@ excerpt: |
 |   Amount | Ingredient     | Brand          |
 | -------: | -------------- | -------------- |
 |     2 oz | Rye            | Whistle Pig    |
-|    0.5oz | Lillet Blanc   | Lillet Blanc   |
-|    0.5oz | Cherry Liqueur | Cherry Heering |
+|   0.5 oz | Lillet Blanc   | Lillet Blanc   |
+|   0.5 oz | Cherry Liqueur | Cherry Heering |
 | 2 Dashes | Orange Bitters |
 
 ### Notes
