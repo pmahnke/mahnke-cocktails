@@ -1,0 +1,12 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-elderflower-liqueur.svg
+      title: Elderflower liqueur
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
