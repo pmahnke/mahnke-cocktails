@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/wardroom/"
 iconfile: wardroom
 stars: 3
-base_spirits: "Cognac, Dark Rum, Tawny Port"
+base_spirits: "Cognac, Nicaraguan Rum, Tawny Port"
 youtube: "y41UN6AZSMs"
 description: "A modern cocktail with a naval theme, featuring a rich combination of port, cognac, and dark rum."
 excerpt: |
@@ -19,7 +19,7 @@ excerpt: |
 |     Amount | Ingredient         | Brand                      |
 | ---------: | ------------------ | -------------------------- |
 |       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Cognac             | Maison Rouge VSOP          |
-|       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Rum                | Flor de Caña 7 Year        |
+|       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Nicaraguan Rum     | Flor de Caña 7 Year        |
 |       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Tawny Port         | Graham’s 20 Year           |
 |     <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters            | Angostura Aromatic Bitters |
 | <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Maraschino Liqueur | Luxardo                    |
@@ -45,7 +45,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1 oz Cognac",
-  "1 oz Rum ",
+  "1 oz Nicaraguan Rum",
   "1 oz Tawny Port",
   "1 dash Bitters ",
   "1 barspoon Maraschino Liqueur"

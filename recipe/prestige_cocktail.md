@@ -19,7 +19,7 @@ excerpt: |
 
 |  Amount | Ingredient            | Brand                          |
 | ------: | --------------------- | ------------------------------ |
-|    1 oz | Dark Rum              | Flor de Caña 7 year            |
+|    1 oz | Nicaraguan Rum        | Flor de Caña 7 Year            |
 |    1 oz | Fresh Pineapple Juice |
 |  0.5 oz | Dry Vermouth          | Dolin Dry Vermouth de Chambéry |
 |  0.5 oz | Falernum              |
