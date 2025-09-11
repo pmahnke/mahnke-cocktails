@@ -4,8 +4,8 @@ author: John Mahnke
 title: "John's Bloody Mary"
 categories: [cocktail]
 eras: [modern]
-permalink: "/recipe/bloody_mary/"
-iconfile: bloody_mary
+permalink: "/recipe/bloody_mary_johns/"
+iconfile: bloody_mary_johns
 stars: 0
 base_spirits: "Vodka"
 youtube: ""
@@ -31,7 +31,7 @@ excerpt: |
 
 ### Notes
 
-- Method: Rolled between two pint plasses
+- Method: Rolled between two pint glasses
 - Pour: Add all ingredients directly to the glass
 - Glassware:
   - Pint
