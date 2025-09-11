@@ -46,6 +46,8 @@ excerpt: |
 
 ## Batched Bloody Mary Mix
 
+If you plan on making more than a few bloody marys, you should just make a larger batch.  This recipe will make eight servings and keep for a few days in the fridge.  Just add the vodka and sherry before you serve.
+
 ### Ingredients
 
 |     Amount | Ingredient           | Brand   |
