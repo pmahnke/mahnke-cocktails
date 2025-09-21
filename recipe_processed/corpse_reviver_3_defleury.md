@@ -7,7 +7,7 @@ categories: [shot, pousse_cafe]
 eras: [prohibition]
 permalink: "/recipe/corpse_reviver_3_defleury/"
 iconfile: corpse_reviver_3_defleury
-stars: 0
+stars: 4
 base_spirits: ['Maraschino Liqueur', 'Dry Curaçao', 'Cognac']
 youtube: "kBHi_atZsbM"
 description: "A unique recipe for the Corpse Reviver #3 calling for equal parts maraschino, brandy, and curacao, which are carefully layered without ice."

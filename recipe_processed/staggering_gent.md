@@ -6,7 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/staggering_gent/"
 iconfile: staggering_gent
-stars: 0
+stars: 4
 base_spirits: ['Bourbon', 'Bénédictine', 'Walnut Liqueur']
 youtube: "QFjRjAP-k1k&t=3s"
 excerpt: |

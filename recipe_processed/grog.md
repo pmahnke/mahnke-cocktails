@@ -6,7 +6,7 @@ categories: [grog]
 eras: [classic]
 permalink: "/recipe/grog/"
 iconfile: grog
-stars: 0
+stars: 3.5
 base_spirits: ['Demerara Rum']
 youtube: "https://pussersrum.com/blogs/cocktails/grog-cocktail?srsltid=AfmBOor-6PscaIXmngwY_iaX-LYLMNQTbODfvJlzWD1bkmP-KFb3IkoO"
 description: "A historic naval drink from the 18th century, created to make rum rations more palatable by adding water, lime juice, and sugar."

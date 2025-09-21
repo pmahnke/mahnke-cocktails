@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/corn_and_oil/"
 iconfile: corn_and_oil
-stars: 0
+stars: 3
 base_spirits: ['Demerara Rum']
 youtube: "Y2AMcTB_kbY"
 description: "A traditional Barbadian drink from the 1700s, featuring dark rum sweetened and flavored with falernum liqueur."

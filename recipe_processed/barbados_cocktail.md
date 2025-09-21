@@ -6,7 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/barbados_cocktail/"
 iconfile: barbados_cocktail
-stars: 0
+stars: 3.5
 base_spirits: ['Barbados Rum']
 youtube: "CGkWnYhu4ag"
 description: "The Barbados cocktail is a tropical rum drink that balances sweetness with a zesty, bright acidity. Its primary ingredients are dark rum, lime juice, and falernum, a liqueur that imparts a flavor of ginger, clove, and lime."

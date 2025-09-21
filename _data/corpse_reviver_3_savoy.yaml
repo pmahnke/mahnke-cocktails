@@ -8,8 +8,5 @@ images:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
-    - url: /assets/images/glass_highball.svg
-      title: Highball
-  ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe

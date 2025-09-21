@@ -6,7 +6,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/sharks_tooth/"
 iconfile: sharks_tooth
-stars: 0
+stars: 3
 base_spirits: ['Jamaican Rum', 'Barbados Rum', 'Cherry Liqueur', 'Maraschino Liqueur']
 youtube: "https://curiada.com/blogs/news/sharks-tooth-cocktail-recipe-featuring-barbados-and-jamaica-rums"
 description: "A classic tiki cocktail with a rum-forward profile, served straight up with cherry and maraschino liqueurs."

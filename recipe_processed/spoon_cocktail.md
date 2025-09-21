@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/spoon_cocktail/"
 iconfile: spoon_cocktail
-stars: 0
+stars: 3
 base_spirits: ['Rye']
 youtube: "0rnil0_xFnM"
 description: 'The original "cock-tail" as defined in 1806, this is a simple, stimulating liquor composed of a spirit (rye), sugar, water, and bitters.'

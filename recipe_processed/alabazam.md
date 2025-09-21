@@ -7,7 +7,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/alabazam/"
 iconfile: alabazam
-stars: 0
+stars: 3
 base_spirits: ['Cognac', 'Triple Sec']
 youtube: "nXED2nkfEEQ"
 description: "A 19th-century sour that enhances cognac with the orange notes of triple sec and a hint of bitters."

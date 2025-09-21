@@ -7,7 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/churchill/"
 iconfile: churchill
-stars: 0
+stars: 3
 base_spirits: ['Scotch', 'Blended', 'SPIRIT']
 youtube: "https://www.foodandwine.com/churchill-cocktail-recipe-11686043"
 description: "A mid-century classic named for the British prime minister, this is a modified Whiskey Sour featuring Scotch, sweet vermouth, and orange liqueur."

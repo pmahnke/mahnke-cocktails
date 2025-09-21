@@ -6,7 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/havana/"
 iconfile: havana
-stars: 0
+stars: 4
 base_spirits: ['Gin', 'Swedish Punsch', 'Apricot Liqueur']
 youtube: "VXjcObds5DY"
 description: "The Savoy's Havana Cocktail is a sweet and complex blend of spirits, featuring gin, apricot brandy, and Swedish Punsch."

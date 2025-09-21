@@ -6,7 +6,7 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/greta_garbo_2/"
 iconfile: greta_garbo_2
-stars: 0
+stars: 3.5
 base_spirits: ['Gin', 'Swedish Punsch']
 youtube: "79htbyQ8nDY"
 description: "A Prohibition-era cocktail named for the Swedish actress, featuring gin and the unique spice of Swedish Punsch."
