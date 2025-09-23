@@ -16,11 +16,11 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient            | Brand            |
-| -----: | --------------------- | ---------------- |
-|   1 oz | Demerara Rum          | El Dorado 8 Year |
-|   1 oz | Bénédictine           | Bénédictine DOM  |
-| 0.5 oz | Amontillado Sherry    | Lustau Los Arcos |
+| Amount | Ingredient            | Brand                               |
+| -----: | --------------------- | ----------------------------------- |
+|   1 oz | Demerara Rum          | El Dorado 8 Year                    |
+|   1 oz | Bénédictine           | Bénédictine DOM                     |
+| 0.5 oz | Amontillado Sherry    | Lustau Amontillado Los Arcos |
 |   1 oz | Cold Brew Concentrate |
 
 ### Notes

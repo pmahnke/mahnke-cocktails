@@ -20,7 +20,7 @@ excerpt: |
 | ------: | -------------------------------------------------------- | ----------------------------------- |
 |  1.5 oz | Rye                                                      | Rittenhouse 100 Proof               |
 |  0.5 oz | White Vermouth                                           | Dolin Blanc Vermouth de Chambéry    |
-| 0.25 oz | Amontillado Sherry                                       | Lustau Amontillado Los Arcos Sherry |
+| 0.25 oz | Amontillado Sherry                                       | Lustau Amontillado Los Arcos |
 | 0.75 oz | Fresh Pineapple Juice                                    |
 | 0.25 oz | Fresh Lemon Juice                                        |
 | 0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |

@@ -21,7 +21,7 @@ excerpt: |
 |     1.5 oz | Reposado Tequila   | Milagro                       |
 |    0.75 oz | Apricot Liqueur    | Giffard Abricot du Roussillon |
 |     0.5 oz | Fresh Lemon Juice  |
-|    0.25 oz | Amontillado Sherry | Lustau Los Arcos              |
+|    0.25 oz | Amontillado Sherry | Lustau Amontillado Los Arcos  |
 | 1 barspoon | Light Agave Nectar |
 
 ### Notes

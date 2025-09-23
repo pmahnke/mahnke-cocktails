@@ -23,7 +23,7 @@ excerpt: |
 |        Amount | Ingredient           | Brand                               |
 | ------------: | -------------------- | ----------------------------------- |
 |        1.5 oz | Vodka                | Hangar One                          |
-|       0.25 oz | Amontillado Sherry   | Lustau Amontillado Los Arcos Sherry |
+|       0.25 oz | Amontillado Sherry   | Lustau Amontillado Los Arcos |
 |          4 oz | Tomato Juice         |
 |       0.75 oz | Fresh Lemon Juice    |
 |       0.25 oz | Worcestershire Sauce |

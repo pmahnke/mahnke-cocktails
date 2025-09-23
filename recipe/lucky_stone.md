@@ -16,12 +16,12 @@ excerpt: |
 
 ### Ingredients
 
-|   Amount | Ingredient         | Brand                         |
-| -------: | ------------------ | ----------------------------- |
-|   1.5 oz | Irish Whiskey      | Powers Gold Label             |
-|     1 oz | Amontillado Sherry | Lustau Los Arcos              |
-|   0.5 oz | Apricot Liquer     | Giffard Abricot du Roussillon |
-| 2 dashes | Bitters            | Peychaud's Bitters            |
+|   Amount | Ingredient         | Brand                               |
+| -------: | ------------------ | ----------------------------------- |
+|   1.5 oz | Irish Whiskey      | Powers Gold Label                   |
+|     1 oz | Amontillado Sherry | Lustau Amontillado Los Arcos |
+|   0.5 oz | Apricot Liquer     | Giffard Abricot du Roussillon       |
+| 2 dashes | Bitters            | Peychaud's Bitters                  |
 
 ### Notes
 

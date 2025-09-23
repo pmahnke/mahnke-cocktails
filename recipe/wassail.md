@@ -16,12 +16,12 @@ excerpt: |
 
 ### Ingredients
 
-|    Amount | Ingredient         | Brand                            |
-| --------: | ------------------ | -------------------------------- |
+|    Amount | Ingredient         | Brand                               |
+| --------: | ------------------ | ----------------------------------- |
 |    3 cups | Fresh Apple Cider  |
-|    2 cups | Amontillado Sherry | Lustau Los Arcos                 |
-|     1 cup | Dark Beer          | Begyle Brewing Christmas Ale     |
-|   0.5 cup | Apple Brandy       | Laird's Straight Bottled in Bond |
+|    2 cups | Amontillado Sherry | Lustau Amontillado Los Arcos |
+|     1 cup | Dark Beer          | Begyle Brewing Christmas Ale        |
+|   0.5 cup | Apple Brandy       | Laird's Straight Bottled in Bond    |
 |   0.5 cup | Demerara Sugar     |
 |   8 whole | Cloves             |
 | 8 berries | Allspice           |

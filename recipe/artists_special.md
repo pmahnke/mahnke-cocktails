@@ -21,7 +21,7 @@ excerpt: |
 |  Amount | Ingredient                                            | Brand                               |
 | ------: | ----------------------------------------------------- | ----------------------------------- |
 |    1 oz | Bourbon                                               | Old Grandad Bonded                  |
-|    1 oz | Amontillado Sherry                                    | Lustau Amontillado Los Arcos Sherry |
+|    1 oz | Amontillado Sherry                                    | Lustau Amontillado Los Arcos |
 | 0.75 oz | Fresh Lemon Juice                                     |
 | 0.75 oz | [Groseille Syrup]({%link recipe/groseille_syrup.md%}) |
 

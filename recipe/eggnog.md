@@ -16,10 +16,10 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient                                               | Brand                          |
-| ------: | -------------------------------------------------------- | ------------------------------ |
-|  1.5 oz | Demerara Rum                                             | El Dorado 8 Year               |
-|  0.5 oz | Amontillado Sherry                                       | Lustau Amontillado 'Los Arcos' |
+|  Amount | Ingredient                                               | Brand                               |
+| ------: | -------------------------------------------------------- | ----------------------------------- |
+|  1.5 oz | Demerara Rum                                             | El Dorado 8 Year                    |
+|  0.5 oz | Amontillado Sherry                                       | Lustau Amontillado Los Arcos |
 |    1 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 1 whole | Egg                                                      |
 |    2 oz | Half & Half cream                                        |
