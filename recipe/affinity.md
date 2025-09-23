@@ -18,7 +18,7 @@ excerpt: |
 
 |   Amount | Ingredient         | Brand                            |
 | -------: | ------------------ | -------------------------------- |
-|  0.75 oz | Single Malt Scotch | Talisker 10 Year                 |
+|  0.75 oz | Scotch, Single Malt | Talisker 10 Year                 |
 |  0.75 oz | Sweet Vermouth     | Cocchi Vermouth di Torino        |
 |  0.75 oz | White Vermouth     | Dolin Blanc Vermouth de Chambéry |
 | 2 dashes | Bitters            | Angostura Aromatic Bitters       |

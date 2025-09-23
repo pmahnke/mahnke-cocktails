@@ -7,7 +7,7 @@ eras: [classic, modern]
 permalink: "/recipe/go-to_toddy/"
 iconfile: go-to_toddy
 stars: 0
-base_spirits: "Blended Scotch "
+base_spirits: "Scotch, Blended "
 youtube: "DJtBN6yBnsA"
 description: "A comforting and warming classic beverage, traditionally made with a spirit, hot water, honey, and lemon."
 excerpt: |
@@ -18,7 +18,7 @@ excerpt: |
 
 |    Amount | Ingredient                                    | Brand           |
 | --------: | --------------------------------------------- | --------------- |
-|    1.5 oz | Blended Scotch                                | Monkey Shoulder |
+|    1.5 oz | Scotch, Blended                                | Monkey Shoulder |
 |    0.5 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 |   0.25 oz | Fresh Lemon Juice                             |
 | 4 to 5 oz | Chamomile Tea                                 |

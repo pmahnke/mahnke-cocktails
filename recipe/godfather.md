@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/godfather/"
 iconfile: godfather
 stars: 3
-base_spirits: "Single Malt Scotch "
+base_spirits: "Scotch, Single Malt "
 youtube: "3DhncxCCB-E"
 description: "A simple and classic modern cocktail made with just two ingredients: Scotch whisky and amaretto."
 excerpt: |
@@ -16,10 +16,10 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient           | Brand            |
-| -----: | -------------------- | ---------------- |
-| 1.5 oz | Single Malt Whisky   | Talisker 10 Year |
-| 0.5 oz | Amaretto di Saschira | Luxardo          |
+| Amount | Ingredient         | Brand                        |
+| -----: | ------------------ | ---------------------------- |
+| 1.5 oz | Scotch, Single Malt | Talisker 10 Year             |
+| 0.5 oz | Amaretto           | Luxardo Amaretto di Saschira |
 
 ### Notes
 

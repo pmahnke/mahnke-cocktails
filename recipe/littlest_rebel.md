@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/little_strebel/"
 iconfile: littlest_rebel
 stars: 0
-base_spirits: "Apple Brandy, Blended Scotch "
+base_spirits: "Apple Brandy, Scotch, Blended "
 youtube: "s30L-iu171E"
 description: "A Prohibition-era sour with a complex smoky and fruity profile, blending apple brandy and Scotch whisky."
 excerpt: |
@@ -21,7 +21,7 @@ excerpt: |
 |  Amount | Ingredient                                      | Brand                                         |
 | ------: | ----------------------------------------------- | --------------------------------------------- |
 |    1 oz | Apple Brandy                                    | Laird's Straight Apple Brandy Bottled in Bond |
-|  0.5 oz | Blended Scotch Whisky                           | Monkey Shoulder Blended Malt Whisky           |
+|  0.5 oz | Scotch, Blended Whisky                           | Monkey Shoulder Blended Malt Whisky           |
 | 0.75 oz | Fresh Lime Juice                                |
 |  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 0.75 oz | Egg White                                       |

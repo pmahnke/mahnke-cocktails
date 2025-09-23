@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/morning_glory_fizz/"
 iconfile: morning_glory_fizz
 stars: 0
-base_spirits: "Single Malt Scotch, Absinthe "
+base_spirits: "Scotch, Single Malt, Absinthe "
 youtube: "YMY0LtEq8mg"
 description: 'A classic "hair of the dog" fizz traditionally considered a morning pick-me-up, featuring Scotch and a hint of absinthe.'
 excerpt: |
@@ -18,7 +18,7 @@ excerpt: |
 
 |     Amount | Ingredient                                                | Brand                     |
 | ---------: | --------------------------------------------------------- | ------------------------- |
-|       2 oz | Single Malt Scotch                                        | Aberfeldy 12 Year         |
+|       2 oz | Scotch, Single Malt                                        | Aberfeldy 12 Year         |
 |    0.75 oz | Fresh Lemon Juice                                         |
 |    0.25 oz | Fresh Lime Juice                                          |
 |    0.75 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |

@@ -345,7 +345,7 @@ foreach $file (sort @files) {
     $ingredient{'orange-bitters'} = `grep 'base_spirits:' $file | ag -i 'orange bitters'`;
     $ingredient{'white-vermouth'} = `grep 'base_spirits:' $file | ag -i 'vermouth'` if (!$ingredient{'sweet-vermouth'} && !$ingredient{'dry-vermouth'});
     $ingredient{'bitters'} = `grep 'base_spirits:' $file | ag -i 'bitters'`;
-    $ingredient{'single-malt-scotch'} = `grep 'base_spirits:' $file | ag -i 'single malt scotch'`;
+    $ingredient{'single-malt-scotch'} = `grep 'base_spirits:' $file | ag -i 'Scotch, Single Malt'`;
     $ingredient{'gold-rum'} = `grep 'base_spirits:' $file | ag -i 'gold rum'`;
     $ingredient{'honey-syrup'} = `grep 'base_spirits:' $file | ag -i 'honey syrup'`;
     $ingredient{'champagne'} = `grep 'base_spirits:' $file | ag -i 'champagne'`;

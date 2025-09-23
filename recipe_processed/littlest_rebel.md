@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/little_strebel/"
 iconfile: littlest_rebel
 stars: 0
-base_spirits: "Apple Brandy, Blended Scotch "
+base_spirits: "Apple Brandy, Scotch, Blended "
 youtube: "s30L-iu171E"
 description: "A Prohibition-era sour with a complex smoky and fruity profile, blending apple brandy and Scotch whisky."
 excerpt: |
@@ -21,7 +21,7 @@ excerpt: |
 |  Amount | Ingredient                                      | Brand                                         |
 | ------: | ----------------------------------------------- | --------------------------------------------- |
 |    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Apple Brandy                                    | Laird's Straight Apple Brandy Bottled in Bond |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Blended Scotch Whisky                           | Monkey Shoulder Blended Malt Whisky           |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Scotch, Blended Whisky                           | Monkey Shoulder Blended Malt Whisky           |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lime Juice                                |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Egg White                                       |
@@ -47,7 +47,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1 oz Apple Brandy ",
-  " 0.5 oz Blended Scotch Whisky",
+  " 0.5 oz Scotch, Blended Whisky",
   "0.75 oz Fresh Lime Juice ",
   " 0.5 oz Grenadine",
   "0.75 oz Egg White"
