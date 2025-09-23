@@ -19,7 +19,7 @@ excerpt: |
 |     Amount | Ingredient                                               | Brand                      |
 | ---------: | -------------------------------------------------------- | -------------------------- |
 |   0.75 oz. | Bourbon                                                  | Old Grand-Dad              |
-|   0.75 oz. | Rye                                                      | Rittenhouse                |
+|   0.75 oz. | Rye                                                      | Rittenhouse 100 Proof      |
 |    0.5 oz. | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 |    0.5 oz. | Fresh Lemon Juice                                        |
 |    0.5 oz. | Fresh Orange Juice                                       |

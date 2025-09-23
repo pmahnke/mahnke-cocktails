@@ -18,7 +18,7 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand                     |
 | -------: | -------------- | ------------------------- |
-|   1.5 oz | Rye Whiskey    | Old Overholt              |
+|   1.5 oz | Rye            | Old Overholt              |
 |     1 oz | Sweet Vermouth | Cocchi Vermouth di Torino |
 |  0.25 oz | Bénédictine    | Bénédictine DOM           |
 |  0.25 oz | Amaro          | Ramazzotti                |

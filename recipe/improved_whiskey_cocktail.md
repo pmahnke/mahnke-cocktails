@@ -19,7 +19,7 @@ excerpt: |
 
 |        Amount | Ingredient                                                | Brand                 |
 | ------------: | --------------------------------------------------------- | --------------------- |
-|          2 oz | Rye                                                       | Rittenhouse 100 proof |
+|          2 oz | Rye                                                       | Rittenhouse 100 Proof |
 |       0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |                       |
 |      3 dashes | Cardamom Bitters                                          | Fee Brothers          |
 |    1 barspoon | Maraschino Liqueur                                        | Luxardo               |

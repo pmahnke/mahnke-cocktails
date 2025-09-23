@@ -18,7 +18,7 @@ excerpt: |
 
 |   Amount | Ingredient                                                    | Brand                      |
 | -------: | ------------------------------------------------------------- | -------------------------- |
-|   1.5 oz | Rye                                                           | Rittenhouse 100 proof      |
+|   1.5 oz | Rye                                                           | Rittenhouse 100 Proof      |
 |   0.5 oz | Crème de Mûre                                                 | Combier                    |
 |  0.75 oz | [Cream of Coconut]({%link recipe/cream_of_coconut_syrup.md%}) |                            |
 |  0.75 oz | Fresh Lemon Juice                                             |                            |
