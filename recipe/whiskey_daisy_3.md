@@ -16,10 +16,10 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient                                                | Brand         |
-| ------: | --------------------------------------------------------- | ------------- |
-|    1 oz | Bourbon                                                   | Old Grand-Dad |
-|    1 oz | Rye                                                       | Rittenhouse   |
+|  Amount | Ingredient                                                | Brand                 |
+| ------: | --------------------------------------------------------- | --------------------- |
+|    1 oz | Bourbon                                                   | Old Grand-Dad         |
+|    1 oz | Rye                                                       | Rittenhouse 100 Proof |
 | 0.75 oz | Fresh Lemon Juice                                         |
 |  0.5 oz | [Orgeat]({%link recipe/orgeat_syrup.md%})                 |
 | 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
