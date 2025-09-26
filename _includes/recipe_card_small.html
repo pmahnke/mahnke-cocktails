@@ -1,0 +1,19 @@
+ <div class="recipe_card">
+    <div class="card-content">
+    {%- if site.data[page.iconfile].images -%}
+        {%- if site.data[page.iconfile].images.cocktail -%}
+            {%- for image in site.data[page.iconfile].images.cocktail -%}
+        <img src="{{ image.url }}" alt="{{ image.title }}" width="85" >
+            {%- endfor -%}
+        {%- else -%}
+            {%- for ingredient in site.data[page.iconfile].images.ingredient | limit: 1 -%}
+        <img src="{{ ingredient.url }}" alt="{{ ingredient.title }}" title="{{ ingredient.title }}" width="100" class="rotate-left">
+            {%- endfor -%}
+        {%- endif -%}
+    {%- endif -%}<br>
+
+        <strong><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></strong><br/>
+        {%- include home_stars.html -%}<br/> 
+        {{ page.description }}
+    </div>
+</div>

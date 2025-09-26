@@ -8,7 +8,12 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
 
     <div><!-- div 2/3 -->
 
-        <h2>5-Star Cocktails</h2>
+
+
+
+
+
+        <h2>Our Favorite 5-Star Cocktails</h2>
 
         <div class="grid-container">
 
@@ -22,7 +27,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             {%- assign sorted_list = fivestar_recipes | sort: "title" -%}
             {%- for page in sorted_list -%}
             <div>
-               {%- include recipe_card.html page=page -%}
+               {%- include recipe_card_small.html page=page -%}
             </div>
             {%- endfor -%}
             
