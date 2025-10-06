@@ -16,11 +16,11 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient   | Brand        |
-| ------: | ------------ | ------------ |
-|  1.5 oz | Gin          | Plymouth     |
-| 0.75 oz | Suze         | Suze         |
-| 0.75 oz | Lillet Blanc | Lillet Blanc |
+|  Amount | Ingredient      | Brand        |
+| ------: | --------------- | ------------ |
+|  1.5 oz | Gin             | Plymouth     |
+| 0.75 oz | Gentian liqueur | Suze         |
+| 0.75 oz | Lillet Blanc    | Lillet Blanc |
 
 ### Notes
 
