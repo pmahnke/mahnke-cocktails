@@ -10,7 +10,7 @@ iconfile: haystack
 stars: 0
 base_spirits: "Bourbon, Suze, Apricot Liqueur"
 youtube: "iLcXU3W1wVQ"
-description: "This bourbon-based drink comes together with just a few ingredients, but it’s packed with layers of flavor that make it a standout. "
+description: "Inspired by the Paper Plane, this bourbon-based drink comes together with just a few ingredients."
 excerpt: |
   Inspired by the Paper Plane, the Haystack holds its own with a bold, fruity-bitter balance that feels fresh and different. Built with bourbon, gentian liqueur (like Suze, Salers, or Aveze), apricot liqueur, and fresh lemon juice, it’s a modern whiskey cocktail that’s both easy to mix but surprisingly complex. If you’re looking for a unique bourbon sour variation or just want something new for your home bar, this one’s worth a try.
 ---
