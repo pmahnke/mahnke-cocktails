@@ -59,7 +59,7 @@ brandy_alexander	A classic creamy after-dinner drink that combines cognac with t
 brandy_crusta	One of the oldest classic cocktails from New Orleans, known for its distinctive sugared rim and long lemon peel garnish.
 brandy_daisy	A classic cocktail category defined by a spirit, citrus, and sweetener, topped with a splash of soda water.
 brandy_slush	A classic Midwestern party punch featuring an icy, make-ahead mix of fruit juice, tea, and brandy.
-brooklyn	A classic pre-Prohibition cocktail and Manhattan variation that incorporates dry vermouth and Maraschino liqueur.
+brooklyn	A classic pre-Prohibition cocktail and Manhattan variation that incorporates dry vermouth and Maraschino Liqueur.
 brown_derby	A classic Hollywood-era sour named for the famous Los Angeles diner, combining bourbon with grapefruit and honey.
 cable_car	A modern classic from 1996, this is a twist on the classic Sidecar featuring spiced rum.
 caipirinha	The national drink of Brazil, this is a classic and refreshing cocktail made by muddling fresh lime and sugar with cachaça.
@@ -103,7 +103,7 @@ delmonico_special	A classic gin-based Martini-style cocktail from the 1800s, bal
 deshler	A classic cocktail that pairs rye whiskey with the wine-based aperitif Dubonnet and Cointreau.
 devils_day_off	A refreshing non-alcoholic cocktail that features a combination of grapefruit, lime, agave, cinnamon, and the bittersweet notes of Sanbitter soda.
 dirty_martini	A classic savory Martini variation that incorporates a small amount of olive brine for a salty kick.
-division_bell	A modern classic that combines the smoky flavor of mezcal with the bittersweet notes of Aperol and the complexity of Maraschino liqueur.
+division_bell	A modern classic that combines the smoky flavor of mezcal with the bittersweet notes of Aperol and the complexity of Maraschino Liqueur.
 doctor_funk	A classic tiki cocktail with a unique flavor profile that includes an absinthe-laced limeade.
 east_india_cocktail	A classic sour from the 1880s that features cognac, pineapple, and maraschino liqueur, with ingredients indicative of the East India Trading Company's imports.
 eastside	A modern gin-based sour from 2004, essentially a Southside with the addition of fresh cucumber.

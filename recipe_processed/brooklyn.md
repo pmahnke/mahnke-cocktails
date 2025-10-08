@@ -9,9 +9,9 @@ iconfile: brooklyn
 stars: 3.5
 base_spirits: "Rye, Maraschino Liqueur"
 youtube: "JU8xN_ty2i0"
-description: "A classic pre-Prohibition cocktail and Manhattan variation that incorporates dry vermouth and Maraschino liqueur."
+description: "A classic pre-Prohibition cocktail and Manhattan variation that incorporates dry vermouth and Maraschino Liqueur."
 excerpt: |
-  The Brooklyn cocktail is a classic pre-Prohibition cocktail that is experiencing a resurgence in popularity. It is a variation of the Manhattan, but with dry vermouth and Maraschino liqueur.
+  The Brooklyn cocktail is a classic pre-Prohibition cocktail that is experiencing a resurgence in popularity. It is a variation of the Manhattan, but with dry vermouth and Maraschino Liqueur.
 ---
 
 ### Ingredients

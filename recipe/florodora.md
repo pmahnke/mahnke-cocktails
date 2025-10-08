@@ -17,13 +17,13 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient       | Brand         |
-| ------: | ---------------- | ------------- |
-|    2 oz | Gin              | Manly Spirits |
-| 0.75 oz | Fresh Lime Juice |
-|  0.5 oz | Raspberry Syrup  |
-|  0.5 oz | Ginger Syrup     |
-|    1 oz | Ginger Beer      |
+|  Amount | Ingredient                                            | Brand         |
+| ------: | ----------------------------------------------------- | ------------- |
+|    2 oz | Gin                                                   | Manly Spirits |
+| 0.75 oz | Fresh Lime Juice                                      |
+|  0.5 oz | [Raspberry Syrup]({%link recipe/raspberry_syrup.md%}) |
+|  0.5 oz | [Ginger Syrup]({%link recipe/ginger_syrup.md%})       |
+|    1 oz | Ginger Beer                                           |
 
 ### Notes
 

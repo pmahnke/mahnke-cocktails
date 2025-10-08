@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/transcontinental/"
 iconfile: transcontinental
 stars: 0
-base_spirits: "Gin, Maraschino liqueur, Yellow Chartreuse, Crème de Violette"
+base_spirits: "Gin, Maraschino Liqueur, Yellow Chartreuse, Crème de Violette"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/9724/transcontinental"
 description: "The Last Word meets the Aviation somewhere over the French-Italian border."
 excerpt: |
@@ -20,7 +20,7 @@ excerpt: |
 |     Amount | Ingredient         | Brand               |
 | ---------: | ------------------ | ------------------- |
 |    <span class="onex active">1 <sup>3</sup>&frasl;<sub>4</sub> oz  / 44 ml</span> <span class="onehalfx">2.625 oz  / 66 ml</span> <span class="twox">3 <sup>1</sup>&frasl;<sub>2</sub> oz  / 88 ml</span> <span class="threex">5 <sup>1</sup>&frasl;<sub>4</sub> oz  / 131 ml</span>| Gin                | Hayman's London Dry |
-|    <span class="onex active">0.33 oz  / 8 ml</span> <span class="onehalfx">0.495 oz  / 12 ml</span> <span class="twox">0.66 oz  / 17 ml</span> <span class="threex">0.99 oz  / 25 ml</span>| Maraschino liqueur | Luxardo             |
+|    <span class="onex active">0.33 oz  / 8 ml</span> <span class="onehalfx">0.495 oz  / 12 ml</span> <span class="twox">0.66 oz  / 17 ml</span> <span class="threex">0.99 oz  / 25 ml</span>| Maraschino Liqueur | Luxardo             |
 | <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Yellow Chartreuse  | Yellow Chartreuse   |
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Crème de Violette  | Rothman & Winter    |
 |     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Lemon Juice  |
@@ -46,7 +46,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.75 oz Gin ",
-  " 0.33 oz Maraschino liqueur",
+  " 0.33 oz Maraschino Liqueur",
   "1 barspoon Yellow Chartreuse ",
   " 0.25 oz Crème de Violette ",
   "0.5 oz Fresh Lemon Juice "
