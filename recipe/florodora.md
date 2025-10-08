@@ -1,7 +1,7 @@
 ---
 layout: recipe
 author: Leandro DiMonriva
-creator: the Waldorf Astoria Hotel
+creator: The Waldorf Astoria Hotel
 title: "Florodora"
 categories: [buck]
 eras: [classic]
@@ -10,7 +10,7 @@ iconfile: florodora
 stars: 0
 base_spirits: "Gin"
 youtube: "https://youtube.com/shorts/r6QW-H5nnGM?si=i7JwiTGYox34RizT"
-description: "The Florodora is a bright, effervescent, gin-based highball cocktail that features a vibrant raspberry flavor. It is a refreshing drink that perfectly balances the herbaceous notes of gin with tart lime and a spicy-sweet ginger beer or ginger ale finish."
+description: "A bright, effervescent, gin-based highball cocktail with a vibrant raspberry flavor. It perfectly balances the gin with lime and ginger."
 excerpt: |
   Named after a popular Edwardian musical comedy, the Florodora is a classic, pre-Prohibition cocktail with a beautiful pink hue. It's built on a base of gin, mixed with fresh lime juice and either raspberry syrup or raspberry liqueur, before being topped with chilled ginger ale or spicier ginger beer. The drink offers a complex profile, starting with the botanical aroma of gin and the tartness of lime, followed by the sweetness of the raspberry and the zesty kick of ginger. It is a light, fruity, and highly refreshing long drink, making it an excellent choice for a warm weather libation.
 ---
