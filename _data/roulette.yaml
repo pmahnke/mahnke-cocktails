@@ -13,6 +13,8 @@ images:
   garnish:
     - url: /assets/images/twist_orange.svg
       title: Orange twist
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar
   ice:
     - url: /assets/images/ice_large.svg
       title: Large

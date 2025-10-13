@@ -8,8 +8,6 @@ images:
   glass:
     - url: /assets/images/glass_rocks.svg
       title: Rocks
-    - url: /assets/images/glass_tiki.svg
-      title: Tiki
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

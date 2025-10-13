@@ -11,10 +11,6 @@ images:
     - url: /assets/images/glass_rocks.svg
       title: Rocks
   garnish:
-    - url: /assets/images/spice_cinnamon.svg
-      title: Cinnamon
-    - url: /assets/images/fruit_lemon.svg
-      title: Lemon slice
     - url: /assets/images/twist_orange.svg
       title: Orange twist
   ice:

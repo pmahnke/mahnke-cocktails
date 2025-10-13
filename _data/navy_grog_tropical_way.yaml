@@ -12,8 +12,6 @@ images:
   garnish:
     - url: /assets/images/herb_mint.svg
       title: Mint
-    - url: /assets/images/ingredient-sugar.svg
-      title: Sugar
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

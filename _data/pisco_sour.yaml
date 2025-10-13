@@ -8,6 +8,3 @@ images:
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double strained
-  garnish:
-    - url: /assets/images/ingredient-sugar.svg
-      title: Sugar

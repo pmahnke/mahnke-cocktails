@@ -2,8 +2,6 @@ images:
   ingredient:
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
-    - url: /assets/images/ingredient-dark-rum.svg
-      title: Dark rum
     - url: /assets/images/ingredient-port.svg
       title: Port
   tool:

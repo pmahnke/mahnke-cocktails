@@ -260,10 +260,21 @@ foreach $file (sort @files) {
 
     $file = $dir.$file;
 
+    my $FLAG_ex = 0;
+    
     print STDERR "file: $file shortname: $shortname\n";
 
     open (FILE, "$file") || die "Cannot open $file\n";
     while (<FILE>) {
+
+	if ($FLAG_ex) {
+	    $FLAG_ex = 0;
+	    next;
+	}
+	if (/excerpt:/) {
+	    $FLAG_ex = 1;
+	    next;
+	}
 
         $garnish{'blackberries'} = 1 if (/blackberr/i);
         $garnish{'olives'} = 1 if (/olives/i);

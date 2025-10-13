@@ -15,8 +15,6 @@ images:
       title: Cocktail cherry
     - url: /assets/images/fruit-orange.svg
       title: Orange slice
-    - url: /assets/images/ingredient-sugar.svg
-      title: Sugar
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

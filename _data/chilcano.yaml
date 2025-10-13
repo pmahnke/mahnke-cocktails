@@ -5,9 +5,6 @@ images:
   glass:
     - url: /assets/images/glass_collins.svg
       title: Collins
-  garnish:
-    - url: /assets/images/ingredient-sugar.svg
-      title: Sugar
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

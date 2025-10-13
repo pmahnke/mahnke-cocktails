@@ -2,9 +2,6 @@ images:
   ingredient:
     - url: /assets/images/ingredient-gin.svg
       title: Gin
-  tool:
-    - url: /assets/images/tool_muddler.svg
-      title: Muddler
   glass:
     - url: /assets/images/glass_collins.svg
       title: Collins

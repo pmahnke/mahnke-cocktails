@@ -4,9 +4,6 @@ images:
       title: Sherry
     - url: /assets/images/ingredient-vodka.svg
       title: Vodka
-  glass:
-    - url: /assets/images/glass_double-old-fashioned.svg
-      title: Double old fashioned
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

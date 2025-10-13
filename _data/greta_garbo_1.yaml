@@ -10,8 +10,6 @@ images:
   glass:
     - url: /assets/images/glass_coupe.svg
       title: Coupe
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
   garnish:
     - url: /assets/images/spice_anise.svg
       title: Anise

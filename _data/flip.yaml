@@ -5,8 +5,6 @@ images:
   tool:
     - url: /assets/images/tool_grater.svg
       title: Grater
-    - url: /assets/images/tool_mixing-glass.svg
-      title: Mixing glass
   glass:
     - url: /assets/images/glass_pint.svg
       title: Pint

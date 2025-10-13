@@ -12,9 +12,6 @@ images:
   glass:
     - url: /assets/images/glass_rocks.svg
       title: Rocks
-  garnish:
-    - url: /assets/images/twist_orange.svg
-      title: Orange twist
   ice:
     - url: /assets/images/ice_large.svg
       title: Large
