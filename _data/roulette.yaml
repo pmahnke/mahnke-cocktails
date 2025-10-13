@@ -4,6 +4,8 @@ images:
       title: Apple brandy
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
+    - url: /assets/images/ingredient-swedish-punsch.svg
+      title: Punsch
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

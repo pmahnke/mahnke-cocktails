@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /assets/images/ingredient-swedish-punsch.svg
+      title: Punsch
     - url: /assets/images/ingredient-rye.svg
       title: Rye
     - url: /assets/images/ingredient-vermouth.svg

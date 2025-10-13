@@ -4,6 +4,8 @@ images:
       title: Apricot liqueur
     - url: /assets/images/ingredient-gin.svg
       title: Gin
+    - url: /assets/images/ingredient-swedish-punsch.svg
+      title: Punsch
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double strained

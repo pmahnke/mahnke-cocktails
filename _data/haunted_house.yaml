@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
+    - url: /assets/images/ingredient-swedish-punsch.svg
+      title: Punsch
     - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:

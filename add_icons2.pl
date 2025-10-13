@@ -145,6 +145,7 @@ $INCLUDE{'bitters'} = qq|/assets/images/ingredient-bitters.svg|;
 $INCLUDE{'single-malt-scotch'} = qq|/assets/images/ingredient-single-malt-scotch.svg|;
 $INCLUDE{'gold-rum'} = qq|/assets/images/ingredient-dark-rum.svg|;
 $INCLUDE{'honey-syrup'} = qq|/assets/images/ingredient-honey-syrup.svg|;
+$INCLUDE{'punsch'} = qq|/assets/images/ingredient-swedish-punsch.svg|;
 $INCLUDE{'champagne'} = qq|/assets/images/ingredient-champagne.svg|;
 $INCLUDE{'lime-juice'} = qq|/assets/images/ingredient-lime-juice.svg|;
 $INCLUDE{'genever'} = qq|/assets/images/ingredient-genever.svg|;
@@ -379,6 +380,7 @@ foreach $file (sort @files) {
             $ingredient{'gold-rum'} = 1 if (/gold rum/i);
             $ingredient{'honey-syrup'} = 1 if (/honey syrup/i);
             $ingredient{'champagne'} = 1 if (/champagne/i);
+	    $ingredient{'punsch'} = 1 if (/punsch/i);
             $ingredient{'lime-juice'} = 1 if (/lime juice/i);
             $ingredient{'genever'} = 1 if (/genever/i);
             $ingredient{'jamaican-rum'} = 1 if (/jamaican rum/i);

@@ -4,6 +4,8 @@ images:
       title: Calvados
     - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
+    - url: /assets/images/ingredient-swedish-punsch.svg
+      title: Punsch
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
