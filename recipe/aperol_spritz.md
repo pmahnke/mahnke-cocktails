@@ -27,5 +27,7 @@ excerpt: |
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware:
-- Garnish: Orange wheel Special
-- Prep: None
+  - Wine Glass
+  - On the rocks
+- Garnish: Orange wheel
+- Special Prep: None
