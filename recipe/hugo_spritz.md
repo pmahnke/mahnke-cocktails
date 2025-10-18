@@ -28,6 +28,8 @@ excerpt: |
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware:
-- Garnish: Mint sprig and lime wheel Special
-- Prep: Add the mint and elderflower liqueur to the glass and muddle. Allow to sit
+  - Wine glass
+  - On the rocks
+- Garnish: Mint sprig and lime wheel
+- Special Prep: Add the mint and elderflower liqueur to the glass and muddle. Allow to sit
   for a minute before adding the prosecco and soda water.
