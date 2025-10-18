@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/aperol_spritz/"
 iconfile: aperol_spritz
 stars: 0
-base_spirits: "Aperol, Prosecco"
+base_spirits: "Aperol, Champagne"
 youtube: "BUb54paVf0s"
 description: "An iconic and refreshing Italian aperitif that combines the bittersweet notes of Aperol with the sparkle of prosecco and a splash of soda."
 excerpt: |
