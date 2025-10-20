@@ -1,0 +1,436 @@
+- name: Absinthe
+  slug: absinthe
+  url: /assets/images/ingredient-absinthe.svg
+  description: A highly potent, anise-flavored spirit distilled from botanicals, used sparingly for its complex, herbal aroma.
+- name: Ale
+  slug: ale
+  url: ''
+  description: A general category of beer brewed using a top-fermenting yeast, typically resulting in a fruitier, fuller-bodied, and often hoppier profile than lagers.
+- name: Allspice Dram
+  slug: allspice_dram
+  url: /assets/images/ingredient-allspice-dram.svg
+  description: A Jamaican liqueur featuring dark rum infused with allspice berries (pimento), adding warming, savory spice notes.
+- name: Amaretto
+  slug: amaretto
+  url: /assets/images/ingredient-amaretto.svg
+  description: An Italian liqueur with a distinct sweet almond flavor, though it is usually made from apricot pits or other stone fruits.
+- name: Amaro
+  slug: amaro
+  url: /assets/images/ingredient-amaro.svg
+  description: A broad Italian category of herbal, bittersweet liqueurs, typically enjoyed as a digestivo or used to add complexity.
+- name: Amaro Nonino
+  slug: amaro_nonino
+  url: /assets/images/ingredient-amaro.svg
+  description: A delicate and slightly sweet amaro made from grappa and a blend of herbs, often featuring notes of orange peel and vanilla.
+- name: Amontillado Sherry
+  slug: amontillado_sherry
+  url: /assets/images/ingredient-sherry.svg
+  description: A classic sherry that starts as Fino but is aged oxidatively, giving it a rich amber color and nutty, dry flavors.
+- name: Angostura Aromatic Bitters
+  slug: angostura_aromatic_bitters
+  url: /assets/images/ingredient-bitters.svg
+  description: A highly concentrated blend of herbs and spices essential for balancing classic cocktails; it is measured in dashes, not ounces.
+- name: Aperol
+  slug: aperol
+  url: /assets/images/ingredient-aperol.svg
+  description: An Italian aperitivo similar to Campari but lower in alcohol and slightly sweeter, known for its bright orange color and notes of rhubarb.
+- name: Apple Brandy
+  slug: apple_brandy
+  url: /assets/images/ingredient-apple-brandy.svg
+  description: A spirit distilled from apples, ranging from crisp American style to rich, oak-aged French Calvados.
+- name: Apricot Liqueur
+  slug: apricot_liqueur
+  url: /assets/images/ingredient-apricot-liqueur.svg
+  description: A stone-fruit liqueur used to introduce a jammy, sweet depth to a cocktail, sometimes carrying a subtle almond bitterness.
+- name: Banana Liqueur
+  slug: banana_liqueur
+  url: ''
+  description: A sweet liqueur flavored with bananas, used to impart a distinct tropical sweetness, often found in tiki drinks.
+- name: Banane du Brésil
+  slug: banane_du_brésil
+  url: ''
+  description: A specific banana liqueur known for its rum base and richer, more authentic banana flavor.
+- name: Barbados Rum
+  slug: barbados_rum
+  url: /assets/images/ingredient-dark-rum.svg
+  description: Rum specifically from Barbados, often characterized by a blend of pot and column still distillation, providing a balance of body and elegance.
+- name: Bénédictine
+  slug: bénédictine
+  url: /assets/images/ingredient-benedictine.svg
+  description: A complex French herbal liqueur created by Benedictine monks, known for its sweet, honeyed profile and notes of citrus and holiday spice.
+- name: Black Rum
+  slug: black_rum
+  url: /assets/images/ingredient-dark-rum.svg
+  description: A rum that is heavily aged or colored with molasses and caramel to achieve a dark, full-bodied, and often smoky or licorice-like flavor.
+- name: Black Sambuca
+  slug: black_sambuca
+  url: ''
+  description: An anise-flavored liqueur colored and flavored with elderberries, giving it a deep black/purple hue and a slightly richer profile than clear Sambuca.
+- name: Blanc Vermouth
+  slug: blanc_vermouth
+  url: /assets/images/ingredient-vermouth.svg
+  description: Also known as Bianco or White Vermouth, a fortified wine that is sweet and lighter in color than sweet (red) vermouth, often featuring vanilla and floral notes.
+- name: Blanco Tequila
+  slug: blanco_tequila
+  url: /assets/images/ingredient-tequila.svg
+  description: Unaged, clear tequila, bottled immediately after distillation, offering the purest, sharpest expression of the agave flavor.
+- name: Bourbon
+  slug: bourbon
+  url: /assets/images/ingredient-bourbon.svg
+  description: An American whiskey distilled from a mash bill that is at least 51% corn, aged in new, charred oak barrels, resulting in notes of vanilla, caramel, and oak.
+- name: Brandy
+  slug: brandy
+  url: /assets/images/ingredient-brandy.svg
+  description: A spirit distilled from wine (fermented fruit juice, usually grapes), ranging from simple unaged spirits to complex, aged forms like Cognac.
+- name: Cachaça
+  slug: cachaça
+  url: /assets/images/ingredient-cachaca.svg
+  description: A Brazilian spirit distilled directly from fermented sugarcane juice, giving it a distinctly grassy and funky flavor profile compared to molasses-based rum.
+- name: Calvados
+  slug: calvados
+  url: /assets/images/ingredient-calvados.svg
+  description: A type of apple or pear brandy from the Normandy region of France, traditionally aged in oak barrels.
+- name: Campari
+  slug: campari
+  url: /assets/images/ingredient-campari.svg
+  description: A famous Italian aperitivo known for its intensely bittersweet, complex flavor derived from various herbs and fruits.
+- name: Champagne
+  slug: champagne
+  url: /assets/images/ingredient-champagne.svg
+  description: A sparkling wine produced exclusively in the Champagne region of France, celebrated for its complex flavor and persistent effervescence.
+- name: Cherry Liqueur
+  slug: cherry_liqueur
+  url: assets/images/ingredient-maraschino-liqueur.svg
+  description: A clear, dry liqueur distilled from Marasca cherries, essential for classic cocktails due to its complex, faintly bitter, and aromatic flavor.
+- name: Cocchi Americano
+  slug: cocchi_americano
+  url: /assets/images/ingredient-cocchi-americano.svg
+  description: A quinine-laced aperitif wine from Italy, often used as a delicate substitute for Kina Lillet, featuring a lightly bitter, citrus, and herbal profile.
+- name: Coffee Liqueur
+  slug: coffee_liqueur
+  url: /assets/images/ingredient-coffee-liqueur.svg
+  description: A sweet liqueur flavored with coffee beans, often balanced with vanilla and caramel notes.
+- name: Cognac
+  slug: cognac
+  url: /assets/images/ingredient-cognac.svg
+  description: A specific type of grape brandy produced in the Cognac region of France, highly regulated and known for its smooth, layered, and fruity flavor profile.
+- name: Crème de Cacao
+  slug: crème_de_cacao
+  url: /assets/images/ingredient-creme-de-cacao.svg
+  description: A sweet liqueur flavored with cacao beans, essential for adding a rich chocolate aroma without the texture of cream.
+- name: Crème de Cassis
+  slug: crème_de_cassis
+  url: /assets/images/ingredient-creme-de-casis.svg
+  description: A dark, sweet liqueur made from blackcurrants. Its signature use is in the Kir cocktail.
+- name: Crème de Menthe
+  slug: crème_de_menthe
+  url: /assets/images/ingredient-creme-de-menthe.svg
+  description: A sweet, mint-flavored liqueur, traditionally used to add a cooling, bright element to digestivos and dessert drinks.
+- name: Crème de Mûre
+  slug: crème_de_mûre
+  url: ''
+  description: A sweet, dark liqueur flavored with blackberries, a staple in the Bramble cocktail.
+- name: Crème de Noyaux
+  slug: crème_de_noyaux
+  url: ''
+  description: An apricot or peach kernel liqueur, characterized by a sweet, nutty, and slightly bitter almond flavor.
+- name: Crème de Violette
+  slug: crème_de_violette
+  url: /assets/images/ingredient-creme-de-violette.svg
+  description: A liqueur flavored with violet flowers, giving it a light floral aroma and a striking purple color, traditionally used in the Aviation.
+- name: Curaçao
+  slug: curaçao
+  url: /assets/images/ingredient-curacao.svg
+  description: An orange-flavored liqueur derived from the dried peel of the Laraha citrus fruit, essential for balancing classic drinks.
+- name: Cynar Amaro
+  slug: cynar_amaro
+  url: /assets/images/ingredient-amaro.svg
+  description: An Italian artichoke-based amaro with a bittersweet, herbal, and slightly earthy flavor.
+- name: Dark Ale
+  slug: dark_ale
+  url: ''
+  description: A darker style of ale (like a Brown Ale or Porter) often featuring notes of malt, caramel, chocolate, or nuts.
+- name: Dark Rum
+  slug: dark_rum
+  url: /assets/images/ingredient-dark-rum.svg
+  description: Rum that is heavily aged or colored with molasses and caramel to achieve a dark, full-bodied, and often smoky or licorice-like flavor.
+- name: Demerara Rum
+  slug: demerara_rum
+  url: /assets/images/ingredient-dark-rum.svg
+  description: A rich, dark rum produced in Guyana, known for its deep color and molasses-forward, smoky, and brown-sugar characteristics.
+- name: Drambuie
+  slug: drambuie
+  url: /assets/images/ingredient-drambuie.svg
+  description: A sweet, golden Scotch whisky liqueur flavored with heather honey, herbs, and spices.
+- name: Dry Hard Cider
+  slug: dry_hard_cider
+  url: ''
+  description: Fermented apple juice that has little to no residual sugar, resulting in a crisp, dry, and often tannic beverage.
+- name: Dry Vermouth
+  slug: dry_vermouth
+  url: /assets/images/ingredient-dry-vermouth.svg
+  description: A fortified wine flavored with aromatic herbs and spices, characterized by its dry, crisp, and pale profile.
+- name: Dubonnet Rouge
+  slug: dubonnet_rouge
+  url: /assets/images/ingredient-dubonnet-rouge.png
+  description: A French aperitif wine made from a blend of fortified wine, spices, and quinine.
+- name: Elderflower Liqueur
+  slug: elderflower_liqueur
+  url: /assets/images/ingredient-elderflower-liqueur.svg
+  description: A pale, sweet liqueur capturing the delicate, floral, and slightly honeyed flavor of elderflower blossoms.
+- name: Fernet Branca
+  slug: fernet_branca
+  url: ''
+  description: A highly concentrated, intensely bitter Italian digestivo, known for its medicinal and minty herbal profile.
+- name: Fino Sherry
+  slug: fino_sherry
+  url: /assets/images/ingredient-sherry.svg
+  description: The driest and palest type of sherry, aged entirely under a layer of yeast called flor, giving it a light, nutty, and savory character.
+- name: Galliano
+  slug: galliano
+  url: ''
+  description: A sweet herbal liqueur from Italy, known for its flavors of vanilla, anise, and subtle spice.
+- name: Genever
+  slug: genever
+  url: /assets/images/ingredient-genever.svg
+  description: The original juniper-based Dutch spirit, the ancestor of gin. It is often pot-distilled, giving it a maltier, richer body.
+- name: Gin
+  slug: gin
+  url: /assets/images/ingredient-gin.svg
+  description: Gin is a distilled alcoholic drink flavoured with juniper berries and other botanical ingredients. Gin originated as a medicinal liquor made by monks and alchemists across Europe.
+- name: Gold Rum
+  slug: gold_rum
+  url: /assets/images/ingredient-light-rum.svg
+  description: Rum that has gained color and complexity from aging in oak barrels (typically for a few years), offering a smoother profile than white rum.
+- name: Grand Marnier
+  slug: grand_marnier
+  url: ''
+  description: A classic French liqueur combining Cognac brandy with distilled essence of bitter orange.
+- name: Green Chartreuse
+  slug: green_chartreuse
+  url: /assets/images/ingredient-chartreuse.svg
+  description: An extremely complex and potent French liqueur made by Carthusian Monks, featuring a powerful, vegetal, and spicy profile.
+- name: IPA
+  slug: ipa
+  url: ''
+  description: India Pale Ale, a hop-forward style of beer known for its pronounced bitterness, pine, citrus, and floral aromas.
+- name: Irish Whiskey
+  slug: irish_whiskey
+  url: /assets/images/ingredient-irish-whiskey.svg
+  description: Whiskey produced in Ireland, typically triple-distilled, resulting in a smooth, light, and fruitier flavor compared to Scotch.
+- name: Jamaican Rum
+  slug: jamaican_rum
+  url: /assets/images/ingredient-jamacian-rum.svg
+  description: Rum known for its distinctive 'funk' or 'hogo'—a pungent, fruity, and aromatic flavor derived from high ester content.
+- name: Kahlúa
+  slug: kahlúa
+  url: /assets/images/ingredient-coffee-liqueur.svg
+  description: A popular Mexican coffee liqueur based on rum, corn syrup, and arabica coffee.
+- name: Licor 43
+  slug: licor_43
+  url: ''
+  description: A sweet Spanish liqueur flavored with 43 natural ingredients, primarily vanilla, citrus, and herbs.
+- name: Light Amaro
+  slug: light_amaro
+  url: /assets/images/ingredient-amaro.svg
+  description: A category of amaro (Italian bitter herbal liqueur) that is generally milder, lighter in color, and less intensely bitter than digestivo amaros.
+- name: Light Rum
+  slug: light_rum
+  url: /assets/images/ingredient-light-rum.svg
+  description: Clear, unaged rum, often column-distilled for a lighter body and subtle sweetness, making it a highly versatile cocktail base.
+- name: Lillet Blanc
+  slug: lillet_blanc
+  url: /assets/images/ingredient-lillet-blanc.svg
+  description: A French aperitif wine that blends Bordeaux wines with citrus liqueurs, resulting in a fruity, golden, and slightly bitter profile.
+- name: Lillet Rouge
+  slug: lillet_rouge
+  url: /assets/images/ingredient-lillet-rouge.svg
+  description: The red version of the French aperitif, offering a richer, spicier, and more bitter flavor than Lillet Blanc.
+- name: Malört
+  slug: malört
+  url: ''
+  description: A highly distinctive, intensely bitter, and wormwood-based Swedish-style liqueur, famed for its polarizing, challenging taste.
+- name: Mango Liqueur
+  slug: mango_liqueur
+  url: ''
+  description: A sweet liqueur flavored with mangoes, adding tropical fruit flavor to cocktails.
+- name: Manzanilla Sherry
+  slug: manzanilla_sherry
+  url: /assets/images/ingredient-sherry.svg
+  description: A type of Fino Sherry aged exclusively in the coastal town of Sanlúcar de Barrameda, lending it a distinctive salty, seaside tang.
+- name: Maraschino Liqueur
+  slug: maraschino_liqueur
+  url: /assets/images/ingredient-maraschino-liqueur.svg
+  description: A clear, dry liqueur distilled from Marasca cherries, essential for classic cocktails due to its complex, faintly bitter, and aromatic flavor.
+- name: Mezcal
+  slug: mezcal
+  url: /assets/images/ingredient-mezcal.svg
+  description: A traditional Mexican spirit distilled from the cooked hearts of various agave plants, typically characterized by a distinctive smoky flavor.
+- name: Navy Strength Gin
+  slug: navy_strength_gin
+  url: /assets/images/ingredient-gin.svg
+  description: A term for gin bottled at a higher proof (typically $57\%\text{ ABV}$) that historically ensured gunpowder would still ignite if soaked with the spirit.
+- name: Navy Strength Rum
+  slug: navy_strength_rum
+  url: /assets/images/ingredient-light-rum.svg
+  description: Rum bottled at a very high proof (typically $57\%\text{ ABV}$ or more) for historical reasons, resulting in a more potent, concentrated flavor.
+- name: Nicaraguan Rum
+  slug: nicaraguan_rum
+  url: /assets/images/ingredient-light-rum.svg
+  description: Rum specifically from Nicaragua, often characterized by a smooth, light, and slightly sweet profile.
+- name: Oktoberfest
+  slug: oktoberfest
+  url: ''
+  description: A German Märzen-style lager traditionally brewed for the Munich festival, characterized by a malty, rich, copper color and clean finish.
+- name: Old Tom Gin
+  slug: old_tom_gin
+  url: /assets/images/ingredient-gin.svg
+  description: A historical style of gin that is slightly sweeter than London Dry, bridging the gap between Genever and modern dry gins.
+- name: Oloroso Sherry
+  slug: oloroso_sherry
+  url: /assets/images/ingredient-sherry.svg
+  description: A dark, nutty sherry aged entirely oxidatively, resulting in deep mahogany color and notes of walnut and dried fruit.
+- name: Overproof Jamaican Rum
+  slug: overproof_jamaican_rum
+  url: /assets/images/ingredient-jamacian-rum.svg
+  description: Jamaican rum bottled at a very high proof, often known for its pungent, funky, and aromatic 'hogo' notes.
+- name: Overproof Rum
+  slug: overproof_rum
+  url: /assets/images/ingredient-light-rum.svg
+  description: Rum bottled at a very high alcohol content (usually $57\%\text{ ABV}$ or higher), used sparingly for maximum flavor impact.
+- name: Peach Liqueur
+  slug: peach_liqueur
+  url: ''
+  description: A sweet liqueur flavored with peaches, used to introduce bright, fruity sweetness.
+- name: Pear Liqueur
+  slug: pear_liqueur
+  url: ''
+  description: A sweet liqueur flavored with pears, often used to add a delicate, smooth fruit note.
+- name: Peychauds Bitters
+  slug: peychauds_bitters
+  url: /assets/images/ingredient-bitters.svg
+  description: A distinct aromatic bitter from New Orleans, known for its prominent anise aroma and lighter, fruitier notes than Angostura.
+- name: Pimms
+  slug: pimms
+  url: ''
+  description: A famous British fruit cup made from gin infused with fruit extracts, spices, and liqueurs.
+- name: Pisco
+  slug: pisco
+  url: /assets/images/ingredient-pisco.svg
+  description: A colorless or amber brandy distilled from Muscat grapes in Peru or Chile, giving it a strong aromatic, fruity nose.
+- name: Plymouth Gin
+  slug: plymouth_gin
+  url: /assets/images/ingredient-gin.svg
+  description: A specific protected style of gin produced only in Plymouth, England, known for a slightly less juniper-forward, more root-driven, and earthier flavor than London Dry.
+- name: Porter
+  slug: porter
+  url: ''
+  description: A dark style of beer known for flavors of chocolate, caramel, and coffee from roasted malts.
+- name: Prosecco
+  slug: prosecco
+  url: /assets/images/ingredient-prosecco.svg
+  description: An Italian sparkling wine, typically drier than Champagne, known for its bright, fruity, and aromatic profile.
+- name: Punt e Mes
+  slug: punt_e_mes
+  url: ''
+  description: A dark, bittersweet Italian vermouth, considered a "quinquina" (quinine-infused), offering a more intense and complex profile.
+- name: Red Wine
+  slug: red_wine
+  url: /assets/images/ingredient-red-wine.svg
+  description: Wine made from red grapes, ranging in style from light and fruity to full-bodied and tannic.
+- name: Reposado Tequila
+  slug: reposado_tequila
+  url: /assets/images/ingredient-reposado-tequila.svg
+  description: Tequila aged in oak barrels for between two months and a year, imparting notes of vanilla, caramel, and wood.
+- name: Rhum Agricole
+  slug: rhum_agricole
+  url: /assets/images/ingredient-light-rum.svg
+  description: Rum distilled directly from fresh sugarcane juice (rather than molasses), resulting in a more herbaceous, earthy flavor.
+- name: Rosolio
+  slug: rosolio
+  url: ''
+  description: A traditional Italian liqueur, historically rose-petal based, but now refers to a category of softer, lower-proof sweet liqueurs.
+- name: Ruby Port
+  slug: ruby_port
+  url: /assets/images/ingredient-port.svg
+  description: A young, sweet, and simple style of Portuguese fortified wine, noted for its bright red color and berry flavors.
+- name: Rum
+  slug: rum
+  url: /assets/images/ingredient-light-rum.svg
+  description: A broad category of spirits distilled from sugarcane byproducts like molasses or sugarcane juice.
+- name: Rye
+  slug: rye
+  url: /assets/images/ingredient-rye.svg
+  description: An American whiskey distilled from a mash bill that is at least $51\%$ rye grain, characterized by its sharp, spicy, and peppery flavor.
+- name: Scotch
+  slug: scotch
+  url: /assets/images/ingredient-scotch.svg
+  description: Whisky distilled in Scotland, primarily from malted barley, categorized by its region and unique aging process (e.g., smoky/peated vs. unpeated).
+- name: Shochu
+  slug: shochu
+  url: ''
+  description: A traditional Japanese distilled spirit, typically made from barley, sweet potatoes, rice, or buckwheat, often lighter and lower in alcohol than vodka.
+- name: Single Malt
+  slug: single_malt
+  url: /assets/images/ingredient-single-malt-scotch.svg
+  description: Scotch whisky made at a single distillery using only malted barley.
+- name: Sloe Gin
+  slug: sloe_gin
+  url: /assets/images/ingredient-sloe-gin.svg
+  description: A British liqueur made by steeping sloe berries in gin, resulting in a sweet, deep red, fruit-flavored spirit.
+- name: Spice Rum
+  slug: spice_rum
+  url: /assets/images/ingredient-dark-rum.svg
+  description: Rum that has been flavored with various spices, such as cinnamon, nutmeg, cloves, and vanilla, often resulting in a sweet, warming spirit.
+- name: Stout
+  slug: stout
+  url: ''
+  description: A dark beer brewed with roasted malt or barley, giving it deep flavors of coffee and chocolate.
+- name: Suze
+  slug: suze
+  url: ''
+  description: A French liqueur made from gentian root, giving it a bright yellow color and a distinctively bitter, earthy, and floral flavor.
+- name: Swedish Punsch
+  slug: swedish_punsch
+  url: /assets/images/ingredient-swedish-punsch.svg
+  description: A classic Swedish liqueur that uses Batavia Arrack and spices, known for its smoky, citrusy, and sweet flavor.
+- name: Sweet Vermouth
+  slug: sweet_vermouth
+  url: /assets/images/ingredient-sweet-vermouth.svg
+  description: A fortified wine flavored with aromatic herbs and spices, typically red and sweet, used to balance cocktails.
+- name: Tawny Port
+  slug: tawny_port
+  url: /assets/images/ingredient-port.svg
+  description: A port wine aged in wooden barrels, which allows it to oxidize, mellow, and develop nutty, caramel, and dried fruit characteristics.
+- name: Triple Sec
+  slug: triple_sec
+  url: /assets/images/ingredient-triple-sec.svg
+  description: A dry, clear, orange-flavored liqueur. Often used synonymously with Curaçao, but traditionally drier.
+- name: Vodka
+  slug: vodka
+  url: /assets/images/ingredient-vodka.svg
+  description: A neutral spirit, often distilled from grain or potatoes, characterized by its clean, tasteless, and versatile nature.
+- name: Walnut Liqueur
+  slug: walnut_liqueur
+  url: ''
+  description: A sweet, often dark liqueur flavored with walnuts, typically used to add a rich, nutty, and slightly earthy complexity.
+- name: White Crème de Cacao
+  slug: white_crème_de_cacao
+  url: /assets/images/ingredient-creme-de-cacao.svg
+  description: The clear version of crème de cacao, offering the same rich chocolate aroma without affecting the drink's color.
+- name: White Rum
+  slug: white_rum
+  url: /assets/images/ingredient-light-rum.svg
+  description: Clear, unaged rum, often column-distilled for a lighter body and subtle sweetness, making it a highly versatile cocktail base.
+- name: White Vermouth
+  slug: white_vermouth
+  url: /assets/images/ingredient-vermouth.svg
+  description: Also known as Blanc or Bianco Vermouth, a fortified wine that is sweet and lighter in color than sweet (red) vermouth, often featuring vanilla and floral notes.
+- name: White Wine
+  slug: white_wine
+  url: /assets/images/ingredient-white-wine.svg
+  description: Wine made from white grapes, often resulting in fruity, acidic, or dry flavor profiles.
+- name: Yellow Chartreus
+  slug: yellow_chartreus
+  url: /assets/images/ingredient-chartreuse.svg
+  description: A lighter, sweeter, and milder version of the famous Green Chartreuse, with a primary flavor of honey and saffron.
