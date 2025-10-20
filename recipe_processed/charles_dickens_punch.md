@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/charles_dickens_punch/"
 iconfile: charles_dickens_punch
 stars: 0
-base_spirits: "Overproof Rum, Cognac "
+base_spirits: ['Overproof Rum', 'Cognac ']
 youtube: "BXGS7Ai2hec"
 description: "A classic and flavorful punch, famously enjoyed by the author, featuring a blend of rum, brandy, and lemon set ablaze."
 excerpt: |

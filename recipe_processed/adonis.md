@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/adonis/"
 iconfile: adonis
 stars: 3
-base_spirits: "Oloroso Sherry "
+base_spirits: ['Oloroso Sherry ']
 youtube: "B8l-F1qcTYU&t=48s"
 description: "A low-alcohol classic from the 1880s that balances the nutty notes of Oloroso sherry with sweet vermouth."
 excerpt: |

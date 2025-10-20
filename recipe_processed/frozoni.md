@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/frozoni/"
 iconfile: frozoni
 stars: 0
-base_spirits: "Gin, Campari, Prosecco"
+base_spirits: ['Gin', 'Campari', 'Prosecco']
 youtube: "ipHnOhkGWug"
 description: "A frozen, slushy variation of the Enzoni cocktail, blending gin, Campari, and muddled grapes with the sparkle of prosecco."
 excerpt: |

@@ -1,9 +1,9 @@
 images:
   ingredient:
+    - url: /assets/images/ingredient-champagne.svg
+      title: Champagne
     - url: /assets/images/ingredient-elderflower-liqueur.svg
       title: Elderflower liqueur
-    - url: /assets/images/ingredient-prosecco.svg
-      title: Prosecco
   tool:
     - url: /assets/images/tool_muddler.svg
       title: Muddler
@@ -12,3 +12,6 @@ images:
       title: Lime slice
     - url: /assets/images/herb_mint.svg
       title: Mint
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

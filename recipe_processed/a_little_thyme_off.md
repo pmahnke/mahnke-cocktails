@@ -7,7 +7,7 @@ title: "A Little Thyme Off"
 permalink: "/recipe/a_little_thyme_off/"
 iconfile: a_little_thyme_off
 stars: 0
-base_spirits: "Lemon, Thyme Simple Syrup, Ginger Beer"
+base_spirits: ['Lemon', 'Thyme Simple Syrup', 'Ginger Beer']
 youtube: "ZE3G8aUyOn0"
 description: "A refreshing and herbaceous non-alcoholic cocktail featuring a thyme-infused simple syrup balanced with lemon and ginger beer."
 excerpt: |

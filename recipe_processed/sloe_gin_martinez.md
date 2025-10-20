@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/sloe_gin_martinez/"
 iconfile: sloe_gin_martinez
 stars: 0
-base_spirits: "Sloe Gin, Campari"
+base_spirits: ['Sloe Gin', 'Campari']
 youtube: "Cy1skc0oI28"
 description: "A brilliant modern reconstruction of the Classic Martinez, featuring sloe gin and a touch of Campari."
 excerpt: |

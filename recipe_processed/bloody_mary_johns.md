@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/bloody_mary_johns/"
 iconfile: bloody_mary_johns
 stars: 0
-base_spirits: "Vodka"
+base_spirits: ['Vodka']
 youtube: ""
 description: "A classic savory cocktail from the 1920s, featuring vodka and tomato juice with a complex blend of spices."
 excerpt: |

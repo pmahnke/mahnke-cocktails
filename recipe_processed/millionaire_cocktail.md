@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/millionaire_cocktail/"
 iconfile: millionaire_cocktail
 stars: 0
-base_spirits: "Jamaican Rum, Apricot Liqueur"
+base_spirits: ['Jamaican Rum', 'Apricot Liqueur']
 youtube: "CZ5KSKO3sbQ"
 description: "A classic Prohibition-era sour with a rich flavor profile from Jamaican rum, sloe gin, and apricot liqueur."
 excerpt: |

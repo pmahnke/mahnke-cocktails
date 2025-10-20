@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/grey_fox/"
 iconfile: grey_fox
 stars: 0
-base_spirits: "Earl Grey Syrup, Lemon"
+base_spirits: ['Earl Grey Syrup', 'Lemon']
 youtube: "5wgvpo-xBnA"
 description: "A non-alcoholic cocktail featuring the distinct flavors of Earl Grey tea and fresh lemon."
 excerpt: |

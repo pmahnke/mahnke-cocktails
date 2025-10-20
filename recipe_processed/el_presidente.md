@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/el_presidente/"
 iconfile: el_presidente
 stars: 4
-base_spirits: "Gin, White Vermouth"
+base_spirits: ['Gin', 'White Vermouth']
 youtube: "1AZGE2FUAO4"
 description: "A classic Cuban cocktail from the Prohibition era, this is a sophisticated and slightly sweet drink featuring rum, vermouth, and curaçao."
 excerpt: |

@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/royal_bermuda_yacht_club/"
 iconfile: rbyc
 stars: 4
-base_spirits: "Demerara Rum, Light Rum"
+base_spirits: ['Demerara Rum', 'Light Rum']
 youtube: "y3s1xmGfLkw"
 description: "A modern sour from the 1940s, this cocktail features a sophisticated blend of rum, falernum, and Cointreau."
 excerpt: |

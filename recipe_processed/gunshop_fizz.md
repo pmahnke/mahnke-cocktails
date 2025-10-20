@@ -7,7 +7,7 @@ eras: [new_orleans]
 permalink: "/recipe/gunshop_fizz/"
 iconfile: gunshop_fizz
 stars: 0
-base_spirits: "Peychaud's Bitters"
+base_spirits: ['Peychauds Bitters']
 youtube: "NYKEbNf5ksg"
 description: "A unique and modern fizz that boldly uses two full ounces of Peychaud's bitters as its base spirit."
 excerpt: |

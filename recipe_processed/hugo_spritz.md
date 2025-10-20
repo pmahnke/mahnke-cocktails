@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/hugo_spritz/"
 iconfile: hugo_spritz
 stars: 2.5
-base_spirits: "Elderflower Liqueur, Champagne"
+base_spirits: "Elderflower Liqueur, Prosecco"
 youtube: "BUb54paVf0s"
 description: "A refreshing and floral modern spritz from Italy, combining elderflower liqueur with prosecco and mint."
 excerpt: |

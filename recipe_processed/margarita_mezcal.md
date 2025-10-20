@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/margarita_mezcal/"
 iconfile: margarita_mezcal
 stars: 0
-base_spirits: "Mezcal"
+base_spirits: ['Mezcal']
 youtube: "VBSjE-P_C58"
 description: "A modern twist on the classic Margarita that swaps tequila for its smoky cousin, mezcal."
 excerpt: |

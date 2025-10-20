@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/siesta/"
 iconfile: siesta
 stars: 0
-base_spirits: "Blanco Tequila, Campari"
+base_spirits: ['Blanco Tequila', 'Campari']
 youtube: "F6o09CBEVvU"
 description: "A modern classic from 2006, this is a bright and crisp sour similar to a Hemingway Daiquiri, but with tequila and a bitter Campari finish."
 excerpt: |

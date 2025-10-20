@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/apeman/"
 iconfile: apeman
 stars: 0
-base_spirits: "Bourbon, Oloroso Sherry, Banana Liqueur"
+base_spirits: ['Bourbon', 'Oloroso Sherry', 'Banana Liqueur']
 youtube: "CfKrIWRMrNA"
 description: "An original sour cocktail that pairs bourbon and Oloroso sherry with the tropical sweetness of banana liqueur."
 excerpt: |

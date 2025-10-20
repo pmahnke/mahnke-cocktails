@@ -7,7 +7,7 @@ categories: [highball]
 permalink: "/recipe/paloma/"
 iconfile: paloma
 stars: 0
-base_spirits: "Blanco Tequila"
+base_spirits: ['Blanco Tequila']
 youtube: "yyVU7U-8WLc"
 description: "A simple, classic, and incredibly refreshing Mexican highball that combines tequila with grapefruit soda and a squeeze of lime."
 excerpt: |

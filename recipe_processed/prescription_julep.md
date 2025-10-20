@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/prescription_julep/"
 iconfile: prescription_julep
 stars: 0
-base_spirits: "Cognac, Rye "
+base_spirits: ['Cognac', 'Rye ']
 youtube: "xfLW5Na9QpM"
 description: "A classic and complex julep from the mid-1800s that combines both rye whiskey and cognac with fresh mint."
 excerpt: |

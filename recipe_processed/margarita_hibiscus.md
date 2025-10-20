@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/margarita_hibiscus/"
 iconfile: margarita_hibiscus
 stars: 0
-base_spirits: "Reposado Tequila"
+base_spirits: ['Reposado Tequila']
 youtube: "GiNen9YukD8"
 description: "A refreshing and vibrant modern Margarita that incorporates the floral and tangy notes of a homemade hibiscus syrup."
 excerpt: |

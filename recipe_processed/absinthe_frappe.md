@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/absinthe_frappe/"
 iconfile: absinthe_frappe
 stars: 3.5
-base_spirits: "Absinthe"
+base_spirits: ['Absinthe']
 youtube: "g4_hKcbMLL4"
 description: "A classic and refreshing frappé built around the distinct anise and herbal flavors of absinthe."
 excerpt: |

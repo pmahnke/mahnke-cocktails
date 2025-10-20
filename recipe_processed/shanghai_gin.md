@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/shanghai_gin/"
 iconfile: shanghai_gin
 stars: 4.25
-base_spirits: "Gin, Yellow Chartreuse, Bénédictine"
+base_spirits: ['Gin', 'Yellow Chartreuse', 'Bénédictine']
 youtube: "6OApD96Wn_M"
 description: "A modern sour featuring a complex combination of gin, yellow Chartreuse, Bénédictine, and lemon."
 excerpt: |

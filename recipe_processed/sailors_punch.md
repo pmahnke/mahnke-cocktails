@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/sailors_punch/"
 iconfile: sailors_punch
 stars: 0
-base_spirits: "Bourbon"
+base_spirits: ['Bourbon']
 youtube: ""
 description: "A modern punch recipe featuring bourbon as its base spirit."
 excerpt: |

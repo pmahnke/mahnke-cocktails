@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/algonquin/"
 iconfile: algonquin
 stars: 3
-base_spirits: "Rye, White Vermouth, Amontillado Sherry"
+base_spirits: ['Rye', 'White Vermouth', 'Amontillado Sherry']
 youtube: "BarYf4SITZ4"
 description: "A Prohibition-era sour named for the famous Manhattan hotel, featuring rye whiskey and pineapple juice."
 excerpt: |

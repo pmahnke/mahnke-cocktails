@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/sage_hen/"
 iconfile: sage_hen
 stars: 0
-base_spirits: "Gin, Yellow Chartreuse "
+base_spirits: ['Gin', 'Yellow Chartreuse ']
 youtube: "EKyIy5iG87Q"
 description: "A modern sour that showcases the unique savory and sweet flavors of fresh sage and honey."
 excerpt: |

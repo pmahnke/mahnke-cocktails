@@ -5,7 +5,7 @@ categories: [syrup]
 permalink: "/recipe/cinnamon_honey_syrup/"
 iconfile: cinnamon_honey_syrup
 stars: 0
-base_spirits: "Honey, Cinnamon Sticks"
+base_spirits: ['Honey', 'Cinnamon Sticks']
 youtube: "79htbyQ8nDY"
 excerpt: |
   Like the simple cinnamon simple syrup recipe. This adds a touch of honey for a cinnamon spiced flavor.

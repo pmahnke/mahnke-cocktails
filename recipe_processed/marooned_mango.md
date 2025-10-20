@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/marooned_mango/"
 iconfile: marooned_mango
 stars: 4
-base_spirits: "Cachaça, Mango Liqueur"
+base_spirits: ['Cachaça', 'Mango Liqueur']
 youtube: "xnXFbjQSu-k"
 description: "A delightful tropical original cocktail that features a sweet and tangy combination of cachaça and mango liqueur."
 excerpt: |

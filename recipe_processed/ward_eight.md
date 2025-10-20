@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/ward_eight/"
 iconfile: ward_eight
 stars: 0
-base_spirits: "Rye "
+base_spirits: ['Rye ']
 youtube: "Gf8FdfHx-LmqZMg-"
 description: "A classic whiskey sour with a rich history from late 19th-century Boston, featuring rye whiskey and a touch of grenadine."
 excerpt: |

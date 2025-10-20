@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/satellite/"
 iconfile: satellite
 stars: 0
-base_spirits: "Gin"
+base_spirits: ['Gin']
 youtube: "CGkWnYhu4ag"
 description: "This is an Anders original which uses gin as its base, and is flavored with falernum and grenadine. It is a riff on the Saturn cocktail."
 excerpt: |

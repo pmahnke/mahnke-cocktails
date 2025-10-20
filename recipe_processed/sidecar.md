@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/sidecar/"
 iconfile: sidecar
 stars: 3
-base_spirits: Cognac
+base_spirits: ['Cognac']
 youtube: "re76GCUoiH4"
 youtube_embed: "https://www.youtube.com/embed/re76GCUoiH4?si=EMdqje_4KECcUOJA"
 description: "A classic and elegant sour from the early 20th century, combining the rich flavors of cognac, orange liqueur, and lemon juice."

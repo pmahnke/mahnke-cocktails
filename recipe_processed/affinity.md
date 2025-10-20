@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/affinity/"
 iconfile: affinity
 stars: 4
-base_spirits: "Scotch, Sweet Vermouth, White Vermouth"
+base_spirits: ['Scotch', 'Sweet Vermouth', 'White Vermouth']
 youtube: "9lgx04fJrSM"
 description: "A sophisticated classic that creates a harmonious blend of Scotch, sweet vermouth, and dry vermouth."
 excerpt: |

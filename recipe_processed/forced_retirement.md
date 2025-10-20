@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/forced_retirement/"
 iconfile: forced_retirement
 stars: 0
-base_spirits: "Malört, Gin, Campari "
+base_spirits: ['Malört', 'Gin', 'Campari ']
 youtube: "shi2LNARyxk"
 description: "A unique and intensely bitter highball that prominently features Malört, a classic Chicago spirit."
 excerpt: |

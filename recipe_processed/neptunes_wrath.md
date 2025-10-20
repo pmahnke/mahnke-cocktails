@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/neptunes_wrath/"
 iconfile: neptunes_wrath
 stars: 0
-base_spirits: "Gin, Absinthe, Green Chartreuse"
+base_spirits: ['Gin', 'Absinthe', 'Green Chartreuse']
 youtube: "eoMchfbaVPw"
 description: "A visually dramatic modern sour that represents the fury of the sea with its green hue from absinthe and a flaming Chartreuse float."
 excerpt: |

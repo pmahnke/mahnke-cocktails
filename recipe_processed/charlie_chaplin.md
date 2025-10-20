@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/charlie_chaplin/"
 iconfile: charlie_chaplin
 stars: 0
-base_spirits: "Sloe Gin, Apricot Liqueur"
+base_spirits: ['Sloe Gin', 'Apricot Liqueur']
 youtube: "VqVJ10en-Uc"
 description: "A pre-Prohibition sour named for the silent film star, featuring a simple and fruity combination of sloe gin and apricot liqueur."
 excerpt: |

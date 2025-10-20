@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/macunaima/"
 iconfile: macunaima
 stars: 4
-base_spirits: "Cachaça, Fernet Branca"
+base_spirits: ['Cachaça', 'Fernet Branca']
 youtube: "xnXFbjQSu-k"
 description: "A modern Brazilian sour that features cachaça as its base, with the unique bitter complexity of Fernet Branca."
 excerpt: |

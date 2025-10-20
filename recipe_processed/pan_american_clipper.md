@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/pan_american_clipper/"
 iconfile: pan_american_clipper
 stars: 0
-base_spirits: "Apple Brandy"
+base_spirits: ['Apple Brandy']
 youtube: "YwHw259XAOU"
 description: "A bright-hued sour from the 1930s, this is a classic cocktail that features apple brandy, lime, grenadine, and a hint of absinthe."
 excerpt: |

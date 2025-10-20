@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/fancy_cocktail_1/"
 iconfile: fancy_cocktail_1
 stars: 0
-base_spirits: "Rosolio, Reposado Tequila, Manzanilla Sherry "
+base_spirits: ['Rosolio', 'Reposado Tequila', 'Manzanilla Sherry ']
 youtube: "AfbytyV2PdY"
 description: "An elegant, spirit-forward original cocktail that pairs the citrus and floral notes of Rosolio with reposado tequila and dry sherry."
 excerpt: |

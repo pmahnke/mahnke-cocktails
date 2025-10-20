@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/bloody_mary_anders/"
 iconfile: bloody_mary_anders
 stars: 0
-base_spirits: "Vodka, Amontillado Sherry"
+base_spirits: ['Vodka', 'Amontillado Sherry']
 youtube: "V_LkOGZGDyo"
 description: "A classic savory cocktail from the 1920s, featuring vodka and tomato juice with a complex blend of spices."
 excerpt: |

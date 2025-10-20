@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/jungle_bird/"
 iconfile: jungle_bird
 stars: 3.5
-base_spirits: "Jamaican Rum, Demerara Rum, Campari"
+base_spirits: ['Jamaican Rum', 'Demerara Rum', 'Campari']
 youtube: "YFqEvNdPrX8"
 description: "A classic tiki cocktail from the 1970s with a unique bitter twist from the inclusion of Campari."
 excerpt: |

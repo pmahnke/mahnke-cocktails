@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/roulette/"
 iconfile: roulette
 stars: 0
-base_spirits: "Apple Brandy, Barbados Rum, Swedish Punsch"
+base_spirits: ['Apple Brandy', 'Barbados Rum', 'Swedish Punsch']
 youtube: "VXjcObds5DY"
 description: "A distinctive mix of three spirits, combining apple brandy, light rum, and Swedish Punsch. This combination creates a surprisingly balanced, fruit-forward cocktail with complex notes of apple, spice, and cane sugar."
 excerpt: |

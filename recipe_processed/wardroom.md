@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/wardroom/"
 iconfile: wardroom
 stars: 3
-base_spirits: "Cognac, Nicaraguan Rum, Tawny Port"
+base_spirits: ['Cognac', 'Nicaraguan Rum', 'Tawny Port']
 youtube: "y41UN6AZSMs"
 description: "A modern cocktail with a naval theme, featuring a rich combination of port, cognac, and dark rum."
 excerpt: |

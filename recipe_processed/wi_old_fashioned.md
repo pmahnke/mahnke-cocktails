@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/wi_old_fashioned/"
 iconfile: wi_old_fashioned
 stars: 3.5
-base_spirits: "Brandy"
+base_spirits: ['Brandy']
 youtube: "wr1pjEwi4P0"
 description: "A unique regional variation of the Old Fashioned from Wisconsin, which uses brandy, muddled fruit, and is topped with either sweet or sour soda."
 excerpt: |

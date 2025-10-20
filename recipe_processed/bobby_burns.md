@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/bobby_burns/"
 iconfile: bobby_burns
 stars: 3.5
-base_spirits: "Scotch, Blended, Bénédictine"
+base_spirits: ['Scotch', 'Blended', 'Bénédictine']
 youtube: "X5haIFd1Ysw"
 description: "A classic cocktail named for the Scottish poet Robert Burns, this is a Rob Roy variation made richer with Bénédictine."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/martini/"
 iconfile: martini
 stars: 4
-base_spirits: "Gin "
+base_spirits: ['Gin ']
 youtube: "izZsjqnADAA"
 description: "The iconic, elegant, and simple classic cocktail, typically made with gin and dry vermouth and garnished with an olive or a lemon twist."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/corpse_reviver_1/"
 iconfile: corpse_reviver_1
 stars: 4
-base_spirits: "Calvados, Cognac"
+base_spirits: ['Calvados', 'Cognac']
 youtube: "rMCsrbidAJ4"
 description: 'The original Corpse Reviver, this is a cognac-based cocktail intended as a "hair of the dog" morning drink.'
 excerpt: |

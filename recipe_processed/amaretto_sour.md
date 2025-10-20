@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/amaretto_sour/"
 iconfile: amaretto_sour
 stars: 3.5
-base_spirits: "Amaretto, Apple Brandy"
+base_spirits: ['Amaretto', 'Apple Brandy']
 youtube: "_nIr7E-cMOs"
 description: "A modern sour that elevates the classic amaretto base with the structure of cask-strength bourbon and the texture of egg white."
 excerpt: |

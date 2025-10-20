@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/harvest_moon_punch/"
 iconfile: harvest_moon_punch
 stars: 0
-base_spirits: "Jamaican Rum, Apple Brandy, Pear Liqueur, Allspice Dram"
+base_spirits: ['Jamaican Rum', 'Apple Brandy', 'Pear Liqueur', 'Allspice Dram']
 youtube: "S5ipwEU7uHo"
 description: "An original punch with autumnal flavors, featuring Jamaican rum, apple brandy, pear liqueur, and allspice dram."
 excerpt: |

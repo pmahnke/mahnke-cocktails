@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/japanese_sour/"
 iconfile: japanese_sour
 stars: 4.25
-base_spirits: "Shochu, Vodka"
+base_spirits: ['Shochu', 'Vodka']
 description: "A refreshing and easy-to-make modern sour that features Japanese shochu as its base."
 excerpt: |
   The classic Japanese Lemon Sour is a refreshing and easy-to-make cocktail.

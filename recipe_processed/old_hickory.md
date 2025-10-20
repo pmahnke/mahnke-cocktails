@@ -7,7 +7,7 @@ eras: [new_orleans]
 permalink: "/recipe/old_hickory/"
 iconfile: old_hickory
 stars: 0
-base_spirits: "Sweet Vermouth, Dry Vermouth"
+base_spirits: ['Sweet Vermouth', 'Dry Vermouth']
 youtube: "0qztLZnJbk8"
 description: "A light, low-ABV classic named for President Andrew Jackson, featuring a simple and smooth combination of sweet and dry vermouths."
 excerpt: |

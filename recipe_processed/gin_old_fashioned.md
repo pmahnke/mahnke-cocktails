@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/gin_old_fashioned/"
 iconfile: gin_old_fashioned
 stars: 2
-base_spirits: "Old Tom Gin"
+base_spirits: ['Old Tom Gin']
 youtube: "0rnil0_xFnM"
 description: "A classic Old Fashioned preparation that uses the slightly sweeter Old Tom gin as its base instead of whiskey."
 excerpt: |

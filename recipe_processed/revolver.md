@@ -7,7 +7,7 @@ categories: [Coffee, Cocktail]
 permalink: "/recipe/revolver/"
 iconfile: revolver
 stars: 0
-base_spirits: "Bourbon, Coffee Liqueur"
+base_spirits: ['Bourbon', 'Coffee Liqueur']
 youtube: "mFOZcQvZ6oY"
 description: "A modern classic from San Francisco, this is an exceptional coffee-laced riff on the Manhattan."
 excerpt: |

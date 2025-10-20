@@ -6,7 +6,7 @@ permalink: "/recipe/coldbrewconcentrate/"
 iconfile: cold_brew_concentrate
 youtube: "u0N9FFJ1i5c"
 stars: 0
-base_spirits: "Coffee Grounds"
+base_spirits: ['Coffee Grounds']
 excerpt: |
   Cold brew concentrate is a concentrated form of cold brew coffee. It is made by steeping coarsely ground coffee beans in cold water for an extended period, typically 12-24 hours. The resulting concentrate is much stronger and more caffeinated than regular cold brew or drip coffee.
 ---

@@ -5,7 +5,7 @@ categories: [syrup]
 permalink: "/recipe/cinnamon_syrup/"
 iconfile: cinnamon_syrup
 stars: 0
-base_spirits: "White Sugar, Cinnamon Sticks"
+base_spirits: ['White Sugar', 'Cinnamon Sticks']
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
   Add the taste of cinnamon to any drink with this simple cinnamon simple syrup recipe. It's easy and the long infusion creates a wonderful spiced flavor.

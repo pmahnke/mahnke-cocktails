@@ -7,7 +7,7 @@ categories: [smash]
 permalink: "/recipe/strawberry_basil_smash/"
 iconfile: strawberry_basil_smash
 stars: 0
-base_spirits: "Jamaican Rum"
+base_spirits: ['Jamaican Rum']
 youtube: "3i4QnRLlPFc"
 description: "A refreshing classic smash that combines the sweetness of fresh strawberries with the savory, herbaceous notes of basil."
 excerpt: |

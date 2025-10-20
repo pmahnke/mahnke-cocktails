@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/hotel_national/"
 iconfile: hotel_national
 stars: 4
-base_spirits: "Light Rum, Apricot Liqueur"
+base_spirits: ['Light Rum', 'Apricot Liqueur']
 youtube: "aK-xI2Th2YE"
 description: "A classic Cuban sour from the Prohibition era, featuring light rum, apricot liqueur, and pineapple juice."
 excerpt: |

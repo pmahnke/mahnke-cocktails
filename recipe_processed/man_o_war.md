@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/man_o_war/"
 iconfile: man_o_war
 stars: 0
-base_spirits: "Bourbon, Oloroso Sherry"
+base_spirits: ['Bourbon', 'Oloroso Sherry']
 youtube: "1V0-c6u4xJA"
 description: "A citrusy bourbon sour from the Prohibition era, named for one of history's most famous racehorses."
 excerpt: |

@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/bourbon_lift/"
 iconfile: bourbon_lift
 stars: 0
-base_spirits: "Bourbon, Coffee Liqueur"
+base_spirits: ['Bourbon', 'Coffee Liqueur']
 youtube: "zCDgzuTYKBU"
 description: "A playful and nostalgic modern fizz that combines bourbon and coffee liqueur with orgeat and cream."
 excerpt: |

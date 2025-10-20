@@ -5,7 +5,7 @@ categories: [syrup]
 permalink: "/recipe/cream_of_coconut_syrup/"
 iconfile: cream_of_coconut_syrup
 stars: 0
-base_spirits: "White Sugar, Coconut Milk"
+base_spirits: ['White Sugar', 'Coconut Milk']
 youtube: "vGBMrJgjZB4"
 excerpt: |
   Cream of coconut syrup is a thick, sweet, and creamy syrup made from coconut milk and sugar.

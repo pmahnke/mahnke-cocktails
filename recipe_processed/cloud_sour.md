@@ -8,7 +8,7 @@ eras: [ modern ]
 permalink: "/recipe/cloud_sour/"
 iconfile: cloud_sour
 stars: 0
-base_spirits: "Gin"
+base_spirits: ['Gin']
 youtube: ""
 description: "A modern sour with a funky, umami-rich character derived from the use of shio koji, a fermented rice marinade."
 excerpt: |

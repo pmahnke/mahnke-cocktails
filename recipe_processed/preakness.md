@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/preakness/"
 iconfile: preakness
 stars: 3
-base_spirits: "Bourbon, Bénédictine"
+base_spirits: ['Bourbon', 'Bénédictine']
 youtube: "1V0-c6u4xJA"
 description: "A classic Manhattan variation named for the famous horse race, which gets an added layer of herbal complexity from Bénédictine."
 excerpt: |

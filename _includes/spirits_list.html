@@ -1,26 +1,43 @@
-{%- assign all_spirits = "" -%}
+{%- assign all_spirits_list = "" | split: " " -%}
 
 {%- for page in site.pages -%}
-  {%- assign cleaned_list = page.base_spirits | replace: " -OR- ", ", " -%}
-  {%- assign spirits = cleaned_list | strip | split: ", " -%}
-  {%- for spirit in spirits -%}
-    {%- unless page.categories contains "mocktail" or page.categories contains "syrup"  -%}
-    {%- unless spirit contains "SPIRIT" -%}
-    {%- assign spirit_clean = spirit | strip  -%}
-    {%- unless all_spirits contains spirit_clean -%}
-      {%- assign all_spirits = all_spirits | append: spirit_clean | append: "|" -%}
-    {%- endunless -%}
-    {%- endunless -%}
-    {%- endunless -%}
-  {%- endfor -%}
+  {%- comment -%} Skip pages that do not have base_spirits or have specific categories {%- endcomment -%}
+  {%- unless page.categories contains "mocktail" or page.categories contains "syrup" or page.base_spirits == nil -%}
+    
+    {%- comment -%}
+      Since page.base_spirits is now a native array, we can iterate over it directly.
+      No need for 'replace', 'strip', or 'split: ", "' anymore!
+    {%- endcomment -%}
+    {%- for spirit in page.base_spirits -%}
+      
+      {%- comment -%} Use the 'map' filter for cleanup and the 'push' filter for collection {%- endcomment -%}
+      {%- assign spirit_clean = spirit | strip -%}
+      
+      {%- comment -%} 
+        SKIP: If the spirit is empty, contains the '-OR-' pattern, is the 'SPIRIT' placeholder, or is a duplicate.
+      {%- endcomment -%}
+      {%- unless spirit_clean == "" or 
+                spirit_clean contains ' -OR- ' or 
+                spirit_clean == 'SPIRIT' or 
+                all_spirits_list contains spirit_clean -%}
+        {%- assign all_spirits_list = all_spirits_list | push: spirit_clean -%}
+      {%- endunless -%}
+      
+    {%- endfor -%}
+  {%- endunless -%}
 {%- endfor -%}
 
-{%- assign unique_spirits = all_spirits | split: "|" | sort -%}
+{%- assign unique_spirits = all_spirits_list | sort -%}
 
-<ul>
+<p>Found {{ unique_spirits | size }} unique base spirits.</p>
+<ul class="list-disc list-inside space-y-1">
   {%- for spirit in unique_spirits -%}
     {%- if spirit != "" -%}
-      <li><a href="/cgi-bin/cocktail_search.cgi?a=search&q={{ spirit }}">{{ spirit }}</a></li>
+      {%- comment -%} 
+        FIX: Create the slug (e.g., light-rum) and link to the dedicated /spirit/ page.
+      {%- endcomment -%}
+      {%- assign spirit_slug = spirit | downcase | replace: ' ', '_' -%}
+      <li><a href="/spirit/{{ spirit_slug | url_encode }}">{{ spirit }}</a></li>
     {%- endif -%}
   {%- endfor -%}
 </ul>

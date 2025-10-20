@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/blood_and_sand/"
 iconfile: blood_and_sand
 stars: 3.5
-base_spirits: "Scotch, Blended, Cherry Liqueur "
+base_spirits: ['Scotch', 'Blended', 'Cherry Liqueur ']
 youtube: "r50WUk960qI"
 description: "A classic Scotch cocktail from the 1930s that uniquely combines whisky with cherry liqueur, sweet vermouth, and orange juice."
 excerpt: |

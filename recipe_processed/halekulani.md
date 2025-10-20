@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/halekulani/"
 iconfile: halekulani
 stars: 0
-base_spirits: "Bourbon, Rye"
+base_spirits: ['Bourbon', 'Rye']
 youtube: "uiegg1DsKQU"
 description: "A classic tropical cocktail from the Prohibition era that uniquely uses whiskey as its base instead of the more common rum."
 excerpt: |

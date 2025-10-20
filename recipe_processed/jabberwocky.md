@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/jabberwocky/"
 iconfile: jabberwocky
 stars:
-base_spirits: "Manzanilla Sherry, Gin, Lillet Blanc"
+base_spirits: ['Manzanilla Sherry', 'Gin', 'Lillet Blanc']
 youtube: "tGudsyMDO_g"
 description: "A refined and nuanced Martini-style sipper from the Savoy Cocktail book, featuring a marriage of dry sherry, gin, and Lillet."
 excerpt: |

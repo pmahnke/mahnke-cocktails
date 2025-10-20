@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/alexander/"
 iconfile: alexander
 stars: 0
-base_spirits: "Gin, Crème de Cacao"
+base_spirits: ['Gin', 'Crème de Cacao']
 youtube: "mBGgu3qRztY"
 description: "A creamy and decadent classic that combines gin with the chocolate notes of crème de cacao and cream."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/corpse_reviver_2a/"
 iconfile: corpse_reviver_2a
 stars: 0
-base_spirits: "Gin, Swedish Punsch"
+base_spirits: ['Gin', 'Swedish Punsch']
 youtube: "rMCsrbidAJ4"
 description: "A modern riff on the classic Corpse Reviver No. 2 that incorporates the unique spice of Swedish Punsch."
 excerpt: |

@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/junior/"
 iconfile: junior
 stars: 3.5
-base_spirits: "Rye, Bénédictine"
+base_spirits: ['Rye', 'Bénédictine']
 youtube: "_bDARIxZlcE"
 description: 'A classic Prohibition-era sour, also known as the "Quick Recovery," that pairs rye whiskey with the herbal sweetness of Bénédictine.'
 excerpt: |

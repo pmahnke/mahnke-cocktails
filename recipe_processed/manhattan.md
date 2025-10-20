@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/manhattan/"
 iconfile: manhattan
 stars: 4
-base_spirits: Rye
+base_spirits: ['Rye']
 youtube: "eWESf1b317Y&t=278s"
 youtube_embed: "https://www.youtube.com/embed/eWESf1b317Y?si=fVWUHbXnEHzF820P"
 description: "A timeless and sophisticated classic from the 1800s, perfectly balancing the spice of rye whiskey with sweet vermouth and bitters."

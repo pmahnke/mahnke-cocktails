@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/boulevardier/"
 iconfile: boulevardier
 stars: 4
-base_spirits: "Bourbon, Campari"
+base_spirits: ['Bourbon', 'Campari']
 youtube: "VAK-A7laGuE"
 description: "A classic Prohibition-era cocktail that swaps the gin in a Negroni for the rich, warm character of whiskey."
 excerpt: |

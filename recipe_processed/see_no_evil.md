@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/see_no_evil/"
 iconfile: see_no_evil
 stars: 0
-base_spirits: "Mezcal "
+base_spirits: ['Mezcal ']
 youtube: "xRJ9uAzTcaE"
 description: "A smoky and spicy original sour cocktail featuring mezcal as its base."
 excerpt: |

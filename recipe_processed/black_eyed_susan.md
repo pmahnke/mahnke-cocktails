@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/black_eyed_susan/"
 iconfile: black_eyed_susan
 stars: 0
-base_spirits: "Bourbon, Vodka"
+base_spirits: ['Bourbon', 'Vodka']
 youtube: "1V0-c6u4xJA"
 description: "The official drink of the Preakness Stakes, this is a refreshing highball combining bourbon and vodka with citrus and pineapple."
 excerpt: |

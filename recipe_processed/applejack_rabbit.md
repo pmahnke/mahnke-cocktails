@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/applejack_rabbit/"
 iconfile: applejack_rabbit
 stars: 0
-base_spirits: "Apple Brandy"
+base_spirits: ['Apple Brandy']
 youtube: "9OxlSOioD_k"
 description: "A classic Prohibition-era sour that highlights the robust character of apple brandy with citrus and maple syrup."
 excerpt: |

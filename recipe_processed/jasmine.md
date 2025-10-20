@@ -8,7 +8,7 @@ categories: [campari, sour]
 permalink: "/recipe/jasmine/"
 iconfile: jasmine
 stars: 3
-base_spirits: "Gin, Campari"
+base_spirits: ['Gin', 'Campari']
 youtube: "b7rg7eshiQU"
 description: "A modern classic from the 1990s, this is a vibrant and bittersweet sour that balances gin and Campari with citrus."
 excerpt: |

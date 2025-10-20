@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/gin_daisy/"
 iconfile: gin_daisy
 stars: 0
-base_spirits: "Gin, Bénédictine"
+base_spirits: ['Gin', 'Bénédictine']
 youtube: "EyB4Ymian3Q"
 description: "A classic Daisy variation that uses gin as its base, complemented by the herbal sweetness of Bénédictine."
 excerpt: |

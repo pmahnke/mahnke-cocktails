@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/3dots_dash/"
 iconfile: 3dots_dash
 stars: 0
-base_spirits: "Rhum Agricole, Demerara Rum"
+base_spirits: ['Rhum Agricole', 'Demerara Rum']
 youtube: "CGkWnYhu4ag"
 description: "The Three Dots and a Dash is a classic tiki cocktail created by Donn Beach during World War II, with a name that means &#quote;Victory&#quote; in Morse code. It's a complex and spicy rum drink, balanced by tropical fruit and honey."
 excerpt: |

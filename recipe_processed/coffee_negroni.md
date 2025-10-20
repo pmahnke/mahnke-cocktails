@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/coffee_negroni/"
 iconfile: coffee_negroni
 stars: 0
-base_spirits: "Gin, Coffee Liqueur, Campari"
+base_spirits: ['Gin', 'Coffee Liqueur', 'Campari']
 youtube: "41iPKwfTE9E"
 description: "A modern, bittersweet after-dinner cocktail that adds the rich flavor of coffee liqueur to the classic Negroni formula."
 excerpt: |

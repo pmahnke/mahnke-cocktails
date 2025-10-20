@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/black_rose/"
 iconfile: black_rose
 stars: 2
-base_spirits: "Bourbon, Cognac"
+base_spirits: ['Bourbon', 'Cognac']
 youtube: "YwHw259XAOU"
 description: "A classic cocktail that combines the rich flavors of bourbon and cognac with sweet grenadine and bitters."
 excerpt: |

@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/absinthe_old_fashioned/"
 iconfile: absinthe_old_fashioned
 stars: 3
-base_spirits: "Absinthe, Elderflower Liqueur"
+base_spirits: ['Absinthe', 'Elderflower Liqueur']
 youtube: "0rnil0_xFnM"
 description: "A modern twist on the Old Fashioned that uses absinthe as its base, complemented by elderflower liqueur."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/corpse_reviver_1871/"
 iconfile: corpse_reviver_1871
 stars: 0
-base_spirits: "Cognac, Maraschino Liqueur"
+base_spirits: ['Cognac', 'Maraschino Liqueur']
 youtube: "rMCsrbidAJ4"
 description: "A classic cocktail from an 1871 guide, featuring cognac and maraschino liqueur."
 excerpt: |

@@ -1,4 +1,6 @@
-{%- assign bottles =  page.base_spirits | split: "," -%}
+{%- assign bottles = page.base_spirits -%}
 {%- for bottle in bottles -%}
-  <a href="/cgi-bin/cocktail_search.cgi?a=search&q={{ bottle }}">{{ bottle }}</a>{%- if forloop.last -%}{%- else -%}, {%- endif -%}
+    {%- assign current_bottle_name = bottle | strip -%}
+    {%- assign bottle_page = current_bottle_name | downcase | replace: ' ', '_' -%}
+    <a href="/spirit/{{ bottle_page | url_encode }}">{{ current_bottle_name }}</a>{%- unless forloop.last -%}, {% endunless -%}
 {%- endfor -%}

@@ -5,7 +5,7 @@ categories: [syrup]
 permalink: "/recipe/raspberrysyrup/"
 iconfile: raspberry_syrup
 stars: 0
-base_spirits: "White Sugar, Raspberries"
+base_spirits: ['White Sugar', 'Raspberries']
 youtube: "vGBMrJgjZB4"
 excerpt: |
   Fresh raspberry syrup adds sweet, tart, fruity flavor to drinks of all kinds.

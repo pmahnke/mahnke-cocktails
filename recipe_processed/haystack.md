@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/haystack/"
 iconfile: haystack
 stars: 0
-base_spirits: "Bourbon, Suze, Apricot Liqueur"
+base_spirits: ['Bourbon', 'Suze', 'Apricot Liqueur']
 youtube: "iLcXU3W1wVQ"
 description: "Inspired by the Paper Plane, this bourbon-based drink comes together with just a few ingredients."
 excerpt: |

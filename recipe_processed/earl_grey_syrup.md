@@ -5,7 +5,7 @@ categories: [syrup]
 permalink: "/recipe/earl_grey_syrup/"
 iconfile: earl_grey_syrup
 stars: 0
-base_spirits: "White Sugar, Earl Grey Tea"
+base_spirits: ['White Sugar', 'Earl Grey Tea']
 youtube: "5wgvpo-xBnA"
 excerpt: |
   Earl Grey syrup is a versatile and delicious addition to various beverages and desserts. It's made by infusing Earl Grey tea leaves in a simple syrup, resulting in a sweet and aromatic liquid with a distinct citrusy flavor from the bergamot oil in the tea.

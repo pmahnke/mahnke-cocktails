@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/final_ward/"
 iconfile: final_ward
 stars: 3.5
-base_spirits: "Rye, Green Chartreuse, Maraschino Liqueur"
+base_spirits: ['Rye', 'Green Chartreuse', 'Maraschino Liqueur']
 youtube: "NGPSk_jMZvA"
 description: "A modern classic and a twist on the Last Word, this sour cocktail swaps gin for rye whiskey."
 excerpt: |

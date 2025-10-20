@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/daiquiri/"
 iconfile: daiquiri
 stars: 5
-base_spirits: "Light Rum"
+base_spirits: ['Light Rum']
 youtube: "VBSjE-P_C58"
 description: "The quintessential classic sour from Cuba, celebrated for its perfect balance of light rum, sugar, and tart lime."
 excerpt: |

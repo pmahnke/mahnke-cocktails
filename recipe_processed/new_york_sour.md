@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/new_york_sour/"
 iconfile: new_york_sour
 stars: 4.5
-base_spirits: "Bourbon, Red Wine "
+base_spirits: ['Bourbon', 'Red Wine ']
 youtube: "D-hCgKtMIAQ"
 description: "A classic and visually appealing whiskey sour variation that features a striking red wine float on top."
 excerpt: |

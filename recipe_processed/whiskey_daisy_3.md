@@ -7,7 +7,7 @@ categories: [daisy]
 permalink: "/recipe/whiskey_daisy_3/"
 iconfile: whiskey_daisy_3
 stars: 3.5
-base_spirits: "Bourbon, Rye"
+base_spirits: ['Bourbon', 'Rye']
 youtube: "XggEyhSR2Dk"
 description: "A classic Daisy variation that uses whiskey as its base spirit, served with citrus and a sweetener."
 excerpt: |

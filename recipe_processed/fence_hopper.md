@@ -7,7 +7,7 @@ categories: [beer]
 permalink: "/recipe/fence_hopper/"
 iconfile: fence_hopper
 stars: 0
-base_spirits: "Bourbon, IPA "
+base_spirits: ['Bourbon', 'IPA ']
 youtube: "Eg7DLBgwJqM"
 description: "A unique beer cocktail that blends bourbon with apple cider, maple syrup, and is topped with an IPA."
 excerpt: |

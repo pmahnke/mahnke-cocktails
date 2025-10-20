@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/lucien_gaudin/"
 iconfile: lucien_gaudin
 stars: 3
-base_spirits: "Plymouth Gin, White Vermouth, Campari "
+base_spirits: ['Plymouth Gin', 'White Vermouth', 'Campari ']
 youtube: "NLF7z6MHMa0"
 description: "A classic Prohibition-era cocktail named for a French Olympic fencer, this is a Negroni variation that uses dry vermouth instead of sweet."
 excerpt: |

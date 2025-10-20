@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/black_manhattan/"
 iconfile: black_manhattan
 stars: 4
-base_spirits: "Rye, Amaro"
+base_spirits: ['Rye', 'Amaro']
 youtube: "YWKJsv8PymI&t=205s"
 description: "A modern classic from 2015 that replaces the sweet vermouth in a traditional Manhattan with a rich, herbal amaro."
 excerpt: |

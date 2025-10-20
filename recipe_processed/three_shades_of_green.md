@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/three_shades_of_green/"
 iconfile: three_shades_of_green
 stars: 3.5
-base_spirits: "Gin, Green Chartreuse"
+base_spirits: ['Gin', 'Green Chartreuse']
 youtube: "https://uws.theconsulate.nyc/new-york-upper-west-side-the-consulate-drink-menu"
 description: "An original modern cocktail with a complex herbal profile from gin and Green Chartreuse."
 excerpt: |

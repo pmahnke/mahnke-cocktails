@@ -8,7 +8,7 @@ categories: [tiki]
 permalink: "/recipe/mundo_perdido/"
 iconfile: mundo_perdido
 stars: 0
-base_spirits: "Demerara Rum, Apple Brandy"
+base_spirits: ['Demerara Rum', 'Apple Brandy']
 youtube: "-DnpmdGBmgs&t=433s"
 description: "A unique and flavorful modern tiki cocktail that features a combination of dark rum, apple brandy, and cinnamon."
 excerpt: |

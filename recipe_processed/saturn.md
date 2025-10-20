@@ -8,7 +8,7 @@ categories: [tiki]
 permalink: "/recipe/saturn/"
 iconfile: saturn
 stars: 0
-base_spirits: "Gin"
+base_spirits: ['Gin']
 youtube: "q060mzbSrco"
 description: "An award-winning tiki classic from 1967 that uniquely uses gin as its base, flavored with passion fruit, falernum, and orgeat."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/beesknees_smoked/"
 iconfile: beesknees_smoked
 stars: 0
-base_spirits: "Gin "
+base_spirits: ['Gin ']
 youtube: "gZdT2GBf91I"
 description: "A smoky twist on the classic Prohibition-era Bee's Knees, which traditionally combines gin, lemon, and honey."
 excerpt: |

@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/east_india_cocktail/"
 iconfile: east_india_cocktail
 stars: 4
-base_spirits: "Cognac, Maraschino Liqueur"
+base_spirits: ['Cognac', 'Maraschino Liqueur']
 youtube: "wiDoRYL4V9g"
 description: "A classic sour from the 1880s that features cognac, pineapple, and maraschino liqueur, with ingredients indicative of the East India Trading Company's imports."
 excerpt: |

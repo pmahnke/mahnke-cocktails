@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/old_fashioned/"
 iconfile: old_fashioned
 stars: 3.25
-base_spirits: "Bourbon"
+base_spirits: ['Bourbon']
 youtube: "pdcrJ5V7YKM"
 description: "Arguably the original cocktail, this is a timeless classic made by lightly sweetening a spirit (typically bourbon or rye) with sugar and seasoning it with bitters."
 excerpt: |

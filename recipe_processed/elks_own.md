@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/elks_own/"
 iconfile: elks_own
 stars: 5
-base_spirits: "Rye, Ruby Port "
+base_spirits: ['Rye', 'Ruby Port ']
 youtube: "zxDfN7UCTZs&t=34s"
 description: "A complex and flavorful classic sour that blends the warmth of rye whiskey with the sweetness of port wine, balanced by tart lemon."
 excerpt: |

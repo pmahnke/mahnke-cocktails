@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/general_harrisons_eggnog/"
 iconfile: general_harrisons_eggnog
 stars: 0
-base_spirits: "Demerara Rum, Allspice Dram, Dry Hard Cider"
+base_spirits: ['Demerara Rum', 'Allspice Dram', 'Dry Hard Cider']
 youtube: "s7Rcx7Fekn4"
 description: "A classic eggnog variation named for a US president, featuring a unique base of hard cider and demerara rum."
 excerpt: |

@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/navy_grog_dons_way/"
 iconfile: navy_grog_dons_way
 stars: 0
-base_spirits: "Demerara Rum, Jamaican Rum, White Rum"
+base_spirits: ['Demerara Rum', 'Jamaican Rum', 'White Rum']
 youtube: "I3jeItKyZCs"
 description: "Classic Tiki cocktail created in the 1940s. It's a rum-based drink that typically uses a blend of three different types of rum."
 excerpt: |

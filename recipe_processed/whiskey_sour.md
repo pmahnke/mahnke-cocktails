@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/whiskey_sour/"
 iconfile: whiskey_sour
 stars: 4.75
-base_spirits: "Bourbon "
+base_spirits: ['Bourbon ']
 youtube: "bxTRtiS06W0&t=51s"
 description: "A timeless classic and cornerstone of drink-making, this sour perfectly balances the richness of whiskey with the tartness of lemon."
 excerpt: |

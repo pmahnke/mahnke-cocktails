@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/semester_abroad/"
 iconfile: semester_abroad
 stars: 0
-base_spirits: "Rye, Fernet Branca"
+base_spirits: ['Rye', 'Fernet Branca']
 youtube: "mBGgu3qRztY"
 description: "An original cocktail that is a pretty and flavorful variation on the Cape Codder."
 excerpt: |

@@ -7,7 +7,7 @@ categories: [after_dinner]
 permalink: "/recipe/spanish_coffee/"
 iconfile: spanish_coffee
 stars: 0
-base_spirits: "Overproof Jamaican Rum, Coffee Liqueur"
+base_spirits: ['Overproof Jamaican Rum', 'Coffee Liqueur']
 youtube: "p3X7_-TVIDs"
 description: "A classic after-dinner drink, also known as a carajillo, made with coffee and a spirit—usually rum, brandy, or Licor 43."
 excerpt: |

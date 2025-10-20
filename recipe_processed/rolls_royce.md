@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/rolls_royce/"
 iconfile: rolls_royce
 stars: 0
-base_spirits: "Gin, Bénédictine"
+base_spirits: ['Gin', 'Bénédictine']
 youtube: "UJJqbCGHsOg"
 description: "A sophisticated and elegant Prohibition-era Martini variation, featuring the addition of both sweet vermouth and Bénédictine."
 excerpt: |

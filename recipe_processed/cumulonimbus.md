@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/cumulonimbus/"
 iconfile: cumulonimbus
 stars: 0
-base_spirits: "Espresso, Cinnamon Syrup, Soda Water"
+base_spirits: ['Espresso', 'Cinnamon Syrup', 'Soda Water']
 youtube: "s0nUq0Q9yUk"
 description: "A non-alcoholic coffee drink featuring espresso and cinnamon syrup topped with soda water."
 excerpt: |

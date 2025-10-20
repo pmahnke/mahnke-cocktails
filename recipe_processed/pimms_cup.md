@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/pimms_cup/"
 iconfile: pimms_cup
 stars: 0
-base_spirits: "Pimm's"
+base_spirits: ['Pimms']
 youtube: "CGq0rFP_Jl0"
 description: "A classic and quintessentially British highball, this is a refreshing drink featuring Pimm's No. 1, a gin-based liqueur, mixed with lemonade or ginger ale and fresh fruit."
 excerpt: |

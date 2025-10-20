@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/tartan/"
 iconfile: tartan
 stars: 0
-base_spirits: "Scotch, Single Malt, Amaro, Drambuie "
+base_spirits: ['Scotch', 'Single Malt', 'Amaro', 'Drambuie ']
 youtube: "Jqy3bhn-O9s"
 description: "A classic Scotch-based cocktail with warm, rich colors and complex flavors, reminiscent of the iconic Scottish fabric."
 excerpt: |

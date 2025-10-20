@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/sloe_gin_fizz/"
 iconfile: sloe_gin_fizz
 stars: 0
-base_spirits: "Sloe Gin "
+base_spirits: ['Sloe Gin ']
 youtube: "gGlTXp_oujk"
 description: "A classic fizz that highlights the tart and fruity character of sloe berries in a refreshing sour format."
 excerpt: |

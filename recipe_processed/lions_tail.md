@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/lions_tail/"
 iconfile: lions_tail
 stars: 5
-base_spirits: "Bourbon, Allspice Dram"
+base_spirits: ['Bourbon', 'Allspice Dram']
 youtube: "r2NNClh94tQ"
 description: "A classic Prohibition-era sour that combines the richness of bourbon with the unique warming spice of allspice dram."
 excerpt: |

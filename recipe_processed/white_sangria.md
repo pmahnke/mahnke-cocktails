@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/white_sangria/"
 iconfile: white_sangria
 stars: 3.5
-base_spirits: "Apricot Liqueur, Fino Sherry, White Wine"
+base_spirits: ['Apricot Liqueur', 'Fino Sherry', 'White Wine']
 youtube: "mAxJU3qd8OE"
 description: "A lighter and brighter classic version of sangria, made with white wine, sherry, fresh fruit, and a touch of sweetness."
 excerpt: |

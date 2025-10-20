@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/red_hook/"
 iconfile: red_hook
 stars: 0
-base_spirits: "Rye, Maraschino Liqueur, Punt e Mes"
+base_spirits: ['Rye', 'Maraschino Liqueur', 'Punt e Mes']
 youtube: "0sjcxjmJMv0"
 description: "A modern classic from 2003 that launched a wave of Manhattan variations, this drink features rye, Punt e Mes, and maraschino liqueur."
 excerpt: |

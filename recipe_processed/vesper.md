@@ -7,7 +7,7 @@ categories: [martini]
 permalink: "/recipe/vesper/"
 iconfile: vesper
 stars: 3
-base_spirits: "Gin, Vodka, Cocchi Americano"
+base_spirits: ['Gin', 'Vodka', 'Cocchi Americano']
 youtube: "VBSjE-P_C58"
 description: "A classic Martini variation invented by Ian Fleming for James Bond, featuring a potent combination of both gin and vodka with Cocchi Americano."
 excerpt: |
