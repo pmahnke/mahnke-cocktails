@@ -28,5 +28,7 @@ excerpt: |
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware:
+  - Wine glass
+  - On the rocks
 - Garnish: Lemon wheels Special
 - Prep: None

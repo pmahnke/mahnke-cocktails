@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/corpse_reviver_3_duffy/"
 iconfile: corpse_reviver_3_duffy
 stars: 0
-base_spirits: "Pastis, Champagne"
+base_spirits: ['Pastis', 'Champagne']
 youtube: "kBHi_atZsbM"
 description: "This Corpse Reviver #3 as a simple highball featuring Pernod, lemon juice, and Champagne."
 excerpt: |

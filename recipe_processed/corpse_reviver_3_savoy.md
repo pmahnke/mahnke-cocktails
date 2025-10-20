@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/corpse_reviver_3_savoy/"
 iconfile: corpse_reviver_3_savoy
 stars: 0
-base_spirits: "Cognac, Crème de Menthe, Fernet Branca"
+base_spirits: ['Cognac', 'Crème de Menthe', 'Fernet Branca']
 youtube: "kBHi_atZsbM"
 description: "This version of the Corpse Reviver #3 is a stirred, equal-parts mixture of brandy, white crème de menthe, and Fernet Branca."
 excerpt: |
