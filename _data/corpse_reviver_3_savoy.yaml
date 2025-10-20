@@ -1,0 +1,15 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /assets/images/ingredient-creme-de-menthe.svg
+      title: Creme de menthe
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes
