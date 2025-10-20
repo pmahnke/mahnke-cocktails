@@ -27,6 +27,11 @@
   <link rel="canonical" href="{{ canonical_url | replace:'index.html','' | replace:'index.md','' }}">
   {%- endif %}
 
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/images/favicon.png' | relative_url }}">
+
+
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" media="print" onload="this.media='all'; this.onload=null;">
   <noscript><link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}"></noscript>
 
