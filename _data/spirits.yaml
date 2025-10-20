@@ -269,11 +269,11 @@
 - name: Navy Strength Gin
   slug: navy_strength_gin
   url: /assets/images/ingredient-gin.svg
-  description: A term for gin bottled at a higher proof (typically $57\%\text{ ABV}$) that historically ensured gunpowder would still ignite if soaked with the spirit.
+  description: A term for gin bottled at a higher proof (typically 57% ABV) that historically ensured gunpowder would still ignite if soaked with the spirit.
 - name: Navy Strength Rum
   slug: navy_strength_rum
   url: /assets/images/ingredient-light-rum.svg
-  description: Rum bottled at a very high proof (typically $57\%\text{ ABV}$ or more) for historical reasons, resulting in a more potent, concentrated flavor.
+  description: Rum bottled at a very high proof (typically 57% ABV or more) for historical reasons, resulting in a more potent, concentrated flavor.
 - name: Nicaraguan Rum
   slug: nicaraguan_rum
   url: /assets/images/ingredient-light-rum.svg
@@ -297,7 +297,7 @@
 - name: Overproof Rum
   slug: overproof_rum
   url: /assets/images/ingredient-light-rum.svg
-  description: Rum bottled at a very high alcohol content (usually $57\%\text{ ABV}$ or higher), used sparingly for maximum flavor impact.
+  description: Rum bottled at a very high alcohol content (usually 57% ABV or higher), used sparingly for maximum flavor impact.
 - name: Peach Liqueur
   slug: peach_liqueur
   url: ''
@@ -361,7 +361,7 @@
 - name: Rye
   slug: rye
   url: /assets/images/ingredient-rye.svg
-  description: An American whiskey distilled from a mash bill that is at least $51\%$ rye grain, characterized by its sharp, spicy, and peppery flavor.
+  description: An American whiskey distilled from a mash bill that is at least 51% rye grain, characterized by its sharp, spicy, and peppery flavor.
 - name: Scotch
   slug: scotch
   url: /assets/images/ingredient-scotch.svg
