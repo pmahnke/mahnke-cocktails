@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/colleen_bawn/"
 iconfile: colleen_bawn
 stars: 3
-base_spirits: "Rye, Yellow Chartreuse, Bénédictine"
+base_spirits: ['Rye', 'Yellow Chartreuse', 'Bénédictine']
 youtube: "W50W19vwjmk"
 description: "A classic flip-style cocktail with a rich, frothy texture, combining rye whiskey with the herbal notes of Chartreuse and Bénédictine."
 excerpt: |

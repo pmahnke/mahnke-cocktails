@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/stinger/"
 iconfile: stinger
 stars: 4
-base_spirits: "Cognac, Crème de Menthe"
+base_spirits: ['Cognac', 'Crème de Menthe']
 youtube: "mBGgu3qRztY"
 description: "A classic high-society cocktail from the pre-Prohibition era, with a sweet sting from its simple two-part combination of cognac and crème de menthe."
 excerpt: |

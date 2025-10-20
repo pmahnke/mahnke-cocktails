@@ -7,7 +7,7 @@ eras: [new_orleans]
 permalink: "/recipe/brandy_crusta/"
 iconfile: brandy_crusta
 stars: 4
-base_spirits: "Cognac, Maraschino Liqueur"
+base_spirits: ['Cognac', 'Maraschino Liqueur']
 youtube: "N0aPVPdLyQc"
 description: "One of the oldest classic cocktails from New Orleans, known for its distinctive sugared rim and long lemon peel garnish."
 excerpt: |

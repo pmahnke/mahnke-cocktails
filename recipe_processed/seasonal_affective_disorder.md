@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/seasonal_affective_disorder/"
 iconfile: seasonal_affective_disorder
 stars: 4.5
-base_spirits: "Demerara Rum, Cognac, Absinthe"
+base_spirits: ['Demerara Rum', 'Cognac', 'Absinthe']
 youtube: "CfKrIWRMrNA"
 description: "An original cocktail with a complex profile, combining demerara rum, cognac, and a hint of absinthe."
 excerpt: |

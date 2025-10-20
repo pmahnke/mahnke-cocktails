@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/little_strebel/"
 iconfile: littlest_rebel
 stars: 0
-base_spirits: "Apple Brandy, Scotch, Blended "
+base_spirits: ['Apple Brandy', 'Scotch', 'Blended ']
 youtube: "s30L-iu171E"
 description: "A Prohibition-era sour with a complex smoky and fruity profile, blending apple brandy and Scotch whisky."
 excerpt: |

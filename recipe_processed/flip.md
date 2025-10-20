@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/flip/"
 iconfile: flip
 stars: 0
-base_spirits: "Jamaican Rum, Ale"
+base_spirits: ['Jamaican Rum', 'Ale']
 youtube: "S04mZtUjTyA"
 description: "A historic category of drink originally made with rum or brandy, beer, and sugar, heated to create a frothy texture."
 excerpt: |

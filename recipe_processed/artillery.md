@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/artillery/"
 iconfile: artillery
 stars: 3.5
-base_spirits: "Gin, Sweet Vermouth"
+base_spirits: ['Gin', 'Sweet Vermouth']
 youtube: "jzg4GuY4Fcg"
 description: "A classic Martini variation known for its balanced blend of sweet and savory flavors, with a subtle herbaceousness from the gin."
 excerpt: |

@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/tipperary/"
 iconfile: tipperary
 stars: 0
-base_spirits: "Irish Whiskey, Green Chartreuse"
+base_spirits: ['Irish Whiskey', 'Green Chartreuse']
 youtube: "2zQBXxC7ma8"
 description: "A modern favorite from The Dead Rabbit, this is a variation on the Bijou that uses Irish whiskey as its base."
 excerpt: |

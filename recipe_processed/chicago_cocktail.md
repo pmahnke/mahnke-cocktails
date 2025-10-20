@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/chicago_cocktail/"
 iconfile: chicago_cocktail
 stars: 3
-base_spirits: "Champagne, Cognac "
+base_spirits: ['Champagne', 'Cognac ']
 youtube: "IAaiRENeyvc&t=639s"
 description: "A classic Prohibition-era cocktail that starts like an Old Fashioned with brandy and bitters but is topped with Champagne."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/ford/"
 iconfile: ford
 stars: 3
-base_spirits: "Old Tom Gin, Bénédictine"
+base_spirits: ['Old Tom Gin', 'Bénédictine']
 youtube: "UJJqbCGHsOg"
 description: "A classic Martini-style cocktail from the late 19th century, sweetened with Old Tom gin and the herbal complexity of Bénédictine."
 excerpt: |

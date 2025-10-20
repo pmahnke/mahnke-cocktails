@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/hemingway_daiquiri/"
 iconfile: hemingway_daiquiri
 stars: 0
-base_spirits: "Light Rum, Maraschino Liqueur"
+base_spirits: ['Light Rum', 'Maraschino Liqueur']
 youtube: "mILAxazthY4"
 description: "A classic Daiquiri variation created for Ernest Hemingway, featuring maraschino liqueur and grapefruit juice with no added sugar."
 excerpt: |

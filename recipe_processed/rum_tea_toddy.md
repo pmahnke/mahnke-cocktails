@@ -7,7 +7,7 @@ eras: [classic, modern]
 permalink: "/recipe/rum_tea_toddy/"
 iconfile: rum_tea_toddy
 stars: 0
-base_spirits: "Jamaican Rum"
+base_spirits: ['Jamaican Rum']
 youtube: "DJtBN6yBnsA"
 description: "A comforting and classic hot toddy that combines the warmth of Jamaican rum with black tea."
 excerpt: |

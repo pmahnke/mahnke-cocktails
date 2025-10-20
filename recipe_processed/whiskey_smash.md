@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/whiskey_smash/"
 iconfile: whiskey_smash
 stars: 0
-base_spirits: "Bourbon "
+base_spirits: ['Bourbon ']
 youtube: "Jo1wxAfyLto"
 description: "A classic and citrusy cousin to the Mint Julep, this is a refreshing smash made with bourbon, lemon, and mint."
 excerpt: |

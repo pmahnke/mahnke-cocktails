@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/brandy_alexander/"
 iconfile: brandy_alexander
 stars: 0
-base_spirits: "Cognac, Crème de Cacao"
+base_spirits: ['Cognac', 'Crème de Cacao']
 youtube: "5LEgIoddxY4"
 description: "A classic creamy after-dinner drink that combines cognac with the chocolate notes of crème de cacao and cream."
 excerpt: |

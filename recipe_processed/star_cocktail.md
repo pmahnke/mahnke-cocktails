@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/star_cocktail/"
 iconfile: star_cocktail
 stars: 3
-base_spirits: "Apple Brandy"
+base_spirits: ['Apple Brandy']
 youtube: "9OxlSOioD_k"
 description: "A classic cocktail from the 1870s, featuring apple brandy, sweet vermouth, and bitters."
 excerpt: |

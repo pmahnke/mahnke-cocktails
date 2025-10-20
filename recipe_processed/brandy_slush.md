@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/brandy_slush/"
 iconfile: brandy_slush
 stars: 0
-base_spirits: "Brandy"
+base_spirits: ['Brandy']
 youtube: "rQ59lgXm8Ho"
 description: "A classic Midwestern party punch featuring an icy, make-ahead mix of fruit juice, tea, and brandy."
 excerpt: |

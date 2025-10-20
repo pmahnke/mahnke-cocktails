@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/bamboo/"
 iconfile: bamboo
 stars: 4
-base_spirits: "Oloroso Sherry "
+base_spirits: ['Oloroso Sherry ']
 youtube: "B8l-F1qcTYU&t=48s"
 description: "A low-alcohol classic cocktail that combines equal parts dry sherry and dry vermouth with two kinds of bitters."
 excerpt: |

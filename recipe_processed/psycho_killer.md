@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/psycho_killer/"
 iconfile: psycho_killer
 stars: 0
-base_spirits: "Irish Whiskey, Campari, White Crème de Cacao, Banane du Brésil"
+base_spirits: ['Irish Whiskey', 'Campari', 'White Crème de Cacao', 'Banane du Brésil']
 youtube: "u0N9FFJ1i5c"
 description: "An elegant and complex modern Irish whiskey cocktail from The Dead Rabbit, featuring Campari, white cacao, and banana liqueur."
 excerpt: |

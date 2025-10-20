@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/noble_beast/"
 iconfile: noble_beast
 stars: 0
-base_spirits: "Angostura Aromatic Bitters"
+base_spirits: ['Angostura Aromatic Bitters']
 youtube: "pzmVLMzQjNo"
 description: "An original flip cocktail that incorporates a whole egg for a creamy texture, with a base of Angostura bitters and coffee."
 excerpt: |

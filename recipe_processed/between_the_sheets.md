@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/between_the_sheets/"
 iconfile: between_the_sheets
 stars: 2
-base_spirits: "Jamaican Rum, Demerara Rum, Campari"
+base_spirits: ['Jamaican Rum', 'Demerara Rum', 'Campari']
 youtube: "VnuAR_wPOZA"
 description: "A provocatively named Prohibition-era cocktail that enhances the classic Sidecar formula with a dose of rum."
 excerpt: |

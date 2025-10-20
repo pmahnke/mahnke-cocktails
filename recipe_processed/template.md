@@ -36,7 +36,7 @@ eras: [anders, classic, modern, new_orleans, prohibition]
 permalink: "/recipe/NAME/"
 iconfile: NAME
 stars: 0
-base_spirits: "SPIRIT, SPIRIT"
+base_spirits: ['SPIRIT', 'SPIRIT']
 youtube: "LINK"
 description: "from_gemini?"
 excerpt: |

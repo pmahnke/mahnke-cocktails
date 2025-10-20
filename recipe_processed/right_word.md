@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/right_word/"
 iconfile: right_word
 stars: 0
-base_spirits: "Gin, Elderflower Liqueur"
+base_spirits: ['Gin', 'Elderflower Liqueur']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/9680/right-word"
 description: "The Right Word is a crisp, floral variation of the Last Word, made with elderflower liqueur and Lillet Blanc instead of Green Chartreuse and maraschino."
 excerpt: |

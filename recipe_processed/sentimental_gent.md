@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/sentimental_gent/"
 iconfile: sentimental_gent
 stars: 0
-base_spirits: "Scotch, Blended, Bénédictine, Walnut Liqueur"
+base_spirits: ['Scotch', 'Blended', 'Bénédictine', 'Walnut Liqueur']
 youtube: "QFjRjAP-k1k&t=3s"
 description: "A sophisticated and elegant modern cocktail that combines the warmth of Scotch, Blended with the herbal notes of Bénédictine and walnut liqueur."
 excerpt: |

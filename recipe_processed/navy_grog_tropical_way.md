@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/navy_grog_tropical_way/"
 iconfile: navy_grog_tropical_way
 stars: 0
-base_spirits: "Demerara Rum, Jamaican Rum, White Rum"
+base_spirits: ['Demerara Rum', 'Jamaican Rum', 'White Rum']
 youtube: "I3jeItKyZCs"
 description: "Modern reinvention of the classic rum-heavy drink that features a spiced grog concentrate syrup made with Mexican cola and toasted allspice."
 excerpt: |

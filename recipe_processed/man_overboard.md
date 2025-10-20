@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/man_overboard/"
 iconfile: man_overboard
 stars:
-base_spirits: "Rye, Triple Sec"
+base_spirits: ['Rye', 'Triple Sec']
 youtube: ""
 description: "A modern sour that adapts the classic Man o' War cocktail, adding the spiciness of rye while dialing down the booziness."
 excerpt: |

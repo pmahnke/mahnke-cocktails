@@ -7,7 +7,7 @@ categories: [buck]
 permalink: "/recipe/rum_buck/"
 iconfile: rum_buck
 stars: 0
-base_spirits: "Dark Rum, Allspice Dram"
+base_spirits: ['Dark Rum', 'Allspice Dram']
 youtube: "2EZBGowe0ho"
 description: "A classic and refreshing highball made with dark rum, citrus, and the spicy kick of ginger beer."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/glogg/"
 iconfile: glogg
 stars: 0
-base_spirits: "Red Wine, Ruby Port, Cognac "
+base_spirits: ['Red Wine', 'Ruby Port', 'Cognac ']
 youtube: "2Xox9vdRGtM"
 description: "A popular Scandinavian mulled wine, this is a comforting hot punch made with red wine, port, cognac, spices, and fruit."
 excerpt: |

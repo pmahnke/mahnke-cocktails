@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/martinez/"
 iconfile: martinez
 stars: 3.5
-base_spirits: "Gin, Maraschino Liqueur"
+base_spirits: ['Gin', 'Maraschino Liqueur']
 youtube: 'MuxY7\_-_U_8'
 description: "A classic cocktail from the late 1800s, considered a precursor to the modern Martini, featuring gin, sweet vermouth, and maraschino liqueur."
 excerpt: |

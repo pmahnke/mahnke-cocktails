@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/gimlet/"
 iconfile: gimlet
 stars: 5
-base_spirits: "Gin"
+base_spirits: ['Gin']
 youtube: "TuiCT7tDO88"
 description: "A classic and sharp sour whose history traces back to the British Royal Navy, traditionally combining gin with lime cordial."
 excerpt: |

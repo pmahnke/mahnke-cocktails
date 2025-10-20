@@ -7,7 +7,7 @@ eras: [new_orleans]
 permalink: "/recipe/vieux_carre/"
 iconfile: vieux_carre
 stars: 5
-base_spirits: "Rye, Cognac, Bénédictine"
+base_spirits: ['Rye', 'Cognac', 'Bénédictine']
 youtube: "cDCdcwuM8yA"
 description: "A classic and complex New Orleans cocktail from the 1930s, featuring a rich, spirit-forward blend of rye, cognac, and Bénédictine."
 excerpt: |

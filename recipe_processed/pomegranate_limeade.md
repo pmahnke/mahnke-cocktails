@@ -7,7 +7,7 @@ title: "Pomegranate Limeade"
 permalink: "/recipe/pomegranate_limeade/"
 iconfile: pomegranate_limeade
 stars: 0
-base_spirits: "Grenadine, Sparkling Water, Lime"
+base_spirits: ['Grenadine', 'Sparkling Water', 'Lime']
 youtube: "YwHw259XAOU"
 description: "A refreshing and vibrant non-alcoholic drink that balances the sweet-tart flavors of pomegranate (from grenadine) and fresh lime."
 excerpt: |

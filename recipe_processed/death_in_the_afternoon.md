@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/death_in_the_afternoon/"
 iconfile: death_in_the_afternoon
 stars: 3.5
-base_spirits: "Absinthe, Champagne "
+base_spirits: ['Absinthe', 'Champagne ']
 youtube: "-jb1-82N48U"
 description: "A potent and simple cocktail invented by Ernest Hemingway, consisting of absinthe topped with Champagne."
 excerpt: |

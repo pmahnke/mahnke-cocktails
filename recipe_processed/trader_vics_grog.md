@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/trader_vics_grog/"
 iconfile: trader_vics_grog
 stars: 0
-base_spirits: "Jamaican Rum"
+base_spirits: ['Jamaican Rum']
 youtube: "3Nl9aWKvwmw"
 description: "A classic tiki grog from Trader Vic Bergeron, this is a reimagining of the Navy Grog with a distinct rum and citrus profile."
 excerpt: |

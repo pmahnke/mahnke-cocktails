@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/miami_vice/"
 iconfile: miami_vice
 stars: 0
-base_spirits: "Light Rum"
+base_spirits: ['Light Rum']
 youtube: "0JUtwxuMCg0"
 description: "A fun, frozen modern mashup of two tropical classics: the Piña Colada and the Strawberry Daiquiri."
 excerpt: |

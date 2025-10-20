@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/golden_cadillac/"
 iconfile: golden_cadillac
 stars: 0
-base_spirits: "Galliano, White Crème de Cacao"
+base_spirits: ['Galliano', 'White Crème de Cacao']
 youtube: "x6QiK4firC4"
 description: "A creamy, dessert-like fizz from 1952, known for its distinct golden color and flavor from Galliano liqueur."
 excerpt: |

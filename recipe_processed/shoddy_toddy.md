@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/shoddy_toddy/"
 iconfile: shoddy_toddy
 stars: 0
-base_spirits: "Gin, Bénédictine"
+base_spirits: ['Gin', 'Bénédictine']
 youtube: "CfKrIWRMrNA"
 description: "An original hot toddy featuring a unique combination of gin and the herbal liqueur Bénédictine."
 excerpt: |

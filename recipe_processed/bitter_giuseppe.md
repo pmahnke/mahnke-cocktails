@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/bitter_giuseppe/"
 iconfile: bitter_giuseppe
 stars: 0
-base_spirits: "Cynar Amaro"
+base_spirits: ['Cynar Amaro']
 youtube: "AHPatRO71U8"
 description: "A modern classic, low-ABV cocktail that uses the artichoke-based amaro Cynar as its foundational spirit."
 excerpt: |

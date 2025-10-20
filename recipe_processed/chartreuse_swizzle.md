@@ -8,7 +8,7 @@ categories: [frappe_swizzle]
 permalink: "/recipe/chartreuse_swizzle/"
 iconfile: chartreuse_swizzle
 stars: 5
-base_spirits: "Green Chartreuse"
+base_spirits: ['Green Chartreuse']
 youtube: "CGkWnYhu4ag"
 description: "A refreshing and unique modern cocktail that blends the herbal sweetness of Green Chartreuse with tropical pineapple and lime."
 excerpt: |

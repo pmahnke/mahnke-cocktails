@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/barbacks_revenge/"
 iconfile: barbacks_revenge
 stars: 0
-base_spirits: "Demerara Rum, Bénédictine, Amontillado Sherry"
+base_spirits: ['Demerara Rum', 'Bénédictine', 'Amontillado Sherry']
 youtube: "RRvfkkSjceM"
 description: "A unique coffee cocktail that combines herbal Bénédictine and savory Amontillado sherry with cold brew."
 excerpt: |

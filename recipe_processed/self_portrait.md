@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/self_portrait/"
 iconfile: self_portrait
 stars: 0
-base_spirits: "Cognac, Swedish Punsch"
+base_spirits: ['Cognac', 'Swedish Punsch']
 youtube: "VXjcObds5DY"
 description: "This cocktail is Anders' riff on the Doctor Cocktail. It has the brightness of brandy and the sweetness of Swedish Punsch."
 excerpt: |

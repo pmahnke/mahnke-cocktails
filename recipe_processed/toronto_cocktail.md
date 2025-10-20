@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/toronto_cocktail/"
 iconfile: toronto_cocktail
 stars: 3
-base_spirits: "Rye, Fernet Branca"
+base_spirits: ['Rye', 'Fernet Branca']
 youtube: "fQfVijUec0A"
 description: "A classic Prohibition-era cocktail that tempers the spice of rye whiskey with the intensely bitter and herbal notes of Fernet Branca."
 excerpt: |

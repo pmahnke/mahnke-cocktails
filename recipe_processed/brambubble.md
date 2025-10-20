@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/brambubble/"
 iconfile: brambubble
 stars: 0
-base_spirits: "Champagne, Gin, Crème de Mûre"
+base_spirits: ['Champagne', 'Gin', 'Crème de Mûre']
 youtube: "IAaiRENeyvc&t=639s"
 description: "A refreshing and vibrant Champagne cocktail made with blackberry brandy, lemon, and ginger ale."
 excerpt: |

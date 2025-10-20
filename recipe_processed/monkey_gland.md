@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/monkey_gland/"
 iconfile: monkey_gland
 stars: 0
-base_spirits: "Gin, Absinthe"
+base_spirits: ['Gin', 'Absinthe']
 youtube: "u4b673NTI7w"
 description: "A classic sour from the 1920s with a unique name, combining gin, orange juice, and a hint of absinthe."
 excerpt: |

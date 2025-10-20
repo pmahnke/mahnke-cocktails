@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/passion_at_the-disco/"
 iconfile: passion_at_the_disco
 stars: 0
-base_spirits: "Lime, Passion Fruit Syrup, Tonic Water"
+base_spirits: ['Lime', 'Passion Fruit Syrup', 'Tonic Water']
 youtube: "ZE3G8aUyOn0"
 description: "A refreshing and vibrant non-alcoholic drink that combines the tropical flavor of passion fruit with the bright citrus of lime and tonic water."
 excerpt: |

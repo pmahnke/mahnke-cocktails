@@ -7,7 +7,7 @@ categories: [fizz]
 permalink: "/recipe/momisette/"
 iconfile: momisette
 stars: 4.5
-base_spirits: "Absinthe "
+base_spirits: ['Absinthe ']
 youtube: "ABntm6FL8wc"
 description: "A sparkling and refreshing Prohibition-era fizz that combines the anise flavor of pastis with the nutty sweetness of orgeat."
 excerpt: |

@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/cloister/"
 iconfile: cloister
 stars: 0
-base_spirits: "Gin, Yellow Chartreuse"
+base_spirits: ['Gin', 'Yellow Chartreuse']
 youtube: "LINK"
 description: "A modern sour that combines gin with the herbal sweetness of yellow Chartreuse and the brightness of grapefruit and lemon."
 excerpt: |

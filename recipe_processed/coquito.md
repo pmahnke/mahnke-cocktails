@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/coquito/"
 iconfile: coquito
 stars: 4
-base_spirits: "Gold Rum"
+base_spirits: ['Gold Rum']
 youtube: "SAeGIcLjMlk"
 description: "A creamy and rich classic Puerto Rican holiday punch combining rum, milk, coconut, and spices."
 excerpt: |

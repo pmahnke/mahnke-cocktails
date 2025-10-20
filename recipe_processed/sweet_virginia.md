@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/sweet_virginia/"
 iconfile: sweet_virginia
 stars: 3
-base_spirits: "Bourbon, Cherry Liqueur"
+base_spirits: ['Bourbon', 'Cherry Liqueur']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/31242/sweet-virginia"
 description: "A fruity modern Sweet Manhattan variation, eponymously named after the Rolling Stones' song."
 excerpt: |

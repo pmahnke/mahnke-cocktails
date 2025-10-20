@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/lonely_penguin/"
 iconfile: lonely_penguin
 stars: 0
-base_spirits: "Rye, Crème de Mûre"
+base_spirits: ['Rye', 'Crème de Mûre']
 youtube: "Hw-KZJNvtts"
 description: "A unique original cocktail that combines the flavors of whiskey, lemon, blackberry, and coconut."
 excerpt: |

@@ -7,7 +7,7 @@ categories: [syrup]
 permalink: "/recipe/spiced_ginger_syrup/"
 iconfile: spiced_ginger_syrup
 stars: 0
-base_spirits: "Sugar, Spices"
+base_spirits: ['Sugar', 'Spices']
 youtube:
 excerpt: |
   Spiced ginger simple syrup is a versatile ingredient that can be used in Dark 'n Stormy.

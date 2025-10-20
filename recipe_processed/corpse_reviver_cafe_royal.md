@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/corpse_reviver_cafe_royal/"
 iconfile: corpse_reviver_cafe_royal
 stars: 0
-base_spirits: "Cognac, Champagne"
+base_spirits: ['Cognac', 'Champagne']
 youtube: "rMCsrbidAJ4"
 description: "A classic variation from the Cafe Royal Cocktail Book that adds the effervescence of Champagne to a cognac base."
 excerpt: |

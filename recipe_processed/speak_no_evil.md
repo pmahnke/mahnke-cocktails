@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/speak_no_evil/"
 iconfile: speak_no_evil
 stars: 0
-base_spirits: "Reposado Tequila, Mezcal, Allspice Dram"
+base_spirits: ['Reposado Tequila', 'Mezcal', 'Allspice Dram']
 youtube: "-DnpmdGBmgs&t=433s"
 description: "A spicy, smoky, and slightly sweet original cocktail that features mezcal as its base spirit."
 excerpt: |

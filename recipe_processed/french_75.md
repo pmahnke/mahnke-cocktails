@@ -7,7 +7,7 @@ categories: [champagne]
 permalink: "/recipe/french75/"
 iconfile: french_75
 stars: 4.75
-base_spirits: "Champagne, Cognac -OR- Gin "
+base_spirits: ['Champagne', 'Cognac -OR- Gin ']
 youtube: "Viz7yWfcmdo"
 description: "A classic and celebratory sparkling cocktail that combines either gin or cognac with lemon, sugar, and Champagne."
 excerpt: |

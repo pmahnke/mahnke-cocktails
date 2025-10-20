@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/rabo_de_galo/"
 iconfile: rabo_de_galo
 stars: 0
-base_spirits: "Cachaça, Cynar Amaro"
+base_spirits: ['Cachaça', 'Cynar Amaro']
 youtube: "YFqEvNdPrX8"
 description: "A classic and simple Brazilian cocktail known for its bold flavors, combining cachaça with the bittersweet notes of Cynar."
 excerpt: |

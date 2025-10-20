@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/millionaire_royal/"
 iconfile: millionaire_royal
 stars: 4
-base_spirits: "Bourbon, Grand Marnier, Absinthe"
+base_spirits: ['Bourbon', 'Grand Marnier', 'Absinthe']
 youtube: "CZ5KSKO3sbQ"
 description: "A very satisfactory classic sour, featuring bourbon, Grand Marnier, and a hint of absinthe."
 excerpt: |

@@ -5,7 +5,7 @@ categories: [syrup]
 permalink: "/recipe/pineappleinfusedrum/"
 iconfile: pineapple_infused_rum
 stars: 0
-base_spirits: "Jamaican Rum, Pineapple"
+base_spirits: ['Jamaican Rum', 'Pineapple']
 youtube: "BXGS7Ai2hec"
 excerpt: |
   Pineapple-infused rum is a delightful spirit that captures the essence of tropical paradise. Made by steeping fresh pineapple in high-quality rum, the  result is a sweet and fruity concoction that's perfect for sipping on its own or incorporating into a variety of cocktails.

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/airmail/"
 iconfile: airmail
 stars: 0
-base_spirits: "Champagne, Gold Rum "
+base_spirits: ['Champagne', 'Gold Rum ']
 youtube: "vaVcBQ6tiFw"
 description: "A celebratory classic cocktail that combines gold rum and honey with the effervescence of Champagne."
 excerpt: |

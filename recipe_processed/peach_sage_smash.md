@@ -7,7 +7,7 @@ categories: [smash]
 permalink: "/recipe/peach_sage_smash/"
 iconfile: peach_sage_smash
 stars: 0
-base_spirits: "Reposado Tequila"
+base_spirits: ['Reposado Tequila']
 youtube: "3i4QnRLlPFc&t=220s"
 description: "A refreshing and flavorful modern smash that combines the sweetness of fresh peaches with the earthy, savory notes of sage."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/black_dragon_13/"
 iconfile: black_dragon_13
 stars: 0
-base_spirits: "Cognac, Amaro, Stout "
+base_spirits: ['Cognac', 'Amaro', 'Stout ']
 youtube: "u0N9FFJ1i5c"
 description: "A unique and intriguing cocktail that combines the boldness of coffee and stout with the sophistication of cognac and amaro."
 excerpt: |

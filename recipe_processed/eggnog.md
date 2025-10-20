@@ -7,7 +7,7 @@ categories: [eggnog]
 permalink: "/recipe/eggnog/"
 iconfile: eggnog
 stars: 4
-base_spirits: "Rum, Amontillado Sherry "
+base_spirits: ['Rum', 'Amontillado Sherry ']
 youtube: "s30L-iu171E"
 description: "A creamy, festive classic cocktail perfect for the holidays, made with eggs, sugar, milk, and typically spiked with rum or sherry."
 excerpt: |

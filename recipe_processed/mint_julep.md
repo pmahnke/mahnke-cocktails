@@ -7,7 +7,7 @@ categories: [julep]
 permalink: "/recipe/mint_julep/"
 iconfile: mint_julep
 stars: 4
-base_spirits: "Bourbon "
+base_spirits: ['Bourbon ']
 youtube: "xfLW5Na9QpM"
 description: "The signature drink of the Kentucky Derby, this is a classic and refreshing cocktail made with bourbon, fresh mint, and sugar served over crushed ice."
 excerpt: |

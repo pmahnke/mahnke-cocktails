@@ -7,7 +7,7 @@ eras: [classic, new orleans]
 permalink: "/recipe/st_charles_punch/"
 iconfile: st_charles_punch
 stars: 0
-base_spirits: "Ruby Port, Cognac, Absinthe"
+base_spirits: ['Ruby Port', 'Cognac', 'Absinthe']
 youtube: "btZ5f-OaoQs"
 description: "The St. Charles Punch is a vintage cocktail invented in the St. Charles Hotel in New Orleans. This classic drink is noted for its &#34;randy&#34; combination of port and brandy, balanced by the tartness of fresh lemon and a hint of syrup."
 excerpt: |

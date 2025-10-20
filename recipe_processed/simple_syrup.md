@@ -5,7 +5,7 @@ categories: [syrup]
 permalink: "/recipe/simple_syrup/"
 iconfile: simple_syrup
 stars: 0
-base_spirits: "Sugar"
+base_spirits: ['Sugar']
 youtube: CvEDhkR6K14
 excerpt: |
   Semi-rich simple syrup is a versatile ingredient that can be used in a variety of cocktails and other drinks.

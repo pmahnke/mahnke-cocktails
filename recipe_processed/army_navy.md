@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/army_navy/"
 iconfile: army_navy
 stars: 3.5
-base_spirits: "Gin"
+base_spirits: ['Gin']
 youtube: "XggEyhSR2Dk"
 description: "A classic gin sour with a unique flavor profile derived from the almond and floral notes of orgeat syrup."
 excerpt: |

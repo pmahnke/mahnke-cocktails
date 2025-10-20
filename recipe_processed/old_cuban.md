@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/old_cuban/"
 iconfile: old_cuban
 stars: 0
-base_spirits: "Champagne, Gold Rum "
+base_spirits: ['Champagne', 'Gold Rum ']
 youtube: "IAaiRENeyvc&t=639s"
 description: "A modern classic from legendary bartender Audrey Saunders, this drink is a sophisticated cross between a Mojito and a French 75."
 excerpt: |

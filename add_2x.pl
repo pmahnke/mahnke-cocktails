@@ -39,6 +39,19 @@ while (my $file = readdir DIR) {
             s/stars: .*/stars: $rating/;
         }
 
+        # turn base spirits list into an object
+        if (/^base_spirits:\s*(.*)/) {
+            my $spirits = $1;
+            $spirits =~ s/('|")//g;
+            #print STDERR qq|\nin bs: $spirits\n|;
+            #<STDIN>;
+            my @items = split /\s*,\s*/, $spirits;
+            $item[0] = $spirits if (!$item[0]);
+            $out .= "base_spirits: [" . join(", ", map { "'$_'" } @items) . "]\n";
+            next;
+        }
+
+
     	# convert internal liquid links
 	    s/link recipe\//link recipe_processed\//;
 

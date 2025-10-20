@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/fino_spritz/"
 iconfile: fino_spritz
 stars: 0
-base_spirits: "Fino Sherry, Maraschino Liqueur"
+base_spirits: ['Fino Sherry', 'Maraschino Liqueur']
 youtube: "BUb54paVf0s"
 description: "A refreshing and modern take on the classic spritz, featuring the crisp, dry character of Fino Sherry as its base."
 excerpt: |

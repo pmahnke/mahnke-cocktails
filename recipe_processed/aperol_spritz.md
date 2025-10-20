@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/aperol_spritz/"
 iconfile: aperol_spritz
 stars: 3.25
-base_spirits: "Aperol, Prosecco"
+base_spirits: ['Aperol', 'Champagne']
 youtube: "BUb54paVf0s"
 description: "An iconic and refreshing Italian aperitif that combines the bittersweet notes of Aperol with the sparkle of prosecco and a splash of soda."
 excerpt: |
@@ -27,8 +27,10 @@ excerpt: |
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware:
-- Garnish: Orange wheel Special
-- Prep: None
+  - Wine Glass
+  - On the rocks
+- Garnish: Orange wheel
+- Special Prep: None
 
     
 <script type="application/ld+json">
@@ -62,11 +64,19 @@ excerpt: |
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Orange wheel Special"
+      "text": "  - Wine Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Prep: None"
+      "text": "  - On the rocks"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Orange wheel"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: None"
     }
     ],
   "recipeYield": "1 cocktail",

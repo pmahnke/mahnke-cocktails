@@ -2,8 +2,11 @@ images:
   ingredient:
     - url: /assets/images/ingredient-aperol.svg
       title: Aperol
-    - url: /assets/images/ingredient-prosecco.svg
-      title: Prosecco
+    - url: /assets/images/ingredient-champagne.svg
+      title: Champagne
   garnish:
     - url: /assets/images/fruit-orange.svg
       title: Orange slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

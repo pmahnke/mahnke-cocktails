@@ -5,7 +5,7 @@ categories: [syrup]
 permalink: "/recipe/hibiscus_syrup/"
 iconfile: hibiscus_syrup
 stars: 0
-base_spirits: "Cinnamon Sticks, Cloves, Dried Hibiscus"
+base_spirits: ['Cinnamon Sticks', 'Cloves', 'Dried Hibiscus']
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
   Original recipe by Shannon Mustipher, made from dried hibiscus flowers, which are steeped in a simple sugar syrup to create a vibrant red liquid.

@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/margarita_ginger/"
 iconfile: margarita_ginger
 stars: 0
-base_spirits: "Reposado Tequila "
+base_spirits: ['Reposado Tequila ']
 youtube: "jxpT11WEtWQ"
 description: "A refreshing and flavorful modern twist on the classic Margarita, combining the bold spice of ginger with zesty lime and tequila."
 excerpt: |

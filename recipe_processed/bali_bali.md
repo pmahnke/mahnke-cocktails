@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/bali_bali/"
 iconfile: bali_bali
 stars: 4
-base_spirits: "Black Rum, Light Rum, Cognac, Gin "
+base_spirits: ['Black Rum', 'Light Rum', 'Cognac', 'Gin ']
 youtube: 'lWDA\_\_gwSow'
 description: "A potent classic tiki cocktail that packs a punch with its complex blend of four different spirits."
 excerpt: |

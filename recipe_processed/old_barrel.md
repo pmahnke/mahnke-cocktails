@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/old_barrel/"
 iconfile: old_barrel
 stars: 0
-base_spirits: "Rye, Bénédictine, Amontillado Sherry"
+base_spirits: ['Rye', 'Bénédictine', 'Amontillado Sherry']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/6170/old-barrel"
 description: "A modern riff on a classic Old Fashioned with rye whiskey spice, herbal Bénédictine complexity, and vinous sherry."
 excerpt: |

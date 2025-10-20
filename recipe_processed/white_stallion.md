@@ -7,7 +7,7 @@ categories: [after_dinner, ice_cream]
 permalink: "/recipe/white_stallion/"
 iconfile: white_stallion
 stars: 0
-base_spirits: "Plymouth Gin, Curaçao, Champagne "
+base_spirits: ['Plymouth Gin', 'Curaçao', 'Champagne ']
 youtube: "E1TfYiFrnXk"
 description: "A bubbly and decadent modern ice cream drink inspired by classic Savoy cocktails, featuring gin, Grand Marnier, and Champagne."
 excerpt: |

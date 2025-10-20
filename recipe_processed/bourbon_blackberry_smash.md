@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/bourbon_blackberry_smash/"
 iconfile: bourbon_blackberry_smash
 stars: 0
-base_spirits: "Bourbon"
+base_spirits: ['Bourbon']
 youtube: "3i4QnRLlPFc&t=220s"
 description: "A refreshing smash made with fresh muddled lime, blackberries, and mint mixed with bourbon and topped with soda water."
 excerpt: |

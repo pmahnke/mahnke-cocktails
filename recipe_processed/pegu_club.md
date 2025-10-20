@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/pegu_club/"
 iconfile: pegu_club
 stars: 3
-base_spirits: "Gin "
+base_spirits: ['Gin ']
 youtube: "YenVNoabM4"
 description: "A classic gin-based sour from the Prohibition era with a touch of tropical flair, originally created at the Pegu Club in Burma."
 excerpt: |

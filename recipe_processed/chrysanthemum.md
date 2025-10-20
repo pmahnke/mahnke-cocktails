@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/chrysanthemum/"
 iconfile: chrysanthemum
 stars: 3.5
-base_spirits: "Bénédictine, Absinthe"
+base_spirits: ['Bénédictine', 'Absinthe']
 youtube: "ivuVwMUiQ_U"
 description: "A classic low-alcohol cocktail from the early 20th century that features Bénédictine and absinthe with a French vermouth base."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/hugo_spritz/"
 iconfile: hugo_spritz
 stars: 2.5
-base_spirits: "Elderflower Liqueur, Prosecco"
+base_spirits: ['Elderflower Liqueur', 'Champagne']
 youtube: "BUb54paVf0s"
 description: "A refreshing and floral modern spritz from Italy, combining elderflower liqueur with prosecco and mint."
 excerpt: |
@@ -28,8 +28,10 @@ excerpt: |
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware:
-- Garnish: Mint sprig and lime wheel Special
-- Prep: Add the mint and elderflower liqueur to the glass and muddle. Allow to sit
+  - Wine glass
+  - On the rocks
+- Garnish: Mint sprig and lime wheel
+- Special Prep: Add the mint and elderflower liqueur to the glass and muddle. Allow to sit
   for a minute before adding the prosecco and soda water.
 
     
@@ -65,11 +67,19 @@ excerpt: |
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Mint sprig and lime wheel Special"
+      "text": "  - Wine glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Prep: Add the mint and elderflower liqueur to the glass and muddle. Allow to sit"
+      "text": "  - On the rocks"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Mint sprig and lime wheel"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Add the mint and elderflower liqueur to the glass and muddle. Allow to sit"
     },
     {
       "@type": "HowToStep",

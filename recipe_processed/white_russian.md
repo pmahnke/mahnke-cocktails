@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/white_russian/"
 iconfile: white_russian
 stars: 4
-base_spirits: "Vodka, Kahlúa"
+base_spirits: ['Vodka', 'Kahlúa']
 youtube: "z2lAXggbDDY"
 description: "A classic and creamy modern after-dinner drink that combines vodka, coffee liqueur, and cream."
 excerpt: |

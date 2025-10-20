@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/division_bell/"
 iconfile: division_bell
 stars: 0
-base_spirits: "Mezcal, Aperol, Maraschino Liqueur "
+base_spirits: ['Mezcal', 'Aperol', 'Maraschino Liqueur ']
 youtube: "70cS-bRH9kA"
 description: "A modern classic that combines the smoky flavor of mezcal with the bittersweet notes of Aperol and the complexity of Maraschino Liqueur."
 excerpt: |

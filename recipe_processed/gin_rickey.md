@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/gin_rickey/"
 iconfile: gin_rickey
 stars: 0
-base_spirits: "Gin"
+base_spirits: ['Gin']
 youtube: "vOM5wbvegzo"
 description: "A classic and refreshingly tart highball from the late 19th century, featuring gin, fresh lime, and carbonated water with no added sugar."
 excerpt: |

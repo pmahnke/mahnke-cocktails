@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/dirty_martini/"
 iconfile: dirty_martini
 stars: 0
-base_spirits: "Vodka, Gin"
+base_spirits: ['Vodka', 'Gin']
 youtube: "cwunL1zBgnI"
 description: "A classic savory Martini variation that incorporates a small amount of olive brine for a salty kick."
 excerpt: |

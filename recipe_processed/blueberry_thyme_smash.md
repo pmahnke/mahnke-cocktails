@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/blueberry_thyme_smash/"
 iconfile: blueberry_thyme_smash
 stars: 0
-base_spirits: "Gin"
+base_spirits: ['Gin']
 youtube: "3i4QnRLlPFc&t=220s"
 description: "A simple and refreshing smash that combines gin with the fruity notes of blueberries and the herbal character of thyme."
 excerpt: |

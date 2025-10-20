@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/sherry_cobbler/"
 iconfile: sherry_cobbler
 stars: 0
-base_spirits: "Oloroso Sherry "
+base_spirits: ['Oloroso Sherry ']
 youtube: "f7SpTmbMOsQ"
 description: "A classic and refreshing low-alcohol sipper from the 1800s, made with sherry, sugar, and citrus served over crushed ice."
 excerpt: |

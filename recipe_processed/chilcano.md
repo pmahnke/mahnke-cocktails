@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/chilcano/"
 iconfile: chilcano
 stars:
-base_spirits: "Pisco"
+base_spirits: ['Pisco']
 youtube: ""
 description: "A popular and refreshing Peruvian highball that combines pisco with lime and ginger ale."
 excerpt: |

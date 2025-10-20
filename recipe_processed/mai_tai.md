@@ -7,7 +7,7 @@ categories: [tiki]
 permalink: "/recipe/mai_tai/"
 iconfile: mai_tai
 stars: 4.5
-base_spirits: "Jamaican Rum, Rhum Agricole"
+base_spirits: ['Jamaican Rum', 'Rhum Agricole']
 youtube: "gYJsPE1demY"
 description: "A quintessential tiki classic that balances two types of rum with the flavors of orange curaçao, orgeat, and lime."
 excerpt: |

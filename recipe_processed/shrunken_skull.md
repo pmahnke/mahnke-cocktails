@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/shrunken_skull/"
 iconfile: shrunken_skull
 stars: 0
-base_spirits: "Demerara Rum, Gold Rum "
+base_spirits: ['Demerara Rum', 'Gold Rum ']
 youtube: "pTBVVi20ONk"
 description: "A classic tiki cocktail similar to a Daiquiri, with a touch of mystery from its blend of rums and spice."
 excerpt: |

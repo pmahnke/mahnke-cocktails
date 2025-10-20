@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/kentucky_colonel_smoked/"
 iconfile: kentucky_colonel_smoked
 stars: 0
-base_spirits: "Bourbon, Bénédictine"
+base_spirits: ['Bourbon', 'Bénédictine']
 youtube: "gZdT2GBf91I"
 description: "A classic cocktail that pays homage to Kentucky bourbon, enhanced with the herbal notes of Bénédictine and the aroma of smoke."
 excerpt: |

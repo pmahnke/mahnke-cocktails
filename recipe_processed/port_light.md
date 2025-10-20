@@ -8,7 +8,7 @@ categories: [tiki]
 permalink: "/recipe/port_light/"
 iconfile: port_light
 stars: 4
-base_spirits: "Bourbon"
+base_spirits: ['Bourbon']
 youtube: "-DnpmdGBmgs&t=433s"
 description: "A unique tiki cocktail from the 1960s that deviates from the traditional rum base by using bourbon instead."
 excerpt: |

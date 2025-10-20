@@ -8,7 +8,7 @@ categories: [tiki]
 permalink: "/recipe/singapore_sling/"
 iconfile: singapore_sling
 stars: 4
-base_spirits: "Gin, Cherry Liqueur, Bénédictine"
+base_spirits: ['Gin', 'Cherry Liqueur', 'Bénédictine']
 youtube: "EjRcajuUkJk"
 youtube_embed: "https://www.youtube.com/embed/EjRcajuUkJk?si=EMdqje_4KECcUOJA"
 description: "A classic and complex long drink from Singapore, developed in 1915, featuring a gin base with cherry liqueur and Bénédictine."

@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/irish_coffee_cold/"
 iconfile: irish_coffee_cold
 stars: 0
-base_spirits: "Irish Whiskey, Coffee Liqueur"
+base_spirits: ['Irish Whiskey', 'Coffee Liqueur']
 youtube: "sJsY1LokABA"
 description: "A refreshing modern twist on the classic, this cocktail combines cold brew coffee with the smooth warmth of Irish whiskey."
 excerpt: |

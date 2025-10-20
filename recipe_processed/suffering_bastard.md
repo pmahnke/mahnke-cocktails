@@ -8,7 +8,7 @@ categories: [buck]
 permalink: "/recipe/suffering_bastard/"
 iconfile: suffering_bastard
 stars: 3.5
-base_spirits: "Gin, Cognac -OR- Bourbon"
+base_spirits: ['Gin', 'Cognac -OR- Bourbon']
 youtube: "oRQtYcyRKVI"
 description: 'A classic "hair of the dog" buck from the 1940s, originally created as a hangover cure, uniquely featuring both gin and bourbon.'
 excerpt: |

@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/monte_cassino/"
 iconfile: monte_cassino
 stars: 4.25
-base_spirits: "Rye, Yellow Chartreuse, Bénédictine"
+base_spirits: ['Rye', 'Yellow Chartreuse', 'Bénédictine']
 youtube: "NGPSk_jMZvA"
 description: "A bright and herbaceous modern Last Word variation that uses rye whiskey as its base spirit."
 excerpt: |

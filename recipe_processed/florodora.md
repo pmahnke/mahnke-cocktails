@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/florodora/"
 iconfile: florodora
 stars: 0
-base_spirits: "Gin"
+base_spirits: ['Gin']
 youtube: "https://youtube.com/shorts/r6QW-H5nnGM?si=i7JwiTGYox34RizT"
 description: "A bright, effervescent, gin-based highball cocktail with a vibrant raspberry flavor. It perfectly balances the gin with lime and ginger."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/jaspers_rum_punch/"
 iconfile: jaspers_rum_punch
 stars: 0
-base_spirits: "Overproof Jamaican Rum"
+base_spirits: ['Overproof Jamaican Rum']
 youtube: "sRTGCquUgMs"
 description: "A classic Jamaican rum punch that uses a sweet, sour, and spicy secret ingredient known as Jasper's Mix."
 excerpt: |
