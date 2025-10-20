@@ -1,0 +1,14 @@
+---
+layout: default-plain
+permalink: /spirit/
+title: Spirits
+---
+
+{%- assign sorted = site.data.spirits | sort: "name" -%}
+{%- for spirit in sorted -%}
+
+<h4><a href="{{ spirit.slug }}">{{ spirit.name }}</a></h4>
+<p>{{ spirit.description }}</p>
+<p><a href="{{ spirit.slug }}">See {{ spirit.name }} cocktails ></a></p>
+
+{%- endfor -%}
