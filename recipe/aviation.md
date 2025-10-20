@@ -12,7 +12,7 @@ base_spirits: "Gin, Crème de Violette "
 youtube: "Kmw5D32W8sM&t=345sY"
 description: "A classic gin sour from the early 20th century, celebrated for its floral notes and sky-blue hue from crème de violette."
 excerpt: |
-  The aviation was created by Hugo Ensslin, head bartender at the Hotel Wallick in New York, in the early twentieth century. The first published recipe appeared in Ensslin's 1916 <em>Recipes for Mixed Drinks</em>. Ensslin's recipe called for two thirds El Bart gin, one third lemon juice, 2 dashes maraschino liqueur, and 2 dashes crème de violette.<br><br>
+  The aviation was created by Hugo Ensslin, head bartender at the Hotel Wallick in New York, in the early twentieth century. The first published recipe appeared in Ensslin's 1916 <em>Recipes for Mixed Drinks</em>. Ensslin's recipe called for two thirds El Bart gin, one third lemon juice, 2 dashes maraschino liqueur, and 2 dashes crème de violette.
 
   Harry Craddock's influential <em>Savoy Cocktail Book</em> (1930) omitted the crème de violette, calling for a mixture of two thirds dry gin, one third lemon juice and two dashes of maraschino. Many later bartenders have followed Craddock's lead, leaving out the difficult-to-find violet liqueur.
 ---
