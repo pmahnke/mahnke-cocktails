@@ -11,7 +11,7 @@ base_spirits: ['Light Rum', 'Ruby Port', 'White Crème de Cacao']
 youtube: "UhRb_xqCXwQ"
 description: "An original cocktail with a bittersweet profile, combining light rum, ruby port, and white crème de cacao."
 excerpt: |
-  The Lonely Valentine is a cocktail that evokes a sense of bittersweet nostalgia. It's a complex blend of flavors that balances sweetness with bitterness, and warmth with tartness.<br><br>
+  The Lonely Valentine is a cocktail that evokes a sense of bittersweet nostalgia. It's a complex blend of flavors that balances sweetness with bitterness, and warmth with tartness.
 
   The cocktail typically includes brandy, Cointreau, and cola, creating a rich and flavorful drink. The brandy provides warmth and complexity, while the Cointreau adds citrus notes and sweetness. The cola adds a touch of sweetness and a unique flavor profile.
 ---
