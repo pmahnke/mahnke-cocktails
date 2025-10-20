@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/mojito/"
 iconfile: mojito
 stars: 4
-base_spirits: ['Light Rum ']
+base_spirits: ['Light Rum']
 youtube: "KMypSCazyRw"
 description: "A classic and refreshing Cuban highball, celebrated for its vibrant mix of white rum, fresh mint, lime, sugar, and soda water."
 excerpt: |

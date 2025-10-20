@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/cable_car/"
 iconfile: cable_car
 stars: 4
-base_spirits: ['Spice Rum ']
+base_spirits: ['Spice Rum']
 youtube: "iUGkl-AVgbI"
 description: "A modern classic from 1996, this is a twist on the classic Sidecar featuring spiced rum."
 excerpt: |

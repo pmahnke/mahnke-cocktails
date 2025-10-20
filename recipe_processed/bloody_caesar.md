@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/bloody_caesar/"
 iconfile: bloody_caesar
 stars: 3
-base_spirits: ['Vodka ']
+base_spirits: ['Vodka']
 youtube: "CWN67QIvZP8"
 description: "Canada's national cocktail, this is a savory riff on the Bloody Mary that gets its unique character from clam-infused tomato juice."
 excerpt: |

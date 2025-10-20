@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/penicillin/"
 iconfile: penicillin
 stars: 0
-base_spirits: ['Scotch', 'Blended', 'Scotch', 'Single Malt ']
+base_spirits: ['Scotch', 'Blended', 'Scotch', 'Single Malt']
 youtube: "G51IC-s_ECI"
 description: "A modern classic from New York bartender Sam Ross, this is a Scotch-based sour that perfectly balances the flavors of smoky whisky, spicy ginger, and sweet honey."
 excerpt: |

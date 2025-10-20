@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/pendennis_club/"
 iconfile: pendennis_club
 stars: 3
-base_spirits: ['Gin', 'Apricot Liqueur ']
+base_spirits: ['Gin', 'Apricot Liqueur']
 youtube: "TpTvTn7HXo0"
 description: "A classic gin sour from Louisville, Kentucky, with a unique flavor profile thanks to the addition of Apricot Liqueur and Peychaud's bitters."
 excerpt: |

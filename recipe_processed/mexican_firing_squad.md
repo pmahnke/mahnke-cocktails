@@ -7,7 +7,7 @@ categories: [collins]
 permalink: "/recipe/mexican_firing_squad/"
 iconfile: mexican_firing_squad
 stars: 0
-base_spirits: ['Reposado Tequila ']
+base_spirits: ['Reposado Tequila']
 youtube: "3aV3DzDfW_A"
 description: "A classic Collins-style cocktail that features tequila, lime, and grenadine, topped with soda and a few dashes of Angostura bitters."
 excerpt: |

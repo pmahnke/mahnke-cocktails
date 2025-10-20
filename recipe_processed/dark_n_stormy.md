@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/dark_n_stormy/"
 iconfile: dark_n_stormy
 stars: 4.5
-base_spirits: ['Dark Rum ']
+base_spirits: ['Dark Rum']
 youtube: "2EZBGowe0ho"
 description: "A classic highball from Bermuda that features a simple but potent combination of dark rum and spicy ginger beer."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/chocolate_punch/"
 iconfile: chocolate_punch
 stars: 0
-base_spirits: ['Cognac', 'Ruby Port', 'Crème de Cacao ']
+base_spirits: ['Cognac', 'Ruby Port', 'Crème de Cacao']
 youtube: "s30L-iu171E"
 description: "A decadent and indulgent classic punch that combines the rich flavors of brandy, port, and dark crème de cacao."
 excerpt: |

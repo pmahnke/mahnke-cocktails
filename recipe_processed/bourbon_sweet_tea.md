@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/bourbon_sweet_tea/"
 iconfile: bourbon_sweet_tea
 stars: 0
-base_spirits: ['Bourbon', 'Light Amaro', 'Peach Liqueur ']
+base_spirits: ['Bourbon', 'Light Amaro', 'Peach Liqueur']
 youtube: "1b4nHX4RjdY"
 description: "A boozy take on the iconic Southern Sweet Tea, perfect for porch sipping."
 excerpt: |

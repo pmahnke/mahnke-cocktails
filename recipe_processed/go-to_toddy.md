@@ -7,7 +7,7 @@ eras: [classic, modern]
 permalink: "/recipe/go-to_toddy/"
 iconfile: go-to_toddy
 stars: 0
-base_spirits: ['Scotch', 'Blended ']
+base_spirits: ['Scotch', 'Blended']
 youtube: "DJtBN6yBnsA"
 description: "A comforting and warming classic beverage, traditionally made with a spirit, hot water, honey, and lemon."
 excerpt: |

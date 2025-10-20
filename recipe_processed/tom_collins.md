@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/tom_collins/"
 iconfile: tom_collins
 stars: 4
-base_spirits: ['Old Tom Gin ']
+base_spirits: ['Old Tom Gin']
 youtube: "DKkHTEozo7o"
 description: "A classic and straightforwardly refreshing Collins cocktail that combines Old Tom gin with lemon juice, sugar, and club soda."
 excerpt: |

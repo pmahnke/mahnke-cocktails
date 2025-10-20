@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/cigar/"
 iconfile: cigar
 stars: 0
-base_spirits: ['Scotch', 'Single Malt', 'Aperol ']
+base_spirits: ['Scotch', 'Single Malt', 'Aperol']
 youtube: "gZdT2GBf91I"
 description: "A classic smoked cocktail designed to complement the flavors of a cigar, typically made with dark spirits and sweet vermouth."
 excerpt: |

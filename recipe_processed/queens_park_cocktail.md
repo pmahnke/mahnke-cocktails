@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/queens_park_cocktail/"
 iconfile: queens_park_cocktail
 stars: 3
-base_spirits: ['Gold Rum ']
+base_spirits: ['Gold Rum']
 youtube: "ASTV1OEXhbE"
 description: "A complex and flavorful Prohibition-era drink, also known as the Trinidadian Daiquiri."
 excerpt: |

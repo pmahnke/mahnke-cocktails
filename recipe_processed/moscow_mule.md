@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/moscow_mule/"
 iconfile: moscow_mule
 stars: 3.5
-base_spirits: ['Vodka ']
+base_spirits: ['Vodka']
 youtube: "mvo1CzEJd14"
 description: "A classic modern buck, born in Los Angeles, famous for its refreshing combination of vodka, spicy ginger beer, and lime, traditionally served in a copper mug."
 excerpt: |

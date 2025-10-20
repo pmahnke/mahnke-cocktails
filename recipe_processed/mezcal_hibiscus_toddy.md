@@ -7,7 +7,7 @@ eras: [classic, modern]
 permalink: "/recipe/mezcal_hibiscus_toddy/"
 iconfile: mezcal_hibiscus_toddy
 stars: 0
-base_spirits: [' Mezcal ']
+base_spirits: ['Mezcal']
 youtube: "DJtBN6yBnsA"
 description: "A modern hot toddy that combines the smoky notes of mezcal with the floral, tart flavor of hibiscus."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/champagne_cocktail/"
 iconfile: champagne_cocktail
 stars: 4.5
-base_spirits: ['Champagne', 'Cognac ']
+base_spirits: ['Champagne', 'Cognac']
 youtube: "WmMC1qb2LgA"
 description: "A simple and elegant classic that enhances Champagne with a sugar cube soaked in Angostura bitters."
 excerpt: |

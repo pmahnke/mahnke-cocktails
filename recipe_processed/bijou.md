@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/bijou/"
 iconfile: bijou
 stars: 4
-base_spirits: ['Gin', 'Green Chartreuse ']
+base_spirits: ['Gin', 'Green Chartreuse']
 youtube: "LeIeaxJR2kw"
 description: "A classic cocktail from the 1890s that combines gin, sweet vermouth, and Green Chartreuse, named for the jewel tones of its ingredients."
 excerpt: |

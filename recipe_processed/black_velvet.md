@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/black_velvet/"
 iconfile: black_velvet
 stars: 3
-base_spirits: ['Champagne', 'Stout ']
+base_spirits: ['Champagne', 'Stout']
 youtube: "IAaiRENeyvc&t=639s"
 description: "A classic layered drink that marries the crisp bubbles of Champagne with the smooth, roasty character of Guinness stout."
 excerpt: |

@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/zombie/"
 iconfile: zombie
 stars: 0
-base_spirits: ['Jamaican Rum', 'Gold Rum', 'Demerara Rum ']
+base_spirits: ['Jamaican Rum', 'Gold Rum', 'Demerara Rum']
 youtube: '\_eCla7H-TA0&t=4s'
 description: "A notoriously potent classic tiki cocktail from 1934, featuring a powerful and complex blend of multiple rums and spices."
 excerpt: |

@@ -8,7 +8,7 @@ categories: [eggnog]
 permalink: "/recipe/tomandjerry/"
 iconfile: tom_and_jerry
 stars: 0
-base_spirits: ['Jamaican Rum', 'Demerara Rum', 'Cognac ']
+base_spirits: ['Jamaican Rum', 'Demerara Rum', 'Cognac']
 youtube: "tfPrLUlFO8k"
 description: "A classic hot eggnog variation, served warm and featuring a rich batter made with separated eggs, rum, and brandy."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [new_orleans]
 permalink: "/recipe/sazarac/"
 iconfile: sazarac
 stars: 4.25
-base_spirits: ['Rye', 'Cognac ']
+base_spirits: ['Rye', 'Cognac']
 youtube: "dJ-sAEzw9Jc"
 description: "A classic and iconic New Orleans cocktail, traditionally made with rye or cognac, bitters, and sugar in a glass rinsed with absinthe."
 excerpt: |

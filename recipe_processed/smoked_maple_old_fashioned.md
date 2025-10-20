@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/smoked_maple_old_fashioned/"
 iconfile: smoked_maple_old_fashioned
 stars: 0
-base_spirits: ['Bourbon ']
+base_spirits: ['Bourbon']
 youtube: "EOIWzKAQk9w"
 description: "A modern variation of the classic Old Fashioned that adds a smoky, sweet, and savory twist by using maple syrup and a smoke rinse."
 excerpt: |

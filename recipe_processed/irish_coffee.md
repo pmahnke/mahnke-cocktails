@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/irish_coffee/"
 iconfile: irish_coffee
 stars: 3
-base_spirits: ['Irish Whiskey ']
+base_spirits: ['Irish Whiskey']
 youtube: "sJsY1LokABA"
 description: "A classic winter warming drink that combines hot coffee and Irish whiskey, sweetened with sugar and topped with cream."
 excerpt: |

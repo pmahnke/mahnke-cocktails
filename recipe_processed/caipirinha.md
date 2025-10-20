@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/caipirinha/"
 iconfile: caipirinha
 stars: 4
-base_spirits: ['Cachaça ']
+base_spirits: ['Cachaça']
 youtube: "i1UHUyWerhg"
 description: "The national drink of Brazil, this is a classic and refreshing cocktail made by muddling fresh lime and sugar with cachaça."
 excerpt: |

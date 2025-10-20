@@ -7,7 +7,7 @@ categories: [after_dinner, ice_cream]
 permalink: "/recipe/pink_squirrel/"
 iconfile: pink_squirrel
 stars: 0
-base_spirits: ['Crème de Noyaux', 'White Crème de Cacao ']
+base_spirits: ['Crème de Noyaux', 'White Crème de Cacao']
 youtube: "kRPWDOCVByk&t=164s"
 description: "A creamy, sweet after-dinner drink and Midwest classic, this cocktail gets its unique flavor and pink color from crème de noyaux."
 excerpt: |

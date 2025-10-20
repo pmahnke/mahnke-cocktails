@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/haunted_house/"
 iconfile: haunted_house
 stars: 0
-base_spirits: ['Jamaican Rum', 'Rye', 'Swedish Punsch ']
+base_spirits: ['Jamaican Rum', 'Rye', 'Swedish Punsch']
 youtube: "u0N9FFJ1i5c"
 description: "A modern cocktail with a complex profile, combining Jamaican rum, rye, and the unique spice of Swedish Punsch."
 excerpt: |

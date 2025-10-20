@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/bramble/"
 iconfile: bramble
 stars: 0
-base_spirits: ['Gin', 'Crème de Mûre ']
+base_spirits: ['Gin', 'Crème de Mûre']
 youtube: "fgE5H8W5K6M"
 description: "A modern classic from the 1980s, this is a refreshing gin drink built over crushed ice with lemon and blackberry liqueur."
 excerpt: |

@@ -43,8 +43,9 @@ while (my $file = readdir DIR) {
         if (/^base_spirits:\s*(.*)/) {
             my $spirits = $1;
             $spirits =~ s/('|")//g;
-            #print STDERR qq|\nin bs: $spirits\n|;
-            #<STDIN>;
+            $spirits =~ s/^\s+//;
+            $spirits =~ s/\s+$//;
+            
             my @items = split /\s*,\s*/, $spirits;
             $item[0] = $spirits if (!$item[0]);
             $out .= "base_spirits: [" . join(", ", map { "'$_'" } @items) . "]\n";

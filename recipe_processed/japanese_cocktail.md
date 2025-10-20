@@ -9,7 +9,7 @@ eras: [classic]
 permalink: "/recipe/japanese_cocktail/"
 iconfile: japanese_cocktail
 stars: 0
-base_spirits: ['Cognac ']
+base_spirits: ['Cognac']
 youtube: "83TEnWyeqV0"
 description: "A classic cocktail from the 1860s, created by Jerry Thomas, that features a simple but elegant combination of cognac and orgeat syrup."
 excerpt: |

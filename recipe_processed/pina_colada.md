@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/pina_colada/"
 iconfile: pina_colada
 stars: 4
-base_spirits: ['Light Rum ']
+base_spirits: ['Light Rum']
 youtube: "eH9yt9JpXXk&t=6s"
 description: "A classic sweet and refreshing tropical tiki cocktail made with rum, pineapple juice, and cream of coconut."
 excerpt: |

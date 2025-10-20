@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/bourbon_renewal/"
 iconfile: bourbon_renewal
 stars: 0
-base_spirits: ['Bourbon', 'Crème de Cassis ']
+base_spirits: ['Bourbon', 'Crème de Cassis']
 youtube: "8WVlMjEGma4"
 description: "A modern classic sour that pairs the sweetness of bourbon with the rich, dark fruit flavor of crème de cassis."
 excerpt: |

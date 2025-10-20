@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/la_rosita/"
 iconfile: la_rosita
 stars: 0
-base_spirits: ['Reposado Tequila', 'Campari ']
+base_spirits: ['Reposado Tequila', 'Campari']
 youtube: "UhRb_xqCXwQ"
 description: "A classic and complex tequila-based Negroni variation that uses a blend of both sweet and dry vermouths."
 excerpt: |

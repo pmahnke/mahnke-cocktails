@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/clover_club2/"
 iconfile: clover_club2
 stars: 0
-base_spirits: ['Gin ']
+base_spirits: ['Gin']
 youtube: "MkLZovhDN_k"
 description: "A pre-Prohibition classic from Philadelphia known for its silky, frothy texture and beautiful pink hue from raspberry syrup."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/negroni/"
 iconfile: negroni
 stars: 3.75
-base_spirits: ['Gin', 'Campari ']
+base_spirits: ['Gin', 'Campari']
 youtube: "lgy6vEX_hQg"
 description: "The iconic Italian aperitif, this is a classic and perfectly balanced three-ingredient cocktail composed of gin, Campari, and sweet vermouth."
 excerpt: |

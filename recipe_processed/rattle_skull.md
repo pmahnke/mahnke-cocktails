@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/rattle_skull/"
 iconfile: rattle_skull
 stars: 0
-base_spirits: ['Jamaican Rum', 'Cognac', 'Porter ']
+base_spirits: ['Jamaican Rum', 'Cognac', 'Porter']
 youtube: "7JgKLcCqWR4"
 description: "A classic and potent cocktail from the 18th century, made with a formidable combination of rum, brandy, and porter beer."
 excerpt: |

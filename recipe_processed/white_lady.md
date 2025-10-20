@@ -8,7 +8,7 @@ categories: [sour]
 permalink: "/recipe/white_lady/"
 iconfile: white_lady
 stars: 4
-base_spirits: ['Triple Sec', 'Crème de Menthe -OR- Gin ']
+base_spirits: ['Triple Sec', 'Crème de Menthe -OR- Gin']
 youtube: "IAmf7XqE0T8"
 description: "A classic Prohibition-era sour that pairs the botanicals of gin with orange liqueur, lemon juice, and a silky egg white."
 excerpt: |

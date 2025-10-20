@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/godfather/"
 iconfile: godfather
 stars: 3
-base_spirits: ['Scotch', 'Single Malt ']
+base_spirits: ['Scotch', 'Single Malt']
 youtube: "3DhncxCCB-E"
 description: "A simple and classic modern cocktail made with just two ingredients: Scotch whisky and amaretto."
 excerpt: |

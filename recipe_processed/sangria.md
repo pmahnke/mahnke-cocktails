@@ -7,7 +7,7 @@ categories: [punch]
 permalink: "/recipe/sangria/"
 iconfile: sangria
 stars: 4.5
-base_spirits: ['Red Wine', 'Oloroso Sherry', 'Grand Marnier ']
+base_spirits: ['Red Wine', 'Oloroso Sherry', 'Grand Marnier']
 youtube: "NNI--bxevNo"
 description: "A classic and festive Spanish punch, traditionally consisting of red wine, sherry, and chopped fruit, often with other spirits."
 excerpt: |

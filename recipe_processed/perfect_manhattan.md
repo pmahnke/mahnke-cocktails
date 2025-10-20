@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/perfect_manhattan/"
 iconfile: perfect_manhattan
 stars: 0
-base_spirits: ['Rye ']
+base_spirits: ['Rye']
 youtube: "eWESf1b317Y&t=278s"
 description: 'A classic Manhattan variation that achieves a "perfect" balance by using equal parts of both sweet and dry vermouth.'
 excerpt: |

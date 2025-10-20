@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/cosmopolitan/"
 iconfile: cosmopolitan
 stars: 3
-base_spirits: ['Vodka ']
+base_spirits: ['Vodka']
 youtube: "SP8Pc-Db7yQ"
 description: "A modern classic known for its vibrant pink color, this is a tart and sweet cocktail featuring citrus vodka, cranberry, and lime."
 excerpt: |

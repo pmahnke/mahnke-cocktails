@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/dark_daiquiri/"
 iconfile: dark_daiquiri
 stars: 5
-base_spirits: ['Jamaican Rum ']
+base_spirits: ['Jamaican Rum']
 youtube: "71jQRf5UrpE"
 description: "A classic cocktail that offers a rich and flavorful twist on the traditional Daiquiri by using dark rum for added molasses and spice notes."
 excerpt: |

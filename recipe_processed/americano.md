@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/americano/"
 iconfile: americano
 stars: 3
-base_spirits: ['Campari ']
+base_spirits: ['Campari']
 youtube: "lgy6vEX_hQg"
 description: "A refreshing Italian aperitif from the 1860s that builds upon the bittersweet flavor of Campari with sweet vermouth and soda water."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/pisco_sour/"
 iconfile: pisco_sour
 stars: 5
-base_spirits: ['Pisco ']
+base_spirits: ['Pisco']
 youtube: "FdAQ96mYwNQ"
 description: "The national drink of both Peru and Chile, this is an earthy and refreshing classic sour featuring pisco, lime, and a frothy egg white top."
 excerpt: |

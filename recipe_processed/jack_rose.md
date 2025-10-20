@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/jack_rose/"
 iconfile: jack_rose
 stars: 0
-base_spirits: ['Apple Brandy ']
+base_spirits: ['Apple Brandy']
 youtube: "7H7Cz53jDhc"
 description: "A classic Prohibition-era sour with a distinct pink hue, highlighting applejack, one of America's native spirits."
 excerpt: |

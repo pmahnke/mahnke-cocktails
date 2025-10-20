@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/satans_whiskers/"
 iconfile: satans_whiskers
 stars: 0
-base_spirits: ['Gin ']
+base_spirits: ['Gin']
 youtube: "T3GsJVVGCFs"
 description: "A classic Prohibition-era cocktail with a devilishly delicious flavor profile, essentially a Perfect Martini with the addition of orange juice and Grand Marnier."
 excerpt: |
