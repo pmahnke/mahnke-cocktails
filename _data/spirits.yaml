@@ -4,7 +4,7 @@
   description: A highly potent, anise-flavored spirit distilled from botanicals, used sparingly for its complex, herbal aroma.
 - name: Ale
   slug: ale
-  url: ''
+  url: null
   description: A general category of beer brewed using a top-fermenting yeast, typically resulting in a fruitier, fuller-bodied, and often hoppier profile than lagers.
 - name: Allspice Dram
   slug: allspice_dram
@@ -44,11 +44,11 @@
   description: A stone-fruit liqueur used to introduce a jammy, sweet depth to a cocktail, sometimes carrying a subtle almond bitterness.
 - name: Banana Liqueur
   slug: banana_liqueur
-  url: ''
+  url: null
   description: A sweet liqueur flavored with bananas, used to impart a distinct tropical sweetness, often found in tiki drinks.
 - name: Banane du Brésil
   slug: banane_du_brésil
-  url: ''
+  url: null
   description: A specific banana liqueur known for its rum base and richer, more authentic banana flavor.
 - name: Barbados Rum
   slug: barbados_rum
@@ -64,7 +64,7 @@
   description: A rum that is heavily aged or colored with molasses and caramel to achieve a dark, full-bodied, and often smoky or licorice-like flavor.
 - name: Black Sambuca
   slug: black_sambuca
-  url: ''
+  url: null
   description: An anise-flavored liqueur colored and flavored with elderberries, giving it a deep black/purple hue and a slightly richer profile than clear Sambuca.
 - name: Blanc Vermouth
   slug: blanc_vermouth
@@ -128,11 +128,11 @@
   description: A sweet, mint-flavored liqueur, traditionally used to add a cooling, bright element to digestivos and dessert drinks.
 - name: Crème de Mûre
   slug: crème_de_mûre
-  url: ''
+  url: null
   description: A sweet, dark liqueur flavored with blackberries, a staple in the Bramble cocktail.
 - name: Crème de Noyaux
   slug: crème_de_noyaux
-  url: ''
+  url: null
   description: An apricot or peach kernel liqueur, characterized by a sweet, nutty, and slightly bitter almond flavor.
 - name: Crème de Violette
   slug: crème_de_violette
@@ -148,7 +148,7 @@
   description: An Italian artichoke-based amaro with a bittersweet, herbal, and slightly earthy flavor.
 - name: Dark Ale
   slug: dark_ale
-  url: ''
+  url: null
   description: A darker style of ale (like a Brown Ale or Porter) often featuring notes of malt, caramel, chocolate, or nuts.
 - name: Dark Rum
   slug: dark_rum
@@ -164,7 +164,7 @@
   description: A sweet, golden Scotch whisky liqueur flavored with heather honey, herbs, and spices.
 - name: Dry Hard Cider
   slug: dry_hard_cider
-  url: ''
+  url: null
   description: Fermented apple juice that has little to no residual sugar, resulting in a crisp, dry, and often tannic beverage.
 - name: Dry Vermouth
   slug: dry_vermouth
@@ -180,7 +180,7 @@
   description: A pale, sweet liqueur capturing the delicate, floral, and slightly honeyed flavor of elderflower blossoms.
 - name: Fernet Branca
   slug: fernet_branca
-  url: ''
+  url: null
   description: A highly concentrated, intensely bitter Italian digestivo, known for its medicinal and minty herbal profile.
 - name: Fino Sherry
   slug: fino_sherry
@@ -188,7 +188,7 @@
   description: The driest and palest type of sherry, aged entirely under a layer of yeast called flor, giving it a light, nutty, and savory character.
 - name: Galliano
   slug: galliano
-  url: ''
+  url: null
   description: A sweet herbal liqueur from Italy, known for its flavors of vanilla, anise, and subtle spice.
 - name: Genever
   slug: genever
@@ -204,7 +204,7 @@
   description: Rum that has gained color and complexity from aging in oak barrels (typically for a few years), offering a smoother profile than white rum.
 - name: Grand Marnier
   slug: grand_marnier
-  url: ''
+  url: null
   description: A classic French liqueur combining Cognac brandy with distilled essence of bitter orange.
 - name: Green Chartreuse
   slug: green_chartreuse
@@ -212,7 +212,7 @@
   description: An extremely complex and potent French liqueur made by Carthusian Monks, featuring a powerful, vegetal, and spicy profile.
 - name: IPA
   slug: ipa
-  url: ''
+  url: null
   description: India Pale Ale, a hop-forward style of beer known for its pronounced bitterness, pine, citrus, and floral aromas.
 - name: Irish Whiskey
   slug: irish_whiskey
@@ -228,7 +228,7 @@
   description: A popular Mexican coffee liqueur based on rum, corn syrup, and arabica coffee.
 - name: Licor 43
   slug: licor_43
-  url: ''
+  url: null
   description: A sweet Spanish liqueur flavored with 43 natural ingredients, primarily vanilla, citrus, and herbs.
 - name: Light Amaro
   slug: light_amaro
@@ -248,11 +248,11 @@
   description: The red version of the French aperitif, offering a richer, spicier, and more bitter flavor than Lillet Blanc.
 - name: Malört
   slug: malört
-  url: ''
+  url: null
   description: A highly distinctive, intensely bitter, and wormwood-based Swedish-style liqueur, famed for its polarizing, challenging taste.
 - name: Mango Liqueur
   slug: mango_liqueur
-  url: ''
+  url: null
   description: A sweet liqueur flavored with mangoes, adding tropical fruit flavor to cocktails.
 - name: Manzanilla Sherry
   slug: manzanilla_sherry
@@ -280,7 +280,7 @@
   description: Rum specifically from Nicaragua, often characterized by a smooth, light, and slightly sweet profile.
 - name: Oktoberfest
   slug: oktoberfest
-  url: ''
+  url: null
   description: A German Märzen-style lager traditionally brewed for the Munich festival, characterized by a malty, rich, copper color and clean finish.
 - name: Old Tom Gin
   slug: old_tom_gin
@@ -300,11 +300,11 @@
   description: Rum bottled at a very high alcohol content (usually 57% ABV or higher), used sparingly for maximum flavor impact.
 - name: Peach Liqueur
   slug: peach_liqueur
-  url: ''
+  url: null
   description: A sweet liqueur flavored with peaches, used to introduce bright, fruity sweetness.
 - name: Pear Liqueur
   slug: pear_liqueur
-  url: ''
+  url: null
   description: A sweet liqueur flavored with pears, often used to add a delicate, smooth fruit note.
 - name: Peychauds Bitters
   slug: peychauds_bitters
@@ -312,7 +312,7 @@
   description: A distinct aromatic bitter from New Orleans, known for its prominent anise aroma and lighter, fruitier notes than Angostura.
 - name: Pimms
   slug: pimms
-  url: ''
+  url: null
   description: A famous British fruit cup made from gin infused with fruit extracts, spices, and liqueurs.
 - name: Pisco
   slug: pisco
@@ -324,7 +324,7 @@
   description: A specific protected style of gin produced only in Plymouth, England, known for a slightly less juniper-forward, more root-driven, and earthier flavor than London Dry.
 - name: Porter
   slug: porter
-  url: ''
+  url: null
   description: A dark style of beer known for flavors of chocolate, caramel, and coffee from roasted malts.
 - name: Prosecco
   slug: prosecco
@@ -332,7 +332,7 @@
   description: An Italian sparkling wine, typically drier than Champagne, known for its bright, fruity, and aromatic profile.
 - name: Punt e Mes
   slug: punt_e_mes
-  url: ''
+  url: null
   description: A dark, bittersweet Italian vermouth, considered a "quinquina" (quinine-infused), offering a more intense and complex profile.
 - name: Red Wine
   slug: red_wine
@@ -348,7 +348,7 @@
   description: Rum distilled directly from fresh sugarcane juice (rather than molasses), resulting in a more herbaceous, earthy flavor.
 - name: Rosolio
   slug: rosolio
-  url: ''
+  url: null
   description: A traditional Italian liqueur, historically rose-petal based, but now refers to a category of softer, lower-proof sweet liqueurs.
 - name: Ruby Port
   slug: ruby_port
@@ -368,7 +368,7 @@
   description: Whisky distilled in Scotland, primarily from malted barley, categorized by its region and unique aging process (e.g., smoky/peated vs. unpeated).
 - name: Shochu
   slug: shochu
-  url: ''
+  url: null
   description: A traditional Japanese distilled spirit, typically made from barley, sweet potatoes, rice, or buckwheat, often lighter and lower in alcohol than vodka.
 - name: Single Malt
   slug: single_malt
@@ -384,11 +384,11 @@
   description: Rum that has been flavored with various spices, such as cinnamon, nutmeg, cloves, and vanilla, often resulting in a sweet, warming spirit.
 - name: Stout
   slug: stout
-  url: ''
+  url: null
   description: A dark beer brewed with roasted malt or barley, giving it deep flavors of coffee and chocolate.
 - name: Suze
   slug: suze
-  url: ''
+  url: null
   description: A French liqueur made from gentian root, giving it a bright yellow color and a distinctively bitter, earthy, and floral flavor.
 - name: Swedish Punsch
   slug: swedish_punsch
@@ -412,7 +412,7 @@
   description: A neutral spirit, often distilled from grain or potatoes, characterized by its clean, tasteless, and versatile nature.
 - name: Walnut Liqueur
   slug: walnut_liqueur
-  url: ''
+  url: null
   description: A sweet, often dark liqueur flavored with walnuts, typically used to add a rich, nutty, and slightly earthy complexity.
 - name: White Crème de Cacao
   slug: white_crème_de_cacao

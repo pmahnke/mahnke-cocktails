@@ -1,6 +1,6 @@
 ---
 layout: spirits
 title: Crème de Mûre Cocktails
-spirit_name: Crème de Mûre
+spirit_name: crème_de_mûre
 permalink: /spirit/crème_de_mûre/
 ---

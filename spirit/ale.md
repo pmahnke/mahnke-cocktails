@@ -1,6 +1,6 @@
 ---
 layout: spirits
 title: Ale Cocktails
-spirit_name: Ale
+spirit_name: ale
 permalink: /spirit/ale/
 ---

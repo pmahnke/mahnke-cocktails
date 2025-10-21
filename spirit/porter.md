@@ -1,6 +1,6 @@
 ---
 layout: spirits
 title: Porter Cocktails
-spirit_name: Porter
+spirit_name: porter
 permalink: /spirit/porter/
 ---

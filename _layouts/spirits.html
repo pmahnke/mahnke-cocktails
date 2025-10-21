@@ -2,7 +2,9 @@
 layout: default
 ---
 
-{%- assign target_spirit = page.spirit_name | strip -%}
+{%- assign s = site.data.spirits | where: "slug", page.spirit_name | first -%}
+
+{%- assign target_spirit = s.name | strip -%}
 
 {%- comment -%} 
   1. Filter all site pages to find recipes that contain the target spirit.
@@ -27,12 +29,12 @@ layout: default
         {%- comment -%} 
           Display the title and optional description from the spirit/ file's front matter 
         {%- endcomment -%}
-        <h2>{{ page.title }}</h2>
-        {%- if page.description -%}
-            <p>{{ page.description }}</p>
+        <h2>{{ s.name }} Cocktails</h2>
+        {%- if s.description -%}
+            <p>{{ s.description }}</p>
         {%- endif -%}
         
-        <p class="text-sm text-gray-500 mb-4">Found {{ cocktails_found }} recipe{% if cocktails_found != 1 %}s{% endif %} featuring {{ target_spirit }}.</p>
+        <p class="text-sm text-gray-500 mb-4">Here are {{ cocktails_found }} recipe{% if cocktails_found != 1 %}s{% endif %} featuring {{ target_spirit }}.</p>
         
         {%- comment -%} FIX: Assign sorted list to a new variable before looping, as filters are not allowed directly in the 'for' tag. {%- endcomment -%}
         {%- assign sorted_cocktails = filtered_cocktails | sort: 'title' -%}
@@ -59,7 +61,7 @@ layout: default
     
     <div>
 
-        {%- if page.image -%}<img src="{{ page.image }}" alt="{{ page.title }}" class="category_icon_large">{%- endif -%}
+        {%- if s.url -%}<img src="{{ s.url }}" alt="{{ page.title }}" class="category_icon_large">{%- endif -%}
 
     </div><!-- empty div 1/3 (Sidebar) -->
 </div><!-- /div grid-container -->

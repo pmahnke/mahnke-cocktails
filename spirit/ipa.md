@@ -1,6 +1,6 @@
 ---
 layout: spirits
 title: IPA Cocktails
-spirit_name: IPA
+spirit_name: ipa
 permalink: /spirit/ipa/
 ---

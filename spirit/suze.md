@@ -1,6 +1,6 @@
 ---
 layout: spirits
 title: Suze Cocktails
-spirit_name: Suze
+spirit_name: suze
 permalink: /spirit/suze/
 ---

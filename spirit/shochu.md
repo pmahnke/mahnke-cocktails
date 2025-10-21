@@ -1,6 +1,6 @@
 ---
 layout: spirits
 title: Shochu Cocktails
-spirit_name: Shochu
+spirit_name: shochu
 permalink: /spirit/shochu/
 ---

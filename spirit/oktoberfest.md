@@ -1,6 +1,6 @@
 ---
 layout: spirits
 title: Oktoberfest Cocktails
-spirit_name: Oktoberfest
+spirit_name: oktoberfest
 permalink: /spirit/oktoberfest/
 ---

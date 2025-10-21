@@ -1,7 +1,7 @@
 ---
 layout: spirits
 title: Calvados Cocktails
-spirit_name: Calvados
+spirit_name: calvados
 image: /assets/images/ingredient-calvados.svg
 permalink: /spirit/calvados/
 ---

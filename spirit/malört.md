@@ -1,6 +1,6 @@
 ---
 layout: spirits
 title: Malört Cocktails
-spirit_name: Malört
+spirit_name: malört
 permalink: /spirit/malört/
 ---

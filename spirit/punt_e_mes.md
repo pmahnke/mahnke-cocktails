@@ -1,6 +1,6 @@
 ---
 layout: spirits
 title: Punt e Mes Cocktails
-spirit_name: Punt e Mes
+spirit_name: punt_e_mes
 permalink: /spirit/punt_e_mes/
 ---
