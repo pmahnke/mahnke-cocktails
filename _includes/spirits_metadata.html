@@ -1,3 +1,5 @@
-{%- assign bottles =  page.base_spirits | split: "," -%}
-{%- for bottle in bottles -%}{{ bottle }}, {%- if forloop.last -%}{%- else -%}, {%- endif -%}
+{%- assign bottles = page.base_spirits -%}
+{%- for bottle in bottles -%}
+  {%- assign bottle_clean = bottle | strip -%}
+  {{ bottle_clean }}{%- unless forloop.last -%}, {% endunless -%}
 {%- endfor -%}

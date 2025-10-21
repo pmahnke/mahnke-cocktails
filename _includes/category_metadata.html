@@ -1,1 +1,12 @@
-{%- if page.categories %}{% for p in page.categories %}{% assign c = site.data.categories | where: "slug", p | first %}{{ c.name }} cocktail{% if forloop.last %}{% else %}, {% endif %}{% endfor %}{% endif -%}
+{%- comment -%}
+Goal: Loop through category slugs, look up the display name, and
+output a clean, comma-separated string of category names (e.g., "Sour cocktail, Tiki cocktail").
+{%- endcomment -%}
+{%- if page.categories -%}
+  {%- for slug in page.categories -%}
+    {%- assign category_data = site.data.categories | where: "slug", slug | first -%}
+    {%- if category_data -%}
+      {{ category_data.name }} cocktail{%- unless forloop.last -%}, {% endunless -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
