@@ -1,5 +1,9 @@
 #!/usr/bin/perl
 
+# count_bottles.pl
+#
+# This script simply counts the number of recipes that use each type of spirit
+
 my (%C);
 my $path = qq|_data/*|;
 $path = qq|recipe/*.md|;

@@ -4,6 +4,15 @@ use warnings;
 use utf8;
 binmode(STDOUT, ":utf8");
 
+# add_desc.pl
+#
+# This script was written to take a list of recipe descriptions in the desciptions.txt file, in 
+# the format "cocktail_shortname<tab>description<newline>" and add or append it to each recipe.
+#
+# It can be run again if required; however, we are keeping in case we want to reuse the code.
+#
+# This script needs to run every time a recipe is created or edited.
+
 # --- Configuration ---
 my $data_file = 'descriptions.txt'; # Your input file with shortname\tdescription
 my $recipes_dir = 'recipe';        # The directory containing your .md files

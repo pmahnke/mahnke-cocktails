@@ -1,5 +1,15 @@
 #!/usr/bin/perl
 
+# add_icons2.pl
+#
+# This script parses the recipes for spirits, garnishes, glasses, tools to make, and ice types.
+# It then writes these details as a yaml file in the sites _data/ folder for each recipe.
+#
+# This enables the adding of icons on the recipe page.
+#
+# This script needs to be run every time a new recipe is created, or if a new image is added.
+
+
 my (%garnish, %glass, %ice, %tool, %ingredient, %INCLUDE) = "";
 
 # read directory

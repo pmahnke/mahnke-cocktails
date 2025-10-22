@@ -1,6 +1,17 @@
 #!/usr/bin/perl
 
-# create a set of pages that is a double and triple  recipe
+# add_2x.pl
+#
+# This script reads the recipes in the recipe/ folder, and then converts and adds markup
+# and then saves the recipe in the recipe_processed/ folder.
+#
+# Originally it just added the code required to create 1.5, 2, and 3x recipe volumes 
+# and ounce to ml conversions; however, it has been expanded to:
+#
+# - turn the base_spirits: front-matter into an object
+# - add the json schema.org recipe markup for google
+# - turn decimal into html fractions
+# - append the current aggregate star rating into the front-matter
 
 use Math::Round;
 
