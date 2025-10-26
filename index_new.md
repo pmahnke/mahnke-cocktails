@@ -114,7 +114,10 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
     </div><!-- /div 2/3 -->
     <div><!-- div 1/3 -->
         <h3>Recipes by Base Spirit</h3>
-        {%- include spirits_list.html -%}
+        {%- assign base = site.data.spirits | sort: "name" -%}
+        {%- for spirit in base -%}
+            <li><a href="spirit/{{ spirit.slug }}">{{ spirit.name }}</a></li>
+        {%- endfor -%}
         <h3><a href="/era/">Recipes by era</a></h3>
         <ul>
         {%- assign sorted = site.data.eras | sort: "name" -%}

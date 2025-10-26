@@ -430,7 +430,7 @@
   slug: white_wine
   url: /assets/images/ingredient-white-wine.svg
   description: Wine made from white grapes, often resulting in fruity, acidic, or dry flavor profiles.
-- name: Yellow Chartreus
-  slug: yellow_chartreus
+- name: Yellow Chartreuse
+  slug: yellow_chartreuse
   url: /assets/images/ingredient-chartreuse.svg
   description: A lighter, sweeter, and milder version of the famous Green Chartreuse, with a primary flavor of honey and saffron.
