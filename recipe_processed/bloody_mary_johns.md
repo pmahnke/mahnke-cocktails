@@ -36,6 +36,7 @@ excerpt: |
 
 ### Notes
 
+- Method: Rolled between two pint plasses
 - Pour: Add all ingredients directly to the glass
 - Glassware:
   - Pint
@@ -70,6 +71,7 @@ excerpt: |
   "recipeInstructions": [
     {
       "@type": "HowToStep",
+      "text": "- Method: Rolled between two pint plasses"
     },
     {
       "@type": "HowToStep",
