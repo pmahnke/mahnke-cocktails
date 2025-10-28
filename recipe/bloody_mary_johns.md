@@ -21,9 +21,9 @@ excerpt: |
 |         2 oz | Vodka                | Tito's        |
 |         4 oz | Tomato Juice         |
 |      0.75 oz | Fresh Lemon Juice    |
-|       0.5 oz | Celery Salt          |
-|       0.5 oz | Tajin Clasico        | Tajin         |
-|       0.5 oz | Black Pepper         |
+| 0.5 teaspoon | Celery Salt          |
+| 0.5 teaspoon | Tajin Clasico        | Tajin         |
+| 0.5 teaspoon | Black Pepper         |
 |   1 teaspoon | Hot Sauce            | Tabasco       |
 | 1 tablespoon | Horseradish          |
 | 1 tablespoon | Worcestershire Sauce | Lea & Perrins |

@@ -6,8 +6,8 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/doctor_cocktail/"
 iconfile: doctor_cocktail
-stars: 0
-base_spirits: ['Jamaican Rum', 'Swedish Punsch']
+stars: 4
+base_spirits: "Jamaican Rum, Swedish Punsch"
 youtube: "re76GCUoiH4&t"
 description: "A simple yet refreshing classic cocktail that features Jamaican rum and the unique spice of Swedish Punsch."
 excerpt: |

@@ -6,8 +6,13 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/bloody_mary_johns/"
 iconfile: bloody_mary_johns
+<<<<<<< Updated upstream
 stars: 4.5
 base_spirits: ['Vodka']
+=======
+stars: 4
+base_spirits: "Vodka"
+>>>>>>> Stashed changes
 youtube: ""
 description: "A classic savory cocktail from the 1920s, featuring vodka and tomato juice with a complex blend of spices."
 excerpt: |
@@ -31,7 +36,6 @@ excerpt: |
 
 ### Notes
 
-- Method: Rolled between two pint glasses
 - Pour: Add all ingredients directly to the glass
 - Glassware:
   - Pint
@@ -66,7 +70,6 @@ excerpt: |
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Rolled between two pint glasses"
     },
     {
       "@type": "HowToStep",
