@@ -6,13 +6,8 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/bloody_mary_johns/"
 iconfile: bloody_mary_johns
-<<<<<<< Updated upstream
 stars: 4.5
 base_spirits: ['Vodka']
-=======
-stars: 4
-base_spirits: "Vodka"
->>>>>>> Stashed changes
 youtube: ""
 description: "A classic savory cocktail from the 1920s, featuring vodka and tomato juice with a complex blend of spices."
 excerpt: |
@@ -26,9 +21,9 @@ excerpt: |
 |         <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Vodka                | Tito's        |
 |         <span class="onex active">4 oz  / 100 ml</span> <span class="onehalfx">6 oz  / 150 ml</span> <span class="twox">8 oz  / 200 ml</span> <span class="threex">12 oz  / 300 ml</span>| Tomato Juice         |
 |      <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice    |
-|       <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Celery Salt          |
-|       <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Tajin Clasico        | Tajin         |
-|       <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Black Pepper         |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="twox">1 teaspoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span>| Celery Salt          |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="twox">1 teaspoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span>| Tajin Clasico        | Tajin         |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="twox">1 teaspoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span>| Black Pepper         |
 |   <span class="onex active">1 teaspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="twox">2 teaspoons</span> <span class="threex">3 teaspoons</span>| Hot Sauce            | Tabasco       |
 | <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Horseradish          |
 | <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Worcestershire Sauce | Lea & Perrins |
@@ -36,7 +31,7 @@ excerpt: |
 
 ### Notes
 
-- Method: Rolled between two pint plasses
+- Method: Rolled between two pint glasses
 - Pour: Add all ingredients directly to the glass
 - Glassware:
   - Pint
@@ -59,9 +54,9 @@ excerpt: |
   "2 oz Vodka ",
   "4 oz Tomato Juice",
   " 0.75 oz Fresh Lemon Juice ",
-  "0.5 oz Celery Salt ",
-  "0.5 oz Tajin Clasico ",
-  "0.5 oz Black Pepper",
+  "0.5 teaspoon Celery Salt ",
+  "0.5 teaspoon Tajin Clasico ",
+  "0.5 teaspoon Black Pepper",
   "1 teaspoon Hot Sauce ",
   "1 tablespoon Horseradish ",
   "1 tablespoon Worcestershire Sauce",
@@ -71,7 +66,7 @@ excerpt: |
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Rolled between two pint plasses"
+      "text": "- Method: Rolled between two pint glasses"
     },
     {
       "@type": "HowToStep",
