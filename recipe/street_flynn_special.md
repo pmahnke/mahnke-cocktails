@@ -10,7 +10,7 @@ iconfile: street_flynn_special
 stars: 0
 base_spirits: "Jamaican Rum, Allspice Dram"
 youtube: "https://youtube.com/shorts/3sJdqoFcrPg?si=21d3byC_5s7D5YL7"
-description: "The Street & Flynn Special is a spicy and complex rum collins that balances intense Jamaican rum with warming spices, tangy citrus, and refreshing bubbles."
+description: "A spicy and complex rum collins that balances intense Jamaican rum with warming spices, tangy citrus, and refreshing bubbles."
 excerpt: |
   The drink was created by bartender Joseph Schwartz for the New York bar Milk & Honey, paying homage to actor Errol Flynn and hotelier Sam Street, who were known for their escapades in the Portland Parish of Jamaica. Portland Parish is nick-named Flynn & Street Parish.
 ---
