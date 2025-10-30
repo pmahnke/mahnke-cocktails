@@ -1,0 +1,16 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-apple-brandy.svg
+      title: Apple brandy
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+    - url: /assets/images/tool_grater.svg
+      title: Grater
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
