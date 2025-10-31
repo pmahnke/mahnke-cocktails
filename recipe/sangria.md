@@ -7,7 +7,7 @@ categories: [punch]
 permalink: "/recipe/sangria/"
 iconfile: sangria
 stars: 0
-base_spirits: "Red Wine, Oloroso Sherry, Grand Marnier "
+base_spirits: "Red Wine, Oloroso Sherry, Curaçao "
 youtube: "NNI--bxevNo"
 description: "A classic and festive Spanish punch, traditionally consisting of red wine, sherry, and chopped fruit, often with other spirits."
 excerpt: |
@@ -23,7 +23,7 @@ excerpt: |
 | 0.5 whole | Apple                                                    |
 |      3 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 |      4 oz | Fresh Lemon Juice                                        |
-|      4 oz | Grand Marnier                                            | Grand Marnier   |
+|      4 oz | Curaçao                                                  | Grand Marnier   |
 |      6 oz | Olorosso Sherry                                          | Lustau Don Nuño |
 |    750 ml | Red Wine Louis Jadot Beaujolais-Villages                 |
 |    0.5 oz | Soda Water (Optional)                                    |

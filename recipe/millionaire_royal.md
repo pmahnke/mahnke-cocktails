@@ -20,7 +20,7 @@ excerpt: |
 | ---------: | ----------------------------------------------- | ------------------------------ |
 |    0.75 oz | Egg White                                       |
 |     0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
-|     0.5 oz | Triple Sec                                      | Grand Marnier                  |
+|     0.5 oz | Curaçao                                         | Grand Marnier                  |
 |     1.5 oz | Bourbon                                         | Evan Williams 1783 Small Batch |
 |    0.75 oz | Fresh Lemon Juice                               |
 | 1 barspoon | Absinthe                                        | St. George Verte               |
