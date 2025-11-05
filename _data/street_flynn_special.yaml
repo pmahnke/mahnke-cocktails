@@ -10,6 +10,8 @@ images:
   glass:
     - url: /assets/images/glass_collins.svg
       title: Collins
+    - url: /assets/images/glass_highball.svg
+      title: Highball
   garnish:
     - url: /assets/images/slice_lime.svg
       title: Lime slice
