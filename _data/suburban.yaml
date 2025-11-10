@@ -1,0 +1,17 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-port.svg
+      title: Port
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_martini.svg
+      title: Martini
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar
