@@ -1,0 +1,17 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-creme-de-casis.svg
+      title: Creme de cassis
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /assets/images/ingredient-vermouth.svg
+      title: White vermouth
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist
