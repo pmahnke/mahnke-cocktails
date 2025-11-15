@@ -12,8 +12,8 @@
         {%- endif -%}
     {%- endif -%}<br>
 
-        <strong><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></strong><br/>
-        {%- include home_stars.html -%}<br/> 
-        {{ page.description }}
+        <p><strong><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></strong></p>
+        <p>{%- include home_stars.html -%}</p> 
+        <p>{{ page.description }}</p>
     </div>
 </div>
