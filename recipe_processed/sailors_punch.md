@@ -18,7 +18,7 @@ excerpt: |
 
 |   Amount | Ingredient                                                | Brand                   |
 | -------: | --------------------------------------------------------- | ----------------------- |
-|    <span class="onex active">50 oz  / 1250 ml</span> <span class="onehalfx">75 oz  / 1875 ml</span> <span class="twox">100 oz  / 2500 ml</span> <span class="threex">150 oz  / 3750 ml</span>| Bourbon                                                   | Old Grand-Dad 100 Proof |
+|    <span class="onex active">50 oz  / 1250 ml</span> <span class="onehalfx">75 oz  / 1875 ml</span> <span class="twox">100 oz  / 2500 ml</span> <span class="threex">150 oz  / 3750 ml</span>| [Bourbon](/spirit/bourbon "More Bourbon recipes")                                                   | Old Grand-Dad 100 Proof |
 |    <span class="onex active">12 oz  / 300 ml</span> <span class="onehalfx">18 oz  / 450 ml</span> <span class="twox">24 oz  / 600 ml</span> <span class="threex">36 oz  / 900 ml</span>| Fresh Apple Cider                                         |
 |     <span class="onex active">6 oz  / 150 ml</span> <span class="onehalfx">9 oz  / 225 ml</span> <span class="twox">12 oz  / 300 ml</span> <span class="threex">18 oz  / 450 ml</span>| [Spiced Tea]({%link recipe_processed/spiced_tea.md%})               |
 | <span class="onex active">20 whole </span> <span class="onehalfx">30 whole </span> <span class="twox">40 whole </span> <span class="threex">60 whole </span>| Dry Bay Leaves                                            |

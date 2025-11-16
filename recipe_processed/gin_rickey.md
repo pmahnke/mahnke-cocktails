@@ -23,7 +23,7 @@ excerpt: |
 | Amount | Ingredient      | Brand          |
 | -----: | --------------- | -------------- |
 | <span class="onex active">1 half </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> half </span> <span class="twox">2 half </span> <span class="threex">3 half </span>| Lime            |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Gin             | Martin Millers |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| [Gin](/spirit/gin "More Gin recipes")             | Martin Millers |
 |   <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Sparkling Water | Topo Chico     |
 
 #### Notes

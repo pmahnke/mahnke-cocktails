@@ -19,7 +19,7 @@ excerpt: |
 | -------------: | -------------------------- |
 |          <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Fresh Lime Juice           |
 |       <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> cup </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> cup </span>| White Sugar                |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> barspoons</span>| Angostura Aromatic Bitters |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> barspoons</span>| [Angostura Aromatic Bitters](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> tablespoons</span> <span class="twox">1 tablespoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span>| Freshly Grated Nutmeg      |
 
 ### Method

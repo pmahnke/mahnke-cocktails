@@ -14,6 +14,9 @@
 # - append the current aggregate star rating into the front-matter
 
 use Math::Round;
+use utf8;
+use open qw(:std :utf8);
+use YAML::XS 'LoadFile';
 
 my $rootdir = `pwd`;
 chop($rootdir);
@@ -21,6 +24,9 @@ chop($rootdir);
 my $dir = $rootdir."/recipe/";
 
 my $mydir = $rootdir."/recipe_processed/";
+
+my %spirit;
+&read_spirit_data();
 
 # read files in a directory
 opendir(DIR, $dir) or die "Cannot open directory $dir";
@@ -63,7 +69,6 @@ while (my $file = readdir DIR) {
             next;
         }
 
-
     	# convert internal liquid links
 	    s/link recipe\//link recipe_processed\//;
 
@@ -72,6 +77,13 @@ while (my $file = readdir DIR) {
             if ($1 !~ /(---|Amount)/) {
                 #print "schema ingredient: $1 $2\n";
                 my $s_raw_ingredient = "$1 $2";
+                my $raw_spirit = $2;
+                $raw_spirit =~ s/^\s+|\s+$//g;
+                print STDERR qq |raw spirit: $raw_spirit\n|;
+                if ($spirit{$raw_spirit}) {
+                    my $spirit_link = qq|[$raw_spirit](\/spirit\/$spirit{$raw_spirit} "More $raw_spirit recipes")|;
+                    $_ =~ s/$raw_spirit/$spirit_link/;
+                }
                 $s_raw_ingredient =~ s/\"/\'/g; # replace double quotes with single
                 $s_raw_ingredient =~ s/\[(.*)\]\((.*)\)/$1/g;
                 $s_raw_ingredient =~ s/  //g;
@@ -306,5 +318,21 @@ sub process_ratings {
     my $sum = $stars/$count;
     print STDERR qq|rating: stars - $stars count - $count average - $sum\n|;
     return ($sum);
+
+}
+
+sub read_spirit_data {
+
+    my $yaml_file = '_data/spirits.yaml';
+    my $data = eval { LoadFile($yaml_file) } or die "Can't read $yaml_file: $@";
+
+    for my $entry (@$data) {
+        next unless ref $entry eq 'HASH';
+        my $slug = $entry->{slug}      // next;
+        my $name = $entry->{name}      // '';
+        $spirit{$name} = $slug;
+    }
+
+    return();
 
 }

@@ -24,8 +24,8 @@ excerpt: |
 |  Amount | Ingredient         | Brand               |
 | ------: | ------------------ | ------------------- |
 | 1/3 cup | Tom & Jerry Batter |
-| 1/6 cup | Demerara Rum       | El Dorado 12 Year   |
-| 1/6 cup | Cognac             | Pierre Ferrand 1840 |
+| 1/6 cup | [Demerara Rum](/spirit/demerara_rum "More Demerara Rum recipes")       | El Dorado 12 Year   |
+| 1/6 cup | [Cognac](/spirit/cognac "More Cognac recipes")             | Pierre Ferrand 1840 |
 
 ### Notes
 

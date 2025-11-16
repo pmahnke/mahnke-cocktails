@@ -22,7 +22,7 @@ excerpt: |
 
 |    Amount | Ingredient       | Brand        |
 | --------: | ---------------- | ------------ |
-|      <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Blanco Tequila   | Siete Leguas |
+|      <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| [Blanco Tequila](/spirit/blanco_tequila "More Blanco Tequila recipes")   | Siete Leguas |
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Lime Juice |
 |   <span class="onex active">1 pinch </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> pinch </span> <span class="twox">2 pinch </span> <span class="threex">3 pinch </span>| Salt             |
 | <span class="onex active">5 to 6 oz  / 125 to 150 ml</span> <span class="onehalfx">7 <sup>1</sup>&frasl;<sub>2</sub> to 9 oz  / 188 to 225 ml</span> <span class="twox">10 to 12 oz  / 250 to 300 ml</span> <span class="threex">15 to 18 oz  / 375 to 450 ml</span>| Grapefruit Soda  | Squirt       |
