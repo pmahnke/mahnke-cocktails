@@ -19,11 +19,11 @@ excerpt: |
 
 |   Amount | Ingredient         | Brand                     |
 | -------: | ------------------ | ------------------------- |
-|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| [Sloe Gin](/spirit/sloe_gin "More Sloe Gin recipes")           | Plymouth                  |
-|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| [Sweet Vermouth](/spirit/sweet_vermouth "More Sweet Vermouth recipes")     | Cocchi Vermouth di Torino |
+|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Sloe Gin [&#9432;](/spirit/sloe_gin "More Sloe Gin recipes")           | Plymouth                  |
+|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes")     | Cocchi Vermouth di Torino |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub>625 oz  / 14 ml</span> <span class="twox"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span>| Dry Curacao        | Pierre Ferrand            |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub>625 oz  / 14 ml</span> <span class="twox"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span>| [Maraschino Liqueur](/spirit/maraschino_liqueur "More Maraschino Liqueur recipes") | Luxardo                   |
-| <span class="onex active">2 Dashes </span> <span class="onehalfx">3 Dashes </span> <span class="twox">4 Dashes </span> <span class="threex">6 Dashes </span>| [Campari](/spirit/campari "More Campari recipes")            | Campari                   |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub>625 oz  / 14 ml</span> <span class="twox"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span>| Maraschino Liqueur [&#9432;](/spirit/maraschino_liqueur "More Maraschino Liqueur recipes") | Luxardo                   |
+| <span class="onex active">2 Dashes </span> <span class="onehalfx">3 Dashes </span> <span class="twox">4 Dashes </span> <span class="threex">6 Dashes </span>| Campari [&#9432;](/spirit/campari "More Campari recipes")            | Campari                   |
 
 ### Notes
 

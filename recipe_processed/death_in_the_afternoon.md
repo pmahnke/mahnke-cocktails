@@ -22,8 +22,8 @@ excerpt: |
 
 | Amount | Ingredient | Brand                                |
 | -----: | ---------- | ------------------------------------ |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| [Absinthe](/spirit/absinthe "More Absinthe recipes")   | Nouvelle Orleans Absinthe Superieure |
-| <span class="onex active">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="onehalfx">6 <sup>3</sup>&frasl;<sub>4</sub> oz  / 169 ml</span> <span class="twox">9 oz  / 225 ml</span> <span class="threex">13 <sup>1</sup>&frasl;<sub>2</sub> oz  / 338 ml</span>| [Champagne](/spirit/champagne "More Champagne recipes")  | Laurent-Pierre La Cuvee Brut         |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Absinthe [&#9432;](/spirit/absinthe "More Absinthe recipes")   | Nouvelle Orleans Absinthe Superieure |
+| <span class="onex active">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="onehalfx">6 <sup>3</sup>&frasl;<sub>4</sub> oz  / 169 ml</span> <span class="twox">9 oz  / 225 ml</span> <span class="threex">13 <sup>1</sup>&frasl;<sub>2</sub> oz  / 338 ml</span>| Champagne [&#9432;](/spirit/champagne "More Champagne recipes")  | Laurent-Pierre La Cuvee Brut         |
 
 ### Notes
 

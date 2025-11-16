@@ -81,7 +81,7 @@ while (my $file = readdir DIR) {
                 $raw_spirit =~ s/^\s+|\s+$//g;
                 print STDERR qq |raw spirit: $raw_spirit\n|;
                 if ($spirit{$raw_spirit}) {
-                    my $spirit_link = qq|[$raw_spirit](\/spirit\/$spirit{$raw_spirit} "More $raw_spirit recipes")|;
+                    my $spirit_link = qq|$raw_spirit [&#9432;](\/spirit\/$spirit{$raw_spirit} "More $raw_spirit recipes")|;
                     $_ =~ s/$raw_spirit/$spirit_link/;
                 }
                 $s_raw_ingredient =~ s/\"/\'/g; # replace double quotes with single
