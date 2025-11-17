@@ -9,7 +9,7 @@ permalink: "/recipe/alton_browns_aged_eggnog/"
 iconfile: alton_browns_aged_eggnog
 stars: 0
 base_spirits: ['Jamaican Rum', 'Cognac', 'Bourbon']
-youtube: "LINK"
+youtube: "s7Rcx7Fekn4"
 description: "A rich and complex holiday classic that blends Jamaican rum, cognac, and bourbon, designed to be aged for depth of flavor."
 excerpt: |
   For Alton Brown's aged eggnog recipe click <a href="https://altonbrown.com/recipe/aged-eggnog/" target="_blank">here</a>.<br><br>
