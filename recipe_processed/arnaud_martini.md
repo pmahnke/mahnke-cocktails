@@ -9,7 +9,7 @@ iconfile: arnaud_martini
 stars: 0
 base_spirits: ['Gin', 'Crème de Cassis', 'Blanc Vermouth']
 youtube: "FI4wUOzJvUE"
-description: "The Arnaud Martini is a classic cocktail that features gin, dry vermouth, and crème de cassis in equal parts. It is known for its rich burgundy color and an interesting balance of blackcurrant fruitiness and herbal, dry notes."
+description: "A classic cocktail that features gin, dry vermouth, and crème de cassis in equal parts. It is known for its rich burgundy color and an interesting balance of blackcurrant fruitiness and herbal, dry notes."
 excerpt: |
   The Arnaud cocktail is a classic, equal-parts drink, initially called the Parisian, and is distinct from the Arnaud's Special (a different cocktail made with Scotch and Dubonnet). Its name, The Arnaud or Arnaud Martini, is associated with the pre-war French actress, singer, and pianist Yvonne Arnaud. The cocktail is made by stirring equal parts gin (often London Dry or a bolder, over-proof gin), dry vermouth, and crème de cassis with ice, and then straining the mixture into a chilled coupe or cocktail glass, sometimes garnished with a blackberry. It offers a slightly sweet palate due to the blackcurrant liqueur, followed by a dry finish from the gin and vermouth, making it a flavorful and often recommended choice as a dessert or after-dinner martini.
 ---
@@ -18,9 +18,9 @@ excerpt: |
 
 | Amount | Ingredient      | Brand                            |
 | -----: | --------------- | -------------------------------- |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Gin             | Astraea Ocean                    |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Crème de Cassis | Jules Theuriet                   |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Blanc Vermouth  | Dolin Blanc Vermouth de Chambéry |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")             | Astraea Ocean                    |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Crème de Cassis [&#9432;](/spirit/crème_de_cassis "More Crème de Cassis recipes") | Jules Theuriet                   |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Blanc Vermouth [&#9432;](/spirit/blanc_vermouth "More Blanc Vermouth recipes")  | Dolin Blanc Vermouth de Chambéry |
 
 ### Notes
 

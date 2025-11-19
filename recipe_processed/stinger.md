@@ -18,9 +18,9 @@ excerpt: |
 
 |  Amount | Ingredient      | Brand             |
 | ------: | --------------- | ----------------- |
-|    <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Cognac          | Maison Rouge VSOP |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Crème de Menthe | Tempus Fugit      |
-| <span class="onex active">1 spray </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> spray </span> <span class="twox">2 spray </span> <span class="threex">3 spray </span>| Absinthe        |
+|    <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")          | Maison Rouge VSOP |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Crème de Menthe [&#9432;](/spirit/crème_de_menthe "More Crème de Menthe recipes") | Tempus Fugit      |
+| <span class="onex active">1 spray </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> spray </span> <span class="twox">2 spray </span> <span class="threex">3 spray </span>| Absinthe [&#9432;](/spirit/absinthe "More Absinthe recipes")        |
 
 ### Notes
 

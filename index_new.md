@@ -11,6 +11,25 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
 
 
 
+        <h2>A few of our 5-Star Cocktails</h2>
+<div class="grid-container">
+
+    {%- assign fivestar_recipes = "" | split: "" -%}
+    {%- for page in site.pages -%}
+        {%- if page.layout == "recipe" and page.stars == 5 -%}
+            {%- assign fivestar_recipes = fivestar_recipes | push: page -%}
+        {%- endif -%}
+    {%- endfor -%}
+
+    {%- assign random_limited_list = fivestar_recipes | sample: 3 -%}
+
+    {%- for page in random_limited_list -%}
+    <div>
+        {%- include recipe_card_small.html page=page -%}
+    </div>
+    {%- endfor -%}
+    
+</div>
 
 
         <h2>Our Favorite 5-Star Cocktails</h2>
