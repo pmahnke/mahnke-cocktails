@@ -22,7 +22,7 @@ excerpt: |
 
 |   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
-|     1 oz | Applejack         | Laird's Straight 86        |
+|     1 oz | Apple Brandy      | Laird's Straight 86        |
 |   0.5 oz | Bénédictine       | Bénédictine DOM            |
 |   0.5 oz | Yellow Chartreuse | Yellow Chartreuse          |
 | 2 dashes | Bitters           | Angostura Aromatic Bitters |
@@ -44,7 +44,7 @@ excerpt: |
 
 |   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
-|     2 oz | Applejack         | Laird's Straight 86        |
+|     2 oz | Apple Brandy      | Laird's Straight 86        |
 |  0.25 oz | Bénédictine       | Bénédictine DOM            |
 |  0.25 oz | Yellow Chartreuse | Yellow Chartreuse          |
 | 2 dashes | Bitters           | Angostura Aromatic Bitters |
@@ -66,7 +66,7 @@ excerpt: |
 
 |   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
-|   1.5 oz | Applejack         | Laird's Straight 86        |
+|   1.5 oz | Apple Brandy      | Laird's Straight 86        |
 |   0.5 oz | Bénédictine       | Bénédictine DOM            |
 |  0.25 oz | Yellow Chartreuse | Yellow Chartreuse          |
 | 2 dashes | Bitters           | Angostura Aromatic Bitters |
