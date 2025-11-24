@@ -8,7 +8,7 @@ categories: [cocktail]
 permalink: "/recipe/fall_back/"
 iconfile: fall_back
 stars: 0
-base_spirits: "Rye, Apple Brandy, Amaro Nonino"
+base_spirits: "Rye, Apple Brandy, Light Amaro"
 youtube: "_bDARIxZlcE"
 description: "A modern cocktail that combines the autumnal flavors of rye, apple brandy, and the herbal sweetness of Amaro Nonino."
 excerpt: |
