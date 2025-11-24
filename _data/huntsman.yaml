@@ -1,0 +1,20 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-benedictine.svg
+      title: Benedictine
+    - url: /assets/images/ingredient-cherry.svg
+      title: Cherry
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large
