@@ -1,13 +1,14 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-campari.svg
-      title: Campari
-  glass:
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
   garnish:
-    - url: /assets/images/fruit_lemon.svg
-      title: Lemon slice
+  - title: Lemon slice
+    url: /assets/images/fruit_lemon.svg
+  glass:
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Campari
+    url: /assets/images/ingredient-campari.svg

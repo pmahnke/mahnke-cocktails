@@ -46,8 +46,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Sweet Vermouth",
-  "0.75 oz Triple Sec",
-  "0.75 oz Bitters "
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -1,10 +1,14 @@
+---
 images:
   cocktail:
-    - url: /assets/images/cocktail_pisco_sour.svg
-      title: Pisco sour
+  - title: Pisco sour
+    url: /assets/images/cocktail_pisco_sour.svg
+  garnish:
+  - title: Sugar
+    url: /assets/images/ingredient-sugar.svg
   ingredient:
-    - url: /assets/images/ingredient-pisco.svg
-      title: Pisco
+  - title: Pisco
+    url: /assets/images/ingredient-pisco.svg
   tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

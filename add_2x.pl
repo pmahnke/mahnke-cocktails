@@ -72,11 +72,12 @@ while (my $file = readdir DIR) {
     	# convert internal liquid links
 	    s/link recipe\//link recipe_processed\//;
 
-        # schema.org recipe
-        if (/^\| (.[^\|]*) \| (.[^\|]*) \|/ && !$s_instructions) {
+        # schema.org recipe and spirit info links
+        if (/^\| (.[^\|]*) \| (.[^\|]*) \|/) {
             if ($1 !~ /(---|Amount)/) {
-                #print "schema ingredient: $1 $2\n";
-                my $s_raw_ingredient = "$1 $2";
+
+                # add info link for known spirits
+                print "spirit ingredient: $1 $2\n";
                 my $raw_spirit = $2;
                 $raw_spirit =~ s/^\s+|\s+$//g;
                 print STDERR qq |raw spirit: $raw_spirit\n|;
@@ -84,10 +85,16 @@ while (my $file = readdir DIR) {
                     my $spirit_link = qq|$raw_spirit [&#9432;](\/spirit\/$spirit{$raw_spirit} "More $raw_spirit recipes")|;
                     $_ =~ s/$raw_spirit/$spirit_link/;
                 }
-                $s_raw_ingredient =~ s/\"/\'/g; # replace double quotes with single
-                $s_raw_ingredient =~ s/\[(.*)\]\((.*)\)/$1/g;
-                $s_raw_ingredient =~ s/  //g;
-                $s_ingredient .= qq |  "$s_raw_ingredient",\n|;
+        
+                # schema.org recipe - only for the first recipe on the page
+                if (!$s_instructions) {
+                    #print "schema ingredient: $1 $2\n";
+                    my $s_raw_ingredient = "$1 $2";
+                    $s_raw_ingredient =~ s/\"/\'/g; # replace double quotes with single
+                    $s_raw_ingredient =~ s/\[(.*)\]\((.*)\)/$1/g;
+                    $s_raw_ingredient =~ s/  //g;
+                    $s_ingredient .= qq |  "$s_raw_ingredient",\n|;
+                }
             }
         }
 

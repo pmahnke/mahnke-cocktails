@@ -1,15 +1,18 @@
+---
 images:
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-  glass:
-    - url: /assets/images/glass_double-old-fashioned.svg
-      title: Double old fashioned
   garnish:
-    - url: /assets/images/herb_mint.svg
-      title: Mint
-    - url: /assets/images/ingredient-sugar.svg
-      title: Sugar
+  - title: Mint
+    url: /assets/images/herb_mint.svg
+  - title: Sugar
+    url: /assets/images/ingredient-sugar.svg
+  glass:
+  - title: Double old fashioned
+    url: /assets/images/glass_double-old-fashioned.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg
+  - title: Muddler
+    url: /assets/images/tool_muddler.svg

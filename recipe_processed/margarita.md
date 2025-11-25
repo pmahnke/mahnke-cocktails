@@ -45,7 +45,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "2 oz Reposado Tequila",
-  "1 oz Orange Curaçao",
+  " ",
   "1 oz Fresh Lime Juice"
     ],
   "name": "{{ page.title }}",

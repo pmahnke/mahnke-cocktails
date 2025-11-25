@@ -1,18 +1,19 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-cognac.svg
-      title: Cognac
-    - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
-    - url: /assets/images/ingredient-port.svg
-      title: Port
-    - url: /assets/images/ingredient-porter.svg
-      title: Porter
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-    - url: /assets/images/tool_grater.svg
-      title: Grater
   glass:
-    - url: /assets/images/glass_pint.svg
-      title: Pint
+  - title: Pint
+    url: /assets/images/glass_pint.svg
+  ingredient:
+  - title: Cognac
+    url: /assets/images/ingredient-cognac.svg
+  - title: Jamaican rum
+    url: /assets/images/ingredient-jamacian-rum.svg
+  - title: Port
+    url: /assets/images/ingredient-port.svg
+  - title: Porter
+    url: /assets/images/ingredient-porter.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg
+  - title: Grater
+    url: /assets/images/tool_grater.svg

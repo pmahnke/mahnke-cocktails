@@ -46,7 +46,7 @@ excerpt: |
   "1.5 oz Oloroso Sherry",
   "1.5 oz White Vermouth",
   "2 dashes Orange Bitters",
-  "2 dashes Bitters "
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

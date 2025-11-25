@@ -1,17 +1,18 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-apricot-liqueur.svg
-      title: Apricot liqueur
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-sloe-gin.svg
-      title: Sloe gin
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-  glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
   garnish:
-    - url: /assets/images/slice_lime.svg
-      title: Lime slice
+  - title: Lime slice
+    url: /assets/images/slice_lime.svg
+  glass:
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Apricot liqueur
+    url: /assets/images/ingredient-apricot-liqueur.svg
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: Sloe gin
+    url: /assets/images/ingredient-sloe-gin.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

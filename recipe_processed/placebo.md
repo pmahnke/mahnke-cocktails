@@ -45,12 +45,12 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 6 oz Pineapple Juice",
-  " 2 oz Fresh Orange Juice ",
+  " ",
+  " ",
   " 2 oz Cream of Coconut",
-  "0.75 oz Fresh Lime Juice ",
-  "1 pinch Ground Cinnamon",
-  "1 cup Crushed Ice"
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

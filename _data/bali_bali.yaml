@@ -1,20 +1,21 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-cognac.svg
-      title: Cognac
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-light-rum.svg
-      title: Light rum
-  tool:
-    - url: /assets/images/tool_boston-shaker.svg
-      title: Boston shaker
-  glass:
-    - url: /assets/images/glass_tiki.svg
-      title: Tiki
   garnish:
-    - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+  - title: Pineapple slice
+    url: /assets/images/slice_pineapple.svg
+  glass:
+  - title: Tiki
+    url: /assets/images/glass_tiki.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Cognac
+    url: /assets/images/ingredient-cognac.svg
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: Light rum
+    url: /assets/images/ingredient-light-rum.svg
+  tool:
+  - title: Boston shaker
+    url: /assets/images/tool_boston-shaker.svg

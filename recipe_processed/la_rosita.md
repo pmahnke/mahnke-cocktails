@@ -47,10 +47,10 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1.5 oz Reposado Tequila",
-  "0.5 oz Campari ",
-  "0.5 oz Sweet Vermouth",
-  "0.5 oz Dry Vermouth",
-  "1 dash Bitters "
+  " ",
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

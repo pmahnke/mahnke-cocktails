@@ -39,8 +39,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1.5 cups White Sugar",
-  " 1 cup Hot Water",
-  "4 sticks Cinnamon "
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

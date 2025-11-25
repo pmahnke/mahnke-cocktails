@@ -48,15 +48,15 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 3 cups Fresh Apple Cider ",
+  " ",
   " 2 cups Amontillado Sherry",
-  "1 cup Dark Beer ",
-  "0.5 cup Apple Brandy",
-  "0.5 cup Demerara Sugar",
-  "8 whole Cloves",
-  "8 berries Allspice",
-  " 4 sticks Cinnamon",
-  " 4 pods Cardamom"
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

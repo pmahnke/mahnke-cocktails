@@ -1,12 +1,15 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-absinthe.svg
-      title: Absinthe
-    - url: /assets/images/ingredient-champagne.svg
-      title: Champagne
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
   glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Absinthe
+    url: /assets/images/ingredient-absinthe.svg
+  - title: Champagne
+    url: /assets/images/ingredient-champagne.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

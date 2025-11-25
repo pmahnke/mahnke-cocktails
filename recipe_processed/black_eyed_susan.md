@@ -48,13 +48,13 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1 oz Bourbon",
-  "1 oz Vodka",
-  "0.5 oz Peach Liqueur",
-  "3 oz Orange Juice ",
-  " 0.75 oz Fresh Lemon Juice",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
   " 0.25 oz Semi-Rich Simple Syrup",
-  "2 swaths Orange Peel"
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

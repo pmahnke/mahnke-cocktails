@@ -45,12 +45,12 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1 oz Bourbon ",
-  " 0.5 oz Oloroso Sherry",
-  " 0.5 oz Banana Liquor ",
-  " 0.5 oz Fresh Lemon Juice ",
+  " ",
+  " ",
+  " ",
+  " ",
   "0.25 oz Rich Demerara Syrup",
-  "0.75 oz Egg White "
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

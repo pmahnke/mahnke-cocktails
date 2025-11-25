@@ -1,9 +1,10 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-cream.svg
-      title: Cream
-    - url: /assets/images/ingredient-creme-de-cacao.svg
-      title: Creme de cacao
   garnish:
-    - url: /assets/images/ingredient-sugar.svg
-      title: Sugar
+  - title: Sugar
+    url: /assets/images/ingredient-sugar.svg
+  ingredient:
+  - title: Cream
+    url: /assets/images/ingredient-cream.svg
+  - title: Creme de cacao
+    url: /assets/images/ingredient-creme-de-cacao.svg

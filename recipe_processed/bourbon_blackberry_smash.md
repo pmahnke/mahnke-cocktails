@@ -44,11 +44,11 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 2 oz Bourbon ",
-  "0.75 oz Maple Syrup ",
-  "0.5 whole Lemon ",
+  " ",
+  " ",
+  " ",
   "4 whole Blackberries",
-  "6 to 8 leaves Mint"
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

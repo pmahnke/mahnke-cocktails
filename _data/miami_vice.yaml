@@ -1,12 +1,13 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-light-rum.svg
-      title: Light rum
-  glass:
-    - url: /assets/images/glass_hurricane.svg
-      title: Hurricane
   garnish:
-    - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
-    - url: /assets/images/fruit_strawberry.svg
-      title: Strawberry
+  - title: Pineapple slice
+    url: /assets/images/slice_pineapple.svg
+  - title: Strawberry
+    url: /assets/images/fruit_strawberry.svg
+  glass:
+  - title: Hurricane
+    url: /assets/images/glass_hurricane.svg
+  ingredient:
+  - title: Light rum
+    url: /assets/images/ingredient-light-rum.svg

@@ -37,7 +37,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1 part Coarsely Ground Coffee",
-  "8 parts Water "
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

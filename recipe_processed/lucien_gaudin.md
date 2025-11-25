@@ -43,10 +43,10 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1 oz Gin ",
+  " ",
   "0.5 oz White Vermouth",
-  "0.5 oz Campari ",
-  "0.5 oz Cointreau "
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

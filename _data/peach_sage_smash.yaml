@@ -1,17 +1,18 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-reposado-tequila.svg
-      title: Reposado tequila
-    - url: /assets/images/ingredient-tequila.svg
-      title: Tequila
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-    - url: /assets/images/tool_muddler.svg
-      title: Muddler
   glass:
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
   ice:
-    - url: /assets/images/ice_large.svg
-      title: Large
+  - title: Large
+    url: /assets/images/ice_large.svg
+  ingredient:
+  - title: Reposado tequila
+    url: /assets/images/ingredient-reposado-tequila.svg
+  - title: Tequila
+    url: /assets/images/ingredient-tequila.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg
+  - title: Muddler
+    url: /assets/images/tool_muddler.svg

@@ -48,9 +48,9 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1.5 oz Reposado Tequila",
-  "0.5 oz Mezcal",
-  "2 dashes Bitters ",
-  "1 barspoon Agave Nectar"
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

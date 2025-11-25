@@ -45,15 +45,15 @@ excerpt:
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "750 ml Demerara Rum ",
-  " 1 whole Vanilla Bean ",
-  "1 (3-inch) slice Orange Peel",
-  " 1 whole Cinnamon Stick ",
-  " 2 whole Allspice Berries ",
-  " 4 whole Cloves ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
   " 6 whole Black Peppercorns",
-  " 0.0625 teaspoon Ground Nutmeg",
-  " 1 slice Fresh Ginger "
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -1,7 +1,8 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
   garnish:
-    - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+  - title: Pineapple slice
+    url: /assets/images/slice_pineapple.svg
+  ingredient:
+  - title: Jamaican rum
+    url: /assets/images/ingredient-jamacian-rum.svg

@@ -45,10 +45,10 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Scotch, Single Malt",
-  "0.75 oz Sweet Vermouth",
-  "0.25 oz Drambuie",
-  "0.25 oz Amaro ",
-  " 1 dash Bitters "
+  " ",
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

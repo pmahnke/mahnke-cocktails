@@ -50,15 +50,15 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1 wedge Juiced Lime",
-  " 0.75 oz Demerara Rum ",
-  " 0.75 oz Jamaican Rum ",
-  " 0.75 oz White Rum",
-  " 1 tsp Allspice Dram",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
   " 0.75 oz Grog Concentrate Syrup",
-  "1 oz Grapefruit Juice, Acid Adjusted to Lemon ",
-  "3 dashes Bitters",
-  " 5 drops salt solution"
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

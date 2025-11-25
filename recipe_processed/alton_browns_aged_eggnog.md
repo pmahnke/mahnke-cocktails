@@ -55,16 +55,16 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 6 whole Egg Yolks",
-  " 0.5 pound Sugar",
+  " ",
+  " ",
   "0.5 barspoon Freshly Grated Nutmeg",
-  " 1 cup Half and Half",
-  " 1 cup Whole Milk ",
-  " 1 cup Heavy Cream",
-  " 0.5 cup Jamaican Rum ",
-  " 0.5 cup Cognac ",
-  " 0.5 cup Bourbon",
-  "0.125 barspoon salt "
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

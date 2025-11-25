@@ -1,15 +1,18 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-passion-fruit-syrup.svg
-      title: Passion fruit syrup
-    - url: /assets/images/ingredient-tonic-water.svg
-      title: Tonic water
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-  glass:
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
   garnish:
-    - url: /assets/images/herb_mint.svg
-      title: Mint
+  - title: Mint
+    url: /assets/images/herb_mint.svg
+  glass:
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
+  ingredient:
+  - title: Passion fruit syrup
+    url: /assets/images/ingredient-passion-fruit-syrup.svg
+  - title: Tonic water
+    url: /assets/images/ingredient-tonic-water.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg
+  - title: Shaker
+    url: /assets/images/tool_shaker.svg

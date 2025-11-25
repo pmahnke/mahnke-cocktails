@@ -1,15 +1,18 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-vermouth.svg
-      title: White vermouth
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_martini.svg
-      title: Martini
   garnish:
-    - url: /assets/images/twist_cocktail-cherry.svg
-      title: Cocktail cherry
+  - title: Cocktail cherry
+    url: /assets/images/twist_cocktail-cherry.svg
+  glass:
+  - title: Martini
+    url: /assets/images/glass_martini.svg
+  ingredient:
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: White vermouth
+    url: /assets/images/
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

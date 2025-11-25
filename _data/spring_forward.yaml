@@ -1,20 +1,21 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-cocchi-americano.svg
-      title: Cocchi americano
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-pisco.svg
-      title: Pisco
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-  glass:
-    - url: /assets/images/glass_highball.svg
-      title: Highball
   garnish:
-    - url: /assets/images/fruit_strawberry.svg
-      title: Strawberry
+  - title: Strawberry
+    url: /assets/images/fruit_strawberry.svg
+  glass:
+  - title: Highball
+    url: /assets/images/glass_highball.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Cocchi americano
+    url: /assets/images/ingredient-cocchi-americano.svg
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: Pisco
+    url: /assets/images/ingredient-pisco.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

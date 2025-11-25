@@ -1,17 +1,20 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-campari.svg
-      title: Campari
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-sloe-gin.svg
-      title: Sloe gin
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
   garnish:
-    - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+  - title: Lemon twist
+    url: /assets/images/twist_lemon.svg
+  glass:
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
+  ingredient:
+  - title: Campari
+    url: /assets/images/ingredient-campari.svg
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: Sloe gin
+    url: /assets/images/ingredient-sloe-gin.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

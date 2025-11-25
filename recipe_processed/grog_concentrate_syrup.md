@@ -42,8 +42,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 21 grams Allspice berries, crushed, toasted in medium saucepan",
-  "355 grams Coca-Cola",
-  "572 grams White Sugar"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

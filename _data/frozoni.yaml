@@ -1,17 +1,18 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-campari.svg
-      title: Campari
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-prosecco.svg
-      title: Prosecco
-  tool:
-    - url: /assets/images/tool_muddler.svg
-      title: Muddler
   glass:
-    - url: /assets/images/glass_highball.svg
-      title: Highball
+  - title: Highball
+    url: /assets/images/glass_highball.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Campari
+    url: /assets/images/ingredient-campari.svg
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: Prosecco
+    url: /assets/images/ingredient-prosecco.svg
+  tool:
+  - title: Muddler
+    url: /assets/images/tool_muddler.svg

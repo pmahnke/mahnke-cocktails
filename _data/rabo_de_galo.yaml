@@ -1,18 +1,21 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-amaro.svg
-      title: Amaro
-    - url: /assets/images/ingredient-cachaca.svg
-      title: Cachaca
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
   garnish:
-    - url: /assets/images/slice_lime.svg
-      title: Lime slice
+  - title: Lime slice
+    url: /assets/images/slice_lime.svg
+  glass:
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Amaro
+    url: /assets/images/ingredient-amaro.svg
+  - title: Cachaca
+    url: /assets/images/ingredient-cachaca.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

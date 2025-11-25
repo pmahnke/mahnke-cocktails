@@ -1,10 +1,11 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-cachaca.svg
-      title: Cachaca
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
   glass:
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
+  ingredient:
+  - title: Cachaca
+    url: /assets/images/ingredient-cachaca.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

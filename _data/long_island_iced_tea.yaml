@@ -1,16 +1,17 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-light-rum.svg
-      title: Light rum
-    - url: /assets/images/ingredient-tequila.svg
-      title: Tequila
-    - url: /assets/images/ingredient-vodka.svg
-      title: Vodka
-  tool:
-    - url: /assets/images/tool_boston-shaker.svg
-      title: Boston shaker
   garnish:
-    - url: /assets/images/fruit_lemon.svg
-      title: Lemon slice
+  - title: Lemon slice
+    url: /assets/images/fruit_lemon.svg
+  ingredient:
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: Light rum
+    url: /assets/images/ingredient-light-rum.svg
+  - title: Tequila
+    url: /assets/images/ingredient-tequila.svg
+  - title: Vodka
+    url: /assets/images/ingredient-vodka.svg
+  tool:
+  - title: Boston shaker
+    url: /assets/images/tool_boston-shaker.svg

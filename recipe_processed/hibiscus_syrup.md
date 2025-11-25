@@ -40,9 +40,9 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "2 sticks Cinnamon ",
-  " 3 whole Cloves ",
-  "0.25 cup Dried Hibiscus ",
+  " ",
+  " ",
+  " ",
   "2 cups Semi-Rich Simple Syrup"
     ],
   "name": "{{ page.title }}",

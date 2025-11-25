@@ -46,10 +46,10 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1 oz Navy Strength Gin",
-  "0.5 oz Cognac ",
-  "0.5 oz Sweet Vermouth ",
-  "0.5 oz Blanc Vermouth ",
-  "2 dashes Bitters"
+  " ",
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

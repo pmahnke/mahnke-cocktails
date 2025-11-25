@@ -48,7 +48,7 @@ excerpt: |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Ground Clove     |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Ground Allspice  |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Ground Cinnamon  |
-|         <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Jamaican Rum     | Appleton Estate V/X        |
+|         <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")     | Appleton Estate V/X        |
 |       <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="twox">1 cups </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> cups </span>| Granulated Sugar |
 |        <span class="onex active">1 pinch </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> pinch </span> <span class="twox">2 pinch </span> <span class="threex">3 pinch </span>| Salt             |
 |         <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters          | Angostura Aromatic Bitters |
@@ -76,8 +76,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1/3 cup Tom & Jerry Batter",
-  "1/6 cup Demerara Rum",
-  "1/6 cup Cognac"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

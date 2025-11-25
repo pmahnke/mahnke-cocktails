@@ -45,11 +45,11 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1.75 oz Gin ",
+  " ",
   " 0.33 oz Maraschino Liqueur",
-  "1 barspoon Yellow Chartreuse ",
-  " 0.25 oz Crème de Violette ",
-  "0.5 oz Fresh Lemon Juice "
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

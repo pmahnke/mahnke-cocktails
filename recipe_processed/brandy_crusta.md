@@ -45,12 +45,12 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "2 oz Cognac ",
-  " 0.25 oz Dry Curaçao",
-  " 0.25 oz Maraschino Liqueur ",
+  " ",
+  " ",
+  " ",
   " 0.25 oz Semi-Rich Simple Syrup",
-  " 0.25 oz Fresh Lemon Juice",
-  "2 dashes Bitters"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

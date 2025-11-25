@@ -47,12 +47,12 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1.5 oz Bourbon",
-  "1 oz Light Amaro",
-  "0.5 oz Peach Liqueur",
-  "0.5 oz Fresh Lemon Juice",
+  " ",
+  " ",
+  " ",
+  " ",
   "0.5 oz Semi-Rich Simple Syrup",
-  "4 oz Black Tea, chilled "
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

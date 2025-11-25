@@ -47,9 +47,9 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1.5 oz Reposado Tequila",
-  "0.5 oz Crème de Cassis ",
+  " ",
   "0.5 oz Fresh Lime Juice",
-  "3 oz Ginger Beer "
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

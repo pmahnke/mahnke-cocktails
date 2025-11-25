@@ -1,20 +1,23 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-bourbon.svg
-      title: Bourbon
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_old-fashioned.svg
-      title: Old fashioned
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
   garnish:
-    - url: /assets/images/twist_orange.svg
-      title: Orange twist
-    - url: /assets/images/ingredient-sugar.svg
-      title: Sugar
+  - title: Orange twist
+    url: /assets/images/twist_orange.svg
+  - title: Sugar
+    url: /assets/images/ingredient-sugar.svg
+  glass:
+  - title: Old fashioned
+    url: /assets/images/glass_old-fashioned.svg
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
   ice:
-    - url: /assets/images/ice_large.svg
-      title: Large
+  - title: Large
+    url: /assets/images/ice_large.svg
+  ingredient:
+  - title: Bourbon
+    url: /assets/images/ingredient-bourbon.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

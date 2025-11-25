@@ -44,11 +44,11 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1 oz Cognac ",
-  " 0.5 oz Ruby Port",
-  " 0.5 oz Crème de Cacao ",
+  " ",
+  " ",
+  " ",
   "0.25 oz Semi-Rich Simple Syrup",
-  " 1 oz Heavy Cream"
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

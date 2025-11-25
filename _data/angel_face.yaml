@@ -1,19 +1,22 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-apple-brandy.svg
-      title: Apple brandy
-    - url: /assets/images/ingredient-apricot-liqueur.svg
-      title: Apricot liqueur
-    - url: /assets/images/ingredient-cognac.svg
-      title: Cognac
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
   garnish:
-    - url: /assets/images/twist_orange.svg
-      title: Orange twist
+  - title: Orange twist
+    url: /assets/images/twist_orange.svg
+  glass:
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Apple brandy
+    url: /assets/images/ingredient-apple-brandy.svg
+  - title: Apricot liqueur
+    url: /assets/images/ingredient-apricot-liqueur.svg
+  - title: Cognac
+    url: /assets/images/ingredient-cognac.svg
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

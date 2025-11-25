@@ -1,15 +1,16 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-    - url: /assets/images/tool_muddler.svg
-      title: Muddler
-  glass:
-    - url: /assets/images/glass_coupe.svg
-      title: Coupe
   garnish:
-    - url: /assets/images/herb_mint.svg
-      title: Mint
+  - title: Mint
+    url: /assets/images/herb_mint.svg
+  glass:
+  - title: Coupe
+    url: /assets/images/glass_coupe.svg
+  ingredient:
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg
+  - title: Muddler
+    url: /assets/images/tool_muddler.svg

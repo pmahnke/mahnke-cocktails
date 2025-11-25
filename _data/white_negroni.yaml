@@ -1,15 +1,18 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-lillet-blanc.svg
-      title: Lillet blanc
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
   glass:
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
   ice:
-    - url: /assets/images/ice_large.svg
-      title: Large
+  - title: Large
+    url: /assets/images/ice_large.svg
+  ingredient:
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: Lillet blanc
+    url: /assets/images/ingredient-lillet-blanc.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

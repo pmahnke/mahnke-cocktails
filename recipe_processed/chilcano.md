@@ -48,11 +48,11 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 60 ml Acholada Pisco ",
-  " 25 ml Lime Juice ",
+  " ",
+  " ",
   " 10 ml Ginger Syrup",
-  "2 dashes Angostora bitters",
-  "100 ml Club Soda"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

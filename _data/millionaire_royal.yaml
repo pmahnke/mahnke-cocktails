@@ -1,14 +1,15 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-absinthe.svg
-      title: Absinthe
-    - url: /assets/images/ingredient-bourbon.svg
-      title: Bourbon
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-    - url: /assets/images/tool_grater.svg
-      title: Grater
   glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Absinthe
+    url: /assets/images/ingredient-absinthe.svg
+  - title: Bourbon
+    url: /assets/images/ingredient-bourbon.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg
+  - title: Grater
+    url: /assets/images/tool_grater.svg

@@ -44,7 +44,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1.5 oz Scotch, Single Malt",
-  "0.5 oz Amaretto"
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -50,10 +50,10 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1 small scoop Vanilla Ice Cream",
-  " 0.5 oz Cognac ",
-  " 0.5 oz Orange Liqueur ",
-  " 0.5 oz Bénédictine",
-  "1 to 1.5 oz Brut Champagne "
+  " ",
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

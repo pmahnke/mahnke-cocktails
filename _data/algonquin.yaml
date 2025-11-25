@@ -1,17 +1,18 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-rye.svg
-      title: Rye
-    - url: /assets/images/ingredient-sherry.svg
-      title: Sherry
-    - url: /assets/images/ingredient-vermouth.svg
-      title: White vermouth
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-  glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
   garnish:
-    - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+  - title: Pineapple slice
+    url: /assets/images/slice_pineapple.svg
+  glass:
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Rye
+    url: /assets/images/ingredient-rye.svg
+  - title: Sherry
+    url: /assets/images/ingredient-sherry.svg
+  - title: White vermouth
+    url: /assets/images/
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

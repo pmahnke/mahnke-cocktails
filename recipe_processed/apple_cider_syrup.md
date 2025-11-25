@@ -39,8 +39,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 4 cups Apple Cider",
-  "1 stick Cinnamon ",
-  "1 pinch Salt "
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

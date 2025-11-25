@@ -46,13 +46,13 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1 oz Jamaican Rum ",
-  "1 oz Barbados Rum ",
-  "1 barspoon Cherry Liqueur ",
-  "1 barspoon Maraschino Liqueur ",
+  " ",
+  " ",
+  " ",
+  " ",
   "0.5 oz Semi-Rich Simple Syrup",
-  "0.5 oz Fresh Lime Juice ",
-  "0.5 oz Fresh Pineapple Juice"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

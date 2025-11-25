@@ -1,13 +1,14 @@
+---
 images:
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-  glass:
-    - url: /assets/images/glass_goblet.svg
-      title: Goblet
   garnish:
-    - url: /assets/images/fruit_lemon.svg
-      title: Lemon slice
+  - title: Lemon slice
+    url: /assets/images/fruit_lemon.svg
+  glass:
+  - title: Goblet
+    url: /assets/images/glass_goblet.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

@@ -44,7 +44,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1.5 oz Jasper’s Mix",
-  "1.5 oz Overproof Jamaican Rum"
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

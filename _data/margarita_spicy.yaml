@@ -1,20 +1,21 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-mezcal.svg
-      title: Mezcal
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-    - url: /assets/images/tool_muddler.svg
-      title: Muddler
-  glass:
-    - url: /assets/images/glass_margarita.svg
-      title: Margarita
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
   garnish:
-    - url: /assets/images/slice_lime.svg
-      title: Lime slice
+  - title: Lime slice
+    url: /assets/images/slice_lime.svg
+  glass:
+  - title: Margarita
+    url: /assets/images/glass_margarita.svg
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Mezcal
+    url: /assets/images/ingredient-mezcal.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg
+  - title: Muddler
+    url: /assets/images/tool_muddler.svg

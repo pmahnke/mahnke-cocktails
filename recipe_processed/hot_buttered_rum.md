@@ -47,14 +47,14 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 2 oz Dark Rum ",
-  " 1 tablespoon Butter ",
-  " 1 tablespoon Brown Sugar",
+  " ",
+  " ",
+  " ",
   "0.25 teaspoon Ground Cinnamon",
-  "1 pinch Ground Clove ",
+  " ",
   "1 pinch Ground Allspice",
   "0.25 teaspoon Vanilla Extract",
-  " 4 oz Hot water"
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

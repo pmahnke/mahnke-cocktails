@@ -39,8 +39,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "150 ml Wildflower Honey",
-  " 50 ml Boiling Water ",
-  "4 leaves Sage"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

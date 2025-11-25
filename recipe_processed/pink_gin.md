@@ -44,7 +44,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "2 oz Plymouth Gin",
-  "4 dashes Bitters "
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

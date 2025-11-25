@@ -1,18 +1,19 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
-  tool:
-    - url: /assets/images/tool_grater.svg
-      title: Grater
-    - url: /assets/images/tool_long-stirrer.svg
-      title: Long stirrer
-  glass:
-    - url: /assets/images/glass_highball.svg
-      title: Highball
   garnish:
-    - url: /assets/images/herb_mint.svg
-      title: Mint
+  - title: Mint
+    url: /assets/images/herb_mint.svg
+  glass:
+  - title: Highball
+    url: /assets/images/glass_highball.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Jamaican rum
+    url: /assets/images/ingredient-jamacian-rum.svg
+  tool:
+  - title: Grater
+    url: /assets/images/tool_grater.svg
+  - title: Long stirrer
+    url: /assets/images/tool_long-stirrer.svg

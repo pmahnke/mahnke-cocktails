@@ -40,8 +40,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "2 cups Black Sesame Seeds",
-  "2 cups Hot Water ",
-  "3.5 cups White Sugar "
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

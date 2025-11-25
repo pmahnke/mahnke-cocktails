@@ -1,4 +1,5 @@
+---
 images:
   garnish:
-    - url: /assets/images/ingredient-sugar.svg
-      title: Sugar
+  - title: Sugar
+    url: /assets/images/ingredient-sugar.svg

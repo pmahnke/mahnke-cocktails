@@ -51,16 +51,16 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "2 oz Vodka ",
-  "4 oz Tomato Juice",
-  " 0.75 oz Fresh Lemon Juice ",
-  "0.5 teaspoon Celery Salt ",
-  "0.5 teaspoon Tajin Clasico ",
-  "0.5 teaspoon Black Pepper",
-  "1 teaspoon Hot Sauce ",
-  "1 tablespoon Horseradish ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
   "1 tablespoon Worcestershire Sauce",
-  "5 dashes Celery Bitters"
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -46,13 +46,13 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "0.5 oz Raspberry Gum Syrup ",
+  " ",
   "0.5 oz White Crème de Cacao",
-  "0.5 oz Crème de Violette ",
-  "0.5 oz Light Amaro ",
-  "0.5 oz Green Chartreuse",
-  "0.5 oz Cognac",
-  "0.5 oz Absinthe"
+  " ",
+  " ",
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

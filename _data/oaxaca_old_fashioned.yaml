@@ -1,19 +1,22 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-mezcal.svg
-      title: Mezcal
-    - url: /assets/images/ingredient-reposado-tequila.svg
-      title: Reposado tequila
-    - url: /assets/images/ingredient-tequila.svg
-      title: Tequila
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
   glass:
-    - url: /assets/images/glass_old-fashioned.svg
-      title: Old fashioned
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
+  - title: Old fashioned
+    url: /assets/images/glass_old-fashioned.svg
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
   ice:
-    - url: /assets/images/ice_large.svg
-      title: Large
+  - title: Large
+    url: /assets/images/ice_large.svg
+  ingredient:
+  - title: Mezcal
+    url: /assets/images/ingredient-mezcal.svg
+  - title: Reposado tequila
+    url: /assets/images/ingredient-reposado-tequila.svg
+  - title: Tequila
+    url: /assets/images/ingredient-tequila.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

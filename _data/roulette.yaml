@@ -1,22 +1,27 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-apple-brandy.svg
-      title: Apple brandy
-    - url: /assets/images/ingredient-cognac.svg
-      title: Cognac
-    - url: /assets/images/ingredient-swedish-punsch.svg
-      title: Punsch
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
   garnish:
-    - url: /assets/images/twist_orange.svg
-      title: Orange twist
-    - url: /assets/images/ingredient-sugar.svg
-      title: Sugar
+  - title: Orange twist
+    url: /assets/images/twist_orange.svg
+  - title: Sugar
+    url: /assets/images/ingredient-sugar.svg
+  glass:
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
   ice:
-    - url: /assets/images/ice_large.svg
-      title: Large
+  - title: Large
+    url: /assets/images/ice_large.svg
+  ingredient:
+  - title: Apple brandy
+    url: /assets/images/ingredient-apple-brandy.svg
+  - title: Cognac
+    url: /assets/images/ingredient-cognac.svg
+  - title: Punsch
+    url: /assets/images/ingredient-swedish-punsch.svg
+  tool:
+  - title: Boston shaker
+    url: /assets/images/tool_boston-shaker.svg
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

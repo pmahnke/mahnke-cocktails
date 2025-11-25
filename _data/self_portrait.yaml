@@ -1,15 +1,16 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-cognac.svg
-      title: Cognac
-    - url: /assets/images/ingredient-swedish-punsch.svg
-      title: Punsch
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-  glass:
-    - url: /assets/images/glass_coupe.svg
-      title: Coupe
   garnish:
-    - url: /assets/images/twist_cocktail-cherry.svg
-      title: Cocktail cherry
+  - title: Cocktail cherry
+    url: /assets/images/twist_cocktail-cherry.svg
+  glass:
+  - title: Coupe
+    url: /assets/images/glass_coupe.svg
+  ingredient:
+  - title: Cognac
+    url: /assets/images/ingredient-cognac.svg
+  - title: Punsch
+    url: /assets/images/ingredient-swedish-punsch.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

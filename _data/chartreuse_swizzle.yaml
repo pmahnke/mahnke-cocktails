@@ -1,23 +1,24 @@
+---
 images:
   cocktail:
-    - url: /assets/images/cocktail_chartreuse_swizzle.svg
-      title: Chartreuse swizzle
-  ingredient:
-    - url: /assets/images/ingredient-chartreuse.svg
-      title: Chartreuse
-  tool:
-    - url: /assets/images/tool_grater.svg
-      title: Grater
-    - url: /assets/images/tool_long-stirrer.svg
-      title: Long stirrer
-  glass:
-    - url: /assets/images/glass_highball.svg
-      title: Highball
+  - title: Chartreuse swizzle
+    url: /assets/images/cocktail_chartreuse_swizzle.svg
   garnish:
-    - url: /assets/images/herb_mint.svg
-      title: Mint
-    - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+  - title: Mint
+    url: /assets/images/herb_mint.svg
+  - title: Pineapple slice
+    url: /assets/images/slice_pineapple.svg
+  glass:
+  - title: Highball
+    url: /assets/images/glass_highball.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Chartreuse
+    url: /assets/images/ingredient-chartreuse.svg
+  tool:
+  - title: Grater
+    url: /assets/images/tool_grater.svg
+  - title: Long stirrer
+    url: /assets/images/tool_long-stirrer.svg
