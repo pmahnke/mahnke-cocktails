@@ -59,12 +59,12 @@ while (my $file = readdir DIR) {
         # turn base spirits list into an object in the front matter
         if (/^base_spirits:\s*(.*)/) {
             my $spirits = $1;
-            $spirits =~ s/('|")//g;
-            $spirits =~ s/^\s+//;
-            $spirits =~ s/\s+$//;
+            $spirits =~ s/('|")//g; # remove quotes
+            $spirits =~ s/^\s+//; # remove leading whitespace
+            $spirits =~ s/\s+$//; # remove trailing whitespace
             
-            my @items = split /\s*,\s*/, $spirits;
-            $item[0] = $spirits if (!$item[0]);
+            my @items = split /\s*,\s*/, $spirits; # split on commas
+            $item[0] = $spirits if (!$item[0]); # if no commas, just one item
             $out .= "base_spirits: [" . join(", ", map { "'$_'" } @items) . "]\n";
             next;
         }
