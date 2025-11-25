@@ -18,8 +18,8 @@ excerpt: |
 
 |   Amount | Ingredient        | Brand                         |
 | -------: | ----------------- | ----------------------------- |
-|   .75 oz | London Dry gin    | Gin Mare                      |
-|   .75 oz | Manzanilla sherry | La Goya or Tio Pepe or Lustau |
+|   .75 oz | Gin    | Gin Mare or any London Dry Gin                      |
+|   .75 oz | Manzanilla Sherry | La Goya or Tio Pepe or Lustau |
 |   .75 oz | Lillet Blanc      |
 | 2 dashes | Orange bitters    |
 
