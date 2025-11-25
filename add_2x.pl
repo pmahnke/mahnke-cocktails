@@ -56,7 +56,7 @@ while (my $file = readdir DIR) {
             s/stars: .*/stars: $rating/;
         }
 
-        # turn base spirits list into an object
+        # turn base spirits list into an object in the front matter
         if (/^base_spirits:\s*(.*)/) {
             my $spirits = $1;
             $spirits =~ s/('|")//g;
