@@ -1,20 +1,17 @@
----
 images:
-  garnish:
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Chartreuse
-    url: /assets/images/ingredient-chartreuse.svg
-  - title: Rye
-    url: /assets/images/ingredient-rye.svg
-  - title: Sweet vermouth
-    url: /assets/images/ingredient-sweet-vermouth.svg
+    - url: /assets/images/ingredient-chartreuse.svg
+      title: Chartreuse
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
+    - url: /assets/images/ingredient-sweet-vermouth.svg
+      title: Sweet vermouth
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist

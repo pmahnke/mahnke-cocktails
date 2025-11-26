@@ -1,13 +1,12 @@
----
 images:
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Apricot liqueur
-    url: /assets/images/ingredient-apricot-liqueur.svg
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot liqueur
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe

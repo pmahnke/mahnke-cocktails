@@ -1,17 +1,16 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
   ingredient:
-  - title: Cognac
-    url: /assets/images/ingredient-cognac.svg
-  - title: Demerara rum
-    url: /assets/images/ingredient-dark-rum.svg
-  - title: Jamaican rum
-    url: /assets/images/ingredient-jamacian-rum.svg
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Demerara rum
+    - url: /assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican rum
   tool:
-  - title: Grater
-    url: /assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
+      title: Grater
+  garnish:
+    - url: /assets/images/spice_cinnamon.svg
+      title: Cinnamon
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

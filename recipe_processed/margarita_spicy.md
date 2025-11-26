@@ -4,10 +4,11 @@ author: Anders Erickson
 title: "Smoky Spicy Margarita"
 categories: [sour]
 eras: [modern]
+iconfile: margarita_spicy
 permalink: "/recipe/margarita_spicy/"
 iconfile: margarita_spicy
 stars: 0
-base_spirits: ['Mezcal']
+base_spirits: "Mezcal "
 youtube: "jxpT11WEtWQ"
 description: "A modern Margarita variation that adds a kick of heat from muddled jalapeños and often features a spicy salt rim."
 excerpt: |
@@ -18,11 +19,11 @@ excerpt: |
 
 |        Amount | Ingredient       | Brand           |
 | ------------: | ---------------- | --------------- |
-|          <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Mezcal [&#9432;](/spirit/mezcal "More Mezcal recipes")           | Del Maguey Vida |
-|          <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Orange Curaçao   | Marie Brizard   |
-|          <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lime Juice |
-|       <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Agave Nectar     |
-| <span class="onex active">2 to 3 slices </span> <span class="onehalfx">3 to 4 <sup>1</sup>&frasl;<sub>2</sub> slices </span> <span class="twox">4 to 6 slices </span> <span class="threex">6 to 9 slices </span>| Jalapeño         |
+|          2 oz | Mezcal           | Del Maguey Vida |
+|          1 oz | Orange Curaçao   | Marie Brizard   |
+|          1 oz | Fresh Lime Juice |
+|       0.25 oz | Agave Nectar     |
+| 2 to 3 slices | Jalapeño         |
 
 ### Notes
 
@@ -33,68 +34,3 @@ excerpt: |
   - On the Rocks
 - Garnish: Lime wheel
 - Special Prep: Muddle the jalapeño slices in the cheater tin before shaking. Tajin rim.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  " 1 oz Fresh Lime Juice",
-  " ",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware:"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - Low Ball"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - On the Rocks"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Lime wheel"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Muddle the jalapeño slices in the cheater tin before shaking. Tajin rim."
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

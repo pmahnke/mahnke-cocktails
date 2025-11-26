@@ -5,10 +5,11 @@ creator: Tony Abou-Ganim
 title: "Just for Mary"
 categories: [cocktail]
 eras: [modern]
+iconfile: just_for_mary
 permalink: "/recipe/just_for_mary/"
 iconfile: just_for_mary
 stars: 0
-base_spirits: ['Rye', 'Lillet Blanc', 'Cherry Liqueur']
+base_spirits: "Rye, Lillet Blanc, Cherry Liqueur"
 youtube: "MSQewg1LuOk"
 description: "The Just for Mary is a rye whiskey cocktail created by Tony Abou-Ganim, which serves as a variation of the classic Manhattan. It distinguishes itself by swapping sweet vermouth for a combination of Lillet Blanc and a cherry liqueur, resulting in a lighter, more complex, and fruit-forward flavor."
 excerpt: |
@@ -20,10 +21,10 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand          |
 | -------: | -------------- | -------------- |
-|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Rye [&#9432;](/spirit/rye "More Rye recipes")            | Whistle Pig    |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Lillet Blanc [&#9432;](/spirit/lillet_blanc "More Lillet Blanc recipes")   | Lillet Blanc   |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Cherry Liqueur [&#9432;](/spirit/cherry_liqueur "More Cherry Liqueur recipes") | Cherry Heering |
-| <span class="onex active">2 Dashes </span> <span class="onehalfx">3 Dashes </span> <span class="twox">4 Dashes </span> <span class="threex">6 Dashes </span>| Orange Bitters |
+|     2 oz | Rye            | Whistle Pig    |
+|   0.5 oz | Lillet Blanc   | Lillet Blanc   |
+|   0.5 oz | Cherry Liqueur | Cherry Heering |
+| 2 Dashes | Orange Bitters |
 
 ### Notes
 
@@ -32,59 +33,3 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: None
 - Special Prep: None
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  "0.5 oz Cherry Liqueur",
-  "2 Dashes Orange Bitters"
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Stirred"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: None"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: None"
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

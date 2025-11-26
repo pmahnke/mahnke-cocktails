@@ -1,33 +1,30 @@
----
 images:
-  glass:
-  - title: Coffee
-    url: /assets/images/glass_coffee.svg
-  - title: Collins
-    url: /assets/images/glass_collins.svg
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
-  - title: Flute
-    url: /assets/images/glass_flute.svg
-  - title: Highball
-    url: /assets/images/glass_highball.svg
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  - title: Tiki
-    url: /assets/images/glass_tiki.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
-  - title: Large
-    url: /assets/images/ice_large.svg
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
-  - title: Long stirrer
-    url: /assets/images/tool_long-stirrer.svg
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+    - url: /assets/images/tool_long-stirrer.svg
+      title: Long stirrer
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/spice_coffee.svg
+      title: Coffee
+    - url: /assets/images/glass_collins.svg
+      title: Collins
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+    - url: /assets/images/glass_flute.svg
+      title: Flute
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes
+    - url: /assets/images/ice_large.svg
+      title: Large

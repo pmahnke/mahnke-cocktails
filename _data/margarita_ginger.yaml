@@ -1,21 +1,20 @@
----
 images:
-  garnish:
-  - title: Lime slice
-    url: /assets/images/slice_lime.svg
-  glass:
-  - title: Margarita
-    url: /assets/images/glass_margarita.svg
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Reposado tequila
-    url: /assets/images/ingredient-reposado-tequila.svg
-  - title: Tequila
-    url: /assets/images/ingredient-tequila.svg
+    - url: /assets/images/ingredient-reposado-tequila.svg
+      title: Reposado tequila
+    - url: /assets/images/ingredient-tequila.svg
+      title: Tequila
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_margarita.svg
+      title: Margarita
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/slice_lime.svg
+      title: Lime slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

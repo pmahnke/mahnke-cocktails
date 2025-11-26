@@ -1,21 +1,20 @@
----
 images:
-  garnish:
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Large
-    url: /assets/images/ice_large.svg
   ingredient:
-  - title: Apricot liqueur
-    url: /assets/images/ingredient-apricot-liqueur.svg
-  - title: Bourbon
-    url: /assets/images/ingredient-bourbon.svg
+    - url: /assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot liqueur
+    - url: /assets/images/ingredient-bourbon.svg
+      title: Bourbon
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large

@@ -1,18 +1,17 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  - title: Orange twist
-    url: /assets/images/twist_orange.svg
-  glass:
-  - title: Coffee
-    url: /assets/images/glass_coffee.svg
-  - title: Highball
-    url: /assets/images/glass_highball.svg
   ingredient:
-  - title: Sparkling water
-    url: /assets/images/ingredient-soda-water.svg
+    - url: /assets/images/ingredient-soda-water.svg
+      title: Soda water
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/spice_coffee.svg
+      title: Coffee
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+  garnish:
+    - url: /assets/images/spice_cinnamon.svg
+      title: Cinnamon
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist

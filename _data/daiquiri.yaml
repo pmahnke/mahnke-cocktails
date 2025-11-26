@@ -1,19 +1,18 @@
----
 images:
   cocktail:
-  - title: Daiquiri
-    url: /assets/images/cocktail_daiquiri.svg
-  garnish:
-  - title: Lime slice
-    url: /assets/images/slice_lime.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
+    - url: /assets/images/cocktail_daiquiri.svg
+      title: Daiquiri
   ingredient:
-  - title: Light rum
-    url: /assets/images/ingredient-light-rum.svg
+    - url: /assets/images/ingredient-light-rum.svg
+      title: Light rum
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/slice_lime.svg
+      title: Lime slice
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

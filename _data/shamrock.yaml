@@ -1,20 +1,17 @@
----
 images:
-  garnish:
-  - title: Mint
-    url: /assets/images/herb_mint.svg
-  glass:
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
   ingredient:
-  - title: Chartreuse
-    url: /assets/images/ingredient-chartreuse.svg
-  - title: Creme de menthe
-    url: /assets/images/ingredient-creme-de-menthe.svg
-  - title: Irish whiskey
-    url: /assets/images/ingredient-irish-whiskey.svg
+    - url: /assets/images/ingredient-chartreuse.svg
+      title: Chartreuse
+    - url: /assets/images/ingredient-creme-de-menthe.svg
+      title: Creme de menthe
+    - url: /assets/images/ingredient-irish-whiskey.svg
+      title: Irish whiskey
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  garnish:
+    - url: /assets/images/herb_mint.svg
+      title: Mint

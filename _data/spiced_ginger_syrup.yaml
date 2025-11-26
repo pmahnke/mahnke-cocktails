@@ -1,7 +1,6 @@
----
 images:
   garnish:
-  - title: Anise
-    url: /assets/images/spice_anise.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
+    - url: /assets/images/spice_anise.svg
+      title: Anise
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

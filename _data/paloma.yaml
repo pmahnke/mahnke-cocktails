@@ -1,11 +1,10 @@
----
 images:
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Tequila
-    url: /assets/images/ingredient-tequila.svg
+    - url: /assets/images/ingredient-tequila.svg
+      title: Tequila
   tool:
-  - title: Boston shaker
-    url: /assets/images/tool_boston-shaker.svg
+    - url: /assets/images/tool_boston-shaker.svg
+      title: Boston shaker
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

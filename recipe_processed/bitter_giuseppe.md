@@ -5,10 +5,11 @@ creator: Stephan Cole
 title: "Bitter Giuseppe"
 categories: [cocktail]
 eras: [modern]
+iconfile: bitter_giuseppe
 permalink: "/recipe/bitter_giuseppe/"
 iconfile: bitter_giuseppe
 stars: 0
-base_spirits: ['Cynar Amaro']
+base_spirits: "Cynar Amaro"
 youtube: "AHPatRO71U8"
 description: "A modern classic, low-ABV cocktail that uses the artichoke-based amaro Cynar as its foundational spirit."
 excerpt: |
@@ -19,11 +20,11 @@ excerpt: |
 
 |   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
-|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")             | Cynar                      |
-|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes")    | Cocchi Vermouth di Tornino |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Fresh Lemon Juice |
-| <span class="onex active">4 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>| Orange Bitters    | Regan’s No. 6              |
-|  <span class="onex active">1 swathes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>| Lemon Peel        |
+|     1 oz | Amaro             | Cynar                      |
+|     1 oz | Sweet Vermouth    | Cocchi Vermouth di Tornino |
+|  0.25 oz | Fresh Lemon Juice |
+| 4 dashes | Orange Bitters    | Regan’s No. 6              |
+|  1 swath | Lemon Peel        |
 
 ### Notes
 
@@ -34,68 +35,3 @@ excerpt: |
   - Large Ice Cube
 - Garnish: Lemon Peel
 - Special Prep: Expressed lemon oil
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  " 0.25 oz Fresh Lemon Juice",
-  " ",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Stirred"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware:"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - Low Ball"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - Large Ice Cube"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Lemon Peel"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Expressed lemon oil"
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

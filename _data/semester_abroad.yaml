@@ -1,16 +1,13 @@
----
 images:
-  garnish:
-  - title: Orange twist
-    url: /assets/images/twist_orange.svg
-  glass:
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
   ingredient:
-  - title: Rye
-    url: /assets/images/ingredient-rye.svg
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist

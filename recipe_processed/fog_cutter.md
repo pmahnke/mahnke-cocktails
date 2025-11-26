@@ -4,10 +4,11 @@ author: Anders Erickson
 title: "Fog Cutter"
 eras: [modern]
 categories: [tiki]
+iconfile: fog_cutter
 permalink: "/recipe/fog_cutter/"
 iconfile: fog_cutter
 stars: 4
-base_spirits: ['Light Rum', 'Pisco', 'Gin', 'Amontillado Sherry']
+base_spirits: "Light Rum, Pisco, Gin, Amontillado Sherry "
 youtube: "kMqIu6zPv9s"
 description: "A vintage tiki classic with a complex blend of spirits, including light rum, pisco, and gin, balanced with citrus and orgeat."
 excerpt: |
@@ -18,13 +19,13 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand                               |
 | ------: | ----------------------------------------------- | ----------------------------------- |
-|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                       | Real McCoy 3 Year                   |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Pisco [&#9432;](/spirit/pisco "More Pisco recipes")                                           | Barsol                              |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Plymouth Gin [&#9432;](/spirit/plymouth_gin "More Plymouth Gin recipes")                                    | Plymouth Gin                        |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Dry Curaçao                                     | Pierre Ferrand                      |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Amontillado Sherry [&#9432;](/spirit/amontillado_sherry "More Amontillado Sherry recipes")                              | Lustau Amontillado Los Arcos |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lemon Juice                               |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
+|  1.5 oz | Light Rum                                       | Real McCoy 3 Year                   |
+| 0.75 oz | Pisco                                           | Barsol                              |
+|  0.5 oz | Plymouth Gin                                    | Plymouth Gin                        |
+|  0.5 oz | Dry Curaçao                                     | Pierre Ferrand                      |
+|    1 oz | Amontillado Sherry                              | Lustau Amontillado Los Arcos |
+|    1 oz | Fresh Lemon Juice                               |
+| 0.75 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
 
 ### Notes
 
@@ -35,70 +36,3 @@ excerpt: |
   - Crushed Ice
 - Garnish: Orange wheel & mint sprig
 - Special Prep: None
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  "0.75 oz Orgeat Syrup"
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Open Pour"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware:"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - Tiki"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - Crushed Ice"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Orange wheel & mint sprig"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: None"
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

@@ -4,10 +4,11 @@ author: Curiada
 title: "Shark's Tooth"
 categories: [tiki]
 eras: [modern]
+iconfile: sharks_tooth
 permalink: "/recipe/sharks_tooth/"
 iconfile: sharks_tooth
-stars: 3
-base_spirits: ['Jamaican Rum', 'Barbados Rum', 'Cherry Liqueur', 'Maraschino Liqueur']
+stars: 0
+base_spirits: "Jamaican Rum, Barbados Rum, Cherry Liqueur, Maraschino Liqueur"
 youtube: "https://curiada.com/blogs/news/sharks-tooth-cocktail-recipe-featuring-barbados-and-jamaica-rums"
 description: "A classic tiki cocktail with a rum-forward profile, served straight up with cherry and maraschino liqueurs."
 excerpt: |
@@ -18,13 +19,13 @@ excerpt: |
 
 |     Amount | Ingredient                                                | Brand                  |
 | ---------: | --------------------------------------------------------- | ---------------------- |
-|       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")                                              | Appleton Estate 5 Year |
-|       <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Barbados Rum [&#9432;](/spirit/barbados_rum "More Barbados Rum recipes")                                              | Plantation 5 Year      |
-| <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Cherry Liqueur [&#9432;](/spirit/cherry_liqueur "More Cherry Liqueur recipes")                                            | Cherry Heering         |
-| <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Maraschino Liqueur [&#9432;](/spirit/maraschino_liqueur "More Maraschino Liqueur recipes")                                        | Luxardo                |
-|     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-|     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Lime Juice                                          |
-|     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Pineapple Juice                                     |
+|       1 oz | Jamaican Rum                                              | Appleton Estate 5 Year |
+|       1 oz | Barbados Rum                                              | Plantation 5 Year      |
+| 1 barspoon | Cherry Liqueur                                            | Cherry Heering         |
+| 1 barspoon | Maraschino Liqueur                                        | Luxardo                |
+|     0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
+|     0.5 oz | Fresh Lime Juice                                          |
+|     0.5 oz | Fresh Pineapple Juice                                     |
 
 ### Notes
 
@@ -33,62 +34,3 @@ excerpt: |
 - Glassware: Wine Glass
 - Garnish: None
 - Special Prep: Add all ingredients (except the Jamaican rum) to a cocktail shaker along with three small ice cubes. Strain into a small wine glass. Add 1 oz of the Jamaican rum as a float on top. Recipe Note: if you really want to pump up the funk, experiment with other classic Jamaican rums like Smith & Cross.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  "0.5 oz Semi-Rich Simple Syrup",
-  " ",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Wine Glass"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: None"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Add all ingredients (except the Jamaican rum) to a cocktail shaker along with three small ice cubes. Strain into a small wine glass. Add 1 oz of the Jamaican rum as a float on top. Recipe Note: if you really want to pump up the funk, experiment with other classic Jamaican rums like Smith & Cross."
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

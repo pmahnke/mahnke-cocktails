@@ -1,18 +1,17 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  - title: Orange twist
-    url: /assets/images/twist_orange.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Spice rum
-    url: /assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Spice rum
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/spice_cinnamon.svg
+      title: Cinnamon
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

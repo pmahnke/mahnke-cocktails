@@ -1,21 +1,18 @@
----
 images:
-  garnish:
-  - title: Mint
-    url: /assets/images/herb_mint.svg
-  glass:
-  - title: Goblet
-    url: /assets/images/glass_goblet.svg
-  - title: Julep cup
-    url: /assets/images/glass_julep-cup.svg
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-benedictine.svg
+      title: Benedictine
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

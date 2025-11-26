@@ -4,10 +4,11 @@ author: Anders Erickson
 title: "Old Pal"
 eras: [prohibition]
 categories: [campari, cocktail]
+iconfile: old_pal
 permalink: "/recipe/old_pal/"
 iconfile: old_pal
 stars: 3
-base_spirits: ['Rye', 'Campari']
+base_spirits: "Rye, Campari "
 youtube: "op3jvecV1ME"
 description: "A classic Prohibition-era cocktail and a cousin to the Boulevardier, this is a spirit-forward drink that combines rye whiskey, Campari, and dry vermouth."
 excerpt: |
@@ -19,9 +20,9 @@ excerpt: |
 
 |  Amount | Ingredient     | Brand                            |
 | ------: | -------------- | -------------------------------- |
-|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Rye [&#9432;](/spirit/rye "More Rye recipes")            | Rittenhouse 100 Proof            |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Campari [&#9432;](/spirit/campari "More Campari recipes")        | Campari                          |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| White Vermouth [&#9432;](/spirit/white_vermouth "More White Vermouth recipes") | Dolin Blanc Vermouth de Chambéry |
+|  1.5 oz | Rye            | Rittenhouse 100 Proof            |
+| 0.75 oz | Campari        | Campari                          |
+| 0.75 oz | White Vermouth | Dolin Blanc Vermouth de Chambéry |
 
 ### Notes
 
@@ -30,58 +31,3 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Expressed lemon oil and peel
 - Special Prep: None
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  "0.75 oz White Vermouth"
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Stirred"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Expressed lemon oil and peel"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: None"
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

@@ -1,14 +1,13 @@
----
 images:
-  garnish:
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist

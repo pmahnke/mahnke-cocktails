@@ -1,20 +1,19 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
-  - title: Tiki
-    url: /assets/images/glass_tiki.svg
   ingredient:
-  - title: Apple brandy
-    url: /assets/images/ingredient-apple-brandy.svg
-  - title: Cognac
-    url: /assets/images/ingredient-cognac.svg
-  - title: Demerara rum
-    url: /assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-apple-brandy.svg
+      title: Apple brandy
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Demerara rum
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/spice_cinnamon.svg
+      title: Cinnamon

@@ -4,10 +4,11 @@ author: Anders Erickson
 title: "Star Cocktail"
 categories: [cocktail]
 eras: [classic]
+iconfile: star_cocktail
 permalink: "/recipe/star_cocktail/"
 iconfile: star_cocktail
 stars: 3
-base_spirits: ['Apple Brandy']
+base_spirits: "Apple Brandy"
 youtube: "9OxlSOioD_k"
 description: "A classic cocktail from the 1870s, featuring apple brandy, sweet vermouth, and bitters."
 excerpt: |
@@ -18,10 +19,10 @@ excerpt: |
 
 | Amount | Ingredient     | Brand                             |
 | -----: | -------------- | --------------------------------- |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Apple Brandy [&#9432;](/spirit/apple_brandy "More Apple Brandy recipes")   | Laird’s Straight Apple Brandy BIB |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes") | Cocchi Vermouth di Torino         |
-| <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters        | Angostura Aromatic Bitters        |
-| <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters        | Peychaud’s Bitters                |
+|   1 oz | Apple Brandy   | Laird’s Straight Apple Brandy BIB |
+|   1 oz | Sweet Vermouth | Cocchi Vermouth di Torino         |
+| 1 dash | Bitters        | Angostura Aromatic Bitters        |
+| 1 dash | Bitters        | Peychaud’s Bitters                |
 
 ### Notes
 
@@ -30,59 +31,3 @@ excerpt: |
 - Glassware: Nick &amp; Nora
 - Garnish: Expressed lemon oil
 - Special Prep: None
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  "1 oz Sweet Vermouth",
-  " ",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Stirred"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Nick &amp; Nora"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Expressed lemon oil"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: None"
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

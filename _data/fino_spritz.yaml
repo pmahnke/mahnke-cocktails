@@ -1,13 +1,12 @@
----
 images:
-  garnish:
-  - title: Lemon slice
-    url: /assets/images/fruit_lemon.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Maraschino liqueur
-    url: /assets/images/ingredient-maraschino-liqueur.svg
-  - title: Sherry
-    url: /assets/images/ingredient-sherry.svg
+    - url: /assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino liqueur
+    - url: /assets/images/ingredient-sherry.svg
+      title: Sherry
+  garnish:
+    - url: /assets/images/fruit_lemon.svg
+      title: Lemon slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

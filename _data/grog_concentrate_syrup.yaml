@@ -1,10 +1,7 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
   glass:
-  - title: Tiki
-    url: /assets/images/glass_tiki.svg
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

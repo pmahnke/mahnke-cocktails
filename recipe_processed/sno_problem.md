@@ -4,10 +4,11 @@ author: Anders Erickson
 title: "S'no Problem"
 eras: [anders]
 categories: [toddy]
+iconfile: sno_problem
 permalink: "/recipe/sno_problem/"
 iconfile: sno_problem
 stars: 0
-base_spirits: ['Navy Strength Rum', 'Bourbon']
+base_spirits: "Navy Strength Rum, Bourbon "
 youtube: "s30L-iu171E"
 description: "An original hot toddy featuring a unique blend of Jamaican rum, bourbon, and oat milk."
 excerpt: |
@@ -18,12 +19,12 @@ excerpt: |
 
 | Amount | Ingredient                                               | Brand                      |
 | -----: | -------------------------------------------------------- | -------------------------- |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Navy Strength Rum [&#9432;](/spirit/navy_strength_rum "More Navy Strength Rum recipes")                                        | Smith & Cross              |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Bourbon [&#9432;](/spirit/bourbon "More Bourbon recipes")                                                  | Elijah Craig Small Batch   |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-| <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters                                                  | Angostura Aromatic Bitters |
-|   <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Black Tea, Hot                                           | Darjeeling Tea             |
-|   <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Milk, Steamed                                            |
+| 0.5 oz | Navy Strength Rum                                        | Smith & Cross              |
+| 0.5 oz | Bourbon                                                  | Elijah Craig Small Batch   |
+| 0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
+| 1 dash | Bitters                                                  | Angostura Aromatic Bitters |
+|   2 oz | Black Tea, Hot                                           | Darjeeling Tea             |
+|   2 oz | Milk, Steamed                                            |
 
 ### Notes
 
@@ -32,61 +33,3 @@ excerpt: |
 - Glassware: Tea Cup
 - Garnish: Grated cinnamon and holiday cookies
 - Special Prep: Temper your mug with hot water.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  "0.5 oz Rich Demerara Syrup",
-  " ",
-  " ",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken / Stirred / Build in the Glass"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Tea Cup"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Grated cinnamon and holiday cookies"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Temper your mug with hot water."
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

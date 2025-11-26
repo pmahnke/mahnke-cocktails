@@ -1,18 +1,15 @@
----
 images:
-  garnish:
-  - title: Orange twist
-    url: /assets/images/twist_orange.svg
-  glass:
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
   ingredient:
-  - title: Bourbon
-    url: /assets/images/ingredient-bourbon.svg
-  - title: Campari
-    url: /assets/images/ingredient-campari.svg
+    - url: /assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /assets/images/ingredient-campari.svg
+      title: Campari
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist

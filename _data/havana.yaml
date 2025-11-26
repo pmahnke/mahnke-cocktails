@@ -1,20 +1,17 @@
----
 images:
-  garnish:
-  - title: Orange slice
-    url: /assets/images/fruit-orange.svg
-  - title: Pineapple slice
-    url: /assets/images/slice_pineapple.svg
-  glass:
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
   ingredient:
-  - title: Apricot liqueur
-    url: /assets/images/ingredient-apricot-liqueur.svg
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
-  - title: Punsch
-    url: /assets/images/ingredient-swedish-punsch.svg
+    - url: /assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot liqueur
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /assets/images/ingredient-swedish-punsch.svg
+      title: Punsch
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  garnish:
+    - url: /assets/images/fruit-orange.svg
+      title: Orange slice

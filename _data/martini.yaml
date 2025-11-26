@@ -1,16 +1,13 @@
----
 images:
-  garnish:
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  glass:
-  - title: Martini
-    url: /assets/images/glass_martini.svg
   ingredient:
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_martini.svg
+      title: Martini
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist

@@ -1,8 +1,7 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
   ingredient:
-  - title: Bourbon
-    url: /assets/images/ingredient-bourbon.svg
+    - url: /assets/images/ingredient-bourbon.svg
+      title: Bourbon
+  garnish:
+    - url: /assets/images/spice_cinnamon.svg
+      title: Cinnamon

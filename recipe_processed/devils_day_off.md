@@ -4,10 +4,11 @@ author: Anders Erickson
 title: "Devil's Day Off"
 categories: [mocktail]
 eras: [anders]
+iconfile: devils_day_off
 permalink: "/recipe/devils_day_off/"
 iconfile: devils_day_off
 stars: 0
-base_spirits: ['Citrus', 'Bitter Red Soda']
+base_spirits: "Citrus, Bitter Red Soda"
 youtube: "5wgvpo-xBnA"
 description: "A refreshing non-alcoholic cocktail that features a combination of grapefruit, lime, agave, cinnamon, and the bittersweet notes of Sanbitter soda."
 excerpt: |
@@ -18,11 +19,11 @@ excerpt: |
 
 |  Amount | Ingredient             | Brand           |
 | ------: | ---------------------- | --------------- |
-|    <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Fresh Grapefruit Juice |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Lime Juice       |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Agave Nectar           |
-| <span class="onex active">1 pinch </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> pinch </span> <span class="twox">2 pinch </span> <span class="threex">3 pinch </span>| Cinnamon               |
-|  <span class="onex active">3 <sup>1</sup>&frasl;<sub>3</sub> oz / 100 ml</span> <span class="onehalfx">5 oz / 150 ml</span> <span class="twox">6 <sup>2</sup>&frasl;<sub>3</sub> oz / 200 ml</span> <span class="threex">10 oz / 300 ml</span>| Red Bitter Soda        | Sanbitter Rosso |
+|    2 oz | Fresh Grapefruit Juice |
+|  0.5 oz | Fresh Lime Juice       |
+| 0.25 oz | Agave Nectar           |
+| 1 pinch | Cinnamon               |
+|  100 ml | Red Bitter Soda        | Sanbitter Rosso |
 
 ### Notes
 
@@ -33,68 +34,3 @@ excerpt: |
   - On the Rocks
 - Garnish: Sprig of Rosemary
 - Special Prep: Shake cocktail and pour into the glass. Top with red bitter soda.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " 2 oz Fresh Grapefruit Juice",
-  " ",
-  " ",
-  " ",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Single Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware:"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - High Ball"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - On the Rocks"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Sprig of Rosemary"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Shake cocktail and pour into the glass. Top with red bitter soda."
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

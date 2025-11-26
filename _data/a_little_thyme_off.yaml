@@ -1,25 +1,22 @@
----
 images:
-  garnish:
-  - title: Lemon slice
-    url: /assets/images/fruit_lemon.svg
-  - title: Thyme
-    url: /assets/images/herb_thyme.svg
-  glass:
-  - title: Highball
-    url: /assets/images/glass_highball.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
-  - title: Ginger beer
-    url: /assets/images/ingredient-ginger-beer.svg
-  - title: Simple syrup
-    url: /assets/images/ingredient-simple-syrup.svg
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /assets/images/ingredient-ginger-beer.svg
+      title: Ginger beer
+    - url: /assets/images/ingredient-simple-syrup.svg
+      title: Simple syrup
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
-  - title: Shaker
-    url: /assets/images/tool_shaker.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+  garnish:
+    - url: /assets/images/fruit_lemon.svg
+      title: Lemon slice
+    - url: /assets/images/herb_thyme.svg
+      title: Thyme
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

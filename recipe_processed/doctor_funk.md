@@ -5,10 +5,11 @@ creator: Don Beach
 title: "Doctor Funk"
 categories: [tiki]
 eras: [modern]
+iconfile: doctor_funk
 permalink: "/recipe/doctor_funk/"
 iconfile: doctor_funk
-stars: 3.5
-base_spirits: ['Jamaican Rum', 'Gold Rum', 'Absinthe']
+stars: 0
+base_spirits: "Jamaican Rum, Gold Rum, Absinthe"
 youtube: "aMXyG72irqI"
 description: "A classic tiki cocktail with a unique flavor profile that includes an absinthe-laced limeade."
 excerpt: |
@@ -19,13 +20,13 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand                                 |
 | ------: | ----------------------------------------------- | ------------------------------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")                                    | Hamilton Jamaican Pot Still Black     |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Gold Rum [&#9432;](/spirit/gold_rum "More Gold Rum recipes")                                        | Holmes Cay Fiji Single Origin Edition |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Absinthe [&#9432;](/spirit/absinthe "More Absinthe recipes")                                        | St. George                            |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Lemon Juice                               |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Lime Juice                                |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Sparkling Water                                 | Topo Chico                            |
+| 0.75 oz | Jamaican Rum                                    | Hamilton Jamaican Pot Still Black     |
+| 0.75 oz | Gold Rum                                        | Holmes Cay Fiji Single Origin Edition |
+| 0.25 oz | Absinthe                                        | St. George                            |
+|  0.5 oz | Fresh Lemon Juice                               |
+|  0.5 oz | Fresh Lime Juice                                |
+| 0.75 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
+|    1 oz | Sparkling Water                                 | Topo Chico                            |
 
 ### Notes
 
@@ -36,70 +37,3 @@ excerpt: |
 - Glassware: Low Ball
 - Garnish: Pineapple fronds
 - Special Prep: Pour cocktail into the glass, and top with sparkling water
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  "0.75 oz Grenadine",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method:"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - Crushed Ice"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Open Pour"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Low Ball"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Pineapple fronds"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Pour cocktail into the glass, and top with sparkling water"
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

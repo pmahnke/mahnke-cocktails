@@ -1,17 +1,14 @@
----
 images:
   ingredient:
-  - title: Absinthe
-    url: /assets/images/ingredient-absinthe.svg
-  - title: Amaro
-    url: /assets/images/ingredient-amaro.svg
-  - title: Chartreuse
-    url: /assets/images/ingredient-chartreuse.svg
-  - title: Cognac
-    url: /assets/images/ingredient-cognac.svg
-  - title: Creme de cacao
-    url: /assets/images/ingredient-creme-de-cacao.svg
-  - title: Creme de violette
-    url: /assets/images/ingredient-creme-de-violette.svg
-  - title: White creme de cacao
-    url: /assets/images/ingredient-cacao.svg
+    - url: /assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /assets/images/ingredient-amaro.svg
+      title: Amaro
+    - url: /assets/images/ingredient-chartreuse.svg
+      title: Chartreuse
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /assets/images/ingredient-creme-de-cacao.svg
+      title: Creme de cacao
+    - url: /assets/images/ingredient-creme-de-violette.svg
+      title: Creme de violette

@@ -1,21 +1,20 @@
----
 images:
-  garnish:
-  - title: Blackberries
-    url: /assets/images/fruit_blackberries.svg
-  - title: Lemon slice
-    url: /assets/images/fruit_lemon.svg
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Blackberry
-    url: /assets/images/ingredient-blackberry.svg
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-blackberry.svg
+      title: Blackberry
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/fruit_blackberries.svg
+      title: Blackberries
+    - url: /assets/images/fruit_lemon.svg
+      title: Lemon slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

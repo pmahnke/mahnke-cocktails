@@ -1,19 +1,16 @@
----
 images:
-  garnish:
-  - title: Cocktail cherry
-    url: /assets/images/twist_cocktail-cherry.svg
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Large
-    url: /assets/images/ice_large.svg
   ingredient:
-  - title: Demerara rum
-    url: /assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Demerara rum
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_cocktail-cherry.svg
+      title: Cocktail cherry
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large

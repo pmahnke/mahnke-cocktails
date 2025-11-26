@@ -1,18 +1,17 @@
----
 images:
-  garnish:
-  - title: Lime slice
-    url: /assets/images/slice_lime.svg
-  - title: Mint
-    url: /assets/images/herb_mint.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Champagne
-    url: /assets/images/ingredient-champagne.svg
-  - title: Elderflower liqueur
-    url: /assets/images/ingredient-elderflower-liqueur.svg
+    - url: /assets/images/ingredient-champagne.svg
+      title: Champagne
+    - url: /assets/images/ingredient-elderflower-liqueur.svg
+      title: Elderflower liqueur
   tool:
-  - title: Muddler
-    url: /assets/images/tool_muddler.svg
+    - url: /assets/images/tool_muddler.svg
+      title: Muddler
+  garnish:
+    - url: /assets/images/slice_lime.svg
+      title: Lime slice
+    - url: /assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

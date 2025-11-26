@@ -1,11 +1,10 @@
----
 images:
-  garnish:
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
-  glass:
-  - title: Coffee
-    url: /assets/images/glass_coffee.svg
   ingredient:
-  - title: Irish whiskey
-    url: /assets/images/ingredient-irish-whiskey.svg
+    - url: /assets/images/ingredient-irish-whiskey.svg
+      title: Irish whiskey
+  glass:
+    - url: /assets/images/spice_coffee.svg
+      title: Coffee
+  garnish:
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

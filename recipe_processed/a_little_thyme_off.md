@@ -4,10 +4,11 @@ author: Anders Erickson
 categories: [mocktail]
 eras: [anders]
 title: "A Little Thyme Off"
+iconfile: a_little_thyme_off
 permalink: "/recipe/a_little_thyme_off/"
 iconfile: a_little_thyme_off
 stars: 0
-base_spirits: ['Lemon', 'Thyme Simple Syrup', 'Ginger Beer']
+base_spirits: "Lemon, Thyme Simple Syrup, Ginger Beer"
 youtube: "ZE3G8aUyOn0"
 description: "A refreshing and herbaceous non-alcoholic cocktail featuring a thyme-infused simple syrup balanced with lemon and ginger beer."
 excerpt: |
@@ -18,9 +19,9 @@ excerpt: |
 
 |    Amount | Ingredient                                                   | Brand      |
 | --------: | ------------------------------------------------------------ | ---------- |
-|      <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lemon Juice                                            |
-|      <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| [Thyme-Infused Simple Syrup]({%link recipe_processed/thyme_syrup.md%}) |
-| <span class="onex active">4 to 5 oz  / 100 to 125 ml</span> <span class="onehalfx">6 to 7 <sup>1</sup>&frasl;<sub>2</sub> oz  / 150 to 188 ml</span> <span class="twox">8 to 10 oz  / 200 to 250 ml</span> <span class="threex">12 to 15 oz  / 300 to 375 ml</span>| Ginger Beer                                                  | Fever Tree |
+|      1 oz | Fresh Lemon Juice                                            |
+|      1 oz | [Thyme-Infused Simple Syrup]({%link recipe/thyme_syrup.md%}) |
+| 4 to 5 oz | Ginger Beer                                                  | Fever Tree |
 
 ### Notes
 
@@ -31,66 +32,3 @@ excerpt: |
   - On the Rocks
 - Garnish: Thyme sprigs & lemon wheel
 - Special Prep: Add the lemon juice and thyme-infused simple syrup to the shaker tin with ice. Give it a quick shake and double strain into the glass. Add ice. Fill remainder of the glass with ginger beer.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " 1 oz Thyme-Infused Simple Syrup",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware:"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - High Ball"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - On the Rocks"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Thyme sprigs & lemon wheel"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Add the lemon juice and thyme-infused simple syrup to the shaker tin with ice. Give it a quick shake and double strain into the glass. Add ice. Fill remainder of the glass with ginger beer."
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

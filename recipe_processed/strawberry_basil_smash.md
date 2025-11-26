@@ -4,10 +4,11 @@ title: "Strawberry Basil Smash"
 author: "Anders Erickson"
 eras: [classic]
 categories: [smash]
+iconfile: strawberry_basil_smash
 permalink: "/recipe/strawberry_basil_smash/"
 iconfile: strawberry_basil_smash
 stars: 0
-base_spirits: ['Jamaican Rum']
+base_spirits: "Jamaican Rum"
 youtube: "3i4QnRLlPFc"
 description: "A refreshing classic smash that combines the sweetness of fresh strawberries with the savory, herbaceous notes of basil."
 excerpt: |
@@ -18,11 +19,11 @@ excerpt: |
 
 |         Amount | Ingredient                                               | Brand                               |
 | -------------: | -------------------------------------------------------- | ----------------------------------- |
-|           <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")                                             | Appleton Estate Signature Blend V/X |
-|         <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-|      <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> whole </span> <span class="twox">1 whole </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span>| Lemon                                                    |
-|        <span class="onex active">2 whole </span> <span class="onehalfx">3 whole </span> <span class="twox">4 whole </span> <span class="threex">6 whole </span>| Strawberries                                             |
-| <span class="onex active">8 to 10 leaves </span> <span class="onehalfx">12 to 15 leaves </span> <span class="twox">16 to 20 leaves </span> <span class="threex">24 to 30 leaves </span>| Basil                                                    |
+|           2 oz | Jamaican Rum                                             | Appleton Estate Signature Blend V/X |
+|         0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
+|      0.5 whole | Lemon                                                    |
+|        2 whole | Strawberries                                             |
+| 8 to 10 leaves | Basil                                                    |
 
 ### Notes
 
@@ -31,60 +32,3 @@ excerpt: |
 - Glassware:
 - Garnish: Strawberry slices & basil sprig
 - Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, strawberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  "0.5 oz Rich Demerara Syrup",
-  " ",
-  " ",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware:"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Strawberry slices & basil sprig"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, strawberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake."
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

@@ -5,10 +5,11 @@ creator: John Coltharp
 title: "Seven Sins"
 eras: [modern]
 categories: [sour]
+iconfile: seven_sins
 permalink: "/recipe/seven_sins/"
 iconfile: seven_sins
 stars: 0
-base_spirits: ['Apple Brandy', 'Rye']
+base_spirits: "Apple Brandy, Rye"
 youtube: "https://www.youtube.com/shorts/5_FiYugHCAM"
 description: "This variation, modified by John Coltharp, is a whiskey-based drink inspired by the classic Jack Rose"
 excerpt: |
@@ -19,10 +20,10 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand                      |
 | ------: | ----------------------------------------------- | -------------------------- |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Apple Brandy [&#9432;](/spirit/apple_brandy "More Apple Brandy recipes")                                    | Laird's 100 proof Straight |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Rye [&#9432;](/spirit/rye "More Rye recipes")                                             | Rittenhouse                |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice                       |
+|    1 oz | Apple Brandy                                    | Laird's 100 proof Straight |
+|    1 oz | Rye                                             | Rittenhouse                |
+| 0.75 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
+| 0.75 oz | Fresh Lemon Juice                       |
 
 ### Notes
 
@@ -31,59 +32,3 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Freshly grated nutmeg
 - Special Prep: None
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  "0.75 oz Grenadine",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Freshly grated nutmeg"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: None"
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

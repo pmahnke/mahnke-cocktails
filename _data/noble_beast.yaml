@@ -1,15 +1,14 @@
----
 images:
-  glass:
-  - title: Coffee
-    url: /assets/images/glass_coffee.svg
-  - title: Old fashioned
-    url: /assets/images/glass_old-fashioned.svg
   ingredient:
-  - title: Bitters
-    url: /assets/images/ingredient-bitters.svg
+    - url: /assets/images/ingredient-bitters.svg
+      title: Bitters
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
-  - title: Grater
-    url: /assets/images/tool_grater.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+    - url: /assets/images/tool_grater.svg
+      title: Grater
+  glass:
+    - url: /assets/images/spice_coffee.svg
+      title: Coffee
+    - url: /assets/images/glass_old-fashioned.svg
+      title: Old fashioned

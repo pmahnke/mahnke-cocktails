@@ -1,17 +1,14 @@
----
 images:
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Cherry
-    url: /assets/images/ingredient-cherry.svg
-  - title: Lillet blanc
-    url: /assets/images/ingredient-lillet-blanc.svg
-  - title: Rye
-    url: /assets/images/ingredient-rye.svg
+    - url: /assets/images/ingredient-cherry.svg
+      title: Cherry
+    - url: /assets/images/ingredient-lillet-blanc.svg
+      title: Lillet blanc
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe

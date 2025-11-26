@@ -1,16 +1,15 @@
----
 images:
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Large
-    url: /assets/images/ice_large.svg
   ingredient:
-  - title: Scotch
-    url: /assets/images/ingredient-scotch.svg
+    - url: /assets/images/ingredient-benedictine.svg
+      title: Benedictine
+    - url: /assets/images/ingredient-scotch.svg
+      title: Scotch
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large

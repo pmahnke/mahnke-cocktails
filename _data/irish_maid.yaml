@@ -1,18 +1,17 @@
----
 images:
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Elderflower liqueur
-    url: /assets/images/ingredient-elderflower-liqueur.svg
-  - title: Irish whiskey
-    url: /assets/images/ingredient-irish-whiskey.svg
+    - url: /assets/images/ingredient-elderflower-liqueur.svg
+      title: Elderflower liqueur
+    - url: /assets/images/ingredient-irish-whiskey.svg
+      title: Irish whiskey
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
-  - title: Muddler
-    url: /assets/images/tool_muddler.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+    - url: /assets/images/tool_muddler.svg
+      title: Muddler
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

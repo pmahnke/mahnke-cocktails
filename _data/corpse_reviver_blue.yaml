@@ -1,16 +1,15 @@
----
 images:
-  garnish:
-  - title: Cocktail cherry
-    url: /assets/images/twist_cocktail-cherry.svg
-  glass:
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
   ingredient:
-  - title: Cocchi americano
-    url: /assets/images/ingredient-cocchi-americano.svg
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-cocchi-americano.svg
+      title: Cocchi americano
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  garnish:
+    - url: /assets/images/twist_cocktail-cherry.svg
+      title: Cocktail cherry

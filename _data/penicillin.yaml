@@ -1,20 +1,17 @@
----
 images:
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Large
-    url: /assets/images/ice_large.svg
   ingredient:
-  - title: Scotch
-    url: /assets/images/ingredient-scotch.svg
-  - title: Single malt scotch
-    url: /assets/images/ingredient-single-malt-scotch.svg
+    - url: /assets/images/ingredient-scotch.svg
+      title: Scotch
+    - url: /assets/images/ingredient-single-malt-scotch.svg
+      title: Single malt scotch
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
-  - title: Muddler
-    url: /assets/images/tool_muddler.svg
-  - title: Shaker
-    url: /assets/images/tool_shaker.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+    - url: /assets/images/tool_muddler.svg
+      title: Muddler
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large

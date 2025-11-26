@@ -1,16 +1,15 @@
----
 images:
-  garnish:
-  - title: Mint
-    url: /assets/images/herb_mint.svg
-  glass:
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
   ingredient:
-  - title: Bitters
-    url: /assets/images/ingredient-bitters.svg
-  - title: Rye
-    url: /assets/images/ingredient-rye.svg
+    - url: /assets/images/ingredient-bitters.svg
+      title: Bitters
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  garnish:
+    - url: /assets/images/herb_mint.svg
+      title: Mint

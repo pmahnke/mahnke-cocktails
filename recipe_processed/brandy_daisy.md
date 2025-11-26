@@ -4,10 +4,11 @@ author: Anders Erickson
 title: "Brandy Daisy"
 categories: [daisy]
 eras: [classic]
+iconfile: brandy_daisy
 permalink: "/recipe/brandy_daisy/"
 iconfile: brandy_daisy
 stars: 0
-base_spirits: ['Cognac', 'Jamaican Rum']
+base_spirits: "Cognac, Jamaican Rum"
 youtube: "EyB4Ymian3Q"
 description: "A classic cocktail category defined by a spirit, citrus, and sweetener, topped with a splash of soda water."
 excerpt: |
@@ -18,12 +19,12 @@ excerpt: |
 
 |  Amount | Ingredient                                                | Brand                           |
 | ------: | --------------------------------------------------------- | ------------------------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")                                                    | Maison Rouge VSOP               |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")                                              | Appleton Estate Signature Blend |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Dry Curaçao                                               | Pierre Ferrand                  |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Fresh Lemon Juice                                         |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Sparkling Water                                           | Topo Chico                      |
+| 0.75 oz | Cognac                                                    | Maison Rouge VSOP               |
+| 0.25 oz | Jamaican Rum                                              | Appleton Estate Signature Blend |
+| 0.25 oz | Dry Curaçao                                               | Pierre Ferrand                  |
+|  0.5 oz | Fresh Lemon Juice                                         |
+| 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| 0.25 oz | Sparkling Water                                           | Topo Chico                      |
 
 ### Notes
 
@@ -32,61 +33,3 @@ excerpt: |
 - Glassware: Cocktail Glass
 - Garnish: None
 - Special Prep: Pour cocktail into the glass, and top with sparkling water.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  "0.25 oz Semi-Rich Simple Syrup",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Cocktail Glass"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: None"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Pour cocktail into the glass, and top with sparkling water."
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

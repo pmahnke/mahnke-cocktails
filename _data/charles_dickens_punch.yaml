@@ -1,12 +1,11 @@
----
 images:
-  garnish:
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  - title: Pineapple slice
-    url: /assets/images/slice_pineapple.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
   ingredient:
-  - title: Cognac
-    url: /assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist
+    - url: /assets/images/slice_pineapple.svg
+      title: Pineapple slice
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

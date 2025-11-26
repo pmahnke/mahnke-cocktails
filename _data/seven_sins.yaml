@@ -1,20 +1,16 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Apple brandy
-    url: /assets/images/ingredient-apple-brandy.svg
-  - title: Cognac
-    url: /assets/images/ingredient-cognac.svg
-  - title: Rye
-    url: /assets/images/ingredient-rye.svg
+    - url: /assets/images/ingredient-apple-brandy.svg
+      title: Apple brandy
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
-  - title: Grater
-    url: /assets/images/tool_grater.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+    - url: /assets/images/tool_grater.svg
+      title: Grater
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe

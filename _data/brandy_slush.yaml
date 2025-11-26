@@ -1,8 +1,7 @@
----
 images:
-  garnish:
-  - title: Orange slice
-    url: /assets/images/fruit-orange.svg
   ingredient:
-  - title: Cognac
-    url: /assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+  garnish:
+    - url: /assets/images/fruit-orange.svg
+      title: Orange slice

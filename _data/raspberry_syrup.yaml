@@ -1,7 +1,6 @@
----
 images:
   garnish:
-  - title: Raspberries
-    url: /assets/images/fruit_raspberries.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
+    - url: /assets/images/fruit_raspberries.svg
+      title: Raspberries
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

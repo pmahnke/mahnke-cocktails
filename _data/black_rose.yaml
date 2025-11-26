@@ -1,21 +1,18 @@
----
 images:
-  garnish:
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Large
-    url: /assets/images/ice_large.svg
   ingredient:
-  - title: Bourbon
-    url: /assets/images/ingredient-bourbon.svg
-  - title: Cognac
-    url: /assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large

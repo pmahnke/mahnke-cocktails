@@ -4,10 +4,11 @@ author: Anders Erickson
 title: "Prescription Julep"
 categories: [julep]
 eras: [classic]
+iconfile: prescription_julep
 permalink: "/recipe/prescription_julep/"
 iconfile: prescription_julep
 stars: 0
-base_spirits: ['Cognac', 'Rye']
+base_spirits: "Cognac, Rye "
 youtube: "xfLW5Na9QpM"
 description: "A classic and complex julep from the mid-1800s that combines both rye whiskey and cognac with fresh mint."
 excerpt: |
@@ -18,10 +19,10 @@ excerpt: |
 
 |        Amount | Ingredient                                               | Brand                 |
 | ------------: | -------------------------------------------------------- | --------------------- |
-|        <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")                                                   | Maison Rouge V.S.O.P. |
-|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Rye [&#9432;](/spirit/rye "More Rye recipes")                                                      | Rittenhouse 100 Proof |
-|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-| <span class="onex active">6 to 8 leaves </span> <span class="onehalfx">9 to 12 leaves </span> <span class="twox">12 to 16 leaves </span> <span class="threex">18 to 24 leaves </span>| Mint                                                     |
+|        1.5 oz | Cognac                                                   | Maison Rouge V.S.O.P. |
+|        0.5 oz | Rye                                                      | Rittenhouse 100 Proof |
+|        0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
+| 6 to 8 leaves | Mint                                                     |
 
 ### Notes
 
@@ -32,67 +33,3 @@ excerpt: |
   - Crushed Ice
 - Garnish: Mint Sprig
 - Special Prep: Add mint leaves directly to the shaking tin. Then build the cocktail. Top with additional crushed ice.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  " 0.5 oz Rich Demerara Syrup",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware:"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - Julep Cup"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - Crushed Ice"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Mint Sprig"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Add mint leaves directly to the shaking tin. Then build the cocktail. Top with additional crushed ice."
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

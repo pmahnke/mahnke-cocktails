@@ -1,16 +1,15 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  glass:
-  - title: Highball
-    url: /assets/images/glass_highball.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   tool:
-  - title: Boston shaker
-    url: /assets/images/tool_boston-shaker.svg
-  - title: Hawthorn strainer
-    url: /assets/images/tool_hawthorn-strainer.svg
+    - url: /assets/images/tool_boston-shaker.svg
+      title: Boston shaker
+    - url: /assets/images/tool_hawthorn-strainer.svg
+      title: Hawthorn strainer
+  glass:
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+  garnish:
+    - url: /assets/images/spice_cinnamon.svg
+      title: Cinnamon
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

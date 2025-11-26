@@ -1,22 +1,19 @@
----
 images:
-  glass:
-  - title: Double old fashioned
-    url: /assets/images/glass_double-old-fashioned.svg
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Creme de cacao
-    url: /assets/images/ingredient-creme-de-cacao.svg
-  - title: Galliano
-    url: /assets/images/ingredient-orange.svg
-  - title: White creme de cacao
-    url: /assets/images/ingredient-cacao.svg
+    - url: /assets/images/ingredient-creme-de-cacao.svg
+      title: Creme de cacao
+    - url: /assets/images/ingredient-orange.svg
+      title: Galliano
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
-  - title: Grater
-    url: /assets/images/tool_grater.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+    - url: /assets/images/tool_grater.svg
+      title: Grater
+  glass:
+    - url: /assets/images/glass_double-old-fashioned.svg
+      title: Double old fashioned
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

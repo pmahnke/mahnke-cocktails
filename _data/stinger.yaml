@@ -1,19 +1,18 @@
----
 images:
-  garnish:
-  - title: Mint
-    url: /assets/images/herb_mint.svg
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Cognac
-    url: /assets/images/ingredient-cognac.svg
-  - title: Creme de menthe
-    url: /assets/images/ingredient-creme-de-menthe.svg
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /assets/images/ingredient-creme-de-menthe.svg
+      title: Creme de menthe
   tool:
-  - title: Boston shaker
-    url: /assets/images/tool_boston-shaker.svg
+    - url: /assets/images/tool_boston-shaker.svg
+      title: Boston shaker
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

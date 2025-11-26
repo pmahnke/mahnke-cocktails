@@ -5,10 +5,11 @@ creator: The Savoy Hotel
 title: "Savoy Corpse Reviver #3"
 categories: [cocktail]
 eras: [modern]
+iconfile: corpse_reviver_3_savoy
 permalink: "/recipe/corpse_reviver_3_savoy/"
 iconfile: corpse_reviver_3_savoy
 stars: 0
-base_spirits: ['Cognac', 'Crème de Menthe', 'Fernet Branca']
+base_spirits: "Cognac, Crème de Menthe, Fernet Branca"
 youtube: "kBHi_atZsbM"
 description: "This version of the Corpse Reviver #3 is a stirred, equal-parts mixture of brandy, white crème de menthe, and Fernet Branca."
 excerpt: |
@@ -19,9 +20,9 @@ excerpt: |
 
 |  Amount | Ingredient      | Brand             |
 | ------: | --------------- | ----------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")          | Maison Rouge VSOP |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Crème de Menthe [&#9432;](/spirit/crème_de_menthe "More Crème de Menthe recipes") | Tempus Fugit      |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Fernet Branca [&#9432;](/spirit/fernet_branca "More Fernet Branca recipes")   | Fernet Branca     |
+| 0.75 oz | Cognac          | Maison Rouge VSOP |
+|  0.5 oz | Crème de Menthe | Tempus Fugit      |
+| 0.25 oz | Fernet Branca   | Fernet Branca     |
 
 ### Notes
 
@@ -31,58 +32,3 @@ excerpt: |
 - Garnish: None
 - Special Prep: None
 
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " 0.5 oz Crème de Menthe",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Stirred"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: None"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: None"
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

@@ -1,19 +1,16 @@
----
 images:
   cocktail:
-  - title: Gimlet
-    url: /assets/images/cocktail_gimlet.svg
-  garnish:
-  - title: Lime slice
-    url: /assets/images/slice_lime.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
+    - url: /assets/images/cocktail_gimlet.svg
+      title: Gimlet
   ingredient:
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/slice_lime.svg
+      title: Lime slice

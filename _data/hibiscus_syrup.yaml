@@ -1,7 +1,4 @@
----
 images:
   garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
+    - url: /assets/images/spice_cinnamon.svg
+      title: Cinnamon

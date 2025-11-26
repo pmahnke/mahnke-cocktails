@@ -1,17 +1,16 @@
----
 images:
-  garnish:
-  - title: Pineapple slice
-    url: /assets/images/slice_pineapple.svg
-  glass:
-  - title: Hurricane
-    url: /assets/images/glass_hurricane.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Light rum
-    url: /assets/images/ingredient-light-rum.svg
+    - url: /assets/images/ingredient-light-rum.svg
+      title: Light rum
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_hurricane.svg
+      title: Hurricane
+  garnish:
+    - url: /assets/images/slice_pineapple.svg
+      title: Pineapple slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

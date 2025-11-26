@@ -1,23 +1,22 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  - title: Mint
-    url: /assets/images/herb_mint.svg
-  glass:
-  - title: Tiki
-    url: /assets/images/glass_tiki.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Demerara rum
-    url: /assets/images/ingredient-dark-rum.svg
-  - title: Gold rum
-    url: /assets/images/ingredient-dark-rum.svg
-  - title: Jamaican rum
-    url: /assets/images/ingredient-jamacian-rum.svg
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Demerara rum
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Gold rum
+    - url: /assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican rum
   tool:
-  - title: Boston shaker
-    url: /assets/images/tool_boston-shaker.svg
+    - url: /assets/images/tool_boston-shaker.svg
+      title: Boston shaker
+  glass:
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/spice_cinnamon.svg
+      title: Cinnamon
+    - url: /assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

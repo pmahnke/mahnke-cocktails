@@ -1,8 +1,4 @@
----
 images:
-  garnish:
-  - title: Coffee
-    url: /assets/images/spice_coffee.svg
   glass:
-  - title: Coffee
-    url: /assets/images/glass_coffee.svg
+    - url: /assets/images/spice_coffee.svg
+      title: Coffee

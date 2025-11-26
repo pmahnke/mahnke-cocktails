@@ -1,18 +1,17 @@
----
 images:
-  garnish:
-  - title: Lemon slice
-    url: /assets/images/fruit_lemon.svg
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Absinthe
-    url: /assets/images/ingredient-absinthe.svg
-  - title: Cognac
-    url: /assets/images/ingredient-cognac.svg
-  - title: Port
-    url: /assets/images/ingredient-port.svg
+    - url: /assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /assets/images/ingredient-port.svg
+      title: Port
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/fruit_lemon.svg
+      title: Lemon slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

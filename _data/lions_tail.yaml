@@ -1,16 +1,15 @@
----
 images:
   cocktail:
-  - title: Lions tail
-    url: /assets/images/cocktail_lions_tail.svg
-  glass:
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/cocktail_lions_tail.svg
+      title: Lions tail
   ingredient:
-  - title: Allspice dram
-    url: /assets/images/ingredient-allspice-dram.svg
-  - title: Bourbon
-    url: /assets/images/ingredient-bourbon.svg
+    - url: /assets/images/ingredient-allspice-dram.svg
+      title: Allspice dram
+    - url: /assets/images/ingredient-bourbon.svg
+      title: Bourbon
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora

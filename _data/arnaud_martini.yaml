@@ -1,22 +1,17 @@
----
 images:
-  garnish:
-  - title: Blackberries
-    url: /assets/images/fruit_blackberries.svg
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Creme de cassis
-    url: /assets/images/ingredient-creme-de-casis.svg
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
-  - title: White vermouth
-    url: /assets/images/
+    - url: /assets/images/ingredient-creme-de-casis.svg
+      title: Creme de cassis
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /assets/images/ingredient-vermouth.svg
+      title: White vermouth
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist

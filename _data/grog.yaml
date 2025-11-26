@@ -1,16 +1,15 @@
----
 images:
-  garnish:
-  - title: Lime slice
-    url: /assets/images/slice_lime.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Demerara rum
-    url: /assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Demerara rum
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/slice_lime.svg
+      title: Lime slice
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

@@ -1,20 +1,17 @@
----
 images:
-  garnish:
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Absinthe
-    url: /assets/images/ingredient-absinthe.svg
-  - title: Apricot liqueur
-    url: /assets/images/ingredient-apricot-liqueur.svg
-  - title: Campari
-    url: /assets/images/ingredient-campari.svg
+    - url: /assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot liqueur
+    - url: /assets/images/ingredient-campari.svg
+      title: Campari
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist

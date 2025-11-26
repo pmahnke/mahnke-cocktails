@@ -1,8 +1,7 @@
----
 images:
-  garnish:
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
   ingredient:
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+  garnish:
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

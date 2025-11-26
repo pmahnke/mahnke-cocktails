@@ -1,16 +1,17 @@
----
 images:
-  garnish:
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Chartreuse
-    url: /assets/images/ingredient-chartreuse.svg
-  - title: Genever
-    url: /assets/images/ingredient-genever.svg
+    - url: /assets/images/ingredient-benedictine.svg
+      title: Benedictine
+    - url: /assets/images/ingredient-chartreuse.svg
+      title: Chartreuse
+    - url: /assets/images/ingredient-genever.svg
+      title: Genever
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist

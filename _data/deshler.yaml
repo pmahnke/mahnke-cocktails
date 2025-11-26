@@ -1,26 +1,23 @@
----
 images:
-  garnish:
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  - title: Orange twist
-    url: /assets/images/twist_orange.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Bourbon
-    url: /assets/images/ingredient-bourbon.svg
-  - title: Dubonnet rouge
-    url: /assets/images/ingredient-dubonnet-rouge.png
-  - title: Lillet rouge
-    url: /assets/images/ingredient-lillet-rouge.svg
-  - title: Rye
-    url: /assets/images/ingredient-rye.svg
+    - url: /assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /assets/images/ingredient-dubonnet-rouge.png
+      title: Dubonnet rouge
+    - url: /assets/images/ingredient-lillet-rouge.svg
+      title: Lillet rouge
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist

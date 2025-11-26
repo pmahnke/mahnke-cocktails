@@ -1,19 +1,16 @@
----
 images:
-  garnish:
-  - title: Lime slice
-    url: /assets/images/slice_lime.svg
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Demerara rum
-    url: /assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Demerara rum
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/slice_lime.svg
+      title: Lime slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

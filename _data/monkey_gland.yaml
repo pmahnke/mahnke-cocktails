@@ -1,20 +1,17 @@
----
 images:
-  garnish:
-  - title: Cocktail cherry
-    url: /assets/images/twist_cocktail-cherry.svg
-  - title: Orange twist
-    url: /assets/images/twist_orange.svg
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
   ingredient:
-  - title: Absinthe
-    url: /assets/images/ingredient-absinthe.svg
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
-  - title: Shaker
-    url: /assets/images/tool_shaker.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_cocktail-cherry.svg
+      title: Cocktail cherry
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist

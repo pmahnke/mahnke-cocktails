@@ -1,21 +1,18 @@
----
 images:
-  garnish:
-  - title: Pineapple slice
-    url: /assets/images/slice_pineapple.svg
-  glass:
-  - title: Double old fashioned
-    url: /assets/images/glass_double-old-fashioned.svg
-  - title: Tiki
-    url: /assets/images/glass_tiki.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Light rum
-    url: /assets/images/ingredient-light-rum.svg
+    - url: /assets/images/ingredient-light-rum.svg
+      title: Light rum
   tool:
-  - title: Boston shaker
-    url: /assets/images/tool_boston-shaker.svg
-  - title: Shaker
-    url: /assets/images/tool_shaker.svg
+    - url: /assets/images/tool_shaker.svg
+      title: Shaker
+  glass:
+    - url: /assets/images/glass_double-old-fashioned.svg
+      title: Double old fashioned
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/slice_pineapple.svg
+      title: Pineapple slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

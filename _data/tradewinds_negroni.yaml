@@ -1,19 +1,16 @@
----
 images:
-  garnish:
-  - title: Orange twist
-    url: /assets/images/twist_orange.svg
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Large
-    url: /assets/images/ice_large.svg
   ingredient:
-  - title: Bitters
-    url: /assets/images/ingredient-bitters.svg
+    - url: /assets/images/ingredient-bitters.svg
+      title: Bitters
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large

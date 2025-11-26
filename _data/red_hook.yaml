@@ -1,18 +1,15 @@
----
 images:
-  garnish:
-  - title: Cocktail cherry
-    url: /assets/images/twist_cocktail-cherry.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Maraschino liqueur
-    url: /assets/images/ingredient-maraschino-liqueur.svg
-  - title: Rye
-    url: /assets/images/ingredient-rye.svg
+    - url: /assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino liqueur
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_cocktail-cherry.svg
+      title: Cocktail cherry

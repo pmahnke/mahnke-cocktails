@@ -1,19 +1,16 @@
----
 images:
-  glass:
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
-  - title: Old fashioned
-    url: /assets/images/glass_old-fashioned.svg
-  - title: Snifter
-    url: /assets/images/glass_snifter.svg
   ingredient:
-  - title: Aperol
-    url: /assets/images/ingredient-aperol.svg
-  - title: Cognac
-    url: /assets/images/ingredient-cognac.svg
+    - url: /assets/images/ingredient-aperol.svg
+      title: Aperol
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
-  - title: Shaker
-    url: /assets/images/tool_shaker.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+    - url: /assets/images/glass_old-fashioned.svg
+      title: Old fashioned
+    - url: /assets/images/glass_snifter.svg
+      title: Snifter

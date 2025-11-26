@@ -1,20 +1,17 @@
----
 images:
-  garnish:
-  - title: Cocktail cherry
-    url: /assets/images/twist_cocktail-cherry.svg
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  glass:
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
   ingredient:
-  - title: Chartreuse
-    url: /assets/images/ingredient-chartreuse.svg
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
+    - url: /assets/images/ingredient-chartreuse.svg
+      title: Chartreuse
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  garnish:
+    - url: /assets/images/twist_cocktail-cherry.svg
+      title: Cocktail cherry
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist

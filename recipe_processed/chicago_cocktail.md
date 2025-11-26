@@ -4,10 +4,11 @@ title: "Chicago Cocktail"
 author: "Anders Erickson"
 categories: [champagne]
 eras: [prohibition]
+iconfile: chicago_cocktail
 permalink: "/recipe/chicago_cocktail/"
 iconfile: chicago_cocktail
 stars: 3
-base_spirits: ['Champagne', 'Cognac']
+base_spirits: "Champagne, Cognac "
 youtube: "IAaiRENeyvc&t=639s"
 description: "A classic Prohibition-era cocktail that starts like an Old Fashioned with brandy and bitters but is topped with Champagne."
 excerpt: |
@@ -18,10 +19,10 @@ excerpt: |
 
 |   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
-|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")         | Maison Rouge VSOP          |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Dry Curaçao    | Pierre Ferrand             |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters        | Angostura Aromatic Bitters |
-|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Sparkling Wine |
+|     1 oz | Cognac         | Maison Rouge VSOP          |
+|  0.25 oz | Dry Curaçao    | Pierre Ferrand             |
+| 2 dashes | Bitters        | Angostura Aromatic Bitters |
+|     2 oz | Sparkling Wine |
 
 ### Notes
 
@@ -31,63 +32,3 @@ excerpt: |
 - Garnish: None
 - Special Prep: Pour cocktail into glass and top it off with champagne and to with
   expressed orange OR lemon oil.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  "2 oz Sparkling Wine"
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Single Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: None"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Pour cocktail into glass and top it off with champagne and to with"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  expressed orange OR lemon oil."
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

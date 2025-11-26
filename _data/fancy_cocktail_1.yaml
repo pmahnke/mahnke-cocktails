@@ -1,17 +1,14 @@
----
 images:
-  glass:
-  - title: Martini
-    url: /assets/images/glass_martini.svg
   ingredient:
-  - title: Reposado tequila
-    url: /assets/images/ingredient-reposado-tequila.svg
-  - title: Sherry
-    url: /assets/images/ingredient-sherry.svg
-  - title: Tequila
-    url: /assets/images/ingredient-tequila.svg
+    - url: /assets/images/ingredient-reposado-tequila.svg
+      title: Reposado tequila
+    - url: /assets/images/ingredient-sherry.svg
+      title: Sherry
+    - url: /assets/images/ingredient-tequila.svg
+      title: Tequila
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_martini.svg
+      title: Martini

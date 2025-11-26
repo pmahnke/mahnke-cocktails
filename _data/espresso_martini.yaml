@@ -1,20 +1,19 @@
----
 images:
-  garnish:
-  - title: Coffee
-    url: /assets/images/spice_coffee.svg
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  glass:
-  - title: Coffee
-    url: /assets/images/glass_coffee.svg
-  - title: Martini
-    url: /assets/images/glass_martini.svg
   ingredient:
-  - title: Coffee liqueur
-    url: /assets/images/ingredient-coffee-liqueur.svg
-  - title: Vodka
-    url: /assets/images/ingredient-vodka.svg
+    - url: /assets/images/ingredient-coffee-liqueur.svg
+      title: Coffee liqueur
+    - url: /assets/images/ingredient-vodka.svg
+      title: Vodka
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/spice_coffee.svg
+      title: Coffee
+    - url: /assets/images/glass_martini.svg
+      title: Martini
+  garnish:
+    - url: /assets/images/spice_coffee.svg
+      title: Coffee
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist

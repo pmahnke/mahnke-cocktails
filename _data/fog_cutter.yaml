@@ -1,25 +1,24 @@
----
 images:
-  garnish:
-  - title: Mint
-    url: /assets/images/herb_mint.svg
-  - title: Orange slice
-    url: /assets/images/fruit-orange.svg
-  glass:
-  - title: Tiki
-    url: /assets/images/glass_tiki.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Gin
-    url: /assets/images/ingredient-gin.svg
-  - title: Light rum
-    url: /assets/images/ingredient-light-rum.svg
-  - title: Pisco
-    url: /assets/images/ingredient-pisco.svg
-  - title: Sherry
-    url: /assets/images/ingredient-sherry.svg
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /assets/images/ingredient-light-rum.svg
+      title: Light rum
+    - url: /assets/images/ingredient-pisco.svg
+      title: Pisco
+    - url: /assets/images/ingredient-sherry.svg
+      title: Sherry
   tool:
-  - title: Boston shaker
-    url: /assets/images/tool_boston-shaker.svg
+    - url: /assets/images/tool_boston-shaker.svg
+      title: Boston shaker
+  glass:
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/herb_mint.svg
+      title: Mint
+    - url: /assets/images/fruit-orange.svg
+      title: Orange slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

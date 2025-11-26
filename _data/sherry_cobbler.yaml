@@ -1,25 +1,22 @@
----
 images:
-  garnish:
-  - title: Mint
-    url: /assets/images/herb_mint.svg
-  - title: Orange slice
-    url: /assets/images/fruit-orange.svg
-  - title: Raspberries
-    url: /assets/images/fruit_raspberries.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
-  glass:
-  - title: Goblet
-    url: /assets/images/glass_goblet.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Sherry
-    url: /assets/images/ingredient-sherry.svg
+    - url: /assets/images/ingredient-sherry.svg
+      title: Sherry
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
-  - title: Shaker
-    url: /assets/images/tool_shaker.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_goblet.svg
+      title: Goblet
+  garnish:
+    - url: /assets/images/herb_mint.svg
+      title: Mint
+    - url: /assets/images/fruit-orange.svg
+      title: Orange slice
+    - url: /assets/images/fruit_raspberries.svg
+      title: Raspberries
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

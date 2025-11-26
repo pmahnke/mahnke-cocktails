@@ -1,16 +1,15 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  - title: Orange twist
-    url: /assets/images/twist_orange.svg
-  - title: Sugar
-    url: /assets/images/ingredient-sugar.svg
   ingredient:
-  - title: Cognac
-    url: /assets/images/ingredient-cognac.svg
-  - title: Port
-    url: /assets/images/ingredient-port.svg
-  - title: Red wine
-    url: /assets/images/ingredient-red-wine.svg
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /assets/images/ingredient-port.svg
+      title: Port
+    - url: /assets/images/ingredient-red-wine.svg
+      title: Red wine
+  garnish:
+    - url: /assets/images/spice_cinnamon.svg
+      title: Cinnamon
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

@@ -1,22 +1,21 @@
----
 images:
-  glass:
-  - title: Highball
-    url: /assets/images/glass_highball.svg
-  - title: Tiki
-    url: /assets/images/glass_tiki.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Creme de cassis
-    url: /assets/images/ingredient-creme-de-casis.svg
-  - title: Reposado tequila
-    url: /assets/images/ingredient-reposado-tequila.svg
-  - title: Tequila
-    url: /assets/images/ingredient-tequila.svg
+    - url: /assets/images/ingredient-creme-de-casis.svg
+      title: Creme de cassis
+    - url: /assets/images/ingredient-reposado-tequila.svg
+      title: Reposado tequila
+    - url: /assets/images/ingredient-tequila.svg
+      title: Tequila
   tool:
-  - title: Boston shaker
-    url: /assets/images/tool_boston-shaker.svg
-  - title: Hawthorn strainer
-    url: /assets/images/tool_hawthorn-strainer.svg
+    - url: /assets/images/tool_boston-shaker.svg
+      title: Boston shaker
+    - url: /assets/images/tool_hawthorn-strainer.svg
+      title: Hawthorn strainer
+  glass:
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

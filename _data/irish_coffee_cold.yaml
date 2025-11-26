@@ -1,12 +1,11 @@
----
 images:
-  glass:
-  - title: Coffee
-    url: /assets/images/glass_coffee.svg
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
   ingredient:
-  - title: Coffee liqueur
-    url: /assets/images/ingredient-coffee-liqueur.svg
-  - title: Irish whiskey
-    url: /assets/images/ingredient-irish-whiskey.svg
+    - url: /assets/images/ingredient-coffee-liqueur.svg
+      title: Coffee liqueur
+    - url: /assets/images/ingredient-irish-whiskey.svg
+      title: Irish whiskey
+  glass:
+    - url: /assets/images/spice_coffee.svg
+      title: Coffee
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora

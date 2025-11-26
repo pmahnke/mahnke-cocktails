@@ -4,10 +4,11 @@ author: Anders Erickson
 title: "Mai Tai"
 eras: [modern]
 categories: [tiki]
+iconfile: mai_tai
 permalink: "/recipe/mai_tai/"
 iconfile: mai_tai
 stars: 4.5
-base_spirits: ['Jamaican Rum', 'Rhum Agricole']
+base_spirits: "Jamaican Rum, Rhum Agricole"
 youtube: "gYJsPE1demY"
 description: "A quintessential tiki classic that balances two types of rum with the flavors of orange curaçao, orgeat, and lime."
 excerpt: |
@@ -18,13 +19,13 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand                                 |
 | ------: | ----------------------------------------------- | ------------------------------------- |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")                                    | Appleton 12 year Rare Blend           |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Rhum Agricole [&#9432;](/spirit/rhum_agricole "More Rhum Agricole recipes")                                   | La Favorite Ambre Rhum Agricole Ambre |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Orange Curaçao                                  | Pierre Ferrand                        |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lime Juice                                |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Dark Rum [&#9432;](/spirit/dark_rum "More Dark Rum recipes")                                        | Kōloa Kaua'i                          |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Overproof Rum [&#9432;](/spirit/overproof_rum "More Overproof Rum recipes")                                  | Bacardi 151                           |
+|    1 oz | Jamaican Rum                                    | Appleton 12 year Rare Blend           |
+|    1 oz | Rhum Agricole                                   | La Favorite Ambre Rhum Agricole Ambre |
+|  0.5 oz | Orange Curaçao                                  | Pierre Ferrand                        |
+|    1 oz | Fresh Lime Juice                                |
+|  0.5 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
+|  0.5 oz | Dark Rum                                        | Kōloa Kaua'i                          |
+| 0.25 oz | Overproof Rum                                  | Bacardi 151                           |
 
 ### Notes
 
@@ -33,62 +34,3 @@ excerpt: |
 - Glassware: Tiki, Crushed Ice
 - Garnish: Mint Sprig, Inverted Lime Husk, Cocktail Cherry
 - Special Prep: Add the mint sprig to the glass. Float the dark rum on the drink. Add the inverted lime shell and place the cocktail cherry inside. fill the lime shell with 151 rum and light.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " 0.5 oz Orgeat Syrup",
-  " ",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Open Pour"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Tiki, Crushed Ice"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Mint Sprig, Inverted Lime Husk, Cocktail Cherry"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Add the mint sprig to the glass. Float the dark rum on the drink. Add the inverted lime shell and place the cocktail cherry inside. fill the lime shell with 151 rum and light."
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

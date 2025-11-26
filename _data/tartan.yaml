@@ -1,22 +1,19 @@
----
 images:
-  garnish:
-  - title: Orange twist
-    url: /assets/images/twist_orange.svg
-  glass:
-  - title: Martini
-    url: /assets/images/glass_martini.svg
   ingredient:
-  - title: Amaro
-    url: /assets/images/ingredient-amaro.svg
-  - title: Drambuie
-    url: /assets/images/ingredient-drambuie.svg
-  - title: Scotch
-    url: /assets/images/ingredient-scotch.svg
-  - title: Single malt scotch
-    url: /assets/images/ingredient-single-malt-scotch.svg
+    - url: /assets/images/ingredient-amaro.svg
+      title: Amaro
+    - url: /assets/images/ingredient-drambuie.svg
+      title: Drambuie
+    - url: /assets/images/ingredient-scotch.svg
+      title: Scotch
+    - url: /assets/images/ingredient-single-malt-scotch.svg
+      title: Single malt scotch
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_martini.svg
+      title: Martini
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist

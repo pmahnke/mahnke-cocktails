@@ -1,27 +1,20 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  - title: Lemon slice
-    url: /assets/images/fruit_lemon.svg
-  - title: Orange twist
-    url: /assets/images/twist_orange.svg
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Large
-    url: /assets/images/ice_large.svg
   ingredient:
-  - title: Jamaican rum
-    url: /assets/images/ingredient-jamacian-rum.svg
-  - title: Punsch
-    url: /assets/images/ingredient-swedish-punsch.svg
-  - title: Rye
-    url: /assets/images/ingredient-rye.svg
+    - url: /assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican rum
+    - url: /assets/images/ingredient-swedish-punsch.svg
+      title: Punsch
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large

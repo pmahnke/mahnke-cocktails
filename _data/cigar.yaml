@@ -1,20 +1,17 @@
----
 images:
-  garnish:
-  - title: Cinnamon
-    url: /assets/images/spice_cinnamon.svg
-  glass:
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
   ingredient:
-  - title: Aperol
-    url: /assets/images/ingredient-aperol.svg
-  - title: Scotch
-    url: /assets/images/ingredient-scotch.svg
-  - title: Single malt scotch
-    url: /assets/images/ingredient-single-malt-scotch.svg
+    - url: /assets/images/ingredient-aperol.svg
+      title: Aperol
+    - url: /assets/images/ingredient-scotch.svg
+      title: Scotch
+    - url: /assets/images/ingredient-single-malt-scotch.svg
+      title: Single malt scotch
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/spice_cinnamon.svg
+      title: Cinnamon

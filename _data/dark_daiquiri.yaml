@@ -1,17 +1,16 @@
----
 images:
   cocktail:
-  - title: Dark daiquiri
-    url: /assets/images/cocktail_dark_daiquiri.svg
-  garnish:
-  - title: Lime slice
-    url: /assets/images/slice_lime.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
+    - url: /assets/images/cocktail_dark_daiquiri.svg
+      title: Dark daiquiri
   ingredient:
-  - title: Jamaican rum
-    url: /assets/images/ingredient-jamacian-rum.svg
+    - url: /assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican rum
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/slice_lime.svg
+      title: Lime slice

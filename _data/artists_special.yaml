@@ -1,16 +1,15 @@
----
 images:
   cocktail:
-  - title: Artists special
-    url: /assets/images/cocktail_artists_special.svg
-  glass:
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
+    - url: /assets/images/cocktail_artists_special.svg
+      title: Artists special
   ingredient:
-  - title: Bourbon
-    url: /assets/images/ingredient-bourbon.svg
-  - title: Sherry
-    url: /assets/images/ingredient-sherry.svg
+    - url: /assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /assets/images/ingredient-sherry.svg
+      title: Sherry
   tool:
-  - title: Double strained
-    url: /assets/images/tool_double_strain.svg
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora

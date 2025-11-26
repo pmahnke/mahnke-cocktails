@@ -4,10 +4,11 @@ author: Anders Erickson
 title: "Fancy Cocktail No.1"
 eras: [anders]
 categories: [cocktail]
+iconfile: fancy_cocktail_1
 permalink: "/recipe/fancy_cocktail_1/"
 iconfile: fancy_cocktail_1
 stars: 0
-base_spirits: ['Rosolio', 'Reposado Tequila', 'Manzanilla Sherry']
+base_spirits: "Rosolio, Reposado Tequila, Manzanilla Sherry "
 youtube: "AfbytyV2PdY"
 description: "An elegant, spirit-forward original cocktail that pairs the citrus and floral notes of Rosolio with reposado tequila and dry sherry."
 excerpt: |
@@ -18,9 +19,9 @@ excerpt: |
 
 | Amount | Ingredient        | Brand                      |
 | -----: | ----------------- | -------------------------- |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Rosolio Italicus  | Rosolio di Bergamotto      |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Reposado Tequila [&#9432;](/spirit/reposado_tequila "More Reposado Tequila recipes")  | Casamigos                  |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Manzanilla Sherry [&#9432;](/spirit/manzanilla_sherry "More Manzanilla Sherry recipes") | Lustau Manzanilla Papirusa |
+|   1 oz | Rosolio Italicus  | Rosolio di Bergamotto      |
+|   1 oz | Reposado Tequila  | Casamigos                  |
+|   1 oz | Manzanilla Sherry | Lustau Manzanilla Papirusa |
 
 ### Notes
 
@@ -29,58 +30,3 @@ excerpt: |
 - Glassware: Martini
 - Garnish: Grapefruit zest
 - Special Prep: Express grapefruit oil over cocktail.
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " ",
-  "1 oz Manzanilla Sherry"
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Stirred"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Martini"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Grapefruit zest"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Express grapefruit oil over cocktail."
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

@@ -5,10 +5,11 @@ creator: Paul Harrington
 title: "Jasmine"
 eras: [modern]
 categories: [campari, sour]
+iconfile: jasmine
 permalink: "/recipe/jasmine/"
 iconfile: jasmine
 stars: 3
-base_spirits: ['Gin', 'Campari']
+base_spirits: "Gin, Campari"
 youtube: "b7rg7eshiQU"
 description: "A modern classic from the 1990s, this is a vibrant and bittersweet sour that balances gin and Campari with citrus."
 excerpt: |
@@ -19,10 +20,10 @@ excerpt: |
 
 |  Amount | Ingredient        | Brand     |
 | ------: | ----------------- | --------- |
-|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")               | Beefeater |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Triple Sec [&#9432;](/spirit/triple_sec "More Triple Sec recipes")        | Cointreau |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Campari [&#9432;](/spirit/campari "More Campari recipes")           | Campari   |
+|  1.5 oz | Gin               | Beefeater |
+| 0.75 oz | Fresh Lemon Juice |
+| 0.25 oz | Triple Sec        | Cointreau |
+| 0.25 oz | Campari           | Campari   |
 
 ### Notes
 
@@ -31,59 +32,3 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Lemon Twist
 - Special Prep: Expel lemon oil over the cocktail
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  "0.75 oz Fresh Lemon Juice",
-  " ",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Shaken"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Lemon Twist"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Expel lemon oil over the cocktail"
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    

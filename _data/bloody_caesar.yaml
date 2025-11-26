@@ -1,11 +1,10 @@
----
 images:
-  glass:
-  - title: Highball
-    url: /assets/images/glass_highball.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Vodka
-    url: /assets/images/ingredient-vodka.svg
+    - url: /assets/images/ingredient-vodka.svg
+      title: Vodka
+  glass:
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

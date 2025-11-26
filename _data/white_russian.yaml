@@ -1,13 +1,12 @@
----
 images:
-  glass:
-  - title: Coffee
-    url: /assets/images/glass_coffee.svg
-  - title: Rocks
-    url: /assets/images/glass_rocks.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Vodka
-    url: /assets/images/ingredient-vodka.svg
+    - url: /assets/images/ingredient-vodka.svg
+      title: Vodka
+  glass:
+    - url: /assets/images/spice_coffee.svg
+      title: Coffee
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

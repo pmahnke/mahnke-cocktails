@@ -1,19 +1,16 @@
----
 images:
-  garnish:
-  - title: Cocktail cherry
-    url: /assets/images/twist_cocktail-cherry.svg
-  glass:
-  - title: Double old fashioned
-    url: /assets/images/glass_double-old-fashioned.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Creme de cacao
-    url: /assets/images/ingredient-creme-de-cacao.svg
-  - title: White creme de cacao
-    url: /assets/images/ingredient-cacao.svg
+    - url: /assets/images/ingredient-creme-de-cacao.svg
+      title: Creme de cacao
   tool:
-  - title: Grater
-    url: /assets/images/tool_grater.svg
+    - url: /assets/images/tool_grater.svg
+      title: Grater
+  glass:
+    - url: /assets/images/glass_double-old-fashioned.svg
+      title: Double old fashioned
+  garnish:
+    - url: /assets/images/twist_cocktail-cherry.svg
+      title: Cocktail cherry
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

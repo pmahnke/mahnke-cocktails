@@ -1,16 +1,15 @@
----
 images:
-  garnish:
-  - title: Orange twist
-    url: /assets/images/twist_orange.svg
-  glass:
-  - title: Coupe
-    url: /assets/images/glass_coupe.svg
   ingredient:
-  - title: Absinthe
-    url: /assets/images/ingredient-absinthe.svg
+    - url: /assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /assets/images/ingredient-benedictine.svg
+      title: Benedictine
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange twist

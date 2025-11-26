@@ -1,11 +1,10 @@
----
 images:
-  garnish:
-  - title: Olives
-    url: /assets/images/fruit_olives.svg
-  ice:
-  - title: Cubes
-    url: /assets/images/ice_cubes.svg
   ingredient:
-  - title: Vodka
-    url: /assets/images/ingredient-vodka.svg
+    - url: /assets/images/ingredient-vodka.svg
+      title: Vodka
+  garnish:
+    - url: /assets/images/fruit_olives.svg
+      title: Olives
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

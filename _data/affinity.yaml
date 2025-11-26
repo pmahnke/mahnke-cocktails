@@ -1,18 +1,15 @@
----
 images:
-  garnish:
-  - title: Lemon twist
-    url: /assets/images/twist_lemon.svg
-  glass:
-  - title: Nick and nora
-    url: /assets/images/glass_nick-and-nora.svg
   ingredient:
-  - title: Scotch
-    url: /assets/images/ingredient-scotch.svg
-  - title: Sweet vermouth
-    url: /assets/images/ingredient-sweet-vermouth.svg
+    - url: /assets/images/ingredient-scotch.svg
+      title: Scotch
+    - url: /assets/images/ingredient-sweet-vermouth.svg
+      title: Sweet vermouth
   tool:
-  - title: Mixing glass
-    url: /assets/images/tool_mixing-glass.svg
-  - title: Stirred
-    url: /assets/images/tool_stirred.svg
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist

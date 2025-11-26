@@ -4,10 +4,11 @@ author: Anders Erickson
 title: "Gin Old Fashioned"
 categories: [cocktail]
 eras: [classic]
+iconfile: gin_old_fashioned
 permalink: "/recipe/gin_old_fashioned/"
 iconfile: gin_old_fashioned
-stars: 2
-base_spirits: ['Old Tom Gin']
+stars: 0
+base_spirits: "Old Tom Gin"
 youtube: "0rnil0_xFnM"
 description: "A classic Old Fashioned preparation that uses the slightly sweeter Old Tom gin as its base instead of whiskey."
 excerpt: |
@@ -18,10 +19,10 @@ excerpt: |
 
 |   Amount | Ingredient                                                | Brand         |
 | -------: | --------------------------------------------------------- | ------------- |
-|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Old Tom Gin [&#9432;](/spirit/old_tom_gin "More Old Tom Gin recipes")                                               | Scofflaw      |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
-| <span class="onex active">3 dashes</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>| Orange Bitters                                            | Regan’s No. 6 |
-|  <span class="onex active">1 swathes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> swathes</span> <span class="twox">2 swathes</span> <span class="threex">3 swathes</span>| Lemon                                                     |
+|     2 oz | Old Tom Gin                                               | Scofflaw      |
+|  0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| 3 dashes | Orange Bitters                                            | Regan’s No. 6 |
+|  1 swath | Lemon                                                     |
 
 ### Notes
 
@@ -32,67 +33,3 @@ excerpt: |
   - Large Ice Cube
 - Garnish: Cocktail cherry
 - Special Prep: Express lemon oil over the cocktail
-
-    
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "author": {
-    "@type": "Person",
-    "name": "{{ page.author }}"
-    },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
-  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
-  "recipeIngredient": [
-  " ",
-  " 0.25 oz Semi-Rich Simple Syrup",
-  " ",
-  " "
-    ],
-  "name": "{{ page.title }}",
-  "recipeInstructions": [
-    {
-      "@type": "HowToStep",
-      "text": "- Method: Stirred"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Glassware:"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - Low Ball"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "  - Large Ice Cube"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Garnish: Cocktail cherry"
-    },
-    {
-      "@type": "HowToStep",
-      "text": "- Special Prep: Express lemon oil over the cocktail"
-    }
-    ],
-  "recipeYield": "1 cocktail",
-  "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
-  "recipeCuisine": "global",
-  "prepTime": "PT20M",
-  "cookTime": "PT15S",
-  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
-}
-</script>
-
-    
