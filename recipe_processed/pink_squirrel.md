@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Pink Squirrel"
 eras: [modern]
 categories: [after_dinner, ice_cream]
-iconfile: pink_squirrel
 permalink: "/recipe/pink_squirrel/"
 iconfile: pink_squirrel
 stars: 0
-base_spirits: "Crème de Noyaux, White Crème de Cacao "
+base_spirits: ['Crème de Noyaux', 'White Crème de Cacao']
 youtube: "kRPWDOCVByk&t=164s"
 description: "A creamy, sweet after-dinner drink and Midwest classic, this cocktail gets its unique flavor and pink color from crème de noyaux."
 excerpt: |
@@ -19,11 +18,11 @@ excerpt: |
 
 |   Amount | Ingredient           | Brand         |
 | -------: | -------------------- | ------------- |
-|   1.5 oz | Crème de Noyaux      | Tempus Fugit  |
-|   1.5 oz | White Crème de Cacao | Marie Brizard |
-|     1 oz | Heavy Cream          |
-| 3 scoops | Vanilla Ice Cream    |
-| 0.25 cup | Crushed Ice          |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Crème de Noyaux [&#9432;](/spirit/crème_de_noyaux "More Crème de Noyaux recipes")      | Tempus Fugit  |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| White Crème de Cacao [&#9432;](/spirit/white_crème_de_cacao "More White Crème de Cacao recipes") | Marie Brizard |
+|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Heavy Cream          |
+| <span class="onex active">3 scoops </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> scoops </span> <span class="twox">6 scoops </span> <span class="threex">9 scoops </span>| Vanilla Ice Cream    |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> cup </span>| Crushed Ice          |
 
 ### Notes
 
@@ -34,4 +33,73 @@ excerpt: |
 - Special Prep:
   - Blend cocktail with a stick blender in the shaking tin.
   - Pour cocktail into glass.
-  - Top With [Chartreuse Whipped Cream]({%link recipe/chartreuse_whipped_cream.md%}).
+  - Top With [Chartreuse Whipped Cream]({%link recipe_processed/chartreuse_whipped_cream.md%}).
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  "1.5 oz White Crème de Cacao",
+  " ",
+  " ",
+  " "
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Blended"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the shaking tin"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Large Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Grated Nutmeg and Cocktail Cherry"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Blend cocktail with a stick blender in the shaking tin."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Pour cocktail into glass."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Top With [Chartreuse Whipped Cream]({%link recipe_processed/chartreuse_whipped_cream.md%})."
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

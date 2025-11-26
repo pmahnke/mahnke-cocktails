@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Corpse Reviver #Blue"
 categories: [sour, corpse_reviver]
 eras: [modern]
-iconfile: corpse_reviver_blue
 permalink: "/recipe/corpse_reviver_blue/"
 iconfile: corpse_reviver_blue
 stars: 0
-base_spirits: "Gin, Cocchi Americano"
+base_spirits: ['Gin', 'Cocchi Americano']
 youtube: "rMCsrbidAJ4"
 description: "A modern, visually striking riff on the Corpse Reviver No. 2 that gets its color from blue curaçao."
 excerpt: |
@@ -19,11 +18,11 @@ excerpt: |
 
 |  Amount | Ingredient        | Brand            |
 | ------: | ----------------- | ---------------- |
-| 0.75 oz | Gin               | The Botanist     |
-| 0.75 oz | Cocchi Americano  | Cocchi Americano |
-| 0.75 oz | Blue Curaçao      | Giffard          |
-| 0.75 oz | Fresh Lemon Juice |
-| 1 rinse | Absinthe          | St. George Verte |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")               | The Botanist     |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Cocchi Americano [&#9432;](/spirit/cocchi_americano "More Cocchi Americano recipes")  | Cocchi Americano |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Blue Curaçao      | Giffard          |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice |
+| <span class="onex active">1 rinse </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> rinse </span> <span class="twox">2 rinse </span> <span class="threex">3 rinse </span>| Absinthe [&#9432;](/spirit/absinthe "More Absinthe recipes")          | St. George Verte |
 
 ### Notes
 
@@ -32,3 +31,60 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Cocktail Cherry optional
 - Special Prep: Add the cherry to the glass before straining the cocktail
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  " ",
+  "0.75 oz Fresh Lemon Juice",
+  " "
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Nick & Nora"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Cocktail Cherry optional"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Add the cherry to the glass before straining the cocktail"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

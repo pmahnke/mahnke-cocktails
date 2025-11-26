@@ -2,11 +2,10 @@
 layout: recipe
 title: "Hibiscus Syrup"
 categories: [syrup]
-iconfile: hibiscus_syrup
 permalink: "/recipe/hibiscus_syrup/"
 iconfile: hibiscus_syrup
-stars: 5
-base_spirits: "Cinnamon Sticks, Cloves, Dried Hibiscus"
+stars: 0
+base_spirits: ['Cinnamon Sticks', 'Cloves', 'Dried Hibiscus']
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
   Original recipe by Shannon Mustipher, made from dried hibiscus flowers, which are steeped in a simple sugar syrup to create a vibrant red liquid.
@@ -16,10 +15,10 @@ excerpt: |
 
 |   Amount | Ingredient                                                |
 | -------: | --------------------------------------------------------- |
-| 2 sticks | Cinnamon                                                  |
-|  3 whole | Cloves                                                    |
-| 0.25 cup | Dried Hibiscus                                            |
-|   2 cups | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| <span class="onex active">2 sticks </span> <span class="onehalfx">3 sticks </span> <span class="twox">4 sticks </span> <span class="threex">6 sticks </span>| Cinnamon                                                  |
+|  <span class="onex active">3 whole </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">6 whole </span> <span class="threex">9 whole </span>| Cloves                                                    |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> cup </span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> cup </span>| Dried Hibiscus                                            |
+|   <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Method
 
@@ -28,3 +27,40 @@ excerpt: |
 3. Add 2 cups simple syrup and simmer on low for 20 minutes.
 4. Remove from heat, let sit for 1 hour.
 5. Once cooled, filter off solids. Store sealed in fridge for up to 2 weeks.
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  " ",
+  "2 cups Semi-Rich Simple Syrup"
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

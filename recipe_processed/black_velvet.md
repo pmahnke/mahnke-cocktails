@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Black Velvet"
 categories: [beer, champagne, cocktail]
 eras: [classic]
-iconfile: black_velvet
 permalink: "/recipe/black_velvet/"
 iconfile: black_velvet
-stars: 0
-base_spirits: "Champagne, Stout "
+stars: 3
+base_spirits: ['Champagne', 'Stout']
 youtube: "IAaiRENeyvc&t=639s"
 description: "A classic layered drink that marries the crisp bubbles of Champagne with the smooth, roasty character of Guinness stout."
 excerpt: |
@@ -19,8 +18,8 @@ excerpt: |
 
 | Amount | Ingredient     | Brand            |
 | -----: | -------------- | ---------------- |
-|   4 oz | Stout          | Guinness Draught |
-|   4 oz | Sparkling Wine |
+|   <span class="onex active">4 oz  / 100 ml</span> <span class="onehalfx">6 oz  / 150 ml</span> <span class="twox">8 oz  / 200 ml</span> <span class="threex">12 oz  / 300 ml</span>| Stout [&#9432;](/spirit/stout "More Stout recipes")          | Guinness Draught |
+|   <span class="onex active">4 oz  / 100 ml</span> <span class="onehalfx">6 oz  / 150 ml</span> <span class="twox">8 oz  / 200 ml</span> <span class="threex">12 oz  / 300 ml</span>| Sparkling Wine |
 
 ### Notes
 
@@ -29,3 +28,57 @@ excerpt: |
 - Glassware: Flared glass
 - Garnish:
 - Special Prep: Pour in the Guinness then float in the champagne
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  "4 oz Sparkling Wine"
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Flared glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Pour in the Guinness then float in the champagne"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

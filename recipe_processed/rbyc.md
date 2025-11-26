@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Royal Bermuda Yacht Club"
 eras: [modern]
 categories: [sour]
-iconfile: rbyc
 permalink: "/recipe/royal_bermuda_yacht_club/"
 iconfile: rbyc
 stars: 4
-base_spirits: "Demerara Rum, Light Rum"
+base_spirits: ['Demerara Rum', 'Light Rum']
 youtube: "y3s1xmGfLkw"
 description: "A modern sour from the 1940s, this cocktail features a sophisticated blend of rum, falernum, and Cointreau."
 excerpt: |
@@ -19,11 +18,11 @@ excerpt: |
 
 |  Amount | Ingredient       | Brand                 |
 | ------: | ---------------- | --------------------- |
-| 0.75 oz | Demerara Rum     | Hamilton 86           |
-| 0.75 oz | Light Rum        | The Real McCoy 3 Year |
-|  0.5 oz | Falernum         | John D. Taylor’s      |
-|  0.5 oz | Orange Curaçao   | Marie Brizard         |
-| 0.75 oz | Fresh Lime Juice |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Demerara Rum [&#9432;](/spirit/demerara_rum "More Demerara Rum recipes")     | Hamilton 86           |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")        | The Real McCoy 3 Year |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Falernum         | John D. Taylor’s      |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Orange Curaçao   | Marie Brizard         |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lime Juice |
 
 ### Notes
 
@@ -32,3 +31,60 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Dehydrated lime wheel
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  " ",
+  " ",
+  "0.75 oz Fresh Lime Juice"
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Nick & Nora"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Dehydrated lime wheel"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: None"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

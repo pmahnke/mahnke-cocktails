@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Rusty Nail"
 categories: [cocktail]
 eras: [modern]
-iconfile: rusty_nail
 permalink: "/recipe/rusty_nail/"
 iconfile: rusty_nail
 stars: 2
-base_spirits: "Scotch, Drambuie"
+base_spirits: ['Scotch', 'Drambuie']
 youtube: "nTyrz70_OPA"
 description: "A classic and simple two-part modern cocktail that combines the smoky notes of Scotch with the sweet and herbal character of Drambuie."
 excerpt: |
@@ -19,8 +18,8 @@ excerpt: |
 
 | Amount | Ingredient      | Brand           |
 | -----: | --------------- | --------------- |
-|   2 oz | Scotch, Blended | Monkey Shoulder |
-|   1 oz | Drambuie        | Drambuie        |
+|   <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Scotch, Blended | Monkey Shoulder |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Drambuie [&#9432;](/spirit/drambuie "More Drambuie recipes")        | Drambuie        |
 
 ### Notes
 
@@ -29,3 +28,57 @@ excerpt: |
 - Glassware: Low BallLarge Ice cube
 - Garnish: None
 - Special Prep: Express lemon oil into cocktail
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  "2 oz Scotch, Blended",
+  " "
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Stirred"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Julep Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Low BallLarge Ice cube"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: None"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Express lemon oil into cocktail"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

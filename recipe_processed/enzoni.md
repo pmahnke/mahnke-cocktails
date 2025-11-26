@@ -5,11 +5,10 @@ creator: Vincenzo Errico
 title: "Enzoni"
 categories: [campari, cocktail]
 eras: [modern]
-iconfile: enzoni
 permalink: "/recipe/enzoni/"
 iconfile: enzoni
-stars: 0
-base_spirits: "Gin, Campari"
+stars: 4
+base_spirits: ['Gin', 'Campari']
 youtube: "ipHnOhkGWug"
 description: "A refreshing modern classic from 2003 that twists the Negroni formula by muddling fresh green grapes with gin and Campari."
 excerpt: |
@@ -20,11 +19,11 @@ excerpt: |
 
 |  Amount | Ingredient                                                | Brand    |
 | ------: | --------------------------------------------------------- | -------- |
-| 5 whole | Grapes                                                    |
-|    1 oz | Gin                                                       | Botanist |
-|    1 oz | Campari                                                   | Campari  |
-| 0.75 oz | Fresh Lemon Juice                                         |
-|  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| <span class="onex active">5 whole </span> <span class="onehalfx">7 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">10 whole </span> <span class="threex">15 whole </span>| Grapes                                                    |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")                                                       | Botanist |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Campari [&#9432;](/spirit/campari "More Campari recipes")                                                   | Campari  |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice                                         |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 
@@ -35,3 +34,68 @@ excerpt: |
   - Large Ice Cube
 - Garnish: Grape
 - Special Prep: Muddle the grapes in the cheater tin. Put the other ingredients in the large tin, add ice, and shake.
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  " ",
+  " ",
+  " 0.5 oz Semi-Rich Simple Syrup"
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Low Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Large Ice Cube"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Grape"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Muddle the grapes in the cheater tin. Put the other ingredients in the large tin, add ice, and shake."
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Shamrock"
 categories: [cocktail]
 eras: [classic]
-iconfile: shamrock
 permalink: "/recipe/shamrock/"
 iconfile: shamrock
 stars: 0
-base_spirits: "Irish Whiskey, Green Chartreuse, Crème de Menthe"
+base_spirits: ['Irish Whiskey', 'Green Chartreuse', 'Crème de Menthe']
 youtube: "3a1nwtD8yyE"
 description: "A classic cocktail from the early 20th century that combines Irish whiskey with the herbal flavors of Green Chartreuse and crème de menthe."
 excerpt: |
@@ -20,10 +19,10 @@ excerpt: |
 
 |     Amount | Ingredient       | Brand                            |
 | ---------: | ---------------- | -------------------------------- |
-|    1.5 oz. | Irish Whiskey    | Powers Gold Label                |
-|    1.5 oz. | Blanc Vermouth   | Dolin Blanc Vermouth de Chambéry |
-|    0.25 oz | Green Chartreuse | Green Chartreuse                 |
-| 1 barspoon | Crème de Menthe  | Tempus Fugit                     |
+|    <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz.  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz.  / 56 ml</span> <span class="twox">3 oz.  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz.  / 113 ml</span>| Irish Whiskey [&#9432;](/spirit/irish_whiskey "More Irish Whiskey recipes")    | Powers Gold Label                |
+|    <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz.  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz.  / 56 ml</span> <span class="twox">3 oz.  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz.  / 113 ml</span>| Blanc Vermouth [&#9432;](/spirit/blanc_vermouth "More Blanc Vermouth recipes")   | Dolin Blanc Vermouth de Chambéry |
+|    <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Green Chartreuse [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes") | Green Chartreuse                 |
+| <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Crème de Menthe [&#9432;](/spirit/crème_de_menthe "More Crème de Menthe recipes")  | Tempus Fugit                     |
 
 ### Notes
 
@@ -32,3 +31,59 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Mint leaves
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  " 0.25 oz Green Chartreuse",
+  " "
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Stirred"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Julep Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Nick & Nora"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Mint leaves"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: None"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

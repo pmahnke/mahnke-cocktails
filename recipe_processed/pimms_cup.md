@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Pimm's Cup"
 categories: [highball]
 eras: [classic]
-iconfile: pimms_cup
 permalink: "/recipe/pimms_cup/"
 iconfile: pimms_cup
 stars: 0
-base_spirits: "Pimm's"
+base_spirits: ['Pimms']
 youtube: "CGq0rFP_Jl0"
 description: "A classic and quintessentially British highball, this is a refreshing drink featuring Pimm's No. 1, a gin-based liqueur, mixed with lemonade or ginger ale and fresh fruit."
 excerpt: |
@@ -19,9 +18,9 @@ excerpt: |
 
 |    Amount | Ingredient        | Brand                 |
 | --------: | ----------------- | --------------------- |
-|      2 oz | Pimm's            | No.1 Pimm's No.1      |
-|   0.25 oz | Fresh Lemon Juice |
-| 3 to 4 oz | Ginger Ale        | Fever Tree Ginger Ale |
+|      <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Pimm's            | No.1 Pimm's No.1      |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Fresh Lemon Juice |
+| <span class="onex active">3 to 4 oz  / 75 to 100 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 6 oz  / 113 to 150 ml</span> <span class="twox">6 to 8 oz  / 150 to 200 ml</span> <span class="threex">9 to 12 oz  / 225 to 300 ml</span>| Ginger Ale        | Fever Tree Ginger Ale |
 
 ### Notes
 
@@ -32,3 +31,66 @@ excerpt: |
   - On the Rocks
 - Garnish: Cucumber strip cut up, strawberries, and a sprig of mint
 - Special Prep: Pour ginger ale and shaken Pimm's and lemon mixture into glass together.
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  "0.25 oz Fresh Lemon Juice",
+  " "
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Single Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - High Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - On the Rocks"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Cucumber strip cut up, strawberries, and a sprig of mint"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Pour ginger ale and shaken Pimm's and lemon mixture into glass together."
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

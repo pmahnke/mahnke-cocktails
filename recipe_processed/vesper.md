@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Vesper"
 eras: [modern]
 categories: [martini]
-iconfile: vesper
 permalink: "/recipe/vesper/"
 iconfile: vesper
-stars: 0
-base_spirits: "Gin, Vodka, Cocchi Americano"
+stars: 3
+base_spirits: ['Gin', 'Vodka', 'Cocchi Americano']
 youtube: "VBSjE-P_C58"
 description: "A classic Martini variation invented by Ian Fleming for James Bond, featuring a potent combination of both gin and vodka with Cocchi Americano."
 excerpt: |
@@ -19,9 +18,9 @@ excerpt: |
 
 | Amount | Ingredient       | Brand                            |
 | -----: | ---------------- | -------------------------------- |
-| 1.5 oz | Gin              | Botanist                         |
-|   1 oz | Vodka            | Union Horse Distilling Co. Rider |
-| 0.5 oz | Cocchi Americano | Cocchi Americano                 |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")              | Botanist                         |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Vodka [&#9432;](/spirit/vodka "More Vodka recipes")            | Union Horse Distilling Co. Rider |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Cocchi Americano [&#9432;](/spirit/cocchi_americano "More Cocchi Americano recipes") | Cocchi Americano                 |
 
 ### Notes
 
@@ -30,3 +29,58 @@ excerpt: |
 - Glassware: Martini
 - Garnish: Lemon Twist
 - Special Prep: Lillet Blanc may be substituted for Cocchi Americano.
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  "0.5 oz Cocchi Americano"
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Stirred"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Julep Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Martini"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Lemon Twist"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Lillet Blanc may be substituted for Cocchi Americano."
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

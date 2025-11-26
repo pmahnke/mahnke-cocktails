@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Coffee Negroni"
 categories: [after_dinner, campari, coffee]
 eras: [modern]
-iconfile: coffee_negroni
 permalink: "/recipe/coffee_negroni/"
 iconfile: coffee_negroni
 stars: 0
-base_spirits: "Gin, Coffee Liqueur, Campari"
+base_spirits: ['Gin', 'Coffee Liqueur', 'Campari']
 youtube: "41iPKwfTE9E"
 description: "A modern, bittersweet after-dinner cocktail that adds the rich flavor of coffee liqueur to the classic Negroni formula."
 excerpt: |
@@ -19,10 +18,10 @@ excerpt: |
 
 |  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
-|    1 oz | Gin            | Beefeater                 |
-| 0.75 oz | Coffee Liqueur | Mr. Black Cold Brew       |
-| 0.75 oz | Campari        | Campari                   |
-| 0.25 oz | Sweet Vermouth | Cocchi Vermouth di Torino |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")            | Beefeater                 |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Coffee Liqueur [&#9432;](/spirit/coffee_liqueur "More Coffee Liqueur recipes") | Mr. Black Cold Brew       |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Campari [&#9432;](/spirit/campari "More Campari recipes")        | Campari                   |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes") | Cocchi Vermouth di Torino |
 
 ### Notes
 
@@ -33,3 +32,67 @@ excerpt: |
   - Large Ice Cube
 - Garnish: None
 - Special Prep: Expressed lemon oil
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  "0.75 oz Coffee Liqueur",
+  " ",
+  "0.25 oz Sweet Vermouth"
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Stirred"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Julep Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Low Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Large Ice Cube"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: None"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Expressed lemon oil"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

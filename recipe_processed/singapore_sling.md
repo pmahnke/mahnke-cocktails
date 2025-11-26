@@ -5,11 +5,10 @@ type: multirecipe
 title: "Singapore Sling"
 eras: [modern]
 categories: [tiki]
-iconfile: singapore_sling
 permalink: "/recipe/singapore_sling/"
 iconfile: singapore_sling
 stars: 4
-base_spirits: "Gin, Cherry Liqueur, Bénédictine"
+base_spirits: ['Gin', 'Cherry Liqueur', 'Bénédictine']
 youtube: "EjRcajuUkJk"
 youtube_embed: "https://www.youtube.com/embed/EjRcajuUkJk?si=EMdqje_4KECcUOJA"
 description: "A classic and complex long drink from Singapore, developed in 1915, featuring a gin base with cherry liqueur and Bénédictine."
@@ -25,14 +24,14 @@ excerpt: |
 
 |  Amount | Ingredient                                      | Brand                      |
 | ------: | ----------------------------------------------- | -------------------------- |
-|  1.5 oz | Gin                                             | Tanglin Singapore          |
-| 0.75 oz | Cherry Liqueur                                  | Cherry Heering             |
-| 0.25 oz | Bénédictine                                     | Bénédictine DOM            |
-| 0.25 oz | Triple Sec                                      | Luxardo Triplum            |
-|    1 oz | Pineapple Juice                                 |                            |
-| 0.75 oz | Fresh Lime Juice                                |                            |
-| 0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |                            |
-|  1 dash | Bitters                                         | Angostura Aromatic Bitters |
+|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")                                             | Tanglin Singapore          |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Cherry Liqueur [&#9432;](/spirit/cherry_liqueur "More Cherry Liqueur recipes")                                  | Cherry Heering             |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Bénédictine [&#9432;](/spirit/bénédictine "More Bénédictine recipes")                                     | Bénédictine DOM            |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Triple Sec [&#9432;](/spirit/triple_sec "More Triple Sec recipes")                                      | Luxardo Triplum            |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Pineapple Juice                                 |                            |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lime Juice                                |                            |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |                            |
+|  <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters                                         | Angostura Aromatic Bitters |
 
 ### Notes
 
@@ -53,12 +52,12 @@ excerpt: |
 
 |         |                   |                            |
 | ------: | ----------------- | -------------------------- |
-|    1 oz | Navy Strength Gin | Tanglin Black Powder       |
-|    1 oz | Cherry Liqueur    | Cherry Heering             |
-| 0.25 oz | Bénédictine       | Bénédictine DOM            |
-|    1 oz | Fresh Lime Juice  |                            |
-|  1 dash | Bitters           | Angostura Aromatic Bitters |
-|    1 oz | Soda Water        | Topo Chico                 |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Navy Strength Gin [&#9432;](/spirit/navy_strength_gin "More Navy Strength Gin recipes") | Tanglin Black Powder       |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Cherry Liqueur [&#9432;](/spirit/cherry_liqueur "More Cherry Liqueur recipes")    | Cherry Heering             |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Bénédictine [&#9432;](/spirit/bénédictine "More Bénédictine recipes")       | Bénédictine DOM            |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lime Juice  |                            |
+|  <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters           | Angostura Aromatic Bitters |
+|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Soda Water        | Topo Chico                 |
 
 ### Notes
 
@@ -71,3 +70,71 @@ excerpt: |
 - Special Prep: Strain cocktail into the glass and top with soda water.
 
 </div>
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  "0.25 oz Grenadine",
+  " "
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - High Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Large Ice Spear"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Pineapple wedge, pineapple fronds and an umbrella"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: None"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

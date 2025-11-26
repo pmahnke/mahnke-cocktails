@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Paper Plane"
 categories: [sour]
 eras: [modern]
-iconfile: paper_plane
 permalink: "/recipe/paper_plane/"
 iconfile: paper_plane
-stars: 5
-base_spirits: "Bourbon, Light Amaro, Aperol"
+stars: 4.5
+base_spirits: ['Bourbon', 'Light Amaro', 'Aperol']
 youtube: "yu4JNOvec1k&t=6s"
 description: "A modern classic and a variation on the Last Word, this is a perfectly balanced sour with equal parts bourbon, Aperol, Amaro Nonino, and lemon."
 excerpt: |
@@ -19,10 +18,10 @@ excerpt: |
 
 |  Amount | Ingredient        | Brand              |
 | ------: | ----------------- | ------------------ |
-| 0.75 oz | Bourbon           | Old Grandad Bonded |
-| 0.75 oz | Light Amaro       | Amaro Nonino       |
-| 0.75 oz | Aperol            | Aperol             |
-| 0.75 oz | Fresh Lemon Juice |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Bourbon [&#9432;](/spirit/bourbon "More Bourbon recipes")           | Old Grandad Bonded |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Light Amaro [&#9432;](/spirit/light_amaro "More Light Amaro recipes")       | Amaro Nonino       |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Aperol [&#9432;](/spirit/aperol "More Aperol recipes")            | Aperol             |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice |
 
 ### Notes
 
@@ -31,3 +30,59 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Small paper plane
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  " ",
+  "0.75 oz Fresh Lemon Juice"
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Nick & Nora"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Small paper plane"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: None"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

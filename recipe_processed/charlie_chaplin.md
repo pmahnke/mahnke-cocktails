@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Charlie Chaplin"
 categories: [sour]
 eras: [prohibition]
-iconfile: charlie_chaplin
 permalink: "/recipe/charlie_chaplin/"
 iconfile: charlie_chaplin
-stars: 0
-base_spirits: "Sloe Gin, Apricot Liqueur"
+stars: 4
+base_spirits: ['Sloe Gin', 'Apricot Liqueur']
 youtube: "VqVJ10en-Uc"
 description: "A pre-Prohibition sour named for the silent film star, featuring a simple and fruity combination of sloe gin and apricot liqueur."
 excerpt: |
@@ -19,9 +18,9 @@ excerpt: |
 
 | Amount | Ingredient       | Brand                         |
 | -----: | ---------------- | ----------------------------- |
-|   1 oz | Sloe Gin         | Plymouth                      |
-|   1 oz | Apricot Liqueur  | Giffard Abricot du Roussillon |
-|   1 oz | Fresh Lime Juice |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Sloe Gin [&#9432;](/spirit/sloe_gin "More Sloe Gin recipes")         | Plymouth                      |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Apricot Liqueur [&#9432;](/spirit/apricot_liqueur "More Apricot Liqueur recipes")  | Giffard Abricot du Roussillon |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lime Juice |
 
 ### Notes
 
@@ -30,3 +29,58 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: Dehydrated lime wheel
 - Special Prep: None
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  "1 oz Fresh Lime Juice"
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Nick & Nora"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Dehydrated lime wheel"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: None"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

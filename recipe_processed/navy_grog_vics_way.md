@@ -5,11 +5,10 @@ creator: Trader Vic
 title: "Navy Grog: Trader Vic's Way"
 categories: [tiki]
 eras: [modern]
-iconfile: navy_grog_vics_way
 permalink: "/recipe/navy_grog_vics_way/"
 iconfile: navy_grog_vics_way
 stars: 0
-base_spirits: "Demerara Rum, Jamaican Rum, White Rum"
+base_spirits: ['Demerara Rum', 'Jamaican Rum', 'White Rum']
 youtube: "I3jeItKyZCs"
 description: "A variant of the classic Tiki cocktail that substitutes honey syrup and soda water with pimento dram."
 excerpt: |
@@ -20,13 +19,13 @@ excerpt: |
 
 |  Amount | Ingredient                                               | Brand                              |
 | ------: | -------------------------------------------------------- | ---------------------------------- |
-| 0.75 oz | Demerara Rum                                             | Hamilton 86                        |
-| 0.75 oz | Jamaican Rum                                             | Appleton Estate 12 Year Rare Casks |
-| 0.75 oz | White Rum                                                | Chairman’s Reserve                 |
-| 0.25 oz | Allspice Dram                                            | St. Elizabeth                      |
-|  0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
-| 0.75 oz | Fresh Lime Juice                                         |
-| 0.75 oz | White Grapefruit Juice                                   |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Demerara Rum [&#9432;](/spirit/demerara_rum "More Demerara Rum recipes")                                             | Hamilton 86                        |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")                                             | Appleton Estate 12 Year Rare Casks |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                                | Chairman’s Reserve                 |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Allspice Dram [&#9432;](/spirit/allspice_dram "More Allspice Dram recipes")                                            | St. Elizabeth                      |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lime Juice                                         |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| White Grapefruit Juice                                   |
 
 ### Notes
 
@@ -35,3 +34,62 @@ excerpt: |
 - Glassware: Low Ball
 - Garnish: Lime shell, mint sprig, and rock candy stick
 - Special Prep: Insert the rock candy stick in the glass to mimic the ice cone of Don the Beachcomber's Navy Grog.
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  " ",
+  " ",
+  " 0.5 oz Rich Demerara Syrup",
+  " ",
+  " "
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Blended"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Open Pour"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Low Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Lime shell, mint sprig, and rock candy stick"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Insert the rock candy stick in the glass to mimic the ice cone of Don the Beachcomber's Navy Grog."
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

@@ -4,11 +4,10 @@ author: Leandro DiMonriva
 title: "East India Cocktail"
 eras: [classic]
 categories: [sour]
-iconfile: east_india_cocktail
 permalink: "/recipe/east_india_cocktail/"
 iconfile: east_india_cocktail
 stars: 4
-base_spirits: "Cognac, Maraschino Liqueur"
+base_spirits: ['Cognac', 'Maraschino Liqueur']
 youtube: "wiDoRYL4V9g"
 description: "A classic sour from the 1880s that features cognac, pineapple, and maraschino liqueur, with ingredients indicative of the East India Trading Company's imports."
 excerpt: |
@@ -19,11 +18,11 @@ excerpt: |
 
 |   Amount | Ingredient         | Brand                      |
 | -------: | ------------------ | -------------------------- |
-|   1.5 oz | Cognac             | Pierre Ferrand 1840        |
-|  0.75 oz | Maraschino Liqueur | Luxardo                    |
-|  0.75 oz | Fresh Lemon Juice  |
-|  0.75 oz | Pineapple Juice    |
-| 3 dashes | Bitters            | Angostura Aromatic Bitters |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")             | Pierre Ferrand 1840        |
+|  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Maraschino Liqueur [&#9432;](/spirit/maraschino_liqueur "More Maraschino Liqueur recipes") | Luxardo                    |
+|  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice  |
+|  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Pineapple Juice    |
+| <span class="onex active">3 dashes</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>| Bitters            | Angostura Aromatic Bitters |
 
 ### Notes
 
@@ -32,3 +31,60 @@ excerpt: |
 - Glassware: Coupe
 - Garnish: Lemon Twist
 - Special Prep: Expressed lemon oil
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " 0.75 oz Maraschino Liqueur",
+  " ",
+  " ",
+  " "
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Shaken"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Double Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Coupe"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Lemon Twist"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Expressed lemon oil"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

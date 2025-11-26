@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Pink Gin"
 categories: [cocktail]
 eras: [classic]
-iconfile: pink_gin
 permalink: "/recipe/pink_gin/"
 iconfile: pink_gin
 stars: 0
-base_spirits: "Plymouth Gin, Angostura Aromatic Bitters"
+base_spirits: ['Plymouth Gin', 'Angostura Aromatic Bitters']
 youtube: "PLi_quAjz8g"
 description: "A classic and simple naval cocktail, originally created by adding a few dashes of Angostura bitters to Plymouth gin."
 excerpt: |
@@ -21,8 +20,8 @@ excerpt: |
 
 |   Amount | Ingredient   | Brand                      |
 | -------: | ------------ | -------------------------- |
-|     2 oz | Plymouth Gin | Plymouth Gin               |
-| 4 dashes | Bitters      | Angostura Aromatic Bitters |
+|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Plymouth Gin [&#9432;](/spirit/plymouth_gin "More Plymouth Gin recipes") | Plymouth Gin               |
+| <span class="onex active">4 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>| Bitters      | Angostura Aromatic Bitters |
 
 ### Notes
 
@@ -31,3 +30,57 @@ excerpt: |
 - Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: Expressed lemon oil
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  "2 oz Plymouth Gin",
+  " "
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Stirred"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Julep Strain"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Nick & Nora"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: None"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Expressed lemon oil"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

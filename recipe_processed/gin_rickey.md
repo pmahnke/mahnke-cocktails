@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Gin Rickey"
 categories: [highball]
 eras: [classic]
-iconfile: gin_rickey
 permalink: "/recipe/gin_rickey/"
 iconfile: gin_rickey
 stars: 0
-base_spirits: "Gin"
+base_spirits: ['Gin']
 youtube: "vOM5wbvegzo"
 description: "A classic and refreshingly tart highball from the late 19th century, featuring gin, fresh lime, and carbonated water with no added sugar."
 excerpt: |
@@ -23,9 +22,9 @@ excerpt: |
 
 | Amount | Ingredient      | Brand          |
 | -----: | --------------- | -------------- |
-| 1 half | Lime            |
-| 1.5 oz | Gin             | Martin Millers |
-|   3 oz | Sparkling Water | Topo Chico     |
+| <span class="onex active">1 half </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> half </span> <span class="twox">2 half </span> <span class="threex">3 half </span>| Lime            |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")             | Martin Millers |
+|   <span class="onex active">3 oz  / 75 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="twox">6 oz  / 150 ml</span> <span class="threex">9 oz  / 225 ml</span>| Sparkling Water | Topo Chico     |
 
 #### Notes
 
@@ -42,3 +41,90 @@ excerpt: |
   - Drop in the second ice cube
   - Top with the sparkling water
   - Feel free to swap out the base spirit
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  "3 oz Sparkling Water"
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Add all ingredients directly to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - High Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - On the Rocks"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: lime shell"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Drop in one ice cube"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Juice the half lime and drop in the lime shell"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Add the Gin"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Drop in the second ice cube"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Top with the sparkling water"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Feel free to swap out the base spirit"
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

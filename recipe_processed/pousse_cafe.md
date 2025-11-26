@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Pousse Café"
 eras: [classic]
 categories: [pousse_cafe]
-iconfile: pousse_cafe
 permalink: "/recipe/pousse_cafe/"
 iconfile: pousse_cafe
 stars: 0
-base_spirits: "White Crème de Cacao, Crème de Violette, Light Amaro, Green Chartreuse, Cognac, Absinthe"
+base_spirits: ['White Crème de Cacao', 'Crème de Violette', 'Light Amaro', 'Green Chartreuse', 'Cognac', 'Absinthe']
 youtube: "4OJd_phsa5w"
 description: "A visually striking style of layered drink that requires a steady hand to create beautiful stripes of different liqueurs in a glass."
 excerpt: |
@@ -19,13 +18,13 @@ excerpt: |
 
 | Amount | Ingredient           | Brand                              |
 | -----: | -------------------- | ---------------------------------- |
-| 0.5 oz | Raspberry Gum Syrup  | Liber & Co.                        |
-| 0.5 oz | White Crème de Cacao | Marie Brizard                      |
-| 0.5 oz | Crème de Violette    | Rothman & Winter                   |
-| 0.5 oz | Light Amaro          | Amaro Nonino                       |
-| 0.5 oz | Green Chartreuse     | Green Chartreuse                   |
-| 0.5 oz | Cognac               | Pierre Ferrand 1840                |
-| 0.5 oz | Absinthe             | La Clandestine Absinthe Superieure |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Raspberry Gum Syrup  | Liber & Co.                        |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| White Crème de Cacao [&#9432;](/spirit/white_crème_de_cacao "More White Crème de Cacao recipes") | Marie Brizard                      |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Crème de Violette [&#9432;](/spirit/crème_de_violette "More Crème de Violette recipes")    | Rothman & Winter                   |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Light Amaro [&#9432;](/spirit/light_amaro "More Light Amaro recipes")          | Amaro Nonino                       |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Green Chartreuse [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes")     | Green Chartreuse                   |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")               | Pierre Ferrand 1840                |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| Absinthe [&#9432;](/spirit/absinthe "More Absinthe recipes")             | La Clandestine Absinthe Superieure |
 
 ### Notes
 
@@ -34,3 +33,62 @@ excerpt: |
 - Glassware: Pousse Cafe Glass
 - Garnish: None
 - Special Prep: Layer each ingredient carefully to show the individual layers.
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  "0.5 oz White Crème de Cacao",
+  " ",
+  " ",
+  " ",
+  " ",
+  " "
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Build in the Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Layer all ingredients directly to the glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Pousse Cafe Glass"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: None"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Layer each ingredient carefully to show the individual layers."
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    

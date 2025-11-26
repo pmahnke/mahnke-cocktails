@@ -4,11 +4,10 @@ author: Anders Erickson
 title: "Glögg"
 categories: [punch]
 eras: [classic]
-iconfile: glogg
 permalink: "/recipe/glogg/"
 iconfile: glogg
 stars: 0
-base_spirits: "Red Wine, Ruby Port, Cognac "
+base_spirits: ['Red Wine', 'Ruby Port', 'Cognac']
 youtube: "2Xox9vdRGtM"
 description: "A popular Scandinavian mulled wine, this is a comforting hot punch made with red wine, port, cognac, spices, and fruit."
 excerpt: |
@@ -19,15 +18,15 @@ excerpt: |
 
 |    Amount | Ingredient          | Brand                 |
 | --------: | ------------------- | --------------------- |
-|  1 bottle | Red Wine            |
-|     12 oz | Ruby Port           | Fonseca Bin #27       |
-|      6 oz | Cognac              | Maison Rouge V.S.O.P. |
-|  0.5 cups | Demerara Sugar      |
-| 0.25 cups | Raisins             |
-|   4 whole | Green Cardamom Pods |
-|   8 whole | Cloves              |
-|  2 sticks | Cinnamon            |
-|  4 strips | Orange Peel         |
+|  <span class="onex active">1 bottle </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> bottle </span> <span class="twox">2 bottle </span> <span class="threex">3 bottle </span>| Red Wine [&#9432;](/spirit/red_wine "More Red Wine recipes")            |
+|     <span class="onex active">12 oz  / 300 ml</span> <span class="onehalfx">18 oz  / 450 ml</span> <span class="twox">24 oz  / 600 ml</span> <span class="threex">36 oz  / 900 ml</span>| Ruby Port [&#9432;](/spirit/ruby_port "More Ruby Port recipes")           | Fonseca Bin #27       |
+|      <span class="onex active">6 oz  / 150 ml</span> <span class="onehalfx">9 oz  / 225 ml</span> <span class="twox">12 oz  / 300 ml</span> <span class="threex">18 oz  / 450 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")              | Maison Rouge V.S.O.P. |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="twox">1 cups </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> cups </span>| Demerara Sugar      |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> cups </span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> cups </span>| Raisins             |
+|   <span class="onex active">4 whole </span> <span class="onehalfx">6 whole </span> <span class="twox">8 whole </span> <span class="threex">12 whole </span>| Green Cardamom Pods |
+|   <span class="onex active">8 whole </span> <span class="onehalfx">12 whole </span> <span class="twox">16 whole </span> <span class="threex">24 whole </span>| Cloves              |
+|  <span class="onex active">2 sticks </span> <span class="onehalfx">3 sticks </span> <span class="twox">4 sticks </span> <span class="threex">6 sticks </span>| Cinnamon            |
+|  <span class="onex active">4 strips </span> <span class="onehalfx">6 strips </span> <span class="twox">8 strips </span> <span class="threex">12 strips </span>| Orange Peel         |
 
 ### Notes
 
@@ -36,3 +35,64 @@ excerpt: |
 - Glassware: Wine
 - Garnish: Raisins from the pot
 - Special Prep: Heat the alcohol in a non-reactive pot, but do not boil. Add sugar and spices in a pouch. Simmer for20 minutes. Take off the heat and add raisins. Let rest for one hour. Remove spice bag and serve hot.
+
+    
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "{{ page.author }}"
+    },
+  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
+  "recipeIngredient": [
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  "4 whole Green Cardamom Pods",
+  " ",
+  " ",
+  " "
+    ],
+  "name": "{{ page.title }}",
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "- Method: Simmered"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Pour: Ladle"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Glassware: Wine"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: Raisins from the pot"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Heat the alcohol in a non-reactive pot, but do not boil. Add sugar and spices in a pouch. Simmer for20 minutes. Take off the heat and add raisins. Let rest for one hour. Remove spice bag and serve hot."
+    }
+    ],
+  "recipeYield": "1 cocktail",
+  "recipeCategory": "cocktail",
+  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "{%- include stars_metadata.html %}",
+   "bestRating": "5",
+   "reviewCount": "2"},{%- endif %}
+  "recipeCuisine": "global",
+  "prepTime": "PT20M",
+  "cookTime": "PT15S",
+  "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
+}
+</script>
+
+    
