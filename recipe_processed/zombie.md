@@ -52,16 +52,16 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1.5 oz Jamaican Rum ",
-  "1.5 oz Gold Rum ",
-  "1 oz Demerara Rum ",
-  "0.5 oz Falernum ",
-  "1 oz White Grapefruit Juice ",
-  " 0.75 oz Fresh Lime Juice ",
-  "0.5 oz Cinnamon Syrup ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
+  " ",
   " 0.25 oz Grenadine",
-  "1 barspoon Absinthe ",
-  "2 dashes Bitters"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

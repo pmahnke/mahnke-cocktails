@@ -1,12 +1,13 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-drambuie.svg
-      title: Drambuie
-    - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
   glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Drambuie
+    url: /assets/images/ingredient-drambuie.svg
+  - title: Jamaican rum
+    url: /assets/images/ingredient-jamacian-rum.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

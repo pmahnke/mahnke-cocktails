@@ -50,15 +50,15 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "0.5 whole Orange",
-  "0.5 whole Lemon ",
-  "0.5 whole Apple ",
+  " ",
+  " ",
+  " ",
   " 3 oz Rich Demerara Syrup",
-  " 4 oz Fresh Lemon Juice ",
-  " 4 oz Curaçao ",
-  " 6 oz Olorosso Sherry ",
-  " 750 ml Red Wine Louis Jadot Beaujolais-Villages",
-  " 0.5 oz Soda Water (Optional) "
+  " ",
+  " ",
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -44,8 +44,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "0.5 oz Maraschino Liqueur",
-  "0.5 oz Dry Curaçao ",
-  "0.5 oz Cognac"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

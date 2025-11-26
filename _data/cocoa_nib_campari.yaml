@@ -1,4 +1,5 @@
+---
 images:
   ingredient:
-    - url: /assets/images/ingredient-campari.svg
-      title: Campari
+  - title: Campari
+    url: /assets/images/ingredient-campari.svg

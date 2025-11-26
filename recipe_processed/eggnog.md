@@ -45,12 +45,12 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1.5 oz Demerara Rum",
-  " 0.5 oz Amontillado Sherry",
+  " ",
+  " ",
   " 1 oz Rich Demerara Syrup",
-  "1 whole Egg ",
-  " 2 oz Half & Half cream ",
-  "1 pinch Salt"
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

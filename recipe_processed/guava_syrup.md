@@ -38,8 +38,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1 cup 100% Guava Pulp",
-  " 1 cup White Sugar",
-  "0.5 cups Water"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

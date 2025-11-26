@@ -1,16 +1,21 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-banana.svg
-      title: Banana
-    - url: /assets/images/ingredient-campari.svg
-      title: Campari
-    - url: /assets/images/ingredient-creme-de-cacao.svg
-      title: Creme de cacao
-    - url: /assets/images/ingredient-irish-whiskey.svg
-      title: Irish whiskey
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
   glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Banana
+    url: /assets/images/ingredient-banana.svg
+  - title: Campari
+    url: /assets/images/ingredient-campari.svg
+  - title: Creme de cacao
+    url: /assets/images/ingredient-creme-de-cacao.svg
+  - title: Irish whiskey
+    url: /assets/images/ingredient-irish-whiskey.svg
+  - title: White creme de cacao
+    url: /assets/images/ingredient-cacao.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

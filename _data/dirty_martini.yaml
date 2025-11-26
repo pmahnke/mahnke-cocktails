@@ -1,21 +1,24 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-vodka.svg
-      title: Vodka
-  tool:
-    - url: /assets/images/tool_boston-shaker.svg
-      title: Boston shaker
-    - url: /assets/images/tool_hawthorn-strainer.svg
-      title: Hawthorn strainer
-    - url: /assets/images/tool_muddler.svg
-      title: Muddler
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_coupe.svg
-      title: Coupe
   garnish:
-    - url: /assets/images/fruit_olives.svg
-      title: Olives
+  - title: Olives
+    url: /assets/images/fruit_olives.svg
+  glass:
+  - title: Coupe
+    url: /assets/images/glass_coupe.svg
+  ingredient:
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: Vodka
+    url: /assets/images/ingredient-vodka.svg
+  tool:
+  - title: Boston shaker
+    url: /assets/images/tool_boston-shaker.svg
+  - title: Hawthorn strainer
+    url: /assets/images/tool_hawthorn-strainer.svg
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Muddler
+    url: /assets/images/tool_muddler.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

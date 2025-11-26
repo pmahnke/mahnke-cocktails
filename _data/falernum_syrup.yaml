@@ -1,7 +1,11 @@
+---
 images:
+  glass:
+  - title: Tiki
+    url: /assets/images/glass_tiki.svg
   ingredient:
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
   tool:
-    - url: /assets/images/tool_grater.svg
-      title: Grater
+  - title: Grater
+    url: /assets/images/tool_grater.svg

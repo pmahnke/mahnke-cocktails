@@ -1,20 +1,21 @@
+---
 images:
   cocktail:
-    - url: /assets/images/cocktail_last_word.svg
-      title: Last word
-  ingredient:
-    - url: /assets/images/ingredient-chartreuse.svg
-      title: Chartreuse
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-maraschino-liqueur.svg
-      title: Maraschino liqueur
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-  glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+  - title: Last word
+    url: /assets/images/cocktail_last_word.svg
   garnish:
-    - url: /assets/images/twist_cocktail-cherry.svg
-      title: Cocktail cherry
+  - title: Cocktail cherry
+    url: /assets/images/twist_cocktail-cherry.svg
+  glass:
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Chartreuse
+    url: /assets/images/ingredient-chartreuse.svg
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: Maraschino liqueur
+    url: /assets/images/ingredient-maraschino-liqueur.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

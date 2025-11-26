@@ -1,19 +1,20 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-banana.svg
-      title: Banana
-    - url: /assets/images/ingredient-bourbon.svg
-      title: Bourbon
-    - url: /assets/images/ingredient-sherry.svg
-      title: Sherry
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-    - url: /assets/images/tool_grater.svg
-      title: Grater
-  glass:
-    - url: /assets/images/glass_coupe.svg
-      title: Coupe
   garnish:
-    - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+  - title: Lemon twist
+    url: /assets/images/twist_lemon.svg
+  glass:
+  - title: Coupe
+    url: /assets/images/glass_coupe.svg
+  ingredient:
+  - title: Banana
+    url: /assets/images/ingredient-banana.svg
+  - title: Bourbon
+    url: /assets/images/ingredient-bourbon.svg
+  - title: Sherry
+    url: /assets/images/ingredient-sherry.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg
+  - title: Grater
+    url: /assets/images/tool_grater.svg

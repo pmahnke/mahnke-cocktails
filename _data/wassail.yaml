@@ -1,13 +1,14 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-apple-brandy.svg
-      title: Apple brandy
-    - url: /assets/images/ingredient-cognac.svg
-      title: Cognac
-    - url: /assets/images/ingredient-sherry.svg
-      title: Sherry
   garnish:
-    - url: /assets/images/spice_cinnamon.svg
-      title: Cinnamon
-    - url: /assets/images/ingredient-sugar.svg
-      title: Sugar
+  - title: Cinnamon
+    url: /assets/images/spice_cinnamon.svg
+  - title: Sugar
+    url: /assets/images/ingredient-sugar.svg
+  ingredient:
+  - title: Apple brandy
+    url: /assets/images/ingredient-apple-brandy.svg
+  - title: Cognac
+    url: /assets/images/ingredient-cognac.svg
+  - title: Sherry
+    url: /assets/images/ingredient-sherry.svg

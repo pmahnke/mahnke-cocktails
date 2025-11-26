@@ -44,9 +44,9 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Scotch, Single Malt",
-  " 0.75 oz Sweet Vermouth",
-  " 0.75 oz White Vermouth",
-  "2 dashes Bitters "
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

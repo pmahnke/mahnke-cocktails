@@ -1,10 +1,13 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-rye.svg
-      title: Rye
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
   glass:
-    - url: /assets/images/glass_martini.svg
-      title: Martini
+  - title: Martini
+    url: /assets/images/glass_martini.svg
+  ingredient:
+  - title: Rye
+    url: /assets/images/ingredient-rye.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

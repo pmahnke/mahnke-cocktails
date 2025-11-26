@@ -56,15 +56,15 @@ while (my $file = readdir DIR) {
             s/stars: .*/stars: $rating/;
         }
 
-        # turn base spirits list into an object
+        # turn base spirits list into an object in the front matter
         if (/^base_spirits:\s*(.*)/) {
             my $spirits = $1;
-            $spirits =~ s/('|")//g;
-            $spirits =~ s/^\s+//;
-            $spirits =~ s/\s+$//;
+            $spirits =~ s/('|")//g; # remove quotes
+            $spirits =~ s/^\s+//; # remove leading whitespace
+            $spirits =~ s/\s+$//; # remove trailing whitespace
             
-            my @items = split /\s*,\s*/, $spirits;
-            $item[0] = $spirits if (!$item[0]);
+            my @items = split /\s*,\s*/, $spirits; # split on commas
+            $item[0] = $spirits if (!$item[0]); # if no commas, just one item
             $out .= "base_spirits: [" . join(", ", map { "'$_'" } @items) . "]\n";
             next;
         }
@@ -72,11 +72,12 @@ while (my $file = readdir DIR) {
     	# convert internal liquid links
 	    s/link recipe\//link recipe_processed\//;
 
-        # schema.org recipe
-        if (/^\| (.[^\|]*) \| (.[^\|]*) \|/ && !$s_instructions) {
+        # schema.org recipe and spirit info links
+        if (/^\| (.[^\|]*) \| (.[^\|]*) \|/) {
             if ($1 !~ /(---|Amount)/) {
-                #print "schema ingredient: $1 $2\n";
-                my $s_raw_ingredient = "$1 $2";
+
+                # add info link for known spirits
+                print "spirit ingredient: $1 $2\n";
                 my $raw_spirit = $2;
                 $raw_spirit =~ s/^\s+|\s+$//g;
                 print STDERR qq |raw spirit: $raw_spirit\n|;
@@ -84,10 +85,16 @@ while (my $file = readdir DIR) {
                     my $spirit_link = qq|$raw_spirit [&#9432;](\/spirit\/$spirit{$raw_spirit} "More $raw_spirit recipes")|;
                     $_ =~ s/$raw_spirit/$spirit_link/;
                 }
-                $s_raw_ingredient =~ s/\"/\'/g; # replace double quotes with single
-                $s_raw_ingredient =~ s/\[(.*)\]\((.*)\)/$1/g;
-                $s_raw_ingredient =~ s/  //g;
-                $s_ingredient .= qq |  "$s_raw_ingredient",\n|;
+        
+                # schema.org recipe - only for the first recipe on the page
+                if (!$s_instructions) {
+                    #print "schema ingredient: $1 $2\n";
+                    my $s_raw_ingredient = "$1 $2";
+                    $s_raw_ingredient =~ s/\"/\'/g; # replace double quotes with single
+                    $s_raw_ingredient =~ s/\[(.*)\]\((.*)\)/$1/g;
+                    $s_raw_ingredient =~ s/  //g;
+                    $s_ingredient .= qq |  "$s_raw_ingredient",\n|;
+                }
             }
         }
 

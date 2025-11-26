@@ -49,8 +49,8 @@ excerpt: |
 | <span class="onex active">1 to 2 whole </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> to 3 whole </span> <span class="twox">2 to 4 whole </span> <span class="threex">3 to 6 whole </span>| Strawberries, sliced                                     |
 |      <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Semi-RichSimple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |         <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lemon Juice                                        |
-|         <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Apricot Liqueur                                          | Giffard Orchard       |
-|       <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Fino Sherry                                              | Valdespino "Ynocente" |
+|         <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Apricot Liqueur [&#9432;](/spirit/apricot_liqueur "More Apricot Liqueur recipes")                                          | Giffard Orchard       |
+|       <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Fino Sherry [&#9432;](/spirit/fino_sherry "More Fino Sherry recipes")                                              | Valdespino "Ynocente" |
 |         <span class="onex active">6 oz  / 150 ml</span> <span class="onehalfx">9 oz  / 225 ml</span> <span class="twox">12 oz  / 300 ml</span> <span class="threex">18 oz  / 450 ml</span>| Dry White Wine                                           | Abellio Albariño      |
 
 ### Notes
@@ -75,14 +75,14 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1 half Peach, sliced ",
-  "1 half Lemon, sliced ",
-  "4 to 5 whole Strawberries, sliced",
+  " ",
+  " ",
+  " ",
   "3 oz Semi-RichSimple Syrup",
-  "4 oz Fresh Lemon Juice ",
-  "4 oz Apricot Liqueur ",
-  "6 oz Fino Sherry ",
-  "750 ml Dry White Wine"
+  " ",
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -45,12 +45,12 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1.5 oz Rye",
-  "0.5 oz Cognac ",
+  " ",
+  " ",
   " 0.25 oz Semi-rich Simple Syrup",
-  "3 dashes Bitters",
-  "1 dash Bitters",
-  " 1 rinse Absinthe "
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

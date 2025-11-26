@@ -1,18 +1,19 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-mezcal.svg
-      title: Mezcal
-  tool:
-    - url: /assets/images/tool_boston-shaker.svg
-      title: Boston shaker
-    - url: /assets/images/tool_grater.svg
-      title: Grater
-  glass:
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
   garnish:
-    - url: /assets/images/herb_mint.svg
-      title: Mint
+  - title: Mint
+    url: /assets/images/herb_mint.svg
+  glass:
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Mezcal
+    url: /assets/images/ingredient-mezcal.svg
+  tool:
+  - title: Boston shaker
+    url: /assets/images/tool_boston-shaker.svg
+  - title: Grater
+    url: /assets/images/tool_grater.svg

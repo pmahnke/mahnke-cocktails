@@ -36,7 +36,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1.5 cups White Sugar",
-  " 1 cup Hot Water"
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

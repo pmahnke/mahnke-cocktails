@@ -63,9 +63,9 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1.5 oz Dry Vermouth",
-  " 0.75 oz Bénédictine ",
-  "3 dashes Absinthe",
-  " 1 swath Orange Peel "
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

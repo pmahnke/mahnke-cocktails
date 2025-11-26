@@ -1,13 +1,14 @@
+---
 images:
-  tool:
-    - url: /assets/images/tool_muddler.svg
-      title: Muddler
-  glass:
-    - url: /assets/images/glass_julep-cup.svg
-      title: Julep cup
   garnish:
-    - url: /assets/images/herb_mint.svg
-      title: Mint
+  - title: Mint
+    url: /assets/images/herb_mint.svg
+  glass:
+  - title: Julep cup
+    url: /assets/images/glass_julep-cup.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  tool:
+  - title: Muddler
+    url: /assets/images/tool_muddler.svg

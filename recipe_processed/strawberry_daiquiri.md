@@ -46,11 +46,11 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1.5 oz Gold Rum ",
-  "0.66 oz Fresh Lime Juice ",
+  " ",
+  " ",
   " 0.5 oz Semi-Rich Simple Syrup",
-  "5 whole Strawberries ",
-  " 4.5 oz Crushed Ice"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

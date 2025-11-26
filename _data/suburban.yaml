@@ -1,17 +1,20 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-port.svg
-      title: Port
-    - url: /assets/images/ingredient-rye.svg
-      title: Rye
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_martini.svg
-      title: Martini
   garnish:
-    - url: /assets/images/twist_orange.svg
-      title: Orange twist
-    - url: /assets/images/ingredient-sugar.svg
-      title: Sugar
+  - title: Orange twist
+    url: /assets/images/twist_orange.svg
+  - title: Sugar
+    url: /assets/images/ingredient-sugar.svg
+  glass:
+  - title: Martini
+    url: /assets/images/glass_martini.svg
+  ingredient:
+  - title: Port
+    url: /assets/images/ingredient-port.svg
+  - title: Rye
+    url: /assets/images/ingredient-rye.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

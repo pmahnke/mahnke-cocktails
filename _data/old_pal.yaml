@@ -1,15 +1,18 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-campari.svg
-      title: Campari
-    - url: /assets/images/ingredient-rye.svg
-      title: Rye
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_coupe.svg
-      title: Coupe
   garnish:
-    - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+  - title: Lemon twist
+    url: /assets/images/twist_lemon.svg
+  glass:
+  - title: Coupe
+    url: /assets/images/glass_coupe.svg
+  ingredient:
+  - title: Campari
+    url: /assets/images/ingredient-campari.svg
+  - title: Rye
+    url: /assets/images/ingredient-rye.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

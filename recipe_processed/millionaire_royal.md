@@ -48,12 +48,12 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 0.75 oz Egg White",
+  " ",
   "0.5 oz Grenadine",
-  "0.5 oz Curaçao",
-  "1.5 oz Bourbon",
-  " 0.75 oz Fresh Lemon Juice",
-  "1 barspoon Absinthe "
+  " ",
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

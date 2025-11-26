@@ -45,8 +45,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "2 oz Scotch, Blended",
-  "0.5 oz Bénédictine",
-  "0.5 oz Walnut Liqueur "
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

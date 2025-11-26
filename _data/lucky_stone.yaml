@@ -1,19 +1,22 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-apricot-liqueur.svg
-      title: Apricot liqueur
-    - url: /assets/images/ingredient-irish-whiskey.svg
-      title: Irish whiskey
-    - url: /assets/images/ingredient-sherry.svg
-      title: Sherry
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
   garnish:
-    - url: /assets/images/twist_cocktail-cherry.svg
-      title: Cocktail cherry
-    - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+  - title: Cocktail cherry
+    url: /assets/images/twist_cocktail-cherry.svg
+  - title: Lemon twist
+    url: /assets/images/twist_lemon.svg
+  glass:
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Apricot liqueur
+    url: /assets/images/ingredient-apricot-liqueur.svg
+  - title: Irish whiskey
+    url: /assets/images/ingredient-irish-whiskey.svg
+  - title: Sherry
+    url: /assets/images/ingredient-sherry.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

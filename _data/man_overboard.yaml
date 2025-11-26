@@ -1,14 +1,17 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-rye.svg
-      title: Rye
-    - url: /assets/images/ingredient-triple-sec.svg
-      title: Triple sec
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
   glass:
-    - url: /assets/images/glass_coupe.svg
-      title: Coupe
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+  - title: Coupe
+    url: /assets/images/glass_coupe.svg
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Rye
+    url: /assets/images/ingredient-rye.svg
+  - title: Triple sec
+    url: /assets/images/ingredient-triple-sec.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg
+  - title: Shaker
+    url: /assets/images/tool_shaker.svg

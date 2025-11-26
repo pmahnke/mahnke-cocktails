@@ -47,9 +47,9 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.5 oz Elderflower Liqueur",
-  "4 to 6 leaves Mint ",
-  " 3 oz Prosecco ",
-  " 1 oz Soda Water "
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

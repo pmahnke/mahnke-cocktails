@@ -47,8 +47,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Green Chartreuse",
-  " 0.5 oz Falernum",
-  " 1.5 oz Pineapple Juice ",
+  " ",
+  " ",
   "0.75 oz Fresh Lime Juice"
     ],
   "name": "{{ page.title }}",

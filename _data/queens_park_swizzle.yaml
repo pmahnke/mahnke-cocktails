@@ -1,16 +1,17 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-dark-rum.svg
-      title: Demerara rum
-  tool:
-    - url: /assets/images/tool_long-stirrer.svg
-      title: Long stirrer
-  glass:
-    - url: /assets/images/glass_highball.svg
-      title: Highball
   garnish:
-    - url: /assets/images/herb_mint.svg
-      title: Mint
+  - title: Mint
+    url: /assets/images/herb_mint.svg
+  glass:
+  - title: Highball
+    url: /assets/images/glass_highball.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Demerara rum
+    url: /assets/images/ingredient-dark-rum.svg
+  tool:
+  - title: Long stirrer
+    url: /assets/images/tool_long-stirrer.svg

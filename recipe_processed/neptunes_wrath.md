@@ -50,12 +50,12 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1.5 oz Gin",
-  "0.25 oz Absinthe ",
-  "0.75 oz Fresh Lemon Juice",
+  " ",
+  " ",
+  " ",
   "0.75 oz Semi-Rich Simple Syrup",
-  "0.75 oz Egg White",
-  "0.25 oz Green Chartreuse "
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

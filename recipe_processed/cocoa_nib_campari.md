@@ -40,7 +40,7 @@ Method:
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1 tablespoon Cocoa Nibs",
-  " 1 cup Campari "
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

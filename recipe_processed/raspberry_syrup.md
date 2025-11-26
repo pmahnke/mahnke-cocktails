@@ -41,7 +41,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "0.75 cups White Sugar",
-  "0.75 cups Hot Water",
+  " ",
   " 6 oz Raspberries"
     ],
   "name": "{{ page.title }}",

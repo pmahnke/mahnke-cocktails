@@ -38,7 +38,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 750 ml Smith & Cross Jamaican Rum",
-  "1 whole Pineapple "
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

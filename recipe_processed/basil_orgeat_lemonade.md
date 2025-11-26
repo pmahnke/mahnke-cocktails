@@ -46,9 +46,9 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1.5 oz Orgeat Syrup",
-  "1.5 oz Fresh Lemon Juice",
-  "4 leaves Basil",
-  "3 oz Soda Water "
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

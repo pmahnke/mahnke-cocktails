@@ -1,17 +1,18 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-banana.svg
-      title: Banana
-    - url: /assets/images/ingredient-dark-rum.svg
-      title: Gold rum
-  glass:
-    - url: /assets/images/glass_hurricane.svg
-      title: Hurricane
   garnish:
-    - url: /assets/images/slice_lime.svg
-      title: Lime slice
-    - url: /assets/images/fruit_strawberry.svg
-      title: Strawberry
+  - title: Lime slice
+    url: /assets/images/slice_lime.svg
+  - title: Strawberry
+    url: /assets/images/fruit_strawberry.svg
+  glass:
+  - title: Hurricane
+    url: /assets/images/glass_hurricane.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Banana
+    url: /assets/images/ingredient-banana.svg
+  - title: Gold rum
+    url: /assets/images/ingredient-dark-rum.svg

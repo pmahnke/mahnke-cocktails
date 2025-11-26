@@ -1,15 +1,16 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-red-wine.svg
-      title: Red wine
-    - url: /assets/images/ingredient-sherry.svg
-      title: Sherry
-  tool:
-    - url: /assets/images/tool_mixing-glass.svg
-      title: Mixing glass
   glass:
-    - url: /assets/images/glass_highball.svg
-      title: Highball
+  - title: Highball
+    url: /assets/images/glass_highball.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Red wine
+    url: /assets/images/ingredient-red-wine.svg
+  - title: Sherry
+    url: /assets/images/ingredient-sherry.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg

@@ -1,17 +1,20 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-campari.svg
-      title: Campari
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-vermouth.svg
-      title: White vermouth
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
   garnish:
-    - url: /assets/images/twist_orange.svg
-      title: Orange twist
+  - title: Orange twist
+    url: /assets/images/twist_orange.svg
+  glass:
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Campari
+    url: /assets/images/ingredient-campari.svg
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: White vermouth
+    url: /assets/images/
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

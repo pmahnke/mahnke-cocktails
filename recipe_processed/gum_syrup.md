@@ -39,8 +39,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "45 g Powdered Gum Arabic",
-  " 180 g Hot Water",
-  " 360 g Granulated Sugar "
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

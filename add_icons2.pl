@@ -265,7 +265,7 @@ foreach $file (sort @files) {
     $shortname =~ s/.yaml//;
     $datafile = $datadir.$datafile;
 
-    my $testfile = qq|/home/peter/src/personal/cocktails/recipe_processed/|.$file;
+    my $testfile = qq|~/src/mahnke-cocktails/recipe_processed/|.$file;
     my $iconfile = $file;
     $iconfile =~ s/\.md//;
 

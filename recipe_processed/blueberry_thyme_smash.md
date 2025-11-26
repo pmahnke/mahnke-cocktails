@@ -44,11 +44,11 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "2 oz Gin",
+  " ",
   " 0.75 oz Semi-rich Simple Syrup",
-  " 0.5 whole Lemon",
-  "10 to 15 whole Blueberries",
-  " 4 to 6 sprigs Thyme"
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

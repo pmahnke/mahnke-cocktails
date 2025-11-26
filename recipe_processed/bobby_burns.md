@@ -44,9 +44,9 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 2 oz Scotch, Blended",
-  " 1 oz Sweet Vermouth ",
-  " 0.5 oz Bénédictine",
-  "1 strip Lemon Peal "
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

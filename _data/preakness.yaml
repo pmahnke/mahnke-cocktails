@@ -1,15 +1,16 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-benedictine.svg
-      title: Benedictine
-    - url: /assets/images/ingredient-bourbon.svg
-      title: Bourbon
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
-  glass:
-    - url: /assets/images/glass_old-fashioned.svg
-      title: Old fashioned
   garnish:
-    - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+  - title: Lemon twist
+    url: /assets/images/twist_lemon.svg
+  glass:
+  - title: Old fashioned
+    url: /assets/images/glass_old-fashioned.svg
+  ingredient:
+  - title: Bourbon
+    url: /assets/images/ingredient-bourbon.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

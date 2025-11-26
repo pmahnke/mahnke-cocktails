@@ -42,7 +42,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "2 oz Scotch, Blended",
-  "1 oz Drambuie "
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

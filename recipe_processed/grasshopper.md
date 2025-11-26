@@ -47,11 +47,11 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1.5 oz Crème de Menthe ",
+  " ",
   "1.5 oz White Crème de Cacao",
-  "1 oz Heavy Cream ",
-  "3 scoops Vanilla Ice Cream ",
-  "0.25 cup Crushed Ice "
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

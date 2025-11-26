@@ -1,17 +1,18 @@
+---
 images:
   cocktail:
-    - url: /assets/images/cocktail_elks_own.svg
-      title: Elks own
-  ingredient:
-    - url: /assets/images/ingredient-port.svg
-      title: Port
-    - url: /assets/images/ingredient-rye.svg
-      title: Rye
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-    - url: /assets/images/tool_grater.svg
-      title: Grater
+  - title: Elks own
+    url: /assets/images/cocktail_elks_own.svg
   glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Port
+    url: /assets/images/ingredient-port.svg
+  - title: Rye
+    url: /assets/images/ingredient-rye.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg
+  - title: Grater
+    url: /assets/images/tool_grater.svg

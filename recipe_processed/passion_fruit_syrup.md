@@ -37,7 +37,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 14 oz Frozen Passion Fruit Pulp",
-  "2.5 cups White Sugar"
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -1,17 +1,18 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-amaro.svg
-      title: Amaro
-    - url: /assets/images/ingredient-bourbon.svg
-      title: Bourbon
-    - url: /assets/images/ingredient-peach.svg
-      title: Peach
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
   garnish:
-    - url: /assets/images/herb_mint.svg
-      title: Mint
+  - title: Mint
+    url: /assets/images/herb_mint.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Amaro
+    url: /assets/images/ingredient-amaro.svg
+  - title: Bourbon
+    url: /assets/images/ingredient-bourbon.svg
+  - title: Peach
+    url: /assets/images/ingredient-peach.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

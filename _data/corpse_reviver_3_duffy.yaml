@@ -1,13 +1,16 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-champagne.svg
-      title: Champagne
-  glass:
-    - url: /assets/images/glass_highball.svg
-      title: Highball
   garnish:
-    - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+  - title: Anise
+    url: /assets/images/spice_anise.svg
+  - title: Lemon twist
+    url: /assets/images/twist_lemon.svg
+  glass:
+  - title: Highball
+    url: /assets/images/glass_highball.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Champagne
+    url: /assets/images/ingredient-champagne.svg

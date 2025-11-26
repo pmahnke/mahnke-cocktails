@@ -1,22 +1,23 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-bourbon.svg
-      title: Bourbon
-    - url: /assets/images/ingredient-cognac.svg
-      title: Cognac
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-  glass:
-    - url: /assets/images/glass_highball.svg
-      title: Highball
   garnish:
-    - url: /assets/images/herb_mint.svg
-      title: Mint
-    - url: /assets/images/fruit-orange.svg
-      title: Orange slice
+  - title: Mint
+    url: /assets/images/herb_mint.svg
+  - title: Orange slice
+    url: /assets/images/fruit-orange.svg
+  glass:
+  - title: Highball
+    url: /assets/images/glass_highball.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Bourbon
+    url: /assets/images/ingredient-bourbon.svg
+  - title: Cognac
+    url: /assets/images/ingredient-cognac.svg
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

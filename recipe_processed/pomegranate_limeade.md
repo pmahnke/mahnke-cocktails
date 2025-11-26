@@ -45,8 +45,8 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1 oz Grenadine",
-  "1 oz Fresh Lime Juice ",
-  "5 oz Sparkling Water"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

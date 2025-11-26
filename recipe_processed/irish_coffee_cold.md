@@ -42,7 +42,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "2 oz Coffee Liqueur",
-  "1 oz Irish Whiskey "
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

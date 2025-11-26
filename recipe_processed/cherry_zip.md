@@ -46,11 +46,11 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1 oz Tart Cherry Juice (no sugar added) ",
+  " ",
   " 1 oz Orgeat Syrup",
-  " 1 oz Black Tea (cooled) ",
-  " 0.5 oz Fresh Lemon Juice",
-  "0.25 barspoon Red Chili Flakes "
+  " ",
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

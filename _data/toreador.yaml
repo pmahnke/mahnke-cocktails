@@ -1,18 +1,19 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-apricot-liqueur.svg
-      title: Apricot liqueur
-    - url: /assets/images/ingredient-reposado-tequila.svg
-      title: Reposado tequila
-    - url: /assets/images/ingredient-sherry.svg
-      title: Sherry
-    - url: /assets/images/ingredient-tequila.svg
-      title: Tequila
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
   glass:
-    - url: /assets/images/glass_coupe.svg
-      title: Coupe
-    - url: /assets/images/glass_margarita.svg
-      title: Margarita
+  - title: Coupe
+    url: /assets/images/glass_coupe.svg
+  - title: Margarita
+    url: /assets/images/glass_margarita.svg
+  ingredient:
+  - title: Apricot liqueur
+    url: /assets/images/ingredient-apricot-liqueur.svg
+  - title: Reposado tequila
+    url: /assets/images/ingredient-reposado-tequila.svg
+  - title: Sherry
+    url: /assets/images/ingredient-sherry.svg
+  - title: Tequila
+    url: /assets/images/ingredient-tequila.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

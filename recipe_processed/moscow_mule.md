@@ -45,10 +45,10 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 2 oz Vodka ",
+  " ",
   "0.75 oz Fresh Lime Juice",
-  "2 to 3 dashes Bitters ",
-  "4 to 5 oz Ginger Beer "
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

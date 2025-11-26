@@ -1,4 +1,5 @@
+---
 images:
   garnish:
-    - url: /assets/images/spice_cinnamon.svg
-      title: Cinnamon
+  - title: Cinnamon
+    url: /assets/images/spice_cinnamon.svg

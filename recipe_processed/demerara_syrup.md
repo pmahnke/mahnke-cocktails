@@ -37,7 +37,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "2 cups Demerara Sugar",
-  " 1 cup Hot Water "
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

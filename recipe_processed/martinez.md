@@ -43,10 +43,10 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1.25 oz Gin ",
-  "1.25 oz Sweet Vermouth",
+  " ",
+  " ",
   "0.25 oz Maraschino Liqueur",
-  "0.25 oz Orange Bitters"
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

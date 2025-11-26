@@ -1,12 +1,15 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-vodka.svg
-      title: Vodka
-  tool:
-    - url: /assets/images/tool_stirred.svg
-      title: Stirred
   glass:
-    - url: /assets/images/glass_coupe.svg
-      title: Coupe
+  - title: Coupe
+    url: /assets/images/glass_coupe.svg
+  ingredient:
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: Vodka
+    url: /assets/images/ingredient-vodka.svg
+  tool:
+  - title: Mixing glass
+    url: /assets/images/tool_mixing-glass.svg
+  - title: Stirred
+    url: /assets/images/tool_stirred.svg

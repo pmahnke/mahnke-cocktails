@@ -1,25 +1,24 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-benedictine.svg
-      title: Benedictine
-    - url: /assets/images/ingredient-cherry.svg
-      title: Cherry
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-  glass:
-    - url: /assets/images/glass_highball.svg
-      title: Highball
-    - url: /assets/images/glass_sling.svg
-      title: Sling
-    - url: /assets/images/glass_tiki.svg
-      title: Tiki
   garnish:
-    - url: /assets/images/twist_cocktail-cherry.svg
-      title: Cocktail cherry
-    - url: /assets/images/slice_lime.svg
-      title: Lime slice
-    - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+  - title: Cocktail cherry
+    url: /assets/images/twist_cocktail-cherry.svg
+  - title: Lime slice
+    url: /assets/images/slice_lime.svg
+  - title: Pineapple slice
+    url: /assets/images/slice_pineapple.svg
+  glass:
+  - title: Highball
+    url: /assets/images/glass_highball.svg
+  - title: Sling
+    url: /assets/images/glass_sling.svg
+  - title: Tiki
+    url: /assets/images/glass_tiki.svg
+  ingredient:
+  - title: Cherry
+    url: /assets/images/ingredient-cherry.svg
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

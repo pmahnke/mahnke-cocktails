@@ -1,22 +1,23 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-blackberry.svg
-      title: Blackberry
-    - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
-  tool:
-    - url: /assets/images/tool_grater.svg
-      title: Grater
-  glass:
-    - url: /assets/images/glass_rocks.svg
-      title: Rocks
-    - url: /assets/images/glass_tiki.svg
-      title: Tiki
   garnish:
-    - url: /assets/images/fruit_blackberries.svg
-      title: Blackberries
-    - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+  - title: Blackberries
+    url: /assets/images/fruit_blackberries.svg
+  - title: Pineapple slice
+    url: /assets/images/slice_pineapple.svg
+  glass:
+  - title: Rocks
+    url: /assets/images/glass_rocks.svg
+  - title: Tiki
+    url: /assets/images/glass_tiki.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Blackberry
+    url: /assets/images/ingredient-blackberry.svg
+  - title: Jamaican rum
+    url: /assets/images/ingredient-jamacian-rum.svg
+  tool:
+  - title: Grater
+    url: /assets/images/tool_grater.svg

@@ -1,15 +1,16 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-swedish-punsch.svg
-      title: Punsch
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-  glass:
-    - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
   garnish:
-    - url: /assets/images/twist_cocktail-cherry.svg
-      title: Cocktail cherry
+  - title: Cocktail cherry
+    url: /assets/images/twist_cocktail-cherry.svg
+  glass:
+  - title: Nick and nora
+    url: /assets/images/glass_nick-and-nora.svg
+  ingredient:
+  - title: Gin
+    url: /assets/images/ingredient-gin.svg
+  - title: Punsch
+    url: /assets/images/ingredient-swedish-punsch.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg

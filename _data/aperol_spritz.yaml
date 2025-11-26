@@ -1,12 +1,13 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-aperol.svg
-      title: Aperol
-    - url: /assets/images/ingredient-champagne.svg
-      title: Champagne
   garnish:
-    - url: /assets/images/fruit-orange.svg
-      title: Orange slice
+  - title: Orange slice
+    url: /assets/images/fruit-orange.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Aperol
+    url: /assets/images/ingredient-aperol.svg
+  - title: Champagne
+    url: /assets/images/ingredient-champagne.svg

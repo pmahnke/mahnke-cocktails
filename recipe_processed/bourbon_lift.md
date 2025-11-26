@@ -45,11 +45,11 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1.5 oz Bourbon",
-  "0.5 oz Coffee Liqueur ",
+  " ",
+  " ",
   "0.5 oz Orgeat",
-  "0.5 oz Heavy Cream",
-  "3 oz Soda Water "
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

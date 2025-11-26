@@ -1,7 +1,8 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-champagne.svg
-      title: Champagne
   glass:
-    - url: /assets/images/glass_cobbler.svg
-      title: Cobbler
+  - title: Cobbler
+    url: /assets/images/glass_cobbler.svg
+  ingredient:
+  - title: Champagne
+    url: /assets/images/ingredient-champagne.svg

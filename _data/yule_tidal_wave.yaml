@@ -1,24 +1,25 @@
+---
 images:
-  ingredient:
-    - url: /assets/images/ingredient-allspice-dram.svg
-      title: Allspice dram
-    - url: /assets/images/ingredient-bourbon.svg
-      title: Bourbon
-    - url: /assets/images/ingredient-cognac.svg
-      title: Cognac
-  tool:
-    - url: /assets/images/tool_double_strain.svg
-      title: Double strained
-    - url: /assets/images/tool_grater.svg
-      title: Grater
-  glass:
-    - url: /assets/images/glass_hurricane.svg
-      title: Hurricane
-    - url: /assets/images/glass_tiki.svg
-      title: Tiki
   garnish:
-    - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+  - title: Pineapple slice
+    url: /assets/images/slice_pineapple.svg
+  glass:
+  - title: Hurricane
+    url: /assets/images/glass_hurricane.svg
+  - title: Tiki
+    url: /assets/images/glass_tiki.svg
   ice:
-    - url: /assets/images/ice_cubes.svg
-      title: Cubes
+  - title: Cubes
+    url: /assets/images/ice_cubes.svg
+  ingredient:
+  - title: Allspice dram
+    url: /assets/images/ingredient-allspice-dram.svg
+  - title: Bourbon
+    url: /assets/images/ingredient-bourbon.svg
+  - title: Cognac
+    url: /assets/images/ingredient-cognac.svg
+  tool:
+  - title: Double strained
+    url: /assets/images/tool_double_strain.svg
+  - title: Grater
+    url: /assets/images/tool_grater.svg

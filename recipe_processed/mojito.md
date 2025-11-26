@@ -46,7 +46,7 @@ excerpt: |
 
 |          Amount | Ingredient         | Brand                 |
 | --------------: | ------------------ | --------------------- |
-|            <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Rum                | The Real McCoy 3 Year |
+|            <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Rum [&#9432;](/spirit/rum "More Rum recipes")                | The Real McCoy 3 Year |
 |       <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> whole </span> <span class="twox">1 whole </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span>| Lime               |
 |    <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Raw Demerara Sugar |
 | <span class="onex active">10 to 12 leaves </span> <span class="onehalfx">15 to 18 leaves </span> <span class="twox">20 to 24 leaves </span> <span class="threex">30 to 36 leaves </span>| Mint               |
@@ -75,11 +75,11 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 2 oz Light Rum ",
-  "0.75 oz Fresh Lime Juice",
+  " ",
+  " ",
   " 0.5 oz Rich Demerara Syrup",
-  "10 to 12 leaves Mint",
-  "3 to 5 oz Soda Water"
+  " ",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
