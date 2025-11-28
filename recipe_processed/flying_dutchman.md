@@ -6,7 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/flyingdutchman/"
 iconfile: flying_dutchman
-stars: 4
+stars: 3.75
 base_spirits: ['Genever', 'Yellow Chartreuse', 'Bénédictine']
 youtube: "yh_WeCrFuRA"
 description: "A modern cocktail with complex herbal flavors, featuring Dutch genever, Bénédictine, and yellow Chartreuse."
