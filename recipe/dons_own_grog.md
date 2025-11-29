@@ -19,7 +19,7 @@ excerpt: |
 
 |     Amount | Ingredient                                               | Brand                              |
 | ---------: | -------------------------------------------------------- | ---------------------------------- |
-|       2 oz | Jamaica Rum                                              | Appleton Estate 12 Year Rare Casks |
+|       2 oz | Jamaican Rum                                               | Appleton Estate 12 Year Rare Casks |
 |     0.5 oz | White Rum                                                | Chairman’s Reserve                 |
 |     0.5 oz | Rhum Agricole                                            | Clément Canne Bleue                |
 |    0.25 oz | Crème de Mûre                                            | Combier                            |

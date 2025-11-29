@@ -19,7 +19,7 @@ excerpt: |
 
 |   Amount | Ingredient                                                              | Brand                       |
 | -------: | ----------------------------------------------------------------------- | --------------------------- |
-|     2 oz | Jamaica Rum                                                             | Coruba                      |
+|     2 oz | Jamaican Rum                                                              | Coruba                      |
 |     1 oz | Fresh Lemon Juice                                                       |
 |     1 oz | Pineapple Juice                                                         |
 |     1 oz | [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%}) |

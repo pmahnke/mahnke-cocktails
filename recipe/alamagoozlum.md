@@ -15,7 +15,7 @@ excerpt: |
   The Alamagoozlum is a vintage cocktail attributed to J.P. Morgan. It's a complex drink with a unique flavor profile, combining a variety of spirits and liqueurs.
 
   A "Plantation Alamagoozlum" is referenced as "an excellent preventive of colds and chills" in a 1935 column in <em>The Indianapolis News</em> and then as an Alamagoozlum in a 1937 edition of the <em>Louisville, Kentucky, Courier-Journal</em>. However, it most notably features in Charles H. Baker's 1939 <em>The Gentleman's Companion, Around the World with Jigger, Beaker and Flask</em> as "J. Pierpont Morgan's Alamagoozlum, the Personal Mix Credited to that Financier, Philanthropist, & Banker of a Bygone Era."
-  Baker gives the following recipe "To serve about 5 cocktails, take 1 jigger each of Jamaica rum, gomme syrup, and yellow or green Chartreuse; add 1/2 pony yellow Curaçao and 1/2 pony of Angostura Aromatic Bitters. Add 2 scant ponies of Holland gin, the same of water; donate 1/2 the white of an egg and hard shake with lots of cracked ice. Serve in a Manhattan glass."
+  Baker gives the following recipe "To serve about 5 cocktails, take 1 jigger each of Jamaican Rum , gomme syrup, and yellow or green Chartreuse; add 1/2 pony yellow Curaçao and 1/2 pony of Angostura Aromatic Bitters. Add 2 scant ponies of Holland gin, the same of water; donate 1/2 the white of an egg and hard shake with lots of cracked ice. Serve in a Manhattan glass."
 
   As with so many classic cocktails, our recipe is based on David A. Embury's 1948 <em>The Fine Art of Mixing Drinks</em>, where Embury says, "This cocktail is supposed to have been a specialty of the elder Morgan of the House of Morgan, which goes to prove as a bartender he was an excellent banker."
 
