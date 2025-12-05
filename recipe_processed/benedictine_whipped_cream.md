@@ -8,7 +8,7 @@ stars: 0
 base_spirits: ['Bénédictine', 'Heavy Cream', 'Powdered Sugar']
 youtube: 8FS1ILeY8Ds
 excerpt: |
-  Bénédictine infused whipped cream is a delightful topping for cocktails and desserts. It adds a touch of herbal sweetness and a certain <em>je ne sais quoi<em> to your whipped cream.
+  Bénédictine infused whipped cream is a delightful topping for cocktails and desserts. It adds a touch of herbal sweetness and a certain <em>je ne sais quoi</em> to your whipped cream.
 ---
 
 ### Ingredients
