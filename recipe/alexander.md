@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Alexander"
-categories: [cocktail, dairy]
+categories: [cocktail, after_dinner]
 eras: [classic]
 permalink: "/recipe/alexander/"
 iconfile: alexander

@@ -1,0 +1,9 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-benedictine.svg
+      title: Benedictine
+    - url: /assets/images/ingredient-cream.svg
+      title: Cream
+  garnish:
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar
