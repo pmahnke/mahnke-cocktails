@@ -98,7 +98,7 @@ sub get_icon_map {
             'dry-vermouth'          => { path => 'ingredient-dry-vermouth.svg', keywords => [qr/dry vermouth/i] },
             'orange-bitters'        => { path => 'ingredient-orange-bitters.svg', keywords => [qr/orange bitters/i] },
             'bitters'               => { path => 'ingredient-bitters.svg', keywords => [qr/bitters/i] },
-            'single-malt-scotch'    => { path => 'ingredient-single-malt-scotch.svg', keywords => [qr/Scotch, Single Malt/i] },
+            'single-malt-scotch'    => { path => 'ingredient-single-malt-scotch.svg', keywords => [qr/Single Malt Scotch/i] },
             'gold-rum'              => { path => 'ingredient-dark-rum.svg', keywords => [qr/gold rum/i] },
             'honey-syrup'           => { path => 'ingredient-honey-syrup.svg', keywords => [qr/honey syrup/i] },
             'champagne'             => { path => 'ingredient-champagne.svg', keywords => [qr/champagne/i] },

@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/tartan/"
 iconfile: tartan
 stars: 0
-base_spirits: "Scotch, Single Malt, Amaro, Drambuie "
+base_spirits: "Single Malt Scotch, Amaro, Drambuie "
 youtube: "Jqy3bhn-O9s"
 description: "A classic Scotch-based cocktail with warm, rich colors and complex flavors, reminiscent of the iconic Scottish fabric."
 excerpt: |
@@ -18,7 +18,7 @@ excerpt: |
 
 |  Amount | Ingredient         | Brand                            |
 | ------: | ------------------ | -------------------------------- |
-|  1.5 oz | Scotch, Single Malt | Edradour 10 year Highland Scotch |
+|  1.5 oz | Single Malt Scotch | Edradour 10 year Highland Scotch |
 | 0.75 oz | Sweet Vermouth     | Cocchi Vermouth di Torino        |
 | 0.25 oz | Drambuie           | Drambuie                         |
 | 0.25 oz | Amaro              | Ramazzotti                       |

@@ -1,7 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickso 
- n
+author: Anders Erickson
 creator: Jerry Thomas
 title: "The Japanese Cocktail"
 categories: [cocktail]
@@ -34,7 +33,7 @@ excerpt: |
 | -------: | ----------------------------------------------- | ------------------- |
 |     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")                                          | Pierre Ferrand 1840 |
 |   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Boker's Style (Cardamom) Bitters                |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters                                         | Boker’s Bitters     |
 
 ### Notes
 

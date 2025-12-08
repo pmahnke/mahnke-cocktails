@@ -386,7 +386,7 @@ foreach $file (sort @files) {
             $ingredient{'orange-bitters'} = 1 if (/orange bitters/i);
             $ingredient{'white-vermouth'} = 1 if (/vermouth/i && !$ingredient{'sweet-vermouth'} && !$ingredient{'dry-vermouth'});
             $ingredient{'bitters'} = 1 if (/bitters/i);
-            $ingredient{'single-malt-scotch'} = 1 if (/Scotch, Single Malt/i);
+            $ingredient{'single-malt-scotch'} = 1 if (/Single Malt Scotch/i);
             $ingredient{'gold-rum'} = 1 if (/gold rum/i);
             $ingredient{'honey-syrup'} = 1 if (/honey syrup/i);
             $ingredient{'champagne'} = 1 if (/champagne/i);

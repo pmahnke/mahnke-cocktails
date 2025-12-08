@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/penicillin/"
 iconfile: penicillin
 stars: 0
-base_spirits: ['Scotch', 'Blended', 'Scotch', 'Single Malt']
+base_spirits: ['Blended Scotch', 'Single Malt Scotch']
 youtube: "G51IC-s_ECI"
 description: "A modern classic from New York bartender Sam Ross, this is a Scotch-based sour that perfectly balances the flavors of smoky whisky, spicy ginger, and sweet honey."
 excerpt: |
@@ -18,8 +18,8 @@ excerpt: |
 
 |     Amount | Ingredient                                    | Brand           |
 | ---------: | --------------------------------------------- | --------------- |
-|       <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Scotch, Blended                               | Monkey Shoulder |
-|    <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Scotch, Single Malt                           | Laphroaig 10yr  |
+|       <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Blended Scotch                                | Monkey Shoulder |
+|    <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Single Malt Scotch                            | Laphroaig 10yr  |
 |    <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lemon Juice                             |
 |    <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Honey Syrup]({%link recipe_processed/honey_syrup.md%}) |
 | 3-4 slices | Fresh Ginger                                  |

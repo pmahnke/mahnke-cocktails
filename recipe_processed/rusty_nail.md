@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/rusty_nail/"
 iconfile: rusty_nail
 stars: 2
-base_spirits: ['Scotch', 'Drambuie']
+base_spirits: ['Blended Scotch', 'Drambuie']
 youtube: "nTyrz70_OPA"
 description: "A classic and simple two-part modern cocktail that combines the smoky notes of Scotch with the sweet and herbal character of Drambuie."
 excerpt: |
@@ -16,10 +16,10 @@ excerpt: |
 
 ### Ingredients
 
-| Amount | Ingredient      | Brand           |
-| -----: | --------------- | --------------- |
-|   <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Scotch, Blended | Monkey Shoulder |
-|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Drambuie [&#9432;](/spirit/drambuie "More Drambuie recipes")        | Drambuie        |
+| Amount | Ingredient     | Brand           |
+| -----: | -------------- | --------------- |
+|   <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Blended Scotch | Monkey Shoulder |
+|   <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Drambuie [&#9432;](/spirit/drambuie "More Drambuie recipes")       | Drambuie        |
 
 ### Notes
 
@@ -41,7 +41,7 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "2 oz Scotch, Blended",
+  "2 oz Blended Scotch",
   " "
     ],
   "name": "{{ page.title }}",

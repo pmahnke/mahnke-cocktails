@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/camerons_kick/"
 iconfile: camerons_kick
 stars: 0
-base_spirits: "Scotch, Blended, Irish Whiskey"
+base_spirits: "Blended Scotch, Irish Whiskey"
 youtube: "PwfU-18WhC8"
 description: "A classic cocktail that uniquely combines the distinct flavors of both Scotch and Irish whiskeys in a sour format with orgeat."
 excerpt: |
@@ -18,7 +18,7 @@ excerpt: |
 
 | Amount | Ingredient                                      | Brand             |
 | -----: | ----------------------------------------------- | ----------------- |
-|   1 oz | Scotch, Blended                                 | Monkey Shoulder   |
+|   1 oz | Blended Scotch                                  | Monkey Shoulder   |
 |   1 oz | Irish Whiskey                                   | Powers Gold Label |
 | 0.5 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
 | 0.5 oz | Fresh Lemon Juice                               |

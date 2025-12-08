@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/blood_and_sand/"
 iconfile: blood_and_sand
 stars: 0
-base_spirits: "Scotch, Blended, Cherry Liqueur "
+base_spirits: "Blended Scotch, Cherry Liqueur "
 youtube: "r50WUk960qI"
 description: "A classic Scotch cocktail from the 1930s that uniquely combines whisky with cherry liqueur, sweet vermouth, and orange juice."
 excerpt: |
@@ -18,7 +18,7 @@ excerpt: |
 
 |  Amount | Ingredient         | Brand                     |
 | ------: | ------------------ | ------------------------- |
-| 0.75 oz | Scotch, Blended     | Monkey Shoulder           |
+| 0.75 oz | Blended Scotch     | Monkey Shoulder           |
 | 0.75 oz | Sweet Vermouth     | Cocchi Vermouth di Torino |
 | 0.75 oz | Cherry Liqueur     | Cherry Heering            |
 | 0.75 oz | Fresh Orange Juice |

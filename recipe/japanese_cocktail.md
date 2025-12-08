@@ -1,7 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickso 
- n
+author: Anders Erickson
 creator: Jerry Thomas
 title: "The Japanese Cocktail"
 categories: [cocktail]
@@ -34,7 +33,7 @@ excerpt: |
 | -------: | ----------------------------------------------- | ------------------- |
 |     2 oz | Cognac                                          | Pierre Ferrand 1840 |
 |   0.5 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
-| 2 dashes | Boker's Style (Cardamom) Bitters                |
+| 2 dashes | Bitters                                         | Boker’s Bitters     |
 
 ### Notes
 
