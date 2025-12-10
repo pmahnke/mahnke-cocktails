@@ -9,7 +9,7 @@ iconfile: modern_medicine
 stars: 0
 base_spirits: "Bourbon, Aperol, Single Malt Scotch"
 youtube: "https://youtube.com/shorts/PmIJBCSayUs?si=wzUZeym3F4b1FfnR"
-description: "The Modern Medicine is a bold and complex whiskey-based cocktail that expertly balances the richness of bourbon with the smoky peat notes of an Islay Scotch float. It features Aperol, lemon juice, and demerara syrup to provide a harmonious blend of bitter, tart, and sweet flavors."
+description: "A bold and complex whiskey-based cocktail that balances the richness of bourbon with the smoky peat notes of an Islay Scotch float."
 excerpt: |
   This spirited contemporary classic is a delicious, multi-layered riff on the popular Penicillin cocktail, using bourbon as its primary base spirit. The drink is shaken with Aperol, fresh lemon juice, demerara syrup, and aromatic bitters, creating a vibrant mix of sweet, citrusy, and slightly bitter notes. Its defining characteristic is the smoky float of Islay Scotch, which is poured carefully on top to introduce an intensely peaty aroma and flavor with every sip.
 ---
