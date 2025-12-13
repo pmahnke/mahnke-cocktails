@@ -19,10 +19,10 @@ excerpt: |
 
 |   Amount | Ingredient       | Brand            |
 | -------: | ---------------- | ---------------- |
-|    <span class="onex active">12 oz  / 300 ml</span> <span class="onehalfx">18 oz  / 450 ml</span> <span class="twox">24 oz  / 600 ml</span> <span class="threex">36 oz  / 900 ml</span>| Ale [&#9432;](/spirit/ale "More Ale recipes")              | Old Speckled Hen |
-|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")     | Smith & Cross    |
+|    <span class="onex active">12 oz  / 360 ml</span> <span class="onehalfx">18 oz  / 540 ml</span> <span class="twox">24 oz  / 720 ml</span> <span class="threex">36 oz  / 1080 ml</span>| Ale [&#9432;](/spirit/ale "More Ale recipes")              | Old Speckled Hen |
+|     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")     | Smith & Cross    |
 |  <span class="onex active">1 whole </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">2 whole </span> <span class="threex">3 whole </span>| Egg              |
-|     <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Demerara Sugar   |
+|     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Demerara Sugar   |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> tsp </span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> tsp </span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> tsp </span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> tsp </span>| Ginger, Powdered |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> tsp </span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> tsp </span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> tsp </span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> tsp </span>| Nutmeg, Grated   |
 

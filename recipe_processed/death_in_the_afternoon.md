@@ -22,8 +22,8 @@ excerpt: |
 
 | Amount | Ingredient | Brand                                |
 | -----: | ---------- | ------------------------------------ |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span> <span class="twox">3 oz  / 75 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span>| Absinthe [&#9432;](/spirit/absinthe "More Absinthe recipes")   | Nouvelle Orleans Absinthe Superieure |
-| <span class="onex active">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 ml</span> <span class="onehalfx">6 <sup>3</sup>&frasl;<sub>4</sub> oz  / 169 ml</span> <span class="twox">9 oz  / 225 ml</span> <span class="threex">13 <sup>1</sup>&frasl;<sub>2</sub> oz  / 338 ml</span>| Champagne [&#9432;](/spirit/champagne "More Champagne recipes")  | Laurent-Pierre La Cuvee Brut         |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Absinthe [&#9432;](/spirit/absinthe "More Absinthe recipes")   | Nouvelle Orleans Absinthe Superieure |
+| <span class="onex active">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span> <span class="onehalfx">6 <sup>3</sup>&frasl;<sub>4</sub> oz  / 203 ml</span> <span class="twox">9 oz  / 270 ml</span> <span class="threex">13 <sup>1</sup>&frasl;<sub>2</sub> oz  / 405 ml</span>| Champagne [&#9432;](/spirit/champagne "More Champagne recipes")  | Laurent-Pierre La Cuvee Brut         |
 
 ### Notes
 
@@ -42,10 +42,10 @@ excerpt: |
 
 |  Amount | Ingredient                                                | Brand                                |
 | ------: | --------------------------------------------------------- | ------------------------------------ |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Absinthe [&#9432;](/spirit/absinthe "More Absinthe recipes")                                                  | Nouvelle Orleans Absinthe Superieure |
-|    <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Champagne [&#9432;](/spirit/champagne "More Champagne recipes")                                                 | Laurent-Pierre La Cuvee Brut         |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| Fresh Lemon Juice                                         |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 6 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 9 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span>| [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Absinthe [&#9432;](/spirit/absinthe "More Absinthe recipes")                                                  | Nouvelle Orleans Absinthe Superieure |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Champagne [&#9432;](/spirit/champagne "More Champagne recipes")                                                 | Laurent-Pierre La Cuvee Brut         |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Fresh Lemon Juice                                         |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
 ### Notes
 

@@ -14,7 +14,7 @@ excerpt: |
 
 |    Amount | Ingredient       |
 | --------: | ---------------- |
-|      <span class="onex active">6 oz  / 150 ml</span> <span class="onehalfx">9 oz  / 225 ml</span> <span class="twox">12 oz  / 300 ml</span> <span class="threex">18 oz  / 450 ml</span>| Water            |
+|      <span class="onex active">6 oz  / 180 ml</span> <span class="onehalfx">9 oz  / 270 ml</span> <span class="twox">12 oz  / 360 ml</span> <span class="threex">18 oz  / 540 ml</span>| Water            |
 | <span class="onex active">12 sticks </span> <span class="onehalfx">18 sticks </span> <span class="twox">24 sticks </span> <span class="threex">36 sticks </span>| Cinnamon         |
 |  <span class="onex active">10 whole </span> <span class="onehalfx">15 whole </span> <span class="twox">20 whole </span> <span class="threex">30 whole </span>| Cloves           |
 |  <span class="onex active">12 whole </span> <span class="onehalfx">18 whole </span> <span class="twox">24 whole </span> <span class="threex">36 whole </span>| Allspice Berries |

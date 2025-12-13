@@ -22,11 +22,11 @@ excerpt: |
 
 |          Amount | Ingredient                                               | Brand                 |
 | --------------: | -------------------------------------------------------- | --------------------- |
-|            <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                                | The Real McCoy 3 Year |
-|         <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| Fresh Lime Juice                                         |
-|          <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 13 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="twox">1 oz  / 25 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|            <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                                | The Real McCoy 3 Year |
+|         <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lime Juice                                         |
+|          <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | <span class="onex active">10 to 12 leaves </span> <span class="onehalfx">15 to 18 leaves </span> <span class="twox">20 to 24 leaves </span> <span class="threex">30 to 36 leaves </span>| Mint                                                     |
-|       <span class="onex active">3 to 5 oz  / 75 to 125 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 7 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 to 188 ml</span> <span class="twox">6 to 10 oz  / 150 to 250 ml</span> <span class="threex">9 to 15 oz  / 225 to 375 ml</span>| Soda Water                                               |
+|       <span class="onex active">3 to 5 oz  / 90 to 150 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 7 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 to 225 ml</span> <span class="twox">6 to 10 oz  / 180 to 300 ml</span> <span class="threex">9 to 15 oz  / 270 to 450 ml</span>| Soda Water                                               |
 
 ### Notes
 
@@ -46,11 +46,11 @@ excerpt: |
 
 |          Amount | Ingredient         | Brand                 |
 | --------------: | ------------------ | --------------------- |
-|            <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Rum [&#9432;](/spirit/rum "More Rum recipes")                | The Real McCoy 3 Year |
+|            <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Rum [&#9432;](/spirit/rum "More Rum recipes")                | The Real McCoy 3 Year |
 |       <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> whole </span> <span class="twox">1 whole </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span>| Lime               |
 |    <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Raw Demerara Sugar |
 | <span class="onex active">10 to 12 leaves </span> <span class="onehalfx">15 to 18 leaves </span> <span class="twox">20 to 24 leaves </span> <span class="threex">30 to 36 leaves </span>| Mint               |
-|       <span class="onex active">3 to 5 oz  / 75 to 125 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 7 <sup>1</sup>&frasl;<sub>2</sub> oz  / 113 to 188 ml</span> <span class="twox">6 to 10 oz  / 150 to 250 ml</span> <span class="threex">9 to 15 oz  / 225 to 375 ml</span>| Soda Water         |
+|       <span class="onex active">3 to 5 oz  / 90 to 150 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 7 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 to 225 ml</span> <span class="twox">6 to 10 oz  / 180 to 300 ml</span> <span class="threex">9 to 15 oz  / 270 to 450 ml</span>| Soda Water         |
 
 ### Notes
 

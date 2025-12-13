@@ -18,14 +18,14 @@ excerpt: |
 
 |        Amount | Ingredient      | Brand               |
 | ------------: | --------------- | ------------------- |
-|          <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Dark Rum [&#9432;](/spirit/dark_rum "More Dark Rum recipes")        | Goslings Black Seal |
+|          <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Dark Rum [&#9432;](/spirit/dark_rum "More Dark Rum recipes")        | Goslings Black Seal |
 |  <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Butter          |
 |  <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Brown Sugar     |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> teaspoons</span>| Ground Cinnamon |
 |       <span class="onex active">1 pinch </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> pinch </span> <span class="twox">2 pinch </span> <span class="threex">3 pinch </span>| Ground Clove    |
 |       <span class="onex active">1 pinch </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> pinch </span> <span class="twox">2 pinch </span> <span class="threex">3 pinch </span>| Ground Allspice |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> teaspoons</span>| Vanilla Extract |
-|          <span class="onex active">4 oz  / 100 ml</span> <span class="onehalfx">6 oz  / 150 ml</span> <span class="twox">8 oz  / 200 ml</span> <span class="threex">12 oz  / 300 ml</span>| Hot water       |
+|          <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Hot water       |
 
 ### Notes
 

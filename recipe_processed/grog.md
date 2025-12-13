@@ -22,9 +22,9 @@ excerpt: |
 
 |      Amount | Ingredient        | Brand                 |
 | ----------: | ----------------- | --------------------- |
-|        <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Navy Strength Rum [&#9432;](/spirit/navy_strength_rum "More Navy Strength Rum recipes") | Planteray Mister Fogg |
-|        <span class="onex active">8 oz  / 200 ml</span> <span class="onehalfx">12 oz  / 300 ml</span> <span class="twox">16 oz  / 400 ml</span> <span class="threex">24 oz  / 600 ml</span>| Fresh Water       |
-|        <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lime Juice  |
+|        <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Navy Strength Rum [&#9432;](/spirit/navy_strength_rum "More Navy Strength Rum recipes") | Planteray Mister Fogg |
+|        <span class="onex active">8 oz  / 240 ml</span> <span class="onehalfx">12 oz  / 360 ml</span> <span class="twox">16 oz  / 480 ml</span> <span class="threex">24 oz  / 720 ml</span>| Fresh Water       |
+|        <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lime Juice  |
 | <span class="onex active">2 barspoons</span> <span class="onehalfx">3 barspoons</span> <span class="twox">4 barspoons</span> <span class="threex">6 barspoons</span>| Demerara Sugar    |
 
 ### Notes
@@ -44,9 +44,9 @@ excerpt: |
 
 |  Amount | Ingredient                                               | Brand                 |
 | ------: | -------------------------------------------------------- | --------------------- |
-|    <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Navy Strength Rum [&#9432;](/spirit/navy_strength_rum "More Navy Strength Rum recipes")                                        | Planteray Mister Fogg |
-|    <span class="onex active">1 oz  / 25 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="twox">2 oz  / 50 ml</span> <span class="threex">3 oz  / 75 ml</span>| Fresh Lime Juice                                         |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 19 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 28 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 38 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 56 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Navy Strength Rum [&#9432;](/spirit/navy_strength_rum "More Navy Strength Rum recipes")                                        | Planteray Mister Fogg |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lime Juice                                         |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 
 ### Notes
 

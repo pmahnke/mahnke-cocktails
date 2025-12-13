@@ -21,7 +21,7 @@ excerpt: |
 |   <span class="onex active">1 cube </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cube </span> <span class="twox">2 cube </span> <span class="threex">3 cube </span>| Sugar       |
 | <span class="onex active">1 splash </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> splash </span> <span class="twox">2 splash </span> <span class="threex">3 splash </span>| Soda Water  | Fever Tree                     |
 | <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters     | Angostura Aromatic Bitters     |
-|     <span class="onex active">2 oz  / 50 ml</span> <span class="onehalfx">3 oz  / 75 ml</span> <span class="twox">4 oz  / 100 ml</span> <span class="threex">6 oz  / 150 ml</span>| Rye Whiskey | Old Overholt Straight 86 proof |
+|     <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Rye Whiskey | Old Overholt Straight 86 proof |
 
 ### Notes
 

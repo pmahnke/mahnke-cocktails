@@ -235,7 +235,7 @@ sub convert {
 
     # 0 - measure, 1 - scale,  2 - min qty, 3 - max qty
 
-    # water 25 g = 1 oz
+    # water 25 g = 1 oz, moving to 30 ml = 1 oz on 13 Dec 2025
     # rich syrup 36.68 g = 1 oz
     # semi rich syrup 35 g = 1 oz
     # simple syrup 34.16 g = 1 oz
@@ -257,8 +257,8 @@ sub convert {
     if ($meas =~ /oz/i) {
         # only create an ml for oz
         $FLAGoz = 1;
-        $minml = $minq * 25;
-        $maxml = $maxq * 25 if ($maxq);
+        $minml = $minq * 30;
+        $maxml = $maxq * 30 if ($maxq);
     }
 
     if ($meas =~ /ml/i) {

@@ -17,7 +17,7 @@ excerpt: |
 | --------: | ----------- |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> cups </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> cups </span>| White Sugar |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> cups </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> cups </span>| Hot Water   |
-|      <span class="onex active">6 oz  / 150 ml</span> <span class="onehalfx">9 oz  / 225 ml</span> <span class="twox">12 oz  / 300 ml</span> <span class="threex">18 oz  / 450 ml</span>| Raspberries |
+|      <span class="onex active">6 oz  / 180 ml</span> <span class="onehalfx">9 oz  / 270 ml</span> <span class="twox">12 oz  / 360 ml</span> <span class="threex">18 oz  / 540 ml</span>| Raspberries |
 
 ### Method
 
