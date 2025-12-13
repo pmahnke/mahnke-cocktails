@@ -11,7 +11,7 @@ iconfile: hot_tigers_milk
 stars: 0
 base_spirits: ['Demerara Rum']
 youtube: "pJ_OQtJnIrY"
-description: "The Hot Tiger's Milk is a vintage Tiki cocktail, attributed to Donn Beach, that combines aged rum and a special butter-and-coconut-cream batter with hot water and spices for a tropical twist on Hot Buttered Rum."
+description: "A vintage Tiki cocktail, attributed to Donn Beach, that combines aged rum and a special butter-and-coconut-cream batter with hot water and spices for a tropical twist on Hot Buttered Rum."
 excerpt: |
   The Hot Tiger's Milk is a rich and warming Tiki-era cocktail, first served at Don the Beachcomber, that elevates the classic Hot Buttered Rum profile with tropical ingredients. It is typically built in a mug by combining an aged amber rum with a sweetened batter made from butter, coconut cream, and honey.
 ---
