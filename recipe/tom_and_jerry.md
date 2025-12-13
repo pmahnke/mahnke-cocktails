@@ -5,7 +5,7 @@ type: multirecipe
 title: "Tom & Jerry"
 eras: [classic]
 categories: [eggnog]
-permalink: "/recipe/tomandjerry/"
+permalink: "/recipe/tom_and_jerry/"
 iconfile: tom_and_jerry
 stars: 0
 base_spirits: "Jamaican Rum, Demerara Rum, Cognac "

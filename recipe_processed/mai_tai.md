@@ -30,9 +30,18 @@ excerpt: |
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: Tiki, Crushed Ice
-- Garnish: Mint Sprig, Inverted Lime Husk, Cocktail Cherry
-- Special Prep: Add the mint sprig to the glass. Float the dark rum on the drink. Add the inverted lime shell and place the cocktail cherry inside. fill the lime shell with 151 rum and light.
+- Glassware: 
+  - Tiki
+  - Crushed Ice
+- Garnish: 
+  - Mint Sprig
+  - Inverted Lime Husk
+  - Cocktail Cherry
+- Special Prep: 
+  - Add the mint sprig to the glass. 
+  - Float the dark rum on the drink. 
+  - Add the inverted lime shell and place the cocktail cherry inside. 
+  - Fill the lime shell with 151 rum and light.
 
     
 <script type="application/ld+json">
@@ -66,15 +75,51 @@ excerpt: |
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Tiki, Crushed Ice"
+      "text": "- Glassware: "
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Mint Sprig, Inverted Lime Husk, Cocktail Cherry"
+      "text": "  - Tiki"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Add the mint sprig to the glass. Float the dark rum on the drink. Add the inverted lime shell and place the cocktail cherry inside. fill the lime shell with 151 rum and light."
+      "text": "  - Crushed Ice"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Garnish: "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Mint Sprig"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Inverted Lime Husk"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Cocktail Cherry"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Add the mint sprig to the glass. "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Float the dark rum on the drink. "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Add the inverted lime shell and place the cocktail cherry inside. "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Fill the lime shell with 151 rum and light."
     }
     ],
   "recipeYield": "1 cocktail",
