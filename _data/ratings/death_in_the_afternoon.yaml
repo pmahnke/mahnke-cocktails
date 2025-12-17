@@ -1,3 +1,5 @@
 ratings:
   - person: Peter
     rating: 3.5
+  - person: John
+    rating: 3.5
