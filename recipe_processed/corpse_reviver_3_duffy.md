@@ -12,7 +12,7 @@ base_spirits: ['Pastis', 'Champagne']
 youtube: "kBHi_atZsbM"
 description: "This Corpse Reviver #3 as a simple highball featuring Pernod, lemon juice, and Champagne."
 excerpt: |
-  Patrick Gavin Duffy's 1956 edition of The Official Mixer's Manual describes the Corpse Reviver #3 as a simple highball featuring Pernod, lemon juice, and Champagne. Unlike other Corpse Reviver variations, this version emphasizes the anise flavor of Pernod and functions as a sparkling &#34;pick-me-up&#34; rather than a spirit-forward cocktail.
+  Patrick Gavin Duffy's 1956 edition of The Official Mixer's Manual describes the Corpse Reviver #3 as a simple highball featuring Pernod, lemon juice, and Champagne. Unlike other Corpse Reviver variations, this version emphasizes the anise flavor of Pernod and functions as a sparkling "pick-me-up" rather than a spirit-forward cocktail.
 ---
 
 ### Ingredients
