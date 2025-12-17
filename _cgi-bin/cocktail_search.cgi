@@ -120,32 +120,34 @@ sub prepareResults {
 	$Y{'title'} = $title if ($title);
 
 	$stars = `ag --nonumbers -A 0 stars: $file`;
-    $stars =~ s/stars://;
-    $stars =~ s/\"//g;
-    $Y{'stars'} = $stars if ($stars);
-
+	$stars =~ s/stars://;
+	$stars =~ s/\"//g;
+	$Y{'stars'} = $stars if ($stars);
+	
 	$cat = `ag --nonumbers -A 0 categories: $file`;
-    $cat =~ s/categories://;
+	$cat =~ s/categories://;
 	$cat =~ s/(\[|\])//g;
-    $cat =~ s/\"//g;
-    $Y{'cat'} = $cat if ($cat);
-
-    $exc = `ag --nonumbers -A 0 description: $file`;
-    $exc =~ s/description://;
-    if ($exc =~ /\|/) {
-        # get decscription after pipe for multi-line
-        $exc = `ag --nonumbers -A 1 description: $file | sed -n '2p'`;     
-    } else {
-        substr($exc, 0, 2) = ""; # Remove the first character
-        substr($exc, -2) = "";
-    }  
-    $Y{'excerpt'} = $exc if ($exc);
-
-    $permalink = `ag --nonumbers -A 0 permalink: $file`;
-    $permalink =~ s/permalink: //;
-    $permalink =~ s/"//g;
-    $permalink =~ s/'//g;
-    $Y{'permalink'} = $permalink if ($permalink);
+	$cat =~ s/\"//g;
+	$Y{'cat'} = $cat if ($cat);
+	
+	$exc = `ag --nonumbers -A 0 description: $file`;
+	$exc =~ s/description://;
+	if ($exc =~ /\|/) {
+	    # get decscription after pipe for multi-line
+	    $exc = `ag --nonumbers -A 1 description: $file | sed -n '2p'`;
+	    $exc =~ s/description: \|//;
+	} else {
+	    substr($exc, 0, 2) = ""; # Remove the first character
+	    substr($exc, -2) = "";
+	}
+	$exc = qq | no output ag --nonumbers -A 1 description: $file \| sed -n '2p'| if (!$exc);
+	$Y{'excerpt'} = $exc if ($exc);
+	
+	$permalink = `ag --nonumbers -A 0 permalink: $file`;
+	$permalink =~ s/permalink: //;
+	$permalink =~ s/"//g;
+	$permalink =~ s/'//g;
+	$Y{'permalink'} = $permalink if ($permalink);
 	
 	chop($file);
 	
@@ -188,9 +190,9 @@ sub prepareResults {
 	# prepare the output
   	$Y{'title'} =~ s/"//g; # clean-up title
 	my $stars = 0;
-    $stars = $Y{'stars'} if ($Y{'stars'});
-    my $stars_text = "";
-    $stars_text = $stars . " ★" if ($stars);
+	$stars = $Y{'stars'} if ($Y{'stars'});
+	my $stars_text = "";
+	$stars_text = $stars . " ★" if ($stars);
    	my ($date, $time) = split (" ", $Y{'date'}); # get date from datetime
 
 	$result .= qq |
