@@ -23,9 +23,10 @@ excerpt: |
 
 |  Amount | Ingredient         | Brand               |
 | ------: | ------------------ | ------------------- |
-| 1/3 cup | Tom & Jerry Batter |
-| 1/6 cup | Demerara Rum       | El Dorado 12 Year   |
-| 1/6 cup | Cognac             | Pierre Ferrand 1840 |
+|    2 oz | Tom & Jerry Batter |
+| 0.75 oz | Demerara Rum       | El Dorado 12 Year   |
+| 0.75 oz | Cognac             | Pierre Ferrand 1840 |
+|    3 oz | Hot Water          |
 
 ### Notes
 
@@ -33,6 +34,7 @@ excerpt: |
 - Pour: Add all ingredients directly to the glass
 - Glassware: Tea Cup
 - Garnish: Grated nutmeg
+- Special Prep: Add the batter, rum and cognac to the cup and mix. Top with the hot water.
 
 </div>
 <div class="subrecipe" markdown="1">
@@ -44,10 +46,10 @@ excerpt: |
 |         Amount | Ingredient       | Brand                      |
 | -------------: | ---------------- | -------------------------- |
 |        2 whole | eggs             |
-|   0.5 barspoon | Vanilla Extract  |
-| 0.125 barspoon | Ground Clove     |
-| 0.125 barspoon | Ground Allspice  |
-| 0.125 barspoon | Ground Cinnamon  |
+|   0.5 teaspoon | Vanilla Extract  |
+| 0.125 teaspoon | Ground Clove     |
+| 0.125 teaspoon | Ground Allspice  |
+| 0.125 teaspoon | Ground Cinnamon  |
 |         0.5 oz | Jamaican Rum     | Appleton Estate V/X        |
 |       0.5 cups | Granulated Sugar |
 |        1 pinch | Salt             |

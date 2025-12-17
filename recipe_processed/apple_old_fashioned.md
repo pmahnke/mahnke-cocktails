@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/apple_old_fashioned/"
 iconfile: apple_old_fashioned
-stars: 0
+stars: 4
 base_spirits: ['Bourbon']
 youtube: "rWu7oPKxN4U"
 description: "Following the traditional Old Fashioned template of spirit, sugar, and bitters, the sweetener is an apple cider reduction."

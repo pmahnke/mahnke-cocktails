@@ -6,7 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/southside/"
 iconfile: southside
-stars: 0
+stars: 4
 base_spirits: ['Gin']
 youtube: "yxFAGMuM2I"
 description: "A simple and refreshing pre-Prohibition classic sour that combines gin, citrus, and fresh mint."

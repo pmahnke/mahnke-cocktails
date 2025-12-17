@@ -23,9 +23,10 @@ excerpt: |
 
 |  Amount | Ingredient         | Brand               |
 | ------: | ------------------ | ------------------- |
-| 1/3 cup | Tom & Jerry Batter |
-| 1/6 cup | Demerara Rum [&#9432;](/spirit/demerara_rum "More Demerara Rum recipes")       | El Dorado 12 Year   |
-| 1/6 cup | Cognac [&#9432;](/spirit/cognac "More Cognac recipes")             | Pierre Ferrand 1840 |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Tom & Jerry Batter |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Demerara Rum [&#9432;](/spirit/demerara_rum "More Demerara Rum recipes")       | El Dorado 12 Year   |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")             | Pierre Ferrand 1840 |
+|    <span class="onex active">3 oz  / 90 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span> <span class="twox">6 oz  / 180 ml</span> <span class="threex">9 oz  / 270 ml</span>| Hot Water          |
 
 ### Notes
 
@@ -33,6 +34,7 @@ excerpt: |
 - Pour: Add all ingredients directly to the glass
 - Glassware: Tea Cup
 - Garnish: Grated nutmeg
+- Special Prep: Add the batter, rum and cognac to the cup and mix. Top with the hot water.
 
 </div>
 <div class="subrecipe" markdown="1">
@@ -44,10 +46,10 @@ excerpt: |
 |         Amount | Ingredient       | Brand                      |
 | -------------: | ---------------- | -------------------------- |
 |        <span class="onex active">2 whole </span> <span class="onehalfx">3 whole </span> <span class="twox">4 whole </span> <span class="threex">6 whole </span>| eggs             |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox">1 barspoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Vanilla Extract  |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Ground Clove     |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Ground Allspice  |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Ground Cinnamon  |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="twox">1 teaspoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span>| Vanilla Extract  |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> teaspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span>| Ground Clove     |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> teaspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span>| Ground Allspice  |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> teaspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> teaspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> teaspoons</span>| Ground Cinnamon  |
 |         <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")     | Appleton Estate V/X        |
 |       <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> cups </span> <span class="twox">1 cups </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> cups </span>| Granulated Sugar |
 |        <span class="onex active">1 pinch </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> pinch </span> <span class="twox">2 pinch </span> <span class="threex">3 pinch </span>| Salt             |
@@ -75,7 +77,8 @@ excerpt: |
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1/3 cup Tom & Jerry Batter",
+  " 2 oz Tom & Jerry Batter",
+  " ",
   " ",
   " "
     ],
@@ -96,6 +99,10 @@ excerpt: |
     {
       "@type": "HowToStep",
       "text": "- Garnish: Grated nutmeg"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "- Special Prep: Add the batter, rum and cognac to the cup and mix. Top with the hot water."
     }
     ],
   "recipeYield": "1 cocktail",
