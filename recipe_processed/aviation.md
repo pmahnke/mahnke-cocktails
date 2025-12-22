@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 creator: Hugo Ensslin
 title: "Aviation"
-categories: [sour]
+categories: [sour, daisy]
 eras: [classic]
 permalink: "/recipe/aviation/"
 iconfile: aviation

@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Sidecar"
-categories: [sour]
+categories: [sour, sidecar]
 eras: [classic]
 permalink: "/recipe/sidecar/"
 iconfile: sidecar

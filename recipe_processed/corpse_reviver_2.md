@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Corpse Reviver #2"
-categories: [sour, corpse_reviver]
+categories: [sour, daisy, corpse_reviver]
 eras: [prohibition]
 permalink: "/recipe/corpse_reviver_2/"
 iconfile: corpse_reviver_2

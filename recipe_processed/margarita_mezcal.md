@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Mezcal Margarita"
-categories: [sour]
+categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_mezcal/"
 iconfile: margarita_mezcal

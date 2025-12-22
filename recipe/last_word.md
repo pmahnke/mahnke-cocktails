@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Last Word"
-categories: [sour]
+categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/last_word/"
 iconfile: last_word

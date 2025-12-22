@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Monte Cassino"
 eras: [modern]
-categories: [sour]
+categories: [sour, daisy]
 permalink: "/recipe/monte_cassino/"
 iconfile: monte_cassino
 stars: 4.25

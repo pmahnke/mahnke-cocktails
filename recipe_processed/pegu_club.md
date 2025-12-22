@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Pegu Club"
-categories: [sour]
+categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/pegu_club/"
 iconfile: pegu_club

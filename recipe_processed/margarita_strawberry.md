@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Strawberry Frozen Margarita"
-categories: [sour]
+categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_strawberry/"
 iconfile: margarita_strawberry
