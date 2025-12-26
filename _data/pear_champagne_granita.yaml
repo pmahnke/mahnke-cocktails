@@ -1,0 +1,10 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-champagne.svg
+      title: Champagne
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist
