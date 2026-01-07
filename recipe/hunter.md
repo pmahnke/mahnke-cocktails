@@ -1,6 +1,6 @@
 ---
 layout: recipe
-author: Anders Erickson, Leandro DiMonriva, Cara Devine
+author: Anders Erickson
 title: "Hunter"
 categories: [cocktail]
 eras: [classic, modern]
