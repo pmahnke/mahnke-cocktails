@@ -30,7 +30,7 @@ excerpt: |
 - Pour: Double Strain
 - Glassware: Nick & Nora
 - Garnish: Cocktail Cherry
-- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the Egg white or aquafaba.
+- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
     
 <script type="application/ld+json">
@@ -70,7 +70,7 @@ excerpt: |
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the Egg white or aquafaba."
+      "text": "- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba."
     }
     ],
   "recipeYield": "1 cocktail",
