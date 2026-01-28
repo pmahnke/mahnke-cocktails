@@ -19,7 +19,7 @@ excerpt: |
 | Amount | Ingredient     | Brand                              |
 | -----: | -------------- | ---------------------------------- |
 | 1.5 oz | Rye            | Rittenhouse 100 Proof              |
-| 0.5 oz | Jamaican Rum   | Appleton Estate Rare Casks 12 Year |
+| 0/5 oz | Jamaican Rum     | Appleton Estate Rare Casks 12 Year |
 |   1 oz | Tawny Port     | Graham’s 10 Year                   |
 | 1 dash | Bitters        | Angostura Aromatic Bitters         |
 | 1 dash | Orange Bitters | Regan’s                            |
