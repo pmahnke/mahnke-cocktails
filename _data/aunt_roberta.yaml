@@ -1,0 +1,21 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /assets/images/ingredient-blackberry.svg
+      title: Blackberry
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /assets/images/ingredient-vodka.svg
+      title: Vodka
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist
