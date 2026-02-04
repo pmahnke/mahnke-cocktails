@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/strawberry_daiquiri/"
 iconfile: "strawberry_daiquiri"
 stars: 0
-base_spirits: "Gold Rum, Banana Liqueur"
+base_spirits: "Gold Rum"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/1885/strawberry-daiquiri-frozen"
 description: "A vibrant, ruby-red cocktail, blended to a slushy consistency and characterized by the sweet, ripe flavor of strawberries."
 excerpt: |
@@ -16,13 +16,13 @@ excerpt: |
 
 ### Ingredients
 
-|  Amount | Ingredient                                                | Brand |
-| ------: | --------------------------------------------------------- | ----- |
-|  1.5 oz | Gold Rum                                                  | Don Q |
-| 0.66 oz | Fresh Lime Juice                                          |
-|  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
-| 5 whole | Strawberries                                              |
-|  4.5 oz | Crushed Ice                                               |
+|    Amount | Ingredient                                                | Brand |
+| --------: | --------------------------------------------------------- | ----- |
+|    1.5 oz | Gold Rum                                                  | Don Q |
+| 0.6667 oz | Fresh Lime Juice                                          |
+|    0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
+|   5 whole | Strawberries                                              |
+|    4.5 oz | Crushed Ice                                               |
 
 ### Notes
 

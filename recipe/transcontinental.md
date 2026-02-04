@@ -20,7 +20,7 @@ excerpt: |
 |     Amount | Ingredient         | Brand               |
 | ---------: | ------------------ | ------------------- |
 |    1.75 oz | Gin                | Hayman's London Dry |
-|    0.33 oz | Maraschino Liqueur | Luxardo             |
+|  0.3333 oz | Maraschino Liqueur | Luxardo             |
 | 1 barspoon | Yellow Chartreuse  | Yellow Chartreuse   |
 |    0.25 oz | Crème de Violette  | Rothman & Winter    |
 |     0.5 oz | Fresh Lemon Juice  |

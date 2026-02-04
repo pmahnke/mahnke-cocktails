@@ -13,11 +13,11 @@ excerpt: |
 
 ### Ingredients
 
-|    Amount | Ingredient    |
-| --------: | ------------- |
-| <span class="onex active">0.67 cups </span> <span class="onehalfx">1.005 cups </span> <span class="twox">1.34 cups </span> <span class="threex">2.01 cups </span>| Honey         |
-| <span class="onex active">0.33 cups </span> <span class="onehalfx">0.495 cups </span> <span class="twox">0.66 cups </span> <span class="threex">0.99 cups </span>| Boiling Water |
-|  <span class="onex active">2 sticks </span> <span class="onehalfx">3 sticks </span> <span class="twox">4 sticks </span> <span class="threex">6 sticks </span>| Cinnamon      |
+|      Amount | Ingredient    |
+| ----------: | ------------- |
+| <span class="onex active"> <sup>2</sup>&frasl;<sub>3</sub> cups </span> <span class="onehalfx">1.00005 cups </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>3</sub>4 cups </span> <span class="threex">2.0001 cups </span>| Honey         |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>3</sub> cups </span> <span class="onehalfx">0.49995 cups </span> <span class="twox">0.6666 cups </span> <span class="threex">0.9999 cups </span>| Boiling Water |
+|    <span class="onex active">2 sticks </span> <span class="onehalfx">3 sticks </span> <span class="twox">4 sticks </span> <span class="threex">6 sticks </span>| Cinnamon      |
 
 ### Method
 
@@ -39,7 +39,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " ",
-  "0.33 cups Boiling Water",
+  "0.3333 cups Boiling Water",
   " "
     ],
   "name": "{{ page.title }}",

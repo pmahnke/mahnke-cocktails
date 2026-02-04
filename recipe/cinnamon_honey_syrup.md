@@ -13,11 +13,11 @@ excerpt: |
 
 ### Ingredients
 
-|    Amount | Ingredient    |
-| --------: | ------------- |
-| 0.67 cups | Honey         |
-| 0.33 cups | Boiling Water |
-|  2 sticks | Cinnamon      |
+|      Amount | Ingredient    |
+| ----------: | ------------- |
+| 0.6667 cups | Honey         |
+| 0.3333 cups | Boiling Water |
+|    2 sticks | Cinnamon      |
 
 ### Method
 

@@ -6,7 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/autumn_rose/"
 iconfile: autumn_rose
-stars: 4
+stars: 4.25
 base_spirits: ['Apple Brandy']
 youtube: "9OxlSOioD_k"
 description: "An original sour cocktail that features the warm, autumnal flavors of apple brandy."
