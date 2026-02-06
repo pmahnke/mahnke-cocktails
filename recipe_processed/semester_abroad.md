@@ -8,10 +8,10 @@ permalink: "/recipe/semester_abroad/"
 iconfile: semester_abroad
 stars: 0
 base_spirits: ['Rye', 'Fernet Branca']
-youtube: "mBGgu3qRztY"
-description: "An original cocktail that is a pretty and flavorful variation on the Cape Codder."
+youtube: "JIQ_UNrQZR8"
+description: "It’s a simple three-ingredient build of rye whiskey, orange curaçao, and Fernet-Branca, but the result is rich and aromatic."
 excerpt: |
-  A pretty cocktail, variation on the Cape Codder.
+  If you like stirred whiskey cocktails like a Manhattan or Toronto, this one's for you. It’s a simple three-ingredient build of rye whiskey, orange curaçao, and Fernet-Branca, but the result is rich and aromatic.
 ---
 
 ### Ingredients

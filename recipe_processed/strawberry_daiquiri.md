@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/strawberry_daiquiri/"
 iconfile: "strawberry_daiquiri"
 stars: 0
-base_spirits: ['Gold Rum', 'Banana Liqueur']
+base_spirits: ['Gold Rum']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/1885/strawberry-daiquiri-frozen"
 description: "A vibrant, ruby-red cocktail, blended to a slushy consistency and characterized by the sweet, ripe flavor of strawberries."
 excerpt: |
