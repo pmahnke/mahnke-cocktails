@@ -1,0 +1,17 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-aperol.svg
+      title: Aperol
+    - url: /assets/images/ingredient-pisco.svg
+      title: Pisco
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and nora
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist
+    - url: /assets/images/herb_mint.svg
+      title: Mint
