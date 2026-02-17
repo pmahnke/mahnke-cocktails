@@ -20,7 +20,7 @@ excerpt: |
 | ------: | --------------------------------------------------------- | ------------------------ |
 |  1.5 oz | Pisco                                                     | Barsol Primero Quebranta |
 |    1 oz | Aperol                                                    | Aperol                   |
-|   0.5oz | Fresh Lemon Juice                                         |
+|  0.5 oz | Fresh Lemon Juice                                         |
 |  0.5 oz | Fresh Lime Juice                                          |
 | 0.75 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |  0.5 oz | Raw Egg White / Aquafaba (chickpea water)                 |
