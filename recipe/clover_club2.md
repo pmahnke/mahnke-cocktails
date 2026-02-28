@@ -19,7 +19,7 @@ excerpt: |
 |  Amount | Ingredient                                                | Brand                            |
 | ------: | --------------------------------------------------------- | -------------------------------- |
 |    1 oz | Gin                                                       | Plymouth                         |
-|    1 oz | White Vermouth                                            | Dolin Blanc Vermouth de Chambéry |
+|    1 oz | Blanc Vermouth                                            | Dolin Blanc Vermouth de Chambéry |
 | 0.75 oz | Fresh Lemon Juice                                         |
 | 5 whole | Raspberries                                               |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |

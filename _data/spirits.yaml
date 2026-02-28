@@ -69,7 +69,7 @@
 - name: Blanc Vermouth
   slug: blanc_vermouth
   url: /assets/images/ingredient-vermouth.svg
-  description: Also known as Bianco or White Vermouth, a fortified wine that is sweet and lighter in color than sweet (red) vermouth, often featuring vanilla and floral notes.
+  description: Also known as Bianco or Blanc Vermouth, a fortified wine that is sweet and lighter in color than sweet (red) vermouth, often featuring vanilla and floral notes.
 - name: Blanco Tequila
   slug: blanco_tequila
   url: /assets/images/ingredient-tequila.svg
@@ -422,7 +422,7 @@
   slug: white_rum
   url: /assets/images/ingredient-light-rum.svg
   description: Clear, unaged rum, often column-distilled for a lighter body and subtle sweetness, making it a highly versatile cocktail base.
-- name: White Vermouth
+- name: Blanc Vermouth
   slug: white_vermouth
   url: /assets/images/ingredient-vermouth.svg
   description: Also known as Blanc or Bianco Vermouth, a fortified wine that is sweet and lighter in color than sweet (red) vermouth, often featuring vanilla and floral notes.

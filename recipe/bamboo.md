@@ -19,7 +19,7 @@ excerpt: |
 |   Amount | Ingredient     | Brand                            |
 | -------: | -------------- | -------------------------------- |
 |   1.5 oz | Oloroso Sherry | Lustau 'Emperatriz Eugenia'      |
-|   1.5 oz | White Vermouth | Dolin Blanc Vermouth de Chambéry |
+|   1.5 oz | Blanc Vermouth | Dolin Blanc Vermouth de Chambéry |
 | 2 dashes | Orange Bitters | Regan's No. 6                    |
 | 2 dashes | Bitters        | Angostura Aromatic Bitters       |
 

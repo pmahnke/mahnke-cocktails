@@ -7,7 +7,7 @@ categories: [tiki]
 permalink: "/recipe/matador/"
 iconfile: matador
 stars: 0
-base_spirits: "Reposado Tequila, White Vermouth "
+base_spirits: "Reposado Tequila, Blanc Vermouth "
 youtube: "3aV3DzDfW_A"
 description: "A simple, tiki-style cocktail similar to a Margarita, featuring tequila, pineapple, and lime."
 excerpt: |
@@ -19,7 +19,7 @@ excerpt: |
 |  Amount | Ingredient            | Brand                            |
 | ------: | --------------------- | -------------------------------- |
 | 0.75 oz | Reposado Tequila      | Milagro                          |
-| 0.75 oz | White Vermouth        | Dolin Blanc Vermouth de Chambéry |
+| 0.75 oz | Blanc Vermouth        | Dolin Blanc Vermouth de Chambéry |
 | 0.75 oz | Orange Curaçao        | Marie Brizard                    |
 |    1 oz | Fresh Pineapple Juice |
 |  0.5 oz | Fresh Lime Juice      |

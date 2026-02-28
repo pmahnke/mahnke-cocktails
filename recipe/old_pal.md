@@ -21,7 +21,7 @@ excerpt: |
 | ------: | -------------- | -------------------------------- |
 |  1.5 oz | Rye            | Rittenhouse 100 Proof            |
 | 0.75 oz | Campari        | Campari                          |
-| 0.75 oz | White Vermouth | Dolin Blanc Vermouth de Chambéry |
+| 0.75 oz | Blanc Vermouth | Dolin Blanc Vermouth de Chambéry |
 
 ### Notes
 

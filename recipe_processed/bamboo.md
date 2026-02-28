@@ -19,7 +19,7 @@ excerpt: |
 |   Amount | Ingredient     | Brand                            |
 | -------: | -------------- | -------------------------------- |
 |   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Oloroso Sherry [&#9432;](/spirit/oloroso_sherry "More Oloroso Sherry recipes") | Lustau 'Emperatriz Eugenia'      |
-|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Vermouth [&#9432;](/spirit/white_vermouth "More White Vermouth recipes") | Dolin Blanc Vermouth de Chambéry |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Blanc Vermouth [&#9432;](/spirit/white_vermouth "More Blanc Vermouth recipes") | Dolin Blanc Vermouth de Chambéry |
 | <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Orange Bitters | Regan's No. 6                    |
 | <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters        | Angostura Aromatic Bitters       |
 
@@ -44,7 +44,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "1.5 oz Oloroso Sherry",
-  "1.5 oz White Vermouth",
+  "1.5 oz Blanc Vermouth",
   "2 dashes Orange Bitters",
   " "
     ],

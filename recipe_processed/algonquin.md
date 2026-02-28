@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/algonquin/"
 iconfile: algonquin
 stars: 3
-base_spirits: ['Rye', 'White Vermouth', 'Amontillado Sherry']
+base_spirits: ['Rye', 'Blanc Vermouth', 'Amontillado Sherry']
 youtube: "BarYf4SITZ4"
 description: "A Prohibition-era sour named for the famous Manhattan hotel, featuring rye whiskey and pineapple juice."
 excerpt: |
@@ -19,7 +19,7 @@ excerpt: |
 |  Amount | Ingredient                                               | Brand                               |
 | ------: | -------------------------------------------------------- | ----------------------------------- |
 |  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Rye [&#9432;](/spirit/rye "More Rye recipes")                                                      | Rittenhouse 100 Proof               |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| White Vermouth [&#9432;](/spirit/white_vermouth "More White Vermouth recipes")                                           | Dolin Blanc Vermouth de Chambéry    |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Blanc Vermouth [&#9432;](/spirit/white_vermouth "More Blanc Vermouth recipes")                                           | Dolin Blanc Vermouth de Chambéry    |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Amontillado Sherry [&#9432;](/spirit/amontillado_sherry "More Amontillado Sherry recipes")                                       | Lustau Amontillado Los Arcos |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Pineapple Juice                                    |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Fresh Lemon Juice                                        |

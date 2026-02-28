@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/affinity/"
 iconfile: affinity
 stars: 0
-base_spirits: "Scotch, Sweet Vermouth, White Vermouth"
+base_spirits: "Scotch, Sweet Vermouth, Blanc Vermouth"
 youtube: "9lgx04fJrSM"
 description: "A sophisticated classic that creates a harmonious blend of Scotch, sweet vermouth, and dry vermouth."
 excerpt: |
@@ -20,7 +20,7 @@ excerpt: |
 | -------: | ------------------ | -------------------------------- |
 |  0.75 oz | Single Malt Scotch | Talisker 10 Year                 |
 |  0.75 oz | Sweet Vermouth     | Cocchi Vermouth di Torino        |
-|  0.75 oz | White Vermouth     | Dolin Blanc Vermouth de Chambéry |
+|  0.75 oz | Blanc Vermouth     | Dolin Blanc Vermouth de Chambéry |
 | 2 dashes | Bitters            | Angostura Aromatic Bitters       |
 
 ### Notes

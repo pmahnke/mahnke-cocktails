@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/lucien_gaudin/"
 iconfile: lucien_gaudin
 stars: 3
-base_spirits: "Plymouth Gin, White Vermouth, Campari "
+base_spirits: "Plymouth Gin, Blanc Vermouth, Campari "
 youtube: "NLF7z6MHMa0"
 description: "A classic Prohibition-era cocktail named for a French Olympic fencer, this is a Negroni variation that uses dry vermouth instead of sweet."
 excerpt: |
@@ -19,7 +19,7 @@ excerpt: |
 | Amount | Ingredient     | Brand                            |
 | -----: | -------------- | -------------------------------- |
 |   1 oz | Gin            | Plymouth Gin                     |
-| 0.5 oz | White Vermouth | Dolin Blanc Vermouth de Chambéry |
+| 0.5 oz | Blanc Vermouth | Dolin Blanc Vermouth de Chambéry |
 | 0.5 oz | Campari        | Campari                          |
 | 0.5 oz | Cointreau      | Cointreau                        |
 

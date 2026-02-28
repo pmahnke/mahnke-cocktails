@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/el_presidente/"
 iconfile: el_presidente
 stars: 4
-base_spirits: "Gin, White Vermouth"
+base_spirits: "Gin, Blanc Vermouth"
 youtube: "1AZGE2FUAO4"
 description: "A classic Cuban cocktail from the Prohibition era, this is a sophisticated and slightly sweet drink featuring rum, vermouth, and curaçao."
 excerpt: |
@@ -19,7 +19,7 @@ excerpt: |
 |     Amount | Ingredient                                      | Brand                            |
 | ---------: | ----------------------------------------------- | -------------------------------- |
 |     1.5 oz | Light Rum                                       | Probitas                         |
-|    0.75 oz | White Vermouth                                  | Dolin Blanc Vermouth de Chambéry |
+|    0.75 oz | Blanc Vermouth                                  | Dolin Blanc Vermouth de Chambéry |
 |    0.25 oz | Dry Curaçao                                     | Pierre Ferrand                   |
 | 1 barspoon | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 

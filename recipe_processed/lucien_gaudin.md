@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/lucien_gaudin/"
 iconfile: lucien_gaudin
 stars: 3
-base_spirits: ['Plymouth Gin', 'White Vermouth', 'Campari']
+base_spirits: ['Plymouth Gin', 'Blanc Vermouth', 'Campari']
 youtube: "NLF7z6MHMa0"
 description: "A classic Prohibition-era cocktail named for a French Olympic fencer, this is a Negroni variation that uses dry vermouth instead of sweet."
 excerpt: |
@@ -19,7 +19,7 @@ excerpt: |
 | Amount | Ingredient     | Brand                            |
 | -----: | -------------- | -------------------------------- |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")            | Plymouth Gin                     |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| White Vermouth [&#9432;](/spirit/white_vermouth "More White Vermouth recipes") | Dolin Blanc Vermouth de Chambéry |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Blanc Vermouth [&#9432;](/spirit/white_vermouth "More Blanc Vermouth recipes") | Dolin Blanc Vermouth de Chambéry |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Campari [&#9432;](/spirit/campari "More Campari recipes")        | Campari                          |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cointreau      | Cointreau                        |
 
@@ -44,7 +44,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " ",
-  "0.5 oz White Vermouth",
+  "0.5 oz Blanc Vermouth",
   " ",
   " "
     ],
