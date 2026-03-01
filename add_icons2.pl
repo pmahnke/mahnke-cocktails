@@ -373,7 +373,8 @@ foreach $file (sort @files) {
             $ingredient{'cognac'} = 1 if (/brandy/i && !$ingredient{'cognac'});
             $ingredient{'lemon-juice'} = 1 if (/lemon juice/i);
             $ingredient{'grenadine'} = 1 if (/grenadine/i);
-            $ingredient{'gin'} = 1 if (/gin/i);
+            $ingredient{'sloe-gin'} = 1 if (/sloe gin/i);
+            $ingredient{'gin'} = 1 if (/gin/i) && !$ingredient{'sloe-gin'};
             $ingredient{'cocchi-americano'} = 1 if (/cocchi americano/i);
             #$ingredient{'white-creme-de-cacao'} = 1 if (/white crème de cacao/i);
             $ingredient{'ginger-beer'} = 1 if (/ginger beer/i);
@@ -434,7 +435,6 @@ foreach $file (sort @files) {
             $ingredient{'elderflower-liqueur'} = 1 if (/elderflower liqueur/i);
             $ingredient{'allspice-dram'} = 1 if (/allspice dram/i);
             $ingredient{'scotch'} = 1 if (/scotch/i);
-            $ingredient{'sloe-gin'} = 1 if (/sloe gin/i);
             $ingredient{'tequila'} = 1 if (/tequila/i);
             $ingredient{'mezcal'} = 1 if (/mezcal/i);
             $ingredient{'vodka'} = 1 if (/vodka/i);

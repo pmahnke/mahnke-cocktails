@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /assets/images/ingredient-benedictine.svg
       title: Benedictine
+    - url: /assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican rum
   glass:
     - url: /assets/images/glass_rocks.svg
       title: Rocks
