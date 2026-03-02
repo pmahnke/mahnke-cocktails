@@ -31,4 +31,4 @@ excerpt: |
 - Pour: Julep Strain
 - Glassware: Martini
 - Garnish: Lemon peel
-- Special Prep: None
+- Special Prep: Expressed lemon oil

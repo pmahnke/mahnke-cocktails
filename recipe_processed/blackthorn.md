@@ -31,7 +31,7 @@ excerpt: |
 - Pour: Julep Strain
 - Glassware: Martini
 - Garnish: Lemon peel
-- Special Prep: None
+- Special Prep: Expressed lemon oil
 
     
 <script type="application/ld+json">
@@ -71,7 +71,7 @@ excerpt: |
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "- Special Prep: Expressed lemon oil"
     }
     ],
   "recipeYield": "1 cocktail",
