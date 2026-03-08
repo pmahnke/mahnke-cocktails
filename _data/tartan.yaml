@@ -4,8 +4,6 @@ images:
       title: Amaro
     - url: /assets/images/ingredient-drambuie.svg
       title: Drambuie
-    - url: /assets/images/ingredient-scotch.svg
-      title: Scotch
     - url: /assets/images/ingredient-single-malt-scotch.svg
       title: Single malt scotch
   tool:

@@ -4,8 +4,6 @@ images:
       title: Aperol
     - url: /assets/images/ingredient-bourbon.svg
       title: Bourbon
-    - url: /assets/images/ingredient-scotch.svg
-      title: Scotch
     - url: /assets/images/ingredient-single-malt-scotch.svg
       title: Single malt scotch
   tool:

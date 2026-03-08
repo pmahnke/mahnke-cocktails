@@ -434,7 +434,7 @@ foreach $file (sort @files) {
             $ingredient{'irish-whiskey'} = 1 if (/irish whiskey/i);
             $ingredient{'elderflower-liqueur'} = 1 if (/elderflower liqueur/i);
             $ingredient{'allspice-dram'} = 1 if (/allspice dram/i);
-            $ingredient{'scotch'} = 1 if (/scotch/i);
+            $ingredient{'scotch'} = 1 if (/scotch/i && !$ingredient{'single-malt-scotch'}); # replace if we get a single malt bottle
             $ingredient{'tequila'} = 1 if (/tequila/i);
             $ingredient{'mezcal'} = 1 if (/mezcal/i);
             $ingredient{'vodka'} = 1 if (/vodka/i);
