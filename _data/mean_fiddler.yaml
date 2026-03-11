@@ -6,8 +6,6 @@ images:
       title: Chartreuse
     - url: /assets/images/ingredient-irish-whiskey.svg
       title: Irish whiskey
-    - url: /assets/images/ingredient-scotch.svg
-      title: Scotch
     - url: /assets/images/ingredient-single-malt-scotch.svg
       title: Single malt scotch
   tool:

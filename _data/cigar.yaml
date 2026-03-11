@@ -2,8 +2,6 @@ images:
   ingredient:
     - url: /assets/images/ingredient-aperol.svg
       title: Aperol
-    - url: /assets/images/ingredient-scotch.svg
-      title: Scotch
     - url: /assets/images/ingredient-single-malt-scotch.svg
       title: Single malt scotch
   tool:
