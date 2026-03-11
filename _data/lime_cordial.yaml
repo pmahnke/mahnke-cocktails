@@ -1,0 +1,10 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-lime-juice.svg
+      title: Lime juice
+  tool:
+    - url: /assets/images/tool_grater.svg
+      title: Grater
+  garnish:
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar
