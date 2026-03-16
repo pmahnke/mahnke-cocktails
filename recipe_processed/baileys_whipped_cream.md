@@ -1,15 +1,15 @@
 ---
 layout: recipe
-title: "Chartreuse Infused Whipped Cream"
+title: "Baileys Infused Whipped Cream"
 categories: [syrup]
-permalink: "/recipe/chartreuse_whipped_cream/"
-iconfile: chartreuse_whipped_cream
+permalink: "/recipe/baileys_whipped_cream/"
+iconfile: baileys_whipped_cream
 stars: 0
-base_spirits: ['Green Chartreuse', 'Heavy Cream', 'Powdered Sugar']
-youtube: kRPWDOCVByk
-description: "Chartreuse whipped cream is a delightful topping for cocktails and desserts. It adds a touch of herbal sweetness and a beautiful green color."
+base_spirits: ['Baileys', 'Heavy Cream', 'Powdered Sugar']
+youtube: M8uXEDvbvVM
+description: "Baileys Infused Whipped Cream is a velvety, aerated topping that blends the airy sweetness of traditional whipped cream with the rich, creamy notes of Irish whiskey, cocoa, and vanilla."
 excerpt: |
-  Chartreuse whipped cream is a delightful topping for cocktails and desserts. It adds a touch of herbal sweetness and a beautiful green color.
+  Baileys Infused Whipped Cream is a velvety, aerated topping that blends the airy sweetness of traditional whipped cream with the rich, creamy notes of Irish whiskey, cocoa, and vanilla.
 ---
 
 ### Ingredients
@@ -17,7 +17,7 @@ excerpt: |
 |       Amount | Ingredient       |
 | -----------: | ---------------- |
 |       <span class="onex active">2 cups </span> <span class="onehalfx">3 cups </span> <span class="twox">4 cups </span> <span class="threex">6 cups </span>| Heavy Cream      |
-|         <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Green Chartreuse [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes") |
+|         <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Baileys Irish Cream Liqueur |
 | <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Powdered Sugar   |
 
 ### Method:
@@ -37,7 +37,7 @@ excerpt: |
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " ",
-  "2 oz Green Chartreuse",
+  "2 oz Baileys Irish Cream Liqueur",
   " "
     ],
   "name": "{{ page.title }}",

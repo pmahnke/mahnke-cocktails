@@ -7,6 +7,7 @@ iconfile: chartreuse_whipped_cream
 stars: 5
 base_spirits: "Green Chartreuse, Heavy Cream, Powdered Sugar"
 youtube: kRPWDOCVByk
+description: "Chartreuse whipped cream is a delightful topping for cocktails and desserts. It adds a touch of herbal sweetness and a beautiful green color."
 excerpt: |
   Chartreuse whipped cream is a delightful topping for cocktails and desserts. It adds a touch of herbal sweetness and a beautiful green color.
 ---

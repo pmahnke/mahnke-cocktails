@@ -1,0 +1,19 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-coffee-liqueur.svg
+      title: Coffee liqueur
+    - url: /assets/images/ingredient-cream.svg
+      title: Cream
+    - url: /assets/images/ingredient-scotch.svg
+      title: Scotch
+  tool:
+    - url: /assets/images/tool_grater.svg
+      title: Grater
+  glass:
+    - url: /assets/images/spice_coffee.svg
+      title: Coffee
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes
