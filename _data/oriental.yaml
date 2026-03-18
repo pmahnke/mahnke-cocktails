@@ -1,0 +1,14 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
+    - url: /assets/images/ingredient-sweet-vermouth.svg
+      title: Sweet vermouth
+    - url: /assets/images/ingredient-triple-sec.svg
+      title: Triple sec
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
