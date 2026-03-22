@@ -9,9 +9,9 @@ iconfile: final_ward
 stars: 3.5
 base_spirits: ['Rye', 'Green Chartreuse', 'Maraschino Liqueur']
 youtube: "NGPSk_jMZvA"
-description: "A modern classic and a twist on the Last Word, this sour cocktail swaps gin for rye whiskey."
+description: "Created by Phil Ward at Death & Co in New York City in 2007. It is a riff on the Last Word cocktail, replacing the Gin with Rye and lemon juice with lime juice."
 excerpt: |
-  A twist on the Whiskey Sour, the Ward Eight has a fascinating history
+  A riff on the Last Word cocktail, replacing the Gin with Rye and lemon juice with lime juice.
 ---
 
 ### Ingredients
