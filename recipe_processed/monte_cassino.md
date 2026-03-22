@@ -9,9 +9,9 @@ iconfile: monte_cassino
 stars: 4.25
 base_spirits: ['Rye', 'Yellow Chartreuse', 'Bénédictine']
 youtube: "NGPSk_jMZvA"
-description: "Created by Damon Dyer for a contest for Benedictine’s 500th birthday in 2010 — he won.  It is a riff on the Last Word and Final Ward cocktails, replacing Green Chartreuse with Yellow Chartreuse and Maraschino liquor with Benedictine."
+description: "A riff on the Last Word and Final Ward cocktails, replacing Green Chartreuse with Yellow Chartreuse and Maraschino liquor with Benedictine."
 excerpt: |
-  A riff on the Last Word and Final Ward cocktails, replacing Green Chartreuse with Yellow Chartreuse and Maraschino liquor with Benedictine.
+  Created by Damon Dyer for a contest for Benedictine’s 500th birthday in 2010 — he won.  It is a riff on the Last Word and Final Ward cocktails, replacing Green Chartreuse with Yellow Chartreuse and Maraschino liquor with Benedictine.
 ---
 
 ### Ingredients
