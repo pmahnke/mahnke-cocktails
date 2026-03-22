@@ -9,9 +9,9 @@ iconfile: final_ward
 stars: 3
 base_spirits: "Rye, Green Chartreuse, Maraschino Liqueur"
 youtube: "NGPSk_jMZvA"
-description: "Created by Phil Ward at Death & Co in New York City in 2007. It is a riff on the Last Word cocktail, replacing the Gin with Rye and lemon juice with lime juice."
+description: "A riff on the Last Word cocktail, replacing the Gin with Rye and lemon juice with lime juice."
 excerpt: |
-  A riff on the Last Word cocktail, replacing the Gin with Rye and lemon juice with lime juice.
+  Created by Phil Ward at Death & Co in New York City in 2007. It is a riff on the Last Word cocktail, replacing the Gin with Rye and lemon juice with lime juice.
 ---
 
 ### Ingredients
