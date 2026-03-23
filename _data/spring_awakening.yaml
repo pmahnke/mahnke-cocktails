@@ -1,0 +1,20 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-aperol.svg
+      title: Aperol
+    - url: /assets/images/ingredient-cocchi-americano.svg
+      title: Cocchi americano
+    - url: /assets/images/ingredient-vodka.svg
+      title: Vodka
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon twist
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large
