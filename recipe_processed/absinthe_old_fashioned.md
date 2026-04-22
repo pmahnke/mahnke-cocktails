@@ -30,7 +30,7 @@ excerpt: |
 - Pour: Julep Strain
 - Glassware: Low Ball
 - Garnish: None
-- Special Prep: Float the Ppeychaud's on the top of the cocktail.
+- Special Prep: Float the Peychaud's on the top of the cocktail.
 
     
 <script type="application/ld+json">
@@ -69,7 +69,7 @@ excerpt: |
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Float the Ppeychaud's on the top of the cocktail."
+      "text": "- Special Prep: Float the Peychaud's on the top of the cocktail."
     }
     ],
   "recipeYield": "1 cocktail",
