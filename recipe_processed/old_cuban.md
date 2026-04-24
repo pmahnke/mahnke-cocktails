@@ -12,6 +12,7 @@ youtube: "IAaiRENeyvc&t=639s"
 description: "A modern classic from legendary bartender Audrey Saunders, this drink is a sophisticated cross between a Mojito and a French 75."
 excerpt: |
   It’s not quite a Mojito, not quite a French 75. This is the Old Cuban, a modern-classic cocktail from New York bartending legend Audrey Saunders.
+date: 2025-08-11
 ---
 
 ### Ingredients

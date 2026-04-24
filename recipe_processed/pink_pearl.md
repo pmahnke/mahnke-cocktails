@@ -12,6 +12,7 @@ youtube: "s0nUq0Q9yUk"
 description: "A classic non-alcoholic cocktail from 1937 with a big, refreshing hit of grapefruit."
 excerpt: |
   A classic 1937 Cafe Royal mocktail with a big hit of grapefruit.
+date: 2025-08-11
 ---
 
 ### Ingredients

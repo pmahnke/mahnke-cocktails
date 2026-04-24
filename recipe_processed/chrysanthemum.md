@@ -31,6 +31,7 @@ excerpt: |
   <br>* Well-known and very popular in the American Bar of the S.S. "Europa."
   <br><cite>Harry Craddock, 1930</cite></blockquote>
   This cocktail may be named after <i>The Chrysanthemum</i>, a 1904 piece by the famous ragtime composer and pianist Scott Joplin and released on record in 1916.
+date: 2025-08-11
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "mhXp-T53DAs"
 description: "A luxurious and elegant classic cocktail, often described as an adult ice cream float, combining cognac, liqueurs, Champagne, and vanilla ice cream."
 excerpt: |
   The Soyer au Champagne is a luxurious and elegant cocktail, often described as an adult version of an ice cream float. It's a delightful blend of cognac, orange curaçao, maraschino liqueur, Champagne, and vanilla ice cream.
+date: 2025-08-11
 ---
 
 ### Ingredients

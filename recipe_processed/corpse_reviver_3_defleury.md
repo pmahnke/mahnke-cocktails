@@ -13,6 +13,7 @@ youtube: "kBHi_atZsbM"
 description: "A unique recipe for the Corpse Reviver #3 calling for equal parts maraschino, brandy, and curacao, which are carefully layered without ice."
 excerpt: |
   The 1934 book 1700 Cocktails for the Man Behind the Bar includes a unique recipe for the Corpse Reviver #3 calling for equal parts maraschino, brandy, and curacao, which are carefully layered without ice. This version notably differs from the popular Corpse Reviver #1 and #2 found in The Savoy Cocktail Book, as well as later and modern variations of a drink sometimes labeled #3. 
+date: 2025-10-20
 ---
 
 ### Ingredients

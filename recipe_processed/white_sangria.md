@@ -12,6 +12,7 @@ youtube: "mAxJU3qd8OE"
 description: "A lighter and brighter classic version of sangria, made with white wine, sherry, fresh fruit, and a touch of sweetness."
 excerpt: |
   A lighter and brighter version of the classic red sangria, made with white wine, fresh fruit, and a touch of sweetness.
+date: 2025-08-11
 ---
 
 <div class="subrecipe" markdown="1">

@@ -12,6 +12,7 @@ youtube: "https://pussersrum.com/blogs/cocktails/grog-cocktail?srsltid=AfmBOor-6
 description: "A historic naval drink from the 18th century, created to make rum rations more palatable by adding water, lime juice, and sugar."
 excerpt: |
   The 18th-century British Admiral Edward Vernon, nicknamed Old Grog for the grogram fabric cloak he wore, attempted to prevent scurvy among his men by serving them a pint of rum a day. The dark navy rum had nothing to do with scurvy, but it did lend itself to “the swinish vice of drunkenness”. As a result, Admiral Vernon ordered that the sailors tot of rum be mixed with water, lime juice, and brown sugar–making the world’s first cocktail. The drink was named Grog after Admiral Vernon.
+date: 2025-08-14
 ---
 
 <div class="subrecipe" markdown="1">

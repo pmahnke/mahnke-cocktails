@@ -12,6 +12,7 @@ youtube: "0JUtwxuMCg0"
 description: "A fun, frozen modern mashup of two tropical classics: the Piña Colada and the Strawberry Daiquiri."
 excerpt: |
   This drink is a frozen mashup of two tropical classics—the Piña Colada and the Frozen Strawberry Daiquiri. It’s a crowd-pleaser in both flavor and presentation, thanks to those bold, contrasting colors. 
+date: 2025-08-11
 ---
 
 ### Strawberry Daiquiri Ingredients

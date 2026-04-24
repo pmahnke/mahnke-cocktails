@@ -12,6 +12,7 @@ youtube: "5wgvpo-xBnA"
 description: "A non-alcoholic, tropical blend of pineapple juice, orange juice, cream of coconut, and spices, inspired by the Painkiller cocktail."
 excerpt: |
   This cocktail is a tropical blend of pineapple juice, orange juice, cream of coconut, lime juice, cinnamon, and nutmeg.
+date: 2025-08-11
 ---
 
 ### Ingredients

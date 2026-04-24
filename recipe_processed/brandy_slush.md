@@ -12,6 +12,7 @@ youtube: "rQ59lgXm8Ho"
 description: "A classic Midwestern party punch featuring an icy, make-ahead mix of fruit juice, tea, and brandy."
 excerpt: |
   The Wisconsin Brandy Slush is a midwest classic featuring an icy mix of fruit juice, tea, and brandy. This boozy punch is perfect to serve at your next party.<br><br>For a wintery twist, substitute the juice concentrates with cranberry and lime. Top with spicy ginger ale. Garnish with a sprig of rosemary.
+date: 2025-08-11
 ---
 
 ### Ingredients

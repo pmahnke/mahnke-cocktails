@@ -12,6 +12,7 @@ youtube: "rMCsrbidAJ4"
 description: 'The original Corpse Reviver, this is a cognac-based cocktail intended as a "hair of the dog" morning drink.'
 excerpt: |
   The first widely popularized corpse reviver cocktail is listed in The Savoy Cocktail Book and is a cognac-based cocktail that calls for two parts cognac, one part Calvados or apple brandy, and one part Italian vermouth. In bartender Craddock's notes he says "To be taken before 11AM, or whenever steam or energy is needed".
+date: 2025-08-11
 ---
 
 ### Ingredients

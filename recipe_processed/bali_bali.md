@@ -12,6 +12,7 @@ youtube: 'lWDA\_\_gwSow'
 description: "A potent classic tiki cocktail that packs a punch with its complex blend of four different spirits."
 excerpt: |
   The Bali Bali is a classic tiki cocktail that packs a punch with its blend of rums, liqueurs, and fruit juices.
+date: 2025-08-11
 ---
 
 ### Ingredients

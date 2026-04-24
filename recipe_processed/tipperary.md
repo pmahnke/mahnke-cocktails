@@ -12,6 +12,7 @@ youtube: "2zQBXxC7ma8"
 description: "A modern favorite from The Dead Rabbit, this is a variation on the Bijou that uses Irish whiskey as its base."
 excerpt: |
   Love the Bijou? Try a Tipperary, a Dead Rabbit favorite made with Irish whiskey, without the Campari.
+date: 2025-08-11
 ---
 
 ### Ingredients

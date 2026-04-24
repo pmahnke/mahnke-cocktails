@@ -13,6 +13,7 @@ youtube: "Lp5ktjaNFKc"
 description: "A modern Negroni variation that uses Angostura bitters as a key flavor component."
 excerpt: |
   Adapted from a recipe created by Justin Elliott at The Townsend, Austin, Texas, USA.
+date: 2025-08-11
 ---
 
 ### Ingredients

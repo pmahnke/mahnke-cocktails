@@ -11,6 +11,7 @@ base_spirits: ['Blueberries', 'Ginger Beer', 'Lemon Juice']
 youtube: "s0nUq0Q9yUk"
 description: "A refreshing non-alcoholic drink combining the fruity sweetness of blueberries with the spice of ginger beer."
 excerpt: |
+date: 2025-08-11
 ---
 
 ### Ingredients

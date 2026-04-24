@@ -12,6 +12,7 @@ youtube: "DJtBN6yBnsA"
 description: "A comforting and warming classic beverage, traditionally made with a spirit, hot water, honey, and lemon."
 excerpt: |
   The classic hot toddy is a comforting and warming beverage that has been used for centuries to soothe ailments and warm the soul.
+date: 2025-12-09
 ---
 
 ### Ingredients

@@ -13,6 +13,7 @@ description: 'The original "cock-tail" as defined in 1806, this is a simple, sti
 excerpt: |
   The first known definition of the word "cock-tail" was published 13th May 1806 in <i>The Balance and Columbian Repository</i>, an upstate New York newspaper, in response to a reader enquiring what was meant by the word in an article.
   <blockquote><p>Cock-tail, then, is a stimulating liquor, composed of spirits of any kind, sugar, water, and bitters--it is vulgarly called a bittered sling, and is supposed to be an excellent electioneering potion, in as much as it renders the heart flout and bold, at the same time that it fuddles the head. It is said also, to be of great use to a democratic candidate: because, a person having swallowed a glass of it, is ready to swallow anything else.</p><cite>Editor, The Balance and Columbian Repository, 13 May 1806</cite></blockquote>
+date: 2026-03-24
 ---
 
 ### Ingredients

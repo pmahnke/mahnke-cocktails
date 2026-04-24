@@ -13,6 +13,7 @@ youtube: "q0ebbWwoI10"
 description: "A modern classic that provides a rich and energizing combination of vodka, fresh espresso, and coffee liqueur."
 excerpt: |
   The Espresso Martini is more than 40 years old, and remains one of the most popular cocktails in existence today. Discover why this simple combination of vodka, espresso, and coffee liqueur still works.
+date: 2025-08-11
 ---
 
 ## Original

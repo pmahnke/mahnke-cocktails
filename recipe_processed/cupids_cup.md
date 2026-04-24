@@ -12,6 +12,7 @@ youtube: "LINK"
 description: "This is an easy pisco sour variation featuring pisco, Aperol, citrus, and egg white for a silky texture and balanced flavor."
 excerpt: |
   The Cupid's cup is a vibrant, refreshing cocktail that balances the punchy, floral notes of Pisco with the bittersweet, citrusy profile of Aperol. It’s a sophisticated twist on a sour, often recognized by its striking bright red or deep pink hue—perfect for Valentine’s Day or any romantic occasion.
+date: 2026-02-21
 ---
 
 ### Ingredients

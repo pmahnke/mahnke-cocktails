@@ -12,6 +12,7 @@ youtube: "WmMC1qb2LgA"
 description: "A simple and elegant classic that enhances Champagne with a sugar cube soaked in Angostura bitters."
 excerpt: |
   The Champagne Cocktail, a simple combination of sparkling wine, bitters and sugar.
+date: 2025-08-11
 ---
 
 ### Ingredients

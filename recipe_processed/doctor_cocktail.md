@@ -12,6 +12,7 @@ youtube: "re76GCUoiH4&t"
 description: "A simple yet refreshing classic cocktail that features Jamaican rum and the unique spice of Swedish Punsch."
 excerpt: |
   The Doctor Cocktail is a classic cocktail that has been around for over a century. It's a simple yet refreshing drink that's perfect for any occasion.
+date: 2025-08-31
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "f7SpTmbMOsQ"
 description: "A classic and refreshing low-alcohol sipper from the 1800s, made with sherry, sugar, and citrus served over crushed ice."
 excerpt: |
   Chill down with this old-school, low-alcohol sipper. The Sherry Cobbler is a classic, delicious alternative to the Mint Julep.
+date: 2025-08-11
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "https://uws.theconsulate.nyc/new-york-upper-west-side-the-consulate-dr
 description: "An original modern cocktail with a complex herbal profile from gin and Green Chartreuse."
 excerpt: |
   This is an original cocktail from a Upper Westside restaurant, the Consulate.
+date: 2025-08-11
 ---
 
 ### Ingredients

@@ -13,6 +13,7 @@ description: " A booze-free cocktail inspired by the structure of a classic Old 
 excerpt: |
   A booze-free cocktail inspired by the structure of a classic Old Fashioned. Instead of relying on zero-proof spirits, this recipe uses black tea, spice, citrus, and sugar to create bitterness, warmth, and complexity with ingredients you likely already have at home. The goal here isn’t to fake whiskey. It’s to build an Old Fashioned-style mocktail that feels intentional and satisfying. Whether you’re looking for NA cocktail recipes, alcohol-free Old Fashioned ideas, or you’re just curious about using tea in cocktails.
 
+date: 2026-01-17
 ---
 
 <div class="subrecipe" markdown="1">

@@ -12,6 +12,7 @@ youtube: "https://www.diffordsguide.com/cocktails/recipe/6170/old-barrel"
 description: "A modern riff on a classic Old Fashioned with rye whiskey spice, herbal Bénédictine complexity, and vinous sherry."
 excerpt: |
   Rye whiskey spice, herbal liqueur complexity and vinous sherry sit alongside each other in a harmonious trinity with dashes of aromatic bitters and lemon zest freshness in this riff on a classic Old Fashioned.
+date: 2025-08-11
 ---
 
 ### Ingredients

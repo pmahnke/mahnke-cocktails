@@ -9,6 +9,7 @@ base_spirits: ['White Sugar', 'Coconut Milk']
 youtube: "pJ_OQtJnIrY"
 excerpt: |
   Rich cream of coconut syrup is a thick, sweet, and creamy syrup made from coconut milk and sugar.
+date: 2025-12-13
 ---
 
 ### Ingredients

@@ -13,6 +13,7 @@ description: "A classic cocktail from the early 20th century that combines Irish
 excerpt: |
   Adapted from a recipe in Hugo R. Ensslin's 1917 <i>Recipes for Mixed Drinks (2nd Edition)</i>.<br>
   <blockquote><strong>SHAMROCK COCKTAIL</strong><br>½ Irish Whiskey<br>½ French Vermouth<br>3 dashes Chartreuse (green)<br>3 dashes Crème de Menthe<br>Stir well with cracked ice, strain and serve with an olive in the glass.<cite>Hugo R. Ensslin, 1917</cite></blockquote>The Shamrock also notably appears in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i>.<br><blockquote><strong>SHAMROCK COCKTAIL.</strong><br>3 Dashes Green Crème de Menthe.<br>3 Dashes Green Chartreuse.<br>½ French Vermouth.<br>½ Irish Whisky.<br>Shake well and strain into cocktail glass.<cite>Harry Craddock, 1930</cite></blockquote>	
+date: 2025-08-11
 ---
 
 ### Ingredients

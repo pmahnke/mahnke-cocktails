@@ -12,6 +12,7 @@ youtube: "I2_xijYpP_Y"
 description: "A historic and complex Prohibition-era Manhattan variation that adds cherry liqueur and a dash of absinthe to a rye whiskey base."
 excerpt: |
   If you like a Rye Manhattan, you’ll love this historic variation that adds cherry liqueur and a bit of absinthe.
+date: 2025-08-11
 ---
 
 ### Ingredients

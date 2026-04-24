@@ -12,6 +12,7 @@ youtube: "RRvfkkSjceM"
 description: "A unique coffee cocktail that combines herbal Bénédictine and savory Amontillado sherry with cold brew."
 excerpt: |
   While it may sound menacing on the surface, this cocktail will be your cold-brew coffee's new best friend. With herbal sweetness from the rum and benedictine to savory elements from the sherry.
+date: 2025-09-26
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "TGJZv0FTjk8"
 description: "A classic Prohibition-era cocktail named for the silent film star, featuring a tropical blend of white rum, pineapple juice, and grenadine."
 excerpt: |
   The Mary Pickford is a classic cocktail named after the famous silent film actress. It is a Prohibition-era cocktail that's made with: white rum, fresh pineapple juice, grenadine, and maraschino liqueur.
+date: 2025-08-11
 ---
 
 <div class="subrecipe" markdown="1">

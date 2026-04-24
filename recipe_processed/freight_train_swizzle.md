@@ -13,6 +13,7 @@ youtube: "cSPKyfVh3T4"
 description: "A bright and herbaceous modern swizzle that pairs funky Jamaican rum with the intense herbal notes of Green Chartreuse."
 excerpt: |
   A bright and herbaceous swizzle variant from legendary barman Sam Ross.
+date: 2025-08-11
 ---
 
 ### Ingredients

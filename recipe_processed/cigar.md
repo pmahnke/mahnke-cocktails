@@ -12,6 +12,7 @@ youtube: "gZdT2GBf91I"
 description: "A classic smoked cocktail designed to complement the flavors of a cigar, typically made with dark spirits and sweet vermouth."
 excerpt: |
   The Cigar Cocktail is a classic cocktail that is designed to complement the flavors of a cigar. It is typically made with a blend of dark spirits, such as whiskey or rum, and sweet vermouth.
+date: 2025-12-09
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "CfKrIWRMrNA"
 description: "An original hot toddy featuring a unique combination of gin and the herbal liqueur Bénédictine."
 excerpt: |
   This is an Anders original cocktail.
+date: 2025-08-11
 ---
 
 ### Ingredients

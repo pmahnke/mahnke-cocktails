@@ -13,6 +13,7 @@ youtube: "https://www.youtube.com/shorts/5_FiYugHCAM"
 description: "This variation, modified by John Coltharp, is a whiskey-based drink inspired by the classic Jack Rose"
 excerpt: |
   The Seven Sins is a whiskey-based cocktail that originated as a modification of the classic Jack Rose, a spirit-forward recipe featuring apple brandy. Created by bartender John Coltharp, this version splits the base spirit between rye whiskey and applejack, resulting in a more complex and full-bodied drink. Beyond the base spirits, the cocktail's flavor profile is built with the sweet-tart notes of lemon juice and grenadine. A pinch of freshly grated cinnamon serves as a final, fragrant garnish, bringing a spicy, warm aroma to each sip. The resulting cocktail is a sophisticated and well-balanced twist on a classic, offering notes of apple, pomegranate, and warm spice.
+date: 2025-10-31
 ---
 
 ### Ingredients

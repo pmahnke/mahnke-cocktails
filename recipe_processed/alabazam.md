@@ -13,6 +13,7 @@ youtube: "nXED2nkfEEQ"
 description: "A 19th-century sour that enhances cognac with the orange notes of triple sec and a hint of bitters."
 excerpt: |
   A very appealing 19th century cocktail, invented in 1878 by Leo Engel at the Criterion in London. It was a twist on the Brandy Crusta.
+date: 2025-08-11
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "2gYbnb705YQ"
 description: "A spritz version of the Spring Awakening cocktail, which is a vodka cocktail with Cocchi Americano and Aperol."
 excerpt: |
   This is Anders spritz riff on thee Spring Awakening cocktail. It is slightly more bitter than an Aperol spritz.
+date: 2026-03-24
 ---
 
 ### Ingredients

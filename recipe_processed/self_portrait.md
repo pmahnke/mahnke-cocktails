@@ -12,6 +12,7 @@ youtube: "VXjcObds5DY"
 description: "This cocktail is Anders' riff on the Doctor Cocktail. It has the brightness of brandy and the sweetness of Swedish Punsch."
 excerpt: |
   This cocktail is Anders' riff on the Doctor Cocktail, but with a nod to his own heritage. The brandy to honor his Wisconsin roots. The Swedish Punsch to honor his ancestry. And the cherry garnish to honor Door County, Wisconsin, which is cherry country.
+date: 2025-10-13
 ---
 
 ### Ingredients

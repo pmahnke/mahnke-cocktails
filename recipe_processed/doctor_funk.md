@@ -13,6 +13,7 @@ youtube: "aMXyG72irqI"
 description: "A classic tiki cocktail with a unique flavor profile that includes an absinthe-laced limeade."
 excerpt: |
   Created by Don Beach in the early 1950s at his The Don The Beachcomber restaurant in Palm Springs, this drink is named after Doctor Bernard Funk who was Robert Louis Stevenson's physician in Samoa. The good doctor is said to have concocted and prescribed an absinthe laced limeade so inspiring this cocktail.
+date: 2025-08-11
 ---
 
 ### Ingredients

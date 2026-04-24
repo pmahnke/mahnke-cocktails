@@ -14,6 +14,7 @@ description: "The Just for Mary is a rye whiskey cocktail created by Tony Abou-G
 excerpt: |
   Inspired by the Manhattan, the Just for Mary is a rye-forward, spirit-driven cocktail that uses Lillet Blanc and a quality cherry liqueur, such as Cherry Heering. The rye whiskey's spice is balanced by the complex herbal and botanical notes of the Lillet Blanc, while the cherry liqueur adds a rich, fruity sweetness. The resulting drink is a wonderfully layered and sophisticated alternative to the Manhattan, celebrated for its nuanced and rewarding flavor.
 
+date: 2025-09-08
 ---
 
 ### Ingredients

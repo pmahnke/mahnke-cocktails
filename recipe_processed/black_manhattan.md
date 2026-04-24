@@ -13,6 +13,7 @@ youtube: "YWKJsv8PymI&t=205s"
 description: "A modern classic from 2015 that replaces the sweet vermouth in a traditional Manhattan with a rich, herbal amaro."
 excerpt: |
   Adapted from a recipe created in 2015 by Todd Smith at Bourbon &amp; Branch in San Francisco, USA.
+date: 2025-09-26
 ---
 
 ### Ingredients

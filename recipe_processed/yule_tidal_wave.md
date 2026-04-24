@@ -12,6 +12,7 @@ youtube: "s30L-iu171E"
 description: "A festive and complex original holiday tiki punch that combines multiple spirits with allspice, vanilla, lemon, and pineapple."
 excerpt: |
   This holiday punch, which combines allspice and vanilla with the bright zing of lemon and pineapple.
+date: 2025-09-26
 ---
 
 ### Ingredients

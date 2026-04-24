@@ -12,6 +12,7 @@ youtube: "LaqklLOgeCY"
 description: "It is a riff on the Old Fashioned replacing the sweet vermouth with Amaro Averna."
 excerpt: |
   This is an Anders original cocktail. It is a riff on the Old Fashioned replacing the sweet vermouth with Amaro Averna.
+date: 2025-10-26
 ---
 
 ### Ingredients

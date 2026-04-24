@@ -10,6 +10,7 @@ base_spirits: ['Thyme', 'White Sugar']
 youtube: "ZE3G8aUyOn0"
 excerpt: |
   Thyme syrup is a simple syrup infused with the flavor of thyme. It's a versatile ingredient that can be used in a variety of drinks and dishes.
+date: 2025-07-07
 ---
 
 ### Ingredients

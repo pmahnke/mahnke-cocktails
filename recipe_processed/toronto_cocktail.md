@@ -12,6 +12,7 @@ youtube: "fQfVijUec0A"
 description: "A classic Prohibition-era cocktail that tempers the spice of rye whiskey with the intensely bitter and herbal notes of Fernet Branca."
 excerpt: |
   The Mezcal Negroni is a smoky take on the classic Italian aperitivo. To make it, swap mezcal for gin, and stir with Campari and sweet vermouth.
+date: 2025-08-11
 ---
 
 ### Ingredients

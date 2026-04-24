@@ -12,6 +12,7 @@ youtube: "ox1-C1owN80"
 description: "A classic and refreshing rum swizzle that originated at the Queen's Park Hotel in Trinidad."
 excerpt: |
   The Queen's Park Swizzle is a classic rum cocktail that originated in Trinidad.
+date: 2025-08-11
 ---
 
 ### Ingredients

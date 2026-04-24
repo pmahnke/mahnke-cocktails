@@ -12,6 +12,7 @@ youtube: "-DnpmdGBmgs&t=433s"
 description: "A spicy, smoky, and slightly sweet original cocktail that features mezcal as its base spirit."
 excerpt: |
   The Speak No Evil cocktail is a spicy, smoky, and slightly sweet drink that features mezcal as its base spirit.
+date: 2025-08-11
 ---
 
 ### Ingredients

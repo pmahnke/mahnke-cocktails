@@ -12,6 +12,7 @@ youtube: "LaqklLOgeCY"
 description: "The double oaked bourbon and the rich sweetness of the Bénédictine add a light take on fall flavors."
 excerpt: |
   This is an Anders original cocktail. The double oaked bourbon and the rich sweetness of the Bénédictine add a light take on fall flavors.
+date: 2025-10-26
 ---
 
 ### Ingredients

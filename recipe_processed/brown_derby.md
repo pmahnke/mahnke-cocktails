@@ -12,6 +12,7 @@ youtube: "79htbyQ8nDY&t=62s"
 description: "A classic Hollywood-era sour named for the famous Los Angeles diner, combining bourbon with grapefruit and honey."
 excerpt: |
   The Brown Derby cocktail, a classic bourbon, grapefruit, and honey drink, was named for the famous Los Angeles diner. It manages at once to be sweet, sour, and entirely delicious.
+date: 2025-08-11
 ---
 
 <div class="subrecipe" markdown="1">

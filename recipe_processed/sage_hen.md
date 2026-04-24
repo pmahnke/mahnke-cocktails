@@ -12,6 +12,7 @@ youtube: "EKyIy5iG87Q"
 description: "A modern sour that showcases the unique savory and sweet flavors of fresh sage and honey."
 excerpt: |
   The Sage Hen is a modern cocktail that showcases the unique flavors of sage and honey.
+date: 2025-08-11
 ---
 
 ### Ingredients

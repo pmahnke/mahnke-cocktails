@@ -12,6 +12,7 @@ youtube: "1V0-c6u4xJA"
 description: "A citrusy bourbon sour from the Prohibition era, named for one of history's most famous racehorses."
 excerpt: |
   The Man o’ War cocktail is named for one of the finest racehorses in history. This citrusy bourbon drink is a winner.
+date: 2025-08-11
 ---
 
 ### Ingredients

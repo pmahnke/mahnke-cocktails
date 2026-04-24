@@ -14,6 +14,7 @@ excerpt: |
   The Littlest Rebel is a cocktail that blends the flavors of apple brandy, Scotch whisky, lime juice, and grenadine. It's a complex and refreshing drink with a smoky and fruity profile. Some bartenders also add egg white to create a frothy texture.
 
   The name of the cocktail is likely inspired by the 1935 film The Littlest Rebel starring Shirley Temple.
+date: 2025-12-09
 ---
 
 ### Ingredients

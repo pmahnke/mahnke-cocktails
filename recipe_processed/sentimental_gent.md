@@ -12,6 +12,7 @@ youtube: "QFjRjAP-k1k&t=3s"
 description: "A sophisticated and elegant modern cocktail that combines the warmth of Blended Scotch with the herbal notes of Bénédictine and walnut liqueur."
 excerpt: |
   The Sentimental Gentleman is a sophisticated and elegant cocktail that combines the warmth of whiskey with the herbal notes of Benedictine and the subtle sweetness of walnut liqueur.
+date: 2025-12-09
 ---
 
 ### Ingredients

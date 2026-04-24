@@ -12,6 +12,7 @@ youtube: "9OxlSOioD_k"
 description: "An original sour cocktail that features the warm, autumnal flavors of apple brandy."
 excerpt: |
   This cocktails is an Anders original.
+date: 2026-03-01
 ---
 
 ### Ingredients

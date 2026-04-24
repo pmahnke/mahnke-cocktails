@@ -12,6 +12,7 @@ youtube: "0JqyWyBiFus"
 description: "A potent and herbaceous classic cocktail that features a unique blend of apple brandy with Yellow Chartreuse and Bénédictine."
 excerpt: |
   A simple, and very potent, classic cocktail with apple brandy, yellow Chartreuse and Benedictine.
+date: 2025-11-26
 ---
 
 <div class="subrecipe" markdown="1">

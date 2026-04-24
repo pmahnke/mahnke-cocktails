@@ -12,6 +12,7 @@ youtube: "Gf8FdfHx-LmqZMg-"
 description: "A classic whiskey sour with a rich history from late 19th-century Boston, featuring rye whiskey and a touch of grenadine."
 excerpt: |
   While it might not be the most well-known cocktail, it has a rich history dating back to the late 19th century. Legend has it that the drink was created in honor of Martin Lomasney, a powerful Boston politician who represented the city's Eighth Ward.
+date: 2025-08-11
 ---
 
 ### Ingredients

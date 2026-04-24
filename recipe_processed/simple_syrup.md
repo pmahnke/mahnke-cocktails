@@ -9,6 +9,7 @@ base_spirits: ['Sugar']
 youtube: CvEDhkR6K14
 excerpt: |
   Semi-rich simple syrup is a versatile ingredient that can be used in a variety of cocktails and other drinks.
+date: 2025-07-07
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "IIMug56LEiQ"
 description: "A refreshing modern whiskey sour variation that features Irish whiskey, elderflower liqueur, and fresh muddled cucumber."
 excerpt: |
   The Irish Maid is a Whiskey Sour variation featuring Irish whiskey, lemon juice and fresh cucumber. It makes the case for whiskey as a summer drink.
+date: 2025-08-11
 ---
 
 ### Ingredients

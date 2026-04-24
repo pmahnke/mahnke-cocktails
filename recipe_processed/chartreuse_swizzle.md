@@ -13,6 +13,7 @@ youtube: "CGkWnYhu4ag"
 description: "A refreshing and unique modern cocktail that blends the herbal sweetness of Green Chartreuse with tropical pineapple and lime."
 excerpt: |
   The Chartreuse Swizzle is a refreshing and unique cocktail that blends the herbal sweetness of Chartreuse with the tropical flavors of pineapple and lime.
+date: 2025-08-31
 ---
 
 ### Ingredients

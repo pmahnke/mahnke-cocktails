@@ -12,6 +12,7 @@ youtube: "G51IC-s_ECI"
 description: "A modern classic from New York bartender Sam Ross, this is a Scotch-based sour that perfectly balances the flavors of smoky whisky, spicy ginger, and sweet honey."
 excerpt: |
   The Penicillin cocktail is a scotch-based drink from New York bartender Sam Ross. The modern classic perfectly mixes smoke, ginger, and lemon.
+date: 2025-12-09
 ---
 
 ### Ingredients

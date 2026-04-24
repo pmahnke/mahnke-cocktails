@@ -1,0 +1,29 @@
+<h2>Our Latest Cocktail</h2>
+
+<div class="grid-container two-thirds">
+    <div>
+    {% assign recipes = site.pages | where_exp: "item", "item.path contains 'recipe_processed/'" %}  
+    {% assign sorted_recipes = recipes | sort: 'date' | reverse %}
+    {% assign latest_recipe = sorted_recipes.first %}
+        <p><strong><a href="{{ latest_recipe.url | relative_url }}">{{ latest_recipe.title }}</a></strong></p>
+
+        {% if latest_recipe.stars > 0 %}
+        <p class="rating">{%- include home_stars.html page=page -%}</p>
+        {% endif %}
+
+        <p class="description">{{ latest_recipe.description }}</p>
+    </div>
+    <div>
+
+    {% assign data_file = site.data[latest_recipe.iconfile] %}
+    {%- if data_file and data_file.images -%}
+    {% assign tool_icons = data_file.images.ingredient %}
+    {% if tool_icons.size > 0 %}
+        {% assign first_tool = tool_icons.first %}
+        <p class="icons">
+            <img src="{{ first_tool.url | relative_url }}" alt="{{ first_tool.title }}" title="{{ first_tool.title }}" width="150">
+        </p>
+    </div>
+    {% endif %}
+    {%- endif -%}
+</div>

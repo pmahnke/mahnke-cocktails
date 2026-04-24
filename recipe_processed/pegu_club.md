@@ -12,6 +12,7 @@ youtube: "YenVNoabM4"
 description: "A classic gin-based sour from the Prohibition era with a touch of tropical flair, originally created at the Pegu Club in Burma."
 excerpt: |
   The Pegu Club cocktail is a classic gin-based drink with a touch of tropical flair. It was originally created at the Pegu Club in Burma and has since become a popular cocktail around the world.
+date: 2025-12-23
 ---
 
 ### Ingredients

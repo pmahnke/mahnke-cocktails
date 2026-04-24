@@ -13,6 +13,7 @@ youtube: "https://www.diffordsguide.com/cocktails/recipe/9680/right-word"
 description: "The Right Word is a crisp, floral variation of the Last Word, made with elderflower liqueur and Lillet Blanc instead of Green Chartreuse and maraschino."
 excerpt: |
   The Right Word is a crisp, floral variation of the classic Last Word cocktail, substituting the herbal intensity of Green Chartreuse and the almond notes of maraschino liqueur for elderflower liqueur and Lillet Blanc. This equal-parts gin cocktail, developed for Fairmont Hotels, offers a bright and refreshing flavor profile with a clean finish.
+date: 2025-09-10
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "RRvfkkSjceM"
 description: "A light and refreshing original cocktail perfect for warmer months, featuring a unique combination of pisco, gin, and Cocchi Americano."
 excerpt: |
   The Spring Forward cocktail is a light and refreshing drink that's perfect for the warmer months.
+date: 2025-08-11
 ---
 
 ### Ingredients

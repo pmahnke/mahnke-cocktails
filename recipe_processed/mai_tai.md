@@ -12,6 +12,7 @@ youtube: "gYJsPE1demY"
 description: "A quintessential tiki classic that balances two types of rum with the flavors of orange curaçao, orgeat, and lime."
 excerpt: |
   It’s time you had a proper Mai Tai from Latitude 29 and Jeff “Beachbum” Berry, the renowned Tiki historian.
+date: 2025-12-13
 ---
 
 ### Ingredients

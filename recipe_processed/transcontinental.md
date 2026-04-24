@@ -13,6 +13,7 @@ youtube: "https://www.diffordsguide.com/cocktails/recipe/9724/transcontinental"
 description: "The Last Word meets the Aviation somewhere over the French-Italian border."
 excerpt: |
   This cocktail is a play on the Last Word and the Aviation. The recipe originated from the bar of the Brick Farm Tavern in Hopewell, New Jersey.
+date: 2026-02-05
 ---
 
 ### Ingredients

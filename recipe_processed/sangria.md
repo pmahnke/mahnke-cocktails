@@ -12,6 +12,7 @@ youtube: "NNI--bxevNo"
 description: "A classic and festive Spanish punch, traditionally consisting of red wine, sherry, and chopped fruit, often with other spirits."
 excerpt: |
   A punch, sangria traditionally consists of red wine and chopped fruit, often with other ingredients or spirits.
+date: 2025-10-31
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "yxFAGMuM2I"
 description: "A simple and refreshing pre-Prohibition classic sour that combines gin, citrus, and fresh mint."
 excerpt: |
   This pre-Prohibition classic is a simple, refreshing mix of gin, citrus, mint and sugar. The exact origins are a bit murky - some say Chicago, others point to New York - but one thing’s clear: it’s a crowd pleaser. 
+date: 2025-08-11
 ---
 
 ### Ingredients

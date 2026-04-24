@@ -43,6 +43,7 @@ excerpt: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   <br><br>
   Donec vitae hendrerit risus. Pellentesque a blandit mi.
+date: 2025-08-20
 ---
 
 ### Ingredients

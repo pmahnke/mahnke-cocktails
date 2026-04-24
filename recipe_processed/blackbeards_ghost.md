@@ -12,6 +12,7 @@ youtube: "i67-17-CZCQ"
 description: "An original tiki cocktail that features a blend of gold and demerara rums with sweet apricot liqueur."
 excerpt: |
   This is an Anders original cocktail.
+date: 2025-08-11
 ---
 
 ### Ingredients

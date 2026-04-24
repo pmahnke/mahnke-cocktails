@@ -12,6 +12,7 @@ youtube: "W50W19vwjmk"
 description: "An original sour that blends the sweet and tart flavors of sloe gin with the classic sour template and a hint of Campari."
 excerpt: |
   The Slow Gin Sour blends the sweet and tart flavors of sloe gin with the classic sour template.
+date: 2025-08-11
 ---
 
 ### Ingredients

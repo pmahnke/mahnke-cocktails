@@ -15,6 +15,7 @@ excerpt: |
   This is a simplified version of a drink we serve at Seed Library, and its freshness makes it a lovely way to welcome the long-overdue arrival of spring. Shio koji is a funky, umami-rich Japanese ingredient made from fermented rice, and is more commonly used in marinades and for seasoning, much as miso and soy sauce are – look for it in specialist food stores and online.
 
   Seed Library via [The Guardian](https://www.theguardian.com/food/2025/mar/28/cocktail-of-the-week-seed-library-cloud-sour-recipe)
+date: 2026-01-16
 ---
 
 ### Ingredients

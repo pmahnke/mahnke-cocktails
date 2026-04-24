@@ -12,6 +12,7 @@ youtube: "BUb54paVf0s"
 description: "A refreshing and floral modern spritz from Italy, combining elderflower liqueur with prosecco and mint."
 excerpt: |
   The Hugo Spritz is a refreshing and easy-to-make cocktail that originated in South Tyrol, Italy. It's a light and floral drink, perfect for sipping on a warm day.
+date: 2025-10-20
 ---
 
 ### Ingredients

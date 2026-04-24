@@ -12,6 +12,7 @@ youtube: "LaqklLOgeCY"
 description: "The mix of cognac and high proof demerara rum mixed with the sesame syrup gives this drink a toasted nutty flavor."
 excerpt: |
   This is an Anders original cocktail. This jet black cocktail is a fun, tiki inspired cocktail. The mix of cognac and high proof demerara rum mixed with the sesame syrup gives this drink a toasted nutty flavor.
+date: 2025-10-26
 ---
 
 ### Ingredients

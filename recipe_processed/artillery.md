@@ -12,6 +12,7 @@ youtube: "jzg4GuY4Fcg"
 description: "A classic Martini variation known for its balanced blend of sweet and savory flavors, with a subtle herbaceousness from the gin."
 excerpt: |
   The Artillery cocktail is a classic gin-based cocktail that offers a unique twist on the traditional Martini. It's known for its balanced blend of sweet and savory flavors, with a subtle herbaceousness from the gin.
+date: 2025-08-11
 ---
 
 ### Ingredients

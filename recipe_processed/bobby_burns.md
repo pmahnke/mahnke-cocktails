@@ -12,6 +12,7 @@ youtube: "X5haIFd1Ysw"
 description: "A classic cocktail named for the Scottish poet Robert Burns, this is a Rob Roy variation made richer with Bénédictine."
 excerpt: |
   A classic drink named for a Scottish poet. A variation of the Rob Roy, the Bobby Burns is a classic cocktail named after the Scottish poet Robert Burns.
+date: 2025-12-09
 ---
 
 ### Ingredients

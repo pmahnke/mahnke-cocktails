@@ -12,6 +12,7 @@ youtube: "7JgKLcCqWR4"
 description: "A classic and potent cocktail from the 18th century, made with a formidable combination of rum, brandy, and porter beer."
 excerpt: |
   The Rattle Skull is a classic cocktail that dates back to the 18th century.It is made with rum, brandy, porter, lime juice, and nutmeg.
+date: 2025-08-11
 ---
 
 ### Ingredients

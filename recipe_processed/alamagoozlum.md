@@ -24,6 +24,7 @@ excerpt: |
   J. P. Morgan liked to drink in style and frequented New York City's most fashionable clubs, including the Union Club. When his friend, John King, president of Erie Railroad, was blackballed from the Union Club, Morgan resigned and in 1891 established the Metropolitan Club of New York. He commissioned Stanford White to "...build me a club fit for gentlemen, forget the expense..." at One East 60th Street; on the corner of 5th Avenue. As the club's first President, he invited John King to be a charter member.
 
   <b>This cocktail recipe makes two cocktails</b>
+date: 2025-11-29
 ---
 
 ### Ingredients

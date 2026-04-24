@@ -12,6 +12,7 @@ youtube: "EOIWzKAQk9w"
 description: "A modern variation of the classic Old Fashioned that adds a smoky, sweet, and savory twist by using maple syrup and a smoke rinse."
 excerpt: |
   The Smoked Maple Old Fashioned is a variation of the classic cocktail that adds a smoky, sweet, and savory twist.
+date: 2025-08-11
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "Jqy3bhn-O9s"
 description: "A classic Scotch-based cocktail with warm, rich colors and complex flavors, reminiscent of the iconic Scottish fabric."
 excerpt: |
   The Tartan cocktail is a classic scotch-based drink that gets its name from its warm, rich colors and complex flavors, reminiscent of the iconic Scottish fabric.
+date: 2025-12-09
 ---
 
 ### Ingredients

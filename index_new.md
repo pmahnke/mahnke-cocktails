@@ -8,10 +8,9 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
 
     <div><!-- div 2/3 -->
 
+    {%- include latest_cocktail.html -%}
 
-
-
-        <h2>A few of our 5-Star Cocktails</h2>
+    <h2>A few of our 5-Star Cocktails</h2>
 <div class="grid-container">
 
     {%- assign fivestar_recipes = "" | split: "" -%}

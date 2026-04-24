@@ -11,6 +11,7 @@ base_spirits: ['Canned Pear', 'Grenadine', 'Lemon Juice', 'Hojicha Tea']
 youtube: "s0nUq0Q9yUk"
 description: "A non-alcoholic drink featuring the flavors of pear, grenadine, lemon, and roasted Hojicha tea."
 excerpt: |
+date: 2025-08-11
 ---
 
 ### Ingredients
