@@ -1,0 +1,14 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-dubonnet-rouge.png
+      title: Dubonnet rouge
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino liqueur
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_martini.svg
+      title: Martini
