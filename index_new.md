@@ -10,8 +10,8 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
 
     {%- include latest_cocktail.html -%}
 
-    <h2>A few of our 5-Star Cocktails</h2>
-<div class="grid-container">
+    <h2>A Few of Our 5-Star Cocktails</h2>
+    <div class="grid-container">
 
     {%- assign fivestar_recipes = "" | split: "" -%}
     {%- for page in site.pages -%}
@@ -28,104 +28,37 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
     </div>
     {%- endfor -%}
     
-</div>
-
-
-        <h2>Our Favorite 5-Star Cocktails</h2>
-
-        <div class="grid-container">
-
-            {%- assign fivestar_recipes = "" | split: "" -%}
-            {%- for page in site.pages -%}
-                {%- if page.layout == "recipe" and page.stars == 5-%}
-                    {%- assign fivestar_recipes = fivestar_recipes | push: page -%}
-                {%- endif -%}
-            {%- endfor -%}
+    </div>
     
-            {%- assign sorted_list = fivestar_recipes | sort: "title" -%}
-            {%- for page in sorted_list -%}
-            <div>
-               {%- include recipe_card_small.html page=page -%}
-            </div>
-            {%- endfor -%}
-            
-        </div>
+    <br>
 
-        <h2>Our favorite cocktails</h2>
-        {% comment %}
-        Step 1: Gather all recipe pages into a single list first for efficiency.
-        {% endcomment %}
-        {%- assign all_recipes = "" | split: "" -%}
+    <h2>All Cocktails</h2>
+    {%- assign sorted_categories = site.data.categories | sort: "name" -%}
+    {%- for cat in sorted_categories -%}
+        <h3><a href="category/{{ cat.slug }}_cocktails">{{ cat.name }} {%- if cat.url -%}<img src="{{ cat.url }}" alt="" class="category_icon_small">{%- endif -%}</a></h3>
+
+        {%- assign pages_in_cat = "" | split: "" -%}
         {%- for page in site.pages -%}
-            {%- if page.layout == "recipe" -%}
-                {%- assign all_recipes = all_recipes | push: page -%}
+            {%- if page.categories contains cat.slug and page.layout == "recipe" -%}
+                {%- assign pages_in_cat = pages_in_cat | push: page -%}
             {%- endif -%}
         {%- endfor -%}
 
+        {%- assign pages_by_title = pages_in_cat | sort: "title" | reverse -%}
+        {%- assign pages_by_stars = pages_by_title | sort: "stars" | reverse -%}
 
-        {% comment %}
-        Step 2: Loop through star ratings from 5 down to 1 to exclude 0-star items.
-        {% endcomment %}
-        {%- for i in (1..5) reversed -%}
 
-            {%- assign pages_at_this_level = "" | split: "" -%}
-            {%- for page in all_recipes -%}
-                {%- assign page_stars_integer = page.stars | floor -%}
-                {%- if page_stars_integer == i -%}
-                    {%- assign pages_at_this_level = pages_at_this_level | push: page -%}
-                {%- endif -%}
-            {%- endfor -%}
-
-            {% comment %}
-            Only print the heading and list if recipes were found for this star level.
-            {% endcomment %}
-            {%- if pages_at_this_level.size > 0 -%}
-                <h3>{{ i }} star cocktails</h3>
-
-                <ul class="home_list">
-                    {%- assign sorted_by_title = pages_at_this_level | sort: "title" -%}
-                    {%- for page in sorted_by_title -%}
-                        <li class="home_list_item">
-                            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                            {%- include home_stars.html -%}
-                        </li>
-                    {%- endfor -%}
-                </ul>
-            {%- endif -%}
+        <ul class="home_list">
+        {%- for page in pages_by_stars  -%}
+            <li class="home_list_item">
+                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                {%- include home_stars.html -%}
+            </li>
         {%- endfor -%}
+        </ul>
 
-
-
-
-        
-        
-        <h2>Cocktails</h2>
-        {%- assign sorted_categories = site.data.categories | sort: "name" -%}
-        {%- for cat in sorted_categories -%}
-            <h3><a href="category/{{ cat.slug }}_cocktails">{{ cat.name }} {%- if cat.url -%}<img src="{{ cat.url }}" alt="" class="category_icon_small">{%- endif -%}</a></h3>
-
-            {%- assign pages_in_cat = "" | split: "" -%}
-            {%- for page in site.pages -%}
-                {%- if page.categories contains cat.slug and page.layout == "recipe" -%}
-                    {%- assign pages_in_cat = pages_in_cat | push: page -%}
-                {%- endif -%}
-            {%- endfor -%}
-
-            {%- assign pages_by_title = pages_in_cat | sort: "title" | reverse -%}
-            {%- assign pages_by_stars = pages_by_title | sort: "stars" | reverse -%}
-
-
-            <ul class="home_list">
-            {%- for page in pages_by_stars  -%}
-                <li class="home_list_item">
-                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                    {%- include home_stars.html -%}
-                </li>
-            {%- endfor -%}
-            </ul>
-
-            <p class="more"><a href="category/{{ cat.slug }}_cocktails">More {{ cat.name }} cocktails &gt;</a></p>
-        {%- endfor -%}
+        <p class="more"><a href="category/{{ cat.slug }}_cocktails">More {{ cat.name }} cocktails &gt;</a></p>
+    {%- endfor -%}
 
 
 
