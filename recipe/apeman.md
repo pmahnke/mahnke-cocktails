@@ -12,6 +12,7 @@ youtube: "CfKrIWRMrNA"
 description: "An original sour cocktail that pairs bourbon and Oloroso sherry with the tropical sweetness of banana liqueur."
 excerpt: |
   This is an Anders original cocktail.
+date: 2025-08-11
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "CfKrIWRMrNA"
 description: "An original cocktail with a complex profile, combining demerara rum, cognac, and a hint of absinthe."
 excerpt: |
   This is an Anders original cocktail.
+date: 2025-08-11
 ---
 
 ### Ingredients

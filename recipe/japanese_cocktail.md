@@ -21,6 +21,7 @@ excerpt: |
   <br>1 or 2 pieces of lemon peel.
   <br>Fill the tumbler one-third with ice, and stir well with a spoon.</blockquote>
   It is thought that he created and named the drink in 1860 to commemorate the first Japanese mission to the USA. While in New York, the delegates stayed at the Metropolitan Hotel, just a block away from Jerry Thomas' bar at 622 Broadway. And as David Wondrich writes in his 2015 <i>Updated and Revised Imbibe!</i>, "I can't imagine that in their strolls around the neighbourhood, they wouldn't have stopped in to see the Professor for a quick one. And if you were Jerry Thomas, wouldn't you come up with something special to mark the occasion?"
+date: 2025-12-09
 ---
 
 <div class="subrecipe" markdown="1">

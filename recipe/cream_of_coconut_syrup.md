@@ -9,6 +9,7 @@ base_spirits: "White Sugar, Coconut Milk"
 youtube: "vGBMrJgjZB4"
 excerpt: |
   Cream of coconut syrup is a thick, sweet, and creamy syrup made from coconut milk and sugar.
+date: 2025-07-07
 ---
 
 ### Ingredients

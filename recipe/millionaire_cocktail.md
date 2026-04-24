@@ -17,6 +17,7 @@ excerpt: |
   <br>- 1/3 Absinthe
   <br>- 2/3 Dry gin
   <br>- Shake well and strain into cocktail glass.
+date: 2025-11-29
 ---
 
 ### Ingredients

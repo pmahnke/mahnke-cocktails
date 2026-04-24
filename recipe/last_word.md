@@ -12,6 +12,7 @@ youtube: "ueiHrjWgC-jSAvQn"
 description: "A sharp, pungent, and complex Prohibition-era classic featuring equal parts gin, Green Chartreuse, maraschino liqueur, and lime."
 excerpt: |
   The Last Word is a gin-based cocktail originating at the Detroit Athletic Club in the 1910s, shortly before the start of Prohibition.
+date: 2025-12-23
 ---
 
 ### Ingredients

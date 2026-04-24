@@ -12,6 +12,7 @@ youtube: "VBSjE-P_C58"
 description: "A modern classic from the early 2000s, this is a simple but delicious whiskey sour that uses honey syrup as its sweetener."
 excerpt: |
   Created at famed New York City bar Milk & Honey in the early 2000s, this drink's combination of bourbon, lemon and honey became worldwide modern classic.
+date: 2025-08-11
 ---
 
 ### Ingredients

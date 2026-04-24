@@ -12,6 +12,7 @@ youtube: "lgy6vEX_hQg"
 description: "The iconic Italian aperitif, this is a classic and perfectly balanced three-ingredient cocktail composed of gin, Campari, and sweet vermouth."
 excerpt: |
   Composed of gin, sweet vermouth and Campari, the Negroni is the classic three-ingredient cocktail you should absolutely master.
+date: 2025-08-11
 ---
 
 ### Ingredients

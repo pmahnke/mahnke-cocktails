@@ -13,6 +13,7 @@ youtube: "6AyWk5teLv8"
 description: "A classic gin sour from 1937 featuring crème de cacao, named in honor of the famous 20th Century Limited passenger train."
 excerpt: |
   The 20th century is a cocktail created in 1937 by a British bartender named C.A. Tuck, and named in honor of the celebrated 20th Century Limited train which ran between New York City and Chicago from 1902 until 1967. The recipe was first published in 1937 in the <em>Café Royal Cocktail Book</em> by William J Tarling, President of the United Kingdom Bartenders' Guild and head bartender at the Café Royal.
+date: 2025-12-23
 ---
 
 ### Ingredients

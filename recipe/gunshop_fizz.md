@@ -12,6 +12,7 @@ youtube: "NYKEbNf5ksg"
 description: "A unique and modern fizz that boldly uses two full ounces of Peychaud's bitters as its base spirit."
 excerpt: |
   Markz Pazuniak and Kirk Estopinal's wholly unique take on a Pimm's Cup cocktail recipe calls for two full ounces of Peychaud's bitters.
+date: 2025-08-11
 ---
 
 ### Ingredients

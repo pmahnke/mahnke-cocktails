@@ -12,6 +12,7 @@ youtube: "VBSjE-P_C58"
 description: "A classic Martini variation invented by Ian Fleming for James Bond, featuring a potent combination of both gin and vodka with Cocchi Americano."
 excerpt: |
   The gin-and-vodka-based Vesper cocktail made its debut in “Casino Royale.” If it’s good enough for James Bond, it’s probably good enough for you, too.
+date: 2025-08-11
 ---
 
 ### Ingredients

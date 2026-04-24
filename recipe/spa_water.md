@@ -12,6 +12,7 @@ youtube: "5wgvpo-xBnA"
 description: "A refreshing non-alcoholic drink that typically includes muddled cucumber, mint, simple syrup, and lime juice."
 excerpt: |
   A spa water cocktail is a mixed drink that typically includes cucumber slices, simple syrup, lime juice, water, and sparkling water.
+date: 2025-08-11
 ---
 
 ### Ingredients

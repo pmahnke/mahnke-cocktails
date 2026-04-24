@@ -12,6 +12,7 @@ youtube: "3aV3DzDfW_A"
 description: "A classic Collins-style cocktail that features tequila, lime, and grenadine, topped with soda and a few dashes of Angostura bitters."
 excerpt: |
   The drink is essentially a tequila Collins, made with lime in place of lemon and grenadine in place of plain sugar, with the addition of some Angostura Aromatic Bitters.
+date: 2025-08-11
 ---
 
 ### Ingredients

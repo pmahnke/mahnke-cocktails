@@ -12,6 +12,7 @@ youtube: "D-hCgKtMIAQ"
 description: "A classic and visually appealing whiskey sour variation that features a striking red wine float on top."
 excerpt: |
   The New York sour recipe adds red wine to the classic whiskey sour cocktail for a playful and fruity twist on a household favorite.
+date: 2025-08-11
 ---
 
 ### Ingredients

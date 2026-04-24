@@ -12,6 +12,7 @@ youtube: "3aV3DzDfW_A"
 description: "A classic cocktail that predates the Margarita, showcasing tequila in a balanced and approachable sour format with apricot liqueur."
 excerpt: |
   The Toreador is a classic cocktail that predates the Margarita and showcases tequila in a balanced and approachable way. It's a great choice for those who want to explore tequila beyond the classic Margarita.
+date: 2025-09-26
 ---
 
 ### Ingredients

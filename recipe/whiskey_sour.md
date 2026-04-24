@@ -12,6 +12,7 @@ youtube: "bxTRtiS06W0&t=51s"
 description: "A timeless classic and cornerstone of drink-making, this sour perfectly balances the richness of whiskey with the tartness of lemon."
 excerpt: |
   The classic Whiskey Sour is the most famous representation of one of the worlds most popular types of cocktail. Easy to commit to memory, its simple go-to sour to add to your arsenal, and a cornerstone of drink-making that everyone should know.
+date: 2025-08-11
 ---
 
 ### Ingredients

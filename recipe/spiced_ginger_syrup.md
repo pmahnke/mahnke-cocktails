@@ -11,6 +11,7 @@ base_spirits: "Sugar, Spices"
 youtube:
 excerpt: |
   Spiced ginger simple syrup is a versatile ingredient that can be used in Dark 'n Stormy.
+date: 2025-07-31
 ---
 
 ### Ingredients

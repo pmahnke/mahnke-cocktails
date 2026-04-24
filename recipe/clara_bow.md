@@ -13,6 +13,7 @@ youtube: "P5qAYo2lvtQ"
 description: "This cocktail blends bourbon (high-rye preferred), St. Germain, grenadine, and lemon juice with fresh mint, offering a spicy, floral, and citrusy flavor profile."
 excerpt: |
   The Clara Bow, a modern classic bourbon cocktail, created by Lynnette Marrero and Jim Kearns in 2009 at Rye House in New York City. It drinks like something much older, but the addition of St-Germain, an elderflower liqueur that didn’t hit the market until 2007, sets it apart from classic recipes. Fresh mint with lemon and grenadine place this drink somewhere between a whiskey sour, a daisy, and a smash.
+date: 2026-03-29
 ---
 
 ### Ingredients

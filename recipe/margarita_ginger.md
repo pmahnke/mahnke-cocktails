@@ -12,6 +12,7 @@ youtube: "jxpT11WEtWQ"
 description: "A refreshing and flavorful modern twist on the classic Margarita, combining the bold spice of ginger with zesty lime and tequila."
 excerpt: |
   The margarita ginger cocktail is a refreshing and flavorful twist on the classic margarita. It combines the bold flavors of ginger with the zesty lime juice and tequila, creating a unique and exciting drink.
+date: 2025-12-23
 ---
 
 ### Ingredients

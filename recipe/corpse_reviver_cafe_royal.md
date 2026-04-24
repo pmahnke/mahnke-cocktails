@@ -12,6 +12,7 @@ youtube: "rMCsrbidAJ4"
 description: "A classic variation from the Cafe Royal Cocktail Book that adds the effervescence of Champagne to a cognac base."
 excerpt: |
   This recipe comes from the Cafe Royal Cocktail Book.
+date: 2025-08-11
 ---
 
 ### Ingredients

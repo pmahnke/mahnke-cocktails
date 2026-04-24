@@ -12,6 +12,7 @@ youtube: "FdAQ96mYwNQ"
 description: "The national drink of both Peru and Chile, this is an earthy and refreshing classic sour featuring pisco, lime, and a frothy egg white top."
 excerpt: |
   Featuring pisco, lime, egg white and sugar, the Pisco Sour is an earthy and refreshing drink. It’s also the national cocktail of Peru and Chile.
+date: 2025-08-11
 ---
 
 ### Ingredients

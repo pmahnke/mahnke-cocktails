@@ -12,6 +12,7 @@ youtube: "3vtklNLjMPw"
 description: "A classic cocktail that pairs rye whiskey with the wine-based aperitif Dubonnet and Cointreau."
 excerpt: |
   Enjoy your favorite rye whiskey in this Dubonnet and Cointreau drink from famed New York bartender Brian Miller.
+date: 2025-08-14
 ---
 
 <div class="subrecipe" markdown="1">

@@ -12,6 +12,7 @@ youtube: "3i4QnRLlPFc&t=220s"
 description: "A refreshing and flavorful modern smash that combines the sweetness of fresh peaches with the earthy, savory notes of sage."
 excerpt: |
   The Peach & Sage Smash is a refreshing and flavorful cocktail that combines the sweetness of peaches with the earthy notes of sage.
+date: 2025-08-11
 ---
 
 ### Ingredients

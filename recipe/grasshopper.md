@@ -12,6 +12,7 @@ youtube: "kRPWDOCVByk&t=164s"
 description: "A sweet, minty-chocolate after-dinner classic known for its vibrant green color from crème de menthe."
 excerpt: |
   The Grasshopper is a classic cocktail known for its vibrant green color and creamy, minty-chocolate flavor. It is a sweet, minty classic that tastes better than your traditional dessert.
+date: 2025-08-11
 ---
 
 ### Ingredients

@@ -13,6 +13,7 @@ youtube: "Cy1skc0oI28"
 description: "A brilliant modern reconstruction of the Classic Martinez, featuring sloe gin and a touch of Campari."
 excerpt: |
   The Sloe Gin Martinez is a brilliant reconstruction of the Classic Martinez. It was created by London Barman, Oskar Kinberg while he ran his own speakeasy style bar Oskar's Bar in the basement of the, now defunct, Michelin Star restaurant Dabbous.
+date: 2025-08-11
 ---
 
 ### Ingredients

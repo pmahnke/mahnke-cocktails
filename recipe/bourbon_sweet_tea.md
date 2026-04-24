@@ -12,6 +12,7 @@ youtube: "1b4nHX4RjdY"
 description: "A boozy take on the iconic Southern Sweet Tea, perfect for porch sipping."
 excerpt: |
   You're all set for sitting on the porch, rocking your cares away with this boozy take on the iconic Sweet Tea.
+date: 2025-08-11
 ---
 
 ### Ingredients

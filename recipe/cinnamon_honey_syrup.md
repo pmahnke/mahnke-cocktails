@@ -9,6 +9,7 @@ base_spirits: "Honey, Cinnamon Sticks"
 youtube: "79htbyQ8nDY"
 excerpt: |
   Like the simple cinnamon simple syrup recipe. This adds a touch of honey for a cinnamon spiced flavor.
+date: 2026-02-05
 ---
 
 ### Ingredients

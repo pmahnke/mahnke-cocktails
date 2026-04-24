@@ -14,6 +14,7 @@ excerpt: |
   A voraciously pink Parisian special from the 1920s, this cocktail first appears in print in Harry MacElhone's 1927 <em>Barflies and Cocktails</em>.
 
   Exactly the same recipe appears three years later in Harry Craddock's 1930 <em>The Savoy Cocktail Book</em>.
+date: 2025-10-20
 ---
 
 ### Ingredients

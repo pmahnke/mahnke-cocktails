@@ -9,6 +9,7 @@ base_spirits: "White Sugar, Raspberries"
 youtube: "vGBMrJgjZB4"
 excerpt: |
   Fresh raspberry syrup adds sweet, tart, fruity flavor to drinks of all kinds.
+date: 2025-07-07
 ---
 
 ### Ingredients

@@ -13,6 +13,7 @@ youtube: "-DnpmdGBmgs&t=433s"
 description: "A unique and flavorful modern tiki cocktail that features a combination of dark rum, apple brandy, and cinnamon."
 excerpt: |
   The Mundo Perdido cocktail is a unique and flavorful tiki drink created by Jeff Beachbum Berry. It features a combination of dark rum, apple brandy, lemon juice, cinnamon syrup, and demerara syrup. The name "Mundo Perdido" translates to "Lost World" in Spanish, hinting at the cocktail's exotic and mysterious nature.
+date: 2025-08-11
 ---
 
 ### Ingredients

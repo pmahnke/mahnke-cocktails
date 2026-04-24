@@ -10,6 +10,7 @@ base_spirits: "Pear Nectar, Passion Fruit Pulp"
 youtube: "ouRs57kDexU"
 excerpt: |
   Pear granita is a refreshing, semi-frozen dessert made by blending pear nectar with Pear liquor and Angosyura Bitters before freezing the mixture into coarse, shaggy ice crystals. Unlike smooth sorbet, this treat features a rustic, "crunchy" texture achieved by periodically scraping the freezing juice with a fork to create a delicate and flaky shaved-ice consistency.
+date: 2025-12-27
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "1AZGE2FUAO4"
 description: "A classic Cuban cocktail from the Prohibition era, this is a sophisticated and slightly sweet drink featuring rum, vermouth, and curaçao."
 excerpt: |
   The classic El Presidente cocktail was born in Cuba and combines white rum, dry vermouth, orange curaçao and grenadine. Hail to the chief.
+date: 2026-03-01
 ---
 
 ### Ingredients

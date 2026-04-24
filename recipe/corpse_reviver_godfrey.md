@@ -13,6 +13,7 @@ youtube: "rMCsrbidAJ4"
 description: "A classic variation from the Cafe Royal Cocktail Book featuring both gin and vodka."
 excerpt: |
   This recipe comes from the Cafe Royal Cocktail Book.
+date: 2025-08-11
 ---
 
 ### Ingredients

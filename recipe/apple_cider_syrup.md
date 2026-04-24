@@ -9,6 +9,7 @@ base_spirits: "Apple Cider"
 youtube: rWu7oPKxN4U
 excerpt: |
   Here is an apple cider reduction. It’s simple to make and adds deep, caramelized apple flavor without any refined sugar.
+date: 2025-10-31
 ---
 
 ### Ingredients

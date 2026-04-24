@@ -13,6 +13,7 @@ youtube: "PM_X8Ci0iXg"
 description: "A Prohibition-era Martini variation that pairs the dryness of gin with the salinity of Fino sherry."
 excerpt: |
   First published in William James "Billy" Tarling's 1937 <em>Café Royal Bar Book</em> where the invention of this cocktail is credited to A. J. Smith.
+date: 2025-08-11
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "eH9yt9JpXXk&t=6s"
 description: "A classic sweet and refreshing tropical tiki cocktail made with rum, pineapple juice, and cream of coconut."
 excerpt: |
   The Piña Colada is a classic tropical cocktail that is loved by many for its sweet and refreshing flavor. It is made with rum, pineapple juice, and cream of coconut, and is typically served blended with ice or shaken with ice and strained.
+date: 2025-08-11
 ---
 
 ### Ingredients

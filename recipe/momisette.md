@@ -12,6 +12,7 @@ youtube: "ABntm6FL8wc"
 description: "A sparkling and refreshing Prohibition-era fizz that combines the anise flavor of pastis with the nutty sweetness of orgeat."
 excerpt: |
   The Momisette is a sparkling blend of pastis and orgeat served over ice. It’s easy to make and tastes great on a warm day.
+date: 2025-08-11
 ---
 
 ### Ingredients

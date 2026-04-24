@@ -13,6 +13,7 @@ youtube: "https://www.diffordsguide.com/cocktails/recipe/162/banana-daiquiri"
 description: "A tangy banana rum drink that's not overly sweet and is more sophisticated than the uninitiated may expect."
 excerpt: |
   Legendary Tiki bartender Harry K. Yee is credited with being the first to add banana to a Daiquiri at Henry Kaiser's Hawaiian Village Hotel in Waikiki, Oahu, Hawaii.
+date: 2025-08-15
 ---
 
 ### Ingredients

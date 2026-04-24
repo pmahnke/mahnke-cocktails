@@ -12,6 +12,7 @@ youtube: "s30L-iu171E"
 description: "An original hot toddy featuring a unique blend of Jamaican rum, bourbon, and oat milk."
 excerpt: |
   A blend of Jamaican rum, bourbon whiskey, rich demerara syrup, Angostura Aromatic Bitters, black tea, and oat milk.
+date: 2025-08-11
 ---
 
 ### Ingredients

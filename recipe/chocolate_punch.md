@@ -12,6 +12,7 @@ youtube: "s30L-iu171E"
 description: "A decadent and indulgent classic punch that combines the rich flavors of brandy, port, and dark crème de cacao."
 excerpt: |
   The Chocolate Punch is a decadent and indulgent cocktail that combines the rich flavors of brandy, port, and dark crème de cacao.
+date: 2025-08-11
 ---
 
 ### Ingredients

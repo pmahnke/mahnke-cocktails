@@ -12,6 +12,7 @@ youtube: "cJhKGTM3z20"
 description: "A potent and historic classic American punch recipe that combines a rich blend of cognac, Jamaican rum, apple brandy, and peach liqueur."
 excerpt: |
   The Philadelphia Fish House Punch is a classic punch recipe that has been enjoyed for centuries. It's a rich and complex drink with a balance of sweetness, acidity, and spirit.
+date: 2025-08-11
 ---
 
 <div class="subrecipe" markdown="1">

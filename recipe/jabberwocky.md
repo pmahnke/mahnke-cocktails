@@ -12,6 +12,7 @@ youtube: "tGudsyMDO_g"
 description: "A refined and nuanced Martini-style sipper from the Savoy Cocktail book, featuring a marriage of dry sherry, gin, and Lillet."
 excerpt: |
   This marriage of dry sherry, gin and Lillet from the Savoy Cocktail book is a most refined and nuanced sipper.
+date: 2025-11-25
 ---
 
 ### Ingredients

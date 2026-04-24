@@ -12,6 +12,7 @@ youtube: "vECQyr3-Lyw"
 description: "This is a rye forward cocktail with cherry and Bénédictine notes."
 excerpt: |
   This is an Anders original cocktail. It is a mashup of a hunter and a rusty nail based off of the Cafe Royal cocktail book ratios. This is a rye forward cocktail with cherry and Bénédictine notes.
+date: 2025-11-26
 ---
 
 ### Ingredients

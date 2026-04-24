@@ -13,6 +13,7 @@ youtube: "https://youtube.com/shorts/r6QW-H5nnGM?si=i7JwiTGYox34RizT"
 description: "A bright, effervescent, gin-based highball cocktail with a vibrant raspberry flavor. It perfectly balances the gin with lime and ginger."
 excerpt: |
   Named after a popular Edwardian musical comedy, the Florodora is a classic, pre-Prohibition cocktail with a beautiful pink hue. It's built on a base of gin, mixed with fresh lime juice and either raspberry syrup or raspberry liqueur, before being topped with chilled ginger ale or spicier ginger beer. The drink offers a complex profile, starting with the botanical aroma of gin and the tartness of lime, followed by the sweetness of the raspberry and the zesty kick of ginger. It is a light, fruity, and highly refreshing long drink, making it an excellent choice for a warm weather libation.
+date: 2025-10-08
 ---
 
 ### Ingredients

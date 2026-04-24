@@ -12,6 +12,7 @@ youtube: "70cS-bRH9kA"
 description: "A modern, summery, and refreshing sour featuring an equal-parts combination of mezcal, yellow Chartreuse, Aperol, and lime."
 excerpt: |
   With Aperol, mezcal, Yellow Chartreuse, and lime juice, the summery Naked and Famous cocktail is a refreshing drink to serve year-round.
+date: 2025-12-23
 ---
 
 ### Ingredients

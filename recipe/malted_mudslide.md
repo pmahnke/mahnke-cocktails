@@ -12,6 +12,7 @@ youtube: "M8uXEDvbvVM"
 description: "This cocktail reimagines the classic dessert cocktail by replacing the neutral base of vodka with the complex, smoky, or malty profile of blended Scotch whisky."
 excerpt: |
   The Malted Mudslide reimagines the classic dessert cocktail by replacing the neutral base of vodka with the complex, smoky, or malty profile of blended Scotch whisky. This variation balances the rich sweetness of coffee and Irish cream liqueurs with the spirit's toasted grain and oak notes, resulting in a sophisticated drink with a lingering, savory finish.
+date: 2026-03-21
 ---
 
 ### Ingredients

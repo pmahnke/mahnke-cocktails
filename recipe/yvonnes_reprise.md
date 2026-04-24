@@ -12,6 +12,7 @@ youtube: "FI4wUOzJvUE"
 description: "Yvonne’s Reprise is an original cocktail inspired by Arnaud’s musical roots. It’s essentially a sour twist on the Arnaud Martini."
 excerpt: |
   This is an Anders original and is essentially a sour mash-up of the Arnaud Martini and the Algonquin. The addition of pineapple juice and lemon juice adds a tropical note, but the Crème de Cassis keeps it in the berry flavor profile. 
+date: 2025-11-15
 ---
 
 ### Ingredients

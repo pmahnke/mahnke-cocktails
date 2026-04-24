@@ -12,6 +12,7 @@ youtube: "ZE3G8aUyOn0"
 description: "A tart and fruity non-alcoholic cocktail that combines cherry juice with the nutty sweetness of orgeat."
 excerpt: |
   A twist on the classic Caipiroska, substituting the traditional muddled limes with sweet cherries. The result is a tangy and fruity cocktail with a subtle sweetness.
+date: 2025-08-11
 ---
 
 ### Ingredients

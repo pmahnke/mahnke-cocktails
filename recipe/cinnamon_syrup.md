@@ -9,6 +9,7 @@ base_spirits: "White Sugar, Cinnamon Sticks"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
   Add the taste of cinnamon to any drink with this simple cinnamon simple syrup recipe. It's easy and the long infusion creates a wonderful spiced flavor.
+date: 2025-07-07
 ---
 
 ### Ingredients

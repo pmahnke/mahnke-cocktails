@@ -12,6 +12,7 @@ youtube: "mvo1CzEJd14"
 description: "A classic modern buck, born in Los Angeles, famous for its refreshing combination of vodka, spicy ginger beer, and lime, traditionally served in a copper mug."
 excerpt: |
   The Moscow Mule, whose roots actually trace to Los Angeles in the mid-20th century, is a classic vodka drink with the bite of ginger beer.
+date: 2025-08-11
 ---
 
 ### Ingredients

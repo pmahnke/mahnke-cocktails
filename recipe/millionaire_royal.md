@@ -12,6 +12,7 @@ youtube: "CZ5KSKO3sbQ"
 description: "A very satisfactory classic sour, featuring bourbon, Grand Marnier, and a hint of absinthe."
 excerpt: |
   In his 1948 <i>The Fine Art of Mixing Drinks</i>, David Embury's says "At some bars a drink served under the name of "Millionaire" which consists of lime juice, slow gin, and Apricot Liqueur, with a few dashes of Jamaican Rum . Since the sloe gin, which is a liqueur, predominates in this drink, I do not regard it as a true cocktail." Embury is more complimentary of what he calls a "Millionaire Royal", proclaiming it to be "a very satisfactory drink."
+date: 2025-11-29
 ---
 
 ### Ingredients

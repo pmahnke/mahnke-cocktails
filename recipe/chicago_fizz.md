@@ -12,6 +12,7 @@ youtube: "bzN1zwAqgSY"
 description: "This is a sophisticated, pre-Prohibition classic featuring a rich and velvety blend of dark rum, ruby port, lemon juice, sugar, and an egg white, all topped with a splash of soda water."
 excerpt: |
   The Chicago Fizz is a sophisticated, pre-Prohibition classic that combines the rich depth of dark rum and ruby port with lemon juice, sugar, and an egg white. This shaken mixture is topped with soda water to create a velvety, frothy texture that balances its bold, wine-driven profile.
+date: 2026-04-05
 ---
 
 ### Ingredients

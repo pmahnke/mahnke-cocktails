@@ -12,6 +12,7 @@ youtube: "pTBVVi20ONk"
 description: "A classic tiki cocktail similar to a Daiquiri, with a touch of mystery from its blend of rums and spice."
 excerpt: |
   The Shrunken Skull is a classic Tiki cocktail that is a bit like a Daiquiri, but with a touch of mystery and a spooky presentation.
+date: 2025-08-11
 ---
 
 ### Ingredients

@@ -9,6 +9,7 @@ base_spirits: "Heavy Cream, Crème de Cacao, Powdered Sugar"
 youtube: "x6QiK4firC4"
 excerpt: |
   Crème de cacao whipped cream is a delicious and easy-to-make topping for desserts and cocktails. It's made by whipping heavy cream until stiff peaks form, then folding in crème de cacao for a rich, chocolatey flavor.
+date: 2025-07-07
 ---
 
 ### Ingredients

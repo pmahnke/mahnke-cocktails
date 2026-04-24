@@ -12,6 +12,7 @@ youtube: "YFqEvNdPrX8"
 description: "A classic cocktail from the 1930s Embassy Club in Hollywood, this is a well-balanced and flavorful drink combining brandy, rum, and Cointreau."
 excerpt: |
   The Embassy Cocktail is a classic cocktail from the 1930s, originating from Hollywood's Embassy Club. It's a well-balanced and flavorful drink that combines brandy, rum, Cointreau, lime juice, and bitters.
+date: 2025-08-11
 ---
 
 ### Ingredients

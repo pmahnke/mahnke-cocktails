@@ -12,6 +12,7 @@ youtube: "DJtBN6yBnsA"
 description: "A comforting and classic hot toddy that combines the warmth of Jamaican rum with black tea."
 excerpt: |
   The classic hot toddy is a comforting and warming beverage that has been used for centuries to soothe ailments and warm the soul.
+date: 2025-08-11
 ---
 
 ### Ingredients

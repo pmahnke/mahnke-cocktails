@@ -12,6 +12,7 @@ youtube: "3b2-jFhtCyQ"
 description: "A potent and fruity classic from New Orleans, famous for its blend of rums and passion fruit flavor."
 excerpt: |
   The rum-spiked Hurricane cocktail is potent and fruity. Mix one up for a trip to New Orleans without the plane ticket.
+date: 2025-08-11
 ---
 
 <div class="subrecipe" markdown="1">

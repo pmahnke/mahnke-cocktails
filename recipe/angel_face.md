@@ -13,6 +13,7 @@ youtube: "2nHl1pBETt8"
 description: "A classic, spirit-forward cocktail from the Prohibition era that perfectly balances gin, apple brandy, and apricot liqueur."
 excerpt: |
   Adapted from a recipe in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i> which stipulates "Shake well and strain into cocktail glass," rather than to stir as modern convention dictates.
+date: 2025-09-26
 ---
 
 ### Ingredients

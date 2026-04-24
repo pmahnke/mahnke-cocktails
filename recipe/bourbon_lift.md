@@ -13,6 +13,7 @@ youtube: "zCDgzuTYKBU"
 description: "A playful and nostalgic modern fizz that combines bourbon and coffee liqueur with orgeat and cream."
 excerpt: |
   It was created by San Francisco bartender Erik Adkins who helms the bar at Hard Water, his most recent of many stints in the bay city. The Bourbon Lift is a playful, nostalgic drink that's hard to put down, and not because it might float away on a fluffy cloud
+date: 2025-08-11
 ---
 
 ### Ingredients

@@ -12,6 +12,7 @@ youtube: "S7DGgeFsjyE"
 description: "An original sparkling cocktail that combines the bittersweet notes of Campari and apricot liqueur with a hint of absinthe."
 excerpt: |
   This is an Anders Erickson original cocktail created for New Year's Day, 2025.
+date: 2025-08-11
 ---
 
 ### Ingredients

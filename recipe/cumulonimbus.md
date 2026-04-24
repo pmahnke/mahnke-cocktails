@@ -11,6 +11,7 @@ base_spirits: "Espresso, Cinnamon Syrup, Soda Water"
 youtube: "s0nUq0Q9yUk"
 description: "A non-alcoholic coffee drink featuring espresso and cinnamon syrup topped with soda water."
 excerpt: |
+date: 2025-08-11
 ---
 
 ### Ingredients

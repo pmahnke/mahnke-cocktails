@@ -12,6 +12,7 @@ youtube: "i67-17-CZCQ"
 description: "An original cocktail with a complex profile, combining Calvados, Jamaican rum, and the unique spice of Swedish Punsch."
 excerpt: |
   This is an Anders original cocktail.
+date: 2025-08-11
 ---
 
 ### Ingredients

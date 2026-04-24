@@ -13,6 +13,7 @@ youtube: "9V4Jj3bmi90"
 description: "A rum-based, tiki-style drink created by mixologist Robert Hess and features Bénédictine and falernum liqueurs."
 excerpt: |
   The Voyager, created by renowned mixologist Robert Hess in 2006 for the "Tales of the Cocktail" event in New Orleans, offers a unique spin on the traditional tiki cocktail. It was designed to use less common ingredients like Bénédictine and falernum, which were harder to find at the time, and provides a drier profile while retaining the essential tropical flavors. 
+date: 2025-12-17
 ---
 
 ### Ingredients

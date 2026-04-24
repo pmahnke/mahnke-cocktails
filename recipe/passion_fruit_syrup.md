@@ -9,6 +9,7 @@ base_spirits: "White Sugar, Passion Fruit Pulp"
 youtube: "vGBMrJgjZB4"
 excerpt: |
   Passion fruit syrup is a tropical, tangy syrup that adds a burst of fruity sweetness and a touch of tartness to cocktails.
+date: 2025-07-07
 ---
 
 ### Ingredients

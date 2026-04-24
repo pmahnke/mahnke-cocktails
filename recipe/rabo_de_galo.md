@@ -12,6 +12,7 @@ youtube: "YFqEvNdPrX8"
 description: "A classic and simple Brazilian cocktail known for its bold flavors, combining cachaça with the bittersweet notes of Cynar."
 excerpt: |
   The Rabo de Galo is a classic Brazilian cocktail known for its simplicity and bold flavors.
+date: 2025-08-11
 ---
 
 ### Ingredients

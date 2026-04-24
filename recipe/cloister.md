@@ -22,6 +22,7 @@ excerpt: |
   Shake well with ice. Strain into prechilled cocktail glass. A competitive kind of drink, perfect for an autumn sundown.<br><br>
   <cite>Thomas Mario, 1971</cite>
   </blockquote>
+date: 2025-08-11
 ---
 
 ### Ingredients

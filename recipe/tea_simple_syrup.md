@@ -8,6 +8,7 @@ stars: 5
 base_spirits: "Black Tea, White Sugar"
 youtube: "rQ59lgXm8Ho"
 excerpt: |
+date: 2025-08-07
 ---
 
 ### Ingredients

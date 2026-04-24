@@ -12,6 +12,7 @@ youtube: "shi2LNARyxk"
 description: "A unique and intensely bitter highball that prominently features Malört, a classic Chicago spirit."
 excerpt: |
   The Forced Retirement cocktail is a concoction created by Anders Erickson, a Chicago-based bartender and YouTuber. It's a rather unique drink that incorporates the infamous Malört, a Chicago spirit known for its intense, bitter flavor.
+date: 2025-08-14
 ---
 
 ### Ingredients

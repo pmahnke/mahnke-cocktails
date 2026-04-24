@@ -12,6 +12,7 @@ youtube: "vaVcBQ6tiFw"
 description: "A celebratory classic cocktail that combines gold rum and honey with the effervescence of Champagne."
 excerpt: |
   The Airmail cocktail is a refreshing and easy-to-make drink that's perfect for a warm day or a celebratory occasion. It's a classic cocktail that has been around since the 1940s, and it's still popular today.
+date: 2025-08-11
 ---
 
 ### Ingredients

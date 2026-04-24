@@ -12,6 +12,7 @@ youtube: "N0aPVPdLyQc"
 description: "One of the oldest classic cocktails from New Orleans, known for its distinctive sugared rim and long lemon peel garnish."
 excerpt: |
   The Brandy Crusta is one of the oldest classic cocktails on record and a liquid calling card of its hometown of New Orleans.
+date: 2025-08-11
 ---
 
 ### Ingredients

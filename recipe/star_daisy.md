@@ -13,6 +13,7 @@ youtube: "QZRlEKhzUZE&t=838s"
 description: "This cocktail offers a sophisticated profile that marries the piney bite of gin with the mellow depth of apple brandy, all held together by a refreshing ribbon of lemon and orange."
 excerpt: |
   The Milk & Honey Star Daisy is a crisp, perfectly balanced "split-base" sour that bridges the gap between seasons by pairing the botanical snap of gin with the autumnal warmth of apple brandy.
+date: 2026-03-02
 ---
 
 ### Ingredients

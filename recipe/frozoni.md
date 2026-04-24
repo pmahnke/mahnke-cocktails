@@ -12,6 +12,7 @@ youtube: "ipHnOhkGWug"
 description: "A frozen, slushy variation of the Enzoni cocktail, blending gin, Campari, and muddled grapes with the sparkle of prosecco."
 excerpt: |
   The Frozoni is a frozen variation of the Enzoni cocktail, a modern classic that combines muddled grapes with Campari, gin, lemon juice, and simple syrup. The Frozoni adds frozen grapes and Prosecco or other sparkling wine to the mix, creating a refreshing and bubbly slushy drink.
+date: 2025-08-11
 ---
 
 ### Ingredients

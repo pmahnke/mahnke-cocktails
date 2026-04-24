@@ -13,6 +13,7 @@ youtube: "xN3ymSPZJjY"
 description: "A classic tiki cocktail from the 1940s that combines reposado tequila with the sweet blackcurrant flavor of crème de cassis and spicy ginger beer."
 excerpt: |
   The El Diablo cocktail first appeared in 1946 in a Trader Vic’s recipe book. It features tequila, crème de cassis, lime and ginger beer.
+date: 2025-08-11
 ---
 
 ### Ingredients

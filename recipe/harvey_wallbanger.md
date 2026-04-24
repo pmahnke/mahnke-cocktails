@@ -12,6 +12,7 @@ youtube: "YFqEvNdPrX8"
 description: "A modern classic that enhances a simple Screwdriver (vodka and orange juice) with a float of the Italian liqueur Galliano."
 excerpt: |
   The Harvey Wallbanger is a modern classic that combines a Screwdriver with the Italian liqueur Galliano.
+date: 2025-08-11
 ---
 
 ### Ingredients

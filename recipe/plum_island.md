@@ -12,6 +12,7 @@ youtube: 'lWDA\_\_gwSow'
 description: "An original tiki cocktail featuring a unique combination of gold rum, Lillet Rouge, and a hint of absinthe."
 excerpt: |
   Named for an island in Green Bay, this was created by Anders Ericson.
+date: 2025-08-11
 ---
 
 ### Ingredients
