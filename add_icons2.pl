@@ -435,7 +435,8 @@ foreach $file (sort @files) {
             $ingredient{'elderflower-liqueur'} = 1 if (/elderflower liqueur/i);
             $ingredient{'allspice-dram'} = 1 if (/allspice dram/i);
             $ingredient{'scotch'} = 1 if (/scotch/i && !$ingredient{'single-malt-scotch'}); # replace if we get a single malt bottle
-            $ingredient{'tequila'} = 1 if (/tequila/i);
+            $ingredient{'reposado-tequila'} = 1 if (/reposado tequila/i);
+            $ingredient{'tequila'} = 1 if (/tequila/i) && !$ingredient{'reposado-tequila'};
             $ingredient{'mezcal'} = 1 if (/mezcal/i);
             $ingredient{'vodka'} = 1 if (/vodka/i);
             $ingredient{'lillet-rouge'} = 1 if (/lillet rouge/i);
@@ -452,7 +453,6 @@ foreach $file (sort @files) {
             $ingredient{'galliano'} = 1 if (/galliano/i);
             $ingredient{'galliano'} = 1 if (/grand marnier/i);
             $ingredient{'pisco'} = 1 if (/pisco/i);
-            $ingredient{'reposado-tequila'} = 1 if (/reposado tequila/i);
             $ingredient{'lime-juice'} = 1 if (/lime juice/i);
             $ingredient{'coffee-liqueur'} = 1 if (/coffee liqueur/i);
             $ingredient{'chartreuse'} = 1 if (/chartreuse/i);
