@@ -14,10 +14,6 @@
   slug: amaretto
   url: /assets/images/ingredient-amaretto.svg
   description: An Italian liqueur with a distinct sweet almond flavor, though it is usually made from apricot pits or other stone fruits.
-- name: Amaro
-  slug: amaro
-  url: /assets/images/ingredient-amaro.svg
-  description: A broad Italian category of herbal, bittersweet liqueurs, typically enjoyed as a digestivo or used to add complexity.
 - name: Averna
   slug: averna
   url: /assets/images/ingredient-amaro.svg
@@ -234,10 +230,6 @@
   slug: licor_43
   url: null
   description: A sweet Spanish liqueur flavored with 43 natural ingredients, primarily vanilla, citrus, and herbs.
-- name: Light Amaro
-  slug: light_amaro
-  url: /assets/images/ingredient-amaro.svg
-  description: A category of amaro (Italian bitter herbal liqueur) that is generally milder, lighter in color, and less intensely bitter than digestivo amaros.
 - name: Light Rum
   slug: light_rum
   url: /assets/images/ingredient-light-rum.svg
