@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/just_for_mary/"
 iconfile: just_for_mary
-stars: 0
+stars: 3
 base_spirits: ['Rye', 'Lillet Blanc', 'Cherry Liqueur']
 youtube: "MSQewg1LuOk"
 description: "The Just for Mary is a rye whiskey cocktail created by Tony Abou-Ganim, which serves as a variation of the classic Manhattan. It distinguishes itself by swapping sweet vermouth for a combination of Lillet Blanc and a cherry liqueur, resulting in a lighter, more complex, and fruit-forward flavor."

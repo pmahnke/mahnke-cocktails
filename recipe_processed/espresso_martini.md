@@ -7,7 +7,7 @@ eras: [modern]
 categories: [coffee, after_dinner]
 permalink: "/recipe/espresso_martini/"
 iconfile: espresso_martini
-stars: 0
+stars: 3
 base_spirits: ['Coffee Liqueur', 'Vodka']
 youtube: "q0ebbWwoI10"
 description: "A modern classic that provides a rich and energizing combination of vodka, fresh espresso, and coffee liqueur."

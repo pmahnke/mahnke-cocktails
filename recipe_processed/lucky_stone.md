@@ -6,7 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/lucky_stone/"
 iconfile: lucky_stone
-stars: 0
+stars: 3.5
 base_spirits: ['Irish Whiskey', 'Amontillado Sherry', 'Apricot Liqueur']
 youtube: "aRboP-f7LK0"
 description: "An original cocktail with a complex and balanced profile, combining Irish whiskey with the nutty notes of Amontillado sherry and sweet apricot."

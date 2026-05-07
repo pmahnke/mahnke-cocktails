@@ -4,7 +4,7 @@ title: "Lime Cordial"
 categories: [syrup]
 permalink: "/recipe/lime_cordial/"
 iconfile: lime_cordial
-stars: 0
+stars: 4
 base_spirits: ['White Sugar', 'Lime Zest', 'Lime Juice', 'Citric Acid']
 youtube: "https://jeffreymorgenthaler.com/lime-cordial/"
 excerpt: |

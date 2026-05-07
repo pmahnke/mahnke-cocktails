@@ -7,7 +7,7 @@ categories: [daisy, smash, sour]
 eras: [modern]
 permalink: "/recipe/clara_bow/"
 iconfile: clara_bow
-stars: 0
+stars: 4
 base_spirits: ['Bourbon', 'St. Germain']
 youtube: "P5qAYo2lvtQ"
 description: "This cocktail blends bourbon (high-rye preferred), St. Germain, grenadine, and lemon juice with fresh mint, offering a spicy, floral, and citrusy flavor profile."

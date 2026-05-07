@@ -6,7 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/gold_rush/"
 iconfile: gold_rush
-stars: 0
+stars: 2.5
 base_spirits: ['Bourbon']
 youtube: "VBSjE-P_C58"
 description: "A modern classic from the early 2000s, this is a simple but delicious whiskey sour that uses honey syrup as its sweetener."

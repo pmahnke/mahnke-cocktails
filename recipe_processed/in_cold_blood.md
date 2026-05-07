@@ -1,28 +1,27 @@
 ---
 layout: recipe
-author: "Leandro DiMonriva"
+author: Leandro DiMonriva
 title: "In Cold Blood"
-categories:
-  [ cocktail,]
+categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/in_cold_blood/"
 iconfile: in_cold_blood
-stars: 0
-base_spirits: ['Rye', 'Cynar', 'Sweet Vermouth']
+stars: 4.5
+base_spirits: ['Cynar', 'Rye']
 youtube: "GZITiAIYars"
-description: "This is a Cynar based riff on the Boulevardier by Andrew Volk."
+description: "This is a sophisticated, bittersweet drink that combines the richness of rye with the herbal complexity of Cynar amaro and a sweetness of Italian vermouth."
 excerpt: |
-  Named for the Truman Capote book, Andrew Volk invented this cocktail circa 2016 at the Portland Hunt & Alpine Club in Maine. It is a riff on the [Boulevardier](/recipe/boulevardier/).
-date: 2025-08-20
+  This riff on a Manhattan uses Cynar as the bittering agent in the place of aromatic bitters. It has notes of chocolate and vanilla, and the rich, spiciness of rye whiskey. Named for the Truman Capote book, Andrew Volk invented this cocktail circa 2016 at the Portland Hunt & Alpine Club in Maine. It is a riff on the [Boulevardier](/recipe/boulevardier/).
+date: 2026-05-05
 ---
 
 ### Ingredients
 
-| Amount | Ingredient | Brand |
-| -----: | ---------- | ----- |
-|     <span class="onex active">1 oz    / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz    / 45 ml</span> <span class="twox">2 oz    / 60 ml</span> <span class="threex">3 oz    / 90 ml</span>|      Rye Whiskey      |   Rittenhouse    |
-| <span class="onex active">1 oz        / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz        / 45 ml</span> <span class="twox">2 oz        / 60 ml</span> <span class="threex">3 oz        / 90 ml</span>|       Cynar     |   Cynar    |
-| <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes") | Carpano Antica Vermouth |
+| Amount | Ingredient     | Brand          |
+| -----: | -------------- | -------------- |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")          | Cynar          |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes") | Carpano Antica |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Rye [&#9432;](/spirit/rye "More Rye recipes")            | WhistlePig     |
 
 ### Notes
 
@@ -31,8 +30,8 @@ date: 2025-08-20
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Lemon twist and a pinch of salt
-- Special Prep: None
+- Garnish: Expressed lemon oil and a pinch of salt (optional)
+- Special Prep: Lemon Twist
 
     
 <script type="application/ld+json">
@@ -47,8 +46,8 @@ date: 2025-08-20
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " ",
-  " ",
-  "1 oz Sweet Vermouth"
+  "1 oz Sweet Vermouth",
+  " "
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
@@ -74,11 +73,11 @@ date: 2025-08-20
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lemon twist and a pinch of salt"
+      "text": "- Garnish: Expressed lemon oil and a pinch of salt (optional)"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "- Special Prep: Lemon Twist"
     }
     ],
   "recipeYield": "1 cocktail",

@@ -6,7 +6,7 @@ categories: [daisy, sour]
 eras: [prohibition]
 permalink: "/recipe/champs-elysees/"
 iconfile: champs-elysees
-stars: 0
+stars: 3.5
 base_spirits: ['Cognac', 'Green Chartreuse']
 youtube: "https://www.liquor.com/champs-elysees-cocktail-recipe-8558284"
 description: "This is a classic cocktail that consists of cognac, Green Chartreuse, lemon juice, simple syrup, and bitters. Named after the famous Paris avenue, it’s essentially a riff on the Sidecar that calls for Chartreuse rather than orange liqueur."

@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic, modern]
 permalink: "/recipe/hunter/"
 iconfile: hunter
-stars: 0
+stars: 2
 base_spirits: ['Rye', 'Bourbon', 'Cherry Liqueur', 'Maraschino Liqueur']
 youtube: "LINK"
 description: "The original Hunter Cocktail is a simple, spirit-forward classic dating back to the early 20th century that consists of just two ingredients. This warming sipper balances the spicy robustness of rye whiskey with the rich, deep sweetness of cherry brandy (often Cherry Heering), and is traditionally served stirred and strained."
