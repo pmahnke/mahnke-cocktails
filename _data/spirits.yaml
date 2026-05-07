@@ -18,8 +18,12 @@
   slug: amaro
   url: /assets/images/ingredient-amaro.svg
   description: A broad Italian category of herbal, bittersweet liqueurs, typically enjoyed as a digestivo or used to add complexity.
-- name: Amaro Nonino
-  slug: amaro_nonino
+- name: Amaro Averna
+  slug: amaro_averna
+  url: /assets/images/ingredient-amaro.svg
+  description: A popular Sicilian amaro with a rich, bittersweet flavor profile featuring notes of caramel, citrus, and herbs.
+- name: Nonino Amaro
+  slug: nonino_amaro
   url: /assets/images/ingredient-amaro.svg
   description: A delicate and slightly sweet amaro made from grappa and a blend of herbs, often featuring notes of orange peel and vanilla.
 - name: Amontillado Sherry
@@ -30,8 +34,8 @@
   slug: angostura_aromatic_bitters
   url: /assets/images/ingredient-bitters.svg
   description: A highly concentrated blend of herbs and spices essential for balancing classic cocktails; it is measured in dashes, not ounces.
-- name: Aperol
-  slug: aperol
+- name: Aperol Amaro
+  slug: aperol_amaro
   url: /assets/images/ingredient-aperol.svg
   description: An Italian aperitivo similar to Campari but lower in alcohol and slightly sweeter, known for its bright orange color and notes of rhubarb.
 - name: Apple Brandy
@@ -91,7 +95,7 @@
   url: /assets/images/ingredient-calvados.svg
   description: A type of apple or pear brandy from the Normandy region of France, traditionally aged in oak barrels.
 - name: Campari
-  slug: campari
+  slug: campari_amaro
   url: /assets/images/ingredient-campari.svg
   description: A famous Italian aperitivo known for its intensely bittersweet, complex flavor derived from various herbs and fruits.
 - name: Champagne
@@ -334,6 +338,10 @@
   slug: punt_e_mes
   url: null
   description: A dark, bittersweet Italian vermouth, considered a "quinquina" (quinine-infused), offering a more intense and complex profile.
+- name: Ramazzotti Amaro
+  slug: ramazzotti_amaro
+  url: /assets/images/ingredient-amaro.svg
+  description: A popular Italian amaro with a balanced bittersweet flavor profile featuring notes of orange, star anise, and cardamom.
 - name: Red Wine
   slug: red_wine
   url: /assets/images/ingredient-red-wine.svg

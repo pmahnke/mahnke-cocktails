@@ -90,10 +90,10 @@
   slug: cocktail
   url: /assets/images/category_cocktail.svg
   description: Very simpily, a cocktail is a mixed drink that contains 3 or more different ingredients.
-- name: Campari
-  slug: campari
+- name: Amaro
+  slug: amaro
   url: /assets/images/category_campari.svg
-  description: Cocktails that contains Campari, an Italian liqueur with a bitter, herbal, and orange flavor.
+  description: Cocktails that contains Amaro, Italian liqueurs with a bitter, herbal flavor. Common Amaros include Campari and Aperol.
 - name: Champagne
   slug: champagne
   url: /assets/images/category_champagne.svg

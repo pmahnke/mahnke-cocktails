@@ -1,7 +1,7 @@
 ---
 layout: spirits
 title: Amaro Nonino Cocktails
-spirit_name: amaro_nonino
+spirit_name: nonino_amaro
 image: /assets/images/ingredient-amaro.svg
-permalink: /spirit/amaro_nonino/
+permalink: /spirit/nonino_amaro/
 ---
