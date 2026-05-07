@@ -5,7 +5,7 @@ categories: [syrup, amaro]
 permalink: "/recipe/cocoa_nib_campari/"
 iconfile: cocoa_nib_campari
 stars: 5
-base_spirits: "Campari Amaro, Cocoa Nibs"
+base_spirits: "Campari, Cocoa Nibs"
 youtube: "u0N9FFJ1i5c"
 excerpt: |
   Cocoa nib-infused Campari is a way to add a chocolate flavor to cocktails and can be used to modify classic drinks like the Negroni and Boulevardier.
@@ -17,7 +17,7 @@ date: 2025-07-07
 |       Amount | Ingredient    |
 | -----------: | ------------- |
 | 1 tablespoon | Cocoa Nibs    |
-|        1 cup | Campari Amaro |
+|        1 cup | Campari |
 
 Method:
 

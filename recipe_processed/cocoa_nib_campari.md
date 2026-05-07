@@ -5,7 +5,7 @@ categories: [syrup, amaro]
 permalink: "/recipe/cocoa_nib_campari/"
 iconfile: cocoa_nib_campari
 stars: 0
-base_spirits: ['Campari Amaro', 'Cocoa Nibs']
+base_spirits: ['Campari', 'Cocoa Nibs']
 youtube: "u0N9FFJ1i5c"
 excerpt: |
   Cocoa nib-infused Campari is a way to add a chocolate flavor to cocktails and can be used to modify classic drinks like the Negroni and Boulevardier.
@@ -17,7 +17,7 @@ date: 2025-07-07
 |       Amount | Ingredient    |
 | -----------: | ------------- |
 | <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Cocoa Nibs    |
-|        <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Campari Amaro |
+|        <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Campari [&#9432;](/spirit/campari_amaro "More Campari recipes") |
 
 Method:
 
@@ -41,7 +41,7 @@ Method:
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " ",
-  " 1 cup Campari Amaro"
+  " 1 cup Campari"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
