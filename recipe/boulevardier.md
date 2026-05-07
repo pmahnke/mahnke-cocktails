@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Boulevardier"
-categories: [campari, cocktail]
+categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/boulevardier/"
 iconfile: boulevardier
 stars: 4
-base_spirits: "Bourbon, Campari"
+base_spirits: "Bourbon, Campari Amaro"
 youtube: "VAK-A7laGuE"
 description: "A classic Prohibition-era cocktail that swaps the gin in a Negroni for the rich, warm character of whiskey."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 |  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
 |  1.5 oz | Bourbon        | Elijah Craig Small Batch  |
-| 0.75 oz | Campari        | Campari                   |
+| 0.75 oz | Amaro          | Campari                   |
 | 0.75 oz | Sweet Vermouth | Cocchi Vermouth di Torino |
 
 ### Notes

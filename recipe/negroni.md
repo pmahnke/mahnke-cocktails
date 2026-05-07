@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Negroni"
-categories: [campari, cocktail]
+categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/negroni/"
 iconfile: negroni
 stars: 3
-base_spirits: "Gin, Campari "
+base_spirits: "Gin, Campari Amaro"
 youtube: "lgy6vEX_hQg"
 description: "The iconic Italian aperitif, this is a classic and perfectly balanced three-ingredient cocktail composed of gin, Campari, and sweet vermouth."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 |  Amount | Ingredient     | Brand                      |
 | ------: | -------------- | -------------------------- |
 |  1.5 oz | Gin            | The Botanist Islay Dry Gin |
-| 0.75 oz | Campari        | Campari                    |
+| 0.75 oz | Amaro        | Campari                    |
 | 0.75 oz | Sweet Vermouth | Cocchi Vermouth di Torino  |
 
 ### Notes

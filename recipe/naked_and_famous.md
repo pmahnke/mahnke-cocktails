@@ -3,11 +3,11 @@ layout: recipe
 author: Anders Erickson
 title: "Naked & Famous"
 eras: [modern]
-categories: [sour, daisy]
+categories: [amaro, sour, daisy]
 permalink: "/recipe/naked_and_famous/"
 iconfile: naked_and_famous
 stars: 0
-base_spirits: "Mezcal, Yellow Chartreuse, Aperol "
+base_spirits: "Mezcal, Yellow Chartreuse, Aperol Amaro"
 youtube: "70cS-bRH9kA"
 description: "A modern, summery, and refreshing sour featuring an equal-parts combination of mezcal, yellow Chartreuse, Aperol, and lime."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-12-23
 | ------: | ----------------- | ----------------- |
 | 0.75 oz | Mezcal            | Del Maguey Vida   |
 | 0.75 oz | Yellow Chartreuse | Yellow Chartreuse |
-| 0.75 oz | Aperol            | Aperol            |
+| 0.75 oz | Amaro             | Aperol            |
 | 0.75 oz | Fresh Lime Juice  |
 
 ### Notes

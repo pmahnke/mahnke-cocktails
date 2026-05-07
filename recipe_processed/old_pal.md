@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Old Pal"
 eras: [prohibition]
-categories: [campari, cocktail]
+categories: [amaro, cocktail]
 permalink: "/recipe/old_pal/"
 iconfile: old_pal
 stars: 3
@@ -21,7 +21,7 @@ date: 2026-03-01
 |  Amount | Ingredient     | Brand                            |
 | ------: | -------------- | -------------------------------- |
 |  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Rye [&#9432;](/spirit/rye "More Rye recipes")            | Rittenhouse 100 Proof            |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Campari [&#9432;](/spirit/campari "More Campari recipes")        | Campari                          |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")          | Campari                          |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Blanc Vermouth [&#9432;](/spirit/white_vermouth "More Blanc Vermouth recipes") | Dolin Blanc Vermouth de Chambéry |
 
 ### Notes

@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/paper_plane/"
 iconfile: paper_plane
 stars: 5
-base_spirits: "Bourbon, Light Amaro, Aperol"
+base_spirits: "Bourbon, Nonino Amaro, Aperol Amaro"
 youtube: "yu4JNOvec1k&t=6s"
 description: "A modern classic and a variation on the Last Word, this is a perfectly balanced sour with equal parts bourbon, Aperol, Amaro Nonino, and lemon."
 excerpt: |
@@ -20,8 +20,8 @@ date: 2025-12-23
 |  Amount | Ingredient        | Brand              |
 | ------: | ----------------- | ------------------ |
 | 0.75 oz | Bourbon           | Old Grandad Bonded |
-| 0.75 oz | Light Amaro       | Amaro Nonino       |
-| 0.75 oz | Aperol            | Aperol             |
+| 0.75 oz | Amaro             | Nonino             |
+| 0.75 oz | Amaro             | Aperol             |
 | 0.75 oz | Fresh Lemon Juice |
 
 ### Notes

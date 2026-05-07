@@ -3,11 +3,11 @@ layout: recipe
 author: Anders Erickson
 title: "Naked & Famous"
 eras: [modern]
-categories: [sour, daisy]
+categories: [amaro, sour, daisy]
 permalink: "/recipe/naked_and_famous/"
 iconfile: naked_and_famous
 stars: 0
-base_spirits: ['Mezcal', 'Yellow Chartreuse', 'Aperol']
+base_spirits: ['Mezcal', 'Yellow Chartreuse', 'Aperol Amaro']
 youtube: "70cS-bRH9kA"
 description: "A modern, summery, and refreshing sour featuring an equal-parts combination of mezcal, yellow Chartreuse, Aperol, and lime."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-12-23
 | ------: | ----------------- | ----------------- |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Mezcal [&#9432;](/spirit/mezcal "More Mezcal recipes")            | Del Maguey Vida   |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Yellow Chartreuse [&#9432;](/spirit/yellow_chartreuse "More Yellow Chartreuse recipes") | Yellow Chartreuse |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Aperol [&#9432;](/spirit/aperol "More Aperol recipes")            | Aperol            |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")             | Aperol            |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lime Juice  |
 
 ### Notes

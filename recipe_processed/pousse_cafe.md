@@ -3,11 +3,11 @@ layout: recipe
 author: Anders Erickson
 title: "Pousse Café"
 eras: [classic]
-categories: [pousse_cafe]
+categories: [amaro, pousse_cafe]
 permalink: "/recipe/pousse_cafe/"
 iconfile: pousse_cafe
 stars: 0
-base_spirits: ['White Crème de Cacao', 'Crème de Violette', 'Light Amaro', 'Green Chartreuse', 'Cognac', 'Absinthe']
+base_spirits: ['White Crème de Cacao', 'Crème de Violette', 'Nonino Amaro', 'Green Chartreuse', 'Cognac', 'Absinthe']
 youtube: "4OJd_phsa5w"
 description: "A visually striking style of layered drink that requires a steady hand to create beautiful stripes of different liqueurs in a glass."
 excerpt: |
@@ -22,7 +22,7 @@ date: 2025-08-11
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Raspberry Gum Syrup  | Liber & Co.                        |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| White Crème de Cacao [&#9432;](/spirit/white_crème_de_cacao "More White Crème de Cacao recipes") | Marie Brizard                      |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Crème de Violette [&#9432;](/spirit/crème_de_violette "More Crème de Violette recipes")    | Rothman & Winter                   |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Light Amaro [&#9432;](/spirit/light_amaro "More Light Amaro recipes")          | Amaro Nonino                       |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")                | Amaro Nonino                       |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Green Chartreuse [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes")     | Green Chartreuse                   |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")               | Pierre Ferrand 1840                |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Absinthe [&#9432;](/spirit/absinthe "More Absinthe recipes")             | La Clandestine Absinthe Superieure |

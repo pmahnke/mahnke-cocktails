@@ -3,11 +3,11 @@ layout: recipe
 author: Anders Erickson
 title: "Pousse Café"
 eras: [classic]
-categories: [pousse_cafe]
+categories: [amaro, pousse_cafe]
 permalink: "/recipe/pousse_cafe/"
 iconfile: pousse_cafe
 stars: 0
-base_spirits: "White Crème de Cacao, Crème de Violette, Light Amaro, Green Chartreuse, Cognac, Absinthe"
+base_spirits: "White Crème de Cacao, Crème de Violette, Nonino Amaro, Green Chartreuse, Cognac, Absinthe"
 youtube: "4OJd_phsa5w"
 description: "A visually striking style of layered drink that requires a steady hand to create beautiful stripes of different liqueurs in a glass."
 excerpt: |
@@ -22,7 +22,7 @@ date: 2025-08-11
 | 0.5 oz | Raspberry Gum Syrup  | Liber & Co.                        |
 | 0.5 oz | White Crème de Cacao | Marie Brizard                      |
 | 0.5 oz | Crème de Violette    | Rothman & Winter                   |
-| 0.5 oz | Light Amaro          | Amaro Nonino                       |
+| 0.5 oz | Amaro                | Amaro Nonino                       |
 | 0.5 oz | Green Chartreuse     | Green Chartreuse                   |
 | 0.5 oz | Cognac               | Pierre Ferrand 1840                |
 | 0.5 oz | Absinthe             | La Clandestine Absinthe Superieure |

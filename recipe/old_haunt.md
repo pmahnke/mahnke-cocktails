@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/old_haunt/"
 iconfile: old_haunt
 stars: 0
-base_spirits: "Apple Brandy, Amaro"
+base_spirits: "Apple Brandy, Averna Amaro"
 youtube: "LaqklLOgeCY"
 description: "It is a riff on the Old Fashioned replacing the sweet vermouth with Amaro Averna."
 excerpt: |

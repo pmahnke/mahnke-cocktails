@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Early Thaw"
-categories: [spritz]
+categories: [amaro, spritz]
 eras: [anders]
 permalink: "/recipe/early_thaw/"
 iconfile: early_thaw
 stars: 0
-base_spirits: ['Vodka', 'Aperol', 'Cocchi Americano', 'Prosecco']
+base_spirits: ['Vodka', 'Aperol Amaro', 'Cocchi Americano', 'Prosecco']
 youtube: "2gYbnb705YQ"
 description: "A spritz version of the Spring Awakening cocktail, which is a vodka cocktail with Cocchi Americano and Aperol."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2026-03-24
 |  Amount | Ingredient       | Brand                  |
 | ------: | ---------------- | ---------------------- |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Vodka [&#9432;](/spirit/vodka "More Vodka recipes")            | St. George All Purpose |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Aperol [&#9432;](/spirit/aperol "More Aperol recipes")           | Aperol                 |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")            | Aperol                 |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Cocchi Americano [&#9432;](/spirit/cocchi_americano "More Cocchi Americano recipes") | Cocchi Americano       |
 |    <span class="onex active">3 oz  / 90 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span> <span class="twox">6 oz  / 180 ml</span> <span class="threex">9 oz  / 270 ml</span>| Prosecco [&#9432;](/spirit/prosecco "More Prosecco recipes")         |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Soda Water       |

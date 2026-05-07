@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Lower Wacker"
-categories: [cocktail]
+categories: [amaro, cocktail]
 eras: [anders]
 permalink: "/recipe/lower_wacker/"
 iconfile: lower_wacker

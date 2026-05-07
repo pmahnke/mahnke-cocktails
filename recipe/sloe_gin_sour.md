@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Sloe Gin Sour"
-categories: [sour, campari]
+categories: [amaro, sour]
 eras: [anders]
 permalink: "/recipe/sloe_gin_sour/"
 iconfile: sloe_gin_sour
 stars: 0
-base_spirits: "Sloe Gin, Campari"
+base_spirits: "Sloe Gin, Campari Amaro"
 youtube: "W50W19vwjmk"
 description: "An original sour that blends the sweet and tart flavors of sloe gin with the classic sour template and a hint of Campari."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 |  Amount | Ingredient                                                | Brand    |
 | ------: | --------------------------------------------------------- | -------- |
 |  1.5 oz | Sloe Gin                                                  | Plymouth |
-|  0.5 oz | Campari                                                   | Campari  |
+|  0.5 oz | Amaro                                                     | Campari  |
 | 0.75 oz | Fresh Lemon Juice                                         |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |  0.5 oz | Egg White                                                 |

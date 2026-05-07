@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Between The Sheets"
-categories: [cocktail]
+categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/between_the_sheets/"
 iconfile: between_the_sheets
 stars: 4
-base_spirits: "Jamaican Rum, Demerara Rum, Campari"
+base_spirits: "Jamaican Rum, Demerara Rum, Cognac"
 youtube: "VnuAR_wPOZA"
 description: "A provocatively named Prohibition-era cocktail that enhances the classic Sidecar formula with a dose of rum."
 excerpt: |

@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "The Division Bell"
-categories: [cocktail]
+categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/division_bell/"
 iconfile: division_bell
 stars: 0
-base_spirits: ['Mezcal', 'Aperol', 'Maraschino Liqueur']
+base_spirits: ['Mezcal', 'Aperol Amaro', 'Maraschino Liqueur']
 youtube: "70cS-bRH9kA"
 description: "A modern classic that combines the smoky flavor of mezcal with the bittersweet notes of Aperol and the complexity of Maraschino Liqueur."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-10-08
 |  Amount | Ingredient         | Brand           |
 | ------: | ------------------ | --------------- |
 |    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Mezcal [&#9432;](/spirit/mezcal "More Mezcal recipes")             | Del Maguey Vida |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Aperol [&#9432;](/spirit/aperol "More Aperol recipes")             | Aperol          |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")              | Aperol          |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Maraschino Liqueur [&#9432;](/spirit/maraschino_liqueur "More Maraschino Liqueur recipes") | Luxardo         |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lime Juice   |
 

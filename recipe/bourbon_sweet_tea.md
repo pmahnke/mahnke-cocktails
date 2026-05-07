@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Bourbon Sweet Tea"
-categories: [punch]
+categories: [amaro, punch]
 eras: [anders]
 permalink: "/recipe/bourbon_sweet_tea/"
 iconfile: bourbon_sweet_tea
 stars: 0
-base_spirits: "Bourbon, Light Amaro, Peach Liqueur "
+base_spirits: "Bourbon, Nonino Amaro, Peach Liqueur "
 youtube: "1b4nHX4RjdY"
 description: "A boozy take on the iconic Southern Sweet Tea, perfect for porch sipping."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 | Amount | Ingredient                                                | Brand                          |
 | -----: | --------------------------------------------------------- | ------------------------------ |
 | 1.5 oz | Bourbon                                                   | Old Grand-Dad 100 Proof Bonded |
-|   1 oz | Light Amaro                                               | Amaro Nonino                   |
+|   1 oz | Amaro                                                     | Amaro Nonino                   |
 | 0.5 oz | Peach Liqueur                                             | Rothman & Winter               |
 | 0.5 oz | Fresh Lemon Juice                                         |
 | 0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |

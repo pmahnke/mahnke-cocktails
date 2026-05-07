@@ -3,11 +3,11 @@ layout: recipe
 author: Anders Erickson
 title: "Wicked Word"
 eras: [anders]
-categories: [sour]
+categories: [amaro, sour]
 permalink: "/recipe/wicked_word/"
 iconfile: wicked_word
 stars: 0
-base_spirits: "Cognac, Aperol, Black Sambuca"
+base_spirits: "Cognac, Aperol Amaro, Black Sambuca"
 youtube: "6Ic0zmBpUQw"
 description: "An original flaming cocktail with a licorice-forward profile, similar to an Oaxacan Old Fashioned."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 | Amount | Ingredient        | Brand             |
 | -----: | ----------------- | ----------------- |
 |   1 oz | Cognac            | Maison Rouge VSOP |
-|   1 oz | Aperol            | Aperol            |
+|   1 oz | Amaro             | Aperol            |
 |   1 oz | Fresh Lemon Juice |                   |
 |   1 oz | Black Sambuca     | Romana            |
 

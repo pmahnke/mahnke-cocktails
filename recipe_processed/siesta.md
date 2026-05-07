@@ -3,12 +3,12 @@ layout: recipe
 author: Anders Erickson
 creator: "Katie Stipe"
 title: "Siesta"
-categories: [campari, sour]
+categories: [amaro, sour]
 eras: [modern]
 permalink: "/recipe/siesta/"
 iconfile: siesta
 stars: 0
-base_spirits: ['Blanco Tequila', 'Campari']
+base_spirits: ['Blanco Tequila', 'Campari Amaro']
 youtube: "F6o09CBEVvU"
 description: "A modern classic from 2006, this is a bright and crisp sour similar to a Hemingway Daiquiri, but with tequila and a bitter Campari finish."
 excerpt: |
@@ -20,8 +20,8 @@ date: 2025-08-11
 
 | Amount | Ingredient                                                | Brand        |
 | -----: | --------------------------------------------------------- | ------------ |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Blanco Tequila [&#9432;](/spirit/blanco_tequila "More Blanco Tequila recipes")                                             | Siete Leguas |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Campari [&#9432;](/spirit/campari "More Campari recipes")                                                   | Campari      |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Blanco Tequila [&#9432;](/spirit/blanco_tequila "More Blanco Tequila recipes")                                            | Siete Leguas |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")                                                     | Campari      |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lime Juice                                          |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Grapefruit Juice                                          |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |

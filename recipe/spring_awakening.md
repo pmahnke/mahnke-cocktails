@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Spring Awakening &#47; Winter's Nap"
-categories: [cocktail]
+categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/spring_awakening/"
 iconfile: spring_awakening
 stars: 0
-base_spirits: "Vodka, Cocchi Americano, Aperol"
+base_spirits: "Vodka, Cocchi Americano, Aperol Amaro"
 youtube: "2gYbnb705YQ"
 description: "This is a simple vodka cocktail built with Aperol and Cocchi Americano."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2026-03-24
 | -----: | ---------------- | ---------------------- |
 |   1 oz | Vodka            | St. George All Purpose |
 |   1 oz | Cocchi Americano | Cocchi Americano       |
-| 0.5 oz | Aperol           | Aperol                 |
+| 0.5 oz | Amaro            | Aperol                 |
 
 ### Notes
 

@@ -2,12 +2,12 @@
 layout: recipe
 author: "Jordan Hughes"
 title: "Modern Medicine"
-categories: [cocktail]
+categories: [amaro cocktail]
 eras: [modern]
 permalink: "/recipe/modern_medicine/"
 iconfile: modern_medicine
 stars: 0
-base_spirits: ['Bourbon', 'Aperol', 'Single Malt Scotch']
+base_spirits: ['Bourbon', 'Aperol Amaro', 'Single Malt Scotch']
 youtube: "https://youtube.com/shorts/PmIJBCSayUs?si=wzUZeym3F4b1FfnR"
 description: "A bold and complex whiskey-based cocktail that balances the richness of bourbon with the smoky peat notes of an Islay Scotch float."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-12-10
 |   Amount | Ingredient                                               | Brand                       |
 | -------: | -------------------------------------------------------- | --------------------------- |
 |   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Bourbon [&#9432;](/spirit/bourbon "More Bourbon recipes")                                                  | Heaven Hill Bottled in Bond |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Aperol [&#9432;](/spirit/aperol "More Aperol recipes")                                                   | Aperol                      |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")                                                    | Aperol                      |
 |  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lemon Juice                                        |
 |   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters                                                  | Angostura Aromatic Bitters  |

@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Forced Retirement"
-categories: [campari, sour]
+categories: [amaro, sour]
 eras: [anders]
 permalink: "/recipe/forced_retirement/"
 iconfile: forced_retirement
 stars: 0
-base_spirits: "Malört, Gin, Campari "
+base_spirits: "Malört, Gin, Campari Amaro"
 youtube: "shi2LNARyxk"
 description: "A unique and intensely bitter highball that prominently features Malört, a classic Chicago spirit."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-08-14
 | ------: | ------------------------------------------------------------- | -------------------- |
 | 0.75 oz | Malört                                                        | Jeppson's            |
 |    1 oz | Gin                                                           | Beefeater London Dry |
-|  0.5 oz | Campari                                                       | Campari              |
+|  0.5 oz | Amaro                                                         | Campari              |
 | 0.75 oz | [Passion Fruit Syrup]({%link recipe/passion_fruit_syrup.md%}) |
 | 0.75 oz | Fresh Lime Juice                                              |
 | 0.75 oz | Grapefruit Juice                                              |

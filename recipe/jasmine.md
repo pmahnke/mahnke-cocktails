@@ -4,11 +4,11 @@ author: Leandro DiMonriva
 creator: Paul Harrington
 title: "Jasmine"
 eras: [modern]
-categories: [campari, sour, daisy]
+categories: [amaro, sour, daisy]
 permalink: "/recipe/jasmine/"
 iconfile: jasmine
 stars: 3
-base_spirits: "Gin, Campari"
+base_spirits: "Gin, Campari Amaro"
 youtube: "b7rg7eshiQU"
 description: "A modern classic from the 1990s, this is a vibrant and bittersweet sour that balances gin and Campari with citrus."
 excerpt: |
@@ -21,9 +21,9 @@ date: 2025-12-23
 |  Amount | Ingredient        | Brand     |
 | ------: | ----------------- | --------- |
 |  1.5 oz | Gin               | Beefeater |
-| 0.75 oz | Fresh Lemon Juice |
 | 0.25 oz | Triple Sec        | Cointreau |
-| 0.25 oz | Campari           | Campari   |
+| 0.25 oz | Amaro             | Campari   |
+| 0.75 oz | Fresh Lemon Juice |
 
 ### Notes
 

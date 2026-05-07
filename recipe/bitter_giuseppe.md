@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 creator: Stephan Cole
 title: "Bitter Giuseppe"
-categories: [cocktail]
+categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/bitter_giuseppe/"
 iconfile: bitter_giuseppe

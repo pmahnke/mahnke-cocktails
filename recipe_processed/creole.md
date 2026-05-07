@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Creole"
-categories: [cocktail]
+categories: [amaro, cocktail]
 eras: [new_orleans]
 permalink: "/recipe/creole/"
 iconfile: creole
 stars: 4
-base_spirits: ['Rye', 'Bénédictine', 'Amaro']
+base_spirits: ['Rye', 'Bénédictine', 'Ramazzoti Amaro']
 youtube: "BTPaTmkJxbM"
 description: "A classic New Orleans cocktail from the early 1900s with a complex flavor profile combining rye, sweet vermouth, amaro, and Bénédictine."
 excerpt: |

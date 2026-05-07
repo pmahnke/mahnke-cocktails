@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Cupid’s Cup"
-categories: [sour]
+categories: [amaro, sour]
 eras: [modern]
 permalink: "/recipe/cupids_cup/"
 iconfile: cupids_cup
 stars: 0
-base_spirits: ['Pisco', 'Aperol']
+base_spirits: ['Pisco', 'Aperol Amaro']
 youtube: "LINK"
 description: "This is an easy pisco sour variation featuring pisco, Aperol, citrus, and egg white for a silky texture and balanced flavor."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2026-02-21
 |  Amount | Ingredient                                                | Brand                    |
 | ------: | --------------------------------------------------------- | ------------------------ |
 |  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Pisco [&#9432;](/spirit/pisco "More Pisco recipes")                                                     | Barsol Primero Quebranta |
-|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Aperol [&#9432;](/spirit/aperol "More Aperol recipes")                                                    | Aperol                   |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")                                                     | Aperol                   |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lemon Juice                                         |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lime Juice                                          |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |

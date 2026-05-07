@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Bourbon Sweet Tea"
-categories: [punch]
+categories: [amaro, punch]
 eras: [anders]
 permalink: "/recipe/bourbon_sweet_tea/"
 iconfile: bourbon_sweet_tea
 stars: 0
-base_spirits: ['Bourbon', 'Light Amaro', 'Peach Liqueur']
+base_spirits: ['Bourbon', 'Nonino Amaro', 'Peach Liqueur']
 youtube: "1b4nHX4RjdY"
 description: "A boozy take on the iconic Southern Sweet Tea, perfect for porch sipping."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 | Amount | Ingredient                                                | Brand                          |
 | -----: | --------------------------------------------------------- | ------------------------------ |
 | <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Bourbon [&#9432;](/spirit/bourbon "More Bourbon recipes")                                                   | Old Grand-Dad 100 Proof Bonded |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Light Amaro [&#9432;](/spirit/light_amaro "More Light Amaro recipes")                                               | Amaro Nonino                   |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")                                                     | Amaro Nonino                   |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Peach Liqueur [&#9432;](/spirit/peach_liqueur "More Peach Liqueur recipes")                                             | Rothman & Winter               |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lemon Juice                                         |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |

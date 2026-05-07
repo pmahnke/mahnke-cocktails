@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Brooklyn"
-categories: [cocktail]
+categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/brooklyn/"
 iconfile: brooklyn
 stars: 0
-base_spirits: "Rye, Maraschino Liqueur"
+base_spirits: "Rye, Maraschino Liqueur, Ramazzotti Amaro"
 youtube: "JU8xN_ty2i0"
 description: "A classic pre-Prohibition cocktail and Manhattan variation that incorporates dry vermouth and Maraschino Liqueur."
 excerpt: |

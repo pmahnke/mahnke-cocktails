@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/paper_plane/"
 iconfile: paper_plane
 stars: 4.5
-base_spirits: ['Bourbon', 'Light Amaro', 'Aperol']
+base_spirits: ['Bourbon', 'Nonino Amaro', 'Aperol Amaro']
 youtube: "yu4JNOvec1k&t=6s"
 description: "A modern classic and a variation on the Last Word, this is a perfectly balanced sour with equal parts bourbon, Aperol, Amaro Nonino, and lemon."
 excerpt: |
@@ -20,8 +20,8 @@ date: 2025-12-23
 |  Amount | Ingredient        | Brand              |
 | ------: | ----------------- | ------------------ |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Bourbon [&#9432;](/spirit/bourbon "More Bourbon recipes")           | Old Grandad Bonded |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Light Amaro [&#9432;](/spirit/light_amaro "More Light Amaro recipes")       | Amaro Nonino       |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Aperol [&#9432;](/spirit/aperol "More Aperol recipes")            | Aperol             |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")             | Nonino             |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")             | Aperol             |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lemon Juice |
 
 ### Notes

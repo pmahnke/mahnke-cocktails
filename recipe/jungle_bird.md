@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Jungle Bird"
-categories: [campari, tiki]
+categories: [amaro, tiki]
 eras: [modern]
 permalink: "/recipe/jungle_bird/"
 iconfile: jungle_bird
 stars: 0
-base_spirits: "Jamaican Rum, Demerara Rum, Campari"
+base_spirits: "Jamaican Rum, Demerara Rum, Campari Amaro"
 youtube: "YFqEvNdPrX8"
 description: "A classic tiki cocktail from the 1970s with a unique bitter twist from the inclusion of Campari."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-08-11
 | ------: | -------------------------------------------------------- | ----------- |
 | 0.75 oz | Jamaican Rum                                             | Coruba      |
 | 0.75 oz | Demerara Rum                                             | Hamilton 86 |
-| 0.75 oz | Campari                                                  | Campari     |
+| 0.75 oz | Amaro                                                    | Campari     |
 |  1.5 oz | Fresh Pineapple Juice                                    |
 | 0.75 oz | Fresh Lime Juice                                         |
 |  0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |

@@ -3,11 +3,11 @@ layout: recipe
 author: Anders Erickson
 title: "Wicked Word"
 eras: [anders]
-categories: [sour]
+categories: [amaro, sour]
 permalink: "/recipe/wicked_word/"
 iconfile: wicked_word
 stars: 0
-base_spirits: ['Cognac', 'Aperol', 'Black Sambuca']
+base_spirits: ['Cognac', 'Aperol Amaro', 'Black Sambuca']
 youtube: "6Ic0zmBpUQw"
 description: "An original flaming cocktail with a licorice-forward profile, similar to an Oaxacan Old Fashioned."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 | Amount | Ingredient        | Brand             |
 | -----: | ----------------- | ----------------- |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")            | Maison Rouge VSOP |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Aperol [&#9432;](/spirit/aperol "More Aperol recipes")            | Aperol            |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")             | Aperol            |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lemon Juice |                   |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Black Sambuca [&#9432;](/spirit/black_sambuca "More Black Sambuca recipes")     | Romana            |
 

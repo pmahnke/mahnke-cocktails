@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Aperol Spritz"
-categories: [spritz]
+categories: [amaro, spritz]
 eras: [modern]
 permalink: "/recipe/aperol_spritz/"
 iconfile: aperol_spritz
 stars: 0
-base_spirits: "Aperol, Champagne"
+base_spirits: "Aperol Amaro, Champagne"
 youtube: "BUb54paVf0s"
 description: "An iconic and refreshing Italian aperitif that combines the bittersweet notes of Aperol with the sparkle of prosecco and a splash of soda."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-10-20
 
 | Amount | Ingredient | Brand      |
 | -----: | ---------- | ---------- |
-|   2 oz | Aperol     | Aperol     |
+|   2 oz | Amaro      | Aperol     |
 |   3 oz | Prosecco   | Ruffino    |
 |   1 oz | Soda Water | Topo Chico |
 

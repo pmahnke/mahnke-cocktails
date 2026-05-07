@@ -2,12 +2,12 @@
 layout: recipe
 author: Leandro DiMonriva
 title: "In Cold Blood"
-categories: [cocktail]
+categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/in_cold_blood/"
 iconfile: in_cold_blood
 stars: 4.5
-base_spirits: ['Cynar', 'Rye']
+base_spirits: ['Cynar Amaro', 'Rye']
 youtube: "GZITiAIYars"
 description: "This is a sophisticated, bittersweet drink that combines the richness of rye with the herbal complexity of Cynar amaro and a sweetness of Italian vermouth."
 excerpt: |

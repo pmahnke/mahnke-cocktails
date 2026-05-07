@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Cocoa Nib Infused Campari"
-categories: [syrup, campari]
+categories: [syrup, amaro]
 permalink: "/recipe/cocoa_nib_campari/"
 iconfile: cocoa_nib_campari
 stars: 5
@@ -14,10 +14,10 @@ date: 2025-07-07
 
 ### Ingredients
 
-|       Amount | Ingredient |
-| -----------: | ---------- |
-| 1 tablespoon | Cocoa Nibs |
-|        1 cup | Campari    |
+|       Amount | Ingredient    |
+| -----------: | ------------- |
+| 1 tablespoon | Cocoa Nibs    |
+|        1 cup | Campari Amaro |
 
 Method:
 

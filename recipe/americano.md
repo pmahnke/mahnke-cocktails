@@ -3,12 +3,12 @@ layout: recipe
 author: Anders Erickson
 creator: Gaspare Campari
 title: "Americano"
-categories: [campari, cocktail]
+categories: [amaro, cocktail]
 eras: [classic]
 permalink: "/recipe/americano/"
 iconfile: americano
 stars: 0
-base_spirits: "Campari "
+base_spirits: "Campari Amaro "
 youtube: "lgy6vEX_hQg"
 description: "A refreshing Italian aperitif from the 1860s that builds upon the bittersweet flavor of Campari with sweet vermouth and soda water."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
-| 1.25 oz | Campari        | Campari                   |
+| 1.25 oz | Amaro        | Campari                   |
 | 1.25 oz | Sweet Vermouth | Cocchi Vermouth di Torino |
 |    3 oz | Soda Water     | Topo Chico                |
 

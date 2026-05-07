@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "La Rosita"
-categories: [campari, cocktail]
+categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/la_rosita/"
 iconfile: la_rosita
@@ -20,7 +20,7 @@ date: 2025-08-11
 | Amount | Ingredient       | Brand                          |
 | -----: | ---------------- | ------------------------------ |
 | 1.5 oz | Reposado Tequila | Siete Leguas                   |
-| 0.5 oz | Campari          | Campari                        |
+| 0.5 oz | Amaro            | Campari                        |
 | 0.5 oz | Sweet Vermouth   | Cocchi Vermouth di Torino      |
 | 0.5 oz | Dry Vermouth     | Dolin Dry Vermouth de Chambéry |
 | 1 dash | Bitters          | Angostura Aromatic Bitters     |

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Cocoa Nib Infused Campari"
-categories: [syrup, campari]
+categories: [syrup, amaro]
 permalink: "/recipe/cocoa_nib_campari/"
 iconfile: cocoa_nib_campari
 stars: 0
@@ -14,10 +14,10 @@ date: 2025-07-07
 
 ### Ingredients
 
-|       Amount | Ingredient |
-| -----------: | ---------- |
-| <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Cocoa Nibs |
-|        <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Campari [&#9432;](/spirit/campari "More Campari recipes")    |
+|       Amount | Ingredient    |
+| -----------: | ------------- |
+| <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Cocoa Nibs    |
+|        <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Campari Amaro |
 
 Method:
 
@@ -40,8 +40,8 @@ Method:
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1 tablespoon Cocoa Nibs",
-  " "
+  " ",
+  " 1 cup Campari Amaro"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

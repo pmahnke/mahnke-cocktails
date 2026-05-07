@@ -3,12 +3,12 @@ layout: recipe
 author: Anders Erickson
 creator: "Katie Stipe"
 title: "Siesta"
-categories: [campari, sour]
+categories: [amaro, sour]
 eras: [modern]
 permalink: "/recipe/siesta/"
 iconfile: siesta
 stars: 0
-base_spirits: "Blanco Tequila, Campari"
+base_spirits: "Blanco Tequila, Campari Amaro"
 youtube: "F6o09CBEVvU"
 description: "A modern classic from 2006, this is a bright and crisp sour similar to a Hemingway Daiquiri, but with tequila and a bitter Campari finish."
 excerpt: |
@@ -20,8 +20,8 @@ date: 2025-08-11
 
 | Amount | Ingredient                                                | Brand        |
 | -----: | --------------------------------------------------------- | ------------ |
-|   1 oz | Blanco Tequila                                             | Siete Leguas |
-| 0.5 oz | Campari                                                   | Campari      |
+|   1 oz | Blanco Tequila                                            | Siete Leguas |
+| 0.5 oz | Amaro                                                     | Campari      |
 | 0.5 oz | Fresh Lime Juice                                          |
 | 0.5 oz | Grapefruit Juice                                          |
 | 0.5 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |

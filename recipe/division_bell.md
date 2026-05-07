@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "The Division Bell"
-categories: [cocktail]
+categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/division_bell/"
 iconfile: division_bell
 stars: 0
-base_spirits: "Mezcal, Aperol, Maraschino Liqueur "
+base_spirits: "Mezcal, Aperol Amaro, Maraschino Liqueur "
 youtube: "70cS-bRH9kA"
 description: "A modern classic that combines the smoky flavor of mezcal with the bittersweet notes of Aperol and the complexity of Maraschino Liqueur."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-10-08
 |  Amount | Ingredient         | Brand           |
 | ------: | ------------------ | --------------- |
 |    1 oz | Mezcal             | Del Maguey Vida |
-| 0.75 oz | Aperol             | Aperol          |
+| 0.75 oz | Amaro              | Aperol          |
 |  0.5 oz | Maraschino Liqueur | Luxardo         |
 | 0.75 oz | Fresh Lime Juice   |
 

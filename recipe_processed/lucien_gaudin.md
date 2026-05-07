@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Lucien Gaudin"
-categories: [campari, cocktail]
+categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/lucien_gaudin/"
 iconfile: lucien_gaudin
 stars: 3
-base_spirits: ['Plymouth Gin', 'Blanc Vermouth', 'Campari']
+base_spirits: ['Plymouth Gin', 'Blanc Vermouth', 'Campari Amaro']
 youtube: "NLF7z6MHMa0"
 description: "A classic Prohibition-era cocktail named for a French Olympic fencer, this is a Negroni variation that uses dry vermouth instead of sweet."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2026-03-01
 | -----: | -------------- | -------------------------------- |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")            | Plymouth Gin                     |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Blanc Vermouth [&#9432;](/spirit/white_vermouth "More Blanc Vermouth recipes") | Dolin Blanc Vermouth de Chambéry |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Campari [&#9432;](/spirit/campari "More Campari recipes")        | Campari                          |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")          | Campari                          |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cointreau      | Cointreau                        |
 
 ### Notes

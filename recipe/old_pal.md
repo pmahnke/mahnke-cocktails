@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Old Pal"
 eras: [prohibition]
-categories: [campari, cocktail]
+categories: [amaro, cocktail]
 permalink: "/recipe/old_pal/"
 iconfile: old_pal
 stars: 3
@@ -21,7 +21,7 @@ date: 2026-03-01
 |  Amount | Ingredient     | Brand                            |
 | ------: | -------------- | -------------------------------- |
 |  1.5 oz | Rye            | Rittenhouse 100 Proof            |
-| 0.75 oz | Campari        | Campari                          |
+| 0.75 oz | Amaro          | Campari                          |
 | 0.75 oz | Blanc Vermouth | Dolin Blanc Vermouth de Chambéry |
 
 ### Notes

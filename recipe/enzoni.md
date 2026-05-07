@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 creator: Vincenzo Errico
 title: "Enzoni"
-categories: [campari, cocktail]
+categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/enzoni/"
 iconfile: enzoni
@@ -22,7 +22,7 @@ date: 2025-08-11
 | ------: | --------------------------------------------------------- | -------- |
 | 5 whole | Grapes                                                    |
 |    1 oz | Gin                                                       | Botanist |
-|    1 oz | Campari                                                   | Campari  |
+|    1 oz | Amaro                                                     | Campari  |
 | 0.75 oz | Fresh Lemon Juice                                         |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 

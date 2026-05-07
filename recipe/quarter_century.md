@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 title: "Quarter Century"
 eras: [anders]
-categories: [campari, champagne]
+categories: [amaro, champagne]
 permalink: "/recipe/quarter_century/"
 iconfile: quarter_century
 stars: 0
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |        Amount | Ingredient      | Brand                          |
 | ------------: | --------------- | ------------------------------ |
-|        0.5 oz | Campari         | Campari                        |
+|        0.5 oz | Amaro         | Campari                        |
 |        0.5 oz | Apricot Liqueur | Giffard Abricot du Roussillon  |
 | 1 to 2 dashes | Absinthe        | St. George                     |
 |          4 oz | Champagne       | Albrecht Cremant D’Alsace Brut |

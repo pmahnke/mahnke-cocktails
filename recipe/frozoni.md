@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Frozoni"
-categories: [campari, champagne]
+categories: [amaro, champagne]
 eras: [anders]
 permalink: "/recipe/frozoni/"
 iconfile: frozoni
@@ -21,7 +21,7 @@ date: 2025-08-11
 | ------: | --------------------------------------------------------- | -------- |
 | 5 whole | Grapes (frozen)                                           |
 |    1 oz | Gin                                                       | Botanist |
-|    1 oz | Campari                                                   | Campari  |
+|    1 oz | Amaro                                                   | Campari  |
 | 0.75 oz | Fresh Lemon Juice                                         |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |    3 oz | Prosecco                                                  |

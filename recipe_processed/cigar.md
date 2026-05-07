@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "The Cigar"
-categories: [cocktail, smoked]
+categories: [amaro, cocktail, smoked]
 eras: [prohibition]
 permalink: "/recipe/cigar/"
 iconfile: cigar
 stars: 0
-base_spirits: ['Single Malt Scotch', 'Aperol']
+base_spirits: ['Single Malt Scotch', 'Aperol Amaro']
 youtube: "gZdT2GBf91I"
 description: "A classic smoked cocktail designed to complement the flavors of a cigar, typically made with dark spirits and sweet vermouth."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-12-09
 | -----: | ------------------ | ------------------------- |
 | <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes")     | Cocchi Vermouth di Torino |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Single Malt Scotch | Laphroaig 10 year Islay   |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Aperol [&#9432;](/spirit/aperol "More Aperol recipes")             | Aperol                    |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")              | Aperol                    |
 
 ### Notes
 

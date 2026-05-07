@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Negroni"
-categories: [campari, cocktail]
+categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/negroni/"
 iconfile: negroni
 stars: 4
-base_spirits: ['Gin', 'Campari']
+base_spirits: ['Gin', 'Campari Amaro']
 youtube: "lgy6vEX_hQg"
 description: "The iconic Italian aperitif, this is a classic and perfectly balanced three-ingredient cocktail composed of gin, Campari, and sweet vermouth."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 |  Amount | Ingredient     | Brand                      |
 | ------: | -------------- | -------------------------- |
 |  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")            | The Botanist Islay Dry Gin |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Campari [&#9432;](/spirit/campari "More Campari recipes")        | Campari                    |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")        | Campari                    |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes") | Cocchi Vermouth di Torino  |
 
 ### Notes

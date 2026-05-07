@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Spring Awakening &#47; Winter's Nap"
-categories: [cocktail]
+categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/spring_awakening/"
 iconfile: spring_awakening
 stars: 0
-base_spirits: ['Vodka', 'Cocchi Americano', 'Aperol']
+base_spirits: ['Vodka', 'Cocchi Americano', 'Aperol Amaro']
 youtube: "2gYbnb705YQ"
 description: "This is a simple vodka cocktail built with Aperol and Cocchi Americano."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2026-03-24
 | -----: | ---------------- | ---------------------- |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Vodka [&#9432;](/spirit/vodka "More Vodka recipes")            | St. George All Purpose |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Cocchi Americano [&#9432;](/spirit/cocchi_americano "More Cocchi Americano recipes") | Cocchi Americano       |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Aperol [&#9432;](/spirit/aperol "More Aperol recipes")           | Aperol                 |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")            | Aperol                 |
 
 ### Notes
 

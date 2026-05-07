@@ -3,12 +3,12 @@ layout: recipe
 author: Leandro DiMonriva
 creator: Oskar Kinberg
 title: "Sloe Gin Martinez"
-categories: [campari, martini]
+categories: [amaro, martini]
 eras: [modern]
 permalink: "/recipe/sloe_gin_martinez/"
 iconfile: sloe_gin_martinez
 stars: 0
-base_spirits: "Sloe Gin, Campari"
+base_spirits: "Sloe Gin, Campari Amaro"
 youtube: "Cy1skc0oI28"
 description: "A brilliant modern reconstruction of the Classic Martinez, featuring sloe gin and a touch of Campari."
 excerpt: |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |     1 oz | Sweet Vermouth     | Cocchi Vermouth di Torino |
 | 0.375 oz | Dry Curacao        | Pierre Ferrand            |
 | 0.375 oz | Maraschino Liqueur | Luxardo                   |
-| 2 Dashes | Campari            | Campari                   |
+| 2 Dashes | Amaro              | Campari                   |
 
 ### Notes
 

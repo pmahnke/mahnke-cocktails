@@ -2,7 +2,7 @@
 layout: recipe
 author: Anders Erickson
 title: "Rabo de Galo"
-categories: [cocktail]
+categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/rabo_de_galo/"
 iconfile: rabo_de_galo
@@ -21,7 +21,7 @@ date: 2025-08-11
 | -----: | -------------- | ------------------------- |
 | 1.5 oz | Cachaça        | Novo Fogo Barrel-Aged     |
 | 0.5 oz | Sweet Vermouth | Cocchi Vermouth Di Torino |
-| 0.5 oz | Cynar Amaro    | Cynar                     |
+| 0.5 oz | Amaro          | Cynar                     |
 
 ### Notes
 

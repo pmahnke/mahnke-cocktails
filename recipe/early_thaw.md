@@ -2,12 +2,12 @@
 layout: recipe
 author: Anders Erickson
 title: "Early Thaw"
-categories: [spritz]
+categories: [amaro, spritz]
 eras: [anders]
 permalink: "/recipe/early_thaw/"
 iconfile: early_thaw
 stars: 0
-base_spirits: "Vodka, Aperol, Cocchi Americano, Prosecco"
+base_spirits: "Vodka, Aperol Amaro, Cocchi Americano, Prosecco"
 youtube: "2gYbnb705YQ"
 description: "A spritz version of the Spring Awakening cocktail, which is a vodka cocktail with Cocchi Americano and Aperol."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2026-03-24
 |  Amount | Ingredient       | Brand                  |
 | ------: | ---------------- | ---------------------- |
 |  0.5 oz | Vodka            | St. George All Purpose |
-| 0.75 oz | Aperol           | Aperol                 |
+| 0.75 oz | Amaro            | Aperol                 |
 | 0.75 oz | Cocchi Americano | Cocchi Americano       |
 |    3 oz | Prosecco         |
 |  0.5 oz | Soda Water       |

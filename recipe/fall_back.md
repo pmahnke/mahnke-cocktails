@@ -4,11 +4,11 @@ author: Anders Erickson
 creator: Sasha Petraske
 title: "Fall Back"
 eras: [anders]
-categories: [cocktail]
+categories: [amaro, cocktail]
 permalink: "/recipe/fall_back/"
 iconfile: fall_back
 stars: 0
-base_spirits: "Rye, Apple Brandy, Light Amaro"
+base_spirits: "Rye, Apple Brandy, Nonino Amaro"
 youtube: "_bDARIxZlcE"
 description: "A modern cocktail that combines the autumnal flavors of rye, apple brandy, and the herbal sweetness of Amaro Nonino."
 excerpt: |
@@ -22,7 +22,7 @@ date: 2025-11-26
 | -------: | -------------- | ----------------------------- |
 |     1 oz | Rye            | Rittenhouse 100 Proof         |
 |     1 oz | Apple Brandy   | Laird’s Straight Applejack 86 |
-|   0.5 oz | Light Amaro    | Amaro Nonino                  |
+|   0.5 oz | Amaro          | Amaro Nonino                  |
 |   0.5 oz | Sweet Vermouth | Cocchi Vermouth di Torino     |
 | 2 dashes | Bitters        | Peychaud’s Bitters            |
 

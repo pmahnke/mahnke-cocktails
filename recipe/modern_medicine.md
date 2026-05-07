@@ -2,12 +2,12 @@
 layout: recipe
 author: "Jordan Hughes"
 title: "Modern Medicine"
-categories: [cocktail]
+categories: [amaro cocktail]
 eras: [modern]
 permalink: "/recipe/modern_medicine/"
 iconfile: modern_medicine
 stars: 0
-base_spirits: "Bourbon, Aperol, Single Malt Scotch"
+base_spirits: "Bourbon, Aperol Amaro, Single Malt Scotch"
 youtube: "https://youtube.com/shorts/PmIJBCSayUs?si=wzUZeym3F4b1FfnR"
 description: "A bold and complex whiskey-based cocktail that balances the richness of bourbon with the smoky peat notes of an Islay Scotch float."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-12-10
 |   Amount | Ingredient                                               | Brand                       |
 | -------: | -------------------------------------------------------- | --------------------------- |
 |   1.5 oz | Bourbon                                                  | Heaven Hill Bottled in Bond |
-|   0.5 oz | Aperol                                                   | Aperol                      |
+|   0.5 oz | Amaro                                                    | Aperol                      |
 |  0.75 oz | Fresh Lemon Juice                                        |
 |   0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 2 dashes | Bitters                                                  | Angostura Aromatic Bitters  |
