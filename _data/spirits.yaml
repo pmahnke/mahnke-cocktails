@@ -35,7 +35,7 @@
   url: /assets/images/ingredient-bitters.svg
   description: A highly concentrated blend of herbs and spices essential for balancing classic cocktails; it is measured in dashes, not ounces.
 - name: Aperol
-  slug: aperol_amaro
+  slug: aperol
   url: /assets/images/ingredient-aperol.svg
   description: An Italian aperitivo similar to Campari but lower in alcohol and slightly sweeter, known for its bright orange color and notes of rhubarb.
 - name: Apple Brandy
