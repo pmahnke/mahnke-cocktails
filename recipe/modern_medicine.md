@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/modern_medicine/"
 iconfile: modern_medicine
 stars: 0
-base_spirits: "Bourbon, Aperol Amaro, Single Malt Scotch"
+base_spirits: "Bourbon, Aperol, Single Malt Scotch"
 youtube: "https://youtube.com/shorts/PmIJBCSayUs?si=wzUZeym3F4b1FfnR"
 description: "A bold and complex whiskey-based cocktail that balances the richness of bourbon with the smoky peat notes of an Islay Scotch float."
 excerpt: |

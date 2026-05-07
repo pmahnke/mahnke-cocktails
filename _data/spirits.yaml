@@ -18,11 +18,11 @@
   slug: amaro
   url: /assets/images/ingredient-amaro.svg
   description: A broad Italian category of herbal, bittersweet liqueurs, typically enjoyed as a digestivo or used to add complexity.
-- name: Amaro Averna
+- name: Averna
   slug: amaro_averna
   url: /assets/images/ingredient-amaro.svg
   description: A popular Sicilian amaro with a rich, bittersweet flavor profile featuring notes of caramel, citrus, and herbs.
-- name: Nonino Amaro
+- name: Amaro Nonino
   slug: nonino_amaro
   url: /assets/images/ingredient-amaro.svg
   description: A delicate and slightly sweet amaro made from grappa and a blend of herbs, often featuring notes of orange peel and vanilla.
@@ -34,7 +34,7 @@
   slug: angostura_aromatic_bitters
   url: /assets/images/ingredient-bitters.svg
   description: A highly concentrated blend of herbs and spices essential for balancing classic cocktails; it is measured in dashes, not ounces.
-- name: Aperol Amaro
+- name: Aperol
   slug: aperol_amaro
   url: /assets/images/ingredient-aperol.svg
   description: An Italian aperitivo similar to Campari but lower in alcohol and slightly sweeter, known for its bright orange color and notes of rhubarb.
@@ -146,7 +146,7 @@
   slug: curaçao
   url: /assets/images/ingredient-curacao.svg
   description: An orange-flavored liqueur derived from the dried peel of the Laraha citrus fruit, essential for balancing classic drinks.
-- name: Cynar Amaro
+- name: Cynar
   slug: cynar_amaro
   url: /assets/images/ingredient-amaro.svg
   description: An Italian artichoke-based amaro with a bittersweet, herbal, and slightly earthy flavor.
@@ -338,7 +338,7 @@
   slug: punt_e_mes
   url: null
   description: A dark, bittersweet Italian vermouth, considered a "quinquina" (quinine-infused), offering a more intense and complex profile.
-- name: Ramazzotti Amaro
+- name: Ramazzotti
   slug: ramazzotti_amaro
   url: /assets/images/ingredient-amaro.svg
   description: A popular Italian amaro with a balanced bittersweet flavor profile featuring notes of orange, star anise, and cardamom.

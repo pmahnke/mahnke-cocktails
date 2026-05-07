@@ -1,13 +1,13 @@
 ---
 layout: recipe
-author: Anders Erickson, Leandro DiMonriva, Cara Devine
+author: Anders Erickson, Leandro DiMonriva, Jordan Hughes
 title: "NAME"
 categories:
   [
     after_dinner,
+    amaro,
     beer,
     buck,
-    campari,
     champagne,
     cobbler,
     cocktail,
@@ -38,11 +38,9 @@ iconfile: NAME
 stars: 0
 base_spirits: ['SPIRIT', 'SPIRIT']
 youtube: "LINK"
-description: "from_gemini?"
+description: "from_gemini"
 excerpt: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  <br><br>
-  Donec vitae hendrerit risus. Pellentesque a blandit mi.
+  Lorem ipsum dolor sit amet.
 date: 2025-08-20
 ---
 

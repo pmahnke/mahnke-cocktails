@@ -7,7 +7,7 @@ categories: [amaro, sour, daisy]
 permalink: "/recipe/naked_and_famous/"
 iconfile: naked_and_famous
 stars: 0
-base_spirits: "Mezcal, Yellow Chartreuse, Aperol Amaro"
+base_spirits: "Mezcal, Yellow Chartreuse, Aperol"
 youtube: "70cS-bRH9kA"
 description: "A modern, summery, and refreshing sour featuring an equal-parts combination of mezcal, yellow Chartreuse, Aperol, and lime."
 excerpt: |

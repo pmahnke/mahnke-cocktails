@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/early_thaw/"
 iconfile: early_thaw
 stars: 0
-base_spirits: ['Vodka', 'Aperol Amaro', 'Cocchi Americano', 'Prosecco']
+base_spirits: ['Vodka', 'Aperol', 'Cocchi Americano', 'Prosecco']
 youtube: "2gYbnb705YQ"
 description: "A spritz version of the Spring Awakening cocktail, which is a vodka cocktail with Cocchi Americano and Aperol."
 excerpt: |

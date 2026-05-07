@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/spring_awakening/"
 iconfile: spring_awakening
 stars: 0
-base_spirits: ['Vodka', 'Cocchi Americano', 'Aperol Amaro']
+base_spirits: ['Vodka', 'Cocchi Americano', 'Aperol']
 youtube: "2gYbnb705YQ"
 description: "This is a simple vodka cocktail built with Aperol and Cocchi Americano."
 excerpt: |

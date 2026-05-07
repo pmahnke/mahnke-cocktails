@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/lower_wacker/"
 iconfile: lower_wacker
 stars: 0
-base_spirits: ['Rye', 'Cynar Amaro', 'Apricot Liqueur', 'Malört']
+base_spirits: ['Rye', 'Cynar', 'Apricot Liqueur', 'Malört']
 youtube: "bzN1zwAqgSY"
 description: "This is Anders&#39; ode to Chicago with this bold whiskey cocktail with a Malört rinse."
 excerpt: |
