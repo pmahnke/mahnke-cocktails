@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/mean_fiddler/"
 iconfile: mean_fiddler
 stars: 0
-base_spirits: ['Irish Whiskey', 'Single Malt Scotch', 'Green Chartreuse', 'Campari Amaro']
+base_spirits: ['Irish Whiskey', 'Single Malt Scotch', 'Green Chartreuse', 'Campari']
 youtube: "wPsvBjSjpCg"
 description: "A bold, herbal whiskey cocktail that combines rye, sweet vermouth, amaro, and a touch of citrus for a punchy, slightly bitter libation."
 excerpt: |

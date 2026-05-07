@@ -19,11 +19,11 @@
   url: /assets/images/ingredient-amaro.svg
   description: A broad Italian category of herbal, bittersweet liqueurs, typically enjoyed as a digestivo or used to add complexity.
 - name: Averna
-  slug: amaro_averna
+  slug: averna
   url: /assets/images/ingredient-amaro.svg
   description: A popular Sicilian amaro with a rich, bittersweet flavor profile featuring notes of caramel, citrus, and herbs.
 - name: Amaro Nonino
-  slug: nonino_amaro
+  slug: amaro_nonino
   url: /assets/images/ingredient-amaro.svg
   description: A delicate and slightly sweet amaro made from grappa and a blend of herbs, often featuring notes of orange peel and vanilla.
 - name: Amontillado Sherry
@@ -95,7 +95,7 @@
   url: /assets/images/ingredient-calvados.svg
   description: A type of apple or pear brandy from the Normandy region of France, traditionally aged in oak barrels.
 - name: Campari
-  slug: campari_amaro
+  slug: campari
   url: /assets/images/ingredient-campari.svg
   description: A famous Italian aperitivo known for its intensely bittersweet, complex flavor derived from various herbs and fruits.
 - name: Champagne
@@ -147,7 +147,7 @@
   url: /assets/images/ingredient-curacao.svg
   description: An orange-flavored liqueur derived from the dried peel of the Laraha citrus fruit, essential for balancing classic drinks.
 - name: Cynar
-  slug: cynar_amaro
+  slug: cynar
   url: /assets/images/ingredient-amaro.svg
   description: An Italian artichoke-based amaro with a bittersweet, herbal, and slightly earthy flavor.
 - name: Dark Ale
@@ -339,7 +339,7 @@
   url: null
   description: A dark, bittersweet Italian vermouth, considered a "quinquina" (quinine-infused), offering a more intense and complex profile.
 - name: Ramazzotti
-  slug: ramazzotti_amaro
+  slug: ramazzotti
   url: /assets/images/ingredient-amaro.svg
   description: A popular Italian amaro with a balanced bittersweet flavor profile featuring notes of orange, star anise, and cardamom.
 - name: Red Wine
