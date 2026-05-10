@@ -1,7 +1,7 @@
 ---
 layout: spirits
 title: Cynar Cocktails
-spirit_name: cynar_amaro
+spirit_name: cynar
 image: /assets/images/ingredient-amaro.svg
-permalink: /spirit/cynar_amaro/
+permalink: /spirit/cynar/
 ---
