@@ -24,7 +24,7 @@ date: 2025-10-31
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> whole </span> <span class="twox">1 whole </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span>| Apple                                                    |
 |      <span class="onex active">3 oz  / 90 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span> <span class="twox">6 oz  / 180 ml</span> <span class="threex">9 oz  / 270 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 |      <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Fresh Lemon Juice                                        |
-|      <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Curaçao [&#9432;](/spirit/curaçao "More Curaçao recipes")                                                  | Grand Marnier   |
+|      <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Curaçao [&#9432;](/spirit/curaçao "More Curaçao recipes")                                                  | Grand Marnier [&#9432;](/spirit/grand_marnier "More Grand Marnier recipes")   |
 |      <span class="onex active">6 oz  / 180 ml</span> <span class="onehalfx">9 oz  / 270 ml</span> <span class="twox">12 oz  / 360 ml</span> <span class="threex">18 oz  / 540 ml</span>| Olorosso Sherry                                          | Lustau Don Nuño |
 |    <span class="onex active">25 oz / 750 ml</span> <span class="onehalfx">37 <sup>1</sup>&frasl;<sub>2</sub> oz / 1125 ml</span> <span class="twox">50 oz / 1500 ml</span> <span class="threex">75 oz / 2250 ml</span>| Red Wine Louis Jadot Beaujolais-Villages                 |
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Soda Water (Optional)                                    |
@@ -51,15 +51,15 @@ date: 2025-10-31
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " 3 oz Rich Demerara Syrup",
-  " ",
-  " ",
-  " ",
-  " ",
-  " "
+  " 0.5 whole Orange",
+  " 0.5 whole Lemon",
+  " 0.5 whole Apple",
+  "   3 oz Rich Demerara Syrup",
+  "   4 oz Fresh Lemon Juice",
+  "   4 oz Curaçao",
+  "   6 oz Olorosso Sherry",
+  "  750 ml Red Wine Louis Jadot Beaujolais-Villages",
+  "  0.5 oz Soda Water (Optional)"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

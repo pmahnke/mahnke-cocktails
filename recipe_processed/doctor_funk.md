@@ -50,13 +50,13 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  "0.75 oz Grenadine",
-  " "
+  " 0.75 oz Jamaican Rum",
+  " 0.75 oz Gold Rum",
+  " 0.25 oz Absinthe",
+  " 0.5 oz Fresh Lemon Juice",
+  " 0.5 oz Fresh Lime Juice",
+  " 0.75 oz Grenadine",
+  "  1 oz Sparkling Water"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

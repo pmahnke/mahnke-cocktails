@@ -49,15 +49,15 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  "4 whole Green Cardamom Pods",
-  " ",
-  " ",
-  " "
+  " 1 bottle Red Wine",
+  "   12 oz Ruby Port",
+  "   6 oz Cognac",
+  " 0.5 cups Demerara Sugar",
+  " 0.25 cups Raisins",
+  "  4 whole Green Cardamom Pods",
+  "  8 whole Cloves",
+  " 2 sticks Cinnamon",
+  " 4 strips Orange Peel"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

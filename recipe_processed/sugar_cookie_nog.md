@@ -20,7 +20,7 @@ date: 2025-12-27
 |  Amount | Ingredient    | Brand      |
 | ------: | ------------- | ---------- |
 |    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Irish Whiskey [&#9432;](/spirit/irish_whiskey "More Irish Whiskey recipes") | Green Spot |
-|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Licor 43 [&#9432;](/spirit/licor_43 "More Licor 43 recipes")      | Licor 43   |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Licor 43 [&#9432;](/spirit/licor_43 "More Licor 43 recipes") [&#9432;](/spirit/licor_43 "More Licor 43 recipes")      | Licor 43   |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Amaretto [&#9432;](/spirit/amaretto "More Amaretto recipes")      | Luxardo    |
 | <span class="onex active">1 whole </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">2 whole </span> <span class="threex">3 whole </span>| Egg           |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Half & Half   |
@@ -49,12 +49,12 @@ date: 2025-12-27
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 2 oz Irish Whiskey",
-  " ",
-  " ",
-  " ",
-  " ",
-  " "
+  "  2 oz Irish Whiskey",
+  "  1 oz Licor 43",
+  " 0.25 oz Amaretto",
+  " 1 whole Egg",
+  " 0.5 oz Half & Half",
+  " 1 pinch Salt"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -52,16 +52,16 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  "0.25 oz Semi-Rich Simple Syrup"
+  " 0.75 oz Jamaican Rum",
+  " 0.75 oz Light Rum",
+  " 0.75 oz Cognac",
+  " 0.75 oz Gin",
+  " 0.5 oz Falernum",
+  " 0.5 oz Passion Fruit Syrup",
+  " 0.75 oz Pineapple Juice",
+  " 0.75 oz Orange Juice",
+  " 0.75 oz Fresh Lime Juice",
+  " 0.25 oz Semi-Rich Simple Syrup"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

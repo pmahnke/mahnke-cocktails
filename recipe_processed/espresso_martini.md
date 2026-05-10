@@ -68,11 +68,11 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  "0.25 oz Rich Demerara Syrup",
-  " "
+  "  1 oz Coffee Liqueur",
+  "  1 oz Vodka",
+  "  1 oz Freshly Brewed Espresso",
+  " 0.25 oz Rich Demerara Syrup",
+  " 1 Swath Lemon Oil"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

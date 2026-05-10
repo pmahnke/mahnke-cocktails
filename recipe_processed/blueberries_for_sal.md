@@ -51,11 +51,11 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  "1 oz Semi-Rich Simple Syrup",
-  " ",
-  " ",
-  " "
+  " 15 to 20 whole Fresh Blueberries",
+  "      1 oz Semi-Rich Simple Syrup",
+  "      1 oz Fresh Lemon Juice",
+  " 8 to 10 leaves Mint",
+  "   3 to 4 oz Ginger Beer"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -50,11 +50,11 @@ date: 2025-11-29
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  "0.25 oz Grenadine"
+  "  1 oz Jamaican Rum",
+  " 0.5 oz Apricot Liqueur",
+  " 0.5 oz Sloe Gin",
+  " 0.75 oz Fresh Lime Juice",
+  " 0.25 oz Grenadine"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

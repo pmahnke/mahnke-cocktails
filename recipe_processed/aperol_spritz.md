@@ -19,7 +19,7 @@ date: 2025-10-20
 
 | Amount | Ingredient | Brand      |
 | -----: | ---------- | ---------- |
-|   <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")      | Aperol     |
+|   <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Amaro      | Aperol [&#9432;](/spirit/aperol "More Aperol recipes")     |
 |   <span class="onex active">3 oz  / 90 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span> <span class="twox">6 oz  / 180 ml</span> <span class="threex">9 oz  / 270 ml</span>| Prosecco [&#9432;](/spirit/prosecco "More Prosecco recipes")   | Ruffino    |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Soda Water | Topo Chico |
 
@@ -45,9 +45,9 @@ date: 2025-10-20
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  "1 oz Soda Water"
+  "  2 oz Amaro",
+  "  3 oz Prosecco",
+  "  1 oz Soda Water"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

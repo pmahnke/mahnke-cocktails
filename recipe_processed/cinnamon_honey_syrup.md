@@ -39,9 +39,9 @@ date: 2026-02-05
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  "0.3333 cups Boiling Water",
-  " "
+  " 0.6667 cups Honey",
+  " 0.3333 cups Boiling Water",
+  "  2 sticks Cinnamon"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

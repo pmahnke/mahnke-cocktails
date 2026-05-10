@@ -40,12 +40,12 @@ date: 2025-12-23
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "2 tablespoons Almond Milk Concentrate",
-  " ",
-  " ",
-  " ",
-  " ",
-  " "
+  " 2 tablespoons Almond Milk Concentrate",
+  "     7 oz Water",
+  "     14 oz Sugar",
+  " 1.5 teaspoons Almond Extract",
+  " 1.5 teaspoons Rose Water",
+  " 1.5 teaspoons Orange Blossom Water"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

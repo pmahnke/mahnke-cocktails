@@ -43,9 +43,9 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  "1 oz Passion Fruit Syrup",
-  " "
+  "  1 oz Fresh Lime Juice",
+  "  1 oz Passion Fruit Syrup",
+  "  2 oz Indian Tonic Water"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

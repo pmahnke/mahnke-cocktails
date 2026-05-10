@@ -47,11 +47,11 @@ date: 2025-12-23
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " 1 oz Fresh Lime Juice",
-  " ",
-  " "
+  "     2 oz Mezcal",
+  "     1 oz Orange Curaçao",
+  "     1 oz Fresh Lime Juice",
+  "    0.25 oz Agave Nectar",
+  " 2 to 3 slices Jalapeño"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

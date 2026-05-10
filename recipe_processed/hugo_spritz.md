@@ -47,10 +47,10 @@ date: 2025-10-20
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 0.5 oz Elderflower Liqueur",
-  " ",
-  " ",
-  " "
+  "    0.5 oz Elderflower Liqueur",
+  " 4 to 6 leaves Mint",
+  "     3 oz Prosecco",
+  "     1 oz Soda Water"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

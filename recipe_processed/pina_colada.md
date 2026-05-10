@@ -45,11 +45,11 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  "1 oz Cream of Coconut",
-  " ",
-  " ",
-  " "
+  "    2 oz Light Rum",
+  "    1 oz Cream of Coconut",
+  "    1 oz Coconut Milk",
+  "    6 oz Fresh Pineapple Juice",
+  " 8 to 10 oz Crushed Ice"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

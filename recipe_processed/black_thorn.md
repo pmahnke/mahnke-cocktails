@@ -45,10 +45,10 @@ date: 2026-03-01
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  "3 dashes Boker's Bitters"
+  "  1.5 oz Irish Whiskey",
+  "  1.5 oz Blanc Vermouth",
+  " 2 dashes Absinthe",
+  " 3 dashes Boker's Bitters"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

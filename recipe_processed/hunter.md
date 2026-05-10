@@ -70,8 +70,8 @@ date: 2026-01-09
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  "0.5 oz Cherry Liqueur"
+  " 1.5 oz Rye",
+  " 0.5 oz Cherry Liqueur"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

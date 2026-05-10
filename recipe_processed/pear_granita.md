@@ -19,7 +19,7 @@ date: 2025-12-27
 | --------: | -------------------- | -------------------------- |
 |    <span class="onex active">3 cups </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="twox">6 cups </span> <span class="threex">9 cups </span>| Pear Nectar          |
 |     <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Orchard Pear Liqueur | Rothman & Winter           |
-| <span class="onex active">12 dashes</span> <span class="onehalfx">18 dashes</span> <span class="twox">24 dashes</span> <span class="threex">36 dashes</span>| Bitters              | Angostura Aromatic Bitters |
+| <span class="onex active">12 dashes</span> <span class="onehalfx">18 dashes</span> <span class="twox">24 dashes</span> <span class="threex">36 dashes</span>| Bitters              | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |
 
 ### Method
 
@@ -40,9 +40,9 @@ date: 2025-12-27
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  "1 cup Orchard Pear Liqueur",
-  " "
+  "  3 cups Pear Nectar",
+  "   1 cup Orchard Pear Liqueur",
+  " 12 dashes Bitters"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

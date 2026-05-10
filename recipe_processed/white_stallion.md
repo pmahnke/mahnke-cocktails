@@ -20,7 +20,7 @@ date: 2025-08-14
 |   Amount | Ingredient        | Brand           |
 | -------: | ----------------- | --------------- |
 |  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")               | Plymouth        |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Curaçao [&#9432;](/spirit/curaçao "More Curaçao recipes")           | Grand Marnier   |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Curaçao [&#9432;](/spirit/curaçao "More Curaçao recipes")           | Grand Marnier [&#9432;](/spirit/grand_marnier "More Grand Marnier recipes")   |
 |   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Champagne [&#9432;](/spirit/champagne "More Champagne recipes")         | Taittinger Brut |
 | <span class="onex active">30 grams </span> <span class="onehalfx">45 grams </span> <span class="twox">60 grams </span> <span class="threex">90 grams </span>| Vanilla Ice Cream |
 
@@ -44,10 +44,10 @@ date: 2025-08-14
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  "30 grams Vanilla Ice Cream"
+  " 0.75 oz Gin",
+  " 0.25 oz Curaçao",
+  "  1.5 oz Champagne",
+  " 30 grams Vanilla Ice Cream"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

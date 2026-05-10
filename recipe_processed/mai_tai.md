@@ -56,13 +56,13 @@ date: 2025-12-13
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
+  "  1 oz Jamaican Rum",
+  "  1 oz Rhum Agricole",
+  " 0.5 oz Orange Curaçao",
+  "  1 oz Fresh Lime Juice",
   " 0.5 oz Orgeat Syrup",
-  " ",
-  " "
+  " 0.5 oz Dark Rum",
+  " 0.25 oz Overproof Rum"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

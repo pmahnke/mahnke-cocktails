@@ -24,7 +24,7 @@ date: 2025-08-11
 |     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes")     | Cocchi Vermouth di Torino |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub>625 oz  / 17 ml</span> <span class="twox"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span>| Dry Curacao        | Pierre Ferrand            |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub>625 oz  / 17 ml</span> <span class="twox"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span>| Maraschino Liqueur [&#9432;](/spirit/maraschino_liqueur "More Maraschino Liqueur recipes") | Luxardo                   |
-| <span class="onex active">2 Dashes </span> <span class="onehalfx">3 Dashes </span> <span class="twox">4 Dashes </span> <span class="threex">6 Dashes </span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")              | Campari                   |
+| <span class="onex active">2 Dashes </span> <span class="onehalfx">3 Dashes </span> <span class="twox">4 Dashes </span> <span class="threex">6 Dashes </span>| Amaro              | Campari [&#9432;](/spirit/campari "More Campari recipes")                   |
 
 ### Notes
 
@@ -46,11 +46,11 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  "0.375 oz Maraschino Liqueur",
-  " "
+  "   2 oz Sloe Gin",
+  "   1 oz Sweet Vermouth",
+  " 0.375 oz Dry Curacao",
+  " 0.375 oz Maraschino Liqueur",
+  " 2 Dashes Amaro"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

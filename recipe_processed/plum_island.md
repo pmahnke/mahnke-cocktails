@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |      Amount | Ingredient                                                | Brand                              |
 | ----------: | --------------------------------------------------------- | ---------------------------------- |
-|      <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Lillet Rouge [&#9432;](/spirit/lillet_rouge "More Lillet Rouge recipes")                                              | Lillet Rouge                       |
+|      <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Lillet Rouge [&#9432;](/spirit/lillet_rouge "More Lillet Rouge recipes") [&#9432;](/spirit/lillet_rouge "More Lillet Rouge recipes")                                              | Lillet Rouge                       |
 |        <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gold Rum [&#9432;](/spirit/gold_rum "More Gold Rum recipes")                                                  | Don Q                              |
 |     <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |     <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lime Juice                                          |
@@ -48,12 +48,12 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  "0.75 oz Semi-Rich Simple Syrup",
-  " ",
-  " ",
-  " "
+  "   1.5 oz Lillet Rouge",
+  "    1 oz Gold Rum",
+  "   0.75 oz Semi-Rich Simple Syrup",
+  "   0.75 oz Fresh Lime Juice",
+  " 2 barspoons Absinthe",
+  "   6 drops Almond Extract"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

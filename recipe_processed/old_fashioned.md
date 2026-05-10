@@ -23,7 +23,7 @@ date: 2025-10-20
 | -------: | -------------------------------------------------------- | ----------------------------- |
 |     <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Bourbon [&#9432;](/spirit/bourbon "More Bourbon recipes")                                                  | Colonel E.H. Taylor 100 Proof |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-| <span class="onex active">4 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>| Bitters                                                  | Angostura Aromatic Bitters    |
+| <span class="onex active">4 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>| Bitters                                                  | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes")    |
 |  <span class="onex active">1 wedge </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> wedge </span> <span class="twox">2 wedge </span> <span class="threex">3 wedge </span>| Orange Wedge                                             |
 
 ### Notes
@@ -48,10 +48,10 @@ date: 2025-10-20
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
+  "   2 oz Bourbon",
   " 0.25 oz Rich Demerara Syrup",
-  " ",
-  " "
+  " 4 dashes Bitters",
+  " 1 wedge Orange Wedge"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

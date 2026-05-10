@@ -49,14 +49,14 @@ date: 2025-07-07
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  "8 oz Semi-Rich Simple Syrup"
+  "     4 oz El Dorado 151 Overproof Rum",
+  "   6 whole Limes, zested",
+  "   50 grams Toasted Almonds, chopped",
+  "   12 whole Cloves",
+  "   15 grams Fresh Ginger, chopped",
+  " 0.5 barspoon Nutmeg, grated",
+  "   0.5 pod Vanilla Bean",
+  "     8 oz Semi-Rich Simple Syrup"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

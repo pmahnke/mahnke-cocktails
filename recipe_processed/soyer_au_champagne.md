@@ -21,7 +21,7 @@ date: 2025-08-11
 | ------------: | ----------------- | --------------------- |
 | <span class="onex active">1 small scoop </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> small scoop </span> <span class="twox">2 small scoop </span> <span class="threex">3 small scoop </span>| Vanilla Ice Cream |
 |        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")            | Maison Rouge V.S.O.P. |
-|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Orange Liqueur    | Grand Marnier         |
+|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Orange Liqueur    | Grand Marnier [&#9432;](/spirit/grand_marnier "More Grand Marnier recipes")         |
 |        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Bénédictine [&#9432;](/spirit/bénédictine "More Bénédictine recipes")       | Bénédictine DOM       |
 |   <span class="onex active">1 to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 60 ml</span> <span class="threex">3 to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 90 ml</span>| Brut Champagne    | Laurent-Perrier       |
 
@@ -50,11 +50,11 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "1 small scoop Vanilla Ice Cream",
-  " ",
-  " ",
-  " ",
-  " "
+  " 1 small scoop Vanilla Ice Cream",
+  "    0.5 oz Cognac",
+  "    0.5 oz Orange Liqueur",
+  "    0.5 oz Bénédictine",
+  "  1 to 1.5 oz Brut Champagne"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

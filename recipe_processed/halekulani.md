@@ -26,7 +26,7 @@ date: 2025-09-26
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz.  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz.  / 23 ml</span> <span class="twox">1 oz.  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz.  / 45 ml</span>| Fresh Orange Juice                                       |
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz.  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz.  / 23 ml</span> <span class="twox">1 oz.  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz.  / 45 ml</span>| Fresh Pineapple Juice                                    |
 | <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| [Grenadine]({%link recipe_processed/grenadine_syrup.md%})          |
-|     <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters                                                  | Angostura Aromatic Bitters |
+|     <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters                                                  | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |
 
 ### Notes
 
@@ -48,14 +48,14 @@ date: 2025-09-26
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " 0.5 oz. Rich Demerara Syrup",
-  " ",
-  " ",
-  " ",
-  " ",
-  " "
+  "  0.75 oz. Bourbon",
+  "  0.75 oz. Rye",
+  "  0.5 oz. Rich Demerara Syrup",
+  "  0.5 oz. Fresh Lemon Juice",
+  "  0.5 oz. Fresh Orange Juice",
+  "  0.5 oz. Fresh Pineapple Juice",
+  " 1 barspoon Grenadine",
+  "   1 dash Bitters"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

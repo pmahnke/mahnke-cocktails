@@ -21,7 +21,7 @@ date: 2026-02-07
 | -----: | -------------- | ---------------------- |
 |   <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Rye [&#9432;](/spirit/rye "More Rye recipes")            | Old Forester 100 Proof |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Orange Curaçao | Marie Brizard          |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fernet Branca [&#9432;](/spirit/fernet_branca "More Fernet Branca recipes")  | Fernet Branca          |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fernet Branca [&#9432;](/spirit/fernet_branca "More Fernet Branca recipes") [&#9432;](/spirit/fernet_branca "More Fernet Branca recipes")  | Fernet Branca          |
 
 ### Notes
 
@@ -43,9 +43,9 @@ date: 2026-02-07
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  "1 oz Orange Curaçao",
-  " "
+  "  2 oz Rye",
+  "  1 oz Orange Curaçao",
+  " 0.5 oz Fernet Branca"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

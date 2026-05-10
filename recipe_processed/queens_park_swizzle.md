@@ -22,7 +22,7 @@ date: 2025-08-11
 |           <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Demerara Rum [&#9432;](/spirit/demerara_rum "More Demerara Rum recipes")                                             | El Dorado 12 Year          |
 |        <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lime Juice                                         |
 |        <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
-|  <span class="onex active">4 to 6 dashes</span> <span class="onehalfx">6 to 9 dashes</span> <span class="twox">8 to 12 dashes</span> <span class="threex">12 to 18 dashes</span>| Bitters                                                  | Angostura Aromatic Bitters |
+|  <span class="onex active">4 to 6 dashes</span> <span class="onehalfx">6 to 9 dashes</span> <span class="twox">8 to 12 dashes</span> <span class="threex">12 to 18 dashes</span>| Bitters                                                  | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |
 | <span class="onex active">8 to 10 leaves </span> <span class="onehalfx">12 to 15 leaves </span> <span class="twox">16 to 20 leaves </span> <span class="threex">24 to 30 leaves </span>| Mint                                                     |
 
 ### Notes
@@ -45,11 +45,11 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " 0.25 oz Rich Demerara Syrup",
-  " ",
-  " "
+  "      2 oz Demerara Rum",
+  "    0.75 oz Fresh Lime Juice",
+  "    0.25 oz Rich Demerara Syrup",
+  " 4 to 6 dashes Bitters",
+  " 8 to 10 leaves Mint"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

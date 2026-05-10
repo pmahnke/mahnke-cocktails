@@ -46,12 +46,12 @@ date: 2026-03-01
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  "0.25 oz Rich Demerara Syrup"
+  " 1.5 oz Rye",
+  " 0.5 oz Blanc Vermouth",
+  " 0.25 oz Amontillado Sherry",
+  " 0.75 oz Fresh Pineapple Juice",
+  " 0.25 oz Fresh Lemon Juice",
+  " 0.25 oz Rich Demerara Syrup"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

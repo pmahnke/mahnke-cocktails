@@ -54,12 +54,12 @@ date: 2026-04-05
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  "0.75 oz Semi-Rich Simple Syrup",
-  " ",
-  " "
+  "  1 oz Jamaican Rum",
+  "  1 oz Ruby Port",
+  "  1 oz Fresh Lemon Juice",
+  " 0.75 oz Semi-Rich Simple Syrup",
+  " 0.5 oz Egg White",
+  "  1 oz Soda Water"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

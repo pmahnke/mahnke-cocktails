@@ -41,11 +41,11 @@ date: 2026-03-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " "
+  " 250 g Sugar",
+  " 240 ml Hot Water",
+  " 45 ml Fresh Lime Juice",
+  "  8 g Freshly Grated Lime Peel",
+  "  25 g Citric Acid"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

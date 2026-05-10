@@ -45,11 +45,11 @@ date: 2025-12-09
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  "0.75 oz Fresh Orange Juice",
-  " "
+  " 0.75 oz Blended Scotch",
+  " 0.75 oz Sweet Vermouth",
+  " 0.75 oz Cherry Liqueur",
+  " 0.75 oz Fresh Orange Juice",
+  " 1 swath Orange Peel"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -47,11 +47,11 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  "0.5 oz Semi-Rich Simple Syrup"
+  " 2 slices Cucumber",
+  "   2 oz Irish Whiskey",
+  "  0.5 oz Elderflower Liqueur",
+  " 0.75 oz Fresh Lemon Juice",
+  "  0.5 oz Semi-Rich Simple Syrup"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

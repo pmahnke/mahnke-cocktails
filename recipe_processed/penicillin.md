@@ -47,11 +47,11 @@ date: 2025-12-09
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " 0.75 oz Honey Syrup",
-  " "
+  "    2 oz Blended Scotch",
+  "  0.25 oz Single Malt Scotch",
+  "  0.75 oz Fresh Lemon Juice",
+  "  0.75 oz Honey Syrup",
+  " 3-4 slices Fresh Ginger"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

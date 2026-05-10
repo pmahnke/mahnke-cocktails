@@ -37,9 +37,9 @@ date: 2025-07-07
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  "13.5 oz Unsweetened Full Fat Coconut Milk (1 Can)",
-  " "
+  " 1.75 cups White Sugar",
+  "  13.5 oz Unsweetened Full Fat Coconut Milk (1 Can)",
+  "  1 pinch Salt"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

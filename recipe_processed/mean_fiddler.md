@@ -24,9 +24,9 @@ date: 2026-03-07
 |       <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Irish Whiskey [&#9432;](/spirit/irish_whiskey "More Irish Whiskey recipes")                                       | Redbreast 12 year          |
 |     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Single Malt Scotch                                  | Laphroaig 10 year          |
 |    <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes")                                      | Cocchi Vermouth di Torino  |
-|    <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> ox </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> ox </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> ox </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> ox </span>| Green Chartreuse [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes")                                    | Green Chartreuse           |
-|     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Amaro [&#9432;](/spirit/amaro "More Amaro recipes")                                               | Campari                    |
-|   <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters                                             | Angostura Aromatic Bitters |
+|    <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> ox </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> ox </span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> ox </span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> ox </span>| Green Chartreuse [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes") [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes")                                    | Green Chartreuse           |
+|     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Amaro                                               | Campari [&#9432;](/spirit/campari "More Campari recipes")                    |
+|   <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters                                             | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |
 | <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| [Cinnamon Syrup]({%link recipe_processed/cinnamon_syrup.md%}) |
 
 ### Notes
@@ -49,13 +49,13 @@ date: 2026-03-07
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  "1 barspoon Cinnamon Syrup"
+  "    1 oz Irish Whiskey",
+  "   0.5 oz Single Malt Scotch",
+  "  0.75 oz Sweet Vermouth",
+  "  0.75 ox Green Chartreuse",
+  "   0.5 oz Amaro",
+  "  2 dashes Bitters",
+  " 1 barspoon Cinnamon Syrup"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

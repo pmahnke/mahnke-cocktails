@@ -44,10 +44,10 @@ date: 2026-03-21
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  "0.5 oz Fresh Lime Juice"
+  " 1.5 oz Rye",
+  " 0.75 oz Sweet Vermouth",
+  " 0.75 oz Triple Sec",
+  " 0.5 oz Fresh Lime Juice"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

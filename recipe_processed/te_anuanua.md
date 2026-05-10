@@ -47,11 +47,11 @@ date: 2026-01-22
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  "0.25 oz Orgeat Syrup",
-  " ",
-  " "
+  "  2 oz Jamaican Rum",
+  " 0.5 oz Banana Liqueur",
+  " 0.25 oz Orgeat Syrup",
+  " 0.25 oz Passion Fruit Syrup",
+  " 0.75 oz Fresh Lime Juice"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

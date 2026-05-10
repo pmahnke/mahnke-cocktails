@@ -99,11 +99,11 @@ date: 2026-02-02
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  "1 oz Crème de Mûre"
+  "  3 oz Vodka",
+  "  2 oz Absinthe",
+  "  1 oz Gin",
+  "  1 oz Cognac",
+  "  1 oz Crème de Mûre"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

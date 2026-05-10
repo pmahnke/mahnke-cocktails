@@ -76,14 +76,14 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  "3 oz Semi-RichSimple Syrup",
-  " ",
-  " ",
-  " ",
-  " "
+  "    1 half Peach, sliced",
+  "    1 half Lemon, sliced",
+  " 4 to 5 whole Strawberries, sliced",
+  "     3 oz Semi-RichSimple Syrup",
+  "     4 oz Fresh Lemon Juice",
+  "     4 oz Apricot Liqueur",
+  "     6 oz Fino Sherry",
+  "    750 ml Dry White Wine"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

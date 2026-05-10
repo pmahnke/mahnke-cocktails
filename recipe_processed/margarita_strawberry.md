@@ -46,12 +46,12 @@ date: 2025-12-23
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  "1 to 1.5 cups Frozen Strawberries",
-  " "
+  "     2 oz Reposado Tequila",
+  "     1 oz Orange Curaçao",
+  "     1 oz Fresh Lime Juice",
+  "    0.5 oz Agave Nectar",
+  " 1 to 1.5 cups Frozen Strawberries",
+  "   0.5 cups Crushed Ice"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

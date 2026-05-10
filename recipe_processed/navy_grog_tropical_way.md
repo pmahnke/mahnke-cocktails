@@ -26,7 +26,7 @@ date: 2025-08-20
 |    <span class="onex active">1 tsp </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tsp </span> <span class="twox">2 tsp </span> <span class="threex">3 tsp </span>| Allspice Dram [&#9432;](/spirit/allspice_dram "More Allspice Dram recipes")                                                       | St. Elizabeth                      |
 |  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Grog Concentrate Syrup]({%link recipe_processed/grog_concentrate_syrup.md%}) |
 |     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Grapefruit Juice, Acid Adjusted to Lemon                            |
-| <span class="onex active">3 dashes</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>| Bitters                                                             | Angostura Aromatic Bitters         |
+| <span class="onex active">3 dashes</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>| Bitters                                                             | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes")         |
 |  <span class="onex active">5 drops </span> <span class="onehalfx">7 <sup>1</sup>&frasl;<sub>2</sub> drops </span> <span class="twox">10 drops </span> <span class="threex">15 drops </span>| salt solution                                                       |
 
 ### Notes
@@ -51,15 +51,15 @@ date: 2025-08-20
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
+  " 1 wedge Juiced Lime",
+  " 0.75 oz Demerara Rum",
+  " 0.75 oz Jamaican Rum",
+  " 0.75 oz White Rum",
+  "  1 tsp Allspice Dram",
   " 0.75 oz Grog Concentrate Syrup",
-  " ",
-  " ",
-  " "
+  "   1 oz Grapefruit Juice, Acid Adjusted to Lemon",
+  " 3 dashes Bitters",
+  " 5 drops salt solution"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -46,11 +46,11 @@ date: 2026-03-29
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " 0.5 oz Grenadine",
-  " ",
-  " "
+  "    1.5 oz Bourbon",
+  "    0.75 oz Fresh Lemon Juice",
+  "    0.5 oz Grenadine",
+  "    0.5 oz Elderflower Liqueur",
+  " 5 to 6 leaves Mint"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

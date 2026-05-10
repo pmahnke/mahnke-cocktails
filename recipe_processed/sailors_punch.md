@@ -49,12 +49,12 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  "8 1/2 oz Semi-rich Simple Syrup"
+  "  50 oz Bourbon",
+  "  12 oz Fresh Apple Cider",
+  "   6 oz Spiced Tea",
+  " 20 whole Dry Bay Leaves",
+  "  10 oz Fresh Lime Juice",
+  " 8 1/2 oz Semi-rich Simple Syrup"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

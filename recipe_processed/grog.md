@@ -73,10 +73,10 @@ date: 2025-08-14
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 2 oz Navy Strength Rum",
-  " ",
-  " ",
-  " "
+  "    2 oz Navy Strength Rum",
+  "    8 oz Fresh Water",
+  "    1 oz Fresh Lime Juice",
+  " 2 barspoons Demerara Sugar"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -22,7 +22,7 @@ date: 2026-02-05
 | ---------: | ------------------ | ------------------- |
 |    <span class="onex active">1 <sup>3</sup>&frasl;<sub>4</sub> oz  / 53 ml</span> <span class="onehalfx">2.625 oz  / 79 ml</span> <span class="twox">3 <sup>1</sup>&frasl;<sub>2</sub> oz  / 105 ml</span> <span class="threex">5 <sup>1</sup>&frasl;<sub>4</sub> oz  / 158 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")                | Hayman's London Dry |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>3</sub> oz  / 10 ml</span> <span class="onehalfx">0.49995 oz  / 15 ml</span> <span class="twox">0.6666 oz  / 20 ml</span> <span class="threex">0.9999 oz  / 30 ml</span>| Maraschino Liqueur [&#9432;](/spirit/maraschino_liqueur "More Maraschino Liqueur recipes") | Luxardo             |
-| <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Yellow Chartreuse [&#9432;](/spirit/yellow_chartreuse "More Yellow Chartreuse recipes")  | Yellow Chartreuse   |
+| <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Yellow Chartreuse [&#9432;](/spirit/yellow_chartreuse "More Yellow Chartreuse recipes") [&#9432;](/spirit/yellow_chartreuse "More Yellow Chartreuse recipes")  | Yellow Chartreuse   |
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Crème de Violette [&#9432;](/spirit/crème_de_violette "More Crème de Violette recipes")  | Rothman & Winter    |
 |     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lemon Juice  |
 
@@ -46,11 +46,11 @@ date: 2026-02-05
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
+  "  1.75 oz Gin",
   " 0.3333 oz Maraschino Liqueur",
-  " ",
-  " ",
-  " "
+  " 1 barspoon Yellow Chartreuse",
+  "  0.25 oz Crème de Violette",
+  "   0.5 oz Fresh Lemon Juice"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -73,26 +73,36 @@ while (my $file = readdir DIR) {
 	    s/link recipe\//link recipe_processed\//;
 
         # schema.org recipe and spirit info links
-        if (/^\| (.[^\|]*) \| (.[^\|]*) \|/) {
+        if (/^\|([^\|]*)\|([^\|]*)\|([^\|]*)/) {
             if ($1 !~ /(---|Amount)/) {
 
                 # add info link for known spirits
                 print "spirit ingredient: $1 $2\n";
-                my $raw_spirit = $2;
+		my $raw_amount = $1;
+		my $raw_spirit = $2;
+		my $brand_spirit = $3;
                 $raw_spirit =~ s/^\s+|\s+$//g;
+		$brand_spirit =~ s/^\s+|\s+$//g;
                 print STDERR qq |raw spirit: $raw_spirit\n|;
-                if ($spirit{$raw_spirit}) {
+
+		if ($spirit{$raw_spirit}) {
                     my $spirit_link = qq|$raw_spirit [&#9432;](\/spirit\/$spirit{$raw_spirit} "More $raw_spirit recipes")|;
                     $_ =~ s/$raw_spirit/$spirit_link/;
+                }
+
+		# the amaro change means we need to look at the Brand as well
+		if ($spirit{$brand_spirit}) {
+                    my $spirit_link = qq|$brand_spirit [&#9432;](\/spirit\/$spirit{$brand_spirit} "More $brand_spirit recipes")|;
+                    $_ =~ s/$brand_spirit/$spirit_link/;
                 }
         
                 # schema.org recipe - only for the first recipe on the page
                 if (!$s_instructions) {
                     #print "schema ingredient: $1 $2\n";
-                    my $s_raw_ingredient = "$1 $2";
+                    my $s_raw_ingredient = "$raw_amount $raw_spirit";
                     $s_raw_ingredient =~ s/\"/\'/g; # replace double quotes with single
                     $s_raw_ingredient =~ s/\[(.*)\]\((.*)\)/$1/g;
-                    $s_raw_ingredient =~ s/  //g;
+                    $s_raw_ingredient =~ s/  / /g;
                     $s_ingredient .= qq |  "$s_raw_ingredient",\n|;
                 }
             }

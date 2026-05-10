@@ -60,14 +60,14 @@ date: 2025-12-13
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "8 oz Coconut Milk",
-  "4 oz Evaporated Milk",
-  "4 oz Sweetened Condensed Milk",
-  "2 oz Cream of Coconut",
-  "0.25 oz Vanilla Extract",
-  "2 oz Chilled Spice Tea",
-  "1 pinch Salt",
-  "4 oz Gold Rum"
+  " 8 oz Coconut Milk",
+  " 4 oz Evaporated Milk",
+  " 4 oz Sweetened Condensed Milk",
+  " 2 oz Cream of Coconut",
+  " 0.25 oz Vanilla Extract",
+  " 2 oz Chilled Spice Tea",
+  " 1 pinch Salt",
+  " 4 oz Gold Rum"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -23,7 +23,7 @@ date: 2025-08-11
 |      <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Apple Cider |
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Maple Syrup       |
 |   <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Fresh Lemon Juice |
-|  <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters           | Angostura Aromatic Bitters |
+|  <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters           | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |
 | <span class="onex active">3 to 4 oz  / 90 to 120 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 6 oz  / 135 to 180 ml</span> <span class="twox">6 to 8 oz  / 180 to 240 ml</span> <span class="threex">9 to 12 oz  / 270 to 360 ml</span>| IPA [&#9432;](/spirit/ipa "More IPA recipes")               | Temperance Gatecrasher IPA |
 
 ### Notes
@@ -46,12 +46,12 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " 1 oz Fresh Apple Cider",
-  " ",
-  "0.25 oz Fresh Lemon Juice",
-  " ",
-  " "
+  "   1 oz Bourbon",
+  "   1 oz Fresh Apple Cider",
+  "  0.5 oz Maple Syrup",
+  "  0.25 oz Fresh Lemon Juice",
+  " 2 dashes Bitters",
+  " 3 to 4 oz IPA"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

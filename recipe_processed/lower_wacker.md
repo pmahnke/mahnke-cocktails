@@ -21,9 +21,9 @@ date: 2026-04-05
 | ------: | --------------- | -------------------------- |
 |    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Rye [&#9432;](/spirit/rye "More Rye recipes")             | Rittenhouse 100 proof      |
 | <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 315 ml</span> <span class="onehalfx">15 <sup>3</sup>&frasl;<sub>4</sub> oz  / 473 ml</span> <span class="twox">21 oz  / 630 ml</span> <span class="threex">31 <sup>1</sup>&frasl;<sub>2</sub> oz  / 945 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes")  | Cocchi Vermouth di Torino  |
-|    <sup>1</sup>&frasl;<sub>2</sub>oz | Amaro [&#9432;](/spirit/amaro "More Amaro recipes")           | Cynar                      |
+|    <sup>1</sup>&frasl;<sub>2</sub>oz | Amaro           | Cynar [&#9432;](/spirit/cynar "More Cynar recipes")                      |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Apricot Liqueur [&#9432;](/spirit/apricot_liqueur "More Apricot Liqueur recipes") | Rothman & Winter Orchard   |
-|  <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters         | Angostura Aromatic Bitters |
+|  <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters         | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |
 | <span class="onex active">1 rinse </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> rinse </span> <span class="twox">2 rinse </span> <span class="threex">3 rinse </span>| Malört [&#9432;](/spirit/malört "More Malört recipes")          | Jeppson’s                  |
 
 ### Notes
@@ -46,12 +46,12 @@ date: 2026-04-05
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  "0.25 oz Apricot Liqueur",
-  " ",
-  " "
+  "  2 oz Rye",
+  " 10.5 oz Sweet Vermouth",
+  "  0.5oz Amaro",
+  " 0.25 oz Apricot Liqueur",
+  " 1 dash Bitters",
+  " 1 rinse Malört"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -44,10 +44,10 @@ date: 2025-12-09
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 2 oz Blended Scotch",
-  " ",
-  " ",
-  " "
+  "  2 oz Blended Scotch",
+  "  1 oz Sweet Vermouth",
+  " 0.5 oz Bénédictine",
+  " 1 strip Lemon Peal"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

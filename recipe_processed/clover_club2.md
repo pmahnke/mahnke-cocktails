@@ -46,12 +46,12 @@ date: 2026-03-01
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
+  "  1 oz Gin",
+  "  1 oz Blanc Vermouth",
+  " 0.75 oz Fresh Lemon Juice",
+  " 5 whole Raspberries",
   " 0.5 oz Semi-Rich Simple Syrup",
-  " "
+  " 0.5 oz Raw Egg White / Aquafaba (chickpea water)"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

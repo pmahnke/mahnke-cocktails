@@ -50,14 +50,14 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  " ",
-  "1 oz Simple Syrup",
-  " "
+  " 2 whole Strawberries",
+  " 2 slices Cucumber",
+  " 3 Swaths Orange Zest",
+  " 3 Swaths Grapefruit Zest",
+  "   2 oz Bitters",
+  "   1 oz Fresh Lemon Juice",
+  "   1 oz Simple Syrup",
+  "   1 oz Red Bitter Soda"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

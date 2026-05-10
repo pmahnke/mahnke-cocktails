@@ -45,10 +45,10 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  "0.75 oz Grenadine",
-  " ",
-  " "
+  "  1 oz Canned Pear (Puréed With Syrup)",
+  " 0.75 oz Grenadine",
+  " 0.5 oz Fresh Lemon Juice",
+  "  2 oz Chilled Hojicha (Roasted Green Tea)"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

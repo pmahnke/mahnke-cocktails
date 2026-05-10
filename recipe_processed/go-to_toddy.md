@@ -46,12 +46,12 @@ date: 2025-12-09
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " 0.5 oz Honey Syrup",
-  " ",
-  " ",
-  " ",
-  " "
+  "  1.5 oz Blended Scotch",
+  "  0.5 oz Honey Syrup",
+  "  0.25 oz Fresh Lemon Juice",
+  " 4 to 5 oz Chamomile Tea",
+  "  1 stick Cinnamon",
+  "  4 whole Cloves"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

@@ -42,10 +42,10 @@ date: 2025-10-20
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
+  "     1 cup Fresh Lime Juice",
+  "    0.75 cup White Sugar",
   " 0.25 barspoon Angostura Aromatic Bitters",
-  " "
+  " 0.5 tablespoon Freshly Grated Nutmeg"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

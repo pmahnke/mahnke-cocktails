@@ -44,9 +44,9 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " ",
-  " ",
-  " ",
+  " 1.5 oz Vodka",
+  " 0.75 oz Triple Sec",
+  " 0.5 oz Cranberry Juice",
   " 0.5 oz Fresh Lime Juice"
     ],
   "name": "{{ page.title }}",
