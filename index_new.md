@@ -35,7 +35,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
     <h2>All Cocktails</h2>
     {%- assign sorted_categories = site.data.categories | sort: "name" -%}
     {%- for cat in sorted_categories -%}
-        <h3><a href="category/{{ cat.slug }}_cocktails">{{ cat.name }} {%- if cat.url -%}<img src="{{ cat.url }}" alt="" class="category_icon_small">{%- endif -%}</a></h3>
+        <h3><a href="/category/{{ cat.slug }}_cocktails">{{ cat.name }} {%- if cat.url -%}<img src="{{ cat.url }}" alt="" class="category_icon_small">{%- endif -%}</a></h3>
 
         {%- assign pages_in_cat = "" | split: "" -%}
         {%- for page in site.pages -%}
@@ -49,7 +49,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
 
 
         <ul class="home_list">
-        {%- for page in pages_by_stars  -%}
+        {%- for page in pages_by_stars | limit: 10 -%}
             <li class="home_list_item">
                 <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 {%- include home_stars.html -%}
@@ -57,7 +57,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         {%- endfor -%}
         </ul>
 
-        <p class="more"><a href="category/{{ cat.slug }}_cocktails">More {{ cat.name }} cocktails &gt;</a></p>
+        <p class="more"><a href="/category/{{ cat.slug }}_cocktails">More {{ cat.name }} cocktails &gt;</a></p>
     {%- endfor -%}
 
 
@@ -67,7 +67,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         <h3>Recipes by Base Spirit</h3>
         {%- assign base = site.data.spirits | sort: "name" -%}
         {%- for spirit in base -%}
-            <li><a href="spirit/{{ spirit.slug }}">{{ spirit.name }}</a></li>
+            <li><a href="/spirit/{{ spirit.slug }}">{{ spirit.name }}</a></li>
         {%- endfor -%}
         <h3><a href="/era/">Recipes by era</a></h3>
         <ul>
@@ -101,4 +101,4 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
             </ul>
         </ul>
     </div><!-- /div 1/3 -->
-</><!-- /div grid-container -->
+</div><!-- /div grid-container -->
