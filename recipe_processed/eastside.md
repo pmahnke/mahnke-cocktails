@@ -7,7 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/eastside/"
 iconfile: eastside
-stars:
+stars: 3
 base_spirits: ['Gin']
 youtube: "0iFzihjeyXg"
 description: "A modern gin-based sour from 2004, essentially a Southside with the addition of fresh cucumber."
