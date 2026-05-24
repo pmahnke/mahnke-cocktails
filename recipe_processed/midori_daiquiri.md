@@ -7,7 +7,7 @@ categories:
 eras: [modern]
 permalink: "/recipe/midori_daiquiri/"
 iconfile: midori_daiquiri
-stars: 0
+stars: 4
 base_spirits: ['Midori', 'Light Rum']
 youtube: "LINK"
 description: "A vibrant green twist on the classic Cuban sour, celebrated for its perfect balance of two parts light rum, sweet melon liqueur, and tart fresh lime juice."

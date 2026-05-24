@@ -13,7 +13,7 @@ youtube: "0J6-sPDCOMw"
 description: "The Angostura Fizz is a refreshing, vibrant twist on a classic Gin Fizz that shines a spotlight on Angostura bitters as the base spirit rather than a mere accent, combining its deep herbal spice with fresh lemon or lime juice, sugar, egg white, and club soda for a fluffy, complex cure-all."
 excerpt: |
   The Angostura Fizz turns the traditional cocktail blueprint on its head by elevating aromatic bitters from a subtle accent to the star base spirit. When shaken vigorously with fresh lemon or lime juice, sugar, and egg white, then topped with sparkling club soda, it transforms intense herbal baking spices into an unexpectedly bright, refreshing, and beautifully frothy long drink.
-date: 2025-08-20
+date: 2026-05-24
 ---
 
 ### Ingredients
