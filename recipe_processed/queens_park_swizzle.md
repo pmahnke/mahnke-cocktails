@@ -29,7 +29,9 @@ date: 2025-08-11
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: High Ball, Crushed Ice
+- Glassware: 
+  - High Ball
+  - Crushed Ice
 - Garnish: Mint Sprig
 - Special Prep: Press and slide the mint leaves in the glass first. Then build the cocktail. Stir vigorously (swizzle) to combine. Top with crushed ice. Float the bitters on top.
 
@@ -63,7 +65,15 @@ date: 2025-08-11
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: High Ball, Crushed Ice"
+      "text": "- Glassware: "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - High Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Crushed Ice"
     },
     {
       "@type": "HowToStep",
