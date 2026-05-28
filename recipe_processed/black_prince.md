@@ -3,7 +3,7 @@ layout: recipe
 author: Steve the Bartender
 creator: "Phil Ward"
 title: "The Black Prince"
-categories: [cocktail]
+categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/black_prince/"
 iconfile: black_prince
