@@ -3,11 +3,11 @@ layout: recipe
 author: Anders Erickson
 title: "Psycho Killer"
 eras: [modern]
-categories: [cocktail]
+categories: [amaro, cocktail]
 permalink: "/recipe/psycho_killer/"
 iconfile: psycho_killer
 stars: 0
-base_spirits: "Irish Whiskey, Campari, White Crème de Cacao, Banane du Brésil"
+base_spirits: "Irish Whiskey, Campari, White Crème de Cacao, Banana Liqueur"
 youtube: "u0N9FFJ1i5c"
 description: "An elegant and complex modern Irish whiskey cocktail from The Dead Rabbit, featuring Campari, white cacao, and banana liqueur."
 excerpt: |
@@ -22,7 +22,7 @@ date: 2025-08-11
 |     2 oz | Irish Whiskey                                                       | Red Breast 12 year       |
 |  0.75 oz | [Cocoa Nib Infused Campari]({%link recipe/cocoa_nib_campari.md -%}) | Campari                  |
 |   0.5 oz | White Crème de Cacao                                                | Marie Brizard            |
-|   0.5 oz | Banana Liquor                                                       | Giffard Banane du Brésil |
+|   0.5 oz | Banana Liqueur                                                      | Giffard Banane du Brésil |
 | 2 dashes | Absinthe                                                            |
 
 ### Notes

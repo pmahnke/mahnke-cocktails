@@ -3,11 +3,11 @@ layout: recipe
 author: Anders Erickson
 title: "Psycho Killer"
 eras: [modern]
-categories: [cocktail]
+categories: [amaro, cocktail]
 permalink: "/recipe/psycho_killer/"
 iconfile: psycho_killer
 stars: 0
-base_spirits: ['Irish Whiskey', 'Campari', 'White Crème de Cacao', 'Banane du Brésil']
+base_spirits: ['Irish Whiskey', 'Campari', 'White Crème de Cacao', 'Banana Liqueur']
 youtube: "u0N9FFJ1i5c"
 description: "An elegant and complex modern Irish whiskey cocktail from The Dead Rabbit, featuring Campari, white cacao, and banana liqueur."
 excerpt: |
@@ -22,7 +22,7 @@ date: 2025-08-11
 |     <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Irish Whiskey [&#9432;](/spirit/irish_whiskey "More Irish Whiskey recipes")                                                       | Red Breast 12 year       |
 |  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Cocoa Nib Infused Campari [&#9432;](/spirit/campari "More Campari recipes")]({%link recipe_processed/cocoa_nib_campari.md -%}) | Campari                  |
 |   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| White Crème de Cacao [&#9432;](/spirit/white_crème_de_cacao "More White Crème de Cacao recipes")                                                | Marie Brizard            |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Banana Liquor                                                       | Giffard Banane du Brésil |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Banana Liqueur [&#9432;](/spirit/banana_liqueur "More Banana Liqueur recipes")                                                      | Giffard Banane du Brésil |
 | <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Absinthe [&#9432;](/spirit/absinthe "More Absinthe recipes")                                                            |
 
 ### Notes
@@ -48,7 +48,7 @@ date: 2025-08-11
   "   2 oz Irish Whiskey",
   " 0.75 oz Cocoa Nib Infused Campari",
   "  0.5 oz White Crème de Cacao",
-  "  0.5 oz Banana Liquor",
+  "  0.5 oz Banana Liqueur",
   " 2 dashes Absinthe"
     ],
   "name": "{{ page.title }}",
