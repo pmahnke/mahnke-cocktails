@@ -21,7 +21,7 @@ date: 2025-08-11
 |    Amount | Ingredient       | Brand                      |
 | --------: | ---------------- | -------------------------- |
 |    <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")     | Appleton 12yr Rum          |
-|     <sup>3</sup>&frasl;<sub>4</sub>oz | Green Chartreuse [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes") [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes") | Green Chartreuse           |
+|     <sup>3</sup>&frasl;<sub>4</sub>oz | Green Chartreuse [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes") | Green Chartreuse           |
 |     <sup>3</sup>&frasl;<sub>4</sub>oz | Falernum         | Velvet Falernum            |
 |     <sup>3</sup>&frasl;<sub>4</sub>oz | Fresh Lime Juice |
 | <span class="onex active">10 dashes</span> <span class="onehalfx">15 dashes</span> <span class="twox">20 dashes</span> <span class="threex">30 dashes</span>| Bitters          | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |

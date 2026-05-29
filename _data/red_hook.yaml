@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /assets/images/ingredient-maraschino-liqueur.svg
       title: Maraschino liqueur
+    - url: /assets/images/ingredient-sweet-vermouth.svg
+      title: Punt e mes
     - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:

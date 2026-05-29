@@ -1,7 +1,5 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-amaro.svg
-      title: Amaro
     - url: /assets/images/ingredient-drambuie.svg
       title: Drambuie
     - url: /assets/images/ingredient-single-malt-scotch.svg

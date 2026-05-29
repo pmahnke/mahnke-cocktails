@@ -1,7 +1,7 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-campari.svg
-      title: Campari
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
     - url: /assets/images/ingredient-dark-rum.svg
       title: Demerara rum
     - url: /assets/images/ingredient-jamacian-rum.svg

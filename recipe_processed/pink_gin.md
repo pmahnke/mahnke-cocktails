@@ -21,7 +21,7 @@ date: 2025-08-11
 
 |   Amount | Ingredient   | Brand                      |
 | -------: | ------------ | -------------------------- |
-|     <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Plymouth Gin [&#9432;](/spirit/plymouth_gin "More Plymouth Gin recipes") [&#9432;](/spirit/plymouth_gin "More Plymouth Gin recipes") | Plymouth Gin               |
+|     <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Plymouth Gin [&#9432;](/spirit/plymouth_gin "More Plymouth Gin recipes") | Plymouth Gin               |
 | <span class="onex active">4 dashes</span> <span class="onehalfx">6 dashes</span> <span class="twox">8 dashes</span> <span class="threex">12 dashes</span>| Bitters      | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |
 
 ### Notes

@@ -1,4 +1,11 @@
 images:
+  ingredient:
+    - url: /assets/images/ingredient-amaro.svg
+      title: Averna
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Dark rum
+    - url: /assets/images/ingredient-sweet-vermouth.svg
+      title: Punt e mes
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

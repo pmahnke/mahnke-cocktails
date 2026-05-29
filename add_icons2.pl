@@ -143,11 +143,13 @@ $INCLUDE{'cocchi-americano'} = qq|/assets/images/ingredient-cocchi-americano.svg
 $INCLUDE{'white-creme-de-cacao'} = qq|/assets/images/ingredient-cacao.svg|;
 $INCLUDE{'ginger-beer'} = qq|/assets/images/ingredient-ginger-beer.svg|;
 $INCLUDE{'absinthe'} = qq|/assets/images/ingredient-absinthe.svg|;
+$INCLUDE{'averna'} = qq|/assets/images/ingredient-amaro.svg|;
 $INCLUDE{'sparkling-water'} = qq|/assets/images/ingredient-soda-water.svg|;
 $INCLUDE{'lemon-wedge'} = qq|/assets/images/ingredient-lemon-wedge.svg|;
 $INCLUDE{'simple-syrup'} = qq|/assets/images/ingredient-simple-syrup.svg|;
 $INCLUDE{'sherry'} = qq|/assets/images/ingredient-sherry.svg|;
 $INCLUDE{'sweet-vermouth'} = qq|/assets/images/ingredient-sweet-vermouth.svg|;
+$INCLUDE{'punt-e-mes'} = qq|/assets/images/ingredient-sweet-vermouth.svg|;
 $INCLUDE{'dry-vermouth'} = qq|/assets/images/ingredient-dry-vermouth.svg|;
 $INCLUDE{'orange-bitters'} = qq|/assets/images/ingredient-orange-bitters.svg|;
 $INCLUDE{'white-vermouth'} = qq|/assets/images/ingredient-vermouth.svg|;
@@ -367,7 +369,7 @@ foreach $file (sort @files) {
         # bottles
         if (/base_spirits:/) {
             $ingredient{'light-rum'} = 1 if (/light rum/i);
-            $ingredient{'dark-rum'} = 1 if (/dark rum/i);
+            $ingredient{'dark-rum'} = 1 if (/dark rum/i || /Guatemalan Rum/i);
             $ingredient{'rye'} = 1 if (/rye/i);
             $ingredient{'cognac'} = 1 if (/cognac/i);
             $ingredient{'cognac'} = 1 if (/brandy/i && !$ingredient{'cognac'});
@@ -378,11 +380,13 @@ foreach $file (sort @files) {
             $ingredient{'cocchi-americano'} = 1 if (/cocchi americano/i);
             #$ingredient{'white-creme-de-cacao'} = 1 if (/white crème de cacao/i);
             $ingredient{'ginger-beer'} = 1 if (/ginger beer/i);
+            $ingredient{'averna'} = 1 if (/averna/i);
             $ingredient{'absinthe'} = 1 if (/absinthe/i);
             $ingredient{'lemon-wedge'} = 1 if (/lemon wedge/i);
             $ingredient{'simple-syrup'} = 1 if (/simple syrup/i);
             $ingredient{'sherry'} = 1 if (/sherry/i);
             $ingredient{'sweet-vermouth'} = 1 if (/sweet vermouth/i);
+            $ingredient{'punt-e-mes'} = 1 if (/punt e mes/i);
             $ingredient{'dry-vermouth'} = 1 if (/dry vermouth/i);
             $ingredient{'orange-bitters'} = 1 if (/orange bitters/i);
             $ingredient{'white-vermouth'} = 1 if (/vermouth/i && !$ingredient{'sweet-vermouth'} && !$ingredient{'dry-vermouth'});
@@ -391,7 +395,7 @@ foreach $file (sort @files) {
             $ingredient{'gold-rum'} = 1 if (/gold rum/i);
             $ingredient{'honey-syrup'} = 1 if (/honey syrup/i);
             $ingredient{'champagne'} = 1 if (/champagne/i);
-	    $ingredient{'punsch'} = 1 if (/punsch/i);
+	        $ingredient{'punsch'} = 1 if (/punsch/i);
             $ingredient{'lime-juice'} = 1 if (/lime juice/i);
             $ingredient{'genever'} = 1 if (/genever/i);
             $ingredient{'jamaican-rum'} = 1 if (/jamaican rum/i);

@@ -1,7 +1,4 @@
 images:
-  ingredient:
-    - url: /assets/images/ingredient-amaro.svg
-      title: Amaro
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
