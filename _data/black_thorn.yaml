@@ -2,10 +2,10 @@ images:
   ingredient:
     - url: /assets/images/ingredient-absinthe.svg
       title: Absinthe
+    - url: /assets/images/ingredient-vermouth.svg
+      title: Blanc vermouth
     - url: /assets/images/ingredient-irish-whiskey.svg
       title: Irish whiskey
-    - url: /assets/images/ingredient-vermouth.svg
-      title: White vermouth
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

@@ -66,10 +66,6 @@
   slug: black_sambuca
   url: null
   description: An anise-flavored liqueur colored and flavored with elderberries, giving it a deep black/purple hue and a slightly richer profile than clear Sambuca.
-- name: Blanc Vermouth
-  slug: blanc_vermouth
-  url: /assets/images/ingredient-vermouth.svg
-  description: Also known as Bianco or Blanc Vermouth, a fortified wine that is sweet and lighter in color than sweet (red) vermouth, often featuring vanilla and floral notes.
 - name: Blanco Tequila
   slug: blanco_tequila
   url: /assets/images/ingredient-tequila.svg
@@ -328,7 +324,7 @@
   description: An Italian sparkling wine, typically drier than Champagne, known for its bright, fruity, and aromatic profile.
 - name: Punt e Mes
   slug: punt_e_mes
-  url: null
+  url: /assets/images/ingredient-sweet-vermouth.svg
   description: A dark, bittersweet Italian vermouth, considered a "quinquina" (quinine-infused), offering a more intense and complex profile.
 - name: Ramazzotti
   slug: ramazzotti
@@ -397,7 +393,7 @@
 - name: Sweet Vermouth
   slug: sweet_vermouth
   url: /assets/images/ingredient-sweet-vermouth.svg
-  description: A fortified wine flavored with aromatic herbs and spices, typically red and sweet, used to balance cocktails.
+  description: Also known as Red Vermouth, a fortified wine flavored with aromatic herbs and spices, typically red and sweet, used to balance cocktails.
 - name: Tawny Port
   slug: tawny_port
   url: /assets/images/ingredient-port.svg
@@ -423,9 +419,9 @@
   url: /assets/images/ingredient-light-rum.svg
   description: Clear, unaged rum, often column-distilled for a lighter body and subtle sweetness, making it a highly versatile cocktail base.
 - name: Blanc Vermouth
-  slug: white_vermouth
+  slug: blanc_vermouth
   url: /assets/images/ingredient-vermouth.svg
-  description: Also known as Blanc or Bianco Vermouth, a fortified wine that is sweet and lighter in color than sweet (red) vermouth, often featuring vanilla and floral notes.
+  description: Also known as White or Bianco Vermouth, a fortified wine that is sweet and lighter in color than sweet (red) vermouth, often featuring vanilla and floral notes.
 - name: White Wine
   slug: white_wine
   url: /assets/images/ingredient-white-wine.svg

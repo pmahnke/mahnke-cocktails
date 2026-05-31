@@ -1,11 +1,11 @@
 images:
   ingredient:
+    - url: /assets/images/ingredient-vermouth.svg
+      title: Blanc vermouth
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
     - url: /assets/images/ingredient-gin.svg
       title: Gin
-    - url: /assets/images/ingredient-vermouth.svg
-      title: White vermouth
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

@@ -152,7 +152,7 @@ $INCLUDE{'sweet-vermouth'} = qq|/assets/images/ingredient-sweet-vermouth.svg|;
 $INCLUDE{'punt-e-mes'} = qq|/assets/images/ingredient-sweet-vermouth.svg|;
 $INCLUDE{'dry-vermouth'} = qq|/assets/images/ingredient-dry-vermouth.svg|;
 $INCLUDE{'orange-bitters'} = qq|/assets/images/ingredient-orange-bitters.svg|;
-$INCLUDE{'white-vermouth'} = qq|/assets/images/ingredient-vermouth.svg|;
+$INCLUDE{'blanc-vermouth'} = qq|/assets/images/ingredient-vermouth.svg|;
 $INCLUDE{'bitters'} = qq|/assets/images/ingredient-bitters.svg|;
 $INCLUDE{'single-malt-scotch'} = qq|/assets/images/ingredient-single-malt-scotch.svg|;
 $INCLUDE{'gold-rum'} = qq|/assets/images/ingredient-dark-rum.svg|;
@@ -389,7 +389,7 @@ foreach $file (sort @files) {
             $ingredient{'punt-e-mes'} = 1 if (/punt e mes/i);
             $ingredient{'dry-vermouth'} = 1 if (/dry vermouth/i);
             $ingredient{'orange-bitters'} = 1 if (/orange bitters/i);
-            $ingredient{'white-vermouth'} = 1 if (/vermouth/i && !$ingredient{'sweet-vermouth'} && !$ingredient{'dry-vermouth'});
+            $ingredient{'blanc-vermouth'} = 1 if (/vermouth/i && !$ingredient{'sweet-vermouth'} && !$ingredient{'dry-vermouth'});
             $ingredient{'bitters'} = 1 if (/bitters/i);
             $ingredient{'single-malt-scotch'} = 1 if (/Single Malt Scotch/i);
             $ingredient{'gold-rum'} = 1 if (/gold rum/i);

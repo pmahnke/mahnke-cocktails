@@ -273,11 +273,11 @@ div.subrecipe {
 .recipe_card {
     display: flex; /* Use flexbox for easy alignment */
     justify-content: space-between; /* Pushes text left and image right */
-    align-items: center; /* Vertically aligns content in the middle */
+    align-items: flex-start; /* Vertically aligns content in the middle */
     padding: 1rem;
     border: 1px solid #e1e1e1;
     border-radius: 4px;
-    margin-bottom: 1rem; /* Space below each card */
+    margin-bottom: .5rem; /* Space below each card */
     height: 100%;
   }
 
