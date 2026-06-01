@@ -36,7 +36,7 @@ date: 2025-08-11
 - Garnish: Lemon oil and 3 coffee beans
 - Special Prep: None
 
-## Ander's Riff - The Espresso Martin 2.0
+## Ander's Riff - The Espresso Martini 2.0
 
 ### Ingredients
 
