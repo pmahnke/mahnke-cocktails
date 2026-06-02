@@ -59,7 +59,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         {%- endfor -%}
         </ul>
 
-        <p class="more"><a href="/category/{{ cat.slug }}_cocktails">All {{ cat.name }} cocktails&nbsp;&rsaquo;</a></p>
+        <p class="more"><a href="/category/{{ cat.slug }}_cocktails">All {{ cat.name }} Cocktails&nbsp;&rsaquo;</a></p>
     {%- endfor -%}
 
 
