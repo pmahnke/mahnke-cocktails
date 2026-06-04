@@ -8,7 +8,7 @@ permalink: "/recipe/sailors_punch/"
 iconfile: sailors_punch
 stars: 0
 base_spirits: "Bourbon"
-youtube: ""
+youtube: "https://www.drinkhacker.com/2012/12/21/recipe-sailors-punch/?srsltid=AfmBOoqzZTlPxVyXac4u_SJrB194R2YUDjzuI70tpQ9W_dKhlU80dPXC"
 description: "A modern punch recipe featuring bourbon as its base spirit."
 excerpt: |
   This punch was served at Slightly Oliver, a restaurant that has long since closed. It was my favorite drink they served. I was lucky enough to have found the recipe online.
