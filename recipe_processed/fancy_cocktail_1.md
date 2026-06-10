@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/fancy_cocktail_1/"
 iconfile: fancy_cocktail_1
 stars: 0
-base_spirits: ['Rosolio', 'Reposado Tequila', 'Manzanilla Sherry']
+base_spirits: ['Italicus', 'Reposado Tequila', 'Manzanilla Sherry']
 youtube: "AfbytyV2PdY"
 description: "An elegant, spirit-forward original cocktail that pairs the citrus and floral notes of Rosolio with reposado tequila and dry sherry."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 | Amount | Ingredient        | Brand                      |
 | -----: | ----------------- | -------------------------- |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Rosolio Italicus  | Rosolio di Bergamotto      |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Italicus          | Rosolio di Bergamotto      |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Reposado Tequila [&#9432;](/spirit/reposado_tequila "More Reposado Tequila recipes")  | Casamigos                  |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Manzanilla Sherry [&#9432;](/spirit/manzanilla_sherry "More Manzanilla Sherry recipes") | Lustau Manzanilla Papirusa |
 
@@ -43,7 +43,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "  1 oz Rosolio Italicus",
+  "  1 oz Italicus",
   "  1 oz Reposado Tequila",
   "  1 oz Manzanilla Sherry"
     ],

@@ -19,9 +19,9 @@ date: 2025-08-11
 
 |   Amount | Ingredient         | Brand                                      |
 | -------: | ------------------ | ------------------------------------------ |
-| 2 dashes | Bitters            | Fee Bros. Cardamom (Boker’s Style) Bitters |
 |     1 oz | Cognac             | Maison Rouge VSOP                          |
 |     1 oz | Maraschino Liqueur | Luxardo                                    |
+| 2 dashes | Bitters            | Fee Bros. Cardamom (Boker’s Style) Bitters |
 
 ### Notes
 

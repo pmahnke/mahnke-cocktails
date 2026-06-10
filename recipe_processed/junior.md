@@ -15,9 +15,6 @@ excerpt: |
 date: 2025-08-11
 ---
 
-date: 2025-08-11
----
-
 ### Ingredients
 
 |   Amount | Ingredient                                               | Brand                      |
