@@ -6,7 +6,7 @@ categories: [flip]
 eras: [classic]
 permalink: "/recipe/sherry_flip/"
 iconfile: sherry_flip
-stars: 0
+stars: 3
 base_spirits: ['Oloroso Sherry']
 youtube: "mBGgu3qRztY"
 description: "A rich and creamy classic cocktail from the 1800s, made with sherry, a whole egg, and sugar."

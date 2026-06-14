@@ -7,7 +7,7 @@ categories: [sour]
 eras: [new_orleans]
 permalink: "/recipe/blanche_dubois/"
 iconfile: blanche_dubois
-stars: 0
+stars: 4
 base_spirits: ['Gin', 'Dry Curaçao']
 youtube: "ptoAM1cWCAI"
 description: "This cocktail is a vibrant, New Orleans-born riff on the Mai Tai that swaps out the traditional rum for a crisp gin base, shaking it up with fresh lemon juice, orange curaçao, and nutty orgeat over muddled strawberry and mint."

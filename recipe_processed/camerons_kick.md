@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/camerons_kick/"
 iconfile: camerons_kick
-stars: 0
+stars: 4
 base_spirits: ['Blended Scotch', 'Irish Whiskey']
 youtube: "PwfU-18WhC8"
 description: "A classic cocktail that uniquely combines the distinct flavors of both Scotch and Irish whiskeys in a sour format with orgeat."

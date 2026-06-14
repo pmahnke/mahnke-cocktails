@@ -4,7 +4,7 @@ title: "60 Second Orgeat Syrup"
 categories: [syrup]
 permalink: "/recipe/60_sec_orgeat_syrup/"
 iconfile: 60_sec_orgeat_syrup
-stars: 0
+stars: 4
 base_spirits: ['White Sugar', 'Almond Milk Concentrate', 'Orange Blossom Water', 'Rose Water']
 youtube: "GtU8XnqCD4s"
 excerpt: |

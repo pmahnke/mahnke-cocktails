@@ -6,7 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/semester_abroad/"
 iconfile: semester_abroad
-stars: 0
+stars: 3.5
 base_spirits: ['Rye', 'Fernet Branca']
 youtube: "JIQ_UNrQZR8"
 description: "It’s a simple three-ingredient build of rye whiskey, orange curaçao, and Fernet-Branca, but the result is rich and aromatic."

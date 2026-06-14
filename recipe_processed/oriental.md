@@ -6,7 +6,7 @@ categories: [daisy, sour]
 eras: [prohibition]
 permalink: "/recipe/oriental/"
 iconfile: oriental
-stars: 0
+stars: 3.5
 base_spirits: ['Rye', 'Sweet Vermouth', 'Triple Sec']
 youtube: "0D1SXgMgp_g"
 description: "This is a classic, pre-Prohibition cocktail featuring a balanced blend of rye whiskey, sweet vermouth, orange curaçao, and fresh lime juice."
