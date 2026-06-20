@@ -1,0 +1,15 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-campari.svg
+      title: Campari
+    - url: /assets/images/ingredient-mezcal.svg
+      title: Mezcal
+  tool:
+    - url: /assets/images/tool_long-stirrer.svg
+      title: Long stirrer
+  glass:
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes
