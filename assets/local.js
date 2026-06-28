@@ -1,67 +1,98 @@
-// Select elements
-const menuLinks = document.querySelectorAll('.menu a');
-const spans = document.querySelectorAll('span');
-const wakeLockButton = document.getElementById("toggleWakeLock");
+document.addEventListener('DOMContentLoaded', () => {
+    // --- Menu Navigation Logic ---
+    const menu = document.querySelector('.menu');
+    const menuLinks = document.querySelectorAll('.menu a');
+    const spans = document.querySelectorAll('span');
+    const wakeLockButton = document.getElementById("toggleWakeLock");
 
-menuLinks.forEach(link => {
-    link.addEventListener('click', (event) => {
-        if (event.target === wakeLockButton) return; // Ignore wake lock button
-        event.preventDefault();
+    // Improvement: Event Delegation
+    if (menu) {
+        menu.addEventListener('click', (event) => {
+            const link = event.target.closest('a');
+            
+            // Ignore if the click wasn't on a link, or if it was the wake lock button
+            if (!link || link === wakeLockButton) return;
+            
+            event.preventDefault();
 
-        // Remove active class from all links and spans
-        menuLinks.forEach(l => l.classList.remove('active'));
-        spans.forEach(span => span.classList.remove('active'));
+            // Remove active class from all links and spans
+            menuLinks.forEach(l => l.classList.remove('active'));
+            spans.forEach(span => span.classList.remove('active'));
 
-        // Add active class to clicked link and corresponding spans
-        const target = event.target.getAttribute('data-target');
-        event.target.classList.add('active');
-        document.querySelectorAll(`.${target}`).forEach(span => span.classList.add('active'));
-    });
-});
-
-// Wake Lock functionality
-let wakeLock = null;
-let isWakeLockActive = false;
-
-async function toggleWakeLock() {
-    if (isWakeLockActive) {
-        if (wakeLock) {
-            await wakeLock.release();
-            wakeLock = null;
-            console.log("Wake Lock is released");
-        }
-        isWakeLockActive = false;
-    } else {
-        try {
-            wakeLock = await navigator.wakeLock.request("screen");
-            wakeLock.addEventListener("release", () => {
-                isWakeLockActive = false;
-                updateWakeLockButton();
-                console.log("Wake Lock was automatically released");
-            });
-            isWakeLockActive = true;
-            console.log("Wake Lock is active");
-        } catch (err) {
-            console.error("Wake Lock request failed:", err);
-            return;
-        }
+            // Add active class to clicked link and corresponding spans
+            const target = link.getAttribute('data-target');
+            link.classList.add('active');
+            
+            if (target) {
+                document.querySelectorAll(`.${target}`).forEach(span => span.classList.add('active'));
+            }
+        });
     }
-    updateWakeLockButton();
-}
 
-function updateWakeLockButton() {
-    wakeLockButton.textContent = isWakeLockActive ? "Allow Sleep" : "Stop Sleep";
-}
+    // --- Wake Lock Logic ---
+    // Feature detection: Only initialize if the browser supports it
+    if ('wakeLock' in navigator) {
+        let wakeLock = null;
+        let userWantsWakeLock = false; // Tracks the intended state, not just current state
 
-// Set up event listeners
-wakeLockButton.addEventListener("click", (event) => {
-    event.preventDefault();
-    toggleWakeLock();
-});
+        async function requestWakeLock() {
+            try {
+                wakeLock = await navigator.wakeLock.request("screen");
+                wakeLock.addEventListener("release", () => {
+                    console.log("Wake Lock was released by the system.");
+                    updateWakeLockButton();
+                });
+                console.log("Wake Lock is active");
+            } catch (err) {
+                console.error("Wake Lock request failed:", err);
+                userWantsWakeLock = false; // Reset if the request fails
+            }
+            updateWakeLockButton();
+        }
 
-// Re-acquire wake lock when returning to the page
-document.addEventListener("visibilitychange", async () => {
-    if (isWakeLockActive && document.visibilityState === "visible") {
-        await toggleWakeLock();
+        async function releaseWakeLock() {
+            if (wakeLock) {
+                await wakeLock.release();
+                wakeLock = null;
+                console.log("Wake Lock was released manually");
+            }
+        }
+
+        function updateWakeLockButton() {
+            // Check if the lock is actually active based on the object existing and not being released
+            const isCurrentlyActive = wakeLock !== null && !wakeLock.released;
+            wakeLockButton.textContent = isCurrentlyActive ? "Allow Sleep" : "Stop Sleep";
+        }
+
+        // Button Event Listener
+        wakeLockButton.addEventListener("click", async (event) => {
+            event.preventDefault();
+            
+            if (userWantsWakeLock) {
+                // User wants to turn it off
+                userWantsWakeLock = false;
+                await releaseWakeLock();
+            } else {
+                // User wants to turn it on
+                userWantsWakeLock = true;
+                await requestWakeLock();
+            }
+            updateWakeLockButton();
+        });
+
+        // Improvement: Re-acquire wake lock seamlessly if user intended it to be on
+        document.addEventListener("visibilitychange", async () => {
+            if (userWantsWakeLock && document.visibilityState === "visible") {
+                console.log("Page visible again, re-acquiring intended wake lock...");
+                await requestWakeLock();
+            }
+        });
+    } else {
+        // Fallback for unsupported browsers
+        if (wakeLockButton) {
+            wakeLockButton.textContent = "Wake Lock Unsupported";
+            wakeLockButton.disabled = true;
+        }
+        console.warn("Screen Wake Lock API is not supported by this browser.");
     }
 });

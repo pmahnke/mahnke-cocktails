@@ -1,4 +1,7 @@
 images:
+  ingredient:
+    - url: /assets/images/ingredient-jamacian-rum.svg
+      title: Rhum agricole
   tool:
     - url: /assets/images/tool_long-stirrer.svg
       title: Long stirrer

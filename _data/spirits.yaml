@@ -340,7 +340,7 @@
   description: Tequila aged in oak barrels for between two months and a year, imparting notes of vanilla, caramel, and wood.
 - name: Rhum Agricole
   slug: rhum_agricole
-  url: /assets/images/ingredient-light-rum.svg
+  url: /assets/images/ingredient-jamacian-rum.svg
   description: Rum distilled directly from fresh sugarcane juice (rather than molasses), resulting in a more herbaceous, earthy flavor.
 - name: Rosolio
   slug: rosolio

@@ -161,6 +161,7 @@ $INCLUDE{'punsch'} = qq|/assets/images/ingredient-swedish-punsch.svg|;
 $INCLUDE{'champagne'} = qq|/assets/images/ingredient-champagne.svg|;
 $INCLUDE{'lime-juice'} = qq|/assets/images/ingredient-lime-juice.svg|;
 $INCLUDE{'genever'} = qq|/assets/images/ingredient-genever.svg|;
+$INCLUDE{'rhum agricole'} = qq|/assets/images/ingredient-jamacian-rum.svg|; 
 $INCLUDE{'jamaican-rum'} = qq|/assets/images/ingredient-jamacian-rum.svg|;
 $INCLUDE{'chartreuse'} = qq|/assets/images/ingredient-chartreuse.svg|;
 $INCLUDE{'curacao'} = qq|/assets/images/ingredient-curacao.svg|;
@@ -399,6 +400,7 @@ foreach $file (sort @files) {
             $ingredient{'lime-juice'} = 1 if (/lime juice/i);
             $ingredient{'genever'} = 1 if (/genever/i);
             $ingredient{'jamaican-rum'} = 1 if (/jamaican rum/i);
+	    $ingredient{'rhum agricole'} = 1 if (/rhum agricole/i);
             $ingredient{'chartruese'} = 1 if (/chartruese/i);
             $ingredient{'orange-curacao'} = 1 if (/orange curacao/i);
             $ingredient{'egg-white'} = 1 if (/egg white/i);
