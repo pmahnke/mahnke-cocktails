@@ -7,7 +7,7 @@ categories: [tiki]
 permalink: "/recipe/yule_tidal_wave/"
 iconfile: yule_tidal_wave
 stars: 0
-base_spirits: "Rum, Bourbon, Cognac, Pear Liqueur, Licor 43, Allspice Dram"
+base_spirits: "Trinidadian Rum, Bourbon, Cognac, Pear Liqueur, Licor 43, Allspice Dram"
 youtube: "s30L-iu171E"
 description: "A festive and complex original holiday tiki punch that combines multiple spirits with allspice, vanilla, lemon, and pineapple."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-09-26
 
 |   Amount | Ingredient                                                | Brand                      |
 | -------: | --------------------------------------------------------- | -------------------------- |
-|  0.75 oz | Rum                                                       | Angostura 1919             |
+|  0.75 oz | Trinidadian Rum                                           | Angostura 1919             |
 |  0.75 oz | Bourbon                                                   | Elijah Craig Small Batch   |
 |  0.75 oz | Cognac                                                    | Pierre Ferrand 1840        |
 |  0.75 oz | Pear Liqueur                                              | Rothman & Winter           |
