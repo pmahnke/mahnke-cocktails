@@ -369,3 +369,11 @@ div.subrecipe {
     --star-size-desktop: 1.75rem;   /* Smaller size for homepage desktop */
     --star-spacing: 0px;
 }
+
+
+/* Print style */
+@media print {
+  .no-print {
+    display: none !important;
+  }
+}
