@@ -51,7 +51,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
 
 
         <ul class="home_list">
-        {%- for page in pages_by_stars | limit: 10 -%}
+        {%- for page in pages_by_stars limit: 10 -%}
             <li class="home_list_item">
                 <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 {%- include home_stars.html -%}

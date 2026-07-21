@@ -369,3 +369,19 @@ div.subrecipe {
     --star-size-desktop: 1.75rem;   /* Smaller size for homepage desktop */
     --star-spacing: 0px;
 }
+
+
+/* Print style */
+@media print {
+
+  h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+  
+  .no-print {
+    display: none !important;
+  }
+}
