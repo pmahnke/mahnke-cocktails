@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/ti_punch/"
 iconfile: ti_punch
-stars: 0
+stars: 3.5
 base_spirits: ['[Rhum Agricole]']
 youtube: "UwYdR9yPoB4"
 description: "This cocktail is a traditional, minimalist French Caribbean cocktail made by squeezing fresh lime juice into a robust pour of rhum agricole and sweetening it with a splash of sugarcane syrup."

@@ -31,4 +31,4 @@ date: 2025-08-11
 - Pour: Open Pour
 - Glassware: Large glass
 - Garnish: Pineapple pieces, pineapple fronds and cocktail cherries
-- Special Prep: Use an emersion blender directly in the shaker tin. Blend intill frothy.
+- Special Prep: Use an emersion blender directly in the shaker tin. Blend until frothy.
