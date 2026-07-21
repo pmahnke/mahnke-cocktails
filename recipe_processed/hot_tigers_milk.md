@@ -19,7 +19,7 @@ date: 2025-12-13
 
 <div class="subrecipe" markdown="1">
 
-## Tom & Jerry Drink
+## Hot Tiger’s Milk Recipe
 
 ### Ingredients
 
@@ -40,7 +40,7 @@ date: 2025-12-13
 </div>
 <div class="subrecipe" markdown="1">
 
-## Tiger’S Milk Batter
+## Tiger’s Milk Batter
 
 ### Ingredients
 

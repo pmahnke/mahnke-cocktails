@@ -18,7 +18,7 @@ date: 2025-12-23
 
 <div class="subrecipe" markdown="1">
 
-## Tom & Jerry Drink
+## Tom & Jerry Recipe
 
 ### Ingredients
 
