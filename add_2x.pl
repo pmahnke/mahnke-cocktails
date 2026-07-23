@@ -59,7 +59,7 @@ while (my $file = readdir DIR) {
         # turn base spirits list into an object in the front matter
         if (/^base_spirits:\s*(.*)/) {
             my $spirits = $1;
-            $spirits =~ s/('|")//g; # remove quotes
+            $spirits =~ s/('|"|\[|\])//g; # remove quotes and brackets
             $spirits =~ s/^\s+//; # remove leading whitespace
             $spirits =~ s/\s+$//; # remove trailing whitespace
             
