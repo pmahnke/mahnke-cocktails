@@ -64,7 +64,7 @@
   description: A rum that is heavily aged or colored with molasses and caramel to achieve a dark, full-bodied, and often smoky or licorice-like flavor.
 - name: Black Sambuca
   slug: black_sambuca
-  url: null
+  url: /assets/images/ingredient-black_sambuca.svg
   description: An anise-flavored liqueur colored and flavored with elderberries, giving it a deep black/purple hue and a slightly richer profile than clear Sambuca.
 - name: Blanco Tequila
   slug: blanco_tequila
@@ -384,7 +384,7 @@
   description: A dark beer brewed with roasted malt or barley, giving it deep flavors of coffee and chocolate.
 - name: Suze
   slug: suze
-  url: null
+  url: /assets/images/ingredient-suze.svg
   description: A French liqueur made from gentian root, giving it a bright yellow color and a distinctively bitter, earthy, and floral flavor.
 - name: Swedish Punsch
   slug: swedish_punsch

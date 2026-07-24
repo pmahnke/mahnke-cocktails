@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /assets/images/ingredient-aperol.svg
       title: Aperol
+    - url: /assets/images/ingredient-black_sambuca.svg
+      title: Black sambuca
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
   tool:

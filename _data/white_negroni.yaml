@@ -4,6 +4,8 @@ images:
       title: Gin
     - url: /assets/images/ingredient-lillet-blanc.svg
       title: Lillet blanc
+    - url: /assets/images/ingredient-suze.svg
+      title: Suze
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
