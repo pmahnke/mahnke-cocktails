@@ -4,7 +4,7 @@
   description: A highly potent, anise-flavored spirit distilled from botanicals, used sparingly for its complex, herbal aroma.
 - name: Ale
   slug: ale
-  url: null
+  url: /assets/images/ingredient-beer.svg
   description: A general category of beer brewed using a top-fermenting yeast, typically resulting in a fruitier, fuller-bodied, and often hoppier profile than lagers.
 - name: Allspice Dram
   slug: allspice_dram
@@ -44,11 +44,11 @@
   description: A stone-fruit liqueur used to introduce a jammy, sweet depth to a cocktail, sometimes carrying a subtle almond bitterness.
 - name: Banana Liqueur
   slug: banana_liqueur
-  url: null
+  url: /assets/images/ingredient-banana.svg
   description: A sweet liqueur flavored with bananas, used to impart a distinct tropical sweetness, often found in tiki drinks.
 - name: Banane du Brésil
   slug: banane_du_brésil
-  url: null
+  url: /assets/images/ingredient-banane_du_bresil.svg
   description: A specific banana liqueur known for its rum base and richer, more authentic banana flavor.
 - name: Barbados Rum
   slug: barbados_rum
@@ -380,7 +380,7 @@
   description: Rum that has been flavored with various spices, such as cinnamon, nutmeg, cloves, and vanilla, often resulting in a sweet, warming spirit.
 - name: Stout
   slug: stout
-  url: null
+  url: /assets/images/ingredient-stout.svg
   description: A dark beer brewed with roasted malt or barley, giving it deep flavors of coffee and chocolate.
 - name: Suze
   slug: suze

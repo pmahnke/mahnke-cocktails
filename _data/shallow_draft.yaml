@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /assets/images/ingredient-beer.svg
+      title: Beer
     - url: /assets/images/ingredient-falernum.svg
       title: Falernum
   tool:
