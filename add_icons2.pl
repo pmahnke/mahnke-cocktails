@@ -133,6 +133,7 @@ $INCLUDE{'lemon_cherry'} = qq|/assets/images/twist_lemon_cherry.svg|;
 $INCLUDE{'cocktail-cherry'} = qq|/assets/images/twist_cocktail-cherry.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
+$INCLUDE{'rosolio'} = qq|/assets/images/ingredient-rosolio.svg|;
 $INCLUDE{'porter'} = qq|/assets/images/ingredient-porter.svg|;
 $INCLUDE{'pimms'} = qq|/assets/images/ingredient-pimms.svg|;
 $INCLUDE{'pear_liqueur'} = qq|/assets/images/ingredient-pear_liqueur.svg|;
@@ -224,7 +225,6 @@ $INCLUDE{'lillet-blanc'} = qq|/assets/images/ingredient-lillet-blanc.svg|;
 $INCLUDE{'cachaca'} = qq|/assets/images/ingredient-cachaca.svg|;
 $INCLUDE{'amaro'} = qq|/assets/images/ingredient-amaro.svg|;
 $INCLUDE{'dark_ale'} = qq|/assets/images/ingredient-dark_ale.svg|;
-$INCLUDE{'porter'} = qq|/assets/images/ingredient-porter.svg|;
 $INCLUDE{'ipa'} = qq|/assets/images/ingredient-ipa.svg|;
 $INCLUDE{'drambuie'} = qq|/assets/images/ingredient-drambuie.svg|;
 $INCLUDE{'spice-rum'} = qq|/assets/images/ingredient-dark-rum.svg|;
@@ -389,7 +389,7 @@ foreach $file (sort @files) {
 
         # bottles
         if (/base_spirits:/) {
-	    $ingredient{'porter'} = 1 if (/porter/i);
+	    $ingredient{'rosolio'} = 1 if (/rosolio/i);
 	    $ingredient{'pimms'} = 1 if (/pimm/i);
 	    $ingredient{'pear_liqueur'} = 1 if (/pear liqueur/i);
 	    $ingredient{'peach_liqueur'} = 1 if (/peach liqueur/i);
@@ -488,10 +488,10 @@ foreach $file (sort @files) {
             $ingredient{'amaro'} = 1 if (/amaro/i);
 	    $ingredient{'dark_ale'} = 1 if (/dark (ale|beer)/i);
             $ingredient{'porter'} = 1 if (/porter/i);
+	    $ingredient{'port'} = 1 if (/port/i && !$ingredient{'porter'});
             $ingredient{'ipa'} = 1 if (/ipa/i);
             $ingredient{'drambuie'} = 1 if (/drambuie/i);
             $ingredient{'spice-rum'} = 1 if (/spice rum/i);
-            $ingredient{'port'} = 1 if (/port/i);
             $ingredient{'dubonnet-rouge'} = 1 if (/dubonnet rouge/i);
             $ingredient{'creme-de-cassis'} = 1 if (/de cassis/i);
 	    $ingredient{'creme-de-mure'} = 1 if (/de mûre/i);
