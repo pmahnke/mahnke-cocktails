@@ -304,7 +304,7 @@
   description: A distinct aromatic bitter from New Orleans, known for its prominent anise aroma and lighter, fruitier notes than Angostura.
 - name: Pimms
   slug: pimms
-  url: null
+  url: /assets/images/ingredient-pimms.svg
   description: A famous British fruit cup made from gin infused with fruit extracts, spices, and liqueurs.
 - name: Pisco
   slug: pisco
@@ -316,7 +316,7 @@
   description: A specific protected style of gin produced only in Plymouth, England, known for a slightly less juniper-forward, more root-driven, and earthier flavor than London Dry.
 - name: Porter
   slug: porter
-  url: null
+  url: /assets/images/ingredient-porter.svg
   description: A dark style of beer known for flavors of chocolate, caramel, and coffee from roasted malts.
 - name: Prosecco
   slug: prosecco

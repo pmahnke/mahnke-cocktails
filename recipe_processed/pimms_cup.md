@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |    Amount | Ingredient        | Brand                 |
 | --------: | ----------------- | --------------------- |
-|      <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Pimm's            | No.1 Pimm's No.1      |
+|      <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Pimms [&#9432;](/spirit/pimms "More Pimms recipes")            | Pimm's No.1           |
 |   <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Fresh Lemon Juice |
 | <span class="onex active">3 to 4 oz  / 90 to 120 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 6 oz  / 135 to 180 ml</span> <span class="twox">6 to 8 oz  / 180 to 240 ml</span> <span class="threex">9 to 12 oz  / 270 to 360 ml</span>| Ginger Ale        | Fever Tree Ginger Ale |
 
@@ -45,7 +45,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "   2 oz Pimm's",
+  "   2 oz Pimms",
   "  0.25 oz Fresh Lemon Juice",
   " 3 to 4 oz Ginger Ale"
     ],

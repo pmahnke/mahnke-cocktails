@@ -133,6 +133,8 @@ $INCLUDE{'lemon_cherry'} = qq|/assets/images/twist_lemon_cherry.svg|;
 $INCLUDE{'cocktail-cherry'} = qq|/assets/images/twist_cocktail-cherry.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
+$INCLUDE{'porter'} = qq|/assets/images/ingredient-porter.svg|;
+$INCLUDE{'pimms'} = qq|/assets/images/ingredient-pimms.svg|;
 $INCLUDE{'pear_liqueur'} = qq|/assets/images/ingredient-pear_liqueur.svg|;
 $INCLUDE{'peach_liqueur'} = qq|/assets/images/ingredient-peach_liqueur.svg|;
 $INCLUDE{'oktoberfest'} = qq|/assets/images/ingredient-oktoberfest.svg|;
@@ -387,6 +389,8 @@ foreach $file (sort @files) {
 
         # bottles
         if (/base_spirits:/) {
+	    $ingredient{'porter'} = 1 if (/porter/i);
+	    $ingredient{'pimms'} = 1 if (/pimm/i);
 	    $ingredient{'pear_liqueur'} = 1 if (/pear liqueur/i);
 	    $ingredient{'peach_liqueur'} = 1 if (/peach liqueur/i);
 	    $ingredient{'oktoberfest'} = 1 if (/oktoberfest/i);

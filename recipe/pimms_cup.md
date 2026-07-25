@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/pimms_cup/"
 iconfile: pimms_cup
 stars: 0
-base_spirits: "Pimm's"
+base_spirits: "Pimms"
 youtube: "CGq0rFP_Jl0"
 description: "A classic and quintessentially British highball, this is a refreshing drink featuring Pimm's No. 1, a gin-based liqueur, mixed with lemonade or ginger ale and fresh fruit."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |    Amount | Ingredient        | Brand                 |
 | --------: | ----------------- | --------------------- |
-|      2 oz | Pimm's            | No.1 Pimm's No.1      |
+|      2 oz | Pimms            | Pimm's No.1           |
 |   0.25 oz | Fresh Lemon Juice |
 | 3 to 4 oz | Ginger Ale        | Fever Tree Ginger Ale |
 

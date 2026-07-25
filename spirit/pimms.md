@@ -1,6 +1,6 @@
 ---
 layout: spirits
-title: Pimms Cocktails
+title: Pimm's Cocktails
 spirit_name: pimms
 permalink: /spirit/pimms/
 ---
