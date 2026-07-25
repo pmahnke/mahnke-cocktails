@@ -342,8 +342,8 @@
   slug: rhum_agricole
   url: /assets/images/ingredient-jamacian-rum.svg
   description: Rum distilled directly from fresh sugarcane juice (rather than molasses), resulting in a more herbaceous, earthy flavor.
-- name: Rosolio
-  slug: rosolio
+- name: Italicus
+  slug: italicus
   url: /assets/images/ingredient-rosolio.svg
   description: A traditional Italian liqueur, historically rose-petal based, but now refers to a category of softer, lower-proof sweet liqueurs.
 - name: Ruby Port
