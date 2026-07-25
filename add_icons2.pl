@@ -133,6 +133,8 @@ $INCLUDE{'lemon_cherry'} = qq|/assets/images/twist_lemon_cherry.svg|;
 $INCLUDE{'cocktail-cherry'} = qq|/assets/images/twist_cocktail-cherry.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
+$INCLUDE{'pear_liqueur'} = qq|/assets/images/ingredient-pear_liqueur.svg|;
+$INCLUDE{'peach_liqueur'} = qq|/assets/images/ingredient-peach_liqueur.svg|;
 $INCLUDE{'oktoberfest'} = qq|/assets/images/ingredient-oktoberfest.svg|;
 $INCLUDE{'mango_liqueur'} = qq|/assets/images/ingredient-mango_liqueur.svg|;
 $INCLUDE{'malört'} = qq|/assets/images/ingredient-malört.svg|;
@@ -385,6 +387,8 @@ foreach $file (sort @files) {
 
         # bottles
         if (/base_spirits:/) {
+	    $ingredient{'pear_liqueur'} = 1 if (/pear liqueur/i);
+	    $ingredient{'peach_liqueur'} = 1 if (/peach liqueur/i);
 	    $ingredient{'oktoberfest'} = 1 if (/oktoberfest/i);
 	    $ingredient{'mango_liqueur'} = 1 if (/mango liqueur/i);
 	    $ingredient{'malört'} = 1 if (/mal(o|ö)rt/i);
@@ -494,8 +498,7 @@ foreach $file (sort @files) {
             $ingredient{'chartreuse'} = 1 if (/chartreuse/i);
             $ingredient{'calvados'} = 1 if (/calvados/i);
             $ingredient{'dubonnet-rouge'} = 1 if (/dubonnet/i);
-            $ingredient{'peach'} = 1 if (/peach/i);
-            $ingredient{'cherry'} = 1 if (/cherry liqueur/i);
+	    $ingredient{'cherry'} = 1 if (/cherry liqueur/i);
             $ingredient{'creme-de-menthe'} = 1 if (/de menthe/i);
 	    $ingredient{'crème_de_noyaux'} = 1 if (/noyaux/i);
             #$ingredient{'blackberry'} = 1 if (/me de mûre/i); # creme de mure

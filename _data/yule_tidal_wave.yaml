@@ -8,6 +8,8 @@ images:
       title: Cognac
     - url: /assets/images/ingredient-licor_43.svg
       title: Licor 43
+    - url: /assets/images/ingredient-pear_liqueur.svg
+      title: Pear liqueur
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double strained

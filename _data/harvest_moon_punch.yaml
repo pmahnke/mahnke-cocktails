@@ -8,6 +8,8 @@ images:
       title: Cognac
     - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
+    - url: /assets/images/ingredient-pear_liqueur.svg
+      title: Pear liqueur
   tool:
     - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker

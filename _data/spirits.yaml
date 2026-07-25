@@ -292,11 +292,11 @@
   description: Rum bottled at a very high alcohol content (usually 57% ABV or higher), used sparingly for maximum flavor impact.
 - name: Peach Liqueur
   slug: peach_liqueur
-  url: null
+  url: /assets/images/ingredient-peach_liqueur.svg
   description: A sweet liqueur flavored with peaches, used to introduce bright, fruity sweetness.
 - name: Pear Liqueur
   slug: pear_liqueur
-  url: null
+  url: /assets/images/ingredient-pear_liqueur.svg
   description: A sweet liqueur flavored with pears, often used to add a delicate, smooth fruit note.
 - name: Peychauds Bitters
   slug: peychauds_bitters
