@@ -236,7 +236,7 @@
   description: A French aperitif wine that blends Bordeaux wines with citrus liqueurs, resulting in a fruity, golden, and slightly bitter profile.
 - name: Lillet Rouge
   slug: lillet_rouge
-  url: /assets/images/ingredient-lillet-rouge.svg
+  url: /assets/images/ingredient-lillet_rouge.svg
   description: The red version of the French aperitif, offering a richer, spicier, and more bitter flavor than Lillet Blanc.
 - name: Malört
   slug: malört

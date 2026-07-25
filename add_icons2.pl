@@ -221,7 +221,7 @@ $INCLUDE{'sloe-gin'} = qq|/assets/images/ingredient-sloe-gin.svg|;
 $INCLUDE{'tequila'} = qq|/assets/images/ingredient-tequila.svg|;
 $INCLUDE{'mezcal'} = qq|/assets/images/ingredient-mezcal.svg|;
 $INCLUDE{'vodka'} = qq|/assets/images/ingredient-vodka.svg|;
-$INCLUDE{'lillet-rouge'} = qq|/assets/images/ingredient-lillet-rouge.svg|;
+$INCLUDE{'lillet-rouge'} = qq|/assets/images/ingredient-lillet_rouge.svg|;
 $INCLUDE{'lillet-blanc'} = qq|/assets/images/ingredient-lillet-blanc.svg|;
 $INCLUDE{'cachaca'} = qq|/assets/images/ingredient-cachaca.svg|;
 $INCLUDE{'amaro'} = qq|/assets/images/ingredient-amaro.svg|;
@@ -494,7 +494,6 @@ foreach $file (sort @files) {
             $ingredient{'ipa'} = 1 if (/ipa/i);
             $ingredient{'drambuie'} = 1 if (/drambuie/i);
             $ingredient{'spice-rum'} = 1 if (/spice rum/i);
-            $ingredient{'dubonnet-rouge'} = 1 if (/dubonnet rouge/i);
             $ingredient{'creme-de-cassis'} = 1 if (/de cassis/i);
 	    $ingredient{'creme-de-mure'} = 1 if (/de mûre/i);
             $ingredient{'galliano'} = 1 if (/galliano/i);
