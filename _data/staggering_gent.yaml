@@ -4,6 +4,8 @@ images:
       title: Benedictine
     - url: /assets/images/ingredient-bourbon.svg
       title: Bourbon
+    - url: /assets/images/ingredient-walnut_liqueur.svg
+      title: Walnut liqueur
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

@@ -4,6 +4,8 @@ images:
       title: Blackberry
     - url: /assets/images/ingredient-champagne.svg
       title: Champagne
+    - url: /assets/images/ingredient-crème_de_mûre.svg
+      title: Creme de mure
     - url: /assets/images/ingredient-gin.svg
       title: Gin
   tool:

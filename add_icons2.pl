@@ -219,6 +219,7 @@ $INCLUDE{'spice-rum'} = qq|/assets/images/ingredient-dark-rum.svg|;
 $INCLUDE{'port'} = qq|/assets/images/ingredient-port.svg|;
 $INCLUDE{'dubonnet-rouge'} = qq|/assets/images/ingredient-dubonnet-rouge.svg|;
 $INCLUDE{'creme-de-cassis'} = qq|/assets/images/ingredient-creme-de-casis.svg|;
+$INCLUDE{'creme-de-mure'} = qq|/assets/images/ingredient-crème_de_mûre.svg|;
 $INCLUDE{'galliano'} = qq|/assets/images/ingredient-orange.svg|;
 $INCLUDE{'pisco'} = qq|/assets/images/ingredient-pisco.svg|;
 $INCLUDE{'reposado-tequila'} = qq|/assets/images/ingredient-reposado-tequila.svg|;
@@ -234,7 +235,7 @@ $INCLUDE{'creme-de-menthe'} = qq|/assets/images/ingredient-creme-de-menthe.svg|;
 $INCLUDE{'blackberry'} = qq|/assets/images/ingredient-blackberry.svg|;
 $INCLUDE{'red_wine'} = qq|/assets/images/ingredient-red-wine.svg|;
 $INCLUDE{'white_wine'} = qq|/assets/images/ingredient-white-wine.svg|;
-
+$INCLUDE{'walnut_liqueur'} = qq|/assets/images/ingredient-walnut_liqueur.svg|;
 $INCLUDE{'stirred'} = qq|/assets/images/tool_stirred.svg|;
 $INCLUDE{'double-strained'} = qq|/assets/images/tool_double_strain.svg|;
 
@@ -468,6 +469,7 @@ foreach $file (sort @files) {
             $ingredient{'port'} = 1 if (/port/i);
             $ingredient{'dubonnet-rouge'} = 1 if (/dubonnet rouge/i);
             $ingredient{'creme-de-cassis'} = 1 if (/de cassis/i);
+	    $ingredient{'creme-de-mure'} = 1 if (/de mûre/i);
             $ingredient{'galliano'} = 1 if (/galliano/i);
             $ingredient{'galliano'} = 1 if (/grand marnier/i);
             $ingredient{'pisco'} = 1 if (/pisco/i);
@@ -481,7 +483,8 @@ foreach $file (sort @files) {
             $ingredient{'creme-de-menthe'} = 1 if (/de menthe/i);
             $ingredient{'blackberry'} = 1 if (/me de mûre/i); # creme de mure
             $ingredient{'red_wine'} = 1 if (/red wine/i); #
-            $ingredient{'white_wine'} = 1 if (/white wine/i); #
+	    $ingredient{'walnut_liqueur'} = 1 if (/walnut/i); #
+	    $ingredient{'white_wine'} = 1 if (/white wine/i); #
         }
     }
     close(FILE);
