@@ -244,7 +244,7 @@
   description: A highly distinctive, intensely bitter, and wormwood-based Swedish-style liqueur, famed for its polarizing, challenging taste.
 - name: Mango Liqueur
   slug: mango_liqueur
-  url: null
+  url: /assets/images/ingredient-mango_liqueur.svg
   description: A sweet liqueur flavored with mangoes, adding tropical fruit flavor to cocktails.
 - name: Manzanilla Sherry
   slug: manzanilla_sherry

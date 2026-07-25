@@ -133,6 +133,7 @@ $INCLUDE{'lemon_cherry'} = qq|/assets/images/twist_lemon_cherry.svg|;
 $INCLUDE{'cocktail-cherry'} = qq|/assets/images/twist_cocktail-cherry.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
+$INCLUDE{'mango_liqueur'} = qq|/assets/images/ingredient-mango_liqueur.svg|;
 $INCLUDE{'malört'} = qq|/assets/images/ingredient-malört.svg|;
 $INCLUDE{'licor_43'} = qq|/assets/images/ingredient-licor_43.svg|;
 $INCLUDE{'grand_marnier'} = qq|/assets/images/ingredient-grand_marnier.svg|;
@@ -383,6 +384,7 @@ foreach $file (sort @files) {
 
         # bottles
         if (/base_spirits:/) {
+	    $ingredient{'mango_liqueur'} = 1 if (/mango liqueur/i);
 	    $ingredient{'malört'} = 1 if (/mal(o|ö)rt/i);
 	    $ingredient{'licor_43'} = 1 if (/licor 43/i);
 	    $ingredient{'grand_marnier'} = 1 if (/grand_marnier/i);

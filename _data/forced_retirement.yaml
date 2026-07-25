@@ -4,6 +4,8 @@ images:
       title: Campari
     - url: /assets/images/ingredient-gin.svg
       title: Gin
+    - url: /assets/images/ingredient-malört.svg
+      title: Malört
   tool:
     - url: /assets/images/tool_long-stirrer.svg
       title: Long stirrer
