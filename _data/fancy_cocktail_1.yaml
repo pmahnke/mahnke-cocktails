@@ -1,6 +1,6 @@
 images:
   ingredient:
-    - url: 
+    - url: /assets/images/ingredient-rosolio.svg
       title: Italicus
     - url: /assets/images/ingredient-reposado-tequila.svg
       title: Reposado tequila

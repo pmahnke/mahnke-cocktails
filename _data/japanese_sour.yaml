@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /assets/images/ingredient-shochu.svg
+      title: Shochu
     - url: /assets/images/ingredient-vodka.svg
       title: Vodka
   tool:

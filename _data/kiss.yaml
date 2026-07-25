@@ -1,6 +1,6 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-dubonnet-rouge.png
+    - url: /assets/images/ingredient-dubonnet-rouge.svg
       title: Dubonnet rouge
     - url: /assets/images/ingredient-gin.svg
       title: Gin

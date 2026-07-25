@@ -133,7 +133,8 @@ $INCLUDE{'lemon_cherry'} = qq|/assets/images/twist_lemon_cherry.svg|;
 $INCLUDE{'cocktail-cherry'} = qq|/assets/images/twist_cocktail-cherry.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
-$INCLUDE{'talicus'} = qq|/assets/images/ingredient-rosolio.svg|;
+$INCLUDE{'shochu'} = qq|/assets/images/ingredient-shochu.svg|;
+$INCLUDE{'italicus'} = qq|/assets/images/ingredient-rosolio.svg|;
 $INCLUDE{'porter'} = qq|/assets/images/ingredient-porter.svg|;
 $INCLUDE{'pimms'} = qq|/assets/images/ingredient-pimms.svg|;
 $INCLUDE{'pear_liqueur'} = qq|/assets/images/ingredient-pear_liqueur.svg|;
@@ -241,7 +242,7 @@ $INCLUDE{'lime-juice'} = qq|/assets/images/ingredient-lime-juice.svg|;
 $INCLUDE{'tonic-water'} = qq|/assets/images/ingredient-tonic-water.svg|;
 $INCLUDE{'coffee-liqueur'} = qq|/assets/images/ingredient-coffee-liqueur.svg|;
 $INCLUDE{'calvados'} = qq|/assets/images/ingredient-calvados.svg|;
-$INCLUDE{'dubonnet-rouge'} = qq |/assets/images/ingredient-dubonnet-rouge.png|;
+$INCLUDE{'dubonnet-rouge'} = qq |/assets/images/ingredient-dubonnet-rouge.svg|;
 $INCLUDE{'peach'} = qq|/assets/images/ingredient-peach.svg|;
 $INCLUDE{'cherry'} = qq|/assets/images/ingredient-cherry.svg|;
 $INCLUDE{'creme-de-menthe'} = qq|/assets/images/ingredient-creme-de-menthe.svg|;
@@ -389,6 +390,7 @@ foreach $file (sort @files) {
 
         # bottles
         if (/base_spirits:/) {
+	    $ingredient{'shochu'} = 1 if (/shochu/i);
 	    $ingredient{'italicus'} = 1 if (/italicus/i);
 	    $ingredient{'pimms'} = 1 if (/pimm/i);
 	    $ingredient{'pear_liqueur'} = 1 if (/pear liqueur/i);

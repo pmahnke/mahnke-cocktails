@@ -168,7 +168,7 @@
   description: A fortified wine flavored with aromatic herbs and spices, characterized by its dry, crisp, and pale profile.
 - name: Dubonnet Rouge
   slug: dubonnet_rouge
-  url: /assets/images/ingredient-dubonnet-rouge.png
+  url: /assets/images/ingredient-dubonnet-rouge.svg
   description: A French aperitif wine made from a blend of fortified wine, spices, and quinine.
 - name: Elderflower Liqueur
   slug: elderflower_liqueur
@@ -364,7 +364,7 @@
   description: Whisky distilled in Scotland, primarily from malted barley, categorized by its region and unique aging process (e.g., smoky/peated vs. unpeated).
 - name: Shochu
   slug: shochu
-  url: null
+  url: /assets/images/ingredient-shochu.svg
   description: A traditional Japanese distilled spirit, typically made from barley, sweet potatoes, rice, or buckwheat, often lighter and lower in alcohol than vodka.
 - name: Single Malt
   slug: single_malt

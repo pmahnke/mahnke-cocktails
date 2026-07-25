@@ -49,7 +49,7 @@ title: index of images
     <li><img src="../assets/images/ingredient-blue-curacao.svg" width="100"><br>blue-curacao</li>
     <li><img src="../assets/images/ingredient-bourbon.svg" width="100"><br>bourbon</li>
     <li><img src="../assets/images/ingredient-brandy.svg" width="100"><br>brandy</li>
-    <li><img src="../assets/images/ingredient-cacao.svg" width="100"><br>cacao</li>
+    <li><img src="../assets/images/ingredient-creme-de-cacao.svg" width="100"><br>cacao</li>
     <li><img src="../assets/images/ingredient-cachaca.svg" width="100"><br>cachaca</li>
     <li><img src="../assets/images/ingredient-calvados.svg" width="100"><br>calvados</li>
     <li><img src="../assets/images/ingredient-campari.svg" width="100"><br>campari</li>
