@@ -240,7 +240,7 @@
   description: The red version of the French aperitif, offering a richer, spicier, and more bitter flavor than Lillet Blanc.
 - name: Malört
   slug: malört
-  url: null
+  url: /assets/images/ingredient-malört.svg
   description: A highly distinctive, intensely bitter, and wormwood-based Swedish-style liqueur, famed for its polarizing, challenging taste.
 - name: Mango Liqueur
   slug: mango_liqueur
