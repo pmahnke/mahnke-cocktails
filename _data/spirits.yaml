@@ -124,11 +124,11 @@
   description: A sweet, mint-flavored liqueur, traditionally used to add a cooling, bright element to digestivos and dessert drinks.
 - name: Crème de Mûre
   slug: crème_de_mûre
-  url: /assets/images/ingredient-crème_de_mûre
+  url: /assets/images/ingredient-crème_de_mûre.svg
   description: A sweet, dark liqueur flavored with blackberries, a staple in the Bramble cocktail.
 - name: Crème de Noyaux
   slug: crème_de_noyaux
-  url: null
+  url: /assets/images/ingredient-crème_de_noyaux.svg
   description: An apricot or peach kernel liqueur, characterized by a sweet, nutty, and slightly bitter almond flavor.
 - name: Crème de Violette
   slug: crème_de_violette
@@ -144,7 +144,7 @@
   description: An Italian artichoke-based amaro with a bittersweet, herbal, and slightly earthy flavor.
 - name: Dark Ale
   slug: dark_ale
-  url: null
+  url: /assets/images/ingredient-dark_ale.svg
   description: A darker style of ale (like a Brown Ale or Porter) often featuring notes of malt, caramel, chocolate, or nuts.
 - name: Dark Rum
   slug: dark_rum
@@ -160,7 +160,7 @@
   description: A sweet, golden Scotch whisky liqueur flavored with heather honey, herbs, and spices.
 - name: Dry Hard Cider
   slug: dry_hard_cider
-  url: null
+  url: /assets/images/ingredient-dry_hard_cider.svg
   description: Fermented apple juice that has little to no residual sugar, resulting in a crisp, dry, and often tannic beverage.
 - name: Dry Vermouth
   slug: dry_vermouth

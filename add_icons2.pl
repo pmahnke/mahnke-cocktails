@@ -133,6 +133,7 @@ $INCLUDE{'lemon_cherry'} = qq|/assets/images/twist_lemon_cherry.svg|;
 $INCLUDE{'cocktail-cherry'} = qq|/assets/images/twist_cocktail-cherry.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
+$INCLUDE{'dry_hard_cider'} = qq|/assets/images/ingredient-dry_hard_cider.svg|;
 $INCLUDE{'light-rum'} = qq|/assets/images/ingredient-light-rum.svg|;
 $INCLUDE{'dark-rum'} = qq|/assets/images/ingredient-dark-rum.svg|;
 $INCLUDE{'rye'} = qq|/assets/images/ingredient-rye.svg|;
@@ -212,6 +213,7 @@ $INCLUDE{'lillet-rouge'} = qq|/assets/images/ingredient-lillet-rouge.svg|;
 $INCLUDE{'lillet-blanc'} = qq|/assets/images/ingredient-lillet-blanc.svg|;
 $INCLUDE{'cachaca'} = qq|/assets/images/ingredient-cachaca.svg|;
 $INCLUDE{'amaro'} = qq|/assets/images/ingredient-amaro.svg|;
+$INCLUDE{'dark_ale'} = qq|/assets/images/ingredient-dark_ale.svg|;
 $INCLUDE{'porter'} = qq|/assets/images/ingredient-porter.svg|;
 $INCLUDE{'ipa'} = qq|/assets/images/ingredient-ipa.svg|;
 $INCLUDE{'drambuie'} = qq|/assets/images/ingredient-drambuie.svg|;
@@ -221,6 +223,7 @@ $INCLUDE{'dubonnet-rouge'} = qq|/assets/images/ingredient-dubonnet-rouge.svg|;
 $INCLUDE{'creme-de-cassis'} = qq|/assets/images/ingredient-creme-de-casis.svg|;
 $INCLUDE{'creme-de-mure'} = qq|/assets/images/ingredient-crème_de_mûre.svg|;
 $INCLUDE{'galliano'} = qq|/assets/images/ingredient-orange.svg|;
+$INCLUDE{'crème_de_noyaux'} = qq|/assets/images/ingredient-crème_de_noyaux.svg|;
 $INCLUDE{'pisco'} = qq|/assets/images/ingredient-pisco.svg|;
 $INCLUDE{'reposado-tequila'} = qq|/assets/images/ingredient-reposado-tequila.svg|;
 $INCLUDE{'navy-strength-rum'} = qq|/assets/images/ingredient-dark-rum.svg|;
@@ -376,6 +379,7 @@ foreach $file (sort @files) {
 
         # bottles
         if (/base_spirits:/) {
+	    $ingredient{'dry_hard_cider'} = 1 if (/hard cider/i);
             $ingredient{'light-rum'} = 1 if (/light rum/i);
             $ingredient{'dark-rum'} = 1 if (/dark rum/i || /Guatemalan Rum/i);
             $ingredient{'rye'} = 1 if (/rye/i);
@@ -462,6 +466,7 @@ foreach $file (sort @files) {
             $ingredient{'lillet-blanc'} = 1 if (/lillet blanc/i);
             $ingredient{'cachaca'} = 1 if (/cacha/i);
             $ingredient{'amaro'} = 1 if (/amaro/i);
+	    $ingredient{'dark_ale'} = 1 if (/dark (ale|beer)/i);
             $ingredient{'porter'} = 1 if (/porter/i);
             # missing $ingredient{'ipa'} = 1 if (/ipa/i);
             $ingredient{'drambuie'} = 1 if (/drambuie/i);
@@ -481,7 +486,8 @@ foreach $file (sort @files) {
             $ingredient{'peach'} = 1 if (/peach/i);
             $ingredient{'cherry'} = 1 if (/cherry liqueur/i);
             $ingredient{'creme-de-menthe'} = 1 if (/de menthe/i);
-            $ingredient{'blackberry'} = 1 if (/me de mûre/i); # creme de mure
+	    $ingredient{'crème_de_noyaux'} = 1 if (/noyaux/i);
+            #$ingredient{'blackberry'} = 1 if (/me de mûre/i); # creme de mure
             $ingredient{'red_wine'} = 1 if (/red wine/i); #
 	    $ingredient{'walnut_liqueur'} = 1 if (/walnut/i); #
 	    $ingredient{'white_wine'} = 1 if (/white wine/i); #

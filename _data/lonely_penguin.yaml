@@ -1,7 +1,5 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-blackberry.svg
-      title: Blackberry
     - url: /assets/images/ingredient-crème_de_mûre.svg
       title: Creme de mure
     - url: /assets/images/ingredient-rye.svg
