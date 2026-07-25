@@ -208,7 +208,7 @@
   description: An extremely complex and potent French liqueur made by Carthusian Monks, featuring a powerful, vegetal, and spicy profile.
 - name: IPA
   slug: ipa
-  url: null
+  url: /assets/images/ingredient-ipa.svg
   description: India Pale Ale, a hop-forward style of beer known for its pronounced bitterness, pine, citrus, and floral aromas.
 - name: Irish Whiskey
   slug: irish_whiskey
@@ -224,7 +224,7 @@
   description: A popular Mexican coffee liqueur based on rum, corn syrup, and arabica coffee.
 - name: Licor 43
   slug: licor_43
-  url: null
+  url: /assets/images/ingredient-licor_43.svg
   description: A sweet Spanish liqueur flavored with 43 natural ingredients, primarily vanilla, citrus, and herbs.
 - name: Light Rum
   slug: light_rum

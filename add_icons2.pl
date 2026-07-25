@@ -133,6 +133,7 @@ $INCLUDE{'lemon_cherry'} = qq|/assets/images/twist_lemon_cherry.svg|;
 $INCLUDE{'cocktail-cherry'} = qq|/assets/images/twist_cocktail-cherry.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
+$INCLUDE{'licor_43'} = qq|/assets/images/ingredient-licor_43.svg|;
 $INCLUDE{'grand_marnier'} = qq|/assets/images/ingredient-grand_marnier.svg|;
 $INCLUDE{'fernet_branca'} = qq|/assets/images/ingredient-fernet_branca.svg|;
 $INCLUDE{'dry_hard_cider'} = qq|/assets/images/ingredient-dry_hard_cider.svg|;
@@ -381,6 +382,7 @@ foreach $file (sort @files) {
 
         # bottles
         if (/base_spirits:/) {
+	    $ingredient{'licor_43'} = 1 if (/licor 43/i);
 	    $ingredient{'grand_marnier'} = 1 if (/grand_marnier/i);
 	    $ingredient{'fernet_branca'} = 1 if (/fernet branca/i);
 	    $ingredient{'dry_hard_cider'} = 1 if (/hard cider/i);
@@ -472,7 +474,7 @@ foreach $file (sort @files) {
             $ingredient{'amaro'} = 1 if (/amaro/i);
 	    $ingredient{'dark_ale'} = 1 if (/dark (ale|beer)/i);
             $ingredient{'porter'} = 1 if (/porter/i);
-            # missing $ingredient{'ipa'} = 1 if (/ipa/i);
+            $ingredient{'ipa'} = 1 if (/ipa/i);
             $ingredient{'drambuie'} = 1 if (/drambuie/i);
             $ingredient{'spice-rum'} = 1 if (/spice rum/i);
             $ingredient{'port'} = 1 if (/port/i);
