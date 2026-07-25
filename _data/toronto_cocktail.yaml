@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /assets/images/ingredient-fernet_branca.svg
+      title: Fernet branca
     - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:

@@ -176,7 +176,7 @@
   description: A pale, sweet liqueur capturing the delicate, floral, and slightly honeyed flavor of elderflower blossoms.
 - name: Fernet Branca
   slug: fernet_branca
-  url: null
+  url: /assets/images/ingredient-fernet_branca.svg
   description: A highly concentrated, intensely bitter Italian digestivo, known for its medicinal and minty herbal profile.
 - name: Fino Sherry
   slug: fino_sherry

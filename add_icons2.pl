@@ -133,6 +133,7 @@ $INCLUDE{'lemon_cherry'} = qq|/assets/images/twist_lemon_cherry.svg|;
 $INCLUDE{'cocktail-cherry'} = qq|/assets/images/twist_cocktail-cherry.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
+$INCLUDE{'fernet_branca'} = qq|/assets/images/ingredient-fernet_branca.svg|;
 $INCLUDE{'dry_hard_cider'} = qq|/assets/images/ingredient-dry_hard_cider.svg|;
 $INCLUDE{'light-rum'} = qq|/assets/images/ingredient-light-rum.svg|;
 $INCLUDE{'dark-rum'} = qq|/assets/images/ingredient-dark-rum.svg|;
@@ -379,6 +380,7 @@ foreach $file (sort @files) {
 
         # bottles
         if (/base_spirits:/) {
+	    $ingredient{'fernet_branca'} = 1 if (/fernet branca/i);
 	    $ingredient{'dry_hard_cider'} = 1 if (/hard cider/i);
             $ingredient{'light-rum'} = 1 if (/light rum/i);
             $ingredient{'dark-rum'} = 1 if (/dark rum/i || /Guatemalan Rum/i);
