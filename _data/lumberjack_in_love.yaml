@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /assets/images/ingredient-allspice-dram.svg
       title: Allspice dram
+    - url: /assets/images/ingredient-oktoberfest.svg
+      title: Oktoberfest
     - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:
