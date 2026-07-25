@@ -4,8 +4,6 @@ images:
       title: Apple brandy
     - url: /assets/images/ingredient-amaro.svg
       title: Averna
-    - url: /assets/images/ingredient-cognac.svg
-      title: Cognac
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

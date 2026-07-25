@@ -403,7 +403,8 @@ foreach $file (sort @files) {
 	    $ingredient{'banana_du_bresil'} = 1 if (/banana du/i);
 	    $ingredient{'banana'} = 1 if (/banana/i);
             $ingredient{'cognac'} = 1 if (/cognac/i);
-            $ingredient{'cognac'} = 1 if (/brandy/i && !$ingredient{'cognac'});
+	    $ingredient{'apple-brandy'} = 1 if (/apple brandy/i);
+            $ingredient{'cognac'} = 1 if (/brandy/i && !$ingredient{'cognac'} && !$ingredient{'apple-brandy'});
             $ingredient{'lemon-juice'} = 1 if (/lemon juice/i);
             $ingredient{'grenadine'} = 1 if (/grenadine/i);
             $ingredient{'sloe-gin'} = 1 if (/sloe gin/i);
@@ -450,7 +451,6 @@ foreach $file (sort @files) {
             $ingredient{'creme-de-cacao'} = 1 if (/de cacao/i);
             $ingredient{'cream'} = 1 if (/cream/i);
             $ingredient{'amaretto'} = 1 if (/amaretto/i);
-            $ingredient{'apple-brandy'} = 1 if (/apple brandy/i);
             $ingredient{'demerara-syrup'} = 1 if (/demerara syrup/i);
             $ingredient{'campari'} = 1 if (/campari/i);
             $ingredient{'apricot-liqueur'} = 1 if (/apricot liqueur/i);
