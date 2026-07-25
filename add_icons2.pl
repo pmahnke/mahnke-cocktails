@@ -133,6 +133,7 @@ $INCLUDE{'lemon_cherry'} = qq|/assets/images/twist_lemon_cherry.svg|;
 $INCLUDE{'cocktail-cherry'} = qq|/assets/images/twist_cocktail-cherry.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
+$INCLUDE{'grand_marnier'} = qq|/assets/images/ingredient-grand_marnier.svg|;
 $INCLUDE{'fernet_branca'} = qq|/assets/images/ingredient-fernet_branca.svg|;
 $INCLUDE{'dry_hard_cider'} = qq|/assets/images/ingredient-dry_hard_cider.svg|;
 $INCLUDE{'light-rum'} = qq|/assets/images/ingredient-light-rum.svg|;
@@ -223,7 +224,7 @@ $INCLUDE{'port'} = qq|/assets/images/ingredient-port.svg|;
 $INCLUDE{'dubonnet-rouge'} = qq|/assets/images/ingredient-dubonnet-rouge.svg|;
 $INCLUDE{'creme-de-cassis'} = qq|/assets/images/ingredient-creme-de-casis.svg|;
 $INCLUDE{'creme-de-mure'} = qq|/assets/images/ingredient-crème_de_mûre.svg|;
-$INCLUDE{'galliano'} = qq|/assets/images/ingredient-orange.svg|;
+$INCLUDE{'galliano'} = qq|/assets/images/ingredient-galliano.svg|;
 $INCLUDE{'crème_de_noyaux'} = qq|/assets/images/ingredient-crème_de_noyaux.svg|;
 $INCLUDE{'pisco'} = qq|/assets/images/ingredient-pisco.svg|;
 $INCLUDE{'reposado-tequila'} = qq|/assets/images/ingredient-reposado-tequila.svg|;
@@ -380,6 +381,7 @@ foreach $file (sort @files) {
 
         # bottles
         if (/base_spirits:/) {
+	    $ingredient{'grand_marnier'} = 1 if (/grand_marnier/i);
 	    $ingredient{'fernet_branca'} = 1 if (/fernet branca/i);
 	    $ingredient{'dry_hard_cider'} = 1 if (/hard cider/i);
             $ingredient{'light-rum'} = 1 if (/light rum/i);
@@ -478,7 +480,6 @@ foreach $file (sort @files) {
             $ingredient{'creme-de-cassis'} = 1 if (/de cassis/i);
 	    $ingredient{'creme-de-mure'} = 1 if (/de mûre/i);
             $ingredient{'galliano'} = 1 if (/galliano/i);
-            $ingredient{'galliano'} = 1 if (/grand marnier/i);
             $ingredient{'pisco'} = 1 if (/pisco/i);
             $ingredient{'lime-juice'} = 1 if (/lime juice/i);
             $ingredient{'coffee-liqueur'} = 1 if (/coffee liqueur/i);

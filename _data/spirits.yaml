@@ -184,7 +184,7 @@
   description: The driest and palest type of sherry, aged entirely under a layer of yeast called flor, giving it a light, nutty, and savory character.
 - name: Galliano
   slug: galliano
-  url: null
+  url: /assets/images/ingredient-galliano.svg
   description: A sweet herbal liqueur from Italy, known for its flavors of vanilla, anise, and subtle spice.
 - name: Genever
   slug: genever
@@ -200,7 +200,7 @@
   description: Rum that has gained color and complexity from aging in oak barrels (typically for a few years), offering a smoother profile than white rum.
 - name: Grand Marnier
   slug: grand_marnier
-  url: null
+  url: /assets/images/ingredient-grand_marnier.svg
   description: A classic French liqueur combining Cognac brandy with distilled essence of bitter orange.
 - name: Green Chartreuse
   slug: green_chartreuse
