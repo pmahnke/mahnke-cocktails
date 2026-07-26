@@ -2,7 +2,7 @@ images:
   ingredient:
     - url: /assets/images/ingredient-dark-rum.svg
       title: Demerara rum
-    - url: /assets/images/ingredient-jamacian-rum.svg
+    - url: /assets/images/ingredient-rhum_agricole.svg
       title: Rhum agricole
   glass:
     - url: /assets/images/glass_highball.svg

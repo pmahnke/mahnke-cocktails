@@ -1,7 +1,7 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-dark-rum.svg
-      title: Spice rum
+    - url: /assets/images/ingredient-spiced-rum.svg
+      title: Spiced rum
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double strained

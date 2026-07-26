@@ -2,7 +2,7 @@ images:
   ingredient:
     - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
-    - url: /assets/images/ingredient-jamacian-rum.svg
+    - url: /assets/images/ingredient-rhum_agricole.svg
       title: Rhum agricole
   tool:
     - url: /assets/images/tool_boston-shaker.svg
