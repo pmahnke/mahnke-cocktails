@@ -7,9 +7,9 @@ eras: [classic]
 permalink: "/recipe/daiquiri/"
 iconfile: daiquiri
 stars: 5
-base_spirits: ['Light Rum']
+base_spirits: ['White Rum']
 youtube: "VBSjE-P_C58"
-description: "The quintessential classic sour from Cuba, celebrated for its perfect balance of light rum, sugar, and tart lime."
+description: "The quintessential classic sour from Cuba, celebrated for its perfect balance of white rum, sugar, and tart lime."
 excerpt: |
   Its origins trace back to the late 19th century in Cuba, where it gained popularity among American miners working in the Santiago de Cuba region. The Daiquiri's enduring appeal lies in its balance of sweet, sour, and tart flavors.
 date: 2025-08-11
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                      | Brand                |
 | ------: | ----------------------------------------------- | -------------------- |
-|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                       | El Dorado 3 Year Old |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                       | El Dorado 3 Year Old |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lime Juice                                |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
@@ -43,7 +43,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "  2 oz Light Rum",
+  "  2 oz White Rum",
   " 0.75 oz Fresh Lime Juice",
   " 0.5 oz Simple Syrup"
     ],

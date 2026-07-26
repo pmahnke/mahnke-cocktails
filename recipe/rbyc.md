@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/royal_bermuda_yacht_club/"
 iconfile: rbyc
 stars: 4
-base_spirits: "Demerara Rum, Light Rum"
+base_spirits: "Demerara Rum, White Rum"
 youtube: "y3s1xmGfLkw"
 description: "A modern sour from the 1940s, this cocktail features a sophisticated blend of rum, falernum, and Cointreau."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 |  Amount | Ingredient       | Brand                 |
 | ------: | ---------------- | --------------------- |
 | 0.75 oz | Demerara Rum     | Hamilton 86           |
-| 0.75 oz | Light Rum        | The Real McCoy 3 Year |
+| 0.75 oz | White Rum        | The Real McCoy 3 Year |
 |  0.5 oz | Falernum         | John D. Taylor’s      |
 |  0.5 oz | Orange Curaçao   | Marie Brizard         |
 | 0.75 oz | Fresh Lime Juice |

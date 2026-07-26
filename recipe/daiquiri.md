@@ -7,9 +7,9 @@ eras: [classic]
 permalink: "/recipe/daiquiri/"
 iconfile: daiquiri
 stars: 5
-base_spirits: "Light Rum"
+base_spirits: "White Rum"
 youtube: "VBSjE-P_C58"
-description: "The quintessential classic sour from Cuba, celebrated for its perfect balance of light rum, sugar, and tart lime."
+description: "The quintessential classic sour from Cuba, celebrated for its perfect balance of white rum, sugar, and tart lime."
 excerpt: |
   Its origins trace back to the late 19th century in Cuba, where it gained popularity among American miners working in the Santiago de Cuba region. The Daiquiri's enduring appeal lies in its balance of sweet, sour, and tart flavors.
 date: 2025-08-11
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                      | Brand                |
 | ------: | ----------------------------------------------- | -------------------- |
-|    2 oz | Light Rum                                       | El Dorado 3 Year Old |
+|    2 oz | White Rum                                       | El Dorado 3 Year Old |
 | 0.75 oz | Fresh Lime Juice                                |
 |  0.5 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |
 

@@ -7,9 +7,9 @@ categories: [cocktail]
 permalink: "/recipe/greta_garbo_1/"
 iconfile: greta_garbo_1
 stars: 3
-base_spirits: ['Light Rum', 'Maraschino Liqueur']
+base_spirits: ['White Rum', 'Maraschino Liqueur']
 youtube: "79htbyQ8nDY"
-description: "A Prohibition-era cocktail named for the Hollywood star, featuring light rum and maraschino liqueur."
+description: "A Prohibition-era cocktail named for the Hollywood star, featuring White Rum and maraschino liqueur."
 excerpt: |
   The origins of this cocktail are unknown but it is named after the Swedish film actress and Hollywood star. Born Greta Lovisa Gustafsson on the 18th September 1905, Greta Garbo received three Academy Award nominations for Best Actress and an honorary one in 1954. She was ranked the fifth greatest female star of all time by the American Film Institute in 1999, behind Katharine Hepburn, Bette Davis, Audrey Hepburn, and Ingrid Bergman.
 
@@ -21,7 +21,7 @@ date: 2025-10-20
 
 |  Amount | Ingredient                                                | Brand                 |
 | ------: | --------------------------------------------------------- | --------------------- |
-|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                                 | The Real McCoy 3 Year |
+|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                                 | The Real McCoy 3 Year |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Maraschino Liqueur [&#9432;](/spirit/maraschino_liqueur "More Maraschino Liqueur recipes")                                        | Luxardo               |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh lime juice                                          |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
@@ -47,7 +47,7 @@ date: 2025-10-20
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1.5 oz Light Rum",
+  " 1.5 oz White Rum",
   " 0.25 oz Maraschino Liqueur",
   " 0.75 oz Fresh lime juice",
   " 0.5 oz Semi-Rich Simple Syrup",

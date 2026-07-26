@@ -7,9 +7,9 @@ eras: [prohibition]
 permalink: "/recipe/hotel_national/"
 iconfile: hotel_national
 stars: 4
-base_spirits: "Light Rum, Apricot Liqueur"
+base_spirits: "White Rum, Apricot Liqueur"
 youtube: "aK-xI2Th2YE"
-description: "A classic Cuban sour from the Prohibition era, featuring light rum, apricot liqueur, and pineapple juice."
+description: "A classic Cuban sour from the Prohibition era, featuring White Rum, apricot liqueur, and pineapple juice."
 excerpt: |
   The Hotel National / Nacional cocktail is a classic Cuban cocktail that has been enjoyed for decades. It is a refreshing and flavorful drink that is perfect for any occasion.
 date: 2025-08-11
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                                | Brand            |
 | ------: | --------------------------------------------------------- | ---------------- |
-|  1.5 oz | Light Rum                                                 | El Dorado 3 Year |
+|  1.5 oz | White Rum                                                 | El Dorado 3 Year |
 |  0.5 oz | Apricot Liqueur                                           | Rothman & Winter |
 |    1 oz | Pineapple Juice                                           |
 |  0.5 oz | Fresh Lime Juice                                          |

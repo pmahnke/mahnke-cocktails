@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/pina_colada/"
 iconfile: pina_colada
 stars: 4
-base_spirits: "Light Rum "
+base_spirits: "White Rum "
 youtube: "eH9yt9JpXXk&t=6s"
 description: "A classic sweet and refreshing tropical tiki cocktail made with rum, pineapple juice, and cream of coconut."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient                                                    | Brand                 |
 | ---------: | ------------------------------------------------------------- | --------------------- |
-|       2 oz | Light Rum                                                     | The Real McCoy 3 Year |
+|       2 oz | White Rum                                                     | The Real McCoy 3 Year |
 |       1 oz | [Cream of Coconut]({%link recipe/cream_of_coconut_syrup.md%}) |
 |       1 oz | Coconut Milk                                                  |
 |       6 oz | Fresh Pineapple Juice                                         |

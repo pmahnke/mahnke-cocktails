@@ -7,9 +7,9 @@ categories: [tiki]
 permalink: "/recipe/fog_cutter/"
 iconfile: fog_cutter
 stars: 4
-base_spirits: ['Light Rum', 'Pisco', 'Gin', 'Amontillado Sherry']
+base_spirits: ['White Rum', 'Pisco', 'Gin', 'Amontillado Sherry']
 youtube: "kMqIu6zPv9s"
-description: "A vintage tiki classic with a complex blend of spirits, including light rum, pisco, and gin, balanced with citrus and orgeat."
+description: "A vintage tiki classic with a complex blend of spirits, including White Rum, pisco, and gin, balanced with citrus and orgeat."
 excerpt: |
   The Fog Cutter is a vintage tiki cocktail frequently attributed to being invented by Victor Bergeron.  It's a complex blend of spirits, citrus juices, and orgeat syrup, creating a refreshing and invigorating drink.
 date: 2025-09-26
@@ -19,7 +19,7 @@ date: 2025-09-26
 
 |  Amount | Ingredient                                      | Brand                               |
 | ------: | ----------------------------------------------- | ----------------------------------- |
-|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                       | Real McCoy 3 Year                   |
+|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                       | Real McCoy 3 Year                   |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Pisco [&#9432;](/spirit/pisco "More Pisco recipes")                                           | Barsol                              |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Plymouth Gin [&#9432;](/spirit/plymouth_gin "More Plymouth Gin recipes")                                    | Plymouth Gin                        |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Dry Curaçao                                     | Pierre Ferrand                      |
@@ -49,7 +49,7 @@ date: 2025-09-26
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1.5 oz Light Rum",
+  " 1.5 oz White Rum",
   " 0.75 oz Pisco",
   " 0.5 oz Plymouth Gin",
   " 0.5 oz Dry Curaçao",

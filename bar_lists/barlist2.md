@@ -21,7 +21,7 @@ youtube: "v=7Z_mZ6wq1Rw"
 - GIN
   - My choice: Plymouth
   - London dry alternative: Broker's
-- LIGHT RUM
+- WHITE RUM
   - My choice: El Dorado 3 Year
   - Cheaper alternative: Don Q Gold
 - DARK RUM

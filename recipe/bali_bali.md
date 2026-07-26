@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/bali_bali/"
 iconfile: bali_bali
 stars: 4
-base_spirits: "Black Rum, Light Rum, Cognac, Gin "
+base_spirits: "Black Rum, White Rum, Cognac, Gin "
 youtube: 'lWDA\_\_gwSow'
 description: "A potent classic tiki cocktail that packs a punch with its complex blend of four different spirits."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 |  Amount | Ingredient                                                | Brand                             |
 | ------: | --------------------------------------------------------- | --------------------------------- |
 | 0.75 oz | Jamaican Rum                                              | Hamilton Jamaican Pot Still Black |
-| 0.75 oz | Light Rum                                                 | Real McCoy 3 Year                 |
+| 0.75 oz | White Rum                                                 | Real McCoy 3 Year                 |
 | 0.75 oz | Cognac                                                    | Maison Rouge VSOP                 |
 | 0.75 oz | Gin                                                       | Beefeater London Dry              |
 |  0.5 oz | Falernum                                                  | John D. Taylor Velvet             |

@@ -6,6 +6,8 @@ images:
       title: Jamaican rum
     - url: /assets/images/ingredient-rhum_agricole.svg
       title: Rhum agricole
+    - url: /assets/images/ingredient-white-rum.svg
+      title: White rum
   tool:
     - url: /assets/images/tool_grater.svg
       title: Grater

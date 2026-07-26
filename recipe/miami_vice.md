@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/miami_vice/"
 iconfile: miami_vice
 stars: 0
-base_spirits: "Light Rum"
+base_spirits: "White Rum"
 youtube: "0JUtwxuMCg0"
 description: "A fun, frozen modern mashup of two tropical classics: the Piña Colada and the Strawberry Daiquiri."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 | Amount | Ingredient                                                | Brand    |
 | -----: | --------------------------------------------------------- | -------- |
-| 1.5 oz | Light Rum                                                 | Probitas |
+| 1.5 oz | White Rum                                                 | Probitas |
 |   1 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |   1 oz | Fresh Lime Juice                                          |
 |  140 g | Frozen Strawberries                                       |
@@ -28,7 +28,7 @@ date: 2025-08-11
 
 | Amount | Ingredient                                                    | Brand    |
 | -----: | ------------------------------------------------------------- | -------- |
-| 1.5 oz | Light Rum                                                     | Probitas |
+| 1.5 oz | White Rum                                                     | Probitas |
 |  1 oz. | [Cream of Coconut]({%link recipe/cream_of_coconut_syrup.md%}) |
 |   1 oz | Fresh Pineapple Juice                                         |
 |  140 g | Frozen Pineapple                                              |

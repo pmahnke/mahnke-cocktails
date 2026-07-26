@@ -7,9 +7,9 @@ categories: [cocktail]
 permalink: "/recipe/lonely_valentine/"
 iconfile: lonely_valentine
 stars: 3.5
-base_spirits: ['Light Rum', 'Ruby Port', 'White Crème de Cacao']
+base_spirits: ['White Rum', 'Ruby Port', 'White Crème de Cacao']
 youtube: "UhRb_xqCXwQ"
-description: "An original cocktail with a bittersweet profile, combining light rum, ruby port, and white crème de cacao."
+description: "An original cocktail with a bittersweet profile, combining white rum, ruby port, and white crème de cacao."
 excerpt: |
   The Lonely Valentine is a cocktail that evokes a sense of bittersweet nostalgia. It's a complex blend of flavors that balances sweetness with bitterness, and warmth with tartness.
 
@@ -21,7 +21,7 @@ date: 2025-10-20
 
 |  Amount | Ingredient                                                | Brand             |
 | ------: | --------------------------------------------------------- | ----------------- |
-|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                                 | Real McCoy 3 Year |
+|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                                 | Real McCoy 3 Year |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Ruby Port [&#9432;](/spirit/ruby_port "More Ruby Port recipes")                                                 | Fonsecca Bin 27   |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| White Crème de Cacao [&#9432;](/spirit/white_crème_de_cacao "More White Crème de Cacao recipes")                                      | Marie Brizard     |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lemon Juice                                         |
@@ -47,7 +47,7 @@ date: 2025-10-20
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1.5 oz Light Rum",
+  " 1.5 oz White Rum",
   " 0.5 oz Ruby Port",
   " 0.5 oz White Crème de Cacao",
   " 0.75 oz Fresh Lemon Juice",

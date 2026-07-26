@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/blue_hawaii/"
 iconfile: blue_hawaii
 stars: 0
-base_spirits: ['Light Rum', 'Rhum Agricole']
+base_spirits: ['White Rum', 'Rhum Agricole']
 youtube: "6bGqiC9qyQ8"
 description: "A vibrant and tropical highball created in 1957 to showcase blue curaçao, blended with rum and pineapple."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                                | Brand               |
 | ------: | --------------------------------------------------------- | ------------------- |
-|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                                 | Kōloa Kaua'i        |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                                 | Kōloa Kaua'i        |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Rhum Agricole [&#9432;](/spirit/rhum_agricole "More Rhum Agricole recipes")                                             | Clément Canne Bleue |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Blue Curaçao                                              | Giffard             |
 |    <span class="onex active">3 oz  / 90 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span> <span class="twox">6 oz  / 180 ml</span> <span class="threex">9 oz  / 270 ml</span>| Fresh Pineapple Juice                                     |
@@ -48,7 +48,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "  1 oz Light Rum",
+  "  1 oz White Rum",
   " 0.5 oz Rhum Agricole",
   " 0.75 oz Blue Curaçao",
   "  3 oz Fresh Pineapple Juice",

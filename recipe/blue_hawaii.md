@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/blue_hawaii/"
 iconfile: blue_hawaii
 stars: 0
-base_spirits: "Light Rum, Rhum Agricole"
+base_spirits: "White Rum, Rhum Agricole"
 youtube: "6bGqiC9qyQ8"
 description: "A vibrant and tropical highball created in 1957 to showcase blue curaçao, blended with rum and pineapple."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                                | Brand               |
 | ------: | --------------------------------------------------------- | ------------------- |
-|    1 oz | Light Rum                                                 | Kōloa Kaua'i        |
+|    1 oz | White Rum                                                 | Kōloa Kaua'i        |
 |  0.5 oz | Rhum Agricole                                             | Clément Canne Bleue |
 | 0.75 oz | Blue Curaçao                                              | Giffard             |
 |    3 oz | Fresh Pineapple Juice                                     |

@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |    Amount | Ingredient     | Brand                 |
 | --------: | -------------- | --------------------- |
-|   0.75 oz | Overproof Rum  | Hamilton 151 Demerara |
+|   0.75 oz | Overproof Jamaican Rum  | Hamilton 151 Demerara |
 |      1 oz | Coffee Liqueur | St. George NOLA       |
 |    0.5 oz | Orange Curaçao | Marie Brizard         |
 | 2 to 3 oz | Hot Coffee     |                       |

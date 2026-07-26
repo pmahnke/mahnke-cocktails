@@ -2,12 +2,12 @@ images:
   ingredient:
     - url: /assets/images/ingredient-gin.svg
       title: Gin
-    - url: /assets/images/ingredient-light-rum.svg
-      title: Light rum
     - url: /assets/images/ingredient-tequila.svg
       title: Tequila
     - url: /assets/images/ingredient-vodka.svg
       title: Vodka
+    - url: /assets/images/ingredient-white-rum.svg
+      title: White rum
   tool:
     - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker

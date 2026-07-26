@@ -2,12 +2,12 @@ images:
   ingredient:
     - url: /assets/images/ingredient-gin.svg
       title: Gin
-    - url: /assets/images/ingredient-light-rum.svg
-      title: Light rum
     - url: /assets/images/ingredient-pisco.svg
       title: Pisco
     - url: /assets/images/ingredient-sherry.svg
       title: Sherry
+    - url: /assets/images/ingredient-white-rum.svg
+      title: White rum
   tool:
     - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker

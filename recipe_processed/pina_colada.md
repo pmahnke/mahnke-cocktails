@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/pina_colada/"
 iconfile: pina_colada
 stars: 4
-base_spirits: ['Light Rum']
+base_spirits: ['White Rum']
 youtube: "eH9yt9JpXXk&t=6s"
 description: "A classic sweet and refreshing tropical tiki cocktail made with rum, pineapple juice, and cream of coconut."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient                                                    | Brand                 |
 | ---------: | ------------------------------------------------------------- | --------------------- |
-|       <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                                     | The Real McCoy 3 Year |
+|       <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                                     | The Real McCoy 3 Year |
 |       <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| [Cream of Coconut]({%link recipe_processed/cream_of_coconut_syrup.md%}) |
 |       <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Coconut Milk                                                  |
 |       <span class="onex active">6 oz  / 180 ml</span> <span class="onehalfx">9 oz  / 270 ml</span> <span class="twox">12 oz  / 360 ml</span> <span class="threex">18 oz  / 540 ml</span>| Fresh Pineapple Juice                                         |
@@ -45,7 +45,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "    2 oz Light Rum",
+  "    2 oz White Rum",
   "    1 oz Cream of Coconut",
   "    1 oz Coconut Milk",
   "    6 oz Fresh Pineapple Juice",

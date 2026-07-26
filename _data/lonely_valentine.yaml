@@ -2,10 +2,10 @@ images:
   ingredient:
     - url: /assets/images/ingredient-creme-de-cacao.svg
       title: Creme de cacao
-    - url: /assets/images/ingredient-light-rum.svg
-      title: Light rum
     - url: /assets/images/ingredient-port.svg
       title: Port
+    - url: /assets/images/ingredient-white-rum.svg
+      title: White rum
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double strained

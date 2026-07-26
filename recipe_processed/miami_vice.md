@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/miami_vice/"
 iconfile: miami_vice
 stars: 0
-base_spirits: ['Light Rum']
+base_spirits: ['White Rum']
 youtube: "0JUtwxuMCg0"
 description: "A fun, frozen modern mashup of two tropical classics: the Piña Colada and the Strawberry Daiquiri."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 | Amount | Ingredient                                                | Brand    |
 | -----: | --------------------------------------------------------- | -------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                                 | Probitas |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                                 | Probitas |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lime Juice                                          |
 |  <span class="onex active">140 g </span> <span class="onehalfx">210 g </span> <span class="twox">280 g </span> <span class="threex">420 g </span>| Frozen Strawberries                                       |
@@ -28,7 +28,7 @@ date: 2025-08-11
 
 | Amount | Ingredient                                                    | Brand    |
 | -----: | ------------------------------------------------------------- | -------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                                     | Probitas |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                                     | Probitas |
 |  <span class="onex active">1 oz.  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz.  / 45 ml</span> <span class="twox">2 oz.  / 60 ml</span> <span class="threex">3 oz.  / 90 ml</span>| [Cream of Coconut]({%link recipe_processed/cream_of_coconut_syrup.md%}) |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Pineapple Juice                                         |
 |  <span class="onex active">140 g </span> <span class="onehalfx">210 g </span> <span class="twox">280 g </span> <span class="threex">420 g </span>| Frozen Pineapple                                              |
@@ -57,11 +57,11 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1.5 oz Light Rum",
+  " 1.5 oz White Rum",
   "  1 oz Semi-Rich Simple Syrup",
   "  1 oz Fresh Lime Juice",
   " 140 g Frozen Strawberries",
-  " 1.5 oz Light Rum",
+  " 1.5 oz White Rum",
   " 1 oz. Cream of Coconut",
   "  1 oz Fresh Pineapple Juice",
   " 140 g Frozen Pineapple"

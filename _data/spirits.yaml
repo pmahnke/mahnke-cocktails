@@ -60,7 +60,7 @@
   description: A complex French herbal liqueur created by Benedictine monks, known for its sweet, honeyed profile and notes of citrus and holiday spice.
 - name: Black Rum
   slug: black_rum
-  url: /assets/images/ingredient-dark-rum.svg
+  url: /assets/images/ingredient-black-rum.svg
   description: A rum that is heavily aged or colored with molasses and caramel to achieve a dark, full-bodied, and often smoky or licorice-like flavor.
 - name: Black Sambuca
   slug: black_sambuca
@@ -152,7 +152,7 @@
   description: Rum that is heavily aged or colored with molasses and caramel to achieve a dark, full-bodied, and often smoky or licorice-like flavor.
 - name: Demerara Rum
   slug: demerara_rum
-  url: /assets/images/ingredient-dark-rum.svg
+  url: /assets/images/ingredient-demerara-rum.svg
   description: A rich, dark rum produced in Guyana, known for its deep color and molasses-forward, smoky, and brown-sugar characteristics.
 - name: Drambuie
   slug: drambuie
@@ -196,7 +196,7 @@
   description: Gin is a distilled alcoholic drink flavoured with juniper berries and other botanical ingredients. Gin originated as a medicinal liquor made by monks and alchemists across Europe.
 - name: Gold Rum
   slug: gold_rum
-  url: /assets/images/ingredient-light-rum.svg
+  url: /assets/images/ingredient-gold-rum.svg
   description: Rum that has gained color and complexity from aging in oak barrels (typically for a few years), offering a smoother profile than white rum.
 - name: Grand Marnier
   slug: grand_marnier
@@ -226,10 +226,6 @@
   slug: licor_43
   url: /assets/images/ingredient-licor_43.svg
   description: A sweet Spanish liqueur flavored with 43 natural ingredients, primarily vanilla, citrus, and herbs.
-- name: Light Rum
-  slug: light_rum
-  url: /assets/images/ingredient-light-rum.svg
-  description: Clear, unaged rum, often column-distilled for a lighter body and subtle sweetness, making it a highly versatile cocktail base.
 - name: Lillet Blanc
   slug: lillet_blanc
   url: /assets/images/ingredient-lillet-blanc.svg
@@ -264,11 +260,11 @@
   description: A term for gin bottled at a higher proof (typically 57% ABV) that historically ensured gunpowder would still ignite if soaked with the spirit.
 - name: Navy Strength Rum
   slug: navy_strength_rum
-  url: /assets/images/ingredient-light-rum.svg
+  url: /assets/images/ingredient-navy-strength-rum.svg
   description: Rum bottled at a very high proof (typically 57% ABV or more) for historical reasons, resulting in a more potent, concentrated flavor.
 - name: Nicaraguan Rum
   slug: nicaraguan_rum
-  url: /assets/images/ingredient-light-rum.svg
+  url: /assets/images/ingredient-nicaraguan-rum.svg
   description: Rum specifically from Nicaragua, often characterized by a smooth, light, and slightly sweet profile.
 - name: Oktoberfest
   slug: oktoberfest
@@ -284,11 +280,11 @@
   description: A dark, nutty sherry aged entirely oxidatively, resulting in deep mahogany color and notes of walnut and dried fruit.
 - name: Overproof Jamaican Rum
   slug: overproof_jamaican_rum
-  url: /assets/images/ingredient-jamacian-rum.svg
+  url: /assets/images/ingredient-overproof-jamaican-rum.svg
   description: Jamaican rum bottled at a very high proof, often known for its pungent, funky, and aromatic 'hogo' notes.
 - name: Overproof Rum
   slug: overproof_rum
-  url: /assets/images/ingredient-light-rum.svg
+  url: /assets/images/ingredient-overproof_rum.svg
   description: Rum bottled at a very high alcohol content (usually 57% ABV or higher), used sparingly for maximum flavor impact.
 - name: Peach Liqueur
   slug: peach_liqueur
@@ -352,7 +348,7 @@
   description: A young, sweet, and simple style of Portuguese fortified wine, noted for its bright red color and berry flavors.
 - name: Rum
   slug: rum
-  url: /assets/images/ingredient-light-rum.svg
+  url: /assets/images/ingredient-white-rum.svg
   description: A broad category of spirits distilled from sugarcane byproducts like molasses or sugarcane juice.
 - name: Rye
   slug: rye
@@ -416,7 +412,7 @@
   description: The clear version of crème de cacao, offering the same rich chocolate aroma without affecting the drink's color.
 - name: White Rum
   slug: white_rum
-  url: /assets/images/ingredient-light-rum.svg
+  url: /assets/images/ingredient-white-rum.svg
   description: Clear, unaged rum, often column-distilled for a lighter body and subtle sweetness, making it a highly versatile cocktail base.
 - name: Blanc Vermouth
   slug: blanc_vermouth

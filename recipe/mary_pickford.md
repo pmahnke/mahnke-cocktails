@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/mary_pickford/"
 iconfile: mary_pickford
 stars: 4
-base_spirits: "Light Rum, Maraschino Liqueur"
+base_spirits: "White Rum, Maraschino Liqueur"
 youtube: "TGJZv0FTjk8"
 description: "A classic Prohibition-era cocktail named for the silent film star, featuring a tropical blend of white rum, pineapple juice, and grenadine."
 excerpt: |
@@ -23,7 +23,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient                                      | Brand             |
 | ---------: | ----------------------------------------------- | ----------------- |
-|     1.5 oz | Light Rum                                       | Real McCoy 3 Year |
+|     1.5 oz | White Rum                                       | Real McCoy 3 Year |
 |     1.5 oz | Fresh Pineapple Juice                           |
 |    0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 1 barspoon | Maraschino Liqueur                              | Luxardo           |
@@ -45,7 +45,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient                                      | Brand         |
 | ---------: | ----------------------------------------------- | ------------- |
-|     1.5 oz | Light Rum                                       | Probitas      |
+|     1.5 oz | White Rum                                       | Probitas      |
 |     1.5 oz | Fresh Pineapple Juice                           |
 |    0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 |    0.25 oz | Fresh Lime Juice                                |

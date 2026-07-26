@@ -2,7 +2,7 @@ images:
   ingredient:
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
-    - url: /assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-demerara-rum.svg
       title: Demerara rum
   glass:
     - url: /assets/images/glass_rocks.svg

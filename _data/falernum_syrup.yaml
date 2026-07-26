@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /assets/images/ingredient-gin.svg
       title: Gin
+    - url: /assets/images/ingredient-overproof_rum.svg
+      title: Overproof rum
   tool:
     - url: /assets/images/tool_grater.svg
       title: Grater

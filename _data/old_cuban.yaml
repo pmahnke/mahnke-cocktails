@@ -2,7 +2,7 @@ images:
   ingredient:
     - url: /assets/images/ingredient-champagne.svg
       title: Champagne
-    - url: /assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-gold-rum.svg
       title: Gold rum
   tool:
     - url: /assets/images/tool_double_strain.svg

@@ -1,7 +1,7 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-light-rum.svg
-      title: Light rum
+    - url: /assets/images/ingredient-white-rum.svg
+      title: White rum
   glass:
     - url: /assets/images/glass_hurricane.svg
       title: Hurricane

@@ -7,9 +7,9 @@ categories: [cocktail]
 permalink: "/recipe/greta_garbo_1/"
 iconfile: greta_garbo_1
 stars: 0
-base_spirits: "Light Rum, Maraschino Liqueur"
+base_spirits: "White Rum, Maraschino Liqueur"
 youtube: "79htbyQ8nDY"
-description: "A Prohibition-era cocktail named for the Hollywood star, featuring light rum and maraschino liqueur."
+description: "A Prohibition-era cocktail named for the Hollywood star, featuring White Rum and maraschino liqueur."
 excerpt: |
   The origins of this cocktail are unknown but it is named after the Swedish film actress and Hollywood star. Born Greta Lovisa Gustafsson on the 18th September 1905, Greta Garbo received three Academy Award nominations for Best Actress and an honorary one in 1954. She was ranked the fifth greatest female star of all time by the American Film Institute in 1999, behind Katharine Hepburn, Bette Davis, Audrey Hepburn, and Ingrid Bergman.
 
@@ -21,7 +21,7 @@ date: 2025-10-20
 
 |  Amount | Ingredient                                                | Brand                 |
 | ------: | --------------------------------------------------------- | --------------------- |
-|  1.5 oz | Light Rum                                                 | The Real McCoy 3 Year |
+|  1.5 oz | White Rum                                                 | The Real McCoy 3 Year |
 | 0.25 oz | Maraschino Liqueur                                        | Luxardo               |
 | 0.75 oz | Fresh lime juice                                          |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |

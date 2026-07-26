@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/long_island_iced_tea/"
 iconfile: long_island_iced_tea
 stars: 4
-base_spirits: "Vodka, Light Rum, Gin, Blanco Tequila"
+base_spirits: "Vodka, White Rum, Gin, Blanco Tequila"
 youtube: "jLTLBQqWzq8"
 description: "A famously potent modern cocktail that combines four different spirits (vodka, rum, gin, tequila) with triple sec, lemon, and a splash of cola."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 | Amount | Ingredient                                               | Brand                            |
 | -----: | -------------------------------------------------------- | -------------------------------- |
 |   1 oz | Vodka                                                    | Union Horse Distilling Co. Rider |
-|   1 oz | Light Rum                                                | El Dorado 3 Year                 |
+|   1 oz | White Rum                                                | El Dorado 3 Year                 |
 |   1 oz | Gin                                                      | Plymouth Gin                     |
 |   1 oz | Blanco Tequila                                           | Siete Leguas Blanco              |
 |   1 oz | Triple Sec                                               | Luxardo Triplum                  |

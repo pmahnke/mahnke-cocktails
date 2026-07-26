@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/mojito/"
 iconfile: mojito
 stars: 4
-base_spirits: "Light Rum "
+base_spirits: "White Rum "
 youtube: "KMypSCazyRw"
 description: "A classic and refreshing Cuban highball, celebrated for its vibrant mix of white rum, fresh mint, lime, sugar, and soda water."
 excerpt: |
@@ -23,7 +23,7 @@ date: 2025-08-11
 
 |          Amount | Ingredient                                               | Brand                 |
 | --------------: | -------------------------------------------------------- | --------------------- |
-|            2 oz | Light Rum                                                | The Real McCoy 3 Year |
+|            2 oz | White Rum                                                | The Real McCoy 3 Year |
 |         0.75 oz | Fresh Lime Juice                                         |
 |          0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 10 to 12 leaves | Mint                                                     |

@@ -8,7 +8,7 @@ eras: [prohibition]
 permalink: "/recipe/12_mile_limit/"
 iconfile: 12_mile_limit
 stars: 3.75
-base_spirits: ['Light Rum', 'Rye', 'Cognac']
+base_spirits: ['White Rum', 'Rye', 'Cognac']
 youtube: "6M6Xu_URmPg"
 description: "A Prohibition-era sour whose name references the extension of US jurisdiction offshore, strengthening a classic rum cocktail with rye and cognac."
 excerpt: |
@@ -23,7 +23,7 @@ date: 2025-08-11
 
 | Amount | Ingredient                                      | Brand                 |
 | -----: | ----------------------------------------------- | --------------------- |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Light Rum [&#9432;](/spirit/light_rum "More Light Rum recipes")                                       | El Dorado 3 Year      |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                       | El Dorado 3 Year      |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Rye [&#9432;](/spirit/rye "More Rye recipes")                                             | Rittenhouse 100 Proof |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")                                          | Maison Rouge V.S.O.P. |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lemon Juice                               |
@@ -49,7 +49,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "  1 oz Light Rum",
+  "  1 oz White Rum",
   " 0.5 oz Rye",
   " 0.5 oz Cognac",
   " 0.5 oz Fresh Lemon Juice",

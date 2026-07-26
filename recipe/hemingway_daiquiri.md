@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/hemingway_daiquiri/"
 iconfile: hemingway_daiquiri
 stars: 0
-base_spirits: "Light Rum, Maraschino Liqueur"
+base_spirits: "White Rum, Maraschino Liqueur"
 youtube: "mILAxazthY4"
 description: "A classic Daiquiri variation created for Ernest Hemingway, featuring maraschino liqueur and grapefruit juice with no added sugar."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                                | Brand                 |
 | ------: | --------------------------------------------------------- | --------------------- |
-|  1.5 oz | Light Rum                                                 | The Real Mccoy 3 Year |
+|  1.5 oz | White Rum                                                 | The Real Mccoy 3 Year |
 | 0.75 oz | Fresh Lime Juice                                          |
 |  0.5 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 0.25 oz | Fresh Grapefruit Juice                                    |

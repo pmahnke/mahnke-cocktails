@@ -2,8 +2,8 @@ images:
   ingredient:
     - url: /assets/images/ingredient-coffee-liqueur.svg
       title: Coffee liqueur
-    - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
+    - url: /assets/images/ingredient-overproof-jamaican-rum.svg
+      title: Overproof jamaican rum
   tool:
     - url: /assets/images/tool_grater.svg
       title: Grater

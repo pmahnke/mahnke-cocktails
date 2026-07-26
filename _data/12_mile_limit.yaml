@@ -2,10 +2,10 @@ images:
   ingredient:
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
-    - url: /assets/images/ingredient-light-rum.svg
-      title: Light rum
     - url: /assets/images/ingredient-rye.svg
       title: Rye
+    - url: /assets/images/ingredient-white-rum.svg
+      title: White rum
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double strained

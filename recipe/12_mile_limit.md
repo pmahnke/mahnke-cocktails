@@ -8,7 +8,7 @@ eras: [prohibition]
 permalink: "/recipe/12_mile_limit/"
 iconfile: 12_mile_limit
 stars: 4
-base_spirits: "Light Rum, Rye, Cognac"
+base_spirits: "White Rum, Rye, Cognac"
 youtube: "6M6Xu_URmPg"
 description: "A Prohibition-era sour whose name references the extension of US jurisdiction offshore, strengthening a classic rum cocktail with rye and cognac."
 excerpt: |
@@ -23,7 +23,7 @@ date: 2025-08-11
 
 | Amount | Ingredient                                      | Brand                 |
 | -----: | ----------------------------------------------- | --------------------- |
-|   1 oz | Light Rum                                       | El Dorado 3 Year      |
+|   1 oz | White Rum                                       | El Dorado 3 Year      |
 | 0.5 oz | Rye                                             | Rittenhouse 100 Proof |
 | 0.5 oz | Cognac                                          | Maison Rouge V.S.O.P. |
 | 0.5 oz | Fresh Lemon Juice                               |

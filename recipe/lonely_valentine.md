@@ -7,9 +7,9 @@ categories: [cocktail]
 permalink: "/recipe/lonely_valentine/"
 iconfile: lonely_valentine
 stars: 0
-base_spirits: "Light Rum, Ruby Port, White Crème de Cacao "
+base_spirits: "White Rum, Ruby Port, White Crème de Cacao "
 youtube: "UhRb_xqCXwQ"
-description: "An original cocktail with a bittersweet profile, combining light rum, ruby port, and white crème de cacao."
+description: "An original cocktail with a bittersweet profile, combining white rum, ruby port, and white crème de cacao."
 excerpt: |
   The Lonely Valentine is a cocktail that evokes a sense of bittersweet nostalgia. It's a complex blend of flavors that balances sweetness with bitterness, and warmth with tartness.
 
@@ -21,7 +21,7 @@ date: 2025-10-20
 
 |  Amount | Ingredient                                                | Brand             |
 | ------: | --------------------------------------------------------- | ----------------- |
-|  1.5 oz | Light Rum                                                 | Real McCoy 3 Year |
+|  1.5 oz | White Rum                                                 | Real McCoy 3 Year |
 |  0.5 oz | Ruby Port                                                 | Fonsecca Bin 27   |
 |  0.5 oz | White Crème de Cacao                                      | Marie Brizard     |
 | 0.75 oz | Fresh Lemon Juice                                         |

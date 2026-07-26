@@ -147,14 +147,18 @@ $INCLUDE{'grand_marnier'} = qq|/assets/images/ingredient-grand_marnier.svg|;
 $INCLUDE{'fernet_branca'} = qq|/assets/images/ingredient-fernet_branca.svg|;
 $INCLUDE{'dry_hard_cider'} = qq|/assets/images/ingredient-dry_hard_cider.svg|;
 #   rums
-$INCLUDE{'light-rum'} = qq|/assets/images/ingredient-light-rum.svg|;
+$INCLUDE{'white-rum'} = qq|/assets/images/ingredient-white-rum.svg|;
 $INCLUDE{'spiced-rum'} = qq|/assets/images/ingredient-spiced-rum.svg|;
+$INCLUDE{'black-rum'} = qq|/assets/images/ingredient-black-rum.svg|;
 $INCLUDE{'dark-rum'} = qq|/assets/images/ingredient-dark-rum.svg|;
 $INCLUDE{'rhum_agricole'} = qq|/assets/images/ingredient-rhum_agricole.svg|; 
 $INCLUDE{'jamaican-rum'} = qq|/assets/images/ingredient-jamacian-rum.svg|;
-$INCLUDE{'gold-rum'} = qq|/assets/images/ingredient-dark-rum.svg|;
-$INCLUDE{'demerara-rum'} = qq|/assets/images/ingredient-dark-rum.svg|;
-$INCLUDE{'navy-strength-rum'} = qq|/assets/images/ingredient-dark-rum.svg|;
+$INCLUDE{'gold-rum'} = qq|/assets/images/ingredient-gold-rum.svg|;
+$INCLUDE{'demerara-rum'} = qq|/assets/images/ingredient-demerara-rum.svg|;
+$INCLUDE{'nicaraguan-rum'} = qq|/assets/images//ingredient-nicaraguan-rum.svg|;
+$INCLUDE{'navy-strength-rum'} = qq|/assets/images/ingredient-navy-strength-rum.svg|;
+$INCLUDE{'overproof-rum'} = qq|/assets/images/ingredient-overproof_rum.svg|;
+$INCLUDE{'overproof-jamaican-rum'} = qq|/assets/images/ingredient-overproof-jamaican-rum.svg|;
 
 $INCLUDE{'rye'} = qq|/assets/images/ingredient-rye.svg|;
 $INCLUDE{'black_sambuca'} = qq|/assets/images/ingredient-black_sambuca.svg|;
@@ -407,13 +411,20 @@ foreach $file (sort @files) {
 	    $ingredient{'fernet_branca'} = 1 if (/fernet branca/i);
 	    $ingredient{'dry_hard_cider'} = 1 if (/hard cider/i);
 
-            $ingredient{'light-rum'} = 1 if (/light rum/i);
+            $ingredient{'white-rum'} = 1 if (/white rum/i);
+	    $ingredient{'black-rum'} = 1 if (/black rum/i);
             $ingredient{'dark-rum'} = 1 if (/dark rum/i || /Guatemalan Rum/i);
             $ingredient{'gold-rum'} = 1 if (/gold rum/i);
 	    $ingredient{'spiced-rum'} = 1 if (/spiced rum/i);
-            $ingredient{'jamaican-rum'} = 1 if (/jamaican rum/i);
+	    $ingredient{'overproof-jamaican-rum'} = 1 if (/overproof jamaican rum/i);
+            $ingredient{'jamaican-rum'} = 1 if (/jamaican rum/i && !$ingredient{'overproof-jamaican-rum'});
 	    $ingredient{'rhum_agricole'} = 1 if (/rhum agricole/i);
+            $ingredient{'demerara-rum'} = 1 if (/demerara rum/i);
+            $ingredient{'nicaraguan-rum'} = 1 if (/nicaraguan rum/i);
+	    $ingredient{'navy-strength-rum'} = 1 if (/navy strength rum/i);
+	    $ingredient{'overproof-rum'} = 1 if (/overproof rum/i);
 
+	    
             $ingredient{'rye'} = 1 if (/rye/i);
 	    $ingredient{'black_sambuca'} = 1 if (/black sambuca/i);
 	    $ingredient{'banana_du_bresil'} = 1 if (/banana du/i);
@@ -480,7 +491,6 @@ foreach $file (sort @files) {
             $ingredient{'maraschino-liqueur'} = 1 if (/maraschino liqueur/i);
             $ingredient{'falernum'} = 1 if (/falernum/i);
             $ingredient{'passion-fruit-syrup'} = 1 if (/passion fruit syrup/i);
-            $ingredient{'demerara-rum'} = 1 if (/demerara rum/i);
             $ingredient{'benedictine'} = 1 if (/dictine/i);
             $ingredient{'cold-brew'} = 1 if (/cold brew/i);
             $ingredient{'orgeat-syrup'} = 1 if (/orgeat syrup/i);

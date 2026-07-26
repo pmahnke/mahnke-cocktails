@@ -19,7 +19,7 @@ date: 2026-03-01
 
 |     Amount | Ingredient                                      | Brand                            |
 | ---------: | ----------------------------------------------- | -------------------------------- |
-|     1.5 oz | Light Rum                                       | Probitas                         |
+|     1.5 oz | White Rum                                       | Probitas                         |
 |    0.75 oz | Blanc Vermouth                                  | Dolin Blanc Vermouth de Chambéry |
 |    0.25 oz | Dry Curaçao                                     | Pierre Ferrand                   |
 | 1 barspoon | [Grenadine]({%link recipe/grenadine_syrup.md%}) |

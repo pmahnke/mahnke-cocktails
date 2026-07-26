@@ -1,9 +1,11 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-dark-rum.svg
+    - url: /assets/images/ingredient-demerara-rum.svg
       title: Demerara rum
     - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
+    - url: /assets/images/ingredient-white-rum.svg
+      title: White rum
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double strained
