@@ -374,9 +374,9 @@
   slug: sloe_gin
   url: /assets/images/ingredient-sloe-gin.svg
   description: A British liqueur made by steeping sloe berries in gin, resulting in a sweet, deep red, fruit-flavored spirit.
-- name: Spice Rum
-  slug: spice_rum
-  url: /assets/images/ingredient-dark-rum.svg
+- name: Spiced Rum
+  slug: spiced_rum
+  url: /assets/images/ingredient-spiced-rum.svg
   description: Rum that has been flavored with various spices, such as cinnamon, nutmeg, cloves, and vanilla, often resulting in a sweet, warming spirit.
 - name: Stout
   slug: stout
@@ -396,7 +396,7 @@
   description: Also known as Red Vermouth, a fortified wine flavored with aromatic herbs and spices, typically red and sweet, used to balance cocktails.
 - name: Tawny Port
   slug: tawny_port
-  url: /assets/images/ingredient-port.svg
+  url: /assets/images/ingredient-tawny_port.svg
   description: A port wine aged in wooden barrels, which allows it to oxidize, mellow, and develop nutty, caramel, and dried fruit characteristics.
 - name: Triple Sec
   slug: triple_sec
@@ -428,5 +428,5 @@
   description: Wine made from white grapes, often resulting in fruity, acidic, or dry flavor profiles.
 - name: Yellow Chartreuse
   slug: yellow_chartreuse
-  url: /assets/images/ingredient-chartreuse.svg
+  url: /assets/images/ingredient-yellow-chartreuse.svg
   description: A lighter, sweeter, and milder version of the famous Green Chartreuse, with a primary flavor of honey and saffron.

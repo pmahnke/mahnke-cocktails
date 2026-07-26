@@ -2,10 +2,10 @@ images:
   ingredient:
     - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican rum
-    - url: /assets/images/ingredient-port.svg
-      title: Port
     - url: /assets/images/ingredient-rye.svg
       title: Rye
+    - url: /assets/images/ingredient-tawny_port.svg
+      title: Tawny port
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

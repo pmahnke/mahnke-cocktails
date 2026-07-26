@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/cable_car/"
 iconfile: cable_car
 stars: 4
-base_spirits: ['Spice Rum']
+base_spirits: ['Spiced Rum']
 youtube: "iUGkl-AVgbI"
 description: "A modern classic from 1996, this is a twist on the classic Sidecar featuring spiced rum."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                      | Brand          |
 | ------: | ----------------------------------------------- | -------------- |
-|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Spice Rum [&#9432;](/spirit/spice_rum "More Spice Rum recipes")                                       | Koloa Kaua'i   |
+|  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Spiced Rum [&#9432;](/spirit/spice_rum "More Spiced Rum recipes")                                       | Koloa Kaua'i   |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Dry Curaçao                                     | Pierre Ferrand |
 |    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lemon Juice                               |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
@@ -45,7 +45,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1.5 oz Spice Rum",
+  " 1.5 oz Spiced Rum",
   " 0.75 oz Dry Curaçao",
   "  1 oz Fresh Lemon Juice",
   " 0.5 oz Simple Syrup"

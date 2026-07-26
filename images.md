@@ -35,91 +35,12 @@ title: index of images
 </ul>
 <h3>Ingredients</h3>
 <ul>
-    <li><img src="../assets/images/ingredient-absinthe.svg" width="100"><br>absinthe</li>
-    <li><img src="../assets/images/ingredient-allspice-dram.svg" width="100"><br>allspice-dram</li>
-    <li><img src="../assets/images/ingredient-amaretto.svg" width="100"><br>amaretto</li>
-    <li><img src="../assets/images/ingredient-amaro.svg" width="100"><br>amaro</li>
-    <li><img src="../assets/images/ingredient-aperol.svg" width="100"><br>aperol</li>
-    <li><img src="../assets/images/ingredient-apple-brandy.svg" width="100"><br>apple-brandy</li>
-    <li><img src="../assets/images/ingredient-apricot-liqueur.svg" width="100"><br>apricot-liqueur</li>
-    <li><img src="../assets/images/ingredient-banana.svg" width="100"><br>banana</li>
-    <li><img src="../assets/images/ingredient-benedictine.svg" width="100"><br>benedictine</li>
-    <li><img src="../assets/images/ingredient-bitters.svg" width="100"><br>bitters</li>
-    <li><img src="../assets/images/ingredient-blackberry.svg" width="100"><br>blackberry</li>
-    <li><img src="../assets/images/ingredient-blue-curacao.svg" width="100"><br>blue-curacao</li>
-    <li><img src="../assets/images/ingredient-bourbon.svg" width="100"><br>bourbon</li>
-    <li><img src="../assets/images/ingredient-brandy.svg" width="100"><br>brandy</li>
-    <li><img src="../assets/images/ingredient-creme-de-cacao.svg" width="100"><br>cacao</li>
-    <li><img src="../assets/images/ingredient-cachaca.svg" width="100"><br>cachaca</li>
-    <li><img src="../assets/images/ingredient-calvados.svg" width="100"><br>calvados</li>
-    <li><img src="../assets/images/ingredient-campari.svg" width="100"><br>campari</li>
-    <li><img src="../assets/images/ingredient-champagne.svg" width="100"><br>champagne</li>
-    <li><img src="../assets/images/ingredient-chartreuse.svg" width="100"><br>chartreuse</li>
-    <li><img src="../assets/images/ingredient-cherry.svg" width="100"><br>cherry</li>
-    <li><img src="../assets/images/ingredient-cocchi-americano.svg" width="100"><br>cocchi-americano</li>
-    <li><img src="../assets/images/ingredient-coffee-liqueur.svg" width="100"><br>coffee-liqueur</li>
-    <li><img src="../assets/images/ingredient-cognac.svg" width="100"><br>cognac</li>
-    <li><img src="../assets/images/ingredient-cream-of-cocunut.svg" width="100"><br>cream-of-cocunut</li>
-    <li><img src="../assets/images/ingredient-cream.svg" width="100"><br>cream</li>
-    <li><img src="../assets/images/ingredient-creme_de_cacao.svg" width="100"><br>creme_de_cacao</li>
-    <li><img src="../assets/images/ingredient-creme-de-casis.svg" width="100"><br>creme-de-casis</li>
-    <li><img src="../assets/images/ingredient-creme-de-menthe.svg" width="100"><br>creme-de-menthe</li>
-    <li><img src="../assets/images/ingredient-creme_de_menthe.svg" width="100"><br>creme_de_menthe</li>
-    <li><img src="../assets/images/ingredient-creme-de-violette.svg" width="100"><br>creme-de-violette</li>
-    <li><img src="../assets/images/ingredient-curacao.svg" width="100"><br>curacao</li>
-    <li><img src="../assets/images/ingredient-dark-rum.svg" width="100"><br>dark-rum</li>
-    <li><img src="../assets/images/ingredient-drambuie.svg" width="100"><br>drambuie</li>
-    <li><img src="../assets/images/ingredient-dry-vermouth.svg" width="100"><br>dry-vermouth</li>
-    <li><img src="../assets/images/ingredient-dubonnet-rouge.png" width="100"><br>dubonnet-rouge</li>
-    <li><img src="../assets/images/ingredient-egg-white.svg" width="100"><br>egg-white</li>
-    <li><img src="../assets/images/ingredient-elderflower-liqueur.svg" width="100"><br>elderflower-liqueur</li>
-    <li><img src="../assets/images/ingredient-falernum.svg" width="100"><br>falernum</li>
-    <li><img src="../assets/images/ingredient-genever.svg" width="100"><br>genever</li>
-    <li><img src="../assets/images/ingredient-ginger-beer.svg" width="100"><br>ginger-beer</li>
-    <li><img src="../assets/images/ingredient-ginger-soda.svg" width="100"><br>ginger-soda</li>
-    <li><img src="../assets/images/ingredient-ginger-syrup.svg" width="100"><br>ginger-syrup</li> 
-    <li><img src="../assets/images/ingredient-gin.svg" width="100"><br>gin</li>
-    <li><img src="../assets/images/ingredient-grenadine.svg" width="100"><br>grenadine</li>
-    <li><img src="../assets/images/ingredient-irish-whiskey.svg" width="100"><br>irish-whiskey</li>
-    <li><img src="../assets/images/ingredient-jamacian-rum.svg" width="100"><br>jamacian-rum</li>
-    <li><img src="../assets/images/ingredient-lemon-juice.svg" width="100"><br>lemon-juice</li>
-    <li><img src="../assets/images/ingredient-light-rum.svg" width="100"><br>light-rum</li>
-    <li><img src="../assets/images/ingredient-lillet-blanc.svg" width="100"><br>lillet-blanc</li>
-    <li><img src="../assets/images/ingredient-lillet-rouge.svg" width="100"><br>lillet-rouge</li>
-    <li><img src="../assets/images/ingredient-lime-juice.svg" width="100"><br>lime-juice</li>
-    <li><img src="../assets/images/ingredient-maple-syrup.svg" width="100"><br>maple-syrup</li>
-    <li><img src="../assets/images/ingredient-maraschino-liqueur.svg" width="100"><br>maraschino-liqueur</li>
-    <li><img src="../assets/images/ingredient-mezcal.svg" width="100"><br>mezcal</li>
-    <li><img src="../assets/images/ingredient-milk.svg" width="100"><br>milk</li>
-    <li><img src="../assets/images/ingredient-orange-bitters.svg" width="100"><br>orange-bitters</li>
-    <li><img src="../assets/images/ingredient-orange-juice.svg" width="100"><br>orange-juice</li>
-    <li><img src="../assets/images/ingredient-orange.svg" width="100"><br>orange</li>
-    <li><img src="../assets/images/ingredient-orgeat-syrup.svg" width="100"><br>orgeat-syrup</li>
-    <li><img src="../assets/images/ingredient-passion-fruit-syrup.svg" width="100"><br>passion-fruit-syrup</li>
-    <li><img src="../assets/images/ingredient-peach.svg" width="100"><br>peach</li>
-    <li><img src="../assets/images/ingredient-pineapple-juice.svg" width="100"><br>pineapple-juice</li>
-    <li><img src="../assets/images/ingredient-pisco.svg" width="100"><br>pisco</li>
-    <li><img src="../assets/images/ingredient-port.svg" width="100"><br>port</li>
-    <li><img src="../assets/images/ingredient-prosecco.svg" width="100"><br>prosecco</li>
-    <li><img src="../assets/images/ingredient-red-wine.svg" width="100"><br>red-wine</li>
-    <li><img src="../assets/images/ingredient-reposado-tequila.svg" width="100"><br>reposado-tequila</li>
-    <li><img src="../assets/images/ingredient-rye.svg" width="100"><br>rye</li>
-    <li><img src="../assets/images/ingredient-scotch.svg" width="100"><br>scotch</li>
-    <li><img src="../assets/images/ingredient-sherry.svg" width="100"><br>sherry</li>
-    <li><img src="../assets/images/ingredient-simple-syrup.svg" width="100"><br>simple-syrup</li>
-    <li><img src="../assets/images/ingredient-single-malt-scotch.svg" width="100"><br>single-malt-scotch</li>
-    <li><img src="../assets/images/ingredient-soda-water.svg" width="100"><br>soda-water</li>
-    <li><img src="../assets/images/ingredient-sugar.svg" width="100"><br>sugar</li>
-    <li><img src="../assets/images/ingredient-sweet-vermouth.svg" width="100"><br>sweet-vermouth</li>
-    <li><img src="../assets/images/ingredient-tequila.svg" width="100"><br>tequila</li>
-    <li><img src="../assets/images/ingredient-tonic-water.svg" width="100"><br>tonic-water</li>
-    <li><img src="../assets/images/ingredient-triple-sec.svg" width="100"><br>triple-sec</li>
-    <li><img src="../assets/images/ingredient-vermouth.svg" width="100"><br>vermouth</li>
-    <li><img src="../assets/images/ingredient-vodka.svg" width="100"><br>vodka</li>
-    <li><img src="../assets/images/ingredient-water.svg" width="100"><br>water</li>
-    <li><img src="../assets/images/ingredient-whiskey.svg" width="100"><br>whiskey</li>
-    <li><img src="../assets/images/ingredient-white-wine.svg" width="100"><br>white-wine</li>
+  {%- assign base = site.data.spirits | sort: "name" -%}
+  {%- for spirit in base -%}
+  <li><img src="{{ spirit.url }}" width="200"><br>{{ spirit.name }}</li>
+  {%- endfor -%}
 </ul>
+
 <h3>Fruit</h3>
 <ul>
 <li><img src="../assets/images/fruit_blackberries.svg" width="100"><br>blackberries</li>

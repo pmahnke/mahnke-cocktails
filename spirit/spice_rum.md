@@ -1,7 +1,7 @@
 ---
 layout: spirits
-title: Spice Rum Cocktails
-spirit_name: spice_rum
-image: /assets/images/ingredient-dark-rum.svg
-permalink: /spirit/spice_rum/
+title: Spiced Rum Cocktails
+spirit_name: spiced_rum
+image: /assets/images/ingredient-spiced-rum.svg
+permalink: /spirit/spiced_rum/
 ---
