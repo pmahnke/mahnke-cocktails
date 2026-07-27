@@ -1,9 +1,11 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-amaro.svg
+    - url: /assets/images/ingredient-amaro_averna.svg
       title: Averna
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
+    - url: /assets/images/ingredient-stout.svg
+      title: Stout
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double strained

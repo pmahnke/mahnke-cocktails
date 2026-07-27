@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /assets/images/ingredient-beer.svg
+      title: Beer
     - url: /assets/images/ingredient-gin.svg
       title: Gin
     - url: /assets/images/ingredient-ginger-beer.svg
