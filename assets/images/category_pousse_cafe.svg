@@ -1,1 +1,77 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="400"><path fill="none" stroke="#000" stroke-width="3" d="M80 50q20-10 40 0l10 200q0 20-20 40H90q-20-20-20-40Z"/><path fill="#4A2C2A" stroke="#000" d="M75 230h50v20H75z"/><path fill="#DAA520" stroke="#000" d="M75 210h50v20H75z"/><path fill="#8B0000" stroke="#000" d="M75 190h50v20H75z"/><path fill="#2E8B57" stroke="#000" d="M75 170h50v20H75z"/><path fill="#87CEFA" stroke="#000" d="M75 150h50v20H75z"/><path fill="gold" stroke="#000" d="M75 130h50v20H75z"/><path stroke="#000" stroke-width="3" d="M100 290v40"/><ellipse cx="100" cy="340" fill="none" stroke="#000" stroke-width="3" rx="30" ry="10"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="307.9758"
+   width="63"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="category_pousse_cafe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     fit-margin-top="15"
+     fit-margin-left="15"
+     fit-margin-right="15"
+     fit-margin-bottom="15" />
+  <path
+     d="m 11.5,6.4758049 q 20,-10 40,0 L 61.5,206.4758 q 0,20 -20,40 h -20 q -20,-20 -20,-40 z"
+     fill="none"
+     stroke="#000000"
+     stroke-width="3"
+     id="path1" />
+  <path
+     d="m 6.5,186.4758 h 50 v 20 h -50 z"
+     fill="#4a2c2a"
+     stroke="#000000"
+     id="path2" />
+  <path
+     d="m 6.5,166.4758 h 50 v 20 h -50 z"
+     fill="#daa520"
+     stroke="#000000"
+     id="path3" />
+  <path
+     d="m 6.5,146.4758 h 50 v 20 h -50 z"
+     fill="#8b0000"
+     stroke="#000000"
+     id="path4" />
+  <path
+     d="m 6.5,126.4758 h 50 v 20 h -50 z"
+     fill="#2e8b57"
+     stroke="#000000"
+     id="path5" />
+  <path
+     d="m 6.5,106.4758 h 50 v 20 h -50 z"
+     fill="#87cefa"
+     stroke="#000000"
+     id="path6" />
+  <path
+     d="m 6.5,86.475805 h 50 V 106.4758 h -50 z"
+     fill="#ffd700"
+     stroke="#000000"
+     id="path7" />
+  <path
+     d="m 31.5,246.4758 v 40"
+     stroke="#000000"
+     stroke-width="3"
+     id="path8" />
+  <ellipse
+     cx="31.5"
+     cy="296.4758"
+     fill="none"
+     rx="30"
+     ry="10"
+     stroke="#000000"
+     stroke-width="3"
+     id="ellipse8" />
+</svg>

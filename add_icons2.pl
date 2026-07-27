@@ -133,6 +133,7 @@ $INCLUDE{'lemon_cherry'} = qq|/assets/images/twist_lemon_cherry.svg|;
 $INCLUDE{'cocktail-cherry'} = qq|/assets/images/twist_cocktail-cherry.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
+$INCLUDE{'cynar'} = qq|/assets/images/ingredient-cynar.svg|;
 $INCLUDE{'shochu'} = qq|/assets/images/ingredient-shochu.svg|;
 $INCLUDE{'italicus'} = qq|/assets/images/ingredient-rosolio.svg|;
 $INCLUDE{'porter'} = qq|/assets/images/ingredient-porter.svg|;
@@ -403,6 +404,7 @@ foreach $file (sort @files) {
 
         # bottles
         if (/base_spirits:/) {
+	    $ingredient{'cynar'} = 1 if (/cynar/i);
 	    $ingredient{'shochu'} = 1 if (/shochu/i);
 	    $ingredient{'italicus'} = 1 if (/italicus/i);
 	    $ingredient{'pimms'} = 1 if (/pimm/i);

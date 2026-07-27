@@ -16,11 +16,11 @@
   description: An Italian liqueur with a distinct sweet almond flavor, though it is usually made from apricot pits or other stone fruits.
 - name: Averna
   slug: averna
-  url: /assets/images/ingredient-amaro.svg
+  url: /assets/images/ingredient-amaro_averna.svg
   description: A popular Sicilian amaro with a rich, bittersweet flavor profile featuring notes of caramel, citrus, and herbs.
 - name: Amaro Nonino
   slug: amaro_nonino
-  url: /assets/images/ingredient-amaro.svg
+  url: /assets/images/ingredient-amaro_nonion.svg
   description: A delicate and slightly sweet amaro made from grappa and a blend of herbs, often featuring notes of orange peel and vanilla.
 - name: Amontillado Sherry
   slug: amontillado_sherry
@@ -140,7 +140,7 @@
   description: An orange-flavored liqueur derived from the dried peel of the Laraha citrus fruit, essential for balancing classic drinks.
 - name: Cynar
   slug: cynar
-  url: /assets/images/ingredient-amaro.svg
+  url: /assets/images/ingredient-cynar.svg
   description: An Italian artichoke-based amaro with a bittersweet, herbal, and slightly earthy flavor.
 - name: Dark Ale
   slug: dark_ale
@@ -220,7 +220,7 @@
   description: Rum known for its distinctive 'funk' or 'hogo'—a pungent, fruity, and aromatic flavor derived from high ester content.
 - name: Kahlúa
   slug: kahlúa
-  url: /assets/images/ingredient-coffee-liqueur.svg
+  url: /assets/images/ingredient-kahlua.svg
   description: A popular Mexican coffee liqueur based on rum, corn syrup, and arabica coffee.
 - name: Licor 43
   slug: licor_43
@@ -324,7 +324,7 @@
   description: A dark, bittersweet Italian vermouth, considered a "quinquina" (quinine-infused), offering a more intense and complex profile.
 - name: Ramazzotti
   slug: ramazzotti
-  url: /assets/images/ingredient-amaro.svg
+  url: /assets/images/ingredient-amaro_ramazzotti.svg
   description: A popular Italian amaro with a balanced bittersweet flavor profile featuring notes of orange, star anise, and cardamom.
 - name: Red Wine
   slug: red_wine

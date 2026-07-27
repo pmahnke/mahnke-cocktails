@@ -1,4 +1,7 @@
 images:
+  ingredient:
+    - url: /assets/images/ingredient-cynar.svg
+      title: Cynar
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

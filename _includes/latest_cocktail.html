@@ -21,7 +21,7 @@
     {% if tool_icons.size > 0 %}
         {% assign first_tool = tool_icons.first %}
         <p class="icons">
-            <img src="{{ first_tool.url | relative_url }}" alt="{{ first_tool.title }}" title="{{ first_tool.title }}" width="150">
+            <img src="{{ first_tool.url | relative_url }}" alt="{{ first_tool.title }}" title="{{ first_tool.title }}">
         </p>
     {%- endif -%}
     {%- endif -%}

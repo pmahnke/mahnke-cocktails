@@ -9,7 +9,7 @@ iconfile: hotel_national
 stars: 4
 base_spirits: "White Rum, Apricot Liqueur"
 youtube: "aK-xI2Th2YE"
-description: "A classic Cuban sour from the Prohibition era, featuring White Rum, apricot liqueur, and pineapple juice."
+description: "A classic Cuban sour from the Prohibition era, featuring white rum, apricot liqueur, and pineapple juice."
 excerpt: |
   The Hotel National / Nacional cocktail is a classic Cuban cocktail that has been enjoyed for decades. It is a refreshing and flavorful drink that is perfect for any occasion.
 date: 2025-08-11

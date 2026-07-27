@@ -24,7 +24,7 @@ date: 2025-12-10
 |  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lemon Juice                                        |
 |   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters                                                  | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes")  |
-|  <span class="onex active">1 float </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> float </span> <span class="twox">2 float </span> <span class="threex">3 float </span>| Single Malt Scotch                                       | Laphroaig 10yr              |
+|  <span class="onex active">1 float </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> float </span> <span class="twox">2 float </span> <span class="threex">3 float </span>| Single Malt Scotch [&#9432;](/spirit/single_malt_scotch "More Single Malt Scotch recipes")                                       | Laphroaig 10yr              |
 
 ### Notes
 

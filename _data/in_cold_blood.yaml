@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /assets/images/ingredient-cynar.svg
+      title: Cynar
     - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:

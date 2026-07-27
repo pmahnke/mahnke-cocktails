@@ -2,6 +2,8 @@ images:
   ingredient:
     - url: /assets/images/ingredient-apricot-liqueur.svg
       title: Apricot liqueur
+    - url: /assets/images/ingredient-cynar.svg
+      title: Cynar
     - url: /assets/images/ingredient-malört.svg
       title: Malört
     - url: /assets/images/ingredient-rye.svg

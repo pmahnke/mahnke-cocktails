@@ -147,6 +147,12 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     font-size: .75em;
 }
 
+/* icons */
+.icon-ingredient {
+    max-width: 50px;
+    height: auto;
+}
+
 /* measurement scaling */
 .onex, .onehalfx, .twox, .threex {
     display: none; /* Hide all spans by default */
@@ -240,4 +246,5 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     }
     
 }
+
 
