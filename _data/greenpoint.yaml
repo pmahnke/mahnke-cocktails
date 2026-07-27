@@ -3,9 +3,9 @@ images:
     - url: /assets/images/ingredient-rye.svg
       title: Rye
     - url: /assets/images/ingredient-sweet-vermouth.svg
-      title: Sweet vermouth
+      title: Sweet Vermouth
     - url: /assets/images/ingredient-yellow-chartreuse.svg
-      title: Yellow chartreuse
+      title: Yellow Chartreuse
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
@@ -14,4 +14,4 @@ images:
       title: Coupe
   garnish:
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist

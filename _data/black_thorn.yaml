@@ -3,9 +3,9 @@ images:
     - url: /assets/images/ingredient-absinthe.svg
       title: Absinthe
     - url: /assets/images/ingredient-vermouth.svg
-      title: Blanc vermouth
+      title: Blanc Vermouth
     - url: /assets/images/ingredient-irish-whiskey.svg
-      title: Irish whiskey
+      title: Irish Whiskey
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
@@ -14,4 +14,4 @@ images:
       title: Martini
   garnish:
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist

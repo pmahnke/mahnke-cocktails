@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
+      title: Jamaican Rum
     - url: /assets/images/ingredient-swedish-punsch.svg
       title: Punsch
     - url: /assets/images/ingredient-rye.svg
@@ -14,7 +14,7 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist
   ice:
     - url: /assets/images/ice_large.svg
       title: Large

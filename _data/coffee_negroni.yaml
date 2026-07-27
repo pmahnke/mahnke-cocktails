@@ -3,7 +3,7 @@ images:
     - url: /assets/images/ingredient-campari.svg
       title: Campari
     - url: /assets/images/ingredient-coffee-liqueur.svg
-      title: Coffee liqueur
+      title: Coffee Liqueur
     - url: /assets/images/ingredient-gin.svg
       title: Gin
   tool:
@@ -16,7 +16,7 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist
   ice:
     - url: /assets/images/ice_large.svg
       title: Large

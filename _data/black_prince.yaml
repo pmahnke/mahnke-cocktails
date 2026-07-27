@@ -1,11 +1,11 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-amaro_averna.svg
-      title: Averna
+      title: Amaro Averna
     - url: /assets/images/ingredient-dark-rum.svg
-      title: Dark rum
+      title: Dark Rum
     - url: /assets/images/ingredient-punt_e_mes.svg
-      title: Punt e mes
+      title: Punt E Mes
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

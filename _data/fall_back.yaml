@@ -3,7 +3,7 @@ images:
     - url: /assets/images/ingredient-amaro.svg
       title: Amaro
     - url: /assets/images/ingredient-apple-brandy.svg
-      title: Apple brandy
+      title: Apple Brandy
     - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:
@@ -11,7 +11,7 @@ images:
       title: Stirred
   glass:
     - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+      title: Nick and Nora
   garnish:
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist

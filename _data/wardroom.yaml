@@ -3,9 +3,9 @@ images:
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
     - url: /assets/images//ingredient-nicaraguan-rum.svg
-      title: Nicaraguan rum
+      title: Nicaraguan Rum
     - url: /assets/images/ingredient-tawny_port.svg
-      title: Tawny port
+      title: Tawny Port
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
@@ -14,4 +14,4 @@ images:
       title: Coupe
   garnish:
     - url: /assets/images/twist_cocktail-cherry.svg
-      title: Cocktail cherry
+      title: Cocktail Cherry

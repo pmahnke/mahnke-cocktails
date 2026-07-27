@@ -1,13 +1,13 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-crème_de_mûre.svg
-      title: Creme de mure
+      title: Creme de Mure
     - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
+      title: Jamaican Rum
     - url: /assets/images/ingredient-rhum_agricole.svg
-      title: Rhum agricole
+      title: Rhum Agricole
     - url: /assets/images/ingredient-white-rum.svg
-      title: White rum
+      title: White Rum
   tool:
     - url: /assets/images/tool_grater.svg
       title: Grater
@@ -20,7 +20,7 @@ images:
     - url: /assets/images/fruit_blackberries.svg
       title: Blackberries
     - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+      title: Pineapple Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

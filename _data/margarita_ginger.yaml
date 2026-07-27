@@ -1,10 +1,10 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-reposado-tequila.svg
-      title: Reposado tequila
+      title: Reposado Tequila
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_margarita.svg
       title: Margarita
@@ -12,7 +12,7 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/slice_lime.svg
-      title: Lime slice
+      title: Lime Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

@@ -4,16 +4,16 @@ images:
       title: Absinthe
   tool:
     - url: /assets/images/tool_boston-shaker.svg
-      title: Boston shaker
+      title: Boston Shaker
     - url: /assets/images/tool_hawthorn-strainer.svg
-      title: Hawthorn strainer
+      title: Hawthorn Strainer
     - url: /assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+      title: Long Stirrer
   garnish:
     - url: /assets/images/spice_anise.svg
       title: Anise
     - url: /assets/images/fruit_lemon.svg
-      title: Lemon slice
+      title: Lemon Slice
     - url: /assets/images/herb_mint.svg
       title: Mint
   ice:

@@ -5,18 +5,18 @@ images:
     - url: /assets/images/ingredient-gin.svg
       title: Gin
     - url: /assets/images/ingredient-ginger-beer.svg
-      title: Ginger beer
+      title: Ginger Beer
     - url: /assets/images/ingredient-simple-syrup.svg
-      title: Simple syrup
+      title: Simple Syrup
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_highball.svg
       title: Highball
   garnish:
     - url: /assets/images/fruit_lemon.svg
-      title: Lemon slice
+      title: Lemon Slice
     - url: /assets/images/herb_thyme.svg
       title: Thyme
   ice:

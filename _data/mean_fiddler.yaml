@@ -5,17 +5,17 @@ images:
     - url: /assets/images/ingredient-chartreuse.svg
       title: Chartreuse
     - url: /assets/images/ingredient-irish-whiskey.svg
-      title: Irish whiskey
+      title: Irish Whiskey
     - url: /assets/images/ingredient-single-malt-scotch.svg
-      title: Single malt scotch
+      title: Single Malt Scotch
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
     - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+      title: Nick and Nora
   garnish:
     - url: /assets/images/spice_cinnamon.svg
       title: Cinnamon
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist

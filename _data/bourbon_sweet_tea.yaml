@@ -5,10 +5,10 @@ images:
     - url: /assets/images/ingredient-bourbon.svg
       title: Bourbon
     - url: /assets/images/ingredient-peach_liqueur.svg
-      title: Peach liqueur
+      title: Peach Liqueur
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   garnish:
     - url: /assets/images/herb_mint.svg
       title: Mint

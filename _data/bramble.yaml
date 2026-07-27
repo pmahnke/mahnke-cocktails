@@ -1,12 +1,12 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-crème_de_mûre.svg
-      title: Creme de mure
+      title: Creme de Mure
     - url: /assets/images/ingredient-gin.svg
       title: Gin
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_rocks.svg
       title: Rocks
@@ -14,7 +14,7 @@ images:
     - url: /assets/images/fruit_blackberries.svg
       title: Blackberries
     - url: /assets/images/fruit_lemon.svg
-      title: Lemon slice
+      title: Lemon Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

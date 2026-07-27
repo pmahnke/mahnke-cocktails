@@ -3,7 +3,7 @@ images:
     - url: /assets/images/ingredient-aperol.svg
       title: Aperol
     - url: /assets/images/ingredient-cocchi-americano.svg
-      title: Cocchi americano
+      title: Cocchi Americano
     - url: /assets/images/ingredient-prosecco.svg
       title: Prosecco
     - url: /assets/images/ingredient-vodka.svg
@@ -16,7 +16,7 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/fruit_lemon.svg
-      title: Lemon slice
+      title: Lemon Slice
   ice:
     - url: /assets/images/ice_large.svg
       title: Large

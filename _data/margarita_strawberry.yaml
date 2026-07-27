@@ -1,10 +1,10 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-reposado-tequila.svg
-      title: Reposado tequila
+      title: Reposado Tequila
   glass:
     - url: /assets/images/glass_double-old-fashioned.svg
-      title: Double old fashioned
+      title: Double Old Fashioned
     - url: /assets/images/glass_margarita.svg
       title: Margarita
   garnish:

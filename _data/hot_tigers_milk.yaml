@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-demerara-rum.svg
-      title: Demerara rum
+      title: Demerara Rum
   tool:
     - url: /assets/images/tool_grater.svg
       title: Grater
@@ -14,4 +14,4 @@ images:
     - url: /assets/images/spice_cinnamon.svg
       title: Cinnamon
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist

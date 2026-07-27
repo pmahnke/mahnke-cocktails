@@ -7,12 +7,12 @@ images:
       title: Stirred
   glass:
     - url: /assets/images/glass_old-fashioned.svg
-      title: Old fashioned
+      title: Old Fashioned
     - url: /assets/images/glass_rocks.svg
       title: Rocks
   garnish:
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist
     - url: /assets/images/ingredient-sugar.svg
       title: Sugar
   ice:

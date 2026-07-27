@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-apple-brandy.svg
-      title: Apple brandy
+      title: Apple Brandy
     - url: /assets/images/ingredient-swedish-punsch.svg
       title: Punsch
   tool:
@@ -12,7 +12,7 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist
     - url: /assets/images/ingredient-sugar.svg
       title: Sugar
   ice:

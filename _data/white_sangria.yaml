@@ -1,11 +1,11 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-apricot-liqueur.svg
-      title: Apricot liqueur
+      title: Apricot Liqueur
     - url: /assets/images/ingredient-sherry.svg
       title: Sherry
     - url: /assets/images/ingredient-white-wine.svg
-      title: White wine
+      title: White Wine
   garnish:
     - url: /assets/images/fruit_strawberry.svg
       title: Strawberry

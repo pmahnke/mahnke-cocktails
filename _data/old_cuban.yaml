@@ -3,10 +3,10 @@ images:
     - url: /assets/images/ingredient-champagne.svg
       title: Champagne
     - url: /assets/images/ingredient-gold-rum.svg
-      title: Gold rum
+      title: Gold Rum
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_coupe.svg
       title: Coupe

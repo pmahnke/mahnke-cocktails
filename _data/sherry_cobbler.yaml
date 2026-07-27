@@ -4,7 +4,7 @@ images:
       title: Sherry
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_goblet.svg
       title: Goblet
@@ -12,7 +12,7 @@ images:
     - url: /assets/images/herb_mint.svg
       title: Mint
     - url: /assets/images/fruit-orange.svg
-      title: Orange slice
+      title: Orange Slice
     - url: /assets/images/fruit_raspberries.svg
       title: Raspberries
     - url: /assets/images/ingredient-sugar.svg

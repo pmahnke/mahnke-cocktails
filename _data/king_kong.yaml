@@ -5,18 +5,18 @@ images:
     - url: /assets/images/ingredient-bourbon.svg
       title: Bourbon
     - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
+      title: Jamaican Rum
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
     - url: /assets/images/glass_old-fashioned.svg
-      title: Old fashioned
+      title: Old Fashioned
     - url: /assets/images/glass_rocks.svg
       title: Rocks
   garnish:
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist
   ice:
     - url: /assets/images/ice_large.svg
       title: Large

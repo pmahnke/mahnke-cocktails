@@ -1,12 +1,12 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-crème_de_mûre.svg
-      title: Creme de mure
+      title: Creme de Mure
     - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:
     - url: /assets/images/tool_boston-shaker.svg
-      title: Boston shaker
+      title: Boston Shaker
   glass:
     - url: /assets/images/glass_snifter.svg
       title: Snifter
@@ -14,9 +14,9 @@ images:
     - url: /assets/images/fruit_blackberries.svg
       title: Blackberries
     - url: /assets/images/fruit-orange.svg
-      title: Orange slice
+      title: Orange Slice
     - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+      title: Pineapple Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

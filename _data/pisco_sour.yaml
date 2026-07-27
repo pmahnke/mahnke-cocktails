@@ -1,10 +1,10 @@
 images:
   cocktail:
     - url: /assets/images/cocktail_pisco_sour.svg
-      title: Pisco sour
+      title: Pisco Sour
   ingredient:
     - url: /assets/images/ingredient-pisco.svg
       title: Pisco
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained

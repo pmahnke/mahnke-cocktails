@@ -1,14 +1,14 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-dubonnet-rouge.svg
-      title: Dubonnet rouge
+      title: Dubonnet Rouge
     - url: /assets/images/ingredient-lillet_rouge.svg
-      title: Lillet rouge
+      title: Lillet Rouge
     - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
     - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
@@ -16,6 +16,6 @@ images:
       title: Coupe
   garnish:
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist

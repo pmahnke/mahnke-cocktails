@@ -1,14 +1,14 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-demerara-rum.svg
-      title: Demerara rum
+      title: Demerara Rum
     - url: /assets/images/ingredient-gold-rum.svg
-      title: Gold rum
+      title: Gold Rum
     - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
+      title: Jamaican Rum
   tool:
     - url: /assets/images/tool_boston-shaker.svg
-      title: Boston shaker
+      title: Boston Shaker
   glass:
     - url: /assets/images/glass_tiki.svg
       title: Tiki

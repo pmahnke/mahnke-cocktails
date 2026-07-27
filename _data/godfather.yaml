@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-single-malt-scotch.svg
-      title: Single malt scotch
+      title: Single Malt Scotch
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
@@ -10,9 +10,9 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/twist_cocktail-cherry.svg
-      title: Cocktail cherry
+      title: Cocktail Cherry
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist
   ice:
     - url: /assets/images/ice_large.svg
       title: Large

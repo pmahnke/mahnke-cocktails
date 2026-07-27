@@ -1,7 +1,7 @@
 images:
   cocktail:
     - url: /assets/images/cocktail_chartreuse_swizzle.svg
-      title: Chartreuse swizzle
+      title: Chartreuse Swizzle
   ingredient:
     - url: /assets/images/ingredient-chartreuse.svg
       title: Chartreuse
@@ -9,7 +9,7 @@ images:
     - url: /assets/images/tool_grater.svg
       title: Grater
     - url: /assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+      title: Long Stirrer
   glass:
     - url: /assets/images/glass_highball.svg
       title: Highball
@@ -17,7 +17,7 @@ images:
     - url: /assets/images/herb_mint.svg
       title: Mint
     - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+      title: Pineapple Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

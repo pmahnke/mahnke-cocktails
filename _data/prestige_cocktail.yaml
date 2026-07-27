@@ -1,13 +1,13 @@
 images:
   ingredient:
     - url: /assets/images//ingredient-nicaraguan-rum.svg
-      title: Nicaraguan rum
+      title: Nicaraguan Rum
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_coupe.svg
       title: Coupe
   garnish:
     - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+      title: Pineapple Slice

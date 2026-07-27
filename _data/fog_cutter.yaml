@@ -7,10 +7,10 @@ images:
     - url: /assets/images/ingredient-sherry.svg
       title: Sherry
     - url: /assets/images/ingredient-white-rum.svg
-      title: White rum
+      title: White Rum
   tool:
     - url: /assets/images/tool_boston-shaker.svg
-      title: Boston shaker
+      title: Boston Shaker
   glass:
     - url: /assets/images/glass_tiki.svg
       title: Tiki
@@ -18,7 +18,7 @@ images:
     - url: /assets/images/herb_mint.svg
       title: Mint
     - url: /assets/images/fruit-orange.svg
-      title: Orange slice
+      title: Orange Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

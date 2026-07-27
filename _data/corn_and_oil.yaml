@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-demerara-rum.svg
-      title: Demerara rum
+      title: Demerara Rum
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
@@ -10,7 +10,7 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/slice_lime.svg
-      title: Lime slice
+      title: Lime Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

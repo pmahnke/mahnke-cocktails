@@ -5,11 +5,11 @@ images:
     - url: /assets/images/ingredient-port.svg
       title: Port
     - url: /assets/images/ingredient-red-wine.svg
-      title: Red wine
+      title: Red Wine
   garnish:
     - url: /assets/images/spice_cinnamon.svg
       title: Cinnamon
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist
     - url: /assets/images/ingredient-sugar.svg
       title: Sugar

@@ -3,7 +3,7 @@ images:
     - url: /assets/images/ingredient-gin.svg
       title: Gin
     - url: /assets/images/ingredient-lillet-blanc.svg
-      title: Lillet blanc
+      title: Lillet Blanc
     - url: /assets/images/ingredient-sherry.svg
       title: Sherry
   tool:
@@ -14,4 +14,4 @@ images:
       title: Coupe
   garnish:
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist

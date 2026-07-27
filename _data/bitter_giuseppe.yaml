@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-cynar.svg
-      title: Cynar
+      title: Amaro Cynar
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
@@ -10,7 +10,7 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist
   ice:
     - url: /assets/images/ice_large.svg
       title: Large

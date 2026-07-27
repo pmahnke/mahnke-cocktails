@@ -6,17 +6,17 @@ images:
       title: Vodka
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_highball.svg
       title: Highball
   garnish:
     - url: /assets/images/twist_cocktail-cherry.svg
-      title: Cocktail cherry
+      title: Cocktail Cherry
     - url: /assets/images/fruit-orange.svg
-      title: Orange slice
+      title: Orange Slice
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

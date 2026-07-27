@@ -1,13 +1,13 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-gold-rum.svg
-      title: Gold rum
+      title: Gold Rum
   glass:
     - url: /assets/images/glass_hurricane.svg
       title: Hurricane
   garnish:
     - url: /assets/images/slice_lime.svg
-      title: Lime slice
+      title: Lime Slice
     - url: /assets/images/fruit_strawberry.svg
       title: Strawberry
   ice:

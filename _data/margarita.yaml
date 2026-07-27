@@ -4,12 +4,12 @@ images:
       title: Margarita
   ingredient:
     - url: /assets/images/ingredient-reposado-tequila.svg
-      title: Reposado tequila
+      title: Reposado Tequila
   tool:
     - url: /assets/images/tool_boston-shaker.svg
-      title: Boston shaker
+      title: Boston Shaker
     - url: /assets/images/tool_hawthorn-strainer.svg
-      title: Hawthorn strainer
+      title: Hawthorn Strainer
   glass:
     - url: /assets/images/glass_margarita.svg
       title: Margarita
@@ -17,7 +17,7 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/slice_lime.svg
-      title: Lime slice
+      title: Lime Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

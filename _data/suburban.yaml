@@ -1,11 +1,11 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
+      title: Jamaican Rum
     - url: /assets/images/ingredient-rye.svg
       title: Rye
     - url: /assets/images/ingredient-tawny_port.svg
-      title: Tawny port
+      title: Tawny Port
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
@@ -14,6 +14,6 @@ images:
       title: Martini
   garnish:
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist
     - url: /assets/images/ingredient-sugar.svg
       title: Sugar

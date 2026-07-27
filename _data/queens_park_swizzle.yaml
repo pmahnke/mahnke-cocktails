@@ -1,10 +1,10 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-demerara-rum.svg
-      title: Demerara rum
+      title: Demerara Rum
   tool:
     - url: /assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+      title: Long Stirrer
   glass:
     - url: /assets/images/glass_highball.svg
       title: Highball

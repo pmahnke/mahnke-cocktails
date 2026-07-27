@@ -1,9 +1,9 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-demerara-rum.svg
-      title: Demerara rum
+      title: Demerara Rum
   garnish:
     - url: /assets/images/spice_cinnamon.svg
       title: Cinnamon
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist

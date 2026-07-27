@@ -3,16 +3,16 @@ images:
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
     - url: /assets/images/ingredient-creme-de-cacao.svg
-      title: Creme de cacao
+      title: Creme de Cacao
     - url: /assets/images/ingredient-port.svg
       title: Port
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
     - url: /assets/images/tool_grater.svg
       title: Grater
   glass:
     - url: /assets/images/glass_coupe.svg
       title: Coupe
     - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+      title: Nick and Nora

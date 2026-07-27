@@ -1,12 +1,12 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-dark-rum.svg
-      title: Dark rum
+      title: Dark Rum
     - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
+      title: Jamaican Rum
   tool:
     - url: /assets/images/tool_boston-shaker.svg
-      title: Boston shaker
+      title: Boston Shaker
   glass:
     - url: /assets/images/glass_hurricane.svg
       title: Hurricane
@@ -14,6 +14,6 @@ images:
       title: Sling
   garnish:
     - url: /assets/images/fruit-orange.svg
-      title: Orange slice
+      title: Orange Slice
     - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+      title: Pineapple Slice

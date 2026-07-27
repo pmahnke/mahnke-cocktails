@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-creme-de-violette.svg
-      title: Creme de violette
+      title: Creme de Violette
     - url: /assets/images/ingredient-gin.svg
       title: Gin
   tool:
@@ -12,4 +12,4 @@ images:
       title: Coupe
   garnish:
     - url: /assets/images/twist_lemon_cherry.svg
-      title: Lemon cherry
+      title: Lemon Cherry

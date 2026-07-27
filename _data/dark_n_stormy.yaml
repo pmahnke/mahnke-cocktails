@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-dark-rum.svg
-      title: Dark rum
+      title: Dark Rum
   glass:
     - url: /assets/images/glass_highball.svg
       title: Highball
@@ -9,7 +9,7 @@ images:
       title: Sling
   garnish:
     - url: /assets/images/slice_lime.svg
-      title: Lime slice
+      title: Lime Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

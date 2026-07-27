@@ -1,12 +1,12 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-passion-fruit-syrup.svg
-      title: Passion fruit syrup
+      title: Passion Fruit Syrup
     - url: /assets/images/ingredient-tonic-water.svg
-      title: Tonic water
+      title: Tonic Water
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_rocks.svg
       title: Rocks

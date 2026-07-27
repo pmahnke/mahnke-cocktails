@@ -3,15 +3,15 @@ images:
     - url: /assets/images/ingredient-chartreuse.svg
       title: Chartreuse
     - url: /assets/images/ingredient-maraschino-liqueur.svg
-      title: Maraschino liqueur
+      title: Maraschino Liqueur
     - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+      title: Nick and Nora
   garnish:
     - url: /assets/images/twist_cocktail-cherry.svg
-      title: Cocktail cherry
+      title: Cocktail Cherry

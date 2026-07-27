@@ -3,7 +3,7 @@ images:
     - url: /assets/images/ingredient-campari.svg
       title: Campari
     - url: /assets/images/ingredient-sloe-gin.svg
-      title: Sloe gin
+      title: Sloe Gin
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
@@ -12,4 +12,4 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist

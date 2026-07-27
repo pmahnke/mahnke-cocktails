@@ -3,9 +3,9 @@ images:
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
     - url: /assets/images/ingredient-creme-de-menthe.svg
-      title: Creme de menthe
+      title: Creme de Menthe
     - url: /assets/images/ingredient-fernet_branca.svg
-      title: Fernet branca
+      title: Fernet Branca
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

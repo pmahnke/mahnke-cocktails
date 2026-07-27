@@ -1,14 +1,14 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-allspice-dram.svg
-      title: Allspice dram
+      title: Allspice Dram
     - url: /assets/images/ingredient-demerara-rum.svg
-      title: Demerara rum
+      title: Demerara Rum
     - url: /assets/images/ingredient-dry_hard_cider.svg
-      title: Dry hard cider
+      title: Dry Hard Cider
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
     - url: /assets/images/tool_grater.svg
       title: Grater
   glass:

@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-allspice-dram.svg
-      title: Allspice dram
+      title: Allspice Dram
     - url: /assets/images/ingredient-bourbon.svg
       title: Bourbon
     - url: /assets/images/ingredient-cognac.svg
@@ -9,10 +9,10 @@ images:
     - url: /assets/images/ingredient-licor_43.svg
       title: Licor 43
     - url: /assets/images/ingredient-pear_liqueur.svg
-      title: Pear liqueur
+      title: Pear Liqueur
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
     - url: /assets/images/tool_grater.svg
       title: Grater
   glass:
@@ -22,7 +22,7 @@ images:
       title: Tiki
   garnish:
     - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+      title: Pineapple Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

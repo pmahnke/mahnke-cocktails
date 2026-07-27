@@ -1,9 +1,9 @@
 images:
   ingredient:
+    - url: /assets/images/ingredient-cynar.svg
+      title: Amaro Cynar
     - url: /assets/images/ingredient-cachaca.svg
       title: Cachaca
-    - url: /assets/images/ingredient-cynar.svg
-      title: Cynar
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
@@ -12,7 +12,7 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/slice_lime.svg
-      title: Lime slice
+      title: Lime Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

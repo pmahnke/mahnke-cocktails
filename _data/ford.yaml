@@ -3,7 +3,7 @@ images:
     - url: /assets/images/ingredient-benedictine.svg
       title: Benedictine
     - url: /assets/images/ingredient-old_tom_gin.svg
-      title: Old tom gin
+      title: Old Tom Gin
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
@@ -12,4 +12,4 @@ images:
       title: Coupe
   garnish:
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist

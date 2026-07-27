@@ -1,10 +1,10 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-rhum_agricole.svg
-      title: Rhum agricole
+      title: Rhum Agricole
   tool:
     - url: /assets/images/tool_long-stirrer.svg
-      title: Long stirrer
+      title: Long Stirrer
   glass:
     - url: /assets/images/glass_rocks.svg
       title: Rocks

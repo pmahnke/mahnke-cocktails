@@ -4,12 +4,12 @@ images:
       title: Bitters
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_highball.svg
       title: Highball
   garnish:
     - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+      title: Pineapple Slice
     - url: /assets/images/ingredient-sugar.svg
       title: Sugar

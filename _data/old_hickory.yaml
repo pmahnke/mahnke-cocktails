@@ -1,9 +1,9 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-dry-vermouth.svg
-      title: Dry vermouth
+      title: Dry Vermouth
     - url: /assets/images/ingredient-sweet-vermouth.svg
-      title: Sweet vermouth
+      title: Sweet Vermouth
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
@@ -12,4 +12,4 @@ images:
       title: Coupe
   garnish:
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist

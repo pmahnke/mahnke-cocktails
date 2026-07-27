@@ -1,11 +1,11 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-apricot-liqueur.svg
-      title: Apricot liqueur
+      title: Apricot Liqueur
     - url: /assets/images/ingredient-dark-rum.svg
-      title: Dark rum
+      title: Dark Rum
     - url: /assets/images/ingredient-gold-rum.svg
-      title: Gold rum
+      title: Gold Rum
   tool:
     - url: /assets/images/tool_grater.svg
       title: Grater
@@ -14,7 +14,7 @@ images:
       title: Tiki
   garnish:
     - url: /assets/images/slice_pineapple.svg
-      title: Pineapple slice
+      title: Pineapple Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

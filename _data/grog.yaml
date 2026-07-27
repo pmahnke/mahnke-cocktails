@@ -1,13 +1,13 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-demerara-rum.svg
-      title: Demerara rum
+      title: Demerara Rum
   glass:
     - url: /assets/images/glass_rocks.svg
       title: Rocks
   garnish:
     - url: /assets/images/slice_lime.svg
-      title: Lime slice
+      title: Lime Slice
     - url: /assets/images/ingredient-sugar.svg
       title: Sugar
   ice:

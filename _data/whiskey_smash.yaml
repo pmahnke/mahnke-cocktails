@@ -4,7 +4,7 @@ images:
       title: Bourbon
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
     - url: /assets/images/tool_muddler.svg
       title: Muddler
   glass:
@@ -12,7 +12,7 @@ images:
       title: Rocks
   garnish:
     - url: /assets/images/fruit_lemon.svg
-      title: Lemon slice
+      title: Lemon Slice
     - url: /assets/images/herb_mint.svg
       title: Mint
   ice:

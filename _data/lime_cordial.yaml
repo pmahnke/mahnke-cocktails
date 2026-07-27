@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-lime-juice.svg
-      title: Lime juice
+      title: Lime Juice
   tool:
     - url: /assets/images/tool_grater.svg
       title: Grater

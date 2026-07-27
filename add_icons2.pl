@@ -133,7 +133,6 @@ $INCLUDE{'lemon_cherry'} = qq|/assets/images/twist_lemon_cherry.svg|;
 $INCLUDE{'cocktail-cherry'} = qq|/assets/images/twist_cocktail-cherry.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
-$INCLUDE{'cynar'} = qq|/assets/images/ingredient-cynar.svg|;
 $INCLUDE{'shochu'} = qq|/assets/images/ingredient-shochu.svg|;
 $INCLUDE{'italicus'} = qq|/assets/images/ingredient-rosolio.svg|;
 $INCLUDE{'porter'} = qq|/assets/images/ingredient-porter.svg|;
@@ -147,6 +146,7 @@ $INCLUDE{'licor_43'} = qq|/assets/images/ingredient-licor_43.svg|;
 $INCLUDE{'grand_marnier'} = qq|/assets/images/ingredient-grand_marnier.svg|;
 $INCLUDE{'fernet_branca'} = qq|/assets/images/ingredient-fernet_branca.svg|;
 $INCLUDE{'dry_hard_cider'} = qq|/assets/images/ingredient-dry_hard_cider.svg|;
+
 #   rums
 $INCLUDE{'white-rum'} = qq|/assets/images/ingredient-white-rum.svg|;
 $INCLUDE{'spiced-rum'} = qq|/assets/images/ingredient-spiced-rum.svg|;
@@ -175,7 +175,12 @@ $INCLUDE{'stout'} = qq|/assets/images/ingredient-stout.svg|;
 $INCLUDE{'beer'} = qq|/assets/images/ingredient-beer.svg|;
 $INCLUDE{'ginger-beer'} = qq|/assets/images/ingredient-ginger-beer.svg|;
 $INCLUDE{'absinthe'} = qq|/assets/images/ingredient-absinthe.svg|;
-$INCLUDE{'averna'} = qq|/assets/images/ingredient-amaro_averna.svg|;
+
+$INCLUDE{'amaro_nonio'} = qq|/assets/images/ingredient-amaro_nonio.svg|;
+$INCLUDE{'amaro_averna'} = qq|/assets/images/ingredient-amaro_averna.svg|;
+$INCLUDE{'amaro_ramazzotti'} = qq|/assets/images/ingredient-amaro_ramazzotti.svg|;
+$INCLUDE{'amaro_cynar'} = qq|/assets/images/ingredient-cynar.svg|;
+
 $INCLUDE{'sparkling-water'} = qq|/assets/images/ingredient-soda-water.svg|;
 $INCLUDE{'lemon-wedge'} = qq|/assets/images/ingredient-lemon-wedge.svg|;
 $INCLUDE{'simple-syrup'} = qq|/assets/images/ingredient-simple-syrup.svg|;
@@ -404,7 +409,6 @@ foreach $file (sort @files) {
 
         # bottles
         if (/base_spirits:/) {
-	    $ingredient{'cynar'} = 1 if (/cynar/i);
 	    $ingredient{'shochu'} = 1 if (/shochu/i);
 	    $ingredient{'italicus'} = 1 if (/italicus/i);
 	    $ingredient{'pimms'} = 1 if (/pimm/i);
@@ -453,7 +457,6 @@ foreach $file (sort @files) {
             $ingredient{'ginger-beer'} = 1 if (/ginger beer/i);
 	    $ingredient{'beer'} = 1 if (/beer/i);
 	    $ingredient{'stout'} = 1 if (/stout/i);
-            $ingredient{'averna'} = 1 if (/averna/i);
             $ingredient{'absinthe'} = 1 if (/absinthe/i);
             $ingredient{'lemon-wedge'} = 1 if (/lemon wedge/i);
             $ingredient{'simple-syrup'} = 1 if (/simple syrup/i);
@@ -517,7 +520,13 @@ foreach $file (sort @files) {
             $ingredient{'lillet-rouge'} = 1 if (/lillet rouge/i);
             $ingredient{'lillet-blanc'} = 1 if (/lillet blanc/i);
             $ingredient{'cachaca'} = 1 if (/cacha/i);
-            $ingredient{'amaro'} = 1 if (/amaro/i);
+
+	    $ingredient{'amaro_nonio'} = 1 if (/nonio/i);
+	    $ingredient{'amaro_cynar'} = 1 if (/cynar/i);
+	    $ingredient{'amaro_averna'} = 1 if (/averna/i);
+	    $ingredient{'amaro_ramazzotti'} = 1 if (/ramazzotti/i);
+            $ingredient{'amaro'} = 1 if (/amaro/i && !$ingredient{'amaro_averna'} && !$ingredient{'amaro_nonio'});
+
 	    $ingredient{'dark_ale'} = 1 if (/dark (ale|beer)/i);
             $ingredient{'porter'} = 1 if (/porter/i);
 	    $ingredient{'tawny-port'} = 1 if (/tawny port/i);
@@ -643,6 +652,8 @@ sub make_title {
     my $title = $_[0];
     $title =~ s/\-/ /g;
     $title =~ s/_/ /g;
-    $title = ucfirst($title);
+    $title =~ s/\b(\w)/\u$1/g;
+    $title =~ s/ De / de /;
+    $title =~ s/ And / and /;
     return ($title);
 }

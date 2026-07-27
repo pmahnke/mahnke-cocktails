@@ -1,14 +1,14 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-coffee-liqueur.svg
-      title: Coffee liqueur
+      title: Coffee Liqueur
     - url: /assets/images/ingredient-cream.svg
       title: Cream
     - url: /assets/images/ingredient-vodka.svg
       title: Vodka
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
     - url: /assets/images/tool_grater.svg
       title: Grater
   glass:

@@ -1,14 +1,14 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-cocchi-americano.svg
-      title: Cocchi americano
+      title: Cocchi Americano
     - url: /assets/images/ingredient-gin.svg
       title: Gin
     - url: /assets/images/ingredient-pisco.svg
       title: Pisco
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_highball.svg
       title: Highball

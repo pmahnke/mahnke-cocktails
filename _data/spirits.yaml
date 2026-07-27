@@ -20,7 +20,7 @@
   description: A popular Sicilian amaro with a rich, bittersweet flavor profile featuring notes of caramel, citrus, and herbs.
 - name: Amaro Nonino
   slug: amaro_nonino
-  url: /assets/images/ingredient-amaro_nonion.svg
+  url: /assets/images/ingredient-amaro_nonio.svg
   description: A delicate and slightly sweet amaro made from grappa and a blend of herbs, often featuring notes of orange peel and vanilla.
 - name: Amontillado Sherry
   slug: amontillado_sherry
@@ -46,10 +46,6 @@
   slug: banana_liqueur
   url: /assets/images/ingredient-banana.svg
   description: A sweet liqueur flavored with bananas, used to impart a distinct tropical sweetness, often found in tiki drinks.
-- name: Banane du Brésil
-  slug: banane_du_brésil
-  url: /assets/images/ingredient-banane_du_bresil.svg
-  description: A specific banana liqueur known for its rum base and richer, more authentic banana flavor.
 - name: Barbados Rum
   slug: barbados_rum
   url: /assets/images/ingredient-dark-rum.svg

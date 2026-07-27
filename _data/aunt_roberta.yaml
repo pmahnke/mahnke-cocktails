@@ -5,7 +5,7 @@ images:
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
     - url: /assets/images/ingredient-crème_de_mûre.svg
-      title: Creme de mure
+      title: Creme de Mure
     - url: /assets/images/ingredient-gin.svg
       title: Gin
     - url: /assets/images/ingredient-vodka.svg
@@ -18,4 +18,4 @@ images:
       title: Coupe
   garnish:
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist

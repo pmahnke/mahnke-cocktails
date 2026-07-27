@@ -3,7 +3,7 @@ images:
     - url: /assets/images/ingredient-calvados.svg
       title: Calvados
     - url: /assets/images/ingredient-jamacian-rum.svg
-      title: Jamaican rum
+      title: Jamaican Rum
     - url: /assets/images/ingredient-swedish-punsch.svg
       title: Punsch
   tool:
@@ -14,4 +14,4 @@ images:
       title: Coupe
   garnish:
     - url: /assets/images/twist_lemon.svg
-      title: Lemon twist
+      title: Lemon Twist

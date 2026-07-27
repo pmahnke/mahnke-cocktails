@@ -1,18 +1,18 @@
 images:
   cocktail:
     - url: /assets/images/cocktail_corpse_reviver_2.svg
-      title: Corpse reviver 2
+      title: Corpse Reviver 2
   ingredient:
     - url: /assets/images/ingredient-cocchi-americano.svg
-      title: Cocchi americano
+      title: Cocchi Americano
     - url: /assets/images/ingredient-gin.svg
       title: Gin
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+      title: Nick and Nora
   garnish:
     - url: /assets/images/twist_cocktail-cherry.svg
-      title: Cocktail cherry
+      title: Cocktail Cherry

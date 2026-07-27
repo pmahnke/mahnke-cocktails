@@ -3,16 +3,16 @@ images:
     - url: /assets/images/ingredient-grenadine.svg
       title: Grenadine
     - url: /assets/images/ingredient-soda-water.svg
-      title: Sparkling water
+      title: Sparkling Water
   tool:
     - url: /assets/images/tool_double_strain.svg
-      title: Double strained
+      title: Double Strained
   glass:
     - url: /assets/images/glass_highball.svg
       title: Highball
   garnish:
     - url: /assets/images/slice_lime.svg
-      title: Lime slice
+      title: Lime Slice
   ice:
     - url: /assets/images/ice_cubes.svg
       title: Cubes

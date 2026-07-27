@@ -1,17 +1,17 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-vermouth.svg
-      title: Blanc vermouth
+      title: Blanc Vermouth
     - url: /assets/images/ingredient-cognac.svg
       title: Cognac
     - url: /assets/images/ingredient-navy_strength_gin.svg
-      title: Navy strength gin
+      title: Navy Strength Gin
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred
   glass:
     - url: /assets/images/glass_nick-and-nora.svg
-      title: Nick and nora
+      title: Nick and Nora
   garnish:
     - url: /assets/images/twist_orange.svg
-      title: Orange twist
+      title: Orange Twist
