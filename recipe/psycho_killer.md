@@ -20,7 +20,7 @@ date: 2025-08-11
 |   Amount | Ingredient                                                          | Brand                    |
 | -------: | ------------------------------------------------------------------- | ------------------------ |
 |     2 oz | Irish Whiskey                                                       | Red Breast 12 year       |
-|  0.75 oz | [Cocoa Nib Infused Campari]({%link recipe/cocoa_nib_campari.md -%}) | Campari                  |
+|  0.75 oz | Cocoa Nib Infused Campari ([recipe]({%link recipe/cocoa_nib_campari.md %}))                 | Campari |
 |   0.5 oz | White Crème de Cacao                                                | Marie Brizard            |
 |   0.5 oz | Banana Liqueur                                                      | Giffard Banane du Brésil |
 | 2 dashes | Absinthe                                                            |
