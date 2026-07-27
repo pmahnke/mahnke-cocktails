@@ -2,8 +2,8 @@ images:
   ingredient:
     - url: /assets/images/ingredient-champagne.svg
       title: Champagne
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
+    - url: /assets/images/ingredient-plymouth_gin.svg
+      title: Plymouth gin
   tool:
     - url: /assets/images/tool_boston-shaker.svg
       title: Boston shaker

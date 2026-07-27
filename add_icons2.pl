@@ -180,7 +180,7 @@ $INCLUDE{'lemon-wedge'} = qq|/assets/images/ingredient-lemon-wedge.svg|;
 $INCLUDE{'simple-syrup'} = qq|/assets/images/ingredient-simple-syrup.svg|;
 $INCLUDE{'sherry'} = qq|/assets/images/ingredient-sherry.svg|;
 $INCLUDE{'sweet-vermouth'} = qq|/assets/images/ingredient-sweet-vermouth.svg|;
-$INCLUDE{'punt-e-mes'} = qq|/assets/images/ingredient-sweet-vermouth.svg|;
+$INCLUDE{'punt-e-mes'} = qq|/assets/images/ingredient-punt_e_mes.svg|;
 $INCLUDE{'dry-vermouth'} = qq|/assets/images/ingredient-dry-vermouth.svg|;
 $INCLUDE{'orange-bitters'} = qq|/assets/images/ingredient-orange-bitters.svg|;
 $INCLUDE{'blanc-vermouth'} = qq|/assets/images/ingredient-vermouth.svg|;
@@ -194,6 +194,8 @@ $INCLUDE{'lime-juice'} = qq|/assets/images/ingredient-lime-juice.svg|;
 $INCLUDE{'gin'} = qq|/assets/images/ingredient-gin.svg|;
 $INCLUDE{'genever'} = qq|/assets/images/ingredient-genever.svg|;
 $INCLUDE{'sloe-gin'} = qq|/assets/images/ingredient-sloe-gin.svg|;
+$INCLUDE{'old_tom_gin'} = qq|/assets/images/ingredient-old_tom_gin.svg|;
+$INCLUDE{'plymouth_gin'} = qq|/assets/images/ingredient-plymouth_gin.svg|;
 $INCLUDE{'navy_strength_gin'} = qq|/assets/images/ingredient-navy_strength_gin.svg|;
 
 $INCLUDE{'chartreuse'} = qq|/assets/images/ingredient-chartreuse.svg|;
@@ -440,7 +442,9 @@ foreach $file (sort @files) {
 
             $ingredient{'sloe-gin'} = 1 if (/sloe gin/i);
 	    $ingredient{'navy_strength_gin'} = 1 if (/navy strength gin/i);
-            $ingredient{'gin'} = 1 if (/gin/i && !$ingredient{'sloe-gin'} && !$ingredient{'navy_strength_gin'});
+	    $ingredient{'old_tom_gin'} = 1 if (/old tom gin/i);
+	    $ingredient{'plymouth_gin'} = 1 if (/plymouth gin/i);
+            $ingredient{'gin'} = 1 if (/gin/i && !$ingredient{'sloe-gin'} && !$ingredient{'navy_strength_gin'} && !$ingredient{'old_tom_gin'} && !$ingredient{'plymouth_gin'});
 
 	    $ingredient{'cocchi-americano'} = 1 if (/cocchi americano/i);
             #$ingredient{'white-creme-de-cacao'} = 1 if (/white crème de cacao/i);

@@ -1,7 +1,7 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
+    - url: /assets/images/ingredient-old_tom_gin.svg
+      title: Old tom gin
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

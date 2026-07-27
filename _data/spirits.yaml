@@ -272,7 +272,7 @@
   description: A German Märzen-style lager traditionally brewed for the Munich festival, characterized by a malty, rich, copper color and clean finish.
 - name: Old Tom Gin
   slug: old_tom_gin
-  url: /assets/images/ingredient-gin.svg
+  url: /assets/images/ingredient-old_tom_gin.svg
   description: A historical style of gin that is slightly sweeter than London Dry, bridging the gap between Genever and modern dry gins.
 - name: Oloroso Sherry
   slug: oloroso_sherry
@@ -308,7 +308,7 @@
   description: A colorless or amber brandy distilled from Muscat grapes in Peru or Chile, giving it a strong aromatic, fruity nose.
 - name: Plymouth Gin
   slug: plymouth_gin
-  url: /assets/images/ingredient-gin.svg
+  url: /assets/images/ingredient-plymouth_gin.svg
   description: A specific protected style of gin produced only in Plymouth, England, known for a slightly less juniper-forward, more root-driven, and earthier flavor than London Dry.
 - name: Porter
   slug: porter
@@ -320,7 +320,7 @@
   description: An Italian sparkling wine, typically drier than Champagne, known for its bright, fruity, and aromatic profile.
 - name: Punt e Mes
   slug: punt_e_mes
-  url: /assets/images/ingredient-sweet-vermouth.svg
+  url: /assets/images/ingredient-punt_e_mes.svg
   description: A dark, bittersweet Italian vermouth, considered a "quinquina" (quinine-infused), offering a more intense and complex profile.
 - name: Ramazzotti
   slug: ramazzotti

@@ -1,0 +1,103 @@
+# ==============================================================================
+# File: _data/components.yml
+# ==============================================================================
+
+glasses:
+  coupe:
+    name: Coupe Glass
+    icon: /assets/icons/glass_coupe.svg
+  collins:
+    name: Collins Glass
+    icon: /assets/icons/glass_collins.svg
+  highball:
+    name: Highball Glass
+    icon: /assets/icons/glass_highball.svg
+  martini:
+    name: Martini Glass
+    icon: /assets/icons/glass_martini.svg
+  rocks:
+    name: Rocks Glass
+    icon: /assets/icons/glass_rocks.svg
+  tiki:
+    name: Tiki Mug
+    icon: /assets/icons/glass_tiki.svg
+  hurricane:
+    name: Hurricane Glass
+    icon: /assets/icons/glass_hurricane.svg
+  flute:
+    name: Champagne Flute
+    icon: /assets/icons/glass_flute.svg
+
+garnishes:
+  lime_wedge:
+    name: Lime Wedge
+    icon: /assets/icons/garnish_lime_wedge.svg
+  lime_wheel:
+    name: Lime Wheel
+    icon: /assets/icons/garnish_lime_wheel.svg
+  lemon_twist:
+    name: Lemon Twist
+    icon: /assets/icons/garnish_lemon_twist.svg
+  maraschino_cherry:
+    name: Maraschino Cherry
+    icon: /assets/icons/garnish_cherry.svg
+  mint_sprig:
+    name: Mint Sprig
+    icon: /assets/icons/garnish_mint.svg
+  orange_peel:
+    name: Orange Peel
+    icon: /assets/icons/garnish_orange_peel.svg
+  olive:
+    name: Olive
+    icon: /assets/icons/garnish_olive.svg
+  pineapple_wedge:
+    name: Pineapple Wedge
+    icon: /assets/icons/garnish_pineapple.svg
+
+tools:
+  boston_shaker:
+    name: Boston Shaker
+    icon: /assets/icons/tool_shaker.svg
+  mixing_glass:
+    name: Mixing Glass
+    icon: /assets/icons/tool_mixing_glass.svg
+  hawthorne_strainer:
+    name: Hawthorne Strainer
+    icon: /assets/icons/tool_strainer.svg
+  muddler:
+    name: Muddler
+    icon: /assets/icons/tool_muddler.svg
+  bar_spoon:
+    name: Bar Spoon
+    icon: /assets/icons/tool_bar_spoon.svg
+  jigger:
+    name: Jigger
+    icon: /assets/icons/tool_jigger.svg
+
+ice:
+  crushed:
+    name: Crushed Ice
+    icon: /assets/icons/ice_crushed.svg
+  cubed:
+    name: Cubed Ice
+    icon: /assets/icons/ice_cubed.svg
+  large_cube:
+    name: Large Cube
+    icon: /assets/icons/ice_large_cube.svg
+  pebble:
+    name: Pebble Ice
+    icon: /assets/icons/ice_pebble.svg
+
+types:
+  shaken:
+    name: Shaken
+    icon: /assets/icons/type_shaken.svg
+  stirred:
+    name: Stirred
+    icon: /assets/icons/type_stirred.svg
+  built:
+    name: Built in Glass
+    icon: /assets/icons/type_built.svg
+  blended:
+    name: Blended
+    icon: /assets/icons/type_blended.svg
