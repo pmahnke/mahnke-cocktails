@@ -256,7 +256,7 @@
   description: A traditional Mexican spirit distilled from the cooked hearts of various agave plants, typically characterized by a distinctive smoky flavor.
 - name: Navy Strength Gin
   slug: navy_strength_gin
-  url: /assets/images/ingredient-gin.svg
+  url: /assets/images/ingredient-navy_strength_gin.svg
   description: A term for gin bottled at a higher proof (typically 57% ABV) that historically ensured gunpowder would still ignite if soaked with the spirit.
 - name: Navy Strength Rum
   slug: navy_strength_rum

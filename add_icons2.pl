@@ -167,7 +167,6 @@ $INCLUDE{'banana_du_bresil'} = qq|/assets/images/ingredient-banane_du_bresil.svg
 $INCLUDE{'cognac'} = qq|/assets/images/ingredient-cognac.svg|;
 $INCLUDE{'lemon-juice'} = qq|/assets/images/ingredient-lemon-juice.svg|;
 $INCLUDE{'grenadine'} = qq|/assets/images/ingredient-grenadine.svg|;
-$INCLUDE{'gin'} = qq|/assets/images/ingredient-gin.svg|;
 $INCLUDE{'cocchi-americano'} = qq|/assets/images/ingredient-cocchi-americano.svg|;
 $INCLUDE{'white-creme-de-cacao'} = qq|/assets/images/ingredient-cacao.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
@@ -191,7 +190,12 @@ $INCLUDE{'honey-syrup'} = qq|/assets/images/ingredient-honey-syrup.svg|;
 $INCLUDE{'punsch'} = qq|/assets/images/ingredient-swedish-punsch.svg|;
 $INCLUDE{'champagne'} = qq|/assets/images/ingredient-champagne.svg|;
 $INCLUDE{'lime-juice'} = qq|/assets/images/ingredient-lime-juice.svg|;
+
+$INCLUDE{'gin'} = qq|/assets/images/ingredient-gin.svg|;
 $INCLUDE{'genever'} = qq|/assets/images/ingredient-genever.svg|;
+$INCLUDE{'sloe-gin'} = qq|/assets/images/ingredient-sloe-gin.svg|;
+$INCLUDE{'navy_strength_gin'} = qq|/assets/images/ingredient-navy_strength_gin.svg|;
+
 $INCLUDE{'chartreuse'} = qq|/assets/images/ingredient-chartreuse.svg|;
 $INCLUDE{'yellow-chartreuse'} = qq|/assets/images/ingredient-yellow-chartreuse.svg|;
 $INCLUDE{'curacao'} = qq|/assets/images/ingredient-curacao.svg|;
@@ -226,7 +230,6 @@ $INCLUDE{'irish-whiskey'} = qq|/assets/images/ingredient-irish-whiskey.svg|;
 $INCLUDE{'elderflower-liqueur'} = qq|/assets/images/ingredient-elderflower-liqueur.svg|;
 $INCLUDE{'allspice-dram'} = qq|/assets/images/ingredient-allspice-dram.svg|;
 $INCLUDE{'scotch'} = qq|/assets/images/ingredient-scotch.svg|;
-$INCLUDE{'sloe-gin'} = qq|/assets/images/ingredient-sloe-gin.svg|;
 $INCLUDE{'tequila'} = qq|/assets/images/ingredient-tequila.svg|;
 $INCLUDE{'mezcal'} = qq|/assets/images/ingredient-mezcal.svg|;
 $INCLUDE{'vodka'} = qq|/assets/images/ingredient-vodka.svg|;
@@ -434,9 +437,12 @@ foreach $file (sort @files) {
             $ingredient{'cognac'} = 1 if (/brandy/i && !$ingredient{'cognac'} && !$ingredient{'apple-brandy'});
             $ingredient{'lemon-juice'} = 1 if (/lemon juice/i);
             $ingredient{'grenadine'} = 1 if (/grenadine/i);
+
             $ingredient{'sloe-gin'} = 1 if (/sloe gin/i);
-            $ingredient{'gin'} = 1 if (/gin/i) && !$ingredient{'sloe-gin'};
-            $ingredient{'cocchi-americano'} = 1 if (/cocchi americano/i);
+	    $ingredient{'navy_strength_gin'} = 1 if (/navy strength gin/i);
+            $ingredient{'gin'} = 1 if (/gin/i && !$ingredient{'sloe-gin'} && !$ingredient{'navy_strength_gin'});
+
+	    $ingredient{'cocchi-americano'} = 1 if (/cocchi americano/i);
             #$ingredient{'white-creme-de-cacao'} = 1 if (/white crème de cacao/i);
             $ingredient{'ginger-beer'} = 1 if (/ginger beer/i);
 	    $ingredient{'beer'} = 1 if (/beer/);
