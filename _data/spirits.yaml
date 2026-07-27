@@ -362,8 +362,8 @@
   slug: shochu
   url: /assets/images/ingredient-shochu.svg
   description: A traditional Japanese distilled spirit, typically made from barley, sweet potatoes, rice, or buckwheat, often lighter and lower in alcohol than vodka.
-- name: Single Malt
-  slug: single_malt
+- name: Single Malt Scotch
+  slug: single_malt_scotch
   url: /assets/images/ingredient-single-malt-scotch.svg
   description: Scotch whisky made at a single distillery using only malted barley.
 - name: Sloe Gin
