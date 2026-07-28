@@ -507,6 +507,7 @@ foreach $file (sort @files) {
             $ingredient{'falernum'} = 1 if (/falernum/i);
             $ingredient{'passion-fruit-syrup'} = 1 if (/passion fruit syrup/i);
             $ingredient{'benedictine'} = 1 if (/dictine/i);
+	    $ingredient{'maraschino-liqueur'} = 1 if (/maraschino liqueur/i);
             $ingredient{'cold-brew'} = 1 if (/cold brew/i);
             $ingredient{'orgeat-syrup'} = 1 if (/orgeat syrup/i);
             $ingredient{'irish-whiskey'} = 1 if (/irish whiskey/i);
@@ -542,7 +543,7 @@ foreach $file (sort @files) {
             $ingredient{'coffee-liqueur'} = 1 if (/coffee liqueur/i);
             $ingredient{'calvados'} = 1 if (/calvados/i);
             $ingredient{'dubonnet-rouge'} = 1 if (/dubonnet/i);
-	    $ingredient{'cherry'} = 1 if (/cherry liqueur/i);
+	    $ingredient{'cherry'} = 1 if (/cherry (liqueur|brandy)/i);
             $ingredient{'creme-de-menthe'} = 1 if (/de menthe/i);
 	    $ingredient{'crème_de_noyaux'} = 1 if (/noyaux/i);
             #$ingredient{'blackberry'} = 1 if (/me de mûre/i); # creme de mure

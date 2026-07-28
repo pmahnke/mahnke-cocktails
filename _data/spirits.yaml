@@ -92,7 +92,7 @@
   description: A sparkling wine produced exclusively in the Champagne region of France, celebrated for its complex flavor and persistent effervescence.
 - name: Cherry Liqueur
   slug: cherry_liqueur
-  url: assets/images/ingredient-maraschino-liqueur.svg
+  url: /assets/images/ingredient-maraschino-liqueur.svg
   description: A clear, dry liqueur distilled from Marasca cherries, essential for classic cocktails due to its complex, faintly bitter, and aromatic flavor.
 - name: Cocchi Americano
   slug: cocchi_americano
