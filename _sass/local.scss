@@ -353,6 +353,17 @@ div.subrecipe {
     left: 0;
     z-index: -1;
   }
+
+
+    p.icons {
+        display: block;
+        vertical-align: middle;
+        text-align: center;
+        clear: both;        
+    }
+    .icons img {
+        max-height: 12rem;
+    }
   
     /* icons */
     .icon-stack {
