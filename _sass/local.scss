@@ -60,7 +60,7 @@ ul {
     color: #E1AD01; 
     font-size: 2rem;
   }
-p.icons {
+.icon-stack {
     display: none;
 }
 
@@ -215,15 +215,7 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
 /* Larger than mobile (default point when grid becomes active) */
 @media (min-width: 600px) {
     /* Styles for screens smaller than 768px (phones) */   
-    p.icons {
-        display: block;
-        vertical-align: middle;
-        text-align: center;
-        clear: both;        
-    }
-    .icons img {
-        max-height: 12rem;
-    }
+
     /* headings - larger screens */
     h1 {
         font-size: 40px;
@@ -361,6 +353,28 @@ div.subrecipe {
     left: 0;
     z-index: -1;
   }
+  
+    /* icons */
+    .icon-stack {
+        display: flex;
+        flex-direction: column;    /* Arranges them top-to-bottom */
+        align-items: center;       /* Centers them horizontally within the stack */
+        width: fit-content;        /* Makes the container only as wide as the widest icon */
+        margin-left: auto;         /* Pushes the entire stack to the right side of the page */
+        gap: 25px;                 /* Spacing between icons */
+        margin-bottom: 1rem;       /* Basic spacing below the stack */
+    }
+
+    /* 
+        If you need to control the size of the icons, it's best to do it here
+        rather than using HTML width attributes, especially for SVGs.
+    */
+    .icon-stack img {
+        max-height: 150px;
+        max-width: 100px;          /* Prevents them from getting too large */
+        height: auto;              /* Maintains aspect ratio */
+        display: block;            /* Removes tiny space beneath images */
+    }
 }
 
 /* --- MODIFIER CLASS FOR SMALLER STARS --- */
@@ -387,27 +401,7 @@ div.subrecipe {
   }
 }
 
-/* icons */
-.icon-stack {
-    display: flex;
-    flex-direction: column;    /* Arranges them top-to-bottom */
-    align-items: center;       /* Centers them horizontally within the stack */
-    width: fit-content;        /* Makes the container only as wide as the widest icon */
-    margin-left: auto;         /* Pushes the entire stack to the right side of the page */
-    gap: 25px;                 /* Spacing between icons */
-    margin-bottom: 1rem;       /* Basic spacing below the stack */
-}
 
-/* 
-    If you need to control the size of the icons, it's best to do it here
-    rather than using HTML width attributes, especially for SVGs.
-*/
-.icon-stack img {
-    max-height: 150px;
-    max-width: 100px;          /* Prevents them from getting too large */
-    height: auto;              /* Maintains aspect ratio */
-    display: block;            /* Removes tiny space beneath images */
-}
 
 /* homepage 5 star cocktail image */
 .card-content img {
