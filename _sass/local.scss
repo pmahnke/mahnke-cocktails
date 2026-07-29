@@ -241,11 +241,15 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
         display: inline;
         max-height: 6rem;
         vertical-align: bottom;
+        text-align: center;
     }
     .category_icon_large {
         display: inline;
         max-height: 16rem;
         text-align: right;
+    }
+    .category_column {
+        text-align: center;
     }
 
 }
