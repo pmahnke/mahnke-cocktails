@@ -2,9 +2,12 @@
 layout: default
 ---
 
-{%- assign s = site.data.spirits | where: "slug", page.spirit_name | first -%}
+{%- comment -%} 
+  Since this is a Collection, all the front matter data from the spirit's markdown file
+  is available natively on the 'page' object!
+{%- endcomment -%}
 
-{%- assign target_spirit = s.name | strip -%}
+{%- assign target_spirit = page.title | strip -%}
 
 {%- comment -%} 
   1. Filter all site pages to find recipes that contain the target spirit.
@@ -27,11 +30,12 @@ layout: default
     <div><!-- div 2/3 (Main Content) -->
 
         {%- comment -%} 
-          Display the title and optional description from the spirit/ file's front matter 
+          Display the title and description directly from the page front matter 
         {%- endcomment -%}
-        <h2>{{ s.name }} Cocktails</h2>
-        {%- if s.description -%}
-            <p>{{ s.description }}</p>
+        <h2>{{ page.title }} Cocktails</h2>
+        
+        {%- if page.description -%}
+            <p>{{ page.description }}</p>
         {%- endif -%}
         
         <p class="text-sm text-gray-500 mb-4">Here are {{ cocktails_found }} recipe{% if cocktails_found != 1 %}s{% endif %} featuring {{ target_spirit }}.</p>
@@ -51,7 +55,6 @@ layout: default
                 {%- include category_search.html -%} 
             </td>
             <td class="home_stars">
-                {%- comment -%} Assuming 'stars.html' reads 'page.stars' {%- endcomment -%}
                 {%- include stars.html -%}
             </td>
         </tr>
@@ -60,6 +63,9 @@ layout: default
     </div><!-- /div 2/3-->
     
     <div class="category_column">
-        {%- if s.url -%}<img src="{{ s.url }}" alt="{{ page.title }}" class="category_icon_large">{%- endif -%}
+        {%- comment -%} Updated to use page.icon_path based on the Ruby script we ran! {%- endcomment -%}
+        {%- if page.icon_path -%}
+            <img src="{{ page.icon_path }}" alt="{{ page.title }} icon" class="category_icon_large">
+        {%- endif -%}
     </div><!-- empty div 1/3 (Sidebar) -->
 </div><!-- /div grid-container -->

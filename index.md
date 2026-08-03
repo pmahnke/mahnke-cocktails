@@ -35,49 +35,53 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
     <br>
 
     <h2>Cocktails by Category</h2>
-    {%- assign sorted_categories = site.data.categories | sort: "name" -%}
-    {%- for cat in sorted_categories -%}
-        <h3><a href="/category/{{ cat.slug }}_cocktails">{{ cat.name }} {%- if cat.url -%}<img src="{{ cat.url }}" alt="" class="category_icon_small">{%- endif -%}</a></h3>
+{%- assign sorted_categories = site.category | sort: "name" -%}
+{%- for cat in sorted_categories -%}
+    <h3>
+        <a href="{{ cat.url | prepend: site.baseurl }}">{{ cat.title }} 
+        {%- if cat.icon_path -%}<img src="{{ cat.icon_path }}" alt="" class="category_icon_small">{%- endif -%}
+        </a>
+    </h3>
 
-        {%- assign pages_in_cat = "" | split: "" -%}
-        {%- for page in site.pages -%}
-            {%- if page.categories contains cat.slug and page.layout == "recipe" -%}
-                {%- assign pages_in_cat = pages_in_cat | push: page -%}
-            {%- endif -%}
-        {%- endfor -%}
-
-        {%- assign pages_by_title = pages_in_cat | sort: "title" | reverse -%}
-        {%- assign pages_by_stars = pages_by_title | sort: "stars" | reverse -%}
-
-
-        <ul class="home_list">
-        {%- for page in pages_by_stars limit: 10 -%}
-            <li class="home_list_item">
-                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-                {%- include home_stars.html -%}
-            </li>
-        {%- endfor -%}
-        </ul>
-
-        <p class="more"><a href="/category/{{ cat.slug }}_cocktails">All {{ cat.name }} Cocktails&nbsp;&rsaquo;</a></p>
+    {%- assign pages_in_cat = "" | split: "" -%}
+    {%- for page in site.pages -%}
+        {%- if page.categories contains cat.slug and page.layout == "recipe" -%}
+            {%- assign pages_in_cat = pages_in_cat | push: page -%}
+        {%- endif -%}
     {%- endfor -%}
 
+    {%- assign pages_by_title = pages_in_cat | sort: "title" | reverse -%}
+    {%- assign pages_by_stars = pages_by_title | sort: "stars" | reverse -%}
 
+    <ul class="home_list">
+    {%- for page in pages_by_stars limit: 10 -%}
+        <li class="home_list_item">
+            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            {%- include home_stars.html -%}
+        </li>
+    {%- endfor -%}
+    </ul>
+
+    <p class="more"><a href="{{ cat.url | prepend: site.baseurl }}">All {{ cat.title }} Cocktails&nbsp;&rsaquo;</a></p>
+{%- endfor -%}
 
     </div><!-- /div 2/3 -->
     <div><!-- div 1/3 -->
         <h3>Recipes by Base Spirit</h3>
-        {%- assign base = site.data.spirits | sort: "name" -%}
-        {%- for spirit in base -%}
-            <li><a href="/spirit/{{ spirit.slug }}">{{ spirit.name }}</a></li>
-        {%- endfor -%}
+        <ul class="spirit-menu">
+        {% for spirit in site.spirit %}
+            <li><a href="{{ spirit.url }}">{{ spirit.title }}</a></li>
+        {% endfor %}
+        </ul>
+
         <h3><a href="/era/">Recipes by era</a></h3>
         <ul>
-        {%- assign sorted = site.data.eras | sort: "name" -%}
-        {%- for era in sorted -%}
-            <li><a href="era/{{ era.slug }}">{{ era.name }}</a></li>
+        {%- assign sorted = site.data.eras -%}
+        {%- for era in site.era -%}
+            <li><a href="{{ era.url }}">{{ era.title }}</a></li>
         {%- endfor -%}
         </ul>
+
         <h3>Bar Essentials Lists</h3>
         <ul>
         {%- for page in site.pages -%}

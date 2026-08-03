@@ -1,0 +1,20 @@
+---
+layout: default
+title: Browse by Category
+permalink: /category/
+---
+
+<div class="grid-container two-thirds">
+    <div><!-- div 2/3 -->
+      <h2>Browse by Category</h2>
+        <p>Select a base category below to see all of our associated cocktail recipes.</p>
+        
+        {%- assign sorted_category = site.category | sort: 'title' -%}    
+            {%- for category in sorted_category -%}
+        <h4><a href="{{ category.url | prepend: site.baseurl }}">{{ category.title }}</a></h4>
+        <p>{{ category.description }}</p>
+        <p><a href="{{ category.url | prepend: site.baseurl }}">See our {{ category.title }} cocktails&nbsp;&rsaquo;</a></p>
+        {%- endfor -%}
+
+    </div>
+</div>

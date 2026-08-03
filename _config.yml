@@ -34,6 +34,17 @@ plugins:
   - jekyll-feed
 
 
+collections:
+  spirit:
+    output: true
+    permalink: /spirit/:slug/
+  category:
+    output: true
+    permalink: /category/:slug/
+  era:
+    output: true
+    permalink: /era/:slug/
+
 # pretty links /about not about.html
 permalink: pretty
 

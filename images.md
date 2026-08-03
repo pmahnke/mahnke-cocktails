@@ -35,9 +35,9 @@ title: index of images
 </ul>
 <h3>Ingredients</h3>
 <ul>
-  {%- assign base = site.data.spirits | sort: "name" -%}
+  {%- assign base = site.spirit | sort: "name" -%}
   {%- for spirit in base -%}
-  <li><img src="{{ spirit.url }}" width="200"><br>{{ spirit.name }}</li>
+  <li><img src="{{ spirit.icon_path }}" width="200"><br>{{ spirit.name }}</li>
   {%- endfor -%}
 </ul>
 

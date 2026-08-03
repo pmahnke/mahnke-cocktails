@@ -1,0 +1,20 @@
+---
+layout: default
+title: Browse by Era
+permalink: /era/
+---
+
+<div class="grid-container two-thirds">
+    <div><!-- div 2/3 -->
+      <h2>Browse by Era</h2>
+        <p>Select a base era below to see all of our associated cocktail recipes.</p>
+        
+        {%- assign sorted_era = site.era | sort: 'title' -%}    
+            {%- for era in sorted_era -%}
+        <h4><a href="{{ era.url | prepend: site.baseurl }}">{{ era.title }}</a></h4>
+        <p>{{ era.description }}</p>
+        <p><a href="{{ era.url | prepend: site.baseurl }}">See our {{ era.title }} cocktails&nbsp;&rsaquo;</a></p>
+        {%- endfor -%}
+
+    </div>
+</div>
