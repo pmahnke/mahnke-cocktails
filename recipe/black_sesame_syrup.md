@@ -5,7 +5,6 @@ categories: [syrup]
 permalink: "/recipe/black_sesame_syrup/"
 iconfile: black_sesame_syrup
 stars: 0
-base_spirits: "Black Sesame Seeds, Sugar"
 youtube: LaqklLOgeCY
 excerpt: |
   This semi-rich simple syrup is a jet black ingredient that can be used in a variety of cocktails and other drinks to add a nutty sweetness and black color.

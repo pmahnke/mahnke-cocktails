@@ -23,7 +23,7 @@ date: 2025-08-11
 
 |          Amount | Ingredient                                               | Brand                 |
 | --------------: | -------------------------------------------------------- | --------------------- |
-|            <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                                | The Real McCoy 3 Year |
+|            <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| White Rum                                                | The Real McCoy 3 Year |
 |         <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lime Juice                                         |
 |          <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | <span class="onex active">10 to 12 leaves </span> <span class="onehalfx">15 to 18 leaves </span> <span class="twox">20 to 24 leaves </span> <span class="threex">30 to 36 leaves </span>| Mint                                                     |
@@ -47,7 +47,7 @@ date: 2025-08-11
 
 |          Amount | Ingredient         | Brand                 |
 | --------------: | ------------------ | --------------------- |
-|            <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Rum [&#9432;](/spirit/rum "More Rum recipes")                | The Real McCoy 3 Year |
+|            <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Rum                | The Real McCoy 3 Year |
 |       <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> whole </span> <span class="twox">1 whole </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span>| Lime               |
 |    <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Raw Demerara Sugar |
 | <span class="onex active">10 to 12 leaves </span> <span class="onehalfx">15 to 18 leaves </span> <span class="twox">20 to 24 leaves </span> <span class="threex">30 to 36 leaves </span>| Mint               |

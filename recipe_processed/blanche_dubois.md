@@ -8,7 +8,7 @@ eras: [new_orleans]
 permalink: "/recipe/blanche_dubois/"
 iconfile: blanche_dubois
 stars: 4
-base_spirits: ['Gin', 'Dry Curaçao']
+base_spirits: ['Gin', 'Curaçao']
 youtube: "ptoAM1cWCAI"
 description: "This cocktail is a vibrant, New Orleans-born riff on the Mai Tai that swaps out the traditional rum for a crisp gin base, shaking it up with fresh lemon juice, orange curaçao, and nutty orgeat over muddled strawberry and mint."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2026-06-05
 
 |  Amount | Ingredient                                      | Brand          |
 | ------: | ----------------------------------------------- | -------------- |
-|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")                                             | Beefeater      |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Gin                                             | Beefeater      |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Dry Curaçao                                     | Pierre Ferrand |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Orgeat Syrup]({%link recipe_processed/orgeat_syrup.md%}) |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lemon Juice                               |

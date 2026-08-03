@@ -5,7 +5,6 @@ categories: [syrup]
 permalink: "/recipe/baileys_whipped_cream/"
 iconfile: baileys_whipped_cream
 stars: 0
-base_spirits: ['Baileys', 'Heavy Cream', 'Powdered Sugar']
 youtube: M8uXEDvbvVM
 description: "Baileys Infused Whipped Cream is a velvety, aerated topping that blends the airy sweetness of traditional whipped cream with the rich, creamy notes of Irish whiskey, cocoa, and vanilla."
 excerpt: |

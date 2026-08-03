@@ -5,7 +5,6 @@ categories: [syrup]
 permalink: "/recipe/spiced_tea/"
 iconfile: spiced_tea
 stars: 0
-base_spirits: ['White Sugar', 'Cinnamon Sticks', 'Cloves', 'Allspice Berries']
 youtube: ""
 excerpt: |
 date: 2025-07-07

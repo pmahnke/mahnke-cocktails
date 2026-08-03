@@ -5,7 +5,6 @@ categories: [syrup]
 permalink: "/recipe/grenadine_syrup/"
 iconfile: grenadine_syrup
 stars: 5
-base_spirits: "White Sugar, Pomegranate Juice, Pomegranate Molasses, Rose Water"
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
   Grenadine syrup is a versatile cocktail ingredient that adds a touch of sweetness and a vibrant red color to a variety of drinks. It's traditionally made from pomegranate.

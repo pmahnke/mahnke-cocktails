@@ -22,8 +22,8 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                               | Brand               |
 | ------: | -------------------------------------------------------- | ------------------- |
-|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Coffee Liqueur [&#9432;](/spirit/coffee_liqueur "More Coffee Liqueur recipes")                                           | Mr. Black Cold Brew |
-|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Vodka [&#9432;](/spirit/vodka "More Vodka recipes")                                                    | Russian Standard    |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Coffee Liqueur                                           | Mr. Black Cold Brew |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Vodka                                                    | Russian Standard    |
 |    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Freshly Brewed Espresso                                  |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | <span class="onex active">1 Swath </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> Swath </span> <span class="twox">2 Swath </span> <span class="threex">3 Swath </span>| Lemon Oil                                                |
@@ -42,8 +42,8 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                               | Brand               |
 | ------: | -------------------------------------------------------- | ------------------- |
-|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Coffee Liqueur [&#9432;](/spirit/coffee_liqueur "More Coffee Liqueur recipes")                                           | Mr. Black Cold Brew |
-|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")                                                   | Maison Rouge VSOP   |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Coffee Liqueur                                           | Mr. Black Cold Brew |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Cognac                                                   | Maison Rouge VSOP   |
 |    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Freshly Brewed Espresso                                  |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| [Rich Demerara Syrup]({%link recipe_processed/demerara_syrup.md%}) |
 | <span class="onex active">1 Swath </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> Swath </span> <span class="twox">2 Swath </span> <span class="threex">3 Swath </span>| Lemon Oil                                                |
@@ -114,11 +114,11 @@ date: 2025-08-11
     },
     {
       "@type": "HowToStep",
-      "text": "|    1 oz | Coffee Liqueur [&#9432;](/spirit/coffee_liqueur "More Coffee Liqueur recipes")                                           | Mr. Black Cold Brew |"
+      "text": "|    1 oz | Coffee Liqueur                                           | Mr. Black Cold Brew |"
     },
     {
       "@type": "HowToStep",
-      "text": "|    1 oz | Cognac [&#9432;](/spirit/cognac "More Cognac recipes")                                                   | Maison Rouge VSOP   |"
+      "text": "|    1 oz | Cognac                                                   | Maison Rouge VSOP   |"
     },
     {
       "@type": "HowToStep",

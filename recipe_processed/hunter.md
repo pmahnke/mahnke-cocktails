@@ -23,8 +23,8 @@ date: 2026-01-09
 
 | Amount | Ingredient     | Brand                 |
 | -----: | -------------- | --------------------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Rye [&#9432;](/spirit/rye "More Rye recipes")            | Rittenhouse 100 Proof |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cherry Liqueur [&#9432;](/spirit/cherry_liqueur "More Cherry Liqueur recipes") | Cherry Heering        |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Rye            | Rittenhouse 100 Proof |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cherry Liqueur | Cherry Heering        |
 
 ### Notes
 
@@ -43,9 +43,9 @@ date: 2026-01-09
 
 |   Amount | Ingredient         | Brand                    |
 | -------: | ------------------ | ------------------------ |
-|   <span class="onex active">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="onehalfx">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span> <span class="twox">5 oz  / 150 ml</span> <span class="threex">7 <sup>1</sup>&frasl;<sub>2</sub> oz  / 225 ml</span>| Bourbon [&#9432;](/spirit/bourbon "More Bourbon recipes")            | Elijah Craig Small Batch |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cherry Liqueur [&#9432;](/spirit/cherry_liqueur "More Cherry Liqueur recipes")     | Cherry Heering           |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Maraschino Liqueur [&#9432;](/spirit/maraschino_liqueur "More Maraschino Liqueur recipes") | Luxardo                  |
+|   <span class="onex active">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="onehalfx">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span> <span class="twox">5 oz  / 150 ml</span> <span class="threex">7 <sup>1</sup>&frasl;<sub>2</sub> oz  / 225 ml</span>| Bourbon            | Elijah Craig Small Batch |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cherry Liqueur     | Cherry Heering           |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Maraschino Liqueur | Luxardo                  |
 | <span class="onex active">3 dashes</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>| Orange Bitters     | Regan’s                  |
 
 ### Notes

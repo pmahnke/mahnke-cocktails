@@ -8,7 +8,7 @@ eras: [anders]
 permalink: "/recipe/shallow_draft/"
 iconfile: shallow_draft
 stars: 0
-base_spirits: "beer, falernum"
+base_spirits: "Beer"
 youtube: "gu5hZ5Rb8nc&t=585s"
 description: "This cocktail is a riff on the classic Shandy. With the addition of Falernum, it skews more toward the cocktail side, but still sits in the Shandy family."
 excerpt: |

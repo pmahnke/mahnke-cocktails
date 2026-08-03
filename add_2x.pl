@@ -338,7 +338,62 @@ sub process_ratings {
 
 }
 
+
 sub read_spirit_data {
+
+    my $spirit_dir = '_spirit';
+
+    # STREAMING_CHUNK: Opening directory and grabbing markdown files
+    opendir(my $dh,$spirit_dir) or die "Can't open directory $spirit_dir:$!";
+    my @files = grep { /\.md$/ && -f "$spirit_dir/$_" } readdir($dh);
+    closedir($dh);
+
+    # STREAMING_CHUNK: Looping through each spirit file
+    for my $file (@files) {
+        my $filepath = "$spirit_dir/$file";
+        open(my $fh, '<',$filepath) or warn "Can't open $filepath:$!";
+        
+        my $front_matter = "";
+        my $in_yaml = 0;
+        
+        # STREAMING_CHUNK: Extracting the YAML block from the markdown file
+        while (my $line = <$fh>) {
+            if ($line =~ /^---\s*$/) {
+                if ($in_yaml) {
+                    last; # We hit the second ---, stop reading the file
+                } else {
+                    $in_yaml = 1; # We hit the first ---, start capturing
+                    next;
+                }
+            }
+            $front_matter .= $line if$in_yaml;
+        }
+        close($fh);
+
+        # STREAMING_CHUNK: Parsing the YAML and adding to the hash
+        if ($front_matter) {
+            # Load the string as YAML
+            my $yaml_data = eval { Load($front_matter) };
+            
+            if (!$@ && ref$yaml_data eq 'HASH') {
+                my $slug =$yaml_data->{slug} // next;
+                
+                # Check for 'title' since our ruby script renamed it during migration
+                my $name = $yaml_data->{title} //$yaml_data->{name} // ''; 
+                
+                if ($name) {$spirit{$name} =$slug;
+                }
+            } else {
+                warn "Warning: Could not parse YAML in $filepath:$@\n";
+            }
+        }
+    }
+
+    return();
+
+}
+
+sub read_spirit_data_orig {
 
     my $yaml_file = '_data/spirits.yaml';
     my $data = eval { LoadFile($yaml_file) } or die "Can't read $yaml_file: $@";

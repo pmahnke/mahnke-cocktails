@@ -6,7 +6,6 @@ categories: [syrup]
 permalink: "/recipe/pear_granita/"
 iconfile: pear_granita
 stars: 0
-base_spirits: ['Pear Nectar', 'Passion Fruit Pulp']
 youtube: "ouRs57kDexU"
 excerpt: |
   Pear granita is a refreshing, semi-frozen dessert made by blending pear nectar with Pear liquor and Angosyura Bitters before freezing the mixture into coarse, shaggy ice crystals. Unlike smooth sorbet, this treat features a rustic, "crunchy" texture achieved by periodically scraping the freezing juice with a fork to create a delicate and flaky shaved-ice consistency.
@@ -19,7 +18,7 @@ date: 2025-12-27
 | --------: | -------------------- | -------------------------- |
 |    <span class="onex active">3 cups </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> cups </span> <span class="twox">6 cups </span> <span class="threex">9 cups </span>| Pear Nectar          |
 |     <span class="onex active">1 cup </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="twox">2 cup </span> <span class="threex">3 cup </span>| Orchard Pear Liqueur | Rothman & Winter           |
-| <span class="onex active">12 dashes</span> <span class="onehalfx">18 dashes</span> <span class="twox">24 dashes</span> <span class="threex">36 dashes</span>| Bitters              | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |
+| <span class="onex active">12 dashes</span> <span class="onehalfx">18 dashes</span> <span class="twox">24 dashes</span> <span class="threex">36 dashes</span>| Bitters              | Angostura Aromatic Bitters |
 
 ### Method
 

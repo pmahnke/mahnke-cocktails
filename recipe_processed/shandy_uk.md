@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/shandy_uk/"
 iconfile: shandy_uk
 stars: 0
-base_spirits: ['beer']
+base_spirits: ['Beer']
 youtube: "gu5hZ5Rb8nc&t=342s"
 description: "This is a refreshing, low-alcohol drink made by mixing beer (typically a light lager) with sparkling lemonade, usually in equal parts."
 excerpt: |

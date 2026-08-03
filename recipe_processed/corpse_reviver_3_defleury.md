@@ -8,7 +8,7 @@ eras: [prohibition]
 permalink: "/recipe/corpse_reviver_3_defleury/"
 iconfile: corpse_reviver_3_defleury
 stars: 4
-base_spirits: ['Maraschino Liqueur', 'Dry Curaçao', 'Cognac']
+base_spirits: ['Maraschino Liqueur', 'Curaçao', 'Cognac']
 youtube: "kBHi_atZsbM"
 description: "A unique recipe for the Corpse Reviver #3 calling for equal parts maraschino, brandy, and curacao, which are carefully layered without ice."
 excerpt: |
@@ -20,9 +20,9 @@ date: 2025-10-20
 
 | Amount | Ingredient         | Brand             |
 | -----: | ------------------ | ----------------- |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Maraschino Liqueur [&#9432;](/spirit/maraschino_liqueur "More Maraschino Liqueur recipes") | Luxardo           |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Maraschino Liqueur | Luxardo           |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Dry Curaçao        | Pierre Ferrand    |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cognac [&#9432;](/spirit/cognac "More Cognac recipes")             | Maison Rouge VSOP |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cognac             | Maison Rouge VSOP |
 
 ### Notes
 

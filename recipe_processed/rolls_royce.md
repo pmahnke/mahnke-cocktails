@@ -19,10 +19,10 @@ date: 2025-08-11
 
 |      Amount | Ingredient     | Brand                            |
 | ----------: | -------------- | -------------------------------- |
-|        <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")            | Martin Miller's                  |
-|      <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Dry Vermouth [&#9432;](/spirit/dry_vermouth "More Dry Vermouth recipes")   | Dolin Vermouth de Chambéry Dry   |
-|      <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes") | Dolin Vermouth de Chambéry Rouge |
-| <span class="onex active">2 barspoons</span> <span class="onehalfx">3 barspoons</span> <span class="twox">4 barspoons</span> <span class="threex">6 barspoons</span>| Bénédictine [&#9432;](/spirit/bénédictine "More Bénédictine recipes")    | Bénédictine DOM                  |
+|        <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Gin            | Martin Miller's                  |
+|      <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Dry Vermouth   | Dolin Vermouth de Chambéry Dry   |
+|      <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Sweet Vermouth | Dolin Vermouth de Chambéry Rouge |
+| <span class="onex active">2 barspoons</span> <span class="onehalfx">3 barspoons</span> <span class="twox">4 barspoons</span> <span class="threex">6 barspoons</span>| Bénédictine    | Bénédictine DOM                  |
 
 ### Notes
 
