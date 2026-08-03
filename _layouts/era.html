@@ -2,16 +2,30 @@
 layout: default
 ---
 
+{%- comment -%} Store the era's slug to match against recipes later {%- endcomment -%}
+{%- assign target_era = page.slug -%}
+
+{%- comment -%} Filter and sort the cocktails alphabetically {%- endcomment -%}
+{%- assign filtered_cocktails = "" | split: " " -%}
+{%- for cocktail in site.pages -%}
+  {%- if cocktail.layout == 'recipe' and cocktail.eras contains target_era -%}
+    {%- assign filtered_cocktails = filtered_cocktails | push: cocktail -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign sorted_cocktails = filtered_cocktails | sort: 'title' -%}
+
 <div class="grid-container two-thirds">
     <div><!-- div 2/3 -->
 
-        {%- assign s = site.data.eras | where: "slug", page.eras | first -%}
-        <h2>{{ s.name }}</h2>
-        <p>{{ s.description }}</p>
+        {%- comment -%} Pull title and description directly from the page front matter {%- endcomment -%}
+        <h2>{{ page.title }}</h2>
+        {%- if page.description -%}
+            <p>{{ page.description }}</p>
+        {%- endif -%}
         
         <table class="home_table">
-        {%- for page in site.pages -%}
-        {%- if page.eras contains s.slug and page.layout == 'recipe' -%}
+        {%- comment -%} Use 'page' as the loop variable so your include files (stars, search) still work! {%- endcomment -%}
+        {%- for page in sorted_cocktails -%}
         <tr>
             <th class="home_title">
                 <a href="{{ page.url | prepend: site.baseurl }}">
@@ -25,7 +39,6 @@ layout: default
                 {%- include stars.html -%}
             </td>
         </tr>
-        {%- endif -%}
         {%- endfor -%}
         </table>
     </div><!-- /div 2/3-->

@@ -37,13 +37,13 @@ plugins:
 collections:
   spirit:
     output: true
-    permalink: /spirit/:slug/
+    permalink: /spirit/:path/
   category:
     output: true
-    permalink: /category/:slug/
+    permalink: /category/:path/
   era:
     output: true
-    permalink: /era/:slug/
+    permalink: /era/:path/
 
 # pretty links /about not about.html
 permalink: pretty
