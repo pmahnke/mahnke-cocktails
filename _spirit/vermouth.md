@@ -1,9 +1,9 @@
 ---
-title: "Gin"
-slug: gin
+title: "Vermouth"
+slug: vermouth
 is_parent: true
-icon_path:
-description: "Gin is a distilled alcoholic drink flavoured with juniper berries and other botanical ingredients. Gin originated as a medicinal liquor made by monks and alchemists across Europe."
+icon_path: 
+description: "Vermouth is a classic aromatized fortified wine packed with complex herbs and spices. Essential for mixing perfect classic cocktails or enjoying over ice."
 layout: spirits
 ---
 
