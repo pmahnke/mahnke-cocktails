@@ -1,9 +1,4 @@
 images:
-  ingredient:
-    - url: /assets/images/ingredient-cream.svg
-      title: Cream
-    - url: /assets/images/ingredient-cream-of-cocunut.svg
-      title: Cream Of Coconut
   tool:
     - url: /assets/images/tool_grater.svg
       title: Grater

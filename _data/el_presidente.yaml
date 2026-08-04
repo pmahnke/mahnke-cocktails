@@ -2,8 +2,8 @@ images:
   ingredient:
     - url: /assets/images/ingredient-vermouth.svg
       title: Blanc Vermouth
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
+    - url: /assets/images/ingredient-white-rum.svg
+      title: White Rum
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

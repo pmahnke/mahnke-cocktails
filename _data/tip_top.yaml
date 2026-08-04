@@ -4,8 +4,8 @@ images:
       title: Benedictine
     - url: /assets/images/ingredient-dry-vermouth.svg
       title: Dry Vermouth
-    - url: /assets/images/ingredient-sherry.svg
-      title: Sherry
+    - url: /assets/images/ingredient-fino_sherry.svg
+      title: Fino Sherry
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

@@ -1,13 +1,4 @@
 images:
-  ingredient:
-    - url: /assets/images/ingredient-beer.svg
-      title: Beer
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
-    - url: /assets/images/ingredient-ginger-beer.svg
-      title: Ginger Beer
-    - url: /assets/images/ingredient-lemon-juice.svg
-      title: Lemon Juice
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double Strained

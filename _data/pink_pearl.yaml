@@ -1,9 +1,4 @@
 images:
-  ingredient:
-    - url: /assets/images/ingredient-grenadine.svg
-      title: Grenadine
-    - url: /assets/images/ingredient-lemon-juice.svg
-      title: Lemon Juice
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double Strained

@@ -4,8 +4,8 @@ images:
       title: Gin
     - url: /assets/images/ingredient-lillet-blanc.svg
       title: Lillet Blanc
-    - url: /assets/images/ingredient-sherry.svg
-      title: Sherry
+    - url: /assets/images/ingredient-manzanilla_sherry.svg
+      title: Manzanilla Sherry
   tool:
     - url: /assets/images/tool_stirred.svg
       title: Stirred

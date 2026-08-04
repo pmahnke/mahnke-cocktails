@@ -1,7 +1,7 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
+    - url: /assets/images/ingredient-plymouth_gin.svg
+      title: Plymouth Gin
     - url: /assets/images/ingredient-sweet-vermouth.svg
       title: Sweet Vermouth
   tool:

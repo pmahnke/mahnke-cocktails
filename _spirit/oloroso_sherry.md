@@ -1,8 +1,9 @@
 ---
 title: "Oloroso Sherry"
 slug: oloroso_sherry
-icon_path: /assets/images/ingredient-sherry.svg
-description: "A dark, nutty sherry aged entirely oxidatively, resulting in deep mahogany color and notes of walnut and dried fruit."
+parent_category: sherry
+icon_path: /assets/images/ingredient-oloroso_sherry.svg
+description: "Discover the complex world of Sherry wine. From crisp, dry Fino to rich, nutty Oloroso, explore this versatile fortified wine perfect for sipping or mixing."
 layout: spirits
 ---
 

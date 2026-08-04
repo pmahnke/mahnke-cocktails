@@ -1,9 +1,9 @@
 images:
   ingredient:
-    - url: /assets/images/ingredient-gin.svg
-      title: Gin
     - url: /assets/images/ingredient-lillet-blanc.svg
       title: Lillet Blanc
+    - url: /assets/images/ingredient-plymouth_gin.svg
+      title: Plymouth Gin
     - url: /assets/images/ingredient-suze.svg
       title: Suze
   tool:

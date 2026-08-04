@@ -1,9 +1,9 @@
 images:
   ingredient:
+    - url: /assets/images/ingredient-fino_sherry.svg
+      title: Fino Sherry
     - url: /assets/images/ingredient-maraschino-liqueur.svg
       title: Maraschino Liqueur
-    - url: /assets/images/ingredient-sherry.svg
-      title: Sherry
   garnish:
     - url: /assets/images/fruit_lemon.svg
       title: Lemon Slice

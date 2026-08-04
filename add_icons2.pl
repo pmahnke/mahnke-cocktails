@@ -184,7 +184,14 @@ $INCLUDE{'amaro_cynar'} = qq|/assets/images/ingredient-cynar.svg|;
 $INCLUDE{'sparkling-water'} = qq|/assets/images/ingredient-soda-water.svg|;
 $INCLUDE{'lemon-wedge'} = qq|/assets/images/ingredient-lemon-wedge.svg|;
 $INCLUDE{'simple-syrup'} = qq|/assets/images/ingredient-simple-syrup.svg|;
+
 $INCLUDE{'sherry'} = qq|/assets/images/ingredient-sherry.svg|;
+$INCLUDE{'pedro_ximenez '} = qq|/assets/images/ingredient-pedro_ximenez.svg|;
+$INCLUDE{'oloroso_sherry'} = qq|/assets/images/ingredient-oloroso_sherry.svg|;
+$INCLUDE{'manzanilla_sherry'} = qq|/assets/images/ingredient-manzanilla_sherry.svg|;
+$INCLUDE{'fino_sherry'} = qq|/assets/images/ingredient-fino_sherry.svg|;
+$INCLUDE{'amontillado_sherry'} = qq|/assets/images/ingredient-amontillado_sherry.svg|;
+
 $INCLUDE{'sweet-vermouth'} = qq|/assets/images/ingredient-sweet-vermouth.svg|;
 $INCLUDE{'punt-e-mes'} = qq|/assets/images/ingredient-punt_e_mes.svg|;
 $INCLUDE{'dry-vermouth'} = qq|/assets/images/ingredient-dry-vermouth.svg|;
@@ -209,7 +216,6 @@ $INCLUDE{'yellow-chartreuse'} = qq|/assets/images/ingredient-yellow-chartreuse.s
 $INCLUDE{'curacao'} = qq|/assets/images/ingredient-curacao.svg|;
 $INCLUDE{'egg-white'} = qq|/assets/images/ingredient-egg-white.svg|;
 $INCLUDE{'water'} = qq|/assets/images/ingredient-water.svg|;
-$INCLUDE{'sherry'} = qq|/assets/images/ingredient-sherry.svg|;
 $INCLUDE{'triple-sec'} = qq|/assets/images/ingredient-triple-sec.svg|;
 $INCLUDE{'creme-de-cacao'} = qq|/assets/images/ingredient-creme-de-cacao.svg|;
 $INCLUDE{'cream'} = qq|/assets/images/ingredient-cream.svg|;
@@ -460,7 +466,6 @@ foreach $file (sort @files) {
             $ingredient{'absinthe'} = 1 if (/absinthe/i);
             $ingredient{'lemon-wedge'} = 1 if (/lemon wedge/i);
             $ingredient{'simple-syrup'} = 1 if (/simple syrup/i);
-            $ingredient{'sherry'} = 1 if (/sherry/i);
 	    $ingredient{'suze'} = 1 if (/suze/i);
             $ingredient{'sweet-vermouth'} = 1 if (/sweet vermouth/i);
             $ingredient{'punt-e-mes'} = 1 if (/punt e mes/i);
@@ -486,7 +491,13 @@ foreach $file (sort @files) {
             $ingredient{'tonic-water'} = 1 if (/tonic water/i);
             #$ingredient{'water'} = 1 if (/water/i && !$ingredient{'sparkling-water'} && !$ingredient{'soda-water'} && !$ingredient{'tonic-water'});
 
-            $ingredient{'sherry'} = 1 if (/sherry/i);
+            # $ingredient{'sherry'} = 1 if (/sherry/i);
+            $ingredient{'pedro_ximenez'} = 1 if (/pedro ximenez/i);
+            $ingredient{'oloroso_sherry'} = 1 if (/oloroso sherry/i);
+            $ingredient{'manzanilla_sherry'} = 1 if (/manzanilla sherry/i);
+            $ingredient{'fino_sherry'} = 1 if (/fino sherry/i);
+            $ingredient{'amontillado_sherry'} = 1 if (/amontillado sherry/i);
+
             $ingredient{'triple-sec'} = 1 if (/triple sec/i);
             $ingredient{'creme-de-cacao'} = 1 if (/de cacao/i);
             $ingredient{'cream'} = 1 if (/cream/i);

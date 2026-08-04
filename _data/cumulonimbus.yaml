@@ -1,7 +1,4 @@
 images:
-  ingredient:
-    - url: /assets/images/ingredient-soda-water.svg
-      title: Soda Water
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double Strained
