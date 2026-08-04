@@ -2,22 +2,11 @@
 layout: default
 ---
 
-{%- comment -%} 
-  Since this is a Collection, all the front matter data from the spirit's markdown file
-  is available natively on the 'page' object!
-{%- endcomment -%}
-
 {%- assign target_spirit = page.title | strip -%}
-
-{%- comment -%} 
-  1. Filter all site pages to find recipes that contain the target spirit.
-  2. The result is stored in 'filtered_cocktails'.
-{%- endcomment -%}
 {%- assign filtered_cocktails = "" | split: " " -%}
 {%- assign cocktails_found = 0 -%}
 
 {%- for cocktail in site.pages -%}
-  {%- comment -%} Ensure we only look at recipe pages with a spirits list {%- endcomment -%}
   {%- if cocktail.layout == 'recipe' and cocktail.base_spirits -%}
     {%- if cocktail.base_spirits contains target_spirit -%}
       {%- assign filtered_cocktails = filtered_cocktails | push: cocktail -%}
@@ -29,41 +18,44 @@ layout: default
 <div class="grid-container two-thirds">
     <div><!-- div 2/3 (Main Content) -->
 
-        {%- comment -%} 
-          Display the title and description directly from the page front matter 
-        {%- endcomment -%}
-        <h2>{{ page.title }} Cocktails</h2>
+        <!-- If it's a parent, just say "Rum". If it's a specific spirit, say "White Rum Cocktails" -->
+        <h2>{{ page.title }}{% unless page.is_parent %} Cocktails{% endunless %}</h2>
         
         {%- if page.description -%}
             <p>{{ page.description }}</p>
         {%- endif -%}
         
-        <p class="text-sm text-gray-500 mb-4">Here are {{ cocktails_found }} recipe{% if cocktails_found != 1 %}s{% endif %} featuring {{ target_spirit }}.</p>
+        <!-- THIS IS THE MAGIC TAG! It pulls in the body of your markdown file (your sub-spirit loop) -->
+        {{ content }}
         
-        {%- comment -%} FIX: Assign sorted list to a new variable before looping, as filters are not allowed directly in the 'for' tag. {%- endcomment -%}
-        {%- assign sorted_cocktails = filtered_cocktails | sort: 'title' -%}
-        
-        <table class="home_table">
-        {%- for page in sorted_cocktails -%}
-        <tr>
-            <th class="home_title">
-                <a href="{{ page.url | prepend: site.baseurl }}">
-                    {{ page.title }}
-                </a>
-            </th>
-            <td class="home_spirits">
-                {%- include category_search.html -%} 
-            </td>
-            <td class="home_stars">
-                {%- include stars.html -%}
-            </td>
-        </tr>
-        {%- endfor -%}
-        </table>
+        <!-- Only show the recipe list if there are actually recipes for this exact spirit -->
+        {%- if cocktails_found > 0 -%}
+            <p class="text-sm text-gray-500 mb-4">Here are {{ cocktails_found }} recipe{% if cocktails_found != 1 %}s{% endif %} featuring {{ target_spirit }}.</p>
+            
+            {%- assign sorted_cocktails = filtered_cocktails | sort: 'title' -%}
+            
+            <table class="home_table">
+            {%- for page in sorted_cocktails -%}
+            <tr>
+                <th class="home_title">
+                    <a href="{{ page.url | prepend: site.baseurl }}">
+                        {{ page.title }}
+                    </a>
+                </th>
+                <td class="home_spirits">
+                    {%- include category_search.html -%} 
+                </td>
+                <td class="home_stars">
+                    {%- include stars.html -%}
+                </td>
+            </tr>
+            {%- endfor -%}
+            </table>
+        {%- endif -%}
+
     </div><!-- /div 2/3-->
     
     <div class="category_column">
-        {%- comment -%} Updated to use page.icon_path based on the Ruby script we ran! {%- endcomment -%}
         {%- if page.icon_path -%}
             <img src="{{ page.icon_path }}" alt="{{ page.title }} icon" class="category_icon_large">
         {%- endif -%}

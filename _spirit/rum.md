@@ -1,8 +1,25 @@
 ---
-title: "Rum"
+# File: _spirits/rum.md
+title: Rum
 slug: rum
-icon_path: /assets/images/ingredient-white-rum.svg
+icon_path:
+is_parent: true
 description: "A broad category of spirits distilled from sugarcane byproducts like molasses or sugarcane juice."
 layout: spirits
 ---
 
+<!-- Check if the current page has sub-categories -->
+{% assign sub_spirits = site.spirit | where: "parent_category", page.slug %}
+
+{% if sub_spirits.size > 0 %}
+  <h3>Types of {{ page.title }}</h3>
+  <table class="home_table">
+    {% for sub in sub_spirits %}
+    <tr>
+        <th class="home_title"><a href="{{ sub.url | prepend: site.baseurl }}">{{ sub.title }}</a></th>
+        <td class="home_spirits">{{ sub.description }}</td>
+        <td><img src="{{ sub.icon_path }}" alt="{{ sub.title }} icon" class="category_icon_large"></td>
+    </tr>
+    {% endfor %}
+  </table>
+{% endif %}
