@@ -2,8 +2,8 @@ images:
   ingredient:
     - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican Rum
-    - url: /assets/images/ingredient-port.svg
-      title: Port
+    - url: /assets/images/ingredient-ruby_port.svg
+      title: Ruby Port
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double Strained

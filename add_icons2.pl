@@ -254,7 +254,7 @@ $INCLUDE{'amaro'} = qq|/assets/images/ingredient-amaro.svg|;
 $INCLUDE{'dark_ale'} = qq|/assets/images/ingredient-dark_ale.svg|;
 $INCLUDE{'ipa'} = qq|/assets/images/ingredient-ipa.svg|;
 $INCLUDE{'drambuie'} = qq|/assets/images/ingredient-drambuie.svg|;
-$INCLUDE{'port'} = qq|/assets/images/ingredient-port.svg|;
+$INCLUDE{'ruby-port'} = qq|/assets/images/ingredient-ruby_port.svg|;
 $INCLUDE{'tawny-port'} = qq|/assets/images/ingredient-tawny_port.svg|;
 $INCLUDE{'dubonnet-rouge'} = qq|/assets/images/ingredient-dubonnet-rouge.svg|;
 $INCLUDE{'creme-de-cassis'} = qq|/assets/images/ingredient-creme-de-casis.svg|;
@@ -540,9 +540,9 @@ foreach $file (sort @files) {
             $ingredient{'amaro'} = 1 if (/amaro/i && !$ingredient{'amaro_averna'} && !$ingredient{'amaro_nonio'});
 
 	    $ingredient{'dark_ale'} = 1 if (/dark (ale|beer)/i);
-            $ingredient{'porter'} = 1 if (/porter/i);
+        $ingredient{'porter'} = 1 if (/porter/i);
 	    $ingredient{'tawny-port'} = 1 if (/tawny port/i);
-	    $ingredient{'port'} = 1 if (/port/i && (!$ingredient{'porter'} && !$ingredient{'tawny-port'}));
+	    $ingredient{'ruby-port'} = 1 if (/ruby port/i);
             $ingredient{'ipa'} = 1 if (/ipa/i);
             $ingredient{'drambuie'} = 1 if (/drambuie/i);
             $ingredient{'spiced-rum'} = 1 if (/spiced rum/i);

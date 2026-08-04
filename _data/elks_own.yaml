@@ -3,8 +3,8 @@ images:
     - url: /assets/images/cocktail_elks_own.svg
       title: Elks Own
   ingredient:
-    - url: /assets/images/ingredient-port.svg
-      title: Port
+    - url: /assets/images/ingredient-ruby_port.svg
+      title: Ruby Port
     - url: /assets/images/ingredient-rye.svg
       title: Rye
   tool:
