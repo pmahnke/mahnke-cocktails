@@ -1,12 +1,11 @@
 ---
 layout: default-plain
 title: "Cocktail Categories"
-type: list
-iconfile: cocktail_categories
 permalink: "/bar_list/cocktail_categories/"
-youtube: ""
+iconfile: cocktail_categories
+type: list
 excerpt: |
-  The world of cocktails comprises numerous different cocktail families, each family having its own surname, distinctive traits, genetics and history. Some of these cocktail families are forgotten and facing extinction while others, such as the Daiquiri, Sour and Colada dynasties, are better known now than when they were first conceived. Follows the 36 families which populate the world of cocktails.<br><br>While not advocating that every cocktail should be pigeonholed under one of the following headings – history/rules should not be allowed to stifle creativity – these cocktail family names do give an indication to the drinker the style of cocktail they are ordering. Consequently, if a cocktail carries one of the following family names, then its ingredients, serving vessel and style should reflect the traits suggested by that name.
+  The world of cocktails comprises numerous different cocktail families, each family having its own surname, distinctive traits, genetics and history. Some of these cocktail families are forgotten and facing extinction while others, such as the Daiquiri, Sour and Colada dynasties, are better known now than when they were first conceived. Follows the 36 families which populate the world of cocktails.While not advocating that every cocktail should be pigeonholed under one of the following headings – history/rules should not be allowed to stifle creativity – these cocktail family names do give an indication to the drinker the style of cocktail they are ordering. Consequently, if a cocktail carries one of the following family names, then its ingredients, serving vessel and style should reflect the traits suggested by that name.
 ---
 
 ### Blazer
@@ -15,7 +14,7 @@ excerpt: |
 - Glassware: Snifter
 - Serve: Straight-up, still warm
 - Origin: Mid‑1800s (Jerry Thomas)
-- Example: Blue Blazer<br><br>
+- Example: Blue Blazer
 
 ### Buck
 
@@ -23,7 +22,7 @@ excerpt: |
 - Glassware: Collins or Highball
 - Serve: Over ice
 - Origin: Late 1890s (Prohibition era)
-- Example: [Rum Buck](/recipe/rum_buck.md)<br><br>
+- Example: [Rum Buck](/recipe/rum_buck/)
 
 ### Cobbler
 
@@ -31,7 +30,7 @@ excerpt: |
 - Glassware: Collins or Cobbler Glass
 - Serve: Shaken over crushed ice, garnished with fruit
 - Origin: 1930s 
-- Example: [Bramble](/recipe/bramble)<br><br>
+- Example: [Bramble](/recipe/bramble)
 
 ### Colada
 
@@ -39,7 +38,7 @@ excerpt: |
 - Glassware: Poco Grande (Colada Glass)
 - Serve: Blended with crushed ice
 - Origin: Pre-1922
-- Example: [Piña Colada](/recipe/pina_colada)<br><br>
+- Example: [Piña Colada](/recipe/pina_colada)
 
 ### Collins
 
@@ -47,10 +46,10 @@ excerpt: |
 - Glassware: Collins Glass
 - Serve: Traditionally built/stirred; now often shaken, served long over ice
 - Origin: London, 1814
-- Example: [Tom Collins](/recipe/tom_collins)<br><br>
+- Example: [Tom Collins](/recipe/tom_collins)
 
 ### Cooler
-- Composition: Wine or Spirit + Soda/Ginger Ale (plus Liqueur/Syrup/Bitters)<br><br>
+- Composition: Wine or Spirit + Soda/Ginger Ale (plus Liqueur/Syrup/Bitters)
 - Glassware: Collins Glass
 - Serve: Built or shaken over ice
 - Origin: Unclear
@@ -62,7 +61,7 @@ excerpt: |
 - Glassware: Fluted Wine Glass (sugar-rimmed)
 - Serve: Shaken and strained
 - Origin: 1840s–50s
-- Example: [Brandy Crusta](/recipe/brandy_crusta)<br><br>
+- Example: [Brandy Crusta](/recipe/brandy_crusta)
 
 ### Cup
 
@@ -70,7 +69,7 @@ excerpt: |
 - Glassware: Tankard (historically) or Collins/Goblet
 - Serve: Mixed over ice
 - Origin: Mid‑1800s
-- Example: [Pimm's Cup](/recipe/pimms_cup)<br><br>
+- Example: [Pimm's Cup](/recipe/pimms_cup)
 
 ### Daisy
 
@@ -78,7 +77,7 @@ excerpt: |
 - Glassware: Coupe, Old‑Fashioned, or Goblet
 - Serve: Shaken, served up, on the rocks, or frozen
 - Origin: Pre‑1876
-- Example: [Margarita](/recipe/margarita)<br><br>
+- Example: [Margarita](/recipe/margarita)
 
 ### Eggnog
 
@@ -86,7 +85,7 @@ excerpt: |
 - Glassware: Old‑Fashioned, Collins, or Toddy Mug
 - Serve: Shaken; can be served hot
 - Origin: 1600s
-- Example: [Eggnog](/recipe/eggnog)<br><br>
+- Example: [Eggnog](/recipe/eggnog)
 
 ### Fix
 
@@ -109,7 +108,7 @@ excerpt: |
 - Glassware: Coupe or Wine Glass
 - Serve: Shaken and served up, or served hot
 - Origin: 1600s England
-- Example: [Sherry Flip](/recipe/sherry_flip)<br><br>
+- Example: [Sherry Flip](/recipe/sherry_flip)
 
 ### Frappé
 
@@ -117,7 +116,7 @@ excerpt: |
 - Glassware: Varies
 - Serve: Poured over crushed ice
 - Origin: 1800s
-- Example: [Absinthe Frappé](/recipe/absinthe_frappe)<br><br>
+- Example: [Absinthe Frappé](/recipe/absinthe_frappe)
 
 ### Frozen
 
@@ -125,7 +124,7 @@ excerpt: |
 - Glassware: Varies
 - Serve: Blended to slushy consistency
 - Origin: Post‑1937 (invention of electric blender)
-- Example: [Frozen Strawberry Margarita](/recipe/margarita_strawberry)<br><br>
+- Example: [Frozen Strawberry Margarita](/recipe/margarita_strawberry)
 
 ### Grog
 
@@ -133,12 +132,12 @@ excerpt: |
 - Glassware: Double Old‑Fashioned Glass
 - Serve: Shaken, served on the rocks
 - Origin: 1740s
-- Example:  [Royal Navy Grog](/recipe/grog/)<br><br>
+- Example:  [Royal Navy Grog](/recipe/grog/)
 
 ### Highball
 
 - Composition: Spirit + Carbonated Mixer (Tonic, Soda, etc.)
-- Glassware: Highball Glass (up to 10 oz)<br><br>
+- Glassware: Highball Glass (up to 10 oz)
 - Serve: Built over ice
 - Origin: 1890s, Cincinnati
 - Example:  Scotch Whisky Highball
@@ -149,7 +148,7 @@ excerpt: |
 - Glassware: Julep Cup
 - Serve: Muddled mint, served over crushed ice
 - Origin: 1634 England
-- Example: [Mint Julep](/recipe/mint_julep)<br><br>
+- Example: [Mint Julep](/recipe/mint_julep)
 
 ### Martini
 
@@ -157,15 +156,15 @@ excerpt: |
 - Glassware: Martini Glass
 - Serve: Shaken or stirred, served straight-up
 - Origin: Early 1900s
-- Example: [Martini](/recipe/martini)<br><br>
+- Example: [Martini](/recipe/martini)
 
-### 'Martini’-Style (Alternatini)<br><br>
+### 'Martini’-Style (Alternatini)
 
 - Composition: Vodka or Spirit + Various Ingredients (e.g., Coffee Liqueur, Fruit Liqueurs)
 - Glassware: Coupe or Martini Glass
 - Serve: Shaken, served up
 - Origin: 1990s
-- Example: [Espresso Martini](/recipe/espresso_martini)<br><br>
+- Example: [Espresso Martini](/recipe/espresso_martini)
 
 ### Mull
 
@@ -181,7 +180,7 @@ excerpt: |
 - Glassware: Varies
 - Serve: Shaken, served over ice
 - Note: Similar to eggnog (nog includes both egg and cream)
-- Example: [Eggnog](/recipe/eggnog)<br><br>
+- Example: [Eggnog](/recipe/eggnog)
 
 ### Posset
 
@@ -197,7 +196,7 @@ excerpt: |
 - Glassware: Small Tall Glass (max ~2.5 oz)
 - Serve: Carefully layered
 - Origin: Unknown
-- Example:  [Pousse Café](/recipe/pousse_cafe)<br><br>
+- Example:  [Pousse Café](/recipe/pousse_cafe)
 
 ### Punch
 
@@ -205,7 +204,7 @@ excerpt: |
 - Glassware: Punch Bowl or Collins Glass
 - Serve: Served from a bowl or individually on-the-rocks
 - Origin: 17th century India
-- Example: [Fish House Punch](/recipe/philly_fish_house_punch)<br><br>
+- Example: [Fish House Punch](/recipe/philly_fish_house_punch)
 
 ### Rickey
 
@@ -213,7 +212,7 @@ excerpt: |
 - Glassware: Highball or sour glass
 - Serve: On-the-rocks
 - Origin: 1880 Washington, D.C.
-- Example: [Gin Rickey](/recipe/gin_rickey)<br><br>
+- Example: [Gin Rickey](/recipe/gin_rickey)
 
 ### Sangaree
 
@@ -221,7 +220,7 @@ excerpt: |
 - Glassware: Collins Glass
 - Serve: On-the-rocks or up; can also be hot
 - Origin: Pre-1736
-- Example:  [Sangria](/recipe/sangria.md)<br><br>
+- Example:  [Sangria](/recipe/sangria/)
 
 ### Scaffa
 
@@ -237,7 +236,7 @@ excerpt: |
 - Glassware: Collins Glass
 - Serve: On-the-rocks
 - Origin: 1950s
-- Example: [Harvey_wallbanger](/recipe/harvey_wallbanger)<br><br>
+- Example: [Harvey_wallbanger](/recipe/harvey_wallbanger)
 
 ### Shrub
 
@@ -260,7 +259,7 @@ excerpt: |
 - Glassware: Old‑Fashioned glass
 - Serve: Over crushed or cubed ice
 - Origin: Circa 1850s
-- Example: [Strawberry Basil Smash](/recipe/strawberry_basil_smash)<br><br>
+- Example: [Strawberry Basil Smash](/recipe/strawberry_basil_smash)
 
 ### Sour
 
@@ -268,7 +267,7 @@ excerpt: |
 - Glassware: Old‑Fashioned or sour glass
 - Serve: Shaken, served up or on-the-rocks
 - Origin: First noted 1856; first recipe in Jerry Thomas 1862
-- Example: [Whiskey Sour](/recipe/whiskey_sour)<br><br>
+- Example: [Whiskey Sour](/recipe/whiskey_sour)
 
 ### Swizzle
 
@@ -276,7 +275,7 @@ excerpt: |
 - Glassware: Collins Glass
 - Serve: Crushed ice, stirred with a swizzle stick
 - Origin: 17th-century Caribbean
-- Example: [Queen’s Park Swizzle](/recipe/queens_park_swizzle)<br><br>
+- Example: [Queen’s Park Swizzle](/recipe/queens_park_swizzle)
 
 ### Tea
 
@@ -284,7 +283,7 @@ excerpt: |
 - Glassware: Collins Glass
 - Serve: Built or shaken over ice
 - Origin: Prohibition-era
-- Example: [Long Island Iced Tea](/recipe/long_island_iced_tea)<br><br>
+- Example: [Long Island Iced Tea](/recipe/long_island_iced_tea)
 
 ### Toddy
 
@@ -292,4 +291,4 @@ excerpt: |
 - Glassware: Toddy Mug
 - Serve: Stirred in pre-warmed vessel
 - Origin: At least 1786
-- Example:  [Scotch Toddy](/recipe/go-to_toddy.md)<br><br> 
+- Example:  [Scotch Toddy](/recipe/go-to_toddy/) 
