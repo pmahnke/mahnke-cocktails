@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/dirty_martini/"
 iconfile: dirty_martini
 stars: 3.5
-base_spirits: ['Vodka', 'Gin']
+base_spirits: ['Vodka', 'Plymouth Gin']
 youtube: "cwunL1zBgnI"
 description: "A classic savory Martini variation that incorporates a small amount of olive brine for a salty kick."
 excerpt: |
@@ -46,7 +46,7 @@ date: 2025-08-11
 | ------------: | -------------- | ------------------------------ |
 |       <span class="onex active">2 whole </span> <span class="onehalfx">3 whole </span> <span class="twox">4 whole </span> <span class="threex">6 whole </span>| Olives         |                                |
 |    <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Olive Brine    |                                |
-|        <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Gin            | Plymouth                       |
+|        <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Plymouth Gin            | Plymouth                       |
 |       <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Dry Vermouth   | Dolin Dry Vermouth de Chambéry |
 | <span class="onex active">1 to 2 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> to 3 dashes</span> <span class="twox">2 to 4 dashes</span> <span class="threex">3 to 6 dashes</span>| Orange Bitters | Regan’s No. 6                  |
 

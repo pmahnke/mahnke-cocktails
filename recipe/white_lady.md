@@ -8,7 +8,7 @@ categories: [sour, daisy]
 permalink: "/recipe/white_lady/"
 iconfile: white_lady
 stars: 4
-base_spirits: "Triple Sec, Crème de Menthe, Gin "
+base_spirits: "Triple Sec, Crème de Menthe, Plymouth Gin "
 youtube: "IAmf7XqE0T8"
 description: "A classic Prohibition-era sour that pairs the botanicals of gin with orange liqueur, lemon juice, and a silky egg white."
 excerpt: |
@@ -44,7 +44,7 @@ date: 2025-12-23
 
 |  Amount | Ingredient                                      | Brand           |
 | ------: | ----------------------------------------------- | --------------- |
-|  1.5 oz | Gin                                             | Plymouth        |
+|  1.5 oz | Plymouth Gin                                             | Plymouth        |
 | 0.75 oz | Triple Sec                                      | Luxardo Triplum |
 | 0.75 oz | Fresh Lemon Juice                               |
 | 0.25 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |

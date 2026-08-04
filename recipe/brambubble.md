@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/brambubble/"
 iconfile: brambubble
 stars: 0
-base_spirits: "Champagne, Gin, Crème de Mûre"
+base_spirits: "Champagne, London Dry Gin, Crème de Mûre"
 youtube: "IAaiRENeyvc&t=639s"
 description: "A refreshing and vibrant Champagne cocktail made with blackberry brandy, lemon, and ginger ale."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                                | Brand           |
 | ------: | --------------------------------------------------------- | --------------- |
-|    1 oz | Gin                                                       | Martin Miller’s |
+|    1 oz | London Dry Gin                                                       | Martin Miller’s |
 |  0.5 oz | Crème de Mûre                                             | Combier         |
 | 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |                 |
 |  0.5 oz | Fresh Lemon Juice                                         |

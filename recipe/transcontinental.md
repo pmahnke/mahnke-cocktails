@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/transcontinental/"
 iconfile: transcontinental
 stars: 0
-base_spirits: "Gin, Maraschino Liqueur, Yellow Chartreuse, Crème de Violette"
+base_spirits: "London Dry Gin, Maraschino Liqueur, Yellow Chartreuse, Crème de Violette"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/9724/transcontinental"
 description: "The Last Word meets the Aviation somewhere over the French-Italian border."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2026-02-05
 
 |     Amount | Ingredient         | Brand               |
 | ---------: | ------------------ | ------------------- |
-|    1.75 oz | Gin                | Hayman's London Dry |
+|    1.75 oz | London Dry Gin                | Hayman's London Dry |
 |  0.3333 oz | Maraschino Liqueur | Luxardo             |
 | 1 barspoon | Yellow Chartreuse  | Yellow Chartreuse   |
 |    0.25 oz | Crème de Violette  | Rothman & Winter    |

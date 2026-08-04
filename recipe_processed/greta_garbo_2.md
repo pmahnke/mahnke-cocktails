@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/greta_garbo_2/"
 iconfile: greta_garbo_2
 stars: 3.5
-base_spirits: ['Gin', 'Swedish Punsch']
+base_spirits: ['London Dry Gin', 'Swedish Punsch']
 youtube: "79htbyQ8nDY"
 description: "A Prohibition-era cocktail named for the Swedish actress, featuring gin and the unique spice of Swedish Punsch."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-10-20
 
 |  Amount | Ingredient                                                | Brand     |
 | ------: | --------------------------------------------------------- | --------- |
-|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gin                                                       | Beefeater |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| London Dry Gin                                                       | Beefeater |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Swedish Punsch                                            | Kronan    |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lemon Juice                                         |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
@@ -46,7 +46,7 @@ date: 2025-10-20
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "  1 oz Gin",
+  "  1 oz London Dry Gin",
   " 0.5 oz Swedish Punsch",
   " 0.5 oz Fresh Lemon Juice",
   " 0.25 oz Semi-Rich Simple Syrup"

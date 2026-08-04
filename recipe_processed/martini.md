@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/martini/"
 iconfile: martini
 stars: 4
-base_spirits: ['Gin']
+base_spirits: ['London Dry Gin']
 youtube: "izZsjqnADAA"
 description: "The iconic, elegant, and simple classic cocktail, typically made with gin and dry vermouth and garnished with an olive or a lemon twist."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-10-20
 
 |        Amount | Ingredient                   | Brand                          |
 | ------------: | ---------------------------- | ------------------------------ |
-|        <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Gin                          | Martin Miller's                |
+|        <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| London Dry Gin                          | Martin Miller's                |
 |       <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Dry Vermouth                 | Dolin Vermouth de Chambéry Dry |
 | <span class="onex active">1 to 2 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> to 3 dashes</span> <span class="twox">2 to 4 dashes</span> <span class="threex">3 to 6 dashes</span>| Orange Bitters Regan's No. 6 |
 
@@ -45,7 +45,7 @@ date: 2025-10-20
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "    1.5 oz Gin",
+  "    1.5 oz London Dry Gin",
   "    0.75 oz Dry Vermouth",
   " 1 to 2 dashes Orange Bitters Regan's No. 6"
     ],

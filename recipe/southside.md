@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/southside/"
 iconfile: southside
 stars: 0
-base_spirits: "Gin"
+base_spirits: "London Dry Gin"
 youtube: "yxFAGMuM2I"
 description: "A simple and refreshing pre-Prohibition classic sour that combines gin, citrus, and fresh mint."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |         Amount | Ingredient                                                | Brand        |
 | -------------: | --------------------------------------------------------- | ------------ |
-|           2 oz | Gin                                                       | The Botanist |
+|           2 oz | London Dry Gin                                                       | The Botanist |
 |         0.5 oz | Fresh Lemon Juice                                         |
 |         0.5 oz | Fresh Lime Juice                                          |
 |        0.75 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |

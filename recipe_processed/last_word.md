@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/last_word/"
 iconfile: last_word
 stars: 5
-base_spirits: ['Gin', 'Green Chartreuse', 'Maraschino Liqueur']
+base_spirits: ['London Dry Gin', 'Green Chartreuse', 'Maraschino Liqueur']
 youtube: "ueiHrjWgC-jSAvQn"
 description: "A sharp, pungent, and complex Prohibition-era classic featuring equal parts gin, Green Chartreuse, maraschino liqueur, and lime."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-12-23
 
 |  Amount | Ingredient         | Brand                      |
 | ------: | ------------------ | -------------------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Gin                | The Botanist Islay Dry Gin |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| London Dry Gin                | The Botanist |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Green Chartreuse   | Green Chartreuse           |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Maraschino Liqueur | Luxardo                    |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lime Juice   |
@@ -44,7 +44,7 @@ date: 2025-12-23
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 0.75 oz Gin",
+  " 0.75 oz London Dry Gin",
   " 0.75 oz Green Chartreuse",
   " 0.75 oz Maraschino Liqueur",
   " 0.75 oz Fresh Lime Juice"

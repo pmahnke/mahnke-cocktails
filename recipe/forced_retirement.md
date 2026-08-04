@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/forced_retirement/"
 iconfile: forced_retirement
 stars: 0
-base_spirits: "Malört, Gin, Campari"
+base_spirits: "Malört, London Dry Gin, Campari"
 youtube: "shi2LNARyxk"
 description: "A unique and intensely bitter highball that prominently features Malört, a classic Chicago spirit."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-14
 |  Amount | Ingredient                                                    | Brand                |
 | ------: | ------------------------------------------------------------- | -------------------- |
 | 0.75 oz | Malört                                                        | Jeppson's            |
-|    1 oz | Gin                                                           | Beefeater London Dry |
+|    1 oz | London Dry Gin                                                           | Beefeater London Dry |
 |  0.5 oz | Amaro                                                         | Campari              |
 | 0.75 oz | [Passion Fruit Syrup]({%link recipe/passion_fruit_syrup.md%}) |
 | 0.75 oz | Fresh Lime Juice                                              |

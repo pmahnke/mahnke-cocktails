@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/spring_forward/"
 iconfile: spring_forward
 stars: 0
-base_spirits: "Pisco, Gin, Cocchi Americano"
+base_spirits: "Pisco, Plymouth Gin, Cocchi Americano"
 youtube: "RRvfkkSjceM"
 description: "A light and refreshing original cocktail perfect for warmer months, featuring a unique combination of pisco, gin, and Cocchi Americano."
 excerpt: |
@@ -22,7 +22,7 @@ date: 2025-08-11
 | 1 whole | Strawberry                                                |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |    1 oz | Pisco                                                     | Barsol Quebranta |
-|  0.5 oz | Gin                                                       | Plymouth         |
+|  0.5 oz | Plymouth Gin                                                       | Plymouth         |
 | 0.75 oz | Cocchi Americano                                          | Cocchi Americano |
 | 0.75 oz | Fresh Lemon Juice                                         |
 

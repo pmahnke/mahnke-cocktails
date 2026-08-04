@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/three_shades_of_green/"
 iconfile: three_shades_of_green
 stars: 0
-base_spirits: "Gin, Green Chartreuse"
+base_spirits: "London Dry Gin, Green Chartreuse"
 youtube: "https://uws.theconsulate.nyc/new-york-upper-west-side-the-consulate-drink-menu"
 description: "An original modern cocktail with a complex herbal profile from gin and Green Chartreuse."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |   Amount | Ingredient                                                | Brand            |
 | -------: | --------------------------------------------------------- | ---------------- |
-|   1.5 oz | Gin                                                       |
+|   1.5 oz | London Dry Gin                                                       |
 |   0.5 oz | Green Chartreuse                                          | Green Chartreuse |
 |   0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |   0.5 oz | Fresh Lemon Juice                                         |

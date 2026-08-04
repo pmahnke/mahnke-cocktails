@@ -8,7 +8,7 @@ eras: [prohibition]
 permalink: "/recipe/alberto/"
 iconfile: alberto
 stars: 0
-base_spirits: "Gin, Fino Sherry"
+base_spirits: "London Dry Gin, Fino Sherry"
 youtube: "PM_X8Ci0iXg"
 description: "A Prohibition-era Martini variation that pairs the dryness of gin with the salinity of Fino sherry."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 
 | Amount | Ingredient       | Brand                 |
 | -----: | ---------------- | --------------------- |
-|   1 oz | Gin              | Martin Miller’s       |
+|   1 oz | London Dry Gin              | Martin Miller’s       |
 |   1 oz | Fino Sherry      | Valdespino "Ynocente" |
 | 0.5 oz | Cocchi Americano | Cocchi Americano      |
 | 0.5 oz | Triple Sec       | Cointreau             |

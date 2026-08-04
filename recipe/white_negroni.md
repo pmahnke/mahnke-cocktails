@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/white_negroni/"
 iconfile: white_negroni
 stars: 0
-base_spirits: "Gin, Suze, Lillet Blanc"
+base_spirits: "Plymouth Gin, Suze, Lillet Blanc"
 youtube: "fBax4HODqyA"
 description: "A popular and modern Negroni variation that swaps the red Campari and sweet vermouth for their lighter, floral counterparts: Suze and Lillet Blanc."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-10-08
 
 |  Amount | Ingredient      | Brand        |
 | ------: | --------------- | ------------ |
-|  1.5 oz | Gin             | Plymouth     |
+|  1.5 oz | Plymouth Gin             | Plymouth     |
 | 0.75 oz | Gentian Liqueur | Suze         |
 | 0.75 oz | Lillet Blanc    | Lillet Blanc |
 

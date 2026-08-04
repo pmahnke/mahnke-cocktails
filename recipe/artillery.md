@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/artillery/"
 iconfile: artillery
 stars: 0
-base_spirits: "Gin, Sweet Vermouth"
+base_spirits: "Plymouth Gin, Sweet Vermouth"
 youtube: "jzg4GuY4Fcg"
 description: "A classic Martini variation known for its balanced blend of sweet and savory flavors, with a subtle herbaceousness from the gin."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |   Amount | Ingredient     | Brand                     |
 | -------: | -------------- | ------------------------- |
-|   1.5 oz | Gin            | Plymouth                  |
+|   1.5 oz | Plymouth Gin            | Plymouth                  |
 |   1.5 oz | Sweet Vermouth | Cocchi Vermouth di Torino |
 | 2 dashes | Orange Bitters | Regan's No. 6             |
 

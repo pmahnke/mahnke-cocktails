@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/blueberry_thyme_smash/"
 iconfile: blueberry_thyme_smash
 stars: 0
-base_spirits: "Gin"
+base_spirits: "London Dry Gin"
 youtube: "3i4QnRLlPFc&t=220s"
 description: "A simple and refreshing smash that combines gin with the fruity notes of blueberries and the herbal character of thyme."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |         Amount | Ingredient                                                | Brand        |
 | -------------: | --------------------------------------------------------- | ------------ |
-|           2 oz | Gin                                                       | The Botanist |
+|           2 oz | London Dry Gin                                                       | The Botanist |
 |        0.75 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |      0.5 whole | Lemon                                                     |
 | 10 to 15 whole | Blueberries                                               |

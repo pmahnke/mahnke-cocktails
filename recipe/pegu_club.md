@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/pegu_club/"
 iconfile: pegu_club
 stars: 3
-base_spirits: "Gin "
+base_spirits: "Plymouth Gin "
 youtube: "YenVNoabM4"
 description: "A classic gin-based sour from the Prohibition era with a touch of tropical flair, originally created at the Pegu Club in Burma."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-12-23
 
 |   Amount | Ingredient       | Brand                      |
 | -------: | ---------------- | -------------------------- |
-|   1.5 oz | Gin              | Plymouth                   |
+|   1.5 oz | Plymouth Gin              | Plymouth                   |
 |  0.75 oz | Orange Curaçao   | Marie Brizard              |
 |  0.75 oz | Fresh Lime Juice |                            |
 | 2 dashes | Bitters          | Angostura Aromatic Bitters |

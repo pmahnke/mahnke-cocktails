@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/rolls_royce/"
 iconfile: rolls_royce
 stars: 0
-base_spirits: "Gin, Bénédictine"
+base_spirits: "London Dry Gin, Bénédictine"
 youtube: "UJJqbCGHsOg"
 description: "A sophisticated and elegant Prohibition-era Martini variation, featuring the addition of both sweet vermouth and Bénédictine."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |      Amount | Ingredient     | Brand                            |
 | ----------: | -------------- | -------------------------------- |
-|        2 oz | Gin            | Martin Miller's                  |
+|        2 oz | London Dry Gin            | Martin Miller's                  |
 |      0.5 oz | Dry Vermouth   | Dolin Vermouth de Chambéry Dry   |
 |      0.5 oz | Sweet Vermouth | Dolin Vermouth de Chambéry Rouge |
 | 2 barspoons | Bénédictine    | Bénédictine DOM                  |

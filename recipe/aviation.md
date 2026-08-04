@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/aviation/"
 iconfile: aviation
 stars: 4
-base_spirits: "Gin, Crème de Violette "
+base_spirits: "London Dry Gin, Crème de Violette "
 youtube: "Kmw5D32W8sM&t=345sY"
 description: "A classic gin sour from the early 20th century, celebrated for its floral notes and sky-blue hue from crème de violette."
 excerpt: |
@@ -22,7 +22,7 @@ date: 2025-12-23
 
 |  Amount | Ingredient         | Brand                                       |
 | ------: | ------------------ | ------------------------------------------- |
-|    2 oz | Gin                | Journeyman Distillery Bilberry Black Hearts |
+|    2 oz | London Dry Gin                | Journeyman Distillery Bilberry Black Hearts |
 | 0.25 oz | Crème de Violette  | Rothman and Winter                          |
 | 0.25 oz | Maraschino Liqueur | Luxardo                                     |
 |  0.5 oz | Fresh Lemon Juice  |

@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/army_navy/"
 iconfile: army_navy
 stars: 3:5
-base_spirits: "Gin"
+base_spirits: "London Dry Gin"
 youtube: "XggEyhSR2Dk"
 description: "A classic gin sour with a unique flavor profile derived from the almond and floral notes of orgeat syrup."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |   Amount | Ingredient                                | Brand                      |
 | -------: | ----------------------------------------- | -------------------------- |
-|     2 oz | Gin                                       | Beefeater                  |
+|     2 oz | London Dry Gin                                       | Beefeater                  |
 |  0.75 oz | Fresh Lemon Juice                         |
 |  0.75 oz | [Orgeat]({%link recipe/orgeat_syrup.md%}) |
 | 2 dashes | Bitters                                   | Angostura Aromatic Bitters |

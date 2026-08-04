@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/martinez/"
 iconfile: martinez
 stars: 3.5
-base_spirits: ['Gin', 'Maraschino Liqueur']
+base_spirits: ['Old Tom Gin', 'Maraschino Liqueur']
 youtube: 'MuxY7\_-_U_8'
 description: "A classic cocktail from the late 1800s, considered a precursor to the modern Martini, featuring gin, sweet vermouth, and maraschino liqueur."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient         | Brand                     |
 | ------: | ------------------ | ------------------------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 38 ml</span> <span class="onehalfx">1.875 oz  / 56 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span>| Gin                | Scofflaw Old Tom          |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 38 ml</span> <span class="onehalfx">1.875 oz  / 56 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span>| Old Tom Gin                | Scofflaw Old Tom          |
 | <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 38 ml</span> <span class="onehalfx">1.875 oz  / 56 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span>| Sweet Vermouth     | Cocchi Vermouth di Torino |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Maraschino Liqueur | Luxardo                   |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Orange Bitters     | Fee Brother's             |
@@ -44,7 +44,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1.25 oz Gin",
+  " 1.25 oz Old Tom Gin",
   " 1.25 oz Sweet Vermouth",
   " 0.25 oz Maraschino Liqueur",
   " 0.25 oz Orange Bitters"

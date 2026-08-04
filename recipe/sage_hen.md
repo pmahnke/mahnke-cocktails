@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/sage_hen/"
 iconfile: sage_hen
 stars: 0
-base_spirits: "Gin, Yellow Chartreuse "
+base_spirits: "Plymouth Gin, Yellow Chartreuse "
 youtube: "EKyIy5iG87Q"
 description: "A modern sour that showcases the unique savory and sweet flavors of fresh sage and honey."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient                                                      | Brand             |
 | ---------: | --------------------------------------------------------------- | ----------------- |
-|     1.5 oz | Gin                                                             | Plymouth          |
+|     1.5 oz | Plymouth Gin                                                             | Plymouth          |
 |    0.25 oz | Yellow Chartreuse                                               | Yellow Chartreuse |
 |    0.75 oz | Fresh Lemon Juice                                               |
 |     0.5 oz | [Sage Infused Honey Syrup]({%link recipe/sage_honey_syrup.md%}) |

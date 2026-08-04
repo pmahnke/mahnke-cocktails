@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/yvonnes_reprise/"
 iconfile: yvonnes_reprise
 stars: 0
-base_spirits: ['Gin', 'Crème de Cassis', 'Blanc Vermouth']
+base_spirits: ['London Dry Gin', 'Crème de Cassis', 'Blanc Vermouth']
 youtube: "FI4wUOzJvUE"
 description: "Yvonne’s Reprise is an original cocktail inspired by Arnaud’s musical roots. It’s essentially a sour twist on the Arnaud Martini."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-11-15
 
 |  Amount | Ingredient                                                | Brand                            |
 | ------: | --------------------------------------------------------- | -------------------------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Gin                                                       | Astraea Ocean                    |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| London Dry Gin                                                       | Astraea Ocean                    |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Crème de Cassis                                           | Jules Theuriet                   |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Blanc Vermouth                                            | Dolin Blanc Vermouth de Chambéry |
 |    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Pineapple Juice                                     |
@@ -46,7 +46,7 @@ date: 2025-11-15
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 0.75 oz Gin",
+  " 0.75 oz London Dry Gin",
   " 0.75 oz Crème de Cassis",
   " 0.75 oz Blanc Vermouth",
   "  1 oz Fresh Pineapple Juice",

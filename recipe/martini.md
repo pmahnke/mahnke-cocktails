@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/martini/"
 iconfile: martini
 stars: 4
-base_spirits: "Gin "
+base_spirits: "London Dry Gin "
 youtube: "izZsjqnADAA"
 description: "The iconic, elegant, and simple classic cocktail, typically made with gin and dry vermouth and garnished with an olive or a lemon twist."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-10-20
 
 |        Amount | Ingredient                   | Brand                          |
 | ------------: | ---------------------------- | ------------------------------ |
-|        1.5 oz | Gin                          | Martin Miller's                |
+|        1.5 oz | London Dry Gin                          | Martin Miller's                |
 |       0.75 oz | Dry Vermouth                 | Dolin Vermouth de Chambéry Dry |
 | 1 to 2 dashes | Orange Bitters Regan's No. 6 |
 

@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/shoddy_toddy/"
 iconfile: shoddy_toddy
 stars: 0
-base_spirits: ['Gin', 'Bénédictine']
+base_spirits: ['London Dry Gin', 'Bénédictine']
 youtube: "CfKrIWRMrNA"
 description: "An original hot toddy featuring a unique combination of gin and the herbal liqueur Bénédictine."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |    Amount | Ingredient                                      | Brand              |
 | --------: | ----------------------------------------------- | ------------------ |
-|      <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gin                                             | St. George         |
+|      <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| London Dry Gin                                             | St. George         |
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Bénédictine                                     | Bénédictine D.O.M. |
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Ginger Syrup]({%link recipe_processed/ginger_syrup.md%}) |
 |   <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Fresh Lemon Juice                               |
@@ -45,7 +45,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "   1 oz Gin",
+  "   1 oz London Dry Gin",
   "  0.5 oz Bénédictine",
   "  0.5 oz Ginger Syrup",
   "  0.25 oz Fresh Lemon Juice",

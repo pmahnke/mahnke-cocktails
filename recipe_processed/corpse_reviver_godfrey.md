@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/corpse_reviver_godfrey/"
 iconfile: corpse_reviver_godfrey
 stars: 0
-base_spirits: ['Gin', 'Vodka']
+base_spirits: ['London Dry Gin', 'Vodka']
 youtube: "rMCsrbidAJ4"
 description: "A classic variation from the Cafe Royal Cocktail Book featuring both gin and vodka."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient                                      | Brand                      |
 | ---------: | ----------------------------------------------- | -------------------------- |
-|       <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Gin                                             | Beefeater                  |
+|       <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| London Dry Gin                                             | Beefeater                  |
 |       <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Vodka                                           | Finlandia                  |
 | <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 |     <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters                                         | Angostura Aromatic Bitters |
@@ -45,7 +45,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "    2 oz Gin",
+  "    2 oz London Dry Gin",
   "    1 oz Vodka",
   " 1 barspoon Grenadine",
   "   1 dash Bitters"

@@ -148,6 +148,9 @@ html {
 	.grid-container.quarters {
 		grid-template-columns: repeat(4, 1fr);
 	}
+  .grid-container.three-quarters {
+		grid-template-columns: 3fr 1fr;
+	}
   .grid-container.two-thirds {
     grid-template-columns: 2fr 1fr;
   }

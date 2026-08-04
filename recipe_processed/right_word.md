@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/right_word/"
 iconfile: right_word
 stars: 3.5
-base_spirits: ['Gin', 'Elderflower Liqueur']
+base_spirits: ['London Dry Gin', 'Elderflower Liqueur']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/9680/right-word"
 description: "The Right Word is a crisp, floral variation of the Last Word, made with elderflower liqueur and Lillet Blanc instead of Green Chartreuse and maraschino."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-09-10
 
 | Amount | Ingredient          | Brand               |
 | -----: | ------------------- | ------------------- |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gin                 | Hayman's London Dry |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| London Dry Gin                 | Hayman's London Dry |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Elderflower Liqueur | St-Germain          |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Lillet Blanc        | Lillet Blanc        |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lime Juice    |
@@ -45,7 +45,7 @@ date: 2025-09-10
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "  1 oz Gin",
+  "  1 oz London Dry Gin",
   "  1 oz Elderflower Liqueur",
   "  1 oz Lillet Blanc",
   "  1 oz Fresh Lime Juice"

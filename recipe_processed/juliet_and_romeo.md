@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/juliet_and_romeo/"
 iconfile: juliet_and_romeo
 stars: 0
-base_spirits: ['Gin']
+base_spirits: ['London Dry Gin']
 youtube: "Ttnf3PbJqnA"
 description: "A refreshing and complex modern sour that blends gin with cucumber, mint, lime, and a hint of rose water."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |         Amount | Ingredient                                      | Brand                |
 | -------------: | ----------------------------------------------- | -------------------- |
-|           <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Gin                                             | Beefeater London Dry |
+|           <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| London Dry Gin                                             | Beefeater London Dry |
 |        <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lime Juice                                |
 |        <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |        <span class="onex active">3 drops </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> drops </span> <span class="twox">6 drops </span> <span class="threex">9 drops </span>| Rose Water                                      |
@@ -48,7 +48,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "      2 oz Gin",
+  "      2 oz London Dry Gin",
   "    0.75 oz Fresh Lime Juice",
   "    0.75 oz Simple Syrup",
   "    3 drops Rose Water",

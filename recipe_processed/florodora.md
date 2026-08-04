@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/florodora/"
 iconfile: florodora
 stars: 4
-base_spirits: ['Gin']
+base_spirits: ['London Dry Gin']
 youtube: "https://youtube.com/shorts/r6QW-H5nnGM?si=i7JwiTGYox34RizT"
 description: "A bright, effervescent, gin-based highball cocktail with a vibrant raspberry flavor. It perfectly balances the gin with lime and ginger."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-10-08
 
 |  Amount | Ingredient                                            | Brand         |
 | ------: | ----------------------------------------------------- | ------------- |
-|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Gin                                                   | Manly Spirits |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| London Dry Gin                                                  | Manly Spirits |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lime Juice                                      |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Raspberry Syrup]({%link recipe_processed/raspberry_syrup.md%}) |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Ginger Syrup]({%link recipe_processed/ginger_syrup.md%})       |
@@ -53,7 +53,7 @@ date: 2025-10-08
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "  2 oz Gin",
+  "  2 oz London Dry Gin",
   " 0.75 oz Fresh Lime Juice",
   " 0.5 oz Raspberry Syrup",
   " 0.5 oz Ginger Syrup",

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/clover_club/"
 iconfile: clover_club
 stars: 3
-base_spirits: "Gin "
+base_spirits: "London Dry Gin "
 youtube: "MfHv2EOLUOo&t=336s"
 description: "A pre-Prohibition classic from Philadelphia known for its silky, frothy texture and beautiful pink hue from raspberry syrup."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                            | Brand               |
 | ------: | ----------------------------------------------------- | ------------------- |
-|  1.5 oz | Gin                                                   | Broker's London Dry |
+|  1.5 oz | London Dry Gin                                                   | Broker's London Dry |
 | 0.75 oz | Fresh Lemon Juice                                     |
 |  0.5 oz | [Raspberry Syrup]({%link recipe/raspberry_syrup.md%}) |
 | 0.75 oz | Raw Egg White / Aquafaba (chickpea water)             |

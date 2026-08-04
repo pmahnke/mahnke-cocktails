@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/satellite/"
 iconfile: satellite
 stars: 0
-base_spirits: "Gin"
+base_spirits: "London Dry Gin"
 youtube: "CGkWnYhu4ag"
 description: "This is an Anders original which uses gin as its base, and is flavored with falernum and grenadine. It is a riff on the Saturn cocktail."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-10-26
 
 |  Amount | Ingredient        | Brand                      |
 | ------: | ----------------- | -------------------------- |
-|  1.5 oz | Gin               | Beefeater                  |
+|  1.5 oz | London Dry Gin               | Beefeater                  |
 | 0.75 oz | Fresh Lemon Juice |
 |  0.5 oz | Falernum          |
 | 0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})         |

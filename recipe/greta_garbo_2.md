@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/greta_garbo_2/"
 iconfile: greta_garbo_2
 stars: 0
-base_spirits: "Gin, Swedish Punsch"
+base_spirits: "London Dry Gin, Swedish Punsch"
 youtube: "79htbyQ8nDY"
 description: "A Prohibition-era cocktail named for the Swedish actress, featuring gin and the unique spice of Swedish Punsch."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-10-20
 
 |  Amount | Ingredient                                                | Brand     |
 | ------: | --------------------------------------------------------- | --------- |
-|    1 oz | Gin                                                       | Beefeater |
+|    1 oz | London Dry Gin                                                       | Beefeater |
 |  0.5 oz | Swedish Punsch                                            | Kronan    |
 |  0.5 oz | Fresh Lemon Juice                                         |
 | 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |

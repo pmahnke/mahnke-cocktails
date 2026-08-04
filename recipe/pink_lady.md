@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/pink_lady/"
 iconfile: pink_lady
 stars: 4
-base_spirits: "Gin, Apple Brandy "
+base_spirits: "London Dry Gin, Apple Brandy "
 youtube: "MfHv2EOLUOo&t=336s"
 description: "A classic Prohibition-era sour with a beautiful pink hue, featuring gin, apple brandy, and grenadine, with an egg white for a frothy texture."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2026-01-16
 
 |  Amount | Ingredient                                      | Brand               |
 | ------: | ----------------------------------------------- | ------------------- |
-|  1.5 oz | Gin                                             | Broker's London Dry |
+|  1.5 oz | London Dry Gin                                             | Broker's London Dry |
 |  0.5 oz | Apple Brandy                                    | Laird's Straight    |
 | 0.75 oz | Fresh Lemon Juice                               |
 |  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |

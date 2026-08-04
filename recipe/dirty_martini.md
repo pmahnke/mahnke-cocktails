@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/dirty_martini/"
 iconfile: dirty_martini
 stars: 0
-base_spirits: "Vodka, Gin"
+base_spirits: "Vodka, Plymouth Gin"
 youtube: "cwunL1zBgnI"
 description: "A classic savory Martini variation that incorporates a small amount of olive brine for a salty kick."
 excerpt: |
@@ -46,7 +46,7 @@ date: 2025-08-11
 | ------------: | -------------- | ------------------------------ |
 |       2 whole | Olives         |                                |
 |    1 barspoon | Olive Brine    |                                |
-|        1.5 oz | Gin            | Plymouth                       |
+|        1.5 oz | Plymouth Gin            | Plymouth                       |
 |       0.75 oz | Dry Vermouth   | Dolin Dry Vermouth de Chambéry |
 | 1 to 2 dashes | Orange Bitters | Regan’s No. 6                  |
 

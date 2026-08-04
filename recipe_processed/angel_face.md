@@ -8,7 +8,7 @@ eras: [prohibition]
 permalink: "/recipe/angel_face/"
 iconfile: angel_face
 stars: 3
-base_spirits: ['Gin', 'Apple Brandy', 'Apricot Liqueur']
+base_spirits: ['London Dry Gin', 'Apple Brandy', 'Apricot Liqueur']
 youtube: "2nHl1pBETt8"
 description: "A classic, spirit-forward cocktail from the Prohibition era that perfectly balances gin, apple brandy, and apricot liqueur."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-09-26
 
 |  Amount | Ingredient      | Brand                           |
 | ------: | --------------- | ------------------------------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 38 ml</span> <span class="onehalfx">1.875 oz  / 56 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span>| Gin             | Beefeater                       |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 38 ml</span> <span class="onehalfx">1.875 oz  / 56 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span>| London Dry Gin             | Beefeater                       |
 |    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Apple Brandy    | Roger Groult Pays D’Auge 3 Year |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Apricot Liqueur | Giffard Abricot du Roussillon   |
 
@@ -44,7 +44,7 @@ date: 2025-09-26
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1.25 oz Gin",
+  " 1.25 oz London Dry Gin",
   "  1 oz Apple Brandy",
   " 0.75 oz Apricot Liqueur"
     ],

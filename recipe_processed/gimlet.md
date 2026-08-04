@@ -7,11 +7,11 @@ categories: [sour]
 permalink: "/recipe/gimlet/"
 iconfile: gimlet
 stars: 5
-base_spirits: ['Gin']
+base_spirits: ['London Dry Gin']
 youtube: "TuiCT7tDO88"
 description: "A classic and sharp sour whose history traces back to the British Royal Navy, traditionally combining gin with lime cordial."
 excerpt: |
-  Although the Gin Gimlet was published in Harry Craddock's The Savoy Cocktail Book from which it gained noteriety, the drink actually traces it's history back further to the British Royal Navy who were using lime juice to ward off scurvy. The Gimlet was purportedly invented by Rear Admiral Sir Thomas Desmond Gimlette who mixed the concoction to make the lime rations more palatable for his crew. Acting as doctor for the superior officers, mixed the lime with sugar and gin to mask the bitter taste. Unlike their superior officers, the regular naval sailor was given rum rations which they would also mix with sugar and lime, which came to be known as "grog". That mixture finds it's origins in the english trading vessels of 14th century England and gave birth to another famous cocktail which we will revisit in another episode.
+  Although the London Dry Gin Gimlet was published in Harry Craddock's The Savoy Cocktail Book from which it gained noteriety, the drink actually traces it's history back further to the British Royal Navy who were using lime juice to ward off scurvy. The Gimlet was purportedly invented by Rear Admiral Sir Thomas Desmond Gimlette who mixed the concoction to make the lime rations more palatable for his crew. Acting as doctor for the superior officers, mixed the lime with sugar and gin to mask the bitter taste. Unlike their superior officers, the regular naval sailor was given rum rations which they would also mix with sugar and lime, which came to be known as "grog". That mixture finds it's origins in the english trading vessels of 14th century England and gave birth to another famous cocktail which we will revisit in another episode.
 date: 2025-08-11
 ---
 
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                                | Brand     |
 | ------: | --------------------------------------------------------- | --------- |
-|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Gin                                                       | Beefeater |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| London Dry Gin                                                       | Beefeater |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Lime Juice                                                |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
@@ -43,7 +43,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "  2 oz Gin",
+  "  2 oz London Dry Gin",
   " 0.75 oz Lime Juice",
   " 0.75 oz Semi-Rich Simple Syrup"
     ],

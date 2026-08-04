@@ -8,7 +8,7 @@ categories: [tiki]
 permalink: "/recipe/singapore_sling/"
 iconfile: singapore_sling
 stars: 4
-base_spirits: "Gin, Cherry Liqueur, Bénédictine"
+base_spirits: "London Dry Gin, Cherry Liqueur, Bénédictine"
 youtube: "EjRcajuUkJk"
 youtube_embed: "https://www.youtube.com/embed/EjRcajuUkJk?si=EMdqje_4KECcUOJA"
 description: "A classic and complex long drink from Singapore, developed in 1915, featuring a gin base with cherry liqueur and Bénédictine."
@@ -25,7 +25,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                      | Brand                      |
 | ------: | ----------------------------------------------- | -------------------------- |
-|  1.5 oz | Gin                                             | Tanglin Singapore          |
+|  1.5 oz | London Dry Gin                                             | Tanglin Singapore          |
 | 0.75 oz | Cherry Liqueur                                  | Cherry Heering             |
 | 0.25 oz | Bénédictine                                     | Bénédictine DOM            |
 | 0.25 oz | Triple Sec                                      | Luxardo Triplum            |
@@ -53,7 +53,7 @@ date: 2025-08-11
 
 |         |                   |                            |
 | ------: | ----------------- | -------------------------- |
-|    1 oz | Navy Strength Gin | Tanglin Black Powder       |
+|    1 oz | Navy Strength London Dry Gin | Tanglin Black Powder       |
 |    1 oz | Cherry Liqueur    | Cherry Heering             |
 | 0.25 oz | Bénédictine       | Bénédictine DOM            |
 |    1 oz | Fresh Lime Juice  |                            |

@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/corpse_reviver_godfrey/"
 iconfile: corpse_reviver_godfrey
 stars: 0
-base_spirits: "Gin, Vodka"
+base_spirits: "London Dry Gin, Vodka"
 youtube: "rMCsrbidAJ4"
 description: "A classic variation from the Cafe Royal Cocktail Book featuring both gin and vodka."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient                                      | Brand                      |
 | ---------: | ----------------------------------------------- | -------------------------- |
-|       2 oz | Gin                                             | Beefeater                  |
+|       2 oz | London Dry Gin                                             | Beefeater                  |
 |       1 oz | Vodka                                           | Finlandia                  |
 | 1 barspoon | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 |     1 dash | Bitters                                         | Angostura Aromatic Bitters |

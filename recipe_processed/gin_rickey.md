@@ -1,21 +1,21 @@
 ---
 layout: recipe
 author: Anders Erickson
-title: "Gin Rickey"
+title: "London Dry Gin Rickey"
 categories: [highball]
 eras: [classic]
 permalink: "/recipe/gin_rickey/"
 iconfile: gin_rickey
 stars: 0
-base_spirits: ['Gin']
+base_spirits: ['London Dry Gin']
 youtube: "vOM5wbvegzo"
 description: "A classic and refreshingly tart highball from the late 19th century, featuring gin, fresh lime, and carbonated water with no added sugar."
 excerpt: |
-  The Gin Rickey is one of the few classic cocktails that doesn’t have an origin muddled by history or shrouded in rumors and innuendo. The invention of this refreshing highball is refreshingly clear: It was named after Joe Rickey, a Democratic lobbyist living in Washington, D.C., during the late 19th century.
+  The London Dry Gin Rickey is one of the few classic cocktails that doesn’t have an origin muddled by history or shrouded in rumors and innuendo. The invention of this refreshing highball is refreshingly clear: It was named after Joe Rickey, a Democratic lobbyist living in Washington, D.C., during the late 19th century.
 
   Favoring zero-sugar drinks, Rickey liked to combine bourbon and carbonated water. One day, he instructed a bartender at Shoomaker’s bar to add some lime to his preferred highball, and the Bourbon Rickey was born. The tart, dry drink is surprisingly balanced considering its lack of sugar and is invigorating on a warm day.
 
-  The Rickey took off, and soon, people were customizing the drink to their liking, with the Gin Rickey eventually becoming the most popular of them all. This simple twist subs gin for bourbon, taking advantage of the botanical spirit’s natural ability to pair with fresh lime (consider the Gimlet) and sparkling water (think of the Tom Collins). Sugar is present in both the aforementioned cocktails, but the Rickey stands on its own, relying on the gin and lime for flavor and the water for dilution and balance.
+  The Rickey took off, and soon, people were customizing the drink to their liking, with the London Dry Gin Rickey eventually becoming the most popular of them all. This simple twist subs gin for bourbon, taking advantage of the botanical spirit’s natural ability to pair with fresh lime (consider the Gimlet) and sparkling water (think of the Tom Collins). Sugar is present in both the aforementioned cocktails, but the Rickey stands on its own, relying on the gin and lime for flavor and the water for dilution and balance.
 date: 2025-10-20
 ---
 
@@ -24,7 +24,7 @@ date: 2025-10-20
 | Amount | Ingredient      | Brand          |
 | -----: | --------------- | -------------- |
 | <span class="onex active">1 half </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> half </span> <span class="twox">2 half </span> <span class="threex">3 half </span>| Lime            |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Gin             | Martin Millers |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| London Dry Gin             | Martin Millers |
 |   <span class="onex active">3 oz  / 90 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span> <span class="twox">6 oz  / 180 ml</span> <span class="threex">9 oz  / 270 ml</span>| Sparkling Water | Topo Chico     |
 
 #### Notes
@@ -38,7 +38,7 @@ date: 2025-10-20
 - Special Prep:
   - Drop in one ice cube
   - Juice the half lime and drop in the lime shell
-  - Add the Gin
+  - Add the London Dry Gin
   - Drop in the second ice cube
   - Top with the sparkling water
   - Feel free to swap out the base spirit
@@ -56,7 +56,7 @@ date: 2025-10-20
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1 half Lime",
-  " 1.5 oz Gin",
+  " 1.5 oz London Dry Gin",
   "  3 oz Sparkling Water"
     ],
   "name": "{{ page.title }}",
@@ -99,7 +99,7 @@ date: 2025-10-20
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add the Gin"
+      "text": "  - Add the London Dry Gin"
     },
     {
       "@type": "HowToStep",

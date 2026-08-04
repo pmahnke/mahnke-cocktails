@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/alexander/"
 iconfile: alexander
 stars: 0
-base_spirits: "Gin, Crème de Cacao"
+base_spirits: "London Dry Gin, Crème de Cacao"
 youtube: "mBGgu3qRztY"
 description: "A creamy and decadent classic that combines gin with the chocolate notes of crème de cacao and cream."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2026-03-01
 
 |  Amount | Ingredient     | Brand                                                     |
 | ------: | -------------- | --------------------------------------------------------- |
-| 0.75 oz | Gin            | Martin Millers                                            |
+| 0.75 oz | London Dry Gin            | Martin Millers                                            |
 | 0.75 oz | Crème de Cacao | Tempus Fugit                                              |
 | 0.75 oz | Cream          | half & half, heavy cream, or a favorite non-dairy creamer |
 

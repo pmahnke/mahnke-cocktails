@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/last_word/"
 iconfile: last_word
 stars: 5
-base_spirits: "Gin, Green Chartreuse, Maraschino Liqueur"
+base_spirits: "London Dry Gin, Green Chartreuse, Maraschino Liqueur"
 youtube: "ueiHrjWgC-jSAvQn"
 description: "A sharp, pungent, and complex Prohibition-era classic featuring equal parts gin, Green Chartreuse, maraschino liqueur, and lime."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-12-23
 
 |  Amount | Ingredient         | Brand                      |
 | ------: | ------------------ | -------------------------- |
-| 0.75 oz | Gin                | The Botanist Islay Dry Gin |
+| 0.75 oz | London Dry Gin                | The Botanist |
 | 0.75 oz | Green Chartreuse   | Green Chartreuse           |
 | 0.75 oz | Maraschino Liqueur | Luxardo                    |
 | 0.75 oz | Fresh Lime Juice   |

@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/long_island_iced_tea/"
 iconfile: long_island_iced_tea
 stars: 4
-base_spirits: ['Vodka', 'White Rum', 'Gin', 'Blanco Tequila']
+base_spirits: ['Vodka', 'White Rum', 'Plymouth Gin', 'Blanco Tequila']
 youtube: "jLTLBQqWzq8"
 description: "A famously potent modern cocktail that combines four different spirits (vodka, rum, gin, tequila) with triple sec, lemon, and a splash of cola."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-08-11
 | -----: | -------------------------------------------------------- | -------------------------------- |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Vodka                                                    | Union Horse Distilling Co. Rider |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| White Rum                                                | El Dorado 3 Year                 |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gin                                                      | Plymouth Gin                     |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Plymouth Gin                                                      | Plymouth Gin                     |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Blanco Tequila                                           | Siete Leguas Blanco              |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Triple Sec                                               | Luxardo Triplum                  |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lemon Juice                                        |
@@ -50,7 +50,7 @@ date: 2025-08-11
   "recipeIngredient": [
   "  1 oz Vodka",
   "  1 oz White Rum",
-  "  1 oz Gin",
+  "  1 oz Plymouth Gin",
   "  1 oz Blanco Tequila",
   "  1 oz Triple Sec",
   "  1 oz Fresh Lemon Juice",

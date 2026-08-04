@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/frozoni/"
 iconfile: frozoni
 stars: 0
-base_spirits: "Gin, Campari, Prosecco"
+base_spirits: "London Dry Gin, Campari, Prosecco"
 youtube: "ipHnOhkGWug"
 description: "A frozen, slushy variation of the Enzoni cocktail, blending gin, Campari, and muddled grapes with the sparkle of prosecco."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 |  Amount | Ingredient                                                | Brand    |
 | ------: | --------------------------------------------------------- | -------- |
 | 5 whole | Grapes (frozen)                                           |
-|    1 oz | Gin                                                       | Botanist |
+|    1 oz | London Dry Gin                                                     | The Botanist |
 |    1 oz | Amaro                                                   | Campari  |
 | 0.75 oz | Fresh Lemon Juice                                         |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |

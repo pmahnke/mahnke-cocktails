@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/blueberry_thyme_smash/"
 iconfile: blueberry_thyme_smash
 stars: 0
-base_spirits: ['Gin']
+base_spirits: ['London Dry Gin']
 youtube: "3i4QnRLlPFc&t=220s"
 description: "A simple and refreshing smash that combines gin with the fruity notes of blueberries and the herbal character of thyme."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |         Amount | Ingredient                                                | Brand        |
 | -------------: | --------------------------------------------------------- | ------------ |
-|           <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Gin                                                       | The Botanist |
+|           <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| London Dry Gin                                                       | The Botanist |
 |        <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Semi-rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |      <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> whole </span> <span class="twox">1 whole </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span>| Lemon                                                     |
 | <span class="onex active">10 to 15 whole </span> <span class="onehalfx">15 to 22 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">20 to 30 whole </span> <span class="threex">30 to 45 whole </span>| Blueberries                                               |
@@ -45,7 +45,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "      2 oz Gin",
+  "      2 oz London Dry Gin",
   "    0.75 oz Semi-rich Simple Syrup",
   "   0.5 whole Lemon",
   " 10 to 15 whole Blueberries",

@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/aunt_roberta/"
 iconfile: aunt_roberta
 stars: 0
-base_spirits: ['Vodka', 'Absinthe', 'Gin', 'Cognac', 'Crème de Mûre']
+base_spirits: ['Vodka', 'Absinthe', 'London Dry Gin', 'Cognac', 'Crème de Mûre']
 youtube: "idnVFvygleU"
 description: "Known as one of the strongest drinks in the world, the Aunt Roberta is a lethal, multi-spirit concoction that famously contains 100% alcohol by volume because it utilizes no mixers like juice or soda."
 excerpt: |
@@ -25,7 +25,7 @@ date: 2026-02-02
 | -----: | ------------- | ----------------- |
 |   <span class="onex active">3 oz  / 90 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span> <span class="twox">6 oz  / 180 ml</span> <span class="threex">9 oz  / 270 ml</span>| Vodka         | Hangar One        |
 |   <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Absinthe      | St. George Verte  |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gin           | Beefeater         |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| London Dry Gin           | Beefeater         |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Cognac        | Maison Rouge VSOP |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Crème de Mûre | Combier           |
 
@@ -70,7 +70,7 @@ date: 2026-02-02
 
 |   Amount | Ingredient    | Brand             |
 | -------: | ------------- | ----------------- |
-|     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gin           | Beefeater         |
+|     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| London Dry Gin           | Beefeater         |
 |     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Cognac        | Maison Rouge VSOP |
 |  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Vodka         | Hangar One        |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Crème de Mûre | Combier           |
@@ -101,7 +101,7 @@ date: 2026-02-02
   "recipeIngredient": [
   "  3 oz Vodka",
   "  2 oz Absinthe",
-  "  1 oz Gin",
+  "  1 oz London Dry Gin",
   "  1 oz Cognac",
   "  1 oz Crème de Mûre"
     ],

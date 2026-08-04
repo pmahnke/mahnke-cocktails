@@ -8,7 +8,7 @@ categories: [tiki]
 permalink: "/recipe/saturn/"
 iconfile: saturn
 stars: 0
-base_spirits: "Gin"
+base_spirits: "London Dry Gin"
 youtube: "q060mzbSrco"
 description: "An award-winning tiki classic from 1967 that uniquely uses gin as its base, flavored with passion fruit, falernum, and orgeat."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-10-20
 
 |  Amount | Ingredient                                | Brand                   |
 | ------: | ----------------------------------------- | ----------------------- |
-|  1.5 oz | Gin                                       | Beefeater               |
+|  1.5 oz | London Dry Gin                                       | Beefeater               |
 |  0.5 oz | [Orgeat]({%link recipe/orgeat_syrup.md%}) |
 | 0.25 oz | Passion Fruit Syrup                       |
 | 0.25 oz | Falernum                                  | John D. Taylor’s Velvet |

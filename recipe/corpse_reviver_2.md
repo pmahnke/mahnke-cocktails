@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/corpse_reviver_2/"
 iconfile: corpse_reviver_2
 stars: 5
-base_spirits: "Gin, Cocchi Americano"
+base_spirits: "London Dry Gin, Cocchi Americano"
 youtube: "bGxOcLRCBWk"
 description: "The most famous of the Corpse Revivers, this is a bright, pre-Prohibition sour featuring equal parts gin, Lillet Blanc, orange liqueur, and lemon, with an absinthe rinse."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-12-23
 
 |  Amount | Ingredient        | Brand                      |
 | ------: | ----------------- | -------------------------- |
-| 0.75 oz | Gin               | The Botanist Islay Dry Gin |
+| 0.75 oz | London Dry Gin               | The Botanist Islay Dry London Dry Gin |
 | 0.75 oz | Cocchi Americano  | Cocchi Americano           |
 | 0.75 oz | Triple Sec        | Luxardo Triplum            |
 | 0.75 oz | Fresh Lemon Juice |

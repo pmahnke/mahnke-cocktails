@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/clover_club2/"
 iconfile: clover_club2
 stars: 4.75
-base_spirits: ['Gin']
+base_spirits: ['Plymouth Gin']
 youtube: "MkLZovhDN_k"
 description: "A pre-Prohibition classic from Philadelphia known for its silky, frothy texture and beautiful pink hue from raspberry syrup."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2026-03-01
 
 |  Amount | Ingredient                                                | Brand                            |
 | ------: | --------------------------------------------------------- | -------------------------------- |
-|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gin                                                       | Plymouth                         |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Plymouth Gin                                                       | Plymouth                         |
 |    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Blanc Vermouth                                            | Dolin Blanc Vermouth de Chambéry |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lemon Juice                                         |
 | <span class="onex active">5 whole </span> <span class="onehalfx">7 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">10 whole </span> <span class="threex">15 whole </span>| Raspberries                                               |
@@ -46,7 +46,7 @@ date: 2026-03-01
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "  1 oz Gin",
+  "  1 oz Plymouth Gin",
   "  1 oz Blanc Vermouth",
   " 0.75 oz Fresh Lemon Juice",
   " 5 whole Raspberries",

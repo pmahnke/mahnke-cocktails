@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/gin_daisy/"
 iconfile: gin_daisy
 stars: 0
-base_spirits: "Gin, Bénédictine"
+base_spirits: "Plymouth Gin, Bénédictine"
 youtube: "EyB4Ymian3Q"
 description: "A classic Daisy variation that uses gin as its base, complemented by the herbal sweetness of Bénédictine."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                      | Brand              |
 | ------: | ----------------------------------------------- | ------------------ |
-|  1.5 oz | Gin                                             | Plymouth           |
+|  1.5 oz | Plymouth Gin                                             | Plymouth           |
 | 0.25 oz | Bénédictine                                     | Bénédictine D.O.M. |
 |  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 0.75 oz | Fresh Lemon Juice                               |

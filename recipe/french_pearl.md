@@ -8,7 +8,7 @@ categories: [sour]
 permalink: "/recipe/french_pearl/"
 iconfile: french_pearl
 stars: 0
-base_spirits: "Gin, Absinthe"
+base_spirits: "London Dry Gin, Absinthe"
 youtube: "OA7FWMVx9AY"
 description: "A modern classic from 2006, this is a refreshing gin sour with a distinct anise note from an absinthe rinse."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |        Amount | Ingredient                                                | Brand                      |
 | ------------: | --------------------------------------------------------- | -------------------------- |
-|          2 oz | Gin                                                       | East London Liquor Company |
+|          2 oz | London Dry Gin                                                      | East London Liquor Company |
 |       0.75 oz | Lime Juice                                                |
 |       0.75 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |       1 rinse | Absinthe                                                  |

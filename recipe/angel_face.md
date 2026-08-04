@@ -8,7 +8,7 @@ eras: [prohibition]
 permalink: "/recipe/angel_face/"
 iconfile: angel_face
 stars: 3
-base_spirits: "Gin, Apple Brandy, Apricot Liqueur"
+base_spirits: "London Dry Gin, Apple Brandy, Apricot Liqueur"
 youtube: "2nHl1pBETt8"
 description: "A classic, spirit-forward cocktail from the Prohibition era that perfectly balances gin, apple brandy, and apricot liqueur."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-09-26
 
 |  Amount | Ingredient      | Brand                           |
 | ------: | --------------- | ------------------------------- |
-| 1.25 oz | Gin             | Beefeater                       |
+| 1.25 oz | London Dry Gin             | Beefeater                       |
 |    1 oz | Apple Brandy    | Roger Groult Pays D’Auge 3 Year |
 | 0.75 oz | Apricot Liqueur | Giffard Abricot du Roussillon   |
 

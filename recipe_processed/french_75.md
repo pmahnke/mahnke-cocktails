@@ -7,7 +7,7 @@ categories: [champagne]
 permalink: "/recipe/french75/"
 iconfile: french_75
 stars: 4.75
-base_spirits: ['Champagne', 'Cognac', 'Gin']
+base_spirits: ['Champagne', 'Cognac', 'Plymouth Gin']
 youtube: "Viz7yWfcmdo"
 description: "A classic and celebratory sparkling cocktail that combines either gin or cognac with lemon, sugar, and Champagne."
 excerpt: |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | Amount | Ingredient                                      | Brand    |
 | -----: | ----------------------------------------------- | -------- |
 |   <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Champagne                                       |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gin                                             | Plymouth |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Plymouth Gin                                             | Plymouth |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lemon Juice                               |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 
@@ -75,7 +75,7 @@ date: 2025-08-11
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Champagne",
-  "  1 oz Gin",
+  "  1 oz Plymouth Gin",
   " 0.5 oz Fresh Lemon Juice",
   " 0.5 oz Simple Syrup"
     ],

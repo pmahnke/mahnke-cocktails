@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/clover_club2/"
 iconfile: clover_club2
 stars: 3
-base_spirits: "Gin "
+base_spirits: "Plymouth Gin "
 youtube: "MkLZovhDN_k"
 description: "A pre-Prohibition classic from Philadelphia known for its silky, frothy texture and beautiful pink hue from raspberry syrup."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2026-03-01
 
 |  Amount | Ingredient                                                | Brand                            |
 | ------: | --------------------------------------------------------- | -------------------------------- |
-|    1 oz | Gin                                                       | Plymouth                         |
+|    1 oz | Plymouth Gin                                                       | Plymouth                         |
 |    1 oz | Blanc Vermouth                                            | Dolin Blanc Vermouth de Chambéry |
 | 0.75 oz | Fresh Lemon Juice                                         |
 | 5 whole | Raspberries                                               |

@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/cloister/"
 iconfile: cloister
 stars: 0
-base_spirits: "Gin, Yellow Chartreuse"
+base_spirits: "London Dry Gin, Yellow Chartreuse"
 youtube: "LINK"
 description: "A modern sour that combines gin with the herbal sweetness of yellow Chartreuse and the brightness of grapefruit and lemon."
 excerpt: |
@@ -29,7 +29,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient             | Brand             |
 | ---------: | ---------------------- | ----------------- |
-|     1.5 oz | Gin                    | Beefeater         |
+|     1.5 oz | London Dry Gin                    | Beefeater         |
 |     0.5 oz | Yellow Chartreuse      | Yellow Chartreuse |
 |     0.5 oz | Grapefruit Juice       |
 |     0.5 oz | Fresh Lemon Juice      |

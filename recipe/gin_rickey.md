@@ -1,21 +1,21 @@
 ---
 layout: recipe
 author: Anders Erickson
-title: "Gin Rickey"
+title: "London Dry Gin Rickey"
 categories: [highball]
 eras: [classic]
 permalink: "/recipe/gin_rickey/"
 iconfile: gin_rickey
 stars: 0
-base_spirits: "Gin"
+base_spirits: "London Dry Gin"
 youtube: "vOM5wbvegzo"
 description: "A classic and refreshingly tart highball from the late 19th century, featuring gin, fresh lime, and carbonated water with no added sugar."
 excerpt: |
-  The Gin Rickey is one of the few classic cocktails that doesn’t have an origin muddled by history or shrouded in rumors and innuendo. The invention of this refreshing highball is refreshingly clear: It was named after Joe Rickey, a Democratic lobbyist living in Washington, D.C., during the late 19th century.
+  The London Dry Gin Rickey is one of the few classic cocktails that doesn’t have an origin muddled by history or shrouded in rumors and innuendo. The invention of this refreshing highball is refreshingly clear: It was named after Joe Rickey, a Democratic lobbyist living in Washington, D.C., during the late 19th century.
 
   Favoring zero-sugar drinks, Rickey liked to combine bourbon and carbonated water. One day, he instructed a bartender at Shoomaker’s bar to add some lime to his preferred highball, and the Bourbon Rickey was born. The tart, dry drink is surprisingly balanced considering its lack of sugar and is invigorating on a warm day.
 
-  The Rickey took off, and soon, people were customizing the drink to their liking, with the Gin Rickey eventually becoming the most popular of them all. This simple twist subs gin for bourbon, taking advantage of the botanical spirit’s natural ability to pair with fresh lime (consider the Gimlet) and sparkling water (think of the Tom Collins). Sugar is present in both the aforementioned cocktails, but the Rickey stands on its own, relying on the gin and lime for flavor and the water for dilution and balance.
+  The Rickey took off, and soon, people were customizing the drink to their liking, with the London Dry Gin Rickey eventually becoming the most popular of them all. This simple twist subs gin for bourbon, taking advantage of the botanical spirit’s natural ability to pair with fresh lime (consider the Gimlet) and sparkling water (think of the Tom Collins). Sugar is present in both the aforementioned cocktails, but the Rickey stands on its own, relying on the gin and lime for flavor and the water for dilution and balance.
 date: 2025-10-20
 ---
 
@@ -24,7 +24,7 @@ date: 2025-10-20
 | Amount | Ingredient      | Brand          |
 | -----: | --------------- | -------------- |
 | 1 half | Lime            |
-| 1.5 oz | Gin             | Martin Millers |
+| 1.5 oz | London Dry Gin             | Martin Millers |
 |   3 oz | Sparkling Water | Topo Chico     |
 
 #### Notes
@@ -38,7 +38,7 @@ date: 2025-10-20
 - Special Prep:
   - Drop in one ice cube
   - Juice the half lime and drop in the lime shell
-  - Add the Gin
+  - Add the London Dry Gin
   - Drop in the second ice cube
   - Top with the sparkling water
   - Feel free to swap out the base spirit

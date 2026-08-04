@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/kiss/"
 iconfile: kiss
 stars: 3.5
-base_spirits: ['Gin', 'Dubonnet Rouge', 'Maraschino Liqueur']
+base_spirits: ['London Dry Gin', 'Dubonnet Rouge', 'Maraschino Liqueur']
 youtube: "https://www.liquor.com/recipes/kiss/"
 description: "This original drink begins with gin and then calls on sweet vermouth, a French aperitif and an Italian liqueur."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2026-04-24
 
 |  Amount | Ingredient         | Brand          |
 | ------: | ------------------ | -------------- |
-|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Gin                |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| London Dry Gin                |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Dubonnet Rouge     | Dubonnet Rouge |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Sweet Vermouth     |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Maraschino Liqueur | Luxardo        |
@@ -50,7 +50,7 @@ date: 2026-04-24
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "  2 oz Gin",
+  "  2 oz London Dry Gin",
   " 0.75 oz Dubonnet Rouge",
   " 0.75 oz Sweet Vermouth",
   " 0.25 oz Maraschino Liqueur"

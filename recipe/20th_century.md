@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/20th_century/"
 iconfile: 20th_century
 stars: 0
-base_spirits: "Gin, Cocchi Americano, Crème de Cacao "
+base_spirits: "London Dry Gin, Cocchi Americano, Crème de Cacao "
 youtube: "6AyWk5teLv8"
 description: "A classic gin sour from 1937 featuring crème de cacao, named in honor of the famous 20th Century Limited passenger train."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-12-23
 
 |  Amount | Ingredient           | Brand            |
 | ------: | -------------------- | ---------------- |
-| 0.75 oz | Gin                  | Martin Miller's  |
+| 0.75 oz | London Dry Gin                  | Martin Miller's  |
 | 0.75 oz | Cocchi Americano     | Cocchi Americano |
 | 0.75 oz | White Crème de Cacao | Marie Brizard    |
 | 0.75 oz | Fresh Lemon Juice    |

@@ -7,11 +7,11 @@ eras: [prohibition]
 permalink: "/recipe/havana/"
 iconfile: havana
 stars: 4
-base_spirits: ['Gin', 'Swedish Punsch', 'Apricot Liqueur']
+base_spirits: ['London Dry Gin', 'Swedish Punsch', 'Apricot Liqueur']
 youtube: "VXjcObds5DY"
 description: "The Savoy's Havana Cocktail is a sweet and complex blend of spirits, featuring gin, apricot brandy, and Swedish Punsch."
 excerpt: |
-  The original Havana Cocktail from The Savoy Cocktail Book by Harry Craddock is an unusual, spirit-forward recipe that does not include rum or pineapple. It calls for a precise ratio of Gin, Apricot Brandy, and Swedish Punsch, a liqueur historically flavored with arrack. Craddock's instructions specify adding one dash of lemon juice, then shaking well before straining into a cocktail glass. The resulting drink is a complex mix of botanicals, fruit sweetness, and the unique, slightly smoky spice of the Punsch.
+  The original Havana Cocktail from The Savoy Cocktail Book by Harry Craddock is an unusual, spirit-forward recipe that does not include rum or pineapple. It calls for a precise ratio of London Dry Gin, Apricot Brandy, and Swedish Punsch, a liqueur historically flavored with arrack. Craddock's instructions specify adding one dash of lemon juice, then shaking well before straining into a cocktail glass. The resulting drink is a complex mix of botanicals, fruit sweetness, and the unique, slightly smoky spice of the Punsch.
 date: 2025-10-13
 ---
 
@@ -19,7 +19,7 @@ date: 2025-10-13
 
 | Amount | Ingredient        | Brand                         |
 | -----: | ----------------- | ----------------------------- |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Gin               | The Botanist                  |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| London Dry Gin               | The Botanist                  |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Swedish Punsch    | Kronan                        |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Apricot Liqueur   | Giffard Abricot du Roussillon |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lemon Juice |
@@ -44,7 +44,7 @@ date: 2025-10-13
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "  1 oz Gin",
+  "  1 oz London Dry Gin",
   "  1 oz Swedish Punsch",
   " 0.5 oz Apricot Liqueur",
   " 0.5 oz Fresh Lemon Juice"

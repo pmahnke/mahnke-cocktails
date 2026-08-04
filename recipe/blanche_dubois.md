@@ -8,7 +8,7 @@ eras: [new_orleans]
 permalink: "/recipe/blanche_dubois/"
 iconfile: blanche_dubois
 stars: 0
-base_spirits: "Gin, Curaçao"
+base_spirits: "London Dry Gin, Curaçao"
 youtube: "ptoAM1cWCAI"
 description: "This cocktail is a vibrant, New Orleans-born riff on the Mai Tai that swaps out the traditional rum for a crisp gin base, shaking it up with fresh lemon juice, orange curaçao, and nutty orgeat over muddled strawberry and mint."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2026-06-05
 
 |  Amount | Ingredient                                      | Brand          |
 | ------: | ----------------------------------------------- | -------------- |
-|    2 oz | Gin                                             | Beefeater      |
+|    2 oz | London Dry Gin                                             | Beefeater      |
 |  0.5 oz | Dry Curaçao                                     | Pierre Ferrand |
 | 0.75 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
 | 0.75 oz | Fresh Lemon Juice                               |

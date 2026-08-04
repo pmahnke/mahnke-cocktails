@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/bramble/"
 iconfile: bramble
 stars: 0
-base_spirits: "Gin, Crème de Mûre "
+base_spirits: "London Dry Gin, Crème de Mûre "
 youtube: "fgE5H8W5K6M"
 description: "A modern classic from the 1980s, this is a refreshing gin drink built over crushed ice with lemon and blackberry liqueur."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                                | Brand                  |
 | ------: | --------------------------------------------------------- | ---------------------- |
-|  1.5 oz | Gin                                                       | The Botanist Islay Dry |
+|  1.5 oz | London Dry Gin                                                       | The Botanist Islay Dry |
 | 0.75 oz | Fresh Lemon Juice                                         |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |  0.5 oz | Crème de Mûre                                             | Combier                |

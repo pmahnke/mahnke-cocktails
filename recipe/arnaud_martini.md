@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/arnaud_martini/"
 iconfile: arnaud_martini
 stars: 0
-base_spirits: "Gin, Crème de Cassis, Blanc Vermouth"
+base_spirits: "London Dry Gin, Crème de Cassis, Blanc Vermouth"
 youtube: "FI4wUOzJvUE"
 description: "A classic cocktail that features gin, dry vermouth, and crème de cassis in equal parts. It is known for its rich burgundy color and an interesting balance of blackcurrant fruitiness and herbal, dry notes."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-11-15
 
 | Amount | Ingredient      | Brand                            |
 | -----: | --------------- | -------------------------------- |
-|   1 oz | Gin             | Astraea Ocean                    |
+|   1 oz | London Dry Gin             | Astraea Ocean                    |
 |   1 oz | Crème de Cassis | Jules Theuriet                   |
 |   1 oz | Blanc Vermouth  | Dolin Blanc Vermouth de Chambéry |
 

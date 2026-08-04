@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/beesknees_smoked/"
 iconfile: beesknees_smoked
 stars: 3
-base_spirits: "Gin "
+base_spirits: "London Dry Gin "
 youtube: "gZdT2GBf91I"
 description: "A smoky twist on the classic Prohibition-era Bee's Knees, which traditionally combines gin, lemon, and honey."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                    | Brand        |
 | ------: | --------------------------------------------- | ------------ |
-|    2 oz | Gin                                           | The Botanist |
+|    2 oz | London Dry Gin                                           | The Botanist |
 | 0.75 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 | 0.75 oz | Fresh Lemon Juice                             |
 

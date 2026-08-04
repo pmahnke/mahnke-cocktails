@@ -7,7 +7,7 @@ categories: [martini]
 permalink: "/recipe/vesper/"
 iconfile: vesper
 stars: 0
-base_spirits: "Gin, Vodka, Cocchi Americano"
+base_spirits: "London Dry Gin, Vodka, Cocchi Americano"
 youtube: "VBSjE-P_C58"
 description: "A classic Martini variation invented by Ian Fleming for James Bond, featuring a potent combination of both gin and vodka with Cocchi Americano."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 | Amount | Ingredient       | Brand                            |
 | -----: | ---------------- | -------------------------------- |
-| 1.5 oz | Gin              | Botanist                         |
+| 1.5 oz | London Dry Gin              | The Botanist                         |
 |   1 oz | Vodka            | Union Horse Distilling Co. Rider |
 | 0.5 oz | Cocchi Americano | Cocchi Americano                 |
 

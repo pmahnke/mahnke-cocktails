@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/kiss/"
 iconfile: kiss
 stars: 0
-base_spirits: "Gin, Dubonnet Rouge, Maraschino Liqueur"
+base_spirits: "London Dry Gin, Dubonnet Rouge, Maraschino Liqueur"
 youtube: "https://www.liquor.com/recipes/kiss/"
 description: "This original drink begins with gin and then calls on sweet vermouth, a French aperitif and an Italian liqueur."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2026-04-24
 
 |  Amount | Ingredient         | Brand          |
 | ------: | ------------------ | -------------- |
-|    2 oz | Gin                |
+|    2 oz | London Dry Gin                |
 | 0.75 oz | Dubonnet Rouge     | Dubonnet Rouge |
 | 0.75 oz | Sweet Vermouth     |
 | 0.25 oz | Maraschino Liqueur | Luxardo        |

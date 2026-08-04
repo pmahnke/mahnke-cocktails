@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/neptunes_wrath/"
 iconfile: neptunes_wrath
 stars: 0
-base_spirits: "Gin, Absinthe, Green Chartreuse"
+base_spirits: "Plymouth Gin, Absinthe, Green Chartreuse"
 youtube: "eoMchfbaVPw"
 description: "A visually dramatic modern sour that represents the fury of the sea with its green hue from absinthe and a flaming Chartreuse float."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                                | Brand            |
 | ------: | --------------------------------------------------------- | ---------------- |
-|  1.5 oz | Gin                                                       | Plymouth         |
+|  1.5 oz | Plymouth Gin                                                       | Plymouth         |
 | 0.25 oz | Absinthe                                                  | Pernod           |
 | 0.75 oz | Fresh Lemon Juice                                         |
 | 0.75 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |                  |

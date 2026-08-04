@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/martinez/"
 iconfile: martinez
 stars: 0
-base_spirits: "Gin, Maraschino Liqueur"
+base_spirits: "Old Tom Gin, Maraschino Liqueur"
 youtube: 'MuxY7\_-_U_8'
 description: "A classic cocktail from the late 1800s, considered a precursor to the modern Martini, featuring gin, sweet vermouth, and maraschino liqueur."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient         | Brand                     |
 | ------: | ------------------ | ------------------------- |
-| 1.25 oz | Gin                | Scofflaw Old Tom          |
+| 1.25 oz | Old Tom Gin                | Scofflaw Old Tom          |
 | 1.25 oz | Sweet Vermouth     | Cocchi Vermouth di Torino |
 | 0.25 oz | Maraschino Liqueur | Luxardo                   |
 | 0.25 oz | Orange Bitters     | Fee Brother's             |

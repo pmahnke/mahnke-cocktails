@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/eastside/"
 iconfile: eastside
 stars: 3
-base_spirits: ['Gin']
+base_spirits: ['London Dry Gin']
 youtube: "0iFzihjeyXg"
 description: "A modern gin-based sour from 2004, essentially a Southside with the addition of fresh cucumber."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient                                                    | Brand                       |
 | ---------: | ------------------------------------------------------------- | --------------------------- |
-|       <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Gin                                                           | Hendricks or Martin Millers |
+|       <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| London Dry Gin                                                           | Hendricks or Martin Millers |
 |       <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lime Juice                                              |                             |
 |    <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Semi-Rich Simple Syrup]({%- link recipe_processed/simple_syrup.md -%}) |                             |
 | 2-3 slices | Cucumber                                                      |                             |
@@ -46,7 +46,7 @@ date: 2025-08-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  "    2 oz Gin",
+  "    2 oz London Dry Gin",
   "    1 oz Fresh Lime Juice",
   "  0.75 oz Semi-Rich Simple Syrup",
   " 2-3 slices Cucumber",

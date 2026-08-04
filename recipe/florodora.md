@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/florodora/"
 iconfile: florodora
 stars: 0
-base_spirits: "Gin"
+base_spirits: "London Dry Gin"
 youtube: "https://youtube.com/shorts/r6QW-H5nnGM?si=i7JwiTGYox34RizT"
 description: "A bright, effervescent, gin-based highball cocktail with a vibrant raspberry flavor. It perfectly balances the gin with lime and ginger."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-10-08
 
 |  Amount | Ingredient                                            | Brand         |
 | ------: | ----------------------------------------------------- | ------------- |
-|    2 oz | Gin                                                   | Manly Spirits |
+|    2 oz | London Dry Gin                                                  | Manly Spirits |
 | 0.75 oz | Fresh Lime Juice                                      |
 |  0.5 oz | [Raspberry Syrup]({%link recipe/raspberry_syrup.md%}) |
 |  0.5 oz | [Ginger Syrup]({%link recipe/ginger_syrup.md%})       |

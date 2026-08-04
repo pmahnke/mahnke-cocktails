@@ -7,7 +7,7 @@ categories: [sour]
 permalink: "/recipe/juliet_and_romeo/"
 iconfile: juliet_and_romeo
 stars: 0
-base_spirits: "Gin "
+base_spirits: "London Dry Gin "
 youtube: "Ttnf3PbJqnA"
 description: "A refreshing and complex modern sour that blends gin with cucumber, mint, lime, and a hint of rose water."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |         Amount | Ingredient                                      | Brand                |
 | -------------: | ----------------------------------------------- | -------------------- |
-|           2 oz | Gin                                             | Beefeater London Dry |
+|           2 oz | London Dry Gin                                             | Beefeater London Dry |
 |        0.75 oz | Fresh Lime Juice                                |
 |        0.75 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |        3 drops | Rose Water                                      |

@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/enzoni/"
 iconfile: enzoni
 stars: 0
-base_spirits: "Gin, Campari"
+base_spirits: "London Dry Gin, Campari"
 youtube: "ipHnOhkGWug"
 description: "A refreshing modern classic from 2003 that twists the Negroni formula by muddling fresh green grapes with gin and Campari."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-08-11
 |  Amount | Ingredient                                                | Brand    |
 | ------: | --------------------------------------------------------- | -------- |
 | 5 whole | Grapes                                                    |
-|    1 oz | Gin                                                       | Botanist |
+|    1 oz | London Dry Gin                                                       | The Botanist |
 |    1 oz | Amaro                                                     | Campari  |
 | 0.75 oz | Fresh Lemon Juice                                         |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |

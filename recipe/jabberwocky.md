@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/jabberwocky/"
 iconfile: jabberwocky
 stars:
-base_spirits: "Manzanilla Sherry, Gin, Lillet Blanc"
+base_spirits: "Manzanilla Sherry, London Dry Gin, Lillet Blanc"
 youtube: "tGudsyMDO_g"
 description: "A refined and nuanced Martini-style sipper from the Savoy Cocktail book, featuring a marriage of dry sherry, gin, and Lillet."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-11-25
 
 |   Amount | Ingredient        | Brand                         |
 | -------: | ----------------- | ----------------------------- |
-|   .75 oz | Gin    | Gin Mare or any London Dry Gin                      |
+|   .75 oz | London Dry Gin    | Gin Mare or any London Dry Gin                      |
 |   .75 oz | Manzanilla Sherry | La Goya or Tio Pepe or Lustau |
 |   .75 oz | Lillet Blanc      |
 | 2 dashes | Orange bitters    |

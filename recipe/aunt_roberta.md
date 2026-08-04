@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/aunt_roberta/"
 iconfile: aunt_roberta
 stars: 4
-base_spirits: "Vodka, Absinthe, Gin, Cognac, Crème de Mûre"
+base_spirits: "Vodka, Absinthe, London Dry Gin, Cognac, Crème de Mûre"
 youtube: "idnVFvygleU"
 description: "Known as one of the strongest drinks in the world, the Aunt Roberta is a lethal, multi-spirit concoction that famously contains 100% alcohol by volume because it utilizes no mixers like juice or soda."
 excerpt: |
@@ -25,7 +25,7 @@ date: 2026-02-02
 | -----: | ------------- | ----------------- |
 |   3 oz | Vodka         | Hangar One        |
 |   2 oz | Absinthe      | St. George Verte  |
-|   1 oz | Gin           | Beefeater         |
+|   1 oz | London Dry Gin           | Beefeater         |
 |   1 oz | Cognac        | Maison Rouge VSOP |
 |   1 oz | Crème de Mûre | Combier           |
 
@@ -70,7 +70,7 @@ date: 2026-02-02
 
 |   Amount | Ingredient    | Brand             |
 | -------: | ------------- | ----------------- |
-|     1 oz | Gin           | Beefeater         |
+|     1 oz | London Dry Gin           | Beefeater         |
 |     1 oz | Cognac        | Maison Rouge VSOP |
 |  0.75 oz | Vodka         | Hangar One        |
 |  0.25 oz | Crème de Mûre | Combier           |
