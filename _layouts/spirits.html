@@ -15,7 +15,7 @@ layout: default
   {%- endif -%}
 {%- endfor -%}
 
-<div class="grid-container three-quarters">
+<div class="grid-container two-thirds">
     <div><!-- div 2/3 (Main Content) -->
 
         <!-- If it's a parent, just say "Rum". If it's a specific spirit, say "White Rum Cocktails" -->
@@ -24,7 +24,24 @@ layout: default
         {%- if page.description -%}
             <p>{{ page.description }}</p>
         {%- endif -%}
+
         
+        <!-- Parent Category Link (e.g., "< See all Amaro Cocktails") -->
+        {%- if page.parent_category -%}
+          {%- comment -%} Match parent_category against slug first, then fallback to title {%- endcomment -%}
+          {%- assign parent_spirit = site.spirit | where: "slug", page.parent_category | first -%}
+          {%- unless parent_spirit -%}
+            {%- assign parent_spirit = site.spirit | where: "title", page.parent_category | first -%}
+          {%- endunless -%}
+
+          {%- if parent_spirit -%}
+            <p>
+              {{ page.title }} is a type of {{ parent_spirit.title }}. <a href="{{ parent_spirit.url | prepend: site.baseurl }}">See other {{ parent_spirit.title }}{% if parent_spirit.title != 'Beer'%} spirits{% else %} styles{% endif %}&nbsp;&rsaquo;
+              </a>
+            </p>
+          {%- endif -%}
+        {%- endif -%}
+
         <!-- THIS IS THE MAGIC TAG! It pulls in the body of your markdown file (your sub-spirit loop) -->
         {{ content }}
         
