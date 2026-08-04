@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient                                      | Brand                      |
 | ---------: | ----------------------------------------------- | -------------------------- |
-|       2 oz | London Dry Gin                                             | Beefeater                  |
+|       2 oz | London Dry Gin                                  | Beefeater                  |
 |       1 oz | Vodka                                           | Finlandia                  |
 | 1 barspoon | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 |     1 dash | Bitters                                         | Angostura Aromatic Bitters |

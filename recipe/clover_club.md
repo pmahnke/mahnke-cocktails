@@ -19,10 +19,10 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                            | Brand               |
 | ------: | ----------------------------------------------------- | ------------------- |
-|  1.5 oz | London Dry Gin                                                   | Broker's London Dry |
+|  1.5 oz | London Dry Gin                                        | Broker's London Dry |
 | 0.75 oz | Fresh Lemon Juice                                     |
 |  0.5 oz | [Raspberry Syrup]({%link recipe/raspberry_syrup.md%}) |
-| 0.75 oz | Raw Egg White / Aquafaba (chickpea water)             |
+| 0.75 oz | Raw Egg White                                         |
 
 ### Notes
 

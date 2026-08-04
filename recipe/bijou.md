@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/bijou/"
 iconfile: bijou
 stars: 4
-base_spirits: "Plymouth Gin, Green Chartreuse "
+base_spirits: "Plymouth Gin, Sweet Vermouth, Green Chartreuse "
 youtube: "LeIeaxJR2kw"
 description: "A classic cocktail from the 1890s that combines gin, sweet vermouth, and Green Chartreuse, named for the jewel tones of its ingredients."
 excerpt: |
@@ -23,7 +23,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient       | Brand                     |
 | ------: | ---------------- | ------------------------- |
-| 0.75 oz | Plymouth Gin              | Plymouth                  |
+| 0.75 oz | Plymouth Gin     | Plymouth                  |
 | 0.75 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |
 | 0.75 oz | Green Chartreuse | Green Chartreuse          |
 |  1 dash | Orange Bitters   | Regan's No. 6             |

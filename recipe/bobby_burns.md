@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/bobby_burns/"
 iconfile: bobby_burns
 stars: 0
-base_spirits: "Blended Scotch, Bénédictine"
+base_spirits: "Blended Scotch, Sweet Vermouth, Bénédictine"
 youtube: "X5haIFd1Ysw"
 description: "A classic cocktail named for the Scottish poet Robert Burns, this is a Rob Roy variation made richer with Bénédictine."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-12-09
 
 |  Amount | Ingredient      | Brand                     |
 | ------: | --------------- | ------------------------- |
-|    2 oz | Blended Scotch | Monkey Shoulder           |
+|    2 oz | Blended Scotch  | Monkey Shoulder           |
 |    1 oz | Sweet Vermouth  | Cocchi Vermouth Di Torino |
 |  0.5 oz | Bénédictine     | Bénédictine DOM           |
 | 1 strip | Lemon Peal      |

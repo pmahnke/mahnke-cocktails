@@ -14,10 +14,10 @@ date: 2025-07-07
 
 ### Ingredients
 
-|  Amount | Ingredient                 |
-| ------: | -------------------------- |
-|  750 ml | Smith & Cross Jamaican Rum |
-| 1 whole | Pineapple                  |
+|  Amount | Ingredient   | Brand         |
+| ------: | ------------ | ------------- |
+|  750 ml | Jamaican Rum | Smith & Cross |
+| 1 whole | Pineapple    |
 
 ### Method:
 

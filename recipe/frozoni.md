@@ -20,8 +20,8 @@ date: 2025-08-11
 |  Amount | Ingredient                                                | Brand    |
 | ------: | --------------------------------------------------------- | -------- |
 | 5 whole | Grapes (frozen)                                           |
-|    1 oz | London Dry Gin                                                     | The Botanist |
-|    1 oz | Amaro                                                   | Campari  |
+|    1 oz | London Dry Gin                                            | The Botanist |
+|    1 oz | Amaro                                                     | Campari  |
 | 0.75 oz | Fresh Lemon Juice                                         |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |    3 oz | Prosecco                                                  |

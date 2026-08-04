@@ -21,7 +21,7 @@ date: 2025-08-11
 | ------------: | ----------------- | --------------------- |
 | 1 small scoop | Vanilla Ice Cream |
 |        0.5 oz | Cognac            | Maison Rouge V.S.O.P. |
-|        0.5 oz | Orange Liqueur    | Grand Marnier         |
+|        0.5 oz | Dry Curaçao       | Grand Marnier         |
 |        0.5 oz | Bénédictine       | Bénédictine DOM       |
 |   1 to 1.5 oz | Brut Champagne    | Laurent-Perrier       |
 
@@ -31,9 +31,9 @@ date: 2025-08-11
 - Pour: Julep Strain
 - Glassware: Coupe
 - Garnish: None
-- Special Prep: 
-    1. Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass. 
-    1. Freeze for 15 to 20 minutes. 
-    1. Pour cocktail around the ice cream. 
-    1. Top with 1 to 1.5 ounces of champagne. 
-    1. Serve with a small spoon.
+- Special Prep:
+  1. Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass.
+  1. Freeze for 15 to 20 minutes.
+  1. Pour cocktail around the ice cream.
+  1. Top with 1 to 1.5 ounces of champagne.
+  1. Serve with a small spoon.

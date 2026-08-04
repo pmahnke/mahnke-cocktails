@@ -20,7 +20,7 @@ date: 2025-10-08
 
 |  Amount | Ingredient                                            | Brand         |
 | ------: | ----------------------------------------------------- | ------------- |
-|    2 oz | London Dry Gin                                                  | Manly Spirits |
+|    2 oz | London Dry Gin                                        | Manly Spirits |
 | 0.75 oz | Fresh Lime Juice                                      |
 |  0.5 oz | [Raspberry Syrup]({%link recipe/raspberry_syrup.md%}) |
 |  0.5 oz | [Ginger Syrup]({%link recipe/ginger_syrup.md%})       |

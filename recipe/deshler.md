@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/deshler/"
 iconfile: deshler
 stars: 4
-base_spirits: "Rye, Dubonnet Rouge, Lillet Rouge "
+base_spirits: "Rye, Bourbon, Dubonnet Rouge, Lillet Rouge, Triple Sec"
 youtube: "3vtklNLjMPw"
 description: "A classic cocktail that pairs rye whiskey with the wine-based aperitif Dubonnet and Cointreau."
 excerpt: |
@@ -73,7 +73,7 @@ date: 2025-08-14
 | -------: | -------------- | -------------------- |
 |     2 oz | Bourbon        | Old Grand-Dad Bonded |
 |     1 oz | Lillet Rouge   | Lillet Rouge         |
-|   0.5 oz | Dry Curaçao | Pierre Ferrand       |
+|   0.5 oz | Dry Curaçao    | Pierre Ferrand       |
 | 2 dashes | Bitters        | Peychaud's           |
 |  1 swath | Lemon Skin     |
 |  1 swath | Orange Skin    |

@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |   Amount | Ingredient         | Brand                         |
 | -------: | ------------------ | ----------------------------- |
-|   1.5 oz | Plymouth Gin                | Plymouth                      |
+|   1.5 oz | Plymouth Gin       | Plymouth                      |
 |     1 oz | Apricot Liqueur    | Giffard Abricot du Roussillon |
 |   0.5 oz | Fresh Lemon Juice  |
 | 2 dashes | Peychaud's Bitters | Peychaud's Bitters            |

@@ -20,7 +20,7 @@ date: 2026-02-05
 
 |     Amount | Ingredient         | Brand               |
 | ---------: | ------------------ | ------------------- |
-|    <span class="onex active">1 <sup>3</sup>&frasl;<sub>4</sub> oz  / 53 ml</span> <span class="onehalfx">2.625 oz  / 79 ml</span> <span class="twox">3 <sup>1</sup>&frasl;<sub>2</sub> oz  / 105 ml</span> <span class="threex">5 <sup>1</sup>&frasl;<sub>4</sub> oz  / 158 ml</span>| London Dry Gin                | Hayman's London Dry |
+|    <span class="onex active">1 <sup>3</sup>&frasl;<sub>4</sub> oz  / 53 ml</span> <span class="onehalfx">2.625 oz  / 79 ml</span> <span class="twox">3 <sup>1</sup>&frasl;<sub>2</sub> oz  / 105 ml</span> <span class="threex">5 <sup>1</sup>&frasl;<sub>4</sub> oz  / 158 ml</span>| London Dry Gin     | Hayman's London Dry |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>3</sub> oz  / 10 ml</span> <span class="onehalfx">0.49995 oz  / 15 ml</span> <span class="twox">0.6666 oz  / 20 ml</span> <span class="threex">0.9999 oz  / 30 ml</span>| Maraschino Liqueur | Luxardo             |
 | <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Yellow Chartreuse  | Yellow Chartreuse   |
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Crème de Violette  | Rothman & Winter    |

@@ -7,7 +7,7 @@ categories: [beer]
 permalink: "/recipe/lumberjack_in_love/"
 iconfile: lumberjack_in_love
 stars: 0
-base_spirits: "Rye, Oktoberfest, Allspice Dram"
+base_spirits: "Rye, Lager Beer, Allspice Dram"
 youtube: "Eg7DLBgwJqM"
 description: "A unique beer cocktail that combines rye whiskey, allspice dram, cherry, and lemon with an Oktoberfest beer."
 excerpt: |
@@ -17,14 +17,14 @@ date: 2025-08-11
 
 ### Ingredients
 
-|  Amount | Ingredient                                                | Brand                 |
-| ------: | --------------------------------------------------------- | --------------------- |
-|    1 oz | Rye                                                       | Rittenhouse 100 Proof |
-|  0.5 oz | Allspice Dram                                             | St. Elizabeth         |
-|    2 oz | Montmorency Cherry Juice                                  |
+|  Amount | Ingredient                                                | Brand                        |
+| ------: | --------------------------------------------------------- | ---------------------------- |
+|    1 oz | Rye                                                       | Rittenhouse 100 Proof        |
+|  0.5 oz | Allspice Dram                                             | St. Elizabeth                |
+|    2 oz | Fresh Cherry Juice                                        | Montmorency                  |
 | 0.25 oz | Fresh Lemon Juice                                         |
 | 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
-|    4 oz | Oktoberfest                                               | Spiteful Brewing      |
+|    4 oz | Lager                                                     | Spiteful Brewing Oktoberfest |
 
 ### Notes
 

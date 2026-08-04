@@ -44,11 +44,11 @@ date: 2025-08-31
 
 ### Ingredients
 
-| Amount | Ingredient     | Brand        |
-| -----: | -------------- | ------------ |
-|   2 oz | Blanco Tequila | Siete Leguas |
-|   4 oz | Orange Juice   |
-| 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%})      | Monin        |
+| Amount | Ingredient                                      | Brand        |
+| -----: | ----------------------------------------------- | ------------ |
+|   2 oz | Blanco Tequila                                  | Siete Leguas |
+|   4 oz | Orange Juice                                    |
+| 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) | Monin        |
 
 ### Notes
 

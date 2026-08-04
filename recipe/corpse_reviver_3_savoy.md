@@ -22,7 +22,7 @@ date: 2025-10-20
 | ------: | --------------- | ----------------- |
 | 0.75 oz | Cognac          | Maison Rouge VSOP |
 |  0.5 oz | Crème de Menthe | Tempus Fugit      |
-| 0.25 oz | Fernet Branca   | Fernet Branca     |
+| 0.25 oz | Amaro           | Fernet Branca     |
 
 ### Notes
 

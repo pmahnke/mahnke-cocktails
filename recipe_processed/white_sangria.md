@@ -28,7 +28,7 @@ date: 2025-08-11
 |         <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Fresh Lemon Juice                                        |
 |         <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Apricot Liqueur                                          | Giffard Orchard       |
 |         <span class="onex active">6 oz  / 180 ml</span> <span class="onehalfx">9 oz  / 270 ml</span> <span class="twox">12 oz  / 360 ml</span> <span class="threex">18 oz  / 540 ml</span>| Fino Sherry                                              | Valdespino "Ynocente" |
-|       <span class="onex active">25 oz / 750 ml</span> <span class="onehalfx">37 <sup>1</sup>&frasl;<sub>2</sub> oz / 1125 ml</span> <span class="twox">50 oz / 1500 ml</span> <span class="threex">75 oz / 2250 ml</span>| Dry White Wine                                           | Abellio Albariño      |
+|       <span class="onex active">25 oz / 750 ml</span> <span class="onehalfx">37 <sup>1</sup>&frasl;<sub>2</sub> oz / 1125 ml</span> <span class="twox">50 oz / 1500 ml</span> <span class="threex">75 oz / 2250 ml</span>| White Wine                                               | Abellio Albariño      |
 
 ### Notes
 
@@ -83,7 +83,7 @@ date: 2025-08-11
   "     4 oz Fresh Lemon Juice",
   "     4 oz Apricot Liqueur",
   "     6 oz Fino Sherry",
-  "    750 ml Dry White Wine"
+  "    750 ml White Wine"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

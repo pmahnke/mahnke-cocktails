@@ -20,9 +20,9 @@ date: 2025-08-11
 |    Amount | Ingredient                                      | Brand         |
 | --------: | ----------------------------------------------- | ------------- |
 |    1.5 oz | Bourbon                                         | Old Grand-Dad |
+|    0.5 oz | Oloroso Sherry                                  | Lustau        |
 |   0.75 oz | Fresh Lemon Juice                               |
 |    0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
-|    0.5 oz | Oloroso Sherry                                  | Lustau        |
 | 2 to 3 oz | Sparkling Water                                 | Topo Chico    |
 
 ### Notes

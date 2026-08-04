@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |    Amount | Ingredient                                      | Brand              |
 | --------: | ----------------------------------------------- | ------------------ |
-|      1 oz | London Dry Gin                                             | St. George         |
+|      1 oz | London Dry Gin                                  | St. George         |
 |    0.5 oz | Bénédictine                                     | Bénédictine D.O.M. |
 |    0.5 oz | [Ginger Syrup]({%link recipe/ginger_syrup.md%}) |
 |   0.25 oz | Fresh Lemon Juice                               |

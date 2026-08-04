@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/churchill/"
 iconfile: churchill
 stars: 0
-base_spirits: "Blended Scotch"
+base_spirits: "Blended Scotch, Triple Sec, Sweet Vermouth"
 youtube: "https://www.foodandwine.com/churchill-cocktail-recipe-11686043"
 description: "A mid-century classic named for the British prime minister, this is a modified Whiskey Sour featuring Scotch, sweet vermouth, and orange liqueur."
 excerpt: |

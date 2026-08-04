@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/semester_abroad/"
 iconfile: semester_abroad
 stars: 0
-base_spirits: "Rye, Fernet Branca"
+base_spirits: "Rye, Curaçao, Fernet Branca"
 youtube: "JIQ_UNrQZR8"
 description: "It’s a simple three-ingredient build of rye whiskey, orange curaçao, and Fernet-Branca, but the result is rich and aromatic."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2026-02-07
 | -----: | -------------- | ---------------------- |
 |   2 oz | Rye            | Old Forester 100 Proof |
 |   1 oz | Orange Curaçao | Marie Brizard          |
-| 0.5 oz | Fernet Branca  | Fernet Branca          |
+| 0.5 oz | Amaro          | Fernet Branca          |
 
 ### Notes
 

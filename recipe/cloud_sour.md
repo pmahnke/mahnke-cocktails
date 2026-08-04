@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/cloud_sour/"
 iconfile: cloud_sour
 stars:
-base_spirits: "London Dry Gin"
+base_spirits: "London Dry Gin, Melon Liqueur"
 youtube: ""
 description: "A modern sour with a funky, umami-rich character derived from the use of shio koji, a fermented rice marinade."
 excerpt: |
@@ -22,7 +22,7 @@ date: 2026-01-16
 
 | Amount | Ingredient                                                | Brand                   |
 | -----: | --------------------------------------------------------- | ----------------------- |
-|  50 ml | London Dry Gin                                       | The Botanist            |
+|  50 ml | London Dry Gin                                            | The Botanist            |
 |  15 ml | Melon Liqueur                                             | Briottet Crème de Melon |
 |  20 ml | Lemon Juice                                               |
 |  20 ml | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |

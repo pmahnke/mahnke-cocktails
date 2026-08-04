@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/corpse_reviver_2a/"
 iconfile: corpse_reviver_2a
 stars: 0
-base_spirits: "London Dry Gin, Swedish Punsch"
+base_spirits: "London Dry Gin, Swedish Punsch, Triple Sec"
 youtube: "rMCsrbidAJ4"
 description: "A modern riff on the classic Corpse Reviver No. 2 that incorporates the unique spice of Swedish Punsch."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-12-23
 
 |  Amount | Ingredient        | Brand            |
 | ------: | ----------------- | ---------------- |
-| 0.75 oz | London Dry Gin               | The Botanist     |
+| 0.75 oz | London Dry Gin    | The Botanist     |
 | 0.75 oz | Swedish Punsch    | Kronen           |
 | 0.75 oz | Triple Sec        | Luxardo Triplum  |
 | 0.75 oz | Fresh Lemon Juice |

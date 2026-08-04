@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/margarita_hibiscus/"
 iconfile: margarita_hibiscus
 stars: 0
-base_spirits: "Reposado Tequila"
+base_spirits: "Reposado Tequila, Curaçao"
 youtube: "GiNen9YukD8"
 description: "A refreshing and vibrant modern Margarita that incorporates the floral and tangy notes of a homemade hibiscus syrup."
 excerpt: |
@@ -17,12 +17,12 @@ date: 2025-12-23
 
 ### Ingredients
 
-|  Amount | Ingredient                                          | Brand            |
-| ------: | --------------------------------------------------- | ---------------- |
-|  1.5 oz | Tequila                                             | Milagro Reposado |
+|  Amount | Ingredient                                          | Brand         |
+| ------: | --------------------------------------------------- | ------------- |
+|  1.5 oz | Reposado Tequila                                    | Milagro       |
 | 0.75 oz | [Hibiscus Syrup]({%link recipe/hibiscus_syrup.md%}) |
 | 0.75 oz | Fresh Lime Juice                                    |
-| 0.25 oz | Orange Curaçao                                      | Marie Brizard    |
+| 0.25 oz | Orange Curaçao                                      | Marie Brizard |
 
 ### Notes
 

@@ -22,7 +22,7 @@ date: 2026-03-21
 |  1.5 oz | Rye              | Still Austin              |
 | 0.75 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |
 | 0.75 oz | Triple Sec       | Combier                   |
-| 0.5 oz | Fresh Lime Juice |
+|  0.5 oz | Fresh Lime Juice |
 
 ### Notes
 

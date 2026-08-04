@@ -24,7 +24,7 @@ date: 2025-10-20
 | Amount | Ingredient      | Brand          |
 | -----: | --------------- | -------------- |
 | 1 half | Lime            |
-| 1.5 oz | London Dry Gin             | Martin Millers |
+| 1.5 oz | London Dry Gin  | Martin Millers |
 |   3 oz | Sparkling Water | Topo Chico     |
 
 #### Notes

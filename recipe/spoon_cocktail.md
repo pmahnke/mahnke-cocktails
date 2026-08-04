@@ -20,10 +20,10 @@ date: 2026-03-24
 
 |   Amount | Ingredient  | Brand                          |
 | -------: | ----------- | ------------------------------ |
+|     2 oz | Rye         | Old Overholt Straight 86 proof |
 |   1 cube | Sugar       |
-| 1 splash | Soda Water  | Fever Tree                     |
 | 2 dashes | Bitters     | Angostura Aromatic Bitters     |
-|     2 oz | Rye Whiskey | Old Overholt Straight 86 proof |
+| 1 splash | Soda Water  | Fever Tree                     |
 
 ### Notes
 

@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                                | Brand           |
 | ------: | --------------------------------------------------------- | --------------- |
-|    1 oz | London Dry Gin                                                       | Martin Miller’s |
+|    1 oz | London Dry Gin                                            | Martin Miller’s |
 |  0.5 oz | Crème de Mûre                                             | Combier         |
 | 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |                 |
 |  0.5 oz | Fresh Lemon Juice                                         |

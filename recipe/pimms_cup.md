@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |    Amount | Ingredient        | Brand                 |
 | --------: | ----------------- | --------------------- |
-|      2 oz | Pimms            | Pimm's No.1           |
+|      2 oz | Pimms             | Pimm's No.1           |
 |   0.25 oz | Fresh Lemon Juice |
 | 3 to 4 oz | Ginger Ale        | Fever Tree Ginger Ale |
 

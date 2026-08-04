@@ -17,11 +17,11 @@ date: 2025-10-08
 
 ### Ingredients
 
-|  Amount | Ingredient      | Brand        |
-| ------: | --------------- | ------------ |
-|  1.5 oz | Plymouth Gin             | Plymouth     |
-| 0.75 oz | Gentian Liqueur | Suze         |
-| 0.75 oz | Lillet Blanc    | Lillet Blanc |
+|  Amount | Ingredient   | Brand        |
+| ------: | ------------ | ------------ |
+|  1.5 oz | Plymouth Gin | Plymouth     |
+| 0.75 oz | Amaro        | Suze         |
+| 0.75 oz | Lillet Blanc | Lillet Blanc |
 
 ### Notes
 

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/bobby_burns/"
 iconfile: bobby_burns
 stars: 3.5
-base_spirits: ['Blended Scotch', 'Bénédictine']
+base_spirits: ['Blended Scotch', 'Sweet Vermouth', 'Bénédictine']
 youtube: "X5haIFd1Ysw"
 description: "A classic cocktail named for the Scottish poet Robert Burns, this is a Rob Roy variation made richer with Bénédictine."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-12-09
 
 |  Amount | Ingredient      | Brand                     |
 | ------: | --------------- | ------------------------- |
-|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Blended Scotch | Monkey Shoulder           |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Blended Scotch  | Monkey Shoulder           |
 |    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Sweet Vermouth  | Cocchi Vermouth Di Torino |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Bénédictine     | Bénédictine DOM           |
 | <span class="onex active">1 strip </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> strip </span> <span class="twox">2 strip </span> <span class="threex">3 strip </span>| Lemon Peal      |

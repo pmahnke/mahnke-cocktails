@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/marooned_mango/"
 iconfile: marooned_mango
 stars: 4
-base_spirits: "Cachaça, Mango Liqueur"
+base_spirits: "Cachaça, Mango Liqueur, Sweet Vermouth"
 youtube: "xnXFbjQSu-k"
 description: "A delightful tropical original cocktail that features a sweet and tangy combination of cachaça and mango liqueur."
 excerpt: |
@@ -19,8 +19,8 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                                | Brand                     |
 | ------: | --------------------------------------------------------- | ------------------------- |
-| 0.75 oz | Mango Liqueur                                             | Chinola                   |
 | 0.75 oz | Cachaça                                                   | Novo Fogo Silver          |
+| 0.75 oz | Mango Liqueur                                             | Chinola                   |
 | 0.75 oz | Sweet Vermouth                                            | Cocchi Vermouth di Torino |
 | 0.75 oz | Fresh Pineapple Juice                                     |
 |  0.5 oz | Fresh Lime Juice                                          |

@@ -7,7 +7,7 @@ categories: [punch]
 permalink: "/recipe/wassail/"
 iconfile: wassail
 stars: 0
-base_spirits: "Apple Brandy, Amontillado Sherry, Dark Ale "
+base_spirits: "Apple Brandy, Amontillado Sherry, Dark Ale"
 youtube: "9cp5upHowwI"
 description: "A warm, spiced classic beverage with ancient roots, traditionally made with mulled cider or ale and often spiked with brandy and sherry."
 excerpt: |
@@ -17,12 +17,12 @@ date: 2025-09-26
 
 ### Ingredients
 
-|    Amount | Ingredient         | Brand                               |
-| --------: | ------------------ | ----------------------------------- |
+|    Amount | Ingredient         | Brand                            |
+| --------: | ------------------ | -------------------------------- |
 |    3 cups | Fresh Apple Cider  |
-|    2 cups | Amontillado Sherry | Lustau Amontillado Los Arcos |
-|     1 cup | Dark Beer          | Begyle Brewing Christmas Ale        |
-|   0.5 cup | Apple Brandy       | Laird's Straight Bottled in Bond    |
+|    2 cups | Amontillado Sherry | Lustau Amontillado Los Arcos     |
+|     1 cup | Dark Ale           | Begyle Brewing Christmas Ale     |
+|   0.5 cup | Apple Brandy       | Laird's Straight Bottled in Bond |
 |   0.5 cup | Demerara Sugar     |
 |   8 whole | Cloves             |
 | 8 berries | Allspice           |

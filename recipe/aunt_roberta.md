@@ -21,13 +21,13 @@ date: 2026-02-02
 
 ### Ingredients
 
-| Amount | Ingredient    | Brand             |
-| -----: | ------------- | ----------------- |
-|   3 oz | Vodka         | Hangar One        |
-|   2 oz | Absinthe      | St. George Verte  |
-|   1 oz | London Dry Gin           | Beefeater         |
-|   1 oz | Cognac        | Maison Rouge VSOP |
-|   1 oz | Crème de Mûre | Combier           |
+| Amount | Ingredient     | Brand             |
+| -----: | -------------- | ----------------- |
+|   3 oz | Vodka          | Hangar One        |
+|   2 oz | Absinthe       | St. George Verte  |
+|   1 oz | London Dry Gin | Beefeater         |
+|   1 oz | Cognac         | Maison Rouge VSOP |
+|   1 oz | Crème de Mûre  | Combier           |
 
 ### Notes
 
@@ -68,14 +68,14 @@ date: 2026-02-02
 
 ### Ingredients
 
-|   Amount | Ingredient    | Brand             |
-| -------: | ------------- | ----------------- |
-|     1 oz | London Dry Gin           | Beefeater         |
-|     1 oz | Cognac        | Maison Rouge VSOP |
-|  0.75 oz | Vodka         | Hangar One        |
-|  0.25 oz | Crème de Mûre | Combier           |
-| 3 dashes | Absinthe      | St. George Verte  |
-|  1 swath | Lemon Peel    |
+|   Amount | Ingredient     | Brand             |
+| -------: | -------------- | ----------------- |
+|     1 oz | London Dry Gin | Beefeater         |
+|     1 oz | Cognac         | Maison Rouge VSOP |
+|  0.75 oz | Vodka          | Hangar One        |
+|  0.25 oz | Crème de Mûre  | Combier           |
+| 3 dashes | Absinthe       | St. George Verte  |
+|  1 swath | Lemon Peel     |
 
 ### Notes
 

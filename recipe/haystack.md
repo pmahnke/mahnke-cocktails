@@ -25,7 +25,7 @@ date: 2025-10-08
 |  Amount | Ingredient        | Brand                         |
 | ------: | ----------------- | ----------------------------- |
 |    1 oz | Bourbon           | Old Grand-Dad 114 proof       |
-| 0.75 oz | Gentian Liqueur   | Suze                          |
+| 0.75 oz | Amaro             | Suze                          |
 | 0.75 oz | Apricot Liquer    | Giffard Abricot du Roussillon |
 |  0.5 oz | Fresh Lemon Juice |
 

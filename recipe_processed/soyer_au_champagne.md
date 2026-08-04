@@ -21,7 +21,7 @@ date: 2025-08-11
 | ------------: | ----------------- | --------------------- |
 | <span class="onex active">1 small scoop </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> small scoop </span> <span class="twox">2 small scoop </span> <span class="threex">3 small scoop </span>| Vanilla Ice Cream |
 |        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cognac            | Maison Rouge V.S.O.P. |
-|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Orange Liqueur    | Grand Marnier         |
+|        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Dry Curaçao       | Grand Marnier         |
 |        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Bénédictine       | Bénédictine DOM       |
 |   <span class="onex active">1 to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 60 ml</span> <span class="threex">3 to 1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 90 ml</span>| Brut Champagne    | Laurent-Perrier       |
 
@@ -31,12 +31,12 @@ date: 2025-08-11
 - Pour: Julep Strain
 - Glassware: Coupe
 - Garnish: None
-- Special Prep: 
-    1. Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass. 
-    1. Freeze for 15 to 20 minutes. 
-    1. Pour cocktail around the ice cream. 
-    1. Top with 1 to 1 <sup>1</sup>&frasl;<sub>2</sub> ounces of champagne. 
-    1. Serve with a small spoon.
+- Special Prep:
+  1. Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass.
+  1. Freeze for 15 to 20 minutes.
+  1. Pour cocktail around the ice cream.
+  1. Top with 1 to 1 <sup>1</sup>&frasl;<sub>2</sub> ounces of champagne.
+  1. Serve with a small spoon.
 
     
 <script type="application/ld+json">
@@ -52,7 +52,7 @@ date: 2025-08-11
   "recipeIngredient": [
   " 1 small scoop Vanilla Ice Cream",
   "    0.5 oz Cognac",
-  "    0.5 oz Orange Liqueur",
+  "    0.5 oz Dry Curaçao",
   "    0.5 oz Bénédictine",
   "  1 to 1.5 oz Brut Champagne"
     ],
@@ -76,27 +76,27 @@ date: 2025-08-11
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: "
+      "text": "- Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "    1. Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass. "
+      "text": "  1. Place the ice cream into the coupe and press it down so it adheres to the bottom of the glass."
     },
     {
       "@type": "HowToStep",
-      "text": "    1. Freeze for 15 to 20 minutes. "
+      "text": "  1. Freeze for 15 to 20 minutes."
     },
     {
       "@type": "HowToStep",
-      "text": "    1. Pour cocktail around the ice cream. "
+      "text": "  1. Pour cocktail around the ice cream."
     },
     {
       "@type": "HowToStep",
-      "text": "    1. Top with 1 to 1.5 ounces of champagne. "
+      "text": "  1. Top with 1 to 1.5 ounces of champagne."
     },
     {
       "@type": "HowToStep",
-      "text": "    1. Serve with a small spoon."
+      "text": "  1. Serve with a small spoon."
     }
     ],
   "recipeYield": "1 cocktail",

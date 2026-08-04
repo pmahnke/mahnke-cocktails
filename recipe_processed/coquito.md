@@ -17,15 +17,16 @@ date: 2025-12-13
 
 ### Ingredients
 
-| ------: | ----------------------------------------------------------- | ----- |
-| <span class="onex active">8 oz  / 240 ml</span> <span class="onehalfx">12 oz  / 360 ml</span> <span class="twox">16 oz  / 480 ml</span> <span class="threex">24 oz  / 720 ml</span>| Coconut Milk |
-| <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Evaporated Milk |
-| <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Sweetened Condensed Milk |
-| <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| [Cream of Coconut]({%link recipe_processed/cream_of_coconut_syrup.md%}) |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Vanilla Extract |
-| <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Chilled Spice Tea |
-| <span class="onex active">1 pinch </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> pinch </span> <span class="twox">2 pinch </span> <span class="threex">3 pinch </span>| Salt |
-| <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Gold Rum | Don Q |
+|  Amount | Ingredient                                                    | Brand |
+| ------: | ------------------------------------------------------------- | ----- |
+|    <span class="onex active">8 oz  / 240 ml</span> <span class="onehalfx">12 oz  / 360 ml</span> <span class="twox">16 oz  / 480 ml</span> <span class="threex">24 oz  / 720 ml</span>| Coconut Milk                                                  |
+|    <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Evaporated Milk                                               |
+|    <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Sweetened Condensed Milk                                      |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| [Cream of Coconut]({%link recipe_processed/cream_of_coconut_syrup.md%}) |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Vanilla Extract                                               |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Chilled Spice Tea                                             |
+| <span class="onex active">1 pinch </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> pinch </span> <span class="twox">2 pinch </span> <span class="threex">3 pinch </span>| Salt                                                          |
+|    <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Gold Rum                                                      | Don Q |
 
 ### Notes
 
@@ -60,14 +61,14 @@ date: 2025-12-13
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 8 oz Coconut Milk",
-  " 4 oz Evaporated Milk",
-  " 4 oz Sweetened Condensed Milk",
-  " 2 oz Cream of Coconut",
+  "  8 oz Coconut Milk",
+  "  4 oz Evaporated Milk",
+  "  4 oz Sweetened Condensed Milk",
+  "  2 oz Cream of Coconut",
   " 0.25 oz Vanilla Extract",
-  " 2 oz Chilled Spice Tea",
+  "  2 oz Chilled Spice Tea",
   " 1 pinch Salt",
-  " 4 oz Gold Rum"
+  "  4 oz Gold Rum"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

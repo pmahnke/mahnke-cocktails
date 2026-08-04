@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/lower_wacker/"
 iconfile: lower_wacker
 stars: 0
-base_spirits: "Rye, Cynar, Apricot Liqueur, Malört"
+base_spirits: "Rye, Sweet Vermouth, Cynar, Apricot Liqueur, Malört"
 youtube: "bzN1zwAqgSY"
 description: "This is Anders&#39; ode to Chicago with this bold whiskey cocktail with a Malört rinse."
 excerpt: |
@@ -20,8 +20,8 @@ date: 2026-04-05
 |  Amount | Ingredient      | Brand                      |
 | ------: | --------------- | -------------------------- |
 |    2 oz | Rye             | Rittenhouse 100 proof      |
-| 10.5 oz | Sweet Vermouth  | Cocchi Vermouth di Torino  |
-|   0.5oz | Amaro           | Cynar                      |
+|  0.5 oz | Sweet Vermouth  | Cocchi Vermouth di Torino  |
+|  0.5 oz | Amaro           | Cynar                      |
 | 0.25 oz | Apricot Liqueur | Rothman & Winter Orchard   |
 |  1 dash | Bitters         | Angostura Aromatic Bitters |
 | 1 rinse | Malört          | Jeppson’s                  |

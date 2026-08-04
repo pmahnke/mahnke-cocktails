@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/kiss/"
 iconfile: kiss
 stars: 0
-base_spirits: "London Dry Gin, Dubonnet Rouge, Maraschino Liqueur"
+base_spirits: "London Dry Gin, Dubonnet Rouge, Sweet Vermouth, Maraschino Liqueur"
 youtube: "https://www.liquor.com/recipes/kiss/"
 description: "This original drink begins with gin and then calls on sweet vermouth, a French aperitif and an Italian liqueur."
 excerpt: |

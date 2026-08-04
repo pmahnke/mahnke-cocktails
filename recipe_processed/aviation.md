@@ -8,7 +8,7 @@ eras: [classic]
 permalink: "/recipe/aviation/"
 iconfile: aviation
 stars: 4.5
-base_spirits: ['London Dry Gin', 'Crème de Violette']
+base_spirits: ['London Dry Gin', 'Crème de Violette', 'Maraschino Liqueur']
 youtube: "Kmw5D32W8sM&t=345sY"
 description: "A classic gin sour from the early 20th century, celebrated for its floral notes and sky-blue hue from crème de violette."
 excerpt: |
@@ -22,7 +22,7 @@ date: 2025-12-23
 
 |  Amount | Ingredient         | Brand                                       |
 | ------: | ------------------ | ------------------------------------------- |
-|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| London Dry Gin                | Journeyman Distillery Bilberry Black Hearts |
+|    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| London Dry Gin     | Journeyman Distillery Bilberry Black Hearts |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Crème de Violette  | Rothman and Winter                          |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Maraschino Liqueur | Luxardo                                     |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lemon Juice  |

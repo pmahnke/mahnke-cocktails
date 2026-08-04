@@ -24,9 +24,9 @@ date: 2025-11-29
 
 |  Amount | Ingredient                                      | Brand                              |
 | ------: | ----------------------------------------------- | ---------------------------------- |
-|    1 oz | Jamaican Rum                                      | Appleton Estate 12 year Rare Casks |
-|  0.5 oz | Apricot Liqueur                                 | Giffard Abricot du Roussillon      |
+|    1 oz | Jamaican Rum                                    | Appleton Estate 12 year Rare Casks |
 |  0.5 oz | Sloe Gin                                        | Plymouth                           |
+|  0.5 oz | Apricot Liqueur                                 | Giffard Abricot du Roussillon      |
 | 0.75 oz | Fresh Lime Juice                                |
 | 0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 

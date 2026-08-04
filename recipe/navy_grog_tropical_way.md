@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/navy_grog_tropical_way/"
 iconfile: navy_grog_tropical_way
 stars: 0
-base_spirits: "Demerara Rum, Jamaican Rum, White Rum"
+base_spirits: "Demerara Rum, Jamaican Rum, White Rum, Allspice Dram"
 youtube: "I3jeItKyZCs"
 description: "Modern reinvention of the classic rum-heavy drink that features a spiced grog concentrate syrup made with Mexican cola and toasted allspice."
 excerpt: |
@@ -27,7 +27,7 @@ date: 2025-08-20
 |  0.75 oz | [Grog Concentrate Syrup]({%link recipe/grog_concentrate_syrup.md%}) |
 |     1 oz | Grapefruit Juice, Acid Adjusted to Lemon                            |
 | 3 dashes | Bitters                                                             | Angostura Aromatic Bitters         |
-|  5 drops | salt solution                                                       |
+|  5 drops | Salt Solution                                                       |
 
 ### Notes
 

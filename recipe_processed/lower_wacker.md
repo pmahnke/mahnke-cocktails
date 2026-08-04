@@ -7,7 +7,7 @@ eras: [anders]
 permalink: "/recipe/lower_wacker/"
 iconfile: lower_wacker
 stars: 0
-base_spirits: ['Rye', 'Cynar', 'Apricot Liqueur', 'Malört']
+base_spirits: ['Rye', 'Sweet Vermouth', 'Cynar', 'Apricot Liqueur', 'Malört']
 youtube: "bzN1zwAqgSY"
 description: "This is Anders&#39; ode to Chicago with this bold whiskey cocktail with a Malört rinse."
 excerpt: |
@@ -20,8 +20,8 @@ date: 2026-04-05
 |  Amount | Ingredient      | Brand                      |
 | ------: | --------------- | -------------------------- |
 |    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Rye             | Rittenhouse 100 proof      |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 315 ml</span> <span class="onehalfx">15 <sup>3</sup>&frasl;<sub>4</sub> oz  / 473 ml</span> <span class="twox">21 oz  / 630 ml</span> <span class="threex">31 <sup>1</sup>&frasl;<sub>2</sub> oz  / 945 ml</span>| Sweet Vermouth  | Cocchi Vermouth di Torino  |
-|    <sup>1</sup>&frasl;<sub>2</sub>oz | Amaro           | Cynar                      |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Sweet Vermouth  | Cocchi Vermouth di Torino  |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Amaro           | Cynar                      |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Apricot Liqueur | Rothman & Winter Orchard   |
 |  <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Bitters         | Angostura Aromatic Bitters |
 | <span class="onex active">1 rinse </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> rinse </span> <span class="twox">2 rinse </span> <span class="threex">3 rinse </span>| Malört          | Jeppson’s                  |
@@ -47,8 +47,8 @@ date: 2026-04-05
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Rye",
-  " 10.5 oz Sweet Vermouth",
-  "  0.5oz Amaro",
+  " 0.5 oz Sweet Vermouth",
+  " 0.5 oz Amaro",
   " 0.25 oz Apricot Liqueur",
   " 1 dash Bitters",
   " 1 rinse Malört"

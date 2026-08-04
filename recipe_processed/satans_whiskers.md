@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/satans_whiskers/"
 iconfile: satans_whiskers
 stars: 0
-base_spirits: ['Plymouth Gin']
+base_spirits: ['Plymouth Gin', 'Dry Vermouth', 'Sweet Vermouth', 'Curaçao']
 youtube: "T3GsJVVGCFs"
 description: "A classic Prohibition-era cocktail with a devilishly delicious flavor profile, essentially a Perfect Martini with the addition of orange juice and Grand Marnier."
 excerpt: |
@@ -19,10 +19,10 @@ date: 2025-08-11
 
 |  Amount | Ingredient         | Brand                                                                           |
 | ------: | ------------------ | ------------------------------------------------------------------------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Plymouth Gin                | Plymouth                                                                        |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Plymouth Gin       | Plymouth                                                                        |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Dry Vermouth       | Dolin Vermouth de Chambéry Dry                                                  |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Sweet Vermouth     | Dolin Vermouth de Chambéry Rouge                                                |
-|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Orange Liqueur     | Pierre Ferrand Dry Curaçao (curled version) OR Grand Marnier (straight version) |
+|  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Curaçao            | Pierre Ferrand Dry Curaçao (curled version) OR Grand Marnier (straight version) |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Orange Juice |
 |  <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Orange Bitters     | Regan's No.6                                                                    |
 
@@ -49,7 +49,7 @@ date: 2025-08-11
   " 0.75 oz Plymouth Gin",
   " 0.75 oz Dry Vermouth",
   " 0.75 oz Sweet Vermouth",
-  " 0.5 oz Orange Liqueur",
+  " 0.5 oz Curaçao",
   " 0.5 oz Fresh Orange Juice",
   " 1 dash Orange Bitters"
     ],

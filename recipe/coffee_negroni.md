@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/coffee_negroni/"
 iconfile: coffee_negroni
 stars: 0
-base_spirits: "London Dry Gin, Coffee Liqueur, Campari"
+base_spirits: "London Dry Gin, Coffee Liqueur, Campari, Sweet Vermouth"
 youtube: "41iPKwfTE9E"
 description: "A modern, bittersweet after-dinner cocktail that adds the rich flavor of coffee liqueur to the classic Negroni formula."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
-|    1 oz | London Dry Gin            | Beefeater                 |
+|    1 oz | London Dry Gin | Beefeater                 |
 | 0.75 oz | Coffee Liqueur | Mr. Black Cold Brew       |
 | 0.75 oz | Amaro          | Campari                   |
 | 0.25 oz | Sweet Vermouth | Cocchi Vermouth di Torino |

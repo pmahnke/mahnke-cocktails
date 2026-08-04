@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient                                                    | Brand                       |
 | ---------: | ------------------------------------------------------------- | --------------------------- |
-|       2 oz | London Dry Gin                                                           | Hendricks or Martin Millers |
+|       2 oz | London Dry Gin                                                | Hendricks or Martin Millers |
 |       1 oz | Fresh Lime Juice                                              |                             |
 |    0.75 oz | [Semi-Rich Simple Syrup]({%- link recipe/simple_syrup.md -%}) |                             |
 | 2-3 slices | Cucumber                                                      |                             |

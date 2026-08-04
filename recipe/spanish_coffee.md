@@ -7,7 +7,7 @@ categories: [after_dinner]
 permalink: "/recipe/spanish_coffee/"
 iconfile: spanish_coffee
 stars: 0
-base_spirits: "Overproof Jamaican Rum, Coffee Liqueur"
+base_spirits: "Overproof Jamaican Rum, Coffee Liqueur, Curaçao"
 youtube: "p3X7_-TVIDs"
 description: "A classic after-dinner drink, also known as a carajillo, made with coffee and a spirit—usually rum, brandy, or Licor 43."
 excerpt: |
@@ -17,12 +17,12 @@ date: 2025-08-11
 
 ### Ingredients
 
-|    Amount | Ingredient     | Brand                 |
-| --------: | -------------- | --------------------- |
-|   0.75 oz | Overproof Jamaican Rum  | Hamilton 151 Demerara |
-|      1 oz | Coffee Liqueur | St. George NOLA       |
-|    0.5 oz | Orange Curaçao | Marie Brizard         |
-| 2 to 3 oz | Hot Coffee     |                       |
+|    Amount | Ingredient             | Brand                 |
+| --------: | ---------------------- | --------------------- |
+|   0.75 oz | Overproof Jamaican Rum | Hamilton 151 Demerara |
+|      1 oz | Coffee Liqueur         | St. George NOLA       |
+|    0.5 oz | Orange Curaçao         | Marie Brizard         |
+| 2 to 3 oz | Hot Coffee             |                       |
 
 ### Notes
 

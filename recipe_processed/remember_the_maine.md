@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/remember_the_maine/"
 iconfile: remember_the_maine
 stars: 3
-base_spirits: ['Rye']
+base_spirits: ['Rye', 'Sweet Vermouth', 'Cherry Heering', 'Absinthe']
 youtube: "I2_xijYpP_Y"
 description: "A historic and complex Prohibition-era Manhattan variation that adds cherry liqueur and a dash of absinthe to a rye whiskey base."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2025-08-11
 | ------: | -------------- | ------------------------- |
 |  <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Rye            | Rittenhouse 100           |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Sweet Vermouth | Cocchi Vermouth di Torino |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Cherry Heering | Cherry Heering            |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Cherry Liqueur | Cherry Heering            |
 | <span class="onex active">1 rinse </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> rinse </span> <span class="twox">2 rinse </span> <span class="threex">3 rinse </span>| Absinthe       | St. George Verte          |
 
 ### Notes
@@ -46,7 +46,7 @@ date: 2025-08-11
   "recipeIngredient": [
   " 1.5 oz Rye",
   " 0.75 oz Sweet Vermouth",
-  " 0.25 oz Cherry Heering",
+  " 0.25 oz Cherry Liqueur",
   " 1 rinse Absinthe"
     ],
   "name": "{{ page.title }}",

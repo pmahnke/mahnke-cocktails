@@ -22,8 +22,8 @@ date: 2025-08-11
 | -------: | ------------------------------------------------- | ---------------------------------------- |
 |    60 ml | Acholada Pisco                                    | Barsol                                   |
 |    25 ml | Lime Juice                                        |
-|    10 ml | [Ginger Syrup]({% link recipe/ginger_syrup.md %}) |  |
-| 2 dashes | Angostora bitters                                 |
+|    10 ml | [Ginger Syrup]({% link recipe/ginger_syrup.md %}) |
+| 2 dashes | Bitters                                           | Angostura Aromatic Bitters|
 |   100 ml | Club Soda                                         |
 
 ### Notes

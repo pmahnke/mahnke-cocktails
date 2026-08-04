@@ -29,7 +29,7 @@ date: 2025-08-11
 
 |     Amount | Ingredient             | Brand             |
 | ---------: | ---------------------- | ----------------- |
-|     1.5 oz | London Dry Gin                    | Beefeater         |
+|     1.5 oz | London Dry Gin         | Beefeater         |
 |     0.5 oz | Yellow Chartreuse      | Yellow Chartreuse |
 |     0.5 oz | Grapefruit Juice       |
 |     0.5 oz | Fresh Lemon Juice      |

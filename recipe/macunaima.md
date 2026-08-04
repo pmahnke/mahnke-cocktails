@@ -22,7 +22,7 @@ date: 2025-08-11
 |  1.5 oz | Cachaça                                                   | Novo Fogo Barrel-Aged |
 |  0.5 oz | Fresh Lemon Juice                                         |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
-| 0.25 oz | Fernet Branca                                             | Fernet Branca         |
+| 0.25 oz | Amaro                                                     | Fernet Branca         |
 
 ### Notes
 

@@ -28,7 +28,7 @@ date: 2025-08-11
 |         4 oz | Fresh Lemon Juice                                        |
 |         4 oz | Apricot Liqueur                                          | Giffard Orchard       |
 |         6 oz | Fino Sherry                                              | Valdespino "Ynocente" |
-|       750 ml | Dry White Wine                                           | Abellio Albariño      |
+|       750 ml | White Wine                                               | Abellio Albariño      |
 
 ### Notes
 

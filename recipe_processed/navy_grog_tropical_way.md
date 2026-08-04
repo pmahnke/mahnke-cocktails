@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/navy_grog_tropical_way/"
 iconfile: navy_grog_tropical_way
 stars: 0
-base_spirits: ['Demerara Rum', 'Jamaican Rum', 'White Rum']
+base_spirits: ['Demerara Rum', 'Jamaican Rum', 'White Rum', 'Allspice Dram']
 youtube: "I3jeItKyZCs"
 description: "Modern reinvention of the classic rum-heavy drink that features a spiced grog concentrate syrup made with Mexican cola and toasted allspice."
 excerpt: |
@@ -27,7 +27,7 @@ date: 2025-08-20
 |  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Grog Concentrate Syrup]({%link recipe_processed/grog_concentrate_syrup.md%}) |
 |     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Grapefruit Juice, Acid Adjusted to Lemon                            |
 | <span class="onex active">3 dashes</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">6 dashes</span> <span class="threex">9 dashes</span>| Bitters                                                             | Angostura Aromatic Bitters         |
-|  <span class="onex active">5 drops </span> <span class="onehalfx">7 <sup>1</sup>&frasl;<sub>2</sub> drops </span> <span class="twox">10 drops </span> <span class="threex">15 drops </span>| salt solution                                                       |
+|  <span class="onex active">5 drops </span> <span class="onehalfx">7 <sup>1</sup>&frasl;<sub>2</sub> drops </span> <span class="twox">10 drops </span> <span class="threex">15 drops </span>| Salt Solution                                                       |
 
 ### Notes
 
@@ -59,7 +59,7 @@ date: 2025-08-20
   " 0.75 oz Grog Concentrate Syrup",
   "   1 oz Grapefruit Juice, Acid Adjusted to Lemon",
   " 3 dashes Bitters",
-  " 5 drops salt solution"
+  " 5 drops Salt Solution"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

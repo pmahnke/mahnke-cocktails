@@ -19,7 +19,7 @@ date: 2026-03-01
 
 |  Amount | Ingredient     | Brand                                                     |
 | ------: | -------------- | --------------------------------------------------------- |
-| 0.75 oz | London Dry Gin            | Martin Millers                                            |
+| 0.75 oz | London Dry Gin | Martin Millers                                            |
 | 0.75 oz | Crème de Cacao | Tempus Fugit                                              |
 | 0.75 oz | Cream          | half & half, heavy cream, or a favorite non-dairy creamer |
 

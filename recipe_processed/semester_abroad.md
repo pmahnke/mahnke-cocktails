@@ -7,7 +7,7 @@ categories: [cocktail]
 permalink: "/recipe/semester_abroad/"
 iconfile: semester_abroad
 stars: 3.5
-base_spirits: ['Rye', 'Fernet Branca']
+base_spirits: ['Rye', 'Curaçao', 'Fernet Branca']
 youtube: "JIQ_UNrQZR8"
 description: "It’s a simple three-ingredient build of rye whiskey, orange curaçao, and Fernet-Branca, but the result is rich and aromatic."
 excerpt: |
@@ -21,7 +21,7 @@ date: 2026-02-07
 | -----: | -------------- | ---------------------- |
 |   <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Rye            | Old Forester 100 Proof |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Orange Curaçao | Marie Brizard          |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fernet Branca  | Fernet Branca          |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Amaro          | Fernet Branca          |
 
 ### Notes
 
@@ -45,7 +45,7 @@ date: 2026-02-07
   "recipeIngredient": [
   "  2 oz Rye",
   "  1 oz Orange Curaçao",
-  " 0.5 oz Fernet Branca"
+  " 0.5 oz Amaro"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

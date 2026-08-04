@@ -7,7 +7,7 @@ eras: [prohibition]
 permalink: "/recipe/satans_whiskers/"
 iconfile: satans_whiskers
 stars: 0
-base_spirits: "Plymouth Gin "
+base_spirits: "Plymouth Gin, Dry Vermouth, Sweet Vermouth, Curaçao "
 youtube: "T3GsJVVGCFs"
 description: "A classic Prohibition-era cocktail with a devilishly delicious flavor profile, essentially a Perfect Martini with the addition of orange juice and Grand Marnier."
 excerpt: |
@@ -19,10 +19,10 @@ date: 2025-08-11
 
 |  Amount | Ingredient         | Brand                                                                           |
 | ------: | ------------------ | ------------------------------------------------------------------------------- |
-| 0.75 oz | Plymouth Gin                | Plymouth                                                                        |
+| 0.75 oz | Plymouth Gin       | Plymouth                                                                        |
 | 0.75 oz | Dry Vermouth       | Dolin Vermouth de Chambéry Dry                                                  |
 | 0.75 oz | Sweet Vermouth     | Dolin Vermouth de Chambéry Rouge                                                |
-|  0.5 oz | Orange Liqueur     | Pierre Ferrand Dry Curaçao (curled version) OR Grand Marnier (straight version) |
+|  0.5 oz | Curaçao            | Pierre Ferrand Dry Curaçao (curled version) OR Grand Marnier (straight version) |
 |  0.5 oz | Fresh Orange Juice |
 |  1 dash | Orange Bitters     | Regan's No.6                                                                    |
 

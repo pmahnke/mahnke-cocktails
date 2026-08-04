@@ -8,7 +8,7 @@ categories: [buck]
 permalink: "/recipe/suffering_bastard/"
 iconfile: suffering_bastard
 stars: 0
-base_spirits: "London Dry London Dry Gin, Cognac, Bourbon"
+base_spirits: "London Dry Gin, Cognac, Bourbon"
 youtube: "oRQtYcyRKVI"
 description: 'A classic "hair of the dog" buck from the 1940s, originally created as a hangover cure, uniquely featuring both gin and bourbon.'
 excerpt: |
@@ -22,7 +22,7 @@ date: 2025-08-11
 
 |        Amount | Ingredient                                               | Brand                      |
 | ------------: | -------------------------------------------------------- | -------------------------- |
-|          1 oz | London Dry London Dry Gin                                                      | Beefeaters                 |
+|          1 oz | London Dry Gin                                           | Beefeaters                 |
 |          1 oz | Cognac                                                   | Maison Rouge VSOP          |
 |       0.75 oz | Fresh Lime Juice                                         |
 |       0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
@@ -35,7 +35,7 @@ date: 2025-08-11
 
 |        Amount | Ingredient                                               | Brand                      |
 | ------------: | -------------------------------------------------------- | -------------------------- |
-|          1 oz | London Dry Gin                                                      | Beefeaters                 |
+|          1 oz | London Dry Gin                                           | Beefeaters                 |
 |          1 oz | Bourbon                                                  | Old Grand-Dad 100 Proof    |
 |       0.75 oz | Fresh Lime Juice                                         |
 |       0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |

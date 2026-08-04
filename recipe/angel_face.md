@@ -20,7 +20,7 @@ date: 2025-09-26
 
 |  Amount | Ingredient      | Brand                           |
 | ------: | --------------- | ------------------------------- |
-| 1.25 oz | London Dry Gin             | Beefeater                       |
+| 1.25 oz | London Dry Gin  | Beefeater                       |
 |    1 oz | Apple Brandy    | Roger Groult Pays D’Auge 3 Year |
 | 0.75 oz | Apricot Liqueur | Giffard Abricot du Roussillon   |
 

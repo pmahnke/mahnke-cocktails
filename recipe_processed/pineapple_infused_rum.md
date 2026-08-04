@@ -14,10 +14,10 @@ date: 2025-07-07
 
 ### Ingredients
 
-|  Amount | Ingredient                 |
-| ------: | -------------------------- |
-|  <span class="onex active">25 oz / 750 ml</span> <span class="onehalfx">37 <sup>1</sup>&frasl;<sub>2</sub> oz / 1125 ml</span> <span class="twox">50 oz / 1500 ml</span> <span class="threex">75 oz / 2250 ml</span>| Smith & Cross Jamaican Rum |
-| <span class="onex active">1 whole </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">2 whole </span> <span class="threex">3 whole </span>| Pineapple                  |
+|  Amount | Ingredient   | Brand         |
+| ------: | ------------ | ------------- |
+|  <span class="onex active">25 oz / 750 ml</span> <span class="onehalfx">37 <sup>1</sup>&frasl;<sub>2</sub> oz / 1125 ml</span> <span class="twox">50 oz / 1500 ml</span> <span class="threex">75 oz / 2250 ml</span>| Jamaican Rum | Smith & Cross |
+| <span class="onex active">1 whole </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">2 whole </span> <span class="threex">3 whole </span>| Pineapple    |
 
 ### Method:
 
@@ -38,7 +38,7 @@ date: 2025-07-07
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 750 ml Smith & Cross Jamaican Rum",
+  " 750 ml Jamaican Rum",
   " 1 whole Pineapple"
     ],
   "name": "{{ page.title }}",

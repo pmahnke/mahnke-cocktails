@@ -8,7 +8,7 @@ eras: [modern]
 permalink: "/recipe/cable_car/"
 iconfile: cable_car
 stars: 0
-base_spirits: "Spiced Rum "
+base_spirits: "Spiced Rum, Curaçao"
 youtube: "iUGkl-AVgbI"
 description: "A modern classic from 1996, this is a twist on the classic Sidecar featuring spiced rum."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                      | Brand          |
 | ------: | ----------------------------------------------- | -------------- |
-|  1.5 oz | Spiced Rum                                       | Koloa Kaua'i   |
+|  1.5 oz | Spiced Rum                                      | Koloa Kaua'i   |
 | 0.75 oz | Dry Curaçao                                     | Pierre Ferrand |
 |    1 oz | Fresh Lemon Juice                               |
 |  0.5 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |

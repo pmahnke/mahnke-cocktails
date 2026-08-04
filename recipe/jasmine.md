@@ -8,7 +8,7 @@ categories: [amaro, sour, daisy]
 permalink: "/recipe/jasmine/"
 iconfile: jasmine
 stars: 3
-base_spirits: "London Dry Gin, Campari"
+base_spirits: "London Dry Gin, Triple Sec, Campari"
 youtube: "b7rg7eshiQU"
 description: "A modern classic from the 1990s, this is a vibrant and bittersweet sour that balances gin and Campari with citrus."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2025-12-23
 
 |  Amount | Ingredient        | Brand     |
 | ------: | ----------------- | --------- |
-|  1.5 oz | London Dry Gin               | Beefeater |
+|  1.5 oz | London Dry Gin    | Beefeater |
 | 0.25 oz | Triple Sec        | Cointreau |
 | 0.25 oz | Amaro             | Campari   |
 | 0.75 oz | Fresh Lemon Juice |

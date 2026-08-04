@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                      | Brand              |
 | ------: | ----------------------------------------------- | ------------------ |
-|  1.5 oz | Plymouth Gin                                             | Plymouth           |
+|  1.5 oz | Plymouth Gin                                    | Plymouth           |
 | 0.25 oz | Bénédictine                                     | Bénédictine D.O.M. |
 |  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 0.75 oz | Fresh Lemon Juice                               |

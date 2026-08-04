@@ -19,7 +19,7 @@ date: 2025-11-15
 
 | Amount | Ingredient      | Brand                            |
 | -----: | --------------- | -------------------------------- |
-|   1 oz | London Dry Gin             | Astraea Ocean                    |
+|   1 oz | London Dry Gin  | Astraea Ocean                    |
 |   1 oz | Crème de Cassis | Jules Theuriet                   |
 |   1 oz | Blanc Vermouth  | Dolin Blanc Vermouth de Chambéry |
 

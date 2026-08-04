@@ -7,7 +7,7 @@ categories: [tiki]
 permalink: "/recipe/mai_tai/"
 iconfile: mai_tai
 stars: 4.5
-base_spirits: "Jamaican Rum, Rhum Agricole"
+base_spirits: "Jamaican Rum, Rhum Agricole, Curaçao, Dark Rum, Overproof Rum"
 youtube: "gYJsPE1demY"
 description: "A quintessential tiki classic that balances two types of rum with the flavors of orange curaçao, orgeat, and lime."
 excerpt: |
@@ -25,7 +25,7 @@ date: 2025-12-13
 |    1 oz | Fresh Lime Juice                                |
 |  0.5 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
 |  0.5 oz | Dark Rum                                        | Kōloa Kaua'i                          |
-| 0.25 oz | Overproof Rum                                  | Bacardi 151                           |
+| 0.25 oz | Overproof Rum                                   | Bacardi 151                           |
 
 ### Notes
 

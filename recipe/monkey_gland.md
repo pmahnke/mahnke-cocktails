@@ -17,12 +17,12 @@ date: 2025-08-11
 
 ### Ingredients
 
-|   Amount | Ingredient                                      | Brand        |
-| -------: | ----------------------------------------------- | ------------ |
-|   1.5 oz | London Dry Gin                                             | The Botanist |
+|   Amount | Ingredient                                      | Brand            |
+| -------: | ----------------------------------------------- | ---------------- |
+|   1.5 oz | London Dry Gin                                  | The Botanist     |
 |     1 oz | Fresh Orange Juice                              |
 |   0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
-| 3 dashes | Absinthe                                        | St. George Verte   |
+| 3 dashes | Absinthe                                        | St. George Verte |
 |  1 swath | Orange Peel                                     |
 
 ### Notes

@@ -7,7 +7,7 @@ eras: [new_orleans]
 permalink: "/recipe/la_louisiane/"
 iconfile: la_louisiane
 stars: 5
-base_spirits: "Rye, Bénédictine "
+base_spirits: "Rye, Sweet Vermouth, Bénédictine, Absinthe"
 youtube: "9XLtsOKT6oY"
 description: "A classic New Orleans cocktail, this is a rich and complex variation on the Sazerac featuring rye, Bénédictine, and absinthe."
 excerpt: |

@@ -31,7 +31,7 @@ date: 2025-11-26
 |        0.5 cup | Jamaican Rum          | Appleton 12 year Rare Casks |
 |        0.5 cup | Cognac                | Maison Rouge VSOP           |
 |        0.5 cup | Bourbon               | Elijah Craig Small Batch    |
-| 0.125 barspoon | salt                  |
+| 0.125 barspoon | Salt                  |
 
 ### Notes
 

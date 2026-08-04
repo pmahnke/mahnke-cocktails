@@ -20,7 +20,7 @@ date: 2026-02-05
 
 |     Amount | Ingredient         | Brand               |
 | ---------: | ------------------ | ------------------- |
-|    1.75 oz | London Dry Gin                | Hayman's London Dry |
+|    1.75 oz | London Dry Gin     | Hayman's London Dry |
 |  0.3333 oz | Maraschino Liqueur | Luxardo             |
 | 1 barspoon | Yellow Chartreuse  | Yellow Chartreuse   |
 |    0.25 oz | Crème de Violette  | Rothman & Winter    |

@@ -19,12 +19,12 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                                | Brand            |
 | ------: | --------------------------------------------------------- | ---------------- |
-| 1 whole | Strawberry                                                |
-|  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |    1 oz | Pisco                                                     | Barsol Quebranta |
-|  0.5 oz | Plymouth Gin                                                       | Plymouth         |
+|  0.5 oz | Plymouth Gin                                              | Plymouth         |
 | 0.75 oz | Cocchi Americano                                          | Cocchi Americano |
+|  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 0.75 oz | Fresh Lemon Juice                                         |
+| 1 whole | Strawberry                                                |
 
 ### Notes
 

@@ -7,7 +7,7 @@ eras: [new_orleans]
 permalink: "/recipe/creole/"
 iconfile: creole
 stars: 4
-base_spirits: ['Rye', 'Bénédictine', 'Ramazzotti']
+base_spirits: ['Rye', 'Sweet Vermouth', 'Bénédictine', 'Ramazzotti']
 youtube: "BTPaTmkJxbM"
 description: "A classic New Orleans cocktail from the early 1900s with a complex flavor profile combining rye, sweet vermouth, amaro, and Bénédictine."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/corpse_reviver_blue/"
 iconfile: corpse_reviver_blue
 stars: 0
-base_spirits: "London Dry Gin, Cocchi Americano"
+base_spirits: "London Dry Gin, Cocchi Americano, Curaçao"
 youtube: "rMCsrbidAJ4"
 description: "A modern, visually striking riff on the Corpse Reviver No. 2 that gets its color from blue curaçao."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient        | Brand            |
 | ------: | ----------------- | ---------------- |
-| 0.75 oz | London Dry Gin               | The Botanist     |
+| 0.75 oz | London Dry Gin    | The Botanist     |
 | 0.75 oz | Cocchi Americano  | Cocchi Americano |
 | 0.75 oz | Blue Curaçao      | Giffard          |
 | 0.75 oz | Fresh Lemon Juice |

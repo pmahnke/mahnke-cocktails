@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |   Amount | Ingredient     | Brand                     |
 | -------: | -------------- | ------------------------- |
-|   1.5 oz | Plymouth Gin            | Plymouth                  |
+|   1.5 oz | Plymouth Gin   | Plymouth                  |
 |   1.5 oz | Sweet Vermouth | Cocchi Vermouth di Torino |
 | 2 dashes | Orange Bitters | Regan's No. 6             |
 

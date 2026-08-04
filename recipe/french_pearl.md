@@ -20,7 +20,7 @@ date: 2025-08-11
 
 |        Amount | Ingredient                                                | Brand                      |
 | ------------: | --------------------------------------------------------- | -------------------------- |
-|          2 oz | London Dry Gin                                                      | East London Liquor Company |
+|          2 oz | London Dry Gin                                            | East London Liquor Company |
 |       0.75 oz | Lime Juice                                                |
 |       0.75 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |       1 rinse | Absinthe                                                  |

@@ -2,14 +2,13 @@
 layout: recipe
 author: Owen Mahnke
 title: "Midori Daiquiri"
-categories:
-  [  sour,  ]
+categories: [sour]
 eras: [modern]
 permalink: "/recipe/midori_daiquiri/"
 iconfile: midori_daiquiri
 stars: 4
-base_spirits: "Midori, White Rum"
-youtube: 
+base_spirits: "White Rum, Melon Liqueur"
+youtube:
 description: "A vibrant green twist on the classic Cuban sour, celebrated for its perfect balance of two parts white rum, sweet melon liqueur, and tart fresh lime juice."
 excerpt: |
   Owen loves all things Japan, and after a few attempts, he has ended up on this vibrant green twist on the classic Cuban sour, celebrated for its perfect balance of two parts white rum, sweet melon liqueur, and tart fresh lime juice.
@@ -18,12 +17,12 @@ date: 2025-08-20
 
 ### Ingredients
 
-| Amount | Ingredient | Brand |
-| -----: | ---------- | ----- |
-|  2 oz      | White Rum           | El Dorado 3 Year      |
-|  1 oz      | Melon Liqueur           | Midori Melon Liqueur     |
-| 0.75 oz | Fresh Lime Juice                                ||
-| 1 barspoon | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%})||
+|     Amount | Ingredient                                                | Brand                |
+| ---------: | --------------------------------------------------------- | -------------------- |
+|       2 oz | White Rum                                                 | El Dorado 3 Year     |
+|       1 oz | Melon Liqueur                                             | Midori Melon Liqueur |
+|    0.75 oz | Fresh Lime Juice                                          |                      |
+| 1 barspoon | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |                      |
 
 ### Notes
 

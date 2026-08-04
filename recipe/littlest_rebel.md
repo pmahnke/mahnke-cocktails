@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Littlest Rebel"
 eras: [prohibition]
 categories: [sour]
-permalink: "/recipe/little_strebel/"
+permalink: "/recipe/littlest_rebel/"
 iconfile: littlest_rebel
 stars: 0
 base_spirits: "Apple Brandy, Blended Scotch "

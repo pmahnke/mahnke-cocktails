@@ -19,7 +19,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient                                    | Brand        |
 | ------: | --------------------------------------------- | ------------ |
-|    2 oz | London Dry Gin                                           | The Botanist |
+|    2 oz | London Dry Gin                                | The Botanist |
 | 0.75 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 | 0.75 oz | Fresh Lemon Juice                             |
 

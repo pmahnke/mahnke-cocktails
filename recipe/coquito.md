@@ -17,15 +17,16 @@ date: 2025-12-13
 
 ### Ingredients
 
-| ------: | ----------------------------------------------------------- | ----- |
-| 8 oz | Coconut Milk |
-| 4 oz | Evaporated Milk |
-| 4 oz | Sweetened Condensed Milk |
-| 2 oz | [Cream of Coconut]({%link recipe/cream_of_coconut_syrup.md%}) |
-| 0.25 oz | Vanilla Extract |
-| 2 oz | Chilled Spice Tea |
-| 1 pinch | Salt |
-| 4 oz | Gold Rum | Don Q |
+|  Amount | Ingredient                                                    | Brand |
+| ------: | ------------------------------------------------------------- | ----- |
+|    8 oz | Coconut Milk                                                  |
+|    4 oz | Evaporated Milk                                               |
+|    4 oz | Sweetened Condensed Milk                                      |
+|    2 oz | [Cream of Coconut]({%link recipe/cream_of_coconut_syrup.md%}) |
+| 0.25 oz | Vanilla Extract                                               |
+|    2 oz | Chilled Spice Tea                                             |
+| 1 pinch | Salt                                                          |
+|    4 oz | Gold Rum                                                      | Don Q |
 
 ### Notes
 

@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/clover_club2/"
 iconfile: clover_club2
 stars: 3
-base_spirits: "Plymouth Gin "
+base_spirits: "Plymouth Gin, Blanc Vermouth"
 youtube: "MkLZovhDN_k"
 description: "A pre-Prohibition classic from Philadelphia known for its silky, frothy texture and beautiful pink hue from raspberry syrup."
 excerpt: |

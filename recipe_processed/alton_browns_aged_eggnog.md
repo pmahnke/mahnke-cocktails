@@ -31,7 +31,7 @@ date: 2025-11-26
 |        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span>| Jamaican Rum          | Appleton 12 year Rare Casks |
 |        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span>| Cognac                | Maison Rouge VSOP           |
 |        <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> cup </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> cup </span> <span class="twox">1 cup </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> cup </span>| Bourbon               | Elijah Craig Small Batch    |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| salt                  |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>8</sub> barspoons</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox"> <sup>1</sup>&frasl;<sub>4</sub> barspoons</span> <span class="threex"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Salt                  |
 
 ### Notes
 
@@ -65,7 +65,7 @@ date: 2025-11-26
   "    0.5 cup Jamaican Rum",
   "    0.5 cup Cognac",
   "    0.5 cup Bourbon",
-  " 0.125 barspoon salt"
+  " 0.125 barspoon Salt"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [
