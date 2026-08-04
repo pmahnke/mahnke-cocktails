@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/shandy_uk/"
 iconfile: shandy_uk
 stars: 0
-base_spirits: ['Beer']
+base_spirits: ['Lager']
 youtube: "gu5hZ5Rb8nc&t=342s"
 description: "This is a refreshing, low-alcohol drink made by mixing beer (typically a light lager) with sparkling lemonade, usually in equal parts."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2026-07-11
 
 | Amount | Ingredient         | Brand                  |
 | -----: | ------------------ | ---------------------- |
-| <span class="onex active">1 part </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> part </span> <span class="twox">2 part </span> <span class="threex">3 part </span>| Beer               | New Glarus Spotted Cow |
+| <span class="onex active">1 part </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> part </span> <span class="twox">2 part </span> <span class="threex">3 part </span>| Lager               | New Glarus Spotted Cow |
 | <span class="onex active">1 part </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> part </span> <span class="twox">2 part </span> <span class="threex">3 part </span>| Sparkling Lemonade |                        |
 
 ### Notes
@@ -42,7 +42,7 @@ date: 2026-07-11
   "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
-  " 1 part Beer",
+  " 1 part Lager",
   " 1 part Sparkling Lemonade"
     ],
   "name": "{{ page.title }}",

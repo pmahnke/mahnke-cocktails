@@ -135,7 +135,6 @@ $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
 # ingredients
 $INCLUDE{'shochu'} = qq|/assets/images/ingredient-shochu.svg|;
 $INCLUDE{'italicus'} = qq|/assets/images/ingredient-rosolio.svg|;
-$INCLUDE{'porter'} = qq|/assets/images/ingredient-porter.svg|;
 $INCLUDE{'pimms'} = qq|/assets/images/ingredient-pimms.svg|;
 $INCLUDE{'pear_liqueur'} = qq|/assets/images/ingredient-pear_liqueur.svg|;
 $INCLUDE{'peach_liqueur'} = qq|/assets/images/ingredient-peach_liqueur.svg|;
@@ -171,10 +170,17 @@ $INCLUDE{'grenadine'} = qq|/assets/images/ingredient-grenadine.svg|;
 $INCLUDE{'cocchi-americano'} = qq|/assets/images/ingredient-cocchi-americano.svg|;
 $INCLUDE{'white-creme-de-cacao'} = qq|/assets/images/ingredient-cacao.svg|;
 $INCLUDE{'orange-slice'} = qq|/assets/images/fruit-orange.svg|;
-$INCLUDE{'stout'} = qq|/assets/images/ingredient-stout.svg|;
-$INCLUDE{'beer'} = qq|/assets/images/ingredient-beer.svg|;
 $INCLUDE{'ginger-beer'} = qq|/assets/images/ingredient-ginger-beer.svg|;
 $INCLUDE{'absinthe'} = qq|/assets/images/ingredient-absinthe.svg|;
+
+
+$INCLUDE{'stout'} = qq|/assets/images/ingredient-stout.svg|;
+$INCLUDE{'lager'} = qq|/assets/images/ingredient-beer.svg|;
+$INCLUDE{'dark_ale'} = qq|/assets/images/ingredient-dark_ale.svg|;
+$INCLUDE{'ale'} = qq|/assets/images/ingredient-ale.svg|;
+$INCLUDE{'ipa'} = qq|/assets/images/ingredient-ipa.svg|;
+$INCLUDE{'porter'} = qq|/assets/images/ingredient-porter.svg|;
+
 
 $INCLUDE{'amaro_nonio'} = qq|/assets/images/ingredient-amaro_nonio.svg|;
 $INCLUDE{'amaro_averna'} = qq|/assets/images/ingredient-amaro_averna.svg|;
@@ -251,8 +257,6 @@ $INCLUDE{'lillet-rouge'} = qq|/assets/images/ingredient-lillet_rouge.svg|;
 $INCLUDE{'lillet-blanc'} = qq|/assets/images/ingredient-lillet-blanc.svg|;
 $INCLUDE{'cachaca'} = qq|/assets/images/ingredient-cachaca.svg|;
 $INCLUDE{'amaro'} = qq|/assets/images/ingredient-amaro.svg|;
-$INCLUDE{'dark_ale'} = qq|/assets/images/ingredient-dark_ale.svg|;
-$INCLUDE{'ipa'} = qq|/assets/images/ingredient-ipa.svg|;
 $INCLUDE{'drambuie'} = qq|/assets/images/ingredient-drambuie.svg|;
 $INCLUDE{'ruby-port'} = qq|/assets/images/ingredient-ruby_port.svg|;
 $INCLUDE{'tawny-port'} = qq|/assets/images/ingredient-tawny_port.svg|;
@@ -461,8 +465,7 @@ foreach $file (sort @files) {
 	    $ingredient{'cocchi-americano'} = 1 if (/cocchi americano/i);
             #$ingredient{'white-creme-de-cacao'} = 1 if (/white crème de cacao/i);
             $ingredient{'ginger-beer'} = 1 if (/ginger beer/i);
-	    $ingredient{'beer'} = 1 if (/beer/i);
-	    $ingredient{'stout'} = 1 if (/stout/i);
+
             $ingredient{'absinthe'} = 1 if (/absinthe/i);
             $ingredient{'lemon-wedge'} = 1 if (/lemon wedge/i);
             $ingredient{'simple-syrup'} = 1 if (/simple syrup/i);
@@ -540,10 +543,15 @@ foreach $file (sort @files) {
             $ingredient{'amaro'} = 1 if (/amaro/i && !$ingredient{'amaro_averna'} && !$ingredient{'amaro_nonio'});
 
 	    $ingredient{'dark_ale'} = 1 if (/dark (ale|beer)/i);
+	    $ingredient{'ale'} = 1 if (/ale/i && !$ingredient{'dark_ale'});
         $ingredient{'porter'} = 1 if (/porter/i);
+        $ingredient{'ipa'} = 1 if (/ipa/i);
+        $ingredient{'lager'} = 1 if (/lager/i);
+	    $ingredient{'stout'} = 1 if (/stout/i);
+
+
 	    $ingredient{'tawny-port'} = 1 if (/tawny port/i);
 	    $ingredient{'ruby-port'} = 1 if (/ruby port/i);
-            $ingredient{'ipa'} = 1 if (/ipa/i);
             $ingredient{'drambuie'} = 1 if (/drambuie/i);
             $ingredient{'spiced-rum'} = 1 if (/spiced rum/i);
             $ingredient{'creme-de-cassis'} = 1 if (/de cassis/i);

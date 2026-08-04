@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-beer.svg
-      title: Beer
+      title: Lager
   tool:
     - url: /assets/images/tool_double_strain.svg
       title: Double Strained

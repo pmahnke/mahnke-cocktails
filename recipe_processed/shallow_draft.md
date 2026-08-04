@@ -8,7 +8,7 @@ eras: [anders]
 permalink: "/recipe/shallow_draft/"
 iconfile: shallow_draft
 stars: 0
-base_spirits: ['Beer']
+base_spirits: ['Lager']
 youtube: "gu5hZ5Rb8nc&t=585s"
 description: "This cocktail is a riff on the classic Shandy. With the addition of Falernum, it skews more toward the cocktail side, but still sits in the Shandy family."
 excerpt: |
@@ -22,7 +22,7 @@ date: 2025-08-20
 | --------: | ----------------- | ---------------------- |
 |     <sup>3</sup>&frasl;<sub>4</sub>oz | Falernum          | Portland Syrups        |
 |      <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lemon Juice |
-| <span class="onex active">6 to 8 oz  / 180 to 240 ml</span> <span class="onehalfx">9 to 12 oz  / 270 to 360 ml</span> <span class="twox">12 to 16 oz  / 360 to 480 ml</span> <span class="threex">18 to 24 oz  / 540 to 720 ml</span>| Beer              | New Glarus Spotted Cow |
+| <span class="onex active">6 to 8 oz  / 180 to 240 ml</span> <span class="onehalfx">9 to 12 oz  / 270 to 360 ml</span> <span class="twox">12 to 16 oz  / 360 to 480 ml</span> <span class="threex">18 to 24 oz  / 540 to 720 ml</span>| Lager              | New Glarus Spotted Cow |
 
 ### Notes
 
@@ -49,7 +49,7 @@ date: 2025-08-20
   "recipeIngredient": [
   "  0.75oz Falernum",
   "   1 oz Fresh Lemon Juice",
-  " 6 to 8 oz Beer"
+  " 6 to 8 oz Lager"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

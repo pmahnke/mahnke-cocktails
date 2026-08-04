@@ -1,7 +1,7 @@
 images:
   ingredient:
     - url: /assets/images/ingredient-beer.svg
-      title: Beer
+      title: Lager
   glass:
     - url: /assets/images/glass_highball.svg
       title: Highball

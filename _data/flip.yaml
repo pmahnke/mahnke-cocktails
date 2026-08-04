@@ -1,5 +1,7 @@
 images:
   ingredient:
+    - url: /assets/images/ingredient-ale.svg
+      title: Ale
     - url: /assets/images/ingredient-jamacian-rum.svg
       title: Jamaican Rum
   tool:

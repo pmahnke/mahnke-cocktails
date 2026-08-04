@@ -7,7 +7,7 @@ eras: [classic]
 permalink: "/recipe/shandy_usa/"
 iconfile: shandy_usa
 stars: 0
-base_spirits: "Beer"
+base_spirits: "Lager"
 youtube: "gu5hZ5Rb8nc&t=236s"
 description: "This is a refreshing, low-alcohol drink made by mixing beer (typically a light lager) with lemonade, usually in equal parts."
 excerpt: |
@@ -19,7 +19,7 @@ date: 2026-07-11
 
 | Amount | Ingredient | Brand                  |
 | -----: | ---------- | ---------------------- |
-| 1 part | Beer       | New Glarus Spotted Cow |
+| 1 part | Lager       | New Glarus Spotted Cow |
 | 1 part | Lemonade   |                        |
 
 ### Notes

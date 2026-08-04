@@ -8,7 +8,7 @@ eras: [anders]
 permalink: "/recipe/shallow_draft/"
 iconfile: shallow_draft
 stars: 0
-base_spirits: "Beer"
+base_spirits: "Lager"
 youtube: "gu5hZ5Rb8nc&t=585s"
 description: "This cocktail is a riff on the classic Shandy. With the addition of Falernum, it skews more toward the cocktail side, but still sits in the Shandy family."
 excerpt: |
@@ -22,7 +22,7 @@ date: 2025-08-20
 | --------: | ----------------- | ---------------------- |
 |    0.75oz | Falernum          | Portland Syrups        |
 |      1 oz | Fresh Lemon Juice |
-| 6 to 8 oz | Beer              | New Glarus Spotted Cow |
+| 6 to 8 oz | Lager              | New Glarus Spotted Cow |
 
 ### Notes
 
