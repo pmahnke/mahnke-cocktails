@@ -185,11 +185,13 @@ while (my $file = readdir DIR) {
                 my $lc_brand = lc($brand_spirit);
 
                 if ($spirit{$lc_raw}) {
-                    my $spirit_link = qq|$raw_spirit [&#9432;](/spirit/$spirit{$lc_raw} "More $raw_spirit recipes")|;
+                    my $slug = $spirit{$lc_raw};
+                    my $spirit_link = qq|$raw_spirit [&#9432;](/spirit/$slug/ "More $raw_spirit recipes")|;
                     $line =~ s/\Q$raw_spirit\E/$spirit_link/;
                 }
                 elsif ($spirit{$lc_brand}) {
-                    my $spirit_link = qq|$brand_spirit [&#9432;](/spirit/$spirit{$lc_brand} "More $brand_spirit recipes")|;
+                    my $slug = $spirit{$lc_brand};
+                    my $spirit_link = qq|$brand_spirit [&#9432;](/spirit/$slug/ "More $brand_spirit recipes")|;
                     $line =~ s/\Q$brand_spirit\E/$spirit_link/;
                 }
         
@@ -471,13 +473,13 @@ sub build_yaml_entry {
 
 sub read_spirit_data {
     my $spirit_dir = '_spirit';
-    opendir(my $dh, $spirit_dir) or die "Can't open directory $spirit_dir: $!";
+    opendir(my $dh, $spirit_dir) or die "Can't open directory $spirit_dir:$!";
     my @files = grep { /\.md$/ && -f "$spirit_dir/$_" } readdir($dh);
     closedir($dh);
 
     for my $file (@files) {
         my $filepath = "$spirit_dir/$file";
-        open(my $fh, '<:encoding(UTF-8)', $filepath) or warn "Can't open $filepath: $!";
+        open(my $fh, '<:encoding(UTF-8)', $filepath) or warn "Can't open $filepath:$!";
         
         my $front_matter = "";
         my $in_yaml = 0;
@@ -501,16 +503,22 @@ sub read_spirit_data {
                 }
             }
 
+            # Generate clean slug from filename or YAML
             my $slug = $yaml_data->{slug} // do {
                 my $s = $file; $s =~ s/\.md$//; $s;
             };
             
+            # SANITIZE SLUG: Strip accents and special characters
+            $slug = lc($slug);
+            $slug =~ tr/àâäéèêëîïôöùûüçñÀÂÄÉÈÊËÎÏÔÖÙÛÜÇÑ/aaaeeeeiiioouuucnAAAEEEEIIIOOUUUCN/;
+            $slug =~ s/[^a-z0-9_\-]+/_/g;
+
             my $name = $yaml_data->{title} // $yaml_data->{name} // ''; 
             
             if ($name) {
                 $name =~ s/['"]//g;
                 $name =~ s/\s+/ /g;
-                $name =~ s/^\s+//; $name =~ s/\s+$//;
+                $name =~ s/^\s+//; $name =~ s/\s+$//; 
                 $spirit{lc($name)} = $slug;
             }
             
@@ -520,7 +528,7 @@ sub read_spirit_data {
                     foreach my $alias (@$aliases) {
                         $alias =~ s/['"]//g;
                         $alias =~ s/\s+/ /g;
-                        $alias =~ s/^\s+//; $alias =~ s/$//;
+                        $alias =~ s/^\s+//; $alias =~ s/\s+$//; 
                         $spirit{lc($alias)} = $slug;
                     }
                 }

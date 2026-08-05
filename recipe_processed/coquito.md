@@ -13,8 +13,8 @@ excerpt: |
   Creamy, rich Coquito may be a classic Puerto Rican holiday drink, but don't let the seasons limit you—this combination of rum, milk, coconut, and spices tastes great any time of year.
 date: 2025-12-13
 garnishes:
-  - cinnamon
   - anise
+  - cinnamon
 ---
 
 ### Ingredients
@@ -28,7 +28,7 @@ garnishes:
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Vanilla Extract                                               |
 |    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Chilled Spice Tea                                             |
 | <span class="onex active">1 pinch </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> pinch </span> <span class="twox">2 pinch </span> <span class="threex">3 pinch </span>| Salt                                                          |
-|    <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Gold Rum [&#9432;](/spirit/gold_rum "More Gold Rum recipes")                                                      | Don Q |
+|    <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| Gold Rum [&#9432;](/spirit/gold_rum/ "More Gold Rum recipes")                                                      | Don Q |
 
 ### Notes
 

@@ -19,7 +19,7 @@ garnishes: cinnamon
 
 |   Amount | Ingredient                                                | Brand                   |
 | -------: | --------------------------------------------------------- | ----------------------- |
-|    <span class="onex active">50 oz  / 1500 ml</span> <span class="onehalfx">75 oz  / 2250 ml</span> <span class="twox">100 oz  / 3000 ml</span> <span class="threex">150 oz  / 4500 ml</span>| Bourbon [&#9432;](/spirit/bourbon "More Bourbon recipes")                                                   | Old Grand-Dad 100 Proof |
+|    <span class="onex active">50 oz  / 1500 ml</span> <span class="onehalfx">75 oz  / 2250 ml</span> <span class="twox">100 oz  / 3000 ml</span> <span class="threex">150 oz  / 4500 ml</span>| Bourbon [&#9432;](/spirit/bourbon/ "More Bourbon recipes")                                                   | Old Grand-Dad 100 Proof |
 |    <span class="onex active">12 oz  / 360 ml</span> <span class="onehalfx">18 oz  / 540 ml</span> <span class="twox">24 oz  / 720 ml</span> <span class="threex">36 oz  / 1080 ml</span>| Fresh Apple Cider                                         |
 |     <span class="onex active">6 oz  / 180 ml</span> <span class="onehalfx">9 oz  / 270 ml</span> <span class="twox">12 oz  / 360 ml</span> <span class="threex">18 oz  / 540 ml</span>| [Spiced Tea]({%link recipe_processed/spiced_tea.md%})               |
 | <span class="onex active">20 whole </span> <span class="onehalfx">30 whole </span> <span class="twox">40 whole </span> <span class="threex">60 whole </span>| Dry Bay Leaves                                            |

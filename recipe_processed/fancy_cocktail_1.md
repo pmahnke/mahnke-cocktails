@@ -20,9 +20,9 @@ type: stirred
 
 | Amount | Ingredient        | Brand                      |
 | -----: | ----------------- | -------------------------- |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Italicus [&#9432;](/spirit/italicus "More Italicus recipes")          | Rosolio di Bergamotto      |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Reposado Tequila [&#9432;](/spirit/reposado_tequila "More Reposado Tequila recipes")  | Casamigos                  |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Manzanilla Sherry [&#9432;](/spirit/manzanilla_sherry "More Manzanilla Sherry recipes") | Lustau Manzanilla Papirusa |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Italicus [&#9432;](/spirit/italicus/ "More Italicus recipes")          | Rosolio di Bergamotto      |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Reposado Tequila [&#9432;](/spirit/reposado_tequila/ "More Reposado Tequila recipes")  | Casamigos                  |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Manzanilla Sherry [&#9432;](/spirit/manzanilla_sherry/ "More Manzanilla Sherry recipes") | Lustau Manzanilla Papirusa |
 
 ### Notes
 

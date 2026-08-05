@@ -21,7 +21,7 @@ type: blended
 
 | Amount | Ingredient                                                | Brand    |
 | -----: | --------------------------------------------------------- | -------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                                 | Probitas |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Rum [&#9432;](/spirit/white_rum/ "More White Rum recipes")                                                 | Probitas |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lime Juice                                          |
 |  <span class="onex active">140 g </span> <span class="onehalfx">210 g </span> <span class="twox">280 g </span> <span class="threex">420 g </span>| Frozen Strawberries                                       |
@@ -30,7 +30,7 @@ type: blended
 
 | Amount | Ingredient                                                    | Brand    |
 | -----: | ------------------------------------------------------------- | -------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Rum [&#9432;](/spirit/white_rum "More White Rum recipes")                                                     | Probitas |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Rum [&#9432;](/spirit/white_rum/ "More White Rum recipes")                                                     | Probitas |
 |  <span class="onex active">1 oz.  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz.  / 45 ml</span> <span class="twox">2 oz.  / 60 ml</span> <span class="threex">3 oz.  / 90 ml</span>| [Cream of Coconut]({%link recipe_processed/cream_of_coconut_syrup.md%}) |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Pineapple Juice                                         |
 |  <span class="onex active">140 g </span> <span class="onehalfx">210 g </span> <span class="twox">280 g </span> <span class="threex">420 g </span>| Frozen Pineapple                                              |

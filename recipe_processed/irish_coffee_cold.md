@@ -13,16 +13,16 @@ excerpt: |
   The Cold Brew Irish Coffee is a refreshing and modern twist on the classic hot Irish coffee. This cocktail combines the bold flavors of cold brew coffee with the smooth warmth of Irish whiskey, creating a perfect drink for any occasion.
 date: 2025-08-11
 glass:
-  - coffee
   - whiskey
+  - coffee
 ---
 
 ### Ingredients
 
 | Amount | Ingredient     | Brand               |
 | -----: | -------------- | ------------------- |
-|   <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Coffee Liqueur [&#9432;](/spirit/coffee_liqueur "More Coffee Liqueur recipes") | Mr. Black Cold Brew |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Irish Whiskey [&#9432;](/spirit/irish_whiskey "More Irish Whiskey recipes")  | Powers Gold Label   |
+|   <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Coffee Liqueur [&#9432;](/spirit/coffee_liqueur/ "More Coffee Liqueur recipes") | Mr. Black Cold Brew |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Irish Whiskey [&#9432;](/spirit/irish_whiskey/ "More Irish Whiskey recipes")  | Powers Gold Label   |
 
 ### Notes
 

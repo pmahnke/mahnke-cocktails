@@ -22,9 +22,9 @@ type: stirred
 
 |   Amount | Ingredient   | Brand                      |
 | -------: | ------------ | -------------------------- |
-|     <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Demerara rum [&#9432;](/spirit/demerara_rum "More Demerara rum recipes") | Real McCoy 12 Year         |
+|     <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Demerara rum [&#9432;](/spirit/demerara_rum/ "More Demerara rum recipes") | Real McCoy 12 Year         |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Falernum     |                            |
-| <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters      | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |
+| <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters      | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters/ "More Angostura Aromatic Bitters recipes") |
 
 ### Notes
 

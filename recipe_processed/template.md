@@ -42,18 +42,18 @@ excerpt: |
   Lorem ipsum dolor sit amet.
 date: 2025-08-20
 glass:
+  - coupe
+  - highball
   - rocks
   - flute
-  - highball
-  - coupe
   - martini
 ice:
   - crushed
   - cubed
 type:
-  - blended
   - shaken
   - stirred
+  - blended
 ---
 
 ### Ingredients

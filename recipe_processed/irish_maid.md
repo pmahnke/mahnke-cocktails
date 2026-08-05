@@ -13,8 +13,8 @@ excerpt: |
   The Irish Maid is a Whiskey Sour variation featuring Irish whiskey, lemon juice and fresh cucumber. It makes the case for whiskey as a summer drink.
 date: 2025-08-11
 glass:
-  - whiskey
   - rocks
+  - whiskey
 ice: cubed
 type: shaken
 ---
@@ -24,8 +24,8 @@ type: shaken
 |   Amount | Ingredient                                                | Brand             |
 | -------: | --------------------------------------------------------- | ----------------- |
 | <span class="onex active">2 slices </span> <span class="onehalfx">3 slices </span> <span class="twox">4 slices </span> <span class="threex">6 slices </span>| Cucumber                                                  |
-|     <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Irish Whiskey [&#9432;](/spirit/irish_whiskey "More Irish Whiskey recipes")                                             | Powers Gold Label |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Elderflower Liqueur [&#9432;](/spirit/elderflower_liqueur "More Elderflower Liqueur recipes")                                       | St. Germain       |
+|     <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Irish Whiskey [&#9432;](/spirit/irish_whiskey/ "More Irish Whiskey recipes")                                             | Powers Gold Label |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Elderflower Liqueur [&#9432;](/spirit/elderflower_liqueur/ "More Elderflower Liqueur recipes")                                       | St. Germain       |
 |  <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lemon Juice                                         |
 |   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
 

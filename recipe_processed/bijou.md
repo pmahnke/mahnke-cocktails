@@ -24,9 +24,9 @@ type: stirred
 
 |  Amount | Ingredient       | Brand                     |
 | ------: | ---------------- | ------------------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Plymouth Gin [&#9432;](/spirit/plymouth_gin "More Plymouth Gin recipes")     | Plymouth                  |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes")   | Cocchi Vermouth di Torino |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Green Chartreuse [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes") | Green Chartreuse          |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Plymouth Gin [&#9432;](/spirit/plymouth_gin/ "More Plymouth Gin recipes")     | Plymouth                  |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth/ "More Sweet Vermouth recipes")   | Cocchi Vermouth di Torino |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Green Chartreuse [&#9432;](/spirit/green_chartreuse/ "More Green Chartreuse recipes") | Green Chartreuse          |
 |  <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Orange Bitters   | Regan's No. 6             |
 
 ### Notes
@@ -43,9 +43,9 @@ type: stirred
 
 |  Amount | Ingredient       | Brand                     |
 | ------: | ---------------- | ------------------------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 38 ml</span> <span class="onehalfx">1.875 oz  / 56 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span>| Gin [&#9432;](/spirit/gin "More Gin recipes")              | Plymouth                  |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes")   | Cocchi Vermouth di Torino |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Green Chartreuse [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes") | Green Chartreuse          |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 38 ml</span> <span class="onehalfx">1.875 oz  / 56 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span>| Gin [&#9432;](/spirit/gin/ "More Gin recipes")              | Plymouth                  |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth/ "More Sweet Vermouth recipes")   | Cocchi Vermouth di Torino |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Green Chartreuse [&#9432;](/spirit/green_chartreuse/ "More Green Chartreuse recipes") | Green Chartreuse          |
 |  <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Orange Bitters   | Regan's No. 6             |
 
 ### Notes
@@ -112,15 +112,15 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "| 1.25 oz | Gin [&#9432;](/spirit/gin "More Gin recipes")              | Plymouth                  |"
+      "text": "| 1.25 oz | Gin [&#9432;](/spirit/gin/ "More Gin recipes")              | Plymouth                  |"
     },
     {
       "@type": "HowToStep",
-      "text": "| 0.75 oz | Sweet Vermouth [&#9432;](/spirit/sweet_vermouth "More Sweet Vermouth recipes")   | Cocchi Vermouth di Torino |"
+      "text": "| 0.75 oz | Sweet Vermouth [&#9432;](/spirit/sweet_vermouth/ "More Sweet Vermouth recipes")   | Cocchi Vermouth di Torino |"
     },
     {
       "@type": "HowToStep",
-      "text": "| 0.25 oz | Green Chartreuse [&#9432;](/spirit/green_chartreuse "More Green Chartreuse recipes") | Green Chartreuse          |"
+      "text": "| 0.25 oz | Green Chartreuse [&#9432;](/spirit/green_chartreuse/ "More Green Chartreuse recipes") | Green Chartreuse          |"
     },
     {
       "@type": "HowToStep",

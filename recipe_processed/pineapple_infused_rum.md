@@ -15,7 +15,7 @@ date: 2025-07-07
 
 |  Amount | Ingredient   | Brand         |
 | ------: | ------------ | ------------- |
-|  <span class="onex active">25 oz / 750 ml</span> <span class="onehalfx">37 <sup>1</sup>&frasl;<sub>2</sub> oz / 1125 ml</span> <span class="twox">50 oz / 1500 ml</span> <span class="threex">75 oz / 2250 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes") | Smith & Cross |
+|  <span class="onex active">25 oz / 750 ml</span> <span class="onehalfx">37 <sup>1</sup>&frasl;<sub>2</sub> oz / 1125 ml</span> <span class="twox">50 oz / 1500 ml</span> <span class="threex">75 oz / 2250 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum/ "More Jamaican Rum recipes") | Smith & Cross |
 | <span class="onex active">1 whole </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="twox">2 whole </span> <span class="threex">3 whole </span>| Pineapple    |
 
 ### Method:

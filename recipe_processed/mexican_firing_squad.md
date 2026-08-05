@@ -21,10 +21,10 @@ type: shaken
 
 |        Amount | Ingredient                                      | Brand                      |
 | ------------: | ----------------------------------------------- | -------------------------- |
-|        <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Reposado Tequila [&#9432;](/spirit/reposado_tequila "More Reposado Tequila recipes")                                | Milagro                    |
+|        <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Reposado Tequila [&#9432;](/spirit/reposado_tequila/ "More Reposado Tequila recipes")                                | Milagro                    |
 |       <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| [Grenadine]({%link recipe_processed/grenadine_syrup.md%}) |
 |       <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lime Juice                                |
-| <span class="onex active">3 to 4 dashes</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 6 dashes</span> <span class="twox">6 to 8 dashes</span> <span class="threex">9 to 12 dashes</span>| Bitters                                         | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters "More Angostura Aromatic Bitters recipes") |
+| <span class="onex active">3 to 4 dashes</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 6 dashes</span> <span class="twox">6 to 8 dashes</span> <span class="threex">9 to 12 dashes</span>| Bitters                                         | Angostura Aromatic Bitters [&#9432;](/spirit/angostura_aromatic_bitters/ "More Angostura Aromatic Bitters recipes") |
 
 ### Notes
 

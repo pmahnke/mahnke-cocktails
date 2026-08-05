@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-08-11
 ice: crushed
 type:
-  - shaken
   - blended
+  - shaken
 ---
 
 ### The Classic
@@ -24,8 +24,8 @@ type:
 
 | Amount | Ingredient           | Brand                |
 | -----: | -------------------- | -------------------- |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Galliano [&#9432;](/spirit/galliano "More Galliano recipes")             | Galliano L’Autentico |
-|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| White Crème de Cacao [&#9432;](/spirit/white_crème_de_cacao "More White Crème de Cacao recipes") | Marie Brizard        |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Galliano [&#9432;](/spirit/galliano/ "More Galliano recipes")             | Galliano L’Autentico |
+|   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| White Crème de Cacao [&#9432;](/spirit/white_creme_de_cacao/ "More White Crème de Cacao recipes") | Marie Brizard        |
 |   <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Heavy Cream          |
 
 ### Notes
@@ -43,8 +43,8 @@ type:
 |   Amount | Ingredient           | Brand                |
 | -------: | -------------------- | -------------------- |
 | <span class="onex active">3 scoops </span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> scoops </span> <span class="twox">6 scoops </span> <span class="threex">9 scoops </span>| Vanilla Ice Cream    |
-|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Galliano [&#9432;](/spirit/galliano "More Galliano recipes")             | Galliano L’Autentico |
-|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Crème de Cacao [&#9432;](/spirit/white_crème_de_cacao "More White Crème de Cacao recipes") | Marie Brizard        |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Galliano [&#9432;](/spirit/galliano/ "More Galliano recipes")             | Galliano L’Autentico |
+|   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| White Crème de Cacao [&#9432;](/spirit/white_creme_de_cacao/ "More White Crème de Cacao recipes") | Marie Brizard        |
 |     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Half & Half          |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Crushed Ice          |
 
@@ -115,11 +115,11 @@ type:
     },
     {
       "@type": "HowToStep",
-      "text": "|   1.5 oz | Galliano [&#9432;](/spirit/galliano "More Galliano recipes")             | Galliano L’Autentico |"
+      "text": "|   1.5 oz | Galliano [&#9432;](/spirit/galliano/ "More Galliano recipes")             | Galliano L’Autentico |"
     },
     {
       "@type": "HowToStep",
-      "text": "|   1.5 oz | White Crème de Cacao [&#9432;](/spirit/white_crème_de_cacao "More White Crème de Cacao recipes") | Marie Brizard        |"
+      "text": "|   1.5 oz | White Crème de Cacao [&#9432;](/spirit/white_creme_de_cacao/ "More White Crème de Cacao recipes") | Marie Brizard        |"
     },
     {
       "@type": "HowToStep",

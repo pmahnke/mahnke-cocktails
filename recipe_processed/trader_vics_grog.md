@@ -15,8 +15,8 @@ excerpt: |
 date: 2025-11-29
 glass: rocks
 garnishes:
-  - maraschino_cherry
   - mint_sprig
+  - maraschino_cherry
 ice: crushed
 type: shaken
 ---
@@ -25,7 +25,7 @@ type: shaken
 
 |   Amount | Ingredient                                                              | Brand                       |
 | -------: | ----------------------------------------------------------------------- | --------------------------- |
-|     <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum "More Jamaican Rum recipes")                                                              | Coruba                      |
+|     <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum/ "More Jamaican Rum recipes")                                                              | Coruba                      |
 |     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lemon Juice                                                       |
 |     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Pineapple Juice                                                         |
 |     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%}) |

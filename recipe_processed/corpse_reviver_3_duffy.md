@@ -21,9 +21,9 @@ ice: cubed
 
 |    Amount | Ingredient        | Brand                      |
 | --------: | ----------------- | -------------------------- |
-|      <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Pastis [&#9432;](/spirit/pastis "More Pastis recipes")            | Ricard Pastis de Marseille |
+|      <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Pastis [&#9432;](/spirit/pastis/ "More Pastis recipes")            | Ricard Pastis de Marseille |
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lemon Juice |
-| <span class="onex active">3 to 4 oz  / 90 to 120 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 6 oz  / 135 to 180 ml</span> <span class="twox">6 to 8 oz  / 180 to 240 ml</span> <span class="threex">9 to 12 oz  / 270 to 360 ml</span>| Champagne [&#9432;](/spirit/champagne "More Champagne recipes")         | Freixenet Cava             |
+| <span class="onex active">3 to 4 oz  / 90 to 120 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> to 6 oz  / 135 to 180 ml</span> <span class="twox">6 to 8 oz  / 180 to 240 ml</span> <span class="threex">9 to 12 oz  / 270 to 360 ml</span>| Champagne [&#9432;](/spirit/champagne/ "More Champagne recipes")         | Freixenet Cava             |
 
 ### Notes
 
