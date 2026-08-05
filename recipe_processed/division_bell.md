@@ -5,7 +5,6 @@ title: "The Division Bell"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/division_bell/"
-iconfile: division_bell
 stars: 0
 base_spirits: ['Mezcal', 'Aperol', 'Maraschino Liqueur']
 youtube: "70cS-bRH9kA"
@@ -13,6 +12,7 @@ description: "A modern classic that combines the smoky flavor of mezcal with the
 excerpt: |
   The Division Bell cocktail is a modern classic that combines the smoky flavors of mezcal with the bitter-sweetness of Aperol and the cherry notes of Maraschino Liqueur.
 date: 2025-10-08
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +32,6 @@ date: 2025-10-08
 - Garnish: Expressed grapefruit oil
 - Special Prep:
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +73,11 @@ date: 2025-10-08
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

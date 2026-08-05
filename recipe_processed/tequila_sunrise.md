@@ -6,7 +6,6 @@ title: "Tequila Sunrise"
 eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/tequila_sunrise/"
-iconfile: tequila_sunrise
 stars: 3
 base_spirits: ['Crème de Cassis', 'Blanco Tequila', 'Reposado Tequila']
 youtube: "VNaSpZ3YOoM"
@@ -14,6 +13,10 @@ description: 'A classic and visually stunning cocktail from the early 1970s, kno
 excerpt: |
   The Tequila Sunrise was created in the early 1970s by Bobby Lozoff and Billy Rice at the Trident bar in Sausalito, California. The cocktail achieved notoriety after a member of the Rolling Stones tasted it at a party to kick off the 1972 tour. The band began ordering it at stops across the country and even dubbed the tour “the cocaine and Tequila Sunrise tour,” which helped to propel the drink’s popularity.
 date: 2025-08-31
+glass: collins
+garnishes:
+  - maraschino_cherry
+  - lime_wheel
 ---
 
 <div class="subrecipe" markdown="1">
@@ -84,7 +87,6 @@ date: 2025-08-31
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -126,16 +128,16 @@ date: 2025-08-31
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

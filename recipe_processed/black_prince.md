@@ -6,7 +6,6 @@ title: "The Black Prince"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/black_prince/"
-iconfile: black_prince
 stars: 0
 base_spirits: ['Guatemalan Rum', 'Punt e Mes', 'Averna']
 youtube: "zWuyuW-tGcg"
@@ -14,6 +13,8 @@ description: "This cocktail is a bridge between a Manhattan and a Black Manhatta
 excerpt: |
   This stirred rum drink was created by Phil Ward at Death & Co. in 2008 as a lean, spirit-forward bridge between a Manhattan and a Black Manhattan. The combination of aged rum and bitter Italian spirits gives it a dark, velvety texture with notes of dried fruit and cocoa. It is a slow sipper best enjoyed at the end of the evening.
 date: 2026-05-28
+glass: coupe
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2026-05-28
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -75,16 +75,11 @@ date: 2026-05-28
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

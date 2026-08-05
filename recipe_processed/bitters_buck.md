@@ -6,7 +6,6 @@ title: "Bitters Buck"
 categories: [buck]
 eras: [modern]
 permalink: "/recipe/bitters_buck/"
-iconfile: bitters_buck
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters']
 youtube: "0J6-sPDCOMw"
@@ -14,6 +13,10 @@ description: "This cocktail is a sharp, invigorating highball that moves aromati
 excerpt: |
   The Bitters Buck is a spicy, effervescent highball that promotes aromatic bitters from a background accent to the starring base spirit. Long and refreshing, it marries the deep, complex herbal notes of the bitters with the fiery bite of ginger beer and a bright squeeze of fresh lemon juice.
 date: 2026-05-24
+glass: highball
+garnishes: mint_sprig
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -35,7 +38,6 @@ date: 2026-05-24
 - Garnish: Mint sprig
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -85,16 +87,11 @@ date: 2026-05-24
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Champagne Cocktail"
 categories: [champagne]
 eras: [classic]
 permalink: "/recipe/champagne_cocktail/"
-iconfile: champagne_cocktail
 stars: 4.5
 base_spirits: ['Champagne', 'Cognac']
 youtube: "WmMC1qb2LgA"
@@ -32,7 +31,6 @@ date: 2025-08-11
 - Garnish: Expressed oils of a lemon swath and an orange swath
 - Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +72,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

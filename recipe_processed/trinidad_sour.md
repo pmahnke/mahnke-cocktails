@@ -5,7 +5,6 @@ title: "Trinidad Sour"
 eras: [modern]
 categories: [sour]
 permalink: "/recipe/trinidad_sour/"
-iconfile: trinidad_sour
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters', 'Rye']
 youtube: '\_BEaYWQjSu0'
@@ -13,6 +12,8 @@ description: "A bold and unique modern sour that uses a full ounce of Angostura 
 excerpt: |
   Love Angostura Aromatic Bitters? Try your hand at a drink that uses them as the base spirit rather than embellishment.
 date: 2025-08-11
+garnishes: mint_sprig
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish:3 mint leaves
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

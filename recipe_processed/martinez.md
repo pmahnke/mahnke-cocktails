@@ -5,7 +5,6 @@ title: "Martinez"
 categories: [martini]
 eras: [classic]
 permalink: "/recipe/martinez/"
-iconfile: martinez
 stars: 3.5
 base_spirits: ['Old Tom Gin', 'Sweet Vermouth', 'Maraschino Liqueur']
 youtube: 'MuxY7\_-_U_8'
@@ -13,6 +12,8 @@ description: "A classic cocktail from the late 1800s, considered a precursor to 
 excerpt: |
   Composed of gin, sweet vermouth, maraschino liqueur and bitters, the classic Martinez cocktail dates back to the late 1800s.
 date: 2025-08-11
+glass: coupe
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: Lemon zest
 - Special Prep:
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

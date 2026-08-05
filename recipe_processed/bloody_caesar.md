@@ -5,7 +5,6 @@ title: "Bloody Caesar"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/bloody_caesar/"
-iconfile: bloody_caesar
 stars: 3
 base_spirits: ['Vodka']
 youtube: "CWN67QIvZP8"
@@ -13,6 +12,8 @@ description: "Canada's national cocktail, this is a savory riff on the Bloody Ma
 excerpt: |
   The Bloody Caesar is a clam-juice-spiked riff on the Bloody Mary. And it’s the national cocktail of Canada.
 date: 2025-08-11
+glass: highball
+ice: cubed
 ---
 
 ### Ingredients
@@ -35,7 +36,6 @@ date: 2025-08-11
 - Garnish: Your Choice
 - Special Prep: Celery Salt the rim
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +86,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

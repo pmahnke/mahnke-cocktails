@@ -5,7 +5,6 @@ title: "Junior (aka Quick Recovery)"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/junior/"
-iconfile: junior
 stars: 3.5
 base_spirits: ['Rye', 'Bénédictine']
 youtube: "_bDARIxZlcE"
@@ -13,6 +12,8 @@ description: 'A classic Prohibition-era sour, also known as the "Quick Recovery,
 excerpt: |
   This drink appeared in a 1937 issue of Esquire magazine, and was recently rediscovered by David Wondrich. Jim Meehan includes it in his wonderful cocktail tome, The PDT Cocktail Book.
 date: 2025-08-11
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: Dehydrated lime wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

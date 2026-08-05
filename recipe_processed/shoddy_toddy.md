@@ -5,7 +5,6 @@ title: "Shoddy Toddy"
 categories: [toddy]
 eras: [anders]
 permalink: "/recipe/shoddy_toddy/"
-iconfile: shoddy_toddy
 stars: 0
 base_spirits: ['London Dry Gin', 'Bénédictine']
 youtube: "CfKrIWRMrNA"
@@ -33,7 +32,6 @@ date: 2025-08-11
 - Garnish: Expressed lemon oil & clove-studded lemon peel
 - Special Prep: Temper the mug with hot water before building the toddy.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +74,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

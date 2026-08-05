@@ -5,7 +5,6 @@ title: "Sloe Gin Sour"
 categories: [amaro, sour]
 eras: [anders]
 permalink: "/recipe/sloe_gin_sour/"
-iconfile: sloe_gin_sour
 stars: 3.5
 base_spirits: ['Sloe Gin', 'Campari']
 youtube: "W50W19vwjmk"
@@ -13,6 +12,8 @@ description: "An original sour that blends the sweet and tart flavors of sloe gi
 excerpt: |
   The Slow Gin Sour blends the sweet and tart flavors of sloe gin with the classic sour template.
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: Expressed lemon oil and 3 drops of Angostura Aromatic Bitters
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

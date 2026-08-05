@@ -6,7 +6,6 @@ title: "Saturn"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/saturn/"
-iconfile: saturn
 stars: 0
 base_spirits: ['London Dry Gin']
 youtube: "q060mzbSrco"
@@ -14,6 +13,8 @@ description: "An award-winning tiki classic from 1967 that uniquely uses gin as 
 excerpt: |
   California bartender  J. “Popo” Galsini introduced the Saturn to the world in 1967 when he won the International Bartender’s Association World Championship with it. Originally he titled his gin creation the X-15 after an American rocket plane, but shortly after doing so one of those planes crashed, killing its pilot. Reportedly, Galsini changed the name of the drink to the Saturn for the competition, in honor of the Saturn rocket that propelled the first Apollo rocket flight into space, months after the fateful X-15 crash.
 date: 2025-10-20
+garnishes: maraschino_cherry
+type: blended
 ---
 
 ### Ingredients
@@ -36,7 +37,6 @@ date: 2025-10-20
   - Blend cocktail with a stick blender in the shaking tin.
   - Pour cocktail into glass.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -87,16 +87,11 @@ date: 2025-10-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

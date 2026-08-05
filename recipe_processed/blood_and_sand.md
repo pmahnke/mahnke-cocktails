@@ -5,7 +5,6 @@ title: "Blood and Sand"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/blood_and_sand/"
-iconfile: blood_and_sand
 stars: 3.5
 base_spirits: ['Blended Scotch', 'Sweet Vermouth', 'Cherry Liqueur']
 youtube: "r50WUk960qI"
@@ -13,6 +12,13 @@ description: "A classic Scotch cocktail from the 1930s that uniquely combines wh
 excerpt: |
   The Blood and Sand is a classic scotch cocktail dating back to at least 1930. It includes cherry liqueur, sweet vermouth and orange juice.
 date: 2025-12-09
+glass: coupe
+garnishes:
+  - maraschino_cherry
+  - orange_peel
+type:
+  - shaken
+  - blended
 ---
 
 ### Ingredients
@@ -33,7 +39,6 @@ date: 2025-12-09
 - Garnish: Orange slice and cocktail cherry
 - Special Prep: Express the orange oil from the peel into the shaker and ad peel. Add all other ingredients and shake.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +81,16 @@ date: 2025-12-09
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

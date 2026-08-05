@@ -5,7 +5,6 @@ title: "Mezcal Margarita"
 categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_mezcal/"
-iconfile: margarita_mezcal
 stars: 0
 base_spirits: ['Mezcal', 'Curaçao']
 youtube: "VBSjE-P_C58"
@@ -13,6 +12,9 @@ description: "A modern twist on the classic Margarita that swaps tequila for its
 excerpt: |
   The Mezcal Margarita is a smoky, spicy twist on the classic margarita, swapping out tequila for mezcal.
 date: 2025-12-23
+glass: rocks
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2025-12-23
 - Garnish: Salted Rim, Lime Wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +83,11 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

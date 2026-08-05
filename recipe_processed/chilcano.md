@@ -6,14 +6,17 @@ title: "Chilcano"
 categories: [spritz]
 eras: [modern]
 permalink: "/recipe/chilcano/"
-iconfile: chilcano
-stars:
+stars: 3.5
 base_spirits: ['Pisco']
 youtube: ""
 description: "A popular and refreshing Peruvian highball that combines pisco with lime and ginger ale."
 excerpt: |
   This is the second most popular way to drink pisco in Peru, after a sour. If you don’t have ginger syrup, cordial or wine to hand, you can always swap the soda for ginger ale, though if you’ve got a sweet tooth, you may also want to add a drop of sugar syrup, too.
 date: 2025-08-11
+glass:
+  - collins
+  - cordial
+ice: cubed
 ---
 
 ### Ingredients
@@ -37,7 +40,6 @@ date: 2025-08-11
     - Measure everything bar the soda into a tall glass, add ice and stir to combine. Top up with soda to taste, and serve.
     - You can use Ginger cordial or Stone’s Ginger wine to replace the ginger syrup.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -92,16 +94,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

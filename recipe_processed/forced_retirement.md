@@ -5,7 +5,6 @@ title: "Forced Retirement"
 categories: [amaro, sour]
 eras: [anders]
 permalink: "/recipe/forced_retirement/"
-iconfile: forced_retirement
 stars: 0
 base_spirits: ['Malört', 'London Dry Gin', 'Campari']
 youtube: "shi2LNARyxk"
@@ -13,6 +12,8 @@ description: "A unique and intensely bitter highball that prominently features M
 excerpt: |
   The Forced Retirement cocktail is a concoction created by Anders Erickson, a Chicago-based bartender and YouTuber. It's a rather unique drink that incorporates the infamous Malört, a Chicago spirit known for its intense, bitter flavor.
 date: 2025-08-14
+glass: highball
+ice: crushed
 ---
 
 ### Ingredients
@@ -36,7 +37,6 @@ date: 2025-08-14
 - Garnish: Pineapple fronds & cocktail umbrella
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -88,16 +88,11 @@ date: 2025-08-14
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

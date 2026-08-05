@@ -5,7 +5,6 @@ title: "Bobby Burns"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/bobby_burns/"
-iconfile: bobby_burns
 stars: 3.5
 base_spirits: ['Blended Scotch', 'Sweet Vermouth', 'Bénédictine']
 youtube: "X5haIFd1Ysw"
@@ -13,6 +12,10 @@ description: "A classic cocktail named for the Scottish poet Robert Burns, this 
 excerpt: |
   A classic drink named for a Scottish poet. A variation of the Rob Roy, the Bobby Burns is a classic cocktail named after the Scottish poet Robert Burns.
 date: 2025-12-09
+glass: coupe
+type:
+  - blended
+  - stirred
 ---
 
 ### Ingredients
@@ -32,7 +35,6 @@ date: 2025-12-09
 - Garnish: None
 - Special Prep: Express lemon oil over the cocktail, and wipe the rim with the peal.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +76,16 @@ date: 2025-12-09
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

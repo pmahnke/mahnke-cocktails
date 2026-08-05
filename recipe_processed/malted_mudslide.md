@@ -5,7 +5,6 @@ title: "Malted Mudslide"
 categories: [after_dinner, ice_cream]
 eras: [anders]
 permalink: "/recipe/malted_mudslide/"
-iconfile: malted_mudslide
 stars: 0
 base_spirits: ['Blended Scotch', 'Coffee Liqueur', 'Irish Cream Liqueur']
 youtube: "M8uXEDvbvVM"
@@ -13,6 +12,11 @@ description: "This cocktail reimagines the classic dessert cocktail by replacing
 excerpt: |
   The Malted Mudslide reimagines the classic dessert cocktail by replacing the neutral base of vodka with the complex, smoky, or malty profile of blended Scotch whisky. This variation balances the rich sweetness of coffee and Irish cream liqueurs with the spirit's toasted grain and oak notes, resulting in a sophisticated drink with a lingering, savory finish.
 date: 2026-03-21
+glass:
+  - coffee
+  - highball
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -36,7 +40,6 @@ date: 2026-03-21
   - Pour cocktail into glass.
   - Top with [Baileys Infused Whipped Cream]({%link recipe_processed/baileys_whipped_cream.md%}).
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -91,16 +94,11 @@ date: 2026-03-21
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

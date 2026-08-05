@@ -5,7 +5,6 @@ title: "Matador"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/matador/"
-iconfile: matador
 stars: 0
 base_spirits: ['Reposado Tequila', 'Blanc Vermouth', 'Curaçao']
 youtube: "3aV3DzDfW_A"
@@ -13,6 +12,9 @@ description: "A simple, tiki-style cocktail similar to a Margarita, featuring te
 excerpt: |
   The Matador is a tequila-based cocktail with a simple structure, similar to a margarita.
 date: 2026-03-01
+glass: coupe
+garnishes: pineapple_wedge
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2026-03-01
 - Garnish: Pineapple wedge
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +79,11 @@ date: 2026-03-01
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

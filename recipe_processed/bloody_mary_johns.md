@@ -5,7 +5,6 @@ title: "John's Bloody Mary"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/bloody_mary_johns/"
-iconfile: bloody_mary_johns
 stars: 4.5
 base_spirits: ['Vodka']
 youtube: ""
@@ -13,6 +12,9 @@ description: "A classic savory cocktail from the 1920s, featuring vodka and toma
 excerpt: |
   The Bloody Mary was invented in the 1920s or 1930s. There are various theories as to the origin of the drink and its name. It has many variants, most notably the Red Snapper, Bloody Maria (made with tequila blanco), and the Virgin Mary.
 date: 2025-10-29
+glass: pint
+garnishes: lemon_twist
+ice: cubed
 ---
 
 ### Ingredients
@@ -40,7 +42,6 @@ date: 2025-10-29
 - Garnish: Lemon twist, Brussels sprouts, green beans, olives or the more traditional stalk of celery
 - Special Prep: Add a sidecar of American lager.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -96,16 +97,16 @@ date: 2025-10-29
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

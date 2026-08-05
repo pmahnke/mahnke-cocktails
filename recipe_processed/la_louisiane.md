@@ -5,7 +5,6 @@ title: "La Louisiane"
 categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/la_louisiane/"
-iconfile: la_louisiane
 stars: 4.5
 base_spirits: ['Rye', 'Sweet Vermouth', 'Bénédictine', 'Absinthe']
 youtube: "9XLtsOKT6oY"
@@ -13,6 +12,8 @@ description: "A classic New Orleans cocktail, this is a rich and complex variati
 excerpt: |
   The La Louisiane is a classic New Orleans cocktail with a rich history dating back to the 19th century. It is a rye-based Sweet Manhattan made even sweeter with herbal Bénédictine liqueur and bittered with Peychaud's and absinthe.
 date: 2025-08-11
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 <div class="subrecipe" markdown="1">
@@ -61,7 +62,6 @@ date: 2025-08-11
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -100,16 +100,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Haunted House"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/haunted_house/"
-iconfile: haunted_house
 stars: 3
 base_spirits: ['Jamaican Rum', 'Rye', 'Swedish Punsch']
 youtube: "u0N9FFJ1i5c"
@@ -13,6 +12,9 @@ description: "A modern cocktail with a complex profile, combining Jamaican rum, 
 excerpt: |
   The Haunted House cocktail is a spooky and delicious drink that's perfect for Halloween or any other spooky occasion. It's made with bourbon, apple cider, lemon juice, and a variety of spices, including cinnamon, nutmeg, and cloves. The drink is garnished with a cinnamon stick and a lemon wheel, making it both festive and festive.
 date: 2025-08-11
+glass: rocks
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -35,7 +37,6 @@ date: 2025-08-11
 - Garnish: Expressed orange oil and cherry
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +87,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

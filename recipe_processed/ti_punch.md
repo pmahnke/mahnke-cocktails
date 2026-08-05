@@ -5,7 +5,6 @@ title: "Ti’ Punch"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/ti_punch/"
-iconfile: ti_punch
 stars: 3.5
 base_spirits: ['Rhum Agricole']
 youtube: "UwYdR9yPoB4"
@@ -13,6 +12,8 @@ description: "This cocktail is a traditional, minimalist French Caribbean cockta
 excerpt: |
   Made with rhum agricole, lime, and cane syrup, Ti' Punch is one of the most iconic rum cocktails in the French Caribbean islands. It’s the national cocktail of both Martinique and Guadeloupe, and although everyone has their own preferred balance, many believe there's only one "right" way to make it.
 date: 2026-06-26
+glass: rocks
+type: blended
 ---
 
 ### Ingredients
@@ -31,7 +32,6 @@ date: 2026-06-26
 - Garnish: None
 - Special Prep: Swizzle in glass
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +72,16 @@ date: 2026-06-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

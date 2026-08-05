@@ -2,17 +2,12 @@
 
 # add_2x.pl
 #
-# This script reads the recipes in the recipe/ folder, and then converts and adds markup
-# and then saves the recipe in the recipe_processed/ folder.
-#
-# Originally it just added the code required to create 1.5, 2, and 3x recipe volumes 
-# and ounce to ml conversions; however, it has been expanded to:
-#
-# - turn the base_spirits: front-matter into an object
-# - add the json schema.org recipe markup for google
-# - turn decimal into html fractions
-# - append the current aggregate star rating into the front-matter
+# This script reads the recipes in the recipe/ folder, converts and adds markup,
+# automatically extracts icon/component front-matter from recipe notes,
+# and saves the fully processed recipe in the recipe_processed/ folder.
 
+use strict;
+use warnings;
 use Math::Round;
 use utf8;
 use open qw(:std :utf8);
@@ -21,91 +16,187 @@ use YAML::XS qw(LoadFile Load);
 my $rootdir = `pwd`;
 chop($rootdir);
 
-my $dir = $rootdir."/recipe/";
-
+my $dir   = $rootdir."/recipe/";
 my $mydir = $rootdir."/recipe_processed/";
 
-my %spirit;
+# ==============================================================================
+# Dictionary Mappings for Front Matter Auto-Injection
+# ==============================================================================
+# ==============================================================================
+# Dictionary Mappings for Front Matter Auto-Injection
+# ==============================================================================
+my %glassware = (
+    'coupe'                => 'coupe',
+    'collins'              => 'collins',
+    'highball'             => 'highball',
+    'high ball'            => 'highball',
+    'martini'              => 'martini',
+    'low ball'             => 'rocks',
+    'rocks glass'          => 'rocks',
+    'footed rocks glass'   => 'rocks',
+    'tiki mug'             => 'tiki',
+    'hurricane'            => 'hurricane',
+    'flute'                => 'flute',
+    'cobbler'              => 'cobbler',
+    'coffee'               => 'coffee',
+    'copper mug'           => 'copper_mug',
+    'cordial'              => 'cordial',
+    'double old fashioned' => 'double_old_fashioned',
+    'gin balloon'          => 'gin_balloon',
+    'goblet'               => 'goblet',
+    'julep cup'            => 'julep_cup',
+    'margarita'            => 'margarita',
+    'nick and nora'        => 'nick_and_nora',
+    'old fashioned'        => 'old_fashioned',
+    'pint'                 => 'pint',
+    'sling'                => 'sling',
+    'snifter'              => 'snifter',
+    'sour'                 => 'sour',
+    'whiskey'              => 'whiskey'
+);
 
+my %garnishes = (
+    'lime wedge'        => 'lime_wedge',
+    'lime wheel'        => 'lime_wheel',
+    'green apple slice' => 'green_apple_slice',
+    'pineapple slice'   => 'pineapple_slice',
+    'lemon twist'       => 'lemon_twist',
+    'orange peel'       => 'orange_peel',
+    'orange twist'      => 'orange_twist',
+    'cherry'            => 'maraschino_cherry',
+    'maraschino cherry' => 'maraschino_cherry',
+    'mint sprig'        => 'mint_sprig',
+    'mint'              => 'mint_sprig',
+    'thyme'             => 'thyme',
+    'blackberries'      => 'blackberries',
+    'raspberries'       => 'raspberries',
+    'strawberry'        => 'strawberry',
+    'olive'             => 'olive',
+    'pineapple wedge'   => 'pineapple_wedge',
+    'anise'             => 'anise',
+    'cinnamon'          => 'cinnamon',
+    'coffee beans'      => 'coffee_beans'
+);
+
+my %tools = (
+    'muddler'         => 'muddler',
+    'bar spoon'       => 'bar_spoon',
+    'jigger'          => 'jigger',
+    'squeezer'        => 'squeezer'
+);
+
+my %ice_types = (
+    'crushed ice'     => 'crushed',
+    'cubed ice'       => 'cubed',
+    'large cube'      => 'large_cube',
+    'pebble ice'      => 'pebble',
+    'on the rocks'    => 'cubed'
+);
+
+my %cocktail_types = (
+    'shaken'          => 'shaken',
+    'stirred'         => 'stirred',
+    'built'           => 'built',
+    'blended'         => 'blended'
+);
+
+my %spirit;
 &read_spirit_data();
 
 # read files in a directory
 opendir(DIR, $dir) or die "Cannot open directory $dir";
 
 while (my $file = readdir DIR) {
-    next if ($file !~ /\.md/);
+    next if ($file !~ /\.md$/);
 
     my $infile = $dir.$file;
-    open (FILE, "$infile") or die "Cannot open $infile\n";
+    open (FILE, "<:utf8", "$infile") or die "Cannot open $infile\n";
 
-    my ($out, $schema, $s_ingredient, $s_instructions, $FLAGnotes, $rating) = "";    
-    while (<FILE>) {
+    my @file_lines = <FILE>;
+    close (FILE);
 
-        my ($minq, $maxq, $meas, $orig, $iconfile) = "";
-        
-        # get the icon file to get the ratings
-        $iconfile = $1 if (/iconfile: (.*)/);
-        if ($iconfile) {
-            $rating = &process_ratings($iconfile);
-            $_ = "iconfile: $iconfile\n";
-            print STDERR qq |found iconfile: $iconfile, leaving line: $_\n|;
+    # ==========================================================================
+    # Pass 1: Separate Front Matter and Body, extract iconfile for ratings
+    # ==========================================================================
+    my $in_front_matter = 0;
+    my @front_matter_lines;
+    my @body_lines;
+    my $dash_count = 0;
+    my $rating = 0;
+    my $iconfile_val = "";
+
+    foreach my $line (@file_lines) {
+        # Extract iconfile from anywhere to check ratings before skipping it
+        if ($line =~ /^iconfile:\s*(.*)/) {
+            $iconfile_val = $1;
+            $iconfile_val =~ s/^\s+|\s+$//g;
+            $rating = &process_ratings($iconfile_val);
+            next; # Skip legacy iconfile line entirely
         }
 
-        # replace stars: front matter with new number
-        if (/stars:/) {
-            print STDERR qq |replacing $_ with $rating\n|;
-            s/stars: .*/stars: $rating/;
+        if ($line =~ /^---\s*$/) {
+            $dash_count++;
+            push @front_matter_lines, $line;
+            if ($dash_count == 2) {
+                $in_front_matter = 0;
+            } elsif ($dash_count == 1) {
+                $in_front_matter = 1;
+            }
+        } elsif ($in_front_matter) {
+            push @front_matter_lines, $line;
+        } else {
+            push @body_lines, $line;
         }
+    }
 
-        # turn base spirits list into an object in the front matter
-        if (/^base_spirits:\s*(.*)/) {
-            my $spirits = $1;
-            $spirits =~ s/('|"|\[|\])//g; # remove quotes and brackets
-            $spirits =~ s/^\s+//; # remove leading whitespace
-            $spirits =~ s/\s+$//; # remove trailing whitespace
-            
-            my @items = split /\s*,\s*/, $spirits; # split on commas
-            $item[0] = $spirits if (!$item[0]); # if no commas, just one item
-            $out .= "base_spirits: [" . join(", ", map { "'$_'" } @items) . "]\n";
-            next;
-        }
+    my $full_body_text = join("", @body_lines);
 
-    	# convert internal liquid links
-	    s/link recipe\//link recipe_processed\//;
+    # Automatically extract component matches from the full body text (including notes)
+    my @found_glasses   = find_matches($full_body_text, \%glassware);
+    my @found_garnishes = find_matches($full_body_text, \%garnishes);
+    my @found_tools     = find_matches($full_body_text, \%tools);
+    my @found_ice       = find_matches($full_body_text, \%ice_types);
+    my @found_types     = find_matches($full_body_text, \%cocktail_types);
+
+    # ==========================================================================
+    # Pass 2: Process Body Lines (Links, Scaling, Fractions, Schema)
+    # ==========================================================================
+    my ($out, $schema, $s_ingredient, $s_instructions, $FLAGnotes) = ("") x 5;
+
+    foreach my $line (@body_lines) {
+        my ($minq, $maxq, $meas, $orig) = ("") x 4;
+
+        # convert internal liquid links
+        $line =~ s/link recipe\//link recipe_processed\//;
 
         # schema.org recipe and spirit info links
-        if (/^\|([^\|]*)\|([^\|]*)\|([^\|]*)/) {
+        if ($line =~ /^\|([^\|]*)\|([^\|]*)\|([^\|]*)/) {
             if ($1 !~ /(---|Amount)/) {
-
-                # add info link for known spirits
-                print "spirit ingredient: $1 $2\n";
-		        my $raw_amount = $1;
-		        my $raw_spirit = $2;
-		        my $brand_spirit = $3;
+                my $raw_amount = $1;
+                my $raw_spirit = $2;
+                my $brand_spirit = $3;
+                
+                $raw_spirit =~ s/\s+/ /g;
+                $brand_spirit =~ s/\s+/ /g;
                 $raw_spirit =~ s/^\s+|\s+$//g;
-		        $brand_spirit =~ s/^\s+|\s+$//g;
-                print STDERR qq |raw spirit: $raw_spirit\n|;
-
-                # LOWERCASE CONVERSION FOR MATCHING
+                $brand_spirit =~ s/^\s+|\s+$//g;
+                
                 my $lc_raw = lc($raw_spirit);
                 my $lc_brand = lc($brand_spirit);
 
                 if ($spirit{$lc_raw}) {
-                       my $spirit_link = qq|$raw_spirit [&#9432;](\/spirit\/$spirit{$lc_raw} "More $raw_spirit recipes")|;
-                        $_ =~ s/$raw_spirit/$spirit_link/;
+                    my $spirit_link = qq|$raw_spirit [&#9432;](/spirit/$spirit{$lc_raw} "More $raw_spirit recipes")|;
+                    $line =~ s/\Q$raw_spirit\E/$spirit_link/;
                 }
-
-                # the amaro change means we need to look at the Brand as well
-                if ($spirit{$lc_brand} && !$spirit{$lc_raw}) {
-                    my $spirit_link = qq|$brand_spirit [&#9432;](\/spirit\/$spirit{$lc_brand} "More $brand_spirit recipes")|;
-                    $_ =~ s/$brand_spirit/$spirit_link/;
+                elsif ($spirit{$lc_brand}) {
+                    my $spirit_link = qq|$brand_spirit [&#9432;](/spirit/$spirit{$lc_brand} "More $brand_spirit recipes")|;
+                    $line =~ s/\Q$brand_spirit\E/$spirit_link/;
                 }
-
+        
                 # schema.org recipe - only for the first recipe on the page
                 if (!$s_instructions) {
-                    #print "schema ingredient: $1 $2\n";
                     my $s_raw_ingredient = "$raw_amount $raw_spirit";
-                    $s_raw_ingredient =~ s/\"/\'/g; # replace double quotes with single
+                    $s_raw_ingredient =~ s/\"/\'/g; 
                     $s_raw_ingredient =~ s/\[(.*)\]\((.*)\)/$1/g;
                     $s_raw_ingredient =~ s/  / /g;
                     $s_ingredient .= qq |  "$s_raw_ingredient",\n|;
@@ -113,89 +204,80 @@ while (my $file = readdir DIR) {
             }
         }
 
-        my $step = $_;
+        my $step = $line;
         chop($step);
-        $FLAGnotes = 0 if (/<\/div>/ && $FLAGnotes); # deal with multirecipe, only render the first
-        $s_instructions .= qq |    {\n      "\@type": "HowToStep",\n      "text": "$step"\n    },\n| if ($FLAGnotes && length($_) > 1);
-        $FLAGnotes = 1 if (/\#\#\# Notes/ && !$s_instructions); 
-
+        $FLAGnotes = 0 if ($line =~ /<\/div>/ && $FLAGnotes); 
+        $s_instructions .= qq |    {\n      "\@type": "HowToStep",\n      "text": "$step"\n    },\n| if ($FLAGnotes && length($line) > 1);
+        $FLAGnotes = 1 if ($line =~ /\#\#\# Notes/ && !$s_instructions); 
 
         # scaling
-        if (/\|\s+([0-9]+) to (\d+) (\D[^\|]*)/) {
-    
-            # 5 to 6 oz
-            $orig = "$1 to $2 $3" ;
+        if ($line =~ /\|\s+([0-9]+) to (\d+) (\D[^\|]*)/) {
+            $orig = "$1 to $2 $3";
             $minq = $1 * 1.0;
             $maxq = $2 * 1.0;
             $meas = $3;
-    
-        } elsif (/\|\s+([0-9]*\.[0-9]+|[0-9]+) (\D[^\|]*)/) {
-    
-            # 5 oz
+        } elsif ($line =~ /\|\s+([0-9]*\.[0-9]+|[0-9]+) (\D[^\|]*)/) {
             $orig = "$1 $2";
             $minq = $1 * 1.0;
             $meas = $2;
-    
         } 
 
         if ($minq) {
-
-            print qq |found  min: $minq max: $maxq measure: $meas from: $_\n|;
-            #<STDIN>;
-
-            # 1x
             my $scale = &convert($meas, 1, $minq, $maxq);
-            $ml = qq|<span class="onex active">$scale</span> |;
+            my $ml = qq|<span class="onex active">$scale</span> |;
 
-            # 1.5x
-            $scale = &convert($meas, 1.5 , $minq, $maxq);
+            $scale = &convert($meas, 1.5, $minq, $maxq);
             $ml .= qq|<span class="onehalfx">$scale</span> |;
 
-            # 2x
-            $scale = &convert($meas, 2 , $minq, $maxq);
+            $scale = &convert($meas, 2, $minq, $maxq);
             $ml .= qq|<span class="twox">$scale</span> |;
 
-
-            #3x
-            $scale = &convert($meas, 3 , $minq, $maxq);
+            $scale = &convert($meas, 3, $minq, $maxq);
             $ml .= qq|<span class="threex">$scale</span>|;
 
-            s/$orig/$ml/;
-            print "Converted $orig to $ml\n";
+            $line =~ s/\Q$orig\E/$ml/;
         }
 
-        # convert fractions from, for example 0.75 to 3/4
-        if (!/stars:/) {
-            s/(0\.125|\.125)/ <sup>1<\/sup>&frasl;<sub>8<\/sub>/g; # 1/8
-            s/(0\.1666*7|\.1666*7)/ <sup>1<\/sup>&frasl;<sub>6<\/sub>/g; # 1/6
-            s/(0\.1875|\.1875)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 3/16, but make it 1/4
-            s/(0\.25|\.25)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g; # 1/4
-            s/0\.3333*|\.3333*/ <sup>1<\/sup>&frasl;<sub>3<\/sub>/g; # 1/3
-            s/(0\.375|\.375)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 3/8, but make it 1/2
-            s/(0\.5|\.5)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g; # 1/2
-            s/0\.6666*7|\.6666*7/ <sup>2<\/sup>&frasl;<sub>3<\/sub>/g; # 2/3
-            s/0\.8333*|\.8333*/ <sup>5<\/sup>&frasl;<sub>6<\/sub>/g; # 5/6
-            s/(0\.75|\.75)/ <sup>3<\/sup>&frasl;<sub>4<\/sub>/g; # 3/4
+        # convert fractions
+        if ($line !~ /stars:/) {
+            $line =~ s/(0\.125|\.125)/ <sup>1<\/sup>&frasl;<sub>8<\/sub>/g;
+            $line =~ s/(0\.1666*7|\.1666*7)/ <sup>1<\/sup>&frasl;<sub>6<\/sub>/g;
+            $line =~ s/(0\.1875|\.1875)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g;
+            $line =~ s/(0\.25|\.25)/ <sup>1<\/sup>&frasl;<sub>4<\/sub>/g;
+            $line =~ s/0\.3333*|\.3333*/ <sup>1<\/sup>&frasl;<sub>3<\/sub>/g;
+            $line =~ s/(0\.375|\.375)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g;
+            $line =~ s/(0\.5|\.5)/ <sup>1<\/sup>&frasl;<sub>2<\/sub>/g;
+            $line =~ s/0\.6666*7|\.6666*7/ <sup>2<\/sup>&frasl;<sub>3<\/sub>/g;
+            $line =~ s/0\.8333*|\.8333*/ <sup>5<\/sup>&frasl;<sub>6<\/sub>/g;
+            $line =~ s/(0\.75|\.75)/ <sup>3<\/sup>&frasl;<sub>4<\/sub>/g;
         }
-        $out .= $_;
-
+        $out .= $line;
     }
 
-    close (FILE);
+    if ($s_ingredient) {
+        chop($s_ingredient);
+        chop($s_ingredient);
+    }
+    if ($s_instructions) {
+        chop($s_instructions);
+        chop($s_instructions);
+    }
 
-    chop($s_ingredient);
-    chop($s_ingredient);
-    chop($s_instructions);
-    chop($s_instructions);
-    $s_ingredient =~ s/<(.[^>]*)>//g; # remove html tags
-    $s_instructions =~ s/<(.[^>]*)>//g; # remove html tags
-    #$s_instructions =~ s/\"/\'/g; # replace double quotes with single
+    $s_ingredient =~ s/<(.[^>]*)>//g if $s_ingredient;
+    $s_instructions =~ s/<(.[^>]*)>//g if $s_instructions;
 
+    my $rating_json = "";
+    if ($rating && $iconfile_val) {
+        $rating_json = qq|  "aggregateRating": {
+   "\@type": "AggregateRating",
+   "ratingValue": "$rating",
+   "bestRating": "5",
+   "reviewCount": "2"
+  },|;
+    }
 
-    # remove image as it isn't of the cocktail   "image": "{% for ingredient in site.data[page.iconfile].images.ingredient limit: 1 %}{{ ingredient.url }}{% endfor %}",
-
+    # Schema block builder
     $schema = qq ~
-    
 <script type="application/ld+json">
 {
   "\@context": "https://schema.org",
@@ -215,92 +297,103 @@ $s_instructions
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "\@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+$rating_json
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     ~;
 
     $schema =~ s/,,/,/g;
     $schema =~ s/,"/"/g;
 
+    # ==========================================================================
+    # Pass 3: Rebuild Front Matter with Injected Component Keys & Stars
+    # ==========================================================================
+    my $final_front_matter = "";
+    my $current_dash_count = 0;
+
+    foreach my $line (@front_matter_lines) {
+        if ($line =~ /^---\s*$/) {
+            $current_dash_count++;
+            if ($current_dash_count == 2) {
+                # Inject component arrays and type right before the closing delimiter
+                $final_front_matter .= build_yaml_entry('glass',     \@found_glasses);
+                $final_front_matter .= build_yaml_entry('garnishes', \@found_garnishes);
+                $final_front_matter .= build_yaml_entry('tools',     \@found_tools);
+                $final_front_matter .= build_yaml_entry('ice',       \@found_ice);
+                $final_front_matter .= build_yaml_entry('type',      \@found_types);
+            }
+        }
+
+        # Handle updating or injecting front matter lines
+        if ($line =~ /^stars:/) {
+            $final_front_matter .= "stars: $rating\n";
+        } 
+        elsif ($line =~ /^base_spirits:\s*(.*)/) {
+            my $spirits_val = $1;
+            $spirits_val =~ s/('|"|\[|\])//g; 
+            $spirits_val =~ s/^\s+|\s+$//g;
+            my @items = split /\s*,\s*/, $spirits_val;
+            $final_front_matter .= "base_spirits: [" . join(", ", map { "'$_'" } @items) . "]\n";
+        } 
+        else {
+            $final_front_matter .= $line;
+        }
+    }
+
+    # If stars wasn't in front matter yet, add it
+    if ($rating && $final_front_matter !~ /^stars:/m) {
+        $final_front_matter =~ s/^---\s*$/---\nstars: $rating/m;
+    }
+
     my $outfile = $mydir.$file;
-    open (NEWFILE, ">$outfile") or die "Cannot open newfile: $outfile\n";
+    open (NEWFILE, ">:utf8", "$outfile") or die "Cannot open newfile: $outfile\n";
+    print NEWFILE $final_front_matter;
     print NEWFILE $out;
     print NEWFILE $schema;
     close (NEWFILE);
 
-    print "Saved: $outfile\n";
-    ($s_ingredient, $s_instructions, $FLAGnotes) = "";
-
+    print "Processed & Saved: $outfile\n";
 }
-
 
 exit;
 
 sub convert {
-
-    # 0 - measure, 1 - scale,  2 - min qty, 3 - max qty
-
-    # water 25 g = 1 oz, moving to 30 ml = 1 oz on 13 Dec 2025
-    # rich syrup 36.68 g = 1 oz
-    # semi rich syrup 35 g = 1 oz
-    # simple syrup 34.16 g = 1 oz
-
     my $meas  = $_[0];
     my $scale = $_[1];
     my $minq  = $_[2];
     my $maxq  = $_[3] if ($_[3]);
-    my $out = "";
+    my $out   = "";
     my $FLAGoz = 0;
+    my ($minml, $maxml);
 
-    print "sub convert $minq $maxq $meas scale: $scale\n";
-
-    # scale all 
     $minq = $minq * $scale;
     $maxq = $maxq * $scale if ($maxq);
 
-
     if ($meas =~ /oz/i) {
-        # only create an ml for oz
         $FLAGoz = 1;
         $minml = $minq * 30;
         $maxml = $maxq * 30 if ($maxq);
     }
 
     if ($meas =~ /ml/i) {
-        # try to make oz from ml, assume 25 ml=1 oz, basically pretend they are oz for the rest of the script
         $FLAGoz = 1;
         $minml = $minq;
         $maxml = $maxq;
         $minq = $minq / 30;
-        $maxq = $maxq / 30;
+        $maxq = $maxq / 30 if ($maxq);
         $meas = "oz";
-
     }
 
-    # deal with making measures plural
-    if ($meas =~ /dash/) {
-        $meas = "dashes";
-    } elsif ($meas =~ /barspoon/) {
-        $meas = "barspoons";
-    } elsif ($meas =~ /swath/) {
-        $meas = "swathes";
-    } elsif ($meas =~ /teaspoon/) {
-        $meas = "teaspoons";
-    } elsif ($meas =~ /tablespoon/) {
-        $meas = "tablespoons";
-    } 
+    if ($meas =~ /dash/) { $meas = "dashes"; } 
+    elsif ($meas =~ /barspoon/) { $meas = "barspoons"; } 
+    elsif ($meas =~ /swath/) { $meas = "swathes"; } 
+    elsif ($meas =~ /teaspoon/) { $meas = "teaspoons"; } 
+    elsif ($meas =~ /tablespoon/) { $meas = "tablespoons"; } 
 
-    # round mls to the nearest .5
     $minml = nearest(1, $minml) if ($minml);
     $maxml = nearest(1, $maxml) if ($maxml);
 
@@ -314,35 +407,67 @@ sub convert {
         $out .= " ml";
     }
 
-    ($minq, $maxq, $minml, $maxml, $meas) = "";
-
     return($out);
-
 }
 
 sub process_ratings {
-
-    # get the current ratings from the yaml, put the average back in the recipe
-    my ($stars, $count) = "";
-    
+    my ($stars, $count) = (0, 0);
     my $rating_file = $rootdir . "/_data/ratings/" . $_[0] . ".yaml";
     return(0) if (!-e "$rating_file");
 
-    open (RATING, "$rating_file") || die "Cannot open $rating_file\n";
+    open (RATING, "<:utf8", "$rating_file") || warn "Cannot open $rating_file\n";
     while (<RATING>) {
-        if (/rating: (.*)/) {
-            print STDERR qq|found rating $1 in $rating_file\n|;
+        if (/rating:\s*(.*)/) {
             $stars += $1;
             $count++;
         }
     }
     close (RATING);
-    my $sum = $stars/$count;
-    print STDERR qq|rating: stars - $stars count - $count average - $sum\n|;
-    return ($sum);
 
+    if ($count > 0) {
+        return ($stars / $count);
+    }
+    return 0;
 }
 
+sub find_matches {
+    my ($text, $dictionary_ref) = @_;
+    my %found_ids;
+    
+    # Strip all newlines, carriage returns, hyphens, and list markers for bulletproof matching
+    my $clean_text = lc($text);
+    $clean_text =~ s/[\r\n]+/ /g;
+    $clean_text =~ s/[-*]/ /g;
+    $clean_text =~ s/\s+/ /g;
+
+    foreach my $search_term (keys %$dictionary_ref) {
+        my $id = $dictionary_ref->{$search_term};
+        my $lc_term = lc($search_term);
+        
+        if ($clean_text =~ /\b\Q$lc_term\E\b/) {
+            $found_ids{$id} = 1;
+        }
+    }
+    return keys %found_ids;
+}
+
+sub build_yaml_entry {
+    my ($key, $items_ref) = @_;
+    my @items = @$items_ref;
+    my $result = "";
+
+    return $result if !@items;
+
+    if (scalar(@items) == 1) {
+        $result .= "$key: $items[0]\n";
+    } else {
+        $result .= "$key:\n";
+        foreach my $item (@items) {
+            $result .= "  - $item\n";
+        }
+    }
+    return $result;
+}
 
 sub read_spirit_data {
     my $spirit_dir = '_spirit';
@@ -352,13 +477,13 @@ sub read_spirit_data {
 
     for my $file (@files) {
         my $filepath = "$spirit_dir/$file";
-        
         open(my $fh, '<:encoding(UTF-8)', $filepath) or warn "Can't open $filepath: $!";
+        
         my $front_matter = "";
         my $in_yaml = 0;
         
         while (my $line = <$fh>) {
-            $line =~ s/^\x{FEFF}//; # Strip BOM
+            $line =~ s/^\x{FEFF}//; 
             if ($line =~ /^---\s*$/) {
                 if ($in_yaml) { last; } else { $in_yaml = 1; next; }
             }
@@ -367,10 +492,8 @@ sub read_spirit_data {
         close($fh);
 
         if ($front_matter) {
-            # Try parsing with YAML::XS first
             my $yaml_data = eval { Load($front_matter) };
             
-            # FALLBACK: If YAML::XS crashes on accents, parse it manually via regex!
             if ($@ || ref $yaml_data ne 'HASH') {
                 $yaml_data = {};
                 while ($front_matter =~ /^([a-zA-Z0-9_-]+):\s*(["']?)(.*?)\2\s*$/gm) {
@@ -379,7 +502,6 @@ sub read_spirit_data {
             }
 
             my $slug = $yaml_data->{slug} // do {
-                # Fallback slug from filename if missing
                 my $s = $file; $s =~ s/\.md$//; $s;
             };
             
@@ -390,7 +512,6 @@ sub read_spirit_data {
                 $name =~ s/\s+/ /g;
                 $name =~ s/^\s+//; $name =~ s/\s+$//;
                 $spirit{lc($name)} = $slug;
-                print STDERR qq|Loaded spirit: $name with slug: $slug\n|;
             }
             
             if ($yaml_data->{aliases}) {
@@ -399,27 +520,11 @@ sub read_spirit_data {
                     foreach my $alias (@$aliases) {
                         $alias =~ s/['"]//g;
                         $alias =~ s/\s+/ /g;
-                        $alias =~ s/^\s+//; $alias =~ s/\s+$//;
+                        $alias =~ s/^\s+//; $alias =~ s/$//;
                         $spirit{lc($alias)} = $slug;
                     }
                 }
             }
         }
     }
-}
-
-sub read_spirit_data_orig {
-
-    my $yaml_file = '_data/spirits.yaml';
-    my $data = eval { LoadFile($yaml_file) } or die "Can't read $yaml_file: $@";
-
-    for my $entry (@$data) {
-        next unless ref $entry eq 'HASH';
-        my $slug = $entry->{slug}      // next;
-        my $name = $entry->{name}      // '';
-        $spirit{$name} = $slug;
-    }
-
-    return();
-
 }

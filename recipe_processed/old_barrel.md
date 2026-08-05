@@ -5,7 +5,6 @@ title: "Old Barrel"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/old_barrel/"
-iconfile: old_barrel
 stars: 3.5
 base_spirits: ['Rye', 'Bénédictine', 'Amontillado Sherry']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/6170/old-barrel"
@@ -13,6 +12,8 @@ description: "A modern riff on a classic Old Fashioned with rye whiskey spice, h
 excerpt: |
   Rye whiskey spice, herbal liqueur complexity and vinous sherry sit alongside each other in a harmonious trinity with dashes of aromatic bitters and lemon zest freshness in this riff on a classic Old Fashioned.
 date: 2025-08-11
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-08-11
 - Garnish: Lemon swath
 - Special Prep: Express lemon oil on the drink.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +84,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

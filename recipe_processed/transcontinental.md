@@ -6,7 +6,6 @@ title: "Transcontinental"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/transcontinental/"
-iconfile: transcontinental
 stars: 3.75
 base_spirits: ['London Dry Gin', 'Maraschino Liqueur', 'Yellow Chartreuse', 'Crème de Violette']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/9724/transcontinental"
@@ -14,6 +13,8 @@ description: "The Last Word meets the Aviation somewhere over the French-Italian
 excerpt: |
   This cocktail is a play on the Last Word and the Aviation. The recipe originated from the bar of the Brick Farm Tavern in Hopewell, New Jersey.
 date: 2026-02-05
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2026-02-05
 - Garnish: Lemon swath
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +77,16 @@ date: 2026-02-05
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.75",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

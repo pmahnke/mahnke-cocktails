@@ -6,7 +6,6 @@ title: "Kiss"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/kiss/"
-iconfile: kiss
 stars: 3.5
 base_spirits: ['London Dry Gin', 'Dubonnet Rouge', 'Sweet Vermouth', 'Maraschino Liqueur']
 youtube: "https://www.liquor.com/recipes/kiss/"
@@ -14,6 +13,8 @@ description: "This original drink begins with gin and then calls on sweet vermou
 excerpt: |
   This original drink begins with gin and then calls on sweet vermouth, a French aperitif and an Italian liqueur. Together, you get a cocktail that’s similar to the classic Martinez (gin, sweet vermouth, maraschino liqueur, and bitters) but with a slightly sweeter and more herbaceous profile due to the Dubonnet rouge.
 date: 2026-04-24
+glass: martini
+type: stirred
 ---
 
 ### Ingredients
@@ -38,7 +39,6 @@ date: 2026-04-24
   - Place the apple pieces together, pierce them with a cocktail pick about one third of the way from the bottom.
   - Then fan them out and place in your drink, resting the cocktail pick on the rim of the glass.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -100,16 +100,16 @@ date: 2026-04-24
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

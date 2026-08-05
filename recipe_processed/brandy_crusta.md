@@ -5,7 +5,6 @@ title: "Brandy Crusta"
 categories: [crusta]
 eras: [new_orleans]
 permalink: "/recipe/brandy_crusta/"
-iconfile: brandy_crusta
 stars: 4
 base_spirits: ['Cognac', 'Curaçao', 'Maraschino Liqueur']
 youtube: "N0aPVPdLyQc"
@@ -13,6 +12,8 @@ description: "One of the oldest classic cocktails from New Orleans, known for it
 excerpt: |
   The Brandy Crusta is one of the oldest classic cocktails on record and a liquid calling card of its hometown of New Orleans.
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-08-11
 - Garnish: Sugared rim & long lemon peel
 - Special Prep: Heavily coat the outside of the glass with sugar. Wind the lemon peel around the inside of the glass.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +78,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Lonely Penguin"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/lonely_penguin/"
-iconfile: lonely_penguin
 stars: 0
 base_spirits: ['Rye', 'Crème de Mûre']
 youtube: "Hw-KZJNvtts"
@@ -13,6 +12,9 @@ description: "A unique original cocktail that combines the flavors of whiskey, l
 excerpt: |
   Created by Anders Ericson, the Lonely Penguin is a unique and refreshing drink that combines the flavors of whiskey, lemon, blackberry, and coconut. It's a perfect choice for those who enjoy a bit of sweetness with their spirits.
 date: 2025-09-26
+glass: snifter
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +38,6 @@ date: 2025-09-26
 - Garnish: 2 cocktail cherries (eyes), orange wedge (beak), 2 pineapple fronds (flippers), & cocktail umbrella for garnish (arranged to look like a penguin)
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -88,16 +89,11 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

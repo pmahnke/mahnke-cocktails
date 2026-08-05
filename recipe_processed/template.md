@@ -34,7 +34,6 @@ categories:
   ]
 eras: [anders, classic, modern, new_orleans, prohibition]
 permalink: "/recipe/NAME/"
-iconfile: NAME
 stars: 0
 base_spirits: ['SPIRIT', 'SPIRIT']
 youtube: "LINK"
@@ -42,6 +41,19 @@ description: "from_gemini"
 excerpt: |
   Lorem ipsum dolor sit amet.
 date: 2025-08-20
+glass:
+  - martini
+  - rocks
+  - highball
+  - coupe
+  - flute
+ice:
+  - cubed
+  - crushed
+type:
+  - shaken
+  - blended
+  - stirred
 ---
 
 ### Ingredients
@@ -63,7 +75,6 @@ date: 2025-08-20
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -119,16 +130,11 @@ date: 2025-08-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

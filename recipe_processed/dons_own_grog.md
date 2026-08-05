@@ -6,7 +6,6 @@ title: "Don’s Own Grog"
 categories: [grog, tiki]
 eras: [modern]
 permalink: "/recipe/dons_own_grog/"
-iconfile: dons_own_grog
 stars: 0
 base_spirits: ['Jamaican Rum', 'White Rum', 'Rhum Agricole', 'Crème de Mûre']
 youtube: "pG7mU5eenRA"
@@ -14,6 +13,9 @@ description: "A tiki cocktail created by Don the Beachcomber in 1937, a unique t
 excerpt: |
   Don's Own Grog is a tiki cocktail created by Don the Beachcomber in 1937. It is a unique twist on the traditional grog, incorporating blackberry liqueur and other ingredients to create a woody, spicy, and fruity flavor profile. 
 date: 2025-11-29
+glass: rocks
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -39,7 +41,6 @@ date: 2025-11-29
 - Garnish: Grated nutmeg, pineapple fronds, and cocktail umbrella
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -93,16 +94,11 @@ date: 2025-11-29
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

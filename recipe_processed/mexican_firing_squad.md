@@ -5,7 +5,6 @@ title: "Mexican Firing Squad"
 eras: [modern]
 categories: [collins]
 permalink: "/recipe/mexican_firing_squad/"
-iconfile: mexican_firing_squad
 stars: 0
 base_spirits: ['Reposado Tequila']
 youtube: "3aV3DzDfW_A"
@@ -13,6 +12,9 @@ description: "A classic Collins-style cocktail that features tequila, lime, and 
 excerpt: |
   The drink is essentially a tequila Collins, made with lime in place of lemon and grenadine in place of plain sugar, with the addition of some Angostura Aromatic Bitters.
 date: 2025-08-11
+glass: rocks
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: Lime wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +85,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

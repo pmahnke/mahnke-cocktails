@@ -5,7 +5,6 @@ title: "Sloe Gin Fizz"
 categories: [fizz]
 eras: [classic]
 permalink: "/recipe/sloe_gin_fizz/"
-iconfile: sloe_gin_fizz
 stars: 4
 base_spirits: ['Sloe Gin']
 youtube: "gGlTXp_oujk"
@@ -13,6 +12,10 @@ description: "A classic fizz that highlights the tart and fruity character of sl
 excerpt: |
   The Sloe Gin Fizz cocktail is a classic for a reason. See how the tartness of sloe berries influence this tasty drink.
 date: 2025-08-11
+glass: highball
+garnishes: maraschino_cherry
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +37,6 @@ date: 2025-08-11
 - Garnish: Lemon wheel and cocktail cherry
 - Special Prep: 1 For variations, drop Sloe Gin to 1 <sup>1</sup>&frasl;<sub>2</sub> oz. (45 ml), & add  <sup>1</sup>&frasl;<sub>2</sub> oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +86,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

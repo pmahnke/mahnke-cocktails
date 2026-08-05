@@ -6,7 +6,6 @@ title: "Prestige Cocktail"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/prestige_cocktail/"
-iconfile: prestige_cocktail
 stars: 0
 base_spirits: ['Nicaraguan Rum', 'Dry Vermouth']
 youtube: "CGkWnYhu4ag"
@@ -14,6 +13,8 @@ description: "The Prestige cocktail is a tropical, aged-rum-based drink created 
 excerpt: |
   The Prestige cocktail is a tropical and rum-forward classic created by cocktail master Dale DeGroff in 2002. The recipe builds upon the foundation of a daiquiri, using aged rum and lime juice, but adds the complexity of velvet falernum for its clove and ginger spice notes. Pineapple juice is also included for sweetness and an extra layer of tropical flavor, while a splash of dry vermouth provides a delicate, herbal, and botanical finish. The final shaken cocktail is served up in a martini or coupe glass, often with a pineapple wedge garnish.
 date: 2025-09-10
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-09-10
 - Glassware: Coupe
 - Garnish: Two crossing pineapple wedges
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +72,11 @@ date: 2025-09-10
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

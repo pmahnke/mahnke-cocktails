@@ -6,7 +6,6 @@ title: "Clara Bow"
 categories: [daisy, smash, sour]
 eras: [modern]
 permalink: "/recipe/clara_bow/"
-iconfile: clara_bow
 stars: 4
 base_spirits: ['Bourbon', 'Elderflower Liqueur']
 youtube: "P5qAYo2lvtQ"
@@ -14,6 +13,9 @@ description: "This cocktail blends bourbon (high-rye preferred), St. Germain, gr
 excerpt: |
   The Clara Bow, a modern classic bourbon cocktail, created by Lynnette Marrero and Jim Kearns in 2009 at Rye House in New York City. It drinks like something much older, but the addition of St-Germain, an elderflower liqueur that didn’t hit the market until 2007, sets it apart from classic recipes. Fresh mint with lemon and grenadine place this drink somewhere between a whiskey sour, a daisy, and a smash.
 date: 2026-03-29
+glass: coupe
+garnishes: mint_sprig
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2026-03-29
 - Garnish: Mint sprig
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +78,16 @@ date: 2026-03-29
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

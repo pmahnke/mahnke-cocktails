@@ -6,7 +6,6 @@ title: "Voyager"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/voyager/"
-iconfile: voyager
 stars: 0
 base_spirits: ['Jamaican Rum', 'Bénédictine']
 youtube: "9V4Jj3bmi90"
@@ -14,6 +13,10 @@ description: "A rum-based, tiki-style drink created by mixologist Robert Hess an
 excerpt: |
   The Voyager, created by renowned mixologist Robert Hess in 2006 for the "Tales of the Cocktail" event in New Orleans, offers a unique spin on the traditional tiki cocktail. It was designed to use less common ingredients like Bénédictine and falernum, which were harder to find at the time, and provides a drier profile while retaining the essential tropical flavors. 
 date: 2025-12-17
+glass: rocks
+garnishes: lime_wheel
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -34,7 +37,6 @@ date: 2025-12-17
   - Crushed Ice
 - Garnish: Pineapple fronds and dehydrated lime wheel
 - Special Prep: None
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +86,11 @@ date: 2025-12-17
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

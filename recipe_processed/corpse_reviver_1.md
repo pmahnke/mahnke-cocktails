@@ -5,7 +5,6 @@ title: "Corpse Reviver #1"
 categories: [cocktail, corpse_reviver]
 eras: [prohibition]
 permalink: "/recipe/corpse_reviver_1/"
-iconfile: corpse_reviver_1
 stars: 4
 base_spirits: ['Apple Brandy', 'Cognac', 'Sweet Vermouth']
 youtube: "rMCsrbidAJ4"
@@ -13,6 +12,7 @@ description: 'The original Corpse Reviver, this is a cognac-based cocktail inten
 excerpt: |
   The first widely popularized corpse reviver cocktail is listed in The Savoy Cocktail Book and is a cognac-based cocktail that calls for two parts cognac, one part Calvados or apple brandy, and one part Italian vermouth. In bartender Craddock's notes he says "To be taken before 11AM, or whenever steam or energy is needed".
 date: 2025-08-11
+type: stirred
 ---
 
 ### Ingredients
@@ -31,7 +31,6 @@ date: 2025-08-11
 - Garnish: Expressed orange oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +71,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

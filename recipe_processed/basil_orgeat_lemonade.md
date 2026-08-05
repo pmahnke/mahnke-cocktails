@@ -5,13 +5,15 @@ title: "Basil Orgeat Lemonade"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/basilorgeatlemonade/"
-iconfile: basil_orgeat_lemonade
 stars: 3
 youtube: "5wgvpo-xBnA"
 description: "A refreshing non-alcoholic drink that blends tart lemonade with the nutty sweetness of orgeat and the herbaceousness of fresh basil."
 excerpt: |
   Basil Orgeat Lemonade is a refreshing and unique non-alcoholic cocktail that blends the tartness of lemonade with the nutty sweetness of orgeat syrup and the herbaceousness of fresh basil.
 date: 2025-08-11
+glass: goblet
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2025-08-11
 - Garnish: Basil Leaf and Lemon Wheel
 - Special Prep: Shake cocktail and pour into the glass. Top with soda water.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -83,16 +84,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

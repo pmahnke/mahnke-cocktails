@@ -5,7 +5,6 @@ title: "Old Hickory"
 categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/old_hickory/"
-iconfile: old_hickory
 stars: 0
 base_spirits: ['Sweet Vermouth', 'Dry Vermouth']
 youtube: "0qztLZnJbk8"
@@ -13,6 +12,8 @@ description: "A light, low-ABV classic named for President Andrew Jackson, featu
 excerpt: |
   Named after General Andrew Jackson (before his presidency), this drink pays tribute to his nickname “Old Hickory,” which reflected his tough persona. Surprisingly, this drink is far from tough - it’s light, easy to make, and lower in ABV. The Old Hickory combines both sweet and dry vermouth, making it a smooth, sessionable sipper.
 date: 2025-08-11
+glass: coupe
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

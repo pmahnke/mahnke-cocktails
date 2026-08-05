@@ -5,7 +5,6 @@ title: "Mary Pickford"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/mary_pickford/"
-iconfile: mary_pickford
 stars: 4
 base_spirits: ['White Rum', 'Maraschino Liqueur']
 youtube: "TGJZv0FTjk8"
@@ -13,6 +12,9 @@ description: "A classic Prohibition-era cocktail named for the silent film star,
 excerpt: |
   The Mary Pickford is a classic cocktail named after the famous silent film actress. It is a Prohibition-era cocktail that's made with: white rum, fresh pineapple juice, grenadine, and maraschino liqueur.
 date: 2025-08-11
+glass: coupe
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 <div class="subrecipe" markdown="1">
@@ -62,7 +64,6 @@ date: 2025-08-11
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -104,16 +105,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

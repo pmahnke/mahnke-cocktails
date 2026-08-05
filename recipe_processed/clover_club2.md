@@ -5,7 +5,6 @@ title: "Clover Club 2.0"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/clover_club2/"
-iconfile: clover_club2
 stars: 4.75
 base_spirits: ['Plymouth Gin', 'Blanc Vermouth']
 youtube: "MkLZovhDN_k"
@@ -13,6 +12,9 @@ description: "A pre-Prohibition classic from Philadelphia known for its silky, f
 excerpt: |
   This pre-Prohibition classic is one of Philadelphia’s contributions to the cocktail world. It is a classic cocktail known for its sweet and tart flavor profile and its silky, frothy texture. It's a member of the sour family, but leans more towards sweetness than tartness. The pale pink liquid, delicate white foam head, and raspberry garnish make it visually appealing.
 date: 2026-03-01
+glass: coupe
+garnishes: raspberries
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2026-03-01
 - Garnish: Raspberry
 - Special Prep: Muddle the raspberries with the simple syrup. For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +79,16 @@ date: 2026-03-01
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.75",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

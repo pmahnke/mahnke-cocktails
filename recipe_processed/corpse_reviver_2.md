@@ -5,7 +5,6 @@ title: "Corpse Reviver #2"
 categories: [sour, daisy, corpse_reviver]
 eras: [prohibition]
 permalink: "/recipe/corpse_reviver_2/"
-iconfile: corpse_reviver_2
 stars: 5
 base_spirits: ['London Dry Gin', 'Cocchi Americano', 'Triple Sec']
 youtube: "bGxOcLRCBWk"
@@ -13,6 +12,8 @@ description: "The most famous of the Corpse Revivers, this is a bright, pre-Proh
 excerpt: |
   The Corpse Reviver No. 2 is a pre-Prohibition cocktail that was originally consumed in the morning, but tastes delicious any time of the day.
 date: 2025-12-23
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-12-23
 - Garnish: Cocktail Cherry optional
 - Special Prep: Add the cherry to the glass before straining the cocktail
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,13 +5,17 @@ title: "Cherry Zip"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/cherry_zip/"
-iconfile: cherry_zip
 stars: 0
 youtube: "ZE3G8aUyOn0"
 description: "A tart and fruity non-alcoholic cocktail that combines cherry juice with the nutty sweetness of orgeat."
 excerpt: |
   A twist on the classic Caipiroska, substituting the traditional muddled limes with sweet cherries. The result is a tangy and fruity cocktail with a subtle sweetness.
 date: 2025-08-11
+garnishes:
+  - maraschino_cherry
+  - mint_sprig
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +38,6 @@ date: 2025-08-11
 - Garnish: Mint sprig
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -85,16 +88,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

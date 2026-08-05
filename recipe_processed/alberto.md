@@ -6,7 +6,6 @@ title: "Alberto"
 categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/alberto/"
-iconfile: alberto
 stars: 3.5
 base_spirits: ['London Dry Gin', 'Fino Sherry', 'Cocchi Americano']
 youtube: "PM_X8Ci0iXg"
@@ -14,6 +13,8 @@ description: "A Prohibition-era Martini variation that pairs the dryness of gin 
 excerpt: |
   First published in William James "Billy" Tarling's 1937 <em>Café Royal Bar Book</em> where the invention of this cocktail is credited to A. J. Smith.
 date: 2025-08-11
+glass: martini
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: Expressed orange oil and peel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -75,16 +75,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

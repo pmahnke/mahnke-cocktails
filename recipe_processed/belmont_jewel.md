@@ -5,7 +5,6 @@ title: "Belmont Jewel"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/belmont_jewel/"
-iconfile: belmont_jewel
 stars: 3.5
 base_spirits: ['Bourbon', 'Oloroso Sherry']
 youtube: "1V0-c6u4xJA"
@@ -13,6 +12,10 @@ description: "The official cocktail of the Belmont Stakes, this is a refreshing 
 excerpt: |
   The Belmont Jewel is the official cocktail of the Belmont Stakes. It's a refreshing and fruity drink that's perfect for summer.
 date: 2025-08-11
+glass: rocks
+garnishes: mint_sprig
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -35,7 +38,6 @@ date: 2025-08-11
 - Garnish: Mint sprig
 - Special Prep: Pour cocktail into glass and top it off with the sparkling water.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +88,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

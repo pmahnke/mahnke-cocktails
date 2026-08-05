@@ -5,7 +5,6 @@ title: "Moscow Mule"
 categories: [buck]
 eras: [modern]
 permalink: "/recipe/moscow_mule/"
-iconfile: moscow_mule
 stars: 3.5
 base_spirits: ['Vodka']
 youtube: "mvo1CzEJd14"
@@ -13,6 +12,9 @@ description: "A classic modern buck, born in Los Angeles, famous for its refresh
 excerpt: |
   The Moscow Mule, whose roots actually trace to Los Angeles in the mid-20th century, is a classic vodka drink with the bite of ginger beer.
 date: 2025-08-11
+glass: copper_mug
+garnishes: mint_sprig
+ice: cubed
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: Large mint sprig
 - Special Prep: Pour in the vodka, lime juice and bitters then top with the ginger beer.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +85,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

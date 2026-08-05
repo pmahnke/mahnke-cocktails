@@ -5,7 +5,6 @@ title: "Blue Hawaii"
 categories: [highball]
 eras: [modern]
 permalink: "/recipe/blue_hawaii/"
-iconfile: blue_hawaii
 stars: 0
 base_spirits: ['White Rum', 'Rhum Agricole', 'Curaçao']
 youtube: "6bGqiC9qyQ8"
@@ -13,6 +12,9 @@ description: "A vibrant and tropical highball created in 1957 to showcase blue c
 excerpt: |
   Adapted from a recipe created in 1957 by Harry K. Yee at Henry Kaiser's Hawaiian Village Hotel (latterly the Hilton) in Waikiki, Oahu, Hawaii. The drink, created at the behest of Bols to aid sales of their blue curaçao, is named after the hit song from the 1937 Bing Crosby film, <i>Waikiki Wedding</i>, and not after what is generously described as a "musical-comedy" Elvis Presley 1961 film of the same name. That said, the Elvis film probably contributed to this cocktail's popularity.
 date: 2025-08-11
+glass: hurricane
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +38,6 @@ date: 2025-08-11
 - Garnish: Pineapple slices, pineapple fronds, and cocktail umbrella
 - Special Prep: Pour cocktaill over crushed ice, and top with additional crushed ice.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -88,16 +89,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

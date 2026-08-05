@@ -3,7 +3,6 @@ layout: recipe
 title: "Baileys Infused Whipped Cream"
 categories: [syrup]
 permalink: "/recipe/baileys_whipped_cream/"
-iconfile: baileys_whipped_cream
 stars: 0
 youtube: M8uXEDvbvVM
 description: "Baileys Infused Whipped Cream is a velvety, aerated topping that blends the airy sweetness of traditional whipped cream with the rich, creamy notes of Irish whiskey, cocoa, and vanilla."
@@ -24,7 +23,6 @@ date: 2026-03-21
 
 1. Whisk just until the cream reaches stiff peaks.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -46,16 +44,11 @@ date: 2026-03-21
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

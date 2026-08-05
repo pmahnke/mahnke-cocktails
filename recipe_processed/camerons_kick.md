@@ -5,7 +5,6 @@ title: "Cameron's Kick"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/camerons_kick/"
-iconfile: camerons_kick
 stars: 4
 base_spirits: ['Blended Scotch', 'Irish Whiskey']
 youtube: "PwfU-18WhC8"
@@ -13,6 +12,12 @@ description: "A classic cocktail that uniquely combines the distinct flavors of 
 excerpt: |
   The Cameron's Kick is a classic cocktail that combines the smoothness of Scotch whisky with the sweetness of Irish whiskey, lemon juice, and orgeat syrup. It is named after the famous Scottish golfer Cameron MacKenzie, who was known for his powerful kick.
 date: 2025-12-09
+glass:
+  - rocks
+  - whiskey
+type:
+  - blended
+  - shaken
 ---
 
 ### Ingredients
@@ -32,7 +37,6 @@ date: 2025-12-09
 - Garnish: Lemon peel
 - Special Prep: Express lemon oil over the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +78,16 @@ date: 2025-12-09
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

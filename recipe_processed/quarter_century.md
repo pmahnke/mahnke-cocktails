@@ -5,7 +5,6 @@ title: "Quarter Century"
 eras: [anders]
 categories: [amaro, champagne]
 permalink: "/recipe/quarter_century/"
-iconfile: quarter_century
 stars: 3.5
 base_spirits: ['Campari', 'Apricot Liqueur', 'Absinthe', 'Champagne']
 youtube: "S7DGgeFsjyE"
@@ -13,6 +12,8 @@ description: "An original sparkling cocktail that combines the bittersweet notes
 excerpt: |
   This is an Anders Erickson original cocktail created for New Year's Day, 2025.
 date: 2025-08-11
+glass: coupe
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: Expressed lemon oil
 - Special Prep: Pour cocktail into the coupe and top with champagne. Then express the lemon oil over the top of the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

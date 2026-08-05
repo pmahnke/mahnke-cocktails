@@ -1,5 +1,5 @@
 ---
-title: Lager Beer
+title: Lager
 slug: lager
 parent_category: beer
 icon_path: /assets/images/ingredient-lager.svg

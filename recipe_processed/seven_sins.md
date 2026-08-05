@@ -6,7 +6,6 @@ title: "Seven Sins"
 eras: [modern]
 categories: [sour]
 permalink: "/recipe/seven_sins/"
-iconfile: seven_sins
 stars: 0
 base_spirits: ['Apple Brandy', 'Rye']
 youtube: "https://www.youtube.com/shorts/5_FiYugHCAM"
@@ -14,6 +13,8 @@ description: "This variation, modified by John Coltharp, is a whiskey-based drin
 excerpt: |
   The Seven Sins is a whiskey-based cocktail that originated as a modification of the classic Jack Rose, a spirit-forward recipe featuring apple brandy. Created by bartender John Coltharp, this version splits the base spirit between rye whiskey and applejack, resulting in a more complex and full-bodied drink. Beyond the base spirits, the cocktail's flavor profile is built with the sweet-tart notes of lemon juice and grenadine. A pinch of freshly grated cinnamon serves as a final, fragrant garnish, bringing a spicy, warm aroma to each sip. The resulting cocktail is a sophisticated and well-balanced twist on a classic, offering notes of apple, pomegranate, and warm spice.
 date: 2025-10-31
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-10-31
 - Garnish: Freshly grated nutmeg
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -75,16 +75,11 @@ date: 2025-10-31
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Toreador"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/toreador/"
-iconfile: toreador
 stars: 4.5
 base_spirits: ['Reposado Tequila', 'Apricot Liqueur', 'Amontillado Sherry']
 youtube: "3aV3DzDfW_A"
@@ -13,6 +12,8 @@ description: "A classic cocktail that predates the Margarita, showcasing tequila
 excerpt: |
   The Toreador is a classic cocktail that predates the Margarita and showcases tequila in a balanced and approachable way. It's a great choice for those who want to explore tequila beyond the classic Margarita.
 date: 2025-09-26
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-09-26
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

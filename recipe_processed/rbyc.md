@@ -5,7 +5,6 @@ title: "Royal Bermuda Yacht Club"
 eras: [modern]
 categories: [sour]
 permalink: "/recipe/royal_bermuda_yacht_club/"
-iconfile: rbyc
 stars: 4
 base_spirits: ['Demerara Rum', 'White Rum', 'Curaçao']
 youtube: "y3s1xmGfLkw"
@@ -13,6 +12,8 @@ description: "A modern sour from the 1940s, this cocktail features a sophisticat
 excerpt: |
   Created at the eponymous club, established in Bermuda in 1844 and largely frequented by British Army Officers. Royal Bermuda Yacht Club cocktail first appears in Crosby Gaige's 1941 <i>Cocktail Guide & Ladies' Companion</i> as the favourite cocktail of Mary Mabon, then a writer for <i>Harper's Bazaar</i> fashion magazine.
 date: 2025-08-11
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: Dehydrated lime wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

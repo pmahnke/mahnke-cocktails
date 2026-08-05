@@ -5,7 +5,6 @@ title: "Stinger"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/stinger/"
-iconfile: stinger
 stars: 4
 base_spirits: ['Cognac', 'Crème de Menthe', 'Absinthe']
 youtube: "mBGgu3qRztY"
@@ -13,6 +12,8 @@ description: "A classic high-society cocktail from the pre-Prohibition era, with
 excerpt: |
   Feel the sweet sting of cognac and crème de menthe with the Stinger, a classic high-society cocktail from the pre-Prohibition era.
 date: 2025-08-11
+garnishes: mint_sprig
+type: shaken
 ---
 
 ### Ingredients
@@ -31,7 +32,6 @@ date: 2025-08-11
 - Garnish: Sprig of mint
 - Special Prep: Spray the absinthe over the top of the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +72,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

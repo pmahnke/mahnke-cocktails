@@ -6,7 +6,6 @@ title: "The White Lady"
 eras: [prohibition]
 categories: [sour, daisy]
 permalink: "/recipe/white_lady/"
-iconfile: white_lady
 stars: 4
 base_spirits: ['Triple Sec', 'Crème de Menthe', 'Plymouth Gin']
 youtube: "IAmf7XqE0T8"
@@ -14,6 +13,7 @@ description: "A classic Prohibition-era sour that pairs the botanicals of gin wi
 excerpt: |
   The White Lady cocktail was created by bartender Harry MacElhone and pairs gin with orange liqueur, lemon juice and egg white.
 date: 2025-12-23
+type: shaken
 ---
 
 <div class="subrecipe" markdown="1">
@@ -60,7 +60,6 @@ date: 2025-12-23
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -101,16 +100,16 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

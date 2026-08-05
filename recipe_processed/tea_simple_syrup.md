@@ -3,7 +3,6 @@ layout: recipe
 title: "Tea Simple Syrup"
 categories: [syrup]
 permalink: "/recipe/tea_simple_syrup/"
-iconfile: tea_simple_syrup
 stars: 0
 youtube: "rQ59lgXm8Ho"
 excerpt: |
@@ -25,7 +24,6 @@ date: 2025-08-07
 3. Stir over low heat until sugar is completely dissolved.
 4. Remove from heat.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -47,16 +45,11 @@ date: 2025-08-07
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

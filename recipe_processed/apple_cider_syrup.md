@@ -3,12 +3,12 @@ layout: recipe
 title: "Apple Cider Syrup"
 categories: [syrup]
 permalink: "/recipe/apple_cider_syrup/"
-iconfile: apple_cider_syrup
 stars: 0
 youtube: rWu7oPKxN4U
 excerpt: |
   Here is an apple cider reduction. It’s simple to make and adds deep, caramelized apple flavor without any refined sugar.
 date: 2025-10-31
+garnishes: cinnamon
 ---
 
 ### Ingredients
@@ -26,7 +26,6 @@ date: 2025-10-31
 1. Remove cinnamon, add a pinch of salt, strain.
 1. Store chilled.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -48,16 +47,11 @@ date: 2025-10-31
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

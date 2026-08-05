@@ -5,7 +5,6 @@ title: "Grapefruit Ginger Margarita"
 categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_ginger/"
-iconfile: margarita_ginger
 stars: 0
 base_spirits: ['Reposado Tequila', 'Curaçao']
 youtube: "jxpT11WEtWQ"
@@ -13,6 +12,10 @@ description: "A refreshing and flavorful modern twist on the classic Margarita, 
 excerpt: |
   The margarita ginger cocktail is a refreshing and flavorful twist on the classic margarita. It combines the bold flavors of ginger with the zesty lime juice and tequila, creating a unique and exciting drink.
 date: 2025-12-23
+glass: rocks
+garnishes: lime_wheel
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +36,6 @@ Glassware:
 Garnish: Candied ginger, Lime wheel
 Special Prep: Salted rim
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -57,16 +59,11 @@ Special Prep: Salted rim
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

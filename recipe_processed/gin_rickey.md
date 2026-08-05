@@ -5,7 +5,6 @@ title: "London Dry Gin Rickey"
 categories: [highball]
 eras: [classic]
 permalink: "/recipe/gin_rickey/"
-iconfile: gin_rickey
 stars: 0
 base_spirits: ['London Dry Gin']
 youtube: "vOM5wbvegzo"
@@ -17,6 +16,8 @@ excerpt: |
 
   The Rickey took off, and soon, people were customizing the drink to their liking, with the London Dry Gin Rickey eventually becoming the most popular of them all. This simple twist subs gin for bourbon, taking advantage of the botanical spirit’s natural ability to pair with fresh lime (consider the Gimlet) and sparkling water (think of the Tom Collins). Sugar is present in both the aforementioned cocktails, but the Rickey stands on its own, relying on the gin and lime for flavor and the water for dilution and balance.
 date: 2025-10-20
+glass: highball
+ice: cubed
 ---
 
 ### Ingredients
@@ -43,7 +44,6 @@ date: 2025-10-20
   - Top with the sparkling water
   - Feel free to swap out the base spirit
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -116,16 +116,11 @@ date: 2025-10-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

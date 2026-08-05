@@ -5,7 +5,6 @@ title: "Man o’ War"
 eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/man_o_war/"
-iconfile: man_o_war
 stars: 3.5
 base_spirits: ['Bourbon', 'Curaçao', 'Sweet Vermouth']
 youtube: "1V0-c6u4xJA"
@@ -13,6 +12,7 @@ description: "A citrusy bourbon sour from the Prohibition era, named for one of 
 excerpt: |
   The Man o’ War cocktail is named for one of the finest racehorses in history. This citrusy bourbon drink is a winner.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +33,6 @@ date: 2025-08-11
 - Garnish: Expressed lemon oil & peel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +75,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

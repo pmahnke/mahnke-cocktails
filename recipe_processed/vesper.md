@@ -5,7 +5,6 @@ title: "Vesper"
 eras: [modern]
 categories: [martini]
 permalink: "/recipe/vesper/"
-iconfile: vesper
 stars: 3
 base_spirits: ['London Dry Gin', 'Vodka', 'Cocchi Americano']
 youtube: "VBSjE-P_C58"
@@ -13,6 +12,9 @@ description: "A classic Martini variation invented by Ian Fleming for James Bond
 excerpt: |
   The gin-and-vodka-based Vesper cocktail made its debut in “Casino Royale.” If it’s good enough for James Bond, it’s probably good enough for you, too.
 date: 2025-08-11
+glass: martini
+garnishes: lemon_twist
+type: stirred
 ---
 
 ### Ingredients
@@ -31,7 +33,6 @@ date: 2025-08-11
 - Garnish: Lemon Twist
 - Special Prep: Lillet Blanc may be substituted for Cocchi Americano.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +73,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Creole"
 categories: [amaro, cocktail]
 eras: [new_orleans]
 permalink: "/recipe/creole/"
-iconfile: creole
 stars: 4
 base_spirits: ['Rye', 'Sweet Vermouth', 'Bénédictine', 'Ramazzotti']
 youtube: "BTPaTmkJxbM"
@@ -13,6 +12,7 @@ description: "A classic New Orleans cocktail from the early 1900s with a complex
 excerpt: |
   The Creole cocktail is a classic cocktail with a rich history dating back to the early 1900s. It is known for its complex and balanced flavor profile, combining the sweetness of vermouth with the bitterness of Amaro and the herbal notes of Bénédictine.
 date: 2025-09-26
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +33,6 @@ date: 2025-09-26
 - Garnish: Lemon peel
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +75,16 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

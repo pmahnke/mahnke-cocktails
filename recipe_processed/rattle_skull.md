@@ -5,7 +5,6 @@ title: "Rattle Skull"
 categories: [beer]
 eras: [classic]
 permalink: "/recipe/rattle_skull/"
-iconfile: rattle_skull
 stars: 0
 base_spirits: ['Jamaican Rum', 'Cognac', 'Porter']
 youtube: "7JgKLcCqWR4"
@@ -13,6 +12,7 @@ description: "A classic and potent cocktail from the 18th century, made with a f
 excerpt: |
   The Rattle Skull is a classic cocktail that dates back to the 18th century.It is made with rum, brandy, porter, lime juice, and nutmeg.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +33,6 @@ date: 2025-08-11
 - Garnish: Grated Nutmeg
 - Special Prep: Pour the ale into the glass and top with the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +75,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

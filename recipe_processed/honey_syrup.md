@@ -3,7 +3,6 @@ layout: recipe
 title: "Honey Syrup"
 categories: [syrup]
 permalink: "/recipe/honey_syrup/"
-iconfile: honey_syrup
 stars: 0
 youtube: "kRdWT71gBb5UcAU8"
 excerpt: |
@@ -23,7 +22,6 @@ date: 2025-07-07
 1. In a heat resistant bowl or glass, combine 3 parts honey and 1 part hot water.
 2. Stir until honey and water are completely integrated.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -44,16 +42,11 @@ date: 2025-07-07
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

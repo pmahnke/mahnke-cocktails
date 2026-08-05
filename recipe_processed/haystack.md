@@ -6,7 +6,6 @@ title: "Haystack"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/haystack/"
-iconfile: haystack
 stars: 0
 base_spirits: ['Bourbon', 'Suze', 'Apricot Liqueur']
 youtube: "iLcXU3W1wVQ"
@@ -14,6 +13,10 @@ description: "Inspired by the Paper Plane, this bourbon-based drink comes togeth
 excerpt: |
   Inspired by the Paper Plane, the Haystack holds its own with a bold, fruity-bitter balance that feels fresh and different. Built with bourbon, gentian liqueur (like Suze, Salers, or Aveze), apricot liqueur, and fresh lemon juice, it’s a modern whiskey cocktail that’s both easy to mix but surprisingly complex. If you’re looking for a unique bourbon sour variation or just want something new for your home bar, this one’s worth a try.
 date: 2025-10-08
+glass:
+  - coupe
+  - rocks
+type: shaken
 ---
 
 <div class="subrecipe" markdown="1">
@@ -63,7 +66,6 @@ date: 2025-10-08
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -113,16 +115,11 @@ date: 2025-10-08
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

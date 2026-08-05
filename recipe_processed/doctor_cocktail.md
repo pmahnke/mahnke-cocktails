@@ -5,7 +5,6 @@ title: "Doctor Cocktail"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/doctor_cocktail/"
-iconfile: doctor_cocktail
 stars: 4
 base_spirits: ['Jamaican Rum', 'Swedish Punsch']
 youtube: "re76GCUoiH4&t"
@@ -13,6 +12,8 @@ description: "A simple yet refreshing classic cocktail that features Jamaican ru
 excerpt: |
   The Doctor Cocktail is a classic cocktail that has been around for over a century. It's a simple yet refreshing drink that's perfect for any occasion.
 date: 2025-08-31
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-31
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-08-31
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

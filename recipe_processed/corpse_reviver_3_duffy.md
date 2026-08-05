@@ -6,7 +6,6 @@ creator: "The Official Mixer's Manual"
 categories: [champagne, cocktail]
 eras: [modern]
 permalink: "/recipe/corpse_reviver_3_duffy/"
-iconfile: corpse_reviver_3_duffy
 stars: 0
 base_spirits: ['Pastis', 'Champagne']
 youtube: "kBHi_atZsbM"
@@ -14,6 +13,8 @@ description: "This Corpse Reviver #3 as a simple highball featuring Pernod, lemo
 excerpt: |
   Patrick Gavin Duffy's 1956 edition of The Official Mixer's Manual describes the Corpse Reviver #3 as a simple highball featuring Pernod, lemon juice, and Champagne. Unlike other Corpse Reviver variations, this version emphasizes the anise flavor of Pernod and functions as a sparkling "pick-me-up" rather than a spirit-forward cocktail.
 date: 2025-12-17
+glass: highball
+ice: cubed
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-12-17
 - Garnish: None
 - Special Prep: Pour cocktail into glass and top it off with the champagne. Express lemon oil over the top.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -83,16 +83,11 @@ date: 2025-12-17
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

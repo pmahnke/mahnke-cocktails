@@ -8,22 +8,23 @@
         <p><strong><a href="{{ latest_recipe.url | relative_url }}">{{ latest_recipe.title }}</a></strong></p>
 
         {% if latest_recipe.stars > 0 %}
-        <p class="rating">{%- include home_stars.html page=page -%}</p>
+        <p class="rating">{%- include home_stars.html page=latest_recipe -%}</p>
         {% endif %}
 
         <p class="description">{{ latest_recipe.description }}</p>
     </div>
     <div>
+    
+    {%- comment -%} Pull the first base spirit's icon from your spirits collection {%- endcomment -%}
+    {%- if latest_recipe.base_spirits -%}
+        {%- assign first_spirit_name = latest_recipe.base_spirits.first | default: latest_recipe.base_spirits -%}
+        {%- assign s = site.spirit | where: "title", first_spirit_name | first -%}
+        {%- if s and s.icon_path -%}
+            <p class="icons">
+                <img src="{{ s.icon_path | relative_url }}" alt="{{ first_spirit_name }}" title="{{ first_spirit_name }}">
+            </p>
+        {%- endif -%}
+    {%- endif -%}
 
-    {% assign data_file = site.data[latest_recipe.iconfile] %}
-    {%- if data_file and data_file.images -%}
-    {% assign tool_icons = data_file.images.ingredient %}
-    {% if tool_icons.size > 0 %}
-        {% assign first_tool = tool_icons.first %}
-        <p class="icons">
-            <img src="{{ first_tool.url | relative_url }}" alt="{{ first_tool.title }}" title="{{ first_tool.title }}">
-        </p>
-    {%- endif -%}
-    {%- endif -%}
     </div>
 </div>

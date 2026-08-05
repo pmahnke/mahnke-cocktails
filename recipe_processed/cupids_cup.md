@@ -5,7 +5,6 @@ title: "Cupid’s Cup"
 categories: [amaro, sour]
 eras: [modern]
 permalink: "/recipe/cupids_cup/"
-iconfile: cupids_cup
 stars: 0
 base_spirits: ['Pisco', 'Aperol']
 youtube: "LINK"
@@ -13,6 +12,8 @@ description: "This is an easy pisco sour variation featuring pisco, Aperol, citr
 excerpt: |
   The Cupid's cup is a vibrant, refreshing cocktail that balances the punchy, floral notes of Pisco with the bittersweet, citrusy profile of Aperol. It’s a sophisticated twist on a sour, often recognized by its striking bright red or deep pink hue—perfect for Valentine’s Day or any romantic occasion.
 date: 2026-02-21
+garnishes: mint_sprig
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2026-02-21
 - Garnish: Mint leaf
 - Special Prep: Expressed lemon oil over the top of the cocktail. For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +78,11 @@ date: 2026-02-21
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Aunt Roberta"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/aunt_roberta/"
-iconfile: aunt_roberta
 stars: 0
 base_spirits: ['Vodka', 'Absinthe', 'London Dry Gin', 'Cognac', 'Crème de Mûre']
 youtube: "idnVFvygleU"
@@ -13,6 +12,9 @@ description: "Known as one of the strongest drinks in the world, the Aunt Robert
 excerpt: |
   The drink features a potent blend of absinthe, brandy, vodka, gin, and blackberry liqueur, creating a dark and herbal profile that hides its staggering strength. Rumored to have been created by the daughter of a slave-owner in late 19th-century Alabama, the recipe was allegedly crafted to be as unforgiving as the woman it was named after. Because it lacks any diluting ingredients or sweeteners, it is meant to be sipped with extreme caution and a healthy respect for its historical reputation.
 date: 2026-02-02
+glass: coupe
+garnishes: lemon_twist
+type: stirred
 ---
 
 <div class="subrecipe" markdown="1">
@@ -87,7 +89,6 @@ date: 2026-02-02
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -130,16 +131,11 @@ date: 2026-02-02
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Morning Glory Fizz"
 categories: [fizz]
 eras: [classic]
 permalink: "/recipe/morning_glory_fizz/"
-iconfile: morning_glory_fizz
 stars: 0
 base_spirits: ['Single Malt Scotch', 'Absinthe']
 youtube: "YMY0LtEq8mg"
@@ -13,6 +12,8 @@ description: 'A classic "hair of the dog" fizz traditionally considered a mornin
 excerpt: |
   This classic, sour and aromatic cocktail is traditionally considered a morning after a pick-me-up. Want to make the perfect Gin Fizz? It's all in the shake.
 date: 2025-12-09
+glass: highball
+type: shaken
 ---
 
 ### Ingredients
@@ -35,7 +36,6 @@ date: 2025-12-09
 - Garnish:
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg white. Add one ounce of soda water to the glass. Add the cocktail and expressed orange oil.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -80,16 +80,11 @@ date: 2025-12-09
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

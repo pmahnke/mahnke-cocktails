@@ -5,7 +5,6 @@ title: "In Cold Blood"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/in_cold_blood/"
-iconfile: in_cold_blood
 stars: 4.5
 base_spirits: ['Cynar', 'Rye', 'Sweet Vermouth']
 youtube: "GZITiAIYars"
@@ -13,6 +12,9 @@ description: "This is a sophisticated, bittersweet drink that combines the richn
 excerpt: |
   This riff on a Manhattan uses Cynar as the bittering agent in the place of aromatic bitters. It has notes of chocolate and vanilla, and the rich, spiciness of rye whiskey. Named for the Truman Capote book, Andrew Volk invented this cocktail circa 2016 at the Portland Hunt & Alpine Club in Maine. It is a riff on the [Boulevardier](/recipe/boulevardier/).
 date: 2026-05-05
+glass: rocks
+garnishes: lemon_twist
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2026-05-05
 - Garnish: Expressed lemon oil and a pinch of salt (optional)
 - Special Prep: Lemon Twist
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +83,16 @@ date: 2026-05-05
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

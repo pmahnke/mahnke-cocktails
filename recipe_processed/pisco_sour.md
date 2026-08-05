@@ -5,7 +5,6 @@ title: "Pisco Sour"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/pisco_sour/"
-iconfile: pisco_sour
 stars: 5
 base_spirits: ['Pisco']
 youtube: "FdAQ96mYwNQ"
@@ -13,6 +12,7 @@ description: "The national drink of both Peru and Chile, this is an earthy and r
 excerpt: |
   Featuring pisco, lime, egg white and sugar, the Pisco Sour is an earthy and refreshing drink. It’s also the national cocktail of Peru and Chile.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +34,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +77,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

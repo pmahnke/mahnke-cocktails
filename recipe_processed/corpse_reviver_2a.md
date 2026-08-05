@@ -5,7 +5,6 @@ title: "Corpse Reviver #2a"
 categories: [sour, daisy, corpse_reviver]
 eras: [modern]
 permalink: "/recipe/corpse_reviver_2a/"
-iconfile: corpse_reviver_2a
 stars: 4
 base_spirits: ['London Dry Gin', 'Swedish Punsch', 'Triple Sec']
 youtube: "rMCsrbidAJ4"
@@ -13,6 +12,8 @@ description: "A modern riff on the classic Corpse Reviver No. 2 that incorporate
 excerpt: |
   The Corpse Reviver No. 2a is a riff on the Corpse Reviver No. 2 cocktail that was originally consumed in the morning, but tastes delicious any time of the day.
 date: 2025-12-23
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-12-23
 - Garnish: Cocktail Cherry optional
 - Special Prep: Add the cherry to the glass before straining the cocktail
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

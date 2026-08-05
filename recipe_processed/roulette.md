@@ -5,7 +5,6 @@ title: "The Roulette"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/roulette/"
-iconfile: roulette
 stars: 0
 base_spirits: ['Apple Brandy', 'Barbados Rum', 'Swedish Punsch']
 youtube: "VXjcObds5DY"
@@ -13,6 +12,9 @@ description: "A distinctive mix of three spirits, combining apple brandy, white 
 excerpt: |
   The Roulette Cocktail, found in Harry Craddock's 1930 collection, is an uncommon and flavorful blend of apple brandy, White Rum, and Swedish Punsch liqueur. The original recipe calls for equal parts of the three main spirits, although modern adaptations may adjust these proportions to temper the sweetness. Calvados provides a strong apple core to the drink, which is complemented by the unique molasses and spice notes of the Swedish Punsch. The inclusion of White Rum adds body and a subtle layer of cane sweetness to the overall mixture. Typically shaken with ice and served straight up in a cocktail glass, the Roulette is a fascinating example of early 20th-century spirit combinations.
 date: 2025-10-13
+glass: rocks
+garnishes: orange_peel
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-10-13
 - Special Prep: Expressed orange oil 
 
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -83,16 +84,11 @@ date: 2025-10-13
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

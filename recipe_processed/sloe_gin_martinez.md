@@ -6,7 +6,6 @@ title: "Sloe Gin Martinez"
 categories: [amaro, martini]
 eras: [modern]
 permalink: "/recipe/sloe_gin_martinez/"
-iconfile: sloe_gin_martinez
 stars: 0
 base_spirits: ['Sloe Gin', 'Sweet Vermouth', 'Curaçao', 'Maraschino Liqueur', 'Campari']
 youtube: "Cy1skc0oI28"
@@ -14,6 +13,9 @@ description: "A brilliant modern reconstruction of the Classic Martinez, featuri
 excerpt: |
   The Sloe Gin Martinez is a brilliant reconstruction of the Classic Martinez. It was created by London Barman, Oskar Kinberg while he ran his own speakeasy style bar Oskar's Bar in the basement of the, now defunct, Michelin Star restaurant Dabbous.
 date: 2025-08-11
+glass: rocks
+garnishes: lemon_twist
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: Orange and lemon twist
 - Special Prep: Express orange and lemon oil over the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +78,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

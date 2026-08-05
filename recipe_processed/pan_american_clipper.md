@@ -5,7 +5,6 @@ title: "Pan American Clipper"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/pan_american_clipper/"
-iconfile: pan_american_clipper
 stars: 3.5
 base_spirits: ['Apple Brandy', 'Absinthe']
 youtube: "YwHw259XAOU"
@@ -13,6 +12,7 @@ description: "A bright-hued sour from the 1930s, this is a classic cocktail that
 excerpt: |
   Pan American Airways, “Pan Am” for short, was at one point the epitome of style for jet-setting travelers, so it’s no surprise that its eponymous cocktail is equally fabulous. A mixture of apple brandy, lime juice, grenadine, and absinthe, the bright-hued sour dates to 1939, when prolific cocktail writer and world traveler Charles H. Baker included the recipe in The Gentleman’s Companion. Baker had settled down in Coconut Grove, Florida, near Pan Am’s first international airport; in his seminal book, he wrote that the recipe came “from the notebook of one of our pilot friends who—when off duty—may seek one.”
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +32,6 @@ date: 2025-08-11
 - Garnish: Expressed lemon oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +73,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

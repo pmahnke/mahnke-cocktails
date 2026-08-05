@@ -5,7 +5,6 @@ title: "Sugar Cookie Nog"
 categories: [eggnog]
 eras: [anders]
 permalink: "/recipe/sugar_cookie_nog/"
-iconfile: sugar_cookie_nog
 stars: 0
 base_spirits: ['Irish Whiskey', 'Licor 43', 'Amaretto']
 youtube: "uElU6ue-Ke8"
@@ -13,6 +12,10 @@ description: "This is a version of an eggnog made to taste like a sugar cookie w
 excerpt: |
   This cocktail is Ander's take on the Candy Cane Martini and the Sugar Cookie Martini. It is his upscaled version of an eggnog that is actually good.
 date: 2025-12-27
+glass:
+  - whiskey
+  - coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -37,7 +40,6 @@ date: 2025-12-27
   - Expressed lemon oil
 
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -89,16 +91,11 @@ date: 2025-12-27
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

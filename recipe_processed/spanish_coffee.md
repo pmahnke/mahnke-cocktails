@@ -5,7 +5,6 @@ title: "Spanish Coffee"
 eras: [classic]
 categories: [after_dinner]
 permalink: "/recipe/spanish_coffee/"
-iconfile: spanish_coffee
 stars: 0
 base_spirits: ['Overproof Jamaican Rum', 'Coffee Liqueur', 'Curaçao']
 youtube: "p3X7_-TVIDs"
@@ -13,6 +12,7 @@ description: "A classic after-dinner drink, also known as a carajillo, made with
 excerpt: |
   Or 'carajillo', is a coffee drink enjoyed throughout many Spanish-speaking countries. It's made with booze — usually rum, brandy or Licor 43.
 date: 2025-08-11
+glass: coffee
 ---
 
 ### Ingredients
@@ -38,7 +38,6 @@ date: 2025-08-11
   - Add the remaining ingredients to the glass.
   - Top with lightly whipped heavy cream
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -104,16 +103,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

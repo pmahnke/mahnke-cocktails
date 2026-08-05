@@ -5,7 +5,6 @@ title: "Remember the Maine"
 eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/remember_the_maine/"
-iconfile: remember_the_maine
 stars: 3
 base_spirits: ['Rye', 'Sweet Vermouth', 'Cherry Heering', 'Absinthe']
 youtube: "I2_xijYpP_Y"
@@ -13,6 +12,9 @@ description: "A historic and complex Prohibition-era Manhattan variation that ad
 excerpt: |
   If you like a Rye Manhattan, you’ll love this historic variation that adds cherry liqueur and a bit of absinthe.
 date: 2025-08-11
+glass: martini
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +34,6 @@ date: 2025-08-11
 - Garnish: Expressed lemon oil & cocktail cherry
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +75,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

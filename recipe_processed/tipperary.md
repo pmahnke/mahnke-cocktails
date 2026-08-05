@@ -5,7 +5,6 @@ title: "Tipperary"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/tipperary/"
-iconfile: tipperary
 stars: 0
 base_spirits: ['Irish Whiskey', 'Sweet Vermouth', 'Green Chartreuse']
 youtube: "2zQBXxC7ma8"
@@ -13,6 +12,8 @@ description: "A modern favorite from The Dead Rabbit, this is a variation on the
 excerpt: |
   Love the Bijou? Try a Tipperary, a Dead Rabbit favorite made with Irish whiskey, without the Campari.
 date: 2025-08-11
+glass: whiskey
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: Lemon oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

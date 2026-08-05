@@ -6,7 +6,6 @@ title: "Just for Mary"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/just_for_mary/"
-iconfile: just_for_mary
 stars: 3
 base_spirits: ['Rye', 'Lillet Blanc', 'Cherry Liqueur']
 youtube: "MSQewg1LuOk"
@@ -15,6 +14,9 @@ excerpt: |
   Inspired by the Manhattan, the Just for Mary is a rye-forward, spirit-driven cocktail that uses Lillet Blanc and a quality cherry liqueur, such as Cherry Heering. The rye whiskey's spice is balanced by the complex herbal and botanical notes of the Lillet Blanc, while the cherry liqueur adds a rich, fruity sweetness. The resulting drink is a wonderfully layered and sophisticated alternative to the Manhattan, celebrated for its nuanced and rewarding flavor.
 
 date: 2025-09-08
+glass: coupe
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-09-08
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +77,16 @@ date: 2025-09-08
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

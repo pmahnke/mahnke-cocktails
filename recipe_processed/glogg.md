@@ -5,7 +5,6 @@ title: "Glögg"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/glogg/"
-iconfile: glogg
 stars: 0
 base_spirits: ['Red Wine', 'Ruby Port', 'Cognac']
 youtube: "2Xox9vdRGtM"
@@ -13,6 +12,9 @@ description: "A popular Scandinavian mulled wine, this is a comforting hot punch
 excerpt: |
   Glögg is a popular Scandinavian mulled wine made with red wine, port, spices, fruit and nuts. Make this comforting hot cocktail when the weather is cold to warm you up and lift your spirits.
 date: 2025-08-11
+garnishes:
+  - cinnamon
+  - orange_peel
 ---
 
 ### Ingredients
@@ -37,7 +39,6 @@ date: 2025-08-11
 - Garnish: Raisins from the pot
 - Special Prep: Heat the alcohol in a non-reactive pot, but do not boil. Add sugar and spices in a pouch. Simmer for20 minutes. Take off the heat and add raisins. Let rest for one hour. Remove spice bag and serve hot.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +85,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,12 +5,15 @@ title: "Blueberries For Sal"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/blueberries_for_sal/"
-iconfile: blueberries_for_sal
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A refreshing non-alcoholic drink combining the fruity sweetness of blueberries with the spice of ginger beer."
 excerpt: |
 date: 2025-08-11
+glass: highball
+garnishes: mint_sprig
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -38,7 +41,6 @@ date: 2025-08-11
   - Add ice
   - Top with the ginger beer.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -109,16 +111,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

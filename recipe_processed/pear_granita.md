@@ -4,7 +4,6 @@ author: Anders Erickson
 title: "Pear Granita"
 categories: [syrup]
 permalink: "/recipe/pear_granita/"
-iconfile: pear_granita
 stars: 0
 youtube: "ouRs57kDexU"
 excerpt: |
@@ -27,7 +26,6 @@ date: 2025-12-27
 - Use a fork to scrape the ice crystals from the edges into the center.
 - Repeat every 45 minutes until flaky (3-4 times).
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -49,16 +47,11 @@ date: 2025-12-27
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

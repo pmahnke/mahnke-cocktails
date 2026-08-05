@@ -5,7 +5,6 @@ title: "Brandy Slush"
 categories: [punch]
 eras: [modern]
 permalink: "/recipe/brandy_slush/"
-iconfile: brandy_slush
 stars: 0
 base_spirits: ['Brandy']
 youtube: "rQ59lgXm8Ho"
@@ -41,7 +40,6 @@ Orange slice for individual garnish
   - Once frozen, scoop desired amount into a glass and top with soda.
   - Garnish with a slice of orange.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -105,16 +103,11 @@ Orange slice for individual garnish
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "The Classic Old Fashioned (aka Spoon Cocktail)"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/spoon_cocktail/"
-iconfile: spoon_cocktail
 stars: 3
 base_spirits: ['Rye']
 youtube: "0rnil0_xFnM"
@@ -14,6 +13,9 @@ excerpt: |
   The first known definition of the word "cock-tail" was published 13th May 1806 in <i>The Balance and Columbian Repository</i>, an upstate New York newspaper, in response to a reader enquiring what was meant by the word in an article.
   <blockquote><p>Cock-tail, then, is a stimulating liquor, composed of spirits of any kind, sugar, water, and bitters--it is vulgarly called a bittered sling, and is supposed to be an excellent electioneering potion, in as much as it renders the heart flout and bold, at the same time that it fuddles the head. It is said also, to be of great use to a democratic candidate: because, a person having swallowed a glass of it, is ready to swallow anything else.</p><cite>Editor, The Balance and Columbian Repository, 13 May 1806</cite></blockquote>
 date: 2026-03-24
+glass:
+  - whiskey
+  - rocks
 ---
 
 ### Ingredients
@@ -39,7 +41,6 @@ date: 2026-03-24
   1. Add the rye whiskey amd ice and stir. 
   1. Expressed lemon oil over the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -105,16 +106,16 @@ date: 2026-03-24
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

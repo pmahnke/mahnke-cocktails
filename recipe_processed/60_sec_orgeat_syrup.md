@@ -3,7 +3,6 @@ layout: recipe
 title: "60 Second Orgeat Syrup"
 categories: [syrup]
 permalink: "/recipe/60_sec_orgeat_syrup/"
-iconfile: 60_sec_orgeat_syrup
 stars: 4
 youtube: "GtU8XnqCD4s"
 excerpt: |
@@ -27,7 +26,6 @@ date: 2025-12-23
 1. Add all ingredients to a blender.
 1. Blend until the sugar is dissolved.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -52,16 +50,16 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

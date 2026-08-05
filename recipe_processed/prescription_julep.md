@@ -5,7 +5,6 @@ title: "Prescription Julep"
 categories: [julep]
 eras: [classic]
 permalink: "/recipe/prescription_julep/"
-iconfile: prescription_julep
 stars: 4
 base_spirits: ['Cognac', 'Rye']
 youtube: "xfLW5Na9QpM"
@@ -13,6 +12,10 @@ description: "A classic and complex julep from the mid-1800s that combines both 
 excerpt: |
   The Prescription Julep is a classic cocktail that dates back to the mid-1800s. It's a refreshing and complex drink that combines the flavors of rye whiskey, cognac, mint, and sugar.
 date: 2025-08-11
+glass: julep_cup
+garnishes: mint_sprig
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +37,6 @@ date: 2025-08-11
 - Garnish: Mint Sprig
 - Special Prep: Add mint leaves directly to the shaking tin. Then build the cocktail. Top with additional crushed ice.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +86,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

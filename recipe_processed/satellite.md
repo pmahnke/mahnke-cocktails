@@ -5,7 +5,6 @@ title: "The Satellite"
 categories: [sour]
 eras: [anders]
 permalink: "/recipe/satellite/"
-iconfile: satellite
 stars: 0
 base_spirits: ['London Dry Gin']
 youtube: "CGkWnYhu4ag"
@@ -13,6 +12,10 @@ description: "This is an Anders original which uses gin as its base, and is flav
 excerpt: |
   An original creation from Anders Erickson, that puts a fresh spin on the tiki-era Saturn. He trades the heavy almond and passion fruit notes for the spiced-lime sweetness of falernum and a hint of fruity grenadine. A delicate kiss of soda lifts the entire concoction, creating a lighter, brighter orbit of flavors.
 date: 2025-10-26
+glass: rocks
+garnishes: maraschino_cherry
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +39,6 @@ date: 2025-10-26
 - Garnish: Cherry and lemon peel made to look like a satellite with a dish
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -88,16 +90,11 @@ date: 2025-10-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

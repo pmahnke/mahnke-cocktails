@@ -5,7 +5,6 @@ title: "The Widow's Kiss"
 eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/widows_kiss/"
-iconfile: widows_kiss
 stars: 4.5
 base_spirits: ['Apple Brandy', 'Yellow Chartreuse', 'Bénédictine']
 youtube: "0JqyWyBiFus"
@@ -13,6 +12,11 @@ description: "A potent and herbaceous classic cocktail that features a unique bl
 excerpt: |
   A simple, and very potent, classic cocktail with apple brandy, yellow Chartreuse and Benedictine.
 date: 2025-11-26
+glass: coupe
+garnishes: maraschino_cherry
+type:
+  - shaken
+  - stirred
 ---
 
 <div class="subrecipe" markdown="1">
@@ -82,7 +86,6 @@ date: 2025-11-26
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -124,16 +127,16 @@ date: 2025-11-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

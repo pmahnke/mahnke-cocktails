@@ -5,99 +5,165 @@
 glasses:
   coupe:
     name: Coupe Glass
-    icon: /assets/icons/glass_coupe.svg
+    icon: /assets/images/glass_coupe.svg
   collins:
     name: Collins Glass
-    icon: /assets/icons/glass_collins.svg
+    icon: /assets/images/glass_collins.svg
   highball:
     name: Highball Glass
-    icon: /assets/icons/glass_highball.svg
+    icon: /assets/images/glass_highball.svg
   martini:
     name: Martini Glass
-    icon: /assets/icons/glass_martini.svg
+    icon: /assets/images/glass_martini.svg
   rocks:
     name: Rocks Glass
-    icon: /assets/icons/glass_rocks.svg
+    icon: /assets/images/glass_rocks.svg
   tiki:
     name: Tiki Mug
-    icon: /assets/icons/glass_tiki.svg
+    icon: /assets/images/glass_tiki.svg
   hurricane:
     name: Hurricane Glass
-    icon: /assets/icons/glass_hurricane.svg
+    icon: /assets/images/glass_hurricane.svg
   flute:
     name: Champagne Flute
-    icon: /assets/icons/glass_flute.svg
+    icon: /assets/images/glass_flute.svg
+  cobbler:
+    name: Cobbler Shaker Glass
+    icon: /assets/images/glass_cobbler.svg
+  coffee:
+    name: Coffee Glass
+    icon: /assets/images/glass_coffee.svg
+  copper_mug:
+    name: Copper Mug
+    icon: /assets/images/glass_copper-mug.svg
+  cordial:
+    name: Cordial Glass
+    icon: /assets/images/glass_cordial.svg
+  double_old_fashioned:
+    name: Double Old Fashioned Glass
+    icon: /assets/images/glass_double-old-fashioned.svg
+  gin_balloon:
+    name: Gin Balloon Glass
+    icon: /assets/images/glass_gin-balloon.svg
+  goblet:
+    name: Goblet
+    icon: /assets/images/glass_goblet.svg
+  julep_cup:
+    name: Julep Cup
+    icon: /assets/images/glass_julep-cup.svg
+  margarita:
+    name: Margarita Glass
+    icon: /assets/images/glass_margarita.svg
+  nick_and_nora:
+    name: Nick and Nora Glass
+    icon: /assets/images/glass_nick-and-nora.svg
+  old_fashioned:
+    name: Old Fashioned Glass
+    icon: /assets/images/glass_old-fashioned.svg
+  pint:
+    name: Pint Glass
+    icon: /assets/images/glass_pint.svg
+  sling:
+    name: Sling Glass
+    icon: /assets/images/glass_sling.svg
+  snifter:
+    name: Snifter
+    icon: /assets/images/glass_snifter.svg
+  sour:
+    name: Sour Glass
+    icon: /assets/images/glass_sour.svg
+  whiskey:
+    name: Whiskey Glass
+    icon: /assets/images/glass_whiskey.svg
 
 garnishes:
   lime_wedge:
     name: Lime Wedge
-    icon: /assets/icons/garnish_lime_wedge.svg
+    icon: /assets/images/slice_lime.svg
   lime_wheel:
     name: Lime Wheel
-    icon: /assets/icons/garnish_lime_wheel.svg
+    icon: /assets/images/slice_lime.svg
+  green_apple_slice:
+    name: Green Apple Slice
+    icon: /assets/images/slice_green_apple.svg
+  pineapple_slice:
+    name: Pineapple Slice
+    icon: /assets/images/slice_pineapple.svg
   lemon_twist:
     name: Lemon Twist
-    icon: /assets/icons/garnish_lemon_twist.svg
-  maraschino_cherry:
-    name: Maraschino Cherry
-    icon: /assets/icons/garnish_cherry.svg
-  mint_sprig:
-    name: Mint Sprig
-    icon: /assets/icons/garnish_mint.svg
+    icon: /assets/images/fruit_lemon.svg
   orange_peel:
     name: Orange Peel
-    icon: /assets/icons/garnish_orange_peel.svg
+    icon: /assets/images/fruit-orange.svg
+  orange_twist:
+    name: Orange Twist
+    icon: /assets/images/fruit-orange.svg
+  maraschino_cherry:
+    name: Maraschino Cherry
+    icon: /assets/images/twist_cocktail-cherry.svg
+  mint_sprig:
+    name: Mint Sprig
+    icon: /assets/images/herb_mint.svg
+  thyme:
+    name: Thyme Sprig
+    icon: /assets/images/herb_thyme.svg
+  blackberries:
+    name: Blackberries
+    icon: /assets/images/fruit_blackberries.svg
+  raspberries:
+    name: Raspberries
+    icon: /assets/images/fruit_raspberries.svg
+  strawberry:
+    name: Strawberry
+    icon: /assets/images/fruit_strawberry.svg
   olive:
     name: Olive
-    icon: /assets/icons/garnish_olive.svg
+    icon: /assets/images/fruit_olives.svg
   pineapple_wedge:
     name: Pineapple Wedge
-    icon: /assets/icons/garnish_pineapple.svg
+    icon: /assets/images/slice_pineapple.svg
+  anise:
+    name: Star Anise
+    icon: /assets/images/spice_anise.svg
+  cinnamon:
+    name: Cinnamon Stick
+    icon: /assets/images/spice_cinnamon.svg
+  coffee_beans:
+    name: Coffee Beans
+    icon: /assets/images/spice_coffee.svg
 
 tools:
-  boston_shaker:
-    name: Boston Shaker
-    icon: /assets/icons/tool_shaker.svg
-  mixing_glass:
-    name: Mixing Glass
-    icon: /assets/icons/tool_mixing_glass.svg
-  hawthorne_strainer:
-    name: Hawthorne Strainer
-    icon: /assets/icons/tool_strainer.svg
   muddler:
     name: Muddler
-    icon: /assets/icons/tool_muddler.svg
+    icon: /assets/images/tool_muddler.svg
   bar_spoon:
     name: Bar Spoon
-    icon: /assets/icons/tool_bar_spoon.svg
+    icon: /assets/images/tool_bar_spoon.svg
   jigger:
     name: Jigger
-    icon: /assets/icons/tool_jigger.svg
+    icon: /assets/images/tool_jigger.svg
+  squeezer:
+    name: Juice squeezer
+    icon: /assets/images/tool_squeezer.svg
 
 ice:
   crushed:
     name: Crushed Ice
-    icon: /assets/icons/ice_crushed.svg
+    icon: /assets/images/ice_crushed.svg
   cubed:
     name: Cubed Ice
-    icon: /assets/icons/ice_cubed.svg
+    icon: /assets/images/ice_cubes.svg
   large_cube:
     name: Large Cube
-    icon: /assets/icons/ice_large_cube.svg
+    icon: /assets/images/ice_large.svg
   pebble:
     name: Pebble Ice
-    icon: /assets/icons/ice_pebble.svg
+    icon: /assets/images/ice_pebble.svg
 
 types:
   shaken:
     name: Shaken
-    icon: /assets/icons/type_shaken.svg
+    icon: /assets/images/tool_double_strain.svg
   stirred:
     name: Stirred
-    icon: /assets/icons/type_stirred.svg
-  built:
-    name: Built in Glass
-    icon: /assets/icons/type_built.svg
-  blended:
-    name: Blended
-    icon: /assets/icons/type_blended.svg
+    icon: /assets/images/tool_stirred.svg

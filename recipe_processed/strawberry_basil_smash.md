@@ -5,7 +5,6 @@ author: "Anders Erickson"
 eras: [classic]
 categories: [smash]
 permalink: "/recipe/strawberry_basil_smash/"
-iconfile: strawberry_basil_smash
 stars: 0
 base_spirits: ['Jamaican Rum']
 youtube: "3i4QnRLlPFc"
@@ -13,6 +12,8 @@ description: "A refreshing classic smash that combines the sweetness of fresh st
 excerpt: |
   The Strawberry Basil Smash is a refreshing cocktail that combines the sweetness of strawberries with the herbaceousness of basil.
 date: 2025-08-11
+garnishes: strawberry
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: Strawberry slices & basil sprig
 - Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, strawberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

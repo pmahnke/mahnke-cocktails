@@ -5,7 +5,6 @@ title: "Millionaire Cocktail #1"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/millionaire_cocktail/"
-iconfile: millionaire_cocktail
 stars: 4
 base_spirits: ['Jamaican Rum', 'Sloe Gin', 'Apricot Liqueur']
 youtube: "CZ5KSKO3sbQ"
@@ -18,6 +17,9 @@ excerpt: |
   <br>- 2/3 Dry gin
   <br>- Shake well and strain into cocktail glass.
 date: 2025-11-29
+glass: coupe
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -38,7 +40,6 @@ date: 2025-11-29
 - Garnish: Lime wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -81,16 +82,16 @@ date: 2025-11-29
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

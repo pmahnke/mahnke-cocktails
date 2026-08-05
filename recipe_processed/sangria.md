@@ -5,7 +5,6 @@ title: "Sangria"
 eras: [classic]
 categories: [punch]
 permalink: "/recipe/sangria/"
-iconfile: sangria
 stars: 4.5
 base_spirits: ['Red Wine', 'Oloroso Sherry', 'Curaçao']
 youtube: "NNI--bxevNo"
@@ -13,6 +12,8 @@ description: "A classic and festive Spanish punch, traditionally consisting of r
 excerpt: |
   A punch, sangria traditionally consists of red wine and chopped fruit, often with other ingredients or spirits.
 date: 2025-10-31
+glass: highball
+ice: cubed
 ---
 
 ### Ingredients
@@ -39,7 +40,6 @@ date: 2025-10-31
 - Garnish: Soaked fruit
 - Special Prep: Top glasses with soda water
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -94,16 +94,16 @@ date: 2025-10-31
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

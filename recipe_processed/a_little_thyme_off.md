@@ -5,13 +5,16 @@ categories: [mocktail]
 eras: [anders]
 title: "A Little Thyme Off"
 permalink: "/recipe/a_little_thyme_off/"
-iconfile: a_little_thyme_off
 stars: 0
 youtube: "ZE3G8aUyOn0"
 description: "A refreshing and herbaceous non-alcoholic cocktail featuring a thyme-infused simple syrup balanced with lemon and ginger beer."
 excerpt: |
   The A Little Thyme Off cocktail is a refreshing and herbaceous drink that uses a thyme-infused simple syrup as its key ingredient. The syrup adds a subtle, savory flavor to the cocktail, which is then balanced by the tartness of lemon juice and the effervescence of ginger beer.
 date: 2025-08-11
+glass: highball
+garnishes: thyme
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +35,6 @@ date: 2025-08-11
 - Garnish: Thyme sprigs & lemon wheel
 - Special Prep: Add the lemon juice and thyme-infused simple syrup to the shaker tin with ice. Give it a quick shake and double strain into the glass. Add ice. Fill remainder of the glass with ginger beer.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -81,16 +83,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

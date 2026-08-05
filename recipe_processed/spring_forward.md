@@ -5,7 +5,6 @@ title: "Spring Forward"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/spring_forward/"
-iconfile: spring_forward
 stars: 0
 base_spirits: ['Pisco', 'Plymouth Gin', 'Cocchi Americano']
 youtube: "RRvfkkSjceM"
@@ -13,6 +12,10 @@ description: "A light and refreshing original cocktail perfect for warmer months
 excerpt: |
   The Spring Forward cocktail is a light and refreshing drink that's perfect for the warmer months.
 date: 2025-08-11
+glass: highball
+garnishes: strawberry
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +39,6 @@ date: 2025-08-11
 - Garnish: Basil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -88,16 +90,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

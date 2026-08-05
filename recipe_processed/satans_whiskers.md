@@ -5,7 +5,6 @@ title: "Satan's Whiskers"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/satans_whiskers/"
-iconfile: satans_whiskers
 stars: 0
 base_spirits: ['Plymouth Gin', 'Dry Vermouth', 'Sweet Vermouth', 'Curaçao']
 youtube: "T3GsJVVGCFs"
@@ -13,6 +12,8 @@ description: "A classic Prohibition-era cocktail with a devilishly delicious fla
 excerpt: |
   The Satan's Whiskers cocktail is a classic Prohibition-era drink with a devilishly delicious flavor profile.
 date: 2025-08-11
+garnishes: orange_twist
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-08-11
 - Garnish: Orange Twist
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +78,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

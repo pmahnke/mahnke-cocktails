@@ -6,7 +6,6 @@ title: "Blackthorn"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/blackthorn/"
-iconfile: blackthorn
 stars: 4
 base_spirits: ['Sloe Gin', 'Sweet Vermouth', 'Blanc Vermouth']
 youtube: "Wqy0LuuERco"
@@ -14,6 +13,8 @@ description: "There are numerous blackthorn recipes, but they fall into two camp
 excerpt: |
   There are numerous blackthorn recipes, but they fall into two camps: one based on Irish whisky with vermouth and absinthe and the other with sloe gin and vermouth. This is the sloe gin version.
 date: 2026-03-02
+glass: martini
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2026-03-02
 - Garnish: Lemon peel
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +77,16 @@ date: 2026-03-02
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

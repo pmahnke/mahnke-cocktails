@@ -3,7 +3,6 @@ layout: recipe
 title: "Grog Concentrate Syrup"
 categories: [syrup]
 permalink: "/recipe/grog_concentrate_syrup/"
-iconfile: grog_concentrate_syrup
 stars: 0
 youtube: "I3jeItKyZCs"
 description: "A non-alcoholic, spiced syrup primarily used in Tiki cocktails."
@@ -29,7 +28,6 @@ date: 2025-08-20
 1. After 15 minutes, remove from heat.
 1. Refrigerate.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -51,16 +49,11 @@ date: 2025-08-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Tradewinds"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/tradewinds/"
-iconfile: tradewinds
 stars: 0
 base_spirits: ['Dark Rum', 'Gold Rum', 'Apricot Liqueur']
 youtube: "RThEGH0sbgM"
@@ -13,6 +12,7 @@ description: "A classic tiki cocktail that blends the tropical flavors of rum, a
 excerpt: |
   The Tradewinds is a classic tiki cocktail that blends the flavors of rum, apricot, coconut, and citrus.
 date: 2025-08-11
+ice: crushed
 ---
 
 ### Ingredients
@@ -35,7 +35,6 @@ date: 2025-08-11
 - Garnish: Grated Nutmeg, Pineapple Fronds and a Cocktail Umbrella
 - Special Prep: Stir the drink heavily in the glass.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +85,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -6,7 +6,6 @@ title: "Angostura Colada"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/angostura_colada/"
-iconfile: angostura_colada
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters', 'Jamaican Rum']
 youtube: "-DnpmdGBmgs"
@@ -14,6 +13,9 @@ description: "A modern tiki creation that puts Angostura bitters center stage as
 excerpt: |
   Adapted from a recipe created 2nd October 2013 by New York bartender Zac Overman while experimenting at home. His Trinidad Colada a.k.a. Angostura Colada debuted at the Sunken Harbor Club in Brooklyn when it opened on 23 January 2014.
 date: 2025-08-11
+glass: snifter
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +38,6 @@ date: 2025-08-11
 - Garnish: Grated Nutmeg, Pineapple Fronds, and Pineapple Slices
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -87,16 +88,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

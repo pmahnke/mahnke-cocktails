@@ -5,7 +5,6 @@ title: "Pear Champagne Granita"
 categories: [champagne]
 eras: [anders]
 permalink: "/recipe/pear_champagne_granita/"
-iconfile: pear_champagne_granita
 stars: 0
 base_spirits: ['Champagne', 'Pear Liqueur']
 youtube: "ouRs57kDexU"
@@ -13,6 +12,7 @@ description: "This drink mixes champagne with a pear granita for a refreshing, n
 excerpt: |
   The Pear Champagne Granita is a sophisticated, icy dessert that blends the delicate, floral sweetness of pears with the crisp, effervescent bite of sparkling wine. It features a signature "shaggy" texture—achieved by periodically scraping the freezing mixture with a fork—which creates a light and airy shaved-ice consistency that melts instantly on the tongue.
 date: 2025-12-27
+glass: coupe
 ---
 
 ### Ingredients
@@ -30,7 +30,6 @@ date: 2025-12-27
 - Garnish: Pear slice
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -70,16 +69,11 @@ date: 2025-12-27
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

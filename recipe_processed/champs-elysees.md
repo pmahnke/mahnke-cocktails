@@ -5,7 +5,6 @@ title: "Champs-Élysées"
 categories: [daisy, sour]
 eras: [prohibition]
 permalink: "/recipe/champs-elysees/"
-iconfile: champs-elysees
 stars: 3.5
 base_spirits: ['Cognac', 'Green Chartreuse']
 youtube: "https://www.liquor.com/champs-elysees-cocktail-recipe-8558284"
@@ -13,6 +12,8 @@ description: "This is a classic cocktail that consists of cognac, Green Chartreu
 excerpt: |
   The cocktail was first popularized in Europe, as the United States was still in the midst of Prohibition. The drink began to appear in cocktail books around 1925, when it was featured in Drinks—Long and Short by Nina Toye & A. H. Adair. In 1930, its profile grew further when it was included in Harry Craddock’s The Savoy Cocktail Book, which dialed up the recipe to punch proportions, meant to serve six.
 date: 2026-04-24
+garnishes: lemon_twist
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2026-04-24
 - Garnish: Garnish with a lemon twist
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2026-04-24
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

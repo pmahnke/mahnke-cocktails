@@ -5,13 +5,14 @@ categories: [mocktail]
 eras: [prohibition]
 title: "Pink Pearl"
 permalink: "/recipe/pink_pearl/"
-iconfile: pink_pearl
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A classic non-alcoholic cocktail from 1937 with a big, refreshing hit of grapefruit."
 excerpt: |
   A classic 1937 Cafe Royal mocktail with a big hit of grapefruit.
 date: 2025-08-11
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
   - Expressed grapefruit oil.
   - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -83,16 +83,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

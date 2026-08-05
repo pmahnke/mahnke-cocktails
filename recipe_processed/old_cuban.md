@@ -5,7 +5,6 @@ title: "Old Cuban"
 categories: [spritz]
 eras: [modern]
 permalink: "/recipe/old_cuban/"
-iconfile: old_cuban
 stars: 0
 base_spirits: ['Champagne', 'Gold Rum']
 youtube: "IAaiRENeyvc&t=639s"
@@ -13,6 +12,9 @@ description: "A modern classic from legendary bartender Audrey Saunders, this dr
 excerpt: |
   It’s not quite a Mojito, not quite a French 75. This is the Old Cuban, a modern-classic cocktail from New York bartending legend Audrey Saunders.
 date: 2025-08-11
+glass: coupe
+garnishes: mint_sprig
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: Mint leaf
 - Special Prep: Add mint leaves to the shaking tin and add other ingredients minus the champagne. Pour cocktail into glass and top it off with champagne.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +79,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Pimm's Cup"
 categories: [highball]
 eras: [classic]
 permalink: "/recipe/pimms_cup/"
-iconfile: pimms_cup
 stars: 0
 base_spirits: ['Pimms']
 youtube: "CGq0rFP_Jl0"
@@ -13,6 +12,10 @@ description: "A classic and quintessentially British highball, this is a refresh
 excerpt: |
   The Pimm’s Cup is a classic cocktail featuring Pimm’s No. 1, a gin-based liqueur. Mix it with lemon and ginger ale for ultimate refreshment.
 date: 2025-08-11
+glass: highball
+garnishes: mint_sprig
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +36,6 @@ date: 2025-08-11
 - Garnish: Cucumber strip cut up, strawberries, and a sprig of mint
 - Special Prep: Pour ginger ale and shaken Pimm's and lemon mixture into glass together.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +84,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ author: "Anders Erickson"
 categories: [collins]
 eras: [classic]
 permalink: "/recipe/tom_collins/"
-iconfile: tom_collins
 stars: 4
 base_spirits: ['Old Tom Gin']
 youtube: "DKkHTEozo7o"
@@ -13,6 +12,10 @@ description: "A classic and straightforwardly refreshing Collins cocktail that c
 excerpt: |
   The classic Tom Collins is a straightforward and refreshing cocktail that combines gin with lemon juice, sugar and club soda.
 date: 2025-08-11
+glass: highball
+garnishes: maraschino_cherry
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +37,6 @@ date: 2025-08-11
 - Garnish: Lemon wheel and cocktail cherry
 - Special Prep: Add cocktail to the glass with ice and top with soda water.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +86,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

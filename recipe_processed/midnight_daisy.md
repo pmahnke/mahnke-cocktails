@@ -5,7 +5,6 @@ title: "Midnight Daisy"
 categories: [daisy]
 eras: [anders]
 permalink: "/recipe/midnight_daisy/"
-iconfile: midnight_daisy
 stars: 0
 base_spirits: ['Bourbon', 'Bénédictine']
 youtube: "LaqklLOgeCY"
@@ -13,6 +12,8 @@ description: "The double oaked bourbon and the rich sweetness of the Bénédicti
 excerpt: |
   This is an Anders original cocktail. The double oaked bourbon and the rich sweetness of the Bénédictine add a light take on fall flavors.
 date: 2025-10-26
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-10-26
 - Garnish: Dehydrated lemon wheel (or lime wheel)
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,11 @@ date: 2025-10-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

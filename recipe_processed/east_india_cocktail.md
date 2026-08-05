@@ -5,7 +5,6 @@ title: "East India Cocktail"
 eras: [classic]
 categories: [sour]
 permalink: "/recipe/east_india_cocktail/"
-iconfile: east_india_cocktail
 stars: 4
 base_spirits: ['Cognac', 'Maraschino Liqueur']
 youtube: "wiDoRYL4V9g"
@@ -13,6 +12,9 @@ description: "A classic sour from the 1880s that features cognac, pineapple, and
 excerpt: |
   The East India cocktail was first published in Harry Johnson's New and Improved Bartenders Manual in 1882. It was named after the World's first huge company The Dutch East India Company. It's ingredients indicative of what that company would have been importing at the time.
 date: 2025-08-11
+glass: coupe
+garnishes: lemon_twist
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2025-08-11
 - Garnish: Lemon Twist
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +77,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

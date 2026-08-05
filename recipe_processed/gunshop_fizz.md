@@ -5,7 +5,6 @@ title: "Gunshop Fizz"
 categories: [fizz]
 eras: [new_orleans]
 permalink: "/recipe/gunshop_fizz/"
-iconfile: gunshop_fizz
 stars: 0
 base_spirits: ['Peychauds Bitters']
 youtube: "NYKEbNf5ksg"
@@ -13,6 +12,10 @@ description: "A unique and modern fizz that boldly uses two full ounces of Peych
 excerpt: |
   Markz Pazuniak and Kirk Estopinal's wholly unique take on a Pimm's Cup cocktail recipe calls for two full ounces of Peychaud's bitters.
 date: 2025-08-11
+glass: highball
+garnishes: strawberry
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -38,7 +41,6 @@ date: 2025-08-11
 - Garnish: One whole strawberry and a cucumber wheel.
 - Special Prep: Muddle the whole strawberries, cucumber slices and orange and grapefruit swaths in the cheater tin till they are broken up. Add the remaining ingredients, and shake. Double strain into glass, top the drink with the red soda and garnish with a strawberry and a cucumber wheel.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -92,16 +94,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

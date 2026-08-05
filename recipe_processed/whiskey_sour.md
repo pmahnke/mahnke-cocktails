@@ -5,7 +5,6 @@ author: "Anders Erickson"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/whiskey_sour/"
-iconfile: whiskey_sour
 stars: 4.75
 base_spirits: ['Bourbon']
 youtube: "bxTRtiS06W0&t=51s"
@@ -13,6 +12,7 @@ description: "A timeless classic and cornerstone of drink-making, this sour perf
 excerpt: |
   The classic Whiskey Sour is the most famous representation of one of the worlds most popular types of cocktail. Easy to commit to memory, its simple go-to sour to add to your arsenal, and a cornerstone of drink-making that everyone should know.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +32,6 @@ date: 2025-08-11
 - Garnish:3 drops Angostura Aromatic Bitters, Lemon Oil
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +73,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.75",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

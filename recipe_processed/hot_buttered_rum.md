@@ -5,7 +5,6 @@ title: "Hot Buttered Rum"
 categories: [toddy]
 eras: [classic]
 permalink: "/recipe/hot_buttered_rum/"
-iconfile: hot_buttered_rum
 stars: 0
 base_spirits: ['Dark Rum']
 youtube: "mBGgu3qRztY"
@@ -13,6 +12,7 @@ description: "A classic hot toddy perfect for winter, featuring a rich, spiced b
 excerpt: |
   The Hot Buttered Rum cocktail is a classic hot drink that will warm your soul during the cold winter.
 date: 2025-08-11
+garnishes: cinnamon
 ---
 
 ### Ingredients
@@ -36,7 +36,6 @@ date: 2025-08-11
 - Garnish: Cinnamon stick
 - Special Prep: Temper your mug with hot water.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +81,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

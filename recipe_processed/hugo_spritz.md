@@ -5,7 +5,6 @@ title: "Hugo Spritz"
 categories: [spritz]
 eras: [modern]
 permalink: "/recipe/hugo_spritz/"
-iconfile: hugo_spritz
 stars: 2.75
 base_spirits: ['Elderflower Liqueur', 'Champagne']
 youtube: "BUb54paVf0s"
@@ -13,6 +12,10 @@ description: "A refreshing and floral modern spritz from Italy, combining elderf
 excerpt: |
   The Hugo Spritz is a refreshing and easy-to-make cocktail that originated in South Tyrol, Italy. It's a light and floral drink, perfect for sipping on a warm day.
 date: 2025-10-20
+garnishes:
+  - lime_wheel
+  - mint_sprig
+ice: cubed
 ---
 
 ### Ingredients
@@ -35,7 +38,6 @@ date: 2025-10-20
 - Special Prep: Add the mint and elderflower liqueur to the glass and muddle. Allow to sit
   for a minute before adding the prosecco and soda water.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -89,16 +91,16 @@ date: 2025-10-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "2.75",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

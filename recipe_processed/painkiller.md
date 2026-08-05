@@ -5,7 +5,6 @@ title: "Painkiller (Inspired)"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/painkiller/"
-iconfile: painkiller
 stars: 4
 base_spirits: ['Demerara Rum', 'Jamaican Rum']
 youtube: "XYfHK3goJLk"
@@ -13,6 +12,9 @@ description: "A rich and fruity modern tropical tiki drink from the British Virg
 excerpt: |
   The Painkiller is a rich and fruity tropical drink that is a specialty of the British Virgin Islands. A relative of the Piña Colada, there are a few key differences you need to know in order to make this drink right.
 date: 2025-08-11
+glass: rocks
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2025-08-11
 - Garnish: Grated nutmeg
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +77,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

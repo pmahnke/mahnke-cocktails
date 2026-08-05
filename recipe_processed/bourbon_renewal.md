@@ -6,7 +6,6 @@ title: "Bourbon Renewal"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/bourbon_renewal/"
-iconfile: bourbon_renewal
 stars: 0
 base_spirits: ['Bourbon', 'Crème de Cassis']
 youtube: "8WVlMjEGma4"
@@ -14,6 +13,8 @@ description: "A modern classic sour that pairs the sweetness of bourbon with the
 excerpt: |
   The Bourbon Renewal is a refreshing and balanced cocktail that is perfect for any occasion. It is also a great way to showcase your favorite bourbon.
 date: 2025-10-16
+glass: rocks
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +37,6 @@ date: 2025-10-16
 - Garnish: Lemon wheel for garnish
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -87,16 +87,11 @@ date: 2025-10-16
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

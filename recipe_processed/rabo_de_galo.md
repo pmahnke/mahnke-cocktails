@@ -5,7 +5,6 @@ title: "Rabo de Galo"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/rabo_de_galo/"
-iconfile: rabo_de_galo
 stars: 0
 base_spirits: ['Cachaça', 'Sweet Vermouth', 'Cynar']
 youtube: "YFqEvNdPrX8"
@@ -13,6 +12,9 @@ description: "A classic and simple Brazilian cocktail known for its bold flavors
 excerpt: |
   The Rabo de Galo is a classic Brazilian cocktail known for its simplicity and bold flavors.
 date: 2025-08-11
+glass: rocks
+ice: cubed
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2025-08-11
 - Garnish: Expressed Lime Oil And Lime Peel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +83,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

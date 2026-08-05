@@ -5,7 +5,6 @@ title: "Manhattan"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/manhattan/"
-iconfile: manhattan
 stars: 4.5
 base_spirits: ['Rye', 'Sweet Vermouth']
 youtube: "eWESf1b317Y&t=278s"
@@ -14,6 +13,9 @@ description: "A timeless and sophisticated classic from the 1800s, perfectly bal
 excerpt: |
   The Manhattan, a classic cocktail, believed to have started around the 1860s or 1870s, with a rich history, is a sophisticated and timeless drink that has captivated cocktail enthusiasts for generations.
 date: 2025-08-11
+glass: martini
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +34,6 @@ date: 2025-08-11
 - Garnish: Cocktail Cherry
 - Special Prep: Sugared Rim
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -73,16 +74,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

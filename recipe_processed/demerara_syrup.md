@@ -3,7 +3,6 @@ layout: recipe
 title: "Rich Demerara Syrup"
 categories: [syrup]
 permalink: "/recipe/demerara_syrup/"
-iconfile: demerara_syrup
 stars: 4.5
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
@@ -24,7 +23,6 @@ date: 2025-07-07
 2. Stir over heat until sugar is completely dissolved.
 3. Remove from heat and let cool.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -45,16 +43,16 @@ date: 2025-07-07
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

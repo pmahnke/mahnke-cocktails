@@ -5,7 +5,6 @@ title: "Old Fashioned"
 eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/old_fashioned/"
-iconfile: old_fashioned
 stars: 3.25
 base_spirits: ['Bourbon']
 youtube: "pdcrJ5V7YKM"
@@ -15,6 +14,10 @@ excerpt: |
 
   The Old Fashioned as we know it comes from an early mixed drink simply called the Whiskey Cocktail, thought to be popularized in the late 1700s when it was fashionable to add a few dashes of bitters to a glass of whiskey. The cocktail’s creation goes hand in hand with the proliferation of both whiskey and commercial bitters, an aromatic ingredient with medicinal origins that involved steeping herbs, barks, botanicals, and other plant extracts in spirits to create a curative that could be mixed with water or other ingredients, often to aid in digestion.
 date: 2025-10-20
+glass: rocks
+garnishes: maraschino_cherry
+ice: cubed
+type: stirred
 ---
 
 ### Ingredients
@@ -36,7 +39,6 @@ date: 2025-10-20
 - Garnish: Orange Zest and a Cocktail Cherry
 - Special Prep: On the rocks
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +88,16 @@ date: 2025-10-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.25",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Negroni"
 categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/negroni/"
-iconfile: negroni
 stars: 4
 base_spirits: ['London Dry Gin', 'Campari', 'Sweet Vermouth']
 youtube: "lgy6vEX_hQg"
@@ -13,6 +12,8 @@ description: "The iconic Italian aperitif, this is a classic and perfectly balan
 excerpt: |
   Composed of gin, sweet vermouth and Campari, the Negroni is the classic three-ingredient cocktail you should absolutely master.
 date: 2025-08-11
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Flamed Orange Rind
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +82,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

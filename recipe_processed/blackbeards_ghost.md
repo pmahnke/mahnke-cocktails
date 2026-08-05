@@ -5,7 +5,6 @@ title: "Blackbeard’s Ghost"
 categories: [tiki]
 eras: [anders]
 permalink: "/recipe/blackbeards_ghost/"
-iconfile: blackbeards_ghost
 stars: 0
 base_spirits: ['Gold Rum', 'Demerara Rum', 'Apricot Liqueur']
 youtube: "i67-17-CZCQ"
@@ -13,6 +12,10 @@ description: "An original tiki cocktail that features a blend of gold and demera
 excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
+glass: rocks
+garnishes: lime_wheel
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -39,7 +42,6 @@ date: 2025-08-11
 - Garnish: Dehydrated lime wheel and pineapple fronds for garnish
 - Special Prep: Top with crushed ice.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -94,16 +96,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

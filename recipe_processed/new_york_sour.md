@@ -5,7 +5,6 @@ title: "New York Sour"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/new_york_sour/"
-iconfile: new_york_sour
 stars: 4.5
 base_spirits: ['Bourbon', 'Red Wine']
 youtube: "D-hCgKtMIAQ"
@@ -13,6 +12,8 @@ description: "A classic and visually appealing whiskey sour variation that featu
 excerpt: |
   The New York sour recipe adds red wine to the classic whiskey sour cocktail for a playful and fruity twist on a household favorite.
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Add all the ingredients to a shaking tin, except the red wine. For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white. Float the red wine on top of the cocktail. Lemon oil (optional).
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,13 +5,15 @@ title: "Passion at the Disco"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/passion_at_the-disco/"
-iconfile: passion_at_the_disco
 stars: 0
 youtube: "ZE3G8aUyOn0"
 description: "A refreshing and vibrant non-alcoholic drink that combines the tropical flavor of passion fruit with the bright citrus of lime and tonic water."
 excerpt: |
   The Passion at the Disco cocktail is a refreshing and vibrant drink that combines the tropical flavors of passion fruit with the bright citrus notes of lime.
 date: 2025-08-11
+glass: rocks
+garnishes: mint_sprig
+type: shaken
 ---
 
 ### Ingredients
@@ -30,7 +32,6 @@ date: 2025-08-11
 - Garnish: Mint leaf
 - Special Prep: Add lime juice and passionfruit syrup to the shaker with ice and shake. pour mocktail into the glass and top with tonic water.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -71,16 +72,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

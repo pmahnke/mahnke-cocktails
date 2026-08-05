@@ -3,7 +3,6 @@ layout: recipe
 title: "Rich Cream of Coconut"
 categories: [syrup]
 permalink: "/recipe/rich_cream_of_coconut_syrup/"
-iconfile: rich_cream_of_coconut_syrup
 stars: 0
 youtube: "pJ_OQtJnIrY"
 excerpt: |
@@ -24,7 +23,6 @@ date: 2025-12-13
 1. In a medium sauce pan, combine sugar, coconut milk, and salt.
 2. Stir over heat until sugar is completely dissolved.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -46,16 +44,11 @@ date: 2025-12-13
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

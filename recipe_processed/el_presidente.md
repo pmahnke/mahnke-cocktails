@@ -5,7 +5,6 @@ title: "El Presidente"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/el_presidente/"
-iconfile: el_presidente
 stars: 4
 base_spirits: ['White Rum', 'Blanc Vermouth', 'Curaçao']
 youtube: "1AZGE2FUAO4"
@@ -13,6 +12,9 @@ description: "A classic Cuban cocktail from the Prohibition era, this is a sophi
 excerpt: |
   The classic El Presidente cocktail was born in Cuba and combines white rum, dry vermouth, orange curaçao and grenadine. Hail to the chief.
 date: 2026-03-01
+glass: martini
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +34,6 @@ date: 2026-03-01
 - Garnish: Orange Zest and Cocktail Cherry
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +75,16 @@ date: 2026-03-01
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

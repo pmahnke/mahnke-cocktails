@@ -5,7 +5,6 @@ title: "Death in the Afternoon"
 categories: [champagne]
 eras: [prohibition]
 permalink: "/recipe/death_in_the_afternoon/"
-iconfile: death_in_the_afternoon
 stars: 3.5
 base_spirits: ['Absinthe', 'Champagne']
 youtube: "-jb1-82N48U"
@@ -13,6 +12,7 @@ description: "A potent and simple cocktail invented by Ernest Hemingway, consist
 excerpt: |
   Champion drinker Ernest Hemingway invented the Death in the Afternoon cocktail. It’s a potent pairing of absinthe and Champagne.
 date: 2025-08-11
+type: stirred
 ---
 
 <div class="subrecipe" markdown="1">
@@ -58,7 +58,6 @@ date: 2025-08-11
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -98,16 +97,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

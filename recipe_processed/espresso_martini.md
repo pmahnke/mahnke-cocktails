@@ -6,7 +6,6 @@ title: "Espresso Martini"
 eras: [modern]
 categories: [coffee, after_dinner]
 permalink: "/recipe/espresso_martini/"
-iconfile: espresso_martini
 stars: 3
 base_spirits: ['Coffee Liqueur', 'Vodka']
 youtube: "q0ebbWwoI10"
@@ -14,6 +13,11 @@ description: "A modern classic that provides a rich and energizing combination o
 excerpt: |
   The Espresso Martini is more than 40 years old, and remains one of the most popular cocktails in existence today. Discover why this simple combination of vodka, espresso, and coffee liqueur still works.
 date: 2025-08-11
+glass:
+  - martini
+  - coffee
+garnishes: coffee_beans
+type: shaken
 ---
 
 ## Original
@@ -56,7 +60,6 @@ date: 2025-08-11
 - Garnish: Lemon oil and 3 coffee beans
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -159,16 +162,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Strawberry Frozen Margarita"
 categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_strawberry/"
-iconfile: margarita_strawberry
 stars: 0
 base_spirits: ['Reposado Tequila', 'Curaçao']
 youtube: "jxpT11WEtWQ"
@@ -13,6 +12,12 @@ description: "A refreshing and fruity modern cocktail that blends the classic Ma
 excerpt: |
   A Strawberry Margarita is a refreshing and fruity cocktail that blends the classic Margarita with the sweetness of strawberries.
 date: 2025-12-23
+glass:
+  - old_fashioned
+  - double_old_fashioned
+garnishes: strawberry
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -34,7 +39,6 @@ date: 2025-12-23
 - Garnish: Strawberry
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +82,11 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

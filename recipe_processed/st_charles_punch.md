@@ -5,7 +5,6 @@ title: "St. Charles Punch"
 categories: [sour]
 eras: [classic, new orleans]
 permalink: "/recipe/st_charles_punch/"
-iconfile: st_charles_punch
 stars: 0
 base_spirits: ['Ruby Port', 'Cognac', 'Absinthe']
 youtube: "btZ5f-OaoQs"
@@ -14,6 +13,9 @@ description: |
 excerpt: |
   The St. Charles Punch is a classic drink with its origins in the St. Charles Hotel in New Orleans some time in the 19th century. This version is an adaptation from  Jerry Thomas's 1862 The Bar-Tenders Guide. The guide's modern adaptation features a classic port and brandy combination, which it refers to as a "randy". The recipe balances the richness of tawny port and cognac with the tartness of fresh lemon juice and a touch of syrup. This creates a drink that is both well-balanced and historically significant, reflecting the timeless appeal of a well-crafted vintage cocktail.
 date: 2025-12-17
+glass: rocks
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -36,7 +38,6 @@ date: 2025-12-17
 - Garnish: Lemon wheel and berries
 - Special Prep: Add a straw
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -87,16 +88,11 @@ date: 2025-12-17
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

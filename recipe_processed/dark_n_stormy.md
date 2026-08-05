@@ -5,7 +5,6 @@ title: "Dark 'n Stormy"
 categories: [buck]
 eras: [classic]
 permalink: "/recipe/dark_n_stormy/"
-iconfile: dark_n_stormy
 stars: 4.5
 base_spirits: ['Dark Rum']
 youtube: "2EZBGowe0ho"
@@ -13,6 +12,10 @@ description: "A classic highball from Bermuda that features a simple but potent 
 excerpt: |
   The Dark and Stormy is a classic rum drink with close ties to a Bermuda-based distillery that dates to 1806.
 date: 2025-08-11
+glass: highball
+garnishes: lime_wedge
+ice: cubed
+type: built
 ---
 
 ### Ingredients
@@ -30,7 +33,6 @@ date: 2025-08-11
 - Garnish: Lime wedge
 - Special Prep: Pour the ginger beer into the glass, then the rum.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -70,16 +72,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

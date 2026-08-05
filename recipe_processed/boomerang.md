@@ -5,7 +5,6 @@ title: "The Boomerang"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/boomerang/"
-iconfile: boomerang
 stars: 4
 base_spirits: ['Rye', 'Swedish Punsch', 'Blanc Vermouth']
 youtube: "VXjcObds5DY"
@@ -13,6 +12,8 @@ description: "A robustly flavored cocktail featuring rye whisky, blanc vermouth,
 excerpt: |
   The Boomerang Cocktail, as recorded by Harry Craddock, is a rich and complex drink notable for its equal-parts combination of rye whisky, blanc vermouth, and Swedish Punsch. Swedish Punsch, a liqueur made with Batavia Arrack, contributes an exotic, spiced-tea sweetness that is central to the cocktail's unique character. A dash of Angostura bitters adds aromatic spice, while a dash of lemon juice brightens the overall flavor profile. This pre-Prohibition style recipe results in a spirit-forward, bittersweet drink that is typically stirred and strained into a cocktail glass. It is a fantastic example of the innovative, complex, and sometimes unusual mixtures popular during the Golden Age of Cocktails.
 date: 2025-10-13
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-10-13
 - Garnish: Lemon peel
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-10-13
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

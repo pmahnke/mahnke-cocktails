@@ -5,7 +5,6 @@ title: "White Negroni"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/white_negroni/"
-iconfile: white_negroni
 stars: 0
 base_spirits: ['Plymouth Gin', 'Suze', 'Lillet Blanc']
 youtube: "fBax4HODqyA"
@@ -13,6 +12,8 @@ description: "A popular and modern Negroni variation that swaps the red Campari 
 excerpt: |
   The White Negroni Cocktail is a Negroni riff featuring gin, Suze and Lillet Blanc. It’s light, bittersweet and floral.
 date: 2025-10-08
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-10-08
 - Garnish: Grapefruit zest
 - Special Prep: Express grapefruit oil on the drink.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +82,11 @@ date: 2025-10-08
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

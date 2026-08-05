@@ -5,7 +5,6 @@ title: "Ward Eight"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/ward_eight/"
-iconfile: ward_eight
 stars: 0
 base_spirits: ['Rye']
 youtube: "Gf8FdfHx-LmqZMg-"
@@ -13,6 +12,8 @@ description: "A classic whiskey sour with a rich history from late 19th-century 
 excerpt: |
   While it might not be the most well-known cocktail, it has a rich history dating back to the late 19th century. Legend has it that the drink was created in honor of Martin Lomasney, a powerful Boston politician who represented the city's Eighth Ward.
 date: 2025-08-11
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: Orange slice and cocktail cherry
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

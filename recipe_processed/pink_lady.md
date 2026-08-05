@@ -5,7 +5,6 @@ title: "The Pink Lady"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/pink_lady/"
-iconfile: pink_lady
 stars: 4
 base_spirits: ['London Dry Gin', 'Apple Brandy']
 youtube: "MfHv2EOLUOo&t=336s"
@@ -13,6 +12,8 @@ description: "A classic Prohibition-era sour with a beautiful pink hue, featurin
 excerpt: |
   The cocktail is probably named in honour of the American actress Hazel Dawn (1890-1988), who played the lead role in the 1911 Broadway hit musical comedy The Pink Lady by Ivan Caryll. She rose to fame playing this role and subsequently appeared in 15 feature films, but always retained The Pink Lady nickname.<br><br>The cocktail's creator is not recorded, but sometimes it is attributed to the American actress and interior decorator Elsie de Wolfe (1859-1950).
 date: 2026-01-16
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2026-01-16
 - Garnish: Cocktail Cherry
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2026-01-16
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

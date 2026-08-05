@@ -5,7 +5,6 @@ title: "Harvest Moon Punch (1/2 batch)"
 categories: [punch]
 eras: [anders]
 permalink: "/recipe/harvest_moon_punch/"
-iconfile: harvest_moon_punch
 stars: 0
 base_spirits: ['Jamaican Rum', 'Apple Brandy', 'Pear Liqueur', 'Allspice Dram']
 youtube: "S5ipwEU7uHo"
@@ -35,7 +34,6 @@ date: 2025-08-11
 - Garnish: Grated nutmeg
 - Special Prep: Add large ice cubes of black tea and apple slices
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -80,16 +78,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

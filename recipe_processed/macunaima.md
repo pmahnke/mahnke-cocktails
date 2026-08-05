@@ -5,7 +5,6 @@ title: "Macunaíma"
 eras: [modern]
 categories: [sour]
 permalink: "/recipe/macunaima/"
-iconfile: macunaima
 stars: 4
 base_spirits: ['Cachaça', 'Fernet Branca']
 youtube: "xnXFbjQSu-k"
@@ -13,6 +12,8 @@ description: "A modern Brazilian sour that features cachaça as its base, with t
 excerpt: |
   Pronounced 'Ma-cu-nayma', this is adapted from a recipe created in 2014 by Arnaldo Hirai at his Boca de Ouro bar in São Paulo, Brazil. According to Arnaldo, his recipe started to take shape in 2014 and was almost called Caxirola, after the rattle created by Carlinhos Brown to be the official musical instrument for the World Cup in Brazil later that year.
 date: 2025-08-11
+glass: rocks
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

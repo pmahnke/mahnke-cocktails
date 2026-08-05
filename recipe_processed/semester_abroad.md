@@ -5,7 +5,6 @@ title: "Semester Abroad"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/semester_abroad/"
-iconfile: semester_abroad
 stars: 3.5
 base_spirits: ['Rye', 'Curaçao', 'Fernet Branca']
 youtube: "JIQ_UNrQZR8"
@@ -13,6 +12,7 @@ description: "It’s a simple three-ingredient build of rye whiskey, orange cura
 excerpt: |
   If you like stirred whiskey cocktails like a Manhattan or Toronto, this one's for you. It’s a simple three-ingredient build of rye whiskey, orange curaçao, and Fernet-Branca, but the result is rich and aromatic.
 date: 2026-02-07
+type: stirred
 ---
 
 ### Ingredients
@@ -31,7 +31,6 @@ date: 2026-02-07
 - Garnish: Orange zest
 - Special Prep: Express orange oil over the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +71,16 @@ date: 2026-02-07
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

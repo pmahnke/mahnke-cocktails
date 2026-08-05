@@ -5,7 +5,6 @@ title: "Old Pal"
 eras: [prohibition]
 categories: [amaro, cocktail]
 permalink: "/recipe/old_pal/"
-iconfile: old_pal
 stars: 3
 base_spirits: ['Rye', 'Campari', 'Blanc Vermouth']
 youtube: "op3jvecV1ME"
@@ -14,6 +13,8 @@ excerpt: |
   The cocktail appeared in print in MacElhone (1927), by Harry MacElhone, the proprietor of Harry's New York Bar in Paris. The cocktail appears, not in the main list of recipes, but in the essay "Cocktails About Town" by Arthur Moss, which describes cocktails by men-about-town; this essay also includes the boulevardier. The Old Pal is credited to William "Sparrow" Robinson, a sports editor for The New York Herald in Paris, while the "old pal" refers to Moss, to whom it is dedicated. The cocktail is described as: 
   <blockquote>I remember way back in 1878, on the 30th of February to be exact, when the Writer was discussing this subject with my old pal "Sparrow" Robertson and he said to yours truly, "get away with that stuff, my old pal, here's the drink I invented when I fired the pistol the first time at the old Powderhall foot races and you can't go wrong if you put a bet down on 1/3 Canadian Club, 1/3 Eyetalian [Italian] Vermouth, and 1/3 Campari," and then he told the Writer that he would dedicate this cocktail to me and call it, My Old Pal.</blockquote>
 date: 2026-03-01
+glass: coupe
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2026-03-01
 - Garnish: Expressed lemon oil and peel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -73,16 +73,16 @@ date: 2026-03-01
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

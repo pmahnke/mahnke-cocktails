@@ -5,7 +5,6 @@ title: "Suburban"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/suburban/"
-iconfile: suburban
 stars: 0
 base_spirits: ['Rye', 'Jamaican Rum', 'Tawny Port']
 youtube: "UC1QUNjAZgw"
@@ -13,6 +12,9 @@ description: "An old-Fashioned with a splash of rum and port in place of sugar s
 excerpt: |
   Created at New York's old Waldorf-Astoria Hotel (the Empire State Building occupies the site today) for James R Keene, a racehorse owner whose steeds ran in the Suburban Handicap at Brooklyn's Sheepshead Bay track. The Suburban features in Albert Stevens Crockett's 1931 Old Waldorf Bar Days.
 date: 2026-02-02
+glass: martini
+garnishes: orange_peel
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2026-02-02
 - Garnish: Orange peel
 - Special Prep: Expressed orange oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +77,11 @@ date: 2026-02-02
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

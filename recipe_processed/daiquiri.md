@@ -5,7 +5,6 @@ title: "Daiquiri"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/daiquiri/"
-iconfile: daiquiri
 stars: 5
 base_spirits: ['White Rum']
 youtube: "VBSjE-P_C58"
@@ -13,6 +12,9 @@ description: "The quintessential classic sour from Cuba, celebrated for its perf
 excerpt: |
   Its origins trace back to the late 19th century in Cuba, where it gained popularity among American miners working in the Santiago de Cuba region. The Daiquiri's enduring appeal lies in its balance of sweet, sour, and tart flavors.
 date: 2025-08-11
+glass: coupe
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -31,7 +33,6 @@ date: 2025-08-11
 - Garnish: Lime Wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +73,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Paper Plane"
 categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/paper_plane/"
-iconfile: paper_plane
 stars: 4.5
 base_spirits: ['Bourbon', 'Amaro Nonino', 'Aperol']
 youtube: "yu4JNOvec1k&t=6s"
@@ -13,6 +12,7 @@ description: "A modern classic and a variation on the Last Word, this is a perfe
 excerpt: |
   The Paper Plane cocktail is a simple variation on the classic Last Word. And it may be the best bourbon drink you may not have tried yet.
 date: 2025-12-23
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +32,6 @@ date: 2025-12-23
 - Garnish: Small paper plane
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +73,16 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

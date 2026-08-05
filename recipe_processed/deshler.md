@@ -5,7 +5,6 @@ title: "Deshler"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/deshler/"
-iconfile: deshler
 stars: 4
 base_spirits: ['Rye', 'Bourbon', 'Dubonnet Rouge', 'Lillet Rouge', 'Triple Sec']
 youtube: "3vtklNLjMPw"
@@ -13,6 +12,11 @@ description: "A classic cocktail that pairs rye whiskey with the wine-based aper
 excerpt: |
   Enjoy your favorite rye whiskey in this Dubonnet and Cointreau drink from famed New York bartender Brian Miller. If you don't have Dubonnet, you can subsitute bourbon.
 date: 2025-08-14
+glass: coupe
+garnishes: orange_twist
+type:
+  - stirred
+  - shaken
 ---
 
 <div class="subrecipe" markdown="1">
@@ -88,7 +92,6 @@ date: 2025-08-14
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -132,16 +135,16 @@ date: 2025-08-14
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

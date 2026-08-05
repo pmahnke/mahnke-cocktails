@@ -5,7 +5,6 @@ title: "Rusty Nail"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/rusty_nail/"
-iconfile: rusty_nail
 stars: 2
 base_spirits: ['Blended Scotch', 'Drambuie']
 youtube: "nTyrz70_OPA"
@@ -13,6 +12,9 @@ description: "A classic and simple two-part modern cocktail that combines the sm
 excerpt: |
   The Rusty Nail is a classic two-part cocktail that combines scotch and Drambuie.
 date: 2025-12-09
+type:
+  - stirred
+  - blended
 ---
 
 ### Ingredients
@@ -30,7 +32,6 @@ date: 2025-12-09
 - Garnish: None
 - Special Prep: Express lemon oil into cocktail
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -70,16 +71,16 @@ date: 2025-12-09
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "2",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

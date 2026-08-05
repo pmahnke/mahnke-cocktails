@@ -5,7 +5,6 @@ title: "Hunter"
 categories: [cocktail]
 eras: [classic, modern]
 permalink: "/recipe/hunter/"
-iconfile: hunter
 stars: 2
 base_spirits: ['Rye', 'Bourbon', 'Cherry Liqueur', 'Maraschino Liqueur']
 youtube: "LINK"
@@ -13,6 +12,9 @@ description: "The original Hunter Cocktail is a simple, spirit-forward classic d
 excerpt: |
   The origins of this cocktail are unknown, but its popularity has been much helped by the famous bartender Hidetsugu Ueno San recommending it to guests at his High Five bar in Ginzo, Tokyo, Japan. The original Hunter Cocktail is a simple, spirit-forward classic dating back to the early 20th century that consists of just two ingredients. This warming sipper balances the spicy robustness of rye whiskey with the rich, deep sweetness of cherry brandy (often Cherry Heering), and is traditionally served stirred and strained.
 date: 2026-01-09
+glass: coupe
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 <div class="subrecipe" markdown="1">
@@ -58,7 +60,6 @@ date: 2026-01-09
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -98,16 +99,16 @@ date: 2026-01-09
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "2",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

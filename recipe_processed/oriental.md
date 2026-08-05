@@ -5,7 +5,6 @@ title: "The Oriental"
 categories: [daisy, sour]
 eras: [prohibition]
 permalink: "/recipe/oriental/"
-iconfile: oriental
 stars: 3.5
 base_spirits: ['Rye', 'Sweet Vermouth', 'Triple Sec']
 youtube: "0D1SXgMgp_g"
@@ -13,6 +12,8 @@ description: "This is a classic, pre-Prohibition cocktail featuring a balanced b
 excerpt: |
   The Oriental is a sophisticated, pre-Prohibition classic that balances the spicy backbone of rye whiskey with the herbal sweetness of Italian vermouth. It achieves a bright, citrusy profile through the addition of orange curaçao and fresh lime juice, offering a profile that is notably more tart than a standard Manhattan. Traditionally served up in a chilled coupe, this vibrant drink was popularized by Harry Craddock’s 1930 Savoy Cocktail Book and remains a staple for those exploring the "Daisy" family of cocktails.
 date: 2026-03-21
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2026-03-21
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,16 @@ date: 2026-03-21
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

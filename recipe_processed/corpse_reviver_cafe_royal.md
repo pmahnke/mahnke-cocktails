@@ -5,7 +5,6 @@ title: "Cafe Royal Corpse Reviver"
 categories: [champagne, sour, corpse_reviver]
 eras: [classic]
 permalink: "/recipe/corpse_reviver_cafe_royal/"
-iconfile: corpse_reviver_cafe_royal
 stars: 0
 base_spirits: ['Cognac', 'Champagne']
 youtube: "rMCsrbidAJ4"
@@ -13,6 +12,8 @@ description: "A classic variation from the Cafe Royal Cocktail Book that adds th
 excerpt: |
   This recipe comes from the Cafe Royal Cocktail Book.
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Pour the shaken cocktail into the glass and top with champagne
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

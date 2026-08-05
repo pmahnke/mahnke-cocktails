@@ -5,7 +5,6 @@ title: "Autumn Rose"
 categories: [sour]
 eras: [anders]
 permalink: "/recipe/autumn_rose/"
-iconfile: autumn_rose
 stars: 4.25
 base_spirits: ['Apple Brandy', 'Blanc Vermouth', 'Apricot Liqueur']
 youtube: "9OxlSOioD_k"
@@ -13,6 +12,7 @@ description: "An original sour cocktail that features the warm, autumnal flavors
 excerpt: |
   This cocktails is an Anders original.
 date: 2026-03-01
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +33,6 @@ date: 2026-03-01
 - Garnish: Expressed lemon oil and twist
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +75,16 @@ date: 2026-03-01
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.25",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

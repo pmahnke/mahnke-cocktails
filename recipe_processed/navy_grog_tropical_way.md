@@ -5,7 +5,6 @@ title: "Navy Grog: Tropical Standard's Way"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/navy_grog_tropical_way/"
-iconfile: navy_grog_tropical_way
 stars: 0
 base_spirits: ['Demerara Rum', 'Jamaican Rum', 'White Rum', 'Allspice Dram']
 youtube: "I3jeItKyZCs"
@@ -13,6 +12,10 @@ description: "Modern reinvention of the classic rum-heavy drink that features a 
 excerpt: |
   The Navy Grog in the Tropical Standard cocktail book by Garret Richard and Ben Schaffer is a departure from the Don the Beachcomber and Trader Vic's recipes, applying modern cocktail techniques to a Tiki classic. The recipe is meticulously crafted, calling for specific measurements of a blend of rums—including a Demerara, a Jamaican, and a white rum—and a complex, homemade "grog concentrate" syrup. This unique concentrate is a key feature, made by toasting allspice and simmering it with Mexican Coca-Cola and sugar. The drink also uses acid-adjusted grapefruit juice, a technique that alters the juice's pH to mimic the brightness and tartness of a different citrus, ensuring a precise flavor balance. The final cocktail is flash-blended and garnished with a spent lime peel and mint.
 date: 2025-08-20
+glass: rocks
+garnishes: mint_sprig
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -39,7 +42,6 @@ date: 2025-08-20
 - Garnish: Grapefruit slice, mint sprig, and rock candy stick (optional)
 - Special Prep: Combine 100 milliliters grapefruit juice (strained of pulp) with 4 grams citric acid. Stir to dissolve. Will keep for 3 days in the fridge.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -94,16 +96,11 @@ date: 2025-08-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

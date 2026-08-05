@@ -5,7 +5,6 @@ title: "Aperol Spritz"
 categories: [amaro, spritz]
 eras: [modern]
 permalink: "/recipe/aperol_spritz/"
-iconfile: aperol_spritz
 stars: 3.25
 base_spirits: ['Aperol', 'Champagne']
 youtube: "BUb54paVf0s"
@@ -13,6 +12,7 @@ description: "An iconic and refreshing Italian aperitif that combines the bitter
 excerpt: |
   The Aperol Spritz is one of the most popular aperitif cocktails in Italy and with just Aperol, prosecco and club soda, it’s as easy to make as it is to drink.
 date: 2025-10-20
+ice: cubed
 ---
 
 ### Ingredients
@@ -33,7 +33,6 @@ date: 2025-10-20
 - Garnish: Orange wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +81,16 @@ date: 2025-10-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.25",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

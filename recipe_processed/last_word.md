@@ -5,7 +5,6 @@ title: "Last Word"
 categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/last_word/"
-iconfile: last_word
 stars: 5
 base_spirits: ['London Dry Gin', 'Green Chartreuse', 'Maraschino Liqueur']
 youtube: "ueiHrjWgC-jSAvQn"
@@ -13,6 +12,8 @@ description: "A sharp, pungent, and complex Prohibition-era classic featuring eq
 excerpt: |
   The Last Word is a gin-based cocktail originating at the Detroit Athletic Club in the 1910s, shortly before the start of Prohibition.
 date: 2025-12-23
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-12-23
 - Garnish: Cocktail Cherry
 - Special Prep: Add the cherry to the glass before straining the cocktail
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,16 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Black Dragon No. 13"
 categories: [amaro, beer, coffee, cocktail]
 eras: [anders]
 permalink: "/recipe/black_dragon_13/"
-iconfile: black_dragon_13
 stars: 0
 base_spirits: ['Cognac', 'Averna', 'Stout']
 youtube: "u0N9FFJ1i5c"
@@ -13,6 +12,8 @@ description: "A unique and intriguing cocktail that combines the boldness of cof
 excerpt: |
   The Black Dragon No. 13 is a unique and intriguing cocktail that combines the boldness of coffee and stout with the sophistication of cognac and amaro.
 date: 2025-08-11
+glass: rocks
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Pour the stout into the glass and top with the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

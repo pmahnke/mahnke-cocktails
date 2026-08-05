@@ -6,14 +6,16 @@ title: "Man Overboard"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/man_overboard/"
-iconfile: man_overboard
-stars:
+stars: 0
 base_spirits: ['Rye', 'Triple Sec', 'Sweet Vermouth']
 youtube: ""
 description: "A modern sour that adapts the classic Man o' War cocktail, adding the spiciness of rye while dialing down the booziness."
 excerpt: |
   The nick & nora glass is named after Nick and Nora Charles in the classic 1934 movie The Thin Man, based on Dashiell Hammett’s book of the same name. Thanks to Nora’s sizable inheritance, the couple lead a life of leisure and spend most of their time at least slightly sozzled, so I like to imagine they’d be rather partial to this concoction. It’s an ode to an old classic called a man o’ war, adapted to add the spiciness of rye while dialling down the booziness a bit. Serve as an aperitif or the first cocktail of many on a night out.
 date: 2025-09-26
+glass: coupe
+garnishes: lemon_twist
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-09-26
 - Garnish: Lemon twist
 - Special Prep: Pour all the liquids into a shaker filled with ice, shake hard, then double strain into a nick & nora glass (or coupe). Garnish with the lemon twist and serve.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +78,11 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

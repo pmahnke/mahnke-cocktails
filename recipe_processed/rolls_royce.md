@@ -5,7 +5,6 @@ title: "Rolls Royce"
 categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/rolls_royce/"
-iconfile: rolls_royce
 stars: 0
 base_spirits: ['London Dry Gin', 'Dry Vermouth', 'Sweet Vermouth', 'Bénédictine']
 youtube: "UJJqbCGHsOg"
@@ -13,6 +12,8 @@ description: "A sophisticated and elegant Prohibition-era Martini variation, fea
 excerpt: |
   The Rolls Royce cocktail is a sophisticated and elegant drink, fitting for its luxurious namesake. It's a variation of the Martini, with the addition of sweet vermouth and Benedictine, which add complexity and depth to the classic gin and dry vermouth base.
 date: 2025-08-11
+glass: coupe
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: Lemon peal
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Coyote Swizzle"
 categories: [frappe_swizzle]
 eras: [anders]
 permalink: "/recipe/coyote_swizzle/"
-iconfile: coyote_swizzle
 stars: 0
 base_spirits: ['Mezcal', 'Campari']
 youtube: "qLwJ2aixqYY&t=279s"
@@ -13,6 +12,8 @@ description: "This bold, tropical riff on a Jungle Bird replaces rum with mezcal
 excerpt: |
   The Coyote Swizzle is a smoky, tropical riff on the Jungle Bird that balances the intense earthiness of mezcal and the bitter punch of Campari with bright lime and lush, sweet passion fruit.
 date: 2026-06-1
+glass: highball
+ice: crushed
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2026-06-1
 - Garnish: Cocktail umbrella
 - Special Prep: Swizzle in the glass, and top with additional crushed ice.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +84,11 @@ date: 2026-06-1
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

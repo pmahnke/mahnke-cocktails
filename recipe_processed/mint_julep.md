@@ -5,7 +5,6 @@ title: "Mint Julep"
 eras: [classic]
 categories: [julep]
 permalink: "/recipe/mint_julep/"
-iconfile: mint_julep
 stars: 4
 base_spirits: ['Bourbon']
 youtube: "xfLW5Na9QpM"
@@ -13,6 +12,10 @@ description: "The signature drink of the Kentucky Derby, this is a classic and r
 excerpt: |
   The Mint Julep is the signature drink of the Kentucky Derby. But this easy-to-make bourbon cocktail shouldn’t be reserved for only one day a year.
 date: 2025-08-11
+glass: julep_cup
+garnishes: mint_sprig
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +36,6 @@ date: 2025-08-11
 - Garnish: Mint Sprig
 - Special Prep: Add mint leaves directly to the shaking tin. Then build the cocktail. Top with additional crushed ice.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +84,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

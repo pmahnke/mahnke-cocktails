@@ -5,7 +5,6 @@ title: "Fino Spritz"
 categories: [spritz]
 eras: [modern]
 permalink: "/recipe/fino_spritz/"
-iconfile: fino_spritz
 stars: 0
 base_spirits: ['Fino Sherry', 'Maraschino Liqueur', 'Prosecco']
 youtube: "BUb54paVf0s"
@@ -13,6 +12,7 @@ description: "A refreshing and modern take on the classic spritz, featuring the 
 excerpt: |
   The Fino Spritz is a refreshing and modern take on the classic spritz cocktail, featuring Fino Sherry as its base spirit.
 date: 2025-10-20
+ice: cubed
 ---
 
 ### Ingredients
@@ -34,7 +34,6 @@ date: 2025-10-20
 - Garnish: Lemon wheels Special
 - Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +83,11 @@ date: 2025-10-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

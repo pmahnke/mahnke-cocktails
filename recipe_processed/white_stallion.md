@@ -5,7 +5,6 @@ title: "White Stallion"
 eras: [anders]
 categories: [after_dinner, ice_cream]
 permalink: "/recipe/white_stallion/"
-iconfile: white_stallion
 stars: 0
 base_spirits: ['Plymouth Gin', 'Curaçao', 'Champagne']
 youtube: "E1TfYiFrnXk"
@@ -13,6 +12,8 @@ description: "A bubbly and decadent modern ice cream drink inspired by classic S
 excerpt: |
   This bubbly ice cream drink was inspired by two classics found in the Savoy Cocktail Book - the White Cargo and the Silver Stallion.
 date: 2025-08-14
+glass: flute
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-14
 - Garnish: Expressed orange or lemon oil
 - Special Prep: Add the gin, orange liqueur and ice cream to a shaking tin and shake till the ice cream has melted and the cocktail is chilled. Add champagne to the flute, then add the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,11 @@ date: 2025-08-14
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,13 +5,14 @@ title: "Staggering Gentleman"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/staggering_gent/"
-iconfile: staggering_gent
 stars: 4
 base_spirits: ['Bourbon', 'Bénédictine', 'Walnut Liqueur']
 youtube: "QFjRjAP-k1k&t=3s"
 excerpt: |
   The Staggering Gentleman is a powerful cocktail that combines the rich flavors of bourbon with the complexity of Benedictine and walnut liqueur.
 date: 2025-07-07
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -30,7 +31,6 @@ date: 2025-07-07
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -71,16 +71,16 @@ date: 2025-07-07
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

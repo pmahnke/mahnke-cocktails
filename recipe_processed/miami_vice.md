@@ -5,7 +5,6 @@ title: "Miami Vice"
 categories: [frozen, sour]
 eras: [modern]
 permalink: "/recipe/miami_vice/"
-iconfile: miami_vice
 stars: 0
 base_spirits: ['White Rum']
 youtube: "0JUtwxuMCg0"
@@ -13,6 +12,9 @@ description: "A fun, frozen modern mashup of two tropical classics: the Piña Co
 excerpt: |
   This drink is a frozen mashup of two tropical classics—the Piña Colada and the Frozen Strawberry Daiquiri. It’s a crowd-pleaser in both flavor and presentation, thanks to those bold, contrasting colors. 
 date: 2025-08-11
+glass: hurricane
+garnishes: strawberry
+type: blended
 ---
 
 ### Strawberry Daiquiri Ingredients
@@ -45,7 +47,6 @@ date: 2025-08-11
   1. Pour the two cocktails into the hurricane glass simultaniously to create the vertical split
   1. Place a straw into each side
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -107,16 +108,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -6,7 +6,6 @@ title: "Shallow Draft"
 categories: [beer, cocktail]
 eras: [anders]
 permalink: "/recipe/shallow_draft/"
-iconfile: shallow_draft
 stars: 0
 base_spirits: ['Lager']
 youtube: "gu5hZ5Rb8nc&t=585s"
@@ -14,6 +13,8 @@ description: "This cocktail is a riff on the classic Shandy. With the addition o
 excerpt: |
   This cocktail is a riff on the classic Shandy. With the addition of Falernum, it skews more toward the cocktail side, but still sits in the Shandy family.
 date: 2025-08-20
+glass: highball
+type: shaken
 ---
 
 ### Ingredients
@@ -35,7 +36,6 @@ date: 2025-08-20
   1. Strain into a high ball glass
   1. Top with beer
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -88,16 +88,11 @@ date: 2025-08-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

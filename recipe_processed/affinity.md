@@ -5,7 +5,6 @@ title: "Affinity"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/affinity/"
-iconfile: affinity
 stars: 4
 base_spirits: ['Single Malt Scotch', 'Sweet Vermouth', 'Blanc Vermouth']
 youtube: "9lgx04fJrSM"
@@ -13,6 +12,7 @@ description: "A sophisticated classic that creates a harmonious blend of Scotch,
 excerpt: |
   The Affinity Cocktail is a classic whiskey-based cocktail that showcases the balance and harmony of its ingredients. It's a refined and sophisticated drink that's perfect for any occasion.
 date: 2026-03-21
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +32,6 @@ date: 2026-03-21
 - Garnish: Expressed lemon oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +73,16 @@ date: 2026-03-21
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

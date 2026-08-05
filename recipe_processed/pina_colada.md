@@ -5,7 +5,6 @@ title: "Piña Colada"
 categories: [tiki]
 eras: [classic]
 permalink: "/recipe/pina_colada/"
-iconfile: pina_colada
 stars: 4
 base_spirits: ['White Rum']
 youtube: "eH9yt9JpXXk&t=6s"
@@ -13,6 +12,8 @@ description: "A classic sweet and refreshing tropical tiki cocktail made with ru
 excerpt: |
   The Piña Colada is a classic tropical cocktail that is loved by many for its sweet and refreshing flavor. It is made with rum, pineapple juice, and cream of coconut, and is typically served blended with ice or shaken with ice and strained.
 date: 2025-08-11
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: Pineapple pieces, pineapple fronds and cocktail cherries
 - Special Prep: Use an emersion blender directly in the shaker tin. Blend until frothy.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

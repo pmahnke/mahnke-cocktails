@@ -6,7 +6,6 @@ title: "Street & Flynn Special"
 categories: [collins]
 eras: [modern]
 permalink: "/recipe/street_flynn_special/"
-iconfile: street_flynn_special
 stars: 0
 base_spirits: ['Jamaican Rum', 'Allspice Dram']
 youtube: "https://youtube.com/shorts/3sJdqoFcrPg?si=21d3byC_5s7D5YL7"
@@ -14,6 +13,10 @@ description: "A spicy and complex rum collins that balances intense Jamaican rum
 excerpt: |
   The drink was created by bartender Joseph Schwartz for the New York bar Milk & Honey, paying homage to actor Errol Flynn and hotelier Sam Street, who were known for their escapades in the Portland Parish of Jamaica. Portland Parish is nick-named Flynn & Street Parish.
 date: 2025-10-29
+glass: highball
+garnishes: lime_wheel
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -41,7 +44,6 @@ date: 2025-10-29
   1. Strain the mixture into a highball glass filled with fresh ice.
   1. Top with additional club soda.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -112,16 +114,11 @@ date: 2025-10-29
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Dirty Martini"
 categories: [martini]
 eras: [classic]
 permalink: "/recipe/dirty_martini/"
-iconfile: dirty_martini
 stars: 3.5
 base_spirits: ['Vodka', 'Plymouth Gin', 'Dry Vermouth', 'Fino Sherry']
 youtube: "cwunL1zBgnI"
@@ -13,6 +12,13 @@ description: "A classic savory Martini variation that incorporates a small amoun
 excerpt: |
   Cocktail historian David Wondrich has traced the origins of the Dirty Martini back to 1901 and a bartender called John E. O'Connor, who served a Dry Martini with muddled olives at New York's Waldorf Astoria.<br /><br />The first written reference to brine being added to a Martini-style cocktail appears in G.H. Steele's 1930 <i>My New Cocktail Book</i>.
 date: 2025-08-11
+glass:
+  - coupe
+  - martini
+garnishes: olive
+type:
+  - shaken
+  - stirred
 ---
 
 <div class="subrecipe" markdown="1">
@@ -84,7 +90,6 @@ date: 2025-08-11
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -124,16 +129,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

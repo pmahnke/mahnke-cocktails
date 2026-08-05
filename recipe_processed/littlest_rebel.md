@@ -5,7 +5,6 @@ title: "Littlest Rebel"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/littlest_rebel/"
-iconfile: littlest_rebel
 stars: 3.5
 base_spirits: ['Apple Brandy', 'Blended Scotch']
 youtube: "s30L-iu171E"
@@ -15,6 +14,9 @@ excerpt: |
 
   The name of the cocktail is likely inspired by the 1935 film The Littlest Rebel starring Shirley Temple.
 date: 2025-12-09
+type:
+  - shaken
+  - blended
 ---
 
 ### Ingredients
@@ -35,7 +37,6 @@ date: 2025-12-09
 - Garnish: Expressed lime oil
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +79,16 @@ date: 2025-12-09
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

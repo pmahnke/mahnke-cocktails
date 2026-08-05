@@ -6,7 +6,6 @@ title: "Gin Daisy"
 categories: [daisy]
 eras: [classic]
 permalink: "/recipe/gin_daisy/"
-iconfile: gin_daisy
 stars: 0
 base_spirits: ['Plymouth Gin', 'Bénédictine']
 youtube: "EyB4Ymian3Q"
@@ -14,6 +13,10 @@ description: "A classic Daisy variation that uses gin as its base, complemented 
 excerpt: |
   The Daisy cocktail has undergone a lot of tweaking over the years. The essential DNA of the Daisy involves adding a little soda water to a Sour (spirit, citrus, sweetener). Beyond that, though, you can take some liberties. Jerry Thomas called for shaved ice; Savoy, for cracked. Any number of base spirits have been used as a foundation, and depending on which source you read, the finished drink should be poured into a cocktail glass, pewter mug, Julep cup, large goblet or glass highball. Earlier recipes include orange cordial, but by the early 20th century, grenadine had become the traditional sweetening agent. All versions, however, agree that a Daisy should be cold, refreshing and garnished with seasonal fruit. The following recipes are representative of then older and more modern versions.
 date: 2025-08-11
+glass: rocks
+garnishes: mint_sprig
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +39,6 @@ date: 2025-08-11
 - Garnish: Mint sprig
 - Special Prep: Pour cocktail into the glass, and top with sparkling water.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -87,16 +89,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

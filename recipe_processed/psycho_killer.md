@@ -5,7 +5,6 @@ title: "Psycho Killer"
 eras: [modern]
 categories: [amaro, cocktail]
 permalink: "/recipe/psycho_killer/"
-iconfile: psycho_killer
 stars: 0
 base_spirits: ['Irish Whiskey', 'Campari', 'White Crème de Cacao', 'Banana Liqueur', 'Absinthe']
 youtube: "u0N9FFJ1i5c"
@@ -13,6 +12,8 @@ description: "An elegant and complex modern Irish whiskey cocktail from The Dead
 excerpt: |
   White cacao and banana liqueur balance the dry, bitter duo of cocoa nibs and Campari in this elegant Irish whiskey cocktail from The Dead Rabbit.
 date: 2025-08-11
+glass: whiskey
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

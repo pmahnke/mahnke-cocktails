@@ -5,7 +5,6 @@ title: "Ford"
 categories: [martini]
 eras: [classic]
 permalink: "/recipe/ford/"
-iconfile: ford
 stars: 3
 base_spirits: ['Old Tom Gin', 'Dry Vermouth', 'Bénédictine']
 youtube: "UJJqbCGHsOg"
@@ -13,6 +12,8 @@ description: "A classic Martini-style cocktail from the late 19th century, sweet
 excerpt: |
   The Ford cocktail is a classic gin-based cocktail that dates back to the late 19th century. It is a Martini-style cocktail sweetened by both the use of old tom gin and Bénédictine D.O.M. liqueur.
 date: 2025-08-11
+glass: coupe
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: Orange Peal
 - Special Prep: Expressed orange oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

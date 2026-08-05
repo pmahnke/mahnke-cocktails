@@ -6,7 +6,6 @@ title: "Alamagoozlum"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/alamagoozlum/"
-iconfile: alamagoozlum
 stars: 3.5
 base_spirits: ['Genever', 'Jamaican Rum', 'Yellow Chartreuse', 'Curaçao']
 youtube: "8H-IBvOX8EI"
@@ -25,6 +24,9 @@ excerpt: |
 
   <b>This cocktail recipe makes two cocktails</b>
 date: 2025-11-29
+glass: coupe
+garnishes: pineapple_slice
+type: shaken
 ---
 
 ### Ingredients
@@ -53,7 +55,6 @@ date: 2025-11-29
     1. Remove ice
     1. Dry shake cocktail
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -119,16 +120,16 @@ date: 2025-11-29
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Fence Hopper"
 eras: [anders]
 categories: [beer]
 permalink: "/recipe/fence_hopper/"
-iconfile: fence_hopper
 stars: 0
 base_spirits: ['Bourbon', 'IPA']
 youtube: "Eg7DLBgwJqM"
@@ -13,6 +12,8 @@ description: "A unique beer cocktail that blends bourbon with apple cider, maple
 excerpt: |
   The Fence Hopper is a cocktail that blends bourbon whiskey with apple cider, maple syrup, lemon juice, Angostura Aromatic Bitters, and IPA beer.
 date: 2025-08-11
+garnishes: cinnamon
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-08-11
 - Garnish: Cinnamon stick
 - Special Prep: Pour the IPA into the glass and top with the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +78,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -3,12 +3,12 @@ layout: recipe
 title: "Cinnamon-Infused Honey Syrup"
 categories: [syrup]
 permalink: "/recipe/cinnamon_honey_syrup/"
-iconfile: cinnamon_honey_syrup
 stars: 0
 youtube: "79htbyQ8nDY"
 excerpt: |
   Like the simple cinnamon simple syrup recipe. This adds a touch of honey for a cinnamon spiced flavor.
 date: 2026-02-05
+garnishes: cinnamon
 ---
 
 ### Ingredients
@@ -26,7 +26,6 @@ date: 2026-02-05
 3. Cover and simmer over low heat for 20-30 minutes (don't boil!).
 4. Once cooled, remove cinnamon sticks.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -48,16 +47,11 @@ date: 2026-02-05
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

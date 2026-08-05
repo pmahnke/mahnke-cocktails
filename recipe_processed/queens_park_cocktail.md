@@ -5,7 +5,6 @@ title: "Queen's Park Hotel Super Cocktail"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/queens_park_cocktail/"
-iconfile: queens_park_cocktail
 stars: 3
 base_spirits: ['Gold Rum', 'Sweet Vermouth']
 youtube: "ASTV1OEXhbE"
@@ -13,6 +12,7 @@ description: "A complex and flavorful Prohibition-era drink, also known as the T
 excerpt: |
   The Queen's Park Hotel Super Cocktail, also known as the Trinidadian Daiquiri, is a complex and flavorful drink that blends the sweetness of grenadine and vermouth with the tartness of lime juice and the spiciness of Angostura Aromatic Bitters.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +33,6 @@ date: 2025-08-11
 - Garnish: Lime twist
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +75,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

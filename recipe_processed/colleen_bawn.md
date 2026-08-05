@@ -5,7 +5,6 @@ author: "Anders Erickson"
 categories: [flip]
 eras: [classic]
 permalink: "/recipe/colleen_bawn/"
-iconfile: colleen_bawn
 stars: 3
 base_spirits: ['Rye', 'Yellow Chartreuse', 'Bénédictine']
 youtube: "W50W19vwjmk"
@@ -13,6 +12,7 @@ description: "A classic flip-style cocktail with a rich, frothy texture, combini
 excerpt: |
   The Colleen Bawn is a classic cocktail with a rich history. It's a flip-style drink, meaning it includes a whole egg (both yolk and white) that is shaken vigorously to create a frothy texture.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +32,6 @@ date: 2025-08-11
 - Garnish: Grated nutmeg
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +73,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -6,7 +6,6 @@ title: "King Kong"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/king_kong/"
-iconfile: king_kong
 stars: 3.5
 base_spirits: ['Bourbon', 'Jamaican Rum', 'Banana Liqueur']
 youtube: "ye2b6ylRmcs"
@@ -14,6 +13,8 @@ description: "This cocktail drinks like an Old Fashioned with a tropical edge th
 excerpt: |
   Created by Sam Ross at Attaboy in 2015, the King Kong is a bold, tropical riff on the classic Old Fashioned. It pairs a rich bourbon base with funky, overproof Jamaican rum and sweet banana liqueur, balanced by a few dashes of aromatic bitters and a lemon twist.
 date: 2026-05-29
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -35,7 +36,6 @@ date: 2026-05-29
 - Garnish:  Lemon peel
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -85,16 +85,16 @@ date: 2026-05-29
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

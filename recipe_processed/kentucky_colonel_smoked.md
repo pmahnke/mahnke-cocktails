@@ -5,7 +5,6 @@ title: "Kentucky Colonel, Smoked"
 categories: [cocktail, smoked]
 eras: [classic]
 permalink: "/recipe/kentucky_colonel_smoked/"
-iconfile: kentucky_colonel_smoked
 stars: 0
 base_spirits: ['Bourbon', 'Bénédictine']
 youtube: "gZdT2GBf91I"
@@ -13,6 +12,8 @@ description: "A classic cocktail that pays homage to Kentucky bourbon, enhanced 
 excerpt: |
   The Kentucky Colonel is a classic cocktail that pays homage to the state's famous bourbon whiskey. It's a simple yet elegant drink that combines bourbon, Benedictine, and Angostura Aromatic Bitters. The Benedictine adds a touch of sweetness and herbal notes, while the bitters balance the flavors.
 date: 2025-08-11
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: Flamed lemon oil
 - Special Prep: Serve in a smoke-rinsed lowball glass
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +82,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Lumberjack in Love"
 eras: [anders]
 categories: [beer]
 permalink: "/recipe/lumberjack_in_love/"
-iconfile: lumberjack_in_love
 stars: 0
 base_spirits: ['Rye', 'Lager Beer', 'Allspice Dram']
 youtube: "Eg7DLBgwJqM"
@@ -13,6 +12,9 @@ description: "A unique beer cocktail that combines rye whiskey, allspice dram, c
 excerpt: |
   The Lumberjack in Love is a cocktail that combines the flavors of rye whiskey, allspice dram, cherry juice, lemon juice, semi-rich simple syrup, and beer.
 date: 2025-08-11
+glass: highball
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: Cocktail cherry
 - Special Prep: Pour the beer into the glass and top with the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +79,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

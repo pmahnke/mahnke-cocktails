@@ -51,7 +51,7 @@ layout: default
             
             {%- assign sorted_cocktails = filtered_cocktails | sort: 'title' -%}
             
-            <table class="home_table">
+        <table class="home_table">
             {%- for page in sorted_cocktails -%}
             <tr>
                 <th class="home_title">
@@ -63,11 +63,16 @@ layout: default
                     {%- include category_search.html -%} 
                 </td>
                 <td class="home_stars">
-                    {%- include stars.html -%}
+                    {%- if page.stars and page.stars != "" -%}
+                        {%- include stars.html -%}
+                    {%- else -%}
+                        <!-- Fallback if stars are missing -->
+                        <span class="no-rating">No rating</span>
+                    {%- endif -%}
                 </td>
             </tr>
             {%- endfor -%}
-            </table>
+        </table>
         {%- endif -%}
 
     </div><!-- /div 2/3-->

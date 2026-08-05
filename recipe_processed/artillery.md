@@ -5,7 +5,6 @@ title: "Artillery"
 categories: [martini]
 eras: [classic]
 permalink: "/recipe/artillery/"
-iconfile: artillery
 stars: 3.5
 base_spirits: ['Plymouth Gin', 'Sweet Vermouth']
 youtube: "jzg4GuY4Fcg"
@@ -13,6 +12,11 @@ description: "A classic Martini variation known for its balanced blend of sweet 
 excerpt: |
   The Artillery cocktail is a classic gin-based cocktail that offers a unique twist on the traditional Martini. It's known for its balanced blend of sweet and savory flavors, with a subtle herbaceousness from the gin.
 date: 2025-08-11
+glass: coupe
+garnishes:
+  - orange_twist
+  - maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -31,7 +35,6 @@ date: 2025-08-11
 - Garnish: Cocktail cherry and or an orange twist
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +75,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

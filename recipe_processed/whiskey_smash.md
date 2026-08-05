@@ -5,7 +5,6 @@ title: "Whiskey Smash"
 categories: [smash]
 eras: [classic]
 permalink: "/recipe/whiskey_smash/"
-iconfile: whiskey_smash
 stars: 0
 base_spirits: ['Bourbon']
 youtube: "Jo1wxAfyLto"
@@ -13,6 +12,9 @@ description: "A classic and citrusy cousin to the Mint Julep, this is a refreshi
 excerpt: |
   With bourbon, lemon and mint, the Whiskey Smash is a citrusy cousin to the Mint Julep. If that sounds good, wait until you make this recipe.
 date: 2025-08-11
+glass: rocks
+garnishes: mint_sprig
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +34,6 @@ date: 2025-08-11
 - Garnish: Lemon wheel & mint sprig
 - Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +75,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

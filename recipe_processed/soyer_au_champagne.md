@@ -5,7 +5,6 @@ title: "Soyer au Champagne"
 eras: [modern]
 categories: [after_dinner]
 permalink: "/recipe/soyer_au_champagne/"
-iconfile: soyer_au_champagne
 stars: 0
 base_spirits: ['Champagne', 'Cognac', 'Bénédictine']
 youtube: "mhXp-T53DAs"
@@ -13,6 +12,8 @@ description: "A luxurious and elegant classic cocktail, often described as an ad
 excerpt: |
   The Soyer au Champagne is a luxurious and elegant cocktail, often described as an adult version of an ice cream float. It's a delightful blend of cognac, orange curaçao, maraschino liqueur, Champagne, and vanilla ice cream.
 date: 2025-08-11
+glass: coupe
+type: stirred
 ---
 
 ### Ingredients
@@ -38,7 +39,6 @@ date: 2025-08-11
   1. Top with 1 to 1 <sup>1</sup>&frasl;<sub>2</sub> ounces of champagne.
   1. Serve with a small spoon.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -101,16 +101,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

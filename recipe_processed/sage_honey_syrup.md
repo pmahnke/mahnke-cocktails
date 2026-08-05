@@ -3,7 +3,6 @@ layout: recipe
 title: "Sage Honey Syrup"
 categories: [syrup]
 permalink: "/recipe/sage_honey_syrup/"
-iconfile: sage_honey_syrup
 stars: 0
 youtube: "EKyIy5iG87Q"
 excerpt: |
@@ -26,7 +25,6 @@ date: 2025-07-07
 3. Remove from heat and steep for up to 24 hours.
 4. After 24 hours, remove sage leaves and store sealed in the fridge for up to 2 months.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -48,16 +46,11 @@ date: 2025-07-07
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

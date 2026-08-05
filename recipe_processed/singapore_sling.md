@@ -6,7 +6,6 @@ title: "Singapore Sling"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/singapore_sling/"
-iconfile: singapore_sling
 stars: 4
 base_spirits: ['London Dry Gin', 'Cherry Liqueur', 'Bénédictine', 'Triple Sec']
 youtube: "EjRcajuUkJk"
@@ -15,6 +14,12 @@ description: "A classic and complex long drink from Singapore, developed in 1915
 excerpt: |
   The Singapore sling is a gin-based sling cocktail from Singapore. This long drink was reputed to have been developed in 1915 by Ngiam Tong Boon, a bartender at the Long Bar in Raffles Hotel, Singapore.
 date: 2025-08-11
+glass: highball
+garnishes:
+  - maraschino_cherry
+  - lime_wheel
+  - pineapple_wedge
+type: shaken
 ---
 
 <div class="subrecipe" markdown="1">
@@ -72,7 +77,6 @@ date: 2025-08-11
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -126,16 +130,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

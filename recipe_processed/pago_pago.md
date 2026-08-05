@@ -5,7 +5,6 @@ title: "Pago Pago"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/pago_pago/"
-iconfile: pago_pago
 stars: 0
 base_spirits: ['Rhum Agricole', 'Green Chartreuse', 'White Crème de Cacao']
 youtube: "6FZtQNdTReg"
@@ -13,6 +12,7 @@ description: "The cocktail combines rum, pineapple, lime, crème de cacao, and C
 excerpt: |
   The Pago Pago Cocktail first appeared in the 1940 edition of <u>The How and When</u> cocktail book. It remains one of the lesser-known classics of the tropical cocktail world, and is often described as a daiquiri variation with Green Chartreuse. The recipe combines rum, pineapple, lime, crème de cacao, and Chartreuse. The pineapple softens the herbal notes, while the cacao adds a touch of richness.
 date: 2026-06-13
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +36,6 @@ date: 2026-06-13
   - Add all other ingredients to the tin
   - Add ice and shake
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -91,16 +90,11 @@ date: 2026-06-13
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Embassy"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/embassy/"
-iconfile: embassy
 stars: 3
 base_spirits: ['Cognac', 'Jamaican Rum', 'Curaçao']
 youtube: "YFqEvNdPrX8"
@@ -13,6 +12,9 @@ description: "A classic cocktail from the 1930s Embassy Club in Hollywood, this 
 excerpt: |
   The Embassy Cocktail is a classic cocktail from the 1930s, originating from Hollywood's Embassy Club. It's a well-balanced and flavorful drink that combines brandy, rum, Cointreau, lime juice, and bitters.
 date: 2025-08-11
+glass: coupe
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2025-08-11
 - Garnish: Lime wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +77,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

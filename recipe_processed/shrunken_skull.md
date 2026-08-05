@@ -5,7 +5,6 @@ title: "Shrunken Skull"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/shrunken_skull/"
-iconfile: shrunken_skull
 stars: 0
 base_spirits: ['Demerara Rum', 'Gold Rum']
 youtube: "pTBVVi20ONk"
@@ -13,6 +12,9 @@ description: "A classic tiki cocktail similar to a Daiquiri, with a touch of mys
 excerpt: |
   The Shrunken Skull is a classic Tiki cocktail that is a bit like a Daiquiri, but with a touch of mystery and a spooky presentation.
 date: 2025-08-11
+garnishes: maraschino_cherry
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: Pineapple fronds and cocktail umbrella for garnish
 - Special Prep: Add the cherry to the glass before straining the cocktail
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +85,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

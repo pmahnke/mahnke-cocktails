@@ -5,7 +5,6 @@ title: "Chicago Fizz"
 categories: [fizz]
 eras: [classic]
 permalink: "/recipe/chicago_fizz/"
-iconfile: chicago_fizz
 stars: 0
 base_spirits: ['Jamaican Rum', 'Ruby Port']
 youtube: "bzN1zwAqgSY"
@@ -13,6 +12,8 @@ description: "This is a sophisticated, pre-Prohibition classic featuring a rich 
 excerpt: |
   The Chicago Fizz is a sophisticated, pre-Prohibition classic that combines the rich depth of dark rum and ruby port with lemon juice, sugar, and an egg white. This shaken mixture is topped with soda water to create a velvety, frothy texture that balances its bold, wine-driven profile.
 date: 2026-04-05
+glass: highball
+type: shaken
 ---
 
 ### Ingredients
@@ -42,7 +43,6 @@ date: 2026-04-05
 
 
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -110,16 +110,11 @@ date: 2026-04-05
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

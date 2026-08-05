@@ -6,7 +6,6 @@ title: "Zombie"
 categories: [tiki]
 eras: [classic]
 permalink: "/recipe/zombie/"
-iconfile: zombie
 stars: 0
 base_spirits: ['Jamaican Rum', 'Gold Rum', 'Demerara Rum']
 youtube: '\_eCla7H-TA0&t=4s'
@@ -14,6 +13,11 @@ description: "A notoriously potent classic tiki cocktail from 1934, featuring a 
 excerpt: |
   Created by Don Beach in 1934 at Don the Beachcomber's in Hollywood, USA. This recipe is adapted from one published in Jeff Berry's Sippin' Safari, which Jeff sourced from the 1937 notebook of Beachcomber's waiter Dick Santiago.
 date: 2025-08-11
+garnishes:
+  - mint_sprig
+  - cinnamon
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -41,7 +45,6 @@ date: 2025-08-11
 - Garnish: Mint Sprig
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -97,16 +100,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

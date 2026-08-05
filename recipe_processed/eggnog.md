@@ -5,7 +5,6 @@ title: "Eggnog"
 eras: [classic]
 categories: [eggnog]
 permalink: "/recipe/eggnog/"
-iconfile: eggnog
 stars: 4
 base_spirits: ['Demerara Rum', 'Amontillado Sherry']
 youtube: "s30L-iu171E"
@@ -13,6 +12,8 @@ description: "A creamy, festive classic cocktail perfect for the holidays, made 
 excerpt: |
   Eggnog is a creamy, festive cocktail that's perfect for the holiday season. It's made with a base of eggs, sugar, milk, and cream, and is typically flavored with spices like nutmeg, cinnamon, and cloves. Alcohol, such as brandy, rum, or bourbon, is often added to give it a kick.
 date: 2025-09-26
+glass: rocks
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-09-26
 - Garnish: Grated nutmeg for garnish
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +78,16 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

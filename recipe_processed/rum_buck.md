@@ -5,7 +5,6 @@ title: "Rum Buck"
 eras: [classic]
 categories: [buck]
 permalink: "/recipe/rum_buck/"
-iconfile: rum_buck
 stars: 4
 base_spirits: ['Dark Rum', 'Allspice Dram']
 youtube: "2EZBGowe0ho"
@@ -13,6 +12,10 @@ description: "A classic and refreshing highball made with dark rum, citrus, and 
 excerpt: |
   A buck is a cocktail that is made with ginger ale or ginger beer, citrus juice, and any of a number of base liquors. Buck cocktails are sometimes called mules.
 date: 2025-08-11
+glass: highball
+garnishes: lime_wheel
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +39,6 @@ date: 2025-08-11
   1. Pour the ginger beer into the glass while pouring the cocktail. 
   1. Add the allspice dram as a float
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -94,16 +96,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

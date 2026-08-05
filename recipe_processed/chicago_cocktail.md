@@ -5,7 +5,6 @@ author: "Anders Erickson"
 categories: [champagne]
 eras: [prohibition]
 permalink: "/recipe/chicago_cocktail/"
-iconfile: chicago_cocktail
 stars: 3
 base_spirits: ['Champagne', 'Cognac', 'Curaçao']
 youtube: "IAaiRENeyvc&t=639s"
@@ -13,6 +12,8 @@ description: "A classic Prohibition-era cocktail that starts like an Old Fashion
 excerpt: |
   The Chicago Cocktail is a classic cocktail that has been around for over 100 years. It is somewhat similar to an Old Fashioned in that it starts with brandy and bitters. Instead of sugar, it calls for a dash of curaçao and instead of a splash of soda it is topped up with champagne.
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Special Prep: Pour cocktail into glass and top it off with champagne and to with
   expressed orange OR lemon oil.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -79,16 +79,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

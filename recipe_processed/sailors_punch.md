@@ -5,7 +5,6 @@ title: "Sailor's Punch"
 categories: [punch]
 eras: [modern]
 permalink: "/recipe/sailors_punch/"
-iconfile: sailors_punch
 stars: 5
 base_spirits: ['Bourbon']
 youtube: "https://www.drinkhacker.com/2012/12/21/recipe-sailors-punch/?srsltid=AfmBOoqzZTlPxVyXac4u_SJrB194R2YUDjzuI70tpQ9W_dKhlU80dPXC"
@@ -13,6 +12,7 @@ description: "A modern punch recipe featuring bourbon as its base spirit."
 excerpt: |
   This punch was served at Slightly Oliver, a restaurant that has long since closed. It was my favorite drink they served. I was lucky enough to have found the recipe online.
 date: 2025-08-11
+garnishes: cinnamon
 ---
 
 ### Ingredients
@@ -37,7 +37,6 @@ date: 2025-08-11
   1. Bring to a boil, then let rest until cool.
   1. Strain.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -93,16 +92,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -6,7 +6,6 @@ title: "Tom & Jerry"
 eras: [classic]
 categories: [eggnog]
 permalink: "/recipe/tom_and_jerry/"
-iconfile: tom_and_jerry
 stars: 0
 base_spirits: ['Jamaican Rum', 'Demerara Rum', 'Cognac']
 youtube: "tfPrLUlFO8k"
@@ -14,6 +13,7 @@ description: "A classic hot eggnog variation, served warm and featuring a rich b
 excerpt: |
   It is a variant of eggnog with brandy and rum added and served hot, usually in a mug or a bowl. Separate eggs.
 date: 2025-12-23
+garnishes: cinnamon
 ---
 
 <div class="subrecipe" markdown="1">
@@ -66,7 +66,6 @@ date: 2025-12-23
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -108,16 +107,11 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Arnaud Martini"
 categories: [cocktail, martini]
 eras: [modern]
 permalink: "/recipe/arnaud_martini/"
-iconfile: arnaud_martini
 stars: 0
 base_spirits: ['London Dry Gin', 'Crème de Cassis', 'Blanc Vermouth']
 youtube: "FI4wUOzJvUE"
@@ -13,6 +12,8 @@ description: "A classic cocktail that features gin, dry vermouth, and crème de 
 excerpt: |
   The Arnaud cocktail is a classic, equal-parts drink, initially called the Parisian, and is distinct from the Arnaud's Special (a different cocktail made with Scotch and Dubonnet). Its name, The Arnaud or Arnaud Martini, is associated with the pre-war French actress, singer, and pianist Yvonne Arnaud. The cocktail is made by stirring equal parts gin (often London Dry or a bolder, over-proof gin), dry vermouth, and crème de cassis with ice, and then straining the mixture into a chilled coupe or cocktail glass, sometimes garnished with a blackberry. It offers a slightly sweet palate due to the blackcurrant liqueur, followed by a dry finish from the gin and vermouth, making it a flavorful and often recommended choice as a dessert or after-dinner martini.
 date: 2025-11-15
+glass: coupe
+type: stirred
 ---
 
 ### Ingredients
@@ -31,7 +32,6 @@ date: 2025-11-15
 - Garnish: Lemon peel
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +72,11 @@ date: 2025-11-15
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

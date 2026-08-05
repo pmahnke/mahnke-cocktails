@@ -6,7 +6,6 @@ title: "Bitter Giuseppe"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/bitter_giuseppe/"
-iconfile: bitter_giuseppe
 stars: 0
 base_spirits: ['Cynar', 'Sweet Vermouth']
 youtube: "AHPatRO71U8"
@@ -14,6 +13,8 @@ description: "A modern classic, low-ABV cocktail that uses the artichoke-based a
 excerpt: |
   This low ABV cocktail is considered a modern classic, and is responsible for numerous variations. It was created by Stephan Cole at the Violet Hour in Chicago. It’s often compared to a Negroni because of its bitter finish, but the build is very different. This is one of the rare instances we'll stir a drink containing citrus! And it's a great pre-dinner drink.
 date: 2025-08-11
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -36,7 +37,6 @@ date: 2025-08-11
 - Garnish: Lemon Peel
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -87,16 +87,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

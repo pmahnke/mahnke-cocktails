@@ -5,7 +5,6 @@ title: "Apple Old Fashioned"
 categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/apple_old_fashioned/"
-iconfile: apple_old_fashioned
 stars: 4
 base_spirits: ['Bourbon']
 youtube: "rWu7oPKxN4U"
@@ -13,6 +12,8 @@ description: "Following the traditional Old Fashioned template of spirit, sugar,
 excerpt: |
   This is an Anders original and a cozy fall twist on the classic. Following the traditional Old Fashioned template of spirit, sugar, and bitters, the sweetener here is an apple cider reduction.
 date: 2025-10-31
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-10-31
 - Garnish: Apple slices
 - Special Prep: Expressed orange oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +84,16 @@ date: 2025-10-31
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

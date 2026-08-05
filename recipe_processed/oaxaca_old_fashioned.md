@@ -5,7 +5,6 @@ title: "Oaxaca Old Fashioned"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/oaxaca_old_fashioned/"
-iconfile: oaxaca_old_fashioned
 stars: 0
 base_spirits: ['Reposado Tequila', 'Mezcal']
 youtube: "LkXW1diKOvs"
@@ -13,6 +12,8 @@ description: "A modern classic from 2007 that kicked off the mezcal craze, split
 excerpt: |
   The Oaxaca Old Fashioned helped kick off the mezcal craze in the United States. Created in 2007 by New York bartender Phil Ward, the Oaxaca Old Fashioned introduced countless drinkers to the earthy spirit, which was unfamiliar to most consumers at the time. Ward first made the cocktail at Death & Co., the pioneering East Village bar, before placing it on the menu at Mayahuel, the dearly departed bar that he opened down the street.
 date: 2025-08-11
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -36,7 +37,6 @@ date: 2025-08-11
   - Blend cocktail with a stick blender in the shaking tin.
   - Pour cocktail into glass.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -94,16 +94,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

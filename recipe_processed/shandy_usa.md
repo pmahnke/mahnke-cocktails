@@ -5,7 +5,6 @@ title: "American Shandy"
 categories: [beer, highball]
 eras: [classic]
 permalink: "/recipe/shandy_usa/"
-iconfile: shandy_usa
 stars: 0
 base_spirits: ['Lager']
 youtube: "gu5hZ5Rb8nc&t=236s"
@@ -13,6 +12,7 @@ description: "This is a refreshing, low-alcohol drink made by mixing beer (typic
 excerpt: |
   This simple beer cocktail has been evolving ever since its origins as the Shandygaff in England. It's only two ingredients, lemonade and beer. The American version is made with still lemonade, which is more of a flat drink.
 date: 2026-07-11
+glass: highball
 ---
 
 ### Ingredients
@@ -30,7 +30,6 @@ date: 2026-07-11
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -70,16 +69,11 @@ date: 2026-07-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

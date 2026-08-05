@@ -5,7 +5,6 @@ title: "Alexander"
 categories: [cocktail, after_dinner]
 eras: [classic]
 permalink: "/recipe/alexander/"
-iconfile: alexander
 stars: 0
 base_spirits: ['London Dry Gin', 'Crème de Cacao']
 youtube: "mBGgu3qRztY"
@@ -13,6 +12,8 @@ description: "A creamy and decadent classic that combines gin with the chocolate
 excerpt: |
   The Alexander is a classic, indulgent dessert cocktail that dates back to the early 20th century. It traditionally consists of a rich blend of gin, crème de cacao, and heavy cream, though it is most famously known today in its brandy-based variation. Shaken with ice and served up in a chilled coupe or cocktail glass, the drink is finished with a fresh dusting of nutmeg to enhance its aromatic profile. Its silky texture and balanced sweetness make it a timeless choice for those who enjoy a sophisticated, creamy digestif.
 date: 2026-03-01
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -31,7 +32,6 @@ date: 2026-03-01
 - Garnish: Grated nutmeg
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +72,11 @@ date: 2026-03-01
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

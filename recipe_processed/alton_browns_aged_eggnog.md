@@ -6,7 +6,6 @@ title: "Alton Brown’s Aged Eggnog"
 categories: [eggnog, dairy]
 eras: [classic]
 permalink: "/recipe/alton_browns_aged_eggnog/"
-iconfile: alton_browns_aged_eggnog
 stars: 0
 base_spirits: ['Jamaican Rum', 'Cognac', 'Bourbon']
 youtube: "s7Rcx7Fekn4"
@@ -16,6 +15,7 @@ excerpt: |
   Although most Americans think of eggnog as something they get out of a milk carton during the two-week period leading up to December 25, eggnog actually descends from sack posset, a strong, thick English beverage built upon eggs, milk, and either a fortified wine (like Madeira) or ale.<br><br>
   Add depth and complexity to this classic Christmas cocktail by using a mix of spirits and allowing it to age.
 date: 2025-11-26
+glass: rocks
 ---
 
 ### Ingredients
@@ -44,7 +44,6 @@ date: 2025-11-26
   - Combine dairy, booze, and salt in separate vessel and slowly beat into egg mixture.
   - Move to glass jars and store sealed in the fridge.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -104,16 +103,11 @@ date: 2025-11-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

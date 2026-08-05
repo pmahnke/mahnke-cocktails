@@ -5,13 +5,16 @@ title: "Devil's Day Off"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/devils_day_off/"
-iconfile: devils_day_off
 stars: 0
 youtube: "5wgvpo-xBnA"
 description: "A refreshing non-alcoholic cocktail that features a combination of grapefruit, lime, agave, cinnamon, and the bittersweet notes of Sanbitter soda."
 excerpt: |
   The Devil's Day Off is a refreshing and easy-to-make non-alcoholic cocktail created by Anders Erickson. It features a combination of grapefruit juice, lime juice, agave nectar, cinnamon, and Sanbitter soda. The drink is garnished with a sprig of rosemary.
 date: 2025-08-11
+glass: highball
+garnishes: cinnamon
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +37,6 @@ date: 2025-08-11
 - Garnish: Sprig of Rosemary
 - Special Prep: Shake cocktail and pour into the glass. Top with red bitter soda.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -85,16 +87,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

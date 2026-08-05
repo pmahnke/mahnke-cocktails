@@ -5,7 +5,6 @@ title: "Momisette"
 eras: [prohibition]
 categories: [fizz]
 permalink: "/recipe/momisette/"
-iconfile: momisette
 stars: 4.5
 base_spirits: ['Absinthe']
 youtube: "ABntm6FL8wc"
@@ -13,6 +12,9 @@ description: "A sparkling and refreshing Prohibition-era fizz that combines the 
 excerpt: |
   The Momisette is a sparkling blend of pastis and orgeat served over ice. It’s easy to make and tastes great on a warm day.
 date: 2025-08-11
+glass: highball
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Single strain into glass, top the drink with the sparkling water.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +85,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -3,12 +3,12 @@ layout: recipe
 title: "Hibiscus Syrup"
 categories: [syrup]
 permalink: "/recipe/hibiscus_syrup/"
-iconfile: hibiscus_syrup
 stars: 0
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
   Original recipe by Shannon Mustipher, made from dried hibiscus flowers, which are steeped in a simple sugar syrup to create a vibrant red liquid.
 date: 2025-07-07
+garnishes: cinnamon
 ---
 
 ### Ingredients
@@ -28,7 +28,6 @@ date: 2025-07-07
 4. Remove from heat, let sit for 1 hour.
 5. Once cooled, filter off solids. Store sealed in fridge for up to 2 weeks.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -51,16 +50,11 @@ date: 2025-07-07
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

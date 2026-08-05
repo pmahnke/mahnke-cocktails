@@ -6,7 +6,6 @@ title: "Churchill"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/churchill/"
-iconfile: churchill
 stars: 3
 base_spirits: ['Blended Scotch', 'Triple Sec', 'Sweet Vermouth']
 youtube: "https://www.foodandwine.com/churchill-cocktail-recipe-11686043"
@@ -14,6 +13,10 @@ description: "A mid-century classic named for the British prime minister, this i
 excerpt: |
   A mid-century classic, the Churchill is a whisky cocktail that incorporates Blended Scotch, sweet vermouth, orange liqueur, and lime juice. Essentially, it’s a modified version of the Whiskey Sour template, though one that incorporates elements of a classic Manhattan.<br><br>The drink was created by Joe Gilmore during his time as head bartender at the legendary American Bar located in London’s Savoy Hotel. Having joined the Savoy as a commis waiter while he was still under 18 years old, Gilmore made the acquaintance of many of the hotel’s famous patrons, including Frank Sinatra, Neil Armstrong, Charles De Gaulle, and two-time British prime minister Winston Churchill. The latter became the inspiration behind this drink, which uses a base of Scotch whisky, Churchill’s preferred spirit.<br><br>When presented with the drink, it’s said Churchill returned the favor by gifting Gilmore one of his Cuban cigars.
 date: 2025-12-09
+glass: coupe
+type:
+  - shaken
+  - blended
 ---
 
 ### Ingredients
@@ -33,7 +36,6 @@ date: 2025-12-09
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -75,16 +77,16 @@ date: 2025-12-09
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

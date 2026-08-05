@@ -6,7 +6,6 @@ title: "12 Mile Limit"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/12_mile_limit/"
-iconfile: 12_mile_limit
 stars: 3.75
 base_spirits: ['White Rum', 'Rye', 'Cognac']
 youtube: "6M6Xu_URmPg"
@@ -17,6 +16,8 @@ excerpt: |
   As the number of offshore parties grew, the US negotiated agreements with countries such as the UK and France to recognize the right of the American authorities to enforce Prohibition and anti-smuggling laws to an extended 12-mile limit. Predictably, the parties moved further off-shore. On 29th December 1988, President Reagan extended the territorial waters of the United States to 12 miles from 3 miles.<br><br>
   The notoriety of the three-mile and then 12-mile limit to the reach of the Feds during Prohibition led to the Three Miller/Three Mile Limit the Twelve Miles Out, and the Twelve Mile Limit cocktails. The Twelve Mile limit is a rye whiskey laced Three Miller as the limit was extended, so the cocktail was made stronger.
 date: 2025-08-11
+glass: rocks
+type: shaken
 ---
 
 ### Ingredients
@@ -37,7 +38,6 @@ date: 2025-08-11
 - Garnish: Lemon Swath
 - Special Prep: Express the lemon oil over the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -80,16 +80,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.75",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -3,7 +3,6 @@ layout: recipe
 author: Anders Erickson
 creator: Justin Elliott
 title: "Tradewinds Negroni"
-iconfile: tradewinds_negroni
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/tradewinds_negroni/"
@@ -14,6 +13,8 @@ description: "A modern Negroni variation that uses Angostura bitters as a key fl
 excerpt: |
   Adapted from a recipe created by Justin Elliott at The Townsend, Austin, Texas, USA.
 date: 2025-08-11
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-08-11
 - Garnish: Expressed orange oil and peel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -83,16 +83,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

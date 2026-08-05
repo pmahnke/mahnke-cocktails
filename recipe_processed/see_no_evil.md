@@ -5,7 +5,6 @@ title: "See No Evil"
 categories: [sour]
 eras: [anders]
 permalink: "/recipe/see_no_evil/"
-iconfile: see_no_evil
 stars: 0
 base_spirits: ['Mezcal']
 youtube: "xRJ9uAzTcaE"
@@ -13,6 +12,10 @@ description: "A smoky and spicy original sour cocktail featuring mezcal as its b
 excerpt: |
   The See No Evil is a smoky, spicy cocktail created by Anders Erickson.
 date: 2025-08-11
+glass: rocks
+garnishes: mint_sprig
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -35,7 +38,6 @@ date: 2025-08-11
 - Garnish: Grated nutmeg and mint sprig
 - Special Prep: Open pour the cocktail into the glass. Top with additional crushed ice. Dash bitters on top.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +88,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

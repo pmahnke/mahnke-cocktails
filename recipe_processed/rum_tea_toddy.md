@@ -5,7 +5,6 @@ title: "Rum & Black Tea Toddy"
 categories: [toddy]
 eras: [classic, modern]
 permalink: "/recipe/rum_tea_toddy/"
-iconfile: rum_tea_toddy
 stars: 0
 base_spirits: ['Jamaican Rum']
 youtube: "DJtBN6yBnsA"
@@ -13,6 +12,7 @@ description: "A comforting and classic hot toddy that combines the warmth of Jam
 excerpt: |
   The classic hot toddy is a comforting and warming beverage that has been used for centuries to soothe ailments and warm the soul.
 date: 2025-08-11
+garnishes: cinnamon
 ---
 
 ### Ingredients
@@ -34,7 +34,6 @@ date: 2025-08-11
 - Garnish: Clove-studded lemon peel
 - Special Prep: Express the lemon oil over the drink, then stud the peel with the cloves
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +77,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

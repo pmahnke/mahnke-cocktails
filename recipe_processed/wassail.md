@@ -5,7 +5,6 @@ title: "Wassail"
 eras: [classic]
 categories: [punch]
 permalink: "/recipe/wassail/"
-iconfile: wassail
 stars: 0
 base_spirits: ['Apple Brandy', 'Amontillado Sherry', 'Dark Ale']
 youtube: "9cp5upHowwI"
@@ -13,6 +12,7 @@ description: "A warm, spiced classic beverage with ancient roots, traditionally 
 excerpt: |
   Wassail is a warm, spiced beverage with a rich history dating back to ancient England. It's traditionally made with mulled cider, ale, or wine, sweetened with honey or sugar, and flavored with warming spices like cinnamon, cloves, and nutmeg. It is often spiked with brandy and/or sherry.
 date: 2025-09-26
+garnishes: cinnamon
 ---
 
 ### Ingredients
@@ -37,7 +37,6 @@ date: 2025-09-26
 - Garnish: Dried Apples
 - Special Prep: Add spices to a spice bag.Add apple cider and the spice bag to a pot and heat.Add remaining ingredients to the pot.Simmer covered for 20 to 25 minutes.Turn off the heat, remove spice bag and add the apple brandy. Serve in tea cups garnished with the dries apple slices.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +83,11 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

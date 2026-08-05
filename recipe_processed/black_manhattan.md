@@ -6,7 +6,6 @@ title: "Black Manhattan"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/black_manhattan/"
-iconfile: black_manhattan
 stars: 4
 base_spirits: ['Rye', 'Averna']
 youtube: "YWKJsv8PymI&t=205s"
@@ -14,6 +13,9 @@ description: "A modern classic from 2015 that replaces the sweet vermouth in a t
 excerpt: |
   Adapted from a recipe created in 2015 by Todd Smith at Bourbon &amp; Branch in San Francisco, USA.
 date: 2025-09-26
+glass: martini
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2025-09-26
 - Garnish: Cocktail Cherry
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -75,16 +76,16 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -6,7 +6,6 @@ title: "Eastside"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/eastside/"
-iconfile: eastside
 stars: 3
 base_spirits: ['London Dry Gin']
 youtube: "0iFzihjeyXg"
@@ -14,6 +13,10 @@ description: "A modern gin-based sour from 2004, essentially a Southside with th
 excerpt: |
   The Eastside is a gin-based drink made with fresh cucumber and mint, lime juice, and simple syrup, created by George Delgado in 2004 in New York City.
 date: 2025-08-11
+glass: coupe
+garnishes: mint_sprig
+tools: muddler
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +37,6 @@ date: 2025-08-11
 - Garnish: Mint leaf or a slice of Cucumber
 - Special Prep: Start by adding your gin, lime and simple syrup to a cocktail shaker then drop in 2-3 cucumber slices and firmly muddle into the liquid. Once muddled, and 6 mint leaves and lightly crush them with your muddler. Add ice, shake for 10 seconds, and double strain into a chilled cocktail glass. Finish it off with a cool cucumber garnish, or drop in a floating mint leaf.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +79,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

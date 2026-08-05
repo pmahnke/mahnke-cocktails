@@ -6,8 +6,7 @@ title: "Cloud Sour"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/cloud_sour/"
-iconfile: cloud_sour
-stars:
+stars: 0
 base_spirits: ['London Dry Gin', 'Melon Liqueur']
 youtube: ""
 description: "A modern sour with a funky, umami-rich character derived from the use of shio koji, a fermented rice marinade."
@@ -16,6 +15,8 @@ excerpt: |
 
   Seed Library via [The Guardian](https://www.theguardian.com/food/2025/mar/28/cocktail-of-the-week-seed-library-cloud-sour-recipe)
 date: 2026-01-16
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -37,7 +38,6 @@ date: 2026-01-16
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -81,16 +81,11 @@ date: 2026-01-16
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

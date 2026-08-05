@@ -6,7 +6,6 @@ creator: 1700 Cocktails for the Man Behind the Bar
 categories: [shot, pousse_cafe]
 eras: [prohibition]
 permalink: "/recipe/corpse_reviver_3_defleury/"
-iconfile: corpse_reviver_3_defleury
 stars: 4
 base_spirits: ['Maraschino Liqueur', 'Curaçao', 'Cognac']
 youtube: "kBHi_atZsbM"
@@ -32,7 +31,6 @@ date: 2025-10-20
 - Garnish: None
 - Special Prep: Layer each ingredient carefully to show the individual layers.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -73,16 +71,16 @@ date: 2025-10-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

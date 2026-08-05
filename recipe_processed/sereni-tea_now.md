@@ -5,12 +5,13 @@ categories: [mocktail]
 eras: [anders]
 title: "Sereni-Tea Now!"
 permalink: "/recipe/sereni-tea_now/"
-iconfile: sereni-tea_now
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A non-alcoholic drink featuring the flavors of pear, grenadine, lemon, and roasted Hojicha tea."
 excerpt: |
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
   - Take a can of pears and their syrup and blend them into a prrée.
   - Expressed lemon oil.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +82,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

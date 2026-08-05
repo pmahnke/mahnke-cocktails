@@ -5,7 +5,6 @@ title: "French 75"
 eras: [prohibition]
 categories: [champagne]
 permalink: "/recipe/french75/"
-iconfile: french_75
 stars: 4.75
 base_spirits: ['Champagne', 'Cognac', 'Plymouth Gin']
 youtube: "Viz7yWfcmdo"
@@ -13,6 +12,9 @@ description: "A classic and celebratory sparkling cocktail that combines either 
 excerpt: |
   The French 75 is a sparkling cocktail that’s maintained its popularity for nearly a century. An effervescent twist on the Gin Sour, its simple to make and perfect to drink anytime.
 date: 2025-08-11
+glass: flute
+garnishes: lemon_twist
+type: shaken
 ---
 
 
@@ -62,7 +64,6 @@ date: 2025-08-11
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -104,16 +105,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.75",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

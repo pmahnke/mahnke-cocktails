@@ -5,7 +5,6 @@ title: "Cosmopolitan"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/cosmopolitan/"
-iconfile: cosmopolitan
 stars: 3
 base_spirits: ['Vodka', 'Triple Sec']
 youtube: "SP8Pc-Db7yQ"
@@ -13,6 +12,9 @@ description: "A modern classic known for its vibrant pink color, this is a tart 
 excerpt: |
   The Cosmopolitan is a simple cocktail with a big history. The "Cosmo" is known for its vibrant pink color and tart, sweet flavor. It gained widespread popularity in the 1990s, particularly after its association with the TV show "Sex and the City."
 date: 2025-08-11
+glass: coupe
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +34,6 @@ date: 2025-08-11
 - Garnish: Lime wheel
 - Special Prep: Expressed orange oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +75,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

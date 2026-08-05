@@ -5,7 +5,6 @@ title: "Elk's Own"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/elks_own/"
-iconfile: elks_own
 stars: 5
 base_spirits: ['Rye', 'Ruby Port']
 youtube: "zxDfN7UCTZs&t=34s"
@@ -13,6 +12,7 @@ description: "A complex and flavorful classic sour that blends the warmth of rye
 excerpt: |
   The Elk's Own is a classic cocktail with a rich history dating back to the 19th century. It's a complex and flavorful drink that blends the warmth of rye whiskey with the sweetness of port wine, balanced by tart lemon juice and a touch of sweetness from simple syrup. The addition of egg white creates a smooth, frothy texture.
 date: 2025-09-26
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +33,6 @@ date: 2025-09-26
 - Garnish: Grated nutmeg
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba. Raw Egg White / Aquafaba (chickpea water)
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +75,16 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Mai Tai"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/mai_tai/"
-iconfile: mai_tai
 stars: 4.5
 base_spirits: ['Jamaican Rum', 'Rhum Agricole', 'Curaçao', 'Dark Rum', 'Overproof Rum']
 youtube: "gYJsPE1demY"
@@ -13,6 +12,11 @@ description: "A quintessential tiki classic that balances two types of rum with 
 excerpt: |
   It’s time you had a proper Mai Tai from Latitude 29 and Jeff “Beachbum” Berry, the renowned Tiki historian.
 date: 2025-12-13
+garnishes:
+  - mint_sprig
+  - maraschino_cherry
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -44,7 +48,6 @@ date: 2025-12-13
   - Add the inverted lime shell and place the cocktail cherry inside. 
   - Fill the lime shell with 151 rum and light.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -125,16 +128,16 @@ date: 2025-12-13
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

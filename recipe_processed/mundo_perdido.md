@@ -6,7 +6,6 @@ title: "Mundo Perdido"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/mundo_perdido/"
-iconfile: mundo_perdido
 stars: 0
 base_spirits: ['Demerara Rum', 'Apple Brandy']
 youtube: "-DnpmdGBmgs&t=433s"
@@ -14,6 +13,9 @@ description: "A unique and flavorful modern tiki cocktail that features a combin
 excerpt: |
   The Mundo Perdido cocktail is a unique and flavorful tiki drink created by Jeff Beachbum Berry. It features a combination of dark rum, apple brandy, lemon juice, cinnamon syrup, and demerara syrup. The name "Mundo Perdido" translates to "Lost World" in Spanish, hinting at the cocktail's exotic and mysterious nature.
 date: 2025-08-11
+glass: coupe
+garnishes: cinnamon
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: Apple Slices
 - Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +78,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

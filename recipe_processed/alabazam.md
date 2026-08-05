@@ -6,7 +6,6 @@ creator: Leo Engel
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/alabazam/"
-iconfile: alabazam
 stars: 3
 base_spirits: ['Cognac', 'Triple Sec']
 youtube: "nXED2nkfEEQ"
@@ -14,6 +13,7 @@ description: "A 19th-century sour that enhances cognac with the orange notes of 
 excerpt: |
   A very appealing 19th century cocktail, invented in 1878 by Leo Engel at the Criterion in London. It was a twist on the Brandy Crusta.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +34,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +76,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

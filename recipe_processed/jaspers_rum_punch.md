@@ -5,7 +5,6 @@ title: "Jasper’s Rum Punch"
 categories: [punch]
 eras: [modern]
 permalink: "/recipe/jaspers_rum_punch/"
-iconfile: jaspers_rum_punch
 stars: 0
 base_spirits: ['Overproof Jamaican Rum']
 youtube: "sRTGCquUgMs"
@@ -13,6 +12,9 @@ description: "A classic Jamaican rum punch that uses a sweet, sour, and spicy se
 excerpt: |
   Jasper’s Rum Punch is a classic drink that requires a little prep, but is well worth the effort! Jasper LeFranc was a respected bartender who created a secret mix that he used in all his original drinks. Thankfully, he eventually gave up the secret. It’s a blend of four ingredients that are easy to source. The result’s a sweet, sour, and spicy combo that adds big flavor to this punch. Just add rum! Cheers!
 date: 2025-08-11
+glass: highball
+garnishes: mint_sprig
+ice: crushed
 ---
 
 ### Ingredients
@@ -32,7 +34,6 @@ date: 2025-08-11
 - Garnish: Grated nutmeg and mint sprig
 - Special Prep: Top glass with additional crushed ice
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -80,16 +81,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -6,7 +6,6 @@ title: "Angel Face"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/angel_face/"
-iconfile: angel_face
 stars: 3
 base_spirits: ['London Dry Gin', 'Apple Brandy', 'Apricot Liqueur']
 youtube: "2nHl1pBETt8"
@@ -14,6 +13,7 @@ description: "A classic, spirit-forward cocktail from the Prohibition era that p
 excerpt: |
   Adapted from a recipe in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i> which stipulates "Shake well and strain into cocktail glass," rather than to stir as modern convention dictates.
 date: 2025-09-26
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +32,6 @@ date: 2025-09-26
 - Garnish: Expressed orange oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -73,16 +72,16 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

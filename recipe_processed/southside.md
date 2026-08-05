@@ -5,7 +5,6 @@ title: "Southside"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/southside/"
-iconfile: southside
 stars: 4
 base_spirits: ['London Dry Gin']
 youtube: "yxFAGMuM2I"
@@ -13,6 +12,9 @@ description: "A simple and refreshing pre-Prohibition classic sour that combines
 excerpt: |
   This pre-Prohibition classic is a simple, refreshing mix of gin, citrus, mint and sugar. The exact origins are a bit murky - some say Chicago, others point to New York - but one thing’s clear: it’s a crowd pleaser. 
 date: 2025-08-11
+glass: rocks
+garnishes: mint_sprig
+type: shaken
 ---
 
 ### Ingredients
@@ -35,7 +37,6 @@ date: 2025-08-11
 - Garnish: Mint sprig
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +87,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

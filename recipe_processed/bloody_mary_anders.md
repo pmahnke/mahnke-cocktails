@@ -5,7 +5,6 @@ title: "Anders' Bloody Mary"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/bloody_mary_anders/"
-iconfile: bloody_mary_anders
 stars: 0
 base_spirits: ['Vodka', 'Amontillado Sherry']
 youtube: "V_LkOGZGDyo"
@@ -13,6 +12,8 @@ description: "A classic savory cocktail from the 1920s, featuring vodka and toma
 excerpt: |
   The Bloody Mary was invented in the 1920s or 1930s. There are various theories as to the origin of the drink and its name. It has many variants, most notably the Red Snapper, Bloody Maria (made with tequila blanco), and the Virgin Mary.
 date: 2025-09-26
+glass: pint
+ice: cubed
 ---
 
 <div class="subrecipe" markdown="1">
@@ -63,7 +64,6 @@ If you plan on making more than a few bloody marys, you should make a larger bat
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -98,16 +98,11 @@ If you plan on making more than a few bloody marys, you should make a larger bat
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

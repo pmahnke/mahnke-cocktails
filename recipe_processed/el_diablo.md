@@ -6,7 +6,6 @@ title: "El Diablo"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/el_diablo/"
-iconfile: el_diablo
 stars: 0
 base_spirits: ['Reposado Tequila', 'Crème de Cassis']
 youtube: "xN3ymSPZJjY"
@@ -14,6 +13,9 @@ description: "A classic tiki cocktail from the 1940s that combines reposado tequ
 excerpt: |
   The El Diablo cocktail first appeared in 1946 in a Trader Vic’s recipe book. It features tequila, crème de cassis, lime and ginger beer.
 date: 2025-08-11
+glass: highball
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -35,7 +37,6 @@ date: 2025-08-11
 - Garnish: Inverted lime rind filled with the Crème de cassis for an “interactive” garnish
 - Special Prep: Single strain into glass, top the drink with the ginger soda
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -85,16 +86,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

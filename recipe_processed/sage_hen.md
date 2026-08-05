@@ -5,7 +5,6 @@ title: "Sage Hen"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/sage_hen/"
-iconfile: sage_hen
 stars: 0
 base_spirits: ['Plymouth Gin', 'Yellow Chartreuse']
 youtube: "EKyIy5iG87Q"
@@ -13,6 +12,7 @@ description: "A modern sour that showcases the unique savory and sweet flavors o
 excerpt: |
   The Sage Hen is a modern cocktail that showcases the unique flavors of sage and honey.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +33,6 @@ date: 2025-08-11
 - Garnish: Sage leaf
 - Special Prep: Dice the apple piece into 1/2 inch pieces, and drop them into the shaker tin. Muddle the apple piece in the shaker tin.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +75,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

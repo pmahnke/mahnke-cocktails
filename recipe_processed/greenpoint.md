@@ -6,7 +6,6 @@ title: "Greenpoint"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/greenpoint/"
-iconfile: greenpoint
 stars: 3.5
 base_spirits: ['Rye', 'Yellow Chartreuse', 'Sweet Vermouth']
 youtube: "h68b0qgAkAg"
@@ -14,6 +13,8 @@ description: "A modern classic and Manhattan variation from the early 2000s, nam
 excerpt: |
   The Greenpoint was created by Michael McIlroy of Milk and Honey. Inspired by Vincenzo Errico's Red Hook Cocktail, he whipped up his own variation also named for the neighborhood in Brooklyn, NY he was living in. These two cocktails created an entire series of manhattan variations named from neighborhoods in Brooklyn and have inspired many bartenders from elsewhere to create their own manhattan variations named for neighborhoods in their own city.
 date: 2025-08-11
+glass: coupe
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-08-11
 - Garnish: Lemon peel
 - Special Prep: Express lemon oil over the cocktail
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +77,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

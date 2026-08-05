@@ -3,7 +3,6 @@ layout: recipe
 title: "Cocoa Nib Infused Campari"
 categories: [syrup, amaro]
 permalink: "/recipe/cocoa_nib_campari/"
-iconfile: cocoa_nib_campari
 stars: 0
 base_spirits: ['Campari']
 youtube: "u0N9FFJ1i5c"
@@ -28,7 +27,6 @@ Method:
 3. Allow to infuse for 1-2 hours (I like a longer infusion).
 4. Strain off cocoa nibs.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -49,16 +47,11 @@ Method:
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

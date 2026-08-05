@@ -3,7 +3,6 @@ layout: recipe
 title: "Grenadine Syrup"
 categories: [syrup]
 permalink: "/recipe/grenadine_syrup/"
-iconfile: grenadine_syrup
 stars: 0
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |
@@ -27,7 +26,6 @@ date: 2025-07-07
 3. Remove from heat and add rose water.
 4. Stir to combine.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -50,16 +48,11 @@ date: 2025-07-07
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

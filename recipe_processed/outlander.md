@@ -6,7 +6,6 @@ title: "Outlander"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/outlander/"
-iconfile: outlander
 stars: 0
 base_spirits: ['Blended Scotch', 'Maraschino Liqueur', 'Absinthe']
 youtube: "https://youtube.com/shorts/MpgNJvGkhL8?si=qAvritlH-ONJH-4f"
@@ -14,6 +13,9 @@ description: "A smoky twist on an Old Fashioned, blending Blended Scotch with Ma
 excerpt: |
   The Outlander, created by Mikki Kristola, is a sophisticated, Scotch-based cocktail that reimagines the classic Old Fashioned structure with an improved, herbaceous profile. It features two ounces of Blended Scotch, lending a smoky and malty foundation, complemented by a half-ounce of sweet, nutty Maraschino Liqueur. A double-dash of aromatic Peychaud's Bitters and a couple of dashes of Absinthe introduce an intriguing layer of anise and spice. Garnish with a lemon twist and a cherry to brighten the rich, warming character of this Varnish original.
 date: 2025-12-10
+glass: rocks
+garnishes: maraschino_cherry
+type: blended
 ---
 
 ### Ingredients
@@ -35,7 +37,6 @@ date: 2025-12-10
 - Garnish: Cocktail cherry and lemon peel
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -85,16 +86,11 @@ date: 2025-12-10
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

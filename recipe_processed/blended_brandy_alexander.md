@@ -5,7 +5,6 @@ title: "Blended Brandy Alexander"
 categories: [after_dinner, ice_cream]
 eras: [modern]
 permalink: "/recipe/blended_brandy_alexander/"
-iconfile: blended_brandy_alexander
 stars: 0
 base_spirits: ['Brandy', 'White Crème de Cacao']
 youtube: "8FS1ILeY8Ds"
@@ -13,6 +12,9 @@ description: "The Blended Brandy Alexander is a creamy, indulgent treat that ble
 excerpt: |
   The Blended Brandy Alexander captures the essence of the classic cocktail in a frozen dessert. Creamy vanilla ice cream is infused with premium brandy and a touch of chocolate liqueur, creating a smooth, velvety texture. Each bite is rich and indulgent, offering a harmonious blend of sweet, boozy, and chocolate notes.
 date: 2025-12-06
+garnishes: maraschino_cherry
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -37,7 +39,6 @@ date: 2025-12-06
   - Top with [Bénédictine Whipped Cream]({%link recipe_processed/benedictine_whipped_cream.md%}).
 
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -92,16 +93,11 @@ date: 2025-12-06
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

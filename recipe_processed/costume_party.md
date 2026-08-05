@@ -5,7 +5,6 @@ title: "The Costume Party"
 categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/costume_party/"
-iconfile: costume_party
 stars: 0
 base_spirits: ['Vodka', 'White Crème de Cacao', 'Apricot Liqueur']
 youtube: "i67-17-CZCQ"
@@ -13,6 +12,8 @@ description: "An original cocktail with a complex profile of vodka, white crème
 excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Sugared Rim
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

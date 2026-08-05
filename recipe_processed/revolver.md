@@ -5,7 +5,6 @@ title: "Revolver"
 eras: [modern]
 categories: [Coffee, Cocktail]
 permalink: "/recipe/revolver/"
-iconfile: revolver
 stars: 0
 base_spirits: ['Bourbon', 'Coffee Liqueur']
 youtube: "mFOZcQvZ6oY"
@@ -13,6 +12,8 @@ description: "A modern classic from San Francisco, this is an exceptional coffee
 excerpt: |
   A San Francisco original, and an exceptional coffee-laced riff on the Manhattan.
 date: 2025-08-11
+glass: coffee
+type: shaken
 ---
 
 ### Ingredients
@@ -31,7 +32,6 @@ date: 2025-08-11
 - Garnish: Flamed orange oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +72,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

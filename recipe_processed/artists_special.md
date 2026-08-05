@@ -5,7 +5,6 @@ title: "Artist's Special"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/artists_special/"
-iconfile: artists_special
 stars: 5
 base_spirits: ['Bourbon', 'Amontillado Sherry']
 youtube: "-Uhu81wqOl8"
@@ -15,6 +14,7 @@ excerpt: |
 
   Exactly the same recipe appears three years later in Harry Craddock's 1930 <em>The Savoy Cocktail Book</em>.
 date: 2025-10-20
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +34,6 @@ date: 2025-10-20
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +75,16 @@ date: 2025-10-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

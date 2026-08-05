@@ -5,7 +5,6 @@ title: "Paloma (two ways)"
 eras: [modern]
 categories: [highball]
 permalink: "/recipe/paloma/"
-iconfile: paloma
 stars: 0
 base_spirits: ['Blanco Tequila']
 youtube: "yyVU7U-8WLc"
@@ -13,6 +12,9 @@ description: "A simple, classic, and incredibly refreshing Mexican highball that
 excerpt: |
   Paloma is Spanish for 'dove'. Its origins are unknown although it is reputed to date back to the 1950s. Some attribute its creation to the legendary Don Javier Delgado Corona, the former owner/bartender of La Capilla (The Chapel) in Tequila, Mexico, who created the Batanga.									
 date: 2025-08-11
+glass: highball
+ice: cubed
+type: shaken
 ---
 
 <div class="subrecipe" markdown="1">
@@ -71,7 +73,6 @@ date: 2025-08-11
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -133,16 +134,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

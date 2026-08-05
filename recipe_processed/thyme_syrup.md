@@ -4,12 +4,12 @@ author: Anders Erickson
 title: "Thyme-Infused Syrup"
 categories: [syrup]
 permalink: "/recipe/thyme_syrup/"
-iconfile: thyme_syrup
 stars: 0
 youtube: "ZE3G8aUyOn0"
 excerpt: |
   Thyme syrup is a simple syrup infused with the flavor of thyme. It's a versatile ingredient that can be used in a variety of drinks and dishes.
 date: 2025-07-07
+garnishes: thyme
 ---
 
 ### Ingredients
@@ -26,7 +26,6 @@ date: 2025-07-07
 2. Stir to dissolve. Add fresh thyme and simmer for 10 minutes (don't boil!).
 3. Once cooled, remove thyme sprigs & strain syrup to catch any little thyme bits.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -48,16 +47,11 @@ date: 2025-07-07
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

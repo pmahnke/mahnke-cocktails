@@ -5,7 +5,6 @@ title: "Frozoni"
 categories: [amaro, champagne]
 eras: [anders]
 permalink: "/recipe/frozoni/"
-iconfile: frozoni
 stars: 0
 base_spirits: ['London Dry Gin', 'Campari', 'Prosecco']
 youtube: "ipHnOhkGWug"
@@ -13,6 +12,9 @@ description: "A frozen, slushy variation of the Enzoni cocktail, blending gin, C
 excerpt: |
   The Frozoni is a frozen variation of the Enzoni cocktail, a modern classic that combines muddled grapes with Campari, gin, lemon juice, and simple syrup. The Frozoni adds frozen grapes and Prosecco or other sparkling wine to the mix, creating a refreshing and bubbly slushy drink.
 date: 2025-08-11
+glass: highball
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: Grape
 - Special Prep: Add  <sup>3</sup>&frasl;<sub>4</sub> cup of crushed ice to the tin. Blend cocktail with a stick blender in the shaking tin.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +79,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

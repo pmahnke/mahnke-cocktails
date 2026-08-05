@@ -6,7 +6,6 @@ title: "Neptune's Wrath"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/neptunes_wrath/"
-iconfile: neptunes_wrath
 stars: 0
 base_spirits: ['Plymouth Gin', 'Absinthe', 'Green Chartreuse']
 youtube: "eoMchfbaVPw"
@@ -14,6 +13,9 @@ description: "A visually dramatic modern sour that represents the fury of the se
 excerpt: |
   Adapted from a recipe created circa 2007 by Toby Maloney at The Violet Hour in Chicago. The foaming surface, green hue of the absinthe and flaming Chartreuse represents Neptune expressing his fury with a dangerously rough sea.
 date: 2025-08-11
+glass: coupe
+tools: jigger
+type: shaken
 ---
 
 ### Ingredients
@@ -39,7 +41,6 @@ date: 2025-08-11
   - Light the Green Chartreuse on fire in the jigger, and float on top of the cocktail
   - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -99,16 +100,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

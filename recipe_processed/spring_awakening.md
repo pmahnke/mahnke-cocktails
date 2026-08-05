@@ -5,7 +5,6 @@ title: "Spring Awakening &#47; Winter's Nap"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/spring_awakening/"
-iconfile: spring_awakening
 stars: 0
 base_spirits: ['Vodka', 'Cocchi Americano', 'Aperol']
 youtube: "2gYbnb705YQ"
@@ -13,6 +12,8 @@ description: "This is a simple vodka cocktail built with Aperol and Cocchi Ameri
 excerpt: |
   The Spring Awakening, from the 2016 Waldorf Astoria Bar Book, is a simple vodka cocktail built with Aperol and Cocchi Americano, and can go by two names, Spring Awakening or Winter's Nap, depending on the garnish. Rosemary makes this the Winter’s Nap, while a citrus twist turns it into the Spring Awakening.
 date: 2026-03-24
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -37,7 +38,6 @@ date: 2026-03-24
   - Spring Awakening: Expressed orange or lemon oil
   - Winter's Nap: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -102,16 +102,11 @@ date: 2026-03-24
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

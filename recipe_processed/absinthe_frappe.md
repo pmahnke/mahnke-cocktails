@@ -5,7 +5,6 @@ title: "Absinthe Frappé"
 categories: [frappe_swizzle]
 eras: [classic]
 permalink: "/recipe/absinthe_frappe/"
-iconfile: absinthe_frappe
 stars: 3.5
 base_spirits: ['Absinthe']
 youtube: "g4_hKcbMLL4"
@@ -13,6 +12,9 @@ description: "A classic and refreshing frappé built around the distinct anise a
 excerpt: |
   This classic cocktail is herbaceous and refreshing thanks to its base spirit, anisette, soda water, crushed ice, and a mint garnish.
 date: 2025-08-11
+garnishes: mint_sprig
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -41,7 +43,6 @@ date: 2025-08-11
   1. Hawthorn strain the cocktail into the cheater tin.
   1. Then strain the cocktail into the glass filled with crushed ice
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -119,16 +120,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

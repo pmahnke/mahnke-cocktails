@@ -5,7 +5,6 @@ title: "Philadelphia Fish House Punch"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/philly_fish_house_punch/"
-iconfile: philly_fish_house_punch
 stars: 0
 base_spirits: ['Cognac', 'Jamaican Rum', 'Apple Brandy', 'Peach Liqueur']
 youtube: "cJhKGTM3z20"
@@ -13,6 +12,7 @@ description: "A potent and historic classic American punch recipe that combines 
 excerpt: |
   The Philadelphia Fish House Punch is a classic punch recipe that has been enjoyed for centuries. It's a rich and complex drink with a balance of sweetness, acidity, and spirit.
 date: 2025-08-11
+type: shaken
 ---
 
 <div class="subrecipe" markdown="1">
@@ -66,7 +66,6 @@ date: 2025-08-11
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -111,16 +110,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

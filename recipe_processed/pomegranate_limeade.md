@@ -5,13 +5,16 @@ categories: [mocktail]
 eras: [anders]
 title: "Pomegranate Limeade"
 permalink: "/recipe/pomegranate_limeade/"
-iconfile: pomegranate_limeade
 stars: 0
 youtube: "YwHw259XAOU"
 description: "A refreshing and vibrant non-alcoholic drink that balances the sweet-tart flavors of pomegranate (from grenadine) and fresh lime."
 excerpt: |
   Pomegranate limeade is a refreshing and vibrant drink that balances the sweet-tart flavors of pomegranate and lime. It can be enjoyed on its own as a non-alcoholic beverage or used as a base for cocktails.
 date: 2025-08-11
+glass: highball
+garnishes: lime_wheel
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +35,6 @@ date: 2025-08-11
 - Garnish: Lime wheel and cocktail umbrella
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -81,16 +83,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

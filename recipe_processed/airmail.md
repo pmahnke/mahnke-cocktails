@@ -5,7 +5,6 @@ author: "Anders Erickson"
 categories: [champagne, cocktail]
 eras: [classic]
 permalink: "/recipe/airmail/"
-iconfile: airmail
 stars: 0
 base_spirits: ['Champagne', 'Gold Rum']
 youtube: "vaVcBQ6tiFw"
@@ -13,6 +12,8 @@ description: "A celebratory classic cocktail that combines gold rum and honey wi
 excerpt: |
   The Airmail cocktail is a refreshing and easy-to-make drink that's perfect for a warm day or a celebratory occasion. It's a classic cocktail that has been around since the 1940s, and it's still popular today.
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Pour cocktail into glass and top it off with the champagne.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

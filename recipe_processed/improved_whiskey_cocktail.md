@@ -6,7 +6,6 @@ title: "Improved Whiskey Cocktail"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/improved_whiskey_cocktail/"
-iconfile: improved_whiskey_cocktail
 stars: 4
 base_spirits: ['Rye', 'Maraschino Liqueur', 'Absinthe']
 youtube: "8Mj790thvm8"
@@ -14,6 +13,8 @@ description: 'A classic Old Fashioned variation from the 1870s, "improved" with 
 excerpt: |
   The Whiskey Cocktail, along with this Improved version appeared in Jerry Thomas's 1876 <i>The Bar-tender's Guide</i>. The book also includes "Improved" versions of the Brandy Cocktail, and Gin Cocktail which are all what we today call Old Fashioned cocktails. In the words of Jerry Thomas, they have been "<i>improved by moistening the edge of the cocktail glass with a piece of lemon</i>." Such "improved" American cocktails from the period are also distinguished by using European ingredients, particularly maraschino liqueur and/or absinthe.
 date: 2025-09-26
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-09-26
 - Garnish: Expressed lemon oil and peel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +77,16 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

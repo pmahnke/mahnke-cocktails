@@ -6,7 +6,6 @@ title: "Angostura Fizz"
 categories: [fizz]
 eras: [modern]
 permalink: "/recipe/angostura_fizz/"
-iconfile: angostura_fizz
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters']
 youtube: "0J6-sPDCOMw"
@@ -14,6 +13,9 @@ description: "The Angostura Fizz is a refreshing, vibrant twist on a classic Gin
 excerpt: |
   The Angostura Fizz turns the traditional cocktail blueprint on its head by elevating aromatic bitters from a subtle accent to the star base spirit. When shaken vigorously with fresh lemon or lime juice, sugar, and egg white, then topped with sparkling club soda, it transforms intense herbal baking spices into an unexpectedly bright, refreshing, and beautifully frothy long drink.
 date: 2026-05-24
+glass: highball
+garnishes: pineapple_wedge
+type: shaken
 ---
 
 ### Ingredients
@@ -35,7 +37,6 @@ date: 2026-05-24
 - Garnish: Pineapple wedge
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -79,16 +80,11 @@ date: 2026-05-24
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

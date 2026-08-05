@@ -6,7 +6,6 @@ title: "Americano"
 categories: [amaro, cocktail]
 eras: [classic]
 permalink: "/recipe/americano/"
-iconfile: americano
 stars: 3
 base_spirits: ['Campari', 'Sweet Vermouth']
 youtube: "lgy6vEX_hQg"
@@ -14,6 +13,9 @@ description: "A refreshing Italian aperitif from the 1860s that builds upon the 
 excerpt: |
   The cocktail was first served in creator Gaspare Campari's bar, Caffè Campari in Milan, in the 1860s, an American man, who was under the impression that Campari was a long drink, ordered it, hated it, and said it would be better served iced and fizzy. He ordered a Campari and soda which became too bitter; after a few iterations he and the esteemed bartender decided on Vermouth as the perfect blend. It is the direct descendant of the "Milano-Torino" which consisted of Campari, the bitter liqueur from Milan (Milano) and Punt e Mes, the vermouth from Turin (Torino) but lacked soda water. This drink was itself a descendant of the "Torino-Milano", a concoction consisting of equal parts Campari and Amaro Cora.
 date: 2025-08-11
+glass: rocks
+ice: cubed
+type: built
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: Lemon Wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -83,16 +84,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

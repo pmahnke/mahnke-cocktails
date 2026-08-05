@@ -3,7 +3,6 @@ layout: recipe
 title: "Pineapple Infused Rum"
 categories: [syrup]
 permalink: "/recipe/pineappleinfusedrum/"
-iconfile: pineapple_infused_rum
 stars: 0
 base_spirits: ['Jamaican Rum']
 youtube: "BXGS7Ai2hec"
@@ -26,7 +25,6 @@ date: 2025-07-07
 3. Agitate daily.
 4. Strain once complete. Store sealed in the fridge for up to 3 months.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -47,16 +45,11 @@ date: 2025-07-07
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

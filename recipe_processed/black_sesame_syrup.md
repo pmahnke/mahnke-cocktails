@@ -3,7 +3,6 @@ layout: recipe
 title: "Black Sesame Syrup"
 categories: [syrup]
 permalink: "/recipe/black_sesame_syrup/"
-iconfile: black_sesame_syrup
 stars: 0
 youtube: LaqklLOgeCY
 excerpt: |
@@ -27,7 +26,6 @@ date: 2025-10-26
 1. Mix in 1 <sup>1</sup>&frasl;<sub>2</sub> times sugar by weight plus a pinch of salt.
 1. Cool and store in fridge.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -49,16 +47,11 @@ date: 2025-10-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

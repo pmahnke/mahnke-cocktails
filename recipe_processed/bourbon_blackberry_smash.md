@@ -5,7 +5,6 @@ title: "Bourbon Blackberry Smash"
 categories: [smash]
 eras: [classic]
 permalink: "/recipe/bourbon_blackberry_smash/"
-iconfile: bourbon_blackberry_smash
 stars: 0
 base_spirits: ['Bourbon']
 youtube: "3i4QnRLlPFc&t=220s"
@@ -13,6 +12,10 @@ description: "A refreshing smash made with fresh muddled lime, blackberries, and
 excerpt: |
   The Blackberry Bourbon Smash is made with fresh muddled lime, blackberries, and mint mixed with bourbon and topped with soda water.
 date: 2025-08-11
+garnishes:
+  - blackberries
+  - mint_sprig
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +36,6 @@ date: 2025-08-11
 - Garnish: Blackberry & mint sprig
 - Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blackberries and maple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +78,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

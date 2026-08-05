@@ -5,7 +5,6 @@ title: "Bali Bali"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/bali_bali/"
-iconfile: bali_bali
 stars: 4
 base_spirits: ['Jamaican Rum', 'White Rum', 'Cognac', 'London Dry Gin']
 youtube: 'lWDA\_\_gwSow'
@@ -13,6 +12,8 @@ description: "A potent classic tiki cocktail that packs a punch with its complex
 excerpt: |
   The Bali Bali is a classic tiki cocktail that packs a punch with its blend of rums, liqueurs, and fruit juices.
 date: 2025-08-11
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -40,7 +41,6 @@ date: 2025-08-11
 - Garnish: Pineapple fronds & cocktail umbrella
 - Special Prep: Top with crushed ice.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -96,16 +96,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

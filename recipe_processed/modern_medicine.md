@@ -5,7 +5,6 @@ title: "Modern Medicine"
 categories: [amaro cocktail]
 eras: [modern]
 permalink: "/recipe/modern_medicine/"
-iconfile: modern_medicine
 stars: 0
 base_spirits: ['Bourbon', 'Aperol', 'Single Malt Scotch']
 youtube: "https://youtube.com/shorts/PmIJBCSayUs?si=wzUZeym3F4b1FfnR"
@@ -13,6 +12,9 @@ description: "A bold and complex whiskey-based cocktail that balances the richne
 excerpt: |
   This spirited contemporary classic is a delicious, multi-layered riff on the popular Penicillin cocktail, using bourbon as its primary base spirit. The drink is shaken with Aperol, fresh lemon juice, demerara syrup, and aromatic bitters, creating a vibrant mix of sweet, citrusy, and slightly bitter notes. Its defining characteristic is the smoky float of Islay Scotch, which is poured carefully on top to introduce an intensely peaty aroma and flavor with every sip.
 date: 2025-12-10
+glass: rocks
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -37,7 +39,6 @@ date: 2025-12-10
 - Special Prep: Float the Single Malt Scotch on top of the drink.
 
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -89,16 +90,11 @@ date: 2025-12-10
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

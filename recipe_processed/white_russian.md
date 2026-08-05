@@ -5,7 +5,6 @@ title: "White Russian"
 categories: [coffee, after_dinner]
 eras: [modern]
 permalink: "/recipe/white_russian/"
-iconfile: white_russian
 stars: 4
 base_spirits: ['Vodka', 'Coffee Liqueur']
 youtube: "z2lAXggbDDY"
@@ -13,6 +12,10 @@ description: "A classic and creamy modern after-dinner drink that combines vodka
 excerpt: |
   The White Russian is a classic three-ingredient cocktail that combines vodka, Kahlúa and cream. Here's how to make this iconic drink.
 date: 2025-08-11
+glass:
+  - rocks
+  - coffee
+ice: cubed
 ---
 
 ### Ingredients
@@ -33,7 +36,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +84,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

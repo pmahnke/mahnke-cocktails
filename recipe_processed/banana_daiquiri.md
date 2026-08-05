@@ -6,7 +6,6 @@ title: "Banana Daiquiri"
 categories: [frozen, sour, tiki]
 eras: [modern]
 permalink: "/recipe/banana_daiquiri/"
-iconfile: "banana_daiquiri"
 stars: 0
 base_spirits: ['Gold Rum', 'Banana Liqueur']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/162/banana-daiquiri"
@@ -14,6 +13,9 @@ description: "A tangy banana rum drink that's not overly sweet and is more sophi
 excerpt: |
   Legendary Tiki bartender Harry K. Yee is credited with being the first to add banana to a Daiquiri at Henry Kaiser's Hawaiian Village Hotel in Waikiki, Oahu, Hawaii.
 date: 2025-08-15
+glass: hurricane
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -36,7 +38,6 @@ date: 2025-08-15
 - Garnish: Banana chunk
 - Special Prep: Blend all ingredients with 7oz scoop of crushed ice.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -87,16 +88,11 @@ date: 2025-08-15
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

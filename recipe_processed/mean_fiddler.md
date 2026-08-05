@@ -6,7 +6,6 @@ title: "The Mean Fiddler"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/mean_fiddler/"
-iconfile: mean_fiddler
 stars: 0
 base_spirits: ['Irish Whiskey', 'Single Malt Scotch', 'Sweet Vermouth', 'Green Chartreuse', 'Campari']
 youtube: "wPsvBjSjpCg"
@@ -15,6 +14,9 @@ excerpt: |
   This recipe was created in 2015 by Jack McGarry at the Dead Rabbit in New York City. Jack originally based this cocktail on Green Spot single pot still Irish whiskey.
 
 date: 2026-03-07
+glass: whiskey
+garnishes: cinnamon
+type: stirred
 ---
 
 ### Ingredients
@@ -37,7 +39,6 @@ date: 2026-03-07
 - Garnish: Lemon peel
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +83,11 @@ date: 2026-03-07
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

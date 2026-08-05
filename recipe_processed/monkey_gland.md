@@ -5,7 +5,6 @@ title: "The Monkey Gland"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/monkey_gland/"
-iconfile: monkey_gland
 stars: 0
 base_spirits: ['London Dry Gin', 'Absinthe']
 youtube: "u4b673NTI7w"
@@ -13,6 +12,11 @@ description: "A classic sour from the 1920s with a unique name, combining gin, o
 excerpt: |
   Created in the late 1920s by Harry MacElhone at his Harry's New York Bar in Paris, France. The Monkey Gland takes its name from the work of Dr Serge Voronoff who, convinced that testosterone was vital to a long and healthy life, transplanted monkey testicles onto elderly Frenchmen.<br><br>The "Monkey's Gland Cocktail" first appears in MacElhone's 1922 <i>Harry's ABC of Mixing Cocktails</i>. In his 1923 edition, he specifies the recipe as "<i>1 dash Absinthe, 1 teaspoonful of Grenadine, ½ Orange Juice, ½ Gordon London Dry Gin. Shake well, and strain into a cocktail glass. (Invented by the Author and deriving its name from Voronoff's experiments in rejuvenation.)</i>."
 date: 2025-08-11
+glass: rocks
+garnishes:
+  - orange_peel
+  - maraschino_cherry
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +37,6 @@ date: 2025-08-11
 - Garnish: Orange peel and cocktail cherry
 - Special Prep: Regal shake with the swath of orange peel in the shaker
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +79,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

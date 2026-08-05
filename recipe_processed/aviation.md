@@ -6,7 +6,6 @@ title: "Aviation"
 categories: [sour, daisy]
 eras: [classic]
 permalink: "/recipe/aviation/"
-iconfile: aviation
 stars: 4.5
 base_spirits: ['London Dry Gin', 'Crème de Violette', 'Maraschino Liqueur']
 youtube: "Kmw5D32W8sM&t=345sY"
@@ -16,6 +15,9 @@ excerpt: |
 
   Harry Craddock's influential <em>Savoy Cocktail Book</em> (1930) omitted the crème de violette, calling for a mixture of two thirds dry gin, one third lemon juice and two dashes of maraschino. Many later bartenders have followed Craddock's lead, leaving out the difficult-to-find violet liqueur.
 date: 2025-12-23
+glass: coupe
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -35,7 +37,6 @@ date: 2025-12-23
 - Garnish: Cocktail cherry and lemon zest for garnish
 - Special Prep: Stirring preserves the purple color
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +78,16 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

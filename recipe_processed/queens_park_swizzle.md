@@ -5,7 +5,6 @@ title: "Queen's Park Swizzle"
 categories: [frappe_swizzle]
 eras: [prohibition]
 permalink: "/recipe/queens_park_swizzle/"
-iconfile: queens_park_swizzle
 stars: 4
 base_spirits: ['Demerara Rum']
 youtube: "ox1-C1owN80"
@@ -13,6 +12,9 @@ description: "A classic and refreshing rum swizzle that originated at the Queen'
 excerpt: |
   The Queen's Park Swizzle is a classic rum cocktail that originated in Trinidad.
 date: 2025-08-11
+glass: highball
+garnishes: mint_sprig
+ice: crushed
 ---
 
 ### Ingredients
@@ -35,7 +37,6 @@ date: 2025-08-11
 - Garnish: Mint Sprig
 - Special Prep: Press and slide the mint leaves in the glass first. Then build the cocktail. Stir vigorously (swizzle) to combine. Top with crushed ice. Float the bitters on top.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +87,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

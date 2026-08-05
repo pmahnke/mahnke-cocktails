@@ -5,7 +5,6 @@ title: "Caipirinha"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/caipirinha/"
-iconfile: caipirinha
 stars: 4
 base_spirits: ['Cachaça']
 youtube: "i1UHUyWerhg"
@@ -13,6 +12,11 @@ description: "The national drink of Brazil, this is a classic and refreshing coc
 excerpt: |
   The Caipirinha is a classic Brazilian cocktail known for its refreshing and tangy flavor. It's made with a few simple ingredients: cachaça, lime, sugar, and ice.
 date: 2025-08-11
+glass:
+  - double_old_fashioned
+  - old_fashioned
+garnishes: lime_wedge
+ice: crushed
 ---
 
 ### Ingredients
@@ -33,7 +37,6 @@ date: 2025-08-11
 - Garnish: Lime wedge
 - Special Prep: Add the lime wedges and sugar to the glass and muddle. Add the cachaça, then add crushed ice and stir. Top with more crushed ice.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +85,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

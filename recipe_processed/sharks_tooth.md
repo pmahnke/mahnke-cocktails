@@ -5,7 +5,6 @@ title: "Shark's Tooth"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/sharks_tooth/"
-iconfile: sharks_tooth
 stars: 3
 base_spirits: ['Jamaican Rum', 'Barbados Rum', 'Cherry Liqueur', 'Maraschino Liqueur']
 youtube: "https://curiada.com/blogs/news/sharks-tooth-cocktail-recipe-featuring-barbados-and-jamaica-rums"
@@ -13,6 +12,8 @@ description: "A classic tiki cocktail with a rum-forward profile, served straigh
 excerpt: |
   Originally surfacing during tiki's heyday, today there are variations to suit every palate. Here the recipe is very rum-forward, served straight up after a quick shake with ice, and the presentation is more understated than might typically be expected.
 date: 2025-08-11
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 ### Ingredients
@@ -35,7 +36,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Add all ingredients (except the Jamaican rum) to a cocktail shaker along with three small ice cubes. Strain into a small wine glass. Add 1 oz of the Jamaican rum as a float on top. Recipe Note: if you really want to pump up the funk, experiment with other classic Jamaican rums like Smith & Cross.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -80,16 +80,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

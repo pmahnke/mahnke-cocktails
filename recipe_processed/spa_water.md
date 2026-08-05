@@ -5,13 +5,15 @@ categories: [mocktail]
 eras: [anders]
 title: "Spa Water"
 permalink: "/recipe/spa_water/"
-iconfile: spa_water
 stars: 3
 youtube: "5wgvpo-xBnA"
 description: "A refreshing non-alcoholic drink that typically includes muddled cucumber, mint, simple syrup, and lime juice."
 excerpt: |
   A spa water cocktail is a mixed drink that typically includes cucumber slices, simple syrup, lime juice, water, and sparkling water.
 date: 2025-08-11
+glass: julep_cup
+garnishes: mint_sprig
+ice: crushed
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: Sprig of Mint and Slice of Cucumber
 - Special Prep: Add the cucumber, mint, lime juice and simple syrup to the cup and muddle. Fill the cup with crushed ice and top with soda water.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -85,16 +86,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

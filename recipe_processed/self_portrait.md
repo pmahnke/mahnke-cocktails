@@ -5,7 +5,6 @@ title: "The Self Portrait"
 categories: [sour]
 eras: [anders]
 permalink: "/recipe/self_portrait/"
-iconfile: self_portrait
 stars: 4
 base_spirits: ['Cognac', 'Swedish Punsch']
 youtube: "VXjcObds5DY"
@@ -13,6 +12,9 @@ description: "This cocktail is Anders' riff on the Doctor Cocktail. It has the b
 excerpt: |
   This cocktail is Anders' riff on the Doctor Cocktail, but with a nod to his own heritage. The brandy to honor his Wisconsin roots. The Swedish Punsch to honor his ancestry. And the cherry garnish to honor Door County, Wisconsin, which is cherry country.
 date: 2025-10-13
+glass: coupe
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2025-10-13
 - Garnish: Cocktail cherry
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +77,16 @@ date: 2025-10-13
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

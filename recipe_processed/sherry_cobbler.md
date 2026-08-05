@@ -5,7 +5,6 @@ title: "Sherry Cobbler"
 categories: [cobbler]
 eras: [classic]
 permalink: "/recipe/sherry_cobbler/"
-iconfile: sherry_cobbler
 stars: 3
 base_spirits: ['Oloroso Sherry', 'Curaçao']
 youtube: "f7SpTmbMOsQ"
@@ -13,6 +12,12 @@ description: "A classic and refreshing low-alcohol sipper from the 1800s, made w
 excerpt: |
   Chill down with this old-school, low-alcohol sipper. The Sherry Cobbler is a classic, delicious alternative to the Mint Julep.
 date: 2025-08-11
+glass: goblet
+garnishes:
+  - mint_sprig
+  - raspberries
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +38,6 @@ date: 2025-08-11
 - Garnish: Fresh raspberries & mint
 - Special Prep: juice and add the 4 quarters of the orange wheel to the shaker.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +86,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

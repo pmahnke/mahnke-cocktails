@@ -5,13 +5,16 @@ title: "Japanese Lemon Sour"
 categories: [sour, collins]
 eras: [modern]
 permalink: "/recipe/japanese_sour/"
-iconfile: japanese_sour
 stars: 4.25
 base_spirits: ['Shochu', 'Vodka']
 description: "A refreshing and easy-to-make modern sour that features Japanese shochu as its base."
 excerpt: |
   The classic Japanese Lemon Sour is a refreshing and easy-to-make cocktail.
 date: 2025-08-11
+glass:
+  - sour
+  - collins
+type: shaken
 ---
 
 ### Ingredients
@@ -38,7 +41,6 @@ date: 2025-08-11
 - Yuzu Lemon Sour: Add a splash of yuzu juice for a citrusy twist.
 - Salty Lemon Sour: Add a pinch of salt to the shaker for a savory kick.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -100,16 +102,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.25",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

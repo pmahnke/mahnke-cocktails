@@ -3,7 +3,6 @@ layout: recipe
 title: "Lime Cordial"
 categories: [syrup]
 permalink: "/recipe/lime_cordial/"
-iconfile: lime_cordial
 stars: 4
 youtube: "https://jeffreymorgenthaler.com/lime-cordial/"
 excerpt: |
@@ -28,7 +27,6 @@ date: 2026-03-11
 1. Strain with a fine strainer.
 1. Bottle and refrigerate.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -52,16 +50,16 @@ date: 2026-03-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

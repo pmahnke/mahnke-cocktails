@@ -5,7 +5,6 @@ title: "Sazerac"
 categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/sazarac/"
-iconfile: sazarac
 stars: 4.25
 base_spirits: ['Rye', 'Cognac', 'Absinthe']
 youtube: "dJ-sAEzw9Jc"
@@ -13,6 +12,8 @@ description: "A classic and iconic New Orleans cocktail, traditionally made with
 excerpt: |
   The Sazerac is a local variation of a cognac or whiskey cocktail originally from New Orleans, named for the Sazerac de Forge et Fils brand of cognac brandy.
 date: 2025-08-11
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-08-11
 - Garnish: Lemon zest
 - Special Prep: Rinse the glass with absinthe. Strain in cocktail. Express lemon oil on the drink.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +78,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.25",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Three Shades of Green"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/three_shades_of_green/"
-iconfile: three_shades_of_green
 stars: 3.5
 base_spirits: ['London Dry Gin', 'Green Chartreuse']
 youtube: "https://uws.theconsulate.nyc/new-york-upper-west-side-the-consulate-drink-menu"
@@ -13,6 +12,8 @@ description: "An original modern cocktail with a complex herbal profile from gin
 excerpt: |
   This is an original cocktail from a Upper Westside restaurant, the Consulate.
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-08-11
 - Garnish: Cucumber wheel
 - Special Prep: Add the basil and cucumber wheels to the cheater tin and muddle into a paste. Add other ingredients to the large tin and add ice. Combine the contents of both tins, and shake.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +78,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

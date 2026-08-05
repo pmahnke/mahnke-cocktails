@@ -5,7 +5,6 @@ title: "White Sangria"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/white_sangria/"
-iconfile: white_sangria
 stars: 3.5
 base_spirits: ['Apricot Liqueur', 'Fino Sherry', 'White Wine']
 youtube: "mAxJU3qd8OE"
@@ -13,6 +12,7 @@ description: "A lighter and brighter classic version of sangria, made with white
 excerpt: |
   A lighter and brighter version of the classic red sangria, made with white wine, fresh fruit, and a touch of sweetness.
 date: 2025-08-11
+garnishes: strawberry
 ---
 
 <div class="subrecipe" markdown="1">
@@ -64,7 +64,6 @@ date: 2025-08-11
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -110,16 +109,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

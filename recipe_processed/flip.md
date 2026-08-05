@@ -6,7 +6,6 @@ title: "The Flip"
 categories: [flip, beer]
 eras: [classic]
 permalink: "/recipe/flip/"
-iconfile: flip
 stars: 0
 base_spirits: ['Jamaican Rum', 'Ale']
 youtube: "S04mZtUjTyA"
@@ -40,7 +39,6 @@ date: 2025-08-11
   1. Toss the ale into the batter
   1. Continue to toss the now mixed drink back and forth several times until the drink is smooth.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -104,16 +102,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

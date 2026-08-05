@@ -5,7 +5,6 @@ title: "Vieux Carré"
 categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/vieux_carre/"
-iconfile: vieux_carre
 stars: 5
 base_spirits: ['Rye', 'Cognac', 'Sweet Vermouth', 'Bénédictine']
 youtube: "cDCdcwuM8yA"
@@ -13,6 +12,9 @@ description: "A classic and complex New Orleans cocktail from the 1930s, featuri
 excerpt: |
   The Vieux Carré is a New Orleans cocktail dating back to the 1930s. See how rye, cognac and sweet vermouth create this well-balanced classic.
 date: 2025-08-11
+glass: rocks
+garnishes: lemon_twist
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +36,6 @@ date: 2025-08-11
 - Garnish: Lemon Twist
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +79,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

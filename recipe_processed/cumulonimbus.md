@@ -5,12 +5,14 @@ title: "Cumulonimbus"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/cumulonimbus/"
-iconfile: cumulonimbus
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A non-alcoholic coffee drink featuring espresso and cinnamon syrup topped with soda water."
 excerpt: |
 date: 2025-08-11
+glass: highball
+garnishes: cinnamon
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +38,6 @@ date: 2025-08-11
   - Expressed orange oil.
   - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -99,16 +100,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

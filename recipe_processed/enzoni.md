@@ -6,7 +6,6 @@ title: "Enzoni"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/enzoni/"
-iconfile: enzoni
 stars: 4
 base_spirits: ['London Dry Gin', 'Campari']
 youtube: "ipHnOhkGWug"
@@ -14,6 +13,8 @@ description: "A refreshing modern classic from 2003 that twists the Negroni form
 excerpt: |
   The Enzoni cocktail is a refreshing twist on the classic Negroni, created by Vincenzo Errico in 2003. It combines the bitterness of Campari with the sweetness of green grapes and the botanical depth of gin.
 date: 2025-08-11
+glass: rocks
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +37,6 @@ date: 2025-08-11
 - Garnish: Grape
 - Special Prep: Muddle the grapes in the cheater tin. Put the other ingredients in the large tin, add ice, and shake.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -87,16 +87,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

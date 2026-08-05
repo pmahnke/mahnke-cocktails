@@ -6,7 +6,6 @@ title: "Fall Back"
 eras: [anders]
 categories: [amaro, cocktail]
 permalink: "/recipe/fall_back/"
-iconfile: fall_back
 stars: 0
 base_spirits: ['Rye', 'Apple Brandy', 'Amaro Nonino', 'Sweet Vermouth']
 youtube: "_bDARIxZlcE"
@@ -14,6 +13,7 @@ description: "A modern cocktail that combines the autumnal flavors of rye, apple
 excerpt: |
   Adapted from a recipe created circa 2012-17 by Sasha Petraske for the John Dory Oyster Bar in Manhattan, New York City, USA.
 date: 2025-11-26
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +34,6 @@ date: 2025-11-26
 - Garnish: Flamed orange oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +76,11 @@ date: 2025-11-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

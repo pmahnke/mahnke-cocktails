@@ -5,7 +5,6 @@ title: "Scofflaw"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/scofflaw/"
-iconfile: scofflaw
 stars: 4.5
 base_spirits: ['Rye', 'Dry Vermouth']
 youtube: "nutbajkZ8Lc"
@@ -13,6 +12,7 @@ description: "A creatively named Prohibition-era sour invented in Paris, which c
 excerpt: |
   The creatively named Scofflaw combines whiskey, dry vermouth, lemon juice and grenadine. It was invented in Paris during U.S. Prohibition.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +33,6 @@ date: 2025-08-11
 - Garnish: Orange Zest or Lemon Zest
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +75,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

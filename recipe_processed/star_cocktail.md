@@ -5,7 +5,6 @@ title: "Star Cocktail"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/star_cocktail/"
-iconfile: star_cocktail
 stars: 3
 base_spirits: ['Apple Brandy', 'Sweet Vermouth']
 youtube: "9OxlSOioD_k"
@@ -13,6 +12,7 @@ description: "A classic cocktail from the 1870s, featuring apple brandy, sweet v
 excerpt: |
   Said to have been created in the 1870s by a bartender at the legendary Manhattan Club, which once stood at the north corner of 34th Street and 5th Avenue, New York City. Our recipe is adapted from George J. Kappeler's 1895 <i>Modern American Drinks – How to Mix and Serve All Kinds of Cups and Drinks</i>. The "Star Cocktail (No. 2)" notably also appears in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i>.
 date: 2025-08-11
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +32,6 @@ date: 2025-08-11
 - Garnish: Expressed lemon oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +73,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

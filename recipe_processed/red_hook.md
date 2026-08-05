@@ -6,7 +6,6 @@ title: "Red Hook"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/red_hook/"
-iconfile: red_hook
 stars: 0
 base_spirits: ['Rye', 'Maraschino Liqueur', 'Punt e Mes']
 youtube: "0sjcxjmJMv0"
@@ -14,6 +13,9 @@ description: "A modern classic from 2003 that launched a wave of Manhattan varia
 excerpt: |
   Created by Vincenzo Errico for Milk & Honey in 2003 this is the drink which launched a whole category of Manhattan variations. This drink was created when Errico discovered the Brooklyn, a Manhattan variation which uses Amer Picon,  a french digestif no longer available in the US. Errico was an Italian which Sasha Petraske brought back from London and convinced to come to New York and work at the bar for a few years. Errico wanted to showcase the long neglected (at the time) Punt e Mes which is an italian Vermouth which has a distinct flavor profile in that it has a bitter finish. It is somewhere in between a vermouth and an amaro, but is wine based. Errico expertly paired the bitter of the vermouth with the sweet dryness of the maraschino liqueur and the dryness of the rye whiskey, which also a tad sweet from the corn in it’s mash bill. The result, a perfectly balanced Manhattan variation. Joseph Schwartz was the guy who suggested the name Red Hook because it was drink that was somewhere in between a Manhattan and a Brooklyn. Brilliant!
 date: 2025-08-11
+glass: coupe
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +34,6 @@ date: 2025-08-11
 - Garnish: Cocktail cherry
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -73,16 +74,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

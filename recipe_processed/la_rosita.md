@@ -5,7 +5,6 @@ title: "La Rosita"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/la_rosita/"
-iconfile: la_rosita
 stars: 0
 base_spirits: ['Reposado Tequila', 'Campari', 'Sweet Vermouth', 'Dry Vermouth']
 youtube: "UhRb_xqCXwQ"
@@ -13,6 +12,8 @@ description: "A classic and complex tequila-based Negroni variation that uses a 
 excerpt: |
   The Rosita is a classic cocktail that has been around for decades. It is a tequila-based drink that is similar to a Negroni, but with a few key differences. The Rosita uses equal parts tequila, Campari, and a blend of sweet and dry vermouth. It is typically garnished with an orange twist.
 date: 2025-08-11
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -35,7 +36,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Expressed grapefruit oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +86,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

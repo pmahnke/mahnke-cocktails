@@ -5,14 +5,15 @@ title: "Jabberwocky"
 categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/jabberwocky/"
-iconfile: jabberwocky
-stars:
+stars: 0
 base_spirits: ['Manzanilla Sherry', 'London Dry Gin', 'Lillet Blanc']
 youtube: "tGudsyMDO_g"
 description: "A refined and nuanced Martini-style sipper from the Savoy Cocktail book, featuring a marriage of dry sherry, gin, and Lillet."
 excerpt: |
   This marriage of dry sherry, gin and Lillet from the Savoy Cocktail book is a most refined and nuanced sipper.
 date: 2025-11-25
+glass: coupe
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-11-25
 - Garnish: Lemon Peel
 - Special Prep: Expressed lemon oil over cocktail
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,11 @@ date: 2025-11-25
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

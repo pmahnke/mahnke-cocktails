@@ -5,7 +5,6 @@ title: "Marooned Mango"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/marooned_mango/"
-iconfile: marooned_mango
 stars: 4
 base_spirits: ['Cachaça', 'Mango Liqueur', 'Sweet Vermouth']
 youtube: "xnXFbjQSu-k"
@@ -13,6 +12,7 @@ description: "A delightful tropical original cocktail that features a sweet and 
 excerpt: |
   The Marooned Mango is a delightful tropical cocktail that is perfect for those seeking a sweet, tangy, and refreshing drink. Its vibrant color and fruity flavors make it a visually appealing and delicious choice for any occasion.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +34,6 @@ date: 2025-08-11
 - Garnish: 3 drops Angostura Aromatic Bitters & pineapple fronds
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +77,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

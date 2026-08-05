@@ -1,14 +1,17 @@
- <div class="recipe_card">
+<div class="recipe_card">
     <div class="card-content">
-    {%- if site.data[page.iconfile].images -%}
-        {%- if site.data[page.iconfile].images.cocktail -%}
-            {%- for image in site.data[page.iconfile].images.cocktail -%}
-        <img src="{{ image.url }}" alt="{{ image.title }}" title="{{ image.title }}">
-            {%- endfor -%}
-        {%- else -%}
-            {%- for ingredient in site.data[page.iconfile].images.ingredient | limit: 1 -%}
-        <img src="{{ ingredient.url }}" alt="{{ ingredient.title }}" title="{{ ingredient.title }}" width="50" class="rotate-left">
-            {%- endfor -%}
+    {%- comment -%} Extract a clean key from the page path or URL filename {%- endcomment -%}
+    {%- assign recipe_key = page.path | split: '/' | last | remove: '.md' -%}
+    {%- assign custom_icon = site.data.recipe_icons[recipe_key] -%}
+
+    {%- if custom_icon -%}
+        <img src="{{ custom_icon | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}" class="cocktail-illustration">
+    {%- elsif page.base_spirits -%}
+        {%- comment -%} Fallback: Pull the first base spirit icon if available {%- endcomment -%}
+        {%- assign first_spirit_name = page.base_spirits.first | default: page.base_spirits -%}
+        {%- assign s = site.spirit | where: "title", first_spirit_name | first -%}
+        {%- if s and s.icon_path -%}
+            <img src="{{ s.icon_path | relative_url }}" alt="{{ first_spirit_name }}" title="{{ first_spirit_name }}" width="50" class="rotate-left">
         {%- endif -%}
     {%- endif -%}<br>
 

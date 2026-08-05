@@ -5,7 +5,6 @@ title: "S'no Problem"
 eras: [anders]
 categories: [toddy]
 permalink: "/recipe/sno_problem/"
-iconfile: sno_problem
 stars: 0
 base_spirits: ['Navy Strength Rum', 'Bourbon']
 youtube: "s30L-iu171E"
@@ -13,6 +12,10 @@ description: "An original hot toddy featuring a unique blend of Jamaican rum, bo
 excerpt: |
   A blend of Jamaican rum, bourbon whiskey, rich demerara syrup, Angostura Aromatic Bitters, black tea, and oat milk.
 date: 2025-08-11
+garnishes: cinnamon
+type:
+  - shaken
+  - stirred
 ---
 
 ### Ingredients
@@ -34,7 +37,6 @@ date: 2025-08-11
 - Garnish: Grated cinnamon and holiday cookies
 - Special Prep: Temper your mug with hot water.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +80,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

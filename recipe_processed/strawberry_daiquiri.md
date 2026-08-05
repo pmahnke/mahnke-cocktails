@@ -5,7 +5,6 @@ title: "Strawberry Daiquiri"
 categories: [frozen, sour]
 eras: [modern]
 permalink: "/recipe/strawberry_daiquiri/"
-iconfile: "strawberry_daiquiri"
 stars: 0
 base_spirits: ['Gold Rum']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/1885/strawberry-daiquiri-frozen"
@@ -13,6 +12,12 @@ description: "A vibrant, ruby-red cocktail, blended to a slushy consistency and 
 excerpt: |
   A frozen strawberry daiquiri is a vibrant, ruby-red cocktail, blended to a slushy consistency and characterized by the sweet, ripe flavor of strawberries balanced with a hint of tart lime and a kick of rum.
 date: 2026-02-05
+glass: hurricane
+garnishes:
+  - strawberry
+  - lime_wedge
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -35,7 +40,6 @@ date: 2026-02-05
 - Garnish: Strawberry or lime wedge
 - Special Prep: Blend the first four ingredients without the ice to break down the strawberries. Then add the ice and blend to combine.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +90,11 @@ date: 2026-02-05
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

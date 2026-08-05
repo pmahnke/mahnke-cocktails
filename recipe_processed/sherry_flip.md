@@ -5,7 +5,6 @@ title: "Sherry Flip"
 categories: [flip]
 eras: [classic]
 permalink: "/recipe/sherry_flip/"
-iconfile: sherry_flip
 stars: 3
 base_spirits: ['Oloroso Sherry']
 youtube: "mBGgu3qRztY"
@@ -13,6 +12,8 @@ description: "A rich and creamy classic cocktail from the 1800s, made with sherr
 excerpt: |
   The Sherry Flip is a classic cocktail that has been around since the 1800s. It is a rich and creamy drink that is perfect for sipping on a cold winter day. The cocktail is made with sherry, egg, sugar, and spices.
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -31,7 +32,6 @@ date: 2025-08-11
 - Garnish: Grated nutmeg
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +72,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

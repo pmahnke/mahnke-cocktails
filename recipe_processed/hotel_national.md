@@ -5,7 +5,6 @@ title: "Hotel National Cocktail"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/hotel_national/"
-iconfile: hotel_national
 stars: 4
 base_spirits: ['White Rum', 'Apricot Liqueur']
 youtube: "aK-xI2Th2YE"
@@ -13,6 +12,8 @@ description: "A classic Cuban sour from the Prohibition era, featuring white rum
 excerpt: |
   The Hotel National / Nacional cocktail is a classic Cuban cocktail that has been enjoyed for decades. It is a refreshing and flavorful drink that is perfect for any occasion.
 date: 2025-08-11
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: Lime Wheel
 - Special Prep: Let the cocktail rest to allow for the foam to subside before floating the lime wheel on top.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Lion's Tail"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/lions_tail/"
-iconfile: lions_tail
 stars: 5
 base_spirits: ['Bourbon', 'Allspice Dram']
 youtube: "r2NNClh94tQ"
@@ -13,6 +12,7 @@ description: "A classic Prohibition-era sour that combines the richness of bourb
 excerpt: |
   The Lion’s Tail is a classic cocktail stemming from Prohibition. it combines bourbon with allspice dram and bitters.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +34,6 @@ date: 2025-08-11
 - Garnish: Lime twist
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba. Raw Egg WhiteAquafaba (chickpea water)
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +77,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

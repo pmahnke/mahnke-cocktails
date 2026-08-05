@@ -5,7 +5,6 @@ title: "Pink Squirrel"
 eras: [modern]
 categories: [after_dinner, ice_cream]
 permalink: "/recipe/pink_squirrel/"
-iconfile: pink_squirrel
 stars: 0
 base_spirits: ['Crème de Noyaux', 'White Crème de Cacao']
 youtube: "kRPWDOCVByk&t=164s"
@@ -13,6 +12,9 @@ description: "A creamy, sweet after-dinner drink and Midwest classic, this cockt
 excerpt: |
   The Pink Squirrel cocktail is boozy, creamy and easy to make. It combines the unusual liqueur, creme de noyaux, with creme de cacao and heavy cream, and ties to a legendary Midwest cocktail bar.
 date: 2025-08-11
+garnishes: maraschino_cherry
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -36,7 +38,6 @@ date: 2025-08-11
   - Pour cocktail into glass.
   - Top With [Chartreuse Whipped Cream]({%link recipe_processed/chartreuse_whipped_cream.md%}).
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -91,16 +92,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

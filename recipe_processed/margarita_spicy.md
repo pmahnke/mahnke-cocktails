@@ -5,7 +5,6 @@ title: "Smoky Spicy Margarita"
 categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_spicy/"
-iconfile: margarita_spicy
 stars: 0
 base_spirits: ['Mezcal', 'Curaçao']
 youtube: "jxpT11WEtWQ"
@@ -13,6 +12,10 @@ description: "A modern Margarita variation that adds a kick of heat from muddled
 excerpt: |
   A Smoky Spicy Margarita is a cocktail that adds a smoky and spicy twist to the classic margarita. It typically involves using mezcal instead of tequila, muddling in jalapeños for heat, and rimming the glass with a spicy salt mixture like chili powder and cayenne pepper.
 date: 2025-12-23
+glass: rocks
+garnishes: lime_wheel
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -35,7 +38,6 @@ date: 2025-12-23
 - Garnish: Lime wheel
 - Special Prep: Muddle the jalapeño slices in the cheater tin before shaking. Tajin rim.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +88,11 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Lower Wacker"
 categories: [amaro, cocktail]
 eras: [anders]
 permalink: "/recipe/lower_wacker/"
-iconfile: lower_wacker
 stars: 0
 base_spirits: ['Rye', 'Sweet Vermouth', 'Cynar', 'Apricot Liqueur', 'Malört']
 youtube: "bzN1zwAqgSY"
@@ -13,6 +12,8 @@ description: "This is Anders&#39; ode to Chicago with this bold whiskey cocktail
 excerpt: |
   This cocktail is Anders&#39; ode to the City of Chicago as he leaves after 23 years. It is a rye whiskey based riff on a Manhattan with a split of sweet vermouth and Cynar and apricot liqueur to round it out. The Mal&#xF6;rt rinse adds a touch of bitterness.
 date: 2026-04-05
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2026-04-05
 - Garnish: Cocktail cherry
 - Special Prep: Expressed lemon oil and a rinse of Malört
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +78,11 @@ date: 2026-04-05
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Hibiscus Margarita"
 categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_hibiscus/"
-iconfile: margarita_hibiscus
 stars: 0
 base_spirits: ['Reposado Tequila', 'Curaçao']
 youtube: "GiNen9YukD8"
@@ -13,6 +12,10 @@ description: "A refreshing and vibrant modern Margarita that incorporates the fl
 excerpt: |
   The margarita hibiscus cocktail is a refreshing and vibrant drink that combines the classic margarita with the floral notes of hibiscus. It typically includes tequila, orange liqueur, lime juice, and a homemade hibiscus syrup. The syrup adds a beautiful pink hue and a slightly sweet and tangy flavor to the drink.
 date: 2025-12-23
+glass: rocks
+garnishes: lime_wheel
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +37,6 @@ date: 2025-12-23
 - Garnish: Lime wheel
 - Special Prep: Salted rim
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +86,11 @@ date: 2025-12-23
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

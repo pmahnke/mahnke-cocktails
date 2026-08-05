@@ -5,7 +5,6 @@ title: "Perfect Manhattan"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/perfect_manhattan/"
-iconfile: perfect_manhattan
 stars: 0
 base_spirits: ['Rye', 'Sweet Vermouth', 'Dry Vermouth']
 youtube: "eWESf1b317Y&t=278s"
@@ -13,6 +12,9 @@ description: 'A classic Manhattan variation that achieves a "perfect" balance by
 excerpt: |
   The Manhattan, a classic cocktail, believed to have started around the 1860s or 1870s, with a rich history, is a sophisticated and timeless drink that has captivated cocktail enthusiasts for generations. The Perfect Manhattan uses equal parts of sweet and dry vermouth.
 date: 2025-08-11
+glass: martini
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +34,6 @@ date: 2025-08-11
 - Garnish: Cocktail Cherry
 - Special Prep: Sugared Rim
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +75,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Martini"
 categories: [martini]
 eras: [classic]
 permalink: "/recipe/martini/"
-iconfile: martini
 stars: 4
 base_spirits: ['London Dry Gin', 'Dry Vermouth']
 youtube: "izZsjqnADAA"
@@ -15,6 +14,9 @@ excerpt: |
 
   The Martini's exact origins are debated, but it is believed to have emerged in the late 19th century. It quickly became a popular drink among the upper classes and has remained a staple of cocktail culture ever since.
 date: 2025-10-20
+glass: martini
+garnishes: olive
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2025-10-20
 - Garnish: Olive
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +75,16 @@ date: 2025-10-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

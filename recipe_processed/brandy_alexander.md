@@ -5,7 +5,6 @@ title: "Brandy Alexander"
 categories: [after_dinner, ice_cream]
 eras: [classic]
 permalink: "/recipe/brandy_alexander/"
-iconfile: brandy_alexander
 stars: 0
 base_spirits: ['Cognac', 'Crème de Cacao']
 youtube: "5LEgIoddxY4"
@@ -13,6 +12,7 @@ description: "A classic creamy after-dinner drink that combines cognac with the 
 excerpt: |
   The Brandy Alexander is a classic, combining cognac, crème de cacao and cream, it’s easy to make and even easier to drink.
 date: 2025-08-11
+type: shaken
 ---
 
 ### Ingredients
@@ -31,7 +31,6 @@ date: 2025-08-11
 - Garnish: Grated Nutmeg
 - Special Prep: For an extra decadent alexander, substitute 2 scoops of vanilla ice cream for the cream. To mix, combine in a blender with half a scoop of ice for a frozen brandy alexander.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +71,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

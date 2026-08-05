@@ -5,7 +5,6 @@ title: "Between The Sheets"
 categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/between_the_sheets/"
-iconfile: between_the_sheets
 stars: 2
 base_spirits: ['Jamaican Rum', 'Demerara Rum', 'Cognac', 'Curaçao']
 youtube: "VnuAR_wPOZA"
@@ -13,6 +12,8 @@ description: "A provocatively named Prohibition-era cocktail that enhances the c
 excerpt: |
   This provocatively named Between the Sheets cocktail dates back to Prohibition and amps up the classic Sidecar formula with a dose of rum.
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: Expressed lemon oil and lemon peel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "2",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

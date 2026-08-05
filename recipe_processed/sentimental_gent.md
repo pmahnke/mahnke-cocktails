@@ -5,7 +5,6 @@ author: "Anders Erickson"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/sentimental_gent/"
-iconfile: sentimental_gent
 stars: 3.5
 base_spirits: ['Blended Scotch', 'Bénédictine', 'Walnut Liqueur']
 youtube: "QFjRjAP-k1k&t=3s"
@@ -13,6 +12,10 @@ description: "A sophisticated and elegant modern cocktail that combines the warm
 excerpt: |
   The Sentimental Gentleman is a sophisticated and elegant cocktail that combines the warmth of whiskey with the herbal notes of Benedictine and the subtle sweetness of walnut liqueur.
 date: 2025-12-09
+glass: rocks
+type:
+  - blended
+  - stirred
 ---
 
 ### Ingredients
@@ -33,7 +36,6 @@ date: 2025-12-09
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -82,16 +84,16 @@ date: 2025-12-09
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

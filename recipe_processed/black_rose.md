@@ -5,7 +5,6 @@ title: "Black Rose"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/black_rose/"
-iconfile: black_rose
 stars: 2
 base_spirits: ['Bourbon', 'Cognac']
 youtube: "YwHw259XAOU"
@@ -13,6 +12,8 @@ description: "A classic cocktail that combines the rich flavors of bourbon and c
 excerpt: |
   The Black Rose cocktail is a classic drink that combines the flavors of bourbon, cognac, grenadine, and bitters.
 date: 2025-08-11
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -35,7 +36,6 @@ date: 2025-08-11
 - Garnish: Expressed lemon oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -86,16 +86,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "2",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

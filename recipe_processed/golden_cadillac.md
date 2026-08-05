@@ -5,7 +5,6 @@ title: "Golden Cadillac"
 categories: [fizz]
 eras: [modern]
 permalink: "/recipe/golden_cadillac/"
-iconfile: golden_cadillac
 stars: 0
 base_spirits: ['Galliano', 'White Crème de Cacao']
 youtube: "x6QiK4firC4"
@@ -13,6 +12,10 @@ description: "A creamy, dessert-like fizz from 1952, known for its distinct gold
 excerpt: |
   Created in 1952 by bartender Frank Cline at Poor Red's, it is among the best cocktails to feature Galliano.
 date: 2025-08-11
+ice: crushed
+type:
+  - blended
+  - shaken
 ---
 
 ### The Classic
@@ -53,7 +56,6 @@ date: 2025-08-11
 - Garnish: Grated nutmeg
 - Special Prep: Top with [crème de cacao whipped cream]({%link recipe_processed/creme_de_cacao_whipped_cream.md%}).
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -154,16 +156,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Gold Rush"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/gold_rush/"
-iconfile: gold_rush
 stars: 2.5
 base_spirits: ['Bourbon']
 youtube: "VBSjE-P_C58"
@@ -13,6 +12,8 @@ description: "A modern classic from the early 2000s, this is a simple but delici
 excerpt: |
   Created at famed New York City bar Milk & Honey in the early 2000s, this drink's combination of bourbon, lemon and honey became worldwide modern classic.
 date: 2025-08-11
+glass: rocks
+type: shaken
 ---
 
 ### Ingredients
@@ -31,7 +32,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +72,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "2.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

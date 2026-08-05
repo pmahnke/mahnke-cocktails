@@ -6,7 +6,6 @@ title: "Mudslide"
 categories: [after_dinner]
 eras: [modern]
 permalink: "/recipe/mudslide/"
-iconfile: mudslide
 stars: 0
 base_spirits: ['Vodka', 'Coffee Liqueur', 'Irish Cream Liqueur']
 youtube: "M8uXEDvbvVM"
@@ -14,6 +13,10 @@ description: "This cocktail is a decadent, dessert-style cocktail traditionally 
 excerpt: |
   The Mudslide is a rich, dessert-style cocktail traditionally composed of equal parts vodka, coffee liqueur, and Irish cream liqueur. This indulgent drink can be served shaken and strained for a refined finish or blended with ice and heavy cream to create a thick, milkshake-like consistency.
 date: 2026-03-21
+glass:
+  - coffee
+  - coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +37,6 @@ date: 2026-03-21
 - Special Prep: None
 
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +78,11 @@ date: 2026-03-21
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

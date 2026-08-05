@@ -5,7 +5,6 @@ title: "Noble Beast"
 categories: [coffee, flip]
 eras: [anders]
 permalink: "/recipe/noble_beast/"
-iconfile: noble_beast
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters']
 youtube: "pzmVLMzQjNo"
@@ -13,6 +12,8 @@ description: "An original flip cocktail that incorporates a whole egg for a crea
 excerpt: |
   The Noble Beast is a cocktail created by Anders Erickson. It's a riff on the classic Sherry Flip, incorporating a whole egg for a creamy texture
 date: 2025-08-11
+glass: coffee
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-11
 - Garnish: Grated coffee bean
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

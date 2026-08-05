@@ -5,7 +5,6 @@ title: "Mojito"
 categories: [fizz]
 eras: [classic]
 permalink: "/recipe/mojito/"
-iconfile: mojito
 stars: 4
 base_spirits: ['White Rum']
 youtube: "KMypSCazyRw"
@@ -13,6 +12,9 @@ description: "A classic and refreshing Cuban highball, celebrated for its vibran
 excerpt: |
   The Mojito might be the perfect cocktail. With mint, simple syrup and white rum, the classic Mojito is easy to make and always refreshing.
 date: 2025-08-11
+garnishes: mint_sprig
+tools: muddler
+type: shaken
 ---
 
 <div class="subrecipe" markdown="1">
@@ -64,7 +66,6 @@ date: 2025-08-11
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -111,16 +112,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

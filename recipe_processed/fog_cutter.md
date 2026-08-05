@@ -5,7 +5,6 @@ title: "Fog Cutter"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/fog_cutter/"
-iconfile: fog_cutter
 stars: 4
 base_spirits: ['White Rum', 'Pisco', 'Plymouth Gin', 'Curaçao', 'Amontillado Sherry']
 youtube: "kMqIu6zPv9s"
@@ -13,6 +12,9 @@ description: "A vintage tiki classic with a complex blend of spirits, including 
 excerpt: |
   The Fog Cutter is a vintage tiki cocktail frequently attributed to being invented by Victor Bergeron.  It's a complex blend of spirits, citrus juices, and orgeat syrup, creating a refreshing and invigorating drink.
 date: 2025-09-26
+garnishes: mint_sprig
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -37,7 +39,6 @@ date: 2025-09-26
 - Garnish: Orange wheel & mint sprig
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -90,16 +91,16 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

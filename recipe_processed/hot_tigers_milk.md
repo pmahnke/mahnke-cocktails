@@ -7,7 +7,6 @@ title: "Hot Tiger’s Milk"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/hot_tigers_milk/"
-iconfile: hot_tigers_milk
 stars: 0
 base_spirits: ['Demerara Rum']
 youtube: "pJ_OQtJnIrY"
@@ -15,6 +14,10 @@ description: "A vintage Tiki cocktail, attributed to Donn Beach, that combines a
 excerpt: |
   The Hot Tiger's Milk is a rich and warming Tiki-era cocktail, first served at Don the Beachcomber, that elevates the classic Hot Buttered Rum profile with tropical ingredients. It is typically built in a mug by combining an aged amber rum with a sweetened batter made from butter, coconut cream, and honey.
 date: 2025-12-13
+glass: rocks
+garnishes:
+  - cinnamon
+  - orange_peel
 ---
 
 <div class="subrecipe" markdown="1">
@@ -60,7 +63,6 @@ date: 2025-12-13
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -98,16 +100,11 @@ date: 2025-12-13
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

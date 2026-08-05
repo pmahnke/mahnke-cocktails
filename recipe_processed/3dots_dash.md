@@ -6,7 +6,6 @@ title: "Three Dots and a Dash"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/3dots_dash/"
-iconfile: 3dots_dash
 stars: 0
 base_spirits: ['Rhum Agricole', 'Demerara Rum', 'Allspice Dram']
 youtube: "CGkWnYhu4ag"
@@ -15,6 +14,9 @@ description: |
 excerpt: |
   Named for the Morse code for "victory" and created by tiki founder Donn Beach during WWII, the Three Dots and a Dash is a multilayered classic that combines multiple rums, fresh juices, and a pair of spiced liqueurs. It uses both rhum agricole and aged rum for a unique base, which is layered with citrus from orange and lime juice, and rich sweetness from honey syrup. The complex spice profile comes from falernum and allspice dram, all shaken with crushed ice and garnished with three cherries and a pineapple frond to represent the dots and a dash. The resulting cocktail is a quintessential example of tiki's intricate balance of fruity, sweet, and spicy notes.
 date: 2025-12-17
+glass: highball
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -40,7 +42,6 @@ date: 2025-12-17
 - Garnish: 3 cherries, and pineapple spear
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -94,16 +95,11 @@ date: 2025-12-17
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

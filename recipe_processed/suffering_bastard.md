@@ -6,7 +6,6 @@ title: "Suffering Bastard"
 eras: [modern]
 categories: [buck]
 permalink: "/recipe/suffering_bastard/"
-iconfile: suffering_bastard
 stars: 3.5
 base_spirits: ['London Dry Gin', 'Cognac', 'Bourbon']
 youtube: "oRQtYcyRKVI"
@@ -14,6 +13,10 @@ description: 'A classic "hair of the dog" buck from the 1940s, originally create
 excerpt: |
   The Suffering Bastard cocktail uses both bourbon and gin. Born in Cairo at the Shepheard's Hotel, it was originally concocted as a hangover cure for troops fighting in North Africa.
 date: 2025-08-11
+glass: highball
+garnishes: mint_sprig
+ice: cubed
+type: shaken
 ---
 
 ## Cognac Version
@@ -54,7 +57,6 @@ date: 2025-08-11
 - Garnish: Mint sprig and orange slice
 - Special Prep: Pour the ginger beer into the glass while pouring the cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -85,16 +87,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

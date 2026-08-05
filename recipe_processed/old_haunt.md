@@ -5,7 +5,6 @@ title: "The Old Haunt"
 categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/old_haunt/"
-iconfile: old_haunt
 stars: 0
 base_spirits: ['Apple Brandy', 'Averna']
 youtube: "LaqklLOgeCY"
@@ -13,6 +12,8 @@ description: "It is a riff on the Old Fashioned replacing the sweet vermouth wit
 excerpt: |
   This is an Anders original cocktail. It is a riff on the Old Fashioned replacing the sweet vermouth with Averna.
 date: 2025-10-26
+glass: rocks
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-10-26
 - Garnish: None
 - Special Prep: Smoke the low ball glass with wood smoke. Express orange oil over the top.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +84,11 @@ date: 2025-10-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

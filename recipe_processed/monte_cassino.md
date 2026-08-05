@@ -5,7 +5,6 @@ title: "Monte Cassino"
 eras: [modern]
 categories: [sour, daisy]
 permalink: "/recipe/monte_cassino/"
-iconfile: monte_cassino
 stars: 4.25
 base_spirits: ['Rye', 'Yellow Chartreuse', 'Bénédictine']
 youtube: "NGPSk_jMZvA"
@@ -13,6 +12,8 @@ description: "A riff on the Last Word and Final Ward cocktails, replacing Green 
 excerpt: |
   Created by Damon Dyer for a contest for Benedictine’s 500th birthday in 2010 — he won.  It is a riff on the Last Word and Final Ward cocktails, replacing Green Chartreuse with Yellow Chartreuse and Maraschino liquor with Benedictine.
 date: 2026-03-22
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2026-03-22
 - Garnish: Cocktail Cherry
 - Special Prep: Add the cherry to the glass before straining the cocktail
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,16 @@ date: 2026-03-22
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4.25",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

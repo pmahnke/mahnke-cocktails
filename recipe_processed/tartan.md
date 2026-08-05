@@ -5,7 +5,6 @@ title: "Tartan"
 categories: [amaro, cocktail]
 eras: [anders]
 permalink: "/recipe/tartan/"
-iconfile: tartan
 stars: 0
 base_spirits: ['Single Malt Scotch', 'Sweet Vermouth', 'Ramazzotti', 'Drambuie']
 youtube: "Jqy3bhn-O9s"
@@ -13,6 +12,9 @@ description: "A classic Scotch-based cocktail with warm, rich colors and complex
 excerpt: |
   The Tartan cocktail is a classic scotch-based drink that gets its name from its warm, rich colors and complex flavors, reminiscent of the iconic Scottish fabric.
 date: 2025-12-09
+glass: martini
+garnishes: orange_peel
+type: stirred
 ---
 
 ### Ingredients
@@ -33,7 +35,6 @@ date: 2025-12-09
 - Garnish: Orange peel
 - Special Prep: Expressed orange oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +77,11 @@ date: 2025-12-09
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

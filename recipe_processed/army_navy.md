@@ -5,7 +5,6 @@ title: "Army & Navy"
 eras: [modern]
 categories: [sour]
 permalink: "/recipe/army_navy/"
-iconfile: army_navy
 stars: 3.5
 base_spirits: ['London Dry Gin']
 youtube: "XggEyhSR2Dk"
@@ -13,6 +12,8 @@ description: "A classic gin sour with a unique flavor profile derived from the a
 excerpt: |
   This cocktail first appears in David A. Embury's 1948 <i>The Fine Art of Mixing Drinks</i> so establishing a 'made before' date. Little else is known but based upon its name, folk suggest it originated at The Army and Navy Club in Washington, D.C.. The club's lounge is also said to be "where the famous Daiquiri cocktail was introduced to the United States."
 date: 2025-08-11
+glass: coupe
+type: shaken
 ---
 
 ### Ingredients
@@ -33,7 +34,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +76,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

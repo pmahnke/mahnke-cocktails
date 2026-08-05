@@ -6,7 +6,6 @@ title: "Chartreuse Swizzle"
 eras: [modern]
 categories: [frappe_swizzle]
 permalink: "/recipe/chartreuse_swizzle/"
-iconfile: chartreuse_swizzle
 stars: 5
 base_spirits: ['Green Chartreuse']
 youtube: "CGkWnYhu4ag"
@@ -14,6 +13,9 @@ description: "A refreshing and unique modern cocktail that blends the herbal swe
 excerpt: |
   The Chartreuse Swizzle is a refreshing and unique cocktail that blends the herbal sweetness of Chartreuse with the tropical flavors of pineapple and lime.
 date: 2025-08-31
+glass: highball
+garnishes: mint_sprig
+ice: crushed
 ---
 
 ### Ingredients
@@ -35,7 +37,6 @@ date: 2025-08-31
 - Garnish: Grated Nutmeg and a Mint Sprig
 - Special Prep: Swizzle in the glass, and top with additional crushed ice.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -85,16 +86,16 @@ date: 2025-08-31
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

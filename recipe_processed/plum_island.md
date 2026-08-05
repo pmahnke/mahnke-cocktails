@@ -5,7 +5,6 @@ title: "Plum Island"
 eras: [anders]
 categories: [tiki]
 permalink: "/recipe/plum_island/"
-iconfile: plum_island
 stars: 4
 base_spirits: ['Lillet Rouge', 'Gold Rum', 'Absinthe']
 youtube: 'lWDA\_\_gwSow'
@@ -13,6 +12,8 @@ description: "An original tiki cocktail featuring a unique combination of gold r
 excerpt: |
   Named for an island in Green Bay, this was created by Anders Ericson.
 date: 2025-08-11
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +37,6 @@ date: 2025-08-11
 - Garnish: Grated nutmeg, pineapple fronds, and cocktail umbrella
 - Special Prep: Top with crushed ice.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -88,16 +88,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

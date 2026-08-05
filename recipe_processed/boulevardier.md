@@ -5,7 +5,6 @@ title: "Boulevardier"
 categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/boulevardier/"
-iconfile: boulevardier
 stars: 4
 base_spirits: ['Bourbon', 'Campari', 'Sweet Vermouth']
 youtube: "VAK-A7laGuE"
@@ -13,6 +12,7 @@ description: "A classic Prohibition-era cocktail that swaps the gin in a Negroni
 excerpt: |
   Swap the gin for whiskey in a Negroni, and you get the delicious Boulevardier cocktail. Grab some Campari and sweet vermouth, and start mixing.
 date: 2025-08-11
+type: stirred
 ---
 
 ### Ingredients
@@ -31,7 +31,6 @@ date: 2025-08-11
 - Garnish: Flamed orange oil
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +71,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

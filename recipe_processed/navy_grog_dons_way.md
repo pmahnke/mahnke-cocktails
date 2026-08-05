@@ -6,7 +6,6 @@ title: "Navy Grog: Don the Beachcomber's Way"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/navy_grog_dons_way/"
-iconfile: navy_grog_dons_way
 stars: 0
 base_spirits: ['Demerara Rum', 'Jamaican Rum', 'White Rum']
 youtube: "I3jeItKyZCs"
@@ -16,6 +15,8 @@ excerpt: |
   <br><br>
   The drink was traditionally served in a double old-fashioned glass with a unique garnish: a cone of shaved ice with a straw running through it. This iconic presentation made the drink a favorite at Don the Beachcomber restaurants and is still a hallmark of the cocktail today. The Navy Grog was so potent that it was often limited to two or three per customer.
 date: 2025-08-20
+glass: rocks
+type: shaken
 ---
 
 ### Ingredients
@@ -40,7 +41,6 @@ date: 2025-08-20
 - Garnish: Ice cone with a straw through the center
 - Special Prep: Shake all ingredients together except the soda. Float the soda water on top.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -93,16 +93,11 @@ date: 2025-08-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

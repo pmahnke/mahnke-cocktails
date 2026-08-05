@@ -5,7 +5,6 @@ title: "Charles Dickens Punch"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/charles_dickens_punch/"
-iconfile: charles_dickens_punch
 stars: 0
 base_spirits: ['Overproof Rum', 'Cognac']
 youtube: "BXGS7Ai2hec"
@@ -33,7 +32,6 @@ date: 2025-08-11
 - Garnish: Expressed lemon oil
 - Special Prep: Add lemon peels and the sugar to a cold sauce pan and massage the sugar into the peels. Let this sit for 24 hours. This is called an oleo-saccharum. Next, make four cups of black tea in the usual manner. Add the rum and cognac to the oleo-saccharum. Put the pot on a low heat to warm up the mixture, but do not boil. Turn off heat and light mixture to caramelize the sugars. Add lemon juice and tea. Return to low heat and do not boil. Remove lemon peels before serving.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -76,16 +74,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

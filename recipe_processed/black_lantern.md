@@ -5,7 +5,6 @@ title: "Black Lantern"
 categories: [tiki]
 eras: [anders]
 permalink: "/recipe/black_lantern/"
-iconfile: black_lantern
 stars: 0
 base_spirits: ['Cognac', 'Demerara Rum']
 youtube: "LaqklLOgeCY"
@@ -13,6 +12,9 @@ description: "The mix of cognac and high proof demerara rum mixed with the sesam
 excerpt: |
   This is an Anders original cocktail. This jet black cocktail is a fun, tiki inspired cocktail. The mix of cognac and high proof demerara rum mixed with the sesame syrup gives this drink a toasted nutty flavor.
 date: 2025-10-26
+glass: rocks
+ice: crushed
+type: blended
 ---
 
 ### Ingredients
@@ -36,7 +38,6 @@ date: 2025-10-26
 - Garnish: Pineapple fronds
 - Special Prep: Top with crushed ice.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -88,16 +89,11 @@ date: 2025-10-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -3,7 +3,6 @@ layout: recipe
 title: "Benedictine Infused Whipped Cream"
 categories: [syrup]
 permalink: "/recipe/benedictine_whipped_cream/"
-iconfile: benedictine_whipped_cream
 stars: 0
 youtube: 8FS1ILeY8Ds
 excerpt: |
@@ -23,7 +22,6 @@ date: 2025-12-06
 
 1. Whisk just until the cream reaches stiff peaks.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -45,16 +43,11 @@ date: 2025-12-06
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

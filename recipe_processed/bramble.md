@@ -5,7 +5,6 @@ title: "Bramble"
 categories: [cobbler]
 eras: [modern]
 permalink: "/recipe/bramble/"
-iconfile: bramble
 stars: 3.5
 base_spirits: ['London Dry Gin', 'Crème de Mûre']
 youtube: "fgE5H8W5K6M"
@@ -13,6 +12,10 @@ description: "A modern classic from the 1980s, this is a refreshing gin drink bu
 excerpt: |
   The Bramble is a gin-kissed beauty of a cocktail. It features fresh lemon juice and blackberry liqueur.
 date: 2025-08-11
+glass: rocks
+garnishes: blackberries
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +37,6 @@ date: 2025-08-11
 - Garnish: Lemon wheel and blackberries
 - Special Prep: Shake the gin, lemon juice and [Simple Syrup]({%link recipe_processed/simple_syrup.md%}). Pour into the glass over crushed ice. Top the glass with more crushed ice. Then top with the Crème de Mûre.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -84,16 +86,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

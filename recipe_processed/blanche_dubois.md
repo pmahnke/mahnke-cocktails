@@ -6,7 +6,6 @@ title: "Blanche Dubois"
 categories: [sour]
 eras: [new_orleans]
 permalink: "/recipe/blanche_dubois/"
-iconfile: blanche_dubois
 stars: 4
 base_spirits: ['London Dry Gin', 'Curaçao']
 youtube: "ptoAM1cWCAI"
@@ -14,6 +13,12 @@ description: "This cocktail is a vibrant, New Orleans-born riff on the Mai Tai t
 excerpt: |
   The Blanche DuBois is a gin-based riff on a Mai Tai, created by Bar Tonique in New Orleans. It swaps the traditional rum for a London Dry gin and blends it with strawberry and mint, resulting in a complex, refreshing, and beautifully balanced flavor profile.
 date: 2026-06-05
+glass: rocks
+garnishes:
+  - mint_sprig
+  - strawberry
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -40,7 +45,6 @@ date: 2026-06-05
   1. Build cocktail in other tin
   1. Add ice and shake
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -107,16 +111,16 @@ date: 2026-06-05
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

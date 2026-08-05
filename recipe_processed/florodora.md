@@ -6,7 +6,6 @@ title: "Florodora"
 categories: [buck]
 eras: [classic]
 permalink: "/recipe/florodora/"
-iconfile: florodora
 stars: 4
 base_spirits: ['London Dry Gin']
 youtube: "https://youtube.com/shorts/r6QW-H5nnGM?si=i7JwiTGYox34RizT"
@@ -14,6 +13,9 @@ description: "A bright, effervescent, gin-based highball cocktail with a vibrant
 excerpt: |
   Named after a popular Edwardian musical comedy, the Florodora is a classic, pre-Prohibition cocktail with a beautiful pink hue. It's built on a base of gin, mixed with fresh lime juice and either raspberry syrup or raspberry liqueur, before being topped with chilled ginger ale or spicier ginger beer. The drink offers a complex profile, starting with the botanical aroma of gin and the tartness of lime, followed by the sweetness of the raspberry and the zesty kick of ginger. It is a light, fruity, and highly refreshing long drink, making it an excellent choice for a warm weather libation.
 date: 2025-10-08
+glass: highball
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -41,7 +43,6 @@ date: 2025-10-08
   - Top with ice.
   - Add a splash of ginger beer to top the glass.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -112,16 +113,16 @@ date: 2025-10-08
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

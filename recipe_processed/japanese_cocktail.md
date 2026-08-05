@@ -6,7 +6,6 @@ title: "The Japanese Cocktail"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/japanese_cocktail/"
-iconfile: japanese_cocktail
 stars: 0
 base_spirits: ['Cognac']
 youtube: "83TEnWyeqV0"
@@ -22,6 +21,9 @@ excerpt: |
   <br>Fill the tumbler one-third with ice, and stir well with a spoon.</blockquote>
   It is thought that he created and named the drink in 1860 to commemorate the first Japanese mission to the USA. While in New York, the delegates stayed at the Metropolitan Hotel, just a block away from Jerry Thomas' bar at 622 Broadway. And as David Wondrich writes in his 2015 <i>Updated and Revised Imbibe!</i>, "I can't imagine that in their strolls around the neighbourhood, they wouldn't have stopped in to see the Professor for a quick one. And if you were Jerry Thomas, wouldn't you come up with something special to mark the occasion?"
 date: 2025-12-09
+type:
+  - shaken
+  - stirred
 ---
 
 <div class="subrecipe" markdown="1">
@@ -68,7 +70,6 @@ date: 2025-12-09
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -109,16 +110,11 @@ date: 2025-12-09
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

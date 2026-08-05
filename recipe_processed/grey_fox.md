@@ -5,13 +5,16 @@ title: "Grey Fox"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/grey_fox/"
-iconfile: grey_fox
 stars: 0
 youtube: "5wgvpo-xBnA"
 description: "A non-alcoholic cocktail featuring the distinct flavors of Earl Grey tea and fresh lemon."
 excerpt: |
   The Grey Fox is a non-alcoholic cocktail created by Anders Erickson featuring Earl Grey and lemon for flavors.
 date: 2025-08-11
+glass: highball
+garnishes: thyme
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -31,7 +34,6 @@ date: 2025-08-11
 - Garnish: Lemon Zest, Sprig of Thyme or Lavender
 - Special Prep: Pour in one ounce of tonic water, then pour in the cocktail. Top off with tonic water.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -73,16 +75,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

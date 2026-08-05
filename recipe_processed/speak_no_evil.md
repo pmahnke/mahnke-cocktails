@@ -5,7 +5,6 @@ title: "Speak No Evil"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/speak_no_evil/"
-iconfile: speak_no_evil
 stars: 0
 base_spirits: ['Reposado Tequila', 'Mezcal', 'Allspice Dram']
 youtube: "-DnpmdGBmgs&t=433s"
@@ -13,6 +12,12 @@ description: "A spicy, smoky, and slightly sweet original cocktail that features
 excerpt: |
   The Speak No Evil cocktail is a spicy, smoky, and slightly sweet drink that features mezcal as its base spirit.
 date: 2025-08-11
+glass: highball
+garnishes:
+  - cinnamon
+  - maraschino_cherry
+ice: crushed
+type: shaken
 ---
 
 ### Ingredients
@@ -36,7 +41,6 @@ date: 2025-08-11
 - Garnish: Orange wheel, grated cinnamon, and a cocktail cherry
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -88,16 +92,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

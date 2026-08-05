@@ -5,7 +5,6 @@ title: "Wisconsin Old Fashioned"
 eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/wi_old_fashioned/"
-iconfile: wi_old_fashioned
 stars: 3.75
 base_spirits: ['Brandy']
 youtube: "wr1pjEwi4P0"
@@ -13,6 +12,11 @@ description: "A unique regional variation of the Old Fashioned from Wisconsin, w
 excerpt: |
   A Wisconsin old fashioned is not your typical old fashioned; it muddles sugar, bitters and orange with brandy and finishes with a crisp pour of a sweet or sour soda.
 date: 2025-08-11
+glass:
+  - rocks
+  - sour
+garnishes: maraschino_cherry
+ice: crushed
 ---
 
 ### Ingredients
@@ -51,7 +55,6 @@ date: 2025-08-11
 - No Wash:
   - No Floater
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -155,16 +158,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.75",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "Hurricane"
 categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/hurricane/"
-iconfile: hurricane
 stars: 4
 base_spirits: ['Jamaican Rum', 'Dark Rum']
 youtube: "3b2-jFhtCyQ"
@@ -13,6 +12,9 @@ description: "A potent and fruity classic from New Orleans, famous for its blend
 excerpt: |
   The rum-spiked Hurricane cocktail is potent and fruity. Mix one up for a trip to New Orleans without the plane ticket.
 date: 2025-08-11
+glass: hurricane
+garnishes: maraschino_cherry
+type: shaken
 ---
 
 <div class="subrecipe" markdown="1">
@@ -62,7 +64,6 @@ date: 2025-08-11
 
 </div>
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -104,16 +105,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

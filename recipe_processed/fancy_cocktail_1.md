@@ -5,7 +5,6 @@ title: "Fancy Cocktail No.1"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/fancy_cocktail_1/"
-iconfile: fancy_cocktail_1
 stars: 0
 base_spirits: ['Italicus', 'Reposado Tequila', 'Manzanilla Sherry']
 youtube: "AfbytyV2PdY"
@@ -13,6 +12,8 @@ description: "An elegant, spirit-forward original cocktail that pairs the citrus
 excerpt: |
   The Fancy Cocktail No. 1 is an Anders Erickson original, equal parts recipe pairing the citrus/floral notes in Italicus Rosolio di Bergamotto with a reposado tequila and a dry sherry. Each component supports the next, elevating this cocktail in perfect balance. It's an elegant, spirit forward sipper.
 date: 2025-08-11
+glass: martini
+type: stirred
 ---
 
 ### Ingredients
@@ -31,7 +32,6 @@ date: 2025-08-11
 - Garnish: Grapefruit zest
 - Special Prep: Express grapefruit oil over cocktail.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +72,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

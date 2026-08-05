@@ -5,7 +5,6 @@ title: "Dark Daiquiri"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/dark_daiquiri/"
-iconfile: dark_daiquiri
 stars: 5
 base_spirits: ['Jamaican Rum']
 youtube: "71jQRf5UrpE"
@@ -13,6 +12,9 @@ description: "A classic cocktail that offers a rich and flavorful twist on the t
 excerpt: |
   The Dark Daiquiri is a classic cocktail that offers a rich and flavorful twist on the traditional Daiquiri. It's made with dark rum instead of White Rum, adding a depth of molasses and spice notes to the drink.
 date: 2025-08-11
+glass: coupe
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -31,7 +33,6 @@ date: 2025-08-11
 - Garnish: Lime wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -72,16 +73,16 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

@@ -5,7 +5,6 @@ title: "The Lucky Stone"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/lucky_stone/"
-iconfile: lucky_stone
 stars: 3.5
 base_spirits: ['Irish Whiskey', 'Amontillado Sherry', 'Apricot Liqueur']
 youtube: "aRboP-f7LK0"
@@ -13,6 +12,9 @@ description: "An original cocktail with a complex and balanced profile, combinin
 excerpt: |
   The Lucky Stone is a cocktail that combines the flavors of Irish whiskey, Amontillado sherry, apricot liqueur, and Peychaud's bitters. It is a complex and balanced drink with a sweet and nutty flavor profile.
 date: 2025-09-26
+glass: whiskey
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -32,7 +34,6 @@ date: 2025-09-26
 - Garnish: Cocktail cherry
 - Special Prep: Expressed lemon oil
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +75,16 @@ date: 2025-09-26
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

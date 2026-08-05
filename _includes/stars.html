@@ -1,5 +1,6 @@
 {% if page.stars %}
+  {% assign rating_num = page.stars | plus: 0 %}
   <div class="star-rating" style="--rating: {{ page.stars | default: 0 }};" aria-label="Rating: {{ page.stars | default: 0 }} out of 5 stars">
-    {% if page.stars > 0 %}{{ page.stars }} ★{% endif %}
+    {% if rating_num > 0 %}{{ page.stars }} ★{% endif %}
   </div>
 {% endif %}

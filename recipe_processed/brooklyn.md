@@ -5,7 +5,6 @@ title: "Brooklyn"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/brooklyn/"
-iconfile: brooklyn
 stars: 3.5
 base_spirits: ['Rye', 'Dry Vermouth', 'Maraschino Liqueur', 'Ramazzotti']
 youtube: "JU8xN_ty2i0"
@@ -13,6 +12,8 @@ description: "A classic pre-Prohibition cocktail and Manhattan variation that in
 excerpt: |
   The Brooklyn cocktail is a classic pre-Prohibition cocktail that is experiencing a resurgence in popularity. It is a variation of the Manhattan, but with dry vermouth and Maraschino Liqueur.
 date: 2025-10-08
+garnishes: maraschino_cherry
+type: stirred
 ---
 
 ### Ingredients
@@ -34,7 +35,6 @@ date: 2025-10-08
 - Garnish: Cocktail Cherry
 - Special Prep: Express orange oil over the cocktail, and wipe the rim with the peal.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -78,16 +78,16 @@ date: 2025-10-08
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "3.5",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

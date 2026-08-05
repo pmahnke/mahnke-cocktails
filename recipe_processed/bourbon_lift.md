@@ -6,7 +6,6 @@ title: "Bourbon Lift"
 categories: [coffee, fizz]
 eras: [modern]
 permalink: "/recipe/bourbon_lift/"
-iconfile: bourbon_lift
 stars: 0
 base_spirits: ['Bourbon', 'Coffee Liqueur']
 youtube: "zCDgzuTYKBU"
@@ -14,6 +13,10 @@ description: "A playful and nostalgic modern fizz that combines bourbon and coff
 excerpt: |
   It was created by San Francisco bartender Erik Adkins who helms the bar at Hard Water, his most recent of many stints in the bay city. The Bourbon Lift is a playful, nostalgic drink that's hard to put down, and not because it might float away on a fluffy cloud
 date: 2025-08-11
+glass:
+  - coffee
+  - highball
+type: shaken
 ---
 
 ### Ingredients
@@ -34,7 +37,6 @@ date: 2025-08-11
 - Garnish: None
 - Special Prep: Add cocktail to the glass. Top with soda water in two stages. The top will rise above the top of the glass, similar to a Ramos Gin Fizz.
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -77,16 +79,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

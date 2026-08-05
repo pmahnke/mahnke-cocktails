@@ -5,7 +5,6 @@ title: "Midori Daiquiri"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/midori_daiquiri/"
-iconfile: midori_daiquiri
 stars: 4
 base_spirits: ['White Rum', 'Melon Liqueur']
 youtube:
@@ -13,6 +12,8 @@ description: "A vibrant green twist on the classic Cuban sour, celebrated for it
 excerpt: |
   Owen loves all things Japan, and after a few attempts, he has ended up on this vibrant green twist on the classic Cuban sour, celebrated for its perfect balance of two parts white rum, sweet melon liqueur, and tart fresh lime juice.
 date: 2025-08-20
+garnishes: lime_wheel
+type: shaken
 ---
 
 ### Ingredients
@@ -32,7 +33,6 @@ date: 2025-08-20
 - Garnish: Lime wheel
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -74,16 +74,16 @@ date: 2025-08-20
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
+  "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
+   "ratingValue": "4",
    "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     

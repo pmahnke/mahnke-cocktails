@@ -5,7 +5,6 @@ title: "Black-Eyed Susan"
 categories: [highball]
 eras: [modern]
 permalink: "/recipe/black_eyed_susan/"
-iconfile: black_eyed_susan
 stars: 0
 base_spirits: ['Bourbon', 'Vodka', 'Peach Liqueur']
 youtube: "1V0-c6u4xJA"
@@ -13,6 +12,12 @@ description: "The official drink of the Preakness Stakes, this is a refreshing h
 excerpt: |
   Each of the Triple Crown races has its own official drink. The iconic mint julep always accompanies the Kentucky Derby, the Belmont Stakes has the Belmont jewel, and the Preakness Stakes' official drink is the black-eyed Susan. Named after the Maryland state flower and first created in 1973, it's a refreshing cocktail that anyone can make at home.
 date: 2025-08-11
+glass: highball
+garnishes:
+  - orange_peel
+  - maraschino_cherry
+ice: cubed
+type: shaken
 ---
 
 ### Ingredients
@@ -37,7 +42,6 @@ date: 2025-08-11
 - Garnish: Orange wheel and cocktail cherry
 - Special Prep: None
 
-    
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -90,16 +94,11 @@ date: 2025-08-11
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-  {% if page.stars and site.data.ratings[page.iconfile].ratings -%}"aggregateRating": {
-   "@type": "AggregateRating",
-   "ratingValue": "{%- include stars_metadata.html %}",
-   "bestRating": "5",
-   "reviewCount": "2"},{%- endif %}
+
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
 </script>
-
     
