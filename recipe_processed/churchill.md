@@ -15,8 +15,8 @@ excerpt: |
 date: 2025-12-09
 glass: coupe
 type:
-  - shaken
   - blended
+  - shaken
 ---
 
 ### Ingredients

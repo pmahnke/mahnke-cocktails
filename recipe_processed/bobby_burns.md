@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-12-09
 glass: coupe
 type:
-  - stirred
   - blended
+  - stirred
 ---
 
 ### Ingredients

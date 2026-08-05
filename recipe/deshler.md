@@ -73,7 +73,7 @@ date: 2025-08-14
 | -------: | -------------- | -------------------- |
 |     2 oz | Bourbon        | Old Grand-Dad Bonded |
 |     1 oz | Lillet Rouge   | Lillet Rouge         |
-|   0.5 oz | Dry Curaçao    | Pierre Ferrand       |
+|   0.5 oz | Curaçao    | Pierre Ferrand       |
 | 2 dashes | Bitters        | Peychaud's           |
 |  1 swath | Lemon Skin     |
 |  1 swath | Orange Skin    |

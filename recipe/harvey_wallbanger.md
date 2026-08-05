@@ -21,7 +21,7 @@ date: 2025-08-11
 | -------: | ------------------ | -------------------- |
 |   1.5 oz | Vodka              | Finlandia            |
 |     1 oz | Galliano           | Galliano L’autentico |
-|   0.5 oz | Dry Curaçao        | Pierre Ferrand       |
+|   0.5 oz | Curaçao        | Pierre Ferrand       |
 |     3 oz | Fresh Orange Juice |
 |   0.5 oz | Fresh Lemon Juice  |
 | 2 swaths | Orange Peel        |

@@ -508,9 +508,24 @@ sub read_spirit_data {
                 my $s = $file; $s =~ s/\.md$//; $s;
             };
             
-            # SANITIZE SLUG: Strip accents and special characters
+            # SANITIZE SLUG: Cleanly strip accents using regex
             $slug = lc($slug);
-            $slug =~ tr/àâäéèêëîïôöùûüçñÀÂÄÉÈÊËÎÏÔÖÙÛÜÇÑ/aaaeeeeiiioouuucnAAAEEEEIIIOOUUUCN/;
+            $slug =~ s/[àâä]/a/g;
+            $slug =~ s/[éèêë]/e/g;
+            $slug =~ s/[îï]/i/g;
+            $slug =~ s/[ôö]/o/g;
+            $slug =~ s/[ùûü]/u/g;
+            $slug =~ s/ç/c/g;
+            $slug =~ s/ñ/n/g;
+            # Handle uppercase equivalents too if needed
+            $slug =~ s/[ÀÂÄ]/a/g;
+            $slug =~ s/[ÉÈÊË]/e/g;
+            $slug =~ s/[ÎÏ]/i/g;
+            $slug =~ s/[ÔÖ]/o/g;
+            $slug =~ s/[ÙÛÜ]/u/g;
+            $slug =~ s/Ç/c/g;
+            $slug =~ s/Ñ/n/g;
+            
             $slug =~ s/[^a-z0-9_\-]+/_/g;
 
             my $name = $yaml_data->{title} // $yaml_data->{name} // ''; 

@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes:
-  - orange_peel
   - maraschino_cherry
+  - orange_peel
 ice: cubed
 type: shaken
 ---
@@ -26,7 +26,7 @@ type: shaken
 | -------: | ------------------ | -------------------- |
 |   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Vodka [&#9432;](/spirit/vodka/ "More Vodka recipes")              | Finlandia            |
 |     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Galliano [&#9432;](/spirit/galliano/ "More Galliano recipes")           | Galliano L’autentico |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Dry Curaçao        | Pierre Ferrand       |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Curaçao [&#9432;](/spirit/curacao/ "More Curaçao recipes")        | Pierre Ferrand       |
 |     <span class="onex active">3 oz  / 90 ml</span> <span class="onehalfx">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span> <span class="twox">6 oz  / 180 ml</span> <span class="threex">9 oz  / 270 ml</span>| Fresh Orange Juice |
 |   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lemon Juice  |
 | <span class="onex active">2 swathes</span> <span class="onehalfx">3 swathes</span> <span class="twox">4 swathes</span> <span class="threex">6 swathes</span>| Orange Peel        |
@@ -54,7 +54,7 @@ type: shaken
   "recipeIngredient": [
   "  1.5 oz Vodka",
   "   1 oz Galliano",
-  "  0.5 oz Dry Curaçao",
+  "  0.5 oz Curaçao",
   "   3 oz Fresh Orange Juice",
   "  0.5 oz Fresh Lemon Juice",
   " 2 swaths Orange Peel"

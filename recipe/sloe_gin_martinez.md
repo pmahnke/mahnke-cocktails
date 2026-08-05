@@ -22,7 +22,7 @@ date: 2025-08-11
 | -------: | ------------------ | ------------------------- |
 |     2 oz | Sloe Gin           | Plymouth                  |
 |     1 oz | Sweet Vermouth     | Cocchi Vermouth di Torino |
-| 0.375 oz | Dry Curaçao        | Pierre Ferrand            |
+| 0.375 oz | Curaçao        | Pierre Ferrand            |
 | 0.375 oz | Maraschino Liqueur | Luxardo                   |
 | 2 Dashes | Amaro              | Campari                   |
 

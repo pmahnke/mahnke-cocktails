@@ -21,7 +21,7 @@ date: 2025-08-11
 |  Amount | Ingredient                                      | Brand          |
 | ------: | ----------------------------------------------- | -------------- |
 |  1.5 oz | Spiced Rum                                      | Koloa Kaua'i   |
-| 0.75 oz | Dry Curaçao                                     | Pierre Ferrand |
+| 0.75 oz | Curaçao                                     | Pierre Ferrand |
 |    1 oz | Fresh Lemon Juice                               |
 |  0.5 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |
 

@@ -13,8 +13,8 @@ excerpt: |
   The Caipirinha is a classic Brazilian cocktail known for its refreshing and tangy flavor. It's made with a few simple ingredients: cachaça, lime, sugar, and ice.
 date: 2025-08-11
 glass:
-  - old_fashioned
   - double_old_fashioned
+  - old_fashioned
 garnishes: lime_wedge
 ice: crushed
 ---
@@ -23,7 +23,7 @@ ice: crushed
 
 |       Amount | Ingredient | Brand                 |
 | -----------: | ---------- | --------------------- |
-|         <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Cachaça [&#9432;](/spirit/cachaua/ "More Cachaça recipes")    | Novo Fogo Barrel-Aged |
+|         <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Cachaça [&#9432;](/spirit/cachaca/ "More Cachaça recipes")    | Novo Fogo Barrel-Aged |
 |    <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> whole </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> whole </span> <span class="twox">1 whole </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> whole </span>| Fresh Lime |
 | <span class="onex active">1 tablespoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> tablespoons</span> <span class="twox">2 tablespoons</span> <span class="threex">3 tablespoons</span>| Cane Sugar |
 

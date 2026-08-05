@@ -22,7 +22,7 @@ date: 2025-08-11
 | 0.75 oz | Plymouth Gin       | Plymouth                                                                        |
 | 0.75 oz | Dry Vermouth       | Dolin Vermouth de Chambéry Dry                                                  |
 | 0.75 oz | Sweet Vermouth     | Dolin Vermouth de Chambéry Rouge                                                |
-|  0.5 oz | Curaçao            | Pierre Ferrand Dry Curaçao (curled version) OR Grand Marnier (straight version) |
+|  0.5 oz | Curaçao            | Pierre Ferrand Curaçao (curled version) OR Grand Marnier (straight version) |
 |  0.5 oz | Fresh Orange Juice |
 |  1 dash | Orange Bitters     | Regan's No.6                                                                    |
 

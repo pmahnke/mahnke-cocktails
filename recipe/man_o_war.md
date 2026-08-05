@@ -20,7 +20,7 @@ date: 2025-08-11
 |   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
 |   1.5 oz | Bourbon           | Old Grand-Dad              |
-|  0.75 oz | Dry Curaçao       | Pierre Ferrand             |
+|  0.75 oz | Curaçao       | Pierre Ferrand             |
 |   0.5 oz | Sweet Vermouth    | Cocchi Vermouth di Torino  |
 |   0.5 oz | Fresh Lemon Juice |
 | 2 dashes | Bitters           | Angostura Aromatic Bitters |

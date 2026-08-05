@@ -20,7 +20,7 @@ date: 2025-10-20
 | Amount | Ingredient         | Brand             |
 | -----: | ------------------ | ----------------- |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Maraschino Liqueur [&#9432;](/spirit/maraschino_liqueur/ "More Maraschino Liqueur recipes") | Luxardo           |
-| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Dry Curaçao        | Pierre Ferrand    |
+| <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Curaçao [&#9432;](/spirit/curacao/ "More Curaçao recipes")        | Pierre Ferrand    |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Cognac [&#9432;](/spirit/cognac/ "More Cognac recipes")             | Maison Rouge VSOP |
 
 ### Notes
@@ -43,7 +43,7 @@ date: 2025-10-20
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.5 oz Maraschino Liqueur",
-  " 0.5 oz Dry Curaçao",
+  " 0.5 oz Curaçao",
   " 0.5 oz Cognac"
     ],
   "name": "{{ page.title }}",

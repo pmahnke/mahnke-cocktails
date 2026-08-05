@@ -21,7 +21,7 @@ date: 2025-10-20
 | Amount | Ingredient         | Brand             |
 | -----: | ------------------ | ----------------- |
 | 0.5 oz | Maraschino Liqueur | Luxardo           |
-| 0.5 oz | Dry Curaçao        | Pierre Ferrand    |
+| 0.5 oz | Curaçao        | Pierre Ferrand    |
 | 0.5 oz | Cognac             | Maison Rouge VSOP |
 
 ### Notes

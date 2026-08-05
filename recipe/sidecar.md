@@ -21,7 +21,7 @@ date: 2025-12-23
 | Amount | Ingredient        | Brand             |
 | -----: | ----------------- | ----------------- |
 | 1.5 oz | Cognac            | Maison Rouge VSOP |
-|   1 oz | Dry Curaçao       | Pierre Ferrand    |
+|   1 oz | Curaçao       | Pierre Ferrand    |
 | 0.5 oz | Fresh Lemon Juice |                   |
 
 ### Notes

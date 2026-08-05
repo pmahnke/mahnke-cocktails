@@ -15,8 +15,8 @@ excerpt: |
   The name of the cocktail is likely inspired by the 1935 film The Littlest Rebel starring Shirley Temple.
 date: 2025-12-09
 type:
-  - blended
   - shaken
+  - blended
 ---
 
 ### Ingredients

@@ -22,7 +22,7 @@ date: 2026-03-02
 | ------: | --------------------------------------------------------- | --------------------------------------------- |
 | 0.75 oz | Navy Strength Gin                                         | Junipero                                      |
 | 0.75 oz | Apple Brandy                                              | Laird’s Straight Apple Brandy Bottled in Bond |
-| 0.75 oz | Dry Curaçao                                               | Pierre Ferrand                                |
+| 0.75 oz | Curaçao                                               | Pierre Ferrand                                |
 | 0.75 oz | Fresh Lemon Juice                                         |
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 

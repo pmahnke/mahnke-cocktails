@@ -21,7 +21,7 @@ date: 2025-08-11
 | ------: | ----------------- | ----------------- |
 | 0.75 oz | Cognac            | Maison Rouge VSOP |
 | 0.75 oz | White Rum         | Real McCoy 3 Year |
-|    1 oz | Dry Curaçao       | Pierre Ferrand    |
+|    1 oz | Curaçao       | Pierre Ferrand    |
 |  0.5 oz | Fresh Lemon Juice |
 
 ### Notes

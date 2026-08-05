@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-08-11
 glass: goblet
 garnishes:
-  - mint_sprig
   - raspberries
+  - mint_sprig
 ice: crushed
 type: shaken
 ---

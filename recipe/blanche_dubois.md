@@ -21,7 +21,7 @@ date: 2026-06-05
 |  Amount | Ingredient                                      | Brand          |
 | ------: | ----------------------------------------------- | -------------- |
 |    2 oz | London Dry Gin                                             | Beefeater      |
-|  0.5 oz | Dry Curaçao                                     | Pierre Ferrand |
+|  0.5 oz | Curaçao                                     | Pierre Ferrand |
 | 0.75 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
 | 0.75 oz | Fresh Lemon Juice                               |
 | 1 whole | Strawberry                                      |

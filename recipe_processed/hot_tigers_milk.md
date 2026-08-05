@@ -16,8 +16,8 @@ excerpt: |
 date: 2025-12-13
 glass: rocks
 garnishes:
-  - cinnamon
   - orange_peel
+  - cinnamon
 ---
 
 <div class="subrecipe" markdown="1">

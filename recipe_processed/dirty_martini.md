@@ -17,8 +17,8 @@ glass:
   - coupe
 garnishes: olive
 type:
-  - stirred
   - shaken
+  - stirred
 ---
 
 <div class="subrecipe" markdown="1">

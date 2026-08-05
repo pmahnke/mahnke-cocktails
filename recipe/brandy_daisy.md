@@ -21,7 +21,7 @@ date: 2025-08-11
 | ------: | --------------------------------------------------------- | ------------------------------- |
 | 0.75 oz | Cognac                                                    | Maison Rouge VSOP               |
 | 0.25 oz | Jamaican Rum                                              | Appleton Estate Signature Blend |
-| 0.25 oz | Dry Curaçao                                               | Pierre Ferrand                  |
+| 0.25 oz | Curaçao                                               | Pierre Ferrand                  |
 |  0.5 oz | Fresh Lemon Juice                                         |
 | 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 0.25 oz | Sparkling Water                                           | Topo Chico                      |

@@ -13,8 +13,8 @@ excerpt: |
   A Strawberry Margarita is a refreshing and fruity cocktail that blends the classic Margarita with the sweetness of strawberries.
 date: 2025-12-23
 glass:
-  - double_old_fashioned
   - old_fashioned
+  - double_old_fashioned
 garnishes: strawberry
 ice: crushed
 type: blended

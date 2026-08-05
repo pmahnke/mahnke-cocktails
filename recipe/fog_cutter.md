@@ -22,7 +22,7 @@ date: 2025-09-26
 |  1.5 oz | White Rum                                       | Real McCoy 3 Year                   |
 | 0.75 oz | Pisco                                           | Barsol                              |
 |  0.5 oz | Plymouth Gin                                    | Plymouth Gin                        |
-|  0.5 oz | Dry Curaçao                                     | Pierre Ferrand                      |
+|  0.5 oz | Curaçao                                     | Pierre Ferrand                      |
 |    1 oz | Amontillado Sherry                              | Lustau Amontillado Los Arcos |
 |    1 oz | Fresh Lemon Juice                               |
 | 0.75 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |

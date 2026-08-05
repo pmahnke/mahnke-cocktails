@@ -14,8 +14,8 @@ excerpt: |
   The Espresso Martini is more than 40 years old, and remains one of the most popular cocktails in existence today. Discover why this simple combination of vodka, espresso, and coffee liqueur still works.
 date: 2025-08-11
 glass:
-  - martini
   - coffee
+  - martini
 garnishes: coffee_beans
 type: shaken
 ---
