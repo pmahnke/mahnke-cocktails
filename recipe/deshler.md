@@ -11,7 +11,7 @@ base_spirits: "Rye, Bourbon, Dubonnet Rouge, Lillet Rouge, Triple Sec"
 youtube: "3vtklNLjMPw"
 description: "A classic cocktail that pairs rye whiskey with the wine-based aperitif Dubonnet and Cointreau."
 excerpt: |
-  Enjoy your favorite rye whiskey in this Dubonnet and Cointreau drink from famed New York bartender Brian Miller. If you don't have Dubonnet, you can subsitute bourbon.
+  Enjoy your favorite rye whiskey in this Dubonnet and Cointreau drink from famed New York bartender Brian Miller. If you don't have Dubonnet, you can subsitute Lillet Rouge.
 date: 2025-08-14
 ---
 
