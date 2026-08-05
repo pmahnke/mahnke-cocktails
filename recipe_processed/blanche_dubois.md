@@ -15,8 +15,8 @@ excerpt: |
 date: 2026-06-05
 glass: rocks
 garnishes:
-  - mint_sprig
   - strawberry
+  - mint_sprig
 ice: cubed
 type: shaken
 ---

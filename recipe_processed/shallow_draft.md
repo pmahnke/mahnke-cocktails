@@ -23,7 +23,7 @@ type: shaken
 | --------: | ----------------- | ---------------------- |
 |     <sup>3</sup>&frasl;<sub>4</sub>oz | Falernum          | Portland Syrups        |
 |      <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Fresh Lemon Juice |
-| <span class="onex active">6 to 8 oz  / 180 to 240 ml</span> <span class="onehalfx">9 to 12 oz  / 270 to 360 ml</span> <span class="twox">12 to 16 oz  / 360 to 480 ml</span> <span class="threex">18 to 24 oz  / 540 to 720 ml</span>| Lager              | New Glarus Spotted Cow |
+| <span class="onex active">6 to 8 oz  / 180 to 240 ml</span> <span class="onehalfx">9 to 12 oz  / 270 to 360 ml</span> <span class="twox">12 to 16 oz  / 360 to 480 ml</span> <span class="threex">18 to 24 oz  / 540 to 720 ml</span>| Lager [&#9432;](/spirit/lager "More Lager recipes")              | New Glarus Spotted Cow |
 
 ### Notes
 

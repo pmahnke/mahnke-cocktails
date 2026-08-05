@@ -14,11 +14,11 @@ excerpt: |
 date: 2025-12-09
 glass: coupe
 garnishes:
-  - maraschino_cherry
   - orange_peel
+  - maraschino_cherry
 type:
-  - shaken
   - blended
+  - shaken
 ---
 
 ### Ingredients

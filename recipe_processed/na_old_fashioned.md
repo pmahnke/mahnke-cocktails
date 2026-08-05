@@ -14,9 +14,9 @@ excerpt: |
 date: 2026-01-17
 glass: old_fashioned
 garnishes:
-  - orange_peel
   - maraschino_cherry
   - cinnamon
+  - orange_peel
 ---
 
 <div class="subrecipe" markdown="1">

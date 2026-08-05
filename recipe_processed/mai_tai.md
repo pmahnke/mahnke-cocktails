@@ -13,8 +13,8 @@ excerpt: |
   It’s time you had a proper Mai Tai from Latitude 29 and Jeff “Beachbum” Berry, the renowned Tiki historian.
 date: 2025-12-13
 garnishes:
-  - mint_sprig
   - maraschino_cherry
+  - mint_sprig
 ice: crushed
 type: shaken
 ---

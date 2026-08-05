@@ -14,8 +14,8 @@ excerpt: |
   Inspired by the Paper Plane, the Haystack holds its own with a bold, fruity-bitter balance that feels fresh and different. Built with bourbon, gentian liqueur (like Suze, Salers, or Aveze), apricot liqueur, and fresh lemon juice, it’s a modern whiskey cocktail that’s both easy to mix but surprisingly complex. If you’re looking for a unique bourbon sour variation or just want something new for your home bar, this one’s worth a try.
 date: 2025-10-08
 glass:
-  - coupe
   - rocks
+  - coupe
 type: shaken
 ---
 

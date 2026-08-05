@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-08-11
 garnishes: cinnamon
 type:
-  - shaken
   - stirred
+  - shaken
 ---
 
 ### Ingredients

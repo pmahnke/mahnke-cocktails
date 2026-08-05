@@ -15,8 +15,8 @@ date: 2025-08-14
 glass: coupe
 garnishes: orange_twist
 type:
-  - stirred
   - shaken
+  - stirred
 ---
 
 <div class="subrecipe" markdown="1">

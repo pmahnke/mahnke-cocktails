@@ -16,9 +16,9 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes:
-  - maraschino_cherry
   - lime_wheel
   - pineapple_wedge
+  - maraschino_cherry
 type: shaken
 ---
 

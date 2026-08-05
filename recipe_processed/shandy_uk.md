@@ -19,7 +19,7 @@ glass: highball
 
 | Amount | Ingredient         | Brand                  |
 | -----: | ------------------ | ---------------------- |
-| <span class="onex active">1 part </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> part </span> <span class="twox">2 part </span> <span class="threex">3 part </span>| Lager               | New Glarus Spotted Cow |
+| <span class="onex active">1 part </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> part </span> <span class="twox">2 part </span> <span class="threex">3 part </span>| Lager [&#9432;](/spirit/lager "More Lager recipes")               | New Glarus Spotted Cow |
 | <span class="onex active">1 part </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> part </span> <span class="twox">2 part </span> <span class="threex">3 part </span>| Sparkling Lemonade |                        |
 
 ### Notes

@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-08-11
 glass: coupe
 garnishes:
-  - orange_twist
   - maraschino_cherry
+  - orange_twist
 type: stirred
 ---
 

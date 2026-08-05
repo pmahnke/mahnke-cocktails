@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-08-11
 ice: crushed
 type:
-  - blended
   - shaken
+  - blended
 ---
 
 ### The Classic

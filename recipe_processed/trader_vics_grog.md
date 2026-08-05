@@ -15,8 +15,8 @@ excerpt: |
 date: 2025-11-29
 glass: rocks
 garnishes:
-  - mint_sprig
   - maraschino_cherry
+  - mint_sprig
 ice: crushed
 type: shaken
 ---

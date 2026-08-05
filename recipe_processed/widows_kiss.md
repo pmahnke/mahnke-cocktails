@@ -15,8 +15,8 @@ date: 2025-11-26
 glass: coupe
 garnishes: maraschino_cherry
 type:
-  - shaken
   - stirred
+  - shaken
 ---
 
 <div class="subrecipe" markdown="1">

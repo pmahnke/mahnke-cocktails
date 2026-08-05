@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes:
-  - orange_peel
   - maraschino_cherry
+  - orange_peel
 ice: cubed
 type: shaken
 ---

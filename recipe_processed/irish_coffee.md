@@ -13,8 +13,8 @@ excerpt: |
   Irish Coffee is the perfect winter warming drink. To make it, combine Irish whiskey with sugar and coffee, and top it with cream.
 date: 2025-08-11
 glass:
-  - whiskey
   - coffee
+  - whiskey
 ---
 
 ### Ingredients
