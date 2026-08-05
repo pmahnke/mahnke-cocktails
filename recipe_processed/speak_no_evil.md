@@ -6,7 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/speak_no_evil/"
 stars: 0
-base_spirits: ['Reposado Tequila', 'Mezcal', 'Allspice Dram']
+base_spirits: ['Allspice Dram', 'Mezcal', 'Reposado Tequila']
 youtube: "-DnpmdGBmgs&t=433s"
 description: "A spicy, smoky, and slightly sweet original cocktail that features mezcal as its base spirit."
 excerpt: |
@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes:
-  - maraschino_cherry
   - cinnamon
+  - maraschino_cherry
 ice: crushed
 type: shaken
 ---

@@ -7,7 +7,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/navy_grog_vics_way/"
 stars: 0
-base_spirits: ['Demerara Rum', 'Jamaican Rum', 'White Rum', 'Allspice Dram']
+base_spirits: ['Allspice Dram', 'Demerara Rum', 'Jamaican Rum', 'White Rum']
 youtube: "I3jeItKyZCs"
 description: "A variant of the classic Tiki cocktail that substitutes honey syrup and soda water with pimento dram."
 excerpt: |

@@ -6,7 +6,7 @@ categories: [daisy]
 eras: [classic]
 permalink: "/recipe/brandy_daisy/"
 stars: 4
-base_spirits: ['Cognac', 'Jamaican Rum', 'Curaçao']
+base_spirits: ['Cognac', 'Curaçao', 'Jamaican Rum']
 youtube: "EyB4Ymian3Q"
 description: "A classic cocktail category defined by a spirit, citrus, and sweetener, topped with a splash of soda water."
 excerpt: |

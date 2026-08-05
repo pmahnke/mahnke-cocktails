@@ -6,7 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/lonely_valentine/"
 stars: 3.5
-base_spirits: ['White Rum', 'Ruby Port', 'White Crème de Cacao']
+base_spirits: ['Ruby Port', 'White Crème de Cacao', 'White Rum']
 youtube: "UhRb_xqCXwQ"
 description: "An original cocktail with a bittersweet profile, combining white rum, ruby port, and white crème de cacao."
 excerpt: |

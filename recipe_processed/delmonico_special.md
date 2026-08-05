@@ -7,7 +7,7 @@ categories: [martini]
 eras: [classic]
 permalink: "/recipe/delmonico_special/"
 stars: 3.5
-base_spirits: ['Navy Strength Gin', 'Cognac', 'Sweet Vermouth', 'Blanc Vermouth']
+base_spirits: ['Blanc Vermouth', 'Cognac', 'Navy Strength Gin', 'Sweet Vermouth']
 youtube: "NmaOqrUOJOE"
 description: "A classic gin-based Martini-style cocktail from the 1800s, balanced with cognac and blanc vermouth."
 excerpt: |

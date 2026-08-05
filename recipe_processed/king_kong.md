@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/king_kong/"
 stars: 3.5
-base_spirits: ['Bourbon', 'Jamaican Rum', 'Banana Liqueur']
+base_spirits: ['Banana Liqueur', 'Bourbon', 'Jamaican Rum']
 youtube: "ye2b6ylRmcs"
 description: "This cocktail drinks like an Old Fashioned with a tropical edge thanks to Jamaican rum and banana liqueur."
 excerpt: |

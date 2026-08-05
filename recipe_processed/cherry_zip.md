@@ -12,8 +12,8 @@ excerpt: |
   A twist on the classic Caipiroska, substituting the traditional muddled limes with sweet cherries. The result is a tangy and fruity cocktail with a subtle sweetness.
 date: 2025-08-11
 garnishes:
-  - mint_sprig
   - maraschino_cherry
+  - mint_sprig
 ice: crushed
 type: shaken
 ---

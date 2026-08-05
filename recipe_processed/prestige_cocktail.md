@@ -7,7 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/prestige_cocktail/"
 stars: 0
-base_spirits: ['Nicaraguan Rum', 'Dry Vermouth']
+base_spirits: ['Dry Vermouth', 'Nicaraguan Rum']
 youtube: "CGkWnYhu4ag"
 description: "The Prestige cocktail is a tropical, aged-rum-based drink created by legendary bartender Dale DeGroff. It is a bright and complex twist on a daiquiri, featuring aged rum, pineapple juice, lime juice, dry vermouth, and falernum."
 excerpt: |

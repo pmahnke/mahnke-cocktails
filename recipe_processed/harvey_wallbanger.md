@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/harvey_wallbanger/"
 stars: 0
-base_spirits: ['Vodka', 'Galliano', 'Curaçao']
+base_spirits: ['Curaçao', 'Galliano', 'Vodka']
 youtube: "YFqEvNdPrX8"
 description: "A modern classic that enhances a simple Screwdriver (vodka and orange juice) with a float of the Italian liqueur Galliano."
 excerpt: |

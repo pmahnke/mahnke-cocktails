@@ -6,15 +6,15 @@ categories: [after_dinner, amaro, coffee]
 eras: [modern]
 permalink: "/recipe/coffee_negroni/"
 stars: 0
-base_spirits: ['London Dry Gin', 'Coffee Liqueur', 'Campari', 'Sweet Vermouth']
+base_spirits: ['Campari', 'Coffee Liqueur', 'London Dry Gin', 'Sweet Vermouth']
 youtube: "41iPKwfTE9E"
 description: "A modern, bittersweet after-dinner cocktail that adds the rich flavor of coffee liqueur to the classic Negroni formula."
 excerpt: |
   A coffee Negroni is a modern, bittersweet, gin-forward cocktail that's made with coffee liqueur, gin, Campari, and sweet vermouth.
 date: 2025-08-11
 glass:
-  - rocks
   - coffee
+  - rocks
 type: stirred
 ---
 

@@ -6,7 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/pago_pago/"
 stars: 0
-base_spirits: ['Rhum Agricole', 'Green Chartreuse', 'White Crème de Cacao']
+base_spirits: ['Green Chartreuse', 'Rhum Agricole', 'White Crème de Cacao']
 youtube: "6FZtQNdTReg"
 description: "The cocktail combines rum, pineapple, lime, crème de cacao, and Chartreuse. The pineapple softens the herbal notes, while the cacao adds a touch of richness."
 excerpt: |

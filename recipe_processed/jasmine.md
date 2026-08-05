@@ -7,7 +7,7 @@ eras: [modern]
 categories: [amaro, sour, daisy]
 permalink: "/recipe/jasmine/"
 stars: 3
-base_spirits: ['London Dry Gin', 'Triple Sec', 'Campari']
+base_spirits: ['Campari', 'London Dry Gin', 'Triple Sec']
 youtube: "b7rg7eshiQU"
 description: "A modern classic from the 1990s, this is a vibrant and bittersweet sour that balances gin and Campari with citrus."
 excerpt: |

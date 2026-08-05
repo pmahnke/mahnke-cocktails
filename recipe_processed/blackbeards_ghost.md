@@ -6,7 +6,7 @@ categories: [tiki]
 eras: [anders]
 permalink: "/recipe/blackbeards_ghost/"
 stars: 0
-base_spirits: ['Gold Rum', 'Demerara Rum', 'Apricot Liqueur']
+base_spirits: ['Apricot Liqueur', 'Demerara Rum', 'Gold Rum']
 youtube: "i67-17-CZCQ"
 description: "An original tiki cocktail that features a blend of gold and demerara rums with sweet apricot liqueur."
 excerpt: |

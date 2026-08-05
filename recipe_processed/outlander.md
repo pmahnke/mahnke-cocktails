@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/outlander/"
 stars: 0
-base_spirits: ['Blended Scotch', 'Maraschino Liqueur', 'Absinthe']
+base_spirits: ['Absinthe', 'Blended Scotch', 'Maraschino Liqueur']
 youtube: "https://youtube.com/shorts/MpgNJvGkhL8?si=qAvritlH-ONJH-4f"
 description: "A smoky twist on an Old Fashioned, blending Blended Scotch with Maraschino Liqueur and the herbal complexity of Peychaud's Bitters and Absinthe."
 excerpt: |

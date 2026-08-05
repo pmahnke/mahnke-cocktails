@@ -7,7 +7,7 @@ eras: [modern]
 categories: [buck]
 permalink: "/recipe/suffering_bastard/"
 stars: 3.5
-base_spirits: ['London Dry Gin', 'Cognac', 'Bourbon']
+base_spirits: ['Bourbon', 'Cognac', 'London Dry Gin']
 youtube: "oRQtYcyRKVI"
 description: 'A classic "hair of the dog" buck from the 1940s, originally created as a hangover cure, uniquely featuring both gin and bourbon.'
 excerpt: |

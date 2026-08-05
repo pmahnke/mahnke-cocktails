@@ -7,7 +7,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/french_pearl/"
 stars: 4
-base_spirits: ['London Dry Gin', 'Absinthe']
+base_spirits: ['Absinthe', 'London Dry Gin']
 youtube: "OA7FWMVx9AY"
 description: "A modern classic from 2006, this is a refreshing gin sour with a distinct anise note from an absinthe rinse."
 excerpt: |

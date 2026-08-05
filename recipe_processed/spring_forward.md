@@ -6,7 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/spring_forward/"
 stars: 0
-base_spirits: ['Pisco', 'Plymouth Gin', 'Cocchi Americano']
+base_spirits: ['Cocchi Americano', 'Pisco', 'Plymouth Gin']
 youtube: "RRvfkkSjceM"
 description: "A light and refreshing original cocktail perfect for warmer months, featuring a unique combination of pisco, gin, and Cocchi Americano."
 excerpt: |

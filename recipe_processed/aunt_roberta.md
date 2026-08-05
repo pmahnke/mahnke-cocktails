@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/aunt_roberta/"
 stars: 0
-base_spirits: ['Vodka', 'Absinthe', 'London Dry Gin', 'Cognac', 'Crème de Mûre']
+base_spirits: ['Absinthe', 'Cognac', 'Crème de Mûre', 'London Dry Gin', 'Vodka']
 youtube: "idnVFvygleU"
 description: "Known as one of the strongest drinks in the world, the Aunt Roberta is a lethal, multi-spirit concoction that famously contains 100% alcohol by volume because it utilizes no mixers like juice or soda."
 excerpt: |

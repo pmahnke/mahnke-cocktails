@@ -6,7 +6,7 @@ categories: [sour, corpse_reviver]
 eras: [modern]
 permalink: "/recipe/corpse_reviver_blue/"
 stars: 0
-base_spirits: ['London Dry Gin', 'Cocchi Americano', 'Curaçao']
+base_spirits: ['Cocchi Americano', 'Curaçao', 'London Dry Gin']
 youtube: "rMCsrbidAJ4"
 description: "A modern, visually striking riff on the Corpse Reviver No. 2 that gets its color from blue curaçao."
 excerpt: |

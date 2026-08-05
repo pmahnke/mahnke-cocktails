@@ -6,7 +6,7 @@ categories: [punch]
 eras: [classic]
 permalink: "/recipe/philly_fish_house_punch/"
 stars: 0
-base_spirits: ['Cognac', 'Jamaican Rum', 'Apple Brandy', 'Peach Liqueur']
+base_spirits: ['Apple Brandy', 'Cognac', 'Jamaican Rum', 'Peach Liqueur']
 youtube: "cJhKGTM3z20"
 description: "A potent and historic classic American punch recipe that combines a rich blend of cognac, Jamaican rum, apple brandy, and peach liqueur."
 excerpt: |

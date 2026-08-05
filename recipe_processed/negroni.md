@@ -6,7 +6,7 @@ categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/negroni/"
 stars: 4
-base_spirits: ['London Dry Gin', 'Campari', 'Sweet Vermouth']
+base_spirits: ['Campari', 'London Dry Gin', 'Sweet Vermouth']
 youtube: "lgy6vEX_hQg"
 description: "The iconic Italian aperitif, this is a classic and perfectly balanced three-ingredient cocktail composed of gin, Campari, and sweet vermouth."
 excerpt: |

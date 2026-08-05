@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/mary_pickford/"
 stars: 4
-base_spirits: ['White Rum', 'Maraschino Liqueur']
+base_spirits: ['Maraschino Liqueur', 'White Rum']
 youtube: "TGJZv0FTjk8"
 description: "A classic Prohibition-era cocktail named for the silent film star, featuring a tropical blend of white rum, pineapple juice, and grenadine."
 excerpt: |

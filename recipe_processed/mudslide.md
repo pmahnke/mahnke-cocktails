@@ -7,7 +7,7 @@ categories: [after_dinner]
 eras: [modern]
 permalink: "/recipe/mudslide/"
 stars: 0
-base_spirits: ['Vodka', 'Coffee Liqueur', 'Irish Cream Liqueur']
+base_spirits: ['Coffee Liqueur', 'Irish Cream Liqueur', 'Vodka']
 youtube: "M8uXEDvbvVM"
 description: "This cocktail is a decadent, dessert-style cocktail traditionally crafted with equal parts vodka, coffee liqueur, and Irish cream, often served shaken and strained or blended with ice for a milkshake-like consistency."
 excerpt: |

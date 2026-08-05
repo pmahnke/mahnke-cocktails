@@ -7,7 +7,7 @@ categories: [frozen, sour, tiki]
 eras: [modern]
 permalink: "/recipe/banana_daiquiri/"
 stars: 0
-base_spirits: ['Gold Rum', 'Banana Liqueur']
+base_spirits: ['Banana Liqueur', 'Gold Rum']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/162/banana-daiquiri"
 description: "A tangy banana rum drink that's not overly sweet and is more sophisticated than the uninitiated may expect."
 excerpt: |

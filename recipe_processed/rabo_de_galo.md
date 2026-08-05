@@ -6,7 +6,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/rabo_de_galo/"
 stars: 0
-base_spirits: ['Cachaça', 'Sweet Vermouth', 'Cynar']
+base_spirits: ['Cachaça', 'Cynar', 'Sweet Vermouth']
 youtube: "YFqEvNdPrX8"
 description: "A classic and simple Brazilian cocktail known for its bold flavors, combining cachaça with the bittersweet notes of Cynar."
 excerpt: |

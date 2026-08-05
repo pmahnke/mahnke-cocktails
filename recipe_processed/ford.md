@@ -6,7 +6,7 @@ categories: [martini]
 eras: [classic]
 permalink: "/recipe/ford/"
 stars: 3
-base_spirits: ['Old Tom Gin', 'Dry Vermouth', 'Bénédictine']
+base_spirits: ['Bénédictine', 'Dry Vermouth', 'Old Tom Gin']
 youtube: "UJJqbCGHsOg"
 description: "A classic Martini-style cocktail from the late 19th century, sweetened with Old Tom gin and the herbal complexity of Bénédictine."
 excerpt: |

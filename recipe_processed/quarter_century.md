@@ -6,7 +6,7 @@ eras: [anders]
 categories: [amaro, champagne]
 permalink: "/recipe/quarter_century/"
 stars: 3.5
-base_spirits: ['Campari', 'Apricot Liqueur', 'Absinthe', 'Champagne']
+base_spirits: ['Absinthe', 'Apricot Liqueur', 'Campari', 'Champagne']
 youtube: "S7DGgeFsjyE"
 description: "An original sparkling cocktail that combines the bittersweet notes of Campari and apricot liqueur with a hint of absinthe."
 excerpt: |

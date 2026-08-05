@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/deshler/"
 stars: 4
-base_spirits: ['Rye', 'Bourbon', 'Dubonnet Rouge', 'Lillet Rouge', 'Triple Sec']
+base_spirits: ['Bourbon', 'Dubonnet Rouge', 'Lillet Rouge', 'Rye', 'Triple Sec']
 youtube: "3vtklNLjMPw"
 description: "A classic cocktail that pairs rye whiskey with the wine-based aperitif Dubonnet and Cointreau."
 excerpt: |

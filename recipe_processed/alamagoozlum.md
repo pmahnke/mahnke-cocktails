@@ -7,7 +7,7 @@ categories: [punch]
 eras: [classic]
 permalink: "/recipe/alamagoozlum/"
 stars: 3.5
-base_spirits: ['Genever', 'Jamaican Rum', 'Yellow Chartreuse', 'Curaçao']
+base_spirits: ['Curaçao', 'Genever', 'Jamaican Rum', 'Yellow Chartreuse']
 youtube: "8H-IBvOX8EI"
 description: "A complex and uniquely named vintage punch combining genever, Jamaican rum, and Chartreuse."
 excerpt: |

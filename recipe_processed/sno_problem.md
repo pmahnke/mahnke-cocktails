@@ -6,7 +6,7 @@ eras: [anders]
 categories: [toddy]
 permalink: "/recipe/sno_problem/"
 stars: 0
-base_spirits: ['Navy Strength Rum', 'Bourbon']
+base_spirits: ['Bourbon', 'Navy Strength Rum']
 youtube: "s30L-iu171E"
 description: "An original hot toddy featuring a unique blend of Jamaican rum, bourbon, and oat milk."
 excerpt: |
@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-08-11
 garnishes: cinnamon
 type:
-  - stirred
   - shaken
+  - stirred
 ---
 
 ### Ingredients

@@ -136,9 +136,6 @@ tools:
   muddler:
     name: Muddler
     icon: /assets/images/tool_muddler.svg
-  bar_spoon:
-    name: Bar Spoon
-    icon: /assets/images/tool_bar_spoon.svg
   jigger:
     name: Jigger
     icon: /assets/images/tool_jigger.svg
@@ -167,3 +164,6 @@ types:
   stirred:
     name: Stirred
     icon: /assets/images/tool_stirred.svg
+  blended:
+    name: Blended
+    icon: /assets/images/tool_blender.svg

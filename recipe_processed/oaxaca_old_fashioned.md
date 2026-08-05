@@ -6,7 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/oaxaca_old_fashioned/"
 stars: 0
-base_spirits: ['Reposado Tequila', 'Mezcal']
+base_spirits: ['Mezcal', 'Reposado Tequila']
 youtube: "LkXW1diKOvs"
 description: "A modern classic from 2007 that kicked off the mezcal craze, splitting the base of a traditional Old Fashioned between tequila and mezcal."
 excerpt: |

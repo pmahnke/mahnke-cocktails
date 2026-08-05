@@ -7,7 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/neptunes_wrath/"
 stars: 0
-base_spirits: ['Plymouth Gin', 'Absinthe', 'Green Chartreuse']
+base_spirits: ['Absinthe', 'Green Chartreuse', 'Plymouth Gin']
 youtube: "eoMchfbaVPw"
 description: "A visually dramatic modern sour that represents the fury of the sea with its green hue from absinthe and a flaming Chartreuse float."
 excerpt: |

@@ -6,7 +6,7 @@ categories: [fizz]
 eras: [classic]
 permalink: "/recipe/morning_glory_fizz/"
 stars: 0
-base_spirits: ['Single Malt Scotch', 'Absinthe']
+base_spirits: ['Absinthe', 'Single Malt Scotch']
 youtube: "YMY0LtEq8mg"
 description: 'A classic "hair of the dog" fizz traditionally considered a morning pick-me-up, featuring Scotch and a hint of absinthe.'
 excerpt: |

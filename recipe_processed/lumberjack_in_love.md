@@ -6,7 +6,7 @@ eras: [anders]
 categories: [beer]
 permalink: "/recipe/lumberjack_in_love/"
 stars: 0
-base_spirits: ['Rye', 'Lager Beer', 'Allspice Dram']
+base_spirits: ['Allspice Dram', 'Lager Beer', 'Rye']
 youtube: "Eg7DLBgwJqM"
 description: "A unique beer cocktail that combines rye whiskey, allspice dram, cherry, and lemon with an Oktoberfest beer."
 excerpt: |

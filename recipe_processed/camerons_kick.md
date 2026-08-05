@@ -16,8 +16,8 @@ glass:
   - rocks
   - whiskey
 type:
-  - shaken
   - blended
+  - shaken
 ---
 
 ### Ingredients

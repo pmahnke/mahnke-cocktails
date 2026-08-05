@@ -6,7 +6,7 @@ eras: [anders]
 categories: [tiki]
 permalink: "/recipe/yule_tidal_wave/"
 stars: 0
-base_spirits: ['Trinidadian Rum', 'Bourbon', 'Cognac', 'Pear Liqueur', 'Licor 43', 'Allspice Dram']
+base_spirits: ['Allspice Dram', 'Bourbon', 'Cognac', 'Licor 43', 'Pear Liqueur', 'Trinidadian Rum']
 youtube: "s30L-iu171E"
 description: "A festive and complex original holiday tiki punch that combines multiple spirits with allspice, vanilla, lemon, and pineapple."
 excerpt: |

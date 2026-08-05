@@ -12,8 +12,8 @@ excerpt: |
   The classic Japanese Lemon Sour is a refreshing and easy-to-make cocktail.
 date: 2025-08-11
 glass:
-  - sour
   - collins
+  - sour
 type: shaken
 ---
 

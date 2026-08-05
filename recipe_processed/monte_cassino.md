@@ -6,7 +6,7 @@ eras: [modern]
 categories: [sour, daisy]
 permalink: "/recipe/monte_cassino/"
 stars: 4.25
-base_spirits: ['Rye', 'Yellow Chartreuse', 'Bénédictine']
+base_spirits: ['Bénédictine', 'Rye', 'Yellow Chartreuse']
 youtube: "NGPSk_jMZvA"
 description: "A riff on the Last Word and Final Ward cocktails, replacing Green Chartreuse with Yellow Chartreuse and Maraschino liquor with Benedictine."
 excerpt: |

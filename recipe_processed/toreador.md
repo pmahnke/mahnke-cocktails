@@ -6,7 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/toreador/"
 stars: 4.5
-base_spirits: ['Reposado Tequila', 'Apricot Liqueur', 'Amontillado Sherry']
+base_spirits: ['Amontillado Sherry', 'Apricot Liqueur', 'Reposado Tequila']
 youtube: "3aV3DzDfW_A"
 description: "A classic cocktail that predates the Margarita, showcasing tequila in a balanced and approachable sour format with apricot liqueur."
 excerpt: |

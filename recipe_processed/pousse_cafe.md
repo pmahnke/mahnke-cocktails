@@ -6,7 +6,7 @@ eras: [classic]
 categories: [amaro, pousse_cafe]
 permalink: "/recipe/pousse_cafe/"
 stars: 0
-base_spirits: ['White Crème de Cacao', 'Crème de Violette', 'Amaro Nonino', 'Green Chartreuse', 'Cognac', 'Absinthe']
+base_spirits: ['Absinthe', 'Amaro Nonino', 'Cognac', 'Crème de Violette', 'Green Chartreuse', 'White Crème de Cacao']
 youtube: "4OJd_phsa5w"
 description: "A visually striking style of layered drink that requires a steady hand to create beautiful stripes of different liqueurs in a glass."
 excerpt: |

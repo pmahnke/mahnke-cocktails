@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/suburban/"
 stars: 0
-base_spirits: ['Rye', 'Jamaican Rum', 'Tawny Port']
+base_spirits: ['Jamaican Rum', 'Rye', 'Tawny Port']
 youtube: "UC1QUNjAZgw"
 description: "An old-Fashioned with a splash of rum and port in place of sugar syrup. I favour tawny port, but if you've got a sweet tooth, then use ruby port."
 excerpt: |

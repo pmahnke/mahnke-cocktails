@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/bay_roc_special/"
 stars: 0
-base_spirits: ['Jamaican Rum', 'Drambuie']
+base_spirits: ['Drambuie', 'Jamaican Rum']
 youtube: "sRTGCquUgMs"
 description: "A classic cocktail from Jamaica that balances the spice and honey notes of Drambuie with Jamaican rum."
 excerpt: |

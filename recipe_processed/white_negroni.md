@@ -6,7 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/white_negroni/"
 stars: 0
-base_spirits: ['Plymouth Gin', 'Suze', 'Lillet Blanc']
+base_spirits: ['Lillet Blanc', 'Plymouth Gin', 'Suze']
 youtube: "fBax4HODqyA"
 description: "A popular and modern Negroni variation that swaps the red Campari and sweet vermouth for their lighter, floral counterparts: Suze and Lillet Blanc."
 excerpt: |

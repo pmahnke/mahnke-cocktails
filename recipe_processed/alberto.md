@@ -7,7 +7,7 @@ categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/alberto/"
 stars: 3.5
-base_spirits: ['London Dry Gin', 'Fino Sherry', 'Cocchi Americano']
+base_spirits: ['Cocchi Americano', 'Fino Sherry', 'London Dry Gin']
 youtube: "PM_X8Ci0iXg"
 description: "A Prohibition-era Martini variation that pairs the dryness of gin with the salinity of Fino sherry."
 excerpt: |

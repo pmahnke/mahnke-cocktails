@@ -7,7 +7,7 @@ categories: [grog, tiki]
 eras: [modern]
 permalink: "/recipe/dons_own_grog/"
 stars: 0
-base_spirits: ['Jamaican Rum', 'White Rum', 'Rhum Agricole', 'Crème de Mûre']
+base_spirits: ['Crème de Mûre', 'Jamaican Rum', 'Rhum Agricole', 'White Rum']
 youtube: "pG7mU5eenRA"
 description: "A tiki cocktail created by Don the Beachcomber in 1937, a unique twist on the traditional grog, incorporating blackberry liqueur and more for a woody, spicy, and fruity flavor profile."
 excerpt: |

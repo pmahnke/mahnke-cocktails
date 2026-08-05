@@ -7,7 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/churchill/"
 stars: 3
-base_spirits: ['Blended Scotch', 'Triple Sec', 'Sweet Vermouth']
+base_spirits: ['Blended Scotch', 'Sweet Vermouth', 'Triple Sec']
 youtube: "https://www.foodandwine.com/churchill-cocktail-recipe-11686043"
 description: "A mid-century classic named for the British prime minister, this is a modified Whiskey Sour featuring Scotch, sweet vermouth, and orange liqueur."
 excerpt: |

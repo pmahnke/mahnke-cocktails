@@ -6,7 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/millionaire_royal/"
 stars: 4
-base_spirits: ['Bourbon', 'Curaçao', 'Absinthe']
+base_spirits: ['Absinthe', 'Bourbon', 'Curaçao']
 youtube: "CZ5KSKO3sbQ"
 description: "A very satisfactory classic sour, featuring bourbon, Grand Marnier, and a hint of absinthe."
 excerpt: |

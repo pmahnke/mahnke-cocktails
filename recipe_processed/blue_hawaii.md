@@ -6,7 +6,7 @@ categories: [highball]
 eras: [modern]
 permalink: "/recipe/blue_hawaii/"
 stars: 0
-base_spirits: ['White Rum', 'Rhum Agricole', 'Curaçao']
+base_spirits: ['Curaçao', 'Rhum Agricole', 'White Rum']
 youtube: "6bGqiC9qyQ8"
 description: "A vibrant and tropical highball created in 1957 to showcase blue curaçao, blended with rum and pineapple."
 excerpt: |

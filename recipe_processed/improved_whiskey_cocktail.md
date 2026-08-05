@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/improved_whiskey_cocktail/"
 stars: 4
-base_spirits: ['Rye', 'Maraschino Liqueur', 'Absinthe']
+base_spirits: ['Absinthe', 'Maraschino Liqueur', 'Rye']
 youtube: "8Mj790thvm8"
 description: 'A classic Old Fashioned variation from the 1870s, "improved" with the addition of European ingredients like maraschino liqueur and absinthe.'
 excerpt: |

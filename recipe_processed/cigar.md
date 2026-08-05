@@ -6,7 +6,7 @@ categories: [amaro, cocktail, smoked]
 eras: [prohibition]
 permalink: "/recipe/cigar/"
 stars: 0
-base_spirits: ['Sweet Vermouth', 'Single Malt Scotch', 'Aperol']
+base_spirits: ['Aperol', 'Single Malt Scotch', 'Sweet Vermouth']
 youtube: "gZdT2GBf91I"
 description: "A classic smoked cocktail designed to complement the flavors of a cigar, typically made with dark spirits and sweet vermouth."
 excerpt: |

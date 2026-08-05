@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/pink_gin/"
 stars: 0
-base_spirits: ['Plymouth Gin', 'Angostura Aromatic Bitters']
+base_spirits: ['Angostura Aromatic Bitters', 'Plymouth Gin']
 youtube: "PLi_quAjz8g"
 description: "A classic and simple naval cocktail, originally created by adding a few dashes of Angostura bitters to Plymouth gin."
 excerpt: |

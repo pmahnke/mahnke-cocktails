@@ -7,7 +7,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/black_prince/"
 stars: 0
-base_spirits: ['Guatemalan Rum', 'Punt e Mes', 'Averna']
+base_spirits: ['Averna', 'Guatemalan Rum', 'Punt e Mes']
 youtube: "zWuyuW-tGcg"
 description: "This cocktail is a bridge between a Manhattan and a Black Manhattan. The combination of aged rum and bitter Italian spirits gives it a dark, velvety texture with notes of dried fruit and cocoa."
 excerpt: |

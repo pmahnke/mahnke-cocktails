@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/huntsman/"
 stars: 3
-base_spirits: ['Rye', 'Cherry Liqueur', 'Bénédictine']
+base_spirits: ['Bénédictine', 'Cherry Liqueur', 'Rye']
 youtube: "vECQyr3-Lyw"
 description: "This is a rye forward cocktail with cherry and Bénédictine notes."
 excerpt: |

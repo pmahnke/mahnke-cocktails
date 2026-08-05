@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/hurricane/"
 stars: 4
-base_spirits: ['Jamaican Rum', 'Dark Rum']
+base_spirits: ['Dark Rum', 'Jamaican Rum']
 youtube: "3b2-jFhtCyQ"
 description: "A potent and fruity classic from New Orleans, famous for its blend of rums and passion fruit flavor."
 excerpt: |

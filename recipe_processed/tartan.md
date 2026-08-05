@@ -6,7 +6,7 @@ categories: [amaro, cocktail]
 eras: [anders]
 permalink: "/recipe/tartan/"
 stars: 0
-base_spirits: ['Single Malt Scotch', 'Sweet Vermouth', 'Ramazzotti', 'Drambuie']
+base_spirits: ['Drambuie', 'Ramazzotti', 'Single Malt Scotch', 'Sweet Vermouth']
 youtube: "Jqy3bhn-O9s"
 description: "A classic Scotch-based cocktail with warm, rich colors and complex flavors, reminiscent of the iconic Scottish fabric."
 excerpt: |

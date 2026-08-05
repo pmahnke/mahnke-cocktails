@@ -7,7 +7,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/el_diablo/"
 stars: 0
-base_spirits: ['Reposado Tequila', 'Crème de Cassis']
+base_spirits: ['Crème de Cassis', 'Reposado Tequila']
 youtube: "xN3ymSPZJjY"
 description: "A classic tiki cocktail from the 1940s that combines reposado tequila with the sweet blackcurrant flavor of crème de cassis and spicy ginger beer."
 excerpt: |

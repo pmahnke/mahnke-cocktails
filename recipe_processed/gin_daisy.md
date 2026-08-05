@@ -7,7 +7,7 @@ categories: [daisy]
 eras: [classic]
 permalink: "/recipe/gin_daisy/"
 stars: 0
-base_spirits: ['Plymouth Gin', 'Bénédictine']
+base_spirits: ['Bénédictine', 'Plymouth Gin']
 youtube: "EyB4Ymian3Q"
 description: "A classic Daisy variation that uses gin as its base, complemented by the herbal sweetness of Bénédictine."
 excerpt: |

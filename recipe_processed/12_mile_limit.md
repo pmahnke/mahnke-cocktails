@@ -7,7 +7,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/12_mile_limit/"
 stars: 3.75
-base_spirits: ['White Rum', 'Rye', 'Cognac']
+base_spirits: ['Cognac', 'Rye', 'White Rum']
 youtube: "6M6Xu_URmPg"
 description: "A Prohibition-era sour whose name references the extension of US jurisdiction offshore, strengthening a classic rum cocktail with rye and cognac."
 excerpt: |

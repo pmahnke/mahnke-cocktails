@@ -6,7 +6,7 @@ categories: [champagne]
 eras: [anders]
 permalink: "/recipe/brambubble/"
 stars: 0
-base_spirits: ['Champagne', 'London Dry Gin', 'Crème de Mûre']
+base_spirits: ['Champagne', 'Crème de Mûre', 'London Dry Gin']
 youtube: "IAaiRENeyvc&t=639s"
 description: "A refreshing and vibrant Champagne cocktail made with blackberry brandy, lemon, and ginger ale."
 excerpt: |

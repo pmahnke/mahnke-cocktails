@@ -6,7 +6,7 @@ categories: [cocktail, martini]
 eras: [modern]
 permalink: "/recipe/arnaud_martini/"
 stars: 0
-base_spirits: ['London Dry Gin', 'Crème de Cassis', 'Blanc Vermouth']
+base_spirits: ['Blanc Vermouth', 'Crème de Cassis', 'London Dry Gin']
 youtube: "FI4wUOzJvUE"
 description: "A classic cocktail that features gin, dry vermouth, and crème de cassis in equal parts. It is known for its rich burgundy color and an interesting balance of blackcurrant fruitiness and herbal, dry notes."
 excerpt: |

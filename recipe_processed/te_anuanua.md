@@ -6,7 +6,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/te_anuanua/"
 stars: 4
-base_spirits: ['Jamaican Rum', 'Banana Liqueur']
+base_spirits: ['Banana Liqueur', 'Jamaican Rum']
 youtube: "IutGk6xCT1A"
 description: "This cocktail is a tropical cocktail that serves as a modern Mai Tai riff, named after the Tahitian word for Rainbow."
 excerpt: |

@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/satans_whiskers/"
 stars: 0
-base_spirits: ['Plymouth Gin', 'Dry Vermouth', 'Sweet Vermouth', 'Curaçao']
+base_spirits: ['Curaçao', 'Dry Vermouth', 'Plymouth Gin', 'Sweet Vermouth']
 youtube: "T3GsJVVGCFs"
 description: "A classic Prohibition-era cocktail with a devilishly delicious flavor profile, essentially a Perfect Martini with the addition of orange juice and Grand Marnier."
 excerpt: |

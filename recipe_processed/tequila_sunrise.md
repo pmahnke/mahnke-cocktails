@@ -7,7 +7,7 @@ eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/tequila_sunrise/"
 stars: 3
-base_spirits: ['Crème de Cassis', 'Blanco Tequila', 'Reposado Tequila']
+base_spirits: ['Blanco Tequila', 'Crème de Cassis', 'Reposado Tequila']
 youtube: "VNaSpZ3YOoM"
 description: 'A classic and visually stunning cocktail from the early 1970s, known for its layered "sunrise" effect created by floating grenadine in tequila and orange juice.'
 excerpt: |
@@ -15,8 +15,8 @@ excerpt: |
 date: 2025-08-31
 glass: collins
 garnishes:
-  - maraschino_cherry
   - lime_wheel
+  - maraschino_cherry
 ---
 
 <div class="subrecipe" markdown="1">

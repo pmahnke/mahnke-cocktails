@@ -13,8 +13,8 @@ excerpt: |
   The Rusty Nail is a classic two-part cocktail that combines scotch and Drambuie.
 date: 2025-12-09
 type:
-  - stirred
   - blended
+  - stirred
 ---
 
 ### Ingredients

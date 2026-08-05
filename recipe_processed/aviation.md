@@ -7,7 +7,7 @@ categories: [sour, daisy]
 eras: [classic]
 permalink: "/recipe/aviation/"
 stars: 4.5
-base_spirits: ['London Dry Gin', 'Crème de Violette', 'Maraschino Liqueur']
+base_spirits: ['Crème de Violette', 'London Dry Gin', 'Maraschino Liqueur']
 youtube: "Kmw5D32W8sM&t=345sY"
 description: "A classic gin sour from the early 20th century, celebrated for its floral notes and sky-blue hue from crème de violette."
 excerpt: |

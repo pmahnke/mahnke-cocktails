@@ -7,7 +7,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/voyager/"
 stars: 0
-base_spirits: ['Jamaican Rum', 'Bénédictine']
+base_spirits: ['Bénédictine', 'Jamaican Rum']
 youtube: "9V4Jj3bmi90"
 description: "A rum-based, tiki-style drink created by mixologist Robert Hess and features Bénédictine and falernum liqueurs."
 excerpt: |

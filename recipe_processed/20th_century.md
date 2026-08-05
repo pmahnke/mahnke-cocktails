@@ -7,7 +7,7 @@ categories: [sour, daisy]
 eras: [classic]
 permalink: "/recipe/20th_century/"
 stars: 4
-base_spirits: ['London Dry Gin', 'Cocchi Americano', 'Crème de Cacao']
+base_spirits: ['Cocchi Americano', 'Crème de Cacao', 'London Dry Gin']
 youtube: "6AyWk5teLv8"
 description: "A classic gin sour from 1937 featuring crème de cacao, named in honor of the famous 20th Century Limited passenger train."
 excerpt: |

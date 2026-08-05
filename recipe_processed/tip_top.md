@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/tip_top/"
 stars: 0
-base_spirits: ['Dry Vermouth', 'Bénédictine', 'Fino Sherry']
+base_spirits: ['Bénédictine', 'Dry Vermouth', 'Fino Sherry']
 youtube: "9V4Jj3bmi90"
 description: "This is a low-ABV, vermouth-forward cocktail described as a well-hidden gem and a great warm-weather pre-dinner drink."
 excerpt: |

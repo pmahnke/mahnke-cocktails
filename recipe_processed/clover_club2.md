@@ -6,7 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/clover_club2/"
 stars: 4.75
-base_spirits: ['Plymouth Gin', 'Blanc Vermouth']
+base_spirits: ['Blanc Vermouth', 'Plymouth Gin']
 youtube: "MkLZovhDN_k"
 description: "A pre-Prohibition classic from Philadelphia known for its silky, frothy texture and beautiful pink hue from raspberry syrup."
 excerpt: |

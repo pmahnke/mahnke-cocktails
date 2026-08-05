@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/affinity/"
 stars: 4
-base_spirits: ['Single Malt Scotch', 'Sweet Vermouth', 'Blanc Vermouth']
+base_spirits: ['Blanc Vermouth', 'Single Malt Scotch', 'Sweet Vermouth']
 youtube: "9lgx04fJrSM"
 description: "A sophisticated classic that creates a harmonious blend of Scotch, sweet vermouth, and blanc vermouth."
 excerpt: |

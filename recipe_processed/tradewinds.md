@@ -6,7 +6,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/tradewinds/"
 stars: 0
-base_spirits: ['Dark Rum', 'Gold Rum', 'Apricot Liqueur']
+base_spirits: ['Apricot Liqueur', 'Dark Rum', 'Gold Rum']
 youtube: "RThEGH0sbgM"
 description: "A classic tiki cocktail that blends the tropical flavors of rum, apricot, coconut, and citrus."
 excerpt: |

@@ -6,7 +6,7 @@ eras: [classic]
 categories: [punch]
 permalink: "/recipe/wassail/"
 stars: 0
-base_spirits: ['Apple Brandy', 'Amontillado Sherry', 'Dark Ale']
+base_spirits: ['Amontillado Sherry', 'Apple Brandy', 'Dark Ale']
 youtube: "9cp5upHowwI"
 description: "A warm, spiced classic beverage with ancient roots, traditionally made with mulled cider or ale and often spiked with brandy and sherry."
 excerpt: |

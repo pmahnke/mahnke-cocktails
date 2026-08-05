@@ -6,7 +6,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/royal_bermuda_yacht_club/"
 stars: 4
-base_spirits: ['Demerara Rum', 'White Rum', 'Curaçao']
+base_spirits: ['Curaçao', 'Demerara Rum', 'White Rum']
 youtube: "y3s1xmGfLkw"
 description: "A modern sour from the 1940s, this cocktail features a sophisticated blend of rum, falernum, and Cointreau."
 excerpt: |

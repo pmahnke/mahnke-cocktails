@@ -6,7 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/algonquin/"
 stars: 3
-base_spirits: ['Rye', 'Blanc Vermouth', 'Amontillado Sherry']
+base_spirits: ['Amontillado Sherry', 'Blanc Vermouth', 'Rye']
 youtube: "BarYf4SITZ4"
 description: "A Prohibition-era sour named for the famous Manhattan hotel, featuring rye whiskey and pineapple juice."
 excerpt: |

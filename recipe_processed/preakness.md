@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/preakness/"
 stars: 3
-base_spirits: ['Bourbon', 'Sweet Vermouth', 'Bénédictine']
+base_spirits: ['Bourbon', 'Bénédictine', 'Sweet Vermouth']
 youtube: "1V0-c6u4xJA"
 description: "A classic Manhattan variation named for the famous horse race, which gets an added layer of herbal complexity from Bénédictine."
 excerpt: |

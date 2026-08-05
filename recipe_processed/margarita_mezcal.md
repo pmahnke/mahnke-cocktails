@@ -6,7 +6,7 @@ categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_mezcal/"
 stars: 0
-base_spirits: ['Mezcal', 'Curaçao']
+base_spirits: ['Curaçao', 'Mezcal']
 youtube: "VBSjE-P_C58"
 description: "A modern twist on the classic Margarita that swaps tequila for its smoky cousin, mezcal."
 excerpt: |

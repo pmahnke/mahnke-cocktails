@@ -6,7 +6,7 @@ eras: [modern]
 categories: [after_dinner]
 permalink: "/recipe/soyer_au_champagne/"
 stars: 0
-base_spirits: ['Champagne', 'Cognac', 'Bénédictine']
+base_spirits: ['Bénédictine', 'Champagne', 'Cognac']
 youtube: "mhXp-T53DAs"
 description: "A luxurious and elegant classic cocktail, often described as an adult ice cream float, combining cognac, liqueurs, Champagne, and vanilla ice cream."
 excerpt: |

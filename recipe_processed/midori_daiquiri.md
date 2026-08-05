@@ -6,7 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/midori_daiquiri/"
 stars: 4
-base_spirits: ['White Rum', 'Melon Liqueur']
+base_spirits: ['Melon Liqueur', 'White Rum']
 youtube:
 description: "A vibrant green twist on the classic Cuban sour, celebrated for its perfect balance of two parts white rum, sweet melon liqueur, and tart fresh lime juice."
 excerpt: |

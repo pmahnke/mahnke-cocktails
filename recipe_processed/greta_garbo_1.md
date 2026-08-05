@@ -6,7 +6,7 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/greta_garbo_1/"
 stars: 3
-base_spirits: ['White Rum', 'Maraschino Liqueur']
+base_spirits: ['Maraschino Liqueur', 'White Rum']
 youtube: "79htbyQ8nDY"
 description: "A Prohibition-era cocktail named for the Hollywood star, featuring White Rum and maraschino liqueur."
 excerpt: |

@@ -7,7 +7,7 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/singapore_sling/"
 stars: 4
-base_spirits: ['London Dry Gin', 'Cherry Liqueur', 'Bénédictine', 'Triple Sec']
+base_spirits: ['Bénédictine', 'Cherry Liqueur', 'London Dry Gin', 'Triple Sec']
 youtube: "EjRcajuUkJk"
 youtube_embed: "https://www.youtube.com/embed/EjRcajuUkJk?si=EMdqje_4KECcUOJA"
 description: "A classic and complex long drink from Singapore, developed in 1915, featuring a gin base with cherry liqueur and Bénédictine."
@@ -16,9 +16,9 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes:
+  - lime_wheel
   - maraschino_cherry
   - pineapple_wedge
-  - lime_wheel
 type: shaken
 ---
 

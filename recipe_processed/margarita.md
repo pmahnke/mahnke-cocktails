@@ -6,7 +6,7 @@ categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/margarita/"
 stars: 4.5
-base_spirits: ['Reposado Tequila', 'Curaçao']
+base_spirits: ['Curaçao', 'Reposado Tequila']
 youtube: "jxpT11WEtWQ"
 description: "The iconic classic sour that perfectly combines the earthy notes of tequila with the bright citrus of lime and triple sec."
 excerpt: |

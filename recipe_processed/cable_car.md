@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/cable_car/"
 stars: 4
-base_spirits: ['Spiced Rum', 'Curaçao']
+base_spirits: ['Curaçao', 'Spiced Rum']
 youtube: "iUGkl-AVgbI"
 description: "A modern classic from 1996, this is a twist on the classic Sidecar featuring spiced rum."
 excerpt: |

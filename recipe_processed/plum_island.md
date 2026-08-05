@@ -6,7 +6,7 @@ eras: [anders]
 categories: [tiki]
 permalink: "/recipe/plum_island/"
 stars: 4
-base_spirits: ['Lillet Rouge', 'Gold Rum', 'Absinthe']
+base_spirits: ['Absinthe', 'Gold Rum', 'Lillet Rouge']
 youtube: 'lWDA\_\_gwSow'
 description: "An original tiki cocktail featuring a unique combination of gold rum, Lillet Rouge, and a hint of absinthe."
 excerpt: |

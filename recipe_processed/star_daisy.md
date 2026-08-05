@@ -7,7 +7,7 @@ categories: [daisy, sour]
 eras: [modern]
 permalink: "/recipe/star_daisy/"
 stars: 4
-base_spirits: ['Navy Strength Gin', 'Apple Brandy', 'Curaçao']
+base_spirits: ['Apple Brandy', 'Curaçao', 'Navy Strength Gin']
 youtube: "QZRlEKhzUZE&t=838s"
 description: "This cocktail offers a sophisticated profile that marries the piney bite of gin with the mellow depth of apple brandy, all held together by a refreshing ribbon of lemon and orange."
 excerpt: |

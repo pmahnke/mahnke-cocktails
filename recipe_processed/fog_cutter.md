@@ -6,7 +6,7 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/fog_cutter/"
 stars: 4
-base_spirits: ['White Rum', 'Pisco', 'Plymouth Gin', 'Curaçao', 'Amontillado Sherry']
+base_spirits: ['Amontillado Sherry', 'Curaçao', 'Pisco', 'Plymouth Gin', 'White Rum']
 youtube: "kMqIu6zPv9s"
 description: "A vintage tiki classic with a complex blend of spirits, including White Rum, pisco, and gin, balanced with citrus and orgeat."
 excerpt: |

@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/embassy/"
 stars: 3
-base_spirits: ['Cognac', 'Jamaican Rum', 'Curaçao']
+base_spirits: ['Cognac', 'Curaçao', 'Jamaican Rum']
 youtube: "YFqEvNdPrX8"
 description: "A classic cocktail from the 1930s Embassy Club in Hollywood, this is a well-balanced and flavorful drink combining brandy, rum, and Cointreau."
 excerpt: |

@@ -7,7 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/flor_de_jerez/"
 stars: 0
-base_spirits: ['Amontillado Sherry', 'Jamaican Rum', 'Apricot Liqueur']
+base_spirits: ['Amontillado Sherry', 'Apricot Liqueur', 'Jamaican Rum']
 youtube: "zWuyuW-tGcg"
 description: "Amontillado sherry provides a nutty foundation, while a small measure of Jamaican rum adds weight and a lean funk."
 excerpt: |

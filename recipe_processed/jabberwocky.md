@@ -6,7 +6,7 @@ categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/jabberwocky/"
 stars: 0
-base_spirits: ['Manzanilla Sherry', 'London Dry Gin', 'Lillet Blanc']
+base_spirits: ['Lillet Blanc', 'London Dry Gin', 'Manzanilla Sherry']
 youtube: "tGudsyMDO_g"
 description: "A refined and nuanced Martini-style sipper from the Savoy Cocktail book, featuring a marriage of dry sherry, gin, and Lillet."
 excerpt: |

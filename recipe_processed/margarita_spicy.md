@@ -6,7 +6,7 @@ categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_spicy/"
 stars: 0
-base_spirits: ['Mezcal', 'Curaçao']
+base_spirits: ['Curaçao', 'Mezcal']
 youtube: "jxpT11WEtWQ"
 description: "A modern Margarita variation that adds a kick of heat from muddled jalapeños and often features a spicy salt rim."
 excerpt: |

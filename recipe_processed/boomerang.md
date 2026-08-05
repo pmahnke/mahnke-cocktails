@@ -6,7 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/boomerang/"
 stars: 4
-base_spirits: ['Rye', 'Swedish Punsch', 'Blanc Vermouth']
+base_spirits: ['Blanc Vermouth', 'Rye', 'Swedish Punsch']
 youtube: "VXjcObds5DY"
 description: "A robustly flavored cocktail featuring rye whisky, blanc vermouth, and Swedish Punsch. Dashes of Angostura bitters and lemon juice are added to create a complex, bittersweet, and herbaceous aperitif."
 excerpt: |

@@ -7,7 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/transcontinental/"
 stars: 3.75
-base_spirits: ['London Dry Gin', 'Maraschino Liqueur', 'Yellow Chartreuse', 'Crème de Violette']
+base_spirits: ['Crème de Violette', 'London Dry Gin', 'Maraschino Liqueur', 'Yellow Chartreuse']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/9724/transcontinental"
 description: "The Last Word meets the Aviation somewhere over the French-Italian border."
 excerpt: |

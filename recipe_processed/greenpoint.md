@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/greenpoint/"
 stars: 3.5
-base_spirits: ['Rye', 'Yellow Chartreuse', 'Sweet Vermouth']
+base_spirits: ['Rye', 'Sweet Vermouth', 'Yellow Chartreuse']
 youtube: "h68b0qgAkAg"
 description: "A modern classic and Manhattan variation from the early 2000s, named for a Brooklyn neighborhood and featuring yellow Chartreuse."
 excerpt: |

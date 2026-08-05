@@ -6,7 +6,7 @@ categories: [amaro, cocktail]
 eras: [anders]
 permalink: "/recipe/lower_wacker/"
 stars: 0
-base_spirits: ['Rye', 'Sweet Vermouth', 'Cynar', 'Apricot Liqueur', 'Malört']
+base_spirits: ['Apricot Liqueur', 'Cynar', 'Malört', 'Rye', 'Sweet Vermouth']
 youtube: "bzN1zwAqgSY"
 description: "This is Anders&#39; ode to Chicago with this bold whiskey cocktail with a Malört rinse."
 excerpt: |

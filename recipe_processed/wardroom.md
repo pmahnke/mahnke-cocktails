@@ -6,7 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/wardroom/"
 stars: 3
-base_spirits: ['Cognac', 'Nicaraguan Rum', 'Tawny Port', 'Maraschino Liqueur']
+base_spirits: ['Cognac', 'Maraschino Liqueur', 'Nicaraguan Rum', 'Tawny Port']
 youtube: "y41UN6AZSMs"
 description: "A modern cocktail with a naval theme, featuring a rich combination of port, cognac, and dark rum."
 excerpt: |

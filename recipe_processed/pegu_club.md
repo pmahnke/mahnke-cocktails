@@ -6,7 +6,7 @@ categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/pegu_club/"
 stars: 3
-base_spirits: ['Plymouth Gin', 'Curaçao']
+base_spirits: ['Curaçao', 'Plymouth Gin']
 youtube: "YenVNoabM4"
 description: "A classic gin-based sour from the Prohibition era with a touch of tropical flair, originally created at the Pegu Club in Burma."
 excerpt: |

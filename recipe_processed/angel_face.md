@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/angel_face/"
 stars: 3
-base_spirits: ['London Dry Gin', 'Apple Brandy', 'Apricot Liqueur']
+base_spirits: ['Apple Brandy', 'Apricot Liqueur', 'London Dry Gin']
 youtube: "2nHl1pBETt8"
 description: "A classic, spirit-forward cocktail from the Prohibition era that perfectly balances gin, apple brandy, and apricot liqueur."
 excerpt: |

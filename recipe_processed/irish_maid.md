@@ -6,7 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/irish_maid/"
 stars: 3
-base_spirits: ['Irish Whiskey', 'Elderflower Liqueur']
+base_spirits: ['Elderflower Liqueur', 'Irish Whiskey']
 youtube: "IIMug56LEiQ"
 description: "A refreshing modern whiskey sour variation that features Irish whiskey, elderflower liqueur, and fresh muddled cucumber."
 excerpt: |

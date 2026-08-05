@@ -7,7 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/right_word/"
 stars: 3.5
-base_spirits: ['London Dry Gin', 'Elderflower Liqueur', 'Lillet Blanc']
+base_spirits: ['Elderflower Liqueur', 'Lillet Blanc', 'London Dry Gin']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/9680/right-word"
 description: "The Right Word is a crisp, floral variation of the Last Word, made with elderflower liqueur and Lillet Blanc instead of Green Chartreuse and maraschino."
 excerpt: |

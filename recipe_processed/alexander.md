@@ -6,7 +6,7 @@ categories: [cocktail, after_dinner]
 eras: [classic]
 permalink: "/recipe/alexander/"
 stars: 0
-base_spirits: ['London Dry Gin', 'Crème de Cacao']
+base_spirits: ['Crème de Cacao', 'London Dry Gin']
 youtube: "mBGgu3qRztY"
 description: "A creamy and decadent classic that combines gin with the chocolate notes of crème de cacao and cream."
 excerpt: |

@@ -6,7 +6,7 @@ categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/rolls_royce/"
 stars: 0
-base_spirits: ['London Dry Gin', 'Dry Vermouth', 'Sweet Vermouth', 'Bénédictine']
+base_spirits: ['Bénédictine', 'Dry Vermouth', 'London Dry Gin', 'Sweet Vermouth']
 youtube: "UJJqbCGHsOg"
 description: "A sophisticated and elegant Prohibition-era Martini variation, featuring the addition of both sweet vermouth and Bénédictine."
 excerpt: |

@@ -6,7 +6,7 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/mai_tai/"
 stars: 4.5
-base_spirits: ['Jamaican Rum', 'Rhum Agricole', 'Curaçao', 'Dark Rum', 'Overproof Rum']
+base_spirits: ['Curaçao', 'Dark Rum', 'Jamaican Rum', 'Overproof Rum', 'Rhum Agricole']
 youtube: "gYJsPE1demY"
 description: "A quintessential tiki classic that balances two types of rum with the flavors of orange curaçao, orgeat, and lime."
 excerpt: |

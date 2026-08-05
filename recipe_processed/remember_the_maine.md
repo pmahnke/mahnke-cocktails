@@ -6,7 +6,7 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/remember_the_maine/"
 stars: 3
-base_spirits: ['Rye', 'Sweet Vermouth', 'Cherry Heering', 'Absinthe']
+base_spirits: ['Absinthe', 'Cherry Heering', 'Rye', 'Sweet Vermouth']
 youtube: "I2_xijYpP_Y"
 description: "A historic and complex Prohibition-era Manhattan variation that adds cherry liqueur and a dash of absinthe to a rye whiskey base."
 excerpt: |

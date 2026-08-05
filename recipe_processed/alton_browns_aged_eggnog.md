@@ -7,7 +7,7 @@ categories: [eggnog, dairy]
 eras: [classic]
 permalink: "/recipe/alton_browns_aged_eggnog/"
 stars: 0
-base_spirits: ['Jamaican Rum', 'Cognac', 'Bourbon']
+base_spirits: ['Bourbon', 'Cognac', 'Jamaican Rum']
 youtube: "s7Rcx7Fekn4"
 description: "A rich and complex holiday classic that blends Jamaican rum, cognac, and bourbon, designed to be aged for depth of flavor."
 excerpt: |

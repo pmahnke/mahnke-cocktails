@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/shamrock/"
 stars: 0
-base_spirits: ['Irish Whiskey', 'Blanc Vermouth', 'Green Chartreuse', 'Crème de Menthe']
+base_spirits: ['Blanc Vermouth', 'Crème de Menthe', 'Green Chartreuse', 'Irish Whiskey']
 youtube: "3a1nwtD8yyE"
 description: "A classic cocktail from the early 20th century that combines Irish whiskey with the herbal flavors of Green Chartreuse and crème de menthe."
 excerpt: |

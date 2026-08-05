@@ -6,7 +6,7 @@ categories: [amaro, champagne]
 eras: [anders]
 permalink: "/recipe/frozoni/"
 stars: 0
-base_spirits: ['London Dry Gin', 'Campari', 'Prosecco']
+base_spirits: ['Campari', 'London Dry Gin', 'Prosecco']
 youtube: "ipHnOhkGWug"
 description: "A frozen, slushy variation of the Enzoni cocktail, blending gin, Campari, and muddled grapes with the sparkle of prosecco."
 excerpt: |

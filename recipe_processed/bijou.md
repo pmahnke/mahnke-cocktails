@@ -7,7 +7,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/bijou/"
 stars: 4
-base_spirits: ['Plymouth Gin', 'Sweet Vermouth', 'Green Chartreuse']
+base_spirits: ['Green Chartreuse', 'Plymouth Gin', 'Sweet Vermouth']
 youtube: "LeIeaxJR2kw"
 description: "A classic cocktail from the 1890s that combines gin, sweet vermouth, and Green Chartreuse, named for the jewel tones of its ingredients."
 excerpt: |

@@ -6,7 +6,7 @@ categories: [amaro, sour]
 eras: [anders]
 permalink: "/recipe/forced_retirement/"
 stars: 0
-base_spirits: ['Malört', 'London Dry Gin', 'Campari']
+base_spirits: ['Campari', 'London Dry Gin', 'Malört']
 youtube: "shi2LNARyxk"
 description: "A unique and intensely bitter highball that prominently features Malört, a classic Chicago spirit."
 excerpt: |

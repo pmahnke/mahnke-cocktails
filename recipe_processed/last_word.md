@@ -6,7 +6,7 @@ categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/last_word/"
 stars: 5
-base_spirits: ['London Dry Gin', 'Green Chartreuse', 'Maraschino Liqueur']
+base_spirits: ['Green Chartreuse', 'London Dry Gin', 'Maraschino Liqueur']
 youtube: "ueiHrjWgC-jSAvQn"
 description: "A sharp, pungent, and complex Prohibition-era classic featuring equal parts gin, Green Chartreuse, maraschino liqueur, and lime."
 excerpt: |

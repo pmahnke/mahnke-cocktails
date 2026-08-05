@@ -6,7 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/pink_lady/"
 stars: 4
-base_spirits: ['London Dry Gin', 'Apple Brandy']
+base_spirits: ['Apple Brandy', 'London Dry Gin']
 youtube: "MfHv2EOLUOo&t=336s"
 description: "A classic Prohibition-era sour with a beautiful pink hue, featuring gin, apple brandy, and grenadine, with an egg white for a frothy texture."
 excerpt: |

@@ -6,7 +6,7 @@ categories: [amaro, sour]
 eras: [modern]
 permalink: "/recipe/cupids_cup/"
 stars: 0
-base_spirits: ['Pisco', 'Aperol']
+base_spirits: ['Aperol', 'Pisco']
 youtube: "LINK"
 description: "This is an easy pisco sour variation featuring pisco, Aperol, citrus, and egg white for a silky texture and balanced flavor."
 excerpt: |

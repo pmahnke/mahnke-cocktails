@@ -14,14 +14,11 @@ use open qw(:std :utf8);
 use YAML::XS qw(LoadFile Load);
 
 my $rootdir = `pwd`;
-chop($rootdir);
+chomp($rootdir);
 
 my $dir   = $rootdir."/recipe/";
 my $mydir = $rootdir."/recipe_processed/";
 
-# ==============================================================================
-# Dictionary Mappings for Front Matter Auto-Injection
-# ==============================================================================
 # ==============================================================================
 # Dictionary Mappings for Front Matter Auto-Injection
 # ==============================================================================
@@ -321,7 +318,7 @@ $rating_json
         if ($line =~ /^---\s*$/) {
             $current_dash_count++;
             if ($current_dash_count == 2) {
-                # Inject component arrays and type right before the closing delimiter
+                # Inject sorted component arrays right before the closing delimiter
                 $final_front_matter .= build_yaml_entry('glass',     \@found_glasses);
                 $final_front_matter .= build_yaml_entry('garnishes', \@found_garnishes);
                 $final_front_matter .= build_yaml_entry('tools',     \@found_tools);
@@ -339,6 +336,11 @@ $rating_json
             $spirits_val =~ s/('|"|\[|\])//g; 
             $spirits_val =~ s/^\s+|\s+$//g;
             my @items = split /\s*,\s*/, $spirits_val;
+            
+            # Sort and deduplicate base spirits to prevent diff noise
+            my %seen_spirits;
+            @items = grep { !$seen_spirits{$_}++ } sort @items;
+
             $final_front_matter .= "base_spirits: [" . join(", ", map { "'$_'" } @items) . "]\n";
         } 
         else {
@@ -436,7 +438,6 @@ sub find_matches {
     my ($text, $dictionary_ref) = @_;
     my %found_ids;
     
-    # Strip all newlines, carriage returns, hyphens, and list markers for bulletproof matching
     my $clean_text = lc($text);
     $clean_text =~ s/[\r\n]+/ /g;
     $clean_text =~ s/[-*]/ /g;
@@ -459,6 +460,10 @@ sub build_yaml_entry {
     my $result = "";
 
     return $result if !@items;
+
+    # Sort alphabetically and deduplicate to stop random git diffs
+    my %seen;
+    @items = grep { !$seen{$_}++ } sort @items;
 
     if (scalar(@items) == 1) {
         $result .= "$key: $items[0]\n";
@@ -503,12 +508,10 @@ sub read_spirit_data {
                 }
             }
 
-            # Generate clean slug from filename or YAML
             my $slug = $yaml_data->{slug} // do {
                 my $s = $file; $s =~ s/\.md$//; $s;
             };
             
-            # SANITIZE SLUG: Cleanly strip accents using regex
             $slug = lc($slug);
             $slug =~ s/[àâä]/a/g;
             $slug =~ s/[éèêë]/e/g;
@@ -517,7 +520,6 @@ sub read_spirit_data {
             $slug =~ s/[ùûü]/u/g;
             $slug =~ s/ç/c/g;
             $slug =~ s/ñ/n/g;
-            # Handle uppercase equivalents too if needed
             $slug =~ s/[ÀÂÄ]/a/g;
             $slug =~ s/[ÉÈÊË]/e/g;
             $slug =~ s/[ÎÏ]/i/g;

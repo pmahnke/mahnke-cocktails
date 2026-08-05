@@ -6,7 +6,7 @@ categories: [highball]
 eras: [modern]
 permalink: "/recipe/black_eyed_susan/"
 stars: 0
-base_spirits: ['Bourbon', 'Vodka', 'Peach Liqueur']
+base_spirits: ['Bourbon', 'Peach Liqueur', 'Vodka']
 youtube: "1V0-c6u4xJA"
 description: "The official drink of the Preakness Stakes, this is a refreshing highball combining bourbon and vodka with citrus and pineapple."
 excerpt: |

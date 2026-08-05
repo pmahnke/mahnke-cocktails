@@ -6,7 +6,7 @@ eras: [modern]
 categories: [sour, daisy]
 permalink: "/recipe/final_ward/"
 stars: 3.5
-base_spirits: ['Rye', 'Green Chartreuse', 'Maraschino Liqueur']
+base_spirits: ['Green Chartreuse', 'Maraschino Liqueur', 'Rye']
 youtube: "NGPSk_jMZvA"
 description: "A riff on the Last Word cocktail, replacing the Gin with Rye and lemon juice with lime juice."
 excerpt: |

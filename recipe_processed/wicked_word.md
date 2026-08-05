@@ -6,7 +6,7 @@ eras: [anders]
 categories: [amaro, sour]
 permalink: "/recipe/wicked_word/"
 stars: 0
-base_spirits: ['Cognac', 'Aperol', 'Black Sambuca']
+base_spirits: ['Aperol', 'Black Sambuca', 'Cognac']
 youtube: "6Ic0zmBpUQw"
 description: "An original flaming cocktail with a licorice-forward profile, similar to an Oaxacan Old Fashioned."
 excerpt: |

@@ -6,7 +6,7 @@ categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/between_the_sheets/"
 stars: 2
-base_spirits: ['Jamaican Rum', 'Demerara Rum', 'Cognac', 'Curaçao']
+base_spirits: ['Cognac', 'Curaçao', 'Demerara Rum', 'Jamaican Rum']
 youtube: "VnuAR_wPOZA"
 description: "A provocatively named Prohibition-era cocktail that enhances the classic Sidecar formula with a dose of rum."
 excerpt: |

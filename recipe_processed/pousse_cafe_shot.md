@@ -6,7 +6,7 @@ eras: [classic]
 categories: [shot, pousse_cafe]
 permalink: "/recipe/pousse_cafe_shot/"
 stars: 0
-base_spirits: ['Bénédictine', 'Green Chartreuse', 'Angostura Aromatic Bitters']
+base_spirits: ['Angostura Aromatic Bitters', 'Bénédictine', 'Green Chartreuse']
 youtube: "4OJd_phsa5w"
 description: "A simplified, three-layer shot version of the classic Pousse Café, featuring Bénédictine, Green Chartreuse, and Angostura bitters."
 excerpt: |

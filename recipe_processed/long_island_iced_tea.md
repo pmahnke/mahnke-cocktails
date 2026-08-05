@@ -6,7 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/long_island_iced_tea/"
 stars: 4
-base_spirits: ['Vodka', 'White Rum', 'Plymouth Gin', 'Blanco Tequila', 'Triple Sec']
+base_spirits: ['Blanco Tequila', 'Plymouth Gin', 'Triple Sec', 'Vodka', 'White Rum']
 youtube: "jLTLBQqWzq8"
 description: "A famously potent modern cocktail that combines four different spirits (vodka, rum, gin, tequila) with triple sec, lemon, and a splash of cola."
 excerpt: |

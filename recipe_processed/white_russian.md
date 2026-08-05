@@ -6,7 +6,7 @@ categories: [coffee, after_dinner]
 eras: [modern]
 permalink: "/recipe/white_russian/"
 stars: 4
-base_spirits: ['Vodka', 'Coffee Liqueur']
+base_spirits: ['Coffee Liqueur', 'Vodka']
 youtube: "z2lAXggbDDY"
 description: "A classic and creamy modern after-dinner drink that combines vodka, coffee liqueur, and cream."
 excerpt: |

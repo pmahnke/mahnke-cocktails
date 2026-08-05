@@ -6,7 +6,7 @@ categories: [cobbler]
 eras: [modern]
 permalink: "/recipe/bramble/"
 stars: 3.5
-base_spirits: ['London Dry Gin', 'Crème de Mûre']
+base_spirits: ['Crème de Mûre', 'London Dry Gin']
 youtube: "fgE5H8W5K6M"
 description: "A modern classic from the 1980s, this is a refreshing gin drink built over crushed ice with lemon and blackberry liqueur."
 excerpt: |

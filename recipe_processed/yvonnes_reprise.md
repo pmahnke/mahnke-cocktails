@@ -6,7 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/yvonnes_reprise/"
 stars: 0
-base_spirits: ['London Dry Gin', 'Crème de Cassis', 'Blanc Vermouth']
+base_spirits: ['Blanc Vermouth', 'Crème de Cassis', 'London Dry Gin']
 youtube: "FI4wUOzJvUE"
 description: "Yvonne’s Reprise is an original cocktail inspired by Arnaud’s musical roots. It’s essentially a sour twist on the Arnaud Martini."
 excerpt: |

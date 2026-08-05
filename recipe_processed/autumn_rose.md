@@ -6,7 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/autumn_rose/"
 stars: 4.25
-base_spirits: ['Apple Brandy', 'Blanc Vermouth', 'Apricot Liqueur']
+base_spirits: ['Apple Brandy', 'Apricot Liqueur', 'Blanc Vermouth']
 youtube: "9OxlSOioD_k"
 description: "An original sour cocktail that features the warm, autumnal flavors of apple brandy."
 excerpt: |

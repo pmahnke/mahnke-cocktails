@@ -6,7 +6,7 @@ categories: [martini]
 eras: [anders]
 permalink: "/recipe/christmas_martini/"
 stars: 3
-base_spirits: ['Plymouth Gin', 'Cocchi Americano']
+base_spirits: ['Cocchi Americano', 'Plymouth Gin']
 youtube: "ydBN6-j1I3M"
 description: "A festive twist on the classic Martini, incorporating flavors reminiscent of the holiday season."
 excerpt: |

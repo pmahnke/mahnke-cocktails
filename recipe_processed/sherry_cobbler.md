@@ -6,7 +6,7 @@ categories: [cobbler]
 eras: [classic]
 permalink: "/recipe/sherry_cobbler/"
 stars: 3
-base_spirits: ['Oloroso Sherry', 'Curaçao']
+base_spirits: ['Curaçao', 'Oloroso Sherry']
 youtube: "f7SpTmbMOsQ"
 description: "A classic and refreshing low-alcohol sipper from the 1800s, made with sherry, sugar, and citrus served over crushed ice."
 excerpt: |
@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-08-11
 glass: goblet
 garnishes:
-  - raspberries
   - mint_sprig
+  - raspberries
 ice: crushed
 type: shaken
 ---

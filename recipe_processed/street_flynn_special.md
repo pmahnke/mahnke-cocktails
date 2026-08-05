@@ -7,7 +7,7 @@ categories: [collins]
 eras: [modern]
 permalink: "/recipe/street_flynn_special/"
 stars: 0
-base_spirits: ['Jamaican Rum', 'Allspice Dram']
+base_spirits: ['Allspice Dram', 'Jamaican Rum']
 youtube: "https://youtube.com/shorts/3sJdqoFcrPg?si=21d3byC_5s7D5YL7"
 description: "A spicy and complex rum collins that balances intense Jamaican rum with warming spices, tangy citrus, and refreshing bubbles."
 excerpt: |

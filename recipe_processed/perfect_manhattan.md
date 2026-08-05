@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/perfect_manhattan/"
 stars: 0
-base_spirits: ['Rye', 'Sweet Vermouth', 'Dry Vermouth']
+base_spirits: ['Dry Vermouth', 'Rye', 'Sweet Vermouth']
 youtube: "eWESf1b317Y&t=278s"
 description: 'A classic Manhattan variation that achieves a "perfect" balance by using equal parts of both sweet and dry vermouth.'
 excerpt: |

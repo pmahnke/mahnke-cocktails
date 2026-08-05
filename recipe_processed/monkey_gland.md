@@ -6,7 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/monkey_gland/"
 stars: 0
-base_spirits: ['London Dry Gin', 'Absinthe']
+base_spirits: ['Absinthe', 'London Dry Gin']
 youtube: "u4b673NTI7w"
 description: "A classic sour from the 1920s with a unique name, combining gin, orange juice, and a hint of absinthe."
 excerpt: |
@@ -14,8 +14,8 @@ excerpt: |
 date: 2025-08-11
 glass: rocks
 garnishes:
-  - orange_peel
   - maraschino_cherry
+  - orange_peel
 type: shaken
 ---
 

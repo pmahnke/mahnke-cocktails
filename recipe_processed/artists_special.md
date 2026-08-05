@@ -6,7 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/artists_special/"
 stars: 5
-base_spirits: ['Bourbon', 'Amontillado Sherry']
+base_spirits: ['Amontillado Sherry', 'Bourbon']
 youtube: "-Uhu81wqOl8"
 description: "A classic Parisian sour from the 1920s that combines the richness of bourbon and sherry with the tartness of red currant syrup."
 excerpt: |

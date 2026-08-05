@@ -6,7 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/tipperary/"
 stars: 0
-base_spirits: ['Irish Whiskey', 'Sweet Vermouth', 'Green Chartreuse']
+base_spirits: ['Green Chartreuse', 'Irish Whiskey', 'Sweet Vermouth']
 youtube: "2zQBXxC7ma8"
 description: "A modern favorite from The Dead Rabbit, this is a variation on the Bijou that uses Irish whiskey as its base."
 excerpt: |

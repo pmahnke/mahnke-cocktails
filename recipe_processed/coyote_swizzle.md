@@ -6,7 +6,7 @@ categories: [frappe_swizzle]
 eras: [anders]
 permalink: "/recipe/coyote_swizzle/"
 stars: 0
-base_spirits: ['Mezcal', 'Campari']
+base_spirits: ['Campari', 'Mezcal']
 youtube: "qLwJ2aixqYY&t=279s"
 description: "This bold, tropical riff on a Jungle Bird replaces rum with mezcal and combines bitter Campari with tart lime and vibrant passion fruit for a complex, smoky, and bittersweet cocktail."
 excerpt: |

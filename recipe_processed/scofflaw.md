@@ -6,7 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/scofflaw/"
 stars: 4.5
-base_spirits: ['Rye', 'Dry Vermouth']
+base_spirits: ['Dry Vermouth', 'Rye']
 youtube: "nutbajkZ8Lc"
 description: "A creatively named Prohibition-era sour invented in Paris, which combines whiskey, dry vermouth, lemon juice, and grenadine."
 excerpt: |

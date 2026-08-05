@@ -6,7 +6,7 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/matador/"
 stars: 0
-base_spirits: ['Reposado Tequila', 'Blanc Vermouth', 'Curaçao']
+base_spirits: ['Blanc Vermouth', 'Curaçao', 'Reposado Tequila']
 youtube: "3aV3DzDfW_A"
 description: "A simple, tiki-style cocktail similar to a Margarita, featuring tequila, pineapple, and lime."
 excerpt: |

@@ -6,7 +6,7 @@ eras: [classic]
 categories: [punch]
 permalink: "/recipe/sangria/"
 stars: 4.5
-base_spirits: ['Red Wine', 'Oloroso Sherry', 'Curaçao']
+base_spirits: ['Curaçao', 'Oloroso Sherry', 'Red Wine']
 youtube: "NNI--bxevNo"
 description: "A classic and festive Spanish punch, traditionally consisting of red wine, sherry, and chopped fruit, often with other spirits."
 excerpt: |

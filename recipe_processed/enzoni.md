@@ -7,7 +7,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/enzoni/"
 stars: 4
-base_spirits: ['London Dry Gin', 'Campari']
+base_spirits: ['Campari', 'London Dry Gin']
 youtube: "ipHnOhkGWug"
 description: "A refreshing modern classic from 2003 that twists the Negroni formula by muddling fresh green grapes with gin and Campari."
 excerpt: |

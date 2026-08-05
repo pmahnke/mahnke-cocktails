@@ -6,7 +6,7 @@ eras: [prohibition]
 categories: [amaro, cocktail]
 permalink: "/recipe/old_pal/"
 stars: 3
-base_spirits: ['Rye', 'Campari', 'Blanc Vermouth']
+base_spirits: ['Blanc Vermouth', 'Campari', 'Rye']
 youtube: "op3jvecV1ME"
 description: "A classic Prohibition-era cocktail and a cousin to the Boulevardier, this is a spirit-forward drink that combines rye whiskey, Campari, and dry vermouth."
 excerpt: |

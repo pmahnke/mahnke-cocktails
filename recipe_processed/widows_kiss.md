@@ -6,7 +6,7 @@ eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/widows_kiss/"
 stars: 4.5
-base_spirits: ['Apple Brandy', 'Yellow Chartreuse', 'Bénédictine']
+base_spirits: ['Apple Brandy', 'Bénédictine', 'Yellow Chartreuse']
 youtube: "0JqyWyBiFus"
 description: "A potent and herbaceous classic cocktail that features a unique blend of apple brandy with Yellow Chartreuse and Bénédictine."
 excerpt: |
@@ -15,8 +15,8 @@ date: 2025-11-26
 glass: coupe
 garnishes: maraschino_cherry
 type:
-  - stirred
   - shaken
+  - stirred
 ---
 
 <div class="subrecipe" markdown="1">

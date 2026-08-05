@@ -6,15 +6,15 @@ categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_strawberry/"
 stars: 0
-base_spirits: ['Reposado Tequila', 'Curaçao']
+base_spirits: ['Curaçao', 'Reposado Tequila']
 youtube: "jxpT11WEtWQ"
 description: "A refreshing and fruity modern cocktail that blends the classic Margarita with the sweetness of fresh strawberries."
 excerpt: |
   A Strawberry Margarita is a refreshing and fruity cocktail that blends the classic Margarita with the sweetness of strawberries.
 date: 2025-12-23
 glass:
-  - old_fashioned
   - double_old_fashioned
+  - old_fashioned
 garnishes: strawberry
 ice: crushed
 type: blended

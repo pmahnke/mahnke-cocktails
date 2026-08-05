@@ -6,7 +6,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/bali_bali/"
 stars: 4
-base_spirits: ['Jamaican Rum', 'White Rum', 'Cognac', 'London Dry Gin']
+base_spirits: ['Cognac', 'Jamaican Rum', 'London Dry Gin', 'White Rum']
 youtube: 'lWDA\_\_gwSow'
 description: "A potent classic tiki cocktail that packs a punch with its complex blend of four different spirits."
 excerpt: |

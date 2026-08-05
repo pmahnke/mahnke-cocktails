@@ -6,15 +6,15 @@ categories: [coffee, cocktail]
 eras: [modern]
 permalink: "/recipe/irish_coffee_cold/"
 stars: 0
-base_spirits: ['Irish Whiskey', 'Coffee Liqueur']
+base_spirits: ['Coffee Liqueur', 'Irish Whiskey']
 youtube: "sJsY1LokABA"
 description: "A refreshing modern twist on the classic, this cocktail combines cold brew coffee with the smooth warmth of Irish whiskey."
 excerpt: |
   The Cold Brew Irish Coffee is a refreshing and modern twist on the classic hot Irish coffee. This cocktail combines the bold flavors of cold brew coffee with the smooth warmth of Irish whiskey, creating a perfect drink for any occasion.
 date: 2025-08-11
 glass:
-  - whiskey
   - coffee
+  - whiskey
 ---
 
 ### Ingredients

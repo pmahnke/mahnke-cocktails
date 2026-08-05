@@ -13,8 +13,8 @@ excerpt: |
   Creamy, rich Coquito may be a classic Puerto Rican holiday drink, but don't let the seasons limit you—this combination of rum, milk, coconut, and spices tastes great any time of year.
 date: 2025-12-13
 garnishes:
-  - cinnamon
   - anise
+  - cinnamon
 ---
 
 ### Ingredients

@@ -7,7 +7,7 @@ categories: [frappe_swizzle]
 eras: [modern]
 permalink: "/recipe/freight_train_swizzle/"
 stars: 0
-base_spirits: ['Jamaican Rum', 'Green Chartreuse']
+base_spirits: ['Green Chartreuse', 'Jamaican Rum']
 youtube: "cSPKyfVh3T4"
 description: "A bright and herbaceous modern swizzle that pairs funky Jamaican rum with the intense herbal notes of Green Chartreuse."
 excerpt: |

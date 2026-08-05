@@ -7,15 +7,15 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/black_thorn/"
 stars: 4
-base_spirits: ['Irish Whiskey', 'Blanc Vermouth', 'Absinthe']
+base_spirits: ['Absinthe', 'Blanc Vermouth', 'Irish Whiskey']
 youtube: "Wqy0LuuERco"
 description: "There are numerous blackthorn recipes, but they fall into two camps: one based on Irish whisky with vermouth and absinthe and the other with sloe gin and vermouth. This is the Irish whiskey and absinthe version."
 excerpt: |
   There are numerous blackthorn recipes, but they fall into two camps: one based on Irish whisky with vermouth and absinthe and the other with sloe gin and vermouth. This is the Irish whiskey and absinthe version.
 date: 2026-03-01
 glass:
-  - whiskey
   - martini
+  - whiskey
 type: stirred
 ---
 
