@@ -19,7 +19,7 @@ date: 2026-06-26
 
 |     Amount | Ingredient    | Brand                    |
 | ---------: | ------------- | ------------------------ |
-|       <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Rhum Agricole | Rhum Clèment Canne Bleue |
+|       <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Rhum Agricole [&#9432;](/spirit/rhum_agricole "More Rhum Agricole recipes") | Rhum Clèment Canne Bleue |
 | <span class="onex active">1 barspoons</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="twox">2 barspoons</span> <span class="threex">3 barspoons</span>| Cane Sugar    | Rhum J.M Sirop de Canna  |
 |     <span class="onex active">1 coin </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> coin </span> <span class="twox">2 coin </span> <span class="threex">3 coin </span>| Lime          |
 

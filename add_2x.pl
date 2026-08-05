@@ -16,7 +16,7 @@
 use Math::Round;
 use utf8;
 use open qw(:std :utf8);
-use YAML::XS 'LoadFile';
+use YAML::XS qw(LoadFile Load);
 
 my $rootdir = `pwd`;
 chop($rootdir);
@@ -26,6 +26,7 @@ my $dir = $rootdir."/recipe/";
 my $mydir = $rootdir."/recipe_processed/";
 
 my %spirit;
+
 &read_spirit_data();
 
 # read files in a directory
@@ -85,17 +86,21 @@ while (my $file = readdir DIR) {
 		        $brand_spirit =~ s/^\s+|\s+$//g;
                 print STDERR qq |raw spirit: $raw_spirit\n|;
 
-        		if ($spirit{$raw_spirit}) {
-                       my $spirit_link = qq|$raw_spirit [&#9432;](\/spirit\/$spirit{$raw_spirit} "More $raw_spirit recipes")|;
+                # LOWERCASE CONVERSION FOR MATCHING
+                my $lc_raw = lc($raw_spirit);
+                my $lc_brand = lc($brand_spirit);
+
+                if ($spirit{$lc_raw}) {
+                       my $spirit_link = qq|$raw_spirit [&#9432;](\/spirit\/$spirit{$lc_raw} "More $raw_spirit recipes")|;
                         $_ =~ s/$raw_spirit/$spirit_link/;
                 }
 
-		# the amaro change means we need to look at the Brand as well
-		if ($spirit{$brand_spirit} && !$spirit{$raw_spirit}) {
-                    my $spirit_link = qq|$brand_spirit [&#9432;](\/spirit\/$spirit{$brand_spirit} "More $brand_spirit recipes")|;
+                # the amaro change means we need to look at the Brand as well
+                if ($spirit{$lc_brand} && !$spirit{$lc_raw}) {
+                    my $spirit_link = qq|$brand_spirit [&#9432;](\/spirit\/$spirit{$lc_brand} "More $brand_spirit recipes")|;
                     $_ =~ s/$brand_spirit/$spirit_link/;
                 }
-        
+
                 # schema.org recipe - only for the first recipe on the page
                 if (!$s_instructions) {
                     #print "schema ingredient: $1 $2\n";
@@ -340,57 +345,67 @@ sub process_ratings {
 
 
 sub read_spirit_data {
-
     my $spirit_dir = '_spirit';
-
-    # STREAMING_CHUNK: Opening directory and grabbing markdown files
-    opendir(my $dh,$spirit_dir) or die "Can't open directory $spirit_dir:$!";
+    opendir(my $dh, $spirit_dir) or die "Can't open directory $spirit_dir: $!";
     my @files = grep { /\.md$/ && -f "$spirit_dir/$_" } readdir($dh);
     closedir($dh);
 
-    # STREAMING_CHUNK: Looping through each spirit file
     for my $file (@files) {
         my $filepath = "$spirit_dir/$file";
-        open(my $fh, '<',$filepath) or warn "Can't open $filepath:$!";
         
+        open(my $fh, '<:encoding(UTF-8)', $filepath) or warn "Can't open $filepath: $!";
         my $front_matter = "";
         my $in_yaml = 0;
         
-        # STREAMING_CHUNK: Extracting the YAML block from the markdown file
         while (my $line = <$fh>) {
+            $line =~ s/^\x{FEFF}//; # Strip BOM
             if ($line =~ /^---\s*$/) {
-                if ($in_yaml) {
-                    last; # We hit the second ---, stop reading the file
-                } else {
-                    $in_yaml = 1; # We hit the first ---, start capturing
-                    next;
-                }
+                if ($in_yaml) { last; } else { $in_yaml = 1; next; }
             }
-            $front_matter .= $line if$in_yaml;
+            $front_matter .= $line if $in_yaml;
         }
         close($fh);
 
-        # STREAMING_CHUNK: Parsing the YAML and adding to the hash
         if ($front_matter) {
-            # Load the string as YAML
+            # Try parsing with YAML::XS first
             my $yaml_data = eval { Load($front_matter) };
             
-            if (!$@ && ref$yaml_data eq 'HASH') {
-                my $slug =$yaml_data->{slug} // next;
-                
-                # Check for 'title' since our ruby script renamed it during migration
-                my $name = $yaml_data->{title} //$yaml_data->{name} // ''; 
-                
-                if ($name) {$spirit{$name} =$slug;
+            # FALLBACK: If YAML::XS crashes on accents, parse it manually via regex!
+            if ($@ || ref $yaml_data ne 'HASH') {
+                $yaml_data = {};
+                while ($front_matter =~ /^([a-zA-Z0-9_-]+):\s*(["']?)(.*?)\2\s*$/gm) {
+                    $yaml_data->{$1} = $3;
                 }
-            } else {
-                warn "Warning: Could not parse YAML in $filepath:$@\n";
+            }
+
+            my $slug = $yaml_data->{slug} // do {
+                # Fallback slug from filename if missing
+                my $s = $file; $s =~ s/\.md$//; $s;
+            };
+            
+            my $name = $yaml_data->{title} // $yaml_data->{name} // ''; 
+            
+            if ($name) {
+                $name =~ s/['"]//g;
+                $name =~ s/\s+/ /g;
+                $name =~ s/^\s+//; $name =~ s/\s+$//;
+                $spirit{lc($name)} = $slug;
+                print STDERR qq|Loaded spirit: $name with slug: $slug\n|;
+            }
+            
+            if ($yaml_data->{aliases}) {
+                my $aliases = $yaml_data->{aliases};
+                if (ref $aliases eq 'ARRAY') {
+                    foreach my $alias (@$aliases) {
+                        $alias =~ s/['"]//g;
+                        $alias =~ s/\s+/ /g;
+                        $alias =~ s/^\s+//; $alias =~ s/\s+$//;
+                        $spirit{lc($alias)} = $slug;
+                    }
+                }
             }
         }
     }
-
-    return();
-
 }
 
 sub read_spirit_data_orig {

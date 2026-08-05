@@ -20,9 +20,9 @@ date: 2025-09-26
 
 |  Amount | Ingredient      | Brand                           |
 | ------: | --------------- | ------------------------------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 38 ml</span> <span class="onehalfx">1.875 oz  / 56 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span>| London Dry Gin  | Beefeater                       |
-|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Apple Brandy    | Roger Groult Pays D’Auge 3 Year |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Apricot Liqueur | Giffard Abricot du Roussillon   |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 38 ml</span> <span class="onehalfx">1.875 oz  / 56 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span>| London Dry Gin [&#9432;](/spirit/london_dry_gin "More London Dry Gin recipes")  | Beefeater                       |
+|    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Apple Brandy [&#9432;](/spirit/apple_brandy "More Apple Brandy recipes")    | Roger Groult Pays D’Auge 3 Year |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Apricot Liqueur [&#9432;](/spirit/apricot_liqueur "More Apricot Liqueur recipes") | Giffard Abricot du Roussillon   |
 
 ### Notes
 
