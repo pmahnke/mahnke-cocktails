@@ -100,7 +100,7 @@ sub performSearch {
         $permalink =~ s/\.md$/.html/; # Fallback in case permalink is missing
 
         # Handle spirits/categories which might be arrays or strings
-#       my $spirits = "";
+        my $spirits = "";
         my $raw_spirits = $yaml->{base_spirits} // $yaml->{categories} // '';
         
         if (ref $raw_spirits eq 'ARRAY') {
@@ -165,9 +165,6 @@ sub prepareResults {
         
         my $stars = $data->{stars};
         my $stars_text = $stars ? "$stars ★" : "";
-        
-        # Display the base spirits cleanly. 
-        # FIX: The previous regex that added commas to spaces has been completely removed.
         my $display_spirits = $data->{spirits};
 
         $result_html .= qq |
