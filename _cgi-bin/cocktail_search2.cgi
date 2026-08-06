@@ -102,7 +102,8 @@ sub performSearch {
         # Handle spirits/categories which might be arrays or strings
         my $spirits = "";
         if (ref $yaml->{base_spirits} eq 'ARRAY') {
-            $spirits = join(" ", @{$yaml->{base_spirits}});
+            # FIX: Join the array elements with a comma and a space
+            $spirits = join(", ", @{$yaml->{base_spirits}});
         } else {
             $spirits = $yaml->{base_spirits} // $yaml->{categories} // '';
         }
@@ -164,9 +165,9 @@ sub prepareResults {
         my $stars = $data->{stars};
         my $stars_text = $stars ? "$stars ★" : "";
         
-        # Display the base spirits cleanly. If it's an array string, comma separate it.
+        # Display the base spirits cleanly. 
+        # FIX: The previous regex that added commas to spaces has been completely removed.
         my $display_spirits = $data->{spirits};
-        $display_spirits =~ s/ /, /g;
 
         $result_html .= qq |
          <tr class="home_table">
