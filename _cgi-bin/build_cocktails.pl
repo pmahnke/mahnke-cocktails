@@ -13,9 +13,13 @@ if ($ENV{'CONTENT_LENGTH'} || $ENV{'QUERY_STRING'}) {
     %F = $cgi->parse_form_data;
 
     foreach $key (keys %F) {
-	print STDERR "githook: $key $F{$key}\n";
+	    print STDERR "githook: $key $F{$key}\n";
     }
 
+    if ($F{'token'} ne 'MySecretPassword123') {
+        print "Unauthorized.\n";
+        exit;
+    }
 }
 
 print qq|Content-type: text/plain\n\n|;
@@ -34,8 +38,9 @@ sub post_receive {
     my $TMP_GIT_CLONE = '/tmp/git/mahnke-cocktails';
     my $PUBLIC_WWW    = '/home/cocktails/html';
 
-    `unset GIT_INDEX_FILE`;
-    `unset GIT_DIR`;
+    delete $ENV{'GIT_INDEX_FILE'};
+    delete $ENV{'GIT_DIR'};
+
     chdir $GIT_REPO;
     print `git pull`;
     # print `bundle exec jekyll build -I --source $GIT_REPO --destination $PUBLIC_WWW`;

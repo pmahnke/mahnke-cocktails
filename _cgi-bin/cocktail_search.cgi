@@ -1,33 +1,34 @@
 #!/usr/bin/perl
 
-###############################################################
-###############################################################
-#
-#  cocktail_search.cgi
-#   - Refactored to use native Perl parsing and scoring
-#   - Eliminates shell-based grep/ag for improved security & speed
-#   - Implements priority weighting (Title > Spirit > Body)
-#
-###############################################################
-###############################################################
-
 use strict;
 use warnings;
 use CGI::Lite;
 use utf8::all;
 use Encode qw(decode encode);
 use YAML::XS qw(Load);
+use FindBin qw($Bin); # <--- 1. Import FindBin
 
 my (%F, $site, $msg);
+my ($DIR, $DIRincludes, $DIRposts, $common_path);
 
-# default file and directory locations (linux)
-my $DIR           = "/home/cocktails/src/mahnke-cocktails";
-my $DIRincludes   = "/home/cocktails/html";
-my $DIRposts      = "/home/cocktails/src/mahnke-cocktails/recipe/";
+# 2. Check if we are on the Live Linux Server
+if (-d "/home/cocktails/src/mahnke-cocktails") {
+    $DIR         = "/home/cocktails/src/mahnke-cocktails";
+    $DIRincludes = "/home/cocktails/html";
+    $DIRposts    = "/home/cocktails/src/mahnke-cocktails/recipe/";
+    $common_path = "/home/cocktails/cgi-bin/common.pl";
+} 
+# 3. Otherwise, we are on the Mac. Use $Bin to map paths dynamically!
+else {
+    # $Bin is /Users/.../_cgi-bin/
+    $DIR         = "$Bin/..";
+    $DIRincludes = "$Bin/../_site";
+    $DIRposts    = "$Bin/../recipe/";
+    $common_path = "$Bin/common.pl";
+}
 
 $site = "";
 
-require ("/home/stmargarets/cgi-bin/common.pl");
 
 ################################################################
 my $cgi = new CGI::Lite;
@@ -182,6 +183,22 @@ sub prepareResults {
     }
     
     return qq |<table class="home_table" style="width: 100%;"><tbody>$result_html</tbody></table>|;
+}
+
+###############################################
+sub getInclude {
+
+	my ($in) = "";
+
+	return() if (!-e "$_[0]"); # file doesn't exist
+
+	open (INCL, "$_[0]") || die "Can't open include $_[0]\n";
+	while (<INCL>) {
+		$in .= $_;
+	}
+	close (INCL);
+
+	return($in);
 }
 
 ###############################################
