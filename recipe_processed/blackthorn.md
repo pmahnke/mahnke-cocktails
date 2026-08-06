@@ -6,7 +6,7 @@ title: "Blackthorn"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/blackthorn/"
-stars: 4
+stars: 3.75
 base_spirits: ['Blanc Vermouth', 'Sloe Gin', 'Sweet Vermouth']
 youtube: "Wqy0LuuERco"
 description: "There are numerous blackthorn recipes, but they fall into two camps: one based on Irish whisky with vermouth and absinthe and the other with sloe gin and vermouth. This is the sloe gin version."
@@ -79,7 +79,7 @@ type: stirred
   "recipeCategory": "cocktail",
   "aggregateRating": {
    "@type": "AggregateRating",
-   "ratingValue": "4",
+   "ratingValue": "3.75",
    "bestRating": "5",
    "reviewCount": "2"
   },

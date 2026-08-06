@@ -22,6 +22,7 @@ my $mydir = $rootdir."/recipe_processed/";
 # ==============================================================================
 # Dictionary Mappings for Front Matter Auto-Injection
 # ==============================================================================
+# match => slug
 my %glassware = (
     'coupe'                => 'coupe',
     'collins'              => 'collins',
