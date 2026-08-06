@@ -100,12 +100,13 @@ sub performSearch {
         $permalink =~ s/\.md$/.html/; # Fallback in case permalink is missing
 
         # Handle spirits/categories which might be arrays or strings
-        my $spirits = "";
-        if (ref $yaml->{base_spirits} eq 'ARRAY') {
-            # FIX: Join the array elements with a comma and a space
-            $spirits = join(", ", @{$yaml->{base_spirits}});
+#       my $spirits = "";
+        my $raw_spirits = $yaml->{base_spirits} // $yaml->{categories} // '';
+        
+        if (ref $raw_spirits eq 'ARRAY') {
+            $spirits = join(", ", @$raw_spirits);
         } else {
-            $spirits = $yaml->{base_spirits} // $yaml->{categories} // '';
+            $spirits = $raw_spirits;
         }
         
         my $score = 0;
