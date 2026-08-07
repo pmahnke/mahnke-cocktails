@@ -51,7 +51,6 @@ ice:
   - crushed
   - cubed
 type:
-  - blended
   - shaken
   - stirred
 ---

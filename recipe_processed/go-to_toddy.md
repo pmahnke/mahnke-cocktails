@@ -15,7 +15,6 @@ date: 2025-12-09
 garnishes:
   - cinnamon
   - lemon_peel
-type: blended
 ---
 
 ### Ingredients

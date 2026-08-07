@@ -17,7 +17,6 @@ glass: rocks
 garnishes:
   - lemon_peel
   - maraschino_cherry
-type: blended
 ---
 
 ### Ingredients

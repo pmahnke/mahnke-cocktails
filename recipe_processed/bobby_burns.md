@@ -14,9 +14,7 @@ excerpt: |
 date: 2025-12-09
 glass: coupe
 garnishes: lemon_peel
-type:
-  - blended
-  - stirred
+type: stirred
 ---
 
 ### Ingredients

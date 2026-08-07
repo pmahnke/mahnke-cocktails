@@ -13,7 +13,6 @@ excerpt: |
   Made with rhum agricole, lime, and cane syrup, Ti' Punch is one of the most iconic rum cocktails in the French Caribbean islands. It’s the national cocktail of both Martinique and Guadeloupe, and although everyone has their own preferred balance, many believe there's only one "right" way to make it.
 date: 2026-06-26
 glass: rocks
-type: blended
 ---
 
 ### Ingredients

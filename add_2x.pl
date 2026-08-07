@@ -114,7 +114,7 @@ my %cocktail_types = (
     'shaken'          => 'shaken',
     'stirred'         => 'stirred',
     'built'           => 'built',
-    'blended'         => 'blended'
+    'method: blended' => 'blended'
 );
 
 my %spirit;

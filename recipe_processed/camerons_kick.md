@@ -16,9 +16,7 @@ glass:
   - rocks
   - whiskey
 garnishes: lemon_peel
-type:
-  - blended
-  - shaken
+type: shaken
 ---
 
 ### Ingredients

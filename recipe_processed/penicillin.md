@@ -13,9 +13,7 @@ excerpt: |
   The Penicillin cocktail is a scotch-based drink from New York bartender Sam Ross. The modern classic perfectly mixes smoke, ginger, and lemon.
 date: 2025-12-09
 glass: rocks
-type:
-  - blended
-  - shaken
+type: shaken
 ---
 
 ### Ingredients
