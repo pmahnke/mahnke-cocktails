@@ -12,6 +12,7 @@ description: "A classic Prohibition-era sour that highlights the robust characte
 excerpt: |
   The Apple Jack Rabbit appears in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i> and in David A. Embury's 1948 <i>The Fine Art of Mixing Drinks</i> where he tells us "<i>This drink is also sometimes, for no reason at all, called the Applejack Dynamite. The same cocktail made with a gin base plus a dash of Angostura is called the Old Vermont.</i>"
 date: 2025-08-11
+garnishes: dry_orange_wheel
 type: shaken
 ---
 

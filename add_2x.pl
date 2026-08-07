@@ -56,7 +56,7 @@ my %glassware = (
 my %garnishes = (
     'lime wedge'        => 'slice_lime',
     'lime wheel'        => 'lime_wheel',
-    'dry lime wheel'    => 'dry_lime_wheel',
+    'ddehydratedry lime wheel'    => 'dry_lime_wheel',
     'lime peel'         => 'lime_peel',
     'lime oil'          => 'lime_peel',
 
@@ -68,14 +68,14 @@ my %garnishes = (
     'lemon peel'        => 'lemon_peel',
     'lemon slice'       => 'lemon_slice',
     'lemon wedge'       => 'lemon_wedge',
-    'dry lemon wheel'   => 'dry_lemon_wheel',
+    'dehydrated lemon wheel'   => 'dry_lemon_wheel',
     'lemon wheel'       => 'lemon_wheel',
     'lemon oil'         => 'lemon_peel',
     
     'orange peel'       => 'orange_peel',
     'orange twist'      => 'orange_twist',
     'orange slice'      => 'orange_slice',
-    'dry orange wheel'  => 'dry_orange_wheel',
+    'dehydrated orange wheel'  => 'dry_orange_wheel',
     'orange oil'        => 'orange_peel',
     
     'umbrella'          => 'cocktail_umbrella',
@@ -455,23 +455,33 @@ sub process_ratings {
 }
 
 sub find_matches {
-    my ($text, $dictionary_ref) = @_;
+    my ($text,$dictionary_ref) = @_;
     my %found_ids;
-    
-    my $clean_text = lc($text);
-    $clean_text =~ s/[\r\n]+/ /g;
+
+    my $clean_text = lc($text);$clean_text =~ s/[\r\n]+/ /g;
     $clean_text =~ s/[-*]/ /g;
     $clean_text =~ s/\s+/ /g;
 
-    foreach my $search_term (keys %$dictionary_ref) {
+    # STRATEGY 1: Ignore anything inside parentheses so alternatives (or lime wheel) aren't matched
+    $clean_text =~ s/\([^)]+\)//g;
+
+    # STRATEGY 2: Sort search terms from longest to shortest to prevent substring overlap
+    # (e.g., matches "dry lemon wheel" before it can match just "lemon wheel")
+    my @sorted_terms = sort { length($b) <=> length($a) } keys %$dictionary_ref;
+
+    foreach my $search_term (@sorted_terms) {
         my $id = $dictionary_ref->{$search_term};
         my $lc_term = lc($search_term);
         
         if ($clean_text =~ /\b\Q$lc_term\E\b/) {
             $found_ids{$id} = 1;
+            
+            # STRATEGY 3: "Mask" the found text so smaller substrings inside it aren't also matched
+            $clean_text =~ s/\b\Q$lc_term\E\b/ MATCHED /g;
         }
     }
     return keys %found_ids;
+
 }
 
 sub build_yaml_entry {

@@ -12,9 +12,7 @@ description: "The national drink of Brazil, this is a classic and refreshing coc
 excerpt: |
   The Caipirinha is a classic Brazilian cocktail known for its refreshing and tangy flavor. It's made with a few simple ingredients: cachaça, lime, sugar, and ice.
 date: 2025-08-11
-glass:
-  - double_old_fashioned
-  - old_fashioned
+glass: double_old_fashioned
 garnishes: slice_lime
 ice: crushed
 ---
