@@ -15,7 +15,7 @@ date: 2025-08-11
 glass:
   - double_old_fashioned
   - old_fashioned
-garnishes: lime_wedge
+garnishes: slice_lime
 ice: crushed
 ---
 

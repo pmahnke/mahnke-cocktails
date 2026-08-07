@@ -14,6 +14,7 @@ excerpt: |
   Adapted from a recipe created by Justin Elliott at The Townsend, Austin, Texas, USA.
 date: 2025-08-11
 glass: rocks
+garnishes: orange_peel
 type: stirred
 ---
 

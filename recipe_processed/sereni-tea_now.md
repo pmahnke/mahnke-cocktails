@@ -11,6 +11,7 @@ description: "A non-alcoholic drink featuring the flavors of pear, grenadine, le
 excerpt: |
 date: 2025-08-11
 glass: coupe
+garnishes: lemon_peel
 type: shaken
 ---
 

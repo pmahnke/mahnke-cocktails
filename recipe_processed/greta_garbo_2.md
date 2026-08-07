@@ -15,6 +15,7 @@ excerpt: |
   Garbo's career launched with the 1924 Swedish film, The Saga of Gosta Berling. Although her role was minor, her performance caught the attention of Louis B. Mayer, chief executive of Metro Goldwyn Mayer (MGM) who signed her to his studio in 1925. The next year she appeared in MGM's silent film, <em>Torrent</em>, then <em>Flesh</em> and the <em>Devil</em> in 1926, which propelled her to international stardom. Garbo's first talking film was <em>Anna Christie</em> (1930) which MGM marketed with the catch-phrase "Garbo talks!". Garbo retired from the screen after the failure of <em>Two-Faced Woman</em> in 1941 at the age of 35 having appeared in 28 films. An avid art collector, she never married, had no children and lived alone shunning publicity. Greta Garbo died 15th April 1990.
 date: 2025-10-20
 glass: coupe
+garnishes: lemon_peel
 type: shaken
 ---
 

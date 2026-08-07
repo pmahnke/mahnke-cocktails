@@ -14,6 +14,7 @@ excerpt: |
   <br><br>
   The Royal Navy then brought the idea for the drink to bars in England, where this method of serving was first noted on the mainland. By the 1870s, gin was becoming increasingly popular and many of the finer establishments in England were serving pink gins.
 date: 2025-08-11
+garnishes: lemon_peel
 type: stirred
 ---
 

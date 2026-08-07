@@ -8,6 +8,7 @@ youtube: "https://jeffreymorgenthaler.com/lime-cordial/"
 excerpt: |
   Lime cordial is a concentrated, sweetened lime syrup that balances intense tartness with a distinct, candied citrus peel bitterness, famously used to provide the essential zing in a classic Gimlet.
 date: 2026-03-11
+garnishes: lime_peel
 ---
 
 ### Ingredients

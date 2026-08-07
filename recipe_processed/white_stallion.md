@@ -13,6 +13,7 @@ excerpt: |
   This bubbly ice cream drink was inspired by two classics found in the Savoy Cocktail Book - the White Cargo and the Silver Stallion.
 date: 2025-08-14
 glass: flute
+garnishes: lemon_peel
 type: shaken
 ---
 

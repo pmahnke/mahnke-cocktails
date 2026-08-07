@@ -16,6 +16,7 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes:
+  - cocktail_umbrella
   - lime_wheel
   - maraschino_cherry
   - pineapple_wedge

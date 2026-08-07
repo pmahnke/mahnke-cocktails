@@ -14,7 +14,7 @@ excerpt: |
 date: 2026-02-05
 glass: hurricane
 garnishes:
-  - lime_wedge
+  - slice_lime
   - strawberry
 ice: crushed
 type: blended

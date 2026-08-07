@@ -13,6 +13,7 @@ excerpt: |
   The New York sour recipe adds red wine to the classic whiskey sour cocktail for a playful and fruity twist on a household favorite.
 date: 2025-08-11
 glass: coupe
+garnishes: lemon_peel
 type: shaken
 ---
 

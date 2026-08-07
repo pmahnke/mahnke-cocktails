@@ -13,7 +13,9 @@ excerpt: |
   The Cosmopolitan is a simple cocktail with a big history. The "Cosmo" is known for its vibrant pink color and tart, sweet flavor. It gained widespread popularity in the 1990s, particularly after its association with the TV show "Sex and the City."
 date: 2025-08-11
 glass: coupe
-garnishes: lime_wheel
+garnishes:
+  - lime_wheel
+  - orange_peel
 type: shaken
 ---
 

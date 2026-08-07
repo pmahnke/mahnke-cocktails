@@ -14,6 +14,7 @@ excerpt: |
   The Milk & Honey Star Daisy is a crisp, perfectly balanced "split-base" sour that bridges the gap between seasons by pairing the botanical snap of gin with the autumnal warmth of apple brandy.
 date: 2026-03-02
 glass: coupe
+garnishes: lemon_peel
 type: shaken
 ---
 

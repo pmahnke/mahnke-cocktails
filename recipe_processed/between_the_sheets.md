@@ -13,6 +13,7 @@ excerpt: |
   This provocatively named Between the Sheets cocktail dates back to Prohibition and amps up the classic Sidecar formula with a dose of rum.
 date: 2025-08-11
 glass: coupe
+garnishes: lemon_peel
 type: shaken
 ---
 

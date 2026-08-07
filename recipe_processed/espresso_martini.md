@@ -16,7 +16,9 @@ date: 2025-08-11
 glass:
   - coffee
   - martini
-garnishes: coffee_beans
+garnishes:
+  - coffee_beans
+  - lemon_peel
 type: shaken
 ---
 

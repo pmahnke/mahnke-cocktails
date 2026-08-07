@@ -14,6 +14,7 @@ excerpt: |
   The Greenpoint was created by Michael McIlroy of Milk and Honey. Inspired by Vincenzo Errico's Red Hook Cocktail, he whipped up his own variation also named for the neighborhood in Brooklyn, NY he was living in. These two cocktails created an entire series of manhattan variations named from neighborhoods in Brooklyn and have inspired many bartenders from elsewhere to create their own manhattan variations named for neighborhoods in their own city.
 date: 2025-08-11
 glass: coupe
+garnishes: lemon_peel
 type: stirred
 ---
 

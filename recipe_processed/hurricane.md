@@ -13,7 +13,9 @@ excerpt: |
   The rum-spiked Hurricane cocktail is potent and fruity. Mix one up for a trip to New Orleans without the plane ticket.
 date: 2025-08-11
 glass: hurricane
-garnishes: maraschino_cherry
+garnishes:
+  - cocktail_umbrella
+  - maraschino_cherry
 type: shaken
 ---
 

@@ -13,6 +13,7 @@ excerpt: |
   Love the Bijou? Try a Tipperary, a Dead Rabbit favorite made with Irish whiskey, without the Campari.
 date: 2025-08-11
 glass: whiskey
+garnishes: lemon_peel
 type: stirred
 ---
 

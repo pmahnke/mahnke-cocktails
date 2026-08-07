@@ -12,6 +12,7 @@ description: "A sophisticated classic that creates a harmonious blend of Scotch,
 excerpt: |
   The Affinity Cocktail is a classic whiskey-based cocktail that showcases the balance and harmony of its ingredients. It's a refined and sophisticated drink that's perfect for any occasion.
 date: 2026-03-21
+garnishes: lemon_peel
 type: stirred
 ---
 

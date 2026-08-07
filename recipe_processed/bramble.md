@@ -13,7 +13,9 @@ excerpt: |
   The Bramble is a gin-kissed beauty of a cocktail. It features fresh lemon juice and blackberry liqueur.
 date: 2025-08-11
 glass: rocks
-garnishes: blackberries
+garnishes:
+  - blackberries
+  - lemon_wheel
 ice: crushed
 type: shaken
 ---

@@ -14,7 +14,9 @@ excerpt: |
   The Suffering Bastard cocktail uses both bourbon and gin. Born in Cairo at the Shepheard's Hotel, it was originally concocted as a hangover cure for troops fighting in North Africa.
 date: 2025-08-11
 glass: highball
-garnishes: mint_sprig
+garnishes:
+  - mint_sprig
+  - orange_slice
 ice: cubed
 type: shaken
 ---

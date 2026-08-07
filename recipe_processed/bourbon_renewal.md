@@ -14,6 +14,7 @@ excerpt: |
   The Bourbon Renewal is a refreshing and balanced cocktail that is perfect for any occasion. It is also a great way to showcase your favorite bourbon.
 date: 2025-10-16
 glass: rocks
+garnishes: lemon_wheel
 type: shaken
 ---
 

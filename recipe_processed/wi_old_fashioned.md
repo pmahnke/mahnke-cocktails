@@ -15,7 +15,9 @@ date: 2025-08-11
 glass:
   - rocks
   - sour
-garnishes: maraschino_cherry
+garnishes:
+  - maraschino_cherry
+  - orange_slice
 ice: crushed
 ---
 

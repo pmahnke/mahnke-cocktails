@@ -13,7 +13,9 @@ excerpt: |
   With bourbon, lemon and mint, the Whiskey Smash is a citrusy cousin to the Mint Julep. If that sounds good, wait until you make this recipe.
 date: 2025-08-11
 glass: rocks
-garnishes: mint_sprig
+garnishes:
+  - lemon_wheel
+  - mint_sprig
 type: shaken
 ---
 

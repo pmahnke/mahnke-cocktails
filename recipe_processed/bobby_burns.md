@@ -13,6 +13,7 @@ excerpt: |
   A classic drink named for a Scottish poet. A variation of the Rob Roy, the Bobby Burns is a classic cocktail named after the Scottish poet Robert Burns.
 date: 2025-12-09
 glass: coupe
+garnishes: lemon_peel
 type:
   - blended
   - stirred

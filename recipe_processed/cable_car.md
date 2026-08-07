@@ -14,7 +14,9 @@ excerpt: |
   Created in 1996 by Tony Abou-Ganim at the Starlight Room, a nightclub and cocktail lounge atop San Francisco's Sir Francis Drake Hotel (now the Beacon Grand Hotel). The Nob Hill cable cars pass by the bar, hence its catchphrase, "between the stars and the cable cars," and this contemporary classic cocktail's name.
 date: 2025-08-11
 glass: coupe
-garnishes: cinnamon
+garnishes:
+  - cinnamon
+  - orange_peel
 type: shaken
 ---
 

@@ -13,6 +13,7 @@ excerpt: |
   This marriage of dry sherry, gin and Lillet from the Savoy Cocktail book is a most refined and nuanced sipper.
 date: 2025-11-25
 glass: coupe
+garnishes: lemon_peel
 type: stirred
 ---
 

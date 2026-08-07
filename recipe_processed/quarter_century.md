@@ -13,6 +13,7 @@ excerpt: |
   This is an Anders Erickson original cocktail created for New Year's Day, 2025.
 date: 2025-08-11
 glass: coupe
+garnishes: lemon_peel
 type: stirred
 ---
 

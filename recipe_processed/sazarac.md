@@ -13,6 +13,7 @@ excerpt: |
   The Sazerac is a local variation of a cognac or whiskey cocktail originally from New Orleans, named for the Sazerac de Forge et Fils brand of cognac brandy.
 date: 2025-08-11
 glass: rocks
+garnishes: lemon_peel
 type: stirred
 ---
 

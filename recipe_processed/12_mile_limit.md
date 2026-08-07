@@ -17,6 +17,7 @@ excerpt: |
   The notoriety of the three-mile and then 12-mile limit to the reach of the Feds during Prohibition led to the Three Miller/Three Mile Limit the Twelve Miles Out, and the Twelve Mile Limit cocktails. The Twelve Mile limit is a rye whiskey laced Three Miller as the limit was extended, so the cocktail was made stronger.
 date: 2025-08-11
 glass: rocks
+garnishes: lemon_peel
 type: shaken
 ---
 

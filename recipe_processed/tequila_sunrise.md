@@ -17,6 +17,7 @@ glass: collins
 garnishes:
   - lime_wheel
   - maraschino_cherry
+  - orange_slice
 ---
 
 <div class="subrecipe" markdown="1">

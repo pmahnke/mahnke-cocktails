@@ -13,7 +13,9 @@ excerpt: |
   The Sloe Gin Fizz cocktail is a classic for a reason. See how the tartness of sloe berries influence this tasty drink.
 date: 2025-08-11
 glass: highball
-garnishes: maraschino_cherry
+garnishes:
+  - lemon_wheel
+  - maraschino_cherry
 ice: cubed
 type: shaken
 ---

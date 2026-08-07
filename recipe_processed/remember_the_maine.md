@@ -13,7 +13,9 @@ excerpt: |
   If you like a Rye Manhattan, you’ll love this historic variation that adds cherry liqueur and a bit of absinthe.
 date: 2025-08-11
 glass: martini
-garnishes: maraschino_cherry
+garnishes:
+  - lemon_peel
+  - maraschino_cherry
 type: stirred
 ---
 

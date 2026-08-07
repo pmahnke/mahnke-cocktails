@@ -13,7 +13,9 @@ excerpt: |
   The Juliet & Romeo cocktail is a refreshing and complex drink that blends gin, cucumber, mint, lime juice, simple syrup, rose water, and bitters.
 date: 2025-08-11
 glass: coupe
-garnishes: mint_sprig
+garnishes:
+  - cucumber
+  - mint_sprig
 type: shaken
 ---
 

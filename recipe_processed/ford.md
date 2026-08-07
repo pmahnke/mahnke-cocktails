@@ -13,6 +13,7 @@ excerpt: |
   The Ford cocktail is a classic gin-based cocktail that dates back to the late 19th century. It is a Martini-style cocktail sweetened by both the use of old tom gin and Bénédictine D.O.M. liqueur.
 date: 2025-08-11
 glass: coupe
+garnishes: orange_peel
 type: stirred
 ---
 

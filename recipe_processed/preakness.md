@@ -12,6 +12,7 @@ description: "A classic Manhattan variation named for the famous horse race, whi
 excerpt: |
   Named for a horse race that is not the Kentucky Derby, this Manhattan variation gets a splash of Benedictine for complexity.
 date: 2025-08-11
+garnishes: lemon_peel
 type: stirred
 ---
 

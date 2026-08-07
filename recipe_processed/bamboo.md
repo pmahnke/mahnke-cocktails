@@ -13,6 +13,7 @@ excerpt: |
   Equal parts dry sherry and dry vermouth get propped up with two kinds of bitters in the Bamboo, a low-alcohol classic cocktail.
 date: 2026-03-01
 glass: coupe
+garnishes: orange_peel
 type: shaken
 ---
 

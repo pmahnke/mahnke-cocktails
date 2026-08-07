@@ -12,6 +12,7 @@ description: "A potent classic tiki cocktail that packs a punch with its complex
 excerpt: |
   The Bali Bali is a classic tiki cocktail that packs a punch with its blend of rums, liqueurs, and fruit juices.
 date: 2025-08-11
+garnishes: cocktail_umbrella
 ice: crushed
 type: shaken
 ---

@@ -13,6 +13,7 @@ excerpt: |
   The Slow Gin Sour blends the sweet and tart flavors of sloe gin with the classic sour template.
 date: 2025-08-11
 glass: coupe
+garnishes: lemon_peel
 type: shaken
 ---
 

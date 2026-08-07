@@ -14,6 +14,7 @@ excerpt: |
   This cocktail is a riff on the classic Shandy. With the addition of Falernum, it skews more toward the cocktail side, but still sits in the Shandy family.
 date: 2025-08-20
 glass: highball
+garnishes: lemon_wheel
 type: shaken
 ---
 

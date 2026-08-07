@@ -15,6 +15,7 @@ date: 2025-08-11
 glass:
   - coffee
   - rocks
+garnishes: lemon_peel
 type: stirred
 ---
 

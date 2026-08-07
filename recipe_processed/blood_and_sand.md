@@ -16,6 +16,7 @@ glass: coupe
 garnishes:
   - maraschino_cherry
   - orange_peel
+  - orange_slice
 type:
   - blended
   - shaken

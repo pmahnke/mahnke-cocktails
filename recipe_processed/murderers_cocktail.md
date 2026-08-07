@@ -13,6 +13,7 @@ excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
 glass: coupe
+garnishes: lemon_peel
 type: stirred
 ---
 

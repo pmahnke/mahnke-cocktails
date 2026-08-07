@@ -13,6 +13,7 @@ excerpt: |
   The Coyote Swizzle is a smoky, tropical riff on the Jungle Bird that balances the intense earthiness of mezcal and the bitter punch of Campari with bright lime and lush, sweet passion fruit.
 date: 2026-06-1
 glass: highball
+garnishes: cocktail_umbrella
 ice: crushed
 ---
 

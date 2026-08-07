@@ -13,7 +13,7 @@ excerpt: |
   The Dark and Stormy is a classic rum drink with close ties to a Bermuda-based distillery that dates to 1806.
 date: 2025-08-11
 glass: highball
-garnishes: lime_wedge
+garnishes: slice_lime
 ice: cubed
 type: built
 ---

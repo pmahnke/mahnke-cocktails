@@ -12,7 +12,9 @@ excerpt: |
   A spa water cocktail is a mixed drink that typically includes cucumber slices, simple syrup, lime juice, water, and sparkling water.
 date: 2025-08-11
 glass: julep_cup
-garnishes: mint_sprig
+garnishes:
+  - cucumber
+  - mint_sprig
 ice: crushed
 ---
 

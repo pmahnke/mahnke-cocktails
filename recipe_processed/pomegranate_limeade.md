@@ -12,7 +12,9 @@ excerpt: |
   Pomegranate limeade is a refreshing and vibrant drink that balances the sweet-tart flavors of pomegranate and lime. It can be enjoyed on its own as a non-alcoholic beverage or used as a base for cocktails.
 date: 2025-08-11
 glass: highball
-garnishes: lime_wheel
+garnishes:
+  - cocktail_umbrella
+  - lime_wheel
 ice: cubed
 type: shaken
 ---

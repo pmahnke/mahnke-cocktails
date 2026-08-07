@@ -13,7 +13,9 @@ excerpt: |
   The classic Tom Collins is a straightforward and refreshing cocktail that combines gin with lemon juice, sugar and club soda.
 date: 2025-08-11
 glass: highball
-garnishes: maraschino_cherry
+garnishes:
+  - lemon_wheel
+  - maraschino_cherry
 ice: cubed
 type: shaken
 ---

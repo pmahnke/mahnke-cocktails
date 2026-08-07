@@ -12,7 +12,9 @@ excerpt: |
   The A Little Thyme Off cocktail is a refreshing and herbaceous drink that uses a thyme-infused simple syrup as its key ingredient. The syrup adds a subtle, savory flavor to the cocktail, which is then balanced by the tartness of lemon juice and the effervescence of ginger beer.
 date: 2025-08-11
 glass: highball
-garnishes: thyme
+garnishes:
+  - lemon_wheel
+  - thyme
 ice: cubed
 type: shaken
 ---

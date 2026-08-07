@@ -14,7 +14,9 @@ excerpt: |
   <blockquote><p>Cock-tail, then, is a stimulating liquor, composed of spirits of any kind, sugar, water, and bitters--it is vulgarly called a bittered sling, and is supposed to be an excellent electioneering potion, in as much as it renders the heart flout and bold, at the same time that it fuddles the head. It is said also, to be of great use to a democratic candidate: because, a person having swallowed a glass of it, is ready to swallow anything else.</p><cite>Editor, The Balance and Columbian Repository, 13 May 1806</cite></blockquote>
 date: 2026-04-24
 glass: rocks
-garnishes: maraschino_cherry
+garnishes:
+  - lemon_peel
+  - maraschino_cherry
 type: stirred
 ---
 

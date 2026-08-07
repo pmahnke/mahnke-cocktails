@@ -13,6 +13,7 @@ excerpt: |
   This is an original cocktail from a Upper Westside restaurant, the Consulate.
 date: 2025-08-11
 glass: coupe
+garnishes: cucumber
 type: shaken
 ---
 

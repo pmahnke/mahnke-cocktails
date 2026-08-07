@@ -15,7 +15,9 @@ excerpt: |
 
 date: 2026-03-07
 glass: whiskey
-garnishes: cinnamon
+garnishes:
+  - cinnamon
+  - lemon_peel
 type: stirred
 ---
 

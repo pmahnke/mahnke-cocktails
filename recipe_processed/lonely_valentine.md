@@ -15,6 +15,7 @@ excerpt: |
   The cocktail typically includes brandy, Cointreau, and cola, creating a rich and flavorful drink. The brandy provides warmth and complexity, while the Cointreau adds citrus notes and sweetness. The cola adds a touch of sweetness and a unique flavor profile.
 date: 2025-10-20
 glass: coupe
+garnishes: lemon_peel
 type: shaken
 ---
 

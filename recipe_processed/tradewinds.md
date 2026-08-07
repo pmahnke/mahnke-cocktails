@@ -12,6 +12,7 @@ description: "A classic tiki cocktail that blends the tropical flavors of rum, a
 excerpt: |
   The Tradewinds is a classic tiki cocktail that blends the flavors of rum, apricot, coconut, and citrus.
 date: 2025-08-11
+garnishes: cocktail_umbrella
 ice: crushed
 ---
 

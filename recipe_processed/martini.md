@@ -15,7 +15,9 @@ excerpt: |
   The Martini's exact origins are debated, but it is believed to have emerged in the late 19th century. It quickly became a popular drink among the upper classes and has remained a staple of cocktail culture ever since.
 date: 2025-10-20
 glass: martini
-garnishes: olive
+garnishes:
+  - lemon_peel
+  - olive
 type: stirred
 ---
 

@@ -11,7 +11,9 @@ description: "A non-alcoholic coffee drink featuring espresso and cinnamon syrup
 excerpt: |
 date: 2025-08-11
 glass: highball
-garnishes: cinnamon
+garnishes:
+  - cinnamon
+  - orange_peel
 type: shaken
 ---
 

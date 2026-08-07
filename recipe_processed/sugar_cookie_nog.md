@@ -15,6 +15,7 @@ date: 2025-12-27
 glass:
   - coupe
   - whiskey
+garnishes: lemon_peel
 type: shaken
 ---
 

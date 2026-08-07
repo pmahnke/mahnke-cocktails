@@ -13,7 +13,9 @@ excerpt: |
   The Lucky Stone is a cocktail that combines the flavors of Irish whiskey, Amontillado sherry, apricot liqueur, and Peychaud's bitters. It is a complex and balanced drink with a sweet and nutty flavor profile.
 date: 2025-09-26
 glass: whiskey
-garnishes: maraschino_cherry
+garnishes:
+  - lemon_peel
+  - maraschino_cherry
 type: stirred
 ---
 

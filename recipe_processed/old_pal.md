@@ -14,6 +14,7 @@ excerpt: |
   <blockquote>I remember way back in 1878, on the 30th of February to be exact, when the Writer was discussing this subject with my old pal "Sparrow" Robertson and he said to yours truly, "get away with that stuff, my old pal, here's the drink I invented when I fired the pistol the first time at the old Powderhall foot races and you can't go wrong if you put a bet down on 1/3 Canadian Club, 1/3 Eyetalian [Italian] Vermouth, and 1/3 Campari," and then he told the Writer that he would dedicate this cocktail to me and call it, My Old Pal.</blockquote>
 date: 2026-03-01
 glass: coupe
+garnishes: lemon_peel
 type: stirred
 ---
 

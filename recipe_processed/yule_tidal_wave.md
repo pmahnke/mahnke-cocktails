@@ -13,6 +13,7 @@ excerpt: |
   This holiday punch, which combines allspice and vanilla with the bright zing of lemon and pineapple.
 date: 2025-09-26
 glass: hurricane
+garnishes: cocktail_umbrella
 ice: cubed
 type: shaken
 ---

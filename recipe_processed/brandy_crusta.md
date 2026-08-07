@@ -13,6 +13,7 @@ excerpt: |
   The Brandy Crusta is one of the oldest classic cocktails on record and a liquid calling card of its hometown of New Orleans.
 date: 2025-08-11
 glass: coupe
+garnishes: lemon_peel
 type: shaken
 ---
 

@@ -13,7 +13,9 @@ excerpt: |
   Markz Pazuniak and Kirk Estopinal's wholly unique take on a Pimm's Cup cocktail recipe calls for two full ounces of Peychaud's bitters.
 date: 2025-08-11
 glass: highball
-garnishes: strawberry
+garnishes:
+  - cucumber
+  - strawberry
 ice: cubed
 type: shaken
 ---

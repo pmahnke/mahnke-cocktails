@@ -12,7 +12,9 @@ description: "A classic New Orleans cocktail, this is a rich and complex variati
 excerpt: |
   The La Louisiane is a classic New Orleans cocktail with a rich history dating back to the 19th century. It is a rye-based Sweet Manhattan made even sweeter with herbal Bénédictine liqueur and bittered with Peychaud's and absinthe.
 date: 2025-08-11
-garnishes: maraschino_cherry
+garnishes:
+  - lemon_peel
+  - maraschino_cherry
 type: stirred
 ---
 

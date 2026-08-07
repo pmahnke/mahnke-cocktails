@@ -54,13 +54,32 @@ my %glassware = (
 );
 
 my %garnishes = (
-    'lime wedge'        => 'lime_wedge',
+    'lime wedge'        => 'slice_lime',
     'lime wheel'        => 'lime_wheel',
+    'dry lime wheel'    => 'dry_lime_wheel',
+    'lime peel'         => 'lime_peel',
+    'lime oil'          => 'lime_peel',
+
+    'grape'             => 'grape',
     'green apple slice' => 'green_apple_slice',
     'pineapple slice'   => 'pineapple_slice',
+
     'lemon twist'       => 'lemon_twist',
+    'lemon peel'        => 'lemon_peel',
+    'lemon slice'       => 'lemon_slice',
+    'lemon wedge'       => 'lemon_wedge',
+    'dry lemon wheel'   => 'dry_lemon_wheel',
+    'lemon wheel'       => 'lemon_wheel',
+    'lemon oil'         => 'lemon_peel',
+    
     'orange peel'       => 'orange_peel',
     'orange twist'      => 'orange_twist',
+    'orange slice'      => 'orange_slice',
+    'dry orange wheel'  => 'dry_orange_wheel',
+    'orange oil'        => 'orange_peel',
+    
+    'umbrella'          => 'cocktail_umbrella',
+    'cucumber'          => 'cucumber',
     'cherry'            => 'maraschino_cherry',
     'maraschino cherry' => 'maraschino_cherry',
     'mint sprig'        => 'mint_sprig',

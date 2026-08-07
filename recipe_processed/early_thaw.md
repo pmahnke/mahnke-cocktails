@@ -13,6 +13,7 @@ excerpt: |
   This is Anders spritz riff on thee Spring Awakening cocktail. It is slightly more bitter than an Aperol spritz.
 date: 2026-03-24
 glass: rocks
+garnishes: lemon_wheel
 type: stirred
 ---
 

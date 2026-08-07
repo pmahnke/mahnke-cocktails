@@ -77,27 +77,66 @@ glasses:
     icon: /assets/images/glass_whiskey.svg
 
 garnishes:
-  lime_wedge:
-    name: Lime Wedge
-    icon: /assets/images/slice_lime.svg
+  cucumber:
+    name: Cucumber Slice
+    icon: /assets/images/garnish_cucumber.svg
+  dry_lemon_wheel:
+    name: Dry Lemon Wheel
+    icon: /assets/images/garnish-dry_lemon_wheel.svg
+  grape:
+    name: Grape
+    icon: /assets/images/garnish-grapes.svg
+  lemon_wheel:
+    name: Lemon Wheel
+    icon: /assets/images/garnish-lemon_wheel.svg
+  lime_wheel:
+    name: Lime Wheel
+    icon: /assets/images/garnish-lime_wheel.svg
+  cocktail_umbrella:
+    name: Cocktail Umbrella 
+    icon: /assets/images/garnish-umbrella.svg
+  lime_twist:
+    name: Lime Twist
+    icon: /assets/images/garnish-lime_twist.svg
+  lemon_wedge:
+    name: Lemon Wedge
+    icon: /assets/images/garnish-lemon_slice.svg
   lime_wheel:
     name: Lime Wheel
     icon: /assets/images/slice_lime.svg
+  dry_lime_wheel:
+    name: Dry Lime Wheel
+    icon: /assets/images/garnish-dry_lime_wheel.svg
+  lime_peel:
+    name: Lime Peel
+    icon: /assets/images/garnish-lime_peel.svg
+  lemon_peel:
+    name: Lemon Peel
+    icon: /assets/images/garnish-lemon_peel.svg
+  lemon_slice:
+    name: Lemon Slice
+    icon: /assets/images/garnish-lemon_slice.svg
+  lemon_twist:
+    name: Lemon Twist
+    icon: /assets/images/twist_lemon.svg
   green_apple_slice:
     name: Green Apple Slice
     icon: /assets/images/slice_green_apple.svg
   pineapple_slice:
     name: Pineapple Slice
     icon: /assets/images/slice_pineapple.svg
-  lemon_twist:
-    name: Lemon Twist
-    icon: /assets/images/fruit_lemon.svg
   orange_peel:
     name: Orange Peel
-    icon: /assets/images/fruit-orange.svg
+    icon: /assets/images/garnish-ornage_peel.svg
   orange_twist:
     name: Orange Twist
-    icon: /assets/images/fruit-orange.svg
+    icon: /assets/images/twist_orange.svg
+  orange_slice:
+    name: Orange Slice
+    icon: /assets/images/garnish-orange_slice.svg
+  dry_orange_wheel:
+    name: Dry Orange Wheel
+    icon: /assets/images/garnish-dry_orange_wheel.svg
   maraschino_cherry:
     name: Maraschino Cherry
     icon: /assets/images/twist_cocktail-cherry.svg

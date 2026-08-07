@@ -13,7 +13,9 @@ excerpt: |
   A simple, and very potent, classic cocktail with apple brandy, yellow Chartreuse and Benedictine.
 date: 2025-11-26
 glass: coupe
-garnishes: maraschino_cherry
+garnishes:
+  - lemon_peel
+  - maraschino_cherry
 type:
   - shaken
   - stirred

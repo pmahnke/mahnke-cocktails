@@ -13,7 +13,9 @@ excerpt: |
   The Pimm’s Cup is a classic cocktail featuring Pimm’s No. 1, a gin-based liqueur. Mix it with lemon and ginger ale for ultimate refreshment.
 date: 2025-08-11
 glass: highball
-garnishes: mint_sprig
+garnishes:
+  - cucumber
+  - mint_sprig
 ice: cubed
 type: shaken
 ---

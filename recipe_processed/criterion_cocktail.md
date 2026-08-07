@@ -13,6 +13,7 @@ excerpt: |
   The Criterion Cocktail, first recorded in an 1878 bartending manual, is a brandy-based drink enriched with Bénédictine, bitters, and syrup, giving it a sweet, herbal profile typical of early mixed drinks. Once part of the Victorian-era rise of codified cocktails, it faded from popularity as tastes shifted toward drier, more spirit-forward drinks in the decades that followed.
 date: 2025-11-29
 glass: coupe
+garnishes: lemon_peel
 type: stirred
 ---
 

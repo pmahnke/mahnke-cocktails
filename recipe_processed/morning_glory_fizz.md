@@ -13,6 +13,7 @@ excerpt: |
   This classic, sour and aromatic cocktail is traditionally considered a morning after a pick-me-up. Want to make the perfect Gin Fizz? It's all in the shake.
 date: 2025-12-09
 glass: highball
+garnishes: orange_peel
 type: shaken
 ---
 

@@ -13,6 +13,7 @@ excerpt: |
   The Rolls Royce cocktail is a sophisticated and elegant drink, fitting for its luxurious namesake. It's a variation of the Martini, with the addition of sweet vermouth and Benedictine, which add complexity and depth to the classic gin and dry vermouth base.
 date: 2025-08-11
 glass: coupe
+garnishes: lemon_peel
 type: stirred
 ---
 

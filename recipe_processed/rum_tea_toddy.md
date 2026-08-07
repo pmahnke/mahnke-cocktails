@@ -12,7 +12,9 @@ description: "A comforting and classic hot toddy that combines the warmth of Jam
 excerpt: |
   The classic hot toddy is a comforting and warming beverage that has been used for centuries to soothe ailments and warm the soul.
 date: 2025-08-11
-garnishes: cinnamon
+garnishes:
+  - cinnamon
+  - lemon_peel
 ---
 
 ### Ingredients
