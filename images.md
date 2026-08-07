@@ -5,18 +5,18 @@ title: index of images
 
 <h3>Category</h3>
 <ul>
-    {%- if site.categories -%}
-        {%- assign sorted_categories = site.categories | sort: "title" -%}
-        {%- for cat in sorted_categories -%}
-            {%- if cat.icon_path -%}
-                <li><img src="{{ cat.icon_path | relative_url }}" width="100"><br>{{ cat.slug }}</li>
-            {%- endif -%}
-        {%- endfor -%}
-    {%- elsif site.category -%}
+    {%- comment -%} 
+      Bypassing the built-in site.categories and going straight 
+      to your custom collection 'site.category' 
+    {%- endcomment -%}
+    {%- if site.category -%}
         {%- assign sorted_categories = site.category | sort: "title" -%}
         {%- for cat in sorted_categories -%}
             {%- if cat.icon_path -%}
-                <li><img src="{{ cat.icon_path | relative_url }}" width="100"><br>{{ cat.slug }}</li>
+                <li>
+                    <img src="{{ cat.icon_path | relative_url }}" width="100"><br>
+                    {{ cat.title }}
+                </li>
             {%- endif -%}
         {%- endfor -%}
     {%- endif -%}
@@ -24,14 +24,23 @@ title: index of images
 
 <h3>Ingredients (Spirits)</h3>
 <ul>
-  {%- if site.spirits -%}
-      {%- assign sorted_spirits = site.spirits | sort: "title" -%}
-      {%- for spirit in sorted_spirits -%}
-        {%- if spirit.icon_path -%}
-          <li><img src="{{ spirit.icon_path | relative_url }}" width="200"><br>{{ spirit.title }}</li>
-        {%- endif -%}
-      {%- endfor -%}
-  {%- endif -%}
+    {%- comment -%} 
+      Looking for site.spirit (singular) to match the _spirit folder. 
+      We added a fallback to site.spirits just in case! 
+    {%- endcomment -%}
+    {%- assign all_spirits = site.spirit | default: site.spirits -%}
+    
+    {%- if all_spirits -%}
+        {%- assign sorted_spirits = all_spirits | sort: "title" -%}
+        {%- for spirit in sorted_spirits -%}
+            {%- if spirit.icon_path -%}
+                <li>
+                    <img src="{{ spirit.icon_path | relative_url }}" width="200"><br>
+                    {{ spirit.title }}
+                </li>
+            {%- endif -%}
+        {%- endfor -%}
+    {%- endif -%}
 </ul>
 
 <h3>Glasses</h3>
