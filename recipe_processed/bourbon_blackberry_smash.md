@@ -12,6 +12,7 @@ description: "A refreshing smash made with fresh muddled lime, blackberries, and
 excerpt: |
   The Blackberry Bourbon Smash is made with fresh muddled lime, blackberries, and mint mixed with bourbon and topped with soda water.
 date: 2025-08-11
+glass: rocks
 garnishes:
   - blackberries
   - mint_sprig
@@ -33,8 +34,15 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
+  - Low Ball
+  - Large Ice Cube
 - Garnish: Blackberry & mint sprig
-- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blackberries and maple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
+- Special Prep: 
+  1. Cut the half lemon into 8 wedges
+  1. Remove the center pith and de-seed
+  1. Place the lemon pieces, blackberries and maple syrup into the cheater tin and muddle
+  1. Put the other ingredients in the large tin, add ice, and shake.
+  1. Double strain the cocktail over a large ice cube in a low ball glass
 
 <script type="application/ld+json">
 {
@@ -69,11 +77,39 @@ type: shaken
     },
     {
       "@type": "HowToStep",
+      "text": "  - Low Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Large Ice Cube"
+    },
+    {
+      "@type": "HowToStep",
       "text": "- Garnish: Blackberry & mint sprig"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blackberries and maple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake."
+      "text": "- Special Prep: "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Cut the half lemon into 8 wedges"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Remove the center pith and de-seed"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Place the lemon pieces, blackberries and maple syrup into the cheater tin and muddle"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Put the other ingredients in the large tin, add ice, and shake."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Double strain the cocktail over a large ice cube in a low ball glass"
     }
     ],
   "recipeYield": "1 cocktail",

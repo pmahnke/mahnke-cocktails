@@ -32,9 +32,17 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Low Ball, Large Ice cube
+- Glassware: 
+  - Low Ball
+  - Large Ice Cube
 - Garnish: Lemon wheel & mint sprig
-- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
+- Special Prep:
+  1. Cut the half lemon into 8 wedges
+  1. Remove the center pith and de-seed
+  1. Place the lemon pieces into the cheater tin and muddle
+  1. Put the other ingredients in the large tin, add ice, and shake
+  1. Double strain the cocktail over a large ice cube in a low ball glass
+
 
 <script type="application/ld+json">
 {
@@ -64,7 +72,15 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Low Ball, Large Ice cube"
+      "text": "- Glassware: "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Low Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  - Large Ice Cube"
     },
     {
       "@type": "HowToStep",
@@ -72,7 +88,27 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake."
+      "text": "- Special Prep:"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Cut the half lemon into 8 wedges"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Remove the center pith and de-seed"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Place the lemon pieces into the cheater tin and muddle"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Put the other ingredients in the large tin, add ice, and shake"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "  1. Double strain the cocktail over a large ice cube in a low ball glass"
     }
     ],
   "recipeYield": "1 cocktail",

@@ -3,7 +3,7 @@ layout: recipe
 author: Anders Erickson
 creator: "Lynnette Marrero & Jim Kearns"
 title: "Clara Bow"
-categories: [daisy, smash, sour]
+categories: [daisy, sour]
 eras: [modern]
 permalink: "/recipe/clara_bow/"
 iconfile: clara_bow

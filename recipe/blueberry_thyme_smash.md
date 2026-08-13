@@ -30,5 +30,13 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
-- Garnish: Blueberries & bundle of thyme Special
-- Prep: Cut the half lemon into 8 wedges, remove the center pith and de-seed. Place the lemon pieces, blueberries and simple syrup into the cheater tin and muddle. put the other ingredients in the large tin, add ice, and shake.
+  - Low Ball
+  - Large Ice Cube
+- Garnish: Blueberries & bundle of thyme 
+- Special Prep:
+  1. Cut the half lemon into 8 wedges
+  1. Remove the center pith and de-seed
+  1. Place the lemon pieces, blueberries and simple syrup into the cheater tin and muddle
+  1. Put the other ingredients in the large tin, add ice, and shake.
+  1. Double strain the cocktail over a large ice cube in a low ball glass
+
