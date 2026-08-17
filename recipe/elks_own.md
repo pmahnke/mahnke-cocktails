@@ -6,6 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/elks_own/"
 iconfile: elks_own
+image: /assets/images/cocktail_elks_own.svg
 stars: 5
 base_spirits: "Rye, Ruby Port "
 youtube: "zxDfN7UCTZs&t=34s"

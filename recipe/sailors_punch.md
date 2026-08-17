@@ -6,6 +6,7 @@ categories: [punch]
 eras: [modern]
 permalink: "/recipe/sailors_punch/"
 iconfile: sailors_punch
+image: /assets/images/cocktail_sailors_punch.svg
 stars: 0
 base_spirits: "Bourbon"
 youtube: "https://www.drinkhacker.com/2012/12/21/recipe-sailors-punch/?srsltid=AfmBOoqzZTlPxVyXac4u_SJrB194R2YUDjzuI70tpQ9W_dKhlU80dPXC"

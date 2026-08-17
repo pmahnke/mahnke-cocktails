@@ -5,6 +5,7 @@ title: "Pisco Sour"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/pisco_sour/"
+image: /assets/images/cocktail_pisco_sour.svg
 stars: 5
 base_spirits: ['Pisco']
 youtube: "FdAQ96mYwNQ"

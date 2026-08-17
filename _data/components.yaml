@@ -63,6 +63,9 @@ glasses:
   pint:
     name: Pint Glass
     icon: /assets/images/glass_pint.svg
+  punch_cup:
+    name: Punch Cups
+    icon: /assets/images/glass_punch_cup.svg
   sling:
     name: Sling Glass
     icon: /assets/images/glass_sling.svg
@@ -206,50 +209,3 @@ types:
   blended:
     name: Blended
     icon: /assets/images/tool_blender.svg
-
-cocktail_images:
-  artists_special:
-    name: Artists Special
-    icon: /assets/images/cocktail_artists_special.svg
-  boston:
-    name: Boston Cocktail
-    icon: /assets/images/cocktail_boston.svg
-  chartreuse_swizzle:
-    name: Chartreuse Swizzle
-    icon: /assets/images/cocktail_chartreuse_swizzle.svg
-  corpse_reviver_2:
-    name: Corpse Reviver No. 2
-    icon: /assets/images/cocktail_corpse_reviver_2.svg
-  daiquiri:
-    name: Daiquiri
-    icon: /assets/images/cocktail_daiquiri.svg
-  dark_daiquiri:
-    name: Dark Daiquiri
-    icon: /assets/images/cocktail_dark_daiquiri.svg
-  elks_own:
-    name: Elk's Own
-    icon: /assets/images/cocktail_elks_own.svg
-  gimlet:
-    name: Gimlet
-    icon: /assets/images/cocktail_gimlet.svg
-  industry_sour:
-    name: Industry Sour
-    icon: /assets/images/cocktail_industry_sour.svg
-  laughter_forgetting:
-    name: The Drink of Laughter and Forgetting
-    icon: /assets/images/cocktail_laughter_forgetting.svg
-  last_word:
-    name: Last Word
-    icon: /assets/images/cocktail_last_word.svg
-  lions_tail:
-    name: Lions Tail
-    icon: /assets/images/cocktail_lions_tail.svg
-  margarita:
-    name: Margarita
-    icon: /assets/images/cocktail_margarita.svg
-  pisco_sour:
-    name:  Pisco Ssour
-    icon: /assets/images/cocktail_pisco_sour.svg
-  vieux_carre:
-    name: Vieux Carre
-    icon: /assets/images/cocktail_vieux_carre.svg

@@ -6,6 +6,7 @@ categories: sour
 eras: prohibition
 permalink: "/recipe/boston/"
 iconfile: boston
+image: /assets/images/cocktail_boston.svg
 stars: 0
 base_spirits: "London Dry Gin, Apricot Liqueur"
 youtube: 

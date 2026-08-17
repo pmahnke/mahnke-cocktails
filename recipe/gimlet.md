@@ -6,6 +6,7 @@ eras: [classic]
 categories: [sour]
 permalink: "/recipe/gimlet/"
 iconfile: gimlet
+image: /assets/images/cocktail_gimlet.svg
 stars: 5
 base_spirits: "London Dry Gin"
 youtube: "TuiCT7tDO88"

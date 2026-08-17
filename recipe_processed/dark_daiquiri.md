@@ -5,6 +5,7 @@ title: "Dark Daiquiri"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/dark_daiquiri/"
+image: /assets/images/cocktail_dark_daiquiri.svg
 stars: 5
 base_spirits: ['Jamaican Rum']
 youtube: "71jQRf5UrpE"

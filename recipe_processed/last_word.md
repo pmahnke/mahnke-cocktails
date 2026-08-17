@@ -5,6 +5,7 @@ title: "Last Word"
 categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/last_word/"
+image: /assets/images/cocktail_last_word.svg
 stars: 5
 base_spirits: ['Green Chartreuse', 'London Dry Gin', 'Maraschino Liqueur']
 youtube: "ueiHrjWgC-jSAvQn"

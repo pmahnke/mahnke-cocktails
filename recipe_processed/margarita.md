@@ -5,6 +5,7 @@ title: "Classic Margarita"
 categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/margarita/"
+image: /assets/images/cocktail_margarita.svg
 stars: 4.5
 base_spirits: ['Curaçao', 'Reposado Tequila']
 youtube: "jxpT11WEtWQ"

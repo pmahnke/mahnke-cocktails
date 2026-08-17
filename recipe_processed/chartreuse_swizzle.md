@@ -6,6 +6,7 @@ title: "Chartreuse Swizzle"
 eras: [modern]
 categories: [frappe_swizzle]
 permalink: "/recipe/chartreuse_swizzle/"
+image: /assets/images/cocktail_chartreuse_swizzle.svg
 stars: 5
 base_spirits: ['Green Chartreuse']
 youtube: "CGkWnYhu4ag"
