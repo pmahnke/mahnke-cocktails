@@ -1,0 +1,18 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-cynar.svg
+      title: Amaro Cynar
+    - url: /assets/images/ingredient-sweet-vermouth.svg
+      title: Sweet Vermouth
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon Twist
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large

@@ -1,0 +1,15 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /assets/images/ingredient-swedish-punsch.svg
+      title: Punsch
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon Twist

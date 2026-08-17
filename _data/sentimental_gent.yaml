@@ -1,0 +1,17 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-benedictine.svg
+      title: Benedictine
+    - url: /assets/images/ingredient-scotch.svg
+      title: Scotch
+    - url: /assets/images/ingredient-walnut_liqueur.svg
+      title: Walnut Liqueur
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large

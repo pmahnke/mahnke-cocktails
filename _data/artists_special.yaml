@@ -1,0 +1,15 @@
+images:
+  cocktail:
+    - url: /assets/images/cocktail_artists_special.svg
+      title: Artists Special
+  ingredient:
+    - url: /assets/images/ingredient-amontillado_sherry.svg
+      title: Amontillado Sherry
+    - url: /assets/images/ingredient-bourbon.svg
+      title: Bourbon
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and Nora

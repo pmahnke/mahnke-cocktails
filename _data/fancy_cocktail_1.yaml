@@ -1,0 +1,14 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-rosolio.svg
+      title: Italicus
+    - url: /assets/images/ingredient-manzanilla_sherry.svg
+      title: Manzanilla Sherry
+    - url: /assets/images/ingredient-reposado-tequila.svg
+      title: Reposado Tequila
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_martini.svg
+      title: Martini

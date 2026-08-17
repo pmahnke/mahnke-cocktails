@@ -1,0 +1,9 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-amontillado_sherry.svg
+      title: Amontillado Sherry
+    - url: /assets/images/ingredient-vodka.svg
+      title: Vodka
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

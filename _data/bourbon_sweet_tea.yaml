@@ -1,0 +1,17 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-amaro.svg
+      title: Amaro
+    - url: /assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /assets/images/ingredient-peach_liqueur.svg
+      title: Peach Liqueur
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  garnish:
+    - url: /assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

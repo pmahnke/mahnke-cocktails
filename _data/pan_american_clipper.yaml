@@ -1,0 +1,15 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /assets/images/ingredient-apple-brandy.svg
+      title: Apple Brandy
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and Nora
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon Twist

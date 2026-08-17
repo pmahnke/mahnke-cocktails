@@ -1,0 +1,20 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-allspice-dram.svg
+      title: Allspice Dram
+    - url: /assets/images/ingredient-dark-rum.svg
+      title: Dark Rum
+  tool:
+    - url: /assets/images/tool_boston-shaker.svg
+      title: Boston Shaker
+    - url: /assets/images/tool_hawthorn-strainer.svg
+      title: Hawthorn Strainer
+  glass:
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+  garnish:
+    - url: /assets/images/slice_lime.svg
+      title: Lime Slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

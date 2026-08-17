@@ -1,0 +1,17 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-champagne.svg
+      title: Champagne
+    - url: /assets/images/ingredient-elderflower-liqueur.svg
+      title: Elderflower Liqueur
+  tool:
+    - url: /assets/images/tool_muddler.svg
+      title: Muddler
+  garnish:
+    - url: /assets/images/slice_lime.svg
+      title: Lime Slice
+    - url: /assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

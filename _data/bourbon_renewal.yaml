@@ -1,0 +1,18 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /assets/images/ingredient-creme-de-casis.svg
+      title: Creme de Cassis
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/fruit_lemon.svg
+      title: Lemon Slice
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large

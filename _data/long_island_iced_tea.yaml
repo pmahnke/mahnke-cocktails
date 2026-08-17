@@ -1,0 +1,18 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-plymouth_gin.svg
+      title: Plymouth Gin
+    - url: /assets/images/ingredient-tequila.svg
+      title: Tequila
+    - url: /assets/images/ingredient-triple-sec.svg
+      title: Triple Sec
+    - url: /assets/images/ingredient-vodka.svg
+      title: Vodka
+    - url: /assets/images/ingredient-white-rum.svg
+      title: White Rum
+  tool:
+    - url: /assets/images/tool_boston-shaker.svg
+      title: Boston Shaker
+  garnish:
+    - url: /assets/images/fruit_lemon.svg
+      title: Lemon Slice

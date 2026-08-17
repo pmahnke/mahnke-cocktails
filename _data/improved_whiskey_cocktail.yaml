@@ -1,0 +1,19 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-absinthe.svg
+      title: Absinthe
+    - url: /assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino Liqueur
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_old-fashioned.svg
+      title: Old Fashioned
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon Twist

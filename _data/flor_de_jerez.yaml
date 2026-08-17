@@ -1,0 +1,14 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-amontillado_sherry.svg
+      title: Amontillado Sherry
+    - url: /assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot Liqueur
+    - url: /assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican Rum
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe

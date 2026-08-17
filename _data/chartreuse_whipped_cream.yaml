@@ -1,0 +1,7 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-chartreuse.svg
+      title: Chartreuse
+  garnish:
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

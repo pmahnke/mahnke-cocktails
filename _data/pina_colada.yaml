@@ -1,0 +1,18 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-white-rum.svg
+      title: White Rum
+  tool:
+    - url: /assets/images/tool_shaker.svg
+      title: Shaker
+  glass:
+    - url: /assets/images/glass_double-old-fashioned.svg
+      title: Double Old Fashioned
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/slice_pineapple.svg
+      title: Pineapple Slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

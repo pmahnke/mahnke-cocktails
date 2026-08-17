@@ -1,0 +1,18 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-demerara-rum.svg
+      title: Demerara Rum
+    - url: /assets/images/ingredient-gold-rum.svg
+      title: Gold Rum
+  tool:
+    - url: /assets/images/tool_boston-shaker.svg
+      title: Boston Shaker
+  glass:
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/slice_pineapple.svg
+      title: Pineapple Slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

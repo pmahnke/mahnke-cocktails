@@ -1,0 +1,18 @@
+images:
+  cocktail:
+    - url: /assets/images/cocktail_boston.svg
+      title: Boston
+  ingredient:
+    - url: /assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot Liqueur
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/twist_lemon.svg
+      title: Lemon Twist

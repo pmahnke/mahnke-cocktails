@@ -1,0 +1,12 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+    - url: /assets/images/ingredient-yellow-chartreuse.svg
+      title: Yellow Chartreuse
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe

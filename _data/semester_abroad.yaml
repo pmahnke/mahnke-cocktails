@@ -1,0 +1,15 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-fernet_branca.svg
+      title: Fernet Branca
+    - url: /assets/images/ingredient-rye.svg
+      title: Rye
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and Nora
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange Twist

@@ -1,0 +1,18 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-overproof-jamaican-rum.svg
+      title: Overproof Jamaican Rum
+  tool:
+    - url: /assets/images/tool_grater.svg
+      title: Grater
+    - url: /assets/images/tool_long-stirrer.svg
+      title: Long Stirrer
+  glass:
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+  garnish:
+    - url: /assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

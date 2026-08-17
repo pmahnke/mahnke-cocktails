@@ -1,0 +1,18 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-cachaca.svg
+      title: Cachaca
+  tool:
+    - url: /assets/images/tool_muddler.svg
+      title: Muddler
+  glass:
+    - url: /assets/images/glass_double-old-fashioned.svg
+      title: Double Old Fashioned
+  garnish:
+    - url: /assets/images/slice_lime.svg
+      title: Lime Slice
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

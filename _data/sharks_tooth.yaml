@@ -1,0 +1,17 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-cherry.svg
+      title: Cherry
+    - url: /assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican Rum
+    - url: /assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino Liqueur
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/slice_pineapple.svg
+      title: Pineapple Slice

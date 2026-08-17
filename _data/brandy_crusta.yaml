@@ -1,0 +1,15 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-cognac.svg
+      title: Cognac
+    - url: /assets/images/ingredient-maraschino-liqueur.svg
+      title: Maraschino Liqueur
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

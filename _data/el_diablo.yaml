@@ -1,0 +1,19 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-creme-de-casis.svg
+      title: Creme de Cassis
+    - url: /assets/images/ingredient-reposado-tequila.svg
+      title: Reposado Tequila
+  tool:
+    - url: /assets/images/tool_boston-shaker.svg
+      title: Boston Shaker
+    - url: /assets/images/tool_hawthorn-strainer.svg
+      title: Hawthorn Strainer
+  glass:
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

@@ -1,0 +1,19 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-allspice-dram.svg
+      title: Allspice Dram
+    - url: /assets/images/ingredient-demerara-rum.svg
+      title: Demerara Rum
+    - url: /assets/images/ingredient-rhum_agricole.svg
+      title: Rhum Agricole
+  glass:
+    - url: /assets/images/glass_highball.svg
+      title: Highball
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/slice_pineapple.svg
+      title: Pineapple Slice
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

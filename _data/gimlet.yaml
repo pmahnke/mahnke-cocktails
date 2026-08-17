@@ -1,0 +1,16 @@
+images:
+  cocktail:
+    - url: /assets/images/cocktail_gimlet.svg
+      title: Gimlet
+  ingredient:
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+  garnish:
+    - url: /assets/images/slice_lime.svg
+      title: Lime Slice

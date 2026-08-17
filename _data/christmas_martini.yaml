@@ -1,0 +1,12 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-cocchi-americano.svg
+      title: Cocchi Americano
+    - url: /assets/images/ingredient-plymouth_gin.svg
+      title: Plymouth Gin
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_martini.svg
+      title: Martini

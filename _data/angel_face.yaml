@@ -1,0 +1,17 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-apple-brandy.svg
+      title: Apple Brandy
+    - url: /assets/images/ingredient-apricot-liqueur.svg
+      title: Apricot Liqueur
+    - url: /assets/images/ingredient-gin.svg
+      title: Gin
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_nick-and-nora.svg
+      title: Nick and Nora
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange Twist

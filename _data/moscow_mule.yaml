@@ -1,0 +1,13 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-vodka.svg
+      title: Vodka
+  glass:
+    - url: /assets/images/glass_copper-mug.svg
+      title: Copper Mug
+  garnish:
+    - url: /assets/images/herb_mint.svg
+      title: Mint
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

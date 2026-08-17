@@ -1,0 +1,20 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-aperol.svg
+      title: Aperol
+    - url: /assets/images/ingredient-bourbon.svg
+      title: Bourbon
+    - url: /assets/images/ingredient-single-malt-scotch.svg
+      title: Single Malt Scotch
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange Twist
+  ice:
+    - url: /assets/images/ice_cubes.svg
+      title: Cubes

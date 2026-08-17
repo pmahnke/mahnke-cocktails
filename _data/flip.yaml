@@ -1,0 +1,15 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-ale.svg
+      title: Ale
+    - url: /assets/images/ingredient-jamacian-rum.svg
+      title: Jamaican Rum
+  tool:
+    - url: /assets/images/tool_grater.svg
+      title: Grater
+  glass:
+    - url: /assets/images/glass_pint.svg
+      title: Pint
+  garnish:
+    - url: /assets/images/ingredient-sugar.svg
+      title: Sugar

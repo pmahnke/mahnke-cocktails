@@ -1,0 +1,20 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-amaro_averna.svg
+      title: Amaro Averna
+    - url: /assets/images/ingredient-apple-brandy.svg
+      title: Apple Brandy
+  tool:
+    - url: /assets/images/tool_stirred.svg
+      title: Stirred
+  glass:
+    - url: /assets/images/glass_old-fashioned.svg
+      title: Old Fashioned
+    - url: /assets/images/glass_rocks.svg
+      title: Rocks
+  garnish:
+    - url: /assets/images/twist_orange.svg
+      title: Orange Twist
+  ice:
+    - url: /assets/images/ice_large.svg
+      title: Large

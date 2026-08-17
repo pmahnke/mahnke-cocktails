@@ -1,0 +1,19 @@
+images:
+  ingredient:
+    - url: /assets/images/ingredient-vermouth.svg
+      title: Blanc Vermouth
+    - url: /assets/images/ingredient-reposado-tequila.svg
+      title: Reposado Tequila
+  tool:
+    - url: /assets/images/tool_double_strain.svg
+      title: Double Strained
+  glass:
+    - url: /assets/images/glass_coupe.svg
+      title: Coupe
+    - url: /assets/images/glass_margarita.svg
+      title: Margarita
+    - url: /assets/images/glass_tiki.svg
+      title: Tiki
+  garnish:
+    - url: /assets/images/slice_pineapple.svg
+      title: Pineapple Slice
