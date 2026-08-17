@@ -18,9 +18,9 @@ date: 2025-07-07
 | -----------: | --------------------------------------------------------- |
 |         4 oz | El Dorado 151 Overproof Rum                               |
 |      6 whole | Limes, zested                                             |
-|     50 grams | Toasted Almonds, chopped                                  |
+|     1.75 oz  | Toasted Almonds, chopped (~1/3 cup)                                 |
 |     12 whole | Cloves                                                    |
-|     15 grams | Fresh Ginger, chopped                                     |
+|     0.5 oz  | Fresh Ginger, chopped (~1 inch knob)                                    |
 | 0.5 barspoon | Nutmeg, grated                                            |
 |      0.5 pod | Vanilla Bean                                              |
 |         8 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |

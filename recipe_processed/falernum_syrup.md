@@ -16,9 +16,9 @@ date: 2025-07-07
 | -----------: | --------------------------------------------------------- |
 |         <span class="onex active">4 oz  / 120 ml</span> <span class="onehalfx">6 oz  / 180 ml</span> <span class="twox">8 oz  / 240 ml</span> <span class="threex">12 oz  / 360 ml</span>| El Dorado 151 Overproof Rum                               |
 |      <span class="onex active">6 whole </span> <span class="onehalfx">9 whole </span> <span class="twox">12 whole </span> <span class="threex">18 whole </span>| Limes, zested                                             |
-|     <span class="onex active">50 grams </span> <span class="onehalfx">75 grams </span> <span class="twox">100 grams </span> <span class="threex">150 grams </span>| Toasted Almonds, chopped                                  |
+|     <span class="onex active">1 <sup>3</sup>&frasl;<sub>4</sub> oz   / 53 ml</span> <span class="onehalfx">2.625 oz   / 79 ml</span> <span class="twox">3 <sup>1</sup>&frasl;<sub>2</sub> oz   / 105 ml</span> <span class="threex">5 <sup>1</sup>&frasl;<sub>4</sub> oz   / 158 ml</span>| Toasted Almonds, chopped (~1/3 cup)                                 |
 |     <span class="onex active">12 whole </span> <span class="onehalfx">18 whole </span> <span class="twox">24 whole </span> <span class="threex">36 whole </span>| Cloves                                                    |
-|     <span class="onex active">15 grams </span> <span class="onehalfx">22 <sup>1</sup>&frasl;<sub>2</sub> grams </span> <span class="twox">30 grams </span> <span class="threex">45 grams </span>| Fresh Ginger, chopped                                     |
+|     <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz   / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz   / 23 ml</span> <span class="twox">1 oz   / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz   / 45 ml</span>| Fresh Ginger, chopped (~1 inch knob)                                    |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> barspoons</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> barspoons</span> <span class="twox">1 barspoons</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> barspoons</span>| Nutmeg, grated                                            |
 |      <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> pod </span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> pod </span> <span class="twox">1 pod </span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> pod </span>| Vanilla Bean                                              |
 |         <span class="onex active">8 oz  / 240 ml</span> <span class="onehalfx">12 oz  / 360 ml</span> <span class="twox">16 oz  / 480 ml</span> <span class="threex">24 oz  / 720 ml</span>| [Semi-Rich Simple Syrup]({%link recipe_processed/simple_syrup.md%}) |
@@ -47,9 +47,9 @@ date: 2025-07-07
   "recipeIngredient": [
   "     4 oz El Dorado 151 Overproof Rum",
   "   6 whole Limes, zested",
-  "   50 grams Toasted Almonds, chopped",
+  "   1.75 oz  Toasted Almonds, chopped (~1/3 cup)",
   "   12 whole Cloves",
-  "   15 grams Fresh Ginger, chopped",
+  "   0.5 oz  Fresh Ginger, chopped (~1 inch knob)",
   " 0.5 barspoon Nutmeg, grated",
   "   0.5 pod Vanilla Bean",
   "     8 oz Semi-Rich Simple Syrup"
