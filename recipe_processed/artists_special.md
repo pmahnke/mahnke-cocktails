@@ -14,6 +14,7 @@ excerpt: |
 
   Exactly the same recipe appears three years later in Harry Craddock's 1930 <em>The Savoy Cocktail Book</em>.
 date: 2025-10-20
+glass: nick_and_nora
 type: shaken
 ---
 

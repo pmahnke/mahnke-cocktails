@@ -13,6 +13,7 @@ description: "This cocktail famously combines equal parts Green Chartreuse, Fern
 excerpt: |
   The Industry Sour is a modern classic cocktail created in 2011 by bartender Ted Kilgore at Taste in St. Louis. It famously combines equal parts Green Chartreuse, Fernet-Branca, fresh lime juice, and simple syrup into a surprisingly balanced, bittersweet, and herbal drink.
 date: 2026-08-17
+glass: nick_and_nora
 type: shaken
 ---
 

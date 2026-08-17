@@ -12,6 +12,7 @@ description: "A pre-Prohibition classic from Philadelphia known for its silky, f
 excerpt: |
   This pre-Prohibition classic is one of Philadelphia’s contributions to the cocktail world. It is a classic cocktail known for its sweet and tart flavor profile and its silky, frothy texture. It's a member of the sour family, but leans more towards sweetness than tartness. The pale pink liquid, delicate white foam head, and raspberry garnish make it visually appealing.
 date: 2025-08-11
+glass: nick_and_nora
 type: shaken
 ---
 

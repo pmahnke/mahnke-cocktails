@@ -45,6 +45,7 @@ my %glassware = (
     'julep cup'            => 'julep_cup',
     'margarita'            => 'margarita',
     'nick and nora'        => 'nick_and_nora',
+    'nick & nora'        => 'nick_and_nora',
     'old fashioned'        => 'old_fashioned',
     'pint'                 => 'pint',
     'sling'                => 'sling',

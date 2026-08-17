@@ -132,3 +132,16 @@ title: index of images
         </li>
     {%- endfor -%}
 </ul>
+
+
+<h3>Cocktails</h3>
+<ul class="image-grid">
+    {%- for type_pair in site.data.components.cocktail_images -%}
+        {%- assign type_key = type_pair[0] -%}
+        {%- assign type_data = type_pair[1] -%}
+        <li>
+            <img src="{{ type_data.icon | relative_url }}" alt="{{ type_key }}"><br>
+            {{ type_key }}
+        </li>
+    {%- endfor -%}
+</ul>

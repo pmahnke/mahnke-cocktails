@@ -12,6 +12,7 @@ description: "An original sour cocktail that features the warm, autumnal flavors
 excerpt: |
   This cocktails is an Anders original.
 date: 2026-03-01
+glass: nick_and_nora
 garnishes: lemon_peel
 type: shaken
 ---

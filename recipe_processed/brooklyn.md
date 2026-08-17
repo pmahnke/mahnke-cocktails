@@ -12,6 +12,7 @@ description: "A classic pre-Prohibition cocktail and Manhattan variation that in
 excerpt: |
   The Brooklyn cocktail is a classic pre-Prohibition cocktail that is experiencing a resurgence in popularity. It is a variation of the Manhattan, but with dry vermouth and Maraschino Liqueur.
 date: 2025-10-08
+glass: nick_and_nora
 garnishes:
   - maraschino_cherry
   - orange_peel

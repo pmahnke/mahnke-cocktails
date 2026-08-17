@@ -12,6 +12,7 @@ description: "A modern classic and a variation on the Last Word, this is a perfe
 excerpt: |
   The Paper Plane cocktail is a simple variation on the classic Last Word. And it may be the best bourbon drink you may not have tried yet.
 date: 2025-12-23
+glass: nick_and_nora
 type: shaken
 ---
 

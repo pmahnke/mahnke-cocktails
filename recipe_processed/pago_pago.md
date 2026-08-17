@@ -12,6 +12,7 @@ description: "The cocktail combines rum, pineapple, lime, crème de cacao, and C
 excerpt: |
   The Pago Pago Cocktail first appeared in the 1940 edition of <u>The How and When</u> cocktail book. It remains one of the lesser-known classics of the tropical cocktail world, and is often described as a daiquiri variation with Green Chartreuse. The recipe combines rum, pineapple, lime, crème de cacao, and Chartreuse. The pineapple softens the herbal notes, while the cacao adds a touch of richness.
 date: 2026-06-13
+glass: nick_and_nora
 type: shaken
 ---
 

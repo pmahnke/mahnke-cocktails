@@ -15,20 +15,20 @@
     </div>
     <div>
     
-    {%- comment -%} Dynamically load the corresponding _data/[slug].yaml file based on the recipe's slug {%- endcomment -%}
-    {%- assign recipe_slug = latest_recipe.slug | default: latest_recipe.title | downcase | slugify -%}
-    {%- assign recipe_data = site.data[recipe_slug] -%}
+    {%- comment -%} Determine the recipe slug to match against components.yml {%- endcomment -%}
+    {%- assign recipe_slug = latest_recipe.slug | default: latest_recipe.title | downcase | slugify | replace: '-', '_' -%}
+    {%- assign cocktail_img_data = site.data.components.cocktail_images[recipe_slug] -%}
 
-    {%- comment -%} Pull the first base spirit's icon, using it as a backup or base if the cocktail image is missing {%- endcomment -%}
+    {%- comment -%} Pull the first base spirit's icon as a backup or base if the cocktail image is missing {%- endcomment -%}
     {%- if latest_recipe.base_spirits -%}
         {%- assign first_spirit_name = latest_recipe.base_spirits.first | default: latest_recipe.base_spirits -%}
         {%- assign s = site.spirit | where: "title", first_spirit_name | first -%}
         {%- if s and s.icon_path -%}
             <p class="icons" style="position: relative; display: inline-block;">
                 
-                {%- if recipe_data.images.cocktail -%}
-                    {%- comment -%} Render the cocktail image from site.data using .first {%- endcomment -%}
-                    <img src="{{ recipe_data.images.cocktail.first.url | relative_url }}" alt="{{ latest_recipe.title }}" title="{{ latest_recipe.title }}">
+                {%- if cocktail_img_data.icon -%}
+                    {%- comment -%} Render the dedicated cocktail image from components.yml {%- endcomment -%}
+                    <img src="{{ cocktail_img_data.icon | relative_url }}" alt="{{ latest_recipe.title }}" title="{{ latest_recipe.title }}">
                 {%- else -%}
                     {%- comment -%} Fallback: Display the first spirit's icon as the primary visual {%- endcomment -%}
                     <img src="{{ s.icon_path | relative_url }}" alt="{{ first_spirit_name }}" title="{{ first_spirit_name }}">

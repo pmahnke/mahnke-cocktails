@@ -12,7 +12,9 @@ description: "An elegant and complex modern Irish whiskey cocktail from The Dead
 excerpt: |
   White cacao and banana liqueur balance the dry, bitter duo of cocoa nibs and Campari in this elegant Irish whiskey cocktail from The Dead Rabbit.
 date: 2025-08-11
-glass: whiskey
+glass:
+  - nick_and_nora
+  - whiskey
 type: stirred
 ---
 

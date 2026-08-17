@@ -12,6 +12,7 @@ description: "A modern sour featuring a complex combination of gin, yellow Chart
 excerpt: |
   The Shanghai London Dry Gin was first created at a Vietnamese restaurant in San Francisco called The Slanted Door.  A yet-to-be-named bartender found the recipe for a drink called "Shanghai London Dry Gin Fizz" in some old bar manual (nobody knows what book it was). Apparently the book was not that interesting but this one cocktail piqued his interest and he set about reconstructing it.
 date: 2025-08-11
+glass: nick_and_nora
 type: shaken
 ---
 

@@ -12,6 +12,7 @@ description: "A complex and flavorful Prohibition-era drink, also known as the T
 excerpt: |
   The Queen's Park Hotel Super Cocktail, also known as the Trinidadian Daiquiri, is a complex and flavorful drink that blends the sweetness of grenadine and vermouth with the tartness of lime juice and the spiciness of Angostura Aromatic Bitters.
 date: 2025-08-11
+glass: nick_and_nora
 type: shaken
 ---
 

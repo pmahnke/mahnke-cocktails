@@ -46,6 +46,7 @@ glass:
   - flute
   - highball
   - martini
+  - nick_and_nora
   - rocks
 ice:
   - crushed

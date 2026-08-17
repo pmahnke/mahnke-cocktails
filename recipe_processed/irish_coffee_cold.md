@@ -14,6 +14,7 @@ excerpt: |
 date: 2025-08-11
 glass:
   - coffee
+  - nick_and_nora
   - whiskey
 ---
 

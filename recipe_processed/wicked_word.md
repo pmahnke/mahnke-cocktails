@@ -12,7 +12,9 @@ description: "An original flaming cocktail with a licorice-forward profile, simi
 excerpt: |
   The Wicked Word is a flaming cocktail that is basically an licoricy Oaxaca Old Fashioned.
 date: 2025-08-11
-glass: snifter
+glass:
+  - nick_and_nora
+  - snifter
 type: shaken
 ---
 

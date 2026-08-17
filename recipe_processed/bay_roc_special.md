@@ -13,6 +13,7 @@ description: "A classic cocktail from Jamaica that balances the spice and honey 
 excerpt: |
   The Bay Roc Special is a classic cocktail created by Jasper LeFranc at the Bay Roc Hotel in Jamaica in 1972. It's a powerful libation with a balance of spice, honey, and rum.
 date: 2025-08-11
+glass: nick_and_nora
 type: shaken
 ---
 

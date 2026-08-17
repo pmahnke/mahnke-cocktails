@@ -12,6 +12,7 @@ description: "A pre-Prohibition sour named for the silent film star, featuring a
 excerpt: |
   Created and originally served at New York's old Waldorf-Astoria prior to 1920. This recipe is adapted from Albert Stevens Crockett's 1935 The Old Waldorf-Astoria Bar Book. The drink is named after Sir Charles Spencer 'Charlie' Chaplin (1889-1977), the English slapstick comic actor of the silent film era, who was at the height of his career when this eponymous cocktail was created.
 date: 2025-08-11
+glass: nick_and_nora
 garnishes: lime_wheel
 type: shaken
 ---

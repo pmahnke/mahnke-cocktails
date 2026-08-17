@@ -12,6 +12,7 @@ description: "A sharp, pungent, and complex Prohibition-era classic featuring eq
 excerpt: |
   The Last Word is a gin-based cocktail originating at the Detroit Athletic Club in the 1910s, shortly before the start of Prohibition.
 date: 2025-12-23
+glass: nick_and_nora
 garnishes: maraschino_cherry
 type: shaken
 ---

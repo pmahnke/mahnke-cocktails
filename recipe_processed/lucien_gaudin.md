@@ -12,6 +12,7 @@ description: "A classic Prohibition-era cocktail named for a French Olympic fenc
 excerpt: |
   The Lucien Gaudin is a classic gin cocktail named after the French Olympic fencer. It has the bitterness of Campari with gin, a nod to the Negroni, but with dry vermouth rather than sweet vermouth.
 date: 2026-03-01
+glass: nick_and_nora
 garnishes: orange_peel
 type: stirred
 ---

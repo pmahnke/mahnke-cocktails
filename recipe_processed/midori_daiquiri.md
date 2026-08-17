@@ -12,6 +12,7 @@ description: "A vibrant green twist on the classic Cuban sour, celebrated for it
 excerpt: |
   Owen loves all things Japan, and after a few attempts, he has ended up on this vibrant green twist on the classic Cuban sour, celebrated for its perfect balance of two parts white rum, sweet melon liqueur, and tart fresh lime juice.
 date: 2025-08-20
+glass: nick_and_nora
 garnishes: lime_wheel
 type: shaken
 ---

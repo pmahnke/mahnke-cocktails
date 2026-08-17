@@ -12,7 +12,9 @@ description: "A modern classic from San Francisco, this is an exceptional coffee
 excerpt: |
   A San Francisco original, and an exceptional coffee-laced riff on the Manhattan.
 date: 2025-08-11
-glass: coffee
+glass:
+  - coffee
+  - nick_and_nora
 garnishes: orange_peel
 type: shaken
 ---

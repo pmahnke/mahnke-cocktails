@@ -13,6 +13,7 @@ description: "A classic Prohibition-era sour that pairs the botanicals of gin wi
 excerpt: |
   The White Lady cocktail was created by bartender Harry MacElhone and pairs gin with orange liqueur, lemon juice and egg white.
 date: 2025-12-23
+glass: nick_and_nora
 type: shaken
 ---
 

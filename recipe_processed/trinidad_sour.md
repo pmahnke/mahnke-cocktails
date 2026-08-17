@@ -12,6 +12,7 @@ description: "A bold and unique modern sour that uses a full ounce of Angostura 
 excerpt: |
   Love Angostura Aromatic Bitters? Try your hand at a drink that uses them as the base spirit rather than embellishment.
 date: 2025-08-11
+glass: nick_and_nora
 garnishes: mint_sprig
 type: shaken
 ---

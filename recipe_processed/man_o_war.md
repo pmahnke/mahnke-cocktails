@@ -12,6 +12,7 @@ description: "A citrusy bourbon sour from the Prohibition era, named for one of 
 excerpt: |
   The Man o’ War cocktail is named for one of the finest racehorses in history. This citrusy bourbon drink is a winner.
 date: 2025-08-11
+glass: nick_and_nora
 garnishes: lemon_peel
 type: shaken
 ---

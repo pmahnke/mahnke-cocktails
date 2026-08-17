@@ -13,6 +13,7 @@ description: "This cocktail is a complex, bittersweet craft cocktail created by 
 excerpt: |
   The Drink of Laughter and Forgetting is a complex, bittersweet craft cocktail created by bartender Michael Yusko at Cure in New Orleans. It blends Cynar, Green Chartreuse, lime juice, demerara syrup, and Angostura bitters into a tart masterpiece emphisizing the taste of Cynar.
 date: 2026-08-17
+glass: nick_and_nora
 type: shaken
 ---
 

@@ -12,6 +12,7 @@ description: "A modern, visually striking riff on the Corpse Reviver No. 2 that 
 excerpt: |
   The Corpse Reviver No. Blue is a modern riff on the Corpse Reviver No. 2 cocktail that was originally consumed in the morning, but tastes delicious any time of the day.
 date: 2025-08-11
+glass: nick_and_nora
 garnishes: maraschino_cherry
 type: shaken
 ---

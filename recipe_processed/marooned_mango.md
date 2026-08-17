@@ -12,6 +12,7 @@ description: "A delightful tropical original cocktail that features a sweet and 
 excerpt: |
   The Marooned Mango is a delightful tropical cocktail that is perfect for those seeking a sweet, tangy, and refreshing drink. Its vibrant color and fruity flavors make it a visually appealing and delicious choice for any occasion.
 date: 2025-08-11
+glass: nick_and_nora
 type: shaken
 ---
 

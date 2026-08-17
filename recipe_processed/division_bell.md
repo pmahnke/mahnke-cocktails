@@ -12,6 +12,7 @@ description: "A modern classic that combines the smoky flavor of mezcal with the
 excerpt: |
   The Division Bell cocktail is a modern classic that combines the smoky flavors of mezcal with the bitter-sweetness of Aperol and the cherry notes of Maraschino Liqueur.
 date: 2025-10-08
+glass: nick_and_nora
 type: shaken
 ---
 

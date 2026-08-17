@@ -14,7 +14,9 @@ excerpt: |
   This recipe was created in 2015 by Jack McGarry at the Dead Rabbit in New York City. Jack originally based this cocktail on Green Spot single pot still Irish whiskey.
 
 date: 2026-03-07
-glass: whiskey
+glass:
+  - nick_and_nora
+  - whiskey
 garnishes:
   - cinnamon
   - lemon_peel

@@ -12,6 +12,7 @@ description: "A creamy, dessert-like fizz from 1952, known for its distinct gold
 excerpt: |
   Created in 1952 by bartender Frank Cline at Poor Red's, it is among the best cocktails to feature Galliano.
 date: 2025-08-11
+glass: nick_and_nora
 ice: crushed
 type:
   - blended
