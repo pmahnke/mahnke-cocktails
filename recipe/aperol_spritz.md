@@ -6,6 +6,7 @@ categories: [amaro, spritz]
 eras: [modern]
 permalink: "/recipe/aperol_spritz/"
 iconfile: aperol_spritz
+image: /assets/images//assets/images/category_spritz.svg
 stars: 0
 base_spirits: "Aperol, Champagne"
 youtube: "BUb54paVf0s"
