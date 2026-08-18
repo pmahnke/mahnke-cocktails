@@ -5,6 +5,7 @@ title: "Strawberry Daiquiri"
 categories: [frozen, sour]
 eras: [modern]
 permalink: "/recipe/strawberry_daiquiri/"
+image: /assets/images//assets/images/category_frozen.svg
 stars: 0
 base_spirits: ['Gold Rum']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/1885/strawberry-daiquiri-frozen"

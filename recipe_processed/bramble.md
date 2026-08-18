@@ -5,6 +5,7 @@ title: "Bramble"
 categories: [cobbler]
 eras: [modern]
 permalink: "/recipe/bramble/"
+image: /assets/images/category_frappe_swizzle.svg
 stars: 3.5
 base_spirits: ['Crème de Mûre', 'London Dry Gin']
 youtube: "fgE5H8W5K6M"

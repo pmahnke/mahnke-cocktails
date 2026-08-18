@@ -6,6 +6,7 @@ title: "Alton Brown’s Aged Eggnog"
 categories: [eggnog, dairy]
 eras: [classic]
 permalink: "/recipe/alton_browns_aged_eggnog/"
+image: /assets/images//assets/images/category_eggnog.svg
 stars: 0
 base_spirits: ['Bourbon', 'Cognac', 'Jamaican Rum']
 youtube: "s7Rcx7Fekn4"

@@ -5,6 +5,7 @@ title: "Martini"
 categories: [martini]
 eras: [classic]
 permalink: "/recipe/martini/"
+image: /assets/images//assets/images/category_martini.svg
 stars: 4
 base_spirits: ['Dry Vermouth', 'London Dry Gin']
 youtube: "izZsjqnADAA"
