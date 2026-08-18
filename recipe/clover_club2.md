@@ -6,6 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/clover_club2/"
 iconfile: clover_club2
+image: /assets/images/cocktail_clover_club2.svg
 stars: 3
 base_spirits: "Plymouth Gin, Blanc Vermouth"
 youtube: "MkLZovhDN_k"
