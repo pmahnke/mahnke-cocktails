@@ -7,6 +7,7 @@ categories: [eggnog, dairy]
 eras: [classic]
 permalink: "/recipe/alton_browns_aged_eggnog/"
 iconfile: alton_browns_aged_eggnog
+image: /assets/images//assets/images/category_eggnog.svg
 stars: 0
 base_spirits: "Jamaican Rum, Cognac, Bourbon"
 youtube: "s7Rcx7Fekn4"

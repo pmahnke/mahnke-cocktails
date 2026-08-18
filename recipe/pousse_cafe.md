@@ -6,6 +6,7 @@ eras: [classic]
 categories: [amaro, pousse_cafe]
 permalink: "/recipe/pousse_cafe/"
 iconfile: pousse_cafe
+image: /assets/images//assets/images/category_pousse_cafe.svg
 stars: 0
 base_spirits: "White Crème de Cacao, Crème de Violette, Amaro Nonino, Green Chartreuse, Cognac, Absinthe"
 youtube: "4OJd_phsa5w"

@@ -6,6 +6,7 @@ categories: [julep]
 eras: [classic]
 permalink: "/recipe/prescription_julep/"
 iconfile: prescription_julep
+image: /assets/images//assets/images/category_julep.svg
 stars: 0
 base_spirits: "Cognac, Rye "
 youtube: "xfLW5Na9QpM"
