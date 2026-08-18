@@ -6,6 +6,7 @@ categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/paper_plane/"
 iconfile: paper_plane
+image: /assets/images/cocktail_paper_plane.svg
 stars: 5
 base_spirits: "Bourbon, Amaro Nonino, Aperol"
 youtube: "yu4JNOvec1k&t=6s"

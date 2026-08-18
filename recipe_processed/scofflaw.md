@@ -5,6 +5,7 @@ title: "Scofflaw"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/scofflaw/"
+image: /assets/images/cocktail_scoflaw.svg
 stars: 4.5
 base_spirits: ['Dry Vermouth', 'Rye']
 youtube: "nutbajkZ8Lc"

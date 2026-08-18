@@ -6,6 +6,7 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/mai_tai/"
 iconfile: mai_tai
+image: /assets/images/cocktail_mai_tai.svg
 stars: 4.5
 base_spirits: "Jamaican Rum, Rhum Agricole, Curaçao, Dark Rum, Overproof Rum"
 youtube: "gYJsPE1demY"

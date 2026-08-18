@@ -5,6 +5,7 @@ title: "Manhattan"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/manhattan/"
+image: /assets/images/cocktail_manhattan.svg
 stars: 4.5
 base_spirits: ['Rye', 'Sweet Vermouth']
 youtube: "eWESf1b317Y&t=278s"

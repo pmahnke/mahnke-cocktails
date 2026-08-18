@@ -5,6 +5,7 @@ title: "Paper Plane"
 categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/paper_plane/"
+image: /assets/images/cocktail_paper_plane.svg
 stars: 4.5
 base_spirits: ['Amaro Nonino', 'Aperol', 'Bourbon']
 youtube: "yu4JNOvec1k&t=6s"

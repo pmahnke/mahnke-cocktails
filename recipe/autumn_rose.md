@@ -6,6 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/autumn_rose/"
 iconfile: autumn_rose
+image: /assets/images/cocktail_autumn_rose.svg
 stars: 3.5
 base_spirits: "Apple Brandy, Blanc Vermouth, Apricot Liqueur"
 youtube: "9OxlSOioD_k"

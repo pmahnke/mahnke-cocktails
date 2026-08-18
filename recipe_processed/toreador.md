@@ -5,6 +5,7 @@ title: "Toreador"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/toreador/"
+image: /assets/images/cocktail_toreador.svg
 stars: 4.5
 base_spirits: ['Amontillado Sherry', 'Apricot Liqueur', 'Reposado Tequila']
 youtube: "3aV3DzDfW_A"

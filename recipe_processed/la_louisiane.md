@@ -5,6 +5,7 @@ title: "La Louisiane"
 categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/la_louisiane/"
+image: /assets/images/cocktail_la_louisiane.svg
 stars: 4.5
 base_spirits: ['Absinthe', 'Bénédictine', 'Rye', 'Sweet Vermouth']
 youtube: "9XLtsOKT6oY"

@@ -6,6 +6,7 @@ eras: [classic]
 categories: [punch]
 permalink: "/recipe/sangria/"
 iconfile: sangria
+image: /assets/images/cocktail_sangria.svg
 stars: 0
 base_spirits: "Red Wine, Oloroso Sherry, Curaçao "
 youtube: "NNI--bxevNo"

@@ -6,6 +6,7 @@ title: "Black Manhattan"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/black_manhattan/"
+image: /assets/images/cocktail_black_manhattan.svg
 stars: 4
 base_spirits: ['Averna', 'Rye']
 youtube: "YWKJsv8PymI&t=205s"

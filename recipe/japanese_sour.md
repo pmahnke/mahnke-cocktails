@@ -6,6 +6,7 @@ categories: [sour, collins]
 eras: [modern]
 permalink: "/recipe/japanese_sour/"
 iconfile: japanese_sour
+image: /assets/images/cocktail_japanese_sour.svg
 stars: 4
 base_spirits: "Shochu, Vodka"
 description: "A refreshing and easy-to-make modern sour that features Japanese shochu as its base."

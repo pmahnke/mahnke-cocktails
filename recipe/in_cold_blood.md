@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/in_cold_blood/"
 iconfile: in_cold_blood
+image: /assets/images/cocktail_in_cold_blood.svg
 stars: 0
 base_spirits: "Cynar, Rye, Sweet Vermouth"
 youtube: "GZITiAIYars"

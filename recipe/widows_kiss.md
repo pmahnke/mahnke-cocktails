@@ -6,6 +6,7 @@ eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/widows_kiss/"
 iconfile: widows_kiss
+image: /assets/images/cocktail_widows_kiss.svg
 stars: 3
 base_spirits: "Apple Brandy, Yellow Chartreuse, Bénédictine "
 youtube: "0JqyWyBiFus"

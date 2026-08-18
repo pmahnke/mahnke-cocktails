@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/bloody_mary_johns/"
 iconfile: bloody_mary_johns
+image: /assets/images/cocktail_bloody_mary.svg
 stars: 0
 base_spirits: "Vodka"
 youtube: ""

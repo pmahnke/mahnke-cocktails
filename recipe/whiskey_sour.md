@@ -6,6 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/whiskey_sour/"
 iconfile: whiskey_sour
+image: /assets/images/cocktail_whiskey_sour.svg
 stars: 5
 base_spirits: "Bourbon "
 youtube: "bxTRtiS06W0&t=51s"

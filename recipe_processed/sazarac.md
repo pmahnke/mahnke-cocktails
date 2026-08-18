@@ -5,6 +5,7 @@ title: "Sazerac"
 categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/sazarac/"
+image: /assets/images/cocktail_sazarac.svg
 stars: 4.25
 base_spirits: ['Absinthe', 'Cognac', 'Rye']
 youtube: "dJ-sAEzw9Jc"
