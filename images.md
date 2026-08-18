@@ -136,12 +136,13 @@ title: index of images
 
 <h3>Cocktails</h3>
 <ul class="image-grid">
-    {%- for type_pair in site.data.components.cocktail_images -%}
-        {%- assign type_key = type_pair[0] -%}
-        {%- assign type_data = type_pair[1] -%}
-        <li>
-            <img src="{{ type_data.icon | relative_url }}" alt="{{ type_key }}"><br>
-            {{ type_key }}
-        </li>
+    {%- assign sorted_pages = site.pages | sort: "title" -%}
+    {%- for page in sorted_pages -%}
+        {%- if page.layout == "recipe" and page.image -%}
+            <li>
+                <img src="{{ page.image | relative_url }}" alt="{{ page.title }}"><br>
+                {{ page.title }}
+            </li>
+        {%- endif -%}
     {%- endfor -%}
 </ul>
