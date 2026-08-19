@@ -367,10 +367,8 @@ div.subrecipe {
 
 
     p.icons {
-        display: block;
-        vertical-align: middle;
-        text-align: center;
-        clear: both;        
+        position: relative; 
+        display: inline-block;
     }
     .icons img {
         max-height: 12rem;

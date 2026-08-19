@@ -20,7 +20,7 @@
         {%- assign first_spirit_name = latest_recipe.base_spirits.first | default: latest_recipe.base_spirits -%}
         {%- assign s = site.spirit | where: "title", first_spirit_name | first -%}
         {%- if s and s.icon_path -%}
-            <p class="icons" style="position: relative; display: inline-block;">
+            <p class="icons">
                 
                 {%- if latest_recipe.image -%}
                     {%- comment -%} Render the dedicated cocktail image defined in the recipe's front matter {%- endcomment -%}
