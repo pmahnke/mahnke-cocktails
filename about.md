@@ -39,8 +39,8 @@ Finally, I caught up with Anders' back catalogue. So I started poking around You
 
 I started to watch “[The Educated Barfly](https://www.youtube.com/@TheEducatedBarfly)” (Leandro DiMonriva), “[Behind the Bar](https://www.youtube.com/@BehindtheBar)” (Cara Devine), “[How to Drink](https://www.youtube.com/@howtodrink)” (Greg Titian) to get different takes on the cocktail scene.
 
-We still wait every Friday for Anders' next video to drop every Friday.
+We still wait for Anders' next video to drop every Friday.
 
-</div>
+    </div>
 
 </div>
