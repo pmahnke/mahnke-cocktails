@@ -5,7 +5,7 @@ title: "Dirty Martini"
 categories: [martini]
 eras: [classic]
 permalink: "/recipe/dirty_martini/"
-image: /assets/images//assets/images/category_martini.svg
+image: /assets/images/category_martini.svg
 stars: 3.5
 base_spirits: ['Dry Vermouth', 'Fino Sherry', 'Plymouth Gin', 'Vodka']
 youtube: "cwunL1zBgnI"

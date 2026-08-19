@@ -6,7 +6,7 @@ title: "Espresso Martini"
 eras: [modern]
 categories: [coffee, after_dinner]
 permalink: "/recipe/espresso_martini/"
-image: /assets/images//assets/images/category_coffee.svg
+image: /assets/images/category_coffee.svg
 stars: 3
 base_spirits: ['Coffee Liqueur', 'Vodka']
 youtube: "q0ebbWwoI10"

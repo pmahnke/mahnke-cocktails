@@ -5,7 +5,7 @@ title: "Brandy Crusta"
 categories: [crusta]
 eras: [new_orleans]
 permalink: "/recipe/brandy_crusta/"
-image: /assets/images//assets/images/category_crusta.svg
+image: /assets/images/category_crusta.svg
 stars: 4
 base_spirits: ['Cognac', 'Curaçao', 'Maraschino Liqueur']
 youtube: "N0aPVPdLyQc"
