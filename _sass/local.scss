@@ -242,10 +242,13 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
 /* Larger than phablet */
 @media (min-width: 900px) {
     .category_icon_small {
-        display: inline;
-        max-height: 6rem;
-        vertical-align: bottom;
-        text-align: center;
+        display: inline-block;
+        max-height: 7rem;
+        width: auto;
+        vertical-align: middle;
+        margin-left: 12px;
+        margin-top: -3rem;
+        margin-bottom: -2rem; 
     }
     .category_icon_large {
         display: inline;
@@ -425,4 +428,12 @@ div.subrecipe {
 /* homepage 5 star cocktail image */
 .card-content img {
     max-height: 5em;
+}
+
+
+/* Update or add to your CSS */
+h3 a {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px; /* space between text and icon */
 }
