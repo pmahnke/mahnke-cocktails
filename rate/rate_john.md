@@ -9,7 +9,6 @@ permalink: /rate/john/
     <table class="home_table">
     {%- for page in site.pages -%}
         {%- if page.layout == "recipe" -%}
-        {%- if page.type == nil or page.type == "multirecipe" -%}
         <tr>
         <th class="home_title">
             <a href="{{ page.url | prepend: site.baseurl }}">
@@ -27,7 +26,6 @@ permalink: /rate/john/
             {%- include edit_stars.html name="John" -%}
         </td>
         </tr>
-        {%- endif -%}
         {%- endif -%}
     {%- endfor -%}
     </table>

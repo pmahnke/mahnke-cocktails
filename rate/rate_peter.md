@@ -7,9 +7,9 @@ permalink: "/rate/peter/"
 <div class="grid_container full">
     <h2>Peter's Ratings</h2>
     <table class="home_table">
+    {%- assign all_recipes = site.recipe_processed | default: site.documents | default: site.pages -%}
     {%- for page in site.pages -%}
         {%- if page.layout == "recipe" -%}
-        {%- if page.type == nil or page.type == "multirecipe" -%}
         <tr>
         <th class="home_title">
             <a href="{{ page.url | prepend: site.baseurl }}">
@@ -27,7 +27,6 @@ permalink: "/rate/peter/"
             {%- include edit_stars.html name="Peter" -%}
         </td>
         </tr>
-        {%- endif -%}
         {%- endif -%}
     {%- endfor -%}
     </table>
