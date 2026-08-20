@@ -6,6 +6,7 @@ title: "20th Century"
 categories: [sour, daisy]
 eras: [classic]
 permalink: "/recipe/20th_century/"
+iconfile: 20th_century
 stars: 4
 base_spirits: ['Cocchi Americano', 'Crème de Cacao', 'London Dry Gin']
 youtube: "6AyWk5teLv8"

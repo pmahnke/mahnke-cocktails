@@ -6,6 +6,7 @@ title: "Haystack"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/haystack/"
+iconfile: haystack
 stars: 0
 base_spirits: ['Apricot Liqueur', 'Bourbon', 'Suze']
 youtube: "iLcXU3W1wVQ"

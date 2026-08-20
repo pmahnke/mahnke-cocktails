@@ -3,6 +3,7 @@ layout: recipe
 title: "Cold Brew Concentrate"
 categories: [syrup]
 permalink: "/recipe/coldbrewconcentrate/"
+iconfile: cold_brew_concentrate
 youtube: "u0N9FFJ1i5c"
 stars: 0
 excerpt: |

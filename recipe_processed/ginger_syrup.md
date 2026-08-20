@@ -3,6 +3,7 @@ layout: recipe
 title: "Ginger Syrup"
 categories: [syrup]
 permalink: "/recipe/ginger_syrup/"
+iconfile: ginger_syrup
 stars: 0
 youtube: "vGBMrJgjZB4"
 excerpt: |

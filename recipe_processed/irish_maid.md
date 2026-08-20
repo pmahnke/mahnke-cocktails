@@ -5,6 +5,7 @@ title: "The Irish Maid"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/irish_maid/"
+iconfile: irish_maid
 stars: 3
 base_spirits: ['Elderflower Liqueur', 'Irish Whiskey']
 youtube: "IIMug56LEiQ"

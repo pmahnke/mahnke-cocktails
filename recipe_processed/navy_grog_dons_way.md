@@ -6,6 +6,7 @@ title: "Navy Grog: Don the Beachcomber's Way"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/navy_grog_dons_way/"
+iconfile: navy_grog_dons_way
 stars: 0
 base_spirits: ['Demerara Rum', 'Jamaican Rum', 'White Rum']
 youtube: "I3jeItKyZCs"

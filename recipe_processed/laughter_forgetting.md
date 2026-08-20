@@ -6,6 +6,7 @@ title: "The Drink of Laughter and Forgetting"
 categories: [amaro, daisy, sour]
 eras: [modern, new_orleans]
 permalink: "/recipe/laughter_forgetting/"
+iconfile: laughter_forgetting
 image: /assets/images/cocktail_laughter_forgetting.svg
 stars: 0
 base_spirits: ['Cynar', 'Green Chartreuse']

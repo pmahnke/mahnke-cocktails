@@ -5,6 +5,7 @@ title: "Oaxaca Old Fashioned"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/oaxaca_old_fashioned/"
+iconfile: oaxaca_old_fashioned
 stars: 0
 base_spirits: ['Mezcal', 'Reposado Tequila']
 youtube: "LkXW1diKOvs"

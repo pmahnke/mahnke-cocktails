@@ -5,6 +5,7 @@ title: "Applejack Rabbit"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/applejack_rabbit/"
+iconfile: applejack_rabbit
 stars: 4
 base_spirits: ['Apple Brandy']
 youtube: "9OxlSOioD_k"

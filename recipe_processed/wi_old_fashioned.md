@@ -5,6 +5,7 @@ title: "Wisconsin Old Fashioned"
 eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/wi_old_fashioned/"
+iconfile: wi_old_fashioned
 stars: 3.75
 base_spirits: ['Brandy']
 youtube: "wr1pjEwi4P0"

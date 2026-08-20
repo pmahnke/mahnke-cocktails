@@ -5,6 +5,7 @@ title: "Hugo Spritz"
 categories: [spritz]
 eras: [modern]
 permalink: "/recipe/hugo_spritz/"
+iconfile: hugo_spritz
 stars: 2.75
 base_spirits: ['Champagne', 'Elderflower Liqueur']
 youtube: "BUb54paVf0s"

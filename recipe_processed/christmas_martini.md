@@ -5,6 +5,7 @@ title: "Christmas Martini"
 categories: [martini]
 eras: [anders]
 permalink: "/recipe/christmas_martini/"
+iconfile: christmas_martini
 stars: 3
 base_spirits: ['Cocchi Americano', 'Plymouth Gin']
 youtube: "ydBN6-j1I3M"

@@ -6,6 +6,7 @@ title: "Alamagoozlum"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/alamagoozlum/"
+iconfile: alamagoozlum
 stars: 3.5
 base_spirits: ['Curaçao', 'Genever', 'Jamaican Rum', 'Yellow Chartreuse']
 youtube: "8H-IBvOX8EI"

@@ -5,6 +5,7 @@ title: "Sailor's Punch"
 categories: [punch]
 eras: [modern]
 permalink: "/recipe/sailors_punch/"
+iconfile: sailors_punch
 image: /assets/images/cocktail_sailors_punch.svg
 stars: 5
 base_spirits: ['Bourbon']

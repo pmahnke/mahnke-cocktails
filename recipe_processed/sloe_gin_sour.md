@@ -5,6 +5,7 @@ title: "Sloe Gin Sour"
 categories: [amaro, sour]
 eras: [anders]
 permalink: "/recipe/sloe_gin_sour/"
+iconfile: sloe_gin_sour
 stars: 3.5
 base_spirits: ['Campari', 'Sloe Gin']
 youtube: "W50W19vwjmk"

@@ -5,6 +5,7 @@ title: "The Boomerang"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/boomerang/"
+iconfile: boomerang
 stars: 4
 base_spirits: ['Blanc Vermouth', 'Rye', 'Swedish Punsch']
 youtube: "VXjcObds5DY"

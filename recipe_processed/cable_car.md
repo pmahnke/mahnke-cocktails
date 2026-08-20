@@ -6,6 +6,7 @@ title: "Cable Car"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/cable_car/"
+iconfile: cable_car
 stars: 4
 base_spirits: ['Curaçao', 'Spiced Rum']
 youtube: "iUGkl-AVgbI"

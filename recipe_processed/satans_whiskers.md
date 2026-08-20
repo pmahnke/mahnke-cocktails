@@ -5,6 +5,7 @@ title: "Satan's Whiskers"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/satans_whiskers/"
+iconfile: satans_whiskers
 stars: 0
 base_spirits: ['Curaçao', 'Dry Vermouth', 'Plymouth Gin', 'Sweet Vermouth']
 youtube: "T3GsJVVGCFs"

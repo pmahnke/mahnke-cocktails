@@ -5,6 +5,7 @@ title: "Golden Cadillac"
 categories: [fizz]
 eras: [modern]
 permalink: "/recipe/golden_cadillac/"
+iconfile: golden_cadillac
 stars: 0
 base_spirits: ['Galliano', 'White Crème de Cacao']
 youtube: "x6QiK4firC4"

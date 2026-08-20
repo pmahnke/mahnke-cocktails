@@ -5,6 +5,7 @@ title: "Perfect Manhattan"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/perfect_manhattan/"
+iconfile: perfect_manhattan
 stars: 0
 base_spirits: ['Dry Vermouth', 'Rye', 'Sweet Vermouth']
 youtube: "eWESf1b317Y&t=278s"

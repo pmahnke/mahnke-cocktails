@@ -5,6 +5,7 @@ title: "Elk's Own"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/elks_own/"
+iconfile: elks_own
 image: /assets/images/cocktail_elks_own.svg
 stars: 5
 base_spirits: ['Ruby Port', 'Rye']

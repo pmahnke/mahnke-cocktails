@@ -5,6 +5,7 @@ title: "Army & Navy"
 eras: [modern]
 categories: [sour]
 permalink: "/recipe/army_navy/"
+iconfile: army_navy
 stars: 3.5
 base_spirits: ['London Dry Gin']
 youtube: "XggEyhSR2Dk"

@@ -5,6 +5,7 @@ title: "Death in the Afternoon"
 categories: [champagne]
 eras: [prohibition]
 permalink: "/recipe/death_in_the_afternoon/"
+iconfile: death_in_the_afternoon
 stars: 3.5
 base_spirits: ['Absinthe', 'Champagne']
 youtube: "-jb1-82N48U"

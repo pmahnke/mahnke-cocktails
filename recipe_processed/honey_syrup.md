@@ -3,6 +3,7 @@ layout: recipe
 title: "Honey Syrup"
 categories: [syrup]
 permalink: "/recipe/honey_syrup/"
+iconfile: honey_syrup
 stars: 0
 youtube: "kRdWT71gBb5UcAU8"
 excerpt: |

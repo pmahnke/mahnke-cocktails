@@ -6,6 +6,7 @@ title: "Man Overboard"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/man_overboard/"
+iconfile: man_overboard
 stars: 0
 base_spirits: ['Rye', 'Sweet Vermouth', 'Triple Sec']
 youtube: ""

@@ -1,0 +1,56 @@
+---
+layout: default-plain
+---
+
+<style>
+  .rating-picker {
+    display: inline-flex;
+    gap: 3px;
+    align-items: center;
+  }
+  .rating-picker .star-link {
+    font-size: 2.4rem; /* Larger, easier to tap and see */
+    line-height: 1;
+    text-decoration: none;
+  }
+  .rating-picker .star-link.filled {
+    color: #ffb703; /* Rich gold */
+  }
+  .rating-picker .star-link.empty {
+    color: #888888; /* Darker grey so outlines are clearly visible */
+  }
+  .rating-picker .star-link:hover {
+    color: #fb8500;
+    transform: scale(1.2);
+  }
+
+  /* Make the 5-star summary display consistent */
+  .rating-readout .star-rating {
+    --star-size-desktop: 2.2rem;
+    --star-size-mobile: 1.6rem;
+    --star-color: #d1d1d1;
+    --star-background: #ffb703;
+  }
+</style>
+
+<div class="grid_container full">
+  <h2>{{ page.rater_name }}'s Ratings</h2>
+  <table class="home_table">
+    {%- assign recipes = site.pages | where: "layout", "recipe" | sort: "title" -%}
+    {%- for recipe in recipes -%}
+      <tr>
+        <th class="home_title">
+          <a href="{{ recipe.url | prepend: site.baseurl }}">
+            {{ recipe.title }}
+          </a>
+        </th>
+        <td class="home_spirits">
+            {%- include category_search.html spirits=recipe.base_spirits -%}
+        </td>
+        <td class="home_stars">
+          {%- include edit_stars.html name=page.rater_name file=recipe.iconfile -%}
+        </td>
+      </tr>
+    {%- endfor -%}
+  </table>
+</div>

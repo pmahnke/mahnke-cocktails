@@ -5,6 +5,7 @@ title: "Spanish Coffee"
 eras: [classic]
 categories: [after_dinner]
 permalink: "/recipe/spanish_coffee/"
+iconfile: spanish_coffee
 stars: 0
 base_spirits: ['Coffee Liqueur', 'Curaçao', 'Overproof Jamaican Rum']
 youtube: "p3X7_-TVIDs"

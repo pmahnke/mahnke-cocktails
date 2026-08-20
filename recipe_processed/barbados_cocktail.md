@@ -5,6 +5,7 @@ title: "Barbados Cocktail"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/barbados_cocktail/"
+iconfile: barbados_cocktail
 stars: 3.5
 base_spirits: ['Barbados Rum']
 youtube: "CGkWnYhu4ag"

@@ -6,6 +6,7 @@ title: "Navy Grog: Trader Vic's Way"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/navy_grog_vics_way/"
+iconfile: navy_grog_vics_way
 stars: 0
 base_spirits: ['Allspice Dram', 'Demerara Rum', 'Jamaican Rum', 'White Rum']
 youtube: "I3jeItKyZCs"

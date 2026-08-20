@@ -6,6 +6,7 @@ title: "French Pearl"
 eras: [modern]
 categories: [sour]
 permalink: "/recipe/french_pearl/"
+iconfile: french_pearl
 stars: 4
 base_spirits: ['Absinthe', 'London Dry Gin']
 youtube: "OA7FWMVx9AY"

@@ -5,6 +5,7 @@ title: "Rum & Black Tea Toddy"
 categories: [toddy]
 eras: [classic, modern]
 permalink: "/recipe/rum_tea_toddy/"
+iconfile: rum_tea_toddy
 stars: 0
 base_spirits: ['Jamaican Rum']
 youtube: "DJtBN6yBnsA"

@@ -5,6 +5,7 @@ title: "NA Black Tea Old Fashioned"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/na_old_fashioned/"
+iconfile: na_old_fashioned
 stars: 0
 youtube: "v=t1FGow6i_cY"
 description: " A booze-free cocktail inspired by the structure of a classic Old Fashioned."

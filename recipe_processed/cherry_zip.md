@@ -5,6 +5,7 @@ title: "Cherry Zip"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/cherry_zip/"
+iconfile: cherry_zip
 stars: 0
 youtube: "ZE3G8aUyOn0"
 description: "A tart and fruity non-alcoholic cocktail that combines cherry juice with the nutty sweetness of orgeat."

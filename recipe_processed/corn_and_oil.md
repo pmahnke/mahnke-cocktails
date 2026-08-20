@@ -5,6 +5,7 @@ title: "Corn and Oil"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/corn_and_oil/"
+iconfile: corn_and_oil
 stars: 3
 base_spirits: ['Demerara Rum']
 youtube: "Y2AMcTB_kbY"

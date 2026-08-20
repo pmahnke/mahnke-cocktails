@@ -5,6 +5,7 @@ title: "Littlest Rebel"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/littlest_rebel/"
+iconfile: littlest_rebel
 stars: 3.5
 base_spirits: ['Apple Brandy', 'Blended Scotch']
 youtube: "s30L-iu171E"

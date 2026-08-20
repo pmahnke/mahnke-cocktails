@@ -5,6 +5,7 @@ title: "Hibiscus Margarita"
 categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_hibiscus/"
+iconfile: margarita_hibiscus
 stars: 0
 base_spirits: ['Curaçao', 'Reposado Tequila']
 youtube: "GiNen9YukD8"

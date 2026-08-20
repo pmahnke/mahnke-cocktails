@@ -6,6 +6,7 @@ title: "Chrysanthemum"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/chrysanthemum/"
+iconfile: chrysanthemum
 stars: 3.5
 base_spirits: ['Absinthe', 'Bénédictine', 'Dry Vermouth']
 youtube: "ivuVwMUiQ_U"

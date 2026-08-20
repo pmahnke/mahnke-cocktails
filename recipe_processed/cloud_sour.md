@@ -6,6 +6,7 @@ title: "Cloud Sour"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/cloud_sour/"
+iconfile: cloud_sour
 stars: 0
 base_spirits: ['London Dry Gin', 'Melon Liqueur']
 youtube: ""

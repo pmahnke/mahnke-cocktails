@@ -6,6 +6,7 @@ title: "The Delmonico Special"
 categories: [martini]
 eras: [classic]
 permalink: "/recipe/delmonico_special/"
+iconfile: delmonico_special
 stars: 3.5
 base_spirits: ['Blanc Vermouth', 'Cognac', 'Navy Strength Gin', 'Sweet Vermouth']
 youtube: "NmaOqrUOJOE"

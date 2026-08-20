@@ -5,6 +5,7 @@ title: "Cameron's Kick"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/camerons_kick/"
+iconfile: camerons_kick
 stars: 4
 base_spirits: ['Blended Scotch', 'Irish Whiskey']
 youtube: "PwfU-18WhC8"

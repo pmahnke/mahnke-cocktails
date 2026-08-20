@@ -5,6 +5,7 @@ title: "Arnaud Martini"
 categories: [cocktail, martini]
 eras: [modern]
 permalink: "/recipe/arnaud_martini/"
+iconfile: arnaud_martini
 stars: 0
 base_spirits: ['Blanc Vermouth', 'Crème de Cassis', 'London Dry Gin']
 youtube: "FI4wUOzJvUE"

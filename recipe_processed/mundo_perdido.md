@@ -6,6 +6,7 @@ title: "Mundo Perdido"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/mundo_perdido/"
+iconfile: mundo_perdido
 stars: 0
 base_spirits: ['Apple Brandy', 'Demerara Rum']
 youtube: "-DnpmdGBmgs&t=433s"

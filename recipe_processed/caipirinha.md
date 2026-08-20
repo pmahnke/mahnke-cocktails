@@ -5,6 +5,7 @@ title: "Caipirinha"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/caipirinha/"
+iconfile: caipirinha
 stars: 4
 base_spirits: ['Cachaça']
 youtube: "i1UHUyWerhg"

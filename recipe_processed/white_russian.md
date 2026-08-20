@@ -5,6 +5,7 @@ title: "White Russian"
 categories: [coffee, after_dinner]
 eras: [modern]
 permalink: "/recipe/white_russian/"
+iconfile: white_russian
 stars: 4
 base_spirits: ['Coffee Liqueur', 'Vodka']
 youtube: "z2lAXggbDDY"

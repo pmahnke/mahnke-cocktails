@@ -5,6 +5,7 @@ title: "Macunaíma"
 eras: [modern]
 categories: [sour]
 permalink: "/recipe/macunaima/"
+iconfile: macunaima
 stars: 4
 base_spirits: ['Cachaça', 'Fernet Branca']
 youtube: "xnXFbjQSu-k"

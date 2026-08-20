@@ -5,6 +5,7 @@ author: "Anders Erickson"
 categories: [collins]
 eras: [classic]
 permalink: "/recipe/tom_collins/"
+iconfile: tom_collins
 stars: 4
 base_spirits: ['Old Tom Gin']
 youtube: "DKkHTEozo7o"

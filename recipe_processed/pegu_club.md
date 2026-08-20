@@ -5,6 +5,7 @@ title: "Pegu Club"
 categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/pegu_club/"
+iconfile: pegu_club
 stars: 3
 base_spirits: ['Curaçao', 'Plymouth Gin']
 youtube: "YenVNoabM4"

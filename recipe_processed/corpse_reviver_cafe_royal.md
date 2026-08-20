@@ -5,6 +5,7 @@ title: "Cafe Royal Corpse Reviver"
 categories: [champagne, sour, corpse_reviver]
 eras: [classic]
 permalink: "/recipe/corpse_reviver_cafe_royal/"
+iconfile: corpse_reviver_cafe_royal
 stars: 0
 base_spirits: ['Champagne', 'Cognac']
 youtube: "rMCsrbidAJ4"

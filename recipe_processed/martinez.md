@@ -5,6 +5,7 @@ title: "Martinez"
 categories: [martini]
 eras: [classic]
 permalink: "/recipe/martinez/"
+iconfile: martinez
 stars: 3.5
 base_spirits: ['Maraschino Liqueur', 'Old Tom Gin', 'Sweet Vermouth']
 youtube: 'MuxY7\_-_U_8'

@@ -5,6 +5,7 @@ title: "Monte Carlo"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/monte_carlo/"
+iconfile: wardroom
 stars: 3
 base_spirits: ['Bénédictine', 'Rye']
 youtube: "u1PQ-L6zvb8&t=15s"

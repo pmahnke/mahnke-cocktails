@@ -3,6 +3,7 @@ layout: recipe
 title: "Grog Concentrate Syrup"
 categories: [syrup]
 permalink: "/recipe/grog_concentrate_syrup/"
+iconfile: grog_concentrate_syrup
 stars: 0
 youtube: "I3jeItKyZCs"
 description: "A non-alcoholic, spiced syrup primarily used in Tiki cocktails."

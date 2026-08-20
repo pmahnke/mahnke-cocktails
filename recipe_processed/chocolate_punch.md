@@ -5,6 +5,7 @@ title: "Chocolate Punch"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/chocolate_punch/"
+iconfile: chocolate_punch
 stars: 0
 base_spirits: ['Cognac', 'Crème de Cacao', 'Ruby Port']
 youtube: "s30L-iu171E"

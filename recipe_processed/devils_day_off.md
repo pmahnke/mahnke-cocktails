@@ -5,6 +5,7 @@ title: "Devil's Day Off"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/devils_day_off/"
+iconfile: devils_day_off
 stars: 0
 youtube: "5wgvpo-xBnA"
 description: "A refreshing non-alcoholic cocktail that features a combination of grapefruit, lime, agave, cinnamon, and the bittersweet notes of Sanbitter soda."

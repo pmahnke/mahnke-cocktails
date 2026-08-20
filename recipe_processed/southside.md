@@ -5,6 +5,7 @@ title: "Southside"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/southside/"
+iconfile: southside
 stars: 4
 base_spirits: ['London Dry Gin']
 youtube: "yxFAGMuM2I"

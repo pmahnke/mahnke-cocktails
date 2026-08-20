@@ -5,6 +5,7 @@ title: "Brown Derby"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/brown_derby/"
+iconfile: brown_derby
 stars: 0
 base_spirits: ['Bourbon']
 youtube: "79htbyQ8nDY&t=62s"

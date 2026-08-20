@@ -5,6 +5,7 @@ title: "The Monkey Gland"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/monkey_gland/"
+iconfile: monkey_gland
 stars: 0
 base_spirits: ['Absinthe', 'London Dry Gin']
 youtube: "u4b673NTI7w"

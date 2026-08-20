@@ -5,6 +5,7 @@ title: "Suburban"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/suburban/"
+iconfile: suburban
 stars: 0
 base_spirits: ['Jamaican Rum', 'Rye', 'Tawny Port']
 youtube: "UC1QUNjAZgw"

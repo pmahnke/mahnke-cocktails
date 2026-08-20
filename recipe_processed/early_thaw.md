@@ -5,6 +5,7 @@ title: "Early Thaw"
 categories: [amaro, spritz]
 eras: [anders]
 permalink: "/recipe/early_thaw/"
+iconfile: early_thaw
 stars: 0
 base_spirits: ['Aperol', 'Cocchi Americano', 'Prosecco', 'Vodka']
 youtube: "2gYbnb705YQ"

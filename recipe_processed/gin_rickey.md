@@ -5,6 +5,7 @@ title: "London Dry Gin Rickey"
 categories: [highball]
 eras: [classic]
 permalink: "/recipe/gin_rickey/"
+iconfile: gin_rickey
 stars: 0
 base_spirits: ['London Dry Gin']
 youtube: "vOM5wbvegzo"

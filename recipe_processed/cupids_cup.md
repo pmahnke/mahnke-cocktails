@@ -5,6 +5,7 @@ title: "Cupid’s Cup"
 categories: [amaro, sour]
 eras: [modern]
 permalink: "/recipe/cupids_cup/"
+iconfile: cupids_cup
 stars: 0
 base_spirits: ['Aperol', 'Pisco']
 youtube: "LINK"

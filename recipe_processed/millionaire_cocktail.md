@@ -5,6 +5,7 @@ title: "Millionaire Cocktail #1"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/millionaire_cocktail/"
+iconfile: millionaire_cocktail
 stars: 4
 base_spirits: ['Apricot Liqueur', 'Jamaican Rum', 'Sloe Gin']
 youtube: "CZ5KSKO3sbQ"

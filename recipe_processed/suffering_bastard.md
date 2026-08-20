@@ -6,6 +6,7 @@ title: "Suffering Bastard"
 eras: [modern]
 categories: [buck]
 permalink: "/recipe/suffering_bastard/"
+iconfile: suffering_bastard
 stars: 3.5
 base_spirits: ['Bourbon', 'Cognac', 'London Dry Gin']
 youtube: "oRQtYcyRKVI"

@@ -5,6 +5,7 @@ title: "Sherry Flip"
 categories: [flip]
 eras: [classic]
 permalink: "/recipe/sherry_flip/"
+iconfile: sherry_flip
 stars: 3
 base_spirits: ['Oloroso Sherry']
 youtube: "mBGgu3qRztY"

@@ -5,6 +5,7 @@ title: "The Apeman (Aka Happy Holidape)"
 categories: [sour]
 eras: [anders]
 permalink: "/recipe/apeman/"
+iconfile: apeman
 stars: 0
 base_spirits: ['Banana Liqueur', 'Bourbon', 'Oloroso Sherry']
 youtube: "CfKrIWRMrNA"

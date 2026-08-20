@@ -5,6 +5,7 @@ title: "Royal Bermuda Yacht Club"
 eras: [modern]
 categories: [sour]
 permalink: "/recipe/royal_bermuda_yacht_club/"
+iconfile: rbyc
 stars: 4
 base_spirits: ['Curaçao', 'Demerara Rum', 'White Rum']
 youtube: "y3s1xmGfLkw"

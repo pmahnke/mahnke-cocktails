@@ -5,6 +5,7 @@ title: "Jack Rose"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/jack_rose/"
+iconfile: jack_rose
 stars: 4
 base_spirits: ['Apple Brandy']
 youtube: "7H7Cz53jDhc"

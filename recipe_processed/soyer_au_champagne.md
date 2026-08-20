@@ -5,6 +5,7 @@ title: "Soyer au Champagne"
 eras: [modern]
 categories: [after_dinner]
 permalink: "/recipe/soyer_au_champagne/"
+iconfile: soyer_au_champagne
 stars: 0
 base_spirits: ['Bénédictine', 'Champagne', 'Cognac']
 youtube: "mhXp-T53DAs"

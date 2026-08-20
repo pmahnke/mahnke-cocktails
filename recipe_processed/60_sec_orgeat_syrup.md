@@ -3,6 +3,7 @@ layout: recipe
 title: "60 Second Orgeat Syrup"
 categories: [syrup]
 permalink: "/recipe/60_sec_orgeat_syrup/"
+iconfile: 60_sec_orgeat_syrup
 stars: 4
 youtube: "GtU8XnqCD4s"
 excerpt: |

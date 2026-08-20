@@ -5,6 +5,7 @@ title: "Glögg"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/glogg/"
+iconfile: glogg
 stars: 0
 base_spirits: ['Cognac', 'Red Wine', 'Ruby Port']
 youtube: "2Xox9vdRGtM"

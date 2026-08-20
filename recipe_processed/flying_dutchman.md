@@ -5,6 +5,7 @@ title: "Flying Dutchman"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/flyingdutchman/"
+iconfile: flying_dutchman
 stars: 3.75
 base_spirits: ['Bénédictine', 'Genever', 'Yellow Chartreuse']
 youtube: "yh_WeCrFuRA"

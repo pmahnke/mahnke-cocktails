@@ -6,6 +6,7 @@ title: "Godfrey’s Corpse Reviver"
 categories: [cocktail, corpse_reviver]
 eras: [classic]
 permalink: "/recipe/corpse_reviver_godfrey/"
+iconfile: corpse_reviver_godfrey
 stars: 0
 base_spirits: ['London Dry Gin', 'Vodka']
 youtube: "rMCsrbidAJ4"

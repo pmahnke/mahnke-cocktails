@@ -5,6 +5,7 @@ title: "Ford"
 categories: [martini]
 eras: [classic]
 permalink: "/recipe/ford/"
+iconfile: ford
 stars: 3
 base_spirits: ['Bénédictine', 'Dry Vermouth', 'Old Tom Gin']
 youtube: "UJJqbCGHsOg"

@@ -5,6 +5,7 @@ title: "Paloma (two ways)"
 eras: [modern]
 categories: [highball]
 permalink: "/recipe/paloma/"
+iconfile: paloma
 stars: 0
 base_spirits: ['Blanco Tequila']
 youtube: "yyVU7U-8WLc"

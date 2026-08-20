@@ -5,6 +5,7 @@ title: "Monte Cassino"
 eras: [modern]
 categories: [sour, daisy]
 permalink: "/recipe/monte_cassino/"
+iconfile: monte_cassino
 image: /assets/images/cocktail_monte_cassino.svg
 stars: 4.25
 base_spirits: ['Bénédictine', 'Rye', 'Yellow Chartreuse']

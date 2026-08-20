@@ -5,6 +5,7 @@ title: "Blended Brandy Alexander"
 categories: [after_dinner, ice_cream]
 eras: [modern]
 permalink: "/recipe/blended_brandy_alexander/"
+iconfile: blended_brandy_alexander
 stars: 0
 base_spirits: ['Brandy', 'White Crème de Cacao']
 youtube: "8FS1ILeY8Ds"

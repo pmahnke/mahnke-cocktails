@@ -3,6 +3,7 @@ layout: recipe
 title: "Spiced Tea"
 categories: [syrup]
 permalink: "/recipe/spiced_tea/"
+iconfile: spiced_tea
 stars: 0
 youtube: ""
 excerpt: |

@@ -5,6 +5,7 @@ title: "The Classic Old Fashioned (aka Spoon Cocktail)"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/spoon_cocktail/"
+iconfile: spoon_cocktail
 stars: 3
 base_spirits: ['Rye']
 youtube: "0rnil0_xFnM"

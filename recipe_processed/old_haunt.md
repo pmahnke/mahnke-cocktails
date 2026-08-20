@@ -5,6 +5,7 @@ title: "The Old Haunt"
 categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/old_haunt/"
+iconfile: old_haunt
 stars: 0
 base_spirits: ['Apple Brandy', 'Averna']
 youtube: "LaqklLOgeCY"

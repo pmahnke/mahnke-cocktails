@@ -5,6 +5,7 @@ title: "Wicked Word"
 eras: [anders]
 categories: [amaro, sour]
 permalink: "/recipe/wicked_word/"
+iconfile: wicked_word
 stars: 0
 base_spirits: ['Aperol', 'Black Sambuca', 'Cognac']
 youtube: "6Ic0zmBpUQw"

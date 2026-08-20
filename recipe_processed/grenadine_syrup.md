@@ -3,6 +3,7 @@ layout: recipe
 title: "Grenadine Syrup"
 categories: [syrup]
 permalink: "/recipe/grenadine_syrup/"
+iconfile: grenadine_syrup
 stars: 0
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

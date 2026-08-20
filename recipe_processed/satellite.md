@@ -5,6 +5,7 @@ title: "The Satellite"
 categories: [sour]
 eras: [anders]
 permalink: "/recipe/satellite/"
+iconfile: satellite
 stars: 0
 base_spirits: ['London Dry Gin']
 youtube: "CGkWnYhu4ag"

@@ -5,6 +5,7 @@ title: "Alexander"
 categories: [cocktail, after_dinner]
 eras: [classic]
 permalink: "/recipe/alexander/"
+iconfile: alexander
 stars: 0
 base_spirits: ['Crème de Cacao', 'London Dry Gin']
 youtube: "mBGgu3qRztY"

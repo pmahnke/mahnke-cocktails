@@ -5,6 +5,7 @@ title: "Blueberry Thyme Smash"
 categories: [smash]
 eras: [classic]
 permalink: "/recipe/blueberry_thyme_smash/"
+iconfile: blueberry_thyme_smash
 stars: 0
 base_spirits: ['London Dry Gin']
 youtube: "3i4QnRLlPFc&t=220s"

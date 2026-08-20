@@ -6,6 +6,7 @@ creator: Leo Engel
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/alabazam/"
+iconfile: alabazam
 stars: 3
 base_spirits: ['Cognac', 'Triple Sec']
 youtube: "nXED2nkfEEQ"

@@ -6,6 +6,7 @@ title: "Cloister"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/cloister/"
+iconfile: cloister
 stars: 0
 base_spirits: ['London Dry Gin', 'Yellow Chartreuse']
 youtube: "LINK"

@@ -5,6 +5,7 @@ title: "The Godfather"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/godfather/"
+iconfile: godfather
 stars: 3
 base_spirits: ['Amaretto', 'Single Malt Scotch']
 youtube: "3DhncxCCB-E"

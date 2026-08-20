@@ -5,6 +5,7 @@ title: "Pousse Café Shot"
 eras: [classic]
 categories: [shot, pousse_cafe]
 permalink: "/recipe/pousse_cafe_shot/"
+iconfile: pousse_cafe_shot
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters', 'Bénédictine', 'Green Chartreuse']
 youtube: "4OJd_phsa5w"

@@ -5,6 +5,7 @@ title: "Midori Daiquiri"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/midori_daiquiri/"
+iconfile: midori_daiquiri
 stars: 4
 base_spirits: ['Melon Liqueur', 'White Rum']
 youtube:

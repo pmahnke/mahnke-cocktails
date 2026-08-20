@@ -3,6 +3,7 @@ layout: recipe
 title: "Chartreuse Infused Whipped Cream"
 categories: [syrup]
 permalink: "/recipe/chartreuse_whipped_cream/"
+iconfile: chartreuse_whipped_cream
 stars: 0
 base_spirits: ['Green Chartreuse']
 youtube: kRPWDOCVByk

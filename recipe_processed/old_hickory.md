@@ -5,6 +5,7 @@ title: "Old Hickory"
 categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/old_hickory/"
+iconfile: old_hickory
 stars: 0
 base_spirits: ['Dry Vermouth', 'Sweet Vermouth']
 youtube: "0qztLZnJbk8"

@@ -6,6 +6,7 @@ title: "Doctor Funk"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/doctor_funk/"
+iconfile: doctor_funk
 stars: 3.5
 base_spirits: ['Absinthe', 'Gold Rum', 'Jamaican Rum']
 youtube: "aMXyG72irqI"

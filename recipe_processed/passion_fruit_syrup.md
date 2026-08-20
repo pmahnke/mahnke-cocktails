@@ -3,6 +3,7 @@ layout: recipe
 title: "Passion Fruit Syrup"
 categories: [syrup]
 permalink: "/recipe/passion_fruit_syrup/"
+iconfile: passion_fruit_syrup
 stars: 0
 youtube: "vGBMrJgjZB4"
 excerpt: |

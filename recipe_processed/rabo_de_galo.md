@@ -5,6 +5,7 @@ title: "Rabo de Galo"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/rabo_de_galo/"
+iconfile: rabo_de_galo
 stars: 0
 base_spirits: ['Cachaça', 'Cynar', 'Sweet Vermouth']
 youtube: "YFqEvNdPrX8"

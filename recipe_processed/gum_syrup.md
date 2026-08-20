@@ -3,6 +3,7 @@ layout: recipe
 title: "Gum Syrup"
 categories: [syrup]
 permalink: "/recipe/gum_syrup/"
+iconfile: gum_syrup
 stars: 0
 youtube: CvEDhkR6K14
 excerpt: |

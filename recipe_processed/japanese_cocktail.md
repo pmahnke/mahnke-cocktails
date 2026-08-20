@@ -6,6 +6,7 @@ title: "The Japanese Cocktail"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/japanese_cocktail/"
+iconfile: japanese_cocktail
 stars: 0
 base_spirits: ['Cognac']
 youtube: "83TEnWyeqV0"

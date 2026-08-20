@@ -5,6 +5,7 @@ title: "Plum Island"
 eras: [anders]
 categories: [tiki]
 permalink: "/recipe/plum_island/"
+iconfile: plum_island
 stars: 4
 base_spirits: ['Absinthe', 'Gold Rum', 'Lillet Rouge']
 youtube: 'lWDA\_\_gwSow'

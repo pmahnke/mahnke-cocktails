@@ -4,6 +4,7 @@ author: Anders Erickson
 title: "Pear Granita"
 categories: [syrup]
 permalink: "/recipe/pear_granita/"
+iconfile: pear_granita
 stars: 0
 youtube: "ouRs57kDexU"
 excerpt: |

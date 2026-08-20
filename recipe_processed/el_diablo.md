@@ -6,6 +6,7 @@ title: "El Diablo"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/el_diablo/"
+iconfile: el_diablo
 stars: 0
 base_spirits: ['Crème de Cassis', 'Reposado Tequila']
 youtube: "xN3ymSPZJjY"

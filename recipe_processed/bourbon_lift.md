@@ -6,6 +6,7 @@ title: "Bourbon Lift"
 categories: [coffee, fizz]
 eras: [modern]
 permalink: "/recipe/bourbon_lift/"
+iconfile: bourbon_lift
 stars: 0
 base_spirits: ['Bourbon', 'Coffee Liqueur']
 youtube: "zCDgzuTYKBU"

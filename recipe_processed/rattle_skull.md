@@ -5,6 +5,7 @@ title: "Rattle Skull"
 categories: [beer]
 eras: [classic]
 permalink: "/recipe/rattle_skull/"
+iconfile: rattle_skull
 stars: 0
 base_spirits: ['Cognac', 'Jamaican Rum', 'Porter']
 youtube: "7JgKLcCqWR4"

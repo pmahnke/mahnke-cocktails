@@ -5,6 +5,7 @@ title: "Boulevardier"
 categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/boulevardier/"
+iconfile: boulevardier
 stars: 4
 base_spirits: ['Bourbon', 'Campari', 'Sweet Vermouth']
 youtube: "VAK-A7laGuE"

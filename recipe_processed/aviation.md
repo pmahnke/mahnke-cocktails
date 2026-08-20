@@ -6,6 +6,7 @@ title: "Aviation"
 categories: [sour, daisy]
 eras: [classic]
 permalink: "/recipe/aviation/"
+iconfile: aviation
 image: /assets/images/cocktail_aviation.svg
 stars: 4.5
 base_spirits: ['Crème de Violette', 'London Dry Gin', 'Maraschino Liqueur']

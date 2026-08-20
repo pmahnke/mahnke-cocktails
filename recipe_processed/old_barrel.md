@@ -5,6 +5,7 @@ title: "Old Barrel"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/old_barrel/"
+iconfile: old_barrel
 stars: 3.5
 base_spirits: ['Amontillado Sherry', 'Bénédictine', 'Rye']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/6170/old-barrel"

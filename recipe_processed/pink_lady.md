@@ -5,6 +5,7 @@ title: "The Pink Lady"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/pink_lady/"
+iconfile: pink_lady
 stars: 4
 base_spirits: ['Apple Brandy', 'London Dry Gin']
 youtube: "MfHv2EOLUOo&t=336s"

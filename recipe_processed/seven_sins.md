@@ -6,6 +6,7 @@ title: "Seven Sins"
 eras: [modern]
 categories: [sour]
 permalink: "/recipe/seven_sins/"
+iconfile: seven_sins
 stars: 0
 base_spirits: ['Apple Brandy', 'Rye']
 youtube: "https://www.youtube.com/shorts/5_FiYugHCAM"

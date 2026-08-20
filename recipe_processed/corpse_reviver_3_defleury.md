@@ -6,6 +6,7 @@ creator: 1700 Cocktails for the Man Behind the Bar
 categories: [shot, pousse_cafe]
 eras: [prohibition]
 permalink: "/recipe/corpse_reviver_3_defleury/"
+iconfile: corpse_reviver_3_defleury
 stars: 4
 base_spirits: ['Cognac', 'Curaçao', 'Maraschino Liqueur']
 youtube: "kBHi_atZsbM"

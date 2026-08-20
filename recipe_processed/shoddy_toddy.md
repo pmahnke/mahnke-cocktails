@@ -5,6 +5,7 @@ title: "Shoddy Toddy"
 categories: [toddy]
 eras: [anders]
 permalink: "/recipe/shoddy_toddy/"
+iconfile: shoddy_toddy
 stars: 0
 base_spirits: ['Bénédictine', 'London Dry Gin']
 youtube: "CfKrIWRMrNA"

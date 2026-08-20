@@ -5,6 +5,7 @@ title: "Blueberries For Sal"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/blueberries_for_sal/"
+iconfile: blueberries_for_sal
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A refreshing non-alcoholic drink combining the fruity sweetness of blueberries with the spice of ginger beer."

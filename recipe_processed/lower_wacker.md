@@ -5,6 +5,7 @@ title: "Lower Wacker"
 categories: [amaro, cocktail]
 eras: [anders]
 permalink: "/recipe/lower_wacker/"
+iconfile: lower_wacker
 stars: 0
 base_spirits: ['Apricot Liqueur', 'Cynar', 'Malört', 'Rye', 'Sweet Vermouth']
 youtube: "bzN1zwAqgSY"

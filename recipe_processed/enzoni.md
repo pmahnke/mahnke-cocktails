@@ -6,6 +6,7 @@ title: "Enzoni"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/enzoni/"
+iconfile: enzoni
 stars: 4
 base_spirits: ['Campari', 'London Dry Gin']
 youtube: "ipHnOhkGWug"

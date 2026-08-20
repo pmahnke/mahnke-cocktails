@@ -5,6 +5,7 @@ title: "Blackbeard’s Ghost"
 categories: [tiki]
 eras: [anders]
 permalink: "/recipe/blackbeards_ghost/"
+iconfile: blackbeards_ghost
 stars: 0
 base_spirits: ['Apricot Liqueur', 'Demerara Rum', 'Gold Rum']
 youtube: "i67-17-CZCQ"

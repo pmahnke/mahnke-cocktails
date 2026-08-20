@@ -5,6 +5,7 @@ title: "Mexican Firing Squad"
 eras: [modern]
 categories: [collins]
 permalink: "/recipe/mexican_firing_squad/"
+iconfile: mexican_firing_squad
 stars: 0
 base_spirits: ['Reposado Tequila']
 youtube: "3aV3DzDfW_A"

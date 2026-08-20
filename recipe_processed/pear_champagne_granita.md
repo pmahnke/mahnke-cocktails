@@ -5,6 +5,7 @@ title: "Pear Champagne Granita"
 categories: [champagne]
 eras: [anders]
 permalink: "/recipe/pear_champagne_granita/"
+iconfile: pear_champagne_granita
 stars: 0
 base_spirits: ['Champagne', 'Pear Liqueur']
 youtube: "ouRs57kDexU"

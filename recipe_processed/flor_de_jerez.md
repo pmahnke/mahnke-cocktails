@@ -6,6 +6,7 @@ title: "Flor De Jerez"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/flor_de_jerez/"
+iconfile: flor_de_jerez
 stars: 0
 base_spirits: ['Amontillado Sherry', 'Apricot Liqueur', 'Jamaican Rum']
 youtube: "zWuyuW-tGcg"

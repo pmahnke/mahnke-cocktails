@@ -6,6 +6,7 @@ title: "Star Daisy"
 categories: [daisy, sour]
 eras: [modern]
 permalink: "/recipe/star_daisy/"
+iconfile: star_daisy
 stars: 4
 base_spirits: ['Apple Brandy', 'Curaçao', 'Navy Strength Gin']
 youtube: "QZRlEKhzUZE&t=838s"

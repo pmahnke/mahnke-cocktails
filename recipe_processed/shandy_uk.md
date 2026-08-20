@@ -5,6 +5,7 @@ title: "UK Shandy"
 categories: [beer, highball]
 eras: [classic]
 permalink: "/recipe/shandy_uk/"
+iconfile: shandy_uk
 stars: 0
 base_spirits: ['Lager']
 youtube: "gu5hZ5Rb8nc&t=342s"

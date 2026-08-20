@@ -5,6 +5,7 @@ title: "Semester Abroad"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/semester_abroad/"
+iconfile: semester_abroad
 stars: 3.5
 base_spirits: ['Curaçao', 'Fernet Branca', 'Rye']
 youtube: "JIQ_UNrQZR8"

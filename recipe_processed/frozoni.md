@@ -5,6 +5,7 @@ title: "Frozoni"
 categories: [amaro, champagne]
 eras: [anders]
 permalink: "/recipe/frozoni/"
+iconfile: frozoni
 stars: 0
 base_spirits: ['Campari', 'London Dry Gin', 'Prosecco']
 youtube: "ipHnOhkGWug"

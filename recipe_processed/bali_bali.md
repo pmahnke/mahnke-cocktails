@@ -5,6 +5,7 @@ title: "Bali Bali"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/bali_bali/"
+iconfile: bali_bali
 stars: 4
 base_spirits: ['Cognac', 'Jamaican Rum', 'London Dry Gin', 'White Rum']
 youtube: 'lWDA\_\_gwSow'

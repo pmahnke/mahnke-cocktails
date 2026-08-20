@@ -6,6 +6,7 @@ title: "Tequila Sunrise"
 eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/tequila_sunrise/"
+iconfile: tequila_sunrise
 stars: 3
 base_spirits: ['Blanco Tequila', 'Crème de Cassis', 'Reposado Tequila']
 youtube: "VNaSpZ3YOoM"

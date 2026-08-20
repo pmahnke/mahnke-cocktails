@@ -5,6 +5,7 @@ title: "Mezcal & Hibiscus Toddy"
 categories: [toddy]
 eras: [classic, modern]
 permalink: "/recipe/mezcal_hibiscus_toddy/"
+iconfile: mezcal_hibiscus_toddy
 stars: 0
 base_spirits: ['Mezcal']
 youtube: "DJtBN6yBnsA"

@@ -5,6 +5,7 @@ title: "Coyote Swizzle"
 categories: [frappe_swizzle]
 eras: [anders]
 permalink: "/recipe/coyote_swizzle/"
+iconfile: coyote_swizzle
 stars: 0
 base_spirits: ['Campari', 'Mezcal']
 youtube: "qLwJ2aixqYY&t=279s"

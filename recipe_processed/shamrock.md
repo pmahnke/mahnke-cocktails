@@ -5,6 +5,7 @@ title: "Shamrock"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/shamrock/"
+iconfile: shamrock
 stars: 0
 base_spirits: ['Blanc Vermouth', 'Crème de Menthe', 'Green Chartreuse', 'Irish Whiskey']
 youtube: "3a1nwtD8yyE"

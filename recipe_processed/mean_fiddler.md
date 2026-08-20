@@ -6,6 +6,7 @@ title: "The Mean Fiddler"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/mean_fiddler/"
+iconfile: mean_fiddler
 stars: 0
 base_spirits: ['Campari', 'Green Chartreuse', 'Irish Whiskey', 'Single Malt Scotch', 'Sweet Vermouth']
 youtube: "wPsvBjSjpCg"

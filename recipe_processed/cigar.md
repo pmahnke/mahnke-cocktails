@@ -5,6 +5,7 @@ title: "The Cigar"
 categories: [amaro, cocktail, smoked]
 eras: [prohibition]
 permalink: "/recipe/cigar/"
+iconfile: cigar
 stars: 0
 base_spirits: ['Aperol', 'Single Malt Scotch', 'Sweet Vermouth']
 youtube: "gZdT2GBf91I"

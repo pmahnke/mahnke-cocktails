@@ -6,6 +6,7 @@ title: "Bitters Buck"
 categories: [buck]
 eras: [modern]
 permalink: "/recipe/bitters_buck/"
+iconfile: bitters_buck
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters']
 youtube: "0J6-sPDCOMw"

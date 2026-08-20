@@ -5,6 +5,7 @@ title: "Champagne Cocktail"
 categories: [champagne]
 eras: [classic]
 permalink: "/recipe/champagne_cocktail/"
+iconfile: champagne_cocktail
 image: /assets/images/cocktail_champagne_cocktail.svg
 stars: 4.5
 base_spirits: ['Champagne', 'Cognac']

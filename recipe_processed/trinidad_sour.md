@@ -5,6 +5,7 @@ title: "Trinidad Sour"
 eras: [modern]
 categories: [sour]
 permalink: "/recipe/trinidad_sour/"
+iconfile: trinidad_sour
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters', 'Rye']
 youtube: '\_BEaYWQjSu0'

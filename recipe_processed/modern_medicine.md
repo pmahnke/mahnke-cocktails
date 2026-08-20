@@ -5,6 +5,7 @@ title: "Modern Medicine"
 categories: [amaro cocktail]
 eras: [modern]
 permalink: "/recipe/modern_medicine/"
+iconfile: modern_medicine
 stars: 0
 base_spirits: ['Aperol', 'Bourbon', 'Single Malt Scotch']
 youtube: "https://youtube.com/shorts/PmIJBCSayUs?si=wzUZeym3F4b1FfnR"

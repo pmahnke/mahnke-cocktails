@@ -5,6 +5,7 @@ title: "Spring Forward"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/spring_forward/"
+iconfile: spring_forward
 stars: 0
 base_spirits: ['Cocchi Americano', 'Pisco', 'Plymouth Gin']
 youtube: "RRvfkkSjceM"

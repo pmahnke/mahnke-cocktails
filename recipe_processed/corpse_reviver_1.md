@@ -5,6 +5,7 @@ title: "Corpse Reviver #1"
 categories: [cocktail, corpse_reviver]
 eras: [prohibition]
 permalink: "/recipe/corpse_reviver_1/"
+iconfile: corpse_reviver_1
 stars: 4
 base_spirits: ['Apple Brandy', 'Cognac', 'Sweet Vermouth']
 youtube: "rMCsrbidAJ4"

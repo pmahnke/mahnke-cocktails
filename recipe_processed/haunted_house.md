@@ -5,6 +5,7 @@ title: "Haunted House"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/haunted_house/"
+iconfile: haunted_house
 stars: 3
 base_spirits: ['Jamaican Rum', 'Rye', 'Swedish Punsch']
 youtube: "u0N9FFJ1i5c"

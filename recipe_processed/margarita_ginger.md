@@ -5,6 +5,7 @@ title: "Grapefruit Ginger Margarita"
 categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_ginger/"
+iconfile: margarita_ginger
 stars: 0
 base_spirits: ['Curaçao', 'Reposado Tequila']
 youtube: "jxpT11WEtWQ"

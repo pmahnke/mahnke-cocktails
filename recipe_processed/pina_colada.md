@@ -5,6 +5,7 @@ title: "Piña Colada"
 categories: [tiki]
 eras: [classic]
 permalink: "/recipe/pina_colada/"
+iconfile: pina_colada
 stars: 4
 base_spirits: ['White Rum']
 youtube: "eH9yt9JpXXk&t=6s"

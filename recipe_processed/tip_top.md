@@ -5,6 +5,7 @@ title: "Tip Top"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/tip_top/"
+iconfile: tip_top
 stars: 0
 base_spirits: ['Bénédictine', 'Dry Vermouth', 'Fino Sherry']
 youtube: "9V4Jj3bmi90"

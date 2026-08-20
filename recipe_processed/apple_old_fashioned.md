@@ -5,6 +5,7 @@ title: "Apple Old Fashioned"
 categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/apple_old_fashioned/"
+iconfile: apple_old_fashioned
 stars: 4
 base_spirits: ['Bourbon']
 youtube: "rWu7oPKxN4U"

@@ -5,6 +5,7 @@ title: "American Shandy"
 categories: [beer, highball]
 eras: [classic]
 permalink: "/recipe/shandy_usa/"
+iconfile: shandy_usa
 stars: 0
 base_spirits: ['Lager']
 youtube: "gu5hZ5Rb8nc&t=236s"

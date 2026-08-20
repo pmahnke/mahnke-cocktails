@@ -5,6 +5,7 @@ title: "Charlie Chaplin"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/charlie_chaplin/"
+iconfile: charlie_chaplin
 stars: 4
 base_spirits: ['Apricot Liqueur', 'Sloe Gin']
 youtube: "VqVJ10en-Uc"

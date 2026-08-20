@@ -6,6 +6,7 @@ title: "Three Dots and a Dash"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/3dots_dash/"
+iconfile: 3dots_dash
 stars: 0
 base_spirits: ['Allspice Dram', 'Demerara Rum', 'Rhum Agricole']
 youtube: "CGkWnYhu4ag"

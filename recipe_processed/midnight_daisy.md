@@ -5,6 +5,7 @@ title: "Midnight Daisy"
 categories: [daisy]
 eras: [anders]
 permalink: "/recipe/midnight_daisy/"
+iconfile: midnight_daisy
 stars: 0
 base_spirits: ['Bourbon', 'Bénédictine']
 youtube: "LaqklLOgeCY"

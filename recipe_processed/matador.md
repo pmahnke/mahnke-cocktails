@@ -5,6 +5,7 @@ title: "Matador"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/matador/"
+iconfile: matador
 stars: 0
 base_spirits: ['Blanc Vermouth', 'Curaçao', 'Reposado Tequila']
 youtube: "3aV3DzDfW_A"

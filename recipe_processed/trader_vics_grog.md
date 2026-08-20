@@ -6,6 +6,7 @@ title: "Trader Vic's Grog"
 categories: [grog, tiki]
 eras: [modern]
 permalink: "/recipe/trader_vics_grog/"
+iconfile: trader_vics_grog
 stars: 0
 base_spirits: ['Jamaican Rum']
 youtube: "3Nl9aWKvwmw"

@@ -6,6 +6,7 @@ title: "Mudslide"
 categories: [after_dinner]
 eras: [modern]
 permalink: "/recipe/mudslide/"
+iconfile: mudslide
 stars: 0
 base_spirits: ['Coffee Liqueur', 'Irish Cream Liqueur', 'Vodka']
 youtube: "M8uXEDvbvVM"

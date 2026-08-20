@@ -6,6 +6,7 @@ title: "The Flip"
 categories: [flip, beer]
 eras: [classic]
 permalink: "/recipe/flip/"
+iconfile: flip
 stars: 0
 base_spirits: ['Ale', 'Jamaican Rum']
 youtube: "S04mZtUjTyA"

@@ -5,6 +5,7 @@ title: "Black Dragon No. 13"
 categories: [amaro, beer, coffee, cocktail]
 eras: [anders]
 permalink: "/recipe/black_dragon_13/"
+iconfile: black_dragon_13
 stars: 0
 base_spirits: ['Averna', 'Cognac', 'Stout']
 youtube: "u0N9FFJ1i5c"

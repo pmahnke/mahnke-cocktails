@@ -6,6 +6,7 @@ title: "Bourbon Renewal"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/bourbon_renewal/"
+iconfile: bourbon_renewal
 stars: 0
 base_spirits: ['Bourbon', 'Crème de Cassis']
 youtube: "8WVlMjEGma4"

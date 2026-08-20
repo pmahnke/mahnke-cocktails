@@ -6,6 +6,7 @@ creator: "The Official Mixer's Manual"
 categories: [champagne, cocktail]
 eras: [modern]
 permalink: "/recipe/corpse_reviver_3_duffy/"
+iconfile: corpse_reviver_3_duffy
 stars: 0
 base_spirits: ['Champagne', 'Pastis']
 youtube: "kBHi_atZsbM"

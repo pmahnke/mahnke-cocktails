@@ -5,6 +5,7 @@ title: "Revolver"
 eras: [modern]
 categories: [Coffee, Cocktail]
 permalink: "/recipe/revolver/"
+iconfile: revolver
 stars: 0
 base_spirits: ['Bourbon', 'Coffee Liqueur']
 youtube: "mFOZcQvZ6oY"

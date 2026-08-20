@@ -5,6 +5,7 @@ title: "Affinity"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/affinity/"
+iconfile: affinity
 stars: 4
 base_spirits: ['Blanc Vermouth', 'Single Malt Scotch', 'Sweet Vermouth']
 youtube: "9lgx04fJrSM"

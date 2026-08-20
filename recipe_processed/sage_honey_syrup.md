@@ -3,6 +3,7 @@ layout: recipe
 title: "Sage Honey Syrup"
 categories: [syrup]
 permalink: "/recipe/sage_honey_syrup/"
+iconfile: sage_honey_syrup
 stars: 0
 youtube: "EKyIy5iG87Q"
 excerpt: |

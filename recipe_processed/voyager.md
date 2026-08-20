@@ -6,6 +6,7 @@ title: "Voyager"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/voyager/"
+iconfile: voyager
 stars: 0
 base_spirits: ['Bénédictine', 'Jamaican Rum']
 youtube: "9V4Jj3bmi90"

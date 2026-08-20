@@ -5,6 +5,7 @@ categories: [mocktail]
 eras: [anders, tiki]
 title: "Placebo (NA Painkiller)"
 permalink: "/recipe/placebo/"
+iconfile: placebo
 stars: 0
 youtube: "5wgvpo-xBnA"
 description: "A non-alcoholic, tropical blend of pineapple juice, orange juice, cream of coconut, and spices, inspired by the Painkiller cocktail."

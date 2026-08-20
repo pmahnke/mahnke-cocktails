@@ -5,6 +5,7 @@ title: "Wassail"
 eras: [classic]
 categories: [punch]
 permalink: "/recipe/wassail/"
+iconfile: wassail
 stars: 0
 base_spirits: ['Amontillado Sherry', 'Apple Brandy', 'Dark Ale']
 youtube: "9cp5upHowwI"

@@ -5,6 +5,7 @@ title: "Junior (aka Quick Recovery)"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/junior/"
+iconfile: junior
 stars: 3.5
 base_spirits: ['Bénédictine', 'Rye']
 youtube: "_bDARIxZlcE"

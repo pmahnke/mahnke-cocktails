@@ -5,6 +5,7 @@ title: "El Presidente"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/el_presidente/"
+iconfile: el_presidente
 stars: 4
 base_spirits: ['Blanc Vermouth', 'Curaçao', 'White Rum']
 youtube: "1AZGE2FUAO4"

@@ -5,6 +5,7 @@ title: "Chicago Fizz"
 categories: [fizz]
 eras: [classic]
 permalink: "/recipe/chicago_fizz/"
+iconfile: chicago_fizz
 stars: 0
 base_spirits: ['Jamaican Rum', 'Ruby Port']
 youtube: "bzN1zwAqgSY"

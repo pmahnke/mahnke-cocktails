@@ -6,6 +6,7 @@ title: "Fall Back"
 eras: [anders]
 categories: [amaro, cocktail]
 permalink: "/recipe/fall_back/"
+iconfile: fall_back
 stars: 0
 base_spirits: ['Amaro Nonino', 'Apple Brandy', 'Rye', 'Sweet Vermouth']
 youtube: "_bDARIxZlcE"

@@ -6,6 +6,7 @@ title: "Kiss"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/kiss/"
+iconfile: kiss
 stars: 3.5
 base_spirits: ['Dubonnet Rouge', 'London Dry Gin', 'Maraschino Liqueur', 'Sweet Vermouth']
 youtube: "https://www.liquor.com/recipes/kiss/"

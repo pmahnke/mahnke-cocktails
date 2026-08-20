@@ -5,6 +5,7 @@ title: "Clover Club 2.0"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/clover_club2/"
+iconfile: clover_club2
 image: /assets/images/cocktail_clover_club2.svg
 stars: 4.75
 base_spirits: ['Blanc Vermouth', 'Plymouth Gin']

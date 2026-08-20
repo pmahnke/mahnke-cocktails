@@ -5,6 +5,7 @@ title: "Aperol Spritz"
 categories: [amaro, spritz]
 eras: [modern]
 permalink: "/recipe/aperol_spritz/"
+iconfile: aperol_spritz
 image: /assets/images/category_spritz.svg
 stars: 3.25
 base_spirits: ['Aperol', 'Champagne']

@@ -5,6 +5,7 @@ title: "Bloody Caesar"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/bloody_caesar/"
+iconfile: bloody_caesar
 stars: 3
 base_spirits: ['Vodka']
 youtube: "CWN67QIvZP8"

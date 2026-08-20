@@ -5,6 +5,7 @@ title: "Bourbon Blackberry Smash"
 categories: [smash]
 eras: [classic]
 permalink: "/recipe/bourbon_blackberry_smash/"
+iconfile: bourbon_blackberry_smash
 stars: 0
 base_spirits: ['Bourbon']
 youtube: "3i4QnRLlPFc&t=220s"

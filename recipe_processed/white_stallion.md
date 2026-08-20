@@ -5,6 +5,7 @@ title: "White Stallion"
 eras: [anders]
 categories: [after_dinner, ice_cream]
 permalink: "/recipe/white_stallion/"
+iconfile: white_stallion
 stars: 0
 base_spirits: ['Champagne', 'Curaçao', 'Plymouth Gin']
 youtube: "E1TfYiFrnXk"

@@ -3,6 +3,7 @@ layout: recipe
 title: "Cocoa Nib Infused Campari"
 categories: [syrup, amaro]
 permalink: "/recipe/cocoa_nib_campari/"
+iconfile: cocoa_nib_campari
 stars: 0
 base_spirits: ['Campari']
 youtube: "u0N9FFJ1i5c"

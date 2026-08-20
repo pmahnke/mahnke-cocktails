@@ -5,6 +5,7 @@ title: "Mezcal Margarita"
 categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_mezcal/"
+iconfile: margarita_mezcal
 stars: 0
 base_spirits: ['Curaçao', 'Mezcal']
 youtube: "VBSjE-P_C58"

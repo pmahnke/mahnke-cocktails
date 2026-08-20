@@ -145,14 +145,6 @@ while (my $file = readdir DIR) {
     my $iconfile_val = "";
 
     foreach my $line (@file_lines) {
-        # Extract iconfile from anywhere to check ratings before skipping it
-        if ($line =~ /^iconfile:\s*(.*)/) {
-            $iconfile_val = $1;
-            $iconfile_val =~ s/^\s+|\s+$//g;
-            $rating = &process_ratings($iconfile_val);
-            next; # Skip legacy iconfile line entirely
-        }
-
         if ($line =~ /^---\s*$/) {
             $dash_count++;
             push @front_matter_lines, $line;
@@ -161,7 +153,17 @@ while (my $file = readdir DIR) {
             } elsif ($dash_count == 1) {
                 $in_front_matter = 1;
             }
-        } elsif ($in_front_matter) {
+            next;
+        }
+
+        # Extract iconfile value and compute ratings, but retain the line
+        if ($line =~ /^iconfile:\s*(.*)/) {
+            $iconfile_val = $1;
+            $iconfile_val =~ s/^\s+|\s+$//g;
+            $rating = &process_ratings($iconfile_val);
+        }
+
+        if ($in_front_matter) {
             push @front_matter_lines, $line;
         } else {
             push @body_lines, $line;

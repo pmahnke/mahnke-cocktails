@@ -6,6 +6,7 @@ title: "Red Hook"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/red_hook/"
+iconfile: red_hook
 stars: 0
 base_spirits: ['Maraschino Liqueur', 'Punt e Mes', 'Rye']
 youtube: "0sjcxjmJMv0"

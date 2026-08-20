@@ -5,6 +5,7 @@ title: "Lucien Gaudin"
 categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/lucien_gaudin/"
+iconfile: lucien_gaudin
 stars: 3
 base_spirits: ['Blanc Vermouth', 'Campari', 'Plymouth Gin', 'Triple Sec']
 youtube: "NLF7z6MHMa0"

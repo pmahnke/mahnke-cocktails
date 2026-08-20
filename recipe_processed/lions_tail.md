@@ -5,6 +5,7 @@ title: "Lion's Tail"
 eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/lions_tail/"
+iconfile: lions_tail
 image: /assets/images/cocktail_lions_tail.svg
 stars: 5
 base_spirits: ['Allspice Dram', 'Bourbon']

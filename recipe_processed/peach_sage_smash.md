@@ -5,6 +5,7 @@ author: "Anders Erickson"
 eras: [modern]
 categories: [smash]
 permalink: "/recipe/peach_sage_smash/"
+iconfile: peach_sage_smash
 stars: 0
 base_spirits: ['Reposado Tequila']
 youtube: "3i4QnRLlPFc&t=220s"

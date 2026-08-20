@@ -5,6 +5,7 @@ title: "The Roulette"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/roulette/"
+iconfile: roulette
 stars: 0
 base_spirits: ['Apple Brandy', 'Barbados Rum', 'Swedish Punsch']
 youtube: "VXjcObds5DY"

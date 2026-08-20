@@ -5,6 +5,7 @@ title: "Adonis"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/adonis/"
+iconfile: adonis
 stars: 3
 base_spirits: ['Oloroso Sherry', 'Sweet Vermouth']
 youtube: "B8l-F1qcTYU&t=48s"

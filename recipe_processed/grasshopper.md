@@ -5,6 +5,7 @@ title: "Blended Grasshopper"
 categories: [after_dinner, ice_cream]
 eras: [modern]
 permalink: "/recipe/grasshopper/"
+iconfile: grasshopper
 stars: 0
 base_spirits: ['Crème de Menthe', 'White Crème de Cacao']
 youtube: "kRPWDOCVByk&t=164s"

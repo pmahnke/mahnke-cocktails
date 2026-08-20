@@ -6,6 +6,7 @@ title: "Improved Whiskey Cocktail"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/improved_whiskey_cocktail/"
+iconfile: improved_whiskey_cocktail
 stars: 4
 base_spirits: ['Absinthe', 'Maraschino Liqueur', 'Rye']
 youtube: "8Mj790thvm8"

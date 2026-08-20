@@ -5,6 +5,7 @@ title: "The Self Portrait"
 categories: [sour]
 eras: [anders]
 permalink: "/recipe/self_portrait/"
+iconfile: self_portrait
 stars: 4
 base_spirits: ['Cognac', 'Swedish Punsch']
 youtube: "VXjcObds5DY"

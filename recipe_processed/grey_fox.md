@@ -5,6 +5,7 @@ title: "Grey Fox"
 categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/grey_fox/"
+iconfile: grey_fox
 stars: 0
 youtube: "5wgvpo-xBnA"
 description: "A non-alcoholic cocktail featuring the distinct flavors of Earl Grey tea and fresh lemon."

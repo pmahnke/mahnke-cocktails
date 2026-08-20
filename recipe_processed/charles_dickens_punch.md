@@ -5,6 +5,7 @@ title: "Charles Dickens Punch"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/charles_dickens_punch/"
+iconfile: charles_dickens_punch
 stars: 0
 base_spirits: ['Cognac', 'Overproof Rum']
 youtube: "BXGS7Ai2hec"

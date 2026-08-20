@@ -5,6 +5,7 @@ title: "Tartan"
 categories: [amaro, cocktail]
 eras: [anders]
 permalink: "/recipe/tartan/"
+iconfile: tartan
 stars: 0
 base_spirits: ['Drambuie', 'Ramazzotti', 'Single Malt Scotch', 'Sweet Vermouth']
 youtube: "Jqy3bhn-O9s"

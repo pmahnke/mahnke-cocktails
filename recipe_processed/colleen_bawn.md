@@ -5,6 +5,7 @@ author: "Anders Erickson"
 categories: [flip]
 eras: [classic]
 permalink: "/recipe/colleen_bawn/"
+iconfile: colleen_bawn
 stars: 3
 base_spirits: ['Bénédictine', 'Rye', 'Yellow Chartreuse']
 youtube: "W50W19vwjmk"

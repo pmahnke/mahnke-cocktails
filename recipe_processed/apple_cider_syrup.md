@@ -3,6 +3,7 @@ layout: recipe
 title: "Apple Cider Syrup"
 categories: [syrup]
 permalink: "/recipe/apple_cider_syrup/"
+iconfile: apple_cider_syrup
 stars: 0
 youtube: rWu7oPKxN4U
 excerpt: |

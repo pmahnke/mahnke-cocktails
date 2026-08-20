@@ -5,6 +5,7 @@ title: "The Havana"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/havana/"
+iconfile: havana
 stars: 4
 base_spirits: ['Apricot Liqueur', 'London Dry Gin', 'Swedish Punsch']
 youtube: "VXjcObds5DY"

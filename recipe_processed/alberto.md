@@ -6,6 +6,7 @@ title: "Alberto"
 categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/alberto/"
+iconfile: alberto
 stars: 3.5
 base_spirits: ['Cocchi Americano', 'Fino Sherry', 'London Dry Gin']
 youtube: "PM_X8Ci0iXg"

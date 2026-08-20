@@ -5,6 +5,7 @@ title: "Lonely Penguin"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/lonely_penguin/"
+iconfile: lonely_penguin
 stars: 0
 base_spirits: ['Crème de Mûre', 'Rye']
 youtube: "Hw-KZJNvtts"

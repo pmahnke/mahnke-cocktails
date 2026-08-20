@@ -6,6 +6,7 @@ title: "Don’s Own Grog"
 categories: [grog, tiki]
 eras: [modern]
 permalink: "/recipe/dons_own_grog/"
+iconfile: dons_own_grog
 stars: 0
 base_spirits: ['Crème de Mûre', 'Jamaican Rum', 'Rhum Agricole', 'White Rum']
 youtube: "pG7mU5eenRA"

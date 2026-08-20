@@ -5,6 +5,7 @@ title: "Sugar Cookie Nog"
 categories: [eggnog]
 eras: [anders]
 permalink: "/recipe/sugar_cookie_nog/"
+iconfile: sugar_cookie_nog
 stars: 0
 base_spirits: ['Amaretto', 'Irish Whiskey', 'Licor 43']
 youtube: "uElU6ue-Ke8"

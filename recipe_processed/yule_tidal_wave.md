@@ -5,6 +5,7 @@ title: "Yule Tidal Wave"
 eras: [anders]
 categories: [tiki]
 permalink: "/recipe/yule_tidal_wave/"
+iconfile: yule_tidal_wave
 stars: 0
 base_spirits: ['Allspice Dram', 'Bourbon', 'Cognac', 'Licor 43', 'Pear Liqueur', 'Trinidadian Rum']
 youtube: "s30L-iu171E"

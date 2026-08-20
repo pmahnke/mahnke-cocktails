@@ -5,6 +5,7 @@ title: "White Sangria"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/white_sangria/"
+iconfile: white_sangria
 stars: 3.5
 base_spirits: ['Apricot Liqueur', 'Fino Sherry', 'White Wine']
 youtube: "mAxJU3qd8OE"

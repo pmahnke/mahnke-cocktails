@@ -6,6 +6,7 @@ title: "The Black Prince"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/black_prince/"
+iconfile: black_prince
 stars: 0
 base_spirits: ['Averna', 'Guatemalan Rum', 'Punt e Mes']
 youtube: "zWuyuW-tGcg"

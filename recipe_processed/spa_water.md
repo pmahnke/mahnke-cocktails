@@ -5,6 +5,7 @@ categories: [mocktail]
 eras: [anders]
 title: "Spa Water"
 permalink: "/recipe/spa_water/"
+iconfile: spa_water
 stars: 3
 youtube: "5wgvpo-xBnA"
 description: "A refreshing non-alcoholic drink that typically includes muddled cucumber, mint, simple syrup, and lime juice."

@@ -5,6 +5,7 @@ title: "Dark 'n Stormy"
 categories: [buck]
 eras: [classic]
 permalink: "/recipe/dark_n_stormy/"
+iconfile: dark_n_stormy
 image: /assets/images/cocktail_dark_n_stormy.svg
 stars: 4.5
 base_spirits: ['Dark Rum']

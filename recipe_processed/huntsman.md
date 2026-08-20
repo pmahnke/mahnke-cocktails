@@ -5,6 +5,7 @@ title: "Huntsman"
 categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/huntsman/"
+iconfile: huntsman
 stars: 3
 base_spirits: ['Bénédictine', 'Cherry Liqueur', 'Rye']
 youtube: "vECQyr3-Lyw"

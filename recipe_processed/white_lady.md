@@ -6,6 +6,7 @@ title: "The White Lady"
 eras: [prohibition]
 categories: [sour, daisy]
 permalink: "/recipe/white_lady/"
+iconfile: white_lady
 stars: 4
 base_spirits: ['Crème de Menthe', 'Plymouth Gin', 'Triple Sec']
 youtube: "IAmf7XqE0T8"

@@ -3,6 +3,7 @@ layout: recipe
 title: "Groseille Syrup"
 categories: [syrup]
 permalink: "/recipe/groseille_syrup/"
+iconfile: groseille_syrup
 stars: 0
 youtube: "-Uhu81wqOl8"
 excerpt: |

@@ -5,6 +5,7 @@ title: "Aunt Roberta"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/aunt_roberta/"
+iconfile: aunt_roberta
 stars: 0
 base_spirits: ['Absinthe', 'Cognac', 'Crème de Mûre', 'London Dry Gin', 'Vodka']
 youtube: "idnVFvygleU"

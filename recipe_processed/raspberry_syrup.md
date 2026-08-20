@@ -3,6 +3,7 @@ layout: recipe
 title: "Raspberry Syrup"
 categories: [syrup]
 permalink: "/recipe/raspberrysyrup/"
+iconfile: raspberry_syrup
 stars: 0
 youtube: "vGBMrJgjZB4"
 excerpt: |

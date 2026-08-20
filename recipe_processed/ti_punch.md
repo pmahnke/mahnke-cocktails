@@ -5,6 +5,7 @@ title: "Ti’ Punch"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/ti_punch/"
+iconfile: ti_punch
 stars: 3.5
 base_spirits: ['Rhum Agricole']
 youtube: "UwYdR9yPoB4"

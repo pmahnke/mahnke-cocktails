@@ -5,6 +5,7 @@ title: "Pink Gin"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/pink_gin/"
+iconfile: pink_gin
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters', 'Plymouth Gin']
 youtube: "PLi_quAjz8g"

@@ -5,6 +5,7 @@ title: "East India Cocktail"
 eras: [classic]
 categories: [sour]
 permalink: "/recipe/east_india_cocktail/"
+iconfile: east_india_cocktail
 stars: 4
 base_spirits: ['Cognac', 'Maraschino Liqueur']
 youtube: "wiDoRYL4V9g"

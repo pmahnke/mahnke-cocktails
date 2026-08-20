@@ -5,6 +5,7 @@ title: "Old Cuban"
 categories: [spritz]
 eras: [modern]
 permalink: "/recipe/old_cuban/"
+iconfile: old_cuban
 stars: 0
 base_spirits: ['Champagne', 'Gold Rum']
 youtube: "IAaiRENeyvc&t=639s"

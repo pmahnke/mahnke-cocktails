@@ -5,6 +5,7 @@ title: "Shark's Tooth"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/sharks_tooth/"
+iconfile: sharks_tooth
 stars: 3
 base_spirits: ['Barbados Rum', 'Cherry Liqueur', 'Jamaican Rum', 'Maraschino Liqueur']
 youtube: "https://curiada.com/blogs/news/sharks-tooth-cocktail-recipe-featuring-barbados-and-jamaica-rums"

@@ -6,6 +6,7 @@ title: "Neptune's Wrath"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/neptunes_wrath/"
+iconfile: neptunes_wrath
 stars: 0
 base_spirits: ['Absinthe', 'Green Chartreuse', 'Plymouth Gin']
 youtube: "eoMchfbaVPw"

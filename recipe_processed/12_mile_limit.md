@@ -6,6 +6,7 @@ title: "12 Mile Limit"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/12_mile_limit/"
+iconfile: 12_mile_limit
 stars: 3.75
 base_spirits: ['Cognac', 'Rye', 'White Rum']
 youtube: "6M6Xu_URmPg"

@@ -5,6 +5,7 @@ title: "Pimm's Cup"
 categories: [highball]
 eras: [classic]
 permalink: "/recipe/pimms_cup/"
+iconfile: pimms_cup
 stars: 0
 base_spirits: ['Pimms']
 youtube: "CGq0rFP_Jl0"

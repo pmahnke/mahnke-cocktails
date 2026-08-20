@@ -5,6 +5,7 @@ title: "Halekulani"
 categories: [tiki]
 eras: [prohibition]
 permalink: "/recipe/halekulani/"
+iconfile: halekulani
 stars: 0
 base_spirits: ['Bourbon', 'Rye']
 youtube: "uiegg1DsKQU"

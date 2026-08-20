@@ -5,6 +5,7 @@ title: "Prescription Julep"
 categories: [julep]
 eras: [classic]
 permalink: "/recipe/prescription_julep/"
+iconfile: prescription_julep
 image: /assets/images/category_julep.svg
 stars: 4
 base_spirits: ['Cognac', 'Rye']

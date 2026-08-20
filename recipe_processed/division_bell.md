@@ -5,6 +5,7 @@ title: "The Division Bell"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/division_bell/"
+iconfile: division_bell
 stars: 0
 base_spirits: ['Aperol', 'Maraschino Liqueur', 'Mezcal']
 youtube: "70cS-bRH9kA"

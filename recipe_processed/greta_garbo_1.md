@@ -5,6 +5,7 @@ title: "Greta Garbo #1"
 eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/greta_garbo_1/"
+iconfile: greta_garbo_1
 stars: 3
 base_spirits: ['Maraschino Liqueur', 'White Rum']
 youtube: "79htbyQ8nDY"

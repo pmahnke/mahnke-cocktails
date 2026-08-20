@@ -1,4 +1,4 @@
-{%- assign bottles = page.base_spirits -%}
+{%- assign bottles = include.spirits | default: include.recipe.base_spirits | default: page.base_spirits -%}
 {%- for bottle in bottles -%}
     {%- assign current_bottle_name = bottle | strip -%}
     {%- assign spirit_match = site.spirits | where: "title", current_bottle_name | first -%}

@@ -5,6 +5,7 @@ title: "Greta Garbo #2"
 eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/greta_garbo_2/"
+iconfile: greta_garbo_2
 stars: 3.5
 base_spirits: ['London Dry Gin', 'Swedish Punsch']
 youtube: "79htbyQ8nDY"

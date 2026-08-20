@@ -5,6 +5,7 @@ title: "Malted Mudslide"
 categories: [after_dinner, ice_cream]
 eras: [anders]
 permalink: "/recipe/malted_mudslide/"
+iconfile: malted_mudslide
 stars: 0
 base_spirits: ['Blended Scotch', 'Coffee Liqueur', 'Irish Cream Liqueur']
 youtube: "M8uXEDvbvVM"

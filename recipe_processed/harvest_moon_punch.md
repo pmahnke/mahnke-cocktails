@@ -5,6 +5,7 @@ title: "Harvest Moon Punch (1/2 batch)"
 categories: [punch]
 eras: [anders]
 permalink: "/recipe/harvest_moon_punch/"
+iconfile: harvest_moon_punch
 stars: 0
 base_spirits: ['Allspice Dram', 'Apple Brandy', 'Jamaican Rum', 'Pear Liqueur']
 youtube: "S5ipwEU7uHo"

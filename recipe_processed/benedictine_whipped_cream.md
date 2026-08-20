@@ -3,6 +3,7 @@ layout: recipe
 title: "Benedictine Infused Whipped Cream"
 categories: [syrup]
 permalink: "/recipe/benedictine_whipped_cream/"
+iconfile: benedictine_whipped_cream
 stars: 0
 youtube: 8FS1ILeY8Ds
 excerpt: |

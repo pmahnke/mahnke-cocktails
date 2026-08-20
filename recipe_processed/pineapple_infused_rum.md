@@ -3,6 +3,7 @@ layout: recipe
 title: "Pineapple Infused Rum"
 categories: [syrup]
 permalink: "/recipe/pineappleinfusedrum/"
+iconfile: pineapple_infused_rum
 stars: 0
 base_spirits: ['Jamaican Rum']
 youtube: "BXGS7Ai2hec"

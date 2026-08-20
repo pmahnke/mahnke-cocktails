@@ -5,6 +5,7 @@ title: "Embassy"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/embassy/"
+iconfile: embassy
 stars: 3
 base_spirits: ['Cognac', 'Curaçao', 'Jamaican Rum']
 youtube: "YFqEvNdPrX8"

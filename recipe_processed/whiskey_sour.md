@@ -5,6 +5,7 @@ author: "Anders Erickson"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/whiskey_sour/"
+iconfile: whiskey_sour
 image: /assets/images/cocktail_whiskey_sour.svg
 stars: 4.75
 base_spirits: ['Bourbon']

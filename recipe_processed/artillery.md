@@ -5,6 +5,7 @@ title: "Artillery"
 categories: [martini]
 eras: [classic]
 permalink: "/recipe/artillery/"
+iconfile: artillery
 stars: 3.5
 base_spirits: ['Plymouth Gin', 'Sweet Vermouth']
 youtube: "jzg4GuY4Fcg"

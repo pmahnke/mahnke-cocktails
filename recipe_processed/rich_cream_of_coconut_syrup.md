@@ -3,6 +3,7 @@ layout: recipe
 title: "Rich Cream of Coconut"
 categories: [syrup]
 permalink: "/recipe/rich_cream_of_coconut_syrup/"
+iconfile: rich_cream_of_coconut_syrup
 stars: 0
 youtube: "pJ_OQtJnIrY"
 excerpt: |

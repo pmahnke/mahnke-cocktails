@@ -5,6 +5,7 @@ author: "Anders Erickson"
 categories: [champagne]
 eras: [prohibition]
 permalink: "/recipe/chicago_cocktail/"
+iconfile: chicago_cocktail
 stars: 3
 base_spirits: ['Champagne', 'Cognac', 'Curaçao']
 youtube: "IAaiRENeyvc&t=639s"

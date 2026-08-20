@@ -6,6 +6,7 @@ title: "Sloe Gin Martinez"
 categories: [amaro, martini]
 eras: [modern]
 permalink: "/recipe/sloe_gin_martinez/"
+iconfile: sloe_gin_martinez
 stars: 0
 base_spirits: ['Campari', 'Curaçao', 'Maraschino Liqueur', 'Sloe Gin', 'Sweet Vermouth']
 youtube: "Cy1skc0oI28"

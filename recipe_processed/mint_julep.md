@@ -5,6 +5,7 @@ title: "Mint Julep"
 eras: [classic]
 categories: [julep]
 permalink: "/recipe/mint_julep/"
+iconfile: mint_julep
 image: /assets/images/category_julep.svg
 stars: 4
 base_spirits: ['Bourbon']

@@ -5,6 +5,7 @@ title: "Preakness"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/preakness/"
+iconfile: preakness
 stars: 3
 base_spirits: ['Bourbon', 'Bénédictine', 'Sweet Vermouth']
 youtube: "1V0-c6u4xJA"

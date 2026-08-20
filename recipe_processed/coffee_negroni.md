@@ -5,6 +5,7 @@ title: "Coffee Negroni"
 categories: [after_dinner, amaro, coffee]
 eras: [modern]
 permalink: "/recipe/coffee_negroni/"
+iconfile: coffee_negroni
 stars: 0
 base_spirits: ['Campari', 'Coffee Liqueur', 'London Dry Gin', 'Sweet Vermouth']
 youtube: "41iPKwfTE9E"

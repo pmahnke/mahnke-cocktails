@@ -5,6 +5,7 @@ title: "The Widow's Kiss"
 eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/widows_kiss/"
+iconfile: widows_kiss
 image: /assets/images/cocktail_widows_kiss.svg
 stars: 4.5
 base_spirits: ['Apple Brandy', 'Bénédictine', 'Yellow Chartreuse']

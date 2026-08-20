@@ -5,6 +5,7 @@ author: Wayne Curtis
 creator: Martin Cate
 categories: [syrup]
 permalink: "/recipe/spiced_rum/"
+iconfile: spiced_rum
 stars: 0
 base_spirits: ['Demerara Rum']
 youtube: ""

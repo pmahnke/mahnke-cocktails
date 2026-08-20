@@ -5,6 +5,7 @@ author: "Anders Erickson"
 categories: [champagne]
 eras: [anders]
 permalink: "/recipe/brambubble/"
+iconfile: brambubble
 stars: 0
 base_spirits: ['Champagne', 'Crème de Mûre', 'London Dry Gin']
 youtube: "IAaiRENeyvc&t=639s"

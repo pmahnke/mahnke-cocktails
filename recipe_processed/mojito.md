@@ -5,6 +5,7 @@ title: "Mojito"
 categories: [fizz]
 eras: [classic]
 permalink: "/recipe/mojito/"
+iconfile: mojito
 stars: 4
 base_spirits: ['White Rum']
 youtube: "KMypSCazyRw"

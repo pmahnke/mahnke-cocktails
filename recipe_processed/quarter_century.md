@@ -5,6 +5,7 @@ title: "Quarter Century"
 eras: [anders]
 categories: [amaro, champagne]
 permalink: "/recipe/quarter_century/"
+iconfile: quarter_century
 stars: 3.5
 base_spirits: ['Absinthe', 'Apricot Liqueur', 'Campari', 'Champagne']
 youtube: "S7DGgeFsjyE"

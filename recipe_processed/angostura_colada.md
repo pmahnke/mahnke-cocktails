@@ -6,6 +6,7 @@ title: "Angostura Colada"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/angostura_colada/"
+iconfile: angostura_colada
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters', 'Jamaican Rum']
 youtube: "-DnpmdGBmgs"

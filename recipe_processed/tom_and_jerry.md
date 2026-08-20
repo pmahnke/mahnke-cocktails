@@ -6,6 +6,7 @@ title: "Tom & Jerry"
 eras: [classic]
 categories: [eggnog]
 permalink: "/recipe/tom_and_jerry/"
+iconfile: tom_and_jerry
 stars: 0
 base_spirits: ['Cognac', 'Demerara Rum', 'Jamaican Rum']
 youtube: "tfPrLUlFO8k"

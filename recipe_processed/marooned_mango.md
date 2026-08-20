@@ -5,6 +5,7 @@ title: "Marooned Mango"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/marooned_mango/"
+iconfile: marooned_mango
 stars: 4
 base_spirits: ['Cachaça', 'Mango Liqueur', 'Sweet Vermouth']
 youtube: "xnXFbjQSu-k"

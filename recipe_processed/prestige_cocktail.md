@@ -6,6 +6,7 @@ title: "Prestige Cocktail"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/prestige_cocktail/"
+iconfile: prestige_cocktail
 stars: 0
 base_spirits: ['Dry Vermouth', 'Nicaraguan Rum']
 youtube: "CGkWnYhu4ag"

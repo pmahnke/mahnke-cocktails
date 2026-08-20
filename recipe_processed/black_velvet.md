@@ -5,6 +5,7 @@ title: "Black Velvet"
 categories: [beer, champagne, cocktail]
 eras: [classic]
 permalink: "/recipe/black_velvet/"
+iconfile: black_velvet
 stars: 3
 base_spirits: ['Champagne', 'Stout']
 youtube: "IAaiRENeyvc&t=639s"

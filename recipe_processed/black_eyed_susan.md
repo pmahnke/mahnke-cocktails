@@ -5,6 +5,7 @@ title: "Black-Eyed Susan"
 categories: [highball]
 eras: [modern]
 permalink: "/recipe/black_eyed_susan/"
+iconfile: black_eyed_susan
 stars: 0
 base_spirits: ['Bourbon', 'Peach Liqueur', 'Vodka']
 youtube: "1V0-c6u4xJA"

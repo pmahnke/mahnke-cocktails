@@ -5,6 +5,7 @@ title: "Hotel National Cocktail"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/hotel_national/"
+iconfile: hotel_national
 stars: 4
 base_spirits: ['Apricot Liqueur', 'White Rum']
 youtube: "aK-xI2Th2YE"

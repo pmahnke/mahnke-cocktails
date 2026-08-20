@@ -5,6 +5,7 @@ title: "Bourbon Sweet Tea"
 categories: [amaro, punch]
 eras: [anders]
 permalink: "/recipe/bourbon_sweet_tea/"
+iconfile: bourbon_sweet_tea
 stars: 0
 base_spirits: ['Amaro Nonino', 'Bourbon', 'Peach Liqueur']
 youtube: "1b4nHX4RjdY"

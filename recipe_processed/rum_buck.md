@@ -5,6 +5,7 @@ title: "Rum Buck"
 eras: [classic]
 categories: [buck]
 permalink: "/recipe/rum_buck/"
+iconfile: rum_buck
 stars: 4
 base_spirits: ['Allspice Dram', 'Dark Rum']
 youtube: "2EZBGowe0ho"

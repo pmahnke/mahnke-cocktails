@@ -5,6 +5,7 @@ title: "Pago Pago"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/pago_pago/"
+iconfile: pago_pago
 stars: 0
 base_spirits: ['Green Chartreuse', 'Rhum Agricole', 'White Crème de Cacao']
 youtube: "6FZtQNdTReg"

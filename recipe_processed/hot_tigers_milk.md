@@ -7,6 +7,7 @@ title: "Hot Tiger’s Milk"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/hot_tigers_milk/"
+iconfile: hot_tigers_milk
 stars: 0
 base_spirits: ['Demerara Rum']
 youtube: "pJ_OQtJnIrY"

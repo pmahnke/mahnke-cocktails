@@ -6,6 +6,7 @@ title: "Blackthorn"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/blackthorn/"
+iconfile: blackthorn
 stars: 3.75
 base_spirits: ['Blanc Vermouth', 'Sloe Gin', 'Sweet Vermouth']
 youtube: "Wqy0LuuERco"

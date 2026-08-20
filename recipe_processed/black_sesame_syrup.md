@@ -3,6 +3,7 @@ layout: recipe
 title: "Black Sesame Syrup"
 categories: [syrup]
 permalink: "/recipe/black_sesame_syrup/"
+iconfile: black_sesame_syrup
 stars: 0
 youtube: LaqklLOgeCY
 excerpt: |

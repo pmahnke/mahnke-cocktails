@@ -5,6 +5,7 @@ title: "Mai Tai"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/mai_tai/"
+iconfile: mai_tai
 image: /assets/images/cocktail_mai_tai.svg
 stars: 4.5
 base_spirits: ['Curaçao', 'Dark Rum', 'Jamaican Rum', 'Overproof Rum', 'Rhum Agricole']

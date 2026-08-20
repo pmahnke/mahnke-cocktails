@@ -5,6 +5,7 @@ title: "Miami Vice"
 categories: [frozen, sour]
 eras: [modern]
 permalink: "/recipe/miami_vice/"
+iconfile: miami_vice
 stars: 0
 base_spirits: ['White Rum']
 youtube: "0JUtwxuMCg0"

@@ -5,6 +5,7 @@ title: "Blue Hawaii"
 categories: [highball]
 eras: [modern]
 permalink: "/recipe/blue_hawaii/"
+iconfile: blue_hawaii
 stars: 0
 base_spirits: ['Curaçao', 'Rhum Agricole', 'White Rum']
 youtube: "6bGqiC9qyQ8"

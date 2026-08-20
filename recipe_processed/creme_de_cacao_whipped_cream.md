@@ -3,6 +3,7 @@ layout: recipe
 title: "Crème de Cacao Infused Whipped Cream"
 categories: [syrup]
 permalink: "/recipe/creme_de_cacao_whipped_cream/"
+iconfile: creme_de_cacao_whipped_cream
 stars: 0
 youtube: "x6QiK4firC4"
 excerpt: |

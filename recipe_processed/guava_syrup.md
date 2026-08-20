@@ -3,6 +3,7 @@ layout: recipe
 title: "Guava Syrup"
 categories: [syrup]
 permalink: "/recipe/guava_syrup/"
+iconfile: guava_syrup
 stars: 0
 youtube: "-DnpmdGBmgs"
 excerpt: |

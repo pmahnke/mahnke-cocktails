@@ -5,6 +5,7 @@ title: "Seasonal Affective Disorder (S.A.D.)"
 categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/seasonal_affective_disorder/"
+iconfile: seasonal_affective_disorder
 image: /assets/images/cocktail_seasonal_affective_disorder.svg
 stars: 4.5
 base_spirits: ['Absinthe', 'Cognac', 'Demerara Rum']

@@ -5,6 +5,7 @@ title: "St. Charles Punch"
 categories: [sour]
 eras: [classic, new orleans]
 permalink: "/recipe/st_charles_punch/"
+iconfile: st_charles_punch
 stars: 0
 base_spirits: ['Absinthe', 'Cognac', 'Ruby Port']
 youtube: "btZ5f-OaoQs"

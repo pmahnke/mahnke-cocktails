@@ -5,6 +5,7 @@ title: "Tipperary"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/tipperary/"
+iconfile: tipperary
 stars: 0
 base_spirits: ['Green Chartreuse', 'Irish Whiskey', 'Sweet Vermouth']
 youtube: "2zQBXxC7ma8"

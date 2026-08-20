@@ -5,6 +5,7 @@ categories: [mocktail]
 eras: [anders]
 title: "Sereni-Tea Now!"
 permalink: "/recipe/sereni-tea_now/"
+iconfile: sereni-tea_now
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A non-alcoholic drink featuring the flavors of pear, grenadine, lemon, and roasted Hojicha tea."

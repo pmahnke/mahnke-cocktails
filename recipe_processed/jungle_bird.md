@@ -5,6 +5,7 @@ title: "Jungle Bird"
 categories: [amaro, tiki]
 eras: [modern]
 permalink: "/recipe/jungle_bird/"
+iconfile: jungle_bird
 stars: 3.5
 base_spirits: ['Campari', 'Demerara Rum', 'Jamaican Rum']
 youtube: "YFqEvNdPrX8"

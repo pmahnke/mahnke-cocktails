@@ -5,6 +5,7 @@ title: "S'no Problem"
 eras: [anders]
 categories: [toddy]
 permalink: "/recipe/sno_problem/"
+iconfile: sno_problem
 stars: 0
 base_spirits: ['Bourbon', 'Navy Strength Rum']
 youtube: "s30L-iu171E"

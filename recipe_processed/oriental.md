@@ -5,6 +5,7 @@ title: "The Oriental"
 categories: [daisy, sour]
 eras: [prohibition]
 permalink: "/recipe/oriental/"
+iconfile: oriental
 stars: 3.5
 base_spirits: ['Rye', 'Sweet Vermouth', 'Triple Sec']
 youtube: "0D1SXgMgp_g"

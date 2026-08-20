@@ -5,6 +5,7 @@ title: "Brandy Slush"
 categories: [punch]
 eras: [modern]
 permalink: "/recipe/brandy_slush/"
+iconfile: brandy_slush
 stars: 0
 base_spirits: ['Brandy']
 youtube: "rQ59lgXm8Ho"

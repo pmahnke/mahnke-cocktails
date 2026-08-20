@@ -5,6 +5,7 @@ title: "Grog"
 categories: [grog]
 eras: [classic]
 permalink: "/recipe/grog/"
+iconfile: grog
 stars: 3.5
 base_spirits: ['Navy Strength Rum']
 youtube: "https://pussersrum.com/blogs/cocktails/grog-cocktail?srsltid=AfmBOor-6PscaIXmngwY_iaX-LYLMNQTbODfvJlzWD1bkmP-KFb3IkoO"

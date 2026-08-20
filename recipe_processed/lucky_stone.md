@@ -5,6 +5,7 @@ title: "The Lucky Stone"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/lucky_stone/"
+iconfile: lucky_stone
 stars: 3.5
 base_spirits: ['Amontillado Sherry', 'Apricot Liqueur', 'Irish Whiskey']
 youtube: "aRboP-f7LK0"

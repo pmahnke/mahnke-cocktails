@@ -6,6 +6,7 @@ title: "Bijou"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/bijou/"
+iconfile: bijou
 stars: 4
 base_spirits: ['Green Chartreuse', 'Plymouth Gin', 'Sweet Vermouth']
 youtube: "LeIeaxJR2kw"

@@ -6,6 +6,7 @@ title: "Angostura Fizz"
 categories: [fizz]
 eras: [modern]
 permalink: "/recipe/angostura_fizz/"
+iconfile: angostura_fizz
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters']
 youtube: "0J6-sPDCOMw"

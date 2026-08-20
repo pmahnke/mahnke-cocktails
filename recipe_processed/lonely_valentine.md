@@ -5,6 +5,7 @@ title: "Lonely Valentine"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/lonely_valentine/"
+iconfile: lonely_valentine
 stars: 3.5
 base_spirits: ['Ruby Port', 'White Crème de Cacao', 'White Rum']
 youtube: "UhRb_xqCXwQ"

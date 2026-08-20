@@ -5,6 +5,7 @@ title: "Psycho Killer"
 eras: [modern]
 categories: [amaro, cocktail]
 permalink: "/recipe/psycho_killer/"
+iconfile: psycho_killer
 stars: 0
 base_spirits: ['Absinthe', 'Banana Liqueur', 'Campari', 'Irish Whiskey', 'White Crème de Cacao']
 youtube: "u0N9FFJ1i5c"

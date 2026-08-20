@@ -3,6 +3,7 @@ layout: recipe
 title: "Lime Cordial"
 categories: [syrup]
 permalink: "/recipe/lime_cordial/"
+iconfile: lime_cordial
 stars: 4
 youtube: "https://jeffreymorgenthaler.com/lime-cordial/"
 excerpt: |

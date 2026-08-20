@@ -5,6 +5,7 @@ title: "Queen's Park Swizzle"
 categories: [frappe_swizzle]
 eras: [prohibition]
 permalink: "/recipe/queens_park_swizzle/"
+iconfile: queens_park_swizzle
 stars: 4
 base_spirits: ['Demerara Rum']
 youtube: "ox1-C1owN80"

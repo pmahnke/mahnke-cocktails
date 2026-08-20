@@ -5,6 +5,7 @@ title: "White Negroni"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/white_negroni/"
+iconfile: white_negroni
 stars: 0
 base_spirits: ['Lillet Blanc', 'Plymouth Gin', 'Suze']
 youtube: "fBax4HODqyA"

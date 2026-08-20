@@ -5,6 +5,7 @@ title: "Bamboo"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/bamboo/"
+iconfile: bamboo
 stars: 4
 base_spirits: ['Blanc Vermouth', 'Oloroso Sherry']
 youtube: "B8l-F1qcTYU&t=48s"

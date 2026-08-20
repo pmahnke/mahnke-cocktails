@@ -3,6 +3,7 @@ layout: recipe
 title: "Semi-Rich Simple Syrup"
 categories: [syrup]
 permalink: "/recipe/simple_syrup/"
+iconfile: simple_syrup
 stars: 0
 youtube: CvEDhkR6K14
 excerpt: |

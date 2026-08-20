@@ -3,6 +3,7 @@ layout: recipe
 title: "Cinnamon-Infused Honey Syrup"
 categories: [syrup]
 permalink: "/recipe/cinnamon_honey_syrup/"
+iconfile: cinnamon_honey_syrup
 stars: 0
 youtube: "79htbyQ8nDY"
 excerpt: |

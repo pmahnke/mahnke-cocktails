@@ -3,6 +3,7 @@ layout: recipe
 title: "Orgeat Syrup"
 categories: [syrup]
 permalink: "/recipe/orgeat_syrup/"
+iconfile: orgeat_syrup
 stars: 0
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

@@ -5,6 +5,7 @@ title: "Whiskey Smash"
 categories: [smash]
 eras: [classic]
 permalink: "/recipe/whiskey_smash/"
+iconfile: whiskey_smash
 stars: 0
 base_spirits: ['Bourbon']
 youtube: "Jo1wxAfyLto"

@@ -5,6 +5,7 @@ title: "Lumberjack in Love"
 eras: [anders]
 categories: [beer]
 permalink: "/recipe/lumberjack_in_love/"
+iconfile: lumberjack_in_love
 stars: 0
 base_spirits: ['Allspice Dram', 'Lager', 'Rye']
 youtube: "Eg7DLBgwJqM"

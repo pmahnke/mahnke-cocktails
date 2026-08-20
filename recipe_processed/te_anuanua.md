@@ -5,6 +5,7 @@ title: "Te Anuanua"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/te_anuanua/"
+iconfile: te_anuanua
 stars: 4
 base_spirits: ['Banana Liqueur', 'Jamaican Rum']
 youtube: "IutGk6xCT1A"

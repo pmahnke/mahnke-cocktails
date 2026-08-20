@@ -5,6 +5,7 @@ title: "Mary Pickford"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/mary_pickford/"
+iconfile: mary_pickford
 stars: 4
 base_spirits: ['Maraschino Liqueur', 'White Rum']
 youtube: "TGJZv0FTjk8"

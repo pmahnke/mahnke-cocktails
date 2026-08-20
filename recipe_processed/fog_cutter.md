@@ -5,6 +5,7 @@ title: "Fog Cutter"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/fog_cutter/"
+iconfile: fog_cutter
 stars: 4
 base_spirits: ['Amontillado Sherry', 'Curaçao', 'Pisco', 'Plymouth Gin', 'White Rum']
 youtube: "kMqIu6zPv9s"

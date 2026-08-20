@@ -6,6 +6,7 @@ title: "Chilcano"
 categories: [spritz]
 eras: [modern]
 permalink: "/recipe/chilcano/"
+iconfile: chilcano
 stars: 3.5
 base_spirits: ['Pisco']
 youtube: ""

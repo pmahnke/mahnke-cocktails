@@ -6,6 +6,7 @@ title: "Zombie"
 categories: [tiki]
 eras: [classic]
 permalink: "/recipe/zombie/"
+iconfile: zombie
 stars: 0
 base_spirits: ['Demerara Rum', 'Gold Rum', 'Jamaican Rum']
 youtube: '\_eCla7H-TA0&t=4s'

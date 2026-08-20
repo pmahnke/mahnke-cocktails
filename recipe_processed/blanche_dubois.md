@@ -6,6 +6,7 @@ title: "Blanche Dubois"
 categories: [sour]
 eras: [new_orleans]
 permalink: "/recipe/blanche_dubois/"
+iconfile: blanche_dubois
 stars: 4
 base_spirits: ['Curaçao', 'London Dry Gin']
 youtube: "ptoAM1cWCAI"

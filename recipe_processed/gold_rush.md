@@ -5,6 +5,7 @@ title: "Gold Rush"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/gold_rush/"
+iconfile: gold_rush
 stars: 2.5
 base_spirits: ['Bourbon']
 youtube: "VBSjE-P_C58"

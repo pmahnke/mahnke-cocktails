@@ -5,6 +5,7 @@ title: "Deshler"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/deshler/"
+iconfile: deshler
 stars: 4
 base_spirits: ['Bourbon', 'Dubonnet Rouge', 'Lillet Rouge', 'Rye', 'Triple Sec']
 youtube: "3vtklNLjMPw"

@@ -5,6 +5,7 @@ title: "Corpse Reviver #2a"
 categories: [sour, daisy, corpse_reviver]
 eras: [modern]
 permalink: "/recipe/corpse_reviver_2a/"
+iconfile: corpse_reviver_2a
 stars: 4
 base_spirits: ['London Dry Gin', 'Swedish Punsch', 'Triple Sec']
 youtube: "rMCsrbidAJ4"

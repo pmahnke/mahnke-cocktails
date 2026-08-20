@@ -6,6 +6,7 @@ title: "Jasmine"
 eras: [modern]
 categories: [amaro, sour, daisy]
 permalink: "/recipe/jasmine/"
+iconfile: jasmine
 stars: 3
 base_spirits: ['Campari', 'London Dry Gin', 'Triple Sec']
 youtube: "b7rg7eshiQU"

@@ -5,6 +5,7 @@ title: "The Costume Party"
 categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/costume_party/"
+iconfile: costume_party
 stars: 0
 base_spirits: ['Apricot Liqueur', 'Vodka', 'White Crème de Cacao']
 youtube: "i67-17-CZCQ"

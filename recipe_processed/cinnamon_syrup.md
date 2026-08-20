@@ -3,6 +3,7 @@ layout: recipe
 title: "Cinnamon Syrup"
 categories: [syrup]
 permalink: "/recipe/cinnamon_syrup/"
+iconfile: cinnamon_syrup
 stars: 0
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

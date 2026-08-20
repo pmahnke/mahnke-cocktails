@@ -5,6 +5,7 @@ title: "Sherry Cobbler"
 categories: [cobbler]
 eras: [classic]
 permalink: "/recipe/sherry_cobbler/"
+iconfile: sherry_cobbler
 stars: 3
 base_spirits: ['Curaçao', 'Oloroso Sherry']
 youtube: "f7SpTmbMOsQ"

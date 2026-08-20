@@ -5,6 +5,7 @@ title: "Stinger"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/stinger/"
+iconfile: stinger
 stars: 4
 base_spirits: ['Absinthe', 'Cognac', 'Crème de Menthe']
 youtube: "mBGgu3qRztY"

@@ -5,6 +5,7 @@ author: John Mahnke
 creator: James Worden
 categories: [syrup]
 permalink: "/recipe/spiced_ginger_syrup/"
+iconfile: spiced_ginger_syrup
 stars: 0
 youtube:
 excerpt: |

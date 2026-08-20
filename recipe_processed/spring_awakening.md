@@ -5,6 +5,7 @@ title: "Spring Awakening &#47; Winter's Nap"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/spring_awakening/"
+iconfile: spring_awakening
 stars: 0
 base_spirits: ['Aperol', 'Cocchi Americano', 'Vodka']
 youtube: "2gYbnb705YQ"

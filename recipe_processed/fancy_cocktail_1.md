@@ -5,6 +5,7 @@ title: "Fancy Cocktail No.1"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/fancy_cocktail_1/"
+iconfile: fancy_cocktail_1
 stars: 0
 base_spirits: ['Italicus', 'Manzanilla Sherry', 'Reposado Tequila']
 youtube: "AfbytyV2PdY"

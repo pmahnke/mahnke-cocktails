@@ -5,6 +5,7 @@ title: "Negroni"
 categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/negroni/"
+iconfile: negroni
 stars: 4
 base_spirits: ['Campari', 'London Dry Gin', 'Sweet Vermouth']
 youtube: "lgy6vEX_hQg"

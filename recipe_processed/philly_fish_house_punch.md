@@ -5,6 +5,7 @@ title: "Philadelphia Fish House Punch"
 categories: [punch]
 eras: [classic]
 permalink: "/recipe/philly_fish_house_punch/"
+iconfile: philly_fish_house_punch
 stars: 0
 base_spirits: ['Apple Brandy', 'Cognac', 'Jamaican Rum', 'Peach Liqueur']
 youtube: "cJhKGTM3z20"

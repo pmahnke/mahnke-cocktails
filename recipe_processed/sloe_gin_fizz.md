@@ -5,6 +5,7 @@ title: "Sloe Gin Fizz"
 categories: [fizz]
 eras: [classic]
 permalink: "/recipe/sloe_gin_fizz/"
+iconfile: sloe_gin_fizz
 stars: 4
 base_spirits: ['Sloe Gin']
 youtube: "gGlTXp_oujk"

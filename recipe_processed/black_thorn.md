@@ -6,6 +6,7 @@ title: "Black Thorn"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/black_thorn/"
+iconfile: black_thorn
 stars: 4
 base_spirits: ['Absinthe', 'Blanc Vermouth', 'Irish Whiskey']
 youtube: "Wqy0LuuERco"

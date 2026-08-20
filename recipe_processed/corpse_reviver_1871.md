@@ -5,6 +5,7 @@ title: "The 1871 Corpse Reviver"
 categories: [cocktail, corpse_reviver]
 eras: [classic]
 permalink: "/recipe/corpse_reviver_1871/"
+iconfile: corpse_reviver_1871
 stars: 0
 base_spirits: ['Cognac', 'Maraschino Liqueur']
 youtube: "rMCsrbidAJ4"

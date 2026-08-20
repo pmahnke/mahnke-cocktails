@@ -6,6 +6,7 @@ title: "Bitter Giuseppe"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/bitter_giuseppe/"
+iconfile: bitter_giuseppe
 stars: 0
 base_spirits: ['Cynar', 'Sweet Vermouth']
 youtube: "AHPatRO71U8"

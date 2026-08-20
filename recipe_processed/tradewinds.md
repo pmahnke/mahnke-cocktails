@@ -5,6 +5,7 @@ title: "Tradewinds"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/tradewinds/"
+iconfile: tradewinds
 stars: 0
 base_spirits: ['Apricot Liqueur', 'Dark Rum', 'Gold Rum']
 youtube: "RThEGH0sbgM"

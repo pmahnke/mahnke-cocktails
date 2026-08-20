@@ -5,6 +5,7 @@ title: "Sweet Virginia"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/sweet_virginia/"
+iconfile: sweet_virginia
 stars: 3
 base_spirits: ['Bourbon', 'Cherry Liqueur', 'Curaçao', 'Sweet Vermouth']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/31242/sweet-virginia"

@@ -5,6 +5,7 @@ categories: [mocktail]
 eras: [prohibition]
 title: "Pink Pearl"
 permalink: "/recipe/pink_pearl/"
+iconfile: pink_pearl
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A classic non-alcoholic cocktail from 1937 with a big, refreshing hit of grapefruit."

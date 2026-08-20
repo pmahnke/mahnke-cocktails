@@ -6,6 +6,7 @@ title: "Right Word"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/right_word/"
+iconfile: right_word
 stars: 3.5
 base_spirits: ['Elderflower Liqueur', 'Lillet Blanc', 'London Dry Gin']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/9680/right-word"

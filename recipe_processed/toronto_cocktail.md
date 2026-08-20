@@ -5,6 +5,7 @@ title: "Toronto Cocktail"
 categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/toronto_cocktail/"
+iconfile: toronto_cocktail
 stars: 3
 base_spirits: ['Fernet Branca', 'Rye']
 youtube: "fQfVijUec0A"

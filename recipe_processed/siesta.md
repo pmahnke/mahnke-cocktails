@@ -6,6 +6,7 @@ title: "Siesta"
 categories: [amaro, sour]
 eras: [modern]
 permalink: "/recipe/siesta/"
+iconfile: siesta
 stars: 0
 base_spirits: ['Blanco Tequila', 'Campari']
 youtube: "F6o09CBEVvU"

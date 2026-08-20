@@ -5,6 +5,7 @@ title: "Remember the Maine"
 eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/remember_the_maine/"
+iconfile: remember_the_maine
 stars: 3
 base_spirits: ['Absinthe', 'Cherry Heering', 'Rye', 'Sweet Vermouth']
 youtube: "I2_xijYpP_Y"

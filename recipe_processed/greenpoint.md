@@ -6,6 +6,7 @@ title: "Greenpoint"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/greenpoint/"
+iconfile: greenpoint
 stars: 3.5
 base_spirits: ['Rye', 'Sweet Vermouth', 'Yellow Chartreuse']
 youtube: "h68b0qgAkAg"

@@ -3,6 +3,7 @@ layout: recipe
 title: "Hibiscus Syrup"
 categories: [syrup]
 permalink: "/recipe/hibiscus_syrup/"
+iconfile: hibiscus_syrup
 stars: 0
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

@@ -5,6 +5,7 @@ title: "Naked & Famous"
 eras: [modern]
 categories: [amaro, sour, daisy]
 permalink: "/recipe/naked_and_famous/"
+iconfile: naked_and_famous
 stars: 0
 base_spirits: ['Aperol', 'Mezcal', 'Yellow Chartreuse']
 youtube: "70cS-bRH9kA"

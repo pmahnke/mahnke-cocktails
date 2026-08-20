@@ -5,6 +5,7 @@ title: "Morning Glory Fizz"
 categories: [fizz]
 eras: [classic]
 permalink: "/recipe/morning_glory_fizz/"
+iconfile: morning_glory_fizz
 stars: 0
 base_spirits: ['Absinthe', 'Single Malt Scotch']
 youtube: "YMY0LtEq8mg"

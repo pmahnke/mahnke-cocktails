@@ -4,6 +4,7 @@ author: Anders Erickson
 title: "Thyme-Infused Syrup"
 categories: [syrup]
 permalink: "/recipe/thyme_syrup/"
+iconfile: thyme_syrup
 stars: 0
 youtube: "ZE3G8aUyOn0"
 excerpt: |

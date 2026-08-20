@@ -5,6 +5,7 @@ title: "Criterion Cocktail"
 categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/criterion_cocktail/"
+iconfile: criterion_cocktail
 stars: 0
 base_spirits: ['Bénédictine', 'Cognac']
 youtube: "LINK"

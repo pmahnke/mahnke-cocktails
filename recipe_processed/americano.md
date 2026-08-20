@@ -6,6 +6,7 @@ title: "Americano"
 categories: [amaro, cocktail]
 eras: [classic]
 permalink: "/recipe/americano/"
+iconfile: americano
 stars: 3
 base_spirits: ['Campari', 'Sweet Vermouth']
 youtube: "lgy6vEX_hQg"

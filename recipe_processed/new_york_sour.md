@@ -5,6 +5,7 @@ title: "New York Sour"
 categories: [sour]
 eras: [classic]
 permalink: "/recipe/new_york_sour/"
+iconfile: new_york_sour
 image: /assets/images/cocktail_new_york_sour.svg
 stars: 4.5
 base_spirits: ['Bourbon', 'Red Wine']

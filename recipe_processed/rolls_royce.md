@@ -5,6 +5,7 @@ title: "Rolls Royce"
 categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/rolls_royce/"
+iconfile: rolls_royce
 stars: 0
 base_spirits: ['Bénédictine', 'Dry Vermouth', 'London Dry Gin', 'Sweet Vermouth']
 youtube: "UJJqbCGHsOg"

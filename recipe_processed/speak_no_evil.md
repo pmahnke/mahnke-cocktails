@@ -5,6 +5,7 @@ title: "Speak No Evil"
 eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/speak_no_evil/"
+iconfile: speak_no_evil
 stars: 0
 base_spirits: ['Allspice Dram', 'Mezcal', 'Reposado Tequila']
 youtube: "-DnpmdGBmgs&t=433s"

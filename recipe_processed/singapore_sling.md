@@ -6,6 +6,7 @@ title: "Singapore Sling"
 eras: [modern]
 categories: [tiki]
 permalink: "/recipe/singapore_sling/"
+iconfile: singapore_sling
 stars: 4
 base_spirits: ['Bénédictine', 'Cherry Liqueur', 'London Dry Gin', 'Triple Sec']
 youtube: "EjRcajuUkJk"

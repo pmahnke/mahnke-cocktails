@@ -5,6 +5,7 @@ title: "Shanghai London Dry Gin"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/shanghai_gin/"
+iconfile: shanghai_gin
 image: /assets/images/cocktail_shanghai_gin.svg
 stars: 4.25
 base_spirits: ['Bénédictine', 'London Dry Gin', 'Yellow Chartreuse']

@@ -5,6 +5,7 @@ title: "Creole"
 categories: [amaro, cocktail]
 eras: [new_orleans]
 permalink: "/recipe/creole/"
+iconfile: creole
 stars: 4
 base_spirits: ['Bénédictine', 'Ramazzotti', 'Rye', 'Sweet Vermouth']
 youtube: "BTPaTmkJxbM"

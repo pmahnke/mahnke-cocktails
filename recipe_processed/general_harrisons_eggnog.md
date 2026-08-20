@@ -5,6 +5,7 @@ title: "General Harrison’s Eggnog"
 categories: [eggnog]
 eras: [classic]
 permalink: "/recipe/general_harrisons_eggnog/"
+iconfile: general_harrisons_eggnog
 stars: 0
 base_spirits: ['Allspice Dram', 'Demerara Rum', 'Dry Hard Cider']
 youtube: "s7Rcx7Fekn4"

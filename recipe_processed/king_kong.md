@@ -6,6 +6,7 @@ title: "King Kong"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/king_kong/"
+iconfile: king_kong
 stars: 3.5
 base_spirits: ['Banana Liqueur', 'Bourbon', 'Jamaican Rum']
 youtube: "ye2b6ylRmcs"

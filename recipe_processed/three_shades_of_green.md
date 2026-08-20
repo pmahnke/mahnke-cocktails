@@ -5,6 +5,7 @@ title: "Three Shades of Green"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/three_shades_of_green/"
+iconfile: three_shades_of_green
 stars: 3.5
 base_spirits: ['Green Chartreuse', 'London Dry Gin']
 youtube: "https://uws.theconsulate.nyc/new-york-upper-west-side-the-consulate-drink-menu"

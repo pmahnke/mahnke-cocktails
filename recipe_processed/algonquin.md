@@ -5,6 +5,7 @@ title: "The Algonquin (Anders' Version)"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/algonquin/"
+iconfile: algonquin
 stars: 3
 base_spirits: ['Amontillado Sherry', 'Blanc Vermouth', 'Rye']
 youtube: "BarYf4SITZ4"

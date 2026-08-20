@@ -5,6 +5,7 @@ title: "Black Lantern"
 categories: [tiki]
 eras: [anders]
 permalink: "/recipe/black_lantern/"
+iconfile: black_lantern
 stars: 0
 base_spirits: ['Cognac', 'Demerara Rum']
 youtube: "LaqklLOgeCY"

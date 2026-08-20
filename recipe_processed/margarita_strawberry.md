@@ -5,6 +5,7 @@ title: "Strawberry Frozen Margarita"
 categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_strawberry/"
+iconfile: margarita_strawberry
 stars: 0
 base_spirits: ['Curaçao', 'Reposado Tequila']
 youtube: "jxpT11WEtWQ"

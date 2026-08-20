@@ -5,6 +5,7 @@ author: "Anders Erickson"
 categories: [champagne, cocktail]
 eras: [classic]
 permalink: "/recipe/airmail/"
+iconfile: airmail
 stars: 0
 base_spirits: ['Champagne', 'Gold Rum']
 youtube: "vaVcBQ6tiFw"

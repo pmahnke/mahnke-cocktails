@@ -5,6 +5,7 @@ title: "Hunter"
 categories: [cocktail]
 eras: [classic, modern]
 permalink: "/recipe/hunter/"
+iconfile: hunter
 stars: 2
 base_spirits: ['Bourbon', 'Cherry Liqueur', 'Maraschino Liqueur', 'Rye']
 youtube: "LINK"

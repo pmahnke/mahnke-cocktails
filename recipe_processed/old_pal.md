@@ -5,6 +5,7 @@ title: "Old Pal"
 eras: [prohibition]
 categories: [amaro, cocktail]
 permalink: "/recipe/old_pal/"
+iconfile: old_pal
 stars: 3
 base_spirits: ['Blanc Vermouth', 'Campari', 'Rye']
 youtube: "op3jvecV1ME"

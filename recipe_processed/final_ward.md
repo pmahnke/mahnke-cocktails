@@ -5,6 +5,7 @@ title: "Final Ward"
 eras: [modern]
 categories: [sour, daisy]
 permalink: "/recipe/final_ward/"
+iconfile: final_ward
 stars: 3.5
 base_spirits: ['Green Chartreuse', 'Maraschino Liqueur', 'Rye']
 youtube: "NGPSk_jMZvA"

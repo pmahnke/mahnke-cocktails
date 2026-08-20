@@ -5,6 +5,7 @@ title: "Wardroom"
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/wardroom/"
+iconfile: wardroom
 stars: 3
 base_spirits: ['Cognac', 'Maraschino Liqueur', 'Nicaraguan Rum', 'Tawny Port']
 youtube: "y41UN6AZSMs"

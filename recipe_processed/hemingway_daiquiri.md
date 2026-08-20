@@ -5,6 +5,7 @@ title: "Hemingway Daiquiri"
 categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/hemingway_daiquiri/"
+iconfile: hemingway_daiquiri
 stars: 0
 base_spirits: ['Maraschino Liqueur', 'White Rum']
 youtube: "mILAxazthY4"

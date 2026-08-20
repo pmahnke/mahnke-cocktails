@@ -5,6 +5,7 @@ title: "Navy Grog: Tropical Standard's Way"
 categories: [tiki]
 eras: [modern]
 permalink: "/recipe/navy_grog_tropical_way/"
+iconfile: navy_grog_tropical_way
 stars: 0
 base_spirits: ['Allspice Dram', 'Demerara Rum', 'Jamaican Rum', 'White Rum']
 youtube: "I3jeItKyZCs"

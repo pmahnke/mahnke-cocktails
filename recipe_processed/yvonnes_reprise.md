@@ -5,6 +5,7 @@ title: "Yvonne’s Reprise"
 categories: [sour]
 eras: [anders]
 permalink: "/recipe/yvonnes_reprise/"
+iconfile: yvonnes_reprise
 stars: 0
 base_spirits: ['Blanc Vermouth', 'Crème de Cassis', 'London Dry Gin']
 youtube: "FI4wUOzJvUE"

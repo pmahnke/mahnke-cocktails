@@ -6,6 +6,7 @@ title: "Just for Mary"
 categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/just_for_mary/"
+iconfile: just_for_mary
 stars: 3
 base_spirits: ['Cherry Liqueur', 'Lillet Blanc', 'Rye']
 youtube: "MSQewg1LuOk"

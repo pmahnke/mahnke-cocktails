@@ -5,6 +5,7 @@ title: "Absinthe Frappé"
 categories: [frappe_swizzle]
 eras: [classic]
 permalink: "/recipe/absinthe_frappe/"
+iconfile: absinthe_frappe
 stars: 3.5
 base_spirits: ['Absinthe']
 youtube: "g4_hKcbMLL4"

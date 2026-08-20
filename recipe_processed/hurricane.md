@@ -5,6 +5,7 @@ title: "Hurricane"
 categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/hurricane/"
+iconfile: hurricane
 stars: 4
 base_spirits: ['Dark Rum', 'Jamaican Rum']
 youtube: "3b2-jFhtCyQ"

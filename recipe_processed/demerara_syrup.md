@@ -3,6 +3,7 @@ layout: recipe
 title: "Rich Demerara Syrup"
 categories: [syrup]
 permalink: "/recipe/demerara_syrup/"
+iconfile: demerara_syrup
 stars: 4.5
 youtube: "MEQMeCrg0Zi8rePO"
 excerpt: |

@@ -5,6 +5,7 @@ title: "La Rosita"
 categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/la_rosita/"
+iconfile: la_rosita
 stars: 0
 base_spirits: ['Campari', 'Dry Vermouth', 'Reposado Tequila', 'Sweet Vermouth']
 youtube: "UhRb_xqCXwQ"
