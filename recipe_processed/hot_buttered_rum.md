@@ -6,7 +6,7 @@ categories: [toddy]
 eras: [classic]
 permalink: "/recipe/hot_buttered_rum/"
 iconfile: hot_buttered_rum
-stars: 0
+stars: 3
 base_spirits: ['Dark Rum']
 youtube: "mBGgu3qRztY"
 description: "A classic hot toddy perfect for winter, featuring a rich, spiced butter batter that melts into hot rum and water."
@@ -82,7 +82,12 @@ garnishes: cinnamon
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "3",
+   "bestRating": "5",
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",

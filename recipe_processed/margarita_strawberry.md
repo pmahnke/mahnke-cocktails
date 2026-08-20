@@ -6,7 +6,7 @@ categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_strawberry/"
 iconfile: margarita_strawberry
-stars: 0
+stars: 3.5
 base_spirits: ['Curaçao', 'Reposado Tequila']
 youtube: "jxpT11WEtWQ"
 description: "A refreshing and fruity modern cocktail that blends the classic Margarita with the sweetness of fresh strawberries."
@@ -81,7 +81,12 @@ type: blended
     ],
   "recipeYield": "1 cocktail",
   "recipeCategory": "cocktail",
-
+  "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingValue": "3.5",
+   "bestRating": "5",
+   "reviewCount": "2"
+  },
   "recipeCuisine": "global",
   "prepTime": "PT20M",
   "cookTime": "PT15S",
