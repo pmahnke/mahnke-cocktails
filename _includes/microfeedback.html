@@ -1,0 +1,36 @@
+    <!-- start microfeedback form -->
+    <div class="micro-feedback-box no-print" id="feedback-widget" data-recipe="{{ page.slug | default: page.title }}">
+    <div class="feedback-initial">
+        <button type="button" class="btn-feedback" onclick="handleMadeClick()">🍸 I Made This</button>
+        <button type="button" class="btn-feedback" id="btn-share" onclick="handleShareClick(this)">🔗 Share</button>
+    </div>
+
+    <div class="feedback-expanded no-print" id="feedback-expanded" style="display: none; margin-top: 1rem;">
+        <p style="margin: 0.5rem 0;">How was the spec?</p>
+        
+        <!-- Quick Rating -->
+        <div class="rating-options">
+        <label><input type="radio" name="star_rating" value="5"> 5★</label>
+        <label><input type="radio" name="star_rating" value="4"> 4★</label>
+        <label><input type="radio" name="star_rating" value="3"> 3★</label>
+        <label><input type="radio" name="star_rating" value="2"> 2★</label>
+        <label><input type="radio" name="star_rating" value="1"> 1★</label>
+        </div>
+
+        <!-- Quick Tags -->
+        <div class="tag-options" style="margin: 0.5rem 0;">
+        <label><input type="checkbox" name="tag" value="Spot On"> Spot On</label>
+        <label><input type="checkbox" name="tag" value="Too Sweet"> Too Sweet</label>
+        <label><input type="checkbox" name="tag" value="Too Tart"> Too Tart</label>
+        <label><input type="checkbox" name="tag" value="Spirit Forward"> Spirit Forward</label>
+        </div>
+
+        <!-- Notes / Substitutions -->
+        <input type="text" id="feedback-notes" placeholder="Bottle swap or spec tweak? (optional)" style="width: 100%; max-width: 350px; margin: 0.5rem 0; padding: 0.4rem;">
+        <br>
+        <button type="button" class="btn-submit" onclick="submitFullFeedback()">Submit Feedback</button>
+    </div>
+    
+    <p id="feedback-status" style="display: none; color: #2e7d32; font-weight: 500; margin-top: 0.5rem;"></p>
+    </div>
+    <!-- /end form -->
