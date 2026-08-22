@@ -16,19 +16,18 @@ excerpt: |
 date: 2025-08-11
 ---
 
-
 <div class="subrecipe" markdown="1">
 
 ## Original - Gin
 
 ### Ingredients
 
-| Amount | Ingredient                                      | Brand    |
-| -----: | ----------------------------------------------- | -------- |
-|   2 oz | Champagne                                       |
-|   1 oz | Plymouth Gin                                             | Plymouth |
-| 0.5 oz | Fresh Lemon Juice                               |
-| 0.5 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| Amount | Ingredient                                                | Brand    |
+| -----: | --------------------------------------------------------- | -------- |
+|   2 oz | Champagne                                                 |
+|   1 oz | Plymouth Gin                                              | Plymouth |
+| 0.5 oz | Fresh Lemon Juice                                         |
+| 0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
 ### Notes
 
@@ -46,12 +45,12 @@ date: 2025-08-11
 
 ### Ingredients
 
-| Amount | Ingredient                                      | Brand             |
-| -----: | ----------------------------------------------- | ----------------- |
-|   2 oz | Champagne                                       |
-|   1 oz | Cognac                                          | Maison Rouge VSOP |
-| 0.5 oz | Fresh Lemon Juice                               |
-| 0.5 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |
+| Amount | Ingredient                                                | Brand             |
+| -----: | --------------------------------------------------------- | ----------------- |
+|   2 oz | Champagne                                                 |
+|   1 oz | Cognac                                                    | Maison Rouge VSOP |
+| 0.5 oz | Fresh Lemon Juice                                         |
+| 0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
 ### Notes
 
@@ -59,6 +58,6 @@ date: 2025-08-11
 - Pour: Single Strain
 - Glassware: Champagne Flute
 - Garnish: Lemon Twist
-- Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail.### Gin
+- Special Prep: Pour 2 oz of sparkling wine into the flute first. Top glass if necessary after pouring in the cocktail
 
 </div>
