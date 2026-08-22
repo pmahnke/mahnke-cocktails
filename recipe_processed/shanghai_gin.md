@@ -1,7 +1,7 @@
 ---
 layout: recipe
 author: Leandro DiMonriva
-title: "Shanghai London Dry Gin"
+title: "Shanghai Gin"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/shanghai_gin/"
@@ -12,7 +12,7 @@ base_spirits: ['Bénédictine', 'London Dry Gin', 'Yellow Chartreuse']
 youtube: "6OApD96Wn_M"
 description: "A modern sour featuring a complex combination of gin, yellow Chartreuse, Bénédictine, and lemon."
 excerpt: |
-  The Shanghai London Dry Gin was first created at a Vietnamese restaurant in San Francisco called The Slanted Door.  A yet-to-be-named bartender found the recipe for a drink called "Shanghai London Dry Gin Fizz" in some old bar manual (nobody knows what book it was). Apparently the book was not that interesting but this one cocktail piqued his interest and he set about reconstructing it.
+  The Shanghai Gin was first created at a Vietnamese restaurant in San Francisco called The Slanted Door.  A yet-to-be-named bartender found the recipe for a drink called "Shanghai Gin Fizz" in some old bar manual (nobody knows what book it was). Apparently the book was not that interesting but this one cocktail piqued his interest and he set about reconstructing it.
 date: 2025-08-11
 glass: nick_and_nora
 type: shaken
@@ -22,7 +22,7 @@ type: shaken
 
 |  Amount | Ingredient        | Brand             |
 | ------: | ----------------- | ----------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| London Dry Gin [&#9432;](/spirit/london_dry_gin/ "More London Dry Gin recipes")               | Beefeaters        |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| London Dry Gin [&#9432;](/spirit/london_dry_gin/ "More London Dry Gin recipes")    | Beefeaters        |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Yellow Chartreuse [&#9432;](/spirit/yellow_chartreuse/ "More Yellow Chartreuse recipes") | Yellow Chartreuse |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Bénédictine [&#9432;](/spirit/benedictine/ "More Bénédictine recipes")       | Bénédictine DOM   |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lemon Juice |
