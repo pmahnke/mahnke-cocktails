@@ -45,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_autumn_rose.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Apple Brandy",
@@ -58,23 +58,23 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Nick & Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Expressed lemon oil and twist"
+      "text": "Garnish: Expressed lemon oil and twist"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "Special Prep: None"
     }
     ],
   "recipeYield": "1 cocktail",

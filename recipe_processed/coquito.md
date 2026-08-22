@@ -61,7 +61,7 @@ garnishes:
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_eggnog.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  8 oz Coconut Milk",
@@ -77,23 +77,23 @@ garnishes:
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Blender"
+      "text": "Method: Blender"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: From a Pitcher"
+      "text": "Pour: From a Pitcher"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Cocktail Glass"
+      "text": "Glassware: Cocktail Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Grated nutmeg"
+      "text": "Garnish: Grated nutmeg"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Chill over night."
+      "text": "Special Prep: Chill over night."
     },
     {
       "@type": "HowToStep",

@@ -12,7 +12,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
 
     <p><a href="/all_cocktails">See all cocktail recipes&nbsp;&rsaquo;</a></p>
 
-    <h2>A Few of Our 5-Star Cocktails</h2>
+    <h1>A Few of Our 5-Star Cocktails</h1>
     <div class="grid-container">
 
     {%- assign fivestar_recipes = "" | split: "" -%}
@@ -34,7 +34,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
     
     <br>
 
-    <h2>Cocktails by Category</h2>
+    <h1 style="margin-bottom: 5rem;">Cocktails by Category</h1>
 {%- assign sorted_categories = site.category | sort: "name" -%}
 {%- for cat in sorted_categories -%}
     <h3>

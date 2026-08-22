@@ -47,7 +47,7 @@ ice: crushed
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Malört",
@@ -61,31 +61,31 @@ ice: crushed
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Swizzled"
+      "text": "Method: Swizzled"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass"
+      "text": "Pour: Add all ingredients directly to the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - High Ball"
+      "text": "High Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Crushed Ice"
+      "text": "Crushed Ice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Pineapple fronds & cocktail umbrella"
+      "text": "Garnish: Pineapple fronds & cocktail umbrella"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "Special Prep: None"
     }
     ],
   "recipeYield": "1 cocktail",

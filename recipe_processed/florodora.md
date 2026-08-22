@@ -52,7 +52,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz London Dry Gin",
@@ -65,51 +65,51 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - High Ball"
+      "text": "High Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - On the Rocks"
+      "text": "On the Rocks"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lime Twist"
+      "text": "Garnish: Lime Twist"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Pour in one ounce of ginger beer into the glass."
+      "text": "Pour in one ounce of ginger beer into the glass."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add other ingredients into the shaking tin, and shake."
+      "text": "Add other ingredients into the shaking tin, and shake."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Strain cocktail into the glass."
+      "text": "Strain cocktail into the glass."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Top with ice."
+      "text": "Top with ice."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add a splash of ginger beer to top the glass."
+      "text": "Add a splash of ginger beer to top the glass."
     }
     ],
   "recipeYield": "1 cocktail",

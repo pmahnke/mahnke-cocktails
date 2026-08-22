@@ -44,7 +44,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz Rye",
@@ -57,23 +57,23 @@ type: stirred
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Stirred"
+      "text": "Method: Stirred"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
+      "text": "Pour: Julep Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Nick & Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lemon peel"
+      "text": "Garnish: Lemon peel"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Expressed lemon oil"
+      "text": "Special Prep: Expressed lemon oil"
     }
     ],
   "recipeYield": "1 cocktail",

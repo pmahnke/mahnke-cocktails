@@ -49,7 +49,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_frappe_swizzle.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz London Dry Gin",
@@ -61,31 +61,31 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Low Ball"
+      "text": "Low Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Crushed Ice"
+      "text": "Crushed Ice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lemon wheel and blackberries"
+      "text": "Garnish: Lemon wheel and blackberries"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Shake the gin, lemon juice and [Simple Syrup]({%link recipe_processed/simple_syrup.md%}). Pour into the glass over crushed ice. Top the glass with more crushed ice. Then top with the Crème de Mûre."
+      "text": "Special Prep: Shake the gin, lemon juice and [Simple Syrup]({%link recipe_processed/simple_syrup.md%}). Pour into the glass over crushed ice. Top the glass with more crushed ice. Then top with the Crème de Mûre."
     }
     ],
   "recipeYield": "1 cocktail",

@@ -46,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Reposado Tequila",
@@ -58,31 +58,31 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Single Strain"
+      "text": "Pour: Single Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Low Ball"
+      "text": "Low Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - On the Rocks"
+      "text": "On the Rocks"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lime wheel"
+      "text": "Garnish: Lime wheel"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Salted rim"
+      "text": "Special Prep: Salted rim"
     }
     ],
   "recipeYield": "1 cocktail",

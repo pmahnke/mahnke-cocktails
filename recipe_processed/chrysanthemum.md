@@ -62,7 +62,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz Dry Vermouth",
@@ -74,23 +74,23 @@ type: stirred
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Stirred"
+      "text": "Method: Stirred"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
+      "text": "Pour: Julep Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
+      "text": "Glassware: Coupe"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Orange Peel"
+      "text": "Garnish: Orange Peel"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Place the swath of orange peel in the mixing glass and stir it with the cocktail. This is called a regal stir, similar to the regal shake. Expressed orange oil over the top of the cocktail."
+      "text": "Special Prep: Place the swath of orange peel in the mixing glass and stir it with the cocktail. This is called a regal stir, similar to the regal shake. Expressed orange oil over the top of the cocktail."
     }
     ],
   "recipeYield": "1 cocktail",

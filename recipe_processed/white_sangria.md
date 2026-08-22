@@ -74,7 +74,7 @@ garnishes: strawberry
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    1 half Peach, sliced",
@@ -90,23 +90,23 @@ garnishes: strawberry
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in Punch Bowl"
+      "text": "Method: Build in Punch Bowl"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the punch bowl"
+      "text": "Pour: Add all ingredients directly to the punch bowl"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Punch Cups"
+      "text": "Glassware: Punch Cups"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: A strawberry and a peach slice"
+      "text": "Garnish: A strawberry and a peach slice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Optionally, top each glass with a splash of soda water"
+      "text": "Special Prep: Optionally, top each glass with a splash of soda water"
     }
     ],
   "recipeYield": "1 cocktail",

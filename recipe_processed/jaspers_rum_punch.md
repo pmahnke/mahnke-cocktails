@@ -43,7 +43,7 @@ ice: crushed
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Jasper’s Mix",
@@ -53,31 +53,31 @@ ice: crushed
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Swizzled"
+      "text": "Method: Swizzled"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Open Pour"
+      "text": "Pour: Open Pour"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - High Ball"
+      "text": "High Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Crushed Ice"
+      "text": "Crushed Ice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Grated nutmeg and mint sprig"
+      "text": "Garnish: Grated nutmeg and mint sprig"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Top glass with additional crushed ice"
+      "text": "Special Prep: Top glass with additional crushed ice"
     }
     ],
   "recipeYield": "1 cocktail",

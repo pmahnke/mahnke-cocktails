@@ -46,7 +46,7 @@ garnishes: cinnamon
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  3 cups Fresh Apple Cider",
@@ -63,23 +63,23 @@ garnishes: cinnamon
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in the Pot"
+      "text": "Method: Build in the Pot"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the pot"
+      "text": "Pour: Add all ingredients directly to the pot"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Tea cups"
+      "text": "Glassware: Tea cups"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Dried Apples"
+      "text": "Garnish: Dried Apples"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Add spices to a spice bag.Add apple cider and the spice bag to a pot and heat.Add remaining ingredients to the pot.Simmer covered for 20 to 25 minutes.Turn off the heat, remove spice bag and add the apple brandy. Serve in tea cups garnished with the dries apple slices."
+      "text": "Special Prep: Add spices to a spice bag.Add apple cider and the spice bag to a pot and heat.Add remaining ingredients to the pot.Simmer covered for 20 to 25 minutes.Turn off the heat, remove spice bag and add the apple brandy. Serve in tea cups garnished with the dries apple slices."
     }
     ],
   "recipeYield": "1 cocktail",

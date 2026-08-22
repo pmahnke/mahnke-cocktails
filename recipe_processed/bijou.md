@@ -68,7 +68,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Plymouth Gin",
@@ -80,23 +80,23 @@ type: stirred
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Stirred"
+      "text": "Method: Stirred"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
+      "text": "Pour: Julep Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Nick & Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Cocktail cherry"
+      "text": "Garnish: Cocktail cherry"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Expressed lemon oil."
+      "text": "Special Prep: Expressed lemon oil."
     },
     {
       "@type": "HowToStep",
@@ -116,15 +116,15 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "| 1.25 oz | Gin [&#9432;](/spirit/gin/ "More Gin recipes")              | Plymouth                  |"
+      "text": "| 1.25 oz | Gin [&#9432;](/spirit/gin/ 'More Gin recipes')              | Plymouth                  |"
     },
     {
       "@type": "HowToStep",
-      "text": "| 0.75 oz | Sweet Vermouth [&#9432;](/spirit/sweet_vermouth/ "More Sweet Vermouth recipes")   | Cocchi Vermouth di Torino |"
+      "text": "| 0.75 oz | Sweet Vermouth [&#9432;](/spirit/sweet_vermouth/ 'More Sweet Vermouth recipes')   | Cocchi Vermouth di Torino |"
     },
     {
       "@type": "HowToStep",
-      "text": "| 0.25 oz | Green Chartreuse [&#9432;](/spirit/green_chartreuse/ "More Green Chartreuse recipes") | Green Chartreuse          |"
+      "text": "| 0.25 oz | Green Chartreuse [&#9432;](/spirit/green_chartreuse/ 'More Green Chartreuse recipes') | Green Chartreuse          |"
     },
     {
       "@type": "HowToStep",
@@ -136,23 +136,23 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "- Method: Stirred"
+      "text": "Method: Stirred"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
+      "text": "Pour: Julep Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Nick & Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Cocktail cherry"
+      "text": "Garnish: Cocktail cherry"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Expressed lemon oil."
+      "text": "Special Prep: Expressed lemon oil."
     }
     ],
   "recipeYield": "1 cocktail",

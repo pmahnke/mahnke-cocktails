@@ -54,7 +54,7 @@ glass: rocks
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_eggnog.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    6 whole Egg Yolks",
@@ -72,35 +72,35 @@ glass: rocks
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in a mixing bowl"
+      "text": "Method: Build in a mixing bowl"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add finished eggnog directly to mason jars"
+      "text": "Pour: Add finished eggnog directly to mason jars"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Low Ball"
+      "text": "Glassware: Low Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Grated nutmeg"
+      "text": "Garnish: Grated nutmeg"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Beat yolks with sugar and nutmeg in large mixing bowl until mixture lightens in color."
+      "text": "Beat yolks with sugar and nutmeg in large mixing bowl until mixture lightens in color."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Combine dairy, booze, and salt in separate vessel and slowly beat into egg mixture."
+      "text": "Combine dairy, booze, and salt in separate vessel and slowly beat into egg mixture."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Move to glass jars and store sealed in the fridge."
+      "text": "Move to glass jars and store sealed in the fridge."
     }
     ],
   "recipeYield": "1 cocktail",

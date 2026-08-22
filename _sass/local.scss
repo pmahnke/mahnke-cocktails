@@ -122,12 +122,12 @@ p.icons {
 
 
 
-/* headings - smnall screens */
-h1 {
+/* headings - small screens */
+h2 {
     font-size: 32px;
     font-weight: 550;
 }
-h2 {
+h1 {
     font-size: 32px;
     font-weight: 180;
 }
@@ -221,11 +221,11 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     /* Styles for screens smaller than 768px (phones) */   
 
     /* headings - larger screens */
-    h1 {
+    h2 {
         font-size: 40px;
         font-weight: 550;
     }
-    h2 {
+    h1 {
         font-size: 40px;
         font-weight: 180;
     }

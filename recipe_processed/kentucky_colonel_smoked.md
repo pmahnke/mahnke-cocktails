@@ -44,7 +44,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "     2 oz Bourbon",
@@ -55,31 +55,31 @@ type: stirred
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Stirred"
+      "text": "Method: Stirred"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
+      "text": "Pour: Julep Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Low Ball"
+      "text": "Low Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Large Ice cube"
+      "text": "Large Ice cube"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Flamed lemon oil"
+      "text": "Garnish: Flamed lemon oil"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Serve in a smoke-rinsed lowball glass"
+      "text": "Special Prep: Serve in a smoke-rinsed lowball glass"
     }
     ],
   "recipeYield": "1 cocktail",

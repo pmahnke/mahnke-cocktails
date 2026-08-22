@@ -82,7 +82,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Blanco Tequila",
@@ -94,43 +94,43 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Open Pour"
+      "text": "Pour: Open Pour"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Highball"
+      "text": "Highball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - On the rocks"
+      "text": "On the rocks"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Grapefruit slice"
+      "text": "Garnish: Grapefruit slice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Shake the tequila, lime juice and salt."
+      "text": "Shake the tequila, lime juice and salt."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Pour cocktail into the glass."
+      "text": "Pour cocktail into the glass."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Top with grapefruit soda"
+      "text": "Top with grapefruit soda"
     }
     ],
   "recipeYield": "1 cocktail",

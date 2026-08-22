@@ -46,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_crusta.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Cognac",
@@ -60,23 +60,23 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
+      "text": "Glassware: Coupe"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Sugared rim & long lemon peel"
+      "text": "Garnish: Sugared rim & long lemon peel"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Heavily coat the outside of the glass with sugar. Wind the lemon peel around the inside of the glass."
+      "text": "Special Prep: Heavily coat the outside of the glass with sugar. Wind the lemon peel around the inside of the glass."
     }
     ],
   "recipeYield": "1 cocktail",

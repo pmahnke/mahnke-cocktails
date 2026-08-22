@@ -44,7 +44,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1 oz Cognac",
@@ -57,23 +57,23 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
+      "text": "Glassware: Coupe"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Cocktail cherry"
+      "text": "Garnish: Cocktail cherry"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "Special Prep: None"
     }
     ],
   "recipeYield": "1 cocktail",

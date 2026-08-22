@@ -48,7 +48,7 @@ type: blended
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Brandy",
@@ -61,35 +61,35 @@ type: blended
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Blended"
+      "text": "Method: Blended"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the shaking tin"
+      "text": "Pour: Add all ingredients directly to the shaking tin"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Large Glass"
+      "text": "Glassware: Large Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Grated nutmeg and cocktail cherry"
+      "text": "Garnish: Grated nutmeg and cocktail cherry"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Blend cocktail with a stick blender in the shaking tin."
+      "text": "Blend cocktail with a stick blender in the shaking tin."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Pour cocktail into glass."
+      "text": "Pour cocktail into glass."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Top with [Bénédictine Whipped Cream]({%link recipe_processed/benedictine_whipped_cream.md%})."
+      "text": "Top with [Bénédictine Whipped Cream]({%link recipe_processed/benedictine_whipped_cream.md%})."
     }
     ],
   "recipeYield": "1 cocktail",

@@ -66,7 +66,7 @@ type:
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Galliano",
@@ -77,23 +77,23 @@ type:
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Nick & Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Grated nutmeg"
+      "text": "Garnish: Grated nutmeg"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "Special Prep: None"
     },
     {
       "@type": "HowToStep",
@@ -117,11 +117,11 @@ type:
     },
     {
       "@type": "HowToStep",
-      "text": "|   1.5 oz | Galliano [&#9432;](/spirit/galliano/ "More Galliano recipes")             | Galliano L’Autentico |"
+      "text": "|   1.5 oz | Galliano [&#9432;](/spirit/galliano/ 'More Galliano recipes')             | Galliano L’Autentico |"
     },
     {
       "@type": "HowToStep",
-      "text": "|   1.5 oz | White Crème de Cacao [&#9432;](/spirit/white_creme_de_cacao/ "More White Crème de Cacao recipes") | Marie Brizard        |"
+      "text": "|   1.5 oz | White Crème de Cacao [&#9432;](/spirit/white_creme_de_cacao/ 'More White Crème de Cacao recipes') | Marie Brizard        |"
     },
     {
       "@type": "HowToStep",
@@ -137,23 +137,23 @@ type:
     },
     {
       "@type": "HowToStep",
-      "text": "- Method: Blended"
+      "text": "Method: Blended"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: open pour"
+      "text": "Pour: open pour"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Large Glass"
+      "text": "Glassware: Large Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Grated nutmeg"
+      "text": "Garnish: Grated nutmeg"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Top with [crème de cacao whipped cream]({%link recipe_processed/creme_de_cacao_whipped_cream.md%})."
+      "text": "Special Prep: Top with [crème de cacao whipped cream]({%link recipe_processed/creme_de_cacao_whipped_cream.md%})."
     }
     ],
   "recipeYield": "1 cocktail",

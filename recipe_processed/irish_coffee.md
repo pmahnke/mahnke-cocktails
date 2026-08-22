@@ -42,7 +42,7 @@ glass:
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1 oz Irish Whiskey",
@@ -53,23 +53,23 @@ glass:
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in the Glass"
+      "text": "Method: Build in the Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass"
+      "text": "Pour: Add all ingredients directly to the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Mug"
+      "text": "Glassware: Mug"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Heavy cream float"
+      "text": "Garnish: Heavy cream float"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Shake the heavy cream in a mixing tin till thick."
+      "text": "Special Prep: Shake the heavy cream in a mixing tin till thick."
     }
     ],
   "recipeYield": "1 cocktail",

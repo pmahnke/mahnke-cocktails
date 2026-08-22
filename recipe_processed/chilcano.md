@@ -49,7 +49,7 @@ ice: cubed
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  60 ml Acholada Pisco",
@@ -62,35 +62,35 @@ ice: cubed
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in the Glass"
+      "text": "Method: Build in the Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass and stir"
+      "text": "Pour: Add all ingredients directly to the glass and stir"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Collins Glass"
+      "text": "Glassware: Collins Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "  - On the rocks"
+      "text": "On the rocks"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: None"
+      "text": "Garnish: None"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: "
+      "text": "Special Prep: "
     },
     {
       "@type": "HowToStep",
-      "text": "    - Measure everything bar the soda into a tall glass, add ice and stir to combine. Top up with soda to taste, and serve."
+      "text": "Measure everything bar the soda into a tall glass, add ice and stir to combine. Top up with soda to taste, and serve."
     },
     {
       "@type": "HowToStep",
-      "text": "    - You can use Ginger cordial or Stone’s Ginger wine to replace the ginger syrup."
+      "text": "You can use Ginger cordial or Stone’s Ginger wine to replace the ginger syrup."
     }
     ],
   "recipeYield": "1 cocktail",

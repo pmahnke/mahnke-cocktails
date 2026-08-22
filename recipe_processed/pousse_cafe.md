@@ -44,7 +44,7 @@ date: 2025-08-11
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_pousse_cafe.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.5 oz Raspberry Gum Syrup",
@@ -59,23 +59,23 @@ date: 2025-08-11
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in the Glass"
+      "text": "Method: Build in the Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Layer all ingredients directly to the glass"
+      "text": "Pour: Layer all ingredients directly to the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Pousse Cafe Glass"
+      "text": "Glassware: Pousse Cafe Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: None"
+      "text": "Garnish: None"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Layer each ingredient carefully to show the individual layers."
+      "text": "Special Prep: Layer each ingredient carefully to show the individual layers."
     }
     ],
   "recipeYield": "1 cocktail",

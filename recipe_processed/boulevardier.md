@@ -41,7 +41,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Bourbon",
@@ -52,23 +52,23 @@ type: stirred
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Stirred"
+      "text": "Method: Stirred"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Julep Strained"
+      "text": "Pour: Julep Strained"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Nice & Nora"
+      "text": "Glassware: Nice & Nora"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Flamed orange oil"
+      "text": "Garnish: Flamed orange oil"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "Special Prep: None"
     }
     ],
   "recipeYield": "1 cocktail",

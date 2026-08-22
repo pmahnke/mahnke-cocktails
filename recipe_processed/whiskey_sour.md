@@ -44,7 +44,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_whiskey_sour.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Bourbon",
@@ -56,23 +56,23 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Nick & Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish:3 drops Angostura Aromatic Bitters, Lemon Oil"
+      "text": "Garnish:3 drops Angostura Aromatic Bitters, Lemon Oil"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba."
+      "text": "Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba."
     }
     ],
   "recipeYield": "1 cocktail",

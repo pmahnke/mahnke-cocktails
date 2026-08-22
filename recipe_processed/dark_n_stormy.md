@@ -43,7 +43,7 @@ type: built
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_dark_n_stormy.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz Dark Rum",
@@ -53,23 +53,23 @@ type: built
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Built in the glass"
+      "text": "Method: Built in the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass"
+      "text": "Pour: Add all ingredients directly to the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: High Ball, On the Rocks"
+      "text": "Glassware: High Ball, On the Rocks"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lime wedge"
+      "text": "Garnish: Lime wedge"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Pour the ginger beer into the glass, then the rum."
+      "text": "Special Prep: Pour the ginger beer into the glass, then the rum."
     }
     ],
   "recipeYield": "1 cocktail",

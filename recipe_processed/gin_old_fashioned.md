@@ -48,7 +48,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Old Tom Gin",
@@ -60,31 +60,31 @@ type: stirred
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Stirred"
+      "text": "Method: Stirred"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
+      "text": "Pour: Julep Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Low Ball"
+      "text": "Low Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Large Ice Cube"
+      "text": "Large Ice Cube"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Cocktail cherry"
+      "text": "Garnish: Cocktail cherry"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Express lemon oil over the cocktail"
+      "text": "Special Prep: Express lemon oil over the cocktail"
     }
     ],
   "recipeYield": "1 cocktail",

@@ -50,7 +50,7 @@ ice: cubed
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_sangria.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.5 whole Orange",
@@ -67,31 +67,31 @@ ice: cubed
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in the Pitcher"
+      "text": "Method: Build in the Pitcher"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the pitcher"
+      "text": "Pour: Add all ingredients directly to the pitcher"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - High Ball"
+      "text": "High Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - On the Rocks"
+      "text": "On the Rocks"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Soaked fruit"
+      "text": "Garnish: Soaked fruit"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Top glasses with soda water"
+      "text": "Special Prep: Top glasses with soda water"
     }
     ],
   "recipeYield": "1 cocktail",

@@ -41,7 +41,7 @@ date: 2025-08-11
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_champagne_cocktail.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   5 oz Champagne",
@@ -53,23 +53,23 @@ date: 2025-08-11
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in the Glass"
+      "text": "Method: Build in the Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass"
+      "text": "Pour: Add all ingredients directly to the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Champagne"
+      "text": "Glassware: Champagne"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Expressed oils of a lemon swath and an orange swath"
+      "text": "Garnish: Expressed oils of a lemon swath and an orange swath"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne."
+      "text": "Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne."
     }
     ],
   "recipeYield": "1 cocktail",

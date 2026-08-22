@@ -66,7 +66,7 @@ ice: crushed
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Brandy",
@@ -80,31 +80,31 @@ ice: crushed
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in the Glass"
+      "text": "Method: Build in the Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass"
+      "text": "Pour: Add all ingredients directly to the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Low Ball"
+      "text": "Low Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Crushed Ice"
+      "text": "Crushed Ice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Orange slice and a cocktail cherry"
+      "text": "Garnish: Orange slice and a cocktail cherry"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Add the 2 wedges of orange and the cocktail cherry to the glass and muddle. Add the remaining ingredients. Top with the wash of choice."
+      "text": "Special Prep: Add the 2 wedges of orange and the cocktail cherry to the glass and muddle. Add the remaining ingredients. Top with the wash of choice."
     },
     {
       "@type": "HowToStep",
@@ -112,51 +112,51 @@ ice: crushed
     },
     {
       "@type": "HowToStep",
-      "text": "- Sweet:"
+      "text": "Sweet:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - 7 Up"
+      "text": "7 Up"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Sprite"
+      "text": "Sprite"
     },
     {
       "@type": "HowToStep",
-      "text": "- Sour:"
+      "text": "Sour:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Squirt"
+      "text": "Squirt"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Fresca"
+      "text": "Fresca"
     },
     {
       "@type": "HowToStep",
-      "text": "- Soda:"
+      "text": "Soda:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Soda Water"
+      "text": "Soda Water"
     },
     {
       "@type": "HowToStep",
-      "text": "- Press:"
+      "text": "Press:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Half Soda Water/Half Sweet"
+      "text": "Half Soda Water/Half Sweet"
     },
     {
       "@type": "HowToStep",
-      "text": "- No Wash:"
+      "text": "No Wash:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - No Floater"
+      "text": "No Floater"
     }
     ],
   "recipeYield": "1 cocktail",

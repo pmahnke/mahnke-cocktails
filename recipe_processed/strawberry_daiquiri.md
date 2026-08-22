@@ -50,7 +50,7 @@ type: blended
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_frozen.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz Gold Rum",
@@ -63,31 +63,31 @@ type: blended
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Blended"
+      "text": "Method: Blended"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Open Pour"
+      "text": "Pour: Open Pour"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Hurricane Glass"
+      "text": "Hurricane Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Crushed Ice"
+      "text": "Crushed Ice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Strawberry or lime wedge"
+      "text": "Garnish: Strawberry or lime wedge"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Blend the first four ingredients without the ice to break down the strawberries. Then add the ice and blend to combine."
+      "text": "Special Prep: Blend the first four ingredients without the ice to break down the strawberries. Then add the ice and blend to combine."
     }
     ],
   "recipeYield": "1 cocktail",

@@ -135,7 +135,7 @@ while (my $file = readdir DIR) {
     close (FILE);
 
     # ==========================================================================
-    # Pass 1: Separate Front Matter and Body, extract iconfile for ratings
+    # Pass 1: Separate Front Matter and Body, extract variables
     # ==========================================================================
     my $in_front_matter = 0;
     my @front_matter_lines;
@@ -143,6 +143,7 @@ while (my $file = readdir DIR) {
     my $dash_count = 0;
     my $rating = 0;
     my $iconfile_val = "";
+    my $page_image = "";
 
     foreach my $line (@file_lines) {
         if ($line =~ /^---\s*$/) {
@@ -161,6 +162,13 @@ while (my $file = readdir DIR) {
             $iconfile_val = $1;
             $iconfile_val =~ s/^\s+|\s+$//g;
             $rating = &process_ratings($iconfile_val);
+        }
+        
+        # Extract specific cocktail image if present
+        if ($line =~ /^image:\s*(.*)/) {
+            $page_image = $1;
+            $page_image =~ s/['"]//g;
+            $page_image =~ s/^\s+|\s+$//g;
         }
 
         if ($in_front_matter) {
@@ -230,7 +238,13 @@ while (my $file = readdir DIR) {
         my $step = $line;
         chop($step);
         $FLAGnotes = 0 if ($line =~ /<\/div>/ && $FLAGnotes); 
-        $s_instructions .= qq |    {\n      "\@type": "HowToStep",\n      "text": "$step"\n    },\n| if ($FLAGnotes && length($line) > 1);
+        
+        if ($FLAGnotes && length($step) > 1 && $step !~ /^\s*$/) {
+            $step =~ s/^\s*[-*]\s*//; # Strip markdown bullets, including indented ones
+            $step =~ s/"/'/g;      # Prevent JSON escaping errors
+            $s_instructions .= qq |    {\n      "\@type": "HowToStep",\n      "text": "$step"\n    },\n|;
+        }
+        
         $FLAGnotes = 1 if ($line =~ /\#\#\# Notes/ && !$s_instructions); 
 
         # scaling
@@ -299,6 +313,18 @@ while (my $file = readdir DIR) {
   },|;
     }
 
+    # Format the correct image URL (Google JSON-LD requires raster formats like PNG)
+    my $schema_img = "";
+    if ($page_image) {
+        my $raster_img = $page_image;
+        $raster_img =~ s/.*\///; # Strips any folder paths, keeping only the filename
+        $raster_img =~ s/\.svg$/.png/i; # Force PNG extension
+        $schema_img = "{{ site.url }}/assets/images/$raster_img";
+    } else {
+        # Cleaned up Liquid fallback using native categories array
+        $schema_img = "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png";
+    }
+
     # Schema block builder
     $schema = qq ~
 <script type="application/ld+json">
@@ -309,7 +335,7 @@ while (my $file = readdir DIR) {
     "\@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "$schema_img",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
 $s_ingredient

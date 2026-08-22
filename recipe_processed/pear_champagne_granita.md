@@ -40,7 +40,7 @@ garnishes: lemon_peel
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 2 to 3 oz Pear Granita",
@@ -50,23 +50,23 @@ garnishes: lemon_peel
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in the Glass"
+      "text": "Method: Build in the Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass"
+      "text": "Pour: Add all ingredients directly to the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
+      "text": "Glassware: Coupe"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Pear slice"
+      "text": "Garnish: Pear slice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Expressed lemon oil"
+      "text": "Special Prep: Expressed lemon oil"
     }
     ],
   "recipeYield": "1 cocktail",

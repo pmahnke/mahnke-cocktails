@@ -46,7 +46,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1.5 oz Reposado Tequila",
@@ -58,39 +58,39 @@ type: stirred
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Stirred"
+      "text": "Method: Stirred"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
+      "text": "Pour: Julep Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Low Ball"
+      "text": "Low Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Large Ice Cube"
+      "text": "Large Ice Cube"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Expressed grapefruit oil and peel"
+      "text": "Garnish: Expressed grapefruit oil and peel"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Blend cocktail with a stick blender in the shaking tin."
+      "text": "Blend cocktail with a stick blender in the shaking tin."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Pour cocktail into glass."
+      "text": "Pour cocktail into glass."
     }
     ],
   "recipeYield": "1 cocktail",

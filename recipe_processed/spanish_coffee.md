@@ -47,7 +47,7 @@ glass: coffee
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  0.75 oz Overproof Jamaican Rum",
@@ -59,47 +59,47 @@ glass: coffee
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in the glass"
+      "text": "Method: Build in the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass"
+      "text": "Pour: Add all ingredients directly to the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Coffee Glass"
+      "text": "Glassware: Coffee Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Grated nutmeg & burnt sugared rim"
+      "text": "Garnish: Grated nutmeg & burnt sugared rim"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Sugar the rim of the glass."
+      "text": "Sugar the rim of the glass."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add the overproof rum to the glass."
+      "text": "Add the overproof rum to the glass."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Light it on fire."
+      "text": "Light it on fire."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Extinguish the flames when the sugar is caramelized."
+      "text": "Extinguish the flames when the sugar is caramelized."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add the remaining ingredients to the glass."
+      "text": "Add the remaining ingredients to the glass."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Top with lightly whipped heavy cream"
+      "text": "Top with lightly whipped heavy cream"
     }
     ],
   "recipeYield": "1 cocktail",

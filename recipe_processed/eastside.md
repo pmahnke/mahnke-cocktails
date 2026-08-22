@@ -48,7 +48,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    2 oz London Dry Gin",
@@ -61,23 +61,23 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
+      "text": "Glassware: Coupe"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Mint leaf or a slice of Cucumber"
+      "text": "Garnish: Mint leaf or a slice of Cucumber"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Start by adding your gin, lime and simple syrup to a cocktail shaker then drop in 2-3 cucumber slices and firmly muddle into the liquid. Once muddled, and 6 mint leaves and lightly crush them with your muddler. Add ice, shake for 10 seconds, and double strain into a chilled cocktail glass. Finish it off with a cool cucumber garnish, or drop in a floating mint leaf."
+      "text": "Special Prep: Start by adding your gin, lime and simple syrup to a cocktail shaker then drop in 2-3 cucumber slices and firmly muddle into the liquid. Once muddled, and 6 mint leaves and lightly crush them with your muddler. Add ice, shake for 10 seconds, and double strain into a chilled cocktail glass. Finish it off with a cool cucumber garnish, or drop in a floating mint leaf."
     }
     ],
   "recipeYield": "1 cocktail",

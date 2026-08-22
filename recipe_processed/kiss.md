@@ -48,7 +48,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz London Dry Gin",
@@ -60,43 +60,43 @@ type: stirred
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Stirred"
+      "text": "Method: Stirred"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Julep Strain"
+      "text": "Pour: Julep Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Martini"
+      "text": "Glassware: Martini"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Apple slice fan"
+      "text": "Garnish: Apple slice fan"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Apple slice fan: Stand an apple upright, and cut a chunk from the side, being careful to avoid the core and seeds."
+      "text": "Apple slice fan: Stand an apple upright, and cut a chunk from the side, being careful to avoid the core and seeds."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Lie the apple chunk with its cut face down, then halve it so that the apple flesh is exposed."
+      "text": "Lie the apple chunk with its cut face down, then halve it so that the apple flesh is exposed."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Cut four thin slices from the exposed side."
+      "text": "Cut four thin slices from the exposed side."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Place the apple pieces together, pierce them with a cocktail pick about one third of the way from the bottom."
+      "text": "Place the apple pieces together, pierce them with a cocktail pick about one third of the way from the bottom."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Then fan them out and place in your drink, resting the cocktail pick on the rim of the glass."
+      "text": "Then fan them out and place in your drink, resting the cocktail pick on the rim of the glass."
     }
     ],
   "recipeYield": "1 cocktail",

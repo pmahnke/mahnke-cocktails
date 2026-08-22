@@ -43,7 +43,7 @@ type: blended
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    2 oz White Rum",
@@ -56,23 +56,23 @@ type: blended
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Blended"
+      "text": "Method: Blended"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Open Pour"
+      "text": "Pour: Open Pour"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Large glass"
+      "text": "Glassware: Large glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Pineapple pieces, pineapple fronds and cocktail cherries"
+      "text": "Garnish: Pineapple pieces, pineapple fronds and cocktail cherries"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Use an emersion blender directly in the shaker tin. Blend until frothy."
+      "text": "Special Prep: Use an emersion blender directly in the shaker tin. Blend until frothy."
     }
     ],
   "recipeYield": "1 cocktail",

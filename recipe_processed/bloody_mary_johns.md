@@ -52,7 +52,7 @@ ice: cubed
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_bloody_mary.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "     2 oz Vodka",
@@ -70,31 +70,31 @@ ice: cubed
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Rolled between two pint glasses"
+      "text": "Method: Rolled between two pint glasses"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass"
+      "text": "Pour: Add all ingredients directly to the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Pint"
+      "text": "Pint"
     },
     {
       "@type": "HowToStep",
-      "text": "  - On the Rocks"
+      "text": "On the Rocks"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lemon twist, Brussels sprouts, green beans, olives or the more traditional stalk of celery"
+      "text": "Garnish: Lemon twist, Brussels sprouts, green beans, olives or the more traditional stalk of celery"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Add a sidecar of American lager."
+      "text": "Special Prep: Add a sidecar of American lager."
     }
     ],
   "recipeYield": "1 cocktail",

@@ -50,7 +50,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Demerara Rum",
@@ -65,31 +65,31 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Low Ball"
+      "text": "Low Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Ice Cone"
+      "text": "Ice Cone"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Ice cone with a straw through the center"
+      "text": "Garnish: Ice cone with a straw through the center"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Shake all ingredients together except the soda. Float the soda water on top."
+      "text": "Special Prep: Shake all ingredients together except the soda. Float the soda water on top."
     }
     ],
   "recipeYield": "1 cocktail",

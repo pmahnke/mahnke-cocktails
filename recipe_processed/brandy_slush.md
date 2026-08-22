@@ -50,7 +50,7 @@ Orange slice for individual garnish
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   12 oz Frozen Concentrated Orange Juice (thawed)",
@@ -64,43 +64,43 @@ Orange slice for individual garnish
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in Tub"
+      "text": "Method: Build in Tub"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly into the tub"
+      "text": "Pour: Add all ingredients directly into the tub"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Parfait Cup"
+      "text": "Glassware: Parfait Cup"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Orange slice for individual garnish"
+      "text": "Garnish: Orange slice for individual garnish"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Combine orange juice, lemonade, brandy, tea syrup, and 5 cups (1200 ml) of water in a sealable container."
+      "text": "Combine orange juice, lemonade, brandy, tea syrup, and 5 cups (1200 ml) of water in a sealable container."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Stir to combine."
+      "text": "Stir to combine."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Freeze for 12-24 hours."
+      "text": "Freeze for 12-24 hours."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Once frozen, scoop desired amount into a glass and top with soda."
+      "text": "Once frozen, scoop desired amount into a glass and top with soda."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Garnish with a slice of orange."
+      "text": "Garnish with a slice of orange."
     }
     ],
   "recipeYield": "1 cocktail",

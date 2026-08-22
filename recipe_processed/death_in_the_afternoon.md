@@ -68,7 +68,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Absinthe",
@@ -78,23 +78,23 @@ type: stirred
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in the Glass"
+      "text": "Method: Build in the Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass"
+      "text": "Pour: Add all ingredients directly to the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Nick & Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: None"
+      "text": "Garnish: None"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Pour the Absinthe into the glass and top with champagne. Add enough champagne to have the cocktail turn milky (the Louche Effect)."
+      "text": "Special Prep: Pour the Absinthe into the glass and top with champagne. Add enough champagne to have the cocktail turn milky (the Louche Effect)."
     }
     ],
   "recipeYield": "1 cocktail",

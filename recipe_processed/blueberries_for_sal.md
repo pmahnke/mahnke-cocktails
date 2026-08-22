@@ -50,7 +50,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 15 to 20 whole Fresh Blueberries",
@@ -63,51 +63,51 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - High Ball"
+      "text": "High Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - On the Rocks"
+      "text": "On the Rocks"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Mint sprig"
+      "text": "Garnish: Mint sprig"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Press and slide the mint leaves in the glass."
+      "text": "Press and slide the mint leaves in the glass."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add the blueberries, simple syrup and lemon juice to a shaker and shake with ice."
+      "text": "Add the blueberries, simple syrup and lemon juice to a shaker and shake with ice."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Strain the cocktail into the glass."
+      "text": "Strain the cocktail into the glass."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add ice"
+      "text": "Add ice"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Top with the ginger beer."
+      "text": "Top with the ginger beer."
     }
     ],
   "recipeYield": "1 cocktail",

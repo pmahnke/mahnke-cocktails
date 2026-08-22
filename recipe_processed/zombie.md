@@ -54,7 +54,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1.5 oz Jamaican Rum",
@@ -72,31 +72,31 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method:"
+      "text": "Method:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Shaken"
+      "text": "Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Crushed Ice"
+      "text": "Crushed Ice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Open Pour"
+      "text": "Pour: Open Pour"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Tiki Glass"
+      "text": "Glassware: Tiki Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Mint Sprig"
+      "text": "Garnish: Mint Sprig"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "Special Prep: None"
     }
     ],
   "recipeYield": "1 cocktail",

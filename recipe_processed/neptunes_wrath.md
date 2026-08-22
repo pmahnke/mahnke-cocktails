@@ -50,7 +50,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Plymouth Gin",
@@ -64,39 +64,39 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
+      "text": "Glassware: Coupe"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Flaming Green Chartreuse"
+      "text": "Garnish: Flaming Green Chartreuse"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add all ingredients, but the Green Chartreuse, to the cocktail shaker."
+      "text": "Add all ingredients, but the Green Chartreuse, to the cocktail shaker."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Strain cocktail into the glass."
+      "text": "Strain cocktail into the glass."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Light the Green Chartreuse on fire in the jigger, and float on top of the cocktail"
+      "text": "Light the Green Chartreuse on fire in the jigger, and float on top of the cocktail"
     },
     {
       "@type": "HowToStep",
-      "text": "  - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba."
+      "text": "For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba."
     }
     ],
   "recipeYield": "1 cocktail",

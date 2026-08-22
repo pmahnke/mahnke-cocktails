@@ -48,7 +48,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_boston.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz London Dry Gin",
@@ -60,31 +60,31 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Coupe"
+      "text": "Glassware: Coupe"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lemon twist"
+      "text": "Garnish: Lemon twist"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: "
+      "text": "Special Prep: "
     },
     {
       "@type": "HowToStep",
-      "text": "  - Pinch of salt"
+      "text": "Pinch of salt"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Express lemon oil over the cocktail and use as a garnish"
+      "text": "Express lemon oil over the cocktail and use as a garnish"
     }
     ],
   "recipeYield": "1 cocktail",

@@ -47,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1.5 oz Bourbon",
@@ -61,35 +61,35 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Nick & Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Grated nutmeg"
+      "text": "Garnish: Grated nutmeg"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - To prevent the egg white from scrambling: add the egg white, grenadine and triple sec to the cheater tin."
+      "text": "To prevent the egg white from scrambling: add the egg white, grenadine and triple sec to the cheater tin."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add the bourbon, lemon juice, absinthe to the main tin. Then add ice."
+      "text": "Add the bourbon, lemon juice, absinthe to the main tin. Then add ice."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Combine the two tins and shake."
+      "text": "Combine the two tins and shake."
     }
     ],
   "recipeYield": "1 cocktail",

@@ -46,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Vodka",
@@ -62,23 +62,23 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Open Pour"
+      "text": "Pour: Open Pour"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Large Mug"
+      "text": "Glassware: Large Mug"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lemon Wheel"
+      "text": "Garnish: Lemon Wheel"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Top with Coca-Cola"
+      "text": "Special Prep: Top with Coca-Cola"
     }
     ],
   "recipeYield": "1 cocktail",

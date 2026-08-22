@@ -43,7 +43,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Gin",
@@ -55,23 +55,23 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Open Pour"
+      "text": "Pour: Open Pour"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Champagne Flute"
+      "text": "Glassware: Champagne Flute"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Expressed orange or lemon oil"
+      "text": "Garnish: Expressed orange or lemon oil"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Add the gin, orange liqueur and ice cream to a shaking tin and shake till the ice cream has melted and the cocktail is chilled. Add champagne to the flute, then add the cocktail."
+      "text": "Special Prep: Add the gin, orange liqueur and ice cream to a shaking tin and shake till the ice cream has melted and the cocktail is chilled. Add champagne to the flute, then add the cocktail."
     }
     ],
   "recipeYield": "1 cocktail",

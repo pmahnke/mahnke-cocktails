@@ -48,7 +48,7 @@ garnishes: cinnamon
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_sailors_punch.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  50 oz Bourbon",
@@ -62,23 +62,23 @@ garnishes: cinnamon
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in Punch Bowl"
+      "text": "Method: Build in Punch Bowl"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the punch bowl"
+      "text": "Pour: Add all ingredients directly to the punch bowl"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Punch Cups"
+      "text": "Glassware: Punch Cups"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Garnish with slices of apple, lemon, and lime."
+      "text": "Garnish: Garnish with slices of apple, lemon, and lime."
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",

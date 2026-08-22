@@ -72,7 +72,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_coffee.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Coffee Liqueur",
@@ -85,23 +85,23 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Martini"
+      "text": "Glassware: Martini"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lemon oil and 3 coffee beans"
+      "text": "Garnish: Lemon oil and 3 coffee beans"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "Special Prep: None"
     },
     {
       "@type": "HowToStep",
@@ -121,11 +121,11 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "|    1 oz | Coffee Liqueur [&#9432;](/spirit/coffee_liqueur/ "More Coffee Liqueur recipes")                                           | Mr. Black Cold Brew |"
+      "text": "|    1 oz | Coffee Liqueur [&#9432;](/spirit/coffee_liqueur/ 'More Coffee Liqueur recipes')                                           | Mr. Black Cold Brew |"
     },
     {
       "@type": "HowToStep",
-      "text": "|    1 oz | Cognac [&#9432;](/spirit/cognac/ "More Cognac recipes")                                                   | Maison Rouge VSOP   |"
+      "text": "|    1 oz | Cognac [&#9432;](/spirit/cognac/ 'More Cognac recipes')                                                   | Maison Rouge VSOP   |"
     },
     {
       "@type": "HowToStep",
@@ -145,23 +145,23 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Martini"
+      "text": "Glassware: Martini"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lemon oil and 3 coffee beans"
+      "text": "Garnish: Lemon oil and 3 coffee beans"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "Special Prep: None"
     }
     ],
   "recipeYield": "1 cocktail",

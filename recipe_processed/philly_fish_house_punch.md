@@ -76,7 +76,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 24 oz Cognac",
@@ -91,23 +91,23 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Build in Punch Bowl"
+      "text": "Method: Build in Punch Bowl"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the punch bowl"
+      "text": "Pour: Add all ingredients directly to the punch bowl"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Punch Cups"
+      "text": "Glassware: Punch Cups"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Citrus wheels in the punch bowl and grated nutmeg in the glass"
+      "text": "Garnish: Citrus wheels in the punch bowl and grated nutmeg in the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "Special Prep: None"
     }
     ],
   "recipeYield": "1 cocktail",

@@ -48,7 +48,7 @@ garnishes:
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1 bottle Red Wine",
@@ -65,23 +65,23 @@ garnishes:
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Simmered"
+      "text": "Method: Simmered"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Ladle"
+      "text": "Pour: Ladle"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Wine"
+      "text": "Glassware: Wine"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Raisins from the pot"
+      "text": "Garnish: Raisins from the pot"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Heat the alcohol in a non-reactive pot, but do not boil. Add sugar and spices in a pouch. Simmer for20 minutes. Take off the heat and add raisins. Let rest for one hour. Remove spice bag and serve hot."
+      "text": "Special Prep: Heat the alcohol in a non-reactive pot, but do not boil. Add sugar and spices in a pouch. Simmer for20 minutes. Take off the heat and add raisins. Let rest for one hour. Remove spice bag and serve hot."
     }
     ],
   "recipeYield": "1 cocktail",

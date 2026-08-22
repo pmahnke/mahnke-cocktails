@@ -58,7 +58,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_mai_tai.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Jamaican Rum",
@@ -73,59 +73,59 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Open Pour"
+      "text": "Pour: Open Pour"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: "
+      "text": "Glassware: "
     },
     {
       "@type": "HowToStep",
-      "text": "  - Tiki"
+      "text": "Tiki"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Crushed Ice"
+      "text": "Crushed Ice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: "
+      "text": "Garnish: "
     },
     {
       "@type": "HowToStep",
-      "text": "  - Mint Sprig"
+      "text": "Mint Sprig"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Inverted Lime Husk"
+      "text": "Inverted Lime Husk"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Cocktail Cherry"
+      "text": "Cocktail Cherry"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: "
+      "text": "Special Prep: "
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add the mint sprig to the glass. "
+      "text": "Add the mint sprig to the glass. "
     },
     {
       "@type": "HowToStep",
-      "text": "  - Float the dark rum on the drink. "
+      "text": "Float the dark rum on the drink. "
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add the inverted lime shell and place the cocktail cherry inside. "
+      "text": "Add the inverted lime shell and place the cocktail cherry inside. "
     },
     {
       "@type": "HowToStep",
-      "text": "  - Fill the lime shell with 151 rum and light."
+      "text": "Fill the lime shell with 151 rum and light."
     }
     ],
   "recipeYield": "1 cocktail",

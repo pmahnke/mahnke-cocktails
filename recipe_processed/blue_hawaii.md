@@ -48,7 +48,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz White Rum",
@@ -62,31 +62,31 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Hurricane Glass"
+      "text": "Hurricane Glass"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Crushed Ice"
+      "text": "Crushed Ice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Pineapple slices, pineapple fronds, and cocktail umbrella"
+      "text": "Garnish: Pineapple slices, pineapple fronds, and cocktail umbrella"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Pour cocktaill over crushed ice, and top with additional crushed ice."
+      "text": "Special Prep: Pour cocktaill over crushed ice, and top with additional crushed ice."
     }
     ],
   "recipeYield": "1 cocktail",

@@ -47,7 +47,7 @@ ice: crushed
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_chartreuse_swizzle.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Green Chartreuse",
@@ -59,31 +59,31 @@ ice: crushed
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Swizzled"
+      "text": "Method: Swizzled"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Add all ingredients directly to the glass"
+      "text": "Pour: Add all ingredients directly to the glass"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware:"
+      "text": "Glassware:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - High Ball"
+      "text": "High Ball"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Crushed Ice"
+      "text": "Crushed Ice"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Grated Nutmeg and a Mint Sprig"
+      "text": "Garnish: Grated Nutmeg and a Mint Sprig"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Swizzle in the glass, and top with additional crushed ice."
+      "text": "Special Prep: Swizzle in the glass, and top with additional crushed ice."
     }
     ],
   "recipeYield": "1 cocktail",

@@ -48,7 +48,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Cognac",
@@ -60,39 +60,39 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Nick & Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: None"
+      "text": "Garnish: None"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep:"
+      "text": "Special Prep:"
     },
     {
       "@type": "HowToStep",
-      "text": "  - Add the cognac, Aperol and lemon juice to a shaker and shake."
+      "text": "Add the cognac, Aperol and lemon juice to a shaker and shake."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Pour the cocktail into a Nick & Nora glass."
+      "text": "Pour the cocktail into a Nick & Nora glass."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Into a small snifter add the sambuca, and light it."
+      "text": "Into a small snifter add the sambuca, and light it."
     },
     {
       "@type": "HowToStep",
-      "text": "  - Pour the flaming sambuca on the cocktail and stir."
+      "text": "Pour the flaming sambuca on the cocktail and stir."
     }
     ],
   "recipeYield": "1 cocktail",

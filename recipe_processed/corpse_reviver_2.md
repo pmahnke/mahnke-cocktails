@@ -45,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_corpse_reviver_2.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz London Dry Gin",
@@ -58,23 +58,23 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Nick & Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Cocktail Cherry optional"
+      "text": "Garnish: Cocktail Cherry optional"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Add the cherry to the glass before straining the cocktail"
+      "text": "Special Prep: Add the cherry to the glass before straining the cocktail"
     }
     ],
   "recipeYield": "1 cocktail",

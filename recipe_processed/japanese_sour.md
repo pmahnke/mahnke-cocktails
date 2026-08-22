@@ -52,7 +52,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/cocktail_japanese_sour.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Shochu or Vodka",
@@ -64,23 +64,23 @@ type: shaken
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Shaken"
+      "text": "Method: Shaken"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Double Strain"
+      "text": "Pour: Double Strain"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glass: Collins"
+      "text": "Glass: Collins"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Lemon wedge"
+      "text": "Garnish: Lemon wedge"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: None"
+      "text": "Special Prep: None"
     },
     {
       "@type": "HowToStep",
@@ -88,19 +88,19 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "- Shochu: Traditionally, shochu is used, but vodka works well as a substitute."
+      "text": "Shochu: Traditionally, shochu is used, but vodka works well as a substitute."
     },
     {
       "@type": "HowToStep",
-      "text": "- Honey Lemon Sour: Substitute [honey syrup]({%- link recipe_processed/honey_syrup.md -%}) for simple syrup."
+      "text": "Honey Lemon Sour: Substitute [honey syrup]({%- link recipe_processed/honey_syrup.md -%}) for simple syrup."
     },
     {
       "@type": "HowToStep",
-      "text": "- Yuzu Lemon Sour: Add a splash of yuzu juice for a citrusy twist."
+      "text": "Yuzu Lemon Sour: Add a splash of yuzu juice for a citrusy twist."
     },
     {
       "@type": "HowToStep",
-      "text": "- Salty Lemon Sour: Add a pinch of salt to the shaker for a savory kick."
+      "text": "Salty Lemon Sour: Add a pinch of salt to the shaker for a savory kick."
     }
     ],
   "recipeYield": "1 cocktail",

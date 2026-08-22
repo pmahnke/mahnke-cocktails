@@ -42,7 +42,7 @@ garnishes: lemon_peel
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{%- for page in page.categories limit: 1 %}{% assign cat = site.data.categories | where: "slug", page | first %}{{ site.url }}{{ site.baseurl}}/assets/images/category_{{cat.slug}}.svg{% endfor -%}",
+  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 3 swaths Lemons Peels",
@@ -55,23 +55,23 @@ garnishes: lemon_peel
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "- Method: Make in a large pot"
+      "text": "Method: Make in a large pot"
     },
     {
       "@type": "HowToStep",
-      "text": "- Pour: Laddle"
+      "text": "Pour: Laddle"
     },
     {
       "@type": "HowToStep",
-      "text": "- Glassware: Tea cups"
+      "text": "Glassware: Tea cups"
     },
     {
       "@type": "HowToStep",
-      "text": "- Garnish: Expressed lemon oil"
+      "text": "Garnish: Expressed lemon oil"
     },
     {
       "@type": "HowToStep",
-      "text": "- Special Prep: Add lemon peels and the sugar to a cold sauce pan and massage the sugar into the peels. Let this sit for 24 hours. This is called an oleo-saccharum. Next, make four cups of black tea in the usual manner. Add the rum and cognac to the oleo-saccharum. Put the pot on a low heat to warm up the mixture, but do not boil. Turn off heat and light mixture to caramelize the sugars. Add lemon juice and tea. Return to low heat and do not boil. Remove lemon peels before serving."
+      "text": "Special Prep: Add lemon peels and the sugar to a cold sauce pan and massage the sugar into the peels. Let this sit for 24 hours. This is called an oleo-saccharum. Next, make four cups of black tea in the usual manner. Add the rum and cognac to the oleo-saccharum. Put the pot on a low heat to warm up the mixture, but do not boil. Turn off heat and light mixture to caramelize the sugars. Add lemon juice and tea. Return to low heat and do not boil. Remove lemon peels before serving."
     }
     ],
   "recipeYield": "1 cocktail",
