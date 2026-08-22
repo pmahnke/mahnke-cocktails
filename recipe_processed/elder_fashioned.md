@@ -7,7 +7,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/elder_fashioned/"
 iconfile: elder_fashioned
-image: /assets/images/cocktail_elder_fashioned.jpeg
+image: /assets/images/cocktail_elder_fashioned.svg
 stars: 0
 base_spirits: ['Bourbon', 'Elderflower Liqueur', 'Plymouth Gin']
 youtube: "yqrQJO1brcM"
@@ -77,7 +77,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_elder_fashioned.jpeg",
+  "image": "{{ site.url }}/assets/images/cocktail_elder_fashioned.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "     2 oz Bourbon",
