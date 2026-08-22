@@ -78,6 +78,7 @@ sub performSearch {
         
         # Extract YAML vs Body Text
         while (my $line = <$fh>) {
+            $line =~ s/^\x{FEFF}//; # Strip hidden BOM so the YAML boundary regex triggers
             if ($line =~ /^---\s*$/) {
                 if ($in_yaml) { $in_yaml = 0; next; }
                 else { $in_yaml = 1; next; }
@@ -91,7 +92,8 @@ sub performSearch {
         close($fh);
 
         # Parse the extracted YAML safely
-        my $yaml = eval { Load($front_matter) };
+        # YAML::XS requires raw bytes. Encode it back to prevent crashes on accents like 'é'
+        my $yaml = eval { Load(encode("utf8", $front_matter)) };
         next if $@ || ref $yaml ne 'HASH'; # Skip if YAML is broken
 
         # Extract searchable text fields
