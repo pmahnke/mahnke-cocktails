@@ -6,7 +6,8 @@ use CGI::Lite;
 use utf8::all;
 use Encode qw(decode encode);
 use YAML::XS qw(Load);
-use FindBin qw($Bin); # <--- 1. Import FindBin
+use FindBin qw($Bin);
+use Unicode::Normalize;
 
 my (%F, $site, $msg);
 my ($DIR, $DIRincludes, $DIRposts, $common_path);
@@ -38,7 +39,7 @@ if ($F{'a'} eq "search" && $F{'q'}) {
     $F{'q'} = decode("utf8", $F{'q'});
     
     # 1. Sanitize user input (Only letters, numbers, spaces, and hyphens)
-    $F{'q'} =~ s/[^A-Za-z0-9\s\-]//g;
+    $F{'q'} =~ s/[^\p{L}\p{N}\s\-]//g;
     
     # Trim whitespace
     $F{'q'} =~ s/^\s+|\s+$//g;
@@ -58,8 +59,12 @@ exit;
 sub performSearch {
     my ($query) = @_;
 
-    # Break query into individual lowercase terms for matching
-    my @terms = split(/\s+/, lc($query));
+    # Normalize the query to remove accents for matching
+    my $normalized_query = NFD($query);
+    $normalized_query =~ s/\pM//g;
+
+    # Break normalized query into individual lowercase terms
+    my @terms = split(/\s+/, lc($normalized_query));
     
     my %scored_files;
 
@@ -78,7 +83,7 @@ sub performSearch {
         
         # Extract YAML vs Body Text
         while (my $line = <$fh>) {
-            $line =~ s/^\x{FEFF}//; # Strip hidden BOM so the YAML boundary regex triggers
+            $line =~ s/^\x{FEFF}//; 
             if ($line =~ /^---\s*$/) {
                 if ($in_yaml) { $in_yaml = 0; next; }
                 else { $in_yaml = 1; next; }
@@ -91,18 +96,15 @@ sub performSearch {
         }
         close($fh);
 
-        # Parse the extracted YAML safely
-        # YAML::XS requires raw bytes. Encode it back to prevent crashes on accents like 'é'
         my $yaml = eval { Load(encode("utf8", $front_matter)) };
-        next if $@ || ref $yaml ne 'HASH'; # Skip if YAML is broken
+        next if $@ || ref $yaml ne 'HASH'; 
 
-        # Extract searchable text fields
+        # Extract searchable text fields (Leave original variables for display)
         my $title = $yaml->{title} // '';
         my $desc  = $yaml->{description} // $yaml->{excerpt} // '';
         my $permalink = $yaml->{permalink} // "/recipe/$file";
-        $permalink =~ s/\.md$/.html/; # Fallback in case permalink is missing
+        $permalink =~ s/\.md$/.html/; 
 
-        # Handle spirits/categories which might be arrays or strings
         my $spirits = "";
         my $raw_spirits = $yaml->{base_spirits} // $yaml->{categories} // '';
         
@@ -114,23 +116,29 @@ sub performSearch {
         
         my $score = 0;
         
-        # Evaluate each search term against this file's contents
+        # Create accent-stripped, lowercase versions of the text for the matching engine
+        my $search_title   = lc(NFD($title));       $search_title =~ s/\pM//g;
+        my $search_spirits = lc(NFD($spirits));     $search_spirits =~ s/\pM//g;
+        my $search_desc    = lc(NFD($desc));        $search_desc =~ s/\pM//g;
+        my $search_body    = lc(NFD($body_text));   $search_body =~ s/\pM//g;
+        
+        # Evaluate each search term against this file's flattened contents
         foreach my $term (@terms) {
             my $term_score = 0;
             
             # TITLE (Highest Priority)
-            if ($title =~ /\b\Q$term\E\b/i) { $term_score += 20; }
-            elsif ($title =~ /\Q$term\E/i)  { $term_score += 10; } # Partial match
+            if ($search_title =~ /\b\Q$term\E\b/) { $term_score += 20; }
+            elsif ($search_title =~ /\Q$term\E/)  { $term_score += 10; } 
             
             # BASE SPIRIT (High Priority)
-            if ($spirits =~ /\b\Q$term\E\b/i) { $term_score += 15; }
-            elsif ($spirits =~ /\Q$term\E/i)  { $term_score += 7; }
+            if ($search_spirits =~ /\b\Q$term\E\b/) { $term_score += 15; }
+            elsif ($search_spirits =~ /\Q$term\E/)  { $term_score += 7; }
             
             # DESCRIPTION (Medium Priority)
-            if ($desc =~ /\b\Q$term\E\b/i) { $term_score += 5; }
+            if ($search_desc =~ /\b\Q$term\E\b/) { $term_score += 5; }
             
             # BODY TEXT (Low Priority)
-            if ($body_text =~ /\b\Q$term\E\b/i) { $term_score += 1; }
+            if ($search_body =~ /\b\Q$term\E\b/) { $term_score += 1; }
             
             $score += $term_score;
         }
