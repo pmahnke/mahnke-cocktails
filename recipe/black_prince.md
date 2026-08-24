@@ -7,6 +7,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/black_prince/"
 iconfile: black_prince
+color: #dda93b
 stars: 0
 base_spirits: "Guatemalan Rum, Punt e Mes, Averna"
 youtube: "zWuyuW-tGcg"

@@ -32,7 +32,7 @@ type: stirred
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Expressed lemon oil and peel
+- Garnish: Expressed lemon oil and lemon peel
 - Special Prep: None
 
 <script type="application/ld+json">
@@ -66,7 +66,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Expressed lemon oil and peel"
+      "text": "Garnish: Expressed lemon oil and lemon peel"
     },
     {
       "@type": "HowToStep",

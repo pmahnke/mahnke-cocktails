@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/eastside/"
 iconfile: eastside
+color: #fffbcc
 stars: 0
 base_spirits: "London Dry Gin"
 youtube: "0iFzihjeyXg"

@@ -29,5 +29,5 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Orange Peal
+- Garnish: Orange Peel
 - Special Prep: Expressed orange oil

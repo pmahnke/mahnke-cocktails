@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/adonis/"
 iconfile: adonis
+color: #640e0f
 stars: 3
 base_spirits: ['Oloroso Sherry', 'Sweet Vermouth']
 youtube: "B8l-F1qcTYU&t=48s"
@@ -13,6 +14,7 @@ description: "A low-alcohol classic from the 1880s that balances the nutty notes
 excerpt: |
   The Adonis is a sherry and vermouth-based cocktail, with equal parts of both. The cocktail was created in honor of the 1884 musical Adonis after the show reached the milestone of more than 500 shows on Broadway. The Adonis has been described as being a lower alcohol, easier drinking cocktail.
 date: 2025-08-11
+image: /assets/images/cocktail_adonis_dynamic.svg
 glass: coupe
 garnishes: orange_peel
 type: shaken
@@ -42,7 +44,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_adonis_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Oloroso Sherry",

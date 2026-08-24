@@ -8,6 +8,7 @@ eras: [classic]
 permalink: "/recipe/aviation/"
 iconfile: aviation
 image: /assets/images/cocktail_aviation.svg
+color: #7b6273
 stars: 4
 base_spirits: "London Dry Gin, Crème de Violette, Maraschino Liqueur"
 youtube: "Kmw5D32W8sM&t=345sY"
@@ -33,5 +34,5 @@ date: 2025-12-23
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Cocktail cherry and lemon zest for garnish
+- Garnish: Cocktail cherry and lemon twist
 - Special Prep: Stirring preserves the purple color

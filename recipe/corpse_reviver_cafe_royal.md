@@ -6,6 +6,7 @@ categories: [champagne, sour, corpse_reviver]
 eras: [classic]
 permalink: "/recipe/corpse_reviver_cafe_royal/"
 iconfile: corpse_reviver_cafe_royal
+color: #823415
 stars: 0
 base_spirits: "Cognac, Champagne"
 youtube: "rMCsrbidAJ4"

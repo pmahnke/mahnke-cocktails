@@ -25,7 +25,7 @@ type: stirred
 |    <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Blended Scotch [&#9432;](/spirit/blended_scotch/ "More Blended Scotch recipes")  | Monkey Shoulder           |
 |    <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth/ "More Sweet Vermouth recipes")  | Cocchi Vermouth Di Torino |
 |  <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Bénédictine [&#9432;](/spirit/benedictine/ "More Bénédictine recipes")     | Bénédictine DOM           |
-| <span class="onex active">1 strip </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> strip </span> <span class="twox">2 strip </span> <span class="threex">3 strip </span>| Lemon Peal      |
+| <span class="onex active">1 strip </span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> strip </span> <span class="twox">2 strip </span> <span class="threex">3 strip </span>| Lemon Peel      |
 
 ### Notes
 
@@ -49,7 +49,7 @@ type: stirred
   "  2 oz Blended Scotch",
   "  1 oz Sweet Vermouth",
   " 0.5 oz Bénédictine",
-  " 1 strip Lemon Peal"
+  " 1 strip Lemon Peel"
     ],
   "name": "{{ page.title }}",
   "recipeInstructions": [

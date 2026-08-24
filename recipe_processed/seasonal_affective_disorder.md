@@ -15,6 +15,7 @@ excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
 glass: rocks
+garnishes: nutmeg
 ice: crushed
 type: shaken
 ---

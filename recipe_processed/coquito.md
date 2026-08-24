@@ -17,6 +17,7 @@ date: 2025-12-13
 garnishes:
   - anise
   - cinnamon
+  - nutmeg
 ---
 
 ### Ingredients

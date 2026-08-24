@@ -15,6 +15,7 @@ date: 2025-08-11
 garnishes:
   - cinnamon
   - cocktail_umbrella
+  - nutmeg
 ice: crushed
 ---
 

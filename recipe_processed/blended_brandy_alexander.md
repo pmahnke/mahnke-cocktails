@@ -13,7 +13,9 @@ description: "The Blended Brandy Alexander is a creamy, indulgent treat that ble
 excerpt: |
   The Blended Brandy Alexander captures the essence of the classic cocktail in a frozen dessert. Creamy vanilla ice cream is infused with premium brandy and a touch of chocolate liqueur, creating a smooth, velvety texture. Each bite is rich and indulgent, offering a harmonious blend of sweet, boozy, and chocolate notes.
 date: 2025-12-06
-garnishes: maraschino_cherry
+garnishes:
+  - maraschino_cherry
+  - nutmeg
 ice: crushed
 type: blended
 ---

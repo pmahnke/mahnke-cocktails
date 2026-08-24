@@ -6,6 +6,7 @@ categories: [martini]
 eras: [classic]
 permalink: "/recipe/martinez/"
 iconfile: martinez
+color: #bc2b04
 stars: 0
 base_spirits: "Old Tom Gin, Sweet Vermouth, Maraschino Liqueur"
 youtube: 'MuxY7\_-_U_8'

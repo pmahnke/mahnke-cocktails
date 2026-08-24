@@ -6,6 +6,7 @@ categories: [flip]
 eras: [classic]
 permalink: "/recipe/sherry_flip/"
 iconfile: sherry_flip
+color: #f7dbc0
 stars: 0
 base_spirits: "Oloroso Sherry "
 youtube: "mBGgu3qRztY"

@@ -31,5 +31,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Expressed lemon oil & grated nutmeg
+- Garnish: Expressed lemon oil and grated nutmeg
 - Special Prep: None

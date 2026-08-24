@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/bamboo/"
 iconfile: bamboo
+color: #911c0f
 stars: 4
 base_spirits: ['Blanc Vermouth', 'Oloroso Sherry']
 youtube: "B8l-F1qcTYU&t=48s"
@@ -13,6 +14,7 @@ description: "A low-alcohol classic cocktail that combines equal parts dry sherr
 excerpt: |
   Equal parts dry sherry and dry vermouth get propped up with two kinds of bitters in the Bamboo, a low-alcohol classic cocktail.
 date: 2026-03-01
+image: /assets/images/cocktail_bamboo_dynamic.svg
 glass: coupe
 garnishes: orange_peel
 type: shaken
@@ -43,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_bamboo_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz Oloroso Sherry",

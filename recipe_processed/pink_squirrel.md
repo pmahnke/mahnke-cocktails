@@ -13,7 +13,9 @@ description: "A creamy, sweet after-dinner drink and Midwest classic, this cockt
 excerpt: |
   The Pink Squirrel cocktail is boozy, creamy and easy to make. It combines the unusual liqueur, creme de noyaux, with creme de cacao and heavy cream, and ties to a legendary Midwest cocktail bar.
 date: 2025-08-11
-garnishes: maraschino_cherry
+garnishes:
+  - maraschino_cherry
+  - nutmeg
 ice: crushed
 type: blended
 ---

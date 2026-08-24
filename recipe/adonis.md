@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/adonis/"
 iconfile: adonis
+color: #640e0f
 stars: 3
 base_spirits: "Oloroso Sherry, Sweet Vermouth"
 youtube: "B8l-F1qcTYU&t=48s"

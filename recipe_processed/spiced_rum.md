@@ -14,6 +14,7 @@ excerpt:
 date: 2025-07-31
 garnishes:
   - cinnamon
+  - nutmeg
   - orange_peel
 ---
 

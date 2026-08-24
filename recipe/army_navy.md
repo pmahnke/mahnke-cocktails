@@ -6,6 +6,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/army_navy/"
 iconfile: army_navy
+color: #d19871
 stars: 3:5
 base_spirits: "London Dry Gin"
 youtube: "XggEyhSR2Dk"

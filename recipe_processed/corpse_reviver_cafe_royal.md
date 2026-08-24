@@ -6,6 +6,7 @@ categories: [champagne, sour, corpse_reviver]
 eras: [classic]
 permalink: "/recipe/corpse_reviver_cafe_royal/"
 iconfile: corpse_reviver_cafe_royal
+color: #823415
 stars: 0
 base_spirits: ['Champagne', 'Cognac']
 youtube: "rMCsrbidAJ4"
@@ -13,6 +14,7 @@ description: "A classic variation from the Cafe Royal Cocktail Book that adds th
 excerpt: |
   This recipe comes from the Cafe Royal Cocktail Book.
 date: 2025-08-11
+image: /assets/images/cocktail_corpse_reviver_cafe_royal_dynamic.svg
 glass: coupe
 type: shaken
 ---
@@ -43,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_corpse_reviver_cafe_royal_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.5 oz Cognac",

@@ -14,7 +14,9 @@ description: "A classic hot eggnog variation, served warm and featuring a rich b
 excerpt: |
   It is a variant of eggnog with brandy and rum added and served hot, usually in a mug or a bowl. Separate eggs.
 date: 2025-12-23
-garnishes: cinnamon
+garnishes:
+  - cinnamon
+  - nutmeg
 ---
 
 <div class="subrecipe" markdown="1">

@@ -33,4 +33,4 @@ date: 2026-08-17
 - Garnish: Lemon twist
 - Special Prep: 
   - Pinch of salt
-  - Express lemon oil over the cocktail and use as a garnish
+  - Expressed lemon oil and lemon peel

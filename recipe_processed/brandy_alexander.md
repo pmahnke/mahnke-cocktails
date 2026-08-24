@@ -13,6 +13,7 @@ description: "A classic creamy after-dinner drink that combines cognac with the 
 excerpt: |
   The Brandy Alexander is a classic, combining cognac, crème de cacao and cream, it’s easy to make and even easier to drink.
 date: 2025-08-11
+garnishes: nutmeg
 type: shaken
 ---
 

@@ -32,7 +32,7 @@ type: stirred
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Orange Peal
+- Garnish: Orange Peel
 - Special Prep: Expressed orange oil
 
 <script type="application/ld+json">
@@ -67,7 +67,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Orange Peal"
+      "text": "Garnish: Orange Peel"
     },
     {
       "@type": "HowToStep",

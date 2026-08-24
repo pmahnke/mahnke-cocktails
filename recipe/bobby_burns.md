@@ -22,7 +22,7 @@ date: 2025-12-09
 |    2 oz | Blended Scotch  | Monkey Shoulder           |
 |    1 oz | Sweet Vermouth  | Cocchi Vermouth Di Torino |
 |  0.5 oz | Bénédictine     | Bénédictine DOM           |
-| 1 strip | Lemon Peal      |
+| 1 strip | Lemon Peel      |
 
 ### Notes
 

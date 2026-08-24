@@ -24,7 +24,7 @@ date: 2025-10-08
 |       0.25 oz | Maraschino Liqueur | Luxardo                        |
 |       0.25 oz | Amaro              | Ramazzotti                     |
 | 2 to 3 dashes | Orange Bitters     | Fee Brothers                   |
-|       1 swath | Orange Peal        |
+|       1 swath | Orange Peel        |
 
 ### Notes
 

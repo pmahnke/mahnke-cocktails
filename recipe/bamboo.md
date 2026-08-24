@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/bamboo/"
 iconfile: bamboo
+color: #911c0f
 stars: 4
 base_spirits: "Oloroso Sherry, Blanc Vermouth"
 youtube: "B8l-F1qcTYU&t=48s"

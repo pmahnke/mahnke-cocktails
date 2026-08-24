@@ -14,7 +14,9 @@ excerpt: |
   The See No Evil is a smoky, spicy cocktail created by Anders Erickson.
 date: 2025-08-11
 glass: rocks
-garnishes: mint_sprig
+garnishes:
+  - mint_sprig
+  - nutmeg
 ice: crushed
 type: shaken
 ---

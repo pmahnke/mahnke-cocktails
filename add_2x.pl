@@ -12,6 +12,7 @@ use Math::Round;
 use utf8;
 use open qw(:std :utf8);
 use YAML::XS qw(LoadFile Load);
+use Mojo::DOM;
 
 my $rootdir = `pwd`;
 chomp($rootdir);
@@ -84,6 +85,7 @@ my %garnishes = (
     'cucumber'          => 'cucumber',
     'cherry'            => 'maraschino_cherry',
     'maraschino cherry' => 'maraschino_cherry',
+    'nutmeg'            => 'nutmeg',
     'mint sprig'        => 'mint_sprig',
     'mint'              => 'mint_sprig',
     'thyme'             => 'thyme',
@@ -144,6 +146,9 @@ while (my $file = readdir DIR) {
     my $rating = 0;
     my $iconfile_val = "";
     my $page_image = "";
+    my $liquid_color = "#e6b741";
+    my $fm_glass = "";
+    my $has_color = 0;
 
     foreach my $line (@file_lines) {
         if ($line =~ /^---\s*$/) {
@@ -171,6 +176,21 @@ while (my $file = readdir DIR) {
             $page_image =~ s/^\s+|\s+$//g;
         }
 
+        # Extract liquid color if present
+        if ($line =~ /^color:\s*(.*)/) {
+            $liquid_color = $1;
+            $liquid_color =~ s/['"]//g;
+            $liquid_color =~ s/^\s+|\s+$//g;
+            $has_color = 1;
+        }
+
+        # Extract explicit glass if present
+        if ($line =~ /^glass:\s*(.*)/) {
+            $fm_glass = $1;
+            $fm_glass =~ s/['"]//g;
+            $fm_glass =~ s/^\s+|\s+$//g;
+        }
+
         if ($in_front_matter) {
             push @front_matter_lines, $line;
         } else {
@@ -178,10 +198,23 @@ while (my $file = readdir DIR) {
         }
     }
 
+    my $slug = $file;
+    $slug =~ s/\.md$//i;
+
+    my $injected_image = 0;
+    if ($has_color && !$page_image) {
+        $page_image = "/assets/images/cocktail_${slug}_dynamic.svg";
+        $injected_image = 1;
+    }
+
     my $full_body_text = join("", @body_lines);
 
     # Automatically extract component matches from the full body text (including notes)
     my @found_glasses   = find_matches($full_body_text, \%glassware);
+    # If the front-matter already has a glass, force the script to use it
+    if ($fm_glass) {
+        @found_glasses = ($fm_glass);
+    }
     my @found_garnishes = find_matches($full_body_text, \%garnishes);
     my @found_tools     = find_matches($full_body_text, \%tools);
     my @found_ice       = find_matches($full_body_text, \%ice_types);
@@ -368,6 +401,9 @@ $rating_json
         if ($line =~ /^---\s*$/) {
             $current_dash_count++;
             if ($current_dash_count == 2) {
+                if ($injected_image) {
+                    $final_front_matter .= "image: $page_image\n";
+                }
                 # Inject sorted component arrays right before the closing delimiter
                 $final_front_matter .= build_yaml_entry('glass',     \@found_glasses);
                 $final_front_matter .= build_yaml_entry('garnishes', \@found_garnishes);
@@ -409,6 +445,93 @@ $rating_json
     print NEWFILE $out;
     print NEWFILE $schema;
     close (NEWFILE);
+
+    # ==========================================================================
+    # Pass 4: Generate Dynamic SVG Illustration (Powered by Mojo::DOM)
+    # ==========================================================================
+    if ($page_image && $page_image =~ /\.svg$/i) {
+        
+        # 1. Determine the glass template (assuming $found_glasses[0] holds the slug)
+        my $template_glass = $found_glasses[0] || 'rocks'; 
+        my $template_file = $rootdir . "/assets/images/master_" . $template_glass . ".svg";
+        
+        if (-e $template_file) {
+            open(TMPL, "<:utf8", $template_file) or warn "Cannot open $template_file\n";
+            my $svg_content = join("", <TMPL>);
+            close(TMPL);
+
+            # Parse the SVG into a DOM object
+            my $dom = Mojo::DOM->new($svg_content);
+
+            # 2a. Inject the Main Liquid Color
+            if (my $liquid = $dom->at('#liquid-fill')) {
+                # Override the top-level XML attribute
+                $liquid->attr(fill => $liquid_color);
+                
+                # If Inkscape trapped a fill inside the style="" attribute, scrub and replace it
+                if (my $style = $liquid->attr('style')) {
+                    $style =~ s/fill:\s*[^;]+;?//ig;
+                    # We add a leading space here so it doesn't run into previous CSS properties
+                    $liquid->attr(style => "$style fill:$liquid_color;");
+                }
+            }
+
+            # 2b. Calculate and Inject the Foam Color (15% lighter)
+            # This calls the lighten_color sub at the bottom of your script
+            my $foam_color = lighten_color($liquid_color, 0.4);
+            
+            if (my $foam = $dom->at('#liquid-foam')) {
+                $foam->attr(fill => $foam_color);
+                if (my $style = $foam->attr('style')) {
+                    $style =~ s/fill:\s*[^;]+;?//ig;
+                    $foam->attr(style => "$style fill:$foam_color;");
+                }
+            }
+
+            # 3. Toggle Garnishes
+            # First, hide ALL garnishes by targeting any ID that starts with "garnish-"
+            $dom->find('[id^="garnish-"]')->each(sub {
+                my $el = shift;
+                $el->attr(display => 'none');
+                
+                # Scrub any inline display styles Inkscape might have added
+                if (my $style = $el->attr('style')) {
+                    $style =~ s/display:\s*[^;]+;?//ig;
+                    $el->attr(style => "$style display:none;");
+                }
+            });
+            
+            # Then, turn on ONLY the garnishes found in the recipe body
+            foreach my $garnish_slug (@found_garnishes) {
+                if (my $active_garnish = $dom->at("#garnish-$garnish_slug")) {
+                    $active_garnish->attr(display => 'inline');
+                    
+                    if (my $style = $active_garnish->attr('style')) {
+                        $style =~ s/display:\s*[^;]+;?//ig;
+                        $active_garnish->attr(style => "$style display:inline;");
+                    }
+                }
+            }
+
+            # Overwrite $svg_content with the newly modified DOM
+            $svg_content = $dom->to_string;
+
+            # 4. Save the new custom SVG safely
+            my $out_img = $page_image;
+            $out_img =~ s/.*\///; # Strip any folders just in case
+            
+            # Only append _dynamic if it isn't already there
+            $out_img =~ s/\.svg$/_dynamic.svg/i unless $out_img =~ /_dynamic\.svg$/i;
+            
+            my $svg_out_path = $rootdir . "/assets/images/" . $out_img;
+            
+            open(SVG_OUT, ">:utf8", $svg_out_path) or warn "Cannot write $svg_out_path\n";
+            print SVG_OUT $svg_content;
+            close(SVG_OUT);
+            
+            print "Generated SVG: $svg_out_path\n";
+        }
+    }
 
     print "Processed & Saved: $outfile\n";
 }
@@ -612,4 +735,27 @@ sub read_spirit_data {
             }
         }
     }
+}
+
+# ==========================================================================
+# Helper: Lighten a Hex Color
+# ==========================================================================
+sub lighten_color {
+    my ($hex, $percent) = @_;
+    
+    # Strip the hash if it's there
+    $hex =~ s/^#//;
+    
+    # Extract RGB values
+    my $r = hex(substr($hex, 0, 2));
+    my $g = hex(substr($hex, 2, 2));
+    my $b = hex(substr($hex, 4, 2));
+
+    # Push each channel toward 255 based on the percentage
+    $r = int($r + (255 - $r) * $percent);
+    $g = int($g + (255 - $g) * $percent);
+    $b = int($b + (255 - $b) * $percent);
+
+    # Format back into a 6-character hex string
+    return sprintf("#%02x%02x%02x", $r, $g, $b);
 }

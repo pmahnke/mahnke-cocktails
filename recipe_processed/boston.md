@@ -38,7 +38,7 @@ type: shaken
 - Garnish: Lemon twist
 - Special Prep: 
   - Pinch of salt
-  - Express lemon oil over the cocktail and use as a garnish
+  - Expressed lemon oil and lemon peel
 
 <script type="application/ld+json">
 {
@@ -84,7 +84,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Express lemon oil over the cocktail and use as a garnish"
+      "text": "Expressed lemon oil and lemon peel"
     }
     ],
   "recipeYield": "1 cocktail",

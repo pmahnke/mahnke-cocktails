@@ -14,7 +14,9 @@ excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
 glass: coupe
-garnishes: lemon_peel
+garnishes:
+  - lemon_peel
+  - nutmeg
 type: shaken
 ---
 
@@ -34,7 +36,7 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Expressed lemon oil & grated nutmeg
+- Garnish: Expressed lemon oil and grated nutmeg
 - Special Prep: None
 
 <script type="application/ld+json">
@@ -71,7 +73,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Expressed lemon oil & grated nutmeg"
+      "text": "Garnish: Expressed lemon oil and grated nutmeg"
     },
     {
       "@type": "HowToStep",

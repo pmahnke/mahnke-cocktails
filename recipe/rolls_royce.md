@@ -29,5 +29,5 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Lemon peal
+- Garnish: Lemon Peel
 - Special Prep: Expressed lemon oil

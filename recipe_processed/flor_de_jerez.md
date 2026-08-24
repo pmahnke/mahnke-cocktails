@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/flor_de_jerez/"
 iconfile: flor_de_jerez
+color: #6d1904
 stars: 0
 base_spirits: ['Amontillado Sherry', 'Apricot Liqueur', 'Jamaican Rum']
 youtube: "zWuyuW-tGcg"
@@ -14,6 +15,7 @@ description: "Amontillado sherry provides a nutty foundation, while a small meas
 excerpt: |
   This modern low-ABV sour was created by Joaquin Simo at Death & Co in 2009. Amontillado sherry provides a nutty foundation, while a small measure of Jamaican rum adds weight and a lean funk. It is a savory, complex choice for those who want a layered drink that remains light on its feet.
 date: 2026-05-28
+image: /assets/images/cocktail_flor_de_jerez_dynamic.svg
 glass: coupe
 type: shaken
 ---
@@ -45,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_flor_de_jerez_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Amontillado Sherry",
