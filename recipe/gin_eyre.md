@@ -6,7 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/gin_eyre/"
 iconfile: gin_eyre
-color: #D6D29A
+color: #D1BF60
 stars: 0
 base_spirits: "London Dry Gin, Triple Sec"
 youtube: "https://youtube.com/shorts/-AfDMMoiRN0?si=8gwqvsnzK2uRyWra"
