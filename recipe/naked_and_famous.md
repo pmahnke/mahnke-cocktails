@@ -6,6 +6,7 @@ eras: [modern]
 categories: [amaro, sour, daisy]
 permalink: "/recipe/naked_and_famous/"
 iconfile: naked_and_famous
+color: #fd9b3b
 stars: 0
 base_spirits: "Mezcal, Yellow Chartreuse, Aperol"
 youtube: "70cS-bRH9kA"

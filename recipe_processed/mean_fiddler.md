@@ -7,6 +7,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/mean_fiddler/"
 iconfile: mean_fiddler
+color: #de0000
 stars: 0
 base_spirits: ['Campari', 'Green Chartreuse', 'Irish Whiskey', 'Single Malt Scotch', 'Sweet Vermouth']
 youtube: "wPsvBjSjpCg"
@@ -15,10 +16,9 @@ excerpt: |
   This recipe was created in 2015 by Jack McGarry at the Dead Rabbit in New York City. Jack originally based this cocktail on Green Spot single pot still Irish whiskey.
 
 date: 2026-03-07
-glass:
-  - nick_and_nora
-  - whiskey
-garnishes: garnish-lemon_peel
+image: /assets/images/cocktail_mean_fiddler_dynamic.svg
+glass: nick_and_nora
+garnishes: twist_lemon
 type: stirred
 ---
 
@@ -39,7 +39,7 @@ type: stirred
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Nick & Nora
-- Garnish: Lemon peel
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil
 
 <script type="application/ld+json">
@@ -50,7 +50,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_mean_fiddler_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    1 oz Irish Whiskey",
@@ -77,7 +77,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Lemon peel"
+      "text": "Garnish: Lemon twist"
     },
     {
       "@type": "HowToStep",

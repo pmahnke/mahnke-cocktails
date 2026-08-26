@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/satans_whiskers/"
 iconfile: satans_whiskers
+color: #feba02
 stars: 0
 base_spirits: ['Curaçao', 'Dry Vermouth', 'Plymouth Gin', 'Sweet Vermouth']
 youtube: "T3GsJVVGCFs"
@@ -13,7 +14,8 @@ description: "A classic Prohibition-era cocktail with a devilishly delicious fla
 excerpt: |
   The Satan's Whiskers cocktail is a classic Prohibition-era drink with a devilishly delicious flavor profile.
 date: 2025-08-11
-glass: nick_and_nora
+image: /assets/images/cocktail_satans_whiskers_dynamic.svg
+glass: coupe
 garnishes: twist_orange
 type: shaken
 ---
@@ -33,7 +35,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Nick & Nora
+- Glassware: Coupe
 - Garnish: Orange Twist
 - Special Prep: None
 
@@ -45,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_satans_whiskers_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Plymouth Gin",
@@ -67,7 +69,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Nick & Nora"
+      "text": "Glassware: Coupe"
     },
     {
       "@type": "HowToStep",

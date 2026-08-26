@@ -13,10 +13,7 @@ description: "A refreshing modern twist on the classic, this cocktail combines c
 excerpt: |
   The Cold Brew Irish Coffee is a refreshing and modern twist on the classic hot Irish coffee. This cocktail combines the bold flavors of cold brew coffee with the smooth warmth of Irish whiskey, creating a perfect drink for any occasion.
 date: 2025-08-11
-glass:
-  - coffee
-  - nick_and_nora
-  - whiskey
+glass: nick_and_nora
 ---
 
 ### Ingredients

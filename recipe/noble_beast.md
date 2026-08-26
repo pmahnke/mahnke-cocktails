@@ -6,6 +6,7 @@ categories: [coffee, flip]
 eras: [anders]
 permalink: "/recipe/noble_beast/"
 iconfile: noble_beast
+color: #ba490d
 stars: 0
 base_spirits: "Angostura Aromatic Bitters"
 youtube: "pzmVLMzQjNo"

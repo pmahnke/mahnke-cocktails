@@ -6,6 +6,7 @@ categories: [daisy]
 eras: [anders]
 permalink: "/recipe/midnight_daisy/"
 iconfile: midnight_daisy
+color: #bb6107
 stars: 0
 base_spirits: "Bourbon, Bénédictine"
 youtube: "LaqklLOgeCY"

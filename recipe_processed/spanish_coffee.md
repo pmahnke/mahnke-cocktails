@@ -13,7 +13,6 @@ description: "A classic after-dinner drink, also known as a carajillo, made with
 excerpt: |
   Or 'carajillo', is a coffee drink enjoyed throughout many Spanish-speaking countries. It's made with booze — usually rum, brandy or Licor 43.
 date: 2025-08-11
-glass: coffee
 garnishes:
   - garnish-salted_rim
   - spice_nutmeg

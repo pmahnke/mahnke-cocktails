@@ -16,9 +16,7 @@ excerpt: |
   The Eastside is a gin-based drink made with fresh cucumber and mint, lime juice, and simple syrup, created by George Delgado in 2004 in New York City.
 date: 2025-08-11
 image: /assets/images/cocktail_eastside_dynamic.svg
-glass:
-  - cocktail
-  - coupe
+glass: coupe
 garnishes:
   - garnish_cucumber
   - herb_mint

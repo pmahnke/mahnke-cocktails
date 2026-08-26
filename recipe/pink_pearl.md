@@ -6,6 +6,7 @@ eras: [prohibition]
 title: "Pink Pearl"
 permalink: "/recipe/pink_pearl/"
 iconfile: pink_pearl
+color: #a81b0d
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A classic non-alcoholic cocktail from 1937 with a big, refreshing hit of grapefruit."
@@ -27,7 +28,7 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Nick &amp; Nora
+- Glassware: Nick & Nora
 - Garnish: Cocktail cherry
 - Special Prep:
   - Expressed grapefruit oil.

@@ -6,7 +6,8 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/scofflaw/"
 iconfile: scofflaw
-image: /assets/images/cocktail_scoflaw.svg
+color: #ed8957
+image_orig: /assets/images/cocktail_scoflaw.svg
 stars: 5
 base_spirits: "Rye, Dry Vermouth"
 youtube: "nutbajkZ8Lc"
@@ -31,5 +32,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: Orange Zest or Lemon Zest
+- Garnish: Lemon or orange twist
 - Special Prep: None

@@ -6,6 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/pink_lady/"
 iconfile: pink_lady
+color: #ecd9cd
 stars: 4
 base_spirits: "London Dry Gin, Apple Brandy "
 youtube: "MfHv2EOLUOo&t=336s"
@@ -30,5 +31,5 @@ date: 2026-01-16
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: Cocktail Cherry
+- Garnish: Cocktail cherries on a toothpick
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.

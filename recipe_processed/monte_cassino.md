@@ -6,7 +6,8 @@ eras: [modern]
 categories: [sour, daisy]
 permalink: "/recipe/monte_cassino/"
 iconfile: monte_cassino
-image: /assets/images/cocktail_monte_cassino.svg
+color: #e4ba69
+image_orig: /assets/images/cocktail_monte_cassino.svg
 stars: 4.25
 base_spirits: ['Bénédictine', 'Rye', 'Yellow Chartreuse']
 youtube: "NGPSk_jMZvA"
@@ -14,6 +15,7 @@ description: "A riff on the Last Word and Final Ward cocktails, replacing Green 
 excerpt: |
   Created by Damon Dyer for a contest for Benedictine’s 500th birthday in 2010 — he won.  It is a riff on the Last Word and Final Ward cocktails, replacing Green Chartreuse with Yellow Chartreuse and Maraschino liquor with Benedictine.
 date: 2026-03-22
+image: /assets/images/cocktail_monte_cassino_dynamic.svg
 glass: nick_and_nora
 garnishes: twist_cocktail-cherry
 type: shaken
@@ -44,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_monte_cassino.png",
+  "image": "{{ site.url }}/assets/images/cocktail_monte_cassino_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Rye",

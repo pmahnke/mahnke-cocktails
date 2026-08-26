@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/man_o_war/"
 iconfile: man_o_war
+color: #fd9900
 stars: 3.5
 base_spirits: ['Bourbon', 'Curaçao', 'Sweet Vermouth']
 youtube: "1V0-c6u4xJA"
@@ -13,8 +14,11 @@ description: "A citrusy bourbon sour from the Prohibition era, named for one of 
 excerpt: |
   The Man o’ War cocktail is named for one of the finest racehorses in history. This citrusy bourbon drink is a winner.
 date: 2025-08-11
+image: /assets/images/cocktail_man_o_war_dynamic.svg
 glass: nick_and_nora
-garnishes: garnish-lemon_peel_oil
+garnishes:
+  - garnish-lemon_peel_oil
+  - twist_lemon
 type: shaken
 ---
 
@@ -33,7 +37,7 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: Expressed lemon oil & peel
+- Garnish: Expressed lemon oil & lemon twist
 - Special Prep: None
 
 <script type="application/ld+json">
@@ -44,7 +48,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_man_o_war_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz Bourbon",
@@ -69,7 +73,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Expressed lemon oil & peel"
+      "text": "Garnish: Expressed lemon oil & lemon twist"
     },
     {
       "@type": "HowToStep",

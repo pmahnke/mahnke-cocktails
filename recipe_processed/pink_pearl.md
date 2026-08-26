@@ -6,12 +6,15 @@ eras: [prohibition]
 title: "Pink Pearl"
 permalink: "/recipe/pink_pearl/"
 iconfile: pink_pearl
+color: #a81b0d
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A classic non-alcoholic cocktail from 1937 with a big, refreshing hit of grapefruit."
 excerpt: |
   A classic 1937 Cafe Royal mocktail with a big hit of grapefruit.
 date: 2025-08-11
+image: /assets/images/cocktail_pink_pearl_dynamic.svg
+glass: nick_and_nora
 garnishes: twist_cocktail-cherry
 type: shaken
 ---
@@ -29,7 +32,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Nick &amp; Nora
+- Glassware: Nick & Nora
 - Garnish: Cocktail cherry
 - Special Prep:
   - Expressed grapefruit oil.
@@ -43,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_pink_pearl_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Egg White",
@@ -63,7 +66,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Nick &amp; Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

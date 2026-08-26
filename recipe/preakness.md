@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/preakness/"
 iconfile: preakness
+color: #fdb118
 stars: 3
 base_spirits: "Bourbon, Sweet Vermouth, Bénédictine"
 youtube: "1V0-c6u4xJA"
@@ -28,5 +29,5 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Nick & Nora
-- Garnish: Expressed lemon oil and lemon peel
+- Garnish: Expressed lemon oil and lemon twist
 - Special Prep: None

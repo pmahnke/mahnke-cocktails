@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [anders]
 permalink: "/recipe/lower_wacker/"
 iconfile: lower_wacker
+color: #ad3e30
 stars: 0
 base_spirits: "Rye, Sweet Vermouth, Cynar, Apricot Liqueur, Malört"
 youtube: "bzN1zwAqgSY"
@@ -31,5 +32,5 @@ date: 2026-04-05
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Nick & Nora
-- Garnish: Cocktail cherry
+- Garnish: Cocktail cherries on a toothpick
 - Special Prep: Expressed lemon oil and a rinse of Malört

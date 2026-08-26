@@ -6,6 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/lucky_stone/"
 iconfile: lucky_stone
+color: #fa4a04
 stars: 0
 base_spirits: "Irish Whiskey, Amontillado Sherry, Apricot Liqueur"
 youtube: "aRboP-f7LK0"
@@ -21,7 +22,7 @@ date: 2025-09-26
 | -------: | ------------------ | ----------------------------------- |
 |   1.5 oz | Irish Whiskey      | Powers Gold Label                   |
 |     1 oz | Amontillado Sherry | Lustau Amontillado Los Arcos |
-|   0.5 oz | Apricot Liquer     | Giffard Abricot du Roussillon       |
+|   0.5 oz | Apricot Liqueur    | Giffard Abricot du Roussillon       |
 | 2 dashes | Bitters            | Peychaud's Bitters                  |
 
 ### Notes

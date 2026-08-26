@@ -13,9 +13,7 @@ description: "A classic cocktail that uniquely combines the distinct flavors of 
 excerpt: |
   The Cameron's Kick is a classic cocktail that combines the smoothness of Scotch whisky with the sweetness of Irish whiskey, lemon juice, and orgeat syrup. It is named after the famous Scottish golfer Cameron MacKenzie, who was known for his powerful kick.
 date: 2025-12-09
-glass:
-  - rocks
-  - whiskey
+glass: rocks
 garnishes: garnish-lemon_peel
 type: shaken
 ---

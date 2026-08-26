@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/millionaire_royal/"
 iconfile: millionaire_royal
+color: #d57157
 stars: 4
 base_spirits: "Bourbon, Curaçao, Absinthe"
 youtube: "CZ5KSKO3sbQ"

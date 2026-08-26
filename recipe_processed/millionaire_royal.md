@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/millionaire_royal/"
 iconfile: millionaire_royal
+color: #d57157
 stars: 4
 base_spirits: ['Absinthe', 'Bourbon', 'Curaçao']
 youtube: "CZ5KSKO3sbQ"
@@ -13,6 +14,7 @@ description: "A very satisfactory classic sour, featuring bourbon, Grand Marnier
 excerpt: |
   In his 1948 <i>The Fine Art of Mixing Drinks</i>, David Embury's says "At some bars a drink served under the name of "Millionaire" which consists of lime juice, slow gin, and Apricot Liqueur, with a few dashes of Jamaican Rum . Since the sloe gin, which is a liqueur, predominates in this drink, I do not regard it as a true cocktail." Embury is more complimentary of what he calls a "Millionaire Royal", proclaiming it to be "a very satisfactory drink."
 date: 2025-11-29
+image: /assets/images/cocktail_millionaire_royal_dynamic.svg
 glass: nick_and_nora
 garnishes: spice_nutmeg
 type: shaken
@@ -48,7 +50,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_millionaire_royal_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1.5 oz Bourbon",

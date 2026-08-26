@@ -6,6 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/sage_hen/"
 iconfile: sage_hen
+color: #f1d076
 stars: 0
 base_spirits: ['Plymouth Gin', 'Yellow Chartreuse']
 youtube: "EKyIy5iG87Q"
@@ -13,6 +14,7 @@ description: "A modern sour that showcases the unique savory and sweet flavors o
 excerpt: |
   The Sage Hen is a modern cocktail that showcases the unique flavors of sage and honey.
 date: 2025-08-11
+image: /assets/images/cocktail_sage_hen_dynamic.svg
 glass: nick_and_nora
 type: shaken
 ---
@@ -43,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_sage_hen_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1.5 oz Plymouth Gin",

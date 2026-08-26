@@ -6,6 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/pink_lady/"
 iconfile: pink_lady
+color: #ecd9cd
 stars: 4
 base_spirits: ['Apple Brandy', 'London Dry Gin']
 youtube: "MfHv2EOLUOo&t=336s"
@@ -13,8 +14,9 @@ description: "A classic Prohibition-era sour with a beautiful pink hue, featurin
 excerpt: |
   The cocktail is probably named in honour of the American actress Hazel Dawn (1890-1988), who played the lead role in the 1911 Broadway hit musical comedy The Pink Lady by Ivan Caryll. She rose to fame playing this role and subsequently appeared in 15 feature films, but always retained The Pink Lady nickname.<br><br>The cocktail's creator is not recorded, but sometimes it is attributed to the American actress and interior decorator Elsie de Wolfe (1859-1950).
 date: 2026-01-16
+image: /assets/images/cocktail_pink_lady_dynamic.svg
 glass: nick_and_nora
-garnishes: twist_cocktail-cherry
+garnishes: garnish-cherries_stick
 type: shaken
 ---
 
@@ -33,7 +35,7 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: Cocktail Cherry
+- Garnish: Cocktail cherries on a toothpick
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
 <script type="application/ld+json">
@@ -44,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_pink_lady_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz London Dry Gin",
@@ -69,7 +71,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Cocktail Cherry"
+      "text": "Garnish: Cocktail cherries on a toothpick"
     },
     {
       "@type": "HowToStep",

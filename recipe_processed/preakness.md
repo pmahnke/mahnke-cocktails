@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/preakness/"
 iconfile: preakness
+color: #fdb118
 stars: 3
 base_spirits: ['Bourbon', 'Bénédictine', 'Sweet Vermouth']
 youtube: "1V0-c6u4xJA"
@@ -13,10 +14,11 @@ description: "A classic Manhattan variation named for the famous horse race, whi
 excerpt: |
   Named for a horse race that is not the Kentucky Derby, this Manhattan variation gets a splash of Benedictine for complexity.
 date: 2025-08-11
+image: /assets/images/cocktail_preakness_dynamic.svg
 glass: nick_and_nora
 garnishes:
-  - garnish-lemon_peel
   - garnish-lemon_peel_oil
+  - twist_lemon
 type: stirred
 ---
 
@@ -33,7 +35,7 @@ type: stirred
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Nick & Nora
-- Garnish: Expressed lemon oil and lemon peel
+- Garnish: Expressed lemon oil and lemon twist
 - Special Prep: None
 
 <script type="application/ld+json">
@@ -44,7 +46,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_preakness_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Bourbon",
@@ -67,7 +69,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Expressed lemon oil and lemon peel"
+      "text": "Garnish: Expressed lemon oil and lemon twist"
     },
     {
       "@type": "HowToStep",

@@ -6,6 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/yvonnes_reprise/"
 iconfile: yvonnes_reprise
+color: #b11d22
 stars: 0
 base_spirits: "London Dry Gin, Crème de Cassis, Blanc Vermouth"
 youtube: "FI4wUOzJvUE"
@@ -30,6 +31,6 @@ date: 2025-11-15
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Nick & Nora
+- Glassware: Coupe
 - Garnish: Pineapple fronds
 - Special Prep: None

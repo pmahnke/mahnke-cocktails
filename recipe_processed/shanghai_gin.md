@@ -6,7 +6,8 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/shanghai_gin/"
 iconfile: shanghai_gin
-image: /assets/images/cocktail_shanghai_gin.svg
+color: #ebcd8a
+image_orig: /assets/images/cocktail_shanghai_gin.svg
 stars: 4.25
 base_spirits: ['Bénédictine', 'London Dry Gin', 'Yellow Chartreuse']
 youtube: "6OApD96Wn_M"
@@ -14,6 +15,7 @@ description: "A modern sour featuring a complex combination of gin, yellow Chart
 excerpt: |
   The Shanghai Gin was first created at a Vietnamese restaurant in San Francisco called The Slanted Door.  A yet-to-be-named bartender found the recipe for a drink called "Shanghai Gin Fizz" in some old bar manual (nobody knows what book it was). Apparently the book was not that interesting but this one cocktail piqued his interest and he set about reconstructing it.
 date: 2025-08-11
+image: /assets/images/cocktail_shanghai_gin_dynamic.svg
 glass: nick_and_nora
 type: shaken
 ---
@@ -43,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_shanghai_gin.png",
+  "image": "{{ site.url }}/assets/images/cocktail_shanghai_gin_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz London Dry Gin",

@@ -7,6 +7,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/mean_fiddler/"
 iconfile: mean_fiddler
+color: #de0000
 stars: 0
 base_spirits: "Irish Whiskey, Single Malt Scotch, Sweet Vermouth, Green Chartreuse, Campari"
 youtube: "wPsvBjSjpCg"
@@ -34,5 +35,5 @@ date: 2026-03-07
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Nick & Nora
-- Garnish: Lemon peel
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil

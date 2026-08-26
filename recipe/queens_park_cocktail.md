@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/queens_park_cocktail/"
 iconfile: queens_park_cocktail
+color: #c02710
 stars: 3
 base_spirits: "Gold Rum, Sweet Vermouth"
 youtube: "ASTV1OEXhbE"

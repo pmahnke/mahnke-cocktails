@@ -13,9 +13,7 @@ description: "A classic and creamy modern after-dinner drink that combines vodka
 excerpt: |
   The White Russian is a classic three-ingredient cocktail that combines vodka, Kahlúa and cream. Here's how to make this iconic drink.
 date: 2025-08-11
-glass:
-  - coffee
-  - rocks
+glass: rocks
 ice: ice_cubes
 ---
 

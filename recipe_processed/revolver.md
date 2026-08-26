@@ -6,6 +6,7 @@ eras: [modern]
 categories: [Coffee, Cocktail]
 permalink: "/recipe/revolver/"
 iconfile: revolver
+color: #a72e0d
 stars: 0
 base_spirits: ['Bourbon', 'Coffee Liqueur']
 youtube: "mFOZcQvZ6oY"
@@ -13,10 +14,8 @@ description: "A modern classic from San Francisco, this is an exceptional coffee
 excerpt: |
   A San Francisco original, and an exceptional coffee-laced riff on the Manhattan.
 date: 2025-08-11
-glass:
-  - coffee
-  - nick_and_nora
-garnishes: garnish-orange_peel
+image: /assets/images/cocktail_revolver_dynamic.svg
+glass: nick_and_nora
 type: shaken
 ---
 
@@ -33,8 +32,8 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: Flamed orange oil
-- Special Prep: None
+- Garnish: None
+- Special Prep: Flamed expressed orange oil
 
 <script type="application/ld+json">
 {
@@ -44,7 +43,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_revolver_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Bourbon",
@@ -67,11 +66,11 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Flamed orange oil"
+      "text": "Garnish: None"
     },
     {
       "@type": "HowToStep",
-      "text": "Special Prep: None"
+      "text": "Special Prep: Flamed expressed orange oil"
     }
     ],
   "recipeYield": "1 cocktail",

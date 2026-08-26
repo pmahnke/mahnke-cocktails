@@ -6,6 +6,7 @@ eras: [modern]
 categories: [Coffee, Cocktail]
 permalink: "/recipe/revolver/"
 iconfile: revolver
+color: #a72e0d
 stars: 0
 base_spirits: "Bourbon, Coffee Liqueur"
 youtube: "mFOZcQvZ6oY"
@@ -28,5 +29,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: Flamed orange oil
-- Special Prep: None
+- Garnish: None
+- Special Prep: Flamed expressed orange oil

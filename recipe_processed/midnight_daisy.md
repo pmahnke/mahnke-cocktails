@@ -6,6 +6,7 @@ categories: [daisy]
 eras: [anders]
 permalink: "/recipe/midnight_daisy/"
 iconfile: midnight_daisy
+color: #bb6107
 stars: 0
 base_spirits: ['Bourbon', 'Bénédictine']
 youtube: "LaqklLOgeCY"
@@ -13,6 +14,7 @@ description: "The double oaked bourbon and the rich sweetness of the Bénédicti
 excerpt: |
   This is an Anders original cocktail. The double oaked bourbon and the rich sweetness of the Bénédictine add a light take on fall flavors.
 date: 2025-10-26
+image: /assets/images/cocktail_midnight_daisy_dynamic.svg
 glass: nick_and_nora
 garnishes: garnish-dry_lemon_wheel
 type: shaken
@@ -44,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_midnight_daisy_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Bourbon",

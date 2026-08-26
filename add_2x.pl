@@ -37,8 +37,7 @@ my %glassware = (
     'hurricane'            => 'hurricane',
     'flute'                => 'flute',
     'cobbler'              => 'cobbler',
-    'cocktail glass'              => 'cocktail',
-    'coffee'               => 'coffee',
+    'coffee mug'           => 'coffee',
     'copper mug'           => 'copper_mug',
     'cordial'              => 'cordial',
     'double old fashioned' => 'double_old_fashioned',
@@ -54,7 +53,7 @@ my %glassware = (
     'sling'                => 'sling',
     'snifter'              => 'snifter',
     'sour'                 => 'sour',
-    'whiskey'              => 'whiskey'
+    'whiskey glass'        => 'whiskey'
 );
 
 my %garnishes = (
@@ -91,6 +90,7 @@ my %garnishes = (
     'maraschino cherry'        => 'twist_cocktail-cherry',
     'cherries on a toothpick'  => 'garnish-cherries_stick',
     'nutmeg'                   => 'spice_nutmeg',
+    'grated coffee bean'       => 'spice_nutmeg',
     'mint sprig'               => 'herb_mint',
     'mint'                     => 'herb_mint',
     'thyme'                    => 'herb_thyme',

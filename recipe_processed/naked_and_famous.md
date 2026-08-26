@@ -6,6 +6,7 @@ eras: [modern]
 categories: [amaro, sour, daisy]
 permalink: "/recipe/naked_and_famous/"
 iconfile: naked_and_famous
+color: #fd9b3b
 stars: 3.5
 base_spirits: ['Aperol', 'Mezcal', 'Yellow Chartreuse']
 youtube: "70cS-bRH9kA"
@@ -13,6 +14,7 @@ description: "A modern, summery, and refreshing sour featuring an equal-parts co
 excerpt: |
   With Aperol, mezcal, Yellow Chartreuse, and lime juice, the summery Naked and Famous cocktail is a refreshing drink to serve year-round.
 date: 2025-12-23
+image: /assets/images/cocktail_naked_and_famous_dynamic.svg
 glass: nick_and_nora
 type: shaken
 ---
@@ -42,7 +44,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_naked_and_famous_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Mezcal",

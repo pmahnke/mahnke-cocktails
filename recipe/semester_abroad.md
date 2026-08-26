@@ -6,6 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/semester_abroad/"
 iconfile: semester_abroad
+color: #9d1200
 stars: 0
 base_spirits: "Rye, Curaçao, Fernet Branca"
 youtube: "JIQ_UNrQZR8"

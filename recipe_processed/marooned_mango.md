@@ -6,6 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/marooned_mango/"
 iconfile: marooned_mango
+color: #cb9540
 stars: 4
 base_spirits: ['Cachaça', 'Mango Liqueur', 'Sweet Vermouth']
 youtube: "xnXFbjQSu-k"
@@ -13,7 +14,9 @@ description: "A delightful tropical original cocktail that features a sweet and 
 excerpt: |
   The Marooned Mango is a delightful tropical cocktail that is perfect for those seeking a sweet, tangy, and refreshing drink. Its vibrant color and fruity flavors make it a visually appealing and delicious choice for any occasion.
 date: 2025-08-11
+image: /assets/images/cocktail_marooned_mango_dynamic.svg
 glass: nick_and_nora
+garnishes: garnish-angostura_bitters
 type: shaken
 ---
 
@@ -33,7 +36,7 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: 3 drops Angostura Aromatic Bitters & pineapple fronds
+- Garnish: 3 drops of Angostura Aromatic Bitters & pineapple fronds
 - Special Prep: None
 
 <script type="application/ld+json">
@@ -44,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_marooned_mango_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Cachaça",
@@ -70,7 +73,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: 3 drops Angostura Aromatic Bitters & pineapple fronds"
+      "text": "Garnish: 3 drops of Angostura Aromatic Bitters & pineapple fronds"
     },
     {
       "@type": "HowToStep",

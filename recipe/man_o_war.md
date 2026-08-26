@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/man_o_war/"
 iconfile: man_o_war
+color: #fd9900
 stars: 0
 base_spirits: "Bourbon, Curaçao, Sweet Vermouth"
 youtube: "1V0-c6u4xJA"
@@ -30,5 +31,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: Expressed lemon oil & peel
+- Garnish: Expressed lemon oil & lemon twist
 - Special Prep: None

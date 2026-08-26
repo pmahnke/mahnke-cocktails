@@ -6,6 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/yvonnes_reprise/"
 iconfile: yvonnes_reprise
+color: #b11d22
 stars: 0
 base_spirits: ['Blanc Vermouth', 'Crème de Cassis', 'London Dry Gin']
 youtube: "FI4wUOzJvUE"
@@ -13,7 +14,8 @@ description: "Yvonne’s Reprise is an original cocktail inspired by Arnaud’s 
 excerpt: |
   This is an Anders original and is essentially a sour mash-up of the Arnaud Martini and the Algonquin. The addition of pineapple juice and lemon juice adds a tropical note, but the Crème de Cassis keeps it in the berry flavor profile. 
 date: 2025-11-15
-glass: nick_and_nora
+image: /assets/images/cocktail_yvonnes_reprise_dynamic.svg
+glass: coupe
 type: shaken
 ---
 
@@ -32,7 +34,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Nick & Nora
+- Glassware: Coupe
 - Garnish: Pineapple fronds
 - Special Prep: None
 
@@ -44,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_yvonnes_reprise_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz London Dry Gin",
@@ -66,7 +68,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Nick & Nora"
+      "text": "Glassware: Coupe"
     },
     {
       "@type": "HowToStep",

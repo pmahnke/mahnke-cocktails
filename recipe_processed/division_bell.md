@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/division_bell/"
 iconfile: division_bell
+color: #fd9b3b
 stars: 0
 base_spirits: ['Aperol', 'Maraschino Liqueur', 'Mezcal']
 youtube: "70cS-bRH9kA"
@@ -13,7 +14,9 @@ description: "A modern classic that combines the smoky flavor of mezcal with the
 excerpt: |
   The Division Bell cocktail is a modern classic that combines the smoky flavors of mezcal with the bitter-sweetness of Aperol and the cherry notes of Maraschino Liqueur.
 date: 2025-10-08
+image: /assets/images/cocktail_division_bell_dynamic.svg
 glass: nick_and_nora
+garnishes: garnish-grapefruit_peel
 type: shaken
 ---
 
@@ -31,7 +34,7 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: Expressed grapefruit oil
+- Garnish: Expressed grapefruit oil and grapefruit peel
 - Special Prep:
 
 <script type="application/ld+json">
@@ -42,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_division_bell_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Mezcal",
@@ -66,7 +69,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Expressed grapefruit oil"
+      "text": "Garnish: Expressed grapefruit oil and grapefruit peel"
     },
     {
       "@type": "HowToStep",

@@ -6,6 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/midori_daiquiri/"
 iconfile: midori_daiquiri
+color: #b7de57
 stars: 4
 base_spirits: ['Melon Liqueur', 'White Rum']
 youtube:
@@ -13,6 +14,7 @@ description: "A vibrant green twist on the classic Cuban sour, celebrated for it
 excerpt: |
   Owen loves all things Japan, and after a few attempts, he has ended up on this vibrant green twist on the classic Cuban sour, celebrated for its perfect balance of two parts white rum, sweet melon liqueur, and tart fresh lime juice.
 date: 2025-08-20
+image: /assets/images/cocktail_midori_daiquiri_dynamic.svg
 glass: nick_and_nora
 garnishes: garnish-lime_wheel
 type: shaken
@@ -43,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_midori_daiquiri_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    2 oz White Rum",

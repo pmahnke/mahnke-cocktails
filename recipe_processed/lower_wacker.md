@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [anders]
 permalink: "/recipe/lower_wacker/"
 iconfile: lower_wacker
+color: #ad3e30
 stars: 0
 base_spirits: ['Apricot Liqueur', 'Cynar', 'Malört', 'Rye', 'Sweet Vermouth']
 youtube: "bzN1zwAqgSY"
@@ -13,8 +14,9 @@ description: "This is Anders&#39; ode to Chicago with this bold whiskey cocktail
 excerpt: |
   This cocktail is Anders&#39; ode to the City of Chicago as he leaves after 23 years. It is a rye whiskey based riff on a Manhattan with a split of sweet vermouth and Cynar and apricot liqueur to round it out. The Mal&#xF6;rt rinse adds a touch of bitterness.
 date: 2026-04-05
+image: /assets/images/cocktail_lower_wacker_dynamic.svg
 glass: nick_and_nora
-garnishes: twist_cocktail-cherry
+garnishes: garnish-cherries_stick
 type: stirred
 ---
 
@@ -34,7 +36,7 @@ type: stirred
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Nick & Nora
-- Garnish: Cocktail cherry
+- Garnish: Cocktail cherries on a toothpick
 - Special Prep: Expressed lemon oil and a rinse of Malört
 
 <script type="application/ld+json">
@@ -45,7 +47,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_lower_wacker_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Rye",
@@ -71,7 +73,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Cocktail cherry"
+      "text": "Garnish: Cocktail cherries on a toothpick"
     },
     {
       "@type": "HowToStep",

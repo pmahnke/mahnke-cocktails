@@ -6,6 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/sage_hen/"
 iconfile: sage_hen
+color: #f1d076
 stars: 0
 base_spirits: "Plymouth Gin, Yellow Chartreuse "
 youtube: "EKyIy5iG87Q"

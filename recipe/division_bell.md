@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/division_bell/"
 iconfile: division_bell
+color: #fd9b3b
 stars: 0
 base_spirits: "Mezcal, Aperol, Maraschino Liqueur "
 youtube: "70cS-bRH9kA"
@@ -29,5 +30,5 @@ date: 2025-10-08
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: Expressed grapefruit oil
+- Garnish: Expressed grapefruit oil and grapefruit peel
 - Special Prep:

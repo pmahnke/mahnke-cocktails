@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/pink_gin/"
 iconfile: pink_gin
+color: #d6602e
 stars: 0
 base_spirits: ['Angostura Aromatic Bitters', 'Plymouth Gin']
 youtube: "PLi_quAjz8g"
@@ -15,6 +16,7 @@ excerpt: |
   <br><br>
   The Royal Navy then brought the idea for the drink to bars in England, where this method of serving was first noted on the mainland. By the 1870s, gin was becoming increasingly popular and many of the finer establishments in England were serving pink gins.
 date: 2025-08-11
+image: /assets/images/cocktail_pink_gin_dynamic.svg
 glass: nick_and_nora
 type: stirred
 ---
@@ -42,7 +44,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_pink_gin_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Plymouth Gin",

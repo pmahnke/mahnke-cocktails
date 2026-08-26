@@ -6,6 +6,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/royal_bermuda_yacht_club/"
 iconfile: rbyc
+color: #e08812
 stars: 4
 base_spirits: "Demerara Rum, White Rum, Curaçao"
 youtube: "y3s1xmGfLkw"

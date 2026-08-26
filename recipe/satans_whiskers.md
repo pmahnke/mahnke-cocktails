@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/satans_whiskers/"
 iconfile: satans_whiskers
+color: #feba02
 stars: 0
 base_spirits: "Plymouth Gin, Dry Vermouth, Sweet Vermouth, Curaçao "
 youtube: "T3GsJVVGCFs"
@@ -30,6 +31,6 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Nick & Nora
+- Glassware: Coupe
 - Garnish: Orange Twist
 - Special Prep: None

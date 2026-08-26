@@ -6,9 +6,10 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/trinidad_sour/"
 iconfile: trinidad_sour
+color: #8b1911
 stars: 0
 base_spirits: "Angostura Aromatic Bitters, Rye "
-youtube: '\_BEaYWQjSu0'
+youtube: _BEaYWQjSu0
 description: "A bold and unique modern sour that uses a full ounce of Angostura bitters as its base ingredient."
 excerpt: |
   Love Angostura Aromatic Bitters? Try your hand at a drink that uses them as the base spirit rather than embellishment.

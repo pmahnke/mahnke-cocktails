@@ -14,9 +14,7 @@ description: "There are numerous blackthorn recipes, but they fall into two camp
 excerpt: |
   There are numerous blackthorn recipes, but they fall into two camps: one based on Irish whisky with vermouth and absinthe and the other with sloe gin and vermouth. This is the Irish whiskey and absinthe version.
 date: 2026-03-01
-glass:
-  - martini
-  - whiskey
+glass: martini
 garnishes: garnish-lemon_peel
 type: stirred
 ---

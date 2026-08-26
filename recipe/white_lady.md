@@ -7,6 +7,7 @@ eras: [prohibition]
 categories: [sour, daisy]
 permalink: "/recipe/white_lady/"
 iconfile: white_lady
+color: #ebe5c5
 stars: 4
 base_spirits: "Triple Sec, Crème de Menthe, Plymouth Gin"
 youtube: "IAmf7XqE0T8"

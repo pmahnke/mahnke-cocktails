@@ -6,7 +6,8 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/whiskey_sour/"
 iconfile: whiskey_sour
-image: /assets/images/cocktail_whiskey_sour.svg
+color: #e4b694
+image_orig: /assets/images/cocktail_whiskey_sour.svg
 stars: 4.75
 base_spirits: ['Bourbon']
 youtube: "bxTRtiS06W0&t=51s"
@@ -14,8 +15,11 @@ description: "A timeless classic and cornerstone of drink-making, this sour perf
 excerpt: |
   The classic Whiskey Sour is the most famous representation of one of the worlds most popular types of cocktail. Easy to commit to memory, its simple go-to sour to add to your arsenal, and a cornerstone of drink-making that everyone should know.
 date: 2025-08-11
+image: /assets/images/cocktail_whiskey_sour_dynamic.svg
 glass: nick_and_nora
-garnishes: garnish-lemon_peel_oil
+garnishes:
+  - garnish-angostura_bitters
+  - garnish-lemon_peel_oil
 type: shaken
 ---
 
@@ -33,7 +37,7 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish:3 drops Angostura Aromatic Bitters, Lemon Oil
+- Garnish: 3 drops of Angostura Aromatic Bitters, Lemon Oil
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
 <script type="application/ld+json">
@@ -44,7 +48,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_whiskey_sour.png",
+  "image": "{{ site.url }}/assets/images/cocktail_whiskey_sour_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Bourbon",
@@ -68,7 +72,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish:3 drops Angostura Aromatic Bitters, Lemon Oil"
+      "text": "Garnish: 3 drops of Angostura Aromatic Bitters, Lemon Oil"
     },
     {
       "@type": "HowToStep",

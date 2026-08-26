@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/tipperary/"
 iconfile: tipperary
+color: ##ffb91d
 stars: 0
 base_spirits: ['Green Chartreuse', 'Irish Whiskey', 'Sweet Vermouth']
 youtube: "2zQBXxC7ma8"
@@ -13,9 +14,8 @@ description: "A modern favorite from The Dead Rabbit, this is a variation on the
 excerpt: |
   Love the Bijou? Try a Tipperary, a Dead Rabbit favorite made with Irish whiskey, without the Campari.
 date: 2025-08-11
-glass:
-  - nick_and_nora
-  - whiskey
+image: /assets/images/cocktail_tipperary_dynamic.svg
+glass: martini
 garnishes: garnish-lemon_peel_oil
 type: stirred
 ---
@@ -33,7 +33,7 @@ type: stirred
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Nick & Nora
+- Glassware: Martini glass
 - Garnish: Lemon oil
 - Special Prep: None
 
@@ -45,7 +45,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_tipperary_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Irish Whiskey",
@@ -65,7 +65,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Nick & Nora"
+      "text": "Glassware: Martini glass"
     },
     {
       "@type": "HowToStep",

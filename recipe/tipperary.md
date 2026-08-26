@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/tipperary/"
 iconfile: tipperary
+color: ##ffb91d
 stars: 0
 base_spirits: "Irish Whiskey, Sweet Vermouth, Green Chartreuse"
 youtube: "2zQBXxC7ma8"
@@ -28,6 +29,6 @@ date: 2025-08-11
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Nick & Nora
+- Glassware: Martini glass
 - Garnish: Lemon oil
 - Special Prep: None

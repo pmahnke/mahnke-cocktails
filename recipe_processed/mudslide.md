@@ -14,9 +14,7 @@ description: "This cocktail is a decadent, dessert-style cocktail traditionally 
 excerpt: |
   The Mudslide is a rich, dessert-style cocktail traditionally composed of equal parts vodka, coffee liqueur, and Irish cream liqueur. This indulgent drink can be served shaken and strained for a refined finish or blended with ice and heavy cream to create a thick, milkshake-like consistency.
 date: 2026-03-21
-glass:
-  - coffee
-  - coupe
+glass: coupe
 type: shaken
 ---
 

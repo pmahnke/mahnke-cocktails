@@ -6,6 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/marooned_mango/"
 iconfile: marooned_mango
+color: #cb9540
 stars: 4
 base_spirits: "Cachaça, Mango Liqueur, Sweet Vermouth"
 youtube: "xnXFbjQSu-k"
@@ -31,5 +32,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: 3 drops Angostura Aromatic Bitters & pineapple fronds
+- Garnish: 3 drops of Angostura Aromatic Bitters & pineapple fronds
 - Special Prep: None

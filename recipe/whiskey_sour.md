@@ -6,7 +6,8 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/whiskey_sour/"
 iconfile: whiskey_sour
-image: /assets/images/cocktail_whiskey_sour.svg
+color: #e4b694
+image_orig: /assets/images/cocktail_whiskey_sour.svg
 stars: 5
 base_spirits: "Bourbon "
 youtube: "bxTRtiS06W0&t=51s"
@@ -30,5 +31,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish:3 drops Angostura Aromatic Bitters, Lemon Oil
+- Garnish: 3 drops of Angostura Aromatic Bitters, Lemon Oil
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.

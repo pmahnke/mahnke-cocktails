@@ -6,6 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/lucky_stone/"
 iconfile: lucky_stone
+color: #fa4a04
 stars: 3.5
 base_spirits: ['Amontillado Sherry', 'Apricot Liqueur', 'Irish Whiskey']
 youtube: "aRboP-f7LK0"
@@ -13,9 +14,8 @@ description: "An original cocktail with a complex and balanced profile, combinin
 excerpt: |
   The Lucky Stone is a cocktail that combines the flavors of Irish whiskey, Amontillado sherry, apricot liqueur, and Peychaud's bitters. It is a complex and balanced drink with a sweet and nutty flavor profile.
 date: 2025-09-26
-glass:
-  - nick_and_nora
-  - whiskey
+image: /assets/images/cocktail_lucky_stone_dynamic.svg
+glass: nick_and_nora
 garnishes: twist_cocktail-cherry
 type: stirred
 ---
@@ -26,7 +26,7 @@ type: stirred
 | -------: | ------------------ | ----------------------------------- |
 |   <span class="onex active">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="onehalfx">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span> <span class="twox">3 oz  / 90 ml</span> <span class="threex">4 <sup>1</sup>&frasl;<sub>2</sub> oz  / 135 ml</span>| Irish Whiskey [&#9432;](/spirit/irish_whiskey/ "More Irish Whiskey recipes")      | Powers Gold Label                   |
 |     <span class="onex active">1 oz  / 30 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="twox">2 oz  / 60 ml</span> <span class="threex">3 oz  / 90 ml</span>| Amontillado Sherry [&#9432;](/spirit/amontillado_sherry/ "More Amontillado Sherry recipes") | Lustau Amontillado Los Arcos |
-|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Apricot Liquer     | Giffard Abricot du Roussillon       |
+|   <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Apricot Liqueur [&#9432;](/spirit/apricot_liqueur/ "More Apricot Liqueur recipes")    | Giffard Abricot du Roussillon       |
 | <span class="onex active">2 dashes</span> <span class="onehalfx">3 dashes</span> <span class="twox">4 dashes</span> <span class="threex">6 dashes</span>| Bitters            | Peychaud's Bitters                  |
 
 ### Notes
@@ -45,12 +45,12 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_lucky_stone_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz Irish Whiskey",
   "   1 oz Amontillado Sherry",
-  "  0.5 oz Apricot Liquer",
+  "  0.5 oz Apricot Liqueur",
   " 2 dashes Bitters"
     ],
   "name": "{{ page.title }}",

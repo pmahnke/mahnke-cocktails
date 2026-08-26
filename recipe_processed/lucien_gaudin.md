@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/lucien_gaudin/"
 iconfile: lucien_gaudin
+color: #fc461d
 stars: 3
 base_spirits: ['Blanc Vermouth', 'Campari', 'Plymouth Gin', 'Triple Sec']
 youtube: "NLF7z6MHMa0"
@@ -13,8 +14,9 @@ description: "A classic Prohibition-era cocktail named for a French Olympic fenc
 excerpt: |
   The Lucien Gaudin is a classic gin cocktail named after the French Olympic fencer. It has the bitterness of Campari with gin, a nod to the Negroni, but with dry vermouth rather than sweet vermouth.
 date: 2026-03-01
+image: /assets/images/cocktail_lucien_gaudin_dynamic.svg
 glass: nick_and_nora
-garnishes: garnish-orange_peel
+garnishes: twist_orange
 type: stirred
 ---
 
@@ -32,7 +34,7 @@ type: stirred
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Nick & Nora
-- Garnish: Orange peel
+- Garnish: Orange twist
 - Special Prep: Expressed orange oil
 
 <script type="application/ld+json">
@@ -43,7 +45,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_lucien_gaudin_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Gin",
@@ -67,7 +69,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Orange peel"
+      "text": "Garnish: Orange twist"
     },
     {
       "@type": "HowToStep",
