@@ -6,7 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/gin_eyre/"
 iconfile: gin_eyre
-color: #D1BF60
+color: #B8B57B
 stars: 0
 base_spirits: ['London Dry Gin', 'Triple Sec']
 youtube: "https://youtube.com/shorts/-AfDMMoiRN0?si=8gwqvsnzK2uRyWra"
@@ -16,9 +16,7 @@ excerpt: |
 date: 2026-08-24
 image: /assets/images/cocktail_gin_eyre_dynamic.svg
 glass: coupe
-garnishes:
-  - mint_sprig
-  - orange_peel
+garnishes: herb_mint
 type: shaken
 ---
 
