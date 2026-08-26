@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/littlest_rebel/"
 iconfile: littlest_rebel
+color: #C19D96
 stars: 3.5
 base_spirits: ['Apple Brandy', 'Blended Scotch']
 youtube: "s30L-iu171E"
@@ -15,6 +16,7 @@ excerpt: |
 
   The name of the cocktail is likely inspired by the 1935 film The Littlest Rebel starring Shirley Temple.
 date: 2025-12-09
+image: /assets/images/cocktail_littlest_rebel_dynamic.svg
 glass: nick_and_nora
 garnishes: garnish-lemon_peel_oil
 type: shaken
@@ -46,7 +48,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_littlest_rebel_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Apple Brandy",

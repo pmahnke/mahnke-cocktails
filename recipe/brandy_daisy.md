@@ -6,6 +6,7 @@ categories: [daisy]
 eras: [classic]
 permalink: "/recipe/brandy_daisy/"
 iconfile: brandy_daisy
+color: #C54E37
 stars: 0
 base_spirits: "Cognac, Jamaican Rum, Curaçao"
 youtube: "EyB4Ymian3Q"

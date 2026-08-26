@@ -6,6 +6,7 @@ eras: [classic]
 categories: [eggnog]
 permalink: "/recipe/eggnog/"
 iconfile: eggnog
+color: #CEB9B4
 image: /assets/images/category_eggnog.svg
 stars: 4
 base_spirits: ['Amontillado Sherry', 'Demerara Rum']

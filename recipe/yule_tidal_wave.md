@@ -6,6 +6,7 @@ eras: [anders]
 categories: [tiki]
 permalink: "/recipe/yule_tidal_wave/"
 iconfile: yule_tidal_wave
+color: #C98D55
 stars: 0
 base_spirits: "Trinidadian Rum, Bourbon, Cognac, Pear Liqueur, Licor 43, Allspice Dram"
 youtube: "s30L-iu171E"

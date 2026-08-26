@@ -6,6 +6,7 @@ categories: [punch]
 eras: [classic]
 permalink: "/recipe/chocolate_punch/"
 iconfile: chocolate_punch
+color: #C19D96
 stars: 0
 base_spirits: "Cognac, Ruby Port, Crème de Cacao "
 youtube: "s30L-iu171E"

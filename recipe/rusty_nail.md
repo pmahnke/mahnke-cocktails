@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/rusty_nail/"
 iconfile: rusty_nail
+color: C58B4F
 stars: 2
 base_spirits: "Blended Scotch, Drambuie"
 youtube: "nTyrz70_OPA"
@@ -26,6 +27,8 @@ date: 2025-12-09
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Low BallLarge Ice cube
+- Glassware: 
+  - Low Ball
+  - Large Ice cube
 - Garnish: None
 - Special Prep: Express lemon oil into cocktail
