@@ -6,6 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/charlie_chaplin/"
 iconfile: charlie_chaplin
+color: #B61B1A
 stars: 4
 base_spirits: ['Apricot Liqueur', 'Sloe Gin']
 youtube: "VqVJ10en-Uc"
@@ -13,6 +14,7 @@ description: "A pre-Prohibition sour named for the silent film star, featuring a
 excerpt: |
   Created and originally served at New York's old Waldorf-Astoria prior to 1920. This recipe is adapted from Albert Stevens Crockett's 1935 The Old Waldorf-Astoria Bar Book. The drink is named after Sir Charles Spencer 'Charlie' Chaplin (1889-1977), the English slapstick comic actor of the silent film era, who was at the height of his career when this eponymous cocktail was created.
 date: 2025-08-11
+image: /assets/images/cocktail_charlie_chaplin_dynamic.svg
 glass: nick_and_nora
 garnishes: garnish-dry_lime_wheel
 type: shaken
@@ -42,7 +44,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_charlie_chaplin_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Sloe Gin",

@@ -6,6 +6,7 @@ categories: [daisy, sour]
 eras: [prohibition]
 permalink: "/recipe/champs-elysees/"
 iconfile: champs-elysees
+color: #A8A300
 stars: 0
 base_spirits: "Cognac, Green Chartreuse"
 youtube: "https://www.liquor.com/champs-elysees-cocktail-recipe-8558284"

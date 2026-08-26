@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/rusty_nail/"
 iconfile: rusty_nail
+color: C58B4F
 stars: 2
 base_spirits: ['Blended Scotch', 'Drambuie']
 youtube: "nTyrz70_OPA"
@@ -13,6 +14,8 @@ description: "A classic and simple two-part modern cocktail that combines the sm
 excerpt: |
   The Rusty Nail is a classic two-part cocktail that combines scotch and Drambuie.
 date: 2025-12-09
+image: /assets/images/cocktail_rusty_nail_dynamic.svg
+glass: rocks
 type: stirred
 ---
 
@@ -27,7 +30,9 @@ type: stirred
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Low BallLarge Ice cube
+- Glassware: 
+  - Low Ball
+  - Large Ice cube
 - Garnish: None
 - Special Prep: Express lemon oil into cocktail
 
@@ -39,7 +44,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_rusty_nail_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Blended Scotch",
@@ -57,7 +62,15 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Low BallLarge Ice cube"
+      "text": "Glassware: "
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Low Ball"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Large Ice cube"
     },
     {
       "@type": "HowToStep",

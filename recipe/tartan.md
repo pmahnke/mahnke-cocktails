@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [anders]
 permalink: "/recipe/tartan/"
 iconfile: tartan
+color: #CE5126
 stars: 0
 base_spirits: "Single Malt Scotch, Sweet Vermouth, Ramazzotti, Drambuie "
 youtube: "Jqy3bhn-O9s"

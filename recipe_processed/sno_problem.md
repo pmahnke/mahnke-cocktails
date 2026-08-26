@@ -6,6 +6,7 @@ eras: [anders]
 categories: [toddy]
 permalink: "/recipe/sno_problem/"
 iconfile: sno_problem
+color: #AB675A
 stars: 0
 base_spirits: ['Bourbon', 'Navy Strength Rum']
 youtube: "s30L-iu171E"
@@ -13,6 +14,7 @@ description: "An original hot toddy featuring a unique blend of Jamaican rum, bo
 excerpt: |
   A blend of Jamaican rum, bourbon whiskey, rich demerara syrup, Angostura Aromatic Bitters, black tea, and oat milk.
 date: 2025-08-11
+image: /assets/images/cocktail_sno_problem_dynamic.svg
 garnishes: spice_cinnamon
 type:
   - shaken
@@ -46,7 +48,7 @@ type:
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_sno_problem_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.5 oz Navy Strength Rum",

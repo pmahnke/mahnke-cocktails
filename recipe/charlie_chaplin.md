@@ -6,6 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/charlie_chaplin/"
 iconfile: charlie_chaplin
+color: #B61B1A
 stars: 0
 base_spirits: "Sloe Gin, Apricot Liqueur"
 youtube: "VqVJ10en-Uc"

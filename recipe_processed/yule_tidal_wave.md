@@ -6,6 +6,7 @@ eras: [anders]
 categories: [tiki]
 permalink: "/recipe/yule_tidal_wave/"
 iconfile: yule_tidal_wave
+color: #C98D55
 stars: 0
 base_spirits: ['Allspice Dram', 'Bourbon', 'Cognac', 'Licor 43', 'Pear Liqueur', 'Trinidadian Rum']
 youtube: "s30L-iu171E"
@@ -13,6 +14,7 @@ description: "A festive and complex original holiday tiki punch that combines mu
 excerpt: |
   This holiday punch, which combines allspice and vanilla with the bright zing of lemon and pineapple.
 date: 2025-09-26
+image: /assets/images/cocktail_yule_tidal_wave_dynamic.svg
 glass: hurricane
 garnishes:
   - garnish-umbrella
@@ -52,7 +54,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_yule_tidal_wave_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Trinidadian Rum",

@@ -6,6 +6,7 @@ categories: [punch]
 eras: [classic]
 permalink: "/recipe/chocolate_punch/"
 iconfile: chocolate_punch
+color: #C19D96
 stars: 0
 base_spirits: ['Cognac', 'Crème de Cacao', 'Ruby Port']
 youtube: "s30L-iu171E"
@@ -13,6 +14,7 @@ description: "A decadent and indulgent classic punch that combines the rich flav
 excerpt: |
   The Chocolate Punch is a decadent and indulgent cocktail that combines the rich flavors of brandy, port, and dark crème de cacao.
 date: 2025-08-11
+image: /assets/images/cocktail_chocolate_punch_dynamic.svg
 glass:
   - coupe
   - nick_and_nora
@@ -45,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_chocolate_punch_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Cognac",

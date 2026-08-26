@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/littlest_rebel/"
 iconfile: littlest_rebel
+color: #C19D96
 stars: 0
 base_spirits: "Apple Brandy, Blended Scotch "
 youtube: "s30L-iu171E"
