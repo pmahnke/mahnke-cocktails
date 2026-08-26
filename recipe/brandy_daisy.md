@@ -30,6 +30,6 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Cocktail Glass
+- Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: Pour cocktail into the glass, and top with sparkling water.

@@ -28,6 +28,6 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Cocktail Glass
+- Glassware: Nick & Nora
 - Garnish: Grated coffee bean
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.

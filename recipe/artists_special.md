@@ -6,8 +6,8 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/artists_special/"
 iconfile: artists_special
-image: /assets/images/cocktail_artists_special.svg
 color: #c82e16
+image_orig: /assets/images/cocktail_artists_special.svg
 stars: 3,5
 base_spirits: "Bourbon, Amontillado Sherry "
 youtube: "-Uhu81wqOl8"

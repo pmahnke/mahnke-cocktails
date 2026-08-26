@@ -15,7 +15,7 @@ excerpt: |
   This cocktail is Anders' riff on the Doctor Cocktail, but with a nod to his own heritage. The brandy to honor his Wisconsin roots. The Swedish Punsch to honor his ancestry. And the cherry garnish to honor Door County, Wisconsin, which is cherry country.
 date: 2025-10-13
 image: /assets/images/cocktail_self_portrait_dynamic.svg
-glass: cocktail
+glass: nick_and_nora
 garnishes: twist_cocktail-cherry
 type: shaken
 ---
@@ -34,7 +34,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: Cocktail cherry
 - Special Prep: None
 
@@ -67,7 +67,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Cocktail glass"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

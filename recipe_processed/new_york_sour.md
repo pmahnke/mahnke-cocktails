@@ -16,7 +16,7 @@ excerpt: |
   The New York sour recipe adds red wine to the classic whiskey sour cocktail for a playful and fruity twist on a household favorite.
 date: 2025-08-11
 image: /assets/images/cocktail_new_york_sour_dynamic.svg
-glass: cocktail
+glass: nick_and_nora
 type: shaken
 ---
 
@@ -34,7 +34,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: Add all the ingredients to a shaking tin, except the red wine. For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white. Float the red wine on top of the cocktail. Lemon oil (optional).
 
@@ -67,7 +67,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Cocktail glass"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

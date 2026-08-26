@@ -33,7 +33,7 @@ date: 2025-12-13
 
 - Method: Blender
 - Pour: From a Pitcher
-- Glassware: Cocktail Glass
+- Glassware: Nick & Nora
 - Garnish: Grated nutmeg
 - Special Prep: Chill over night.
 

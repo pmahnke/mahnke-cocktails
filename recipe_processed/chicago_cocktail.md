@@ -15,7 +15,7 @@ excerpt: |
   The Chicago Cocktail is a classic cocktail that has been around for over 100 years. It is somewhat similar to an Old Fashioned in that it starts with brandy and bitters. Instead of sugar, it calls for a dash of curaçao and instead of a splash of soda it is topped up with champagne.
 date: 2025-08-11
 image: /assets/images/cocktail_chicago_cocktail_dynamic.svg
-glass: cocktail
+glass: nick_and_nora
 garnishes: bubbles
 type: shaken
 ---
@@ -33,7 +33,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Single Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: Pour cocktail into glass and top it off with champagne and to with
   expressed orange OR lemon oil.
@@ -66,7 +66,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Cocktail glass"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

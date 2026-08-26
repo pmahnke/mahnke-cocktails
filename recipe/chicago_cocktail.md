@@ -29,7 +29,7 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Single Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: Pour cocktail into glass and top it off with champagne and to with
   expressed orange OR lemon oil.

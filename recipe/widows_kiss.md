@@ -78,7 +78,7 @@ date: 2025-11-26
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: Lemon twist
 - Special Prep: Express Lemon oil over cocktail
 

@@ -16,7 +16,7 @@ excerpt: |
   This recipe comes from the Cafe Royal Cocktail Book.
 date: 2025-08-11
 image: /assets/images/cocktail_corpse_reviver_godfrey_dynamic.svg
-glass: cocktail
+glass: nick_and_nora
 type: stirred
 ---
 
@@ -33,7 +33,7 @@ type: stirred
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: None
 
@@ -65,7 +65,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Cocktail glass"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

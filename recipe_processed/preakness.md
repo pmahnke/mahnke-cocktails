@@ -13,7 +13,7 @@ description: "A classic Manhattan variation named for the famous horse race, whi
 excerpt: |
   Named for a horse race that is not the Kentucky Derby, this Manhattan variation gets a splash of Benedictine for complexity.
 date: 2025-08-11
-glass: cocktail
+glass: nick_and_nora
 garnishes:
   - garnish-lemon_peel
   - garnish-lemon_peel_oil
@@ -32,7 +32,7 @@ type: stirred
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Cocktail Glass
+- Glassware: Nick & Nora
 - Garnish: Expressed lemon oil and lemon peel
 - Special Prep: None
 
@@ -63,7 +63,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Cocktail Glass"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

@@ -30,6 +30,6 @@ date: 2025-08-11
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: None

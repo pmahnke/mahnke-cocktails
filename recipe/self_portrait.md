@@ -30,6 +30,6 @@ date: 2025-10-13
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: Cocktail cherry
 - Special Prep: None

@@ -13,7 +13,7 @@ description: "A classic flip-style cocktail with a rich, frothy texture, combini
 excerpt: |
   The Colleen Bawn is a classic cocktail with a rich history. It's a flip-style drink, meaning it includes a whole egg (both yolk and white) that is shaken vigorously to create a frothy texture.
 date: 2025-08-11
-glass: cocktail
+glass: nick_and_nora
 garnishes: spice_nutmeg
 type: shaken
 ---
@@ -31,7 +31,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Single Strain
-- Glassware: Cocktail Glass
+- Glassware: Nick & Nora
 - Garnish: Grated nutmeg
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
 
@@ -63,7 +63,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Cocktail Glass"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

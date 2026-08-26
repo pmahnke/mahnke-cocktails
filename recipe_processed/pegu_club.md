@@ -15,7 +15,7 @@ excerpt: |
   The Pegu Club cocktail is a classic gin-based drink with a touch of tropical flair. It was originally created at the Pegu Club in Burma and has since become a popular cocktail around the world.
 date: 2025-12-23
 image: /assets/images/cocktail_pegu_club_dynamic.svg
-glass: cocktail
+glass: nick_and_nora
 type: shaken
 ---
 
@@ -32,7 +32,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: None
 
@@ -64,7 +64,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Cocktail glass"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

@@ -14,8 +14,8 @@ excerpt: |
   The Noble Beast is a cocktail created by Anders Erickson. It's a riff on the classic Sherry Flip, incorporating a whole egg for a creamy texture
 date: 2025-08-11
 glass:
-  - cocktail
   - coffee
+  - nick_and_nora
 type: shaken
 ---
 
@@ -32,7 +32,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Cocktail Glass
+- Glassware: Nick & Nora
 - Garnish: Grated coffee bean
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg.
 
@@ -64,7 +64,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Cocktail Glass"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

@@ -6,8 +6,8 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/artists_special/"
 iconfile: artists_special
-image: /assets/images/cocktail_artists_special.svg
 color: #c82e16
+image_orig: /assets/images/cocktail_artists_special.svg
 stars: 5
 base_spirits: ['Amontillado Sherry', 'Bourbon']
 youtube: "-Uhu81wqOl8"
@@ -17,6 +17,7 @@ excerpt: |
 
   Exactly the same recipe appears three years later in Harry Craddock's 1930 <em>The Savoy Cocktail Book</em>.
 date: 2025-10-20
+image: /assets/images/cocktail_artists_special_dynamic.svg
 glass: nick_and_nora
 type: shaken
 ---
@@ -46,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_artists_special.png",
+  "image": "{{ site.url }}/assets/images/cocktail_artists_special_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Bourbon",

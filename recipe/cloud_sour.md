@@ -34,6 +34,6 @@ date: 2026-01-16
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: None

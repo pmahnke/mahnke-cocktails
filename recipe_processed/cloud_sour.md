@@ -18,7 +18,7 @@ excerpt: |
   Seed Library via [The Guardian](https://www.theguardian.com/food/2025/mar/28/cocktail-of-the-week-seed-library-cloud-sour-recipe)
 date: 2026-01-16
 image: /assets/images/cocktail_cloud_sour_dynamic.svg
-glass: cocktail
+glass: nick_and_nora
 type: shaken
 ---
 
@@ -37,7 +37,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: None
 
@@ -71,7 +71,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Cocktail glass"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

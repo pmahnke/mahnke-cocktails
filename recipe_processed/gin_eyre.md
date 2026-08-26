@@ -16,9 +16,7 @@ excerpt: |
 date: 2026-08-24
 image: /assets/images/cocktail_gin_eyre_dynamic.svg
 glass: coupe
-garnishes:
-  - mint_sprig
-  - orange_peel
+garnishes: herb_mint
 type: shaken
 ---
 

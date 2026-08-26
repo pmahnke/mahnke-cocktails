@@ -17,8 +17,8 @@ excerpt: |
 date: 2025-11-26
 image: /assets/images/cocktail_widows_kiss_dynamic.svg
 glass:
-  - cocktail
   - coupe
+  - nick_and_nora
 garnishes:
   - twist_cocktail-cherry
   - twist_lemon
@@ -88,7 +88,7 @@ type:
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Cocktail glass
+- Glassware: Nick & Nora
 - Garnish: Lemon twist
 - Special Prep: Express Lemon oil over cocktail
 
