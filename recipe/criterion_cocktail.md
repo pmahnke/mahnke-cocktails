@@ -9,7 +9,7 @@ iconfile: criterion_cocktail
 color: #8f4334
 stars: 0
 base_spirits: "Cognac, Bénédictine"
-youtube: 9V4Jj3bmi90&t=39s
+youtube: 9V4Jj3bmi90
 description: "The Criterion Cocktail is a late-19th-century brandy drink enriched with Bénédictine, bitters, and syrup, giving it a sweet, herbal, and gently spiced profile. Originally published in 1878, it reflects the early era of refined mixed drinks before modern, spirit-forward cocktails took hold."
 excerpt: |
   The Criterion Cocktail, first recorded in an 1878 bartending manual, is a brandy-based drink enriched with Bénédictine, bitters, and syrup, giving it a sweet, herbal profile typical of early mixed drinks. Once part of the Victorian-era rise of codified cocktails, it faded from popularity as tastes shifted toward drier, more spirit-forward drinks in the decades that followed.
@@ -28,7 +28,7 @@ date: 2025-11-29
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Cocktail
+- Glassware: Nick & Nora
 - Garnish: None
 - Special Prep: Expressed lemon oil
 
