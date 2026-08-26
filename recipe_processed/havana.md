@@ -6,6 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/havana/"
 iconfile: havana
+color: #E1B47B
 stars: 4
 base_spirits: ['Apricot Liqueur', 'London Dry Gin', 'Swedish Punsch']
 youtube: "VXjcObds5DY"
@@ -13,6 +14,7 @@ description: "The Savoy's Havana Cocktail is a sweet and complex blend of spirit
 excerpt: |
   The original Havana Cocktail from The Savoy Cocktail Book by Harry Craddock is an unusual, spirit-forward recipe that does not include rum or pineapple. It calls for a precise ratio of London Dry Gin, Apricot Brandy, and Swedish Punsch, a liqueur historically flavored with arrack. Craddock's instructions specify adding one dash of lemon juice, then shaking well before straining into a cocktail glass. The resulting drink is a complex mix of botanicals, fruit sweetness, and the unique, slightly smoky spice of the Punsch.
 date: 2025-10-13
+image: /assets/images/cocktail_havana_dynamic.svg
 glass: nick_and_nora
 garnishes: garnish-dry_orange_wheel
 type: shaken
@@ -43,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_havana_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz London Dry Gin",
