@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/wardroom/"
 iconfile: wardroom
+color: #751316
 stars: 3
 base_spirits: ['Cognac', 'Maraschino Liqueur', 'Nicaraguan Rum', 'Tawny Port']
 youtube: "y41UN6AZSMs"
@@ -13,8 +14,9 @@ description: "A modern cocktail with a naval theme, featuring a rich combination
 excerpt: |
   Adapted from a 2020 recipe by Jason E. Clapham of Clapham Cocktails, Oxford, England. Jason says, "The Wardroom features port, cognac, and rum, the three favourite libations of the British Naval officer."
 date: 2025-09-10
+image: /assets/images/cocktail_wardroom_dynamic.svg
 glass: coupe
-garnishes: maraschino_cherry
+garnishes: twist_cocktail-cherry
 type: stirred
 ---
 
@@ -44,7 +46,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_wardroom_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    1 oz Cognac",

@@ -15,7 +15,9 @@ excerpt: |
   Trader Vic's Navy Grog is a twist on the original Don the Beachcomber recipe. The two drinks share similar rum bases and use lime and grapefruit juice. However, Trader Vic's version swaps out the honey syrup and club soda for pimento dram. Furthermore, the drink is served with a rock candy stick as a garnish instead of the iconic shaved ice cone used in Don the Beachcomber's recipe. This version is popular in many bars and restaurants that serve Tiki drinks.
 date: 2025-08-20
 glass: rocks
-garnishes: mint_sprig
+garnishes:
+  - bubbles
+  - herb_mint
 type: blended
 ---
 

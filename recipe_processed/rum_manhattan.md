@@ -15,8 +15,8 @@ excerpt: |
 date: 2025-08-11
 glass: rocks
 garnishes:
-  - lemon_twist
-  - maraschino_cherry
+  - twist_cocktail-cherry
+  - twist_lemon
 type: stirred
 ---
 

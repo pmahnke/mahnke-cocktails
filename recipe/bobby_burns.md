@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/bobby_burns/"
 iconfile: bobby_burns
+color: #c32d15
 stars: 0
 base_spirits: "Blended Scotch, Sweet Vermouth, Bénédictine"
 youtube: "X5haIFd1Ysw"

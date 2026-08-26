@@ -6,6 +6,7 @@ categories: [amaro, sour]
 eras: [anders]
 permalink: "/recipe/sloe_gin_sour/"
 iconfile: sloe_gin_sour
+color: #890f0b
 stars: 3.5
 base_spirits: ['Campari', 'Sloe Gin']
 youtube: "W50W19vwjmk"
@@ -13,8 +14,11 @@ description: "An original sour that blends the sweet and tart flavors of sloe gi
 excerpt: |
   The Slow Gin Sour blends the sweet and tart flavors of sloe gin with the classic sour template.
 date: 2025-08-11
+image: /assets/images/cocktail_sloe_gin_sour_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
+garnishes:
+  - garnish-angostura_bitters
+  - garnish-lemon_peel_oil
 type: shaken
 ---
 
@@ -44,7 +48,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_sloe_gin_sour_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Sloe Gin",

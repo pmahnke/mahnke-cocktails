@@ -15,8 +15,8 @@ excerpt: |
   The Prescription Julep is a classic cocktail that dates back to the mid-1800s. It's a refreshing and complex drink that combines the flavors of rye whiskey, cognac, mint, and sugar.
 date: 2025-08-11
 glass: julep_cup
-garnishes: mint_sprig
-ice: crushed
+garnishes: herb_mint
+ice: ice_crushed
 type: shaken
 ---
 

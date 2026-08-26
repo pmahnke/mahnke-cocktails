@@ -17,7 +17,7 @@ date: 2026-03-24
 glass:
   - rocks
   - whiskey
-garnishes: lemon_peel
+garnishes: bubbles
 ---
 
 ### Ingredients

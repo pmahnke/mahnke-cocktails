@@ -6,7 +6,8 @@ eras: [classic]
 categories: [sour]
 permalink: "/recipe/gimlet/"
 iconfile: gimlet
-image: /assets/images/cocktail_gimlet.svg
+color: #cfd4b2
+image_orig: /assets/images/cocktail_gimlet.svg
 stars: 5
 base_spirits: ['London Dry Gin']
 youtube: "TuiCT7tDO88"
@@ -14,8 +15,9 @@ description: "A classic and sharp sour whose history traces back to the British 
 excerpt: |
   Although the London Dry Gin Gimlet was published in Harry Craddock's The Savoy Cocktail Book from which it gained noteriety, the drink actually traces it's history back further to the British Royal Navy who were using lime juice to ward off scurvy. The Gimlet was purportedly invented by Rear Admiral Sir Thomas Desmond Gimlette who mixed the concoction to make the lime rations more palatable for his crew. Acting as doctor for the superior officers, mixed the lime with sugar and gin to mask the bitter taste. Unlike their superior officers, the regular naval sailor was given rum rations which they would also mix with sugar and lime, which came to be known as "grog". That mixture finds it's origins in the english trading vessels of 14th century England and gave birth to another famous cocktail which we will revisit in another episode.
 date: 2025-08-11
+image: /assets/images/cocktail_gimlet_dynamic.svg
 glass: coupe
-garnishes: lime_wheel
+garnishes: garnish-lime_wheel
 type: shaken
 ---
 
@@ -43,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_gimlet.png",
+  "image": "{{ site.url }}/assets/images/cocktail_gimlet_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz London Dry Gin",

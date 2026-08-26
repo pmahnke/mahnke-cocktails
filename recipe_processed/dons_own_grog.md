@@ -16,9 +16,9 @@ excerpt: |
 date: 2025-11-29
 glass: rocks
 garnishes:
-  - cocktail_umbrella
-  - nutmeg
-ice: crushed
+  - garnish-umbrella
+  - spice_nutmeg
+ice: ice_crushed
 type: blended
 ---
 

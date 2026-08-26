@@ -15,7 +15,7 @@ excerpt: |
   Created by Don Beach in the early 1950s at his The Don The Beachcomber restaurant in Palm Springs, this drink is named after Doctor Bernard Funk who was Robert Louis Stevenson's physician in Samoa. The good doctor is said to have concocted and prescribed an absinthe laced limeade so inspiring this cocktail.
 date: 2025-08-11
 glass: rocks
-ice: crushed
+ice: ice_crushed
 type: shaken
 ---
 

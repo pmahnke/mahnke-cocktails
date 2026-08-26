@@ -6,6 +6,7 @@ categories: [champagne]
 eras: [prohibition]
 permalink: "/recipe/chicago_cocktail/"
 iconfile: chicago_cocktail
+color: #a22e16
 stars: 3
 base_spirits: "Champagne, Cognac, Curaçao"
 youtube: "IAaiRENeyvc&t=639s"
@@ -28,7 +29,7 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Single Strain
-- Glassware: Coupe
+- Glassware: Cocktail glass
 - Garnish: None
 - Special Prep: Pour cocktail into glass and top it off with champagne and to with
   expressed orange OR lemon oil.

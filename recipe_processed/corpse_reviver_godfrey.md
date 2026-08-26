@@ -7,6 +7,7 @@ categories: [cocktail, corpse_reviver]
 eras: [classic]
 permalink: "/recipe/corpse_reviver_godfrey/"
 iconfile: corpse_reviver_godfrey
+color: #c95121
 stars: 0
 base_spirits: ['London Dry Gin', 'Vodka']
 youtube: "rMCsrbidAJ4"
@@ -14,7 +15,8 @@ description: "A classic variation from the Cafe Royal Cocktail Book featuring bo
 excerpt: |
   This recipe comes from the Cafe Royal Cocktail Book.
 date: 2025-08-11
-glass: coupe
+image: /assets/images/cocktail_corpse_reviver_godfrey_dynamic.svg
+glass: cocktail
 type: stirred
 ---
 
@@ -31,7 +33,7 @@ type: stirred
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Coupe
+- Glassware: Cocktail glass
 - Garnish: None
 - Special Prep: None
 
@@ -43,7 +45,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_corpse_reviver_godfrey_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    2 oz London Dry Gin",
@@ -63,7 +65,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Coupe"
+      "text": "Glassware: Cocktail glass"
     },
     {
       "@type": "HowToStep",

@@ -15,7 +15,7 @@ excerpt: |
   The El Diablo cocktail first appeared in 1946 in a Trader Vic’s recipe book. It features tequila, crème de cassis, lime and ginger beer.
 date: 2025-08-11
 glass: highball
-ice: cubed
+ice: ice_cubes
 type: shaken
 ---
 

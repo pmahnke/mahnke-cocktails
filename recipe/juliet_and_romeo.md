@@ -6,6 +6,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/juliet_and_romeo/"
 iconfile: juliet_and_romeo
+color: #b3c66c
 stars: 0
 base_spirits: "London Dry Gin "
 youtube: "Ttnf3PbJqnA"

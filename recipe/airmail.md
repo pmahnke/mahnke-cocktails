@@ -6,6 +6,7 @@ categories: [champagne, cocktail]
 eras: [classic]
 permalink: "/recipe/airmail/"
 iconfile: airmail
+color: #eccc93
 stars: 0
 base_spirits: "Champagne, Gold Rum "
 youtube: "vaVcBQ6tiFw"

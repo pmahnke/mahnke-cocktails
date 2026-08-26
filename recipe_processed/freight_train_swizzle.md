@@ -15,8 +15,8 @@ excerpt: |
   A bright and herbaceous swizzle variant from legendary barman Sam Ross.
 date: 2025-08-11
 glass: highball
-garnishes: mint_sprig
-ice: crushed
+garnishes: herb_mint
+ice: ice_crushed
 type: shaken
 ---
 

@@ -6,6 +6,7 @@ eras: [modern]
 categories: [after_dinner]
 permalink: "/recipe/soyer_au_champagne/"
 iconfile: soyer_au_champagne
+color: #eaaf31
 stars: 0
 base_spirits: "Champagne, Cognac, Bénédictine"
 youtube: "mhXp-T53DAs"

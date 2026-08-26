@@ -16,7 +16,9 @@ date: 2025-08-11
 glass:
   - collins
   - sour
-garnishes: lemon_wedge
+garnishes:
+  - bubbles
+  - fruit_lemon
 type: shaken
 ---
 

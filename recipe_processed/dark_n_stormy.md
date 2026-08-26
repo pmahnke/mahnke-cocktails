@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes: slice_lime
-ice: cubed
+ice: ice_cubes
 type: built
 ---
 

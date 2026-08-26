@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/millionaire_cocktail/"
 iconfile: millionaire_cocktail
+color: #c93913
 stars: 0
 base_spirits: "Jamaican Rum, Sloe Gin, Apricot Liqueur"
 youtube: "CZ5KSKO3sbQ"

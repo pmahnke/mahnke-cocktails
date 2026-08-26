@@ -6,6 +6,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/juliet_and_romeo/"
 iconfile: juliet_and_romeo
+color: #b3c66c
 stars: 0
 base_spirits: ['London Dry Gin']
 youtube: "Ttnf3PbJqnA"
@@ -13,10 +14,11 @@ description: "A refreshing and complex modern sour that blends gin with cucumber
 excerpt: |
   The Juliet & Romeo cocktail is a refreshing and complex drink that blends gin, cucumber, mint, lime juice, simple syrup, rose water, and bitters.
 date: 2025-08-11
+image: /assets/images/cocktail_juliet_and_romeo_dynamic.svg
 glass: coupe
 garnishes:
-  - cucumber
-  - mint_sprig
+  - garnish-angostura_bitters
+  - herb_mint
 type: shaken
 ---
 
@@ -49,7 +51,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_juliet_and_romeo_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "      2 oz London Dry Gin",

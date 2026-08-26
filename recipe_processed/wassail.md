@@ -13,7 +13,7 @@ description: "A warm, spiced classic beverage with ancient roots, traditionally 
 excerpt: |
   Wassail is a warm, spiced beverage with a rich history dating back to ancient England. It's traditionally made with mulled cider, ale, or wine, sweetened with honey or sugar, and flavored with warming spices like cinnamon, cloves, and nutmeg. It is often spiked with brandy and/or sherry.
 date: 2025-09-26
-garnishes: cinnamon
+garnishes: slice_green_apple
 ---
 
 ### Ingredients

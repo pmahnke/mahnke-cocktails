@@ -14,7 +14,7 @@ excerpt: |
   Created at the eponymous club, established in Bermuda in 1844 and largely frequented by British Army Officers. Royal Bermuda Yacht Club cocktail first appears in Crosby Gaige's 1941 <i>Cocktail Guide & Ladies' Companion</i> as the favourite cocktail of Mary Mabon, then a writer for <i>Harper's Bazaar</i> fashion magazine.
 date: 2025-08-11
 glass: nick_and_nora
-garnishes: lime_wheel
+garnishes: garnish-dry_lime_wheel
 type: shaken
 ---
 

@@ -17,7 +17,7 @@ excerpt: |
   Adapted from a recipe created in 2015 by Todd Smith at Bourbon &amp; Branch in San Francisco, USA.
 date: 2025-09-26
 glass: martini
-garnishes: maraschino_cherry
+garnishes: twist_cocktail-cherry
 type: stirred
 ---
 

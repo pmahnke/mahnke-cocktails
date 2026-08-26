@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/shamrock/"
 iconfile: shamrock
+color: #c8b361
 stars: 0
 base_spirits: "Irish Whiskey, Blanc Vermouth, Green Chartreuse, Crème de Menthe"
 youtube: "3a1nwtD8yyE"

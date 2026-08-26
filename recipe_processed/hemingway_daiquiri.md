@@ -6,6 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/hemingway_daiquiri/"
 iconfile: hemingway_daiquiri
+color: #f8e3af
 stars: 0
 base_spirits: ['Maraschino Liqueur', 'White Rum']
 youtube: "mILAxazthY4"
@@ -13,8 +14,9 @@ description: "A classic Daiquiri variation created for Ernest Hemingway, featuri
 excerpt: |
   The Hemingway Daiquiri cocktail takes its inspiration from Ernest Hemingway, who lived in Havana and enjoyed drinking sugarless Daiquiris.
 date: 2025-08-11
+image: /assets/images/cocktail_hemingway_daiquiri_dynamic.svg
 glass: coupe
-garnishes: lime_wheel
+garnishes: garnish-lime_wheel
 type: shaken
 ---
 
@@ -45,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_hemingway_daiquiri_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz White Rum",

@@ -7,6 +7,7 @@ categories: [amaro, sour]
 eras: [modern]
 permalink: "/recipe/siesta/"
 iconfile: siesta
+color: #fb8f44
 stars: 0
 base_spirits: ['Blanco Tequila', 'Campari']
 youtube: "F6o09CBEVvU"
@@ -14,7 +15,9 @@ description: "A modern classic from 2006, this is a bright and crisp sour simila
 excerpt: |
   This cocktail was created in 2006 by Katie Stipe. The build is similar to a Hemingway Daiquiri, but Tequila and Campari steer the drink in a different direction. It’s bright and crisp with a soft bitterness on the finish that will have you wanting another sip.
 date: 2025-08-11
+image: /assets/images/cocktail_siesta_dynamic.svg
 glass: coupe
+garnishes: garnish-grapefruit_peel
 type: shaken
 ---
 
@@ -44,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_siesta_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Blanco Tequila",

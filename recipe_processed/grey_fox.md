@@ -13,8 +13,10 @@ excerpt: |
   The Grey Fox is a non-alcoholic cocktail created by Anders Erickson featuring Earl Grey and lemon for flavors.
 date: 2025-08-11
 glass: highball
-garnishes: thyme
-ice: cubed
+garnishes:
+  - bubbles
+  - herb_thyme
+ice: ice_cubes
 type: shaken
 ---
 

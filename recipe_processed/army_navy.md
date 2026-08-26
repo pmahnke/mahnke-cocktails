@@ -6,7 +6,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/army_navy/"
 iconfile: army_navy
-color: #d19871
+color: #c97709
 stars: 3.5
 base_spirits: ['London Dry Gin']
 youtube: "XggEyhSR2Dk"
@@ -16,7 +16,6 @@ excerpt: |
 date: 2025-08-11
 image: /assets/images/cocktail_army_navy_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
 type: shaken
 ---
 

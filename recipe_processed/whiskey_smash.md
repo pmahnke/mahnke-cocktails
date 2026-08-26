@@ -15,8 +15,8 @@ excerpt: |
 date: 2025-08-11
 glass: rocks
 garnishes:
-  - lemon_wheel
-  - mint_sprig
+  - garnish-lemon_wheel
+  - herb_mint
 type: shaken
 ---
 

@@ -15,8 +15,8 @@ excerpt: |
   The Bitters Buck is a spicy, effervescent highball that promotes aromatic bitters from a background accent to the starring base spirit. Long and refreshing, it marries the deep, complex herbal notes of the bitters with the fiery bite of ginger beer and a bright squeeze of fresh lemon juice.
 date: 2026-05-24
 glass: highball
-garnishes: mint_sprig
-ice: cubed
+garnishes: herb_mint
+ice: ice_cubes
 type: shaken
 ---
 

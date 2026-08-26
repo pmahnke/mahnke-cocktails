@@ -15,9 +15,7 @@ excerpt: |
   This riff on a Manhattan uses Cynar as the bittering agent in the place of aromatic bitters. It has notes of chocolate and vanilla, and the rich, spiciness of rye whiskey. Named for the Truman Capote book, Andrew Volk invented this cocktail circa 2016 at the Portland Hunt & Alpine Club in Maine. It is a riff on the [Boulevardier](/recipe/boulevardier/).
 date: 2026-05-05
 glass: rocks
-garnishes:
-  - lemon_peel
-  - lemon_twist
+garnishes: garnish-lemon_peel_oil
 type: stirred
 ---
 

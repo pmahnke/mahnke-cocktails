@@ -14,6 +14,7 @@ description: "A simple and elegant classic that enhances Champagne with a sugar 
 excerpt: |
   The Champagne Cocktail, a simple combination of sparkling wine, bitters and sugar.
 date: 2025-08-11
+garnishes: bubbles
 ---
 
 ### Ingredients

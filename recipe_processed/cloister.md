@@ -7,9 +7,10 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/cloister/"
 iconfile: cloister
+color: #d1aa6f
 stars: 0
 base_spirits: ['London Dry Gin', 'Yellow Chartreuse']
-youtube: "LINK"
+youtube: tuRrRCfF_f0
 description: "A modern sour that combines gin with the herbal sweetness of yellow Chartreuse and the brightness of grapefruit and lemon."
 excerpt: |
   Adapted from a recipe in Thomas Mario's 1971 <i>Playboy's Bar Guide</i>:<br>
@@ -23,7 +24,9 @@ excerpt: |
   <cite>Thomas Mario, 1971</cite>
   </blockquote>
 date: 2025-08-11
+image: /assets/images/cocktail_cloister_dynamic.svg
 glass: coupe
+garnishes: garnish-grapefruit_peel
 type: shaken
 ---
 
@@ -42,8 +45,8 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: None
-- Special Prep: None
+- Garnish: Grapefruit peel
+- Special Prep: Expressed grapefruit oil
 
 <script type="application/ld+json">
 {
@@ -53,7 +56,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_cloister_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1.5 oz London Dry Gin",
@@ -78,11 +81,11 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: None"
+      "text": "Garnish: Grapefruit peel"
     },
     {
       "@type": "HowToStep",
-      "text": "Special Prep: None"
+      "text": "Special Prep: Expressed grapefruit oil"
     }
     ],
   "recipeYield": "1 cocktail",

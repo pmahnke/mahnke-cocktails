@@ -15,8 +15,8 @@ excerpt: |
 date: 2025-08-11
 glass: hurricane
 garnishes:
-  - cocktail_umbrella
-  - maraschino_cherry
+  - garnish-umbrella
+  - twist_cocktail-cherry
 type: shaken
 ---
 

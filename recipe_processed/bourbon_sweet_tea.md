@@ -13,8 +13,8 @@ description: "A boozy take on the iconic Southern Sweet Tea, perfect for porch s
 excerpt: |
   You're all set for sitting on the porch, rocking your cares away with this boozy take on the iconic Sweet Tea.
 date: 2025-08-11
-garnishes: mint_sprig
-ice: cubed
+garnishes: herb_mint
+ice: ice_cubes
 type: shaken
 ---
 

@@ -15,7 +15,7 @@ excerpt: |
   First published in William James "Billy" Tarling's 1937 <em>Café Royal Bar Book</em> where the invention of this cocktail is credited to A. J. Smith.
 date: 2025-08-11
 glass: martini
-garnishes: orange_peel
+garnishes: garnish-orange_peel
 type: stirred
 ---
 

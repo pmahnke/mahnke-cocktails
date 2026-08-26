@@ -7,6 +7,7 @@ categories: [daisy, sour]
 eras: [modern]
 permalink: "/recipe/star_daisy/"
 iconfile: star_daisy
+color: #e7d08a
 stars: 4
 base_spirits: ['Apple Brandy', 'Curaçao', 'Navy Strength Gin']
 youtube: "QZRlEKhzUZE&t=838s"
@@ -14,8 +15,8 @@ description: "This cocktail offers a sophisticated profile that marries the pine
 excerpt: |
   The Milk & Honey Star Daisy is a crisp, perfectly balanced "split-base" sour that bridges the gap between seasons by pairing the botanical snap of gin with the autumnal warmth of apple brandy.
 date: 2026-03-02
+image: /assets/images/cocktail_star_daisy_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
 type: shaken
 ---
 
@@ -45,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_star_daisy_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Navy Strength Gin",

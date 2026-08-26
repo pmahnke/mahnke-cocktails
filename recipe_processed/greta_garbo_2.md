@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/greta_garbo_2/"
 iconfile: greta_garbo_2
+color: #fdc765
 stars: 3.5
 base_spirits: ['London Dry Gin', 'Swedish Punsch']
 youtube: "79htbyQ8nDY"
@@ -15,8 +16,11 @@ excerpt: |
 
   Garbo's career launched with the 1924 Swedish film, The Saga of Gosta Berling. Although her role was minor, her performance caught the attention of Louis B. Mayer, chief executive of Metro Goldwyn Mayer (MGM) who signed her to his studio in 1925. The next year she appeared in MGM's silent film, <em>Torrent</em>, then <em>Flesh</em> and the <em>Devil</em> in 1926, which propelled her to international stardom. Garbo's first talking film was <em>Anna Christie</em> (1930) which MGM marketed with the catch-phrase "Garbo talks!". Garbo retired from the screen after the failure of <em>Two-Faced Woman</em> in 1941 at the age of 35 having appeared in 28 films. An avid art collector, she never married, had no children and lived alone shunning publicity. Greta Garbo died 15th April 1990.
 date: 2025-10-20
+image: /assets/images/cocktail_greta_garbo_2_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
+garnishes:
+  - garnish-grapefruit_peel
+  - garnish-lemon_peel_oil
 type: shaken
 ---
 
@@ -34,7 +38,7 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Expressed lemon oil
+- Garnish: Expressed lemon oil and grapefruit peel
 - Special Prep: None
 
 <script type="application/ld+json">
@@ -45,7 +49,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_greta_garbo_2_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz London Dry Gin",
@@ -69,7 +73,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Expressed lemon oil"
+      "text": "Garnish: Expressed lemon oil and grapefruit peel"
     },
     {
       "@type": "HowToStep",

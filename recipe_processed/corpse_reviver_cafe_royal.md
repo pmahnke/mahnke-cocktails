@@ -16,6 +16,7 @@ excerpt: |
 date: 2025-08-11
 image: /assets/images/cocktail_corpse_reviver_cafe_royal_dynamic.svg
 glass: coupe
+garnishes: bubbles
 type: shaken
 ---
 

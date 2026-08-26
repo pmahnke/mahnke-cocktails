@@ -5,10 +5,11 @@ title: "Pegu Club"
 categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/pegu_club/"
+color: #d2571c
 iconfile: pegu_club
 stars: 3
 base_spirits: "Plymouth Gin, Curaçao"
-youtube: "YenVNoabM4"
+youtube: YenV_NoabM4
 description: "A classic gin-based sour from the Prohibition era with a touch of tropical flair, originally created at the Pegu Club in Burma."
 excerpt: |
   The Pegu Club cocktail is a classic gin-based drink with a touch of tropical flair. It was originally created at the Pegu Club in Burma and has since become a popular cocktail around the world.
@@ -28,6 +29,6 @@ date: 2025-12-23
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Coupe
+- Glassware: Cocktail glass
 - Garnish: None
 - Special Prep: None

@@ -13,8 +13,8 @@ description: "A vintage tiki classic with a complex blend of spirits, including 
 excerpt: |
   The Fog Cutter is a vintage tiki cocktail frequently attributed to being invented by Victor Bergeron.  It's a complex blend of spirits, citrus juices, and orgeat syrup, creating a refreshing and invigorating drink.
 date: 2025-09-26
-garnishes: mint_sprig
-ice: crushed
+garnishes: herb_mint
+ice: ice_crushed
 type: shaken
 ---
 

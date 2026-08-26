@@ -6,6 +6,7 @@ categories: [martini]
 eras: [classic]
 permalink: "/recipe/ford/"
 iconfile: ford
+color: #feeed6
 stars: 3
 base_spirits: "Old Tom Gin, Dry Vermouth, Bénédictine"
 youtube: "UJJqbCGHsOg"
@@ -29,5 +30,5 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Orange Peel
+- Garnish: Orange twist
 - Special Prep: Expressed orange oil

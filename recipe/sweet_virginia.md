@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/sweet_virginia/"
 iconfile: sweet_virginia
+color: #893314
 stars: 3
 base_spirits: "Bourbon, Cherry Liqueur, Curaçao, Sweet Vermouth"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/31242/sweet-virginia"
@@ -32,5 +33,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Pinapple wedge and a cocktail cherry
+- Garnish: Pineapple wedge and a cocktail cherry
 - Special Prep: None

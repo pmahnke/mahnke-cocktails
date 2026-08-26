@@ -14,7 +14,7 @@ excerpt: |
   This is an Anders original cocktail. The double oaked bourbon and the rich sweetness of the Bénédictine add a light take on fall flavors.
 date: 2025-10-26
 glass: nick_and_nora
-garnishes: dry_lemon_wheel
+garnishes: garnish-dry_lemon_wheel
 type: shaken
 ---
 

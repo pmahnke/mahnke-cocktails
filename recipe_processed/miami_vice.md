@@ -14,7 +14,6 @@ excerpt: |
   This drink is a frozen mashup of two tropical classics—the Piña Colada and the Frozen Strawberry Daiquiri. It’s a crowd-pleaser in both flavor and presentation, thanks to those bold, contrasting colors. 
 date: 2025-08-11
 glass: hurricane
-garnishes: strawberry
 type: blended
 ---
 

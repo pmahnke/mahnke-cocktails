@@ -6,6 +6,7 @@ categories: [sour, sidecar]
 eras: [classic]
 permalink: "/recipe/sidecar/"
 iconfile: sidecar
+color: #e88c1a
 stars: 3
 base_spirits: "Cognac, Curaçao"
 youtube: "re76GCUoiH4"

@@ -14,7 +14,7 @@ excerpt: |
   The Chicago Fizz is a sophisticated, pre-Prohibition classic that combines the rich depth of dark rum and ruby port with lemon juice, sugar, and an egg white. This shaken mixture is topped with soda water to create a velvety, frothy texture that balances its bold, wine-driven profile.
 date: 2026-04-05
 glass: highball
-garnishes: lemon_peel
+garnishes: bubbles
 type: shaken
 ---
 

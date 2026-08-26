@@ -6,7 +6,8 @@ eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/widows_kiss/"
 iconfile: widows_kiss
-image: /assets/images/cocktail_widows_kiss.svg
+color: #fdc957
+image_orig: /assets/images/cocktail_widows_kiss.svg
 stars: 3
 base_spirits: "Apple Brandy, Yellow Chartreuse, Bénédictine "
 youtube: "0JqyWyBiFus"
@@ -77,8 +78,8 @@ date: 2025-11-26
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: Lemon Peel
+- Glassware: Cocktail glass
+- Garnish: Lemon twist
 - Special Prep: Express Lemon oil over cocktail
 
 </div>

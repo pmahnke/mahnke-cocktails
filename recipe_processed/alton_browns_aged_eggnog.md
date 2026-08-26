@@ -18,7 +18,7 @@ excerpt: |
   Add depth and complexity to this classic Christmas cocktail by using a mix of spirits and allowing it to age.
 date: 2025-11-26
 glass: rocks
-garnishes: nutmeg
+garnishes: spice_nutmeg
 ---
 
 ### Ingredients

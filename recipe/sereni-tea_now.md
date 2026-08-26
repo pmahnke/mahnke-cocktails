@@ -6,6 +6,7 @@ eras: [anders]
 title: "Sereni-Tea Now!"
 permalink: "/recipe/sereni-tea_now/"
 iconfile: sereni-tea_now
+color: #860000
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A non-alcoholic drink featuring the flavors of pear, grenadine, lemon, and roasted Hojicha tea."
@@ -26,8 +27,8 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Coupe
-- Garnish: Lemon peel
+- Glassware: Cocktail
+- Garnish: Lemon twist
 - Special Prep:
   - Take a can of pears and their syrup and blend them into a prrée.
   - Expressed lemon oil.

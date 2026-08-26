@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/prestige_cocktail/"
 iconfile: prestige_cocktail
+color: #ea9700
 stars: 0
 base_spirits: "Nicaraguan Rum, Dry Vermouth"
 youtube: "CGkWnYhu4ag"

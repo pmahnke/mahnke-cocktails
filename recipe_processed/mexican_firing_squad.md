@@ -14,7 +14,7 @@ excerpt: |
   The drink is essentially a tequila Collins, made with lime in place of lemon and grenadine in place of plain sugar, with the addition of some Angostura Aromatic Bitters.
 date: 2025-08-11
 glass: rocks
-garnishes: lime_wheel
+garnishes: garnish-lime_wheel
 type: shaken
 ---
 

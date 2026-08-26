@@ -17,9 +17,9 @@ excerpt: |
 date: 2025-08-31
 glass: highball
 garnishes:
-  - mint_sprig
-  - nutmeg
-ice: crushed
+  - herb_mint
+  - spice_nutmeg
+ice: ice_crushed
 ---
 
 ### Ingredients

@@ -6,6 +6,7 @@ categories: [cocktail, corpse_reviver]
 eras: [classic]
 permalink: "/recipe/corpse_reviver_1871/"
 iconfile: corpse_reviver_1871
+color: #691002
 stars: 0
 base_spirits: ['Cognac', 'Maraschino Liqueur']
 youtube: "rMCsrbidAJ4"
@@ -13,6 +14,7 @@ description: "A classic cocktail from an 1871 guide, featuring cognac and marasc
 excerpt: |
   This recipe is found in the Gentleman's Table Guide, published in 1871, written by E. Ricket and C. Thomas.
 date: 2025-08-11
+image: /assets/images/cocktail_corpse_reviver_1871_dynamic.svg
 glass: coupe
 ---
 
@@ -40,7 +42,7 @@ glass: coupe
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_corpse_reviver_1871_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1 oz Cognac",

@@ -13,8 +13,8 @@ description: "A sweet, minty-chocolate after-dinner classic known for its vibran
 excerpt: |
   The Grasshopper is a classic cocktail known for its vibrant green color and creamy, minty-chocolate flavor. It is a sweet, minty classic that tastes better than your traditional dessert.
 date: 2025-08-11
-garnishes: mint_sprig
-ice: crushed
+garnishes: herb_mint
+ice: ice_crushed
 type: blended
 ---
 

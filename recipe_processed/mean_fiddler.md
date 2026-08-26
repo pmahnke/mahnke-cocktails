@@ -18,9 +18,7 @@ date: 2026-03-07
 glass:
   - nick_and_nora
   - whiskey
-garnishes:
-  - cinnamon
-  - lemon_peel
+garnishes: garnish-lemon_peel
 type: stirred
 ---
 

@@ -14,7 +14,7 @@ excerpt: |
   The Lumberjack in Love is a cocktail that combines the flavors of rye whiskey, allspice dram, cherry juice, lemon juice, semi-rich simple syrup, and beer.
 date: 2025-08-11
 glass: highball
-garnishes: maraschino_cherry
+garnishes: twist_cocktail-cherry
 type: shaken
 ---
 

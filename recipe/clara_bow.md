@@ -7,6 +7,7 @@ categories: [daisy, sour]
 eras: [modern]
 permalink: "/recipe/clara_bow/"
 iconfile: clara_bow
+color: #da7148
 stars: 0
 base_spirits: "Bourbon, Elderflower Liqueur"
 youtube: "P5qAYo2lvtQ"

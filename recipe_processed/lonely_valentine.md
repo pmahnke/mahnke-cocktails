@@ -6,6 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/lonely_valentine/"
 iconfile: lonely_valentine
+color: #d1002c 
 stars: 3.5
 base_spirits: ['Ruby Port', 'White Crème de Cacao', 'White Rum']
 youtube: "UhRb_xqCXwQ"
@@ -15,8 +16,8 @@ excerpt: |
 
   The cocktail typically includes brandy, Cointreau, and cola, creating a rich and flavorful drink. The brandy provides warmth and complexity, while the Cointreau adds citrus notes and sweetness. The cola adds a touch of sweetness and a unique flavor profile.
 date: 2025-10-20
+image: /assets/images/cocktail_lonely_valentine_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
 type: shaken
 ---
 
@@ -46,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_lonely_valentine_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz White Rum",

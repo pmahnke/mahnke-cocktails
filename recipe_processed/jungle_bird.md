@@ -14,7 +14,7 @@ excerpt: |
   The Jungle Bird is a classic Tiki cocktail that was created in 1973 at the Aviary Bar in the Kuala Lumpur Hilton. It's a complex and balanced drink that combines the flavors of dark rum, Campari, pineapple juice, lime juice, and simple syrup.
 date: 2025-08-11
 glass: highball
-ice: cubed
+ice: ice_cubes
 type: shaken
 ---
 

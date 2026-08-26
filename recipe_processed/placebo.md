@@ -13,10 +13,9 @@ excerpt: |
   This cocktail is a tropical blend of pineapple juice, orange juice, cream of coconut, lime juice, cinnamon, and nutmeg.
 date: 2025-08-11
 garnishes:
-  - cinnamon
-  - cocktail_umbrella
-  - nutmeg
-ice: crushed
+  - garnish-umbrella
+  - spice_nutmeg
+ice: ice_crushed
 ---
 
 ### Ingredients

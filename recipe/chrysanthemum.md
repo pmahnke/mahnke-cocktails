@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/chrysanthemum/"
 iconfile: chrysanthemum
+color: #ffea7f
 stars: 0
 base_spirits: "Dry Vermouth, Bénédictine, Absinthe"
 youtube: "ivuVwMUiQ_U"
@@ -48,5 +49,5 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Orange Peel
+- Garnish: Orange twist
 - Special Prep: Place the swath of orange peel in the mixing glass and stir it with the cocktail. This is called a regal stir, similar to the regal shake. Expressed orange oil over the top of the cocktail.

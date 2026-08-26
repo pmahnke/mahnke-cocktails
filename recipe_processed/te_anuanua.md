@@ -14,8 +14,8 @@ excerpt: |
   In 1948 Caroline Guild released her memoir, Rainbow in Tahiti, where she chronicled her life and time spent in Tahiti. Guild was a world traveler who was inspired to pack her belongings and move to the South Seas. There she lived for 17 years with her husband and daughter. Today, she is remembered in the cocktail world for her contribution to naming the “Mai Tai” on one summer night in 1944 in Oakland California. Regardless of who officially named the drink, this Mai Tai riff is in honor of Caroline Guild and named after her home in Tahiti, Te Anuanua, which translates to “Rainbow in Tahiti.”
 date: 2026-01-22
 glass: rocks
-garnishes: mint_sprig
-ice: crushed
+garnishes: herb_mint
+ice: ice_crushed
 type: shaken
 ---
 

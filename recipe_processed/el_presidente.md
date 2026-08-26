@@ -14,7 +14,7 @@ excerpt: |
   The classic El Presidente cocktail was born in Cuba and combines white rum, dry vermouth, orange curaçao and grenadine. Hail to the chief.
 date: 2026-03-01
 glass: martini
-garnishes: maraschino_cherry
+garnishes: twist_cocktail-cherry
 type: stirred
 ---
 

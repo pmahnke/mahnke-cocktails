@@ -15,8 +15,10 @@ excerpt: |
   The drink was created by bartender Joseph Schwartz for the New York bar Milk & Honey, paying homage to actor Errol Flynn and hotelier Sam Street, who were known for their escapades in the Portland Parish of Jamaica. Portland Parish is nick-named Flynn & Street Parish.
 date: 2025-10-29
 glass: highball
-garnishes: lime_wheel
-ice: cubed
+garnishes:
+  - bubbles
+  - garnish-lime_wheel
+ice: ice_cubes
 type: shaken
 ---
 

@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/corpse_reviver_3_savoy/"
 iconfile: corpse_reviver_3_savoy
+color: #a1411a
 stars: 0
 base_spirits: ['Cognac', 'Crème de Menthe', 'Fernet Branca']
 youtube: "kBHi_atZsbM"
@@ -14,6 +15,7 @@ description: "This version of the Corpse Reviver #3 is a stirred, equal-parts mi
 excerpt: |
   The Corpse Reviver #3, a later addition to the series, was created at London's Savoy Hotel around 1948. Unlike its more famous predecessors, the #1 and #2, it is a brandy-based cocktail consisting of equal parts brandy, white crème de menthe, and Fernet-Branca. This stirred drink is a modified Stinger with the addition of Fernet, giving it a distinctive flavor.  
 date: 2025-10-20
+image: /assets/images/cocktail_corpse_reviver_3_savoy_dynamic.svg
 glass: coupe
 type: stirred
 ---
@@ -43,7 +45,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_corpse_reviver_3_savoy_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Cognac",

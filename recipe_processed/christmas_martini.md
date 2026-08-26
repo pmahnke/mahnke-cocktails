@@ -14,6 +14,7 @@ excerpt: |
   The Christmas Martini is a festive twist on the classic cocktail, incorporating flavors reminiscent of the holiday season.
 date: 2025-08-11
 glass: martini
+garnishes: herb_rosemary
 type: stirred
 ---
 

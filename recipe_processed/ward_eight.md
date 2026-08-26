@@ -15,8 +15,8 @@ excerpt: |
 date: 2025-08-11
 glass: nick_and_nora
 garnishes:
-  - maraschino_cherry
-  - orange_slice
+  - garnish-orange_slice
+  - twist_cocktail-cherry
 type: shaken
 ---
 

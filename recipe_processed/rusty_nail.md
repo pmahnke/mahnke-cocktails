@@ -13,7 +13,6 @@ description: "A classic and simple two-part modern cocktail that combines the sm
 excerpt: |
   The Rusty Nail is a classic two-part cocktail that combines scotch and Drambuie.
 date: 2025-12-09
-garnishes: lemon_peel
 type: stirred
 ---
 

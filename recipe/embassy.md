@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/embassy/"
 iconfile: embassy
+color: #e98828
 stars: 3
 base_spirits: "Cognac, Jamaican Rum, Curaçao"
 youtube: "YFqEvNdPrX8"

@@ -7,6 +7,7 @@ categories: [amaro, sour]
 eras: [modern]
 permalink: "/recipe/siesta/"
 iconfile: siesta
+color: #fb8f44
 stars: 0
 base_spirits: "Blanco Tequila, Campari"
 youtube: "F6o09CBEVvU"

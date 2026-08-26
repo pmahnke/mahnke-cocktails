@@ -15,9 +15,10 @@ excerpt: |
 date: 2025-10-26
 glass: rocks
 garnishes:
-  - lemon_peel
-  - maraschino_cherry
-ice: cubed
+  - bubbles
+  - garnish-lemon_peel
+  - twist_cocktail-cherry
+ice: ice_cubes
 type: shaken
 ---
 

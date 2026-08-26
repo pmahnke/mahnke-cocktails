@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/right_word/"
 iconfile: right_word
+color: #fef9d4
 stars: 3.5
 base_spirits: ['Elderflower Liqueur', 'Lillet Blanc', 'London Dry Gin']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/9680/right-word"
@@ -14,7 +15,9 @@ description: "The Right Word is a crisp, floral variation of the Last Word, made
 excerpt: |
   The Right Word is a crisp, floral variation of the classic Last Word cocktail, substituting the herbal intensity of Green Chartreuse and the almond notes of maraschino liqueur for elderflower liqueur and Lillet Blanc. This equal-parts gin cocktail, developed for Fairmont Hotels, offers a bright and refreshing flavor profile with a clean finish.
 date: 2025-09-10
+image: /assets/images/cocktail_right_word_dynamic.svg
 glass: coupe
+garnishes: garnish-lime_wheel
 type: shaken
 ---
 
@@ -32,7 +35,7 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: None
+- Garnish: Lime wheel
 - Special Prep: None
 
 <script type="application/ld+json">
@@ -43,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_right_word_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz London Dry Gin",
@@ -67,7 +70,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: None"
+      "text": "Garnish: Lime wheel"
     },
     {
       "@type": "HowToStep",

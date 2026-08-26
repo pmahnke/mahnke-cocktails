@@ -14,9 +14,9 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes:
-  - cocktail_umbrella
-  - lime_wheel
-ice: cubed
+  - garnish-lime_wheel
+  - garnish-umbrella
+ice: ice_cubes
 type: shaken
 ---
 

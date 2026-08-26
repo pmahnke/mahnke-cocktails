@@ -7,6 +7,7 @@ categories: [punch]
 eras: [classic]
 permalink: "/recipe/alamagoozlum/"
 iconfile: alamagoozlum
+color: #9e0f16
 stars: 3.5
 base_spirits: ['Curaçao', 'Genever', 'Jamaican Rum', 'Yellow Chartreuse']
 youtube: "8H-IBvOX8EI"
@@ -25,8 +26,9 @@ excerpt: |
 
   <b>This cocktail recipe makes two cocktails</b>
 date: 2025-11-29
+image: /assets/images/cocktail_alamagoozlum_dynamic.svg
 glass: coupe
-garnishes: pineapple_slice
+garnishes: slice_pineapple
 type: shaken
 ---
 
@@ -64,7 +66,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_alamagoozlum_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Genever",

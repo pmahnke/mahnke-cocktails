@@ -14,8 +14,10 @@ excerpt: |
   The margarita ginger cocktail is a refreshing and flavorful twist on the classic margarita. It combines the bold flavors of ginger with the zesty lime juice and tequila, creating a unique and exciting drink.
 date: 2025-12-23
 glass: rocks
-garnishes: lime_wheel
-ice: cubed
+garnishes:
+  - garnish-lime_wheel
+  - garnish-salted_rim
+ice: ice_cubes
 type: shaken
 ---
 

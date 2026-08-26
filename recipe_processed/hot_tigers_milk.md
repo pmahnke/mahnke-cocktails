@@ -17,9 +17,8 @@ excerpt: |
 date: 2025-12-13
 glass: rocks
 garnishes:
-  - cinnamon
-  - nutmeg
-  - orange_peel
+  - garnish-orange_peel
+  - spice_nutmeg
 ---
 
 <div class="subrecipe" markdown="1">

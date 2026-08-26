@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/costume_party/"
 iconfile: costume_party
+color: #feeed5
 stars: 0
 base_spirits: "Vodka, White Crème de Cacao, Apricot Liqueur"
 youtube: "i67-17-CZCQ"

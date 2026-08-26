@@ -6,6 +6,7 @@ categories: [champagne, cocktail]
 eras: [classic]
 permalink: "/recipe/airmail/"
 iconfile: airmail
+color: #eccc93
 stars: 0
 base_spirits: ['Champagne', 'Gold Rum']
 youtube: "vaVcBQ6tiFw"
@@ -13,7 +14,9 @@ description: "A celebratory classic cocktail that combines gold rum and honey wi
 excerpt: |
   The Airmail cocktail is a refreshing and easy-to-make drink that's perfect for a warm day or a celebratory occasion. It's a classic cocktail that has been around since the 1940s, and it's still popular today.
 date: 2025-08-11
+image: /assets/images/cocktail_airmail_dynamic.svg
 glass: coupe
+garnishes: bubbles
 type: shaken
 ---
 
@@ -42,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_airmail_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Gold Rum",

@@ -7,6 +7,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/french_pearl/"
 iconfile: french_pearl
+color: #dddeae
 stars: 0
 base_spirits: "London Dry Gin, Absinthe"
 youtube: "OA7FWMVx9AY"

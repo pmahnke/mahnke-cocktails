@@ -13,7 +13,7 @@ description: "A classic high-society cocktail from the pre-Prohibition era, with
 excerpt: |
   Feel the sweet sting of cognac and crème de menthe with the Stinger, a classic high-society cocktail from the pre-Prohibition era.
 date: 2025-08-11
-garnishes: mint_sprig
+garnishes: herb_mint
 type: shaken
 ---
 

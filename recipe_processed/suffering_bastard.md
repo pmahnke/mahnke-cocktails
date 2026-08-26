@@ -16,9 +16,9 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes:
-  - mint_sprig
-  - orange_slice
-ice: cubed
+  - garnish-orange_slice
+  - herb_mint
+ice: ice_cubes
 type: shaken
 ---
 

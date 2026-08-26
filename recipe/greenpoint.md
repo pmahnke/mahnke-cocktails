@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/greenpoint/"
 iconfile: greenpoint
+color: #dd4517
 stars: 0
 base_spirits: "Rye, Yellow Chartreuse, Sweet Vermouth"
 youtube: "h68b0qgAkAg"

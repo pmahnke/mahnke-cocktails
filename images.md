@@ -140,8 +140,10 @@ title: index of images
     {%- for page in sorted_pages -%}
         {%- if page.layout == "recipe" and page.image -%}
             <li>
+                <a href="{{ page.url}}">
                 <img src="{{ page.image | relative_url }}" alt="{{ page.title }}"><br>
                 {{ page.title }}
+                </a>
             </li>
         {%- endif -%}
     {%- endfor -%}

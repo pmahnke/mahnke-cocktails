@@ -14,9 +14,10 @@ excerpt: |
   The Hugo Spritz is a refreshing and easy-to-make cocktail that originated in South Tyrol, Italy. It's a light and floral drink, perfect for sipping on a warm day.
 date: 2025-10-20
 garnishes:
-  - lime_wheel
-  - mint_sprig
-ice: cubed
+  - bubbles
+  - garnish-lime_wheel
+  - herb_mint
+ice: ice_cubes
 ---
 
 ### Ingredients

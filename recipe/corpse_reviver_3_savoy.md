@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/corpse_reviver_3_savoy/"
 iconfile: corpse_reviver_3_savoy
+color: #a1411a
 stars: 0
 base_spirits: "Cognac, Crème de Menthe, Fernet Branca"
 youtube: "kBHi_atZsbM"

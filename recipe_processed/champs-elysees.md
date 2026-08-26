@@ -14,7 +14,7 @@ excerpt: |
   The cocktail was first popularized in Europe, as the United States was still in the midst of Prohibition. The drink began to appear in cocktail books around 1925, when it was featured in Drinks—Long and Short by Nina Toye & A. H. Adair. In 1930, its profile grew further when it was included in Harry Craddock’s The Savoy Cocktail Book, which dialed up the recipe to punch proportions, meant to serve six.
 date: 2026-04-24
 glass: nick_and_nora
-garnishes: lemon_twist
+garnishes: twist_lemon
 type: shaken
 ---
 

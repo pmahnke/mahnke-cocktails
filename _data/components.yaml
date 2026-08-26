@@ -80,97 +80,103 @@ glasses:
     icon: /assets/images/glass_whiskey.svg
 
 garnishes:
-  cucumber:
-    name: Cucumber Slice
-    icon: /assets/images/garnish_cucumber.svg
-  dry_lemon_wheel:
-    name: Dry Lemon Wheel
-    icon: /assets/images/garnish-dry_lemon_wheel.svg
-  grape:
-    name: Grape
-    icon: /assets/images/garnish-grapes.svg
-  lemon_wheel:
-    name: Lemon Wheel
-    icon: /assets/images/garnish-lemon_wheel.svg
-  lime_wheel:
+  slice_lime:
+    name: Lime Wedge
+    icon: /assets/images/slice_lime.svg
+  garnish-lime_wheel:
     name: Lime Wheel
     icon: /assets/images/garnish-lime_wheel.svg
-  cocktail_umbrella:
-    name: Cocktail Umbrella 
-    icon: /assets/images/garnish-umbrella.svg
-  lime_twist:
-    name: Lime Twist
-    icon: /assets/images/garnish-lime_twist.svg
-  lemon_wedge:
-    name: Lemon Wedge
-    icon: /assets/images/garnish-lemon_slice.svg
-  lime_wheel:
-    name: Lime Wheel
-    icon: /assets/images/slice_lime.svg
-  dry_lime_wheel:
+  garnish-dry_lime_wheel:
     name: Dry Lime Wheel
     icon: /assets/images/garnish-dry_lime_wheel.svg
-  lime_peel:
+  garnish-lime_peel:
     name: Lime Peel
     icon: /assets/images/garnish-lime_peel.svg
-  lemon_peel:
-    name: Lemon Peel
-    icon: /assets/images/garnish-lemon_peel.svg
-  lemon_slice:
-    name: Lemon Slice
-    icon: /assets/images/garnish-lemon_slice.svg
-  lemon_twist:
-    name: Lemon Twist
-    icon: /assets/images/twist_lemon.svg
-  green_apple_slice:
+  garnish-lime_twist:
+    name: Lime Twist
+    icon: /assets/images/garnish-lime_twist.svg
+  garnish-grapes:
+    name: Grape
+    icon: /assets/images/garnish-grapes.svg
+  slice_green_apple:
     name: Green Apple Slice
     icon: /assets/images/slice_green_apple.svg
-  pineapple_slice:
+  slice_pineapple:
     name: Pineapple Slice
     icon: /assets/images/slice_pineapple.svg
-  orange_peel:
+  twist_lemon:
+    name: Lemon Twist
+    icon: /assets/images/twist_lemon.svg
+  garnish-lemon_peel_oil:
+    name: Lemon Peel
+    icon: /assets/images/garnish-lemon_peel_oil.svg
+  garnish-lemon_slice:
+    name: Lemon Slice
+    icon: /assets/images/garnish-lemon_slice.svg
+  fruit_lemon:
+    name: Lemon Wedge
+    icon: /assets/images/fruit_lemon.svg
+  garnish-dry_lemon_wheel:
+    name: Dry Lemon Wheel
+    icon: /assets/images/garnish-dry_lemon_wheel.svg
+  garnish-lemon_wheel:
+    name: Lemon Wheel
+    icon: /assets/images/garnish-lemon_wheel.svg
+  garnish-orange_peel:
     name: Orange Peel
-    icon: /assets/images/garnish-ornage_peel.svg
-  orange_twist:
+    icon: /assets/images/garnish-orange_peel.svg
+  twist_orange:
     name: Orange Twist
     icon: /assets/images/twist_orange.svg
-  orange_slice:
+  garnish-orange_slice:
     name: Orange Slice
-    icon: /assets/images/garnish-orange_slice.svg
-  dry_orange_wheel:
+    icon: /assets/images/garnish-orange_slice.svgpeel
+  garnish-dry_orange_wheel:
     name: Dry Orange Wheel
     icon: /assets/images/garnish-dry_orange_wheel.svg
-  maraschino_cherry:
+  garnish-grapefruit_peel:
+    name: Grapefruit Peel
+    icon: /assets/images/garnish-grapefruit_peel.svg
+  garnish-umbrella:
+    name: Cocktail Umbrella
+    icon: /assets/images/garnish-umbrella.svg
+  garnish_cucumber:
+    name: Cucumber Slice
+    icon: /assets/images/garnish_cucumber.svg
+  twist_cocktail-cherry:
     name: Maraschino Cherry
     icon: /assets/images/twist_cocktail-cherry.svg
-  mint_sprig:
+  garnish-cherries_stick:
+    name: Cherries on a Toothpick
+    icon: /assets/images/garnish-cherries_stick.svg
+  spice_nutmeg:
+    name: Nutmeg
+    icon: /assets/images/spice_nutmeg.svg
+  herb_mint:
     name: Mint Sprig
     icon: /assets/images/herb_mint.svg
-  thyme:
+  herb_thyme:
     name: Thyme Sprig
     icon: /assets/images/herb_thyme.svg
-  blackberries:
+  fruit_blackberries:
     name: Blackberries
     icon: /assets/images/fruit_blackberries.svg
-  raspberries:
+  fruit_raspberries:
     name: Raspberries
     icon: /assets/images/fruit_raspberries.svg
-  strawberry:
+  fruit_strawberry:
     name: Strawberry
     icon: /assets/images/fruit_strawberry.svg
-  olive:
+  fruit_olives:
     name: Olive
     icon: /assets/images/fruit_olives.svg
-  pineapple_wedge:
-    name: Pineapple Wedge
-    icon: /assets/images/slice_pineapple.svg
-  anise:
+  spice_anise:
     name: Star Anise
     icon: /assets/images/spice_anise.svg
-  cinnamon:
+  spice_cinnamon:
     name: Cinnamon Stick
     icon: /assets/images/spice_cinnamon.svg
-  coffee_beans:
+  spice_coffee:
     name: Coffee Beans
     icon: /assets/images/spice_coffee.svg
 
@@ -184,18 +190,21 @@ tools:
   squeezer:
     name: Juice squeezer
     icon: /assets/images/tool_squeezer.svg
+  bar_spoon:
+    name: Bar Spoon
+    icon: /assets/images/tool_bar_spoon.svg
 
 ice:
-  crushed:
+  ice_crushed:
     name: Crushed Ice
     icon: /assets/images/ice_crushed.svg
-  cubed:
+  ice_cubes:
     name: Cubed Ice
     icon: /assets/images/ice_cubes.svg
-  large_cube:
+  ice_large:
     name: Large Cube
     icon: /assets/images/ice_large.svg
-  pebble:
+  ice_pebble:
     name: Pebble Ice
     icon: /assets/images/ice_pebble.svg
 
@@ -209,3 +218,6 @@ types:
   blended:
     name: Blended
     icon: /assets/images/tool_blender.svg
+  built:
+    name: Built
+    icon: /assets/images/tool_built.svg

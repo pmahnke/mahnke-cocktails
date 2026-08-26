@@ -6,6 +6,7 @@ categories: [cocktail, smoked]
 eras: [classic]
 permalink: "/recipe/beesknees_smoked/"
 iconfile: beesknees_smoked
+color: #e8cda8
 stars: 3
 base_spirits: ['London Dry Gin']
 youtube: "gZdT2GBf91I"
@@ -13,7 +14,9 @@ description: "A smoky twist on the classic Prohibition-era Bee's Knees, which tr
 excerpt: |
   This version is a twist on the classic Prohibition era Bee's Knees cocktail.
 date: 2025-08-11
+image: /assets/images/cocktail_beesknees_smoked_dynamic.svg
 glass: coupe
+garnishes: herb_rosemary
 type: shaken
 ---
 
@@ -41,7 +44,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_beesknees_smoked_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz London Dry Gin",

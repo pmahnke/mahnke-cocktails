@@ -6,6 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/self_portrait/"
 iconfile: self_portrait
+color: #fd8513
 stars: 4
 base_spirits: ['Cognac', 'Swedish Punsch']
 youtube: "VXjcObds5DY"
@@ -13,8 +14,9 @@ description: "This cocktail is Anders' riff on the Doctor Cocktail. It has the b
 excerpt: |
   This cocktail is Anders' riff on the Doctor Cocktail, but with a nod to his own heritage. The brandy to honor his Wisconsin roots. The Swedish Punsch to honor his ancestry. And the cherry garnish to honor Door County, Wisconsin, which is cherry country.
 date: 2025-10-13
-glass: coupe
-garnishes: maraschino_cherry
+image: /assets/images/cocktail_self_portrait_dynamic.svg
+glass: cocktail
+garnishes: twist_cocktail-cherry
 type: shaken
 ---
 
@@ -32,7 +34,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Coupe
+- Glassware: Cocktail glass
 - Garnish: Cocktail cherry
 - Special Prep: None
 
@@ -44,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_self_portrait_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1 oz Cognac",
@@ -65,7 +67,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Coupe"
+      "text": "Glassware: Cocktail glass"
     },
     {
       "@type": "HowToStep",

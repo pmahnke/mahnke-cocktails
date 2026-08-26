@@ -6,6 +6,7 @@ categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/jabberwocky/"
 iconfile: jabberwocky
+color: #dede85
 stars: 0
 base_spirits: ['Lillet Blanc', 'London Dry Gin', 'Manzanilla Sherry']
 youtube: "tGudsyMDO_g"
@@ -13,8 +14,9 @@ description: "A refined and nuanced Martini-style sipper from the Savoy Cocktail
 excerpt: |
   This marriage of dry sherry, gin and Lillet from the Savoy Cocktail book is a most refined and nuanced sipper.
 date: 2025-11-25
+image: /assets/images/cocktail_jabberwocky_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
+garnishes: garnish-lemon_peel
 type: stirred
 ---
 
@@ -43,7 +45,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_jabberwocky_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  .75 oz London Dry Gin",

@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/transcontinental/"
 iconfile: transcontinental
+color: #cacaa8
 stars: 0
 base_spirits: "London Dry Gin, Maraschino Liqueur, Yellow Chartreuse, Crème de Violette"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/9724/transcontinental"
@@ -31,5 +32,5 @@ date: 2026-02-05
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Lemon swath
+- Garnish: Lemon twist
 - Special Prep: None

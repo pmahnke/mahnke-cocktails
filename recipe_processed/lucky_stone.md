@@ -16,9 +16,7 @@ date: 2025-09-26
 glass:
   - nick_and_nora
   - whiskey
-garnishes:
-  - lemon_peel
-  - maraschino_cherry
+garnishes: twist_cocktail-cherry
 type: stirred
 ---
 

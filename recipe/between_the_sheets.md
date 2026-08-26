@@ -6,6 +6,7 @@ categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/between_the_sheets/"
 iconfile: between_the_sheets
+color: #fac741
 stars: 4
 base_spirits: "Jamaican Rum, Demerara Rum, Cognac, Curaçao"
 youtube: "VnuAR_wPOZA"
@@ -29,5 +30,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Expressed lemon oil and lemon peel
+- Garnish: Expressed lemon oil and lemon twist
 - Special Prep: None

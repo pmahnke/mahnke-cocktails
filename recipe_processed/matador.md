@@ -6,6 +6,7 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/matador/"
 iconfile: matador
+color: #fbd791
 stars: 0
 base_spirits: ['Blanc Vermouth', 'Curaçao', 'Reposado Tequila']
 youtube: "3aV3DzDfW_A"
@@ -13,8 +14,9 @@ description: "A simple, tiki-style cocktail similar to a Margarita, featuring te
 excerpt: |
   The Matador is a tequila-based cocktail with a simple structure, similar to a margarita.
 date: 2026-03-01
+image: /assets/images/cocktail_matador_dynamic.svg
 glass: coupe
-garnishes: pineapple_wedge
+garnishes: slice_pineapple
 type: shaken
 ---
 
@@ -45,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_matador_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Reposado Tequila",

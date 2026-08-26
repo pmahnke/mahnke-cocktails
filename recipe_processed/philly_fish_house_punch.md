@@ -14,7 +14,7 @@ excerpt: |
   The Philadelphia Fish House Punch is a classic punch recipe that has been enjoyed for centuries. It's a rich and complex drink with a balance of sweetness, acidity, and spirit.
 date: 2025-08-11
 glass: punch_cup
-garnishes: nutmeg
+garnishes: spice_nutmeg
 type: shaken
 ---
 

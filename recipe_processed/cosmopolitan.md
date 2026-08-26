@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/cosmopolitan/"
 iconfile: cosmopolitan
+color: #ea6584
 stars: 3
 base_spirits: ['Triple Sec', 'Vodka']
 youtube: "SP8Pc-Db7yQ"
@@ -13,10 +14,9 @@ description: "A modern classic known for its vibrant pink color, this is a tart 
 excerpt: |
   The Cosmopolitan is a simple cocktail with a big history. The "Cosmo" is known for its vibrant pink color and tart, sweet flavor. It gained widespread popularity in the 1990s, particularly after its association with the TV show "Sex and the City."
 date: 2025-08-11
+image: /assets/images/cocktail_cosmopolitan_dynamic.svg
 glass: coupe
-garnishes:
-  - lime_wheel
-  - orange_peel
+garnishes: garnish-lime_wheel
 type: shaken
 ---
 
@@ -45,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_cosmopolitan_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Vodka",

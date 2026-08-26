@@ -14,10 +14,7 @@ description: "A quintessential tiki classic that balances two types of rum with 
 excerpt: |
   It’s time you had a proper Mai Tai from Latitude 29 and Jeff “Beachbum” Berry, the renowned Tiki historian.
 date: 2025-12-13
-garnishes:
-  - maraschino_cherry
-  - mint_sprig
-ice: crushed
+ice: ice_crushed
 type: shaken
 ---
 

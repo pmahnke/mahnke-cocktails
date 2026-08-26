@@ -14,7 +14,7 @@ excerpt: |
   The gin-and-vodka-based Vesper cocktail made its debut in “Casino Royale.” If it’s good enough for James Bond, it’s probably good enough for you, too.
 date: 2025-08-11
 glass: martini
-garnishes: lemon_twist
+garnishes: twist_lemon
 type: stirred
 ---
 

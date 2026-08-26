@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 image: /assets/images/cocktail_sherry_flip_dynamic.svg
 glass: coupe
-garnishes: nutmeg
+garnishes: spice_nutmeg
 type: shaken
 ---
 

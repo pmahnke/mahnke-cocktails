@@ -15,7 +15,9 @@ excerpt: |
   The French 75 is a sparkling cocktail that’s maintained its popularity for nearly a century. An effervescent twist on the Gin Sour, its simple to make and perfect to drink anytime.
 date: 2025-08-11
 glass: flute
-garnishes: lemon_twist
+garnishes:
+  - bubbles
+  - twist_lemon
 type: shaken
 ---
 

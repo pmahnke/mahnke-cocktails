@@ -6,6 +6,7 @@ categories: [sour, sidecar]
 eras: [classic]
 permalink: "/recipe/sidecar/"
 iconfile: sidecar
+color: #e88c1a
 stars: 3
 base_spirits: ['Cognac', 'Curaçao']
 youtube: "re76GCUoiH4"
@@ -14,7 +15,9 @@ description: "A classic and elegant sour from the early 20th century, combining 
 excerpt: |
   The Sidecar is a classic cocktail that has been enjoyed for over a century. It's a simple yet elegant drink that combines the flavors of cognac, orange liqueur, and lemon juice.
 date: 2025-12-23
+image: /assets/images/cocktail_sidecar_dynamic.svg
 glass: coupe
+garnishes: garnish-salted_rim
 type: shaken
 ---
 
@@ -42,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_sidecar_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Cognac",

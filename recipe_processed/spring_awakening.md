@@ -14,7 +14,6 @@ excerpt: |
   The Spring Awakening, from the 2016 Waldorf Astoria Bar Book, is a simple vodka cocktail built with Aperol and Cocchi Americano, and can go by two names, Spring Awakening or Winter's Nap, depending on the garnish. Rosemary makes this the Winter’s Nap, while a citrus twist turns it into the Spring Awakening.
 date: 2026-03-24
 glass: rocks
-garnishes: lemon_peel
 type: stirred
 ---
 

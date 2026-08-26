@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-08-11
 glass: rocks
 garnishes: slice_lime
-ice: cubed
+ice: ice_cubes
 type: stirred
 ---
 

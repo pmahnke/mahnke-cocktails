@@ -37,6 +37,7 @@ my %glassware = (
     'hurricane'            => 'hurricane',
     'flute'                => 'flute',
     'cobbler'              => 'cobbler',
+    'cocktail glass'              => 'cocktail',
     'coffee'               => 'coffee',
     'copper mug'           => 'copper_mug',
     'cordial'              => 'cordial',
@@ -57,46 +58,56 @@ my %glassware = (
 );
 
 my %garnishes = (
-    'lime wedge'        => 'slice_lime',
-    'lime wheel'        => 'lime_wheel',
-    'ddehydratedry lime wheel'    => 'dry_lime_wheel',
-    'lime peel'         => 'lime_peel',
-    'lime oil'          => 'lime_peel',
+    'lime wedge'               => 'slice_lime',
+    'lime wheel'               => 'garnish-lime_wheel',
+    'dehydrated lime wheel'    => 'garnish-dry_lime_wheel',
+    'lime peel'                => 'garnish-lime_peel',
+    'lime oil'                 => 'garnish-lemon_peel_oil',
+    'lime twist'               => 'garnish-lime_twist',
 
-    'grape'             => 'grape',
-    'green apple slice' => 'green_apple_slice',
-    'pineapple slice'   => 'pineapple_slice',
+    'grape'                    => 'garnish-grapes',
+    'green apple slice'        => 'slice_green_apple',
+    'pineapple slice'          => 'slice_pineapple',
 
-    'lemon twist'       => 'lemon_twist',
-    'lemon peel'        => 'lemon_peel',
-    'lemon slice'       => 'lemon_slice',
-    'lemon wedge'       => 'lemon_wedge',
-    'dehydrated lemon wheel'   => 'dry_lemon_wheel',
-    'lemon wheel'       => 'lemon_wheel',
-    'lemon oil'         => 'lemon_peel',
+    'lemon twist'              => 'twist_lemon',
+    'lemon peel'               => 'garnish-lemon_peel',
+    'lemon slice'              => 'garnish-lemon_slice',
+    'lemon wedge'              => 'fruit_lemon',
+    'dehydrated lemon wheel'   => 'garnish-dry_lemon_wheel',
+    'lemon wheel'              => 'garnish-lemon_wheel',
+    'lemon oil'                => 'garnish-lemon_peel_oil',
     
-    'orange peel'       => 'orange_peel',
-    'orange twist'      => 'orange_twist',
-    'orange slice'      => 'orange_slice',
-    'dehydrated orange wheel'  => 'dry_orange_wheel',
-    'orange oil'        => 'orange_peel',
+    'orange peel'              => 'garnish-orange_peel',
+    'orange twist'             => 'twist_orange',
+    'orange slice'             => 'garnish-orange_slice',
+    'dehydrated orange wheel'  => 'garnish-dry_orange_wheel',
+    'orange oil'               => 'garnish-orange_peel',
     
-    'umbrella'          => 'cocktail_umbrella',
-    'cucumber'          => 'cucumber',
-    'cherry'            => 'maraschino_cherry',
-    'maraschino cherry' => 'maraschino_cherry',
-    'nutmeg'            => 'nutmeg',
-    'mint sprig'        => 'mint_sprig',
-    'mint'              => 'mint_sprig',
-    'thyme'             => 'thyme',
-    'blackberries'      => 'blackberries',
-    'raspberries'       => 'raspberries',
-    'strawberry'        => 'strawberry',
-    'olive'             => 'olive',
-    'pineapple wedge'   => 'pineapple_wedge',
-    'anise'             => 'anise',
-    'cinnamon'          => 'cinnamon',
-    'coffee beans'      => 'coffee_beans'
+    'grapefruit peel'          => 'garnish-grapefruit_peel',
+
+    'umbrella'                 => 'garnish-umbrella',
+    'cucumber'                 => 'garnish_cucumber',
+    'cherry'                   => 'twist_cocktail-cherry',
+    'maraschino cherry'        => 'twist_cocktail-cherry',
+    'cherries on a toothpick'  => 'garnish-cherries_stick',
+    'nutmeg'                   => 'spice_nutmeg',
+    'mint sprig'               => 'herb_mint',
+    'mint'                     => 'herb_mint',
+    'thyme'                    => 'herb_thyme',
+    'rosemary'                 => 'herb_rosemary',
+    'blackberries'             => 'fruit_blackberries',
+    'raspberries'              => 'fruit_raspberries',
+    'raspberry'                => 'fruit_raspberries',    
+    'strawberry'               => 'fruit_strawberry',
+    'olive'                    => 'fruit_olives',
+    'pineapple wedge'          => 'slice_pineapple',
+    'apple slices'             => 'slice_green_apple',
+    'anise'                    => 'spice_anise',
+    'cinnamon'                 => 'spice_cinnamon',
+    'coffee beans'             => 'spice_coffee',
+    'salted rim'               => 'garnish-salted_rim',
+    'sugared rim'              => 'garnish-salted_rim',
+    'drops of angostura'       => 'garnish-angostura_bitters',
 );
 
 my %tools = (
@@ -107,11 +118,11 @@ my %tools = (
 );
 
 my %ice_types = (
-    'crushed ice'     => 'crushed',
-    'cubed ice'       => 'cubed',
-    'large cube'      => 'large_cube',
-    'pebble ice'      => 'pebble',
-    'on the rocks'    => 'cubed'
+    'crushed ice'     => 'ice_crushed',
+    'cubed ice'       => 'ice_cubes',
+    'large cube'      => 'ice_large',
+    'pebble ice'      => 'ice_pebble',
+    'on the rocks'    => 'ice_cubes'
 );
 
 my %cocktail_types = (
@@ -149,6 +160,8 @@ while (my $file = readdir DIR) {
     my $liquid_color = "#e6b741";
     my $fm_glass = "";
     my $has_color = 0;
+    my $egg_white = 0;
+    my $wine_float = 0;
 
     foreach my $line (@file_lines) {
         if ($line =~ /^---\s*$/) {
@@ -208,6 +221,9 @@ while (my $file = readdir DIR) {
     }
 
     my $full_body_text = join("", @body_lines);
+    
+    # NEW: Isolate only the lines discussing garnishes to prevent ingredient false-positives
+    my $garnish_text = join(" ", grep { /garnish/i } @body_lines);
 
     # Automatically extract component matches from the full body text (including notes)
     my @found_glasses   = find_matches($full_body_text, \%glassware);
@@ -215,7 +231,23 @@ while (my $file = readdir DIR) {
     if ($fm_glass) {
         @found_glasses = ($fm_glass);
     }
-    my @found_garnishes = find_matches($full_body_text, \%garnishes);
+    
+    # NEW: Feed only the isolated garnish text to the garnish matcher
+    my @found_garnishes = find_matches($garnish_text, \%garnishes);
+# NEW: Check the ENTIRE file for carbonation to trigger bubbles
+    my $entire_file_text = join("", @file_lines);
+    if ($entire_file_text =~ /champagne|champaigne|prosecco|cava|sparkling wine|club soda|soda water|tonic/i) {
+        push @found_garnishes, 'bubbles';
+    }
+    if ($entire_file_text =~ /salted rim|sugared rim/i) {
+        push @found_garnishes, 'garnish-salted_rim';
+    }
+    if ($entire_file_text =~ /egg white/i) {
+        $egg_white = 1;
+    }
+    if ($entire_file_text =~ /float the red wine/i) {
+        $wine_float = 1;
+    }
     my @found_tools     = find_matches($full_body_text, \%tools);
     my @found_ice       = find_matches($full_body_text, \%ice_types);
     my @found_types     = find_matches($full_body_text, \%cocktail_types);
@@ -479,6 +511,8 @@ $rating_json
             # 2b. Calculate and Inject the Foam Color (15% lighter)
             # This calls the lighten_color sub at the bottom of your script
             my $foam_color = lighten_color($liquid_color, 0.4);
+            $foam_color = "\#fefaec" if ($egg_white); # Override for egg white cocktails
+            $foam_color = "\#b0044e" if ($wine_float); # Override for red wine float cocktails
             
             if (my $foam = $dom->at('#liquid-foam')) {
                 $foam->attr(fill => $foam_color);
@@ -488,27 +522,29 @@ $rating_json
                 }
             }
 
-            # 3. Toggle Garnishes
-            # First, hide ALL garnishes by targeting any ID that starts with "garnish-"
-            $dom->find('[id^="garnish-"]')->each(sub {
-                my $el = shift;
-                $el->attr(display => 'none');
-                
-                # Scrub any inline display styles Inkscape might have added
-                if (my $style = $el->attr('style')) {
-                    $style =~ s/display:\s*[^;]+;?//ig;
-                    $el->attr(style => "$style display:none;");
-                }
-            });
+            # 3. Toggle Garnishes (and REMOVE unused to save filesize)
             
-            # Then, turn on ONLY the garnishes found in the recipe body
-            foreach my $garnish_slug (@found_garnishes) {
-                if (my $active_garnish = $dom->at("#garnish-$garnish_slug")) {
-                    $active_garnish->attr(display => 'inline');
-                    
-                    if (my $style = $active_garnish->attr('style')) {
-                        $style =~ s/display:\s*[^;]+;?//ig;
-                        $active_garnish->attr(style => "$style display:inline;");
+            # Create a fast lookup hash for the garnishes we actually found
+            my %found_lookup;
+            $found_lookup{$_} = 1 for @found_garnishes;
+
+            # Build a list of all possible garnishes from the dictionary
+            my %all_slugs;
+            $all_slugs{$_} = 1 for values %garnishes;
+            $all_slugs{'bubbles'} = 1; # Safety net for the manually pushed bubbles
+
+            foreach my $slug (keys %all_slugs) {
+                if (my $el = $dom->at("#$slug")) {
+                    if ($found_lookup{$slug}) {
+                        # If the drink uses this garnish, make sure it is visible
+                        $el->attr(display => 'inline');
+                        if (my $style = $el->attr('style')) {
+                            $style =~ s/display:\s*[^;]+;?//ig;
+                            $el->attr(style => "$style display:inline;");
+                        }
+                    } else {
+                        # If the drink DOES NOT use this garnish, delete it entirely!
+                        $el->remove;
                     }
                 }
             }

@@ -14,9 +14,9 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes:
-  - lemon_wheel
-  - thyme
-ice: cubed
+  - garnish-lemon_wheel
+  - herb_thyme
+ice: ice_cubes
 type: shaken
 ---
 

@@ -14,8 +14,7 @@ excerpt: |
   The Spring Forward cocktail is a light and refreshing drink that's perfect for the warmer months.
 date: 2025-08-11
 glass: highball
-garnishes: strawberry
-ice: crushed
+ice: ice_crushed
 type: shaken
 ---
 

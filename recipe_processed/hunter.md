@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-01-09
 image: /assets/images/cocktail_hunter_dynamic.svg
 glass: coupe
-garnishes: maraschino_cherry
+garnishes: garnish-cherries_stick
 type: stirred
 ---
 
@@ -58,7 +58,7 @@ type: stirred
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Cocktail cherry
+- Garnish: Cocktail cherries on a toothpick
 - Special Prep: None
 
 </div>

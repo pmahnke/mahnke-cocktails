@@ -6,6 +6,7 @@ eras: [classic]
 categories: [daisy]
 permalink: "/recipe/whiskey_daisy_3/"
 iconfile: whiskey_daisy_3
+color: #d7a450
 stars: 3.5
 base_spirits: ['Bourbon', 'Rye']
 youtube: "XggEyhSR2Dk"
@@ -13,8 +14,8 @@ description: "A classic Daisy variation that uses whiskey as its base spirit, se
 excerpt: |
   A "Whiskey Daisy No. 3" is a variation of the classic "Daisy" cocktail, which is believed to have originated in the late 1800s, with the earliest known version being a "Brandy Daisy" mentioned in Jerry Thomas's bartending guide; the "Whiskey Daisy" is simply a variation where whiskey is used as the base spirit instead of brandy, and "No. 3" likely refers to a specific recipe variation with slightly different proportions of ingredients within the Daisy family.
 date: 2025-09-26
+image: /assets/images/cocktail_whiskey_daisy_3_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
 type: shaken
 ---
 
@@ -44,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_whiskey_daisy_3_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Bourbon",

@@ -16,7 +16,7 @@ date: 2025-08-11
 glass:
   - coffee
   - rocks
-ice: cubed
+ice: ice_cubes
 ---
 
 ### Ingredients

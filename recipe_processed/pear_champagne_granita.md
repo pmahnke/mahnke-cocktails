@@ -14,7 +14,7 @@ excerpt: |
   The Pear Champagne Granita is a sophisticated, icy dessert that blends the delicate, floral sweetness of pears with the crisp, effervescent bite of sparkling wine. It features a signature "shaggy" texture—achieved by periodically scraping the freezing mixture with a fork—which creates a light and airy shaved-ice consistency that melts instantly on the tongue.
 date: 2025-12-27
 glass: coupe
-garnishes: lemon_peel
+garnishes: bubbles
 ---
 
 ### Ingredients

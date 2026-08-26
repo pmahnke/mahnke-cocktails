@@ -16,7 +16,7 @@ date: 2026-03-21
 glass:
   - coffee
   - highball
-ice: crushed
+ice: ice_crushed
 type: blended
 ---
 

@@ -13,7 +13,9 @@ description: "A classic and refreshing Cuban highball, celebrated for its vibran
 excerpt: |
   The Mojito might be the perfect cocktail. With mint, simple syrup and white rum, the classic Mojito is easy to make and always refreshing.
 date: 2025-08-11
-garnishes: mint_sprig
+garnishes:
+  - bubbles
+  - herb_mint
 tools: muddler
 type: shaken
 ---

@@ -14,10 +14,7 @@ excerpt: |
 
 date: 2026-01-17
 glass: old_fashioned
-garnishes:
-  - cinnamon
-  - maraschino_cherry
-  - orange_peel
+garnishes: twist_cocktail-cherry
 ---
 
 <div class="subrecipe" markdown="1">

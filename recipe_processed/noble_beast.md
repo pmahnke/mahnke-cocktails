@@ -13,7 +13,9 @@ description: "An original flip cocktail that incorporates a whole egg for a crea
 excerpt: |
   The Noble Beast is a cocktail created by Anders Erickson. It's a riff on the classic Sherry Flip, incorporating a whole egg for a creamy texture
 date: 2025-08-11
-glass: coffee
+glass:
+  - cocktail
+  - coffee
 type: shaken
 ---
 

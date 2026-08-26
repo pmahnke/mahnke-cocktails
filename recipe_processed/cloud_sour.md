@@ -7,16 +7,18 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/cloud_sour/"
 iconfile: cloud_sour
+color: #ecd07e
 stars: 0
 base_spirits: ['London Dry Gin', 'Melon Liqueur']
-youtube: ""
+youtube: https://www.theguardian.com/food/2025/mar/28/cocktail-of-the-week-seed-library-cloud-sour-recipe
 description: "A modern sour with a funky, umami-rich character derived from the use of shio koji, a fermented rice marinade."
 excerpt: |
   This is a simplified version of a drink we serve at Seed Library, and its freshness makes it a lovely way to welcome the long-overdue arrival of spring. Shio koji is a funky, umami-rich Japanese ingredient made from fermented rice, and is more commonly used in marinades and for seasoning, much as miso and soy sauce are – look for it in specialist food stores and online.
 
   Seed Library via [The Guardian](https://www.theguardian.com/food/2025/mar/28/cocktail-of-the-week-seed-library-cloud-sour-recipe)
 date: 2026-01-16
-glass: coupe
+image: /assets/images/cocktail_cloud_sour_dynamic.svg
+glass: cocktail
 type: shaken
 ---
 
@@ -35,7 +37,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Coupe
+- Glassware: Cocktail glass
 - Garnish: None
 - Special Prep: None
 
@@ -47,7 +49,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_cloud_sour_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 50 ml London Dry Gin",
@@ -69,7 +71,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Coupe"
+      "text": "Glassware: Cocktail glass"
     },
     {
       "@type": "HowToStep",

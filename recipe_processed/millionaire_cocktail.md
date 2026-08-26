@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/millionaire_cocktail/"
 iconfile: millionaire_cocktail
+color: #c93913
 stars: 4
 base_spirits: ['Apricot Liqueur', 'Jamaican Rum', 'Sloe Gin']
 youtube: "CZ5KSKO3sbQ"
@@ -18,8 +19,9 @@ excerpt: |
   <br>- 2/3 Dry gin
   <br>- Shake well and strain into cocktail glass.
 date: 2025-11-29
+image: /assets/images/cocktail_millionaire_cocktail_dynamic.svg
 glass: coupe
-garnishes: lime_wheel
+garnishes: garnish-lime_wheel
 type: shaken
 ---
 
@@ -49,7 +51,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_millionaire_cocktail_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Jamaican Rum",

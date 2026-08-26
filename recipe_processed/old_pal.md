@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [amaro, cocktail]
 permalink: "/recipe/old_pal/"
 iconfile: old_pal
+color: #fe4631
 stars: 3
 base_spirits: ['Blanc Vermouth', 'Campari', 'Rye']
 youtube: "op3jvecV1ME"
@@ -14,8 +15,11 @@ excerpt: |
   The cocktail appeared in print in MacElhone (1927), by Harry MacElhone, the proprietor of Harry's New York Bar in Paris. The cocktail appears, not in the main list of recipes, but in the essay "Cocktails About Town" by Arthur Moss, which describes cocktails by men-about-town; this essay also includes the boulevardier. The Old Pal is credited to William "Sparrow" Robinson, a sports editor for The New York Herald in Paris, while the "old pal" refers to Moss, to whom it is dedicated. The cocktail is described as: 
   <blockquote>I remember way back in 1878, on the 30th of February to be exact, when the Writer was discussing this subject with my old pal "Sparrow" Robertson and he said to yours truly, "get away with that stuff, my old pal, here's the drink I invented when I fired the pistol the first time at the old Powderhall foot races and you can't go wrong if you put a bet down on 1/3 Canadian Club, 1/3 Eyetalian [Italian] Vermouth, and 1/3 Campari," and then he told the Writer that he would dedicate this cocktail to me and call it, My Old Pal.</blockquote>
 date: 2026-03-01
+image: /assets/images/cocktail_old_pal_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
+garnishes:
+  - garnish-lemon_peel_oil
+  - twist_lemon
 type: stirred
 ---
 
@@ -32,7 +36,7 @@ type: stirred
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Expressed lemon oil and lemon peel
+- Garnish: Expressed lemon oil and lemon twist
 - Special Prep: None
 
 <script type="application/ld+json">
@@ -43,7 +47,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_old_pal_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Rye",
@@ -66,7 +70,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Expressed lemon oil and lemon peel"
+      "text": "Garnish: Expressed lemon oil and lemon twist"
     },
     {
       "@type": "HowToStep",

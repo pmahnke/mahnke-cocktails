@@ -14,8 +14,10 @@ excerpt: |
   The margarita hibiscus cocktail is a refreshing and vibrant drink that combines the classic margarita with the floral notes of hibiscus. It typically includes tequila, orange liqueur, lime juice, and a homemade hibiscus syrup. The syrup adds a beautiful pink hue and a slightly sweet and tangy flavor to the drink.
 date: 2025-12-23
 glass: rocks
-garnishes: lime_wheel
-ice: cubed
+garnishes:
+  - garnish-lime_wheel
+  - garnish-salted_rim
+ice: ice_cubes
 type: shaken
 ---
 

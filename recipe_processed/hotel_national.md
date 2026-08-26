@@ -13,7 +13,7 @@ description: "A classic Cuban sour from the Prohibition era, featuring white rum
 excerpt: |
   The Hotel National / Nacional cocktail is a classic Cuban cocktail that has been enjoyed for decades. It is a refreshing and flavorful drink that is perfect for any occasion.
 date: 2025-08-11
-garnishes: lime_wheel
+garnishes: garnish-lime_wheel
 type: shaken
 ---
 

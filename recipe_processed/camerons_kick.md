@@ -16,7 +16,7 @@ date: 2025-12-09
 glass:
   - rocks
   - whiskey
-garnishes: lemon_peel
+garnishes: garnish-lemon_peel
 type: shaken
 ---
 

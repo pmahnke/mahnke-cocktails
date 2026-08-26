@@ -14,7 +14,6 @@ excerpt: |
   If you like stirred whiskey cocktails like a Manhattan or Toronto, this one's for you. It’s a simple three-ingredient build of rye whiskey, orange curaçao, and Fernet-Branca, but the result is rich and aromatic.
 date: 2026-02-07
 glass: nick_and_nora
-garnishes: orange_peel
 type: stirred
 ---
 

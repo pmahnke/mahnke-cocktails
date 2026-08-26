@@ -15,7 +15,7 @@ excerpt: |
   The classic Whiskey Sour is the most famous representation of one of the worlds most popular types of cocktail. Easy to commit to memory, its simple go-to sour to add to your arsenal, and a cornerstone of drink-making that everyone should know.
 date: 2025-08-11
 glass: nick_and_nora
-garnishes: lemon_peel
+garnishes: garnish-lemon_peel_oil
 type: shaken
 ---
 

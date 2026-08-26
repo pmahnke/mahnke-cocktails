@@ -15,8 +15,10 @@ excerpt: |
   The classic Margarita combines tequila, lime and triple sec for ultimate refreshment. This tried-and-true recipe ensures a great, easy cocktail every time.
 date: 2025-12-23
 glass: rocks
-garnishes: lime_wheel
-ice: cubed
+garnishes:
+  - garnish-lime_wheel
+  - garnish-salted_rim
+ice: ice_cubes
 type: shaken
 ---
 

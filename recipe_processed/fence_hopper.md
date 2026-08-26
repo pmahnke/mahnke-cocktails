@@ -13,7 +13,7 @@ description: "A unique beer cocktail that blends bourbon with apple cider, maple
 excerpt: |
   The Fence Hopper is a cocktail that blends bourbon whiskey with apple cider, maple syrup, lemon juice, Angostura Aromatic Bitters, and IPA beer.
 date: 2025-08-11
-garnishes: cinnamon
+garnishes: spice_cinnamon
 type: shaken
 ---
 

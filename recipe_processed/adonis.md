@@ -16,7 +16,6 @@ excerpt: |
 date: 2025-08-11
 image: /assets/images/cocktail_adonis_dynamic.svg
 glass: coupe
-garnishes: orange_peel
 type: shaken
 ---
 

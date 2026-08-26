@@ -14,8 +14,8 @@ excerpt: |
   The Moscow Mule, whose roots actually trace to Los Angeles in the mid-20th century, is a classic vodka drink with the bite of ginger beer.
 date: 2025-08-11
 glass: copper_mug
-garnishes: mint_sprig
-ice: cubed
+garnishes: herb_mint
+ice: ice_cubes
 ---
 
 ### Ingredients

@@ -14,8 +14,10 @@ excerpt: |
   The Brambubble is a refreshing and vibrant cocktail that's perfect for summer. It's made with blackberry brandy, lemon juice, and ginger ale, and it's garnished with a blackberry and a lemon wheel.
 date: 2025-08-11
 glass: highball
-garnishes: blackberries
-ice: cubed
+garnishes:
+  - bubbles
+  - fruit_blackberries
+ice: ice_cubes
 type: shaken
 ---
 

@@ -14,7 +14,7 @@ excerpt: |
   The Satan's Whiskers cocktail is a classic Prohibition-era drink with a devilishly delicious flavor profile.
 date: 2025-08-11
 glass: nick_and_nora
-garnishes: orange_twist
+garnishes: twist_orange
 type: shaken
 ---
 

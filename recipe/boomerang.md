@@ -6,6 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/boomerang/"
 iconfile: boomerang
+color: #cd7a27
 stars: 0
 base_spirits: "Rye, Swedish Punsch, Blanc Vermouth"
 youtube: "VXjcObds5DY"
@@ -30,5 +31,5 @@ date: 2025-10-13
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Lemon peel
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil

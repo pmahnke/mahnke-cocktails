@@ -6,6 +6,7 @@ categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/rolls_royce/"
 iconfile: rolls_royce
+color: #efba60
 stars: 0
 base_spirits: ['Bénédictine', 'Dry Vermouth', 'London Dry Gin', 'Sweet Vermouth']
 youtube: "UJJqbCGHsOg"
@@ -13,8 +14,9 @@ description: "A sophisticated and elegant Prohibition-era Martini variation, fea
 excerpt: |
   The Rolls Royce cocktail is a sophisticated and elegant drink, fitting for its luxurious namesake. It's a variation of the Martini, with the addition of sweet vermouth and Benedictine, which add complexity and depth to the classic gin and dry vermouth base.
 date: 2025-08-11
+image: /assets/images/cocktail_rolls_royce_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
+garnishes: twist_lemon
 type: stirred
 ---
 
@@ -32,7 +34,7 @@ type: stirred
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Lemon Peel
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil
 
 <script type="application/ld+json">
@@ -43,7 +45,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_rolls_royce_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    2 oz London Dry Gin",
@@ -67,7 +69,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Lemon Peel"
+      "text": "Garnish: Lemon twist"
     },
     {
       "@type": "HowToStep",

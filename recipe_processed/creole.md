@@ -14,7 +14,7 @@ excerpt: |
   The Creole cocktail is a classic cocktail with a rich history dating back to the early 1900s. It is known for its complex and balanced flavor profile, combining the sweetness of vermouth with the bitterness of Amaro and the herbal notes of Bénédictine.
 date: 2025-09-26
 glass: nick_and_nora
-garnishes: lemon_peel
+garnishes: garnish-lemon_peel
 type: stirred
 ---
 

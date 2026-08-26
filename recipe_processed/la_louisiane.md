@@ -16,8 +16,8 @@ excerpt: |
 date: 2025-08-11
 glass: nick_and_nora
 garnishes:
-  - lemon_peel
-  - maraschino_cherry
+  - garnish-lemon_peel_oil
+  - twist_cocktail-cherry
 type: stirred
 ---
 

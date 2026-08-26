@@ -14,7 +14,7 @@ excerpt: |
   Created at New York's old Waldorf-Astoria Hotel (the Empire State Building occupies the site today) for James R Keene, a racehorse owner whose steeds ran in the Suburban Handicap at Brooklyn's Sheepshead Bay track. The Suburban features in Albert Stevens Crockett's 1931 Old Waldorf Bar Days.
 date: 2026-02-02
 glass: martini
-garnishes: orange_peel
+garnishes: garnish-orange_peel
 type: stirred
 ---
 

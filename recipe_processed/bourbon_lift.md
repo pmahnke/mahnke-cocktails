@@ -17,6 +17,7 @@ date: 2025-08-11
 glass:
   - coffee
   - highball
+garnishes: bubbles
 type: shaken
 ---
 

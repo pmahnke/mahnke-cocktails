@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/mary_pickford/"
 iconfile: mary_pickford
+color: #b06d3b
 stars: 4
 base_spirits: "White Rum, Maraschino Liqueur"
 youtube: "TGJZv0FTjk8"
@@ -33,7 +34,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Pineapple fronds and cocktail cherry
+- Garnish: Pineapple fronds and cherries on a toothpick
 - Special Prep: None
 
 </div>
@@ -57,7 +58,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Pineapple fronds and cocktail cherry
+- Garnish: Pineapple fronds and cocktail cherries on a toothpick
 - Special Prep: None
 
 </div>

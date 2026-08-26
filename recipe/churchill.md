@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/churchill/"
 iconfile: churchill
+color: #e5b336
 stars: 0
 base_spirits: "Blended Scotch, Triple Sec, Sweet Vermouth"
 youtube: "https://www.foodandwine.com/churchill-cocktail-recipe-11686043"

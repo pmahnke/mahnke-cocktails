@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [amaro, cocktail]
 permalink: "/recipe/old_pal/"
 iconfile: old_pal
+color: #fe4631
 stars: 3
 base_spirits: "Rye, Campari, Blanc Vermouth"
 youtube: "op3jvecV1ME"
@@ -29,5 +30,5 @@ date: 2026-03-01
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Expressed lemon oil and lemon peel
+- Garnish: Expressed lemon oil and lemon twist
 - Special Prep: None

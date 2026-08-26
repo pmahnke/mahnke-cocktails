@@ -6,6 +6,7 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/matador/"
 iconfile: matador
+color: #fbd791
 stars: 0
 base_spirits: "Reposado Tequila, Blanc Vermouth, Curaçao"
 youtube: "3aV3DzDfW_A"

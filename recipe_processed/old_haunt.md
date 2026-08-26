@@ -14,7 +14,6 @@ excerpt: |
   This is an Anders original cocktail. It is a riff on the Old Fashioned replacing the sweet vermouth with Averna.
 date: 2025-10-26
 glass: rocks
-garnishes: orange_peel
 type: stirred
 ---
 

@@ -6,17 +6,19 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/greta_garbo_1/"
 iconfile: greta_garbo_1
+color: #f3edd4
 stars: 3
 base_spirits: ['Maraschino Liqueur', 'White Rum']
-youtube: "79htbyQ8nDY"
+youtube: 85C2I7_RMLY
 description: "A Prohibition-era cocktail named for the Hollywood star, featuring White Rum and maraschino liqueur."
 excerpt: |
   The origins of this cocktail are unknown but it is named after the Swedish film actress and Hollywood star. Born Greta Lovisa Gustafsson on the 18th September 1905, Greta Garbo received three Academy Award nominations for Best Actress and an honorary one in 1954. She was ranked the fifth greatest female star of all time by the American Film Institute in 1999, behind Katharine Hepburn, Bette Davis, Audrey Hepburn, and Ingrid Bergman.
 
   Garbo's career launched with the 1924 Swedish film, The Saga of Gosta Berling. Although her role was minor, her performance caught the attention of Louis B. Mayer, chief executive of Metro Goldwyn Mayer (MGM) who signed her to his studio in 1925. The next year she appeared in MGM's silent film, <em>Torrent</em>, then <em>Flesh</em> and the <em>Devil</em> in 1926, which propelled her to international stardom. Garbo's first talking film was <em>Anna Christie</em> (1930) which MGM marketed with the catch-phrase "Garbo talks!". Garbo retired from the screen after the failure of <em>Two-Faced Woman</em> in 1941 at the age of 35 having appeared in 28 films. An avid art collector, she never married, had no children and lived alone shunning publicity. Greta Garbo died 15th April 1990.
 date: 2025-10-20
+image: /assets/images/cocktail_greta_garbo_1_dynamic.svg
 glass: coupe
-garnishes: anise
+garnishes: spice_anise
 type: shaken
 ---
 
@@ -46,7 +48,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_greta_garbo_1_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz White Rum",

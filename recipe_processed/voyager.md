@@ -15,8 +15,8 @@ excerpt: |
   The Voyager, created by renowned mixologist Robert Hess in 2006 for the "Tales of the Cocktail" event in New Orleans, offers a unique spin on the traditional tiki cocktail. It was designed to use less common ingredients like Bénédictine and falernum, which were harder to find at the time, and provides a drier profile while retaining the essential tropical flavors. 
 date: 2025-12-17
 glass: rocks
-garnishes: lime_wheel
-ice: crushed
+garnishes: garnish-dry_lime_wheel
+ice: ice_crushed
 type: blended
 ---
 

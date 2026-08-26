@@ -15,7 +15,7 @@ excerpt: |
   The Bloody Mary was invented in the 1920s or 1930s. There are various theories as to the origin of the drink and its name. It has many variants, most notably the Red Snapper, Bloody Maria (made with tequila blanco), and the Virgin Mary.
 date: 2025-09-26
 glass: pint
-ice: cubed
+ice: ice_cubes
 ---
 
 <div class="subrecipe" markdown="1">

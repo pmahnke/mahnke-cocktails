@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/jack_rose/"
 iconfile: jack_rose
+color: #e06d42
 stars: 4
 base_spirits: ['Apple Brandy']
 youtube: "7H7Cz53jDhc"
@@ -13,6 +14,7 @@ description: "A classic Prohibition-era sour with a distinct pink hue, highlight
 excerpt: |
   The Jack Rose cocktail has a pretty pink hue that hides the strong punch of applejack, one of the USA’s native spirits.
 date: 2025-08-11
+image: /assets/images/cocktail_jack_rose_dynamic.svg
 glass: coupe
 type: shaken
 ---
@@ -41,7 +43,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_jack_rose_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Apple Brandy",

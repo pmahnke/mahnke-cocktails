@@ -6,6 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/apeman/"
 iconfile: apeman
+color: #f4ae57
 stars: 0
 base_spirits: "Bourbon, Oloroso Sherry, Banana Liqueur"
 youtube: "CfKrIWRMrNA"

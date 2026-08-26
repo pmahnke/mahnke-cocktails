@@ -14,8 +14,8 @@ excerpt: |
   Created in 1952 by bartender Frank Cline at Poor Red's, it is among the best cocktails to feature Galliano.
 date: 2025-08-11
 glass: nick_and_nora
-garnishes: nutmeg
-ice: crushed
+garnishes: spice_nutmeg
+ice: ice_crushed
 type:
   - blended
   - shaken

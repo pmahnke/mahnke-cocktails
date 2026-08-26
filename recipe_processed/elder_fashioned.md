@@ -16,7 +16,9 @@ excerpt: |
   Here are two variations on the Old Fashioned, the Elder Fashioned and the Elder Fashion. Both feature elderflower liqueur, but take the classic cocktail in different directions. The first was created by Simon Difford and pairs bourbon with elderflower liqueur for a floral riff on the Old Fashioned. The second is a Phil Ward original that swaps the whiskey for gin and deconstructs the classic Old Fashioned recipe to create something completely different. 
 date: 2026-08-22
 glass: rocks
-garnishes: orange_peel
+garnishes:
+  - garnish-grapefruit_peel
+  - garnish-orange_peel
 type: stirred
 ---
 

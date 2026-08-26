@@ -14,8 +14,8 @@ excerpt: |
   A buck is a cocktail that is made with ginger ale or ginger beer, citrus juice, and any of a number of base liquors. Buck cocktails are sometimes called mules.
 date: 2025-08-11
 glass: highball
-garnishes: lime_wheel
-ice: cubed
+garnishes: garnish-lime_wheel
+ice: ice_cubes
 type: shaken
 ---
 

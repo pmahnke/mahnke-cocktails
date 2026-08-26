@@ -14,7 +14,7 @@ excerpt: |
   The Bloody Caesar is a clam-juice-spiked riff on the Bloody Mary. And it’s the national cocktail of Canada.
 date: 2025-08-11
 glass: highball
-ice: cubed
+ice: ice_cubes
 ---
 
 ### Ingredients

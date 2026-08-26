@@ -13,7 +13,7 @@ description: "A classic hot toddy perfect for winter, featuring a rich, spiced b
 excerpt: |
   The Hot Buttered Rum cocktail is a classic hot drink that will warm your soul during the cold winter.
 date: 2025-08-11
-garnishes: cinnamon
+garnishes: spice_cinnamon
 ---
 
 ### Ingredients

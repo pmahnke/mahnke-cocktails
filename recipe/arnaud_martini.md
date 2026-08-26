@@ -6,6 +6,7 @@ categories: [cocktail, martini]
 eras: [modern]
 permalink: "/recipe/arnaud_martini/"
 iconfile: arnaud_martini
+color: #540004
 stars: 0
 base_spirits: "London Dry Gin, Crème de Cassis, Blanc Vermouth"
 youtube: "FI4wUOzJvUE"
@@ -28,5 +29,5 @@ date: 2025-11-15
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Lemon peel
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil

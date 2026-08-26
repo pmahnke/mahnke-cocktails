@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/cable_car/"
 iconfile: cable_car
+color: #dabf9f
 stars: 0
 base_spirits: "Spiced Rum, Curaçao"
 youtube: "iUGkl-AVgbI"

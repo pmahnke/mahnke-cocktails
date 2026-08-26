@@ -15,7 +15,6 @@ excerpt: |
   This punch was served at Slightly Oliver, a restaurant that has long since closed. It was my favorite drink they served. I was lucky enough to have found the recipe online.
 date: 2025-08-11
 glass: punch_cup
-garnishes: cinnamon
 ---
 
 ### Ingredients

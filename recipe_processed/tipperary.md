@@ -16,7 +16,7 @@ date: 2025-08-11
 glass:
   - nick_and_nora
   - whiskey
-garnishes: lemon_peel
+garnishes: garnish-lemon_peel_oil
 type: stirred
 ---
 

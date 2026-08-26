@@ -6,6 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/apeman/"
 iconfile: apeman
+color: #f4ae57
 stars: 0
 base_spirits: ['Banana Liqueur', 'Bourbon', 'Oloroso Sherry']
 youtube: "CfKrIWRMrNA"
@@ -13,10 +14,11 @@ description: "An original sour cocktail that pairs bourbon and Oloroso sherry wi
 excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
+image: /assets/images/cocktail_apeman_dynamic.svg
 glass: coupe
 garnishes:
-  - lemon_peel
-  - nutmeg
+  - garnish-lemon_peel_oil
+  - spice_nutmeg
 type: shaken
 ---
 
@@ -47,7 +49,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_apeman_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Bourbon",

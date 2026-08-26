@@ -6,6 +6,7 @@ eras: [anders]
 categories: [amaro, champagne]
 permalink: "/recipe/quarter_century/"
 iconfile: quarter_century
+color: #f2502c
 stars: 3.5
 base_spirits: ['Absinthe', 'Apricot Liqueur', 'Campari', 'Champagne']
 youtube: "S7DGgeFsjyE"
@@ -13,8 +14,11 @@ description: "An original sparkling cocktail that combines the bittersweet notes
 excerpt: |
   This is an Anders Erickson original cocktail created for New Year's Day, 2025.
 date: 2025-08-11
+image: /assets/images/cocktail_quarter_century_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
+garnishes:
+  - bubbles
+  - garnish-lemon_peel_oil
 type: stirred
 ---
 
@@ -43,7 +47,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_quarter_century_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    0.5 oz Amaro",

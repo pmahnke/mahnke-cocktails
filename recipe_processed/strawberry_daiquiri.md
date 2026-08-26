@@ -16,9 +16,9 @@ excerpt: |
 date: 2026-02-05
 glass: hurricane
 garnishes:
+  - fruit_strawberry
   - slice_lime
-  - strawberry
-ice: crushed
+ice: ice_crushed
 type: blended
 ---
 

@@ -16,8 +16,8 @@ excerpt: |
 date: 2025-12-10
 glass: rocks
 garnishes:
-  - lemon_peel
-  - maraschino_cherry
+  - garnish-lemon_peel
+  - twist_cocktail-cherry
 ---
 
 ### Ingredients

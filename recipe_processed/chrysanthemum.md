@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/chrysanthemum/"
 iconfile: chrysanthemum
+color: #ffea7f
 stars: 3.5
 base_spirits: ['Absinthe', 'Bénédictine', 'Dry Vermouth']
 youtube: "ivuVwMUiQ_U"
@@ -32,8 +33,9 @@ excerpt: |
   <br><cite>Harry Craddock, 1930</cite></blockquote>
   This cocktail may be named after <i>The Chrysanthemum</i>, a 1904 piece by the famous ragtime composer and pianist Scott Joplin and released on record in 1916.
 date: 2025-08-11
+image: /assets/images/cocktail_chrysanthemum_dynamic.svg
 glass: coupe
-garnishes: orange_peel
+garnishes: twist_orange
 type: stirred
 ---
 
@@ -51,7 +53,7 @@ type: stirred
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Orange Peel
+- Garnish: Orange twist
 - Special Prep: Place the swath of orange peel in the mixing glass and stir it with the cocktail. This is called a regal stir, similar to the regal shake. Expressed orange oil over the top of the cocktail.
 
 <script type="application/ld+json">
@@ -62,7 +64,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_chrysanthemum_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz Dry Vermouth",
@@ -86,7 +88,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Orange Peel"
+      "text": "Garnish: Orange twist"
     },
     {
       "@type": "HowToStep",

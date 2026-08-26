@@ -15,9 +15,9 @@ excerpt: |
 date: 2025-09-26
 glass: hurricane
 garnishes:
-  - cocktail_umbrella
-  - nutmeg
-ice: cubed
+  - garnish-umbrella
+  - spice_nutmeg
+ice: ice_cubes
 type: shaken
 ---
 

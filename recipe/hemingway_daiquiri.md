@@ -6,6 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/hemingway_daiquiri/"
 iconfile: hemingway_daiquiri
+color: #f8e3af
 stars: 0
 base_spirits: "White Rum, Maraschino Liqueur"
 youtube: "mILAxazthY4"

@@ -15,7 +15,7 @@ excerpt: |
   The Vieux Carré is a New Orleans cocktail dating back to the 1930s. See how rye, cognac and sweet vermouth create this well-balanced classic.
 date: 2025-08-11
 glass: rocks
-garnishes: lemon_twist
+garnishes: twist_lemon
 type: stirred
 ---
 

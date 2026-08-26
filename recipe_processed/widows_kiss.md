@@ -6,7 +6,8 @@ eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/widows_kiss/"
 iconfile: widows_kiss
-image: /assets/images/cocktail_widows_kiss.svg
+color: #fdc957
+image_orig: /assets/images/cocktail_widows_kiss.svg
 stars: 4.5
 base_spirits: ['Apple Brandy', 'Bénédictine', 'Yellow Chartreuse']
 youtube: "0JqyWyBiFus"
@@ -14,10 +15,13 @@ description: "A potent and herbaceous classic cocktail that features a unique bl
 excerpt: |
   A simple, and very potent, classic cocktail with apple brandy, yellow Chartreuse and Benedictine.
 date: 2025-11-26
-glass: coupe
+image: /assets/images/cocktail_widows_kiss_dynamic.svg
+glass:
+  - cocktail
+  - coupe
 garnishes:
-  - lemon_peel
-  - maraschino_cherry
+  - twist_cocktail-cherry
+  - twist_lemon
 type:
   - shaken
   - stirred
@@ -84,8 +88,8 @@ type:
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Coupe
-- Garnish: Lemon Peel
+- Glassware: Cocktail glass
+- Garnish: Lemon twist
 - Special Prep: Express Lemon oil over cocktail
 
 </div>
@@ -98,7 +102,7 @@ type:
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_widows_kiss.png",
+  "image": "{{ site.url }}/assets/images/cocktail_widows_kiss_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1 oz Apple Brandy",

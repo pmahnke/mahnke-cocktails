@@ -16,9 +16,10 @@ excerpt: |
 date: 2025-08-31
 glass: collins
 garnishes:
-  - lime_wheel
-  - maraschino_cherry
-  - orange_slice
+  - bubbles
+  - garnish-lime_wheel
+  - garnish-orange_slice
+  - twist_cocktail-cherry
 ---
 
 <div class="subrecipe" markdown="1">

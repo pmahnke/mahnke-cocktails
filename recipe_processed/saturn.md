@@ -15,8 +15,8 @@ excerpt: |
   California bartender  J. “Popo” Galsini introduced the Saturn to the world in 1967 when he won the International Bartender’s Association World Championship with it. Originally he titled his gin creation the X-15 after an American rocket plane, but shortly after doing so one of those planes crashed, killing its pilot. Reportedly, Galsini changed the name of the drink to the Saturn for the competition, in honor of the Saturn rocket that propelled the first Apollo rocket flight into space, months after the fateful X-15 crash.
 date: 2025-10-20
 garnishes:
-  - lemon_peel
-  - maraschino_cherry
+  - garnish-lemon_peel
+  - twist_cocktail-cherry
 type: blended
 ---
 

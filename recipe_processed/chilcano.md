@@ -17,7 +17,8 @@ date: 2025-08-11
 glass:
   - collins
   - cordial
-ice: cubed
+garnishes: bubbles
+ice: ice_cubes
 ---
 
 ### Ingredients

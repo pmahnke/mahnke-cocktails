@@ -6,6 +6,7 @@ categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/rolls_royce/"
 iconfile: rolls_royce
+color: #efba60
 stars: 0
 base_spirits: "London Dry Gin, Dry Vermouth, Sweet Vermouth, Bénédictine"
 youtube: "UJJqbCGHsOg"
@@ -29,5 +30,5 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Lemon Peel
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil

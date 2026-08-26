@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-08-11
 glass: double_old_fashioned
 garnishes: slice_lime
-ice: crushed
+ice: ice_crushed
 ---
 
 ### Ingredients

@@ -14,7 +14,7 @@ excerpt: |
   This drink appeared in a 1937 issue of Esquire magazine, and was recently rediscovered by David Wondrich. Jim Meehan includes it in his wonderful cocktail tome, The PDT Cocktail Book.
 date: 2025-08-11
 glass: nick_and_nora
-garnishes: lime_wheel
+garnishes: garnish-dry_lime_wheel
 type: shaken
 ---
 

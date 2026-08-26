@@ -7,6 +7,7 @@ categories: [daisy, sour]
 eras: [modern]
 permalink: "/recipe/star_daisy/"
 iconfile: star_daisy
+color: #e7d08a
 stars: 0
 base_spirits: "Navy Strength Gin, Apple Brandy, Curaçao"
 youtube: "QZRlEKhzUZE&t=838s"

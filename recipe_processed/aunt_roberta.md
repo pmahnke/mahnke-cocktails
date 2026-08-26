@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/aunt_roberta/"
 iconfile: aunt_roberta
+color: #e65404
 stars: 0
 base_spirits: ['Absinthe', 'Cognac', 'Crème de Mûre', 'London Dry Gin', 'Vodka']
 youtube: "idnVFvygleU"
@@ -13,10 +14,9 @@ description: "Known as one of the strongest drinks in the world, the Aunt Robert
 excerpt: |
   The drink features a potent blend of absinthe, brandy, vodka, gin, and blackberry liqueur, creating a dark and herbal profile that hides its staggering strength. Rumored to have been created by the daughter of a slave-owner in late 19th-century Alabama, the recipe was allegedly crafted to be as unforgiving as the woman it was named after. Because it lacks any diluting ingredients or sweeteners, it is meant to be sipped with extreme caution and a healthy respect for its historical reputation.
 date: 2026-02-02
+image: /assets/images/cocktail_aunt_roberta_dynamic.svg
 glass: coupe
-garnishes:
-  - lemon_peel
-  - lemon_twist
+garnishes: twist_lemon
 type: stirred
 ---
 
@@ -100,7 +100,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_aunt_roberta_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  3 oz Vodka",

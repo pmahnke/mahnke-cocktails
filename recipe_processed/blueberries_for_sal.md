@@ -12,8 +12,8 @@ description: "A refreshing non-alcoholic drink combining the fruity sweetness of
 excerpt: |
 date: 2025-08-11
 glass: highball
-garnishes: mint_sprig
-ice: cubed
+garnishes: herb_mint
+ice: ice_cubes
 type: shaken
 ---
 

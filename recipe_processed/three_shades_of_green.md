@@ -6,15 +6,17 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/three_shades_of_green/"
 iconfile: three_shades_of_green
+color: #d6d842
 stars: 3.5
 base_spirits: ['Green Chartreuse', 'London Dry Gin']
-youtube: "https://uws.theconsulate.nyc/new-york-upper-west-side-the-consulate-drink-menu"
+youtube: "https://theconsulate.nyc/food-menu"
 description: "An original modern cocktail with a complex herbal profile from gin and Green Chartreuse."
 excerpt: |
   This is an original cocktail from a Upper Westside restaurant, the Consulate.
 date: 2025-08-11
+image: /assets/images/cocktail_three_shades_of_green_dynamic.svg
 glass: coupe
-garnishes: cucumber
+garnishes: garnish_cucumber
 type: shaken
 ---
 
@@ -45,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_three_shades_of_green_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz London Dry Gin",

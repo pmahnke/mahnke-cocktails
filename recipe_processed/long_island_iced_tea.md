@@ -13,7 +13,7 @@ description: "A famously potent modern cocktail that combines four different spi
 excerpt: |
   The Long Island Iced Tea is as boozy as cocktails get, with a guaranteed hangover. But with four liquors, one liqueur, lemon and cola, it somehow works.
 date: 2025-08-11
-garnishes: lemon_wheel
+garnishes: garnish-lemon_wheel
 type: shaken
 ---
 

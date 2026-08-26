@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/cable_car/"
 iconfile: cable_car
+color: #dabf9f
 stars: 4
 base_spirits: ['Curaçao', 'Spiced Rum']
 youtube: "iUGkl-AVgbI"
@@ -14,10 +15,9 @@ description: "A modern classic from 1996, this is a twist on the classic Sidecar
 excerpt: |
   Created in 1996 by Tony Abou-Ganim at the Starlight Room, a nightclub and cocktail lounge atop San Francisco's Sir Francis Drake Hotel (now the Beacon Grand Hotel). The Nob Hill cable cars pass by the bar, hence its catchphrase, "between the stars and the cable cars," and this contemporary classic cocktail's name.
 date: 2025-08-11
+image: /assets/images/cocktail_cable_car_dynamic.svg
 glass: coupe
-garnishes:
-  - cinnamon
-  - orange_peel
+garnishes: spice_cinnamon
 type: shaken
 ---
 
@@ -46,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_cable_car_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Spiced Rum",

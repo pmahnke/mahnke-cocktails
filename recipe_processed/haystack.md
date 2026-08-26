@@ -17,7 +17,6 @@ date: 2025-10-08
 glass:
   - coupe
   - rocks
-garnishes: lemon_peel
 type: shaken
 ---
 

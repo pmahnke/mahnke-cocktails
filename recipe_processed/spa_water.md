@@ -14,9 +14,10 @@ excerpt: |
 date: 2025-08-11
 glass: julep_cup
 garnishes:
-  - cucumber
-  - mint_sprig
-ice: crushed
+  - bubbles
+  - garnish_cucumber
+  - herb_mint
+ice: ice_crushed
 ---
 
 ### Ingredients

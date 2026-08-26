@@ -6,6 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/pendennis_club/"
 iconfile: pendennis_club
+color: #fbb083
 stars: 3
 base_spirits: ['Apricot Liqueur', 'Plymouth Gin']
 youtube: "TpTvTn7HXo0"
@@ -13,6 +14,7 @@ description: "A classic gin sour from Louisville, Kentucky, with a unique flavor
 excerpt: |
   The Pendennis Club cocktail is a classic gin sour that originated at the Pendennis Club in Louisville, Kentucky. It's a tart and tangy drink with a unique flavor profile thanks to the addition of Apricot Liqueur and Peychaud's bitters.
 date: 2025-08-11
+image: /assets/images/cocktail_pendennis_club_dynamic.svg
 glass: coupe
 type: shaken
 ---
@@ -42,7 +44,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_pendennis_club_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz Plymouth Gin",

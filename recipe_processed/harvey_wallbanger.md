@@ -14,10 +14,8 @@ excerpt: |
   The Harvey Wallbanger is a modern classic that combines a Screwdriver with the Italian liqueur Galliano.
 date: 2025-08-11
 glass: highball
-garnishes:
-  - maraschino_cherry
-  - orange_peel
-ice: cubed
+garnishes: twist_cocktail-cherry
+ice: ice_cubes
 type: shaken
 ---
 

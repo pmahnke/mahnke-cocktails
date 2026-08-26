@@ -14,6 +14,7 @@ excerpt: |
   Champion drinker Ernest Hemingway invented the Death in the Afternoon cocktail. It’s a potent pairing of absinthe and Champagne.
 date: 2025-08-11
 glass: nick_and_nora
+garnishes: bubbles
 type: stirred
 ---
 

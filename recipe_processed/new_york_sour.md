@@ -6,7 +6,8 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/new_york_sour/"
 iconfile: new_york_sour
-image: /assets/images/cocktail_new_york_sour.svg
+color: #eecb7b
+image_orig: /assets/images/cocktail_new_york_sour.svg
 stars: 4.5
 base_spirits: ['Bourbon', 'Red Wine']
 youtube: "D-hCgKtMIAQ"
@@ -14,8 +15,8 @@ description: "A classic and visually appealing whiskey sour variation that featu
 excerpt: |
   The New York sour recipe adds red wine to the classic whiskey sour cocktail for a playful and fruity twist on a household favorite.
 date: 2025-08-11
-glass: coupe
-garnishes: lemon_peel
+image: /assets/images/cocktail_new_york_sour_dynamic.svg
+glass: cocktail
 type: shaken
 ---
 
@@ -33,7 +34,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Coupe
+- Glassware: Cocktail glass
 - Garnish: None
 - Special Prep: Add all the ingredients to a shaking tin, except the red wine. For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white. Float the red wine on top of the cocktail. Lemon oil (optional).
 
@@ -45,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_new_york_sour.png",
+  "image": "{{ site.url }}/assets/images/cocktail_new_york_sour_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Bourbon",
@@ -66,7 +67,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Coupe"
+      "text": "Glassware: Cocktail glass"
     },
     {
       "@type": "HowToStep",

@@ -13,8 +13,10 @@ description: "A classic and refreshing frappé built around the distinct anise a
 excerpt: |
   This classic cocktail is herbaceous and refreshing thanks to its base spirit, anisette, soda water, crushed ice, and a mint garnish.
 date: 2025-08-11
-garnishes: mint_sprig
-ice: crushed
+garnishes:
+  - bubbles
+  - herb_mint
+ice: ice_crushed
 type: shaken
 ---
 

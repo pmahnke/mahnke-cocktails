@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/red_hook/"
 iconfile: red_hook
+color: #5d0706
 stars: 0
 base_spirits: "Rye, Maraschino Liqueur, Punt e Mes"
 youtube: "0sjcxjmJMv0"

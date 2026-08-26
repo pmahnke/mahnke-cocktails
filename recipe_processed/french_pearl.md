@@ -7,6 +7,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/french_pearl/"
 iconfile: french_pearl
+color: #dddeae
 stars: 4
 base_spirits: ['Absinthe', 'London Dry Gin']
 youtube: "OA7FWMVx9AY"
@@ -14,8 +15,9 @@ description: "A modern classic from 2006, this is a refreshing gin sour with a d
 excerpt: |
   The French Pearl was created by Audrey Saunders in 2006 for the Pegu Club in New York City. This drink was created as a tribute to the Beaux-Arts Neoclassical architectural movement of the late 1800's in France. In this era it was very common and quite fashionable to sip Pastis (Anise Liqueur without the Wormwood) and the cocktail takes it's name from the visual opacity of the drink. This effect is referred to as "Louching"  which occurs naturally when any anise liqueur meets water. This brings me to a small note on my execution of this cocktail: I took some liberties in it's creation, firstly the original calls for .25oz (7.5ml) Pernod Pastis ( This is the original White label Pernod) I used the Pernod Absinthe Superior which is now available after the 2007 repeal of the dumb law banning Absinthe in the US. I used an atomizer to wash the glass with Absinthe as it is much more aromatic and you get a better more even note of Anise.
 date: 2025-08-11
+image: /assets/images/cocktail_french_pearl_dynamic.svg
 glass: coupe
-garnishes: mint_sprig
+garnishes: herb_mint
 type: shaken
 ---
 
@@ -45,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_french_pearl_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "     2 oz London Dry Gin",

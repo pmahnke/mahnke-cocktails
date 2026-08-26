@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/blood_and_sand/"
 iconfile: blood_and_sand
+color: #9d350b
 stars: 0
 base_spirits: "Blended Scotch, Sweet Vermouth, Cherry Liqueur"
 youtube: "r50WUk960qI"

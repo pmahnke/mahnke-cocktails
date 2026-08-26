@@ -16,9 +16,9 @@ excerpt: |
 date: 2025-08-11
 glass: rocks
 garnishes:
-  - blackberries
-  - lemon_wheel
-ice: crushed
+  - fruit_blackberries
+  - garnish-lemon_wheel
+ice: ice_crushed
 type: shaken
 ---
 

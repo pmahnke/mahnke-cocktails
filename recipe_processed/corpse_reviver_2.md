@@ -15,7 +15,7 @@ excerpt: |
   The Corpse Reviver No. 2 is a pre-Prohibition cocktail that was originally consumed in the morning, but tastes delicious any time of the day.
 date: 2025-12-23
 glass: nick_and_nora
-garnishes: maraschino_cherry
+garnishes: twist_cocktail-cherry
 type: shaken
 ---
 

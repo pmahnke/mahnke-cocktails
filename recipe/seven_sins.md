@@ -7,6 +7,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/seven_sins/"
 iconfile: seven_sins
+color: #a93c3b
 stars: 0
 base_spirits: "Apple Brandy, Rye"
 youtube: "https://www.youtube.com/shorts/5_FiYugHCAM"

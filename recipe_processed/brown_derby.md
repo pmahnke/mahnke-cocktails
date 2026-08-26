@@ -6,6 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/brown_derby/"
 iconfile: brown_derby
+color: #ffbf53
 stars: 0
 base_spirits: ['Bourbon']
 youtube: "79htbyQ8nDY&t=62s"
@@ -13,7 +14,9 @@ description: "A classic Hollywood-era sour named for the famous Los Angeles dine
 excerpt: |
   The Brown Derby cocktail, a classic bourbon, grapefruit, and honey drink, was named for the famous Los Angeles diner. It manages at once to be sweet, sour, and entirely delicious.
 date: 2025-08-11
+image: /assets/images/cocktail_brown_derby_dynamic.svg
 glass: coupe
+garnishes: garnish-grapefruit_peel
 type: shaken
 ---
 
@@ -69,7 +72,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_brown_derby_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Bourbon",

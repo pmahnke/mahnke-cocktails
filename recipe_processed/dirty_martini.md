@@ -17,7 +17,7 @@ date: 2025-08-11
 glass:
   - coupe
   - martini
-garnishes: olive
+garnishes: fruit_olives
 type:
   - shaken
   - stirred

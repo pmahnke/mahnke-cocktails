@@ -6,6 +6,7 @@ categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/between_the_sheets/"
 iconfile: between_the_sheets
+color: #fac741
 stars: 2
 base_spirits: ['Cognac', 'Curaçao', 'Demerara Rum', 'Jamaican Rum']
 youtube: "VnuAR_wPOZA"
@@ -13,8 +14,11 @@ description: "A provocatively named Prohibition-era cocktail that enhances the c
 excerpt: |
   This provocatively named Between the Sheets cocktail dates back to Prohibition and amps up the classic Sidecar formula with a dose of rum.
 date: 2025-08-11
+image: /assets/images/cocktail_between_the_sheets_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
+garnishes:
+  - garnish-lemon_peel_oil
+  - twist_lemon
 type: shaken
 ---
 
@@ -32,7 +36,7 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Expressed lemon oil and lemon peel
+- Garnish: Expressed lemon oil and lemon twist
 - Special Prep: None
 
 <script type="application/ld+json">
@@ -43,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_between_the_sheets_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Cognac",
@@ -67,7 +71,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Expressed lemon oil and lemon peel"
+      "text": "Garnish: Expressed lemon oil and lemon twist"
     },
     {
       "@type": "HowToStep",

@@ -15,7 +15,7 @@ excerpt: |
   Adapted from a recipe in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i> which stipulates "Shake well and strain into cocktail glass," rather than to stir as modern convention dictates.
 date: 2025-09-26
 glass: nick_and_nora
-garnishes: orange_peel
+garnishes: garnish-orange_peel
 type: stirred
 ---
 

@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/tip_top/"
 iconfile: tip_top
+color: #f1a448
 stars: 0
 base_spirits: ['Bénédictine', 'Dry Vermouth', 'Fino Sherry']
 youtube: "9V4Jj3bmi90"
@@ -13,8 +14,8 @@ description: "This is a low-ABV, vermouth-forward cocktail described as a well-h
 excerpt: |
   The exact origin of this specific vermouth and Bénédictine recipe is somewhat elusive, but the combination of these ingredients appears in other classic recipes, such as the Chrysanthemum cocktail, which was published in Hugo Ensslin's 1916 Recipes for Mixed Drinks. This places the cocktail in the early 20th-century golden age of cocktails. The combination of dry vermouth and Bénédictine creates a delicate, herbal profile that was popular before spirits became the overwhelmingly dominant base in mixed drinks.
 date: 2025-11-29
+image: /assets/images/cocktail_tip_top_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
 type: stirred
 ---
 
@@ -43,7 +44,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_tip_top_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    2 oz Dry Vermouth",

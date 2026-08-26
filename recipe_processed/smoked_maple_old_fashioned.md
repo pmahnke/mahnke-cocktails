@@ -14,7 +14,7 @@ excerpt: |
   The Smoked Maple Old Fashioned is a variation of the classic cocktail that adds a smoky, sweet, and savory twist.
 date: 2025-08-11
 glass: rocks
-garnishes: maraschino_cherry
+garnishes: twist_cocktail-cherry
 type: stirred
 ---
 

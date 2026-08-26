@@ -14,7 +14,7 @@ excerpt: |
   Created by Phil Ward at Death & Co in New York City in 2007. It is a riff on the Last Word cocktail, replacing the Gin with Rye and lemon juice with lime juice.
 date: 2026-03-22
 glass: nick_and_nora
-garnishes: maraschino_cherry
+garnishes: twist_cocktail-cherry
 type: shaken
 ---
 

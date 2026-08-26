@@ -14,8 +14,8 @@ excerpt: |
   Created by Anders Ericson, the Lonely Penguin is a unique and refreshing drink that combines the flavors of whiskey, lemon, blackberry, and coconut. It's a perfect choice for those who enjoy a bit of sweetness with their spirits.
 date: 2025-09-26
 glass: snifter
-garnishes: cocktail_umbrella
-ice: crushed
+garnishes: garnish-umbrella
+ice: ice_crushed
 type: shaken
 ---
 

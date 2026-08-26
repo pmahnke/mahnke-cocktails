@@ -12,10 +12,8 @@ description: "A tart and fruity non-alcoholic cocktail that combines cherry juic
 excerpt: |
   A twist on the classic Caipiroska, substituting the traditional muddled limes with sweet cherries. The result is a tangy and fruity cocktail with a subtle sweetness.
 date: 2025-08-11
-garnishes:
-  - maraschino_cherry
-  - mint_sprig
-ice: crushed
+garnishes: herb_mint
+ice: ice_crushed
 type: shaken
 ---
 

@@ -6,6 +6,7 @@ categories: [cocktail, smoked]
 eras: [classic]
 permalink: "/recipe/beesknees_smoked/"
 iconfile: beesknees_smoked
+color: #e8cda8
 stars: 3
 base_spirits: "London Dry Gin "
 youtube: "gZdT2GBf91I"

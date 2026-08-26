@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/costume_party/"
 iconfile: costume_party
+color: #feeed5
 stars: 0
 base_spirits: ['Apricot Liqueur', 'Vodka', 'White Crème de Cacao']
 youtube: "i67-17-CZCQ"
@@ -13,7 +14,9 @@ description: "An original cocktail with a complex profile of vodka, white crème
 excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
+image: /assets/images/cocktail_costume_party_dynamic.svg
 glass: coupe
+garnishes: garnish-salted_rim
 type: shaken
 ---
 
@@ -42,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_costume_party_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Vodka",

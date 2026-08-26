@@ -15,9 +15,10 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes:
-  - lemon_wheel
-  - maraschino_cherry
-ice: cubed
+  - bubbles
+  - garnish-lemon_wheel
+  - twist_cocktail-cherry
+ice: ice_cubes
 type: shaken
 ---
 

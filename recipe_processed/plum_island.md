@@ -14,9 +14,9 @@ excerpt: |
   Named for an island in Green Bay, this was created by Anders Ericson.
 date: 2025-08-11
 garnishes:
-  - cocktail_umbrella
-  - nutmeg
-ice: crushed
+  - garnish-umbrella
+  - spice_nutmeg
+ice: ice_crushed
 type: shaken
 ---
 

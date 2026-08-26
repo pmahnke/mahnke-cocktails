@@ -6,15 +6,15 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/criterion_cocktail/"
 iconfile: criterion_cocktail
+color: #8f4334
 stars: 0
 base_spirits: ['Bénédictine', 'Cognac']
-youtube: "LINK"
+youtube: 9V4Jj3bmi90&t=39s
 description: "The Criterion Cocktail is a late-19th-century brandy drink enriched with Bénédictine, bitters, and syrup, giving it a sweet, herbal, and gently spiced profile. Originally published in 1878, it reflects the early era of refined mixed drinks before modern, spirit-forward cocktails took hold."
 excerpt: |
   The Criterion Cocktail, first recorded in an 1878 bartending manual, is a brandy-based drink enriched with Bénédictine, bitters, and syrup, giving it a sweet, herbal profile typical of early mixed drinks. Once part of the Victorian-era rise of codified cocktails, it faded from popularity as tastes shifted toward drier, more spirit-forward drinks in the decades that followed.
 date: 2025-11-29
-glass: coupe
-garnishes: lemon_peel
+image: /assets/images/cocktail_criterion_cocktail_dynamic.svg
 type: stirred
 ---
 
@@ -30,7 +30,7 @@ type: stirred
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Coupe
+- Glassware: Cocktail
 - Garnish: None
 - Special Prep: Expressed lemon oil
 
@@ -43,7 +43,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_criterion_cocktail_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Cognac",
@@ -62,7 +62,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Coupe"
+      "text": "Glassware: Cocktail"
     },
     {
       "@type": "HowToStep",

@@ -14,7 +14,7 @@ excerpt: |
   The Man o’ War cocktail is named for one of the finest racehorses in history. This citrusy bourbon drink is a winner.
 date: 2025-08-11
 glass: nick_and_nora
-garnishes: lemon_peel
+garnishes: garnish-lemon_peel_oil
 type: shaken
 ---
 

@@ -7,6 +7,7 @@ categories: [cocktail, corpse_reviver]
 eras: [classic]
 permalink: "/recipe/corpse_reviver_godfrey/"
 iconfile: corpse_reviver_godfrey
+color: #c95121
 stars: 0
 base_spirits: "London Dry Gin, Vodka"
 youtube: "rMCsrbidAJ4"
@@ -29,6 +30,6 @@ date: 2025-08-11
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Coupe
+- Glassware: Cocktail glass
 - Garnish: None
 - Special Prep: None

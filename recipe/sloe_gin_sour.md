@@ -6,6 +6,7 @@ categories: [amaro, sour]
 eras: [anders]
 permalink: "/recipe/sloe_gin_sour/"
 iconfile: sloe_gin_sour
+color: #890f0b
 stars: 0
 base_spirits: "Sloe Gin, Campari"
 youtube: "W50W19vwjmk"

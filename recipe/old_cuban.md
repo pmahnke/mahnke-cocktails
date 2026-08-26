@@ -6,6 +6,7 @@ categories: [spritz]
 eras: [modern]
 permalink: "/recipe/old_cuban/"
 iconfile: old_cuban
+color: #c67430
 stars: 0
 base_spirits: "Champagne, Gold Rum "
 youtube: "IAaiRENeyvc&t=639s"

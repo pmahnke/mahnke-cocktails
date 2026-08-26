@@ -16,9 +16,7 @@ excerpt: |
   The bijou was popular for several decades. Unlike the Manhattan and the martini, however, the bijou disappeared after Prohibition. It was rediscovered by "the King of Cocktails" Dale DeGroff in the 1980s, when he stumbled upon the recipe in Johnson's book. While the original cocktail had equal parts of the three ingredients, DeGroff tripled the ratio of gin to vermouth and chartreuse to soften the taste profile. Eventually, his recipe became the standard.
 date: 2025-08-11
 glass: nick_and_nora
-garnishes:
-  - lemon_peel
-  - maraschino_cherry
+garnishes: twist_cocktail-cherry
 type: stirred
 ---
 

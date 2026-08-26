@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/neptunes_wrath/"
 iconfile: neptunes_wrath
+color: #b6b274
 stars: 0
 base_spirits: ['Absinthe', 'Green Chartreuse', 'Plymouth Gin']
 youtube: "eoMchfbaVPw"
@@ -14,6 +15,7 @@ description: "A visually dramatic modern sour that represents the fury of the se
 excerpt: |
   Adapted from a recipe created circa 2007 by Toby Maloney at The Violet Hour in Chicago. The foaming surface, green hue of the absinthe and flaming Chartreuse represents Neptune expressing his fury with a dangerously rough sea.
 date: 2025-08-11
+image: /assets/images/cocktail_neptunes_wrath_dynamic.svg
 glass: coupe
 tools: jigger
 type: shaken
@@ -50,7 +52,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_neptunes_wrath_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Plymouth Gin",

@@ -55,12 +55,13 @@ ul {
     margin: .25em 0;
   }
   
-  ul > li::before {
+ ul > li::before {
     content: "⇒ ";
     color: #E1AD01; 
     font-size: 2rem;
-  }
-.icon-stack {
+ }
+
+ .icon-stack {
     display: none;
 }
 
@@ -394,6 +395,11 @@ div.subrecipe {
         max-width: 100px;          /* Prevents them from getting too large */
         height: auto;              /* Maintains aspect ratio */
         display: block;            /* Removes tiny space beneath images */
+    }
+    /* Specifically target ONLY images with "cocktail_" in the file path */
+    .icon-stack img[src*="cocktail_"] {
+        max-height: 250px; 
+        max-width: 180px;  
     }
 }
 

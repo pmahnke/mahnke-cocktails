@@ -7,9 +7,10 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/cloister/"
 iconfile: cloister
+color: #d1aa6f
 stars: 0
 base_spirits: "London Dry Gin, Yellow Chartreuse"
-youtube: "LINK"
+youtube: tuRrRCfF_f0
 description: "A modern sour that combines gin with the herbal sweetness of yellow Chartreuse and the brightness of grapefruit and lemon."
 excerpt: |
   Adapted from a recipe in Thomas Mario's 1971 <i>Playboy's Bar Guide</i>:<br>
@@ -40,5 +41,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: None
-- Special Prep: None
+- Garnish: Grapefruit peel
+- Special Prep: Expressed grapefruit oil

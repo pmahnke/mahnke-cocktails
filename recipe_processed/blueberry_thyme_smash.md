@@ -14,7 +14,7 @@ excerpt: |
   This cocktail is a simple concoction of gin, lemon, blueberries, and thyme.
 date: 2025-08-11
 glass: rocks
-garnishes: thyme
+garnishes: herb_thyme
 type: shaken
 ---
 

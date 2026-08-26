@@ -9,7 +9,7 @@ iconfile: martinez
 color: #bc2b04
 stars: 0
 base_spirits: "Old Tom Gin, Sweet Vermouth, Maraschino Liqueur"
-youtube: 'MuxY7\_-_U_8'
+youtube: MuxY7_-_U_8
 description: "A classic cocktail from the late 1800s, considered a precursor to the modern Martini, featuring gin, sweet vermouth, and maraschino liqueur."
 excerpt: |
   Composed of gin, sweet vermouth, maraschino liqueur and bitters, the classic Martinez cocktail dates back to the late 1800s.
@@ -30,5 +30,5 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Lemon zest
+- Garnish: Lemon twist
 - Special Prep:

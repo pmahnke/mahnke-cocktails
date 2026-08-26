@@ -7,8 +7,8 @@ categories: [sour, daisy]
 eras: [classic]
 permalink: "/recipe/aviation/"
 iconfile: aviation
-image: /assets/images/cocktail_aviation.svg
-color: #7b6273
+color: #9580ab
+image_orig: /assets/images/cocktail_aviation.svg
 stars: 4
 base_spirits: "London Dry Gin, Crème de Violette, Maraschino Liqueur"
 youtube: "Kmw5D32W8sM&t=345sY"

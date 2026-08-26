@@ -54,7 +54,7 @@ date: 2026-01-09
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Cocktail cherry
+- Garnish: Cocktail cherries on a toothpick
 - Special Prep: None
 
 </div>

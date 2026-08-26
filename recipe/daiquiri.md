@@ -6,7 +6,8 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/daiquiri/"
 iconfile: daiquiri
-image: /assets/images/cocktail_daiquiri.svg
+color: #e7dedd
+image_orig: /assets/images/cocktail_daiquiri.svg
 stars: 5
 base_spirits: "White Rum"
 youtube: "VBSjE-P_C58"

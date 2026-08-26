@@ -16,8 +16,8 @@ date: 2025-08-11
 glass:
   - rocks
   - whiskey
-garnishes: cucumber
-ice: cubed
+garnishes: garnish_cucumber
+ice: ice_cubes
 type: shaken
 ---
 

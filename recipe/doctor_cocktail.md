@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/doctor_cocktail/"
 iconfile: doctor_cocktail
+color: #eb8629
 stars: 4
 base_spirits: "Jamaican Rum, Swedish Punsch"
 youtube: "re76GCUoiH4&t"

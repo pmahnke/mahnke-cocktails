@@ -8,7 +8,6 @@ stars: 0
 youtube: ""
 excerpt: |
 date: 2025-07-07
-garnishes: cinnamon
 ---
 
 ### Ingredients

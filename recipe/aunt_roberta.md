@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/aunt_roberta/"
 iconfile: aunt_roberta
+color: #e65404
 stars: 4
 base_spirits: "Vodka, Absinthe, London Dry Gin, Cognac, Crème de Mûre"
 youtube: "idnVFvygleU"

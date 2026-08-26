@@ -15,8 +15,8 @@ excerpt: |
 date: 2025-08-11
 glass: rocks
 garnishes:
-  - blackberries
-  - mint_sprig
+  - bubbles
+  - herb_mint
 type: shaken
 ---
 

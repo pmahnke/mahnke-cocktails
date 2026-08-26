@@ -15,7 +15,8 @@ excerpt: |
   A punch, sangria traditionally consists of red wine and chopped fruit, often with other ingredients or spirits.
 date: 2025-10-31
 glass: highball
-ice: cubed
+garnishes: bubbles
+ice: ice_cubes
 ---
 
 ### Ingredients

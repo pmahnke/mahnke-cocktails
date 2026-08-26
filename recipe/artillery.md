@@ -6,6 +6,7 @@ categories: [martini]
 eras: [classic]
 permalink: "/recipe/artillery/"
 iconfile: artillery
+color: #af2c08
 stars: 0
 base_spirits: "Plymouth Gin, Sweet Vermouth"
 youtube: "jzg4GuY4Fcg"

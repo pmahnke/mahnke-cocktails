@@ -6,6 +6,7 @@ categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/jabberwocky/"
 iconfile: jabberwocky
+color: #dede85
 stars:
 base_spirits: "Manzanilla Sherry, London Dry Gin, Lillet Blanc"
 youtube: "tGudsyMDO_g"

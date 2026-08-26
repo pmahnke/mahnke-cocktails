@@ -6,7 +6,8 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/new_york_sour/"
 iconfile: new_york_sour
-image: /assets/images/cocktail_new_york_sour.svg
+color: #eecb7b
+image_orig: /assets/images/cocktail_new_york_sour.svg
 stars: 5
 base_spirits: "Bourbon, Red Wine "
 youtube: "D-hCgKtMIAQ"
@@ -30,6 +31,6 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Coupe
+- Glassware: Cocktail glass
 - Garnish: None
 - Special Prep: Add all the ingredients to a shaking tin, except the red wine. For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white. Float the red wine on top of the cocktail. Lemon oil (optional).

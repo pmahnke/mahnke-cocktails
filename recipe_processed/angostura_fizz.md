@@ -15,7 +15,9 @@ excerpt: |
   The Angostura Fizz turns the traditional cocktail blueprint on its head by elevating aromatic bitters from a subtle accent to the star base spirit. When shaken vigorously with fresh lemon or lime juice, sugar, and egg white, then topped with sparkling club soda, it transforms intense herbal baking spices into an unexpectedly bright, refreshing, and beautifully frothy long drink.
 date: 2026-05-24
 glass: highball
-garnishes: pineapple_wedge
+garnishes:
+  - bubbles
+  - slice_pineapple
 type: shaken
 ---
 

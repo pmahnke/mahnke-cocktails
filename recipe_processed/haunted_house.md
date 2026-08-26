@@ -15,8 +15,8 @@ excerpt: |
 date: 2025-08-11
 glass: rocks
 garnishes:
-  - maraschino_cherry
-  - orange_peel
+  - garnish-orange_peel
+  - twist_cocktail-cherry
 type: stirred
 ---
 

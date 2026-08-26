@@ -14,8 +14,8 @@ excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
 glass: rocks
-garnishes: lime_wheel
-ice: crushed
+garnishes: garnish-dry_lime_wheel
+ice: ice_crushed
 type: shaken
 ---
 

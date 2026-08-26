@@ -14,9 +14,7 @@ excerpt: |
   This cocktail is Anders&#39; ode to the City of Chicago as he leaves after 23 years. It is a rye whiskey based riff on a Manhattan with a split of sweet vermouth and Cynar and apricot liqueur to round it out. The Mal&#xF6;rt rinse adds a touch of bitterness.
 date: 2026-04-05
 glass: nick_and_nora
-garnishes:
-  - lemon_peel
-  - maraschino_cherry
+garnishes: twist_cocktail-cherry
 type: stirred
 ---
 

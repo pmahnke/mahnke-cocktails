@@ -15,8 +15,8 @@ excerpt: |
 date: 2025-08-11
 glass: martini
 garnishes:
-  - lemon_peel
-  - maraschino_cherry
+  - garnish-lemon_peel_oil
+  - twist_cocktail-cherry
 type: stirred
 ---
 

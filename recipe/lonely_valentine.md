@@ -6,6 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/lonely_valentine/"
 iconfile: lonely_valentine
+color: #d1002c 
 stars: 0
 base_spirits: "White Rum, Ruby Port, White Crème de Cacao "
 youtube: "UhRb_xqCXwQ"

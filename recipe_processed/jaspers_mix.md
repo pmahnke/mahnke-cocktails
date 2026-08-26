@@ -12,7 +12,6 @@ excerpt: |
 
   The exact origins of Jasper's Mix are unknown, but it is believed to have been created by a bartender named Jasper Le Franc in the 1950s. Le Franc worked at the Bay Roc Hotel in Jamaica, and he is said to have created the mix to serve to guests at the hotel's bar.
 date: 2025-10-20
-garnishes: nutmeg
 ---
 
 ### Ingredients

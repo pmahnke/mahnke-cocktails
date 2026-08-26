@@ -6,6 +6,7 @@ categories: [daisy, sour]
 eras: [prohibition]
 permalink: "/recipe/oriental/"
 iconfile: oriental
+color: #e3a641
 stars: 0
 base_spirits: "Rye, Sweet Vermouth, Triple Sec"
 youtube: "0D1SXgMgp_g"

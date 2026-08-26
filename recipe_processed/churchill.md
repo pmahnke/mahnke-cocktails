@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/churchill/"
 iconfile: churchill
+color: #e5b336
 stars: 3
 base_spirits: ['Blended Scotch', 'Sweet Vermouth', 'Triple Sec']
 youtube: "https://www.foodandwine.com/churchill-cocktail-recipe-11686043"
@@ -14,6 +15,7 @@ description: "A mid-century classic named for the British prime minister, this i
 excerpt: |
   A mid-century classic, the Churchill is a whisky cocktail that incorporates Blended Scotch, sweet vermouth, orange liqueur, and lime juice. Essentially, it’s a modified version of the Whiskey Sour template, though one that incorporates elements of a classic Manhattan.<br><br>The drink was created by Joe Gilmore during his time as head bartender at the legendary American Bar located in London’s Savoy Hotel. Having joined the Savoy as a commis waiter while he was still under 18 years old, Gilmore made the acquaintance of many of the hotel’s famous patrons, including Frank Sinatra, Neil Armstrong, Charles De Gaulle, and two-time British prime minister Winston Churchill. The latter became the inspiration behind this drink, which uses a base of Scotch whisky, Churchill’s preferred spirit.<br><br>When presented with the drink, it’s said Churchill returned the favor by gifting Gilmore one of his Cuban cigars.
 date: 2025-12-09
+image: /assets/images/cocktail_churchill_dynamic.svg
 glass: coupe
 type: shaken
 ---
@@ -43,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_churchill_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Blended Scotch",

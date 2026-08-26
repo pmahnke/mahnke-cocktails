@@ -13,9 +13,7 @@ description: "A modern hot toddy that combines the smoky notes of mezcal with th
 excerpt: |
   The classic hot toddy is a comforting and warming beverage that has been used for centuries to soothe ailments and warm the soul.
 date: 2025-08-11
-garnishes:
-  - cinnamon
-  - orange_peel
+garnishes: garnish-orange_peel
 ---
 
 ### Ingredients

@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/sweet_virginia/"
 iconfile: sweet_virginia
+color: #893314
 stars: 3
 base_spirits: ['Bourbon', 'Cherry Liqueur', 'Curaçao', 'Sweet Vermouth']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/31242/sweet-virginia"
@@ -13,8 +14,11 @@ description: "A fruity modern Sweet Manhattan variation, eponymously named after
 excerpt: |
   A fruity Sweet Manhattan that's perfect when you fancy some late-night spirited fruitiness. Eponymously named after the Rolling Stone's song, this is a riff on the classic Eastern Sin.
 date: 2025-08-11
+image: /assets/images/cocktail_sweet_virginia_dynamic.svg
 glass: coupe
-garnishes: maraschino_cherry
+garnishes:
+  - slice_pineapple
+  - twist_cocktail-cherry
 type: shaken
 ---
 
@@ -35,7 +39,7 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Pinapple wedge and a cocktail cherry
+- Garnish: Pineapple wedge and a cocktail cherry
 - Special Prep: None
 
 <script type="application/ld+json">
@@ -46,7 +50,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_sweet_virginia_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Bourbon",
@@ -73,7 +77,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Pinapple wedge and a cocktail cherry"
+      "text": "Garnish: Pineapple wedge and a cocktail cherry"
     },
     {
       "@type": "HowToStep",

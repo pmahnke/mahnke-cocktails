@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/murderers_cocktail/"
 iconfile: murderers_cocktail
+color: #b3320d
 stars: 4
 base_spirits: ['Calvados', 'Jamaican Rum', 'Swedish Punsch']
 youtube: "i67-17-CZCQ"
@@ -13,8 +14,9 @@ description: "An original cocktail with a complex profile, combining Calvados, J
 excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
+image: /assets/images/cocktail_murderers_cocktail_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
+garnishes: garnish-lemon_peel_oil
 type: stirred
 ---
 
@@ -44,7 +46,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_murderers_cocktail_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Calvados",

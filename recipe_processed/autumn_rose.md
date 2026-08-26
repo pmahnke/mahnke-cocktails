@@ -15,7 +15,7 @@ excerpt: |
   This cocktails is an Anders original.
 date: 2026-03-01
 glass: nick_and_nora
-garnishes: lemon_peel
+garnishes: garnish-lemon_peel_oil
 type: shaken
 ---
 

@@ -15,6 +15,7 @@ excerpt: |
   The Lion’s Tail is a classic cocktail stemming from Prohibition. it combines bourbon with allspice dram and bitters.
 date: 2025-08-11
 glass: nick_and_nora
+garnishes: garnish-lime_twist
 type: shaken
 ---
 

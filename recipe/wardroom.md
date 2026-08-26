@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/wardroom/"
 iconfile: wardroom
+color: #751316
 stars: 0
 base_spirits: "Cognac, Nicaraguan Rum, Tawny Port, Maraschino Liqueur"
 youtube: "y41UN6AZSMs"

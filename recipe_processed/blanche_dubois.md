@@ -15,10 +15,8 @@ excerpt: |
   The Blanche DuBois is a gin-based riff on a Mai Tai, created by Bar Tonique in New Orleans. It swaps the traditional rum for a London Dry gin and blends it with strawberry and mint, resulting in a complex, refreshing, and beautifully balanced flavor profile.
 date: 2026-06-05
 glass: rocks
-garnishes:
-  - mint_sprig
-  - strawberry
-ice: cubed
+garnishes: herb_mint
+ice: ice_cubes
 type: shaken
 ---
 

@@ -6,6 +6,7 @@ eras: [classic]
 categories: [sour]
 permalink: "/recipe/east_india_cocktail/"
 iconfile: east_india_cocktail
+color: #c89560
 stars: 4
 base_spirits: "Cognac, Maraschino Liqueur"
 youtube: "wiDoRYL4V9g"

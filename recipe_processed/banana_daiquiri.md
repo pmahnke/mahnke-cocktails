@@ -15,7 +15,7 @@ excerpt: |
   Legendary Tiki bartender Harry K. Yee is credited with being the first to add banana to a Daiquiri at Henry Kaiser's Hawaiian Village Hotel in Waikiki, Oahu, Hawaii.
 date: 2025-08-15
 glass: hurricane
-ice: crushed
+ice: ice_crushed
 type: blended
 ---
 

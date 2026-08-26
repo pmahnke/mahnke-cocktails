@@ -6,6 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/pendennis_club/"
 iconfile: pendennis_club
+color: #fbb083
 stars: 3
 base_spirits: "Plymouth Gin, Apricot Liqueur "
 youtube: "TpTvTn7HXo0"

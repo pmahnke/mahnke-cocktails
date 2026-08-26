@@ -6,6 +6,7 @@ eras: [anders]
 categories: [amaro, champagne]
 permalink: "/recipe/quarter_century/"
 iconfile: quarter_century
+color: #f2502c
 stars: 0
 base_spirits: "Campari, Apricot Liqueur, Absinthe, Champagne"
 youtube: "S7DGgeFsjyE"

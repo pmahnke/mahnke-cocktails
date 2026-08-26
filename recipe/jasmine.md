@@ -7,6 +7,7 @@ eras: [modern]
 categories: [amaro, sour, daisy]
 permalink: "/recipe/jasmine/"
 iconfile: jasmine
+color: #e68b78
 stars: 3
 base_spirits: "London Dry Gin, Triple Sec, Campari"
 youtube: "b7rg7eshiQU"

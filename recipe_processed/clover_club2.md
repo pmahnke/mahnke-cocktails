@@ -6,7 +6,8 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/clover_club2/"
 iconfile: clover_club2
-image: /assets/images/cocktail_clover_club2.svg
+color: #f0c8c0
+image_orig: /assets/images/cocktail_clover_club2.svg
 stars: 4.75
 base_spirits: ['Blanc Vermouth', 'Plymouth Gin']
 youtube: "MkLZovhDN_k"
@@ -14,8 +15,9 @@ description: "A pre-Prohibition classic from Philadelphia known for its silky, f
 excerpt: |
   This pre-Prohibition classic is one of Philadelphia’s contributions to the cocktail world. It is a classic cocktail known for its sweet and tart flavor profile and its silky, frothy texture. It's a member of the sour family, but leans more towards sweetness than tartness. The pale pink liquid, delicate white foam head, and raspberry garnish make it visually appealing.
 date: 2026-03-01
+image: /assets/images/cocktail_clover_club2_dynamic.svg
 glass: coupe
-garnishes: raspberries
+garnishes: fruit_raspberries
 type: shaken
 ---
 
@@ -46,7 +48,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_clover_club2.png",
+  "image": "{{ site.url }}/assets/images/cocktail_clover_club2_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Plymouth Gin",

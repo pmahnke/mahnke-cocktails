@@ -13,8 +13,8 @@ excerpt: |
   The Devil's Day Off is a refreshing and easy-to-make non-alcoholic cocktail created by Anders Erickson. It features a combination of grapefruit juice, lime juice, agave nectar, cinnamon, and Sanbitter soda. The drink is garnished with a sprig of rosemary.
 date: 2025-08-11
 glass: highball
-garnishes: cinnamon
-ice: cubed
+garnishes: herb_rosemary
+ice: ice_cubes
 type: shaken
 ---
 

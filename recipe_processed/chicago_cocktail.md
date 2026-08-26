@@ -6,6 +6,7 @@ categories: [champagne]
 eras: [prohibition]
 permalink: "/recipe/chicago_cocktail/"
 iconfile: chicago_cocktail
+color: #a22e16
 stars: 3
 base_spirits: ['Champagne', 'Cognac', 'Curaçao']
 youtube: "IAaiRENeyvc&t=639s"
@@ -13,8 +14,9 @@ description: "A classic Prohibition-era cocktail that starts like an Old Fashion
 excerpt: |
   The Chicago Cocktail is a classic cocktail that has been around for over 100 years. It is somewhat similar to an Old Fashioned in that it starts with brandy and bitters. Instead of sugar, it calls for a dash of curaçao and instead of a splash of soda it is topped up with champagne.
 date: 2025-08-11
-glass: coupe
-garnishes: lemon_peel
+image: /assets/images/cocktail_chicago_cocktail_dynamic.svg
+glass: cocktail
+garnishes: bubbles
 type: shaken
 ---
 
@@ -31,7 +33,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Single Strain
-- Glassware: Coupe
+- Glassware: Cocktail glass
 - Garnish: None
 - Special Prep: Pour cocktail into glass and top it off with champagne and to with
   expressed orange OR lemon oil.
@@ -44,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_chicago_cocktail_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   1 oz Cognac",
@@ -64,7 +66,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Coupe"
+      "text": "Glassware: Cocktail glass"
     },
     {
       "@type": "HowToStep",

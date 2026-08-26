@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/cosmopolitan/"
 iconfile: cosmopolitan
+color: #ea6584
 stars: 3
 base_spirits: "Vodka, Triple Sec"
 youtube: "SP8Pc-Db7yQ"

@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/murderers_cocktail/"
 iconfile: murderers_cocktail
+color: #b3320d
 stars: 4
 base_spirits: "Calvados, Jamaican Rum, Swedish Punsch"
 youtube: "i67-17-CZCQ"

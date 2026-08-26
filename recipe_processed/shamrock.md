@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/shamrock/"
 iconfile: shamrock
+color: #c8b361
 stars: 0
 base_spirits: ['Blanc Vermouth', 'Crème de Menthe', 'Green Chartreuse', 'Irish Whiskey']
 youtube: "3a1nwtD8yyE"
@@ -14,10 +15,11 @@ excerpt: |
   Adapted from a recipe in Hugo R. Ensslin's 1917 <i>Recipes for Mixed Drinks (2nd Edition)</i>.<br>
   <blockquote><strong>SHAMROCK COCKTAIL</strong><br>½ Irish Whiskey<br>½ French Vermouth<br>3 dashes Chartreuse (green)<br>3 dashes Crème de Menthe<br>Stir well with cracked ice, strain and serve with an olive in the glass.<cite>Hugo R. Ensslin, 1917</cite></blockquote>The Shamrock also notably appears in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i>.<br><blockquote><strong>SHAMROCK COCKTAIL.</strong><br>3 Dashes Green Crème de Menthe.<br>3 Dashes Green Chartreuse.<br>½ French Vermouth.<br>½ Irish Whisky.<br>Shake well and strain into cocktail glass.<cite>Harry Craddock, 1930</cite></blockquote>	
 date: 2025-08-11
+image: /assets/images/cocktail_shamrock_dynamic.svg
 glass:
   - nick_and_nora
   - whiskey
-garnishes: mint_sprig
+garnishes: herb_mint
 type: stirred
 ---
 
@@ -46,7 +48,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_shamrock_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz. Irish Whiskey",

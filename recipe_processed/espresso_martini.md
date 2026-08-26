@@ -19,8 +19,8 @@ glass:
   - coffee
   - martini
 garnishes:
-  - coffee_beans
-  - lemon_peel
+  - garnish-lemon_peel_oil
+  - spice_coffee
 type: shaken
 ---
 

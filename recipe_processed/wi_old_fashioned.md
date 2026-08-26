@@ -17,9 +17,10 @@ glass:
   - rocks
   - sour
 garnishes:
-  - maraschino_cherry
-  - orange_slice
-ice: crushed
+  - bubbles
+  - garnish-orange_slice
+  - twist_cocktail-cherry
+ice: ice_crushed
 ---
 
 ### Ingredients

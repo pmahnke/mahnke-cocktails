@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/tip_top/"
 iconfile: tip_top
+color: #f1a448
 stars: 0
 base_spirits: "Dry Vermouth, Bénédictine, Fino Sherry"
 youtube: "9V4Jj3bmi90"

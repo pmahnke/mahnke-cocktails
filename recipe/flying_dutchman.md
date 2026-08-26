@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/flyingdutchman/"
 iconfile: flying_dutchman
+color: #d8c258
 stars: 0
 base_spirits: "Genever, Yellow Chartreuse, Bénédictine"
 youtube: "yh_WeCrFuRA"
@@ -29,5 +30,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Lemon swath
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil

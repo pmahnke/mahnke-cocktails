@@ -14,7 +14,7 @@ excerpt: |
   The Tartan cocktail is a classic scotch-based drink that gets its name from its warm, rich colors and complex flavors, reminiscent of the iconic Scottish fabric.
 date: 2025-12-09
 glass: martini
-garnishes: orange_peel
+garnishes: garnish-orange_peel
 type: stirred
 ---
 

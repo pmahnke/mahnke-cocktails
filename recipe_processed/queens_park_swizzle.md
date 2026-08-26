@@ -14,8 +14,8 @@ excerpt: |
   The Queen's Park Swizzle is a classic rum cocktail that originated in Trinidad.
 date: 2025-08-11
 glass: highball
-garnishes: mint_sprig
-ice: crushed
+garnishes: herb_mint
+ice: ice_crushed
 ---
 
 ### Ingredients

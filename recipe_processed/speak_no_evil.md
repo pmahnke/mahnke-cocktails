@@ -15,9 +15,9 @@ excerpt: |
 date: 2025-08-11
 glass: highball
 garnishes:
-  - cinnamon
-  - maraschino_cherry
-ice: crushed
+  - spice_cinnamon
+  - twist_cocktail-cherry
+ice: ice_crushed
 type: shaken
 ---
 

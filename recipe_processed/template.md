@@ -49,9 +49,10 @@ glass:
   - martini
   - nick_and_nora
   - rocks
+garnishes: bubbles
 ice:
-  - crushed
-  - cubed
+  - ice_crushed
+  - ice_cubes
 type:
   - shaken
   - stirred

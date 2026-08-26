@@ -7,6 +7,7 @@ eras: [modern]
 categories: [amaro, sour, daisy]
 permalink: "/recipe/jasmine/"
 iconfile: jasmine
+color: #e68b78
 stars: 3
 base_spirits: ['Campari', 'London Dry Gin', 'Triple Sec']
 youtube: "b7rg7eshiQU"
@@ -14,10 +15,9 @@ description: "A modern classic from the 1990s, this is a vibrant and bittersweet
 excerpt: |
   This drink was created by legendary barman Paul Harrington at the Townhouse in Emeryville, CA in 1990. It’s named after his friend Matt Jasmin who was sitting at the bar with Harrington one day and asked him to “Make me something you’ve never made before.” The inspiration for this drink was the Pegu Club, a cocktail Harrington was a bit obsessed with. The drink gained more notoriety when Harrington included it in his book “Cocktails” which is now out of print and goes for about 75 bucks on eBay if you’re thinking about getting a copy.<br><br>When Harrington handed Jasmin the cocktail Jasmin took a sip and said: "Congratulations, you just invented Grapefruit Juice." Many years later Harrington would realize that he had been spelling the last name of his friend all wrong.
 date: 2025-12-23
+image: /assets/images/cocktail_jasmine_dynamic.svg
 glass: coupe
-garnishes:
-  - lemon_peel
-  - lemon_twist
+garnishes: twist_lemon
 type: shaken
 ---
 
@@ -46,7 +46,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_jasmine_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz London Dry Gin",

@@ -6,7 +6,8 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/daiquiri/"
 iconfile: daiquiri
-image: /assets/images/cocktail_daiquiri.svg
+color: #e7dedd
+image_orig: /assets/images/cocktail_daiquiri.svg
 stars: 5
 base_spirits: ['White Rum']
 youtube: "VBSjE-P_C58"
@@ -14,8 +15,9 @@ description: "The quintessential classic sour from Cuba, celebrated for its perf
 excerpt: |
   Its origins trace back to the late 19th century in Cuba, where it gained popularity among American miners working in the Santiago de Cuba region. The Daiquiri's enduring appeal lies in its balance of sweet, sour, and tart flavors.
 date: 2025-08-11
+image: /assets/images/cocktail_daiquiri_dynamic.svg
 glass: coupe
-garnishes: lime_wheel
+garnishes: garnish-lime_wheel
 type: shaken
 ---
 
@@ -43,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_daiquiri.png",
+  "image": "{{ site.url }}/assets/images/cocktail_daiquiri_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz White Rum",

@@ -6,6 +6,7 @@ categories: [spritz]
 eras: [modern]
 permalink: "/recipe/old_cuban/"
 iconfile: old_cuban
+color: #c67430
 stars: 0
 base_spirits: ['Champagne', 'Gold Rum']
 youtube: "IAaiRENeyvc&t=639s"
@@ -13,8 +14,11 @@ description: "A modern classic from legendary bartender Audrey Saunders, this dr
 excerpt: |
   It’s not quite a Mojito, not quite a French 75. This is the Old Cuban, a modern-classic cocktail from New York bartending legend Audrey Saunders.
 date: 2025-08-11
+image: /assets/images/cocktail_old_cuban_dynamic.svg
 glass: coupe
-garnishes: mint_sprig
+garnishes:
+  - bubbles
+  - herb_mint
 type: shaken
 ---
 
@@ -45,7 +49,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_old_cuban_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    1.5 oz Gold Rum",

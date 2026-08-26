@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/flyingdutchman/"
 iconfile: flying_dutchman
+color: #d8c258
 stars: 3.75
 base_spirits: ['Bénédictine', 'Genever', 'Yellow Chartreuse']
 youtube: "yh_WeCrFuRA"
@@ -13,8 +14,9 @@ description: "A modern cocktail with complex herbal flavors, featuring Dutch gen
 excerpt: |
   The Flying Dutchman from bartender Brian MacGregor features Bols genever, Benedictine and yellow Chartreuse. It’s easy to make but complex in flavor.
 date: 2025-08-11
+image: /assets/images/cocktail_flying_dutchman_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
+garnishes: twist_lemon
 type: shaken
 ---
 
@@ -32,7 +34,7 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Lemon swath
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil
 
 <script type="application/ld+json">
@@ -43,7 +45,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_flying_dutchman_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Genever",
@@ -67,7 +69,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Lemon swath"
+      "text": "Garnish: Lemon twist"
     },
     {
       "@type": "HowToStep",

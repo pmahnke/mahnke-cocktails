@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/neptunes_wrath/"
 iconfile: neptunes_wrath
+color: #b6b274
 stars: 0
 base_spirits: "Plymouth Gin, Absinthe, Green Chartreuse"
 youtube: "eoMchfbaVPw"

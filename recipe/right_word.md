@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/right_word/"
 iconfile: right_word
+color: #fef9d4
 stars: 0
 base_spirits: "London Dry Gin, Elderflower Liqueur, Lillet Blanc"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/9680/right-word"
@@ -30,5 +31,5 @@ date: 2025-09-10
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: None
+- Garnish: Lime wheel
 - Special Prep: None

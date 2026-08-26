@@ -6,6 +6,7 @@ categories: [cocktail, martini]
 eras: [modern]
 permalink: "/recipe/arnaud_martini/"
 iconfile: arnaud_martini
+color: #540004
 stars: 0
 base_spirits: ['Blanc Vermouth', 'Crème de Cassis', 'London Dry Gin']
 youtube: "FI4wUOzJvUE"
@@ -13,8 +14,9 @@ description: "A classic cocktail that features gin, dry vermouth, and crème de 
 excerpt: |
   The Arnaud cocktail is a classic, equal-parts drink, initially called the Parisian, and is distinct from the Arnaud's Special (a different cocktail made with Scotch and Dubonnet). Its name, The Arnaud or Arnaud Martini, is associated with the pre-war French actress, singer, and pianist Yvonne Arnaud. The cocktail is made by stirring equal parts gin (often London Dry or a bolder, over-proof gin), dry vermouth, and crème de cassis with ice, and then straining the mixture into a chilled coupe or cocktail glass, sometimes garnished with a blackberry. It offers a slightly sweet palate due to the blackcurrant liqueur, followed by a dry finish from the gin and vermouth, making it a flavorful and often recommended choice as a dessert or after-dinner martini.
 date: 2025-11-15
+image: /assets/images/cocktail_arnaud_martini_dynamic.svg
 glass: coupe
-garnishes: lemon_peel
+garnishes: twist_lemon
 type: stirred
 ---
 
@@ -31,7 +33,7 @@ type: stirred
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Coupe
-- Garnish: Lemon peel
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil
 
 <script type="application/ld+json">
@@ -42,7 +44,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_arnaud_martini_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz London Dry Gin",
@@ -65,7 +67,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Lemon peel"
+      "text": "Garnish: Lemon twist"
     },
     {
       "@type": "HowToStep",

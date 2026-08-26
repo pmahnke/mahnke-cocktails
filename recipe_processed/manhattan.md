@@ -16,7 +16,9 @@ excerpt: |
   The Manhattan, a classic cocktail, believed to have started around the 1860s or 1870s, with a rich history, is a sophisticated and timeless drink that has captivated cocktail enthusiasts for generations.
 date: 2025-08-11
 glass: martini
-garnishes: maraschino_cherry
+garnishes:
+  - garnish-salted_rim
+  - twist_cocktail-cherry
 type: stirred
 ---
 

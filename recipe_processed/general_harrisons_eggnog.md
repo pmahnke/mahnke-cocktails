@@ -15,7 +15,7 @@ excerpt: |
   <br><br>This cocktail is named after General William Henry Harrison, the American president to hold office for the shortest period. He was elected 4th March 1841 and died a month to the day later of pneumonia. Harrison was known for his drinking and cider was one of his preferred tipples. It is said that this eggnog was his favourite drink.
 date: 2025-08-11
 glass: rocks
-garnishes: nutmeg
+garnishes: spice_nutmeg
 type: shaken
 ---
 

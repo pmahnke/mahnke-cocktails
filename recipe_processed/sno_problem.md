@@ -13,7 +13,7 @@ description: "An original hot toddy featuring a unique blend of Jamaican rum, bo
 excerpt: |
   A blend of Jamaican rum, bourbon whiskey, rich demerara syrup, Angostura Aromatic Bitters, black tea, and oat milk.
 date: 2025-08-11
-garnishes: cinnamon
+garnishes: spice_cinnamon
 type:
   - shaken
   - stirred

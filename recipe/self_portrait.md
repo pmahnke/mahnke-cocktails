@@ -6,6 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/self_portrait/"
 iconfile: self_portrait
+color: #fd8513
 stars: 0
 base_spirits: "Cognac, Swedish Punsch"
 youtube: "VXjcObds5DY"
@@ -29,6 +30,6 @@ date: 2025-10-13
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Coupe
+- Glassware: Cocktail glass
 - Garnish: Cocktail cherry
 - Special Prep: None

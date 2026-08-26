@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/greta_garbo_2/"
 iconfile: greta_garbo_2
+color: #fdc765
 stars: 0
 base_spirits: "London Dry Gin, Swedish Punsch"
 youtube: "79htbyQ8nDY"
@@ -31,5 +32,5 @@ date: 2025-10-20
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Coupe
-- Garnish: Expressed lemon oil
+- Garnish: Expressed lemon oil and grapefruit peel
 - Special Prep: None

@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/just_for_mary/"
 iconfile: just_for_mary
+color: #6b2213
 stars: 0
 base_spirits: "Rye, Lillet Blanc, Cherry Liqueur"
 youtube: "MSQewg1LuOk"
