@@ -35,13 +35,14 @@ categories:
 eras: [anders, classic, modern, new_orleans, prohibition]
 permalink: "/recipe/NAME/"
 iconfile: NAME
+color: 
 stars: 0
 base_spirits: "SPIRIT, SPIRIT"
 youtube: "LINK"
 description: "from_gemini"
 excerpt: |
   Lorem ipsum dolor sit amet.
-date: 2025-08-20
+date: 2026-08-20
 ---
 
 ### Ingredients

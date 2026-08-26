@@ -6,6 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/applejack_rabbit/"
 iconfile: applejack_rabbit
+color: #f4a85d
 stars: 0
 base_spirits: "Apple Brandy"
 youtube: "9OxlSOioD_k"

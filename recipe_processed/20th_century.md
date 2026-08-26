@@ -4,9 +4,10 @@ author: Anders Erickson
 creator: C.A. Tuck
 title: "20th Century"
 categories: [sour, daisy]
-eras: [classic]
+eras: [modern]
 permalink: "/recipe/20th_century/"
 iconfile: 20th_century
+color: #ECD2B3
 stars: 4
 base_spirits: ['Cocchi Americano', 'Crème de Cacao', 'London Dry Gin']
 youtube: "6AyWk5teLv8"
@@ -14,6 +15,7 @@ description: "A classic gin sour from 1937 featuring crème de cacao, named in h
 excerpt: |
   The 20th century is a cocktail created in 1937 by a British bartender named C.A. Tuck, and named in honor of the celebrated 20th Century Limited train which ran between New York City and Chicago from 1902 until 1967. The recipe was first published in 1937 in the <em>Café Royal Cocktail Book</em> by William J Tarling, President of the United Kingdom Bartenders' Guild and head bartender at the Café Royal.
 date: 2025-12-23
+image: /assets/images/cocktail_20th_century_dynamic.svg
 glass: nick_and_nora
 garnishes: twist_cocktail-cherry
 type: shaken
@@ -23,7 +25,7 @@ type: shaken
 
 |  Amount | Ingredient           | Brand            |
 | ------: | -------------------- | ---------------- |
-| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| London Dry Gin [&#9432;](/spirit/london_dry_gin/ "More London Dry Gin recipes")                  | Martin Miller's  |
+| <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| London Dry Gin [&#9432;](/spirit/london_dry_gin/ "More London Dry Gin recipes")       | Martin Miller's  |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Cocchi Americano [&#9432;](/spirit/cocchi_americano/ "More Cocchi Americano recipes")     | Cocchi Americano |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| White Crème de Cacao [&#9432;](/spirit/white_creme_de_cacao/ "More White Crème de Cacao recipes") | Marie Brizard    |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Fresh Lemon Juice    |
@@ -33,9 +35,9 @@ type: shaken
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: Cocktail Cherry optional
+- Garnish: Cocktail cherry
 - Special Prep:
-- OPTIONAL: 1 barspoon Tempus Fugit Crème de Cacao added to the glass and placed in the freezer to solidify
+  - OPTIONAL: 1 barspoon of Tempus Fugit Crème de Cacao added to the glass and placed in the freezer to solidify
 
 <script type="application/ld+json">
 {
@@ -45,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_20th_century_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz London Dry Gin",
@@ -69,7 +71,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Cocktail Cherry optional"
+      "text": "Garnish: Cocktail cherry"
     },
     {
       "@type": "HowToStep",
@@ -77,7 +79,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "OPTIONAL: 1 barspoon Tempus Fugit Crème de Cacao added to the glass and placed in the freezer to solidify"
+      "text": "OPTIONAL: 1 barspoon of Tempus Fugit Crème de Cacao added to the glass and placed in the freezer to solidify"
     }
     ],
   "recipeYield": "1 cocktail",

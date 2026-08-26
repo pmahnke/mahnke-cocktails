@@ -6,6 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/applejack_rabbit/"
 iconfile: applejack_rabbit
+color: #f4a85d
 stars: 4
 base_spirits: ['Apple Brandy']
 youtube: "9OxlSOioD_k"
@@ -13,6 +14,7 @@ description: "A classic Prohibition-era sour that highlights the robust characte
 excerpt: |
   The Apple Jack Rabbit appears in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i> and in David A. Embury's 1948 <i>The Fine Art of Mixing Drinks</i> where he tells us "<i>This drink is also sometimes, for no reason at all, called the Applejack Dynamite. The same cocktail made with a gin base plus a dash of Angostura is called the Old Vermont.</i>"
 date: 2025-08-11
+image: /assets/images/cocktail_applejack_rabbit_dynamic.svg
 garnishes: garnish-dry_orange_wheel
 type: shaken
 ---
@@ -42,7 +44,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_applejack_rabbit_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Apple Brandy",

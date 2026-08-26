@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/star_cocktail/"
 iconfile: star_cocktail
+color: f59087
 stars: 3
 base_spirits: "Apple Brandy, Sweet Vermouth"
 youtube: "9OxlSOioD_k"
@@ -28,6 +29,6 @@ date: 2025-08-11
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Nick &amp; Nora
+- Glassware: Nick & Nora
 - Garnish: Expressed lemon oil
 - Special Prep: None

@@ -35,13 +35,15 @@ categories:
 eras: [anders, classic, modern, new_orleans, prohibition]
 permalink: "/recipe/NAME/"
 iconfile: NAME
+color: 
 stars: 0
 base_spirits: ['SPIRIT']
 youtube: "LINK"
 description: "from_gemini"
 excerpt: |
   Lorem ipsum dolor sit amet.
-date: 2025-08-20
+date: 2026-08-20
+image: /assets/images/cocktail_template_dynamic.svg
 glass:
   - coupe
   - flute
@@ -85,7 +87,7 @@ type:
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_template_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "     ",

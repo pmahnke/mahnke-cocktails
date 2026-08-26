@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/bijou/"
 iconfile: bijou
+color: #D06832
 stars: 4
 base_spirits: "Plymouth Gin, Sweet Vermouth, Green Chartreuse "
 youtube: "LeIeaxJR2kw"
@@ -42,7 +43,7 @@ date: 2025-08-11
 
 |  Amount | Ingredient       | Brand                     |
 | ------: | ---------------- | ------------------------- |
-| 1.25 oz | Gin              | Plymouth                  |
+| 1.25 oz | Plymouth Gin     | Plymouth                  |
 | 0.75 oz | Sweet Vermouth   | Cocchi Vermouth di Torino |
 | 0.25 oz | Green Chartreuse | Green Chartreuse          |
 |  1 dash | Orange Bitters   | Regan's No. 6             |

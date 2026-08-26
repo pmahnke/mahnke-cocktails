@@ -6,6 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/barbados_cocktail/"
 iconfile: barbados_cocktail
+color: #FFB85C
 stars: 3.5
 base_spirits: ['Barbados Rum']
 youtube: "CGkWnYhu4ag"
@@ -13,6 +14,7 @@ description: "The Barbados cocktail is a tropical rum drink that balances sweetn
 excerpt: |
   The Barbados cocktail is a rum-forward drink that gets its tropical spice from the addition of falernum. The spirit's boozy sweetness and the falernum's notes of ginger and clove are balanced by freshly squeezed lime juice, creating a bright and complex, yet simple, beverage. The cocktail is considered a spicier, more intricate variation of a classic daiquiri.
 date: 2025-08-31
+image: /assets/images/cocktail_barbados_cocktail_dynamic.svg
 glass: nick_and_nora
 garnishes: garnish-lime_wheel
 type: shaken
@@ -42,7 +44,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_barbados_cocktail_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Barbados Rum",

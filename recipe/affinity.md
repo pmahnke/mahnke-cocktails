@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/affinity/"
 iconfile: affinity
+color: #B46F56
 stars: 0
 base_spirits: "Single Malt Scotch, Sweet Vermouth, Blanc Vermouth"
 youtube: "9lgx04fJrSM"

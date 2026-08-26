@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/angel_face/"
 iconfile: angel_face
+color: #f3e0c9
 stars: 3
 base_spirits: ['Apple Brandy', 'Apricot Liqueur', 'London Dry Gin']
 youtube: "2nHl1pBETt8"
@@ -14,6 +15,7 @@ description: "A classic, spirit-forward cocktail from the Prohibition era that p
 excerpt: |
   Adapted from a recipe in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i> which stipulates "Shake well and strain into cocktail glass," rather than to stir as modern convention dictates.
 date: 2025-09-26
+image: /assets/images/cocktail_angel_face_dynamic.svg
 glass: nick_and_nora
 garnishes: garnish-orange_peel
 type: stirred
@@ -43,7 +45,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_angel_face_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.25 oz London Dry Gin",

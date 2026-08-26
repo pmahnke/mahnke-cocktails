@@ -5,8 +5,9 @@ creator: "Don the Beachcomber"
 title: "Three Dots and a Dash"
 categories: [tiki]
 eras: [modern]
-permalink: "/recipe/3dots_dash/"
-iconfile: 3dots_dash
+permalink: "/recipe/3_dots_dash/"
+iconfile: 3_dots_dash
+color: #D09C65
 stars: "0"
 base_spirits: "Rhum Agricole, Demerara Rum, Allspice Dram"
 youtube: "CGkWnYhu4ag"

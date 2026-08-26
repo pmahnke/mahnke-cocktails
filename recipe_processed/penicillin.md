@@ -6,6 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/penicillin/"
 iconfile: penicillin
+color: #97897B
 stars: 0
 base_spirits: ['Blended Scotch', 'Single Malt Scotch']
 youtube: "G51IC-s_ECI"
@@ -13,6 +14,7 @@ description: "A modern classic from New York bartender Sam Ross, this is a Scotc
 excerpt: |
   The Penicillin cocktail is a scotch-based drink from New York bartender Sam Ross. The modern classic perfectly mixes smoke, ginger, and lemon.
 date: 2025-12-09
+image: /assets/images/cocktail_penicillin_dynamic.svg
 glass: rocks
 type: shaken
 ---
@@ -45,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_penicillin_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "    2 oz Blended Scotch",

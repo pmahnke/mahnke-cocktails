@@ -6,6 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/penicillin/"
 iconfile: penicillin
+color: #97897B
 stars: 0
 base_spirits: "Blended Scotch, Single Malt Scotch "
 youtube: "G51IC-s_ECI"

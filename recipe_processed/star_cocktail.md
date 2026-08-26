@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/star_cocktail/"
 iconfile: star_cocktail
+color: f59087
 stars: 3
 base_spirits: ['Apple Brandy', 'Sweet Vermouth']
 youtube: "9OxlSOioD_k"
@@ -13,6 +14,8 @@ description: "A classic cocktail from the 1870s, featuring apple brandy, sweet v
 excerpt: |
   Said to have been created in the 1870s by a bartender at the legendary Manhattan Club, which once stood at the north corner of 34th Street and 5th Avenue, New York City. Our recipe is adapted from George J. Kappeler's 1895 <i>Modern American Drinks – How to Mix and Serve All Kinds of Cups and Drinks</i>. The "Star Cocktail (No. 2)" notably also appears in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i>.
 date: 2025-08-11
+image: /assets/images/cocktail_star_cocktail_dynamic.svg
+glass: nick_and_nora
 garnishes: garnish-lemon_peel_oil
 type: stirred
 ---
@@ -30,7 +33,7 @@ type: stirred
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Nick &amp; Nora
+- Glassware: Nick & Nora
 - Garnish: Expressed lemon oil
 - Special Prep: None
 
@@ -42,7 +45,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_star_cocktail_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Apple Brandy",
@@ -62,7 +65,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Nick &amp; Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

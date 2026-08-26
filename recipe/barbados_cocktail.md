@@ -6,6 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/barbados_cocktail/"
 iconfile: barbados_cocktail
+color: #FFB85C
 stars: 0
 base_spirits: "Barbados Rum"
 youtube: "CGkWnYhu4ag"

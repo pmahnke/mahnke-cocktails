@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/angel_face/"
 iconfile: angel_face
+color: #f3e0c9
 stars: 3
 base_spirits: "London Dry Gin, Apple Brandy, Apricot Liqueur"
 youtube: "2nHl1pBETt8"

@@ -6,6 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/algonquin/"
 iconfile: algonquin
+color: #ebb47c
 stars: 0
 base_spirits: "Rye, Blanc Vermouth, Amontillado Sherry"
 youtube: "BarYf4SITZ4"

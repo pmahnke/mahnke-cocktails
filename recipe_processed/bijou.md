@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/bijou/"
 iconfile: bijou
+color: #D06832
 stars: 4
 base_spirits: ['Green Chartreuse', 'Plymouth Gin', 'Sweet Vermouth']
 youtube: "LeIeaxJR2kw"
@@ -15,6 +16,7 @@ excerpt: |
   The bijou is a mixed alcoholic drink composed of gin, vermouth, and chartreuse. This cocktail was invented by Harry Johnson, "the father of professional bartending", who called it bijou because it combined the colors of three jewels, gin for diamond, vermouth for ruby, and chartreuse for emerald. An original-style bijou is made stirred with ice as Johnson's 1900 New and Improved Bartender Manual states "mix well with a spoon and serve." This recipe is also one of the oldest in the manual, dating back to the 1890s.<br><br>
   The bijou was popular for several decades. Unlike the Manhattan and the martini, however, the bijou disappeared after Prohibition. It was rediscovered by "the King of Cocktails" Dale DeGroff in the 1980s, when he stumbled upon the recipe in Johnson's book. While the original cocktail had equal parts of the three ingredients, DeGroff tripled the ratio of gin to vermouth and chartreuse to soften the taste profile. Eventually, his recipe became the standard.
 date: 2025-08-11
+image: /assets/images/cocktail_bijou_dynamic.svg
 glass: nick_and_nora
 garnishes: twist_cocktail-cherry
 type: stirred
@@ -45,7 +47,7 @@ type: stirred
 
 |  Amount | Ingredient       | Brand                     |
 | ------: | ---------------- | ------------------------- |
-| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 38 ml</span> <span class="onehalfx">1.875 oz  / 56 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span>| Gin [&#9432;](/spirit/gin/ "More Gin recipes")              | Plymouth                  |
+| <span class="onex active">1 <sup>1</sup>&frasl;<sub>4</sub> oz  / 38 ml</span> <span class="onehalfx">1.875 oz  / 56 ml</span> <span class="twox">2 <sup>1</sup>&frasl;<sub>2</sub> oz  / 75 ml</span> <span class="threex">3 <sup>3</sup>&frasl;<sub>4</sub> oz  / 113 ml</span>| Plymouth Gin [&#9432;](/spirit/plymouth_gin/ "More Plymouth Gin recipes")     | Plymouth                  |
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Sweet Vermouth [&#9432;](/spirit/sweet_vermouth/ "More Sweet Vermouth recipes")   | Cocchi Vermouth di Torino |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| Green Chartreuse [&#9432;](/spirit/green_chartreuse/ "More Green Chartreuse recipes") | Green Chartreuse          |
 |  <span class="onex active">1 dashes</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>2</sub> dashes</span> <span class="twox">2 dashes</span> <span class="threex">3 dashes</span>| Orange Bitters   | Regan's No. 6             |
@@ -66,7 +68,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_bijou_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Plymouth Gin",
@@ -114,7 +116,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "| 1.25 oz | Gin [&#9432;](/spirit/gin/ 'More Gin recipes')              | Plymouth                  |"
+      "text": "| 1.25 oz | Plymouth Gin [&#9432;](/spirit/plymouth_gin/ 'More Plymouth Gin recipes')     | Plymouth                  |"
     },
     {
       "@type": "HowToStep",

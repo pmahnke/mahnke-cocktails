@@ -6,6 +6,7 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/satellite/"
 iconfile: satellite
+color: #ebbfb2
 stars: 0
 base_spirits: "London Dry Gin"
 youtube: "CGkWnYhu4ag"

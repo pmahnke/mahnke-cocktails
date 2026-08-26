@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/bay_roc_special/"
 iconfile: bay_roc_special
+color: #faa66a
 stars: 0
 base_spirits: "Jamaican Rum, Drambuie"
 youtube: "sRTGCquUgMs"

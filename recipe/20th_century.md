@@ -4,9 +4,10 @@ author: Anders Erickson
 creator: C.A. Tuck
 title: "20th Century"
 categories: [sour, daisy]
-eras: [classic]
+eras: [modern]
 permalink: "/recipe/20th_century/"
 iconfile: 20th_century
+color: #ECD2B3
 stars: 0
 base_spirits: "London Dry Gin, Cocchi Americano, Crème de Cacao"
 youtube: "6AyWk5teLv8"
@@ -20,7 +21,7 @@ date: 2025-12-23
 
 |  Amount | Ingredient           | Brand            |
 | ------: | -------------------- | ---------------- |
-| 0.75 oz | London Dry Gin                  | Martin Miller's  |
+| 0.75 oz | London Dry Gin       | Martin Miller's  |
 | 0.75 oz | Cocchi Americano     | Cocchi Americano |
 | 0.75 oz | White Crème de Cacao | Marie Brizard    |
 | 0.75 oz | Fresh Lemon Juice    |
@@ -30,6 +31,6 @@ date: 2025-12-23
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: Cocktail Cherry optional
+- Garnish: Cocktail cherry
 - Special Prep:
-- OPTIONAL: 1 barspoon Tempus Fugit Crème de Cacao added to the glass and placed in the freezer to solidify
+  - OPTIONAL: 1 barspoon of Tempus Fugit Crème de Cacao added to the glass and placed in the freezer to solidify

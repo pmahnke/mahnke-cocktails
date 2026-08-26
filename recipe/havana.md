@@ -6,7 +6,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/havana/"
 iconfile: havana
-color: #E1B47B
+color: #e5ba7a
 stars: 0
 base_spirits: "London Dry Gin, Swedish Punsch, Apricot Liqueur"
 youtube: "VXjcObds5DY"

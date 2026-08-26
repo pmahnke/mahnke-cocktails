@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/pan_american_clipper/"
 iconfile: pan_american_clipper
+color: f59087
 stars: 0
 base_spirits: "Apple Brandy, Absinthe"
 youtube: "YwHw259XAOU"

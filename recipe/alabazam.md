@@ -7,6 +7,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/alabazam/"
 iconfile: alabazam
+color: #F6B791
 stars: 0
 base_spirits: "Cognac, Triple Sec"
 youtube: "nXED2nkfEEQ"
