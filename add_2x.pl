@@ -101,7 +101,7 @@ my %garnishes = (
     'strawberry'               => 'fruit_strawberry',
     'olive'                    => 'fruit_olives',
     'pineapple wedge'          => 'slice_pineapple',
-    'apple slices'             => 'slice_green_apple',
+    'apple slice'             => 'slice_green_apple',
     'anise'                    => 'spice_anise',
     'cinnamon'                 => 'spice_cinnamon',
     'coffee beans'             => 'spice_coffee',
@@ -522,6 +522,16 @@ $rating_json
                 }
             }
 
+            # 2c. glass highlight color (15% lighter than liquid)
+            my $highlight_color = darken_color($liquid_color, 0.1);
+            if (my $highlight = $dom->at('#liquid-highlight')) {
+                $highlight->attr(fill => $highlight_color);
+                if (my $style = $highlight->attr('style')) {
+                    $style =~ s/fill:\s*[^;]+;?//ig;
+                    $highlight->attr(style => "$style fill:$highlight_color;");
+                }
+            }
+
             # 3. Toggle Garnishes (and REMOVE unused to save filesize)
             
             # Create a fast lookup hash for the garnishes we actually found
@@ -791,6 +801,29 @@ sub lighten_color {
     $r = int($r + (255 - $r) * $percent);
     $g = int($g + (255 - $g) * $percent);
     $b = int($b + (255 - $b) * $percent);
+
+    # Format back into a 6-character hex string
+    return sprintf("#%02x%02x%02x", $r, $g, $b);
+}
+
+# ==========================================================================
+# Helper: Darken a Hex Color
+# ==========================================================================
+sub darken_color {
+    my ($hex, $percent) = @_;
+    
+    # Strip the hash if it's there
+    $hex =~ s/^#//;
+    
+    # Extract RGB values
+    my $r = hex(substr($hex, 0, 2));
+    my $g = hex(substr($hex, 2, 2));
+    my $b = hex(substr($hex, 4, 2));
+
+    # Push each channel toward 0 based on the percentage
+    $r = int($r - ($r * $percent));
+    $g = int($g - ($g * $percent));
+    $b = int($b - ($b * $percent));
 
     # Format back into a 6-character hex string
     return sprintf("#%02x%02x%02x", $r, $g, $b);

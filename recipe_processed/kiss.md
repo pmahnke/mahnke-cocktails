@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/kiss/"
 iconfile: kiss
+color: #4c131a
 stars: 3.5
 base_spirits: ['Dubonnet Rouge', 'London Dry Gin', 'Maraschino Liqueur', 'Sweet Vermouth']
 youtube: "https://www.liquor.com/recipes/kiss/"
@@ -14,7 +15,9 @@ description: "This original drink begins with gin and then calls on sweet vermou
 excerpt: |
   This original drink begins with gin and then calls on sweet vermouth, a French aperitif and an Italian liqueur. Together, you get a cocktail that’s similar to the classic Martinez (gin, sweet vermouth, maraschino liqueur, and bitters) but with a slightly sweeter and more herbaceous profile due to the Dubonnet rouge.
 date: 2026-04-24
+image: /assets/images/cocktail_kiss_dynamic.svg
 glass: martini
+garnishes: slice_green_apple
 type: stirred
 ---
 
@@ -48,7 +51,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_kiss_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz London Dry Gin",

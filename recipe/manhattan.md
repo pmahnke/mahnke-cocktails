@@ -6,7 +6,8 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/manhattan/"
 iconfile: manhattan
-image: /assets/images/cocktail_manhattan.svg
+color: #8b462a
+image_orig: /assets/images/cocktail_manhattan.svg
 stars: 3
 base_spirits: "Rye, Sweet Vermouth"
 youtube: "eWESf1b317Y&t=278s"

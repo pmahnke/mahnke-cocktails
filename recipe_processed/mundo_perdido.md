@@ -17,7 +17,6 @@ excerpt: |
 date: 2025-08-11
 image: /assets/images/cocktail_mundo_perdido_dynamic.svg
 glass: coupe
-garnishes: slice_green_apple
 type: shaken
 ---
 

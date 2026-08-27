@@ -6,7 +6,8 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/manhattan/"
 iconfile: manhattan
-image: /assets/images/cocktail_manhattan.svg
+color: #8b462a
+image_orig: /assets/images/cocktail_manhattan.svg
 stars: 4.5
 base_spirits: ['Rye', 'Sweet Vermouth']
 youtube: "eWESf1b317Y&t=278s"
@@ -15,6 +16,7 @@ description: "A timeless and sophisticated classic from the 1800s, perfectly bal
 excerpt: |
   The Manhattan, a classic cocktail, believed to have started around the 1860s or 1870s, with a rich history, is a sophisticated and timeless drink that has captivated cocktail enthusiasts for generations.
 date: 2025-08-11
+image: /assets/images/cocktail_manhattan_dynamic.svg
 glass: martini
 garnishes:
   - garnish-salted_rim
@@ -46,7 +48,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_manhattan.png",
+  "image": "{{ site.url }}/assets/images/cocktail_manhattan_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Rye",

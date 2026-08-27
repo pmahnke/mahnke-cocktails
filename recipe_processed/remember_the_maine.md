@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/remember_the_maine/"
 iconfile: remember_the_maine
+color: #cd5009
 stars: 3
 base_spirits: ['Absinthe', 'Cherry Heering', 'Rye', 'Sweet Vermouth']
 youtube: "I2_xijYpP_Y"
@@ -13,6 +14,7 @@ description: "A historic and complex Prohibition-era Manhattan variation that ad
 excerpt: |
   If you like a Rye Manhattan, you’ll love this historic variation that adds cherry liqueur and a bit of absinthe.
 date: 2025-08-11
+image: /assets/images/cocktail_remember_the_maine_dynamic.svg
 glass: martini
 garnishes:
   - garnish-lemon_peel_oil
@@ -45,7 +47,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_remember_the_maine_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Rye",

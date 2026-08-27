@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/kiss/"
 iconfile: kiss
+color: #4c131a
 stars: 0
 base_spirits: "London Dry Gin, Dubonnet Rouge, Sweet Vermouth, Maraschino Liqueur"
 youtube: "https://www.liquor.com/recipes/kiss/"

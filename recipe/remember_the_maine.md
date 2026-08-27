@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/remember_the_maine/"
 iconfile: remember_the_maine
+color: #cd5009
 stars: 3
 base_spirits: "Rye, Sweet Vermouth, Cherry Heering, Absinthe"
 youtube: "I2_xijYpP_Y"
