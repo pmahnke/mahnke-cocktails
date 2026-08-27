@@ -17,7 +17,9 @@ excerpt: |
 date: 2025-08-11
 image: /assets/images/cocktail_cable_car_dynamic.svg
 glass: coupe
-garnishes: spice_cinnamon
+garnishes:
+  - garnish-salted_rim
+  - spice_cinnamon
 type: shaken
 ---
 

@@ -44,7 +44,7 @@ my %glassware = (
     'gin balloon'          => 'gin_balloon',
     'goblet'               => 'goblet',
     'julep cup'            => 'julep_cup',
-    'margarita'            => 'margarita',
+    'glassware: margarita'            => 'margarita',
     'nick and nora'        => 'nick_and_nora',
     'nick & nora'          => 'nick_and_nora',
     'old fashioned'        => 'old_fashioned',
@@ -101,12 +101,13 @@ my %garnishes = (
     'strawberry'               => 'fruit_strawberry',
     'olive'                    => 'fruit_olives',
     'pineapple wedge'          => 'slice_pineapple',
-    'apple slice'             => 'slice_green_apple',
+    'apple slice'              => 'slice_green_apple',
     'anise'                    => 'spice_anise',
     'cinnamon'                 => 'spice_cinnamon',
     'coffee beans'             => 'spice_coffee',
     'salted rim'               => 'garnish-salted_rim',
     'sugared rim'              => 'garnish-salted_rim',
+    'sugar rim'                => 'garnish-salted_rim',
     'drops of angostura'       => 'garnish-angostura_bitters',
 );
 
