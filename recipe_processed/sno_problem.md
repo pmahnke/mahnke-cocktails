@@ -15,6 +15,7 @@ excerpt: |
   A blend of Jamaican rum, bourbon whiskey, rich demerara syrup, Angostura Aromatic Bitters, black tea, and oat milk.
 date: 2025-08-11
 image: /assets/images/cocktail_sno_problem_dynamic.svg
+glass: coffee
 garnishes: spice_cinnamon
 type:
   - shaken

@@ -12,6 +12,7 @@ description: "A non-alcoholic, tropical blend of pineapple juice, orange juice, 
 excerpt: |
   This cocktail is a tropical blend of pineapple juice, orange juice, cream of coconut, lime juice, cinnamon, and nutmeg.
 date: 2025-08-11
+glass: tiki
 garnishes:
   - garnish-umbrella
   - spice_nutmeg

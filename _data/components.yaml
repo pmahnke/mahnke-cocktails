@@ -54,6 +54,9 @@ glasses:
   margarita:
     name: Margarita Glass
     icon: /assets/images/glass_margarita.svg
+  mug:
+    name: Mug
+    icon: /assets/images/glass_mug.svg
   nick_and_nora:
     name: Nick and Nora Glass
     icon: /assets/images/glass_nick-and-nora.svg
@@ -66,6 +69,9 @@ glasses:
   punch_cup:
     name: Punch Cups
     icon: /assets/images/glass_punch_cup.svg
+  shot:
+    name: Shot Glass
+    icon: /assets/images/glass_shot.svg
   sling:
     name: Sling Glass
     icon: /assets/images/glass_sling.svg
@@ -78,6 +84,9 @@ glasses:
   whiskey:
     name: Whiskey Glass
     icon: /assets/images/glass_whiskey.svg
+  wine:
+    name: Wine Glass
+    icon: /assets/images/glass_wine.svg
 
 garnishes:
   slice_lime:

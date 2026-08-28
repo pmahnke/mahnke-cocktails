@@ -13,7 +13,9 @@ description: "A classic high-society cocktail from the pre-Prohibition era, with
 excerpt: |
   Feel the sweet sting of cognac and crème de menthe with the Stinger, a classic high-society cocktail from the pre-Prohibition era.
 date: 2025-08-11
+glass: rocks
 garnishes: herb_mint
+ice: ice_crushed
 type: shaken
 ---
 
@@ -29,7 +31,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: Low BallCrushed Ice
+- Glassware: Low Ball with Crushed Ice
 - Garnish: Sprig of mint
 - Special Prep: Spray the absinthe over the top of the cocktail.
 
@@ -60,7 +62,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Low BallCrushed Ice"
+      "text": "Glassware: Low Ball with Crushed Ice"
     },
     {
       "@type": "HowToStep",

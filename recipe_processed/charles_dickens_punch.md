@@ -13,6 +13,7 @@ description: "A classic and flavorful punch, famously enjoyed by the author, fea
 excerpt: |
   The classic Charles Dickens Punch is a fiery and flavorful concoction that was a favorite of the renowned author himself. While the exact recipe may have varied over time, the basic elements remain the same: a blend of rum, brandy, lemon, sugar, and hot water that is set on fire.
 date: 2025-08-11
+glass: coffee
 garnishes: garnish-lemon_peel_oil
 ---
 

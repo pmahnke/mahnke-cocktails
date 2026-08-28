@@ -13,6 +13,7 @@ description: "An original punch with autumnal flavors, featuring Jamaican rum, a
 excerpt: |
   An original of Anders Erickson, based on a classic punch build. Black tea adds volume, and cuts down on the alcohol content.
 date: 2025-08-11
+glass: punch_cup
 garnishes: spice_nutmeg
 ---
 

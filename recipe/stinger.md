@@ -27,6 +27,6 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: Low BallCrushed Ice
+- Glassware: Low Ball with Crushed Ice
 - Garnish: Sprig of mint
 - Special Prep: Spray the absinthe over the top of the cocktail.

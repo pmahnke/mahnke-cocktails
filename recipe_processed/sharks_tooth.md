@@ -13,6 +13,7 @@ description: "A classic tiki cocktail with a rum-forward profile, served straigh
 excerpt: |
   Originally surfacing during tiki's heyday, today there are variations to suit every palate. Here the recipe is very rum-forward, served straight up after a quick shake with ice, and the presentation is more understated than might typically be expected.
 date: 2025-08-11
+glass: wine
 type: shaken
 ---
 

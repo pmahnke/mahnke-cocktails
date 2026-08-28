@@ -13,6 +13,7 @@ description: "A classic hot toddy perfect for winter, featuring a rich, spiced b
 excerpt: |
   The Hot Buttered Rum cocktail is a classic hot drink that will warm your soul during the cold winter.
 date: 2025-08-11
+glass: coffee
 garnishes: spice_cinnamon
 ---
 
@@ -33,7 +34,7 @@ garnishes: spice_cinnamon
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Mug
+- Glassware: Coffee mug
 - Garnish: Cinnamon stick
 - Special Prep: Temper your mug with hot water.
 
@@ -69,7 +70,7 @@ garnishes: spice_cinnamon
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Mug"
+      "text": "Glassware: Coffee mug"
     },
     {
       "@type": "HowToStep",

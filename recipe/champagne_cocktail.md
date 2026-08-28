@@ -29,6 +29,6 @@ date: 2025-08-11
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Champagne
+- Glassware: Champagne flute
 - Garnish: Expressed oils of a lemon swath and an orange swath
 - Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne.

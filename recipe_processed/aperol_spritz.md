@@ -14,6 +14,7 @@ description: "An iconic and refreshing Italian aperitif that combines the bitter
 excerpt: |
   The Aperol Spritz is one of the most popular aperitif cocktails in Italy and with just Aperol, prosecco and club soda, it’s as easy to make as it is to drink.
 date: 2025-10-20
+glass: wine
 garnishes: bubbles
 ice: ice_cubes
 ---

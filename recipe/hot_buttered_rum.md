@@ -32,6 +32,6 @@ date: 2025-08-11
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Mug
+- Glassware: Coffee mug
 - Garnish: Cinnamon stick
 - Special Prep: Temper your mug with hot water.

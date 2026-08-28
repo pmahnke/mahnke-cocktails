@@ -34,7 +34,7 @@ date: 2025-08-11
 -
 - Method: Shaken
 - Pour: Double Strain
-- Glassware:
+- Glassware: Collins
 - Garnish: Mint Sprig Special
 - Prep: Add mint leaves to the glass and bruise them gently with a barspoon. Pull them up the side of the glass to coat the glass with the essential oils. Add ice, and pour in the cocktail. Top with soda water.
 
@@ -58,7 +58,7 @@ date: 2025-08-11
 -
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware:
+- Glassware: Collins
 - Garnish: Mint Sprig
 - Special Prep: Add mint leaves and sugar to the glass and bruise the mint gently with a barspoon. Pull the mint up the side of the glass to coat the glass with the essential oils. Cut the half lime into 4 wedges. Add the wedges to the glass and use a muddler to extrace the juice from the lime without destroying the mint. Add ice, and pour in the rum. Top with soda water.
 

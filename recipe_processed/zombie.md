@@ -14,6 +14,7 @@ description: "A notoriously potent classic tiki cocktail from 1934, featuring a 
 excerpt: |
   Created by Don Beach in 1934 at Don the Beachcomber's in Hollywood, USA. This recipe is adapted from one published in Jeff Berry's Sippin' Safari, which Jeff sourced from the 1937 notebook of Beachcomber's waiter Dick Santiago.
 date: 2025-08-11
+glass: tiki
 garnishes: herb_mint
 ice: ice_crushed
 type: shaken

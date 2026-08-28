@@ -13,6 +13,7 @@ description: "An original hot toddy featuring a unique combination of gin and th
 excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
+glass: coffee
 garnishes:
   - garnish-lemon_peel
   - garnish-lemon_peel_oil

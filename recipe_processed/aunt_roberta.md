@@ -15,7 +15,9 @@ excerpt: |
   The drink features a potent blend of absinthe, brandy, vodka, gin, and blackberry liqueur, creating a dark and herbal profile that hides its staggering strength. Rumored to have been created by the daughter of a slave-owner in late 19th-century Alabama, the recipe was allegedly crafted to be as unforgiving as the woman it was named after. Because it lacks any diluting ingredients or sweeteners, it is meant to be sipped with extreme caution and a healthy respect for its historical reputation.
 date: 2026-02-02
 image: /assets/images/cocktail_aunt_roberta_dynamic.svg
-glass: coupe
+glass:
+  - coupe
+  - wine
 garnishes: twist_lemon
 type: stirred
 ---

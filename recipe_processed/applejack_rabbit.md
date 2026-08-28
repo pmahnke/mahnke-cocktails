@@ -15,6 +15,7 @@ excerpt: |
   The Apple Jack Rabbit appears in Harry Craddock's 1930 <i>The Savoy Cocktail Book</i> and in David A. Embury's 1948 <i>The Fine Art of Mixing Drinks</i> where he tells us "<i>This drink is also sometimes, for no reason at all, called the Applejack Dynamite. The same cocktail made with a gin base plus a dash of Angostura is called the Old Vermont.</i>"
 date: 2025-08-11
 image: /assets/images/cocktail_applejack_rabbit_dynamic.svg
+glass: nick_and_nora
 garnishes: garnish-dry_orange_wheel
 type: shaken
 ---
@@ -32,7 +33,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Nick &amp; Nora
+- Glassware: Nick & Nora
 - Garnish: Dehydrated orange wheel
 - Special Prep: None
 
@@ -64,7 +65,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Nick &amp; Nora"
+      "text": "Glassware: Nick & Nora"
     },
     {
       "@type": "HowToStep",

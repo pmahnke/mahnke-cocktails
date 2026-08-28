@@ -14,6 +14,7 @@ description: "A simple and elegant classic that enhances Champagne with a sugar 
 excerpt: |
   The Champagne Cocktail, a simple combination of sparkling wine, bitters and sugar.
 date: 2025-08-11
+glass: flute
 garnishes: bubbles
 ---
 
@@ -30,7 +31,7 @@ garnishes: bubbles
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Champagne
+- Glassware: Champagne flute
 - Garnish: Expressed oils of a lemon swath and an orange swath
 - Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne.
 
@@ -62,7 +63,7 @@ garnishes: bubbles
     },
     {
       "@type": "HowToStep",
-      "text": "Glassware: Champagne"
+      "text": "Glassware: Champagne flute"
     },
     {
       "@type": "HowToStep",

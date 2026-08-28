@@ -13,6 +13,7 @@ description: "A non-alcoholic drink featuring the flavors of pear, grenadine, le
 excerpt: |
 date: 2025-08-11
 image: /assets/images/cocktail_sereni-tea_now_dynamic.svg
+glass: goblet
 garnishes: twist_lemon
 type: shaken
 ---

@@ -13,6 +13,7 @@ description: "A refreshing and modern take on the classic spritz, featuring the 
 excerpt: |
   The Fino Spritz is a refreshing and modern take on the classic spritz cocktail, featuring Fino Sherry as its base spirit.
 date: 2025-10-20
+glass: wine
 garnishes: bubbles
 ice: ice_cubes
 ---

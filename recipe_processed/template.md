@@ -51,6 +51,7 @@ glass:
   - martini
   - nick_and_nora
   - rocks
+  - tiki
 garnishes: bubbles
 ice:
   - ice_crushed
