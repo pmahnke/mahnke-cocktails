@@ -16,6 +16,7 @@ excerpt: |
 date: 2025-12-09
 image: /assets/images/cocktail_rusty_nail_dynamic.svg
 glass: rocks
+ice: ice_large
 type: stirred
 ---
 

@@ -17,6 +17,7 @@ date: 2025-10-08
 glass:
   - coupe
   - rocks
+ice: ice_large
 type: shaken
 ---
 

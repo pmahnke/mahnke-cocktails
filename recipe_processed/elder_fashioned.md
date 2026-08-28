@@ -19,6 +19,7 @@ glass: rocks
 garnishes:
   - garnish-grapefruit_peel
   - garnish-orange_peel
+ice: ice_large
 type: stirred
 ---
 

@@ -35,7 +35,7 @@ type: shaken
 
 - Method: Shaken
 - Pour: Double Strain
-- Glass: Collins
+- Glassware: Collins
 - Garnish: Lemon wedge
 - Special Prep: None
 
@@ -74,7 +74,7 @@ type: shaken
     },
     {
       "@type": "HowToStep",
-      "text": "Glass: Collins"
+      "text": "Glassware: Collins"
     },
     {
       "@type": "HowToStep",

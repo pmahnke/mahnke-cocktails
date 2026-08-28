@@ -14,6 +14,7 @@ excerpt: |
   Rye whiskey spice, herbal liqueur complexity and vinous sherry sit alongside each other in a harmonious trinity with dashes of aromatic bitters and lemon zest freshness in this riff on a classic Old Fashioned.
 date: 2025-08-11
 glass: rocks
+ice: ice_large
 type: stirred
 ---
 

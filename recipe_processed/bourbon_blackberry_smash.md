@@ -17,6 +17,7 @@ glass: rocks
 garnishes:
   - bubbles
   - herb_mint
+ice: ice_large
 type: shaken
 ---
 

@@ -14,6 +14,7 @@ excerpt: |
   The Sentimental Gentleman is a sophisticated and elegant cocktail that combines the warmth of whiskey with the herbal notes of Benedictine and the subtle sweetness of walnut liqueur.
 date: 2025-12-09
 glass: rocks
+ice: ice_large
 type: stirred
 ---
 

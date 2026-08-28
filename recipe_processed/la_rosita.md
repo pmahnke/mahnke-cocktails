@@ -14,6 +14,7 @@ excerpt: |
   The Rosita is a classic cocktail that has been around for decades. It is a tequila-based drink that is similar to a Negroni, but with a few key differences. The Rosita uses equal parts tequila, Campari, and a blend of sweet and dry vermouth. It is typically garnished with an orange twist.
 date: 2025-08-11
 glass: rocks
+ice: ice_large
 type: stirred
 ---
 

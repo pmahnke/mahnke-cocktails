@@ -28,7 +28,7 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glass: Collins
+- Glassware: Collins
 - Garnish: Lemon wedge
 - Special Prep: None
 

@@ -17,6 +17,7 @@ glass: rocks
 garnishes:
   - garnish-orange_peel
   - twist_cocktail-cherry
+ice: ice_large
 type: stirred
 ---
 

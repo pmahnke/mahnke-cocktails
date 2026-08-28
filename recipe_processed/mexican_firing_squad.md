@@ -15,6 +15,7 @@ excerpt: |
 date: 2025-08-11
 glass: rocks
 garnishes: garnish-lime_wheel
+ice: ice_large
 type: shaken
 ---
 

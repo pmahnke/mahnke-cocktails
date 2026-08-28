@@ -16,6 +16,7 @@ excerpt: |
 date: 2026-05-29
 glass: rocks
 garnishes: garnish-lemon_peel
+ice: ice_large
 type: stirred
 ---
 

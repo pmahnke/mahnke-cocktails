@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/outlander/"
 iconfile: outlander
+color: #ce6e2c
 stars: 0
 base_spirits: "Blended Scotch, Maraschino Liqueur, Absinthe"
 youtube: "https://youtube.com/shorts/MpgNJvGkhL8?si=qAvritlH-ONJH-4f"

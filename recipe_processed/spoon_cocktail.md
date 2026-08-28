@@ -16,6 +16,7 @@ excerpt: |
 date: 2026-03-24
 glass: rocks
 garnishes: bubbles
+ice: ice_large
 ---
 
 ### Ingredients

@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/gin_old_fashioned/"
 iconfile: gin_old_fashioned
+color: #d8d3d2
 stars: 2
 base_spirits: ['Old Tom Gin']
 youtube: "0rnil0_xFnM"
@@ -14,8 +15,10 @@ excerpt: |
   The first known definition of the word "cock-tail" was published 13th May 1806 in <i>The Balance and Columbian Repository</i>, an upstate New York newspaper, in response to a reader enquiring what was meant by the word in an article.
   <blockquote><p>Cock-tail, then, is a stimulating liquor, composed of spirits of any kind, sugar, water, and bitters--it is vulgarly called a bittered sling, and is supposed to be an excellent electioneering potion, in as much as it renders the heart flout and bold, at the same time that it fuddles the head. It is said also, to be of great use to a democratic candidate: because, a person having swallowed a glass of it, is ready to swallow anything else.</p><cite>Editor, The Balance and Columbian Repository, 13 May 1806</cite></blockquote>
 date: 2026-04-24
+image: /assets/images/cocktail_gin_old_fashioned_dynamic.svg
 glass: rocks
 garnishes: twist_cocktail-cherry
+ice: ice_large
 type: stirred
 ---
 
@@ -46,7 +49,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_gin_old_fashioned_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Old Tom Gin",

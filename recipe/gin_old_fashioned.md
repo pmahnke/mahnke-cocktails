@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/gin_old_fashioned/"
 iconfile: gin_old_fashioned
+color: #d8d3d2
 stars: 0
 base_spirits: "Old Tom Gin"
 youtube: "0rnil0_xFnM"

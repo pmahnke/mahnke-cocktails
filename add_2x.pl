@@ -133,6 +133,7 @@ my %ice_types = (
     'crushed ice'     => 'ice_crushed',
     'cubed ice'       => 'ice_cubes',
     'large cube'      => 'ice_large',
+    'large ice cube'  => 'ice_large',
     'pebble ice'      => 'ice_pebble',
     'on the rocks'    => 'ice_cubes'
 );
@@ -544,15 +545,17 @@ $rating_json
                 }
             }
 
-            # 3. Toggle Garnishes (and REMOVE unused to save filesize)
+            # 3. Toggle Garnishes and Ice (and REMOVE unused to save filesize)
             
-            # Create a fast lookup hash for the garnishes we actually found
+            # Create a fast lookup hash for the elements we actually found
             my %found_lookup;
             $found_lookup{$_} = 1 for @found_garnishes;
+            $found_lookup{$_} = 1 for @found_ice;
 
-            # Build a list of all possible garnishes from the dictionary
+            # Build a list of all possible elements from the dictionaries
             my %all_slugs;
             $all_slugs{$_} = 1 for values %garnishes;
+            $all_slugs{$_} = 1 for values %ice_types;
             $all_slugs{'bubbles'} = 1; # Safety net for the manually pushed bubbles
 
             foreach my $slug (keys %all_slugs) {

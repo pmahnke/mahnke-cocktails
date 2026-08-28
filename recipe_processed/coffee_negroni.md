@@ -14,6 +14,7 @@ excerpt: |
   A coffee Negroni is a modern, bittersweet, gin-forward cocktail that's made with coffee liqueur, gin, Campari, and sweet vermouth.
 date: 2025-08-11
 glass: rocks
+ice: ice_large
 type: stirred
 ---
 

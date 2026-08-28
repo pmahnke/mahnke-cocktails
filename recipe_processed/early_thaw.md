@@ -17,6 +17,7 @@ glass: rocks
 garnishes:
   - bubbles
   - garnish-lemon_wheel
+ice: ice_large
 type: stirred
 ---
 

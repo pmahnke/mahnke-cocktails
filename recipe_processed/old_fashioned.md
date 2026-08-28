@@ -17,7 +17,9 @@ excerpt: |
 date: 2025-10-20
 glass: rocks
 garnishes: twist_cocktail-cherry
-ice: ice_cubes
+ice:
+  - ice_cubes
+  - ice_large
 type: stirred
 ---
 

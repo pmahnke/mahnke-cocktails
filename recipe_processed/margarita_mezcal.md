@@ -17,6 +17,7 @@ glass: rocks
 garnishes:
   - garnish-lime_wheel
   - garnish-salted_rim
+ice: ice_large
 type: shaken
 ---
 

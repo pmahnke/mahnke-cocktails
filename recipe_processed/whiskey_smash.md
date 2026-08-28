@@ -17,6 +17,7 @@ glass: rocks
 garnishes:
   - garnish-lemon_wheel
   - herb_mint
+ice: ice_large
 type: shaken
 ---
 

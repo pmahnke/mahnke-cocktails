@@ -56,6 +56,7 @@ garnishes: bubbles
 ice:
   - ice_crushed
   - ice_cubes
+  - ice_large
 type:
   - shaken
   - stirred

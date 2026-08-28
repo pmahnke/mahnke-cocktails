@@ -13,6 +13,7 @@ excerpt: |
   The Staggering Gentleman is a powerful cocktail that combines the rich flavors of bourbon with the complexity of Benedictine and walnut liqueur.
 date: 2025-07-07
 glass: rocks
+ice: ice_large
 type: stirred
 ---
 

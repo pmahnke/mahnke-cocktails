@@ -14,6 +14,7 @@ excerpt: |
   The White Negroni Cocktail is a Negroni riff featuring gin, Suze and Lillet Blanc. It’s light, bittersweet and floral.
 date: 2025-10-08
 glass: rocks
+ice: ice_large
 type: stirred
 ---
 

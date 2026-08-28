@@ -14,6 +14,7 @@ excerpt: |
   Created at famed New York City bar Milk & Honey in the early 2000s, this drink's combination of bourbon, lemon and honey became worldwide modern classic.
 date: 2025-08-11
 glass: rocks
+ice: ice_large
 type: shaken
 ---
 
