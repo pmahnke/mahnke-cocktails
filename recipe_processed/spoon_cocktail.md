@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/spoon_cocktail/"
 iconfile: spoon_cocktail
+color: #8d3410
 stars: 3
 base_spirits: ['Rye']
 youtube: "0rnil0_xFnM"
@@ -14,8 +15,11 @@ excerpt: |
   The first known definition of the word "cock-tail" was published 13th May 1806 in <i>The Balance and Columbian Repository</i>, an upstate New York newspaper, in response to a reader enquiring what was meant by the word in an article.
   <blockquote><p>Cock-tail, then, is a stimulating liquor, composed of spirits of any kind, sugar, water, and bitters--it is vulgarly called a bittered sling, and is supposed to be an excellent electioneering potion, in as much as it renders the heart flout and bold, at the same time that it fuddles the head. It is said also, to be of great use to a democratic candidate: because, a person having swallowed a glass of it, is ready to swallow anything else.</p><cite>Editor, The Balance and Columbian Repository, 13 May 1806</cite></blockquote>
 date: 2026-03-24
+image: /assets/images/cocktail_spoon_cocktail_dynamic.svg
 glass: rocks
-garnishes: bubbles
+garnishes:
+  - bubbles
+  - garnish-lemon_peel
 ice: ice_large
 ---
 
@@ -35,11 +39,11 @@ ice: ice_large
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Serve with a small spoon (optional)
+- Garnish: Serve with a small spoon (optional), lemon peel
 - Special Prep: 
   1. Add the sugar cube, soda water and bitters to the glass.
   1. Muddle them into a fine paste. 
-  1. Add the rye whiskey amd ice and stir. 
+  1. Add the rye whiskey, ice, and stir. 
   1. Expressed lemon oil over the cocktail.
 
 <script type="application/ld+json">
@@ -50,7 +54,7 @@ ice: ice_large
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_spoon_cocktail_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Rye",
@@ -82,7 +86,7 @@ ice: ice_large
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Serve with a small spoon (optional)"
+      "text": "Garnish: Serve with a small spoon (optional), lemon peel"
     },
     {
       "@type": "HowToStep",
@@ -98,7 +102,7 @@ ice: ice_large
     },
     {
       "@type": "HowToStep",
-      "text": "  1. Add the rye whiskey amd ice and stir. "
+      "text": "  1. Add the rye whiskey, ice, and stir. "
     },
     {
       "@type": "HowToStep",

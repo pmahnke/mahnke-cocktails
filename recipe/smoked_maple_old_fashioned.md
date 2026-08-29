@@ -6,6 +6,7 @@ categories: [cocktail, smoked]
 eras: [classic]
 permalink: "/recipe/smoked_maple_old_fashioned/"
 iconfile: smoked_maple_old_fashioned
+color: #b96507
 stars: 0
 base_spirits: "Bourbon "
 youtube: "EOIWzKAQk9w"
@@ -30,5 +31,5 @@ date: 2025-08-11
 - Glassware:
   - Low Ball
   - Large Ice cube
-- Garnish: Orange Zest and Cocktail Cherry
+- Garnish: Orange peel and Cocktail Cherry
 - Special Prep: Smoke the low ball glass with wood smoke. Express the orange zest over the cocktail.

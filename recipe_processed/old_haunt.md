@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/old_haunt/"
 iconfile: old_haunt
+color: #77250c
 stars: 0
 base_spirits: ['Apple Brandy', 'Averna']
 youtube: "LaqklLOgeCY"
@@ -13,6 +14,7 @@ description: "It is a riff on the Old Fashioned replacing the sweet vermouth wit
 excerpt: |
   This is an Anders original cocktail. It is a riff on the Old Fashioned replacing the sweet vermouth with Averna.
 date: 2025-10-26
+image: /assets/images/cocktail_old_haunt_dynamic.svg
 glass: rocks
 ice: ice_large
 type: stirred
@@ -45,7 +47,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_old_haunt_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz Apple Brandy",

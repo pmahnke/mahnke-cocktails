@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/spoon_cocktail/"
 iconfile: spoon_cocktail
+color: #8d3410
 stars: 0
 base_spirits: "Rye"
 youtube: "0rnil0_xFnM"
@@ -32,9 +33,9 @@ date: 2026-03-24
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Serve with a small spoon (optional)
+- Garnish: Serve with a small spoon (optional), lemon peel
 - Special Prep: 
   1. Add the sugar cube, soda water and bitters to the glass.
   1. Muddle them into a fine paste. 
-  1. Add the rye whiskey amd ice and stir. 
+  1. Add the rye whiskey, ice, and stir. 
   1. Expressed lemon oil over the cocktail.

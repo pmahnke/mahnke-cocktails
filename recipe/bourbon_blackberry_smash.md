@@ -6,6 +6,7 @@ categories: [smash]
 eras: [classic]
 permalink: "/recipe/bourbon_blackberry_smash/"
 iconfile: bourbon_blackberry_smash
+color: #3a010a
 stars: 0
 base_spirits: "Bourbon"
 youtube: "3i4QnRLlPFc&t=220s"

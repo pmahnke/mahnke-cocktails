@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/huntsman/"
 iconfile: huntsman
+color: #c13800
 stars: 0
 base_spirits: "Rye, Cherry Liqueur, Bénédictine"
 youtube: "vECQyr3-Lyw"

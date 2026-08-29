@@ -6,6 +6,7 @@ title: "Amaretto Sour"
 categories: [sour]
 eras: [modern]
 permalink: "/recipe/amaretto_sour/"
+color: #f9c978
 iconfile: amaretto_sour
 stars: 0
 base_spirits: "Amaretto, Apple Brandy"

@@ -6,13 +6,15 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/rum_manhattan/"
 iconfile: rum_manhattan
+color: #b34614
 stars: 3
 base_spirits: ['Demerara Rum', 'Sweet Vermouth']
-youtube: "eWESf1b317Y&t=278s"
+youtube: "vlnbAwlusHM&t=284s"
 description: "A modern variation of the classic Manhattan cocktail that swaps out the traditional whiskey base for a flavorful rum."
 excerpt: |
   The Rum Manhattan is a variation of the classic Manhattan cocktail, swapping out the traditional whiskey base for a flavorful rum.
 date: 2025-08-11
+image: /assets/images/cocktail_rum_manhattan_dynamic.svg
 glass: rocks
 garnishes:
   - twist_cocktail-cherry
@@ -47,7 +49,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_rum_manhattan_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Demerara Rum",

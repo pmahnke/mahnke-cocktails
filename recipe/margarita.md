@@ -6,7 +6,8 @@ categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/margarita/"
 iconfile: margarita
-image: /assets/images/cocktail_margarita.svg
+color: #ecd8ab
+image_orig: /assets/images/cocktail_margarita.svg
 stars: 5
 base_spirits: "Reposado Tequila, Curaçao"
 youtube: "jxpT11WEtWQ"

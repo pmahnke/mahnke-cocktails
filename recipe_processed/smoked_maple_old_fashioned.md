@@ -6,6 +6,7 @@ categories: [cocktail, smoked]
 eras: [classic]
 permalink: "/recipe/smoked_maple_old_fashioned/"
 iconfile: smoked_maple_old_fashioned
+color: #b96507
 stars: 0
 base_spirits: ['Bourbon']
 youtube: "EOIWzKAQk9w"
@@ -13,8 +14,11 @@ description: "A modern variation of the classic Old Fashioned that adds a smoky,
 excerpt: |
   The Smoked Maple Old Fashioned is a variation of the classic cocktail that adds a smoky, sweet, and savory twist.
 date: 2025-08-11
+image: /assets/images/cocktail_smoked_maple_old_fashioned_dynamic.svg
 glass: rocks
-garnishes: twist_cocktail-cherry
+garnishes:
+  - garnish-orange_peel
+  - twist_cocktail-cherry
 ice: ice_large
 type: stirred
 ---
@@ -34,7 +38,7 @@ type: stirred
 - Glassware:
   - Low Ball
   - Large Ice cube
-- Garnish: Orange Zest and Cocktail Cherry
+- Garnish: Orange peel and Cocktail Cherry
 - Special Prep: Smoke the low ball glass with wood smoke. Express the orange zest over the cocktail.
 
 <script type="application/ld+json">
@@ -45,7 +49,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_smoked_maple_old_fashioned_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Bourbon",
@@ -76,7 +80,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Orange Zest and Cocktail Cherry"
+      "text": "Garnish: Orange peel and Cocktail Cherry"
     },
     {
       "@type": "HowToStep",

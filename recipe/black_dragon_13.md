@@ -6,6 +6,7 @@ categories: [amaro, beer, coffee, cocktail]
 eras: [anders]
 permalink: "/recipe/black_dragon_13/"
 iconfile: black_dragon_13
+color: #431812
 stars: 0
 base_spirits: "Cognac, Averna, Stout "
 youtube: "u0N9FFJ1i5c"

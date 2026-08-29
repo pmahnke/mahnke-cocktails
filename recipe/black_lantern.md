@@ -6,6 +6,7 @@ categories: [tiki]
 eras: [anders]
 permalink: "/recipe/black_lantern/"
 iconfile: black_lantern
+color: #261e15
 stars: 0
 base_spirits: "Cognac, Demerara Rum"
 youtube: "LaqklLOgeCY"

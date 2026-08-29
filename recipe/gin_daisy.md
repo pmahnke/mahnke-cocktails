@@ -7,6 +7,7 @@ categories: [daisy]
 eras: [classic]
 permalink: "/recipe/gin_daisy/"
 iconfile: gin_daisy
+color: #a90009
 stars: 0
 base_spirits: "Plymouth Gin, Bénédictine"
 youtube: "EyB4Ymian3Q"

@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/old_haunt/"
 iconfile: old_haunt
+color: #77250c
 stars: 0
 base_spirits: "Apple Brandy, Averna"
 youtube: "LaqklLOgeCY"

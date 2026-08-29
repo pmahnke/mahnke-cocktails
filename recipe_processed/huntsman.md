@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/huntsman/"
 iconfile: huntsman
+color: #c13800
 stars: 3
 base_spirits: ['Bénédictine', 'Cherry Liqueur', 'Rye']
 youtube: "vECQyr3-Lyw"
@@ -13,6 +14,7 @@ description: "This is a rye forward cocktail with cherry and Bénédictine notes
 excerpt: |
   This is an Anders original cocktail. It is a mashup of a hunter and a rusty nail based off of the Cafe Royal cocktail book ratios. This is a rye forward cocktail with cherry and Bénédictine notes.
 date: 2025-11-26
+image: /assets/images/cocktail_huntsman_dynamic.svg
 glass: rocks
 ice: ice_large
 type: stirred
@@ -44,7 +46,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_huntsman_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Rye",

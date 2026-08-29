@@ -6,7 +6,8 @@ categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/margarita/"
 iconfile: margarita
-image: /assets/images/cocktail_margarita.svg
+color: #ecd8ab
+image_orig: /assets/images/cocktail_margarita.svg
 stars: 4.5
 base_spirits: ['Curaçao', 'Reposado Tequila']
 youtube: "jxpT11WEtWQ"
@@ -14,6 +15,7 @@ description: "The iconic classic sour that perfectly combines the earthy notes o
 excerpt: |
   The classic Margarita combines tequila, lime and triple sec for ultimate refreshment. This tried-and-true recipe ensures a great, easy cocktail every time.
 date: 2025-12-23
+image: /assets/images/cocktail_margarita_dynamic.svg
 glass: rocks
 garnishes:
   - garnish-lime_wheel
@@ -48,7 +50,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_margarita.png",
+  "image": "{{ site.url }}/assets/images/cocktail_margarita_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Reposado Tequila",

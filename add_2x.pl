@@ -108,7 +108,8 @@ my %garnishes = (
     'rosemary'                 => 'herb_rosemary',
     'blackberries'             => 'fruit_blackberries',
     'raspberries'              => 'fruit_raspberries',
-    'raspberry'                => 'fruit_raspberries',    
+    'raspberry'                => 'fruit_raspberries',   
+    'blackberry'               => 'fruit_blackberries', 
     'strawberry'               => 'fruit_strawberry',
     'olive'                    => 'fruit_olives',
     'pineapple wedge'          => 'slice_pineapple',
@@ -135,7 +136,7 @@ my %ice_types = (
     'large cube'      => 'ice_large',
     'large ice cube'  => 'ice_large',
     'pebble ice'      => 'ice_pebble',
-    'on the rocks'    => 'ice_cubes'
+    'on the rocks'    => 'ice_cubes',
 );
 
 my %cocktail_types = (
@@ -524,14 +525,25 @@ $rating_json
             # 2b. Calculate and Inject the Foam Color (15% lighter)
             # This calls the lighten_color sub at the bottom of your script
             my $foam_color = lighten_color($liquid_color, 0.4);
-            $foam_color = "\#fefaec" if ($egg_white); # Override for egg white cocktails
+            my $opstyle = "opacity: 0.80;fill-opacity: 1";
+             if ($egg_white) {
+                $foam_color = "\#fefaec"; # Override for egg white cocktails
+                $opstyle = "opacity: 0.95;fill-opacity: 1;"
+            }
             $foam_color = "\#b0044e" if ($wine_float); # Override for red wine float cocktails
             
             if (my $foam = $dom->at('#liquid-foam')) {
                 $foam->attr(fill => $foam_color);
                 if (my $style = $foam->attr('style')) {
                     $style =~ s/fill:\s*[^;]+;?//ig;
-                    $foam->attr(style => "$style fill:$foam_color;");
+                    $foam->attr(style => "$style fill:$foam_color;$opstyle");
+                }
+            }
+            if (my $foam = $dom->at('#liquid-foam2')) {
+                $foam->attr(fill => $foam_color);
+                if (my $style = $foam->attr('style')) {
+                    $style =~ s/fill:\s*[^;]+;?//ig;
+                    $foam->attr(style => "$style fill:$foam_color;$opstyle");
                 }
             }
 
