@@ -42,8 +42,15 @@ sub post_receive {
     delete $ENV{'GIT_DIR'};
 
     chdir $GIT_REPO;
+    
+    # 1. Pull the latest raw markdown recipes and base assets
     print `git pull`;
-    # print `bundle exec jekyll build -I --source $GIT_REPO --destination $PUBLIC_WWW`;
+    
+    # 2. Run your Perl script to process recipes and generate the SVGs directly on the server
+    print "Running add_2x.pl...\n";
+    print `perl add_2x.pl`; 
+    
+    # 3. Build the site with Jekyll using the newly generated files
     print "bundle exec jekyll build --source $GIT_REPO --destination $PUBLIC_WWW\n";
     print `bundle exec jekyll build --source $GIT_REPO --destination $PUBLIC_WWW`;
 

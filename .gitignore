@@ -10,3 +10,4 @@ OldGemfile.lock
 OldGemfile
 Gemfile
 GPUCache/
+assets/images/*_dynamic.svg
