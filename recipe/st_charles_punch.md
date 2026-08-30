@@ -6,6 +6,7 @@ categories: [sour]
 eras: [classic, new orleans]
 permalink: "/recipe/st_charles_punch/"
 iconfile: st_charles_punch
+color: #A80100
 stars: 0
 base_spirits: "Ruby Port, Cognac, Absinthe"
 youtube: "btZ5f-OaoQs"
@@ -33,5 +34,5 @@ date: 2025-12-17
 - Glassware:
   - Low Ball
   - Crushed Ice
-- Garnish: Lemon wheel and berries
+- Garnish: Lemon wheel and berries (strawberries and blueberries)
 - Special Prep: Add a straw

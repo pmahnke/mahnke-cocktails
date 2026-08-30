@@ -7,6 +7,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/navy_grog_dons_way/"
 iconfile: navy_grog_dons_way
+color: #F1A137
 stars: 0
 base_spirits: "Demerara Rum, Jamaican Rum, White Rum"
 youtube: "I3jeItKyZCs"

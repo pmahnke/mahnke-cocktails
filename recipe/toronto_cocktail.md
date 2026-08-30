@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/toronto_cocktail/"
 iconfile: toronto_cocktail
+color: #AA0609
 stars: 3
 base_spirits: "Rye, Fernet Branca"
 youtube: "fQfVijUec0A"

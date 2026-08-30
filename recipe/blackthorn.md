@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/blackthorn/"
 iconfile: blackthorn
+color: #9D0A05
 stars: 0
 base_spirits: "Sloe Gin, Sweet Vermouth, Blanc Vermouth"
 youtube: "Wqy0LuuERco"
@@ -31,5 +32,5 @@ date: 2026-03-02
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Martini
-- Garnish: Lemon peel
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil

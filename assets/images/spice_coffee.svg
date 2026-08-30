@@ -6,6 +6,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="spice_coffee.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,11 +26,21 @@
      fit-margin-top="15"
      fit-margin-left="15"
      fit-margin-right="15"
-     fit-margin-bottom="15" />
+     fit-margin-bottom="15"
+     inkscape:zoom="0.15761311"
+     inkscape:cx="31.72325"
+     inkscape:cy="-123.72067"
+     inkscape:window-width="930"
+     inkscape:window-height="824"
+     inkscape:window-x="980"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
   <g
      style="display:inline"
      id="g12"
-     transform="translate(-51.992821,-83.068094)">
+     transform="translate(-51.992821,-83.068094)"
+     inkscape:label="spice_coffee">
     <path
        d="m 42433.5,17814.2 c 1.9,-158.5 295.3,-336.1 549.8,-315.7 254.6,20.4 295.3,162.9 203.7,285.1 -91.7,122.2 -757.3,347.5 -753.5,30.6"
        style="fill:#71331d;fill-opacity:1;fill-rule:nonzero;stroke:none"

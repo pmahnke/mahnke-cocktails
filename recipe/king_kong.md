@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/king_kong/"
 iconfile: king_kong
+color: #A14202
 stars: 0
 base_spirits: "Bourbon, Jamaican Rum, Banana Liqueur"
 youtube: "ye2b6ylRmcs"
@@ -32,5 +33,5 @@ date: 2026-05-29
 - Glassware: 
   - Low Ball
   - Large Ice Cube
-- Garnish:  Lemon peel
+- Garnish:  Lemon twist
 - Special Prep: Expressed lemon oil

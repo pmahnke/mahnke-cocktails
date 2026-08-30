@@ -7,6 +7,7 @@ categories: [martini]
 eras: [prohibition]
 permalink: "/recipe/alberto/"
 iconfile: alberto
+color: #F8EADC
 stars: 0
 base_spirits: "London Dry Gin, Fino Sherry, Cocchi Americano"
 youtube: "PM_X8Ci0iXg"
@@ -30,5 +31,5 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Martini
-- Garnish: Expressed orange oil and peel
+- Garnish: Expressed orange oil and orange twist
 - Special Prep: None

@@ -6,6 +6,7 @@ eras: [modern]
 categories: [sour]
 permalink: "/recipe/macunaima/"
 iconfile: macunaima
+color: #DB7F05
 stars: 4
 base_spirits: "Cachaça, Fernet Branca"
 youtube: "xnXFbjQSu-k"

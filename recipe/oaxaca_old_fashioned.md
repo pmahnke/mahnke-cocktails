@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/oaxaca_old_fashioned/"
 iconfile: oaxaca_old_fashioned
+color: #C55030
 stars: 0
 base_spirits: "Reposado Tequila, Mezcal"
 youtube: "LkXW1diKOvs"
@@ -31,7 +32,7 @@ date: 2025-08-11
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Expressed grapefruit oil and peel
+- Garnish: Expressed grapefruit oil and grapefruit twist
 - Special Prep:
   - Blend cocktail with a stick blender in the shaking tin.
   - Pour cocktail into glass.

@@ -6,6 +6,7 @@ categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_strawberry/"
 iconfile: margarita_strawberry
+color: #DC2835
 stars: 0
 base_spirits: "Reposado Tequila, Curaçao"
 youtube: "jxpT11WEtWQ"

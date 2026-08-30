@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/black_thorn/"
 iconfile: black_thorn
+color: #EF8800
 stars: 0
 base_spirits: "Irish Whiskey, Blanc Vermouth, Absinthe"
 youtube: "Wqy0LuuERco"
@@ -30,5 +31,5 @@ date: 2026-03-01
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Martini
-- Garnish: Lemon peel
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil

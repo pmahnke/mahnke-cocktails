@@ -5,6 +5,7 @@ title: "Pear Granita"
 categories: [syrup]
 permalink: "/recipe/pear_granita/"
 iconfile: pear_granita
+color: #FDCB68
 stars: 5
 youtube: "ouRs57kDexU"
 excerpt: |

@@ -6,6 +6,7 @@ eras: [modern]
 categories: [martini]
 permalink: "/recipe/vesper/"
 iconfile: vesper
+color: #DFE6D9
 stars: 0
 base_spirits: "London Dry Gin, Vodka, Cocchi Americano"
 youtube: "VBSjE-P_C58"

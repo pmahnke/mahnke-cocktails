@@ -49,7 +49,7 @@ my %glassware = (
     'copper mug'           => 'copper_mug',
     'glassware: mug'       => 'coffee',
     'cordial'              => 'cordial',
-    'double old fashioned' => 'double_old_fashioned',
+    'double old fashioned' => 'rocks',
     'gin balloon'          => 'gin_balloon',
     'goblet'               => 'goblet',
     'julep cup'            => 'julep_cup',
@@ -100,6 +100,7 @@ my %garnishes = (
     'orange oil'               => 'garnish-orange_peel_oil',
     
     'grapefruit peel'          => 'garnish-grapefruit_peel',
+    'grapefruit twist'         => 'twist_grapefruit',
 
     'umbrella'                 => 'garnish-umbrella',
     'cucumber'                 => 'garnish_cucumber',
@@ -139,7 +140,9 @@ my %tools = (
 
 my %ice_types = (
     'crushed ice'     => 'ice_crushed',
+    'ice cone'        => 'ice_crushed',
     'cubed ice'       => 'ice_cubes',
+    'ice cubes'       => 'ice_cubes',
     'large cube'      => 'ice_large',
     'large ice cube'  => 'ice_large',
     'pebble ice'      => 'ice_pebble',
@@ -149,7 +152,6 @@ my %ice_types = (
 my %cocktail_types = (
     'shaken'          => 'shaken',
     'stirred'         => 'stirred',
-    'built'           => 'built',
     'method: blended' => 'blended'
 );
 

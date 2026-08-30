@@ -4,6 +4,7 @@ author: Anders Erickson
 creator: Justin Elliott
 title: "Tradewinds Negroni"
 iconfile: tradewinds_negroni
+color: #B10E13
 eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/tradewinds_negroni/"
@@ -31,5 +32,5 @@ date: 2025-08-11
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Expressed orange oil and peel
+- Garnish: Expressed orange oil and orange twist
 - Special Prep: None

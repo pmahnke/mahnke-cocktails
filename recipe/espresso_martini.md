@@ -7,7 +7,8 @@ eras: [modern]
 categories: [coffee, after_dinner]
 permalink: "/recipe/espresso_martini/"
 iconfile: espresso_martini
-image: /assets/images/category_coffee.svg
+color: #331A15
+image_orig: /assets/images/category_coffee.svg
 stars: 0
 base_spirits: "Coffee Liqueur, Vodka "
 youtube: "q0ebbWwoI10"

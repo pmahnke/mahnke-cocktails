@@ -7,6 +7,7 @@ categories: [amaro, martini]
 eras: [modern]
 permalink: "/recipe/sloe_gin_martinez/"
 iconfile: sloe_gin_martinez
+color: #AD2216
 stars: 0
 base_spirits: "Sloe Gin, Sweet Vermouth, Curaçao, Maraschino Liqueur, Campari"
 youtube: "Cy1skc0oI28"

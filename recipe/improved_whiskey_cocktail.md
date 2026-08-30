@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/improved_whiskey_cocktail/"
 iconfile: improved_whiskey_cocktail
+color: #8D3600
 stars: 4
 base_spirits: "Rye, Maraschino Liqueur, Absinthe"
 youtube: "8Mj790thvm8"

@@ -6,7 +6,8 @@ categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/sazarac/"
 iconfile: sazarac
-image: /assets/images/cocktail_sazarac.svg
+color: #B16430
+image_orig: /assets/images/cocktail_sazarac.svg
 stars: 4
 base_spirits: "Rye, Cognac, Absinthe"
 youtube: "dJ-sAEzw9Jc"
@@ -32,5 +33,5 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Low Ball
-- Garnish: Lemon zest
+- Garnish: Lemon twist
 - Special Prep: Rinse the glass with absinthe. Strain in cocktail. Express lemon oil on the drink.

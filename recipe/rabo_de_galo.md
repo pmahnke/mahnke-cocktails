@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/rabo_de_galo/"
 iconfile: rabo_de_galo
+color: #B44713
 stars: 0
 base_spirits: "Cachaça, Sweet Vermouth, Cynar"
 youtube: "YFqEvNdPrX8"

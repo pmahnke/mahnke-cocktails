@@ -7,8 +7,8 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/black_manhattan/"
 iconfile: black_manhattan
-image: /assets/images/cocktail_black_manhattan.svg
-color: "#4A2511"
+image_orig: /assets/images/cocktail_black_manhattan.svg
+color: "#68361b"
 stars: 4
 base_spirits: "Rye, Averna"
 youtube: "YWKJsv8PymI&t=205s"

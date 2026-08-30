@@ -7,6 +7,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/bitter_giuseppe/"
 iconfile: bitter_giuseppe
+color: #8A0101
 stars: 0
 base_spirits: "Cynar, Sweet Vermouth"
 youtube: "AHPatRO71U8"
@@ -33,5 +34,5 @@ date: 2025-08-11
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Lemon Peel
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil
