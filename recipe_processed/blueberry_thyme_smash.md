@@ -13,7 +13,7 @@ description: "A simple and refreshing smash that combines gin with the fruity no
 excerpt: |
   This cocktail is a simple concoction of gin, lemon, blueberries, and thyme.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 garnishes: herb_thyme
 ice: ice_large
 type: shaken

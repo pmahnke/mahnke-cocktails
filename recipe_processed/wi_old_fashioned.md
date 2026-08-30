@@ -14,7 +14,7 @@ excerpt: |
   A Wisconsin old fashioned is not your typical old fashioned; it muddles sugar, bitters and orange with brandy and finishes with a crisp pour of a sweet or sour soda.
 date: 2025-08-11
 glass:
-  - rocks
+  - low_ball
   - sour
 garnishes:
   - bubbles

@@ -14,7 +14,7 @@ description: "This cocktail drinks like an Old Fashioned with a tropical edge th
 excerpt: |
   Created by Sam Ross at Attaboy in 2015, the King Kong is a bold, tropical riff on the classic Old Fashioned. It pairs a rich bourbon base with funky, overproof Jamaican rum and sweet banana liqueur, balanced by a few dashes of aromatic bitters and a lemon twist.
 date: 2026-05-29
-glass: rocks
+glass: low_ball
 garnishes: garnish-lemon_peel
 ice: ice_large
 type: stirred

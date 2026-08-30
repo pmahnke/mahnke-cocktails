@@ -6,6 +6,7 @@ categories: [smash]
 eras: [classic]
 permalink: "/recipe/whiskey_smash/"
 iconfile: whiskey_smash
+color: #ecc96d
 stars: 0
 base_spirits: "Bourbon "
 youtube: "Jo1wxAfyLto"

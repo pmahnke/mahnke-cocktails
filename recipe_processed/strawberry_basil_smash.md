@@ -13,7 +13,7 @@ description: "A refreshing classic smash that combines the sweetness of fresh st
 excerpt: |
   The Strawberry Basil Smash is a refreshing cocktail that combines the sweetness of strawberries with the herbaceousness of basil.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 garnishes: fruit_strawberry
 ice: ice_large
 type: shaken

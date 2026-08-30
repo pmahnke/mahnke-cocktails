@@ -13,7 +13,7 @@ description: "A classic cocktail that combines the rich flavors of bourbon and c
 excerpt: |
   The Black Rose cocktail is a classic drink that combines the flavors of bourbon, cognac, grenadine, and bitters.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 garnishes: garnish-lemon_peel_oil
 ice: ice_large
 type: stirred

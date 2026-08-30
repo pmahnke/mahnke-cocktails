@@ -13,7 +13,7 @@ description: "A modern, bittersweet after-dinner cocktail that adds the rich fla
 excerpt: |
   A coffee Negroni is a modern, bittersweet, gin-forward cocktail that's made with coffee liqueur, gin, Campari, and sweet vermouth.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 ice: ice_large
 type: stirred
 ---

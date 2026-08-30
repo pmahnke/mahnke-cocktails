@@ -16,7 +16,9 @@ excerpt: |
 date: 2025-08-11
 image: /assets/images/cocktail_mary_pickford_dynamic.svg
 glass: coupe
-garnishes: garnish-cherries_stick
+garnishes:
+  - garnish-cherries_stick
+  - garnish-pineapple_fronds
 type: shaken
 ---
 

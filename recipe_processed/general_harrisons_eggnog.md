@@ -6,6 +6,7 @@ categories: [eggnog]
 eras: [classic]
 permalink: "/recipe/general_harrisons_eggnog/"
 iconfile: general_harrisons_eggnog
+color: #f4c674
 stars: 0
 base_spirits: ['Allspice Dram', 'Demerara Rum', 'Dry Hard Cider']
 youtube: "s7Rcx7Fekn4"
@@ -14,7 +15,8 @@ excerpt: |
   This recipe came from Dale DeGroff in December 2012 who said: "A personal favourite, adapted from a recipe from Jerry Thomas' 1862 <i>How to Mix Drinks</i>: a totally different take on eggnog – made as a single-serve drink it includes a raw egg, so you need to shake the hell out of it."
   <br><br>This cocktail is named after General William Henry Harrison, the American president to hold office for the shortest period. He was elected 4th March 1841 and died a month to the day later of pneumonia. Harrison was known for his drinking and cider was one of his preferred tipples. It is said that this eggnog was his favourite drink.
 date: 2025-08-11
-glass: rocks
+image: /assets/images/cocktail_general_harrisons_eggnog_dynamic.svg
+glass: low_ball
 garnishes: spice_nutmeg
 type: shaken
 ---
@@ -45,7 +47,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_general_harrisons_eggnog_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1 whole Egg",

@@ -16,7 +16,7 @@ excerpt: |
   The Outlander, created by Mikki Kristola, is a sophisticated, Scotch-based cocktail that reimagines the classic Old Fashioned structure with an improved, herbaceous profile. It features two ounces of Blended Scotch, lending a smoky and malty foundation, complemented by a half-ounce of sweet, nutty Maraschino Liqueur. A double-dash of aromatic Peychaud's Bitters and a couple of dashes of Absinthe introduce an intriguing layer of anise and spice. Garnish with a lemon twist and a cherry to brighten the rich, warming character of this Varnish original.
 date: 2025-12-10
 image: /assets/images/cocktail_outlander_dynamic.svg
-glass: rocks
+glass: low_ball
 garnishes:
   - garnish-lemon_peel
   - twist_cocktail-cherry

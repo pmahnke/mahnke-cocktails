@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/sentimental_gent/"
 iconfile: sentimental_gent
+color: #56210d
 stars: 0
 base_spirits: "Blended Scotch, Bénédictine, Walnut Liqueur"
 youtube: "QFjRjAP-k1k&t=3s"

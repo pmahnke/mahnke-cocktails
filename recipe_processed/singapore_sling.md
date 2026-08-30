@@ -19,6 +19,7 @@ glass: highball
 garnishes:
   - bubbles
   - garnish-lime_wheel
+  - garnish-pineapple_fronds
   - garnish-umbrella
   - slice_pineapple
   - twist_cocktail-cherry

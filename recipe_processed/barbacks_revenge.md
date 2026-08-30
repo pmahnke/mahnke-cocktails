@@ -6,6 +6,7 @@ categories: [coffee, cocktail]
 eras: [anders]
 permalink: "/recipe/barbacks_revenge/"
 iconfile: barbacks_revenge
+color: #5f2300
 stars: 0
 base_spirits: ['Amontillado Sherry', 'Bénédictine', 'Demerara Rum']
 youtube: "RRvfkkSjceM"
@@ -13,7 +14,8 @@ description: "A unique coffee cocktail that combines herbal Bénédictine and sa
 excerpt: |
   While it may sound menacing on the surface, this cocktail will be your cold-brew coffee's new best friend. With herbal sweetness from the rum and benedictine to savory elements from the sherry.
 date: 2025-09-26
-glass: rocks
+image: /assets/images/cocktail_barbacks_revenge_dynamic.svg
+glass: low_ball
 garnishes: garnish-lemon_peel_oil
 ice: ice_large
 type: stirred
@@ -46,7 +48,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_barbacks_revenge_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Demerara Rum",

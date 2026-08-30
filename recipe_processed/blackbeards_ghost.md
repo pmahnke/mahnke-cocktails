@@ -13,8 +13,10 @@ description: "An original tiki cocktail that features a blend of gold and demera
 excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
-glass: rocks
-garnishes: garnish-dry_lime_wheel
+glass: low_ball
+garnishes:
+  - garnish-dry_lime_wheel
+  - garnish-pineapple_fronds
 ice: ice_crushed
 type: shaken
 ---

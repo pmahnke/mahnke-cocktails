@@ -7,7 +7,8 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/elder_fashioned/"
 iconfile: elder_fashioned
-image: /assets/images/cocktail_elder_fashioned.svg
+color: #ecc779
+image_orig: /assets/images/cocktail_elder_fashioned.svg
 stars: 0
 base_spirits: ['Bourbon', 'Elderflower Liqueur', 'Plymouth Gin']
 youtube: "yqrQJO1brcM"
@@ -15,7 +16,8 @@ description: "Here are two variations on the Old Fashioned, the Elder Fashioned 
 excerpt: |
   Here are two variations on the Old Fashioned, the Elder Fashioned and the Elder Fashion. Both feature elderflower liqueur, but take the classic cocktail in different directions. The first was created by Simon Difford and pairs bourbon with elderflower liqueur for a floral riff on the Old Fashioned. The second is a Phil Ward original that swaps the whiskey for gin and deconstructs the classic Old Fashioned recipe to create something completely different. 
 date: 2026-08-22
-glass: rocks
+image: /assets/images/cocktail_elder_fashioned_dynamic.svg
+glass: low_ball
 garnishes:
   - garnish-grapefruit_peel
   - garnish-orange_peel
@@ -80,7 +82,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/cocktail_elder_fashioned.png",
+  "image": "{{ site.url }}/assets/images/cocktail_elder_fashioned_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "     2 oz Bourbon",

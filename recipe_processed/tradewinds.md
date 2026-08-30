@@ -15,6 +15,7 @@ excerpt: |
 date: 2025-08-11
 glass: tiki
 garnishes:
+  - garnish-pineapple_fronds
   - garnish-umbrella
   - spice_nutmeg
 ice: ice_crushed

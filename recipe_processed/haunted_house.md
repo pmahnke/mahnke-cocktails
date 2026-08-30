@@ -13,9 +13,9 @@ description: "A modern cocktail with a complex profile, combining Jamaican rum, 
 excerpt: |
   The Haunted House cocktail is a spooky and delicious drink that's perfect for Halloween or any other spooky occasion. It's made with bourbon, apple cider, lemon juice, and a variety of spices, including cinnamon, nutmeg, and cloves. The drink is garnished with a cinnamon stick and a lemon wheel, making it both festive and festive.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 garnishes:
-  - garnish-orange_peel
+  - garnish-orange_peel_oil
   - twist_cocktail-cherry
 ice: ice_large
 type: stirred

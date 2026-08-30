@@ -7,6 +7,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/voyager/"
 iconfile: voyager
+color: #a14205
 stars: 0
 base_spirits: ['Bénédictine', 'Jamaican Rum']
 youtube: "9V4Jj3bmi90"
@@ -14,8 +15,11 @@ description: "A rum-based, tiki-style drink created by mixologist Robert Hess an
 excerpt: |
   The Voyager, created by renowned mixologist Robert Hess in 2006 for the "Tales of the Cocktail" event in New Orleans, offers a unique spin on the traditional tiki cocktail. It was designed to use less common ingredients like Bénédictine and falernum, which were harder to find at the time, and provides a drier profile while retaining the essential tropical flavors. 
 date: 2025-12-17
-glass: rocks
-garnishes: garnish-dry_lime_wheel
+image: /assets/images/cocktail_voyager_dynamic.svg
+glass: low_ball
+garnishes:
+  - garnish-dry_lime_wheel
+  - garnish-pineapple_fronds
 ice: ice_crushed
 type: blended
 ---
@@ -24,7 +28,7 @@ type: blended
 
 | Amount | Ingredient       | Brand                              |
 | -----: | ---------------- | ---------------------------------- |
-|   <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum/ "More Jamaican Rum recipes")       | Appleton Estate 12 Year Rare Casks |
+|   <span class="onex active">2 oz  / 60 ml</span> <span class="onehalfx">3 oz  / 90 ml</span> <span class="twox">4 oz  / 120 ml</span> <span class="threex">6 oz  / 180 ml</span>| Jamaican Rum [&#9432;](/spirit/jamaican_rum/ "More Jamaican Rum recipes")     | Appleton Estate 12 Year Rare Casks |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Bénédictine [&#9432;](/spirit/benedictine/ "More Bénédictine recipes")      | Bénédictine DOM                    |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Falernum         |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="onehalfx"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="twox">1 oz  / 30 ml</span> <span class="threex">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span>| Fresh Lime Juice |
@@ -46,7 +50,7 @@ type: blended
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_voyager_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Jamaican Rum",

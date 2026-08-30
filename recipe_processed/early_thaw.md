@@ -6,6 +6,7 @@ categories: [amaro, spritz]
 eras: [anders]
 permalink: "/recipe/early_thaw/"
 iconfile: early_thaw
+color: #76220e
 stars: 0
 base_spirits: ['Aperol', 'Cocchi Americano', 'Prosecco', 'Vodka']
 youtube: "2gYbnb705YQ"
@@ -13,7 +14,8 @@ description: "A spritz version of the Spring Awakening cocktail, which is a vodk
 excerpt: |
   This is Anders spritz riff on thee Spring Awakening cocktail. It is slightly more bitter than an Aperol spritz.
 date: 2026-03-24
-glass: rocks
+image: /assets/images/cocktail_early_thaw_dynamic.svg
+glass: low_ball
 garnishes:
   - bubbles
   - garnish-lemon_wheel
@@ -53,7 +55,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_early_thaw_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.5 oz Vodka",

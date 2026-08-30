@@ -13,7 +13,7 @@ description: "A smoky and spicy original sour cocktail featuring mezcal as its b
 excerpt: |
   The See No Evil is a smoky, spicy cocktail created by Anders Erickson.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 garnishes:
   - herb_mint
   - spice_nutmeg

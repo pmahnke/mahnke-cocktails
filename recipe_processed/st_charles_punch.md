@@ -14,7 +14,7 @@ description: |
 excerpt: |
   The St. Charles Punch is a classic drink with its origins in the St. Charles Hotel in New Orleans some time in the 19th century. This version is an adaptation from  Jerry Thomas's 1862 The Bar-Tenders Guide. The guide's modern adaptation features a classic port and brandy combination, which it refers to as a "randy". The recipe balances the richness of tawny port and cognac with the tartness of fresh lemon juice and a touch of syrup. This creates a drink that is both well-balanced and historically significant, reflecting the timeless appeal of a well-crafted vintage cocktail.
 date: 2025-12-17
-glass: rocks
+glass: low_ball
 garnishes: garnish-lemon_wheel
 ice: ice_crushed
 type: blended

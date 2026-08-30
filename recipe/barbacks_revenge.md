@@ -6,6 +6,7 @@ categories: [coffee, cocktail]
 eras: [anders]
 permalink: "/recipe/barbacks_revenge/"
 iconfile: barbacks_revenge
+color: #5f2300
 stars: 0
 base_spirits: "Demerara Rum, Bénédictine, Amontillado Sherry"
 youtube: "RRvfkkSjceM"

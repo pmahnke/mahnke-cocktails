@@ -6,6 +6,7 @@ categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_spicy/"
 iconfile: margarita_spicy
+color: #b3a265
 stars: 0
 base_spirits: "Mezcal, Curaçao"
 youtube: "jxpT11WEtWQ"

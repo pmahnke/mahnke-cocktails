@@ -6,6 +6,7 @@ categories: [amaro, cocktail, smoked]
 eras: [prohibition]
 permalink: "/recipe/cigar/"
 iconfile: cigar
+color: #510402
 stars: 0
 base_spirits: "Sweet Vermouth, Single Malt Scotch, Aperol"
 youtube: "gZdT2GBf91I"

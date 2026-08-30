@@ -14,7 +14,7 @@ description: "A refreshing modern classic from 2003 that twists the Negroni form
 excerpt: |
   The Enzoni cocktail is a refreshing twist on the classic Negroni, created by Vincenzo Errico in 2003. It combines the bitterness of Campari with the sweetness of green grapes and the botanical depth of gin.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 garnishes: garnish-grapes
 ice: ice_large
 type: shaken

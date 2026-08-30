@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/spring_awakening/"
 iconfile: spring_awakening
+color: #e25310
 stars: 0
 base_spirits: ['Aperol', 'Cocchi Americano', 'Vodka']
 youtube: "2gYbnb705YQ"
@@ -13,7 +14,8 @@ description: "This is a simple vodka cocktail built with Aperol and Cocchi Ameri
 excerpt: |
   The Spring Awakening, from the 2016 Waldorf Astoria Bar Book, is a simple vodka cocktail built with Aperol and Cocchi Americano, and can go by two names, Spring Awakening or Winter's Nap, depending on the garnish. Rosemary makes this the Winter’s Nap, while a citrus twist turns it into the Spring Awakening.
 date: 2026-03-24
-glass: rocks
+image: /assets/images/cocktail_spring_awakening_dynamic.svg
+glass: low_ball
 ice: ice_large
 type: stirred
 ---
@@ -34,10 +36,10 @@ type: stirred
   - Low Ball
   - Large Ice Cube
 - Garnish:
-  - Spring Awakening: Orange or Lemon peel
+  - Spring Awakening: Orange or Lemon twist
   - Winter's Nap: Sprig of rosemary
 - Special Prep:
-  - Spring Awakening: Expressed orange or lemon oil
+  - Spring Awakening: Expressed orange oil or lemon oil
   - Winter's Nap: None
 
 <script type="application/ld+json">
@@ -48,7 +50,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_spring_awakening_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1 oz Vodka",
@@ -83,7 +85,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Spring Awakening: Orange or Lemon peel"
+      "text": "Spring Awakening: Orange or Lemon twist"
     },
     {
       "@type": "HowToStep",
@@ -95,7 +97,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Spring Awakening: Expressed orange or lemon oil"
+      "text": "Spring Awakening: Expressed orange oil or lemon oil"
     },
     {
       "@type": "HowToStep",

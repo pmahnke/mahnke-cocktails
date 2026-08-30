@@ -15,7 +15,7 @@ excerpt: |
   The Rum Manhattan is a variation of the classic Manhattan cocktail, swapping out the traditional whiskey base for a flavorful rum.
 date: 2025-08-11
 image: /assets/images/cocktail_rum_manhattan_dynamic.svg
-glass: rocks
+glass: low_ball
 garnishes:
   - twist_cocktail-cherry
   - twist_lemon

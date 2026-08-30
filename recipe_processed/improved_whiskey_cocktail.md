@@ -14,7 +14,7 @@ description: 'A classic Old Fashioned variation from the 1870s, "improved" with 
 excerpt: |
   The Whiskey Cocktail, along with this Improved version appeared in Jerry Thomas's 1876 <i>The Bar-tender's Guide</i>. The book also includes "Improved" versions of the Brandy Cocktail, and Gin Cocktail which are all what we today call Old Fashioned cocktails. In the words of Jerry Thomas, they have been "<i>improved by moistening the edge of the cocktail glass with a piece of lemon</i>." Such "improved" American cocktails from the period are also distinguished by using European ingredients, particularly maraschino liqueur and/or absinthe.
 date: 2025-09-26
-glass: rocks
+glass: low_ball
 garnishes:
   - garnish-lemon_peel
   - garnish-lemon_peel_oil

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-09-26
 image: /assets/images/cocktail_angel_face_dynamic.svg
 glass: nick_and_nora
-garnishes: garnish-orange_peel
+garnishes: garnish-orange_peel_oil
 type: stirred
 ---
 

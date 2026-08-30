@@ -16,6 +16,7 @@ excerpt: |
 date: 2025-11-15
 image: /assets/images/cocktail_yvonnes_reprise_dynamic.svg
 glass: coupe
+garnishes: garnish-pineapple_fronds
 type: shaken
 ---
 

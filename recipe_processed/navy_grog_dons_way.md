@@ -16,7 +16,7 @@ excerpt: |
   <br><br>
   The drink was traditionally served in a double old-fashioned glass with a unique garnish: a cone of shaved ice with a straw running through it. This iconic presentation made the drink a favorite at Don the Beachcomber restaurants and is still a hallmark of the cocktail today. The Navy Grog was so potent that it was often limited to two or three per customer.
 date: 2025-08-20
-glass: rocks
+glass: low_ball
 garnishes: bubbles
 type: shaken
 ---

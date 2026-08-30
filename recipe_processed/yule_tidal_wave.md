@@ -17,6 +17,7 @@ date: 2025-09-26
 image: /assets/images/cocktail_yule_tidal_wave_dynamic.svg
 glass: hurricane
 garnishes:
+  - garnish-pineapple_fronds
   - garnish-umbrella
   - spice_nutmeg
 ice: ice_cubes

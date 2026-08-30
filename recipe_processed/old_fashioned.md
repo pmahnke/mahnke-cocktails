@@ -6,6 +6,7 @@ eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/old_fashioned/"
 iconfile: old_fashioned
+color: #751613
 stars: 3.25
 base_spirits: ['Bourbon']
 youtube: "pdcrJ5V7YKM"
@@ -15,7 +16,8 @@ excerpt: |
 
   The Old Fashioned as we know it comes from an early mixed drink simply called the Whiskey Cocktail, thought to be popularized in the late 1700s when it was fashionable to add a few dashes of bitters to a glass of whiskey. The cocktail’s creation goes hand in hand with the proliferation of both whiskey and commercial bitters, an aromatic ingredient with medicinal origins that involved steeping herbs, barks, botanicals, and other plant extracts in spirits to create a curative that could be mixed with water or other ingredients, often to aid in digestion.
 date: 2025-10-20
-glass: rocks
+image: /assets/images/cocktail_old_fashioned_dynamic.svg
+glass: low_ball
 garnishes: twist_cocktail-cherry
 ice:
   - ice_cubes
@@ -50,7 +52,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_old_fashioned_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "   2 oz Bourbon",

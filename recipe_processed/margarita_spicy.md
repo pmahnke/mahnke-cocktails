@@ -6,6 +6,7 @@ categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_spicy/"
 iconfile: margarita_spicy
+color: #b3a265
 stars: 0
 base_spirits: ['Curaçao', 'Mezcal']
 youtube: "jxpT11WEtWQ"
@@ -13,7 +14,8 @@ description: "A modern Margarita variation that adds a kick of heat from muddled
 excerpt: |
   A Smoky Spicy Margarita is a cocktail that adds a smoky and spicy twist to the classic margarita. It typically involves using mezcal instead of tequila, muddling in jalapeños for heat, and rimming the glass with a spicy salt mixture like chili powder and cayenne pepper.
 date: 2025-12-23
-glass: rocks
+image: /assets/images/cocktail_margarita_spicy_dynamic.svg
+glass: low_ball
 garnishes: garnish-lime_wheel
 ice: ice_cubes
 type: shaken
@@ -47,7 +49,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_margarita_spicy_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "     2 oz Mezcal",

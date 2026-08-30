@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/seasonal_affective_disorder/"
 iconfile: seasonal_affective_disorder
+color: #a45530
 image: /assets/images/cocktail_seasonal_affective_disorder.svg
 stars: 4.5
 base_spirits: ['Absinthe', 'Cognac', 'Demerara Rum']
@@ -14,7 +15,7 @@ description: "An original cocktail with a complex profile, combining demerara ru
 excerpt: |
   This is an Anders original cocktail.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 garnishes: spice_nutmeg
 ice: ice_crushed
 type: shaken

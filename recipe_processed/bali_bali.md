@@ -14,7 +14,9 @@ excerpt: |
   The Bali Bali is a classic tiki cocktail that packs a punch with its blend of rums, liqueurs, and fruit juices.
 date: 2025-08-11
 glass: tiki
-garnishes: garnish-umbrella
+garnishes:
+  - garnish-pineapple_fronds
+  - garnish-umbrella
 ice: ice_crushed
 type: shaken
 ---

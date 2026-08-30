@@ -15,7 +15,7 @@ excerpt: |
   The drink is essentially a tequila Collins, made with lime in place of lemon and grenadine in place of plain sugar, with the addition of some Angostura Aromatic Bitters.
 date: 2025-08-11
 image: /assets/images/cocktail_mexican_firing_squad_dynamic.svg
-glass: rocks
+glass: low_ball
 garnishes: garnish-lime_wheel
 ice: ice_large
 type: shaken

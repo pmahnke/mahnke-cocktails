@@ -6,6 +6,7 @@ categories: [amaro, cocktail, smoked]
 eras: [prohibition]
 permalink: "/recipe/cigar/"
 iconfile: cigar
+color: #510402
 stars: 0
 base_spirits: ['Aperol', 'Single Malt Scotch', 'Sweet Vermouth']
 youtube: "gZdT2GBf91I"
@@ -13,6 +14,7 @@ description: "A classic smoked cocktail designed to complement the flavors of a 
 excerpt: |
   The Cigar Cocktail is a classic cocktail that is designed to complement the flavors of a cigar. It is typically made with a blend of dark spirits, such as whiskey or rum, and sweet vermouth.
 date: 2025-12-09
+image: /assets/images/cocktail_cigar_dynamic.svg
 glass: rocks
 garnishes: spice_cinnamon
 type: stirred
@@ -42,7 +44,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_cigar_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Sweet Vermouth",

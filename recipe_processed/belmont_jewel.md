@@ -13,7 +13,7 @@ description: "The official cocktail of the Belmont Stakes, this is a refreshing 
 excerpt: |
   The Belmont Jewel is the official cocktail of the Belmont Stakes. It's a refreshing and fruity drink that's perfect for summer.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 garnishes: herb_mint
 ice: ice_cubes
 type: shaken

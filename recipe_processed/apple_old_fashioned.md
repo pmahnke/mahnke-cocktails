@@ -13,7 +13,7 @@ description: "Following the traditional Old Fashioned template of spirit, sugar,
 excerpt: |
   This is an Anders original and a cozy fall twist on the classic. Following the traditional Old Fashioned template of spirit, sugar, and bitters, the sweetener here is an apple cider reduction.
 date: 2025-10-31
-glass: rocks
+glass: low_ball
 ice: ice_large
 type: stirred
 ---

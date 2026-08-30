@@ -6,6 +6,7 @@ categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_ginger/"
 iconfile: margarita_ginger
+color: #e1ba71
 stars: 0
 base_spirits: "Reposado Tequila, Curaçao"
 youtube: "jxpT11WEtWQ"
@@ -25,10 +26,10 @@ date: 2025-12-23
 | 0.75 oz | Grapefruit Juice                                |
 | 0.25 oz | [Ginger Syrup]({%link recipe/ginger_syrup.md%}) |
 
-Method: Shaken
-Pour: Double Strain
-Glassware:
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
   - Low Ball
   - On the Rocks
-Garnish: Candied ginger, Lime wheel
-Special Prep: Salted rim
+- Garnish: Candied ginger, Lime wheel
+- Special Prep: Salted rim

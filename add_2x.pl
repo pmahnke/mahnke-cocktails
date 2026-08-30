@@ -20,6 +20,11 @@ chomp($rootdir);
 my $dir   = $rootdir."/recipe/";
 my $mydir = $rootdir."/recipe_processed/";
 
+# Create the output directory if it does not exist
+unless (-d $mydir) {
+    mkdir $mydir or die "Cannot create directory $mydir: $!\n";
+}
+
 # ==============================================================================
 # Dictionary Mappings for Front Matter Auto-Injection
 # ==============================================================================
@@ -32,7 +37,7 @@ my %glassware = (
     'highball'             => 'highball',
     'high ball'            => 'highball',
     'martini'              => 'martini',
-    'low ball'             => 'rocks',
+    'low ball'             => 'low_ball',
     'rocks glass'          => 'rocks',
     'footed rocks glass'   => 'rocks',
     'tiki mug'             => 'tiki',
@@ -74,6 +79,7 @@ my %garnishes = (
     'lime peel'                => 'garnish-lime_peel',
     'lime oil'                 => 'garnish-lemon_peel_oil',
     'lime twist'               => 'garnish-lime_twist',
+    'Lime shell'               => 'garnish-lime_wheel',
 
     'grape'                    => 'garnish-grapes',
     'green apple slice'        => 'slice_green_apple',
@@ -91,7 +97,7 @@ my %garnishes = (
     'orange twist'             => 'twist_orange',
     'orange slice'             => 'garnish-orange_slice',
     'dehydrated orange wheel'  => 'garnish-dry_orange_wheel',
-    'orange oil'               => 'garnish-orange_peel',
+    'orange oil'               => 'garnish-orange_peel_oil',
     
     'grapefruit peel'          => 'garnish-grapefruit_peel',
 
@@ -113,6 +119,7 @@ my %garnishes = (
     'strawberry'               => 'fruit_strawberry',
     'olive'                    => 'fruit_olives',
     'pineapple wedge'          => 'slice_pineapple',
+    'pineapple fronds'         => 'garnish-pineapple_fronds',
     'apple slice'              => 'slice_green_apple',
     'anise'                    => 'spice_anise',
     'cinnamon'                 => 'spice_cinnamon',
@@ -256,7 +263,7 @@ while (my $file = readdir DIR) {
     if ($entire_file_text =~ /salted rim|sugared rim/i) {
         push @found_garnishes, 'garnish-salted_rim';
     }
-    if ($entire_file_text =~ /egg white/i) {
+    if ($entire_file_text =~ /egg/i) {
         $egg_white = 1;
     }
     if ($entire_file_text =~ /float the red wine/i) {
@@ -816,8 +823,8 @@ sub read_spirit_data {
 sub lighten_color {
     my ($hex, $percent) = @_;
     
-    # Strip the hash if it's there
-    $hex =~ s/^#//;
+    # Strip any hashes or whitespace globally
+    $hex =~ s/[#\s]//g;
     
     # Extract RGB values
     my $r = hex(substr($hex, 0, 2));
@@ -839,8 +846,8 @@ sub lighten_color {
 sub darken_color {
     my ($hex, $percent) = @_;
     
-    # Strip the hash if it's there
-    $hex =~ s/^#//;
+    # Strip any hashes or whitespace globally
+    $hex =~ s/[#\s]//g;
     
     # Extract RGB values
     my $r = hex(substr($hex, 0, 2));

@@ -7,6 +7,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/doctor_funk/"
 iconfile: doctor_funk
+color: #9d1500
 stars: 3.5
 base_spirits: ['Absinthe', 'Gold Rum', 'Jamaican Rum']
 youtube: "aMXyG72irqI"
@@ -14,7 +15,9 @@ description: "A classic tiki cocktail with a unique flavor profile that includes
 excerpt: |
   Created by Don Beach in the early 1950s at his The Don The Beachcomber restaurant in Palm Springs, this drink is named after Doctor Bernard Funk who was Robert Louis Stevenson's physician in Samoa. The good doctor is said to have concocted and prescribed an absinthe laced limeade so inspiring this cocktail.
 date: 2025-08-11
-glass: rocks
+image: /assets/images/cocktail_doctor_funk_dynamic.svg
+glass: low_ball
+garnishes: garnish-pineapple_fronds
 ice: ice_crushed
 type: shaken
 ---
@@ -49,7 +52,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_doctor_funk_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Jamaican Rum",

@@ -13,7 +13,7 @@ description: "A classic and simple Brazilian cocktail known for its bold flavors
 excerpt: |
   The Rabo de Galo is a classic Brazilian cocktail known for its simplicity and bold flavors.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 garnishes:
   - garnish-lemon_peel_oil
   - garnish-lime_peel

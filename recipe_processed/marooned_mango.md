@@ -16,7 +16,9 @@ excerpt: |
 date: 2025-08-11
 image: /assets/images/cocktail_marooned_mango_dynamic.svg
 glass: nick_and_nora
-garnishes: garnish-angostura_bitters
+garnishes:
+  - garnish-angostura_bitters
+  - garnish-pineapple_fronds
 type: shaken
 ---
 

@@ -7,6 +7,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/navy_grog_vics_way/"
 iconfile: navy_grog_vics_way
+color: #a16e34
 stars: 0
 base_spirits: "Demerara Rum, Jamaican Rum, White Rum, Allspice Dram"
 youtube: "I3jeItKyZCs"
@@ -34,4 +35,5 @@ date: 2025-08-20
 - Pour: Open Pour
 - Glassware: Low Ball
 - Garnish: Lime shell, mint sprig, and rock candy stick
+- Ice: crushed ice
 - Special Prep: Insert the rock candy stick in the glass to mimic the ice cone of Don the Beachcomber's Navy Grog.

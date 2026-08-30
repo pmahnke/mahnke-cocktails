@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/old_barrel/"
 iconfile: old_barrel
+color: #833415
 stars: 0
 base_spirits: "Rye, Bénédictine, Amontillado Sherry"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/6170/old-barrel"
@@ -31,5 +32,5 @@ date: 2025-08-11
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Lemon swath
+- Garnish: Lemon twist
 - Special Prep: Express lemon oil on the drink.

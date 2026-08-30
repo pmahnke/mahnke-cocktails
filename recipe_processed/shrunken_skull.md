@@ -14,7 +14,9 @@ excerpt: |
   The Shrunken Skull is a classic Tiki cocktail that is a bit like a Daiquiri, but with a touch of mystery and a spooky presentation.
 date: 2025-08-11
 glass: tiki
-garnishes: garnish-umbrella
+garnishes:
+  - garnish-pineapple_fronds
+  - garnish-umbrella
 ice: ice_crushed
 type: shaken
 ---

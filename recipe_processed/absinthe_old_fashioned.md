@@ -7,6 +7,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/absinthe_old_fashioned/"
 iconfile: absinthe_old_fashioned
+color: #a26f36
 stars: 3
 base_spirits: ['Absinthe', 'Elderflower Liqueur']
 youtube: "0rnil0_xFnM"
@@ -14,7 +15,8 @@ description: "A modern twist on the Old Fashioned that uses absinthe as its base
 excerpt: |
   Invented by bartender Doug Petry of Rye in Louisville, Kentucky, this cocktail truly stretches the boundaries of its namesake. While it presents a soft color palette (reddish Peychaud’s bitters floated atop milky white absinthe), the Absinthe Old-Fashioned packs a punch. If you didn’t already have enough reasons to make a pilgrimage to Kentucky and explore its cocktail scene, this one alone is worth the trip.
 date: 2026-04-24
-glass: rocks
+image: /assets/images/cocktail_absinthe_old_fashioned_dynamic.svg
+glass: low_ball
 type: stirred
 ---
 
@@ -43,7 +45,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_absinthe_old_fashioned_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  1.5 oz Absinthe",

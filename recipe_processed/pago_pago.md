@@ -16,6 +16,7 @@ excerpt: |
 date: 2026-06-13
 image: /assets/images/cocktail_pago_pago_dynamic.svg
 glass: nick_and_nora
+garnishes: garnish-pineapple_fronds
 type: shaken
 ---
 

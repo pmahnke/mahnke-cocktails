@@ -18,7 +18,7 @@ excerpt: |
   Most recipes seen on modern cocktail menus include whipped egg white, bourbon, and lemon juice, to improve on its flavor. Imbibe attributes this change to bartender Jeffrey Morgenthaler, who published a new version of the drink in 2012 using cask-strength bourbon, rich simple syrup, and egg white.
 date: 2025-08-11
 image: /assets/images/cocktail_amaretto_sour_dynamic.svg
-glass: rocks
+glass: low_ball
 garnishes: twist_cocktail-cherry
 ice: ice_cubes
 type: shaken

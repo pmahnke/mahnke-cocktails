@@ -7,6 +7,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/navy_grog_vics_way/"
 iconfile: navy_grog_vics_way
+color: #a16e34
 stars: 0
 base_spirits: ['Allspice Dram', 'Demerara Rum', 'Jamaican Rum', 'White Rum']
 youtube: "I3jeItKyZCs"
@@ -14,10 +15,13 @@ description: "A variant of the classic Tiki cocktail that substitutes honey syru
 excerpt: |
   Trader Vic's Navy Grog is a twist on the original Don the Beachcomber recipe. The two drinks share similar rum bases and use lime and grapefruit juice. However, Trader Vic's version swaps out the honey syrup and club soda for pimento dram. Furthermore, the drink is served with a rock candy stick as a garnish instead of the iconic shaved ice cone used in Don the Beachcomber's recipe. This version is popular in many bars and restaurants that serve Tiki drinks.
 date: 2025-08-20
-glass: rocks
+image: /assets/images/cocktail_navy_grog_vics_way_dynamic.svg
+glass: low_ball
 garnishes:
   - bubbles
+  - garnish-lime_wheel
   - herb_mint
+ice: ice_crushed
 type: blended
 ---
 
@@ -39,6 +43,7 @@ type: blended
 - Pour: Open Pour
 - Glassware: Low Ball
 - Garnish: Lime shell, mint sprig, and rock candy stick
+- Ice: crushed ice
 - Special Prep: Insert the rock candy stick in the glass to mimic the ice cone of Don the Beachcomber's Navy Grog.
 
 <script type="application/ld+json">
@@ -49,7 +54,7 @@ type: blended
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_navy_grog_vics_way_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 0.75 oz Demerara Rum",
@@ -77,6 +82,10 @@ type: blended
     {
       "@type": "HowToStep",
       "text": "Garnish: Lime shell, mint sprig, and rock candy stick"
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ice: crushed ice"
     },
     {
       "@type": "HowToStep",

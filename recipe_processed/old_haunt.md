@@ -15,7 +15,7 @@ excerpt: |
   This is an Anders original cocktail. It is a riff on the Old Fashioned replacing the sweet vermouth with Averna.
 date: 2025-10-26
 image: /assets/images/cocktail_old_haunt_dynamic.svg
-glass: rocks
+glass: low_ball
 ice: ice_large
 type: stirred
 ---

@@ -11,3 +11,4 @@ OldGemfile
 Gemfile
 GPUCache/
 assets/images/*_dynamic.svg
+recipe_processed/

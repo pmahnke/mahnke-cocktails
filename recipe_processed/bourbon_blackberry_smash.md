@@ -15,7 +15,7 @@ excerpt: |
   The Blackberry Bourbon Smash is made with fresh muddled lime, blackberries, and mint mixed with bourbon and topped with soda water.
 date: 2025-08-11
 image: /assets/images/cocktail_bourbon_blackberry_smash_dynamic.svg
-glass: rocks
+glass: low_ball
 garnishes:
   - bubbles
   - fruit_blackberries

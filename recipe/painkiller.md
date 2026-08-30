@@ -6,6 +6,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/painkiller/"
 iconfile: painkiller
+color: #e2b83d
 stars: 4
 base_spirits: "Demerara Rum, Jamaican Rum "
 youtube: "XYfHK3goJLk"

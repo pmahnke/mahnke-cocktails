@@ -6,6 +6,7 @@ eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/old_fashioned/"
 iconfile: old_fashioned
+color: #751613
 stars: 3
 base_spirits: "Bourbon"
 youtube: "pdcrJ5V7YKM"

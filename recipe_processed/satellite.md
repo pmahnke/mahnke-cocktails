@@ -15,7 +15,7 @@ excerpt: |
   An original creation from Anders Erickson, that puts a fresh spin on the tiki-era Saturn. He trades the heavy almond and passion fruit notes for the spiced-lime sweetness of falernum and a hint of fruity grenadine. A delicate kiss of soda lifts the entire concoction, creating a lighter, brighter orbit of flavors.
 date: 2025-10-26
 image: /assets/images/cocktail_satellite_dynamic.svg
-glass: rocks
+glass: low_ball
 garnishes:
   - bubbles
   - garnish-lemon_peel

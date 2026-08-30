@@ -13,7 +13,7 @@ description: "A modern twist on the classic Margarita that swaps tequila for its
 excerpt: |
   The Mezcal Margarita is a smoky, spicy twist on the classic margarita, swapping out tequila for mezcal.
 date: 2025-12-23
-glass: rocks
+glass: low_ball
 garnishes:
   - garnish-lime_wheel
   - garnish-salted_rim

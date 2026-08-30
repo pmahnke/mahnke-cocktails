@@ -7,6 +7,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/voyager/"
 iconfile: voyager
+color: #a14205
 stars: 0
 base_spirits: "Jamaican Rum , Bénédictine"
 youtube: "9V4Jj3bmi90"
@@ -20,7 +21,7 @@ date: 2025-12-17
 
 | Amount | Ingredient       | Brand                              |
 | -----: | ---------------- | ---------------------------------- |
-|   2 oz | Jamaican Rum       | Appleton Estate 12 Year Rare Casks |
+|   2 oz | Jamaican Rum     | Appleton Estate 12 Year Rare Casks |
 | 0.5 oz | Bénédictine      | Bénédictine DOM                    |
 | 0.5 oz | Falernum         |
 | 0.5 oz | Fresh Lime Juice |

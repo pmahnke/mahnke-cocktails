@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/godfather/"
 iconfile: godfather
+color: #fdae35
 stars: 3
 base_spirits: "Single Malt Scotch, Amaretto"
 youtube: "3DhncxCCB-E"

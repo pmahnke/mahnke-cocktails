@@ -7,7 +7,8 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/elder_fashioned/"
 iconfile: elder_fashioned
-image: /assets/images/cocktail_elder_fashioned.svg
+color: #ecc779
+image_orig: /assets/images/cocktail_elder_fashioned.svg
 stars: 0
 base_spirits: "Plymouth Gin, Bourbon, Elderflower Liqueur"
 youtube: "yqrQJO1brcM"

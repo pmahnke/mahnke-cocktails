@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/old_barrel/"
 iconfile: old_barrel
+color: #833415
 stars: 3.5
 base_spirits: ['Amontillado Sherry', 'Bénédictine', 'Rye']
 youtube: "https://www.diffordsguide.com/cocktails/recipe/6170/old-barrel"
@@ -13,7 +14,9 @@ description: "A modern riff on a classic Old Fashioned with rye whiskey spice, h
 excerpt: |
   Rye whiskey spice, herbal liqueur complexity and vinous sherry sit alongside each other in a harmonious trinity with dashes of aromatic bitters and lemon zest freshness in this riff on a classic Old Fashioned.
 date: 2025-08-11
-glass: rocks
+image: /assets/images/cocktail_old_barrel_dynamic.svg
+glass: low_ball
+garnishes: twist_lemon
 ice: ice_large
 type: stirred
 ---
@@ -34,7 +37,7 @@ type: stirred
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Lemon swath
+- Garnish: Lemon twist
 - Special Prep: Express lemon oil on the drink.
 
 <script type="application/ld+json">
@@ -45,7 +48,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_old_barrel_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Rye",
@@ -77,7 +80,7 @@ type: stirred
     },
     {
       "@type": "HowToStep",
-      "text": "Garnish: Lemon swath"
+      "text": "Garnish: Lemon twist"
     },
     {
       "@type": "HowToStep",

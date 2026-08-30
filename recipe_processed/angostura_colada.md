@@ -15,7 +15,9 @@ excerpt: |
   Adapted from a recipe created 2nd October 2013 by New York bartender Zac Overman while experimenting at home. His Trinidad Colada a.k.a. Angostura Colada debuted at the Sunken Harbor Club in Brooklyn when it opened on 23 January 2014.
 date: 2025-08-11
 glass: snifter
-garnishes: spice_nutmeg
+garnishes:
+  - garnish-pineapple_fronds
+  - spice_nutmeg
 ice: ice_crushed
 type: shaken
 ---

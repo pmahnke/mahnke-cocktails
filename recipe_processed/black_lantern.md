@@ -15,7 +15,8 @@ excerpt: |
   This is an Anders original cocktail. This jet black cocktail is a fun, tiki inspired cocktail. The mix of cognac and high proof demerara rum mixed with the sesame syrup gives this drink a toasted nutty flavor.
 date: 2025-10-26
 image: /assets/images/cocktail_black_lantern_dynamic.svg
-glass: rocks
+glass: low_ball
+garnishes: garnish-pineapple_fronds
 ice: ice_crushed
 type: blended
 ---

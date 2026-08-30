@@ -7,6 +7,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/doctor_funk/"
 iconfile: doctor_funk
+color: #9d1500
 stars: 0
 base_spirits: "Jamaican Rum, Gold Rum, Absinthe"
 youtube: "aMXyG72irqI"

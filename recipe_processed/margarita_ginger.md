@@ -6,6 +6,7 @@ categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_ginger/"
 iconfile: margarita_ginger
+color: #e1ba71
 stars: 0
 base_spirits: ['Curaçao', 'Reposado Tequila']
 youtube: "jxpT11WEtWQ"
@@ -13,7 +14,8 @@ description: "A refreshing and flavorful modern twist on the classic Margarita, 
 excerpt: |
   The margarita ginger cocktail is a refreshing and flavorful twist on the classic margarita. It combines the bold flavors of ginger with the zesty lime juice and tequila, creating a unique and exciting drink.
 date: 2025-12-23
-glass: rocks
+image: /assets/images/cocktail_margarita_ginger_dynamic.svg
+glass: low_ball
 garnishes:
   - garnish-lime_wheel
   - garnish-salted_rim
@@ -31,13 +33,13 @@ type: shaken
 | <span class="onex active"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span> <span class="onehalfx">1 <sup>1</sup>&frasl;<sub>8</sub> oz  / 34 ml</span> <span class="twox">1 <sup>1</sup>&frasl;<sub>2</sub> oz  / 45 ml</span> <span class="threex">2 <sup>1</sup>&frasl;<sub>4</sub> oz  / 68 ml</span>| Grapefruit Juice                                |
 | <span class="onex active"> <sup>1</sup>&frasl;<sub>4</sub> oz  / 8 ml</span> <span class="onehalfx"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 11 ml</span> <span class="twox"> <sup>1</sup>&frasl;<sub>2</sub> oz  / 15 ml</span> <span class="threex"> <sup>3</sup>&frasl;<sub>4</sub> oz  / 23 ml</span>| [Ginger Syrup]({%link recipe_processed/ginger_syrup.md%}) |
 
-Method: Shaken
-Pour: Double Strain
-Glassware:
+- Method: Shaken
+- Pour: Double Strain
+- Glassware:
   - Low Ball
   - On the Rocks
-Garnish: Candied ginger, Lime wheel
-Special Prep: Salted rim
+- Garnish: Candied ginger, Lime wheel
+- Special Prep: Salted rim
 
 <script type="application/ld+json">
 {
@@ -47,7 +49,7 @@ Special Prep: Salted rim
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_margarita_ginger_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Reposado Tequila",

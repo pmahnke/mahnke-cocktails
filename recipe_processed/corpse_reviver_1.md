@@ -14,7 +14,7 @@ excerpt: |
   The first widely popularized corpse reviver cocktail is listed in The Savoy Cocktail Book and is a cognac-based cocktail that calls for two parts cognac, one part Calvados or apple brandy, and one part Italian vermouth. In bartender Craddock's notes he says "To be taken before 11AM, or whenever steam or energy is needed".
 date: 2025-08-11
 glass: nick_and_nora
-garnishes: garnish-orange_peel
+garnishes: garnish-orange_peel_oil
 type: stirred
 ---
 

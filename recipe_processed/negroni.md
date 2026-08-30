@@ -13,7 +13,7 @@ description: "The iconic Italian aperitif, this is a classic and perfectly balan
 excerpt: |
   Composed of gin, sweet vermouth and Campari, the Negroni is the classic three-ingredient cocktail you should absolutely master.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 ice: ice_large
 type: stirred
 ---

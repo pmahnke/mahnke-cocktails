@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-10-08
 glass:
   - coupe
-  - rocks
+  - low_ball
 ice: ice_large
 type: shaken
 ---

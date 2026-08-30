@@ -17,7 +17,7 @@ excerpt: |
   Although most Americans think of eggnog as something they get out of a milk carton during the two-week period leading up to December 25, eggnog actually descends from sack posset, a strong, thick English beverage built upon eggs, milk, and either a fortified wine (like Madeira) or ale.<br><br>
   Add depth and complexity to this classic Christmas cocktail by using a mix of spirits and allowing it to age.
 date: 2025-11-26
-glass: rocks
+glass: low_ball
 garnishes: spice_nutmeg
 ---
 

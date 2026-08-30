@@ -6,6 +6,7 @@ categories: [smash]
 eras: [classic]
 permalink: "/recipe/whiskey_smash/"
 iconfile: whiskey_smash
+color: #ecc96d
 stars: 0
 base_spirits: ['Bourbon']
 youtube: "Jo1wxAfyLto"
@@ -13,7 +14,8 @@ description: "A classic and citrusy cousin to the Mint Julep, this is a refreshi
 excerpt: |
   With bourbon, lemon and mint, the Whiskey Smash is a citrusy cousin to the Mint Julep. If that sounds good, wait until you make this recipe.
 date: 2025-08-11
-glass: rocks
+image: /assets/images/cocktail_whiskey_smash_dynamic.svg
+glass: low_ball
 garnishes:
   - garnish-lemon_wheel
   - herb_mint
@@ -54,7 +56,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_whiskey_smash_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "     2 oz Bourbon",

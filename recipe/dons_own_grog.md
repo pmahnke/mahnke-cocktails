@@ -7,6 +7,7 @@ categories: [grog, tiki]
 eras: [modern]
 permalink: "/recipe/dons_own_grog/"
 iconfile: dons_own_grog
+color: #a82500
 stars: 0
 base_spirits: "Jamaican Rum, White Rum, Rhum Agricole, Crème de Mûre"
 youtube: "pG7mU5eenRA"

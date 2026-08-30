@@ -15,7 +15,7 @@ excerpt: |
   The Black Dragon No. 13 is a unique and intriguing cocktail that combines the boldness of coffee and stout with the sophistication of cognac and amaro.
 date: 2025-08-11
 image: /assets/images/cocktail_black_dragon_13_dynamic.svg
-glass: rocks
+glass: low_ball
 type: shaken
 ---
 

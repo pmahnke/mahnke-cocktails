@@ -6,6 +6,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/te_anuanua/"
 iconfile: te_anuanua
+color: #dba217
 stars: 0
 base_spirits: "Jamaican Rum, Banana Liqueur"
 youtube: "IutGk6xCT1A"

@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/bourbon_renewal/"
 iconfile: bourbon_renewal
+color: #d14c15
 stars: 0
 base_spirits: "Bourbon, Crème de Cassis "
 youtube: "8WVlMjEGma4"

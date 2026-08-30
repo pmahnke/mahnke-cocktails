@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/spring_awakening/"
 iconfile: spring_awakening
+color: #e25310
 stars: 0
 base_spirits: "Vodka, Cocchi Americano, Aperol"
 youtube: "2gYbnb705YQ"
@@ -31,8 +32,8 @@ date: 2026-03-24
   - Low Ball
   - Large Ice Cube
 - Garnish:
-  - Spring Awakening: Orange or Lemon peel
+  - Spring Awakening: Orange or Lemon twist
   - Winter's Nap: Sprig of rosemary
 - Special Prep:
-  - Spring Awakening: Expressed orange or lemon oil
+  - Spring Awakening: Expressed orange oil or lemon oil
   - Winter's Nap: None

@@ -15,7 +15,7 @@ excerpt: |
   Adapted from a recipe created circa 2012-17 by Sasha Petraske for the John Dory Oyster Bar in Manhattan, New York City, USA.
 date: 2025-11-26
 glass: nick_and_nora
-garnishes: garnish-orange_peel
+garnishes: garnish-orange_peel_oil
 type: stirred
 ---
 

@@ -6,6 +6,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/te_anuanua/"
 iconfile: te_anuanua
+color: #dba217
 stars: 4
 base_spirits: ['Banana Liqueur', 'Jamaican Rum']
 youtube: "IutGk6xCT1A"
@@ -13,7 +14,8 @@ description: "This cocktail is a tropical cocktail that serves as a modern Mai T
 excerpt: |
   In 1948 Caroline Guild released her memoir, Rainbow in Tahiti, where she chronicled her life and time spent in Tahiti. Guild was a world traveler who was inspired to pack her belongings and move to the South Seas. There she lived for 17 years with her husband and daughter. Today, she is remembered in the cocktail world for her contribution to naming the “Mai Tai” on one summer night in 1944 in Oakland California. Regardless of who officially named the drink, this Mai Tai riff is in honor of Caroline Guild and named after her home in Tahiti, Te Anuanua, which translates to “Rainbow in Tahiti.”
 date: 2026-01-22
-glass: rocks
+image: /assets/images/cocktail_te_anuanua_dynamic.svg
+glass: low_ball
 garnishes: herb_mint
 ice: ice_crushed
 type: shaken
@@ -47,7 +49,7 @@ type: shaken
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_te_anuanua_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Jamaican Rum",

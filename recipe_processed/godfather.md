@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/godfather/"
 iconfile: godfather
+color: #fdae35
 stars: 3
 base_spirits: ['Amaretto', 'Single Malt Scotch']
 youtube: "3DhncxCCB-E"
@@ -13,9 +14,10 @@ description: "A simple and classic modern cocktail made with just two ingredient
 excerpt: |
   As with many cocktails, the origin of the Godfather's name is uncertain. The amaretto brand Disaronno claims the drink was the favorite cocktail of American actor Marlon Brando, known for playing the titular character in the popular American film adaptation of Mario Puzo's The Godfather, which prominently features the Italian mob. This may be an allusion to the cocktail's prominent use of amaretto, an Italian liqueur. This drink was also a favorite of the Rat Pack.
 date: 2025-12-09
-glass: rocks
+image: /assets/images/cocktail_godfather_dynamic.svg
+glass: low_ball
 garnishes:
-  - garnish-orange_peel
+  - garnish-orange_peel_oil
   - twist_cocktail-cherry
 ice: ice_large
 type: stirred
@@ -46,7 +48,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_godfather_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   " 1.5 oz Single Malt Scotch",

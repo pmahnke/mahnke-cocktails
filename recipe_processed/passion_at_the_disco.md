@@ -12,7 +12,7 @@ description: "A refreshing and vibrant non-alcoholic drink that combines the tro
 excerpt: |
   The Passion at the Disco cocktail is a refreshing and vibrant drink that combines the tropical flavors of passion fruit with the bright citrus notes of lime.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 garnishes:
   - bubbles
   - herb_mint

@@ -14,8 +14,8 @@ description: "A modern Negroni variation that uses Angostura bitters as a key fl
 excerpt: |
   Adapted from a recipe created by Justin Elliott at The Townsend, Austin, Texas, USA.
 date: 2025-08-11
-glass: rocks
-garnishes: garnish-orange_peel
+glass: low_ball
+garnishes: garnish-orange_peel_oil
 ice: ice_large
 type: stirred
 ---

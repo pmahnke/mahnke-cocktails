@@ -15,7 +15,7 @@ excerpt: |
   The Roulette Cocktail, found in Harry Craddock's 1930 collection, is an uncommon and flavorful blend of apple brandy, White Rum, and Swedish Punsch liqueur. The original recipe calls for equal parts of the three main spirits, although modern adaptations may adjust these proportions to temper the sweetness. Calvados provides a strong apple core to the drink, which is complemented by the unique molasses and spice notes of the Swedish Punsch. The inclusion of White Rum adds body and a subtle layer of cane sweetness to the overall mixture. Typically shaken with ice and served straight up in a cocktail glass, the Roulette is a fascinating example of early 20th-century spirit combinations.
 date: 2025-10-13
 image: /assets/images/cocktail_roulette_dynamic.svg
-glass: rocks
+glass: low_ball
 garnishes: garnish-orange_peel
 ice: ice_large
 type: stirred

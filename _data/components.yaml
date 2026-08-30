@@ -131,7 +131,7 @@ garnishes:
   garnish-lemon_wheel:
     name: Lemon Wheel
     icon: /assets/images/garnish-lemon_wheel.svg
-  garnish-orange_peel:
+  garnish-orange_peel_oil:
     name: Orange Peel
     icon: /assets/images/garnish-orange_peel.svg
   twist_orange:

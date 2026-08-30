@@ -13,7 +13,7 @@ description: "A classic Prohibition-era cocktail that swaps the gin in a Negroni
 excerpt: |
   Swap the gin for whiskey in a Negroni, and you get the delicious Boulevardier cocktail. Grab some Campari and sweet vermouth, and start mixing.
 date: 2025-08-11
-garnishes: garnish-orange_peel
+garnishes: garnish-orange_peel_oil
 type: stirred
 ---
 

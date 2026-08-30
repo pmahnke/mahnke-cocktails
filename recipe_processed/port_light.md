@@ -15,7 +15,9 @@ excerpt: |
   The Port Light is a unique tiki cocktail that deviates from the traditional rum base by using bourbon instead. It was created by Sandro Conti for the Kahiki restaurant in Columbus, Ohio, in the early 1960s.
 date: 2025-08-11
 glass: tiki
-garnishes: garnish-umbrella
+garnishes:
+  - garnish-pineapple_fronds
+  - garnish-umbrella
 ice: ice_crushed
 type: shaken
 ---

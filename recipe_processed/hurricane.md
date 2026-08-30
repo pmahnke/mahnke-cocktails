@@ -15,6 +15,7 @@ excerpt: |
 date: 2025-08-11
 glass: hurricane
 garnishes:
+  - garnish-pineapple_fronds
   - garnish-umbrella
   - twist_cocktail-cherry
 type: shaken

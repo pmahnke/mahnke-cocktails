@@ -14,7 +14,7 @@ description: "A modern classic from the 1980s, this is a refreshing gin drink bu
 excerpt: |
   The Bramble is a gin-kissed beauty of a cocktail. It features fresh lemon juice and blackberry liqueur.
 date: 2025-08-11
-glass: rocks
+glass: low_ball
 garnishes:
   - fruit_blackberries
   - garnish-lemon_wheel

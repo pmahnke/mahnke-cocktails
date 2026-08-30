@@ -15,7 +15,7 @@ excerpt: |
   Feel the sweet sting of cognac and crème de menthe with the Stinger, a classic high-society cocktail from the pre-Prohibition era.
 date: 2025-08-11
 image: /assets/images/cocktail_stinger_dynamic.svg
-glass: rocks
+glass: low_ball
 garnishes: herb_mint
 ice: ice_crushed
 type: shaken

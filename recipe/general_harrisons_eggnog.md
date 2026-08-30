@@ -6,6 +6,7 @@ categories: [eggnog]
 eras: [classic]
 permalink: "/recipe/general_harrisons_eggnog/"
 iconfile: general_harrisons_eggnog
+color: #f4c674
 stars: 0
 base_spirits: "Demerara Rum, Allspice Dram, Dry Hard Cider"
 youtube: "s7Rcx7Fekn4"

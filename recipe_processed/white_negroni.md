@@ -13,7 +13,7 @@ description: "A popular and modern Negroni variation that swaps the red Campari 
 excerpt: |
   The White Negroni Cocktail is a Negroni riff featuring gin, Suze and Lillet Blanc. It’s light, bittersweet and floral.
 date: 2025-10-08
-glass: rocks
+glass: low_ball
 ice: ice_large
 type: stirred
 ---

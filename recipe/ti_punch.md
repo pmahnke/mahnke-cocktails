@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/ti_punch/"
 iconfile: ti_punch
+color: #d6d6d2
 stars: 0
 base_spirits: "Rhum Agricole"
 youtube: "UwYdR9yPoB4"
@@ -28,5 +29,5 @@ date: 2026-06-26
 - Method: Build in the Glass/Blended
 - Pour: Add all ingredients directly to the glass
 - Glassware: Low Ball
-- Garnish: None
+- Garnish: Lime wheel
 - Special Prep: Swizzle in glass

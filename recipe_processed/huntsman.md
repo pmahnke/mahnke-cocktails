@@ -15,7 +15,7 @@ excerpt: |
   This is an Anders original cocktail. It is a mashup of a hunter and a rusty nail based off of the Cafe Royal cocktail book ratios. This is a rye forward cocktail with cherry and Bénédictine notes.
 date: 2025-11-26
 image: /assets/images/cocktail_huntsman_dynamic.svg
-glass: rocks
+glass: low_ball
 ice: ice_large
 type: stirred
 ---

@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/sentimental_gent/"
 iconfile: sentimental_gent
+color: #56210d
 stars: 3.5
 base_spirits: ['Blended Scotch', 'Bénédictine', 'Walnut Liqueur']
 youtube: "QFjRjAP-k1k&t=3s"
@@ -13,7 +14,8 @@ description: "A sophisticated and elegant modern cocktail that combines the warm
 excerpt: |
   The Sentimental Gentleman is a sophisticated and elegant cocktail that combines the warmth of whiskey with the herbal notes of Benedictine and the subtle sweetness of walnut liqueur.
 date: 2025-12-09
-glass: rocks
+image: /assets/images/cocktail_sentimental_gent_dynamic.svg
+glass: low_ball
 ice: ice_large
 type: stirred
 ---
@@ -44,7 +46,7 @@ type: stirred
     "@type": "Person",
     "name": "{{ page.author }}"
     },
-  "image": "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png",
+  "image": "{{ site.url }}/assets/images/cocktail_sentimental_gent_dynamic.png",
   "description": "{{ page.excerpt | strip_html | replace: '"', "'" }}",
   "recipeIngredient": [
   "  2 oz Blended Scotch",
