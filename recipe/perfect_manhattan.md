@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/perfect_manhattan/"
 iconfile: perfect_manhattan
+color: #610713
 stars: 0
 base_spirits: "Rye, Sweet Vermouth, Dry Vermouth"
 youtube: "eWESf1b317Y&t=278s"

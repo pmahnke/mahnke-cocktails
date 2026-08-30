@@ -7,6 +7,7 @@ eras: [anders]
 categories: [amaro, cocktail]
 permalink: "/recipe/fall_back/"
 iconfile: fall_back
+color: #B01E16
 stars: 0
 base_spirits: "Rye, Apple Brandy, Amaro Nonino, Sweet Vermouth"
 youtube: "_bDARIxZlcE"

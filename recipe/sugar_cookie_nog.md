@@ -6,6 +6,7 @@ categories: [eggnog]
 eras: [anders]
 permalink: "/recipe/sugar_cookie_nog/"
 iconfile: sugar_cookie_nog
+color: #E7C1A2
 stars: 0
 base_spirits: "Irish Whiskey, Licor 43, Amaretto"
 youtube: "uElU6ue-Ke8"

@@ -6,6 +6,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/navy_grog_tropical_way/"
 iconfile: navy_grog_tropical_way
+color: #891F00
 stars: 0
 base_spirits: "Demerara Rum, Jamaican Rum, White Rum, Allspice Dram"
 youtube: "I3jeItKyZCs"

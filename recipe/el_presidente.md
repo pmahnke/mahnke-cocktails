@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/el_presidente/"
 iconfile: el_presidente
+color: #EBC49B
 stars: 4
 base_spirits: "White Rum, Blanc Vermouth, Curaçao"
 youtube: "1AZGE2FUAO4"
@@ -29,5 +30,5 @@ date: 2026-03-01
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Martini
-- Garnish: Orange Zest and Cocktail Cherry
+- Garnish: Orange twist and Cocktail Cherry
 - Special Prep: None

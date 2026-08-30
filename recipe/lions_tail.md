@@ -6,7 +6,8 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/lions_tail/"
 iconfile: lions_tail
-image: /assets/images/cocktail_lions_tail.svg
+color: #CE5E1D
+image_orig: /assets/images/cocktail_lions_tail.svg
 stars: 5
 base_spirits: "Bourbon, Allspice Dram"
 youtube: "r2NNClh94tQ"

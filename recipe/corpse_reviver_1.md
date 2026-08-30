@@ -6,6 +6,7 @@ categories: [cocktail, corpse_reviver]
 eras: [prohibition]
 permalink: "/recipe/corpse_reviver_1/"
 iconfile: corpse_reviver_1
+color: #B73706
 stars: 4
 base_spirits: "Apple Brandy, Cognac, Sweet Vermouth"
 youtube: "rMCsrbidAJ4"

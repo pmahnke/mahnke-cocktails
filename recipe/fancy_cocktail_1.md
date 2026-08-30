@@ -6,6 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/fancy_cocktail_1/"
 iconfile: fancy_cocktail_1
+color: #EEB361
 stars: 0
 base_spirits: "Italicus, Reposado Tequila, Manzanilla Sherry "
 youtube: "AfbytyV2PdY"
@@ -28,5 +29,5 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Martini
-- Garnish: Grapefruit zest
+- Garnish: Grapefruit twist
 - Special Prep: Express grapefruit oil over cocktail.

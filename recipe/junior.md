@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [sour]
 permalink: "/recipe/junior/"
 iconfile: junior
+color: #EA6818
 stars: 3.5
 base_spirits: "Rye, Bénédictine"
 youtube: "_bDARIxZlcE"

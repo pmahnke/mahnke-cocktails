@@ -6,6 +6,7 @@ categories: [champagne]
 eras: [prohibition]
 permalink: "/recipe/death_in_the_afternoon/"
 iconfile: death_in_the_afternoon
+color: #DBD0A0
 stars: 0
 base_spirits: "Absinthe, Champagne "
 youtube: "-jb1-82N48U"

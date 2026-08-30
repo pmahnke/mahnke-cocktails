@@ -6,7 +6,8 @@ categories: [sour, daisy, corpse_reviver]
 eras: [prohibition]
 permalink: "/recipe/corpse_reviver_2/"
 iconfile: corpse_reviver_2
-image: /assets/images/cocktail_corpse_reviver_2.svg
+color: #F5F4E0
+image_orig: /assets/images/cocktail_corpse_reviver_2.svg
 stars: 5
 base_spirits: "London Dry Gin, Cocchi Americano, Triple Sec"
 youtube: "bGxOcLRCBWk"

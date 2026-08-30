@@ -6,6 +6,7 @@ categories: [flip]
 eras: [classic]
 permalink: "/recipe/colleen_bawn/"
 iconfile: colleen_bawn
+color: #E3D9C8
 stars: 3
 base_spirits: "Rye, Yellow Chartreuse, Bénédictine"
 youtube: "W50W19vwjmk"

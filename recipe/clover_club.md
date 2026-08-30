@@ -6,7 +6,8 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/clover_club/"
 iconfile: clover_club
-image: /assets/images/cocktail_clover_club2.svg
+color: #F0CAC7
+image_orig: /assets/images/cocktail_clover_club2.svg
 stars: 3
 base_spirits: "London Dry Gin "
 youtube: "MfHv2EOLUOo&t=336s"

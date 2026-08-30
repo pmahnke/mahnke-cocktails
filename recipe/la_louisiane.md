@@ -6,7 +6,8 @@ categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/la_louisiane/"
 iconfile: la_louisiane
-image: /assets/images/cocktail_la_louisiane.svg
+color: #B25631
+image_orig: /assets/images/cocktail_la_louisiane.svg
 stars: 5
 base_spirits: "Rye, Sweet Vermouth, Bénédictine, Absinthe"
 youtube: "9XLtsOKT6oY"

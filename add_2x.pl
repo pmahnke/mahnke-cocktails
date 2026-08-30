@@ -263,7 +263,7 @@ while (my $file = readdir DIR) {
     if ($entire_file_text =~ /salted rim|sugared rim/i) {
         push @found_garnishes, 'garnish-salted_rim';
     }
-    if ($entire_file_text =~ /egg/i) {
+    if ($entire_file_text =~ /egg|heavy cream/i) {
         $egg_white = 1;
     }
     if ($entire_file_text =~ /float the red wine/i) {

@@ -6,6 +6,7 @@ categories: [sour, daisy]
 eras: [modern]
 permalink: "/recipe/margarita_mezcal/"
 iconfile: margarita_mezcal
+color: #E7D161
 stars: 0
 base_spirits: "Mezcal, Curaçao"
 youtube: "VBSjE-P_C58"

@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [prohibition]
 permalink: "/recipe/suburban/"
 iconfile: suburban
+color: #AD0201
 stars: 0
 base_spirits: "Rye, Jamaican Rum , Tawny Port"
 youtube: "UC1QUNjAZgw"
@@ -30,5 +31,5 @@ date: 2026-02-02
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Martini
-- Garnish: Orange peel
+- Garnish: Orange twist
 - Special Prep: Expressed orange oil

@@ -6,6 +6,7 @@ eras: [modern]
 categories: [sour, daisy]
 permalink: "/recipe/final_ward/"
 iconfile: final_ward
+color: #FFD772
 stars: 3
 base_spirits: "Rye, Green Chartreuse, Maraschino Liqueur"
 youtube: "NGPSk_jMZvA"

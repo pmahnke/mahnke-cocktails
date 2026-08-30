@@ -6,6 +6,7 @@ categories: [coffee, cocktail]
 eras: [modern]
 permalink: "/recipe/irish_coffee_cold/"
 iconfile: irish_coffee_cold
+color: #47231F
 stars: 0
 base_spirits: "Irish Whiskey, Coffee Liqueur"
 youtube: "sJsY1LokABA"

@@ -7,7 +7,8 @@ categories: [amaro, sour]
 eras: [modern]
 permalink: "/recipe/industry_sour/"
 iconfile: industry_sour
-image: /assets/images/cocktail_industry_sour.svg
+color: #DEB990
+image_orig: /assets/images/cocktail_industry_sour.svg
 stars: 0
 base_spirits: "Fernet Branca, Green Chartreuse"
 youtube: "qpS3lni1vqI"

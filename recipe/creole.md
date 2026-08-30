@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [new_orleans]
 permalink: "/recipe/creole/"
 iconfile: creole
+color: #B02D15
 stars: 4
 base_spirits: "Rye, Sweet Vermouth, Bénédictine, Ramazzotti "
 youtube: "BTPaTmkJxbM"
@@ -30,5 +31,5 @@ date: 2025-09-26
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Nick & Nora
-- Garnish: Lemon peel
+- Garnish: Lemon twist
 - Special Prep: Expressed lemon oil

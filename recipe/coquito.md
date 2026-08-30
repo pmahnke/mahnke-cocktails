@@ -6,7 +6,8 @@ categories: [eggnog]
 eras: [classic]
 permalink: "/recipe/coquito/"
 iconfile: coquito
-image: /assets/images/category_eggnog.svg
+image_orig: /assets/images/category_eggnog.svg
+color: #D2C5C3
 stars: 4
 base_spirits: "Gold Rum"
 youtube: "SAeGIcLjMlk"

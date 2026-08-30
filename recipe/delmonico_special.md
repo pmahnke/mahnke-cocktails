@@ -7,6 +7,7 @@ categories: [martini]
 eras: [classic]
 permalink: "/recipe/delmonico_special/"
 iconfile: delmonico_special
+color: #B13900
 stars: 0
 base_spirits: "Navy Strength Gin, Cognac, Sweet Vermouth, Blanc Vermouth"
 youtube: "NmaOqrUOJOE"
@@ -31,5 +32,5 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware: Nick & Nora
-- Garnish: Orange peel
+- Garnish: Orange twist
 - Special Prep: Expressed orange oil

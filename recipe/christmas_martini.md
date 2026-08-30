@@ -6,6 +6,7 @@ categories: [martini]
 eras: [anders]
 permalink: "/recipe/christmas_martini/"
 iconfile: christmas_martini
+color: #9C3720
 stars: 0
 base_spirits: "Plymouth Gin, Cocchi Americano"
 youtube: "ydBN6-j1I3M"

@@ -6,6 +6,7 @@ categories: [sour, corpse_reviver]
 eras: [modern]
 permalink: "/recipe/corpse_reviver_blue/"
 iconfile: corpse_reviver_blue
+color: #0083DA
 stars: 0
 base_spirits: "London Dry Gin, Cocchi Americano, Curaçao"
 youtube: "rMCsrbidAJ4"

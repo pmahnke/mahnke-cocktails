@@ -6,7 +6,7 @@ categories: [sour, daisy]
 eras: [prohibition]
 permalink: "/recipe/last_word/"
 iconfile: last_word
-image: /assets/images/cocktail_last_word.svg
+image_orig: /assets/images/cocktail_last_word.svg
 color: #e1e9d2
 stars: 5
 base_spirits: "London Dry Gin, Green Chartreuse, Maraschino Liqueur"
