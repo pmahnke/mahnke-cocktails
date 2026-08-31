@@ -6,7 +6,8 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/in_cold_blood/"
 iconfile: in_cold_blood
-image: /assets/images/cocktail_in_cold_blood.svg
+color: #B64403
+image_orig: /assets/images/cocktail_in_cold_blood.svg
 stars: 0
 base_spirits: "Cynar, Rye, Sweet Vermouth"
 youtube: "GZITiAIYars"
@@ -31,5 +32,5 @@ date: 2026-05-05
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Expressed lemon oil and a pinch of salt (optional)
-- Special Prep: Lemon Twist
+- Garnish: Lemon Twist
+- Special Prep: Expressed lemon oil and a pinch of salt (optional)

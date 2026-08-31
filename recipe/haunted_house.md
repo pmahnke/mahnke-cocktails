@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/haunted_house/"
 iconfile: haunted_house
+color: #FEA554
 stars: 0
 base_spirits: "Jamaican Rum, Rye, Swedish Punsch "
 youtube: "u0N9FFJ1i5c"
@@ -32,5 +33,5 @@ date: 2025-08-11
 - Glassware:
   - Low Ball
   - Large Ice cube
-- Garnish: Expressed orange oil and cherry
+- Garnish: Expressed orange oil and a cocktail cherry
 - Special Prep: None

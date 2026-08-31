@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/white_negroni/"
 iconfile: white_negroni
+color: #FEE48C
 stars: 0
 base_spirits: "Plymouth Gin, Suze, Lillet Blanc"
 youtube: "fBax4HODqyA"
@@ -30,5 +31,5 @@ date: 2025-10-08
 - Glassware:
   - Low Ball
   - Large Ice cube
-- Garnish: Grapefruit zest
+- Garnish: Grapefruit twist
 - Special Prep: Express grapefruit oil on the drink.

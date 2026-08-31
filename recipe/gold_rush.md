@@ -6,6 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/gold_rush/"
 iconfile: gold_rush
+color: #BFA062
 stars: 0
 base_spirits: "Bourbon"
 youtube: "VBSjE-P_C58"

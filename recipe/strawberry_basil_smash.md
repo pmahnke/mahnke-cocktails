@@ -6,6 +6,7 @@ eras: [classic]
 categories: [smash]
 permalink: "/recipe/strawberry_basil_smash/"
 iconfile: strawberry_basil_smash
+color: #C93F19
 stars: 0
 base_spirits: "Jamaican Rum"
 youtube: "3i4QnRLlPFc"

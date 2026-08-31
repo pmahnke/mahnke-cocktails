@@ -6,6 +6,7 @@ categories: [cocktail, smoked]
 eras: [classic]
 permalink: "/recipe/kentucky_colonel_smoked/"
 iconfile: kentucky_colonel_smoked
+color: #7B3D1D
 stars: 0
 base_spirits: "Bourbon, Bénédictine"
 youtube: "gZdT2GBf91I"

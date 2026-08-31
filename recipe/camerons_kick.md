@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/camerons_kick/"
 iconfile: camerons_kick
+color: #F1C053
 stars: 0
 base_spirits: "Blended Scotch, Irish Whiskey"
 youtube: "PwfU-18WhC8"
@@ -29,5 +30,5 @@ date: 2025-12-09
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Footed Rocks Glass
-- Garnish: Lemon peel
+- Garnish: Lemon twist
 - Special Prep: Express lemon oil over the cocktail.

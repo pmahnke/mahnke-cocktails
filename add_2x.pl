@@ -39,7 +39,7 @@ my %glassware = (
     'martini'              => 'martini',
     'low ball'             => 'low_ball',
     'rocks glass'          => 'rocks',
-    'footed rocks glass'   => 'rocks',
+    'footed rocks glass'   => 'footed_rocks_glass',
     'tiki mug'             => 'tiki',
     'hurricane'            => 'hurricane',
     'flared'            => 'nick_and_nora',
@@ -79,7 +79,7 @@ my %garnishes = (
     'lime peel'                => 'garnish-lime_peel',
     'lime oil'                 => 'garnish-lemon_peel_oil',
     'lime twist'               => 'garnish-lime_twist',
-    'Lime shell'               => 'garnish-lime_wheel',
+    'Lime shell'               => 'half_lime_shell',
 
     'grape'                    => 'garnish-grapes',
     'green apple slice'        => 'slice_green_apple',
@@ -112,7 +112,9 @@ my %garnishes = (
     'mint sprig'               => 'herb_mint',
     'mint'                     => 'herb_mint',
     'thyme'                    => 'herb_thyme',
+    'peach'                   => 'slice_peach',
     'rosemary'                 => 'herb_rosemary',
+    'blueberries'              => 'fruit_blueberries',
     'blackberries'             => 'fruit_blackberries',
     'raspberries'              => 'fruit_raspberries',
     'raspberry'                => 'fruit_raspberries',   
@@ -122,6 +124,7 @@ my %garnishes = (
     'pineapple wedge'          => 'slice_pineapple',
     'pineapple fronds'         => 'garnish-pineapple_fronds',
     'apple slice'              => 'slice_green_apple',
+    'apple slices'             => 'slice_green_apple',
     'anise'                    => 'spice_anise',
     'cinnamon'                 => 'spice_cinnamon',
     'coffee beans'             => 'spice_coffee',
@@ -185,6 +188,7 @@ while (my $file = readdir DIR) {
     my $has_color = 0;
     my $egg_white = 0;
     my $wine_float = 0;
+    my $foam = 0;
 
     foreach my $line (@file_lines) {
         if ($line =~ /^---\s*$/) {
@@ -270,6 +274,9 @@ while (my $file = readdir DIR) {
     }
     if ($entire_file_text =~ /float the red wine/i) {
         $wine_float = 1;
+    }
+    if ($entire_file_text =~ /foam: \#(.*)/i) {
+        $foam = $1;
     }
     my @found_tools     = find_matches($full_body_text, \%tools);
     my @found_ice       = find_matches($full_body_text, \%ice_types);
@@ -540,6 +547,8 @@ $rating_json
                 $opstyle = "opacity: 0.95;fill-opacity: 1;"
             }
             $foam_color = "\#b0044e" if ($wine_float); # Override for red wine float cocktails
+
+            $foam_color = "\#$foam" if ($foam); # Override for manually specified foam color
             
             if (my $foam = $dom->at('#liquid-foam')) {
                 $foam->attr(fill => $foam_color);

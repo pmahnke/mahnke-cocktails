@@ -5,8 +5,9 @@ title: "Vieux Carré"
 categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/vieux_carre/"
-image: /assets/images/cocktail_vieux_carre.svg
+image_orig: /assets/images/cocktail_vieux_carre.svg
 iconfile: vieux_carre
+color: #AE6838
 stars: 5
 base_spirits: "Rye, Cognac, Sweet Vermouth, Bénédictine"
 youtube: "cDCdcwuM8yA"

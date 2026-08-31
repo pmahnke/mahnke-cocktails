@@ -6,6 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/southside/"
 iconfile: southside
+color: #B1A976
 stars: 0
 base_spirits: "London Dry Gin"
 youtube: yxFAGMuM2I

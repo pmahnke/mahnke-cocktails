@@ -6,6 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/monkey_gland/"
 iconfile: monkey_gland
+color: #FDAE5A
 stars: 0
 base_spirits: "London Dry Gin, Absinthe"
 youtube: "u4b673NTI7w"
@@ -30,5 +31,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Footed Rocks Glass
-- Garnish: Orange peel and cocktail cherry
+- Garnish: Orange twist and cocktail cherry
 - Special Prep: Regal shake with the swath of orange peel in the shaker

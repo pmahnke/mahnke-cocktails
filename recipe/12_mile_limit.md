@@ -7,6 +7,7 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/12_mile_limit/"
 iconfile: 12_mile_limit
+color: #DE6011
 stars: 4
 base_spirits: "White Rum, Rye, Cognac"
 youtube: "6M6Xu_URmPg"
@@ -34,5 +35,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Footed Rocks Glass
-- Garnish: Lemon Swath
+- Garnish: Lemon twist
 - Special Prep: Express the lemon oil over the cocktail.

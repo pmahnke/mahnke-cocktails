@@ -6,6 +6,7 @@ categories: [coffee, after_dinner]
 eras: [modern]
 permalink: "/recipe/white_russian/"
 iconfile: white_russian
+color: #572109
 stars: 4
 base_spirits: "Vodka, Coffee Liqueur"
 youtube: "z2lAXggbDDY"

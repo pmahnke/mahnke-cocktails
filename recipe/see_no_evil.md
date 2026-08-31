@@ -6,6 +6,8 @@ categories: [sour]
 eras: [anders]
 permalink: "/recipe/see_no_evil/"
 iconfile: see_no_evil
+color: #DEA9A7
+foam: #E63616
 stars: 0
 base_spirits: "Mezcal "
 youtube: "xRJ9uAzTcaE"

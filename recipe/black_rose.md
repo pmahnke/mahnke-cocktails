@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/black_rose/"
 iconfile: black_rose
+color: #811206
 stars: 2
 base_spirits: "Bourbon, Cognac"
 youtube: "YwHw259XAOU"

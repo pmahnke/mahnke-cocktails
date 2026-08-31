@@ -6,6 +6,7 @@ categories: [after_dinner, amaro, coffee]
 eras: [modern]
 permalink: "/recipe/coffee_negroni/"
 iconfile: coffee_negroni
+color: #C52B26
 stars: 0
 base_spirits: "London Dry Gin, Coffee Liqueur, Campari, Sweet Vermouth"
 youtube: "41iPKwfTE9E"

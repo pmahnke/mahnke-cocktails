@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [classic]
 permalink: "/recipe/corn_and_oil/"
 iconfile: corn_and_oil
+color: #D1740B
 stars: 0
 base_spirits: "Demerara Rum"
 youtube: "Y2AMcTB_kbY"
@@ -30,5 +31,5 @@ date: 2025-08-11
 - Glassware:
   - Low Ball
   - On the Rocks
-- Garnish: Lime wedge
+- Garnish: Lime wheel or lime wedge
 - Special Prep: None

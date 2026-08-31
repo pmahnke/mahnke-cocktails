@@ -8,6 +8,7 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/hot_tigers_milk/"
 iconfile: hot_tigers_milk
+color: #FACF93
 stars: 0
 base_spirits: "Demerara Rum"
 youtube: "pJ_OQtJnIrY"

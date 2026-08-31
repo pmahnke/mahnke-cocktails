@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [anders]
 permalink: "/recipe/apple_old_fashioned/"
 iconfile: apple_old_fashioned
+color: #FF8000
 stars: 0
 base_spirits: "Bourbon"
 youtube: "rWu7oPKxN4U"
