@@ -21,7 +21,7 @@ date: 2025-09-10
 
 | Amount | Ingredient          | Brand               |
 | -----: | ------------------- | ------------------- |
-|   1 oz | London Dry Gin                 | Hayman's London Dry |
+|   1 oz | London Dry Gin      | Hayman's London Dry |
 |   1 oz | Elderflower Liqueur | St-Germain          |
 |   1 oz | Lillet Blanc        | Lillet Blanc        |
 |   1 oz | Fresh Lime Juice    |
