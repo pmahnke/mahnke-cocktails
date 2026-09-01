@@ -32,4 +32,4 @@ date: 2025-12-23
 - Pour: Double Strain
 - Glassware: Nick & Nora
 - Garnish: Cocktail Cherry
-- Special Prep: Add the cherry to the glass before straining the cocktail
+- Special Prep: Add the cherry to the glass before straining the cocktail.

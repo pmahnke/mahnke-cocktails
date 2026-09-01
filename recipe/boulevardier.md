@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [prohibition]
 permalink: "/recipe/boulevardier/"
 iconfile: boulevardier
+color: #C50102
 stars: 4
 base_spirits: "Bourbon, Campari, Sweet Vermouth"
 youtube: "VAK-A7laGuE"
@@ -27,6 +28,6 @@ date: 2025-08-11
 
 - Method: Stirred
 - Pour: Julep Strained
-- Glassware: Nice & Nora
+- Glassware: Nick & Nora
 - Garnish: Flamed orange oil
 - Special Prep: None
