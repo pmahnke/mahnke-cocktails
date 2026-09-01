@@ -6,6 +6,8 @@ categories: [beer, highball]
 eras: [classic]
 permalink: "/recipe/shandy_usa/"
 iconfile: shandy_usa
+color: #E8AD05
+foam: #FCFEFF
 stars: 0
 base_spirits: "Lager"
 youtube: "gu5hZ5Rb8nc&t=236s"

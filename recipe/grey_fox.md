@@ -6,6 +6,7 @@ categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/grey_fox/"
 iconfile: grey_fox
+color: #A88E6A
 stars: 0
 youtube: "5wgvpo-xBnA"
 description: "A non-alcoholic cocktail featuring the distinct flavors of Earl Grey tea and fresh lemon."
@@ -28,5 +29,5 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: High Ball, On the Rocks
-- Garnish: Lemon Zest, Sprig of Thyme or Lavender
+- Garnish: Lemon Zest, Sprig of Thyme or Lavender, and a straw
 - Special Prep: Pour in one ounce of tonic water, then pour in the cocktail. Top off with tonic water.

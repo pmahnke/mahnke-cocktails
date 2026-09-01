@@ -7,6 +7,7 @@ categories: [champagne, cocktail]
 eras: [modern]
 permalink: "/recipe/corpse_reviver_3_duffy/"
 iconfile: corpse_reviver_3_duffy
+color: #e9c98c
 stars: 0
 base_spirits: "Pastis, Champagne"
 youtube: "kBHi_atZsbM"

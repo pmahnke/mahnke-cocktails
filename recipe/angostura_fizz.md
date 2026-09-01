@@ -7,6 +7,7 @@ categories: [fizz]
 eras: [modern]
 permalink: "/recipe/angostura_fizz/"
 iconfile: angostura_fizz
+color: #D45420
 stars: 0
 base_spirits: "Angostura Aromatic Bitters"
 youtube: "0J6-sPDCOMw"
@@ -32,5 +33,5 @@ date: 2026-05-24
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: High Ball
-- Garnish: Pineapple wedge
+- Garnish: Pineapple wedge and a straw
 - Special Prep: None

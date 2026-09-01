@@ -6,6 +6,7 @@ categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/cumulonimbus/"
 iconfile: cumulonimbus
+color: #66280F
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A non-alcoholic coffee drink featuring espresso and cinnamon syrup topped with soda water."
@@ -28,10 +29,10 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: High Ball
-- Garnish: None
+- Garnish: A straw
 - Special Prep:
   - Add half the soda water to the glass
   - Strain in the cocktail.
-  - Top with more soday water.
+  - Top with more soda water.
   - Expressed orange oil.
   - For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white.

@@ -7,6 +7,7 @@ categories: [frappe_swizzle]
 eras: [modern]
 permalink: "/recipe/freight_train_swizzle/"
 iconfile: freight_train_swizzle
+color: #C26A1B
 stars: 0
 base_spirits: "Jamaican Rum, Green Chartreuse"
 youtube: "cSPKyfVh3T4"
@@ -33,5 +34,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - Crushed Ice
-- Garnish: Mint Sprig
+- Garnish: Mint Sprig and a straw
 - Special Prep: Dry shake the cocktail and pour over crushed ice. Top with Angostura Aromatic Bitters.

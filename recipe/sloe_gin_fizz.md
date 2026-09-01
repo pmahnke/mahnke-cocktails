@@ -6,6 +6,7 @@ categories: [fizz]
 eras: [classic]
 permalink: "/recipe/sloe_gin_fizz/"
 iconfile: sloe_gin_fizz
+color: #BC2027
 stars: 0
 base_spirits: "Sloe Gin "
 youtube: "gGlTXp_oujk"
@@ -31,5 +32,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the Rocks
-- Garnish: Lemon wheel and cocktail cherry
+- Garnish: Lemon wheel, cocktail cherry, and a straw
 - Special Prep: 1 For variations, drop Sloe Gin to 1.5 oz. (45 ml), & add 0.5 oz. (15 ml) of your preferred spirit (Navy Strength Gin, Cognac, Pisco, or Campari).

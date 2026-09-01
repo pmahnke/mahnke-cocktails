@@ -6,6 +6,7 @@ categories: [collins]
 eras: [classic]
 permalink: "/recipe/tom_collins/"
 iconfile: tom_collins
+color: #FCFCFC
 stars: 0
 base_spirits: "Old Tom Gin "
 youtube: "DKkHTEozo7o"
@@ -31,5 +32,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the Rocks
-- Garnish: Lemon wheel and cocktail cherry
+- Garnish: Lemon wheel, cocktail cherry, and a straw
 - Special Prep: Add cocktail to the glass with ice and top with soda water.

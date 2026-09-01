@@ -7,6 +7,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/el_diablo/"
 iconfile: el_diablo
+color: #97352A
 stars: 0
 base_spirits: "Reposado Tequila, Crème de Cassis"
 youtube: "xN3ymSPZJjY"
@@ -32,5 +33,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the Rocks
-- Garnish: Inverted lime rind filled with the Crème de cassis for an “interactive” garnish
+- Garnish: Inverted lime shell filled with the Crème de cassis for an “interactive” garnish
 - Special Prep: Single strain into glass, top the drink with the ginger soda

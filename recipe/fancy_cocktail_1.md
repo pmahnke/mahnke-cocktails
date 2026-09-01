@@ -30,4 +30,4 @@ date: 2025-08-11
 - Pour: Julep Strain
 - Glassware: Martini
 - Garnish: Grapefruit twist
-- Special Prep: Express grapefruit oil over cocktail.
+- Special Prep: Express grapefruit oil over cocktail

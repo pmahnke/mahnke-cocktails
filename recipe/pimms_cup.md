@@ -6,6 +6,7 @@ categories: [highball]
 eras: [classic]
 permalink: "/recipe/pimms_cup/"
 iconfile: pimms_cup
+color: #D36916
 stars: 0
 base_spirits: "Pimms"
 youtube: "CGq0rFP_Jl0"
@@ -30,5 +31,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the Rocks
-- Garnish: Cucumber strip cut up, strawberries, and a sprig of mint
+- Garnish: Cucumber strip cut up, strawberries, a straw, and a sprig of mint
 - Special Prep: Pour ginger ale and shaken Pimm's and lemon mixture into glass together.

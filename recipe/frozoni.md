@@ -6,6 +6,8 @@ categories: [amaro, champagne]
 eras: [anders]
 permalink: "/recipe/frozoni/"
 iconfile: frozoni
+color: #FE9F70
+foam: #F2CFC1
 stars: 0
 base_spirits: "London Dry Gin, Campari, Prosecco"
 youtube: "ipHnOhkGWug"

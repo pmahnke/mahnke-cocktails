@@ -6,6 +6,7 @@ categories: [fizz]
 eras: [classic]
 permalink: "/recipe/mojito/"
 iconfile: mojito
+color: #87815E
 stars: 4
 base_spirits: "White Rum "
 youtube: "KMypSCazyRw"
@@ -34,8 +35,8 @@ date: 2025-08-11
 -
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Collins
-- Garnish: Mint Sprig Special
+- Glassware: Collins glass and ice cubes
+- Garnish: Mint sprig and a straw
 - Prep: Add mint leaves to the glass and bruise them gently with a barspoon. Pull them up the side of the glass to coat the glass with the essential oils. Add ice, and pour in the cocktail. Top with soda water.
 
 </div>
@@ -58,7 +59,7 @@ date: 2025-08-11
 -
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Collins
+- Glassware: Collins glass and ice cubes
 - Garnish: Mint Sprig
 - Special Prep: Add mint leaves and sugar to the glass and bruise the mint gently with a barspoon. Pull the mint up the side of the glass to coat the glass with the essential oils. Cut the half lime into 4 wedges. Add the wedges to the glass and use a muddler to extrace the juice from the lime without destroying the mint. Add ice, and pour in the rum. Top with soda water.
 

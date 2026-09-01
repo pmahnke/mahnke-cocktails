@@ -7,6 +7,7 @@ eras: [modern]
 categories: [buck]
 permalink: "/recipe/suffering_bastard/"
 iconfile: suffering_bastard
+color: #E98C0D
 stars: 0
 base_spirits: "London Dry Gin, Cognac, Bourbon"
 youtube: "oRQtYcyRKVI"
@@ -51,5 +52,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the rocks
-- Garnish: Mint sprig and orange slice
+- Garnish: Mint sprig, orange wheel, and a straw
 - Special Prep: Pour the ginger beer into the glass while pouring the cocktail.

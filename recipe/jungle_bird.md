@@ -6,9 +6,11 @@ categories: [amaro, tiki]
 eras: [modern]
 permalink: "/recipe/jungle_bird/"
 iconfile: jungle_bird
+color: #FF8121
+foam: #f6f6f6
 stars: 0
 base_spirits: "Jamaican Rum, Demerara Rum, Campari"
-youtube: "YFqEvNdPrX8"
+youtube: cup9PY32Sd4
 description: "A classic tiki cocktail from the 1970s with a unique bitter twist from the inclusion of Campari."
 excerpt: |
   The Jungle Bird is a classic Tiki cocktail that was created in 1973 at the Aviary Bar in the Kuala Lumpur Hilton. It's a complex and balanced drink that combines the flavors of dark rum, Campari, pineapple juice, lime juice, and simple syrup.
@@ -33,5 +35,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the rocks
-- Garnish: Pineapple wedges and fronds
+- Garnish: Pineapple wedges, pineapple fronds, and a straw
 - Special Prep: None

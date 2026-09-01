@@ -6,6 +6,7 @@ eras: [classic]
 categories: [buck]
 permalink: "/recipe/rum_buck/"
 iconfile: rum_buck
+color: #DB8401
 stars: 0
 base_spirits: "Dark Rum, Allspice Dram"
 youtube: "2EZBGowe0ho"
@@ -31,7 +32,7 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the Rocks
-- Garnish: Lime wheel
+- Garnish: Lime wheel and a straw
 - Special Prep: 
   1. Pour the ginger beer into the glass while pouring the cocktail. 
   1. Add the allspice dram as a float

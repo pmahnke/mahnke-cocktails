@@ -7,6 +7,8 @@ categories: [buck]
 eras: [modern]
 permalink: "/recipe/bitters_buck/"
 iconfile: bitters_buck
+color: #8E190B
+foam: #FCCABE
 stars: 0
 base_spirits: "Angostura Aromatic Bitters"
 youtube: "0J6-sPDCOMw"
@@ -32,5 +34,5 @@ date: 2026-05-24
 - Glassware:
   - High Ball
   - On the Rocks
-- Garnish: Mint sprig
+- Garnish: Mint sprig and a straw
 - Special Prep: None

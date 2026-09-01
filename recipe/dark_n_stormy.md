@@ -6,7 +6,8 @@ categories: [buck]
 eras: [classic]
 permalink: "/recipe/dark_n_stormy/"
 iconfile: dark_n_stormy
-image: /assets/images/cocktail_dark_n_stormy.svg
+color: #DF8E00
+image_orig: /assets/images/cocktail_dark_n_stormy.svg
 stars: 5
 base_spirits: "Dark Rum "
 youtube: "2EZBGowe0ho"
@@ -28,5 +29,5 @@ date: 2025-08-11
 - Method: Built in the glass
 - Pour: Add all ingredients directly to the glass
 - Glassware: High Ball, On the Rocks
-- Garnish: Lime wedge
+- Garnish: Lime wedge and a straw
 - Special Prep: Pour the ginger beer into the glass, then the rum.

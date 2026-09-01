@@ -31,9 +31,9 @@ unless (-d $mydir) {
 # match => slug
 my %glassware = (
     'beer mug'             => 'pint',
-    'glassware: cocktail' => 'goblet',
+    'glassware: cocktail'  => 'goblet',
     'coupe'                => 'coupe',
-    'collins'              => 'collins',
+    'collins'              => 'highball',
     'highball'             => 'highball',
     'high ball'            => 'highball',
     'martini'              => 'martini',
@@ -42,7 +42,7 @@ my %glassware = (
     'footed rocks glass'   => 'footed_rocks_glass',
     'tiki mug'             => 'tiki',
     'hurricane'            => 'hurricane',
-    'flared'            => 'nick_and_nora',
+    'flared'               => 'nick_and_nora',
     'flute'                => 'flute',
     'cobbler'              => 'cobbler',
     'coffee mug'           => 'coffee',
@@ -65,7 +65,7 @@ my %glassware = (
     'sling'                => 'sling',
     'snifter'              => 'snifter',
     'tea cup'              => 'coffee',
-    'tea cups'              => 'coffee',
+    'tea cups'             => 'coffee',
     'tiki'                 => 'tiki',
     'sour'                 => 'sour',
     'whiskey glass'        => 'whiskey',
@@ -73,13 +73,13 @@ my %glassware = (
 );
 
 my %garnishes = (
-    'lime wedge'               => 'slice_lime',
+    'lime wedge'               => 'fruit_lime',
     'lime wheel'               => 'garnish-lime_wheel',
     'dehydrated lime wheel'    => 'garnish-dry_lime_wheel',
     'lime peel'                => 'garnish-lime_peel',
     'lime oil'                 => 'garnish-lemon_peel_oil',
     'lime twist'               => 'garnish-lime_twist',
-    'Lime shell'               => 'half_lime_shell',
+    'lime shell'               => 'half_lime_shell',
 
     'grape'                    => 'garnish-grapes',
     'green apple slice'        => 'slice_green_apple',
@@ -96,12 +96,14 @@ my %garnishes = (
     'orange peel'              => 'garnish-orange_peel',
     'orange twist'             => 'twist_orange',
     'orange slice'             => 'garnish-orange_slice',
+    'orange wheel'             => 'garnish-orange_wheel',
     'dehydrated orange wheel'  => 'garnish-dry_orange_wheel',
     'orange oil'               => 'garnish-orange_peel_oil',
     
     'grapefruit peel'          => 'garnish-grapefruit_peel',
     'grapefruit twist'         => 'twist_grapefruit',
-
+    'grapefruit slice'         => 'garnish-grapefruit_slice',
+    
     'umbrella'                 => 'garnish-umbrella',
     'cucumber'                 => 'garnish_cucumber',
     'cherry'                   => 'twist_cocktail-cherry',
@@ -111,17 +113,21 @@ my %garnishes = (
     'grated coffee bean'       => 'spice_nutmeg',
     'mint sprig'               => 'herb_mint',
     'mint'                     => 'herb_mint',
-    'thyme'                    => 'herb_thyme',
-    'peach'                   => 'slice_peach',
+    'basil'                    => 'herb_basil',
+    'thyme'                    => 'herb_rosemary',
+    'peach'                    => 'slice_peach',
     'rosemary'                 => 'herb_rosemary',
+    'grape'                    => 'fruit_grape',
     'blueberries'              => 'fruit_blueberries',
     'blackberries'             => 'fruit_blackberries',
     'raspberries'              => 'fruit_raspberries',
     'raspberry'                => 'fruit_raspberries',   
     'blackberry'               => 'fruit_blackberries', 
     'strawberry'               => 'fruit_strawberry',
+    'strawberries'             => 'fruit_strawberry',
     'olive'                    => 'fruit_olives',
     'pineapple wedge'          => 'slice_pineapple',
+    'pineapple wedges'          => 'slice_pineapple',
     'pineapple fronds'         => 'garnish-pineapple_fronds',
     'apple slice'              => 'slice_green_apple',
     'apple slices'             => 'slice_green_apple',
@@ -132,13 +138,14 @@ my %garnishes = (
     'sugared rim'              => 'garnish-salted_rim',
     'sugar rim'                => 'garnish-salted_rim',
     'drops of angostura'       => 'garnish-angostura_bitters',
+    'straw'                    => 'straw'
 );
 
 my %tools = (
     'muddler'         => 'muddler',
     'bar spoon'       => 'bar_spoon',
     'jigger'          => 'jigger',
-    'squeezer'        => 'squeezer'
+    'squeezer'        => 'squeezer',
 );
 
 my %ice_types = (
@@ -157,6 +164,8 @@ my %cocktail_types = (
     'stirred'         => 'stirred',
     'method: blended' => 'blended'
 );
+
+my %master_svg_cache;
 
 my %spirit;
 &read_spirit_data();
@@ -263,13 +272,13 @@ while (my $file = readdir DIR) {
     my @found_garnishes = find_matches($garnish_text, \%garnishes);
 # NEW: Check the ENTIRE file for carbonation to trigger bubbles
     my $entire_file_text = join("", @file_lines);
-    if ($entire_file_text =~ /champagne|champaigne|prosecco|cava|sparkling wine|club soda|soda water|tonic/i) {
+    if ($entire_file_text =~ /champagne|champagne|prosecco|cava|sparkling wine|club soda|soda water|tonic|ginger ale|ginger beer|lager|beer|ale/i) {
         push @found_garnishes, 'bubbles';
     }
     if ($entire_file_text =~ /salted rim|sugared rim/i) {
         push @found_garnishes, 'garnish-salted_rim';
     }
-    if ($entire_file_text =~ /egg|heavy cream/i) {
+    if ($entire_file_text =~ /egg|heavy cream|aquafaba/i) {
         $egg_white = 1;
     }
     if ($entire_file_text =~ /float the red wine/i) {
@@ -513,114 +522,115 @@ $rating_json
     # ==========================================================================
     if ($page_image && $page_image =~ /\.svg$/i) {
         
-        # 1. Determine the glass template (assuming $found_glasses[0] holds the slug)
+        # 1. Determine the glass template
         my $template_glass = $found_glasses[0] || 'rocks'; 
         my $template_file = $rootdir . "/assets/images/master_" . $template_glass . ".svg";
         
         if (-e $template_file) {
-            open(TMPL, "<:utf8", $template_file) or warn "Cannot open $template_file\n";
-            my $svg_content = join("", <TMPL>);
-            close(TMPL);
+            # Determine output filename
+            my $out_img = $page_image;
+            $out_img =~ s/.*\///; 
+            $out_img =~ s/\.svg$/_dynamic.svg/i unless $out_img =~ /_dynamic\.svg$/i;
+            my $svg_out_path = $rootdir . "/assets/images/" . $out_img;
 
-            # Parse the SVG into a DOM object
-            my $dom = Mojo::DOM->new($svg_content);
+            # TIMESTAMP CHECK: Skip if the generated SVG is newer than the recipe AND the template
+            my $svg_mtime = -e $svg_out_path ? (stat($svg_out_path))[9] : 0;
+            my $recipe_mtime = (stat($infile))[9];
+            my $template_mtime = (stat($template_file))[9];
 
-            # 2a. Inject the Main Liquid Color
-            if (my $liquid = $dom->at('#liquid-fill')) {
-                # Override the top-level XML attribute
-                $liquid->attr(fill => $liquid_color);
+            if ($svg_mtime > $recipe_mtime && $svg_mtime > $template_mtime) {
+                # Skip DOM parsing completely
+                print "Skipped SVG: $out_img (Up to date)\n";
+            } else {
+                # --- Proceed with DOM manipulation ---
                 
-                # If Inkscape trapped a fill inside the style="" attribute, scrub and replace it
-                if (my $style = $liquid->attr('style')) {
-                    $style =~ s/fill:\s*[^;]+;?//ig;
-                    # We add a leading space here so it doesn't run into previous CSS properties
-                    $liquid->attr(style => "$style fill:$liquid_color;");
+                # Load from memory cache if available, otherwise read from disk
+                if (!$master_svg_cache{$template_glass}) {
+                    open(TMPL, "<:utf8", $template_file) or warn "Cannot open $template_file\n";
+                    $master_svg_cache{$template_glass} = join("", <TMPL>);
+                    close(TMPL);
                 }
-            }
+                
+                # Use the cached string
+                my $svg_content = $master_svg_cache{$template_glass};
+                my $dom = Mojo::DOM->new($svg_content);
 
-            # 2b. Calculate and Inject the Foam Color (15% lighter)
-            # This calls the lighten_color sub at the bottom of your script
-            my $foam_color = lighten_color($liquid_color, 0.4);
-            my $opstyle = "opacity: 0.80;fill-opacity: 1";
-             if ($egg_white) {
-                $foam_color = "\#fefaec"; # Override for egg white cocktails
-                $opstyle = "opacity: 0.95;fill-opacity: 1;"
-            }
-            $foam_color = "\#b0044e" if ($wine_float); # Override for red wine float cocktails
-
-            $foam_color = "\#$foam" if ($foam); # Override for manually specified foam color
-            
-            if (my $foam = $dom->at('#liquid-foam')) {
-                $foam->attr(fill => $foam_color);
-                if (my $style = $foam->attr('style')) {
-                    $style =~ s/fill:\s*[^;]+;?//ig;
-                    $foam->attr(style => "$style fill:$foam_color;$opstyle");
-                }
-            }
-            if (my $foam = $dom->at('#liquid-foam2')) {
-                $foam->attr(fill => $foam_color);
-                if (my $style = $foam->attr('style')) {
-                    $style =~ s/fill:\s*[^;]+;?//ig;
-                    $foam->attr(style => "$style fill:$foam_color;$opstyle");
-                }
-            }
-
-            # 2c. glass highlight color (15% lighter than liquid)
-            my $highlight_color = darken_color($liquid_color, 0.1);
-            if (my $highlight = $dom->at('#liquid-highlight')) {
-                $highlight->attr(fill => $highlight_color);
-                if (my $style = $highlight->attr('style')) {
-                    $style =~ s/fill:\s*[^;]+;?//ig;
-                    $highlight->attr(style => "$style fill:$highlight_color;");
-                }
-            }
-
-            # 3. Toggle Garnishes and Ice (and REMOVE unused to save filesize)
-            
-            # Create a fast lookup hash for the elements we actually found
-            my %found_lookup;
-            $found_lookup{$_} = 1 for @found_garnishes;
-            $found_lookup{$_} = 1 for @found_ice;
-
-            # Build a list of all possible elements from the dictionaries
-            my %all_slugs;
-            $all_slugs{$_} = 1 for values %garnishes;
-            $all_slugs{$_} = 1 for values %ice_types;
-            $all_slugs{'bubbles'} = 1; # Safety net for the manually pushed bubbles
-
-            foreach my $slug (keys %all_slugs) {
-                if (my $el = $dom->at("#$slug")) {
-                    if ($found_lookup{$slug}) {
-                        # If the drink uses this garnish, make sure it is visible
-                        $el->attr(display => 'inline');
-                        if (my $style = $el->attr('style')) {
-                            $style =~ s/display:\s*[^;]+;?//ig;
-                            $el->attr(style => "$style display:inline;");
-                        }
-                    } else {
-                        # If the drink DOES NOT use this garnish, delete it entirely!
-                        $el->remove;
+                # 2a. Inject the Main Liquid Color
+                if (my $liquid = $dom->at('#liquid-fill')) {
+                    $liquid->attr(fill => $liquid_color);
+                    if (my $style = $liquid->attr('style')) {
+                        $style =~ s/fill:\s*[^;]+;?//ig;
+                        $liquid->attr(style => "$style fill:$liquid_color;");
                     }
                 }
+
+                # 2b. Calculate and Inject the Foam Color (15% lighter)
+                my $foam_color = lighten_color($liquid_color, 0.4);
+                my $opstyle = "opacity: 0.80;fill-opacity: 1";
+                 if ($egg_white) {
+                    $foam_color = "\#fefaec";
+                    $opstyle = "opacity: 0.95;fill-opacity: 1;"
+                }
+                $foam_color = "\#b0044e" if ($wine_float); 
+                $foam_color = "\#$foam" if ($foam); 
+                
+                if (my $foam = $dom->at('#liquid-foam')) {
+                    $foam->attr(fill => $foam_color);
+                    if (my $style = $foam->attr('style')) {
+                        $style =~ s/fill:\s*[^;]+;?//ig;
+                        $foam->attr(style => "$style fill:$foam_color;$opstyle");
+                    }
+                }
+                if (my $foam = $dom->at('#liquid-foam2')) {
+                    $foam->attr(fill => $foam_color);
+                    if (my $style = $foam->attr('style')) {
+                        $style =~ s/fill:\s*[^;]+;?//ig;
+                        $foam->attr(style => "$style fill:$foam_color;$opstyle");
+                    }
+                }
+
+                # 2c. glass highlight color (15% lighter than liquid)
+                my $highlight_color = darken_color($liquid_color, 0.1);
+                if (my $highlight = $dom->at('#liquid-highlight')) {
+                    $highlight->attr(fill => $highlight_color);
+                    if (my $style = $highlight->attr('style')) {
+                        $style =~ s/fill:\s*[^;]+;?//ig;
+                        $highlight->attr(style => "$style fill:$highlight_color;");
+                    }
+                }
+
+                # 3. Toggle Garnishes and Ice
+                my %found_lookup;
+                $found_lookup{$_} = 1 for @found_garnishes;
+                $found_lookup{$_} = 1 for @found_ice;
+
+                my %all_slugs;
+                $all_slugs{$_} = 1 for values %garnishes;
+                $all_slugs{$_} = 1 for values %ice_types;
+                $all_slugs{'bubbles'} = 1; 
+
+                foreach my $slug (keys %all_slugs) {
+                    if (my $el = $dom->at("#$slug")) {
+                        if ($found_lookup{$slug}) {
+                            $el->attr(display => 'inline');
+                            if (my $style = $el->attr('style')) {
+                                $style =~ s/display:\s*[^;]+;?//ig;
+                                $el->attr(style => "$style display:inline;");
+                            }
+                        } else {
+                            $el->remove;
+                        }
+                    }
+                }
+
+                $svg_content = $dom->to_string;
+                
+                open(SVG_OUT, ">:utf8", $svg_out_path) or warn "Cannot write $svg_out_path\n";
+                print SVG_OUT $svg_content;
+                close(SVG_OUT);
+                
+                print "Generated SVG: $svg_out_path\n";
             }
-
-            # Overwrite $svg_content with the newly modified DOM
-            $svg_content = $dom->to_string;
-
-            # 4. Save the new custom SVG safely
-            my $out_img = $page_image;
-            $out_img =~ s/.*\///; # Strip any folders just in case
-            
-            # Only append _dynamic if it isn't already there
-            $out_img =~ s/\.svg$/_dynamic.svg/i unless $out_img =~ /_dynamic\.svg$/i;
-            
-            my $svg_out_path = $rootdir . "/assets/images/" . $out_img;
-            
-            open(SVG_OUT, ">:utf8", $svg_out_path) or warn "Cannot write $svg_out_path\n";
-            print SVG_OUT $svg_content;
-            close(SVG_OUT);
-            
-            print "Generated SVG: $svg_out_path\n";
         }
     }
 

@@ -7,6 +7,7 @@ categories: [coffee, fizz]
 eras: [modern]
 permalink: "/recipe/bourbon_lift/"
 iconfile: bourbon_lift
+color: #E8C19B
 stars: 0
 base_spirits: "Bourbon, Coffee Liqueur"
 youtube: "zCDgzuTYKBU"

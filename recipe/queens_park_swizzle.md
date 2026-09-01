@@ -6,6 +6,8 @@ categories: [frappe_swizzle]
 eras: [prohibition]
 permalink: "/recipe/queens_park_swizzle/"
 iconfile: queens_park_swizzle
+color: #f2c457
+foam: #B4340D
 stars: 4
 base_spirits: "Demerara Rum "
 youtube: "ox1-C1owN80"
@@ -32,5 +34,5 @@ date: 2025-08-11
 - Glassware: 
   - High Ball
   - Crushed Ice
-- Garnish: Mint Sprig
+- Garnish: Mint sprig and a straw
 - Special Prep: Press and slide the mint leaves in the glass first. Then build the cocktail. Stir vigorously (swizzle) to combine. Top with crushed ice. Float the bitters on top.

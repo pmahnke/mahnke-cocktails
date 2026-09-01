@@ -6,6 +6,7 @@ eras: [anders]
 categories: [after_dinner, ice_cream]
 permalink: "/recipe/white_stallion/"
 iconfile: white_stallion
+color: #E8E8E8
 stars: 0
 base_spirits: "Plymouth Gin, Curaçao, Champagne "
 youtube: "E1TfYiFrnXk"

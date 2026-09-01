@@ -6,7 +6,8 @@ categories: [champagne]
 eras: [classic]
 permalink: "/recipe/champagne_cocktail/"
 iconfile: champagne_cocktail
-image: /assets/images/cocktail_champagne_cocktail.svg
+color: #FAC663
+image_orig: /assets/images/cocktail_champagne_cocktail.svg
 stars: 5
 base_spirits: "Champagne, Cognac "
 youtube: "WmMC1qb2LgA"
@@ -30,5 +31,5 @@ date: 2025-08-11
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware: Champagne flute
-- Garnish: Expressed oils of a lemon swath and an orange swath
+- Garnish: Expressed oils of a lemon twist and an orange twist
 - Special Prep: Saturate the sugar cube in bitters in a barspoon. Then add to the glass. Then add the cognac. Then fill with champagne.

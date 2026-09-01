@@ -7,6 +7,8 @@ categories: [beer, cocktail]
 eras: [anders]
 permalink: "/recipe/shallow_draft/"
 iconfile: shallow_draft
+color: #ECB546
+foam: #E4E3DE
 stars: 0
 base_spirits: "Lager"
 youtube: "gu5hZ5Rb8nc&t=585s"

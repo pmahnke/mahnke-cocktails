@@ -5,7 +5,8 @@ title: "Paloma (two ways)"
 eras: [modern]
 categories: [highball]
 permalink: "/recipe/paloma/"
-iconfile: paloma
+iconfile: Paloma
+color: #EFDBDB
 stars: 0
 base_spirits: "Blanco Tequila"
 youtube: "yyVU7U-8WLc"
@@ -35,9 +36,9 @@ date: 2025-08-11
 - Glassware:
   - Highball
   - On the rocks
-- Garnish: Grapefruit slice
+- Garnish: Grapefruit slice and a straw 
 - Special Prep:
-  - Shake the tequila, lime juice and salt.
+  - Shake the tequila, lime juice and salt
   - Pour cocktail into the glass.
   - Top with grapefruit soda
 

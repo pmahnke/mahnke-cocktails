@@ -6,6 +6,7 @@ categories: [amaro, sour]
 eras: [anders]
 permalink: "/recipe/forced_retirement/"
 iconfile: forced_retirement
+color: #C8561C
 stars: 0
 base_spirits: "Malört, London Dry Gin, Campari"
 youtube: "shi2LNARyxk"

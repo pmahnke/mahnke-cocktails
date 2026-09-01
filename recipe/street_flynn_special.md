@@ -7,6 +7,7 @@ categories: [collins]
 eras: [modern]
 permalink: "/recipe/street_flynn_special/"
 iconfile: street_flynn_special
+color: #D58931
 stars: 0
 base_spirits: "Jamaican Rum, Allspice Dram"
 youtube: "https://youtube.com/shorts/3sJdqoFcrPg?si=21d3byC_5s7D5YL7"

@@ -6,9 +6,10 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/harvey_wallbanger/"
 iconfile: harvey_wallbanger
+color: #C79A1A
 stars: 0
 base_spirits: "Vodka, Galliano, Curaçao"
-youtube: "YFqEvNdPrX8"
+youtube: jGQzdzzulmU
 description: "A modern classic that enhances a simple Screwdriver (vodka and orange juice) with a float of the Italian liqueur Galliano."
 excerpt: |
   The Harvey Wallbanger is a modern classic that combines a Screwdriver with the Italian liqueur Galliano.
@@ -33,5 +34,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the rocks
-- Garnish: Orange wheel and cocktail cherry
+- Garnish: Orange wheel, cocktail cherry, and a straw
 - Special Prep: None

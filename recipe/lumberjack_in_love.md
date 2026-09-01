@@ -6,6 +6,7 @@ eras: [anders]
 categories: [beer]
 permalink: "/recipe/lumberjack_in_love/"
 iconfile: lumberjack_in_love
+color: #8D140B
 stars: 0
 base_spirits: "Rye, Lager, Allspice Dram"
 youtube: "Eg7DLBgwJqM"

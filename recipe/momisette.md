@@ -6,7 +6,8 @@ eras: [prohibition]
 categories: [fizz]
 permalink: "/recipe/momisette/"
 iconfile: momisette
-image: /assets/images/cocktail_momisette.svg
+color: #E6E2CD
+image_orig: /assets/images/cocktail_momisette.svg
 stars: 5
 base_spirits: "Absinthe "
 youtube: "ABntm6FL8wc"
@@ -32,5 +33,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the Rocks
-- Garnish: None
+- Garnish: A straw
 - Special Prep: Single strain into glass, top the drink with the sparkling water.

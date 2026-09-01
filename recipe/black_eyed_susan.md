@@ -6,6 +6,7 @@ categories: [highball]
 eras: [modern]
 permalink: "/recipe/black_eyed_susan/"
 iconfile: black_eyed_susan
+color: #FAE278
 stars: 0
 base_spirits: "Bourbon, Vodka, Peach Liqueur"
 youtube: "1V0-c6u4xJA"

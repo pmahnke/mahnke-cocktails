@@ -6,6 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/spring_forward/"
 iconfile: spring_forward
+color: #FE8822
 stars: 0
 base_spirits: "Pisco, Plymouth Gin, Cocchi Americano"
 youtube: "RRvfkkSjceM"
@@ -33,5 +34,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - Crushed Ice
-- Garnish: Basil
+- Garnish: Basil and a straw
 - Special Prep: None

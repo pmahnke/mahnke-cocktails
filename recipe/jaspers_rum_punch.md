@@ -6,6 +6,7 @@ categories: [punch]
 eras: [modern]
 permalink: "/recipe/jaspers_rum_punch/"
 iconfile: jaspers_rum_punch
+color: #EB7111
 stars: 0
 base_spirits: "Overproof Jamaican Rum"
 youtube: "sRTGCquUgMs"
@@ -29,5 +30,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - Crushed Ice
-- Garnish: Grated nutmeg and mint sprig
+- Garnish: Grated nutmeg, mint sprig, and a straw
 - Special Prep: Top glass with additional crushed ice

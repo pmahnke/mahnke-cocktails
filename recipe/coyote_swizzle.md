@@ -6,6 +6,7 @@ categories: [frappe_swizzle]
 eras: [anders]
 permalink: "/recipe/coyote_swizzle/"
 iconfile: coyote_swizzle
+color: #D21103
 stars: 0
 base_spirits: "Mezcal, Campari"
 youtube: "qLwJ2aixqYY&t=279s"
@@ -31,5 +32,5 @@ date: 2026-06-1
 - Glassware:
   - High Ball
   - Crushed Ice
-- Garnish: Cocktail umbrella
+- Garnish: Cocktail umbrella and a straw
 - Special Prep: Swizzle in the glass, and top with additional crushed ice.

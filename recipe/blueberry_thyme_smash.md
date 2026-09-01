@@ -6,6 +6,7 @@ categories: [smash]
 eras: [classic]
 permalink: "/recipe/blueberry_thyme_smash/"
 iconfile: blueberry_thyme_smash
+color: #B1455A
 stars: 0
 base_spirits: "London Dry Gin"
 youtube: "3i4QnRLlPFc&t=220s"
@@ -32,7 +33,7 @@ date: 2025-08-11
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Blueberries & bundle of thyme 
+- Garnish: Blueberries and a sprig of thyme 
 - Special Prep:
   1. Cut the half lemon into 8 wedges
   1. Remove the center pith and de-seed

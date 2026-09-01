@@ -6,7 +6,8 @@ eras: [prohibition]
 categories: [champagne]
 permalink: "/recipe/french75/"
 iconfile: french_75
-image: /assets/images/cocktail_french_75.svg
+color: #F0D9B4
+image_orig: /assets/images/cocktail_french_75.svg
 stars: 5
 base_spirits: "Champagne, Cognac, Plymouth Gin "
 youtube: "Viz7yWfcmdo"

@@ -7,9 +7,10 @@ categories: [spritz]
 eras: [modern]
 permalink: "/recipe/chilcano/"
 iconfile: chilcano
+color: #EECC80
 stars:
 base_spirits: "Pisco"
-youtube: ""
+youtube: https://www.theguardian.com/food/article/2024/sep/06/cocktail-of-the-week-llama-inn-london-chilcano-recipe
 description: "A popular and refreshing Peruvian highball that combines pisco with lime and ginger ale."
 excerpt: |
   This is the second most popular way to drink pisco in Peru, after a sour. If you don’t have ginger syrup, cordial or wine to hand, you can always swap the soda for ginger ale, though if you’ve got a sweet tooth, you may also want to add a drop of sugar syrup, too.
@@ -30,7 +31,8 @@ date: 2025-08-11
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass and stir
-- Glassware: Collins Glass
+- Glassware: 
+  - Collins Glass
   - On the rocks
 - Garnish: None
 - Special Prep: 

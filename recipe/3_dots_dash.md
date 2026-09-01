@@ -38,5 +38,5 @@ date: 2025-12-17
 - Glassware: 
   - High Ball
   - Crushed Ice
-- Garnish: 3 cherries, and pineapple spear
+- Garnish: 3 cherries, and a pineapple spear
 - Special Prep: None

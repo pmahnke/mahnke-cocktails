@@ -7,6 +7,7 @@ categories: [buck]
 eras: [classic]
 permalink: "/recipe/florodora/"
 iconfile: florodora
+color: #E17853
 stars: 0
 base_spirits: "London Dry Gin"
 youtube: "https://youtube.com/shorts/r6QW-H5nnGM?si=i7JwiTGYox34RizT"

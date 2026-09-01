@@ -6,6 +6,7 @@ categories: [grog]
 eras: [classic]
 permalink: "/recipe/grog/"
 iconfile: grog
+color: #883D06
 stars: 4
 base_spirits: "Navy Strength Rum"
 youtube: "https://pussersrum.com/blogs/cocktails/grog-cocktail?srsltid=AfmBOor-6PscaIXmngwY_iaX-LYLMNQTbODfvJlzWD1bkmP-KFb3IkoO"

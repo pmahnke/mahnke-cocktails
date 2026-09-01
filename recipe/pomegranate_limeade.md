@@ -6,6 +6,8 @@ eras: [anders]
 title: "Pomegranate Limeade"
 permalink: "/recipe/pomegranate_limeade/"
 iconfile: pomegranate_limeade
+color: #700709
+foam: #B07A73
 stars: 0
 youtube: "YwHw259XAOU"
 description: "A refreshing and vibrant non-alcoholic drink that balances the sweet-tart flavors of pomegranate (from grenadine) and fresh lime."
@@ -29,5 +31,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the Rocks
-- Garnish: Lime wheel and cocktail umbrella
+- Garnish: Lime wheel, a cocktail umbrella, and a straw
 - Special Prep: None

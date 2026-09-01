@@ -6,9 +6,10 @@ categories: [champagne]
 eras: [anders]
 permalink: "/recipe/brambubble/"
 iconfile: brambubble
+color: #B43A33
 stars: 0
 base_spirits: "Champagne, London Dry Gin, Crème de Mûre"
-youtube: "IAaiRENeyvc&t=639s"
+youtube: "vaVcBQ6tiFw&t=331s"
 description: "A refreshing and vibrant Champagne cocktail made with blackberry brandy, lemon, and ginger ale."
 excerpt: |
   The Brambubble is a refreshing and vibrant cocktail that's perfect for summer. It's made with blackberry brandy, lemon juice, and ginger ale, and it's garnished with a blackberry and a lemon wheel.
@@ -32,5 +33,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the rocks
-- Garnish: 3 Blackberries
+- Garnish: Three blackberries and a straw
 - Special Prep: Pour cocktail into glass and top it off with champagne.

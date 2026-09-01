@@ -8,6 +8,7 @@ categories: [coffee, after_dinner]
 permalink: "/recipe/espresso_martini/"
 iconfile: espresso_martini
 color: #331A15
+foam: #DDBDAA
 image_orig: /assets/images/category_coffee.svg
 stars: 0
 base_spirits: "Coffee Liqueur, Vodka "

@@ -7,8 +7,8 @@ eras: [modern]
 categories: [frappe_swizzle]
 permalink: "/recipe/chartreuse_swizzle/"
 iconfile: chartreuse_swizzle
-color: #dede8e
-image: /assets/images/cocktail_chartreuse_swizzle.svg
+color: #e2fd5e
+image_orig: /assets/images/cocktail_chartreuse_swizzle.svg
 stars: 5
 base_spirits: "Green Chartreuse"
 youtube: "CGkWnYhu4ag"
@@ -34,5 +34,5 @@ date: 2025-08-31
 - Glassware:
   - High Ball
   - Crushed Ice
-- Garnish: Grated Nutmeg and a Mint Sprig
+- Garnish: Grated nutmeg, a mint sprig and a straw
 - Special Prep: Swizzle in the glass, and top with additional crushed ice.

@@ -6,6 +6,7 @@ categories: [fizz]
 eras: [new_orleans]
 permalink: "/recipe/gunshop_fizz/"
 iconfile: gunshop_fizz
+color: #EA001C
 stars: 0
 base_spirits: "Peychaud's Bitters"
 youtube: "NYKEbNf5ksg"
@@ -35,5 +36,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the Rocks
-- Garnish: One whole strawberry and a cucumber wheel.
+- Garnish: One whole strawberry, a cucumber wheel, and a straw.
 - Special Prep: Muddle the whole strawberries, cucumber slices and orange and grapefruit swaths in the cheater tin till they are broken up. Add the remaining ingredients, and shake. Double strain into glass, top the drink with the red soda and garnish with a strawberry and a cucumber wheel.

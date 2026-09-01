@@ -6,7 +6,7 @@ categories: [fizz]
 eras: [classic]
 permalink: "/recipe/morning_glory_fizz/"
 iconfile: morning_glory_fizz
-color: #edd8b3
+color: #EDC574
 stars: 0
 base_spirits: "Single Malt Scotch, Absinthe "
 youtube: "YMY0LtEq8mg"
@@ -33,5 +33,5 @@ date: 2025-12-09
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: High Ball
-- Garnish: None
+- Garnish: A straw
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate the egg white. Add one ounce of soda water to the glass. Add the cocktail and expressed orange oil.

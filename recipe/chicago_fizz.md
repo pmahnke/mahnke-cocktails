@@ -6,6 +6,7 @@ categories: [fizz]
 eras: [classic]
 permalink: "/recipe/chicago_fizz/"
 iconfile: chicago_fizz
+color: #FD3102
 stars: 0
 base_spirits: "Jamaican Rum, Ruby Port"
 youtube: "bzN1zwAqgSY"
@@ -31,9 +32,9 @@ date: 2026-04-05
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: High Ball
-- Garnish: None
+- Garnish: Straw
 - Special Prep: 
-  1. Add ingriedents (except the soda water) to the shaker
+  1. Add ingredients (except the soda water) to the shaker
   1. For best results in texture, dry shake (shake without ice) before chilling to agitate the egg white.
   1. Add ice, and shake again.
   1. Pour cocktail into the glass

@@ -6,6 +6,7 @@ categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/blueberries_for_sal/"
 iconfile: blueberries_for_sal
+color: #B82349
 stars: 0
 youtube: "s0nUq0Q9yUk"
 description: "A refreshing non-alcoholic drink combining the fruity sweetness of blueberries with the spice of ginger beer."
@@ -30,7 +31,7 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the Rocks
-- Garnish: Mint sprig
+- Garnish: Mint sprig and a straw
 - Special Prep:
   - Press and slide the mint leaves in the glass.
   - Add the blueberries, simple syrup and lemon juice to a shaker and shake with ice.

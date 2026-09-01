@@ -6,6 +6,7 @@ eras: [anders]
 categories: [cocktail]
 permalink: "/recipe/speak_no_evil/"
 iconfile: speak_no_evil
+color: #D65011
 stars: 0
 base_spirits: "Reposado Tequila, Mezcal, Allspice Dram"
 youtube: "-DnpmdGBmgs&t=433s"
@@ -33,5 +34,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - Crushed Ice
-- Garnish: Orange wheel, grated cinnamon, and a cocktail cherry
+- Garnish: Orange wheel, grated cinnamon, a cocktail cherry, and a straw
 - Special Prep: None

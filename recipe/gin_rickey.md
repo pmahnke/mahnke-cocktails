@@ -6,6 +6,7 @@ categories: [highball]
 eras: [classic]
 permalink: "/recipe/gin_rickey/"
 iconfile: gin_rickey
+color: #E1DACF
 stars: 0
 base_spirits: "London Dry Gin"
 youtube: "vOM5wbvegzo"
@@ -41,4 +42,4 @@ date: 2025-10-20
   - Add the London Dry Gin
   - Drop in the second ice cube
   - Top with the sparkling water
-  - Feel free to swap out the base spirit
+  - Feel free to swap out the base spirit 

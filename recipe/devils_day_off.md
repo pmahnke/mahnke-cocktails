@@ -6,6 +6,7 @@ categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/devils_day_off/"
 iconfile: devils_day_off
+color: #C4011C
 stars: 0
 youtube: "5wgvpo-xBnA"
 description: "A refreshing non-alcoholic cocktail that features a combination of grapefruit, lime, agave, cinnamon, and the bittersweet notes of Sanbitter soda."
@@ -31,5 +32,5 @@ date: 2025-08-11
 - Glassware:
   - High Ball
   - On the Rocks
-- Garnish: Sprig of Rosemary
+- Garnish: Sprig of rosemary and a straw
 - Special Prep: Shake cocktail and pour into the glass. Top with red bitter soda.
