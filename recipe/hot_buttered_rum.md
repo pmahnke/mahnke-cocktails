@@ -6,6 +6,7 @@ categories: [toddy]
 eras: [classic]
 permalink: "/recipe/hot_buttered_rum/"
 iconfile: hot_buttered_rum
+image: /assets/images/cocktail_hot_buttered_rum.svg
 stars: 0
 base_spirits: "Dark Rum "
 youtube: "mBGgu3qRztY"

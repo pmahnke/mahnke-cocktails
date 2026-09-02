@@ -6,6 +6,7 @@ categories: [toddy]
 eras: [classic, modern]
 permalink: "/recipe/mezcal_hibiscus_toddy/"
 iconfile: mezcal_hibiscus_toddy
+color: #77020C
 stars: 0
 base_spirits: " Mezcal "
 youtube: "DJtBN6yBnsA"
@@ -31,5 +32,5 @@ date: 2025-08-11
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware: Mug
-- Garnish: Clove-studded orange peel
+- Garnish: Clove-studded orange peel and a cinnamon stick
 - Special Prep: Express the orange oil over the drink, then stud the peel with the cloves.

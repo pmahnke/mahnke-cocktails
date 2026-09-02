@@ -6,6 +6,7 @@ categories: [toddy]
 eras: [classic, modern]
 permalink: "/recipe/go-to_toddy/"
 iconfile: go-to_toddy
+color: #FDCC5E
 stars: 0
 base_spirits: "Blended Scotch "
 youtube: "DJtBN6yBnsA"
@@ -31,5 +32,5 @@ date: 2025-12-09
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware: Mug
-- Garnish: Clove-studded lemon peel
+- Garnish: Clove-studded lemon peel and a cinnamon stick
 - Special Prep: Express the lemon oil over the drink, then stud the peel with the cloves

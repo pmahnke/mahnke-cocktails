@@ -86,6 +86,7 @@ my %garnishes = (
     'pineapple slice'          => 'slice_pineapple',
 
     'lemon twist'              => 'twist_lemon',
+    'clove studded lemon peel' => 'garnish-lemon_peel_cloves',
     'lemon peel'               => 'garnish-lemon_peel',
     'lemon slice'              => 'garnish-lemon_slice',
     'lemon wedge'              => 'fruit_lemon',
@@ -93,6 +94,7 @@ my %garnishes = (
     'lemon wheel'              => 'garnish-lemon_wheel',
     'lemon oil'                => 'garnish-lemon_peel_oil',
     
+    'clove studded orange peel' => 'garnish-orange_peel_cloves',
     'orange peel'              => 'garnish-orange_peel',
     'orange twist'             => 'twist_orange',
     'orange slice'             => 'garnish-orange_slice',
@@ -111,6 +113,8 @@ my %garnishes = (
     'cherries on a toothpick'  => 'garnish-cherries_stick',
     'nutmeg'                   => 'spice_nutmeg',
     'grated coffee bean'       => 'spice_nutmeg',
+    'grated cinnamon'          => 'spice_nutmeg',
+    'grated chocolate'         => 'spice_nutmeg',
     'mint sprig'               => 'herb_mint',
     'mint'                     => 'herb_mint',
     'basil'                    => 'herb_basil',
@@ -175,6 +179,7 @@ opendir(DIR, $dir) or die "Cannot open directory $dir";
 
 while (my $file = readdir DIR) {
     next if ($file !~ /\.md$/);
+    next if ($file eq 'template.md');
 
     my $infile = $dir.$file;
     open (FILE, "<:utf8", "$infile") or die "Cannot open $infile\n";
@@ -500,6 +505,9 @@ $rating_json
 
             $final_front_matter .= "base_spirits: [" . join(", ", map { "'$_'" } @items) . "]\n";
         } 
+        elsif ($line =~ /^glass:/) { 
+            next; 
+        }
         else {
             $final_front_matter .= $line;
         }

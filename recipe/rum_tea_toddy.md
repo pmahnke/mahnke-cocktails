@@ -6,6 +6,7 @@ categories: [toddy]
 eras: [classic, modern]
 permalink: "/recipe/rum_tea_toddy/"
 iconfile: rum_tea_toddy
+color: #AF3B01
 stars: 0
 base_spirits: "Jamaican Rum"
 youtube: "DJtBN6yBnsA"
@@ -31,5 +32,5 @@ date: 2025-08-11
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware: Mug
-- Garnish: Clove-studded lemon peel
+- Garnish: Clove-studded lemon peel and a cinnamon stick
 - Special Prep: Express the lemon oil over the drink, then stud the peel with the cloves

@@ -6,6 +6,7 @@ categories: [toddy]
 eras: [anders]
 permalink: "/recipe/shoddy_toddy/"
 iconfile: shoddy_toddy
+color: #FCD058
 stars: 0
 base_spirits: "London Dry Gin, Bénédictine"
 youtube: "CfKrIWRMrNA"

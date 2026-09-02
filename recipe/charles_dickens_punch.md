@@ -6,6 +6,7 @@ categories: [punch]
 eras: [classic]
 permalink: "/recipe/charles_dickens_punch/"
 iconfile: charles_dickens_punch
+color: #803410
 stars: 0
 base_spirits: "Overproof Rum, Cognac "
 youtube: "BXGS7Ai2hec"

@@ -6,7 +6,8 @@ eras: [anders]
 categories: [toddy]
 permalink: "/recipe/sno_problem/"
 iconfile: sno_problem
-color: #AB675A
+color: #7A2C0D
+foam: #fdf0ef
 stars: 0
 base_spirits: "Navy Strength Rum, Bourbon "
 youtube: "s30L-iu171E"

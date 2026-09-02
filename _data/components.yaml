@@ -116,6 +116,9 @@ garnishes:
   twist_lemon:
     name: Lemon Twist
     icon: /assets/images/twist_lemon.svg
+  garnish-lemon_peel_cloves:
+    name: Lemon Peel with Cloves
+    icon: /assets/images/garnish-lemon_peel_cloves.svg
   garnish-lemon_peel_oil:
     name: Lemon Peel
     icon: /assets/images/garnish-lemon_peel_oil.svg
@@ -134,6 +137,9 @@ garnishes:
   garnish-orange_peel_oil:
     name: Orange Peel
     icon: /assets/images/garnish-orange_peel.svg
+  garnish-orange_peel_cloves:
+    name: Orange Peel with Cloves
+    icon: /assets/images/garnish-orange_peel_cloves.svg
   twist_orange:
     name: Orange Twist
     icon: /assets/images/twist_orange.svg

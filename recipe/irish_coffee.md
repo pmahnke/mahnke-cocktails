@@ -6,6 +6,7 @@ categories: [coffee]
 eras: [modern]
 permalink: "/recipe/irish_coffee/"
 iconfile: irish_coffee
+image: /assets/images/cocktail_irish_coffee.svg
 stars: 0
 base_spirits: "Irish Whiskey "
 youtube: "sJsY1LokABA"

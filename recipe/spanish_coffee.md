@@ -6,6 +6,8 @@ eras: [classic]
 categories: [after_dinner]
 permalink: "/recipe/spanish_coffee/"
 iconfile: spanish_coffee
+color: #110202
+foam: #FCFCEA
 stars: 0
 base_spirits: "Overproof Jamaican Rum, Coffee Liqueur, Curaçao"
 youtube: "p3X7_-TVIDs"
