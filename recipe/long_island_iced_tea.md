@@ -6,6 +6,7 @@ eras: [modern]
 categories: [cocktail]
 permalink: "/recipe/long_island_iced_tea/"
 iconfile: long_island_iced_tea
+image: /assets/images/cocktail_long_island_ice_tea.svg
 stars: 4
 base_spirits: "Vodka, White Rum, Plymouth Gin, Blanco Tequila, Triple Sec"
 youtube: "jLTLBQqWzq8"

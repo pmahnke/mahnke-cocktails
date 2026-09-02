@@ -6,6 +6,8 @@ categories: [sour]
 eras: [prohibition]
 permalink: "/recipe/hotel_national/"
 iconfile: hotel_national
+color: #CDAD1A
+foam: #f7f4f4
 stars: 4
 base_spirits: "White Rum, Apricot Liqueur"
 youtube: "aK-xI2Th2YE"
@@ -29,6 +31,6 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Cocktail
+- Glassware: Footed Rocks Glass
 - Garnish: Lime Wheel
 - Special Prep: Let the cocktail rest to allow for the foam to subside before floating the lime wheel on top.

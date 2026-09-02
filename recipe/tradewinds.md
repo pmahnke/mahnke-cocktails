@@ -6,6 +6,8 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/tradewinds/"
 iconfile: tradewinds
+color: #E7A950
+foam: #F9F6F1
 stars: 0
 base_spirits: "Dark Rum, Gold Rum, Apricot Liqueur"
 youtube: "RThEGH0sbgM"
@@ -30,7 +32,7 @@ date: 2025-08-11
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware:
-  - Tiki
+  - Highball or Tiki
   - Crushed Ice
 - Garnish: Grated Nutmeg, Pineapple Fronds and a Cocktail Umbrella
 - Special Prep: Stir the drink heavily in the glass.

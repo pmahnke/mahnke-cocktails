@@ -6,6 +6,7 @@ categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/na_old_fashioned/"
 iconfile: na_old_fashioned
+color: #CE6816
 stars: 0
 youtube: "v=t1FGow6i_cY"
 description: " A booze-free cocktail inspired by the structure of a classic Old Fashioned."
@@ -31,8 +32,8 @@ date: 2026-01-17
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Tea Cup
-- Garnish: Cocktail cherry and orange swath
+- Glassware: Low ball and large ice cube
+- Garnish: Cocktail cherry and orange twist
 - Special Prep: Expressed orange oil
 
 </div>

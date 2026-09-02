@@ -6,6 +6,7 @@ categories: [amaro, cocktail]
 eras: [modern]
 permalink: "/recipe/brooklyn/"
 iconfile: brooklyn
+color: #d34a01d5
 stars: 0
 base_spirits: "Rye, Dry Vermouth, Maraschino Liqueur, Ramazzotti"
 youtube: "JU8xN_ty2i0"

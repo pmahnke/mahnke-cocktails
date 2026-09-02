@@ -7,6 +7,7 @@ eras: [modern]
 permalink: "/recipe/painkiller/"
 iconfile: painkiller
 color: #e2b83d
+foam: #FEFDF8
 stars: 4
 base_spirits: "Demerara Rum, Jamaican Rum "
 youtube: "XYfHK3goJLk"
@@ -30,6 +31,6 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Open Pour
-- Glassware: Low Ball, Crushed Ice
+- Glassware: Rocks glass, Crushed Ice
 - Garnish: Grated nutmeg
 - Special Prep: None

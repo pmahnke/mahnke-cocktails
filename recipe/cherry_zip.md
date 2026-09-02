@@ -6,8 +6,9 @@ categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/cherry_zip/"
 iconfile: cherry_zip
+color: #A0190F
 stars: 0
-youtube: "ZE3G8aUyOn0"
+youtube: ZE3G8aUyOn0
 description: "A tart and fruity non-alcoholic cocktail that combines cherry juice with the nutty sweetness of orgeat."
 excerpt: |
   A twist on the classic Caipiroska, substituting the traditional muddled limes with sweet cherries. The result is a tangy and fruity cocktail with a subtle sweetness.
@@ -29,7 +30,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
-  - Large Glass
+  - Footed rocks glass
   - Crushed Ice
 - Garnish: Mint sprig
 - Special Prep: None

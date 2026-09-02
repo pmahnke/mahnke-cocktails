@@ -6,6 +6,7 @@ categories: [frappe_swizzle]
 eras: [classic]
 permalink: "/recipe/absinthe_frappe/"
 iconfile: absinthe_frappe
+color: #CCBF58
 stars: 0
 base_spirits: "Absinthe"
 youtube: "g4_hKcbMLL4"
@@ -31,7 +32,7 @@ date: 2025-08-11
   - Open Pour
   - Single Strain
 - Glassware:
-  - Frappé Glass
+  - Footed rocks glass or Frappé Glass
   - Crushed Ice
 - Garnish: Mint sprig
 - Special Prep:

@@ -6,6 +6,8 @@ categories: [punch]
 eras: [classic]
 permalink: "/recipe/philly_fish_house_punch/"
 iconfile: philly_fish_house_punch
+color: #CE9A39
+foam: #EFEEE9
 stars: 0
 base_spirits: "Cognac, Jamaican Rum, Apple Brandy, Peach Liqueur"
 youtube: "cJhKGTM3z20"
@@ -36,7 +38,7 @@ date: 2025-08-11
 - Method: Build in Punch Bowl
 - Pour: Add all ingredients directly to the punch bowl
 - Glassware: Punch Cups
-- Garnish: Citrus wheels in the punch bowl and grated nutmeg in the glass
+- Garnish: Citrus wheels in the punch bowl and grated nutmeg in the glass with ice cubes
 - Special Prep: None
 
 </div>

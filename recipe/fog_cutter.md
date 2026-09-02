@@ -6,6 +6,8 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/fog_cutter/"
 iconfile: fog_cutter
+color: #F1BE7C
+foam: #EFDFD3
 stars: 4
 base_spirits: "White Rum, Pisco, Plymouth Gin, Curaçao, Amontillado Sherry "
 youtube: "kMqIu6zPv9s"
@@ -32,7 +34,7 @@ date: 2025-09-26
 - Method: Shaken
 - Pour: Open Pour
 - Glassware:
-  - Tiki
+  - Highball or Tiki glass
   - Crushed Ice
-- Garnish: Orange wheel & mint sprig
+- Garnish: Orange wheel, a mint sprig, and a straw
 - Special Prep: None

@@ -7,6 +7,8 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/port_light/"
 iconfile: port_light
+color: #8A010E
+foam: #EAD9E0
 stars: 4
 base_spirits: "Bourbon"
 youtube: "-DnpmdGBmgs&t=433s"
@@ -30,7 +32,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Open Pour
 - Glassware:
-  - Tiki Glass
+  - Highball or Tiki Glass
   - Crushed Ice
 - Garnish: Pineapple Fronds and Cocktail Umbrella
 - Special Prep: Top with additional crushed ice

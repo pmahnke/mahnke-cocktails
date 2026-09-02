@@ -6,6 +6,8 @@ categories: [after_dinner, ice_cream]
 eras: [classic]
 permalink: "/recipe/brandy_alexander/"
 iconfile: brandy_alexander
+color: #EFAE4C
+foam: #E4CBA5
 stars: 0
 base_spirits: "Cognac, Crème de Cacao"
 youtube: "5LEgIoddxY4"
@@ -27,6 +29,6 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Cocktail
+- Glassware: Footed rocks glass
 - Garnish: Grated Nutmeg
 - Special Prep: For an extra decadent alexander, substitute 2 scoops of vanilla ice cream for the cream. To mix, combine in a blender with half a scoop of ice for a frozen brandy alexander.

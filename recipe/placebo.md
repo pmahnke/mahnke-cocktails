@@ -6,8 +6,10 @@ eras: [anders, tiki]
 title: "Placebo (NA Painkiller)"
 permalink: "/recipe/placebo/"
 iconfile: placebo
+color: #e2b83d
+foam: #FEFDF8
 stars: 0
-youtube: "5wgvpo-xBnA"
+youtube: ZE3G8aUyOn0&t=245s
 description: "A non-alcoholic, tropical blend of pineapple juice, orange juice, cream of coconut, and spices, inspired by the Painkiller cocktail."
 excerpt: |
   This cocktail is a tropical blend of pineapple juice, orange juice, cream of coconut, lime juice, cinnamon, and nutmeg.
@@ -29,6 +31,8 @@ date: 2025-08-11
 
 - Method: Build in the Shaker Tin
 - Pour: Open Pour
-- Glassware: Tiki, Crushed Ice
+- Glassware:
+  - Rocks glass or Tiki glass 
+  - Crushed Ice
 - Garnish: Grated nutmeg, pineapple fronds, & tiki umbrella
 - Special Prep: Add all ingredients to the larger shaker tin and blend with an emersion blender.

@@ -7,6 +7,7 @@ categories: [frozen, sour, tiki]
 eras: [modern]
 permalink: "/recipe/banana_daiquiri/"
 iconfile: "banana_daiquiri"
+color: #FDE098
 stars: 0
 base_spirits: "Gold Rum, Banana Liqueur"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/162/banana-daiquiri"
@@ -31,7 +32,7 @@ date: 2025-08-15
 - Method: Blended
 - Pour: Open Pour
 - Glassware:
-  - Hurricane Glass
+  - Coupe
   - Crushed Ice
 - Garnish: Banana chunk
 - Special Prep: Blend all ingredients with 7oz scoop of crushed ice.

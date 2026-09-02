@@ -7,6 +7,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/haystack/"
 iconfile: haystack
+color: #FDDF00
 stars: 0
 base_spirits: "Bourbon, Suze, Apricot Liqueur"
 youtube: "iLcXU3W1wVQ"

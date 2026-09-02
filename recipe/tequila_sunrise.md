@@ -7,6 +7,7 @@ eras: [classic]
 categories: [cocktail]
 permalink: "/recipe/tequila_sunrise/"
 iconfile: tequila_sunrise
+image: /assets/images/cocktail_tequila_sunrise.svg
 stars: 0
 base_spirits: "Crème de Cassis, Blanco Tequila, Reposado Tequila "
 youtube: "VNaSpZ3YOoM"

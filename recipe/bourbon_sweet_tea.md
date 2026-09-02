@@ -6,6 +6,7 @@ categories: [amaro, punch]
 eras: [anders]
 permalink: "/recipe/bourbon_sweet_tea/"
 iconfile: bourbon_sweet_tea
+color: #C06105
 stars: 0
 base_spirits: "Bourbon, Amaro Nonino, Peach Liqueur "
 youtube: "1b4nHX4RjdY"
@@ -31,7 +32,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
-  - Mason Jar
+  - Rocks glass or mason jar
   - On the Rocks
 - Garnish: Mint sprig
 - Special Prep: None

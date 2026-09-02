@@ -31,7 +31,7 @@ unless (-d $mydir) {
 # match => slug
 my %glassware = (
     'beer mug'             => 'pint',
-    'glassware: cocktail'  => 'goblet',
+    'glassware: cocktail'  => 'cocktail',
     'coupe'                => 'coupe',
     'collins'              => 'highball',
     'highball'             => 'highball',
@@ -59,7 +59,7 @@ my %glassware = (
     'nick & nora'          => 'nick_and_nora',
     'old fashioned'        => 'old_fashioned',
     'pint'                 => 'pint',
-    'punch cups'           => 'punch_cup',
+    'punch cups'           => 'coffee',
     'punch glass'          => 'punch_cup',
     'shot glass'           => 'shot',
     'sling'                => 'sling',
@@ -277,7 +277,7 @@ while (my $file = readdir DIR) {
     my @found_garnishes = find_matches($garnish_text, \%garnishes);
 # NEW: Check the ENTIRE file for carbonation to trigger bubbles
     my $entire_file_text = join("", @file_lines);
-    if ($entire_file_text =~ /champagne|champagne|prosecco|cava|sparkling wine|club soda|soda water|tonic|ginger ale|ginger beer|lager|beer|ale/i) {
+    if ($entire_file_text =~ /champagne|champagne|prosecco|cava|sparkling wine|club soda|soda water|tonic|ginger ale|ginger beer|lager|beer/i) {
         push @found_garnishes, 'bubbles';
     }
     if ($entire_file_text =~ /salted rim|sugared rim/i) {

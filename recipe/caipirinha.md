@@ -6,6 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/caipirinha/"
 iconfile: caipirinha
+color: #EAE4C0
 stars: 4
 base_spirits: "Cachaça "
 youtube: "i1UHUyWerhg"

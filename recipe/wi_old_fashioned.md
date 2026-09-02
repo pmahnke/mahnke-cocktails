@@ -6,6 +6,7 @@ eras: [prohibition]
 categories: [cocktail]
 permalink: "/recipe/wi_old_fashioned/"
 iconfile: wi_old_fashioned
+color: #CB4603
 stars: 4
 base_spirits: "Brandy"
 youtube: "wr1pjEwi4P0"
@@ -31,9 +32,9 @@ date: 2025-08-11
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware:
-  - Low Ball
+  - Rocks Glass
   - Crushed Ice
-- Garnish: Orange slice and a cocktail cherry
+- Garnish: Orange peel and a cocktail cherry
 - Special Prep: Add the 2 wedges of orange and the cocktail cherry to the glass and muddle. Add the remaining ingredients. Top with the wash of choice.
 
 ### Washes

@@ -6,7 +6,8 @@ categories: [sour, collins]
 eras: [modern]
 permalink: "/recipe/japanese_sour/"
 iconfile: japanese_sour
-image: /assets/images/cocktail_japanese_sour.svg
+color: #E6E3D4
+image_orig: /assets/images/cocktail_japanese_sour.svg
 stars: 4
 base_spirits: "Shochu, Vodka"
 description: "A refreshing and easy-to-make modern sour that features Japanese shochu as its base."
@@ -29,7 +30,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Collins
-- Garnish: Lemon wedge
+- Garnish: Lemon wheel and ice cubes
 - Special Prep: None
 
 ### Tips and Variations:

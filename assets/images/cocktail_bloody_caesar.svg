@@ -7,7 +7,6 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
@@ -40,92 +39,9 @@
          d="m 12311.4,42221.8 c 0,0 -115.5,-1056.2 -150,-1408.7 -73.5,-751.2 -268.3,-3007.2 -268.3,-3007.2 l -166.4,-1485.8 h 0.1 l -0.1,-2.2 c 0.5,-28.2 101.2,-63.3 227.8,-79 126.6,-15.7 231.8,-6 237.8,21.4 l 0.4,2.1 v 0 c 0,0 171.9,2088.7 240.3,2783.9 76.7,780.4 344.3,3117.9 344.3,3117.9 l -465.9,57.6"
          id="path94945" />
     </clipPath>
-    <linearGradient
-       id="glare-fade"
-       x1="0"
-       y1="0"
-       x2="1"
-       y2="0">
-      <stop
-         offset="0%"
-         stop-color="#ffffff"
-         stop-opacity="0.6"
-         id="stop1" />
-      <stop
-         offset="100%"
-         stop-color="#ffffff"
-         stop-opacity="0"
-         id="stop2" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#glare-fade"
-       id="linearGradient5"
-       x1="128.30228"
-       y1="37.411652"
-       x2="179.08859"
-       y2="37.411652"
-       gradientTransform="scale(0.37411652,2.6729641)"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       xlink:href="#glare-fade"
-       id="linearGradient6"
-       x1="73.785347"
-       y1="37.443069"
-       x2="89.228798"
-       y2="37.443069"
-       gradientTransform="scale(0.58277152,1.7159384)"
-       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      id="layer1">
-    <g
-       id="g6"
-       transform="matrix(0.36138907,0,0,0.36138907,133.41994,187.18488)">
-      <path
-         d="M 40,60 C 40,45 160,45 160,60"
-         fill="none"
-         stroke="#231f20"
-         stroke-width="4"
-         stroke-linecap="round"
-         id="path2" />
-      <path
-         id="liquid-fill"
-         d="m 45,95 c 5,55 10,145 10,145 0,15 90,15 90,0 0,0 5,-90 10,-145 -35,15 -75,15 -110,0 z"
-         fill="#e6b741"
-         opacity="0.85" />
-      <path
-         id="liquid-foam"
-         d="m 40,60 c 0,15 120,15 120,0 -2,15 -5,35 -5,35 -35,15 -75,15 -110,0 0,0 -3,-20 -5,-35 z"
-         fill="#fefaec"
-         opacity="0.95" />
-      <path
-         d="m 40,60 c 5,90 15,180 15,180 0,15 90,15 90,0 0,0 10,-90 15,-180"
-         fill="none"
-         stroke="#231f20"
-         stroke-width="4"
-         stroke-linejoin="round"
-         stroke-linecap="round"
-         id="path3" />
-      <path
-         d="m 40,60 c 0,15 120,15 120,0"
-         fill="none"
-         stroke="#231f20"
-         stroke-width="4"
-         stroke-linecap="round"
-         id="path4" />
-      <path
-         d="m 48,100 c 4,50 10,135 10,135 6,1 9,1 9,0 0,0 -7,-85 -11,-134 -3,-1 -6,-1 -8,-1 z"
-         fill="url(#glare-fade)"
-         opacity="0.8"
-         id="path5"
-         style="fill:url(#linearGradient5)" />
-      <path
-         d="m 43,65 c 1,10 3,25 3,25 4,1 6,1 6,0 0,0 -2,-15 -3,-25 -2,-1 -4,-1 -6,0 z"
-         fill="url(#glare-fade)"
-         opacity="0.8"
-         id="path6"
-         style="fill:url(#linearGradient6)" />
-    </g>
     <g
        id="g9"
        transform="matrix(0.03527778,0,0,-0.03527778,-340.38195,1542.5892)">

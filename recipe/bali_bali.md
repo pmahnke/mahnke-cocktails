@@ -6,9 +6,11 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/bali_bali/"
 iconfile: bali_bali
+color: #B98139
+foam: #F0D7C0
 stars: 4
 base_spirits: "Jamaican Rum, White Rum, Cognac, London Dry Gin "
-youtube: 'lWDA\_\_gwSow'
+youtube: lWDA__gwSow&t=247s
 description: "A potent classic tiki cocktail that packs a punch with its complex blend of four different spirits."
 excerpt: |
   The Bali Bali is a classic tiki cocktail that packs a punch with its blend of rums, liqueurs, and fruit juices.
@@ -22,7 +24,7 @@ date: 2025-08-11
 | 0.75 oz | Jamaican Rum                                              | Hamilton Jamaican Pot Still Black |
 | 0.75 oz | White Rum                                                 | Real McCoy 3 Year                 |
 | 0.75 oz | Cognac                                                    | Maison Rouge VSOP                 |
-| 0.75 oz | London Dry Gin                                                       | Beefeater London Dry              |
+| 0.75 oz | London Dry Gin                                            | Beefeater London Dry              |
 |  0.5 oz | Falernum                                                  | John D. Taylor Velvet             |
 |  0.5 oz | Passion Fruit Syrup                                       |
 | 0.75 oz | Pineapple Juice                                           |
@@ -35,7 +37,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Open Pour
 - Glassware:
-  - Tiki
+  - Highball or Tiki glass
   - Crushed Ice
 - Garnish: Pineapple fronds & cocktail umbrella
 - Special Prep: Top with crushed ice.

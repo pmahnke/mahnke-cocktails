@@ -6,6 +6,7 @@ eras: [anders]
 categories: [amaro, sour]
 permalink: "/recipe/wicked_word/"
 iconfile: wicked_word
+color: #4C2C15
 stars: 0
 base_spirits: "Cognac, Aperol, Black Sambuca"
 youtube: "6Ic0zmBpUQw"
@@ -29,7 +30,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware: Nick & Nora
-- Garnish: None
+- Garnish: None required, but a cocktail cherry is nice.
 - Special Prep:
   - Add the cognac, Aperol and lemon juice to a shaker and shake.
   - Pour the cocktail into a Nick & Nora glass.

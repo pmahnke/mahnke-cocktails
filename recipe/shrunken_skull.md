@@ -6,6 +6,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/shrunken_skull/"
 iconfile: shrunken_skull
+color: #A03200
 stars: 0
 base_spirits: "Demerara Rum, Gold Rum "
 youtube: "pTBVVi20ONk"
@@ -30,6 +31,6 @@ date: 2025-08-11
   - Shaken
   - Crushed Ice
 - Pour: Open Pour
-- Glassware: Tiki Glass
+- Glassware: Rocks glass or a tiki glass 
 - Garnish: Pineapple fronds and cocktail umbrella for garnish
 - Special Prep: Add the cherry to the glass before straining the cocktail

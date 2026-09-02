@@ -6,6 +6,8 @@ categories: [beer, champagne, cocktail]
 eras: [classic]
 permalink: "/recipe/black_velvet/"
 iconfile: black_velvet
+color: #573325
+foam: #f3b421
 stars: 0
 base_spirits: "Champagne, Stout "
 youtube: "IAaiRENeyvc&t=639s"
@@ -26,6 +28,6 @@ date: 2025-08-11
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Flared glass
-- Garnish:
+- Glassware: Footed rocks glass
+- Garnish: None
 - Special Prep: Pour in the Guinness then float in the champagne

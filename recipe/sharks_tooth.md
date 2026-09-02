@@ -6,6 +6,7 @@ categories: [tiki]
 eras: [modern]
 permalink: "/recipe/sharks_tooth/"
 iconfile: sharks_tooth
+color: #9C1D00
 stars: 0
 base_spirits: "Jamaican Rum, Barbados Rum, Cherry Liqueur, Maraschino Liqueur"
 youtube: "https://curiada.com/blogs/news/sharks-tooth-cocktail-recipe-featuring-barbados-and-jamaica-rums"
@@ -31,6 +32,6 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Wine Glass
+- Glassware: Nick & Nora or a Wine Glass
 - Garnish: None
 - Special Prep: Add all ingredients (except the Jamaican rum) to a cocktail shaker along with three small ice cubes. Strain into a small wine glass. Add 1 oz of the Jamaican rum as a float on top. Recipe Note: if you really want to pump up the funk, experiment with other classic Jamaican rums like Smith & Cross.

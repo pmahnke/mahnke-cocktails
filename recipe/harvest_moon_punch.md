@@ -6,6 +6,7 @@ categories: [punch]
 eras: [anders]
 permalink: "/recipe/harvest_moon_punch/"
 iconfile: harvest_moon_punch
+color: #B05603
 stars: 0
 base_spirits: "Jamaican Rum, Apple Brandy, Pear Liqueur, Allspice Dram"
 youtube: "S5ipwEU7uHo"
@@ -31,6 +32,6 @@ date: 2025-08-11
 
 - Method: ShakenBuild in the serving vessel
 - Pour: Add all ingredients directly to the glaserving vesselss
-- Glassware: Punch Glass
-- Garnish: Grated nutmeg
+- Glassware: Punch cups
+- Garnish: Grated nutmeg and large ice cube
 - Special Prep: Add large ice cubes of black tea and apple slices
