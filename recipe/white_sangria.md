@@ -6,6 +6,7 @@ categories: [punch]
 eras: [classic]
 permalink: "/recipe/white_sangria/"
 iconfile: white_sangria
+color: #EFBB88
 stars: 0
 base_spirits: "Apricot Liqueur, Fino Sherry, White Wine"
 youtube: "mAxJU3qd8OE"
@@ -34,7 +35,7 @@ date: 2025-08-11
 
 - Method: Build in Punch Bowl
 - Pour: Add all ingredients directly to the punch bowl
-- Glassware: Punch Cups
+- Glassware: Gin Balloon or Punch Cups
 - Garnish: A strawberry and a peach slice
 - Special Prep: Optionally, top each glass with a splash of soda water
 
@@ -58,7 +59,7 @@ date: 2025-08-11
 
 - Method: Build in mason jar
 - Pour: Add all ingredients to the jar
-- Glassware: Punch Cups
+- Glassware: Gin Balloon or Punch Cups
 - Garnish: A strawberry and a peach slice
 - Special Prep: Optionally, top each glass with a splash of soda water
 

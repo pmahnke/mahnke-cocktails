@@ -170,12 +170,18 @@ garnishes:
   herb_mint:
     name: Mint Sprig
     icon: /assets/images/herb_mint.svg
+  herb_sage:
+    name: Sage Leaf
+    icon: /assets/images/herb_sage.svg
   herb_thyme:
     name: Thyme Sprig
     icon: /assets/images/herb_thyme.svg
   fruit_blackberries:
     name: Blackberries
     icon: /assets/images/fruit_blackberries.svg
+  fruit_peach:
+    name: Peach Slice
+    icon: /assets/images/fruit_peach.svg
   fruit_raspberries:
     name: Raspberries
     icon: /assets/images/fruit_raspberries.svg

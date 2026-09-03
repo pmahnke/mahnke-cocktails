@@ -6,7 +6,8 @@ eras: [classic]
 categories: [punch]
 permalink: "/recipe/sangria/"
 iconfile: sangria
-image: /assets/images/cocktail_sangria.svg
+color: #490111
+image_orig: /assets/images/cocktail_sangria.svg
 stars: 0
 base_spirits: "Red Wine, Oloroso Sherry, Curaçao "
 youtube: "NNI--bxevNo"
@@ -35,7 +36,7 @@ date: 2025-10-31
 - Method: Build in the Pitcher
 - Pour: Add all ingredients directly to the pitcher
 - Glassware:
-  - High Ball
+  - Gin Balloon or High Ball
   - On the Rocks
-- Garnish: Soaked fruit
+- Garnish: Soaked fruit like strawberries, apples, peache slices or anything in season.
 - Special Prep: Top glasses with soda water
