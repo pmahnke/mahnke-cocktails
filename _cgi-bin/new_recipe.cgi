@@ -25,25 +25,25 @@ my @ice_list = ('None', 'Large ice cube', 'On the Rocks', 'Crushed Ice');
 
 # Deduplicated & Alphabetized Lists
 my @raw_spirits = (
-    'Absinthe', 'Ale', 'Allspice Dram', 'Amaretto', 'Amaro', 'Amaro Nonino', 'Amontillado Sherry',
-    'Angostura Aromatic Bitters', 'Aperol', 'Apple Brandy', 'Apricot Liqueur', 'Averna', 'Banana Liqueur',
-    'Barbados Rum', 'Beer', 'Bénédictine', 'Black Rum', 'Black Sambuca', 'Blanc Vermouth', 'Blanco Tequila',
-    'Blended Scotch', 'Bourbon', 'Brandy', 'Cachaça', 'Calvados', 'Campari', 'Champagne', 'Cherry Liqueur',
-    'Cocchi Americano', 'Coffee Liqueur', 'Cognac', 'Crème de Cacao', 'Crème de Cassis', 'Crème de Menthe',
-    'Crème de Mûre', 'Crème de Noyaux', 'Crème de Violette', 'Curaçao', 'Cynar', 'Dark Ale', 'Dark Rum',
-    'Demerara Rum', 'Drambuie', 'Dry Hard Cider', 'Dry Vermouth', 'Dubonnet Rouge', 'Elderflower Liqueur',
-    'Fernet Branca', 'Fino Sherry', 'Galliano', 'Genever', 'Gin', 'Gold Rum', 'Grand Marnier',
-    'Green Chartreuse', 'Guatemalan Rum', 'IPA', 'Irish Cream Liqueur', 'Irish Whiskey', 'Italicus',
-    'Jamaican Rum', 'Kahlúa', 'Lager', 'Licor 43', 'Lillet Blanc', 'Lillet Rouge', 'London Dry Gin',
-    'Malört', 'Mango Liqueur', 'Manzanilla Sherry', 'Maraschino Liqueur', 'Mezcal', 'Midori',
-    'Navy Strength Gin', 'Navy Strength Rum', 'Nicaraguan Rum', 'Oktoberfest', 'Old Tom Gin',
-    'Oloroso Sherry', 'Orange Liqueur', 'Overproof Jamaican Rum', 'Overproof Rum', 'Pastis',
-    'Peach Liqueur', 'Pear Liqueur', 'Peychauds Bitters', 'Pimms', 'Pisco', 'Plymouth Gin', 'Port',
-    'Porter', 'Prosecco', 'Punt e Mes', 'Ramazzotti', 'Red Wine', 'Reposado Tequila', 'Rhum Agricole',
-    'Ruby Port', 'Rum', 'Rye', 'Scotch', 'Sherry', 'Shochu', 'Single Malt Scotch', 'Sloe Gin',
-    'Spiced Rum', 'Stout', 'Suze', 'Swedish Punsch', 'Sweet Vermouth', 'Tawny Port', 'Tequila & Mezcal',
-    'Trinidadian Rum', 'Triple Sec', 'Vermouth', 'Vodka', 'Walnut Liqueur', 'Whiskey',
-    'White Crème de Cacao', 'White Rum', 'White Wine', 'Yellow Chartreuse'
+    'Absinthe', 'Ale', 'Allspice Dram', 'Amaretto', 'Amaro - Amaro Nonino', 'Sherry - Amontillado Sherry',
+    'Angostura Aromatic Bitters', 'Amaro - Aperol', 'Apple Brandy', 'Apricot Liqueur', 'Amaro - Averna', 'Banana Liqueur',
+    'Rum - Barbados Rum', 'Beer', 'Bénédictine', 'Rum - Black Rum', 'Black Sambuca', 'Vermouth - Blanc Vermouth', 'Blanco Tequila',
+    'Blended Scotch', 'Bourbon', 'Brandy', 'Cachaça', 'Calvados', 'Amaro - Campari', 'Champagne', 'Cherry Liqueur',
+    'Vermouth - Cocchi Americano', 'Coffee Liqueur', 'Cognac', 'Crème de Cacao', 'Crème de Cassis', 'Crème de Menthe',
+    'Crème de Mûre', 'Crème de Noyaux', 'Crème de Violette', 'Curaçao', 'Amaro - Cynar', 'Dark Ale', 'Rum - Dark Rum',
+    'Rum - Demerara Rum', 'Drambuie', 'Dry Hard Cider', 'Vermouth - Dry Vermouth', 'Vermouth - Dubonnet Rouge', 'Elderflower Liqueur',
+    'Amaro - Fernet Branca', 'Sherry - Fino Sherry', 'Galliano', 'Genever', 'Rum - Gold Rum', 'Grand Marnier',
+    'Green Chartreuse', 'Rum - Guatemalan Rum', 'IPA', 'Irish Cream Liqueur', 'Irish Whiskey', 'Italicus',
+    'Rum - Jamaican Rum', 'Kahlúa', 'Lager', 'Licor 43', 'Vermouth - Lillet Blanc', 'Vermouth - Lillet Rouge', 'Gin - London Dry Gin',
+    'Malört', 'Mango Liqueur', 'Sherry - Manzanilla Sherry', 'Maraschino Liqueur', 'Mezcal', 'Midori',
+    'Gin - Navy Strength Gin', 'Rum - Navy Strength Rum', 'Rum - Nicaraguan Rum', 'Oktoberfest', 'Gin - Old Tom Gin',
+    'Oloroso Sherry', 'Orange Liqueur', 'Rum - Overproof Jamaican Rum', 'Rum - Overproof Rum', 'Pastis',
+    'Peach Liqueur', 'Pear Liqueur', 'Peychauds Bitters', 'Pimms', 'Pisco', 'Gin - Plymouth Gin', 'Port',
+    'Porter', 'Prosecco', 'Amaro - Punt e Mes', 'Amaro - Ramazzotti', 'Red Wine', 'Reposado Tequila', 'Rum -Rhum Agricole',
+    'Ruby Port', 'Rye', 'Scotch', 'Shochu', 'Single Malt Scotch', 'Sloe Gin',
+    'Rum - Spiced Rum', 'Stout', 'Amaro - Suze', 'Swedish Punsch', 'Vermouth - Sweet Vermouth', 'Tawny Port', 'Tequila & Mezcal',
+    'Rum - Trinidadian Rum', 'Triple Sec', 'Vodka', 'Walnut Liqueur', 'Whiskey',
+    'White Crème de Cacao', 'Rum - White Rum', 'White Wine', 'Yellow Chartreuse'
 );
 my %seen_sp;
 my @spirits_list = sort { lc($a) cmp lc($b) } grep { !$seen_sp{lc($_)}++ } @raw_spirits;
@@ -135,13 +135,21 @@ if ($q->param('submit_recipe')) {
     my $prep        = $q->param('special_prep') // 'None';
     $prep = 'None' if $prep =~ /^\s*$/;
 
+# Strip category prefixes (e.g., 'Gin - ', 'Amaro - ') before generating Markdown
+    my @cleaned_spirits = map {
+        my $spirit = $_;
+        # This regex removes known category names followed by a hyphen and optional spaces
+        $spirit =~ s/^(Amaro|Gin|Rum|Sherry|Vermouth)\s*-\s*//;
+        $spirit;
+    } @spirits;
+
     # Compact Formatting
     my $cat_str = join(', ', @categories);
-    my $spirit_str = join(', ', @spirits);
+    my $spirit_str = join(', ', @cleaned_spirits);
     my $garnish_str = @garnishes ? join(', ', @garnishes) : 'None';
 
     # Format Ice Bullet
-    my $ice_line = ($ice eq 'None') ? "  - None" : "  - $ice";
+    my $ice_line = ($ice eq 'None') ? "" : "\n  - $ice";
 
     # Parse Ingredients into Markdown Table
     my $ingredients_input = $q->param('ingredients') // '';
@@ -188,8 +196,7 @@ $ing_table
 - Method: $method
 - Pour: $pour
 - Glassware: 
-  - $glassware glass
-$ice_line
+  - $glassware glass$ice_line
 - Garnish: $garnish_str
 - Special Prep: $prep
 MARKDOWN
