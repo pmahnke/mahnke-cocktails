@@ -8,7 +8,7 @@ permalink: "/recipe/dna_no_1/"
 iconfile: "dna_no_1"
 color: "#F7AE1C"
 stars: 0
-base_spirits: "Apricot Liqueur, Gin"
+base_spirits: "Apricot Liqueur, London Dry Gin"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/654/dna-1"
 description: "An easy-going, fruit-forward gin sour from the 1990s, sweetened with rich apricot liqueur and balanced by a sharp bite of fresh lemon and orange bitters."
 excerpt: |
@@ -20,7 +20,7 @@ date: 2026-09-03
 
 | Amount | Ingredient | Brand |
 | -----: | ---------- | ----- |
-| 2 oz | London Dry Gin | Botanist Islay Dry Gin  |
+| 2 oz | London Dry Gin | The Botanist  |
 | 0.75 oz | Apricot Liqueur | 	Giffard Abricot du Roussillon|
 | 0.75 oz | Freshly squeezed lemon juice |  |
 | 0.25 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |  |
