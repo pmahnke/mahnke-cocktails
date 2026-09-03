@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="46.546757mm"
+   height="38.648903mm"
+   viewBox="0 0 46.546757 38.648903"
    version="1.1"
    id="svg1"
    xmlns="http://www.w3.org/2000/svg"
@@ -12,7 +12,8 @@
   <defs
      id="defs1" />
   <g
-     id="layer1">
+     id="layer1"
+     transform="translate(-85.146305,-172.79401)">
     <g
        id="herb_sage"
        transform="matrix(0.01094529,-0.00780356,-0.00780356,-0.01094529,41.304876,292.06747)"
