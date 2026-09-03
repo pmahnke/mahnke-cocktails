@@ -6,6 +6,7 @@ categories: [highball]
 eras: [modern]
 permalink: "/recipe/blue_hawaii/"
 iconfile: blue_hawaii
+color: #00BBB3
 stars: 0
 base_spirits: "White Rum, Rhum Agricole, Curaçao"
 youtube: "6bGqiC9qyQ8"
@@ -33,5 +34,5 @@ date: 2025-08-11
 - Glassware:
   - Hurricane Glass
   - Crushed Ice
-- Garnish: Pineapple slices, pineapple fronds, and cocktail umbrella
+- Garnish: Pineapple slice, pineapple fronds, and cocktail umbrella
 - Special Prep: Pour cocktaill over crushed ice, and top with additional crushed ice.

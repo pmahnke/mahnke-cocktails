@@ -7,6 +7,7 @@ eras: [modern]
 categories: [tiki]
 permalink: "/recipe/saturn/"
 iconfile: saturn
+color: #E8BF70
 stars: 0
 base_spirits: "London Dry Gin"
 youtube: "q060mzbSrco"
@@ -30,7 +31,7 @@ date: 2025-10-20
 
 - Method: Blended
 - Pour: Open Pour
-- Glassware: Large Glass
+- Glassware: Hurricane or Large Glass
 - Garnish: Cherry and lemon peel made to look like Saturn with a ring
 - Special Prep:
   - Blend cocktail with a stick blender in the shaking tin.

@@ -6,7 +6,7 @@ categories: [amaro, spritz]
 eras: [modern]
 permalink: "/recipe/aperol_spritz/"
 iconfile: aperol_spritz
-image: /assets/images/category_spritz.svg
+color: #e84b17
 stars: 0
 base_spirits: "Aperol, Champagne"
 youtube: "BUb54paVf0s"
@@ -29,7 +29,7 @@ date: 2025-10-20
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware:
-  - Wine Glass
+  - Gin balloon or a wine glass
   - On the rocks
 - Garnish: Orange wheel
 - Special Prep: None

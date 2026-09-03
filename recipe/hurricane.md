@@ -6,6 +6,7 @@ categories: [cocktail]
 eras: [new_orleans]
 permalink: "/recipe/hurricane/"
 iconfile: hurricane
+color: #CC671B
 stars: 4
 base_spirits: "Jamaican Rum, Dark Rum "
 youtube: "3b2-jFhtCyQ"

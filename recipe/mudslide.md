@@ -7,6 +7,7 @@ categories: [after_dinner]
 eras: [modern]
 permalink: "/recipe/mudslide/"
 iconfile: mudslide
+color: #CBAA97
 stars: 0
 base_spirits: "Vodka, Coffee Liqueur, Irish Cream Liqueur"
 youtube: "M8uXEDvbvVM"

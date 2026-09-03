@@ -6,6 +6,7 @@ categories: [after_dinner, ice_cream]
 eras: [modern]
 permalink: "/recipe/grasshopper/"
 iconfile: grasshopper
+color: #ADCFC2
 image: /assets/images/cocktail_grasshopper.svg
 stars: 0
 base_spirits: "Crème de Menthe, White Crème de Cacao "
@@ -30,7 +31,7 @@ date: 2025-08-11
 
 - Method: Blended
 - Pour: Add all ingredients directly to the shaking tin
-- Glassware: Large Glass
+- Glassware: Hurricane Glass
 - Garnish: Grated Chocolate and Mint Sprig
 - Special Prep: 
   - Blend cocktail with a stick blender in the shaking tin. 

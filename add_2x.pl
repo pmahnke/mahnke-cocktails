@@ -277,13 +277,13 @@ while (my $file = readdir DIR) {
     my @found_garnishes = find_matches($garnish_text, \%garnishes);
 # NEW: Check the ENTIRE file for carbonation to trigger bubbles
     my $entire_file_text = join("", @file_lines);
-    if ($entire_file_text =~ /champagne|champagne|prosecco|cava|sparkling wine|club soda|soda water|tonic|ginger ale|ginger beer|lager|beer/i) {
+    if ($entire_file_text =~ /champagne|prosecco|cava|sparkling wine|club soda|soda water|tonic|ginger ale|ginger beer|lager|beer/i) {
         push @found_garnishes, 'bubbles';
     }
     if ($entire_file_text =~ /salted rim|sugared rim/i) {
         push @found_garnishes, 'garnish-salted_rim';
     }
-    if ($entire_file_text =~ /egg|heavy cream|aquafaba/i) {
+    if ($entire_file_text =~ /egg|heavy cream|whipped cream|aquafaba/i) {
         $egg_white = 1;
     }
     if ($entire_file_text =~ /float the red wine/i) {

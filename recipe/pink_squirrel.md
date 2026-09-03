@@ -6,6 +6,7 @@ eras: [modern]
 categories: [after_dinner, ice_cream]
 permalink: "/recipe/pink_squirrel/"
 iconfile: pink_squirrel
+color: #C78D94
 stars: 0
 base_spirits: "Crème de Noyaux, White Crème de Cacao "
 youtube: "kRPWDOCVByk&t=164s"
@@ -29,7 +30,7 @@ date: 2025-08-11
 
 - Method: Blended
 - Pour: Add all ingredients directly to the shaking tin
-- Glassware: Large Glass
+- Glassware: Hurricane Glass
 - Garnish: Grated Nutmeg and Cocktail Cherry
 - Special Prep:
   - Blend cocktail with a stick blender in the shaking tin.

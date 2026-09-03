@@ -7,12 +7,17 @@ categories: [flip, beer]
 eras: [classic]
 permalink: "/recipe/flip/"
 iconfile: flip
+color: #A04A15
 stars: 0
 base_spirits: "Jamaican Rum, Ale"
 youtube: "S04mZtUjTyA"
 description: "A historic category of drink originally made with rum or brandy, beer, and sugar, heated to create a frothy texture."
 excerpt: |
-  Flips originally comprised rum or brandy, beer and molasses or sugar, mixed together then heated with a red-hot poker which caramelised the drink and made it bubble and froth. Over time, a tin or copper vessel known as an ale-warmer replaced the poker. Helped by sailors, the Flip crossed the Atlantic where President George Washington became a notable Flip drinker. Here is one of the first complete recipes for a flip from <i>The Cooks Oracle</i>:<blockquote>To make a quart of Flip: Put the Ale on the fire to warm, beat up three or four Eggs with four ounces of moist Sugar, a teaspoon full of grated Nutmeg or Ginger, and a quartern of good old Rum or Brandy.<br>When the Ale is near to boil put it into one pitcher, and the Rum and the Eggs, etc into another; turn it from one pitcher into another until it is smooth as cream.<br><cite>The Cooks Oracle, 1822</cite>
+  Flips originally comprised rum or brandy, beer and molasses or sugar, mixed together then heated with a red-hot poker which caramelised the drink and made it bubble and froth. Over time, a tin or copper vessel known as an ale-warmer replaced the poker. Helped by sailors, the Flip crossed the Atlantic where President George Washington became a notable Flip drinker. Here is one of the first complete recipes for a flip from <em>The Cooks Oracle</em>:
+  
+  <blockquote>To make a quart of Flip: Put the Ale on the fire to warm, beat up three or four Eggs with four ounces of moist Sugar, a teaspoon full of grated Nutmeg or Ginger, and a quartern of good old Rum or Brandy.<br>When the Ale is near to boil put it into one pitcher, and the Rum and the Eggs, etc into another; turn it from one pitcher into another until it is smooth as cream.</blockquote>
+  
+  - The Cooks Oracle, 1822
 date: 2025-08-11
 ---
 
@@ -31,7 +36,7 @@ date: 2025-08-11
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Beer Mug
+- Glassware: Beer Mug or large coffee mug
 - Garnish: None
 - Special Prep:
   1. Heat the ale, but do not boil

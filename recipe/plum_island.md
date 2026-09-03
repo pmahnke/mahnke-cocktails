@@ -6,6 +6,7 @@ eras: [anders]
 categories: [tiki]
 permalink: "/recipe/plum_island/"
 iconfile: plum_island
+color: #932A3B
 stars: 4
 base_spirits: "Lillet Rouge, Gold Rum, Absinthe "
 youtube: lWDA__gwSow&t=253s
@@ -31,7 +32,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Open Pour
 - Glassware:
-  - Poco Grande Glass
+  - Hurricane or Poco Grande Glass
   - Crushed Ice
 - Garnish: Grated nutmeg, pineapple fronds, and cocktail umbrella
 - Special Prep: Top with crushed ice.

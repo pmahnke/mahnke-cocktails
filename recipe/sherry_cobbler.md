@@ -6,6 +6,8 @@ categories: [cobbler]
 eras: [classic]
 permalink: "/recipe/sherry_cobbler/"
 iconfile: sherry_cobbler
+color: #CA6103
+foam: #FDDCBD
 stars: 0
 base_spirits: "Oloroso Sherry, Curaçao"
 youtube: "f7SpTmbMOsQ"
@@ -28,7 +30,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
-  - Goblet
+  - Goblet or hurricane glass
   - Crushed Ice
-- Garnish: Fresh raspberries & mint
-- Special Prep: juice and add the 4 quarters of the orange wheel to the shaker.
+- Garnish: Fresh raspberries and mint sprig
+- Special Prep: juice and add the four quarters of the orange wheel to the shaker.

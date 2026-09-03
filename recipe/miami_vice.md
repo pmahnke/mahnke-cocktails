@@ -6,6 +6,8 @@ categories: [frozen, sour]
 eras: [modern]
 permalink: "/recipe/miami_vice/"
 iconfile: miami_vice
+color: #BC0100
+foam: #FDEECF
 stars: 0
 base_spirits: "White Rum"
 youtube: "0JUtwxuMCg0"

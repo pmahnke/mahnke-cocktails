@@ -6,6 +6,7 @@ categories: [spritz]
 eras: [modern]
 permalink: "/recipe/hugo_spritz/"
 iconfile: hugo_spritz
+color: #C2D69B
 stars: 0
 base_spirits: "Elderflower Liqueur, Champagne"
 youtube: "BUb54paVf0s"
@@ -29,7 +30,7 @@ date: 2025-10-20
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware:
-  - Wine glass
+  - Gin balloon or a wine glass
   - On the rocks
 - Garnish: Mint sprig and lime wheel
 - Special Prep: Add the mint and elderflower liqueur to the glass and muddle. Allow to sit

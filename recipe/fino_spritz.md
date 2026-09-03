@@ -6,6 +6,7 @@ categories: [spritz]
 eras: [modern]
 permalink: "/recipe/fino_spritz/"
 iconfile: fino_spritz
+color: #E2EBC8
 stars: 0
 base_spirits: "Fino Sherry, Maraschino Liqueur, Prosecco"
 youtube: "BUb54paVf0s"
@@ -29,7 +30,7 @@ date: 2025-10-20
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware:
-  - Wine glass
+  - Gin balloon or a wine glass
   - On the rocks
 - Garnish: Lemon wheels Special
 - Prep: None

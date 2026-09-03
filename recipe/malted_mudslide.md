@@ -6,6 +6,7 @@ categories: [after_dinner, ice_cream]
 eras: [anders]
 permalink: "/recipe/malted_mudslide/"
 iconfile: malted_mudslide
+color: #A37661
 stars: 0
 base_spirits: "Blended Scotch, Coffee Liqueur, Irish Cream Liqueur"
 youtube: "M8uXEDvbvVM"
@@ -29,7 +30,7 @@ date: 2026-03-21
 
 - Method: Blended
 - Pour: Open Pour
-- Glassware: High Ball
+- Glassware: Hurricane or large glass
 - Garnish: Grated chocolate
 - Special Prep:
   - Blend cocktail with a stick blender in the shaking tin.

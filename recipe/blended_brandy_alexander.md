@@ -6,6 +6,7 @@ categories: [after_dinner, ice_cream]
 eras: [modern]
 permalink: "/recipe/blended_brandy_alexander/"
 iconfile: blended_brandy_alexander
+color: #e1cbc0
 stars: 0
 base_spirits: "Brandy, White Crème de Cacao "
 youtube: "8FS1ILeY8Ds"
@@ -29,7 +30,7 @@ date: 2025-12-06
 
 - Method: Blended
 - Pour: Add all ingredients directly to the shaking tin
-- Glassware: Large Glass
+- Glassware: Hurricane or large glass
 - Garnish: Grated nutmeg and cocktail cherry
 - Special Prep:
   - Blend cocktail with a stick blender in the shaking tin.

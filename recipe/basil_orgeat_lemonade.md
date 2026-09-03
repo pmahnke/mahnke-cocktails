@@ -6,6 +6,7 @@ categories: [mocktail]
 eras: [anders]
 permalink: "/recipe/basilorgeatlemonade/"
 iconfile: basil_orgeat_lemonade
+color: #EFEEF1
 stars: 0
 youtube: "5wgvpo-xBnA"
 description: "A refreshing non-alcoholic drink that blends tart lemonade with the nutty sweetness of orgeat and the herbaceousness of fresh basil."
@@ -28,7 +29,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
-  - Goblet
+  - Goblet or hurricane glass
   - Crushed Ice
 - Garnish: Basil Leaf and Lemon Wheel
 - Special Prep: Shake cocktail and pour into the glass. Top with soda water.
