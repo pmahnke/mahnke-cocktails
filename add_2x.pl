@@ -78,6 +78,7 @@ my %garnishes = (
     'dehydrated lime wheel'    => 'garnish-dry_lime_wheel',
     'lime peel'                => 'garnish-lime_peel',
     'lime oil'                 => 'garnish-lemon_peel_oil',
+    'lime swath'               => 'garnish-lime_twist',
     'lime twist'               => 'garnish-lime_twist',
     'lime shell'               => 'half_lime_shell',
 
@@ -85,6 +86,7 @@ my %garnishes = (
     'green apple slice'        => 'slice_green_apple',
     'pineapple slice'          => 'slice_pineapple',
 
+    'lemon swath'              => 'twist_lemon',
     'lemon twist'              => 'twist_lemon',
     'clove studded lemon peel' => 'garnish-lemon_peel_cloves',
     'lemon peel'               => 'garnish-lemon_peel',
