@@ -7,7 +7,7 @@ eras: [modern]
 permalink: "/recipe/grasshopper/"
 iconfile: grasshopper
 color: #ADCFC2
-image: /assets/images/cocktail_grasshopper.svg
+image_orig: /assets/images/cocktail_grasshopper.svg
 stars: 0
 base_spirits: "Crème de Menthe, White Crème de Cacao "
 youtube: "kRPWDOCVByk&t=164s"
