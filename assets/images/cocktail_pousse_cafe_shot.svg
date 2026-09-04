@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <g
+       id="garnish-pousse_cafe_stemmed"
+       transform="matrix(0.45729553,0,0,0.45729553,57.211951,102.88603)">
+      <!-- STEM & BASE (Drawn behind the bowl) -->
+      <!-- Wide Glass Foot -->
+      <path
+         d="m 45,370 c 0,-10 110,-10 110,0 0,10 -110,10 -110,0 z"
+         fill="#e6f0f2"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path1" />
+      <!-- Decorative Knob -->
+      <path
+         d="m 75,355 c 0,-7 50,-7 50,0 0,7 -50,7 -50,0 z"
+         fill="#e6f0f2"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path2" />
+      <!-- Center Stem Pillar -->
+      <path
+         d="m 92,275 v 77 h 16 v -77 z"
+         fill="#e6f0f2"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path3" />
+      <!-- INSIDE BACK OF GLASS (Empty space above liquid) -->
+      <path
+         d="m 28,50 c 0,-10 144,-10 144,0 l -2,25 C 170,85 30,85 30,75 Z"
+         fill="#e6f0f2"
+         id="path4" />
+      <!-- LIQUID LAYERS -->
+      <!-- Layer 1: Dark Red / Cassis (Fills the curved bottom) -->
+      <path
+         d="m 78,255 c 0,10 44,10 44,0 -7,20 -14,25 -22,25 -8,0 -15,-5 -22,-25 z"
+         fill="#2a0808"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path5" />
+      <!-- Layer 2: Pale Pinkish-White -->
+      <path
+         d="m 62,225 c 0,10 76,10 76,0 l -16,30 c 0,10 -44,10 -44,0 z"
+         fill="#e8dce3"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path6" />
+      <!-- Layer 3: Dark Brown / Coffee -->
+      <path
+         d="m 50,195 c 0,10 100,10 100,0 l -12,30 c 0,10 -76,10 -76,0 z"
+         fill="#1a0f14"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path7" />
+      <!-- Layer 4: Orange-Red / Campari -->
+      <path
+         d="m 42,165 c 0,10 116,10 116,0 l -8,30 c 0,10 -100,10 -100,0 z"
+         fill="#d64415"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path8"
+         style="fill:#c64912;fill-opacity:1" />
+      <!-- Layer 5: Bright Green / Midori -->
+      <path
+         d="m 36,135 c 0,10 128,10 128,0 l -6,30 c 0,10 -116,10 -116,0 z"
+         fill="#8cb531"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path9" />
+      <!-- Layer 6: Golden Yellow / Galliano -->
+      <path
+         d="m 32,105 c 0,10 136,10 136,0 l -4,30 c 0,10 -128,10 -128,0 z"
+         fill="#eb9b1a"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path10" />
+      <!-- Layer 7: Clear / White Spirit (Top) -->
+      <path
+         d="m 30,75 c 0,10 140,10 140,0 l -2,30 c 0,10 -136,10 -136,0 z"
+         fill="#f4f9fa"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path11"
+         style="opacity:0.9" />
+      <!-- Layer 7 Surface (The top ellipse of the liquid) -->
+      <path
+         d="M 30,75 C 30,65 170,65 170,75 170,85 30,85 30,75 Z"
+         fill="#f4f9fa"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path12" />
+      <!-- OUTER GLASS OUTLINE -->
+      <!-- The rounded tulip bowl body -->
+      <path
+         d="m 28,50 c 0,130 32,235 72,235 40,0 72,-105 72,-235"
+         fill="none"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path13" />
+      <!-- Top Rim (Full ellipse) -->
+      <path
+         d="M 28,50 C 28,40 172,40 172,50 172,60 28,60 28,50 Z"
+         fill="none"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linejoin="round"
+         id="path14" />
+      <!-- Front Lip Accent (Thicker overlap for depth) -->
+      <path
+         d="m 28,50 c 0,10 144,10 144,0"
+         fill="none"
+         stroke="#231f20"
+         stroke-width="3"
+         stroke-linecap="round"
+         id="path15" />
+      <!-- GLASS HIGHLIGHTS (Subtle curved lines to add volume) -->
+      <path
+         d="m 36,80 c 0,90 29,165 49,185"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="3"
+         stroke-linecap="round"
+         opacity="0.6"
+         id="path16" />
+      <path
+         d="m 164,80 c 0,90 -29,165 -49,185"
+         fill="none"
+         stroke="#ffffff"
+         stroke-width="3"
+         stroke-linecap="round"
+         opacity="0.6"
+         id="path17" />
+    </g>
+  </g>
+</svg>

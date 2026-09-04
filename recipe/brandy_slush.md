@@ -6,6 +6,7 @@ categories: [punch]
 eras: [modern]
 permalink: "/recipe/brandy_slush/"
 iconfile: brandy_slush
+color: #E2AC66
 stars: 0
 base_spirits: "Brandy"
 youtube: "rQ59lgXm8Ho"
@@ -32,11 +33,11 @@ Orange slice for individual garnish
 
 - Method: Build in Tub
 - Pour: Add all ingredients directly into the tub
-- Glassware: Parfait Cup
+- Glassware: Footed Rocks Glass or Parfait Cup
 - Garnish: Orange slice for individual garnish
 - Special Prep:
   - Combine orange juice, lemonade, brandy, tea syrup, and 5 cups (1200 ml) of water in a sealable container.
   - Stir to combine.
   - Freeze for 12-24 hours.
-  - Once frozen, scoop desired amount into a glass and top with soda.
+  - Once frozen into a granita like slush, scoop desired amount into a glass and top with soda.
   - Garnish with a slice of orange.

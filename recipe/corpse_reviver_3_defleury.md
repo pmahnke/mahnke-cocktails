@@ -7,6 +7,7 @@ categories: [shot, pousse_cafe]
 eras: [prohibition]
 permalink: "/recipe/corpse_reviver_3_defleury/"
 iconfile: corpse_reviver_3_defleury
+image: /assets/images/cocktail_corpse_reviver_3_de-fleury.svg
 stars: 0
 base_spirits: "Maraschino Liqueur, Curaçao, Cognac"
 youtube: "kBHi_atZsbM"

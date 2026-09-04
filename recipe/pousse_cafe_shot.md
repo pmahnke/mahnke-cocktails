@@ -6,6 +6,7 @@ eras: [classic]
 categories: [shot, pousse_cafe]
 permalink: "/recipe/pousse_cafe_shot/"
 iconfile: pousse_cafe_shot
+image: /assets/images/cocktail_pousse_cafe_shot.svg
 stars: 0
 base_spirits: "Bénédictine, Green Chartreuse, Angostura Aromatic Bitters"
 youtube: "4OJd_phsa5w"
