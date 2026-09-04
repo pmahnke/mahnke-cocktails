@@ -85,6 +85,7 @@ my %garnishes = (
     'grape'                    => 'garnish-grapes',
     'green apple slice'        => 'slice_green_apple',
     'pineapple slice'          => 'slice_pineapple',
+    'pear slice'               => 'fruit_pear',
 
     'lemon swath'              => 'twist_lemon',
     'lemon twist'              => 'twist_lemon',
@@ -159,13 +160,14 @@ my %tools = (
 
 my %ice_types = (
     'crushed ice'     => 'ice_crushed',
-    'ice cone'        => 'ice_crushed',
+    'ice cone'        => 'ice_cone',
     'cubed ice'       => 'ice_cubes',
     'ice cubes'       => 'ice_cubes',
     'large cube'      => 'ice_large',
     'large ice cube'  => 'ice_large',
     'pebble ice'      => 'ice_pebble',
     'on the rocks'    => 'ice_cubes',
+    'granita'         => 'ice_granita'
 );
 
 my %cocktail_types = (
@@ -208,6 +210,7 @@ while (my $file = readdir DIR) {
     my $egg_white = 0;
     my $wine_float = 0;
     my $foam = 0;
+    my $granita = 0;
 
     foreach my $line (@file_lines) {
         if ($line =~ /^---\s*$/) {
@@ -296,6 +299,9 @@ while (my $file = readdir DIR) {
     }
     if ($entire_file_text =~ /foam: \#(.*)/i) {
         $foam = $1;
+    }
+    if ($entire_file_text =~ /granita/i) {
+        $granita = 1;
     }
     my @found_tools     = find_matches($full_body_text, \%tools);
     my @found_ice       = find_matches($full_body_text, \%ice_types);
@@ -609,6 +615,29 @@ $rating_json
                     if (my $style = $highlight->attr('style')) {
                         $style =~ s/fill:\s*[^;]+;?//ig;
                         $highlight->attr(style => "$style fill:$highlight_color;");
+                    }
+                }
+
+                # 2d. granita color (15% lighter than liquid)
+                if (my $granita = $dom->at('#granita1')) {
+                    $granita->attr(fill => $foam_color);
+                    if (my $style = $granita->attr('style')) {
+                        $style =~ s/fill:\s*[^;]+;?//ig;
+                        $granita->attr(style => "$style fill:$foam_color;");
+                    }
+                }
+                if (my $granita = $dom->at('#granita2')) {
+                    $granita->attr(fill => $foam_color);
+                    if (my $style = $granita->attr('style')) {
+                        $style =~ s/fill:\s*[^;]+;?//ig;
+                        $granita->attr(style => "$style fill:$foam_color;");
+                    }
+                }
+                if (my $granita = $dom->at('#granita3')) {
+                    $granita->attr(fill => $foam_color);
+                    if (my $style = $granita->attr('style')) {
+                        $style =~ s/fill:\s*[^;]+;?//ig;
+                        $granita->attr(style => "$style fill:$foam_color;");
                     }
                 }
 

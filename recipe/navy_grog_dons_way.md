@@ -36,7 +36,7 @@ date: 2025-08-20
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
-  - Low Ball
+  - Rocks Glass
   - Ice Cone
 - Garnish: Ice cone with a straw through the center
 - Special Prep: Shake all ingredients together except the soda. Float the soda water on top.

@@ -164,6 +164,9 @@ garnishes:
   garnish-cherries_stick:
     name: Cherries on a Toothpick
     icon: /assets/images/garnish-cherries_stick.svg
+  fruit_pear:
+    name: Pear Slice
+    icon: /assets/images/fruit_pear.svg
   spice_nutmeg:
     name: Nutmeg
     icon: /assets/images/spice_nutmeg.svg
@@ -216,6 +219,9 @@ tools:
     icon: /assets/images/tool_bar_spoon.svg
 
 ice:
+  ice_cone:
+    name: Ice Cone
+    icon: /assets/images/ice_cone.svg
   ice_crushed:
     name: Crushed Ice
     icon: /assets/images/ice_crushed.svg

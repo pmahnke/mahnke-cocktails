@@ -6,6 +6,7 @@ categories: [champagne]
 eras: [anders]
 permalink: "/recipe/pear_champagne_granita/"
 iconfile: pear_champagne_granita
+color: #B67F50
 stars: 0
 base_spirits: "Champagne, Pear Liqueur"
 youtube: "ouRs57kDexU"
@@ -26,6 +27,8 @@ date: 2025-12-27
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
-- Glassware: Coupe
-- Garnish: Pear slice
+- Glassware: 
+  - Coupe 
+  - Granita
+- Garnish: Pear slice 
 - Special Prep: Expressed lemon oil
