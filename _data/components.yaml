@@ -145,7 +145,7 @@ garnishes:
     icon: /assets/images/twist_orange.svg
   garnish-orange_slice:
     name: Orange Slice
-    icon: /assets/images/garnish-orange_slice.svgp
+    icon: /assets/images/garnish-orange_slice.svg
   garnish-dry_orange_wheel:
     name: Dry Orange Wheel
     icon: /assets/images/garnish-dry_orange_wheel.svg
