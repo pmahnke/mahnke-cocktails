@@ -36,4 +36,4 @@ date: 2025-08-20
 - Glassware: Low Ball
 - Garnish: Lime shell, mint sprig, and rock candy stick
 - Ice: crushed ice
-- Special Prep: Insert the rock candy stick in the glass to mimic the ice cone of Don the Beachcomber's Navy Grog.
+- Special Prep: Insert the rock candy stick in the glass to mimic the ice&nbsp;cone of Don the Beachcomber's Navy Grog.

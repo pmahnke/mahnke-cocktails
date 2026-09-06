@@ -2283,115 +2283,254 @@
     </g>
     <g
        id="ice_crushed"
-       transform="matrix(0.63158799,0,0,0.43802319,50.94151,169.1335)"
+       transform="matrix(0.85342968,0,0,0.50688105,49.255636,159.22198)"
        style="display:none">
       <!-- Base Core Mound (Provides the silhouette and prevents gaps) -->
-      <path
-         d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
-         fill="#bfe6f0"
-         stroke="#211d1d"
-         stroke-width="1.5"
-         stroke-linejoin="round"
-         id="path1-7"
-         style="display:none" />
       <!-- Deep Submerged Pebbles (Dark Cyan) -->
-      <g
-         fill="#dcf1ef"
-         stroke="#211d1d"
-         stroke-width="1.5"
-         stroke-linejoin="round"
-         id="g5-5">
-        <polygon
-           points="50,130 60,125 70,130 65,140 55,138 "
-           id="polygon1" />
-        <polygon
-           points="70,128 85,125 90,135 80,142 68,138 "
-           id="polygon2" />
-        <polygon
-           points="90,128 105,122 115,130 108,140 92,138 "
-           id="polygon3" />
-        <polygon
-           points="115,125 130,122 140,130 135,140 120,138 "
-           id="polygon4" />
-        <polygon
-           points="135,120 148,115 152,125 145,132 138,130 "
-           id="polygon5" />
-      </g>
       <!-- Lower Mid Pebbles (Mid Cyan) -->
-      <g
-         fill="#bfe6f0"
-         stroke="#211d1d"
-         stroke-width="1.5"
-         stroke-linejoin="round"
-         id="g10">
-        <polygon
-           points="45,110 58,105 65,115 60,125 48,122 "
-           id="polygon6" />
-        <polygon
-           points="62,110 75,102 85,112 80,122 65,120 "
-           id="polygon7" />
-        <polygon
-           points="82,108 95,100 108,108 102,120 88,118 "
-           id="polygon8" />
-        <polygon
-           points="105,105 120,98 130,105 125,118 110,115 "
-           id="polygon9" />
-        <polygon
-           points="128,102 142,95 150,108 145,118 132,112 "
-           id="polygon10" />
-      </g>
       <!-- Liquid Line Pebbles (Light Cyan) -->
-      <g
-         fill="#e4f6fa"
-         stroke="#211d1d"
-         stroke-width="1.5"
-         stroke-linejoin="round"
-         id="g15">
-        <polygon
-           points="48,90 60,82 70,95 62,108 52,105 "
-           id="polygon11" />
-        <polygon
-           points="68,88 82,80 92,92 85,105 72,102 "
-           id="polygon12" />
-        <polygon
-           points="90,85 105,75 115,88 108,102 95,100 "
-           id="polygon13" />
-        <polygon
-           points="112,82 128,75 135,88 125,102 115,98 "
-           id="polygon14" />
-        <polygon
-           points="132,85 145,78 155,90 148,102 135,100 "
-           id="polygon15" />
-      </g>
       <!-- Surface Pile Highlights (White) -->
       <g
-         fill="#ffffff"
-         stroke="#211d1d"
-         stroke-width="1.5"
-         stroke-linejoin="round"
-         id="g22">
-        <polygon
-           points="65,72 78,65 85,78 75,88 68,85 "
-           id="polygon16" />
-        <polygon
-           points="82,68 98,58 108,70 100,85 85,82 "
-           id="polygon17" />
-        <polygon
-           points="105,65 120,55 130,68 122,82 108,80 "
-           id="polygon18" />
-        <polygon
-           points="125,70 138,62 145,75 135,85 128,82 "
-           id="polygon19" />
-        <!-- Top Peaks -->
-        <polygon
-           points="75,55 88,48 95,60 85,70 78,68 "
-           id="polygon20" />
-        <polygon
-           points="92,50 105,42 115,55 108,68 95,65 "
-           id="polygon21" />
-        <polygon
-           points="110,52 125,45 132,58 122,70 112,68 "
-           id="polygon22" />
+         id="g1-0"
+         style="display:inline"
+         transform="matrix(0.45342118,0,0,0.56701139,47.62052,49.590593)">
+        <g
+           fill="#dcf1ef"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g5-5-2"
+           style="opacity:0.6;fill:#e4f6fa;fill-opacity:1">
+          <polygon
+             points="50,130 60,125 70,130 65,140 55,138 "
+             id="polygon1-4"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="70,128 85,125 90,135 80,142 68,138 "
+             id="polygon2-8"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="90,128 105,122 115,130 108,140 92,138 "
+             id="polygon3-3"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="115,125 130,122 140,130 135,140 120,138 "
+             id="polygon4-9"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="135,120 148,115 152,125 145,132 138,130 "
+             id="polygon5-0"
+             style="fill:#e4f6fa;fill-opacity:1" />
+        </g>
+        <g
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g10-5"
+           style="opacity:0.6;fill:#e4f6fa;fill-opacity:1">
+          <polygon
+             points="45,110 58,105 65,115 60,125 48,122 "
+             id="polygon6-2"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="62,110 75,102 85,112 80,122 65,120 "
+             id="polygon7-2"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="82,108 95,100 108,108 102,120 88,118 "
+             id="polygon8-7"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="105,105 120,98 130,105 125,118 110,115 "
+             id="polygon9-3"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="128,102 142,95 150,108 145,118 132,112 "
+             id="polygon10-7"
+             style="fill:#e4f6fa;fill-opacity:1" />
+        </g>
+        <g
+           fill="#e4f6fa"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g15-9"
+           style="opacity:0.6">
+          <polygon
+             points="48,90 60,82 70,95 62,108 52,105 "
+             id="polygon11-0" />
+          <polygon
+             points="68,88 82,80 92,92 85,105 72,102 "
+             id="polygon12-2" />
+          <polygon
+             points="90,85 105,75 115,88 108,102 95,100 "
+             id="polygon13-3" />
+          <polygon
+             points="112,82 128,75 135,88 125,102 115,98 "
+             id="polygon14-9" />
+          <polygon
+             points="132,85 145,78 155,90 148,102 135,100 "
+             id="polygon15-9" />
+        </g>
+        <g
+           fill="#ffffff"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g22-7"
+           style="opacity:0.6;fill:#e4f6fa;fill-opacity:1">
+          <polygon
+             points="65,72 78,65 85,78 75,88 68,85 "
+             id="polygon16-0"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="82,68 98,58 108,70 100,85 85,82 "
+             id="polygon17-3"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="105,65 120,55 130,68 122,82 108,80 "
+             id="polygon18-9"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="125,70 138,62 145,75 135,85 128,82 "
+             id="polygon19-8"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <!-- Top Peaks -->
+          <polygon
+             points="75,55 88,48 95,60 85,70 78,68 "
+             id="polygon20-6"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="92,50 105,42 115,55 108,68 95,65 "
+             id="polygon21-5"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="110,52 125,45 132,58 122,70 112,68 "
+             id="polygon22-7"
+             style="fill:#e4f6fa;fill-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g1-0-7"
+         style="display:inline"
+         transform="matrix(-0.45331639,-0.01218974,0.00974775,-0.5668803,96.069924,157.78153)">
+        <g
+           fill="#dcf1ef"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g5-5-2-6"
+           style="opacity:0.6;fill:#e4f6fa;fill-opacity:1">
+          <polygon
+             points="60,125 70,130 65,140 55,138 50,130 "
+             id="polygon1-4-0"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="85,125 90,135 80,142 68,138 70,128 "
+             id="polygon2-8-0"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="105,122 115,130 108,140 92,138 90,128 "
+             id="polygon3-3-9"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="130,122 140,130 135,140 120,138 115,125 "
+             id="polygon4-9-5"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="148,115 152,125 145,132 138,130 135,120 "
+             id="polygon5-0-6"
+             style="fill:#e4f6fa;fill-opacity:1" />
+        </g>
+        <g
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g10-5-2"
+           style="opacity:0.6;fill:#e4f6fa;fill-opacity:1">
+          <polygon
+             points="58,105 65,115 60,125 48,122 45,110 "
+             id="polygon6-2-8"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="75,102 85,112 80,122 65,120 62,110 "
+             id="polygon7-2-5"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="95,100 108,108 102,120 88,118 82,108 "
+             id="polygon8-7-9"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="120,98 130,105 125,118 110,115 105,105 "
+             id="polygon9-3-4"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="142,95 150,108 145,118 132,112 128,102 "
+             id="polygon10-7-3"
+             style="fill:#e4f6fa;fill-opacity:1" />
+        </g>
+        <g
+           fill="#e4f6fa"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g15-9-9"
+           style="opacity:0.6">
+          <polygon
+             points="60,82 70,95 62,108 52,105 48,90 "
+             id="polygon11-0-0" />
+          <polygon
+             points="82,80 92,92 85,105 72,102 68,88 "
+             id="polygon12-2-5" />
+          <polygon
+             points="105,75 115,88 108,102 95,100 90,85 "
+             id="polygon13-3-6" />
+          <polygon
+             points="128,75 135,88 125,102 115,98 112,82 "
+             id="polygon14-9-3" />
+          <polygon
+             points="145,78 155,90 148,102 135,100 132,85 "
+             id="polygon15-9-6" />
+        </g>
+        <g
+           fill="#ffffff"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g22-7-3"
+           style="opacity:0.6;fill:#e4f6fa;fill-opacity:1">
+          <polygon
+             points="78,65 85,78 75,88 68,85 65,72 "
+             id="polygon16-0-0"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="98,58 108,70 100,85 85,82 82,68 "
+             id="polygon17-3-8"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="120,55 130,68 122,82 108,80 105,65 "
+             id="polygon18-9-4"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="138,62 145,75 135,85 128,82 125,70 "
+             id="polygon19-8-0"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <!-- Top Peaks -->
+          <polygon
+             points="88,48 95,60 85,70 78,68 75,55 "
+             id="polygon20-6-4"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="105,42 115,55 108,68 95,65 92,50 "
+             id="polygon21-5-6"
+             style="fill:#e4f6fa;fill-opacity:1" />
+          <polygon
+             points="125,45 132,58 122,70 112,68 110,52 "
+             id="polygon22-7-4"
+             style="fill:#e4f6fa;fill-opacity:1" />
+        </g>
       </g>
     </g>
     <g
@@ -3239,7 +3378,7 @@
          id="path11520" />
     </g>
     <path
-       d="m 156.60203,188.53863 0.52482,-2.90946 c 0,0 -13.33112,11.4843 -43.21065,12.39573 -29.833156,0.90998 -43.060915,-13.41188 -43.060915,-13.41188 l 0.805892,16.93874 0.05269,0.0122 0.755379,24.12929 c 0,1.58943 1.620552,3.06934 4.677216,4.37706 2.178303,0.93373 5.039532,1.73951 8.4102,2.45304 2.73606,0.57573 5.77076,1.1441 9.119471,1.54025 2.946862,0.34815 6.097937,0.67903 9.407127,0.85988 3.05886,0.1624 6.25825,0.22882 9.53669,0.22882 3.27625,0 6.4449,-0.25587 9.50156,-0.42319 3.30918,-0.17591 6.50856,-0.27801 9.46421,-0.62492 3.33994,-0.39242 6.49321,-0.81566 9.22049,-1.39136 3.37945,-0.71354 6.06062,-1.74445 8.23673,-2.67819 3.05885,-1.31262 4.81995,-2.75196 4.81995,-4.34139 0,-0.0528 0,-0.10587 -0.0153,-0.15496 0.007,-0.075 -0.009,-0.15006 -0.0241,-0.22394 -0.16469,-1.64352 -0.7466,-8.56594 0.0395,-18.83447 0.41282,-5.35013 1.04304,-11.50857 1.73913,-17.94131"
+       d="m 155.14871,191.44526 0.52482,-2.90946 c 0,0 -13.33112,11.4843 -43.21065,12.39573 -29.833153,0.90998 -43.060912,-13.41188 -43.060912,-13.41188 l 0.805892,16.93874 0.05269,0.0122 0.755379,24.12929 c 0,1.58943 1.620552,3.06934 4.677216,4.37706 2.178303,0.93373 5.039532,1.73951 8.4102,2.45304 2.73606,0.57573 5.77076,1.1441 9.119471,1.54025 2.946862,0.34815 6.097937,0.67903 9.407124,0.85988 3.05886,0.1624 6.25825,0.22882 9.53669,0.22882 3.27625,0 6.4449,-0.25587 9.50156,-0.42319 3.30918,-0.17591 6.50856,-0.27801 9.46421,-0.62492 3.33994,-0.39242 6.49321,-0.81566 9.22049,-1.39136 3.37945,-0.71354 6.06062,-1.74445 8.23673,-2.67819 3.05885,-1.31262 4.81995,-2.75196 4.81995,-4.34139 0,-0.0528 0,-0.10587 -0.0153,-0.15496 0.007,-0.075 -0.009,-0.15006 -0.0241,-0.22394 -0.16469,-1.64352 -0.7466,-8.56594 0.0395,-18.83447 0.41282,-5.35013 1.04304,-11.50857 1.73913,-17.94131"
        style="display:inline;opacity:0.85;fill:#efd83e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0164359"
        id="liquid-fill" />
     <g

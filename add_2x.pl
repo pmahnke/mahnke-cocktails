@@ -37,7 +37,7 @@ my %glassware = (
     'highball'             => 'highball',
     'high ball'            => 'highball',
     'martini'              => 'martini',
-    'low ball'             => 'low_ball',
+    'low ball'             => 'rocks',
     'rocks glass'          => 'rocks',
     'footed rocks glass'   => 'footed_rocks_glass',
     'tiki mug'             => 'tiki',
@@ -160,14 +160,14 @@ my %tools = (
 
 my %ice_types = (
     'crushed ice'     => 'ice_crushed',
-    'ice cone'        => 'ice_cone',
     'cubed ice'       => 'ice_cubes',
     'ice cubes'       => 'ice_cubes',
     'large cube'      => 'ice_large',
     'large ice cube'  => 'ice_large',
     'pebble ice'      => 'ice_pebble',
     'on the rocks'    => 'ice_cubes',
-    'granita'         => 'ice_granita'
+    'granita'         => 'ice_granita',
+    'ice cone'        => 'ice_cone',
 );
 
 my %cocktail_types = (
