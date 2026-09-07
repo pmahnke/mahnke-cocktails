@@ -298,7 +298,7 @@ while (my $file = readdir DIR) {
     
     # NEW: Feed only the isolated garnish text to the garnish matcher
     my @found_garnishes = find_matches($garnish_text, \%garnishes);
-# NEW: Check the ENTIRE file for carbonation to trigger bubbles
+    # NEW: Check the ENTIRE file for carbonation to trigger bubbles
     my $entire_file_text = join("", @file_lines);
     if ($entire_file_text =~ /champagne|prosecco|cava|sparkling wine|club soda|soda water|tonic|ginger ale|ginger beer|lager|beer/i) {
         push @found_garnishes, 'bubbles';
@@ -507,6 +507,7 @@ $rating_json
                     $final_front_matter .= "image: $page_image\n";
                 }
                 # Inject sorted component arrays right before the closing delimiter
+                $final_front_matter .= "slug: $slug\n";  # NEW: Inject slug for social image mapping
                 $final_front_matter .= build_yaml_entry('glass',     \@found_glasses);
                 $final_front_matter .= build_yaml_entry('garnishes', \@found_garnishes);
                 $final_front_matter .= build_yaml_entry('tools',     \@found_tools);
@@ -687,6 +688,42 @@ $rating_json
                 close(SVG_OUT);
                 
                 print "Generated SVG: $svg_out_path\n";
+
+                # -------------------------------------------------------------
+                # NEW: Generate Raster Social PNGs (Excluded from Git)
+                # -------------------------------------------------------------
+                my $social_dir = $rootdir . "/assets/images/social";
+                mkdir $social_dir unless -d $social_dir;
+                
+                my $pinterest_dir = $rootdir . "/assets/images/pinterest";
+                mkdir $pinterest_dir unless -d $pinterest_dir;
+
+                my $landscape_out = "$social_dir/${slug}_landscape.png";
+                my $pinterest_out = "$pinterest_dir/${slug}_pin.png";
+
+                # Format a clean title from the slug (e.g., "navy_grog" -> "Navy Grog")
+                my $display_title = $slug;
+                $display_title =~ s/[_-]/ /g;
+                $display_title =~ s/\b(\w)/\U$1/g;
+
+                # FONT HANDLING:
+                # Fallback to Mac system font if you don't want to download one, 
+                # but ideally, save 'Raleway-Bold.ttf' to your assets folder!
+                my $font_path = "$rootdir/assets/fonts/Raleway-Bold.ttf";
+                unless (-e $font_path) {
+                    # Fallbacks based on OS
+                    $font_path = (-e "/Library/Fonts/Arial.ttf") ? "/Library/Fonts/Arial.ttf" : "/usr/share/fonts/truetype/msttcorefonts/Arial.ttf";
+                }
+
+                # Landscape (1200x630): 
+                # -trim removes SVG padding, resizing the actual glass to 550px tall
+                system("magick -density 300 \"$svg_out_path\" -trim +repage -resize x550 -background white -gravity center -extent 1200x630 \"$landscape_out\"");
+                
+                # Pinterest Vertical (1000x1500): 
+                # Added '-density 72' right before the font declaration to normalize text size
+                system("magick -density 300 \"$svg_out_path\" -trim +repage -resize x950 -background white -gravity center -extent 1000x1500 -density 72 -font \"$font_path\" -fill \"#231f20\" -pointsize 70 -gravity north -annotate +0+130 \"$display_title\" \"$pinterest_out\"");
+
+                print "Generated Social PNGs for $slug\n";
             }
         }
     }

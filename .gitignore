@@ -12,3 +12,5 @@ Gemfile
 GPUCache/
 assets/images/*_dynamic.svg
 recipe_processed/
+/assets/images/social/
+/assets/images/pinterest/

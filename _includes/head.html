@@ -16,11 +16,24 @@
   </script>
 
   <title>{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {% endif %}{{ site.title | escape }}</title>
-  <meta name="twitter:title" content="{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {% endif %}{{ site.title | escape }}" >
+  
+  <!-- OPEN GRAPH (Facebook, LinkedIn, Slack, iMessage) -->
+  <meta property="og:type" content="article" />
   <meta property="og:title" content="{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {% endif %}{{ site.title | escape }}" >
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:description" content="{%- if page.description-%}{{ page.description | strip_html | replace: '"', "'" | truncatewords: 150 }}{%- else -%}Find hundreds of classic and modern cocktail recipes for free at The Barspoon. Browse by spirit or era, featuring drinks from Anders Erickson and Leandro DiMonriva.{%- endif -%}">
+  {% if page.slug %}<meta property="og:image" content="{{ site.url }}/assets/images/social/{{ page.slug }}_landscape.png" />{% endif %}
+
+  <!-- TWITTER -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{%- if page.title -%}{{ page.title | escape }} Cocktail Recipe - {% endif %}{{ site.title | escape }}" >
+  {% if page.slug %}<meta name="twitter:image" content="{{ site.url }}/assets/images/social/{{ page.slug }}_landscape.png" />{% endif %}
+
+  <!-- PINTEREST -->
+  <meta name="pinterest-rich-pin" content="true" />
+  
   <meta name="keywords" content="cocktail, cocktail recipe, {{ page.keywords | join: ', ' | escape }}, {{ page.base_spirits | join: ', ' | escape }}, {{ page.style | join: ', ' | escape }}">
   <meta name="description" content="{%- if page.description-%}{{ page.description | strip_html | replace: '"', "'" | truncatewords: 150 }}{%- else -%}Find hundreds of classic and modern cocktail recipes for free at The Barspoon. Browse by spirit or era, featuring drinks from Anders Erickson and Leandro DiMonriva.{%- endif -%}">
-  <meta property="og:description" content="{%- if page.description-%}{{ page.description | strip_html | replace: '"', "'" | truncatewords: 150 }}{%- else -%}Find hundreds of classic and modern cocktail recipes for free at The Barspoon. Browse by spirit or era, featuring drinks from Anders Erickson and Leandro DiMonriva.{%- endif -%}">
 
   {% if page.url -%}
   {%- assign canonical_url = site.url | append: site.baseurl | append: page.url -%}

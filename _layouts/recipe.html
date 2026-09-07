@@ -30,3 +30,7 @@ layout: default
     
     </div><!-- /div 1/3 -->
 </div><!-- /div grid-container -->
+{% if page.slug %}
+<!-- Hidden Pinterest Image -->
+<img src="{{ site.url }}/assets/images/pinterest/{{ page.slug }}_pin.png" style="display: none;" data-pin-media="true" alt="Pin this {{ page.title }} recipe">
+{% endif %}
