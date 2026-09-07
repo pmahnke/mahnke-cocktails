@@ -706,22 +706,20 @@ $rating_json
                 $display_title =~ s/[_-]/ /g;
                 $display_title =~ s/\b(\w)/\U$1/g;
 
-                # FONT HANDLING:
-                # Fallback to Mac system font if you don't want to download one, 
-                # but ideally, save 'Raleway-Bold.ttf' to your assets folder!
+                # FONT HANDLING
                 my $font_path = "$rootdir/assets/fonts/Raleway-Bold.ttf";
                 unless (-e $font_path) {
-                    # Fallbacks based on OS
                     $font_path = (-e "/Library/Fonts/Arial.ttf") ? "/Library/Fonts/Arial.ttf" : "/usr/share/fonts/truetype/msttcorefonts/Arial.ttf";
                 }
 
-                # Landscape (1200x630): 
-                # -trim removes SVG padding, resizing the actual glass to 550px tall
-                system("magick -density 300 \"$svg_out_path\" -trim +repage -resize x550 -background white -gravity center -extent 1200x630 \"$landscape_out\"");
+                # OS DETECTION: Use 'magick' on Mac (darwin) and 'convert' on Ubuntu (linux)
+                my $im_cmd = ($^O eq 'darwin') ? 'magick' : 'convert';
+
+                # Landscape (1200x630)
+                system("$im_cmd -density 300 \"$svg_out_path\" -trim +repage -resize x550 -background white -gravity center -extent 1200x630 \"$landscape_out\"");
                 
-                # Pinterest Vertical (1000x1500): 
-                # Added '-density 72' right before the font declaration to normalize text size
-                system("magick -density 300 \"$svg_out_path\" -trim +repage -resize x950 -background white -gravity center -extent 1000x1500 -density 72 -font \"$font_path\" -fill \"#231f20\" -pointsize 70 -gravity north -annotate +0+130 \"$display_title\" \"$pinterest_out\"");
+                # Pinterest Vertical (1000x1500)
+                system("$im_cmd -density 300 \"$svg_out_path\" -trim +repage -resize x950 -background white -gravity center -extent 1000x1500 -font \"$font_path\" -fill \"#231f20\" -pointsize 70 -gravity north -annotate +0+130 \"$display_title\" \"$pinterest_out\"");
 
                 print "Generated Social PNGs for $slug\n";
             }
