@@ -31,5 +31,5 @@ date: 2025-08-11
 - Glassware:
   - Low Ball
   - On the Rocks
-- Garnish: Lime wheel or lime wedge
+- Garnish: Lime wheel or lime&nbsp;wedge
 - Special Prep: None
