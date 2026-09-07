@@ -32,8 +32,8 @@ date: 2026-03-24
   - Low Ball
   - Large Ice Cube
 - Garnish:
-  - Spring Awakening: Orange or Lemon twist
-  - Winter's Nap: Sprig of rosemary
+  - Spring Awakening: Orange or lemon twist
+  - Winter's Nap: Rosemary sprig 
 - Special Prep:
   - Spring Awakening: Expressed orange oil or lemon oil
   - Winter's Nap: None

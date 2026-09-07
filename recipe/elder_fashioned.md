@@ -38,7 +38,7 @@ date: 2026-08-22
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Orange peel
+- Garnish: Orange twist
 - Special Prep: Expressed orange oil over the cocktail
 
 </div>
@@ -62,7 +62,7 @@ date: 2026-08-22
 - Glassware:
   - Low Ball
   - Large Ice Cube
-- Garnish: Grapefruit peel
+- Garnish: Grapefruit twist
 - Special Prep: Expressed grapefruit oil over the cocktail
 
 </div>

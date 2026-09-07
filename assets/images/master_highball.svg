@@ -568,7 +568,7 @@
     </g>
     <g
        id="ice_crushed"
-       transform="matrix(-14.479384,-0.4039873,-0.28389384,15.191437,33655.726,29117.131)"
+       transform="matrix(-14.479384,-0.4039873,-0.28389384,15.191437,33662.519,27371.419)"
        style="display:none;opacity:0.8">
       <!-- Base Core Mound (Provides the silhouette and prevents gaps) -->
       <!-- Deep Submerged Pebbles (Dark Cyan) -->
@@ -576,7 +576,8 @@
       <!-- Liquid Line Pebbles (Light Cyan) -->
       <!-- Surface Pile Highlights (White) -->
       <g
-         id="g31">
+         id="g31"
+         transform="matrix(0.54780208,0,0,0.54780208,69.817669,130.16927)">
         <path
            d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
            fill="#bfe6f0"
@@ -592,19 +593,19 @@
            stroke-linejoin="round"
            id="g5-5">
           <polygon
-             points="60,125 70,130 65,140 55,138 50,130 "
+             points="50,130 60,125 70,130 65,140 55,138 "
              id="polygon1" />
           <polygon
-             points="85,125 90,135 80,142 68,138 70,128 "
+             points="70,128 85,125 90,135 80,142 68,138 "
              id="polygon2" />
           <polygon
-             points="105,122 115,130 108,140 92,138 90,128 "
+             points="90,128 105,122 115,130 108,140 92,138 "
              id="polygon3" />
           <polygon
-             points="130,122 140,130 135,140 120,138 115,125 "
+             points="115,125 130,122 140,130 135,140 120,138 "
              id="polygon4" />
           <polygon
-             points="148,115 152,125 145,132 138,130 135,120 "
+             points="135,120 148,115 152,125 145,132 138,130 "
              id="polygon5" />
         </g>
         <g
@@ -612,22 +613,28 @@
            stroke="#211d1d"
            stroke-width="1.5"
            stroke-linejoin="round"
-           id="g10">
+           id="g10"
+           style="fill:#ffffff;fill-opacity:1">
           <polygon
-             points="58,105 65,115 60,125 48,122 45,110 "
-             id="polygon6" />
+             points="45,110 58,105 65,115 60,125 48,122 "
+             id="polygon6"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="75,102 85,112 80,122 65,120 62,110 "
-             id="polygon7" />
+             points="62,110 75,102 85,112 80,122 65,120 "
+             id="polygon7"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="95,100 108,108 102,120 88,118 82,108 "
-             id="polygon8" />
+             points="82,108 95,100 108,108 102,120 88,118 "
+             id="polygon8"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="120,98 130,105 125,118 110,115 105,105 "
-             id="polygon9" />
+             points="105,105 120,98 130,105 125,118 110,115 "
+             id="polygon9"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="142,95 150,108 145,118 132,112 128,102 "
-             id="polygon10" />
+             points="128,102 142,95 150,108 145,118 132,112 "
+             id="polygon10"
+             style="fill:#ffffff;fill-opacity:1" />
         </g>
         <g
            fill="#e4f6fa"
@@ -636,19 +643,19 @@
            stroke-linejoin="round"
            id="g15">
           <polygon
-             points="60,82 70,95 62,108 52,105 48,90 "
+             points="48,90 60,82 70,95 62,108 52,105 "
              id="polygon11" />
           <polygon
-             points="82,80 92,92 85,105 72,102 68,88 "
+             points="68,88 82,80 92,92 85,105 72,102 "
              id="polygon12" />
           <polygon
-             points="105,75 115,88 108,102 95,100 90,85 "
+             points="90,85 105,75 115,88 108,102 95,100 "
              id="polygon13" />
           <polygon
-             points="128,75 135,88 125,102 115,98 112,82 "
+             points="112,82 128,75 135,88 125,102 115,98 "
              id="polygon14" />
           <polygon
-             points="145,78 155,90 148,102 135,100 132,85 "
+             points="132,85 145,78 155,90 148,102 135,100 "
              id="polygon15" />
         </g>
         <g
@@ -658,33 +665,33 @@
            stroke-linejoin="round"
            id="g22-1">
           <polygon
-             points="78,65 85,78 75,88 68,85 65,72 "
+             points="65,72 78,65 85,78 75,88 68,85 "
              id="polygon16" />
           <polygon
-             points="98,58 108,70 100,85 85,82 82,68 "
+             points="82,68 98,58 108,70 100,85 85,82 "
              id="polygon17" />
           <polygon
-             points="120,55 130,68 122,82 108,80 105,65 "
+             points="105,65 120,55 130,68 122,82 108,80 "
              id="polygon18" />
           <polygon
-             points="138,62 145,75 135,85 128,82 125,70 "
+             points="125,70 138,62 145,75 135,85 128,82 "
              id="polygon19" />
           <!-- Top Peaks -->
           <polygon
-             points="88,48 95,60 85,70 78,68 75,55 "
+             points="75,55 88,48 95,60 85,70 78,68 "
              id="polygon20" />
           <polygon
-             points="105,42 115,55 108,68 95,65 92,50 "
+             points="92,50 105,42 115,55 108,68 95,65 "
              id="polygon21" />
           <polygon
-             points="125,45 132,58 122,70 112,68 110,52 "
+             points="110,52 125,45 132,58 122,70 112,68 "
              id="polygon22" />
         </g>
       </g>
       <g
          id="g31-5"
          style="display:inline"
-         transform="matrix(1.0805861,0.00215821,0.00159122,0.99947159,-11.700162,77.805308)">
+         transform="matrix(0.59194732,0.00118227,8.7167363e-4,0.54751262,63.408296,172.79118)">
         <path
            d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
            fill="#bfe6f0"
@@ -700,19 +707,19 @@
            stroke-linejoin="round"
            id="g5-5-5">
           <polygon
-             points="50,130 60,125 70,130 65,140 55,138 "
+             points="55,138 50,130 60,125 70,130 65,140 "
              id="polygon1-7" />
           <polygon
-             points="70,128 85,125 90,135 80,142 68,138 "
+             points="68,138 70,128 85,125 90,135 80,142 "
              id="polygon2-7" />
           <polygon
-             points="90,128 105,122 115,130 108,140 92,138 "
+             points="92,138 90,128 105,122 115,130 108,140 "
              id="polygon3-3" />
           <polygon
-             points="115,125 130,122 140,130 135,140 120,138 "
+             points="120,138 115,125 130,122 140,130 135,140 "
              id="polygon4-7" />
           <polygon
-             points="135,120 148,115 152,125 145,132 138,130 "
+             points="138,130 135,120 148,115 152,125 145,132 "
              id="polygon5-6" />
         </g>
         <g
@@ -720,22 +727,28 @@
            stroke="#211d1d"
            stroke-width="1.5"
            stroke-linejoin="round"
-           id="g10-4">
+           id="g10-4"
+           style="fill:#ffffff;fill-opacity:1">
           <polygon
-             points="45,110 58,105 65,115 60,125 48,122 "
-             id="polygon6-3" />
+             points="48,122 45,110 58,105 65,115 60,125 "
+             id="polygon6-3"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="62,110 75,102 85,112 80,122 65,120 "
-             id="polygon7-5" />
+             points="65,120 62,110 75,102 85,112 80,122 "
+             id="polygon7-5"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="82,108 95,100 108,108 102,120 88,118 "
-             id="polygon8-4" />
+             points="88,118 82,108 95,100 108,108 102,120 "
+             id="polygon8-4"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="105,105 120,98 130,105 125,118 110,115 "
-             id="polygon9-5" />
+             points="110,115 105,105 120,98 130,105 125,118 "
+             id="polygon9-5"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="128,102 142,95 150,108 145,118 132,112 "
-             id="polygon10-6" />
+             points="132,112 128,102 142,95 150,108 145,118 "
+             id="polygon10-6"
+             style="fill:#ffffff;fill-opacity:1" />
         </g>
         <g
            fill="#e4f6fa"
@@ -744,19 +757,19 @@
            stroke-linejoin="round"
            id="g15-9">
           <polygon
-             points="48,90 60,82 70,95 62,108 52,105 "
+             points="52,105 48,90 60,82 70,95 62,108 "
              id="polygon11-4" />
           <polygon
-             points="68,88 82,80 92,92 85,105 72,102 "
+             points="72,102 68,88 82,80 92,92 85,105 "
              id="polygon12-3" />
           <polygon
-             points="90,85 105,75 115,88 108,102 95,100 "
+             points="95,100 90,85 105,75 115,88 108,102 "
              id="polygon13-6" />
           <polygon
-             points="112,82 128,75 135,88 125,102 115,98 "
+             points="115,98 112,82 128,75 135,88 125,102 "
              id="polygon14-3" />
           <polygon
-             points="132,85 145,78 155,90 148,102 135,100 "
+             points="135,100 132,85 145,78 155,90 148,102 "
              id="polygon15-4" />
         </g>
         <g
@@ -766,33 +779,33 @@
            stroke-linejoin="round"
            id="g22-1-7">
           <polygon
-             points="65,72 78,65 85,78 75,88 68,85 "
+             points="68,85 65,72 78,65 85,78 75,88 "
              id="polygon16-4" />
           <polygon
-             points="82,68 98,58 108,70 100,85 85,82 "
+             points="85,82 82,68 98,58 108,70 100,85 "
              id="polygon17-0" />
           <polygon
-             points="105,65 120,55 130,68 122,82 108,80 "
+             points="108,80 105,65 120,55 130,68 122,82 "
              id="polygon18-7" />
           <polygon
-             points="125,70 138,62 145,75 135,85 128,82 "
+             points="128,82 125,70 138,62 145,75 135,85 "
              id="polygon19-5" />
           <!-- Top Peaks -->
           <polygon
-             points="75,55 88,48 95,60 85,70 78,68 "
+             points="78,68 75,55 88,48 95,60 85,70 "
              id="polygon20-0" />
           <polygon
-             points="92,50 105,42 115,55 108,68 95,65 "
+             points="95,65 92,50 105,42 115,55 108,68 "
              id="polygon21-2" />
           <polygon
-             points="110,52 125,45 132,58 122,70 112,68 "
+             points="112,68 110,52 125,45 132,58 122,70 "
              id="polygon22-5" />
         </g>
       </g>
       <g
          id="g53"
          style="display:inline"
-         transform="matrix(1.0805861,0.00215821,0.00159122,0.99947159,-12.95543,141.8275)">
+         transform="matrix(0.59194732,0.00118227,8.7167363e-4,0.54751262,62.720658,207.86267)">
         <path
            d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
            fill="#bfe6f0"
@@ -808,19 +821,19 @@
            stroke-linejoin="round"
            id="g35">
           <polygon
-             points="70,130 65,140 55,138 50,130 60,125 "
+             points="60,125 70,130 65,140 55,138 50,130 "
              id="polygon31" />
           <polygon
-             points="90,135 80,142 68,138 70,128 85,125 "
+             points="85,125 90,135 80,142 68,138 70,128 "
              id="polygon32" />
           <polygon
-             points="115,130 108,140 92,138 90,128 105,122 "
+             points="105,122 115,130 108,140 92,138 90,128 "
              id="polygon33" />
           <polygon
-             points="140,130 135,140 120,138 115,125 130,122 "
+             points="130,122 140,130 135,140 120,138 115,125 "
              id="polygon34" />
           <polygon
-             points="152,125 145,132 138,130 135,120 148,115 "
+             points="148,115 152,125 145,132 138,130 135,120 "
              id="polygon35" />
         </g>
         <g
@@ -828,22 +841,28 @@
            stroke="#211d1d"
            stroke-width="1.5"
            stroke-linejoin="round"
-           id="g40">
+           id="g40"
+           style="fill:#ffffff;fill-opacity:1">
           <polygon
-             points="65,115 60,125 48,122 45,110 58,105 "
-             id="polygon36" />
+             points="58,105 65,115 60,125 48,122 45,110 "
+             id="polygon36"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="85,112 80,122 65,120 62,110 75,102 "
-             id="polygon37" />
+             points="75,102 85,112 80,122 65,120 62,110 "
+             id="polygon37"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="108,108 102,120 88,118 82,108 95,100 "
-             id="polygon38" />
+             points="95,100 108,108 102,120 88,118 82,108 "
+             id="polygon38"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="130,105 125,118 110,115 105,105 120,98 "
-             id="polygon39" />
+             points="120,98 130,105 125,118 110,115 105,105 "
+             id="polygon39"
+             style="fill:#ffffff;fill-opacity:1" />
           <polygon
-             points="150,108 145,118 132,112 128,102 142,95 "
-             id="polygon40" />
+             points="142,95 150,108 145,118 132,112 128,102 "
+             id="polygon40"
+             style="fill:#ffffff;fill-opacity:1" />
         </g>
         <g
            fill="#e4f6fa"
@@ -852,19 +871,19 @@
            stroke-linejoin="round"
            id="g45">
           <polygon
-             points="70,95 62,108 52,105 48,90 60,82 "
+             points="60,82 70,95 62,108 52,105 48,90 "
              id="polygon41" />
           <polygon
-             points="92,92 85,105 72,102 68,88 82,80 "
+             points="82,80 92,92 85,105 72,102 68,88 "
              id="polygon42" />
           <polygon
-             points="115,88 108,102 95,100 90,85 105,75 "
+             points="105,75 115,88 108,102 95,100 90,85 "
              id="polygon43" />
           <polygon
-             points="135,88 125,102 115,98 112,82 128,75 "
+             points="128,75 135,88 125,102 115,98 112,82 "
              id="polygon44" />
           <polygon
-             points="155,90 148,102 135,100 132,85 145,78 "
+             points="145,78 155,90 148,102 135,100 132,85 "
              id="polygon45" />
         </g>
         <g
@@ -874,27 +893,1053 @@
            stroke-linejoin="round"
            id="g52">
           <polygon
-             points="85,78 75,88 68,85 65,72 78,65 "
+             points="78,65 85,78 75,88 68,85 65,72 "
              id="polygon46" />
           <polygon
-             points="108,70 100,85 85,82 82,68 98,58 "
+             points="98,58 108,70 100,85 85,82 82,68 "
              id="polygon47" />
           <polygon
-             points="130,68 122,82 108,80 105,65 120,55 "
+             points="120,55 130,68 122,82 108,80 105,65 "
              id="polygon48" />
           <polygon
-             points="145,75 135,85 128,82 125,70 138,62 "
+             points="138,62 145,75 135,85 128,82 125,70 "
              id="polygon49" />
           <!-- Top Peaks -->
           <polygon
-             points="95,60 85,70 78,68 75,55 88,48 "
+             points="88,48 95,60 85,70 78,68 75,55 "
              id="polygon50" />
           <polygon
-             points="115,55 108,68 95,65 92,50 105,42 "
+             points="105,42 115,55 108,68 95,65 92,50 "
              id="polygon51" />
           <polygon
-             points="132,58 122,70 112,68 110,52 125,45 "
+             points="125,45 132,58 122,70 112,68 110,52 "
              id="polygon52" />
+        </g>
+      </g>
+      <g
+         id="g31-0"
+         style="display:inline;opacity:0.8"
+         transform="matrix(0.54780208,0,0,0.54780208,17.96632,129.35933)">
+        <path
+           d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="path1-7-2"
+           style="display:none" />
+        <g
+           fill="#dcf1ef"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g5-5-4">
+          <polygon
+             points="70,130 65,140 55,138 50,130 60,125 "
+             id="polygon1-8" />
+          <polygon
+             points="90,135 80,142 68,138 70,128 85,125 "
+             id="polygon2-3" />
+          <polygon
+             points="115,130 108,140 92,138 90,128 105,122 "
+             id="polygon3-9" />
+          <polygon
+             points="140,130 135,140 120,138 115,125 130,122 "
+             id="polygon4-0" />
+          <polygon
+             points="152,125 145,132 138,130 135,120 148,115 "
+             id="polygon5-5" />
+        </g>
+        <g
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g10-2"
+           style="fill:#ffffff;fill-opacity:1">
+          <polygon
+             points="65,115 60,125 48,122 45,110 58,105 "
+             id="polygon6-2"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="85,112 80,122 65,120 62,110 75,102 "
+             id="polygon7-7"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="108,108 102,120 88,118 82,108 95,100 "
+             id="polygon8-3"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="130,105 125,118 110,115 105,105 120,98 "
+             id="polygon9-7"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="150,108 145,118 132,112 128,102 142,95 "
+             id="polygon10-9"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           fill="#e4f6fa"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g15-0">
+          <polygon
+             points="70,95 62,108 52,105 48,90 60,82 "
+             id="polygon11-2" />
+          <polygon
+             points="92,92 85,105 72,102 68,88 82,80 "
+             id="polygon12-39" />
+          <polygon
+             points="115,88 108,102 95,100 90,85 105,75 "
+             id="polygon13-9" />
+          <polygon
+             points="135,88 125,102 115,98 112,82 128,75 "
+             id="polygon14-7" />
+          <polygon
+             points="155,90 148,102 135,100 132,85 145,78 "
+             id="polygon15-0" />
+        </g>
+        <g
+           fill="#ffffff"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g22-1-3">
+          <polygon
+             points="85,78 75,88 68,85 65,72 78,65 "
+             id="polygon16-9" />
+          <polygon
+             points="108,70 100,85 85,82 82,68 98,58 "
+             id="polygon17-8" />
+          <polygon
+             points="130,68 122,82 108,80 105,65 120,55 "
+             id="polygon18-6" />
+          <polygon
+             points="145,75 135,85 128,82 125,70 138,62 "
+             id="polygon19-57" />
+          <!-- Top Peaks -->
+          <polygon
+             points="95,60 85,70 78,68 75,55 88,48 "
+             id="polygon20-6" />
+          <polygon
+             points="115,55 108,68 95,65 92,50 105,42 "
+             id="polygon21-27" />
+          <polygon
+             points="132,58 122,70 112,68 110,52 125,45 "
+             id="polygon22-0" />
+        </g>
+      </g>
+      <g
+         id="g31-5-3"
+         style="display:inline;opacity:0.8"
+         transform="matrix(0.59194732,0.00118227,8.7167363e-4,0.54751262,11.556946,171.98124)">
+        <path
+           d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="path1-7-9-9"
+           style="display:none" />
+        <g
+           fill="#dcf1ef"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g5-5-5-9">
+          <polygon
+             points="60,125 70,130 65,140 55,138 50,130 "
+             id="polygon1-7-9" />
+          <polygon
+             points="85,125 90,135 80,142 68,138 70,128 "
+             id="polygon2-7-1" />
+          <polygon
+             points="105,122 115,130 108,140 92,138 90,128 "
+             id="polygon3-3-7" />
+          <polygon
+             points="130,122 140,130 135,140 120,138 115,125 "
+             id="polygon4-7-2" />
+          <polygon
+             points="148,115 152,125 145,132 138,130 135,120 "
+             id="polygon5-6-3" />
+        </g>
+        <g
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g10-4-6"
+           style="fill:#ffffff;fill-opacity:1">
+          <polygon
+             points="58,105 65,115 60,125 48,122 45,110 "
+             id="polygon6-3-5"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="75,102 85,112 80,122 65,120 62,110 "
+             id="polygon7-5-5"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="95,100 108,108 102,120 88,118 82,108 "
+             id="polygon8-4-8"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="120,98 130,105 125,118 110,115 105,105 "
+             id="polygon9-5-1"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="142,95 150,108 145,118 132,112 128,102 "
+             id="polygon10-6-4"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           fill="#e4f6fa"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g15-9-7">
+          <polygon
+             points="60,82 70,95 62,108 52,105 48,90 "
+             id="polygon11-4-1" />
+          <polygon
+             points="82,80 92,92 85,105 72,102 68,88 "
+             id="polygon12-3-3" />
+          <polygon
+             points="105,75 115,88 108,102 95,100 90,85 "
+             id="polygon13-6-8" />
+          <polygon
+             points="128,75 135,88 125,102 115,98 112,82 "
+             id="polygon14-3-4" />
+          <polygon
+             points="145,78 155,90 148,102 135,100 132,85 "
+             id="polygon15-4-8" />
+        </g>
+        <g
+           fill="#ffffff"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g22-1-7-0">
+          <polygon
+             points="78,65 85,78 75,88 68,85 65,72 "
+             id="polygon16-4-4" />
+          <polygon
+             points="98,58 108,70 100,85 85,82 82,68 "
+             id="polygon17-0-6" />
+          <polygon
+             points="120,55 130,68 122,82 108,80 105,65 "
+             id="polygon18-7-0" />
+          <polygon
+             points="138,62 145,75 135,85 128,82 125,70 "
+             id="polygon19-5-3" />
+          <!-- Top Peaks -->
+          <polygon
+             points="88,48 95,60 85,70 78,68 75,55 "
+             id="polygon20-0-2" />
+          <polygon
+             points="105,42 115,55 108,68 95,65 92,50 "
+             id="polygon21-2-6" />
+          <polygon
+             points="125,45 132,58 122,70 112,68 110,52 "
+             id="polygon22-5-9" />
+        </g>
+      </g>
+      <g
+         id="g53-4"
+         style="display:inline;opacity:0.8"
+         transform="matrix(0.59194732,0.00118227,8.7167363e-4,0.54751262,10.869312,207.05273)">
+        <path
+           d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="path31-13"
+           style="display:none" />
+        <g
+           fill="#dcf1ef"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g35-7">
+          <polygon
+             points="65,140 55,138 50,130 60,125 70,130 "
+             id="polygon31-8" />
+          <polygon
+             points="80,142 68,138 70,128 85,125 90,135 "
+             id="polygon32-8" />
+          <polygon
+             points="108,140 92,138 90,128 105,122 115,130 "
+             id="polygon33-3" />
+          <polygon
+             points="135,140 120,138 115,125 130,122 140,130 "
+             id="polygon34-8" />
+          <polygon
+             points="145,132 138,130 135,120 148,115 152,125 "
+             id="polygon35-1" />
+        </g>
+        <g
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g40-5"
+           style="fill:#ffffff;fill-opacity:1">
+          <polygon
+             points="60,125 48,122 45,110 58,105 65,115 "
+             id="polygon36-3"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="80,122 65,120 62,110 75,102 85,112 "
+             id="polygon37-5"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="102,120 88,118 82,108 95,100 108,108 "
+             id="polygon38-4"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="125,118 110,115 105,105 120,98 130,105 "
+             id="polygon39-3"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="145,118 132,112 128,102 142,95 150,108 "
+             id="polygon40-6"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           fill="#e4f6fa"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g45-5">
+          <polygon
+             points="62,108 52,105 48,90 60,82 70,95 "
+             id="polygon41-9" />
+          <polygon
+             points="85,105 72,102 68,88 82,80 92,92 "
+             id="polygon42-5" />
+          <polygon
+             points="108,102 95,100 90,85 105,75 115,88 "
+             id="polygon43-4" />
+          <polygon
+             points="125,102 115,98 112,82 128,75 135,88 "
+             id="polygon44-9" />
+          <polygon
+             points="148,102 135,100 132,85 145,78 155,90 "
+             id="polygon45-1" />
+        </g>
+        <g
+           fill="#ffffff"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g52-7">
+          <polygon
+             points="75,88 68,85 65,72 78,65 85,78 "
+             id="polygon46-5" />
+          <polygon
+             points="100,85 85,82 82,68 98,58 108,70 "
+             id="polygon47-5" />
+          <polygon
+             points="122,82 108,80 105,65 120,55 130,68 "
+             id="polygon48-4" />
+          <polygon
+             points="135,85 128,82 125,70 138,62 145,75 "
+             id="polygon49-1" />
+          <!-- Top Peaks -->
+          <polygon
+             points="85,70 78,68 75,55 88,48 95,60 "
+             id="polygon50-8" />
+          <polygon
+             points="108,68 95,65 92,50 105,42 115,55 "
+             id="polygon51-8" />
+          <polygon
+             points="122,70 112,68 110,52 125,45 132,58 "
+             id="polygon52-3" />
+        </g>
+      </g>
+      <g
+         id="g31-6"
+         transform="matrix(0.54780208,0,0,0.54780208,67.045028,244.31271)"
+         style="display:inline;opacity:0.8">
+        <path
+           d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="path1-7-7"
+           style="display:none" />
+        <g
+           fill="#dcf1ef"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g5-5-8">
+          <polygon
+             points="70,130 65,140 55,138 50,130 60,125 "
+             id="polygon1-4" />
+          <polygon
+             points="90,135 80,142 68,138 70,128 85,125 "
+             id="polygon2-1" />
+          <polygon
+             points="115,130 108,140 92,138 90,128 105,122 "
+             id="polygon3-7" />
+          <polygon
+             points="140,130 135,140 120,138 115,125 130,122 "
+             id="polygon4-1" />
+          <polygon
+             points="152,125 145,132 138,130 135,120 148,115 "
+             id="polygon5-8" />
+        </g>
+        <g
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g10-7"
+           style="fill:#ffffff;fill-opacity:1">
+          <polygon
+             points="65,115 60,125 48,122 45,110 58,105 "
+             id="polygon6-8"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="85,112 80,122 65,120 62,110 75,102 "
+             id="polygon7-77"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="108,108 102,120 88,118 82,108 95,100 "
+             id="polygon8-44"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="130,105 125,118 110,115 105,105 120,98 "
+             id="polygon9-9"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="150,108 145,118 132,112 128,102 142,95 "
+             id="polygon10-1"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           fill="#e4f6fa"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g15-5">
+          <polygon
+             points="70,95 62,108 52,105 48,90 60,82 "
+             id="polygon11-5" />
+          <polygon
+             points="92,92 85,105 72,102 68,88 82,80 "
+             id="polygon12-5" />
+          <polygon
+             points="115,88 108,102 95,100 90,85 105,75 "
+             id="polygon13-8" />
+          <polygon
+             points="135,88 125,102 115,98 112,82 128,75 "
+             id="polygon14-2" />
+          <polygon
+             points="155,90 148,102 135,100 132,85 145,78 "
+             id="polygon15-9" />
+        </g>
+        <g
+           fill="#ffffff"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g22-1-8">
+          <polygon
+             points="85,78 75,88 68,85 65,72 78,65 "
+             id="polygon16-2" />
+          <polygon
+             points="108,70 100,85 85,82 82,68 98,58 "
+             id="polygon17-07" />
+          <polygon
+             points="130,68 122,82 108,80 105,65 120,55 "
+             id="polygon18-4" />
+          <polygon
+             points="145,75 135,85 128,82 125,70 138,62 "
+             id="polygon19-8" />
+          <!-- Top Peaks -->
+          <polygon
+             points="95,60 85,70 78,68 75,55 88,48 "
+             id="polygon20-5" />
+          <polygon
+             points="115,55 108,68 95,65 92,50 105,42 "
+             id="polygon21-8" />
+          <polygon
+             points="132,58 122,70 112,68 110,52 125,45 "
+             id="polygon22-3" />
+        </g>
+      </g>
+      <g
+         id="g31-5-0"
+         style="display:inline;opacity:0.8"
+         transform="matrix(0.59194732,0.00118227,8.7167363e-4,0.54751262,60.635655,286.93462)">
+        <path
+           d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="path1-7-9-6"
+           style="display:none" />
+        <g
+           fill="#dcf1ef"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g5-5-5-2">
+          <polygon
+             points="60,125 70,130 65,140 55,138 50,130 "
+             id="polygon1-7-2" />
+          <polygon
+             points="85,125 90,135 80,142 68,138 70,128 "
+             id="polygon2-7-5" />
+          <polygon
+             points="105,122 115,130 108,140 92,138 90,128 "
+             id="polygon3-3-2" />
+          <polygon
+             points="130,122 140,130 135,140 120,138 115,125 "
+             id="polygon4-7-27" />
+          <polygon
+             points="148,115 152,125 145,132 138,130 135,120 "
+             id="polygon5-6-1" />
+        </g>
+        <g
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g10-4-5"
+           style="fill:#ffffff;fill-opacity:1">
+          <polygon
+             points="58,105 65,115 60,125 48,122 45,110 "
+             id="polygon6-3-2"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="75,102 85,112 80,122 65,120 62,110 "
+             id="polygon7-5-1"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="95,100 108,108 102,120 88,118 82,108 "
+             id="polygon8-4-1"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="120,98 130,105 125,118 110,115 105,105 "
+             id="polygon9-5-0"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="142,95 150,108 145,118 132,112 128,102 "
+             id="polygon10-6-1"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           fill="#e4f6fa"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g15-9-8">
+          <polygon
+             points="60,82 70,95 62,108 52,105 48,90 "
+             id="polygon11-4-7" />
+          <polygon
+             points="82,80 92,92 85,105 72,102 68,88 "
+             id="polygon12-3-6" />
+          <polygon
+             points="105,75 115,88 108,102 95,100 90,85 "
+             id="polygon13-6-0" />
+          <polygon
+             points="128,75 135,88 125,102 115,98 112,82 "
+             id="polygon14-3-0" />
+          <polygon
+             points="145,78 155,90 148,102 135,100 132,85 "
+             id="polygon15-4-9" />
+        </g>
+        <g
+           fill="#ffffff"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g22-1-7-5">
+          <polygon
+             points="78,65 85,78 75,88 68,85 65,72 "
+             id="polygon16-4-6" />
+          <polygon
+             points="98,58 108,70 100,85 85,82 82,68 "
+             id="polygon17-0-2" />
+          <polygon
+             points="120,55 130,68 122,82 108,80 105,65 "
+             id="polygon18-7-8" />
+          <polygon
+             points="138,62 145,75 135,85 128,82 125,70 "
+             id="polygon19-5-5" />
+          <!-- Top Peaks -->
+          <polygon
+             points="88,48 95,60 85,70 78,68 75,55 "
+             id="polygon20-0-9" />
+          <polygon
+             points="105,42 115,55 108,68 95,65 92,50 "
+             id="polygon21-2-4" />
+          <polygon
+             points="125,45 132,58 122,70 112,68 110,52 "
+             id="polygon22-5-3" />
+        </g>
+      </g>
+      <g
+         id="g53-9"
+         style="display:inline;opacity:0.8"
+         transform="matrix(0.59194732,0.00118227,8.7167363e-4,0.54751262,59.948017,322.00611)">
+        <path
+           d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="path31-0"
+           style="display:none" />
+        <g
+           fill="#dcf1ef"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g35-56">
+          <polygon
+             points="65,140 55,138 50,130 60,125 70,130 "
+             id="polygon31-3" />
+          <polygon
+             points="80,142 68,138 70,128 85,125 90,135 "
+             id="polygon32-6" />
+          <polygon
+             points="108,140 92,138 90,128 105,122 115,130 "
+             id="polygon33-30" />
+          <polygon
+             points="135,140 120,138 115,125 130,122 140,130 "
+             id="polygon34-84" />
+          <polygon
+             points="145,132 138,130 135,120 148,115 152,125 "
+             id="polygon35-0" />
+        </g>
+        <g
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g40-4"
+           style="fill:#ffffff;fill-opacity:1">
+          <polygon
+             points="60,125 48,122 45,110 58,105 65,115 "
+             id="polygon36-6"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="80,122 65,120 62,110 75,102 85,112 "
+             id="polygon37-4"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="102,120 88,118 82,108 95,100 108,108 "
+             id="polygon38-6"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="125,118 110,115 105,105 120,98 130,105 "
+             id="polygon39-4"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="145,118 132,112 128,102 142,95 150,108 "
+             id="polygon40-3"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           fill="#e4f6fa"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g45-8">
+          <polygon
+             points="62,108 52,105 48,90 60,82 70,95 "
+             id="polygon41-4" />
+          <polygon
+             points="85,105 72,102 68,88 82,80 92,92 "
+             id="polygon42-0" />
+          <polygon
+             points="108,102 95,100 90,85 105,75 115,88 "
+             id="polygon43-0" />
+          <polygon
+             points="125,102 115,98 112,82 128,75 135,88 "
+             id="polygon44-93" />
+          <polygon
+             points="148,102 135,100 132,85 145,78 155,90 "
+             id="polygon45-7" />
+        </g>
+        <g
+           fill="#ffffff"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g52-5">
+          <polygon
+             points="75,88 68,85 65,72 78,65 85,78 "
+             id="polygon46-7" />
+          <polygon
+             points="100,85 85,82 82,68 98,58 108,70 "
+             id="polygon47-2" />
+          <polygon
+             points="122,82 108,80 105,65 120,55 130,68 "
+             id="polygon48-9" />
+          <polygon
+             points="135,85 128,82 125,70 138,62 145,75 "
+             id="polygon49-7" />
+          <!-- Top Peaks -->
+          <polygon
+             points="85,70 78,68 75,55 88,48 95,60 "
+             id="polygon50-5" />
+          <polygon
+             points="108,68 95,65 92,50 105,42 115,55 "
+             id="polygon51-6" />
+          <polygon
+             points="122,70 112,68 110,52 125,45 132,58 "
+             id="polygon52-5" />
+        </g>
+      </g>
+      <g
+         id="g31-0-3"
+         style="display:inline;opacity:0.8"
+         transform="matrix(0.54780208,0,0,0.54780208,15.193679,243.50277)">
+        <path
+           d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="path1-7-2-0"
+           style="display:none" />
+        <g
+           fill="#dcf1ef"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g5-5-4-4">
+          <polygon
+             points="55,138 50,130 60,125 70,130 65,140 "
+             id="polygon1-8-8" />
+          <polygon
+             points="68,138 70,128 85,125 90,135 80,142 "
+             id="polygon2-3-5" />
+          <polygon
+             points="92,138 90,128 105,122 115,130 108,140 "
+             id="polygon3-9-5" />
+          <polygon
+             points="120,138 115,125 130,122 140,130 135,140 "
+             id="polygon4-0-5" />
+          <polygon
+             points="138,130 135,120 148,115 152,125 145,132 "
+             id="polygon5-5-4" />
+        </g>
+        <g
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g10-2-2"
+           style="fill:#ffffff;fill-opacity:1">
+          <polygon
+             points="48,122 45,110 58,105 65,115 60,125 "
+             id="polygon6-2-1"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="65,120 62,110 75,102 85,112 80,122 "
+             id="polygon7-7-9"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="88,118 82,108 95,100 108,108 102,120 "
+             id="polygon8-3-2"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="110,115 105,105 120,98 130,105 125,118 "
+             id="polygon9-7-4"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="132,112 128,102 142,95 150,108 145,118 "
+             id="polygon10-9-5"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           fill="#e4f6fa"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g15-0-8">
+          <polygon
+             points="52,105 48,90 60,82 70,95 62,108 "
+             id="polygon11-2-6" />
+          <polygon
+             points="72,102 68,88 82,80 92,92 85,105 "
+             id="polygon12-39-2" />
+          <polygon
+             points="95,100 90,85 105,75 115,88 108,102 "
+             id="polygon13-9-5" />
+          <polygon
+             points="115,98 112,82 128,75 135,88 125,102 "
+             id="polygon14-7-1" />
+          <polygon
+             points="135,100 132,85 145,78 155,90 148,102 "
+             id="polygon15-0-3" />
+        </g>
+        <g
+           fill="#ffffff"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g22-1-3-9">
+          <polygon
+             points="68,85 65,72 78,65 85,78 75,88 "
+             id="polygon16-9-7" />
+          <polygon
+             points="85,82 82,68 98,58 108,70 100,85 "
+             id="polygon17-8-3" />
+          <polygon
+             points="108,80 105,65 120,55 130,68 122,82 "
+             id="polygon18-6-7" />
+          <polygon
+             points="128,82 125,70 138,62 145,75 135,85 "
+             id="polygon19-57-5" />
+          <!-- Top Peaks -->
+          <polygon
+             points="78,68 75,55 88,48 95,60 85,70 "
+             id="polygon20-6-0" />
+          <polygon
+             points="95,65 92,50 105,42 115,55 108,68 "
+             id="polygon21-27-2" />
+          <polygon
+             points="112,68 110,52 125,45 132,58 122,70 "
+             id="polygon22-0-1" />
+        </g>
+      </g>
+      <g
+         id="g31-5-3-8"
+         style="display:inline;opacity:0.8"
+         transform="matrix(0.59194732,0.00118227,8.7167363e-4,0.54751262,8.7843051,286.12468)">
+        <path
+           d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="path1-7-9-9-7"
+           style="display:none" />
+        <g
+           fill="#dcf1ef"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g5-5-5-9-1">
+          <polygon
+             points="65,140 55,138 50,130 60,125 70,130 "
+             id="polygon1-7-9-5" />
+          <polygon
+             points="80,142 68,138 70,128 85,125 90,135 "
+             id="polygon2-7-1-5" />
+          <polygon
+             points="108,140 92,138 90,128 105,122 115,130 "
+             id="polygon3-3-7-8" />
+          <polygon
+             points="135,140 120,138 115,125 130,122 140,130 "
+             id="polygon4-7-2-5" />
+          <polygon
+             points="145,132 138,130 135,120 148,115 152,125 "
+             id="polygon5-6-3-6" />
+        </g>
+        <g
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g10-4-6-7"
+           style="fill:#ffffff;fill-opacity:1">
+          <polygon
+             points="60,125 48,122 45,110 58,105 65,115 "
+             id="polygon6-3-5-9"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="80,122 65,120 62,110 75,102 85,112 "
+             id="polygon7-5-5-4"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="102,120 88,118 82,108 95,100 108,108 "
+             id="polygon8-4-8-1"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="125,118 110,115 105,105 120,98 130,105 "
+             id="polygon9-5-1-6"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="145,118 132,112 128,102 142,95 150,108 "
+             id="polygon10-6-4-1"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           fill="#e4f6fa"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g15-9-7-2">
+          <polygon
+             points="62,108 52,105 48,90 60,82 70,95 "
+             id="polygon11-4-1-0" />
+          <polygon
+             points="85,105 72,102 68,88 82,80 92,92 "
+             id="polygon12-3-3-4" />
+          <polygon
+             points="108,102 95,100 90,85 105,75 115,88 "
+             id="polygon13-6-8-4" />
+          <polygon
+             points="125,102 115,98 112,82 128,75 135,88 "
+             id="polygon14-3-4-5" />
+          <polygon
+             points="148,102 135,100 132,85 145,78 155,90 "
+             id="polygon15-4-8-9" />
+        </g>
+        <g
+           fill="#ffffff"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g22-1-7-0-7">
+          <polygon
+             points="75,88 68,85 65,72 78,65 85,78 "
+             id="polygon16-4-4-5" />
+          <polygon
+             points="100,85 85,82 82,68 98,58 108,70 "
+             id="polygon17-0-6-3" />
+          <polygon
+             points="122,82 108,80 105,65 120,55 130,68 "
+             id="polygon18-7-0-9" />
+          <polygon
+             points="135,85 128,82 125,70 138,62 145,75 "
+             id="polygon19-5-3-0" />
+          <!-- Top Peaks -->
+          <polygon
+             points="85,70 78,68 75,55 88,48 95,60 "
+             id="polygon20-0-2-5" />
+          <polygon
+             points="108,68 95,65 92,50 105,42 115,55 "
+             id="polygon21-2-6-5" />
+          <polygon
+             points="122,70 112,68 110,52 125,45 132,58 "
+             id="polygon22-5-9-6" />
+        </g>
+      </g>
+      <g
+         id="g53-4-3"
+         style="display:inline;opacity:0.8"
+         transform="matrix(0.59194732,0.00118227,8.7167363e-4,0.54751262,8.0966711,321.19617)">
+        <path
+           d="m 46,105 q -6,-30 34,-60 35,-5 60,15 15,25 10,55 -20,30 -55,27 -40,-7 -49,-37 z"
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="path31-13-2"
+           style="display:none" />
+        <g
+           fill="#dcf1ef"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g35-7-6">
+          <polygon
+             points="50,130 60,125 70,130 65,140 55,138 "
+             id="polygon31-8-8" />
+          <polygon
+             points="70,128 85,125 90,135 80,142 68,138 "
+             id="polygon32-8-9" />
+          <polygon
+             points="90,128 105,122 115,130 108,140 92,138 "
+             id="polygon33-3-1" />
+          <polygon
+             points="115,125 130,122 140,130 135,140 120,138 "
+             id="polygon34-8-4" />
+          <polygon
+             points="135,120 148,115 152,125 145,132 138,130 "
+             id="polygon35-1-8" />
+        </g>
+        <g
+           fill="#bfe6f0"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g40-5-8"
+           style="fill:#ffffff;fill-opacity:1">
+          <polygon
+             points="45,110 58,105 65,115 60,125 48,122 "
+             id="polygon36-3-7"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="62,110 75,102 85,112 80,122 65,120 "
+             id="polygon37-5-1"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="82,108 95,100 108,108 102,120 88,118 "
+             id="polygon38-4-9"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="105,105 120,98 130,105 125,118 110,115 "
+             id="polygon39-3-3"
+             style="fill:#ffffff;fill-opacity:1" />
+          <polygon
+             points="128,102 142,95 150,108 145,118 132,112 "
+             id="polygon40-6-1"
+             style="fill:#ffffff;fill-opacity:1" />
+        </g>
+        <g
+           fill="#e4f6fa"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g45-5-1">
+          <polygon
+             points="48,90 60,82 70,95 62,108 52,105 "
+             id="polygon41-9-4" />
+          <polygon
+             points="68,88 82,80 92,92 85,105 72,102 "
+             id="polygon42-5-9" />
+          <polygon
+             points="90,85 105,75 115,88 108,102 95,100 "
+             id="polygon43-4-5" />
+          <polygon
+             points="112,82 128,75 135,88 125,102 115,98 "
+             id="polygon44-9-9" />
+          <polygon
+             points="132,85 145,78 155,90 148,102 135,100 "
+             id="polygon45-1-0" />
+        </g>
+        <g
+           fill="#ffffff"
+           stroke="#211d1d"
+           stroke-width="1.5"
+           stroke-linejoin="round"
+           id="g52-7-9">
+          <polygon
+             points="65,72 78,65 85,78 75,88 68,85 "
+             id="polygon46-5-3" />
+          <polygon
+             points="82,68 98,58 108,70 100,85 85,82 "
+             id="polygon47-5-4" />
+          <polygon
+             points="105,65 120,55 130,68 122,82 108,80 "
+             id="polygon48-4-0" />
+          <polygon
+             points="125,70 138,62 145,75 135,85 128,82 "
+             id="polygon49-1-7" />
+          <!-- Top Peaks -->
+          <polygon
+             points="75,55 88,48 95,60 85,70 78,68 "
+             id="polygon50-8-5" />
+          <polygon
+             points="92,50 105,42 115,55 108,68 95,65 "
+             id="polygon51-8-7" />
+          <polygon
+             points="110,52 125,45 132,58 122,70 112,68 "
+             id="polygon52-3-5" />
         </g>
       </g>
     </g>
@@ -1269,7 +2314,7 @@
       </g>
     </g>
     <path
-       d="m 33060.668,33430.924 -19.64,297.317 c 0,0 -124.628,-229.244 -773.142,-282.831 -690.093,-57.022 -958.019,318.165 -958.019,318.165 l 16.456,-1435.363 1.075,-6.122 35.662,-2100.532 c 0,-134.684 38.148,-239.782 65.144,-335.366 34.358,-145.128 118.077,-218.486 186.9,-278.949 55.865,-48.789 143.127,-51.252 211.501,-84.821 60.171,-29.5 94.153,-6.769 161.721,-22.091 62.457,-13.762 127.783,-19.392 194.723,-19.392 66.895,0 146.773,-13.859 209.184,0.32 67.568,14.906 132.894,23.558 193.243,52.956 68.195,33.253 147.759,43.729 203.445,92.514 69.003,60.463 113.628,178.285 137.823,287.872 21.981,116.308 98.415,233.201 98.415,367.886 0,4.483 -86.01,-351.529 -0.314,13.134 0.135,6.36 -40.968,-250.129 -40.968,-250.129 -3.363,139.272 70.766,1299.612 66.579,1854.955 8.43,453.363 -4,985.374 10.213,1530.477"
+       d="m 33074.253,33322.242 -19.64,297.317 c 0,0 -124.628,-229.244 -773.142,-282.831 -690.093,-57.022 -958.019,318.165 -958.019,318.165 l 16.456,-1435.363 1.075,-6.122 35.662,-2100.532 c 0,-134.684 38.148,-239.782 65.144,-335.366 34.358,-145.128 118.077,-218.486 186.9,-278.949 55.865,-48.789 143.127,-51.252 211.501,-84.821 60.171,-29.5 94.153,-6.769 161.721,-22.091 62.457,-13.762 127.783,-19.392 194.723,-19.392 66.895,0 146.773,-13.859 209.184,0.32 67.568,14.906 132.894,23.558 193.243,52.956 68.195,33.253 147.759,43.729 203.445,92.514 69.003,60.463 113.628,178.285 137.823,287.872 21.981,116.308 98.415,233.201 98.415,367.886 0,4.483 -86.01,-351.529 -0.314,13.134 0.135,6.36 -40.968,-250.129 -40.968,-250.129 -3.363,139.272 70.766,1299.612 66.579,1854.955 8.43,453.363 -4,985.374 10.213,1530.477"
        style="display:inline;opacity:0.85;fill:#f6e88e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.683663"
        id="liquid-fill" />
     <g
@@ -1414,7 +2459,7 @@
        id="liquid-foam2" />
     <g
        id="bubbles"
-       style="display:inline;opacity:0.8">
+       style="display:none;opacity:0.8">
       <path
          d="m 32231.2,33303.9 c -2.3,38.9 51.7,42.4 54,3.4 2.3,-38.9 -51.7,-42.4 -54,-3.4"
          style="display:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"

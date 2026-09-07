@@ -99,6 +99,7 @@ my %garnishes = (
     
     'clove studded orange peel' => 'garnish-orange_peel_cloves',
     'orange peel'              => 'garnish-orange_peel',
+    'orange rind'              => 'garnish-orange_peel',
     'orange twist'             => 'twist_orange',
     'orange slice'             => 'garnish-orange_slice',
     'orange wheel'             => 'garnish-orange_wheel',
@@ -272,7 +273,21 @@ while (my $file = readdir DIR) {
     my $full_body_text = join("", @body_lines);
     
     # NEW: Isolate only the lines discussing garnishes to prevent ingredient false-positives
-    my $garnish_text = join(" ", grep { /garnish/i } @body_lines);
+    # NEW: Isolate garnish lines and their indented sub-bullets to prevent false-positives
+    my @garnish_lines;
+    my $in_garnish_block = 0;
+    foreach my $line (@body_lines) {
+        if ($line =~ /garnish/i) {
+            $in_garnish_block = 1;
+            push @garnish_lines, $line;
+        } elsif ($in_garnish_block && $line =~ /^\s+-/) {
+            # Keep capturing lines if they are indented sub-bullets
+            push @garnish_lines, $line;
+        } else {
+            $in_garnish_block = 0;
+        }
+    }
+    my $garnish_text = join(" ", @garnish_lines);
 
     # Automatically extract component matches from the full body text (including notes)
     my @found_glasses   = find_matches($full_body_text, \%glassware);
