@@ -719,7 +719,8 @@ $rating_json
                 system("$im_cmd -density 300 \"$svg_out_path\" -trim +repage -resize x550 -background white -gravity center -extent 1200x630 \"$landscape_out\"");
                 
                 # Pinterest Vertical (1000x1500)
-                system("$im_cmd -density 300 \"$svg_out_path\" -trim +repage -resize x950 -background white -gravity center -extent 1000x1500 -font \"$font_path\" -fill \"#231f20\" -pointsize 70 -gravity north -annotate +0+130 \"$display_title\" \"$pinterest_out\"");
+                # FIX: Adjusted pointsize to 17 to replicate the visual size of a 70pt font at 72 DPI
+                system("$im_cmd -density 300 \"$svg_out_path\" -trim +repage -resize x950 -background white -gravity center -extent 1000x1500 -font \"$font_path\" -fill \"#231f20\" -pointsize 17 -gravity north -annotate +0+130 \"$display_title\" \"$pinterest_out\"");
 
                 print "Generated Social PNGs for $slug\n";
             }
