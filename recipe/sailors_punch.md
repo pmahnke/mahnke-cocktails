@@ -22,7 +22,7 @@ date: 2025-08-11
 | -------: | --------------------------------------------------------- | ----------------------- |
 |    50 oz | Bourbon                                                   | Old Grand-Dad 100 Proof |
 |    12 oz | Fresh Apple Cider                                         |
-|     6 oz | [Spiced Tea]({%link recipe/spiced_tea.md%})               |
+|     6 oz | [Spiced Syrup]({%link recipe/spiced_syrup.md%})               |
 | 20 whole | Dry Bay Leaves                                            |
 |    10 oz | Fresh Lime Juice                                          |
 | 8 1/2 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
@@ -32,7 +32,7 @@ date: 2025-08-11
 - Method: Build in Punch Bowl
 - Pour: Add all ingredients directly to the punch bowl
 - Glassware: Punch Cups
-- Garnish: Garnish with slices of apple, lemon, and lime.
+- Garnish: Slices of apple, lemon, and lime.
 - Special Prep:
   1. To make the spiced syrup, combine water, cinnamon sticks, cloves, and allspice.
   1. Bring to a boil, then let rest until cool.

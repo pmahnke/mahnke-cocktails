@@ -1,12 +1,14 @@
 ---
 layout: recipe
-title: "Spiced Tea"
+title: "Spiced Syrup"
 categories: [syrup]
-permalink: "/recipe/spiced_tea/"
-iconfile: spiced_tea
+permalink: "/recipe/spiced_syrup/"
+iconfile: spiced_syrup
 stars: 5
-youtube: ""
+youtube: https://www.drinkhacker.com/2012/12/21/recipe-sailors-punch/
+description: A very strong Spiced Syrup for a Sailor’s Punch.
 excerpt: |
+    A very strong Spiced Syrup for the [Sailor’s Punch recipe](/recipe/sailors_punch/).
 date: 2025-07-07
 ---
 
