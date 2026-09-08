@@ -29,7 +29,7 @@ date: 2025-11-26
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware:
-  - Low Ball
+  - Small Low Ball
   - Large Ice Cube
 - Garnish: None
 - Special Prep: Expressed orange oil

@@ -27,7 +27,7 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Low Ball
+- Glassware: Small Low Ball
 - Garnish: Mint leaf
 - Ice: Ice cubes
 - Special Prep: 

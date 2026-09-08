@@ -6,7 +6,7 @@ categories: [cocktail]
 eras: [modern]
 permalink: "/recipe/rusty_nail/"
 iconfile: rusty_nail
-color: C58B4F
+color: #D69D3A
 stars: 2
 base_spirits: "Blended Scotch, Drambuie"
 youtube: "nTyrz70_OPA"

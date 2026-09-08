@@ -32,7 +32,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
-  - Low Ball
+  - Small Low Ball
   - Large Ice Cube
 - Garnish: Grape
 - Special Prep: Muddle the grapes in the cheater tin. Put the other ingredients in the large tin, add ice, and shake.

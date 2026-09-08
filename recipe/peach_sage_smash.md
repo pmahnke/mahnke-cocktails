@@ -35,8 +35,10 @@ date: 2025-08-11
   - Large Ice Cube
 - Garnish: Peach slices & sage leaves
 - Special Prep:
-  1. Cut the half lemon into 8 wedges
-  1. Remove the center pith and de-seed
-  1. Place the lemon pieces, the peach and agave nectar into the cheater tin and muddle
-  1. Put the other ingredients in the large tin, add ice, and shake.
-  1. Double strain the cocktail over a large ice cube in a low ball glass
+  - Cut the half lemon into 8 wedges
+  - Remove the center pith and de-seed
+  - Place the lemon pieces, the peach and agave nectar into the cheater tin and muddle
+  - Put the other ingredients in the large tin, add ice, and shake.
+  - Double strain the cocktail over a large ice cube in a low ball glass
+
+  

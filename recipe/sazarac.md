@@ -32,6 +32,6 @@ date: 2025-08-11
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Low Ball
+- Glassware: Small Low Ball
 - Garnish: Lemon twist
 - Special Prep: Rinse the glass with absinthe. Strain in cocktail. Express lemon oil on the drink.

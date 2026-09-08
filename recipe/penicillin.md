@@ -6,7 +6,7 @@ categories: [sour]
 eras: [modern]
 permalink: "/recipe/penicillin/"
 iconfile: penicillin
-color: #97897B
+color: #D9D6A7
 stars: 0
 base_spirits: "Blended Scotch, Single Malt Scotch "
 youtube: "G51IC-s_ECI"
@@ -31,7 +31,7 @@ date: 2025-12-09
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
-  - Low Ball
+  - Small Low Ball
   - Large Ice cube
 - Garnish: Candied Ginger
 - Special Prep: Muddle the ginger slices in the shaker tin until mushy. Then add the other ingredients, ice and shake.

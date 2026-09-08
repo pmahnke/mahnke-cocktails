@@ -8,6 +8,7 @@ eras: [modern]
 permalink: "/recipe/absinthe_old_fashioned/"
 iconfile: absinthe_old_fashioned
 color: #a26f36
+foam: #A54342
 stars: 0
 base_spirits: "Absinthe, Elderflower Liqueur"
 youtube: "0rnil0_xFnM"
@@ -30,6 +31,6 @@ date: 2026-04-24
 
 - Method: Stirred
 - Pour: Julep Strain
-- Glassware: Low Ball
+- Glassware: Footed Rocks Glass
 - Garnish: None
 - Special Prep: Float the Peychaud's on the top of the cocktail.

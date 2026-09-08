@@ -34,7 +34,7 @@ date: 2025-08-11
 - Method: Shaken
 - Pour: Double Strain
 - Glassware:
-  - Low Ball
+  - Small Low Ball
   - On the Rocks
 - Garnish: Cocktail Cherry
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.
