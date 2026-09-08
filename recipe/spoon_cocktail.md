@@ -31,7 +31,7 @@ date: 2026-03-24
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
 - Glassware:
-  - Low Ball
+  - Small Low Ball
   - Large Ice Cube
 - Garnish: Serve with a small spoon (optional), lemon peel
 - Special Prep: 

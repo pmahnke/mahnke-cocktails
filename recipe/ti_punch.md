@@ -28,6 +28,6 @@ date: 2026-06-26
 
 - Method: Build in the Glass/Blended
 - Pour: Add all ingredients directly to the glass
-- Glassware: Low Ball
+- Glassware: Small Low Ball
 - Garnish: Lime wheel
 - Special Prep: Swizzle in glass

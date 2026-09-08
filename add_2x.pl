@@ -37,6 +37,7 @@ my %glassware = (
     'highball'             => 'highball',
     'high ball'            => 'highball',
     'martini'              => 'martini',
+    'small low ball'       => 'low_ball',
     'low ball'             => 'rocks',
     'rocks glass'          => 'rocks',
     'footed rocks glass'   => 'footed_rocks_glass',

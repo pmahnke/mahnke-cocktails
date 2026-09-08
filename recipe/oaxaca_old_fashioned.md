@@ -30,7 +30,7 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware:
-  - Low Ball
+  - Small Low Ball
   - Large Ice Cube
 - Garnish: Expressed grapefruit oil and grapefruit twist
 - Special Prep:
