@@ -29,7 +29,7 @@ date: 2025-08-11
 - Method: Stirred
 - Pour: Julep Strain
 - Glassware:
-  - Low Ball
+  - Small Low Ball
   - On the Rocks
 - Garnish: Lime wheel or lime&nbsp;wedge
 - Special Prep: None
