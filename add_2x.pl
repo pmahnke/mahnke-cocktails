@@ -150,7 +150,8 @@ my %garnishes = (
     'sugared rim'              => 'garnish-salted_rim',
     'sugar rim'                => 'garnish-salted_rim',
     'drops of angostura'       => 'garnish-angostura_bitters',
-    'straw'                    => 'straw'
+    'straw'                    => 'straw',
+    'paper plane'              => 'garnish-paper_plane',
 );
 
 my %tools = (

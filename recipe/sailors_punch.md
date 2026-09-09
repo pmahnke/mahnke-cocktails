@@ -6,7 +6,8 @@ categories: [punch]
 eras: [modern]
 permalink: "/recipe/sailors_punch/"
 iconfile: sailors_punch
-image: /assets/images/cocktail_sailors_punch.svg
+color: #C2682E
+image_orig: /assets/images/cocktail_sailors_punch.svg
 stars: 0
 base_spirits: "Bourbon"
 youtube: "https://www.drinkhacker.com/2012/12/21/recipe-sailors-punch/?srsltid=AfmBOoqzZTlPxVyXac4u_SJrB194R2YUDjzuI70tpQ9W_dKhlU80dPXC"
@@ -32,7 +33,7 @@ date: 2025-08-11
 - Method: Build in Punch Bowl
 - Pour: Add all ingredients directly to the punch bowl
 - Glassware: Punch Cups
-- Garnish: Slices of apple, lemon, and lime.
+- Garnish: Apple slices, a lemon wheel, and a lime wheel.
 - Special Prep:
   1. To make the spiced syrup, combine water, cinnamon sticks, cloves, and allspice.
   1. Bring to a boil, then let rest until cool.
