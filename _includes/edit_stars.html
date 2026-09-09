@@ -22,7 +22,7 @@
 </div>
 
 <div class="rating-readout">
-  <div class="star-rating star-rating--small" style="--rating: {{ orig }};" aria-label="Rating: {{ orig }} out of 5 stars">
+  <div class="star-rating star-rating--small" role="img" style="--rating: {{ orig }};" aria-label="Rating: {{ orig }} out of 5 stars">
     {% if orig > 0 %}{{ orig }} ★{% endif %}
   </div>
   <em style="font-size: 1.3rem; display: block; clear: both;">

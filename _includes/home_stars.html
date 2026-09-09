@@ -1,5 +1,5 @@
 {% if page.stars %}
-  <div class="star-rating star-rating--small" style="--rating: {{ page.stars | default: 0 }};" aria-label="Rating: {{ page.stars | default: 0 }} out of 5 stars">
+  <div class="star-rating star-rating--small" role="img" style="--rating: {{ page.stars | default: 0 }};" aria-label="Rating: {{ page.stars | default: 0 }} out of 5 stars">
     {% if page.stars > 0 %}{{ page.stars }} ★{% endif %}
   </div>
 {% endif %}

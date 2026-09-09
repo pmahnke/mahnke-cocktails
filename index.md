@@ -37,11 +37,11 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
     <h1 style="margin-bottom: 5rem;">Cocktails by Category</h1>
 {%- assign sorted_categories = site.category | sort: "name" -%}
 {%- for cat in sorted_categories -%}
-    <h3>
+    <h2>
         <a href="{{ cat.url | prepend: site.baseurl }}">{{ cat.title }} 
         {%- if cat.icon_path -%}<img src="{{ cat.icon_path }}" alt="Icon for {{ cat.title }}" class="category_icon_small" loading="lazy">{%- endif -%}
         </a>
-    </h3>
+    </h2>
 
     {%- assign pages_in_cat = "" | split: "" -%}
     {%- for page in site.pages -%}
@@ -94,13 +94,14 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
         </ul>
         <h3>Links</h3>
         <ul>
-            <li><strong>Anders Erickson's links</strong></li>
-            <ul>
-                <li><a href="https://www.youtube.com/@AndersErickson/videos" target="_blank">YouTube</a></li>
-                <li><a href="https://www.anderserickson.com/" target="_blank">Website</a></li>
-                <li><a href="https://www.patreon.com/anderserickson/posts" target="_blank">Patreon</a></li>
-                <li><a href="https://curiada.com/collections/anders-erickson-spirits-collection" target="_blank">Curiada</a></li>
-            </ul>
+            <li><strong>Anders Erickson's links</strong>
+                <ul>
+                    <li><a href="https://www.youtube.com/@AndersErickson/videos" target="_blank">YouTube</a></li>
+                    <li><a href="https://www.anderserickson.com/" target="_blank">Website</a></li>
+                    <li><a href="https://www.patreon.com/anderserickson/posts" target="_blank">Patreon</a></li>
+                    <li><a href="https://curiada.com/collections/anders-erickson-spirits-collection" target="_blank">Curiada</a></li>
+                </ul>
+            </li>
             <li><strong>Other links</strong></li>
             <ul>
                 <li><a href="https://euvs-vintage-cocktail-books.cld.bz/" target="_blank">EUVS Vintage Cocktail Book PDFs</a></li>
