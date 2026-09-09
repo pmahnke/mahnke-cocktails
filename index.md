@@ -39,7 +39,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
 {%- for cat in sorted_categories -%}
     <h3>
         <a href="{{ cat.url | prepend: site.baseurl }}">{{ cat.title }} 
-        {%- if cat.icon_path -%}<img src="{{ cat.icon_path }}" alt="" class="category_icon_small">{%- endif -%}
+        {%- if cat.icon_path -%}<img src="{{ cat.icon_path }}" alt="Icon for {{ cat.title }}" class="category_icon_small" loading="lazy">{%- endif -%}
         </a>
     </h3>
 
