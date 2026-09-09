@@ -22,7 +22,7 @@ date: 2025-08-11
 | -------: | --------------------------------------------------------- | ----------------- |
 | 2 slices | Cucumber                                                  |
 |     2 oz | Irish Whiskey                                             | Powers Gold Label |
-|   0.5 oz | Elderflower Liqueur                                       | St. Germain       |
+|   0.5 oz | Elderflower Liqueur                                       | St-Germain       |
 |  0.75 oz | Fresh Lemon Juice                                         |
 |   0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 

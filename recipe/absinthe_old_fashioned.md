@@ -23,7 +23,7 @@ date: 2026-04-24
 |   Amount | Ingredient                                                | Brand       |
 | -------: | --------------------------------------------------------- | ----------- |
 |   1.5 oz | Absinthe                                                  | St. George  |
-|   0.5 oz | Elderflower Liqueur                                       | St. Germain |
+|   0.5 oz | Elderflower Liqueur                                       | St-Germain |
 |     1 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |             |
 | 4 dashes | Bitters                                                   | Peychaud’s  |
 

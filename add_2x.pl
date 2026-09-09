@@ -384,16 +384,16 @@ while (my $file = readdir DIR) {
         $FLAGnotes = 1 if ($line =~ /\#\#\# Notes/ && !$s_instructions); 
 
         # scaling
-        if ($line =~ /\|\s+([0-9]+) to (\d+) (\D[^\|]*)/) {
+        if ($line =~ /\|\s+([0-9]+) to (\d+) ([^\|]*)/) {
             $orig = "$1 to $2 $3";
             $minq = $1 * 1.0;
             $maxq = $2 * 1.0;
             $meas = $3;
-        } elsif ($line =~ /\|\s+([0-9]*\.[0-9]+|[0-9]+) (\D[^\|]*)/) {
+        } elsif ($line =~ /\|\s+([0-9]*\.[0-9]+|[0-9]+) ([^\|]*)/) {
             $orig = "$1 $2";
             $minq = $1 * 1.0;
             $meas = $2;
-        } 
+        }
 
         if ($minq) {
             my $scale = &convert($meas, 1, $minq, $maxq);
@@ -462,7 +462,7 @@ while (my $file = readdir DIR) {
     }
 
     # Schema block builder
-    $schema = qq ~
+    $schema = qq ~\n
 <script type="application/ld+json">
 {
   "\@context": "https://schema.org",

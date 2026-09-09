@@ -20,7 +20,7 @@ date: 2025-10-20
 
 |        Amount | Ingredient          | Brand       |
 | ------------: | ------------------- | ----------- |
-|        0.5 oz | Elderflower Liqueur | St. Germain |
+|        0.5 oz | Elderflower Liqueur | St-Germain |
 | 4 to 6 leaves | Mint                |
 |          3 oz | Prosecco            | Ruffino     |
 |          1 oz | Soda Water          | Topo Chico  |

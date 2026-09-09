@@ -20,7 +20,7 @@ my @categories_list = qw(
 my @eras_list = qw(anders classic modern new_orleans prohibition);
 my @methods_list = ('Shaken', 'Stirred', 'Build in the Glass', 'Blended');
 my @pours_list = ('Double Strain', 'Julep Strain', 'Open Pour', 'Add all ingredients directly to the glass');
-my @glassware_list = ('Low Ball', 'High Ball', 'Champagne Flute', 'Coupe', 'Nick & Nora', 'Tiki', 'Martini', 'Margarita', 'Gin balloon', 'Hurricane', 'Rocks');
+my @glassware_list = ('Small Low Ball', 'Low Ball', 'High Ball', 'Champagne Flute', 'Coupe', 'Nick & Nora', 'Tiki', 'Martini', 'Margarita', 'Gin balloon', 'Hurricane', 'Rocks');
 my @ice_list = ('None', 'Large ice cube', 'On the Rocks', 'Crushed Ice');
 
 # Deduplicated & Alphabetized Lists

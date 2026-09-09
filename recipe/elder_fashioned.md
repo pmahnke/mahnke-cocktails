@@ -27,7 +27,7 @@ date: 2026-08-22
 |       Amount | Ingredient                                                    | Brand                    |
 | -----------: | ------------------------------------------------------------- | ------------------------ |
 |         2 oz | Bourbon                                                       | Elijah Craig Small Batch |
-|       0.5 oz | Elderflower Liqueur                                           | St. Germain              |
+|       0.5 oz | Elderflower Liqueur                                           | St-Germain              |
 | 0.5 barspoon | [Semi-Rich Simple Syrup]({%- link recipe/simple_syrup.md -%}) |
 |       1 dash | Orange Bitters                                                | Regan’s No. 6            |
 
@@ -52,7 +52,7 @@ date: 2026-08-22
 |   Amount | Ingredient          | Brand         |
 | -------: | ------------------- | ------------- |
 |     2 oz | Plymouth Gin        | Plymouth      |
-|   0.5 oz | Elderflower Liqueur | St. Germain   |
+|   0.5 oz | Elderflower Liqueur | St-Germain   |
 | 2 dashes | Orange Bitters      | Regan’s No. 6 |
 
 ### Notes
