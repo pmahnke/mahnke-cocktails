@@ -2,7 +2,7 @@
     <div class="card-content">
     {%- comment -%} Pull cocktail image directly from front matter {%- endcomment -%}
     {%- if page.image -%}
-        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}" class="cocktail-illustration">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}" class="cocktail-illustration" width="85" height="85">
     {%- elsif page.base_spirits -%}
         {%- comment -%} Fallback: Pull the first base spirit icon if available {%- endcomment -%}
         {%- assign first_spirit_name = page.base_spirits.first | default: page.base_spirits -%}

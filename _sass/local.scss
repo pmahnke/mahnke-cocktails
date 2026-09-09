@@ -124,7 +124,7 @@ p.icons {
 
 
 /* headings - small screens */
-h2 {
+/* h2 {
     font-size: 32px;
     font-weight: 550;
 }
@@ -139,7 +139,7 @@ h3 {
 h4 {
     font-size: 24px;
     font-weight: 275;
-}
+}*/
 
 h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a:link, h3 a:visited, h3 a:active, h4 a:link, h4 a:visited, h4 a:active  {
     text-decoration: none;
@@ -222,7 +222,7 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     /* Styles for screens smaller than 768px (phones) */   
 
     /* headings - larger screens */
-    h2 {
+    /* h2 {
         font-size: 40px;
         font-weight: 550;
     }
@@ -237,7 +237,7 @@ h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a
     h4 {
         font-size: 24px;
         font-weight: 275;
-    }
+    }*/
 }
 
 /* Larger than phablet */
@@ -313,104 +313,99 @@ div.subrecipe {
   /* --- You can customize these variables --- */
   --rating: 0;
   --star-size-mobile: 1.1rem;      /* Default mobile size */
-  --star-size-desktop: 3rem;     /* Default desktop size */
+  --star-size-desktop: 3rem;       /* Default desktop size */
   --star-color: #e1e1e1;           /* Empty star color */
-  --star-background: #ffc107;     /* Filled star color */
+  --star-background: #ffc107;      /* Filled star color */
   --star-spacing: 3px;
   
-  /* --- Mobile Styles (Default) --- */
+  /* --- Global Styles --- */
   display: inline-block;
   position: relative;
-  font-size: var(--star-size-mobile);
-  font-weight: bold;
-  color: var(--star-background);
+  font-size: 0; /* Hides the raw text content (the number) globally */
   white-space: nowrap;
 }
 
-/* Hide the pseudo-elements on mobile by default */
-.star-rating::before, .star-rating::after {
-  content: '';
+/* Create the visual 5-star display globally */
+.star-rating::before {
+  content: '★★★★★';
+  font-size: var(--star-size-mobile); /* Default to mobile size */
+  letter-spacing: var(--star-spacing);
+  background: linear-gradient(90deg, 
+    var(--star-background) calc(var(--rating) / 5 * 100%), 
+    transparent calc(var(--rating) / 5 * 100%)
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.star-rating::after {
+  content: '★★★★★';
+  font-size: var(--star-size-mobile); /* Default to mobile size */
+  letter-spacing: var(--star-spacing);
+  color: var(--star-color);
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
 }
 
 /* --- DESKTOP STYLES (600px and wider) --- */
 @media (min-width: 600px) {
 
-  /* Hide the real text content (the number) by setting its font size to 0 */
+  /* Float stars and update their size for desktop */
   .star-rating {
-    font-size: 0;
     float: right;
     margin-right: 1rem;
   }
 
-  /* Create the visual 5-star display using the pseudo-elements */
-  .star-rating::before {
-    content: '★★★★★';
-    font-size: var(--star-size-desktop); /* Reset the font size for the stars */
-    letter-spacing: var(--star-spacing);
-    background: linear-gradient(90deg, 
-      var(--star-background) calc(var(--rating) / 5 * 100%), 
-      transparent calc(var(--rating) / 5 * 100%)
-    );
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-
+  .star-rating::before,
   .star-rating::after {
-    content: '★★★★★';
-    font-size: var(--star-size-desktop); /* Reset the font size for the stars */
-    letter-spacing: var(--star-spacing);
-    color: var(--star-color);
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
+    font-size: var(--star-size-desktop); 
   }
 
+  p.icons {
+      position: relative; 
+      display: inline-block;
+  }
+  .icons img {
+      max-height: 12rem;
+  }
 
-    p.icons {
-        position: relative; 
-        display: inline-block;
-    }
-    .icons img {
-        max-height: 12rem;
-    }
-  
-    /* icons */
-    .icon-stack {
-        display: flex;
-        flex-direction: column;    /* Arranges them top-to-bottom */
-        align-items: center;       /* Centers them horizontally within the stack */
-        width: fit-content;        /* Makes the container only as wide as the widest icon */
-        margin-left: auto;         /* Pushes the entire stack to the right side of the page */
-        gap: 25px;                 /* Spacing between icons */
-        margin-bottom: 1rem;       /* Basic spacing below the stack */
-    }
+  /* icons */
+  .icon-stack {
+      display: flex;
+      flex-direction: column;    /* Arranges them top-to-bottom */
+      align-items: center;       /* Centers them horizontally within the stack */
+      width: fit-content;        /* Makes the container only as wide as the widest icon */
+      margin-left: auto;         /* Pushes the entire stack to the right side of the page */
+      gap: 25px;                 /* Spacing between icons */
+      margin-bottom: 1rem;       /* Basic spacing below the stack */
+  }
 
-    /* 
-        If you need to control the size of the icons, it's best to do it here
-        rather than using HTML width attributes, especially for SVGs.
-    */
-    .icon-stack img {
-        max-height: 150px;
-        max-width: 100px;          /* Prevents them from getting too large */
-        height: auto;              /* Maintains aspect ratio */
-        display: block;            /* Removes tiny space beneath images */
-    }
-    /* Specifically target ONLY images with "cocktail_" in the file path */
-    .icon-stack img[src*="cocktail_"] {
-        max-height: 250px; 
-        max-width: 180px;  
-    }
+  /* 
+      If you need to control the size of the icons, it's best to do it here
+      rather than using HTML width attributes, especially for SVGs.
+  */
+  .icon-stack img {
+      max-height: 150px;
+      max-width: 100px;          /* Prevents them from getting too large */
+      height: auto;              /* Maintains aspect ratio */
+      display: block;            /* Removes tiny space beneath images */
+  }
+  /* Specifically target ONLY images with "cocktail_" in the file path */
+  .icon-stack img[src*="cocktail_"] {
+      max-height: 250px; 
+      max-width: 180px;  
+  }
 }
 
 /* --- MODIFIER CLASS FOR SMALLER STARS --- */
 /* This rule overrides the size variables when the .star-rating--small class is present */
 .star-rating.star-rating--small {
-    --star-size-mobile: 1.25rem;  /* Smaller size for homepage mobile */
+    --star-size-mobile: 1.25rem;    /* Smaller size for homepage mobile */
     --star-size-desktop: 1.75rem;   /* Smaller size for homepage desktop */
     --star-spacing: 0px;
 }
-
 
 /* Print style */
 @media print {
