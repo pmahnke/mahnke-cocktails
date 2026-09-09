@@ -102,10 +102,11 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
                     <li><a href="https://curiada.com/collections/anders-erickson-spirits-collection" target="_blank">Curiada</a></li>
                 </ul>
             </li>
-            <li><strong>Other links</strong></li>
-            <ul>
-                <li><a href="https://euvs-vintage-cocktail-books.cld.bz/" target="_blank">EUVS Vintage Cocktail Book PDFs</a></li>
-            </ul>
+            <li><strong>Other links</strong>
+                <ul>
+                    <li><a href="https://euvs-vintage-cocktail-books.cld.bz/" target="_blank">EUVS Vintage Cocktail Book PDFs</a></li>
+                </ul>
+            </li>
         </ul>
     </div><!-- /div 1/3 -->
 </div><!-- /div grid-container -->
