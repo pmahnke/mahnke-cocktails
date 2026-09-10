@@ -20,7 +20,7 @@ date: 2025-08-11
 
 ## Original
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                    | Brand                                |
 | -----: | --------------------------------------------- | ------------------------------------ |
@@ -28,7 +28,7 @@ date: 2025-08-11
 |   1 oz | Pink Grapefruit Juice                         |
 | 0.5 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain
@@ -41,7 +41,7 @@ date: 2025-08-11
 
 ## Improved
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                    | Brand                                |
 | ------: | --------------------------------------------- | ------------------------------------ |
@@ -50,7 +50,7 @@ date: 2025-08-11
 |  0.5 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 | 0.25 oz | Fresh Lemon Juice                             |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

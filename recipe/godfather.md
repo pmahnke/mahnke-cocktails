@@ -16,14 +16,14 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient         | Brand                        |
 | -----: | ------------------ | ---------------------------- |
 | 1.5 oz | Single Malt Scotch | Talisker 10 Year             |
 | 0.5 oz | Amaretto           | Luxardo Amaretto di Saschira |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-10-31
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient  |
 | ------: | ----------- |
@@ -19,7 +19,7 @@ date: 2025-10-31
 | 1 stick | Cinnamon    |
 | 1 pinch | Salt        |
 
-### Method
+## Method
 
 1. Bring 4 cups unfiltered apple juice (cider) to a boil with 1 cinnamon stick.
 1. Carefully reduce to 25% (about 1 cup), 60–90 minutes.

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                                      | Brand                      |
 | ------------: | ----------------------------------------------- | -------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 |      3 dashes | Tabasco                                         | Tabasco                    |
 | 4 to 5 dashes | Bitters                                         | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

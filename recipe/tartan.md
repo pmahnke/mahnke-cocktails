@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient         | Brand                            |
 | ------: | ------------------ | -------------------------------- |
@@ -26,7 +26,7 @@ date: 2025-12-09
 | 0.25 oz | Amaro              | Ramazzotti                       |
 |  1 dash | Bitters            | Angostura Aromatic Bitters       |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

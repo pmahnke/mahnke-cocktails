@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient        | Brand                 |
 | --------: | ----------------- | --------------------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |   0.25 oz | Fresh Lemon Juice |
 | 3 to 4 oz | Ginger Ale        | Fever Tree Ginger Ale |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain

@@ -12,14 +12,14 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient   | Brand         |
 | ------: | ------------ | ------------- |
 |  750 ml | Jamaican Rum | Smith & Cross |
 | 1 whole | Pineapple    |
 
-### Method:
+## Method:
 
 1. Combine the fruit of one ripe pineapple (diced) with one bottle of rum.
 2. Seal and let sit for 1 to 2 weeks; the longer the better.

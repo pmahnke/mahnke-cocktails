@@ -12,7 +12,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient         |
 | --------: | ------------------ |
@@ -20,7 +20,7 @@ date: 2025-07-07
 |   0.5 Cup | Hot Water          |
 |  20 grams | Fresh Thyme Sprigs |
 
-### Method
+## Method
 
 1. Over low heat, combine sugar and water.
 2. Stir to dissolve. Add fresh thyme and simmer for 10 minutes (don't boil!).

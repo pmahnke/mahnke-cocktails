@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                                | Brand                 |
 | ------: | --------------------------------------------------------- | --------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 | 0.25 oz | Maraschino Liqueur                                        | Luxardo               |
 | 1 swath | Grapefruit Peel                                           |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

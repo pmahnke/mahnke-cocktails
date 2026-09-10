@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-13
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand                                 |
 | ------: | ----------------------------------------------- | ------------------------------------- |
@@ -28,7 +28,7 @@ date: 2025-12-13
 |  0.5 oz | Dark Rum                                        | Kōloa Kaua'i                          |
 | 0.25 oz | Overproof Rum                                   | Bacardi 151                           |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

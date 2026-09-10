@@ -20,14 +20,14 @@ date: 2025-08-11
 
 ## Modern Dirty Vodka Martini
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient  | Brand      |
 | -----: | ----------- | ---------- |
 |   2 oz | Vodka       | Grey Goose |
 |   1 oz | Olive Brine |            |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain
@@ -41,7 +41,7 @@ date: 2025-08-11
 
 ## The 1901 Dirty Martini
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient     | Brand                          |
 | ------------: | -------------- | ------------------------------ |
@@ -51,7 +51,7 @@ date: 2025-08-11
 |       0.75 oz | Dry Vermouth   | Dolin Dry Vermouth de Chambéry |
 | 1 to 2 dashes | Orange Bitters | Regan’s No. 6                  |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain
@@ -65,7 +65,7 @@ date: 2025-08-11
 
 ## Anders' Variation on the Dirty Martini
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient     | Brand                          |
 | ---------: | -------------- | ------------------------------ |
@@ -75,7 +75,7 @@ date: 2025-08-11
 | 1-2 dashes | Celery Bitters | Scrappy’s                      |
 |    1 rinse | Fino Sherry    | Valdespino “Ynocente”          |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

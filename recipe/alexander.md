@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-01
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient     | Brand                                                     |
 | ------: | -------------- | --------------------------------------------------------- |
@@ -24,7 +24,7 @@ date: 2026-03-01
 | 0.75 oz | Crème de Cacao | Tempus Fugit                                              |
 | 0.75 oz | Cream          | half & half, heavy cream, or a favorite non-dairy creamer |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

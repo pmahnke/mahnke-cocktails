@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-09-26
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient            | Brand                               |
 | -----: | --------------------- | ----------------------------------- |
@@ -25,7 +25,7 @@ date: 2025-09-26
 | 0.5 oz | Amontillado Sherry    | Lustau Amontillado Los Arcos |
 |   1 oz | Cold Brew Concentrate |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

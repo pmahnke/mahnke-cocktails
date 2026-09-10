@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient           | Brand                    |
 | -------: | -------------------- | ------------------------ |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |   0.5 oz | Maple Syrup          |
 | 3 dashes | Black Walnut Bitters | Fee Brothers             |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

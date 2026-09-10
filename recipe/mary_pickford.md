@@ -20,7 +20,7 @@ date: 2025-08-11
 
 ## Original
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                      | Brand             |
 | ---------: | ----------------------------------------------- | ----------------- |
@@ -29,7 +29,7 @@ date: 2025-08-11
 |    0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 1 barspoon | Maraschino Liqueur                              | Luxardo           |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain
@@ -42,7 +42,7 @@ date: 2025-08-11
 
 ## Updated
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                      | Brand         |
 | ---------: | ----------------------------------------------- | ------------- |
@@ -53,7 +53,7 @@ date: 2025-08-11
 |    0.25 oz | Allspice Dram                                   | St. Elizabeth |
 | 1 barspoon | Maraschino Liqueur                              | Luxardo       |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

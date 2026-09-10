@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-01
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand                                         |
 | ------: | ----------------------------------------------- | --------------------------------------------- |
@@ -26,7 +26,7 @@ date: 2026-03-01
 | 0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 |  0.5 oz | Fresh Lemon Juice                               |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

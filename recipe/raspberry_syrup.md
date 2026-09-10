@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient  |
 | --------: | ----------- |
@@ -19,7 +19,7 @@ date: 2025-07-07
 | 0.75 cups | Hot Water   |
 |      6 oz | Raspberries |
 
-### Method
+## Method
 
 1. In a small sauce pan, combine sugar and water.
 2. Stir over heat until sugar is completely dissolved.

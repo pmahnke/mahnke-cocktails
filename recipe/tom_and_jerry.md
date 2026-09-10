@@ -21,7 +21,7 @@ date: 2025-12-23
 
 ## Tom & Jerry Recipe
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient         | Brand               |
 | ------: | ------------------ | ------------------- |
@@ -30,7 +30,7 @@ date: 2025-12-23
 | 0.75 oz | Cognac             | Pierre Ferrand 1840 |
 |    3 oz | Hot Water          |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
@@ -43,7 +43,7 @@ date: 2025-12-23
 
 ## Tom & Jerry Batter
 
-### Ingredients
+## Ingredients
 
 |         Amount | Ingredient       | Brand                      |
 | -------------: | ---------------- | -------------------------- |
@@ -57,7 +57,7 @@ date: 2025-12-23
 |        1 pinch | Salt             |
 |         1 dash | Bitters          | Angostura Aromatic Bitters |
 
-### Method
+## Method
 
 1. In a small bowl, combine spices and rum. Stir and set aside.
 2. Separate eggs into two bowls.

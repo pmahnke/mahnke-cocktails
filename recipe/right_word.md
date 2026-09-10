@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-09-10
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient          | Brand               |
 | -----: | ------------------- | ------------------- |
@@ -26,7 +26,7 @@ date: 2025-09-10
 |   1 oz | Lillet Blanc        | Lillet Blanc        |
 |   1 oz | Fresh Lime Juice    |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

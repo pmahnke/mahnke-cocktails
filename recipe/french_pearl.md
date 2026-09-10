@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                                                | Brand                      |
 | ------------: | --------------------------------------------------------- | -------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 |       1 rinse | Absinthe                                                  |
 | 6 to 8 leaves | Mint                                                      |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

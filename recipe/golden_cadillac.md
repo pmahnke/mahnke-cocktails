@@ -16,9 +16,9 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### The Classic
+## The Classic
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient           | Brand                |
 | -----: | -------------------- | -------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |   1 oz | White Crème de Cacao | Marie Brizard        |
 |   1 oz | Heavy Cream          |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain
@@ -34,9 +34,9 @@ date: 2025-08-11
 - Garnish: Grated nutmeg
 - Special Prep: None
 
-### The Blended Milkshake
+## The Blended Milkshake
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient           | Brand                |
 | -------: | -------------------- | -------------------- |
@@ -46,7 +46,7 @@ date: 2025-08-11
 |     1 oz | Half & Half          |
 |  0.25 oz | Crushed Ice          |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: open pour

@@ -7,7 +7,7 @@ permalink: "/bar_list/cocktail_glasses/"
 youtube: "v=CODeSo8ePtM"
 ---
 
-### Cocktail Glasses
+## Cocktail Glasses
 
 - TOP THREE
   - Comparable <a href="https://libbeyglass.pxf.io/ORmrPN" target="_new">Double Old Fashioned Glass</a> (12oz/360ml): Use code ANDERS10 to get 10% off at checkout!

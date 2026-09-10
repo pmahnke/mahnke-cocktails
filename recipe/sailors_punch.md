@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                                | Brand                   |
 | -------: | --------------------------------------------------------- | ----------------------- |
@@ -28,7 +28,7 @@ date: 2025-08-11
 |    10 oz | Fresh Lime Juice                                          |
 | 8 1/2 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Build in Punch Bowl
 - Pour: Add all ingredients directly to the punch bowl

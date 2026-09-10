@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-09-03
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient | Brand |
 | -----: | ---------- | ----- |
@@ -26,7 +26,7 @@ date: 2026-09-03
 | 0.25 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |  |
 | 2 dashes | Orange bitters | Peychaud’s Orange Bitters |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

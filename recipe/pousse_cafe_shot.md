@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient       | Brand                      |
 | -----: | ---------------- | -------------------------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 | 0.5 oz | Green Chartreuse | Green Chartreuse           |
 | 0.5 oz | Bitters          | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Layer all ingredients directly to the glass

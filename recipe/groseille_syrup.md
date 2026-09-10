@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient             |
 | ------------: | ---------------------- |
@@ -20,7 +20,7 @@ date: 2025-07-07
 |    1 barspoon | Pomegranate Molasses   |
 | 0.25 barspoon | Rose Water             |
 
-### Method
+## Method
 
 1. In a medium sauce pan, combine sugar and red currant juice.
 2. Stir over heat until sugar is completely dissolved.

@@ -18,7 +18,7 @@ excerpt: |
 date: 2026-05-24
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                                | Brand                     |
 | --------: | --------------------------------------------------------- | ------------------------- |
@@ -27,7 +27,7 @@ date: 2026-05-24
 |   0.75 oz | Fresh Lemon Juice                                         |
 | 3 to 4 oz | Ginger Beer                                               |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

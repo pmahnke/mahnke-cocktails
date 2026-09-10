@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                     | Brand             |
 | --------: | ------------------------------ | ----------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |     1 cup | Cognac                         | Maison Rouge VSOP |
 |    4 cups | Brewed Black Tea               |
 
-### Notes
+## Notes
 
 - Method: Make in a large pot
 - Pour: Laddle

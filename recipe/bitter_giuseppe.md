@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 | 4 dashes | Orange Bitters    | Regan’s No. 6              |
 |  1 swath | Lemon Peel        |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

@@ -45,14 +45,14 @@ excerpt: |
 date: 2026-08-20
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient | Brand |
 | -----: | ---------- | ----- |
 |        |            |       |
 |        |            |       |
 
-### Notes
+## Notes
 
 - Method: Shaken/Stirred/Build in the Glass/Blended
 - Pour: Double Strain/Julep Strain/Open Pour/Add all ingredients directly to the glass

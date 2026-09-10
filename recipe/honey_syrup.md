@@ -11,14 +11,14 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient    |
 | ------: | ------------- |
 | 3 parts | Honey         |
 | 1 parts | Boiling Water |
 
-### Method
+## Method
 
 1. In a heat resistant bowl or glass, combine 3 parts honey and 1 part hot water.
 2. Stir until honey and water are completely integrated.

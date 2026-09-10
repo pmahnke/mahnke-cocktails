@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand                                                     |
 | -----: | -------------- | --------------------------------------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 |   1 oz | Crème de Cacao | Tempus Fugit Spirits                                      |
 |   1 oz | Cream          | heavy cream, half & half, or a favorite non-dairy creamer |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

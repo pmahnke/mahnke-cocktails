@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                               | Brand            |
 | ------: | -------------------------------------------------------- | ---------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 | 0.25 oz | [Cinnamon Syrup]({%link recipe/cinnamon_syrup.md%})      |
 | 0.75 oz | Fresh Lemon Juice                                        |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

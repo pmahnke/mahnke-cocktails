@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | 1.25 oz | Sweet Vermouth | Cocchi Vermouth di Torino |
 |    3 oz | Soda Water     | Topo Chico                |
 
-### Notes
+## Notes
 
 - Method: Built in the glass
 - Pour: Add all ingredients directly to the glass

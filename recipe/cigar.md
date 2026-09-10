@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient         | Brand                     |
 | -----: | ------------------ | ------------------------- |
@@ -24,7 +24,7 @@ date: 2025-12-09
 |   1 oz | Single Malt Scotch | Laphroaig 10 year Islay   |
 | 0.5 oz | Amaro              | Aperol                    |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

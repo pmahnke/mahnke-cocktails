@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-23
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                          | Brand         |
 | ------: | --------------------------------------------------- | ------------- |
@@ -25,7 +25,7 @@ date: 2025-12-23
 | 0.75 oz | Fresh Lime Juice                                    |
 | 0.25 oz | Orange Curaçao                                      | Marie Brizard |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain

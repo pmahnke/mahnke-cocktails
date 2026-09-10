@@ -12,7 +12,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |       Amount | Ingredient                                                |
 | -----------: | --------------------------------------------------------- |
@@ -25,7 +25,7 @@ date: 2025-07-07
 |      0.5 pod | Vanilla Bean                                              |
 |         8 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
-### Method
+## Method
 
 1. Combine almonds, cloves, ginger, nutmeg, vanilla, and lime zest in sealable jar.
 2. Add rum.

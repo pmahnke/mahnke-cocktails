@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                               | Brand                      |
 | -------: | -------------------------------------------------------- | -------------------------- |
@@ -28,7 +28,7 @@ date: 2025-08-11
 | 2 Dashes | Bitters                                                  | Angostura Aromatic Bitters |
 |  0.75 oz | Optional - Raw Egg White or Aquafaba (chickpea water)    |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

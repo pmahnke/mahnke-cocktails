@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient        | Brand                 |
 | ------: | ----------------- | --------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | 0.75 oz | Bénédictine       | Bénédictine DOM       |
 | 1 whole | Egg               |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain

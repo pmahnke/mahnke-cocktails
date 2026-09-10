@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient   | Brand                    |
 | ------------: | ------------ | ------------------------ |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |       4 whole | Blackberries |
 | 6 to 8 leaves | Mint         |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

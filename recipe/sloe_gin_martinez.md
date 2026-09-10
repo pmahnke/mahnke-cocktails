@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient         | Brand                     |
 | -------: | ------------------ | ------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 | 0.375 oz | Maraschino Liqueur | Luxardo                   |
 | 2 Dashes | Amaro              | Campari                   |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

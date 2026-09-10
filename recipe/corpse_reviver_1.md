@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient     | Brand                         |
 | ------: | -------------- | ----------------------------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |  0.5 oz | Apple Brandy   | Laird’s Straight Applejack 86 |
 | 0.75 oz | Sweet Vermouth | Cocchi Vermouth Di Torino     |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

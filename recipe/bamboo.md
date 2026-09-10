@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-01
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand                            |
 | -------: | -------------- | -------------------------------- |
@@ -25,7 +25,7 @@ date: 2026-03-01
 | 2 dashes | Orange Bitters | Regan's No. 6                    |
 | 2 dashes | Bitters        | Angostura Aromatic Bitters       |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

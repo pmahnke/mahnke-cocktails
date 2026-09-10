@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-01-16
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand               |
 | ------: | ----------------------------------------------- | ------------------- |
@@ -26,7 +26,7 @@ date: 2026-01-16
 |  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 0.75 oz | Raw Egg White / Aquafaba (chickpea water)       |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -21,7 +21,7 @@ date: 2025-10-08
 
 ## Anders Ratios
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient        | Brand                         |
 | ------: | ----------------- | ----------------------------- |
@@ -30,7 +30,7 @@ date: 2025-10-08
 | 0.75 oz | Apricot Liquer    | Giffard Abricot du Roussillon |
 |  0.5 oz | Fresh Lemon Juice |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain
@@ -45,7 +45,7 @@ date: 2025-10-08
 
 ## Original Ratios
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient        | Brand                         |
 | -----: | ----------------- | ----------------------------- |
@@ -54,7 +54,7 @@ date: 2025-10-08
 | 0.5 oz | Apricot Liquer    | Giffard Abricot du Roussillon |
 | 0.5 oz | Fresh Lemon Juice |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

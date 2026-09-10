@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient      |
 | -------: | --------------- |
@@ -19,7 +19,7 @@ date: 2025-07-07
 |    1 cup | White Sugar     |
 | 0.5 cups | Water           |
 
-### Method
+## Method
 
 1. In a pot, combine ingredients over low heat until sugar dissolves.
 2. Simmer for 5 minutes.

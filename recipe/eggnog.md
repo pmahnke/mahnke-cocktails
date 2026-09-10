@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-09-26
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                               | Brand                               |
 | ------: | -------------------------------------------------------- | ----------------------------------- |
@@ -28,7 +28,7 @@ date: 2025-09-26
 |    2 oz | Half & Half cream                                        |
 | 1 pinch | Salt                                                     |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

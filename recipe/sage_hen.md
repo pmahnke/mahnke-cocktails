@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                                      | Brand             |
 | ---------: | --------------------------------------------------------------- | ----------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |     0.5 oz | [Sage Infused Honey Syrup]({%link recipe/sage_honey_syrup.md%}) |
 | 0.25 whole | Red Delicious Apple                                             |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

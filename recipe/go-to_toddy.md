@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                    | Brand           |
 | --------: | --------------------------------------------- | --------------- |
@@ -27,7 +27,7 @@ date: 2025-12-09
 |   1 stick | Cinnamon                                      |
 |   4 whole | Cloves                                        |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-09-02
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                                | Brand                      |
 | -------: | --------------------------------------------------------- | -------------------------- |
@@ -29,7 +29,7 @@ date: 2026-09-02
 |   1 dash | Orange Bitters                                            |
 | 3 dashes | Absinthe                                                  |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

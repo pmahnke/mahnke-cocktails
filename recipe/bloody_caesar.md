@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient           | Brand            |
 | ---------: | -------------------- | ---------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |   2 dashes | Hot Sauce            | Tabasco Sauce    |
 | 0.25 whole | Lime, Juiced         |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                                | Brand            |
 | ------: | --------------------------------------------------------- | ---------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 | 0.75 oz | Fresh Lemon Juice                                         |
 | 1 whole | Strawberry                                                |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

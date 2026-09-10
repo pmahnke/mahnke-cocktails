@@ -22,7 +22,7 @@ date: 2025-12-13
 
 ## Hot Tiger’s Milk Recipe
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient          | Brand            |
 | -----: | ------------------- | ---------------- |
@@ -31,7 +31,7 @@ date: 2025-12-13
 | 1.5 oz | Evaporated Milk     |
 |   5 oz | Boiling Water       |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
@@ -43,7 +43,7 @@ date: 2025-12-13
 
 ## Tiger’s Milk Batter
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                                                              |
 | ------------: | ----------------------------------------------------------------------- |
@@ -55,7 +55,7 @@ date: 2025-12-13
 |       1 pinch | Salt                                                                    |
 |   2 teaspoons | Hot Water                                                               |
 
-### Method
+## Method
 
 - In a small bowl, combine all ingredients. Stir and set aside.
 

@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient        | Brand                      |
 | --------: | ----------------- | -------------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |  2 dashes | Bitters           | Angostura Aromatic Bitters |
 | 3 to 4 oz | IPA               | Temperance Gatecrasher IPA |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

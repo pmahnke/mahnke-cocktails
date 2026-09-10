@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-01
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                      | Brand                            |
 | ---------: | ----------------------------------------------- | -------------------------------- |
@@ -25,7 +25,7 @@ date: 2026-03-01
 |    0.25 oz | Curaçao                                     | Pierre Ferrand                   |
 | 1 barspoon | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

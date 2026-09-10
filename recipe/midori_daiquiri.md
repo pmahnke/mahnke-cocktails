@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-20
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                                | Brand                |
 | ---------: | --------------------------------------------------------- | -------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-20
 |    0.75 oz | Fresh Lime Juice                                          |                      |
 | 1 barspoon | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |                      |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

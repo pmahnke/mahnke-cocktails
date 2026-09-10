@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient       | Brand                                   |
 | -----: | ---------------- | --------------------------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 | 0.5 oz | Fresh Lime Juice |
 |   3 oz | Ginger Beer      | Spicy Ginger Ale                        |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain

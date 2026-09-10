@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-11-29
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                               | Brand                              |
 | ---------: | -------------------------------------------------------- | ---------------------------------- |
@@ -30,7 +30,7 @@ date: 2025-11-29
 | 1 barspoon | [Grenadine]({%link recipe/grenadine_syrup.md%})          |
 |     1 dash | Bitters                                                  | Angostura Aromatic Bitters         |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

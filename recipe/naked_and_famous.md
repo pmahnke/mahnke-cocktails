@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-23
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient        | Brand             |
 | ------: | ----------------- | ----------------- |
@@ -25,7 +25,7 @@ date: 2025-12-23
 | 0.75 oz | Amaro             | Aperol            |
 | 0.75 oz | Fresh Lime Juice  |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

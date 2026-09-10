@@ -18,7 +18,7 @@ excerpt: |
 date: 2026-08-17
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                               | Brand                      |
 | -------: | -------------------------------------------------------- | -------------------------- |
@@ -28,7 +28,7 @@ date: 2026-08-17
 |   0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 14 drops | Bitters                                                  | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

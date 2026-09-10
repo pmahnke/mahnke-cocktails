@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand                       |
 | -------: | -------------- | --------------------------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |     1 oz | Sweet Vermouth | Cocchi Vermouth di Torino   |
 | 2 dashes | Orange Bitters | Regan's No. 6               |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

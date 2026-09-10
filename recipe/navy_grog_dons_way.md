@@ -19,7 +19,7 @@ excerpt: |
 date: 2025-08-20
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                    | Brand                              |
 | ------: | --------------------------------------------- | ---------------------------------- |
@@ -31,7 +31,7 @@ date: 2025-08-20
 | 0.75 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 | 0.75 oz | Soda Water                                    |
 
- ### Notes
+ ## Notes
 
 - Method: Shaken
 - Pour: Double Strain

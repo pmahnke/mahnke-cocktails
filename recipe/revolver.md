@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand                |
 | -------: | -------------- | -------------------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |   0.5 oz | Coffee Liqueur | Tia Maria            |
 | 2 dashes | Orange Bitters | Fee Bros.            |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

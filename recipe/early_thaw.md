@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-24
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient       | Brand                  |
 | ------: | ---------------- | ---------------------- |
@@ -26,7 +26,7 @@ date: 2026-03-24
 |    3 oz | Prosecco         |
 |  0.5 oz | Soda Water       |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-15
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient       | Brand                    |
 | ------: | ---------------- | ------------------------ |
@@ -27,7 +27,7 @@ date: 2025-08-15
 | 1 whole | Banana           |
 |    7 oz | Crushed Ice      |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

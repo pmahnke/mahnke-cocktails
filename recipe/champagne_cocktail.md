@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient | Brand                        |
 | -------: | ---------- | ---------------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |   1 cube | Sugar      | Brown or White               |
 | 10 drops | Bitters    | Angostura Aromatic Bitters   |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

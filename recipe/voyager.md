@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-12-17
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient       | Brand                              |
 | -----: | ---------------- | ---------------------------------- |
@@ -26,7 +26,7 @@ date: 2025-12-17
 | 0.5 oz | Falernum         |
 | 0.5 oz | Fresh Lime Juice |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

@@ -20,7 +20,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                      | Brand                 |
 | -----: | ----------------------------------------------- | --------------------- |
@@ -30,7 +30,7 @@ date: 2025-08-11
 | 0.5 oz | Fresh Lemon Juice                               |
 | 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

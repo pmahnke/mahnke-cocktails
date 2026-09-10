@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                                    | Brand      |
 | -----: | ------------------------------------------------------------- | ---------- |
@@ -23,7 +23,7 @@ date: 2025-08-11
 |   1 oz | [Passion Fruit Syrup]({%link recipe/passion_fruit_syrup.md%}) |
 |   2 oz | Indian Tonic Water                                            | Fever Tree |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

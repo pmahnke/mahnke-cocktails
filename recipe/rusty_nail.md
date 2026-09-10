@@ -16,14 +16,14 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand           |
 | -----: | -------------- | --------------- |
 |   2 oz | Blended Scotch | Monkey Shoulder |
 |   1 oz | Drambuie       | Drambuie        |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

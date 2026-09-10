@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-11-29
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient  | Brand             |
 | -------: | ----------- | ----------------- |
@@ -24,7 +24,7 @@ date: 2025-11-29
 |   0.5 oz | Bénédictine | Bénédictine DOM   |
 | 3 dashes | Bitters     | Boker’s Bitters   |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

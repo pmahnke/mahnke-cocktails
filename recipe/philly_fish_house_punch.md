@@ -21,7 +21,7 @@ date: 2025-08-11
 
 ## 1.5 Gallons
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                      | Brand                     |
 | -----: | ----------------------------------------------- | ------------------------- |
@@ -33,7 +33,7 @@ date: 2025-08-11
 |  18 oz | Fresh Lemon Juice                               |
 |  96 oz | Cold Water                                      |
 
-### Notes
+## Notes
 
 - Method: Build in Punch Bowl
 - Pour: Add all ingredients directly to the punch bowl
@@ -58,7 +58,7 @@ date: 2025-08-11
 | 0.75 oz | Fresh Lemon Juice                               |
 |    2 oz | Cold Water                                      |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

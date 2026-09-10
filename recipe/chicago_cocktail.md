@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | 2 dashes | Bitters        | Angostura Aromatic Bitters |
 |     2 oz | Sparkling Wine |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain

@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-11-29
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient   | Brand                          |
 | ---------: | ------------ | ------------------------------ |
@@ -25,7 +25,7 @@ date: 2025-11-29
 |     1 dash | Bitters      | Angostura Aromatic Bitters     |
 | 1 barspoon | Fino Sherry  | Valdespino "Ynocente"          |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

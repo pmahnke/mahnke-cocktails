@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-23
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient        | Brand            |
 | ------: | ----------------- | ---------------- |
@@ -26,7 +26,7 @@ date: 2025-12-23
 | 0.75 oz | Fresh Lemon Juice |
 | 1 rinse | Absinthe          | St. George Verte |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

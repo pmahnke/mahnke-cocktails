@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                                    | Brand                 |
 | ---------: | ------------------------------------------------------------- | --------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |       6 oz | Fresh Pineapple Juice                                         |
 | 8 to 10 oz | Crushed Ice                                                   |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

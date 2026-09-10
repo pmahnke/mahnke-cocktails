@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                               | Brand                              |
 | -------: | -------------------------------------------------------- | ---------------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 |  0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 2 dashes | Bitters                                                  | Angostura Aromatic Bitters         |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

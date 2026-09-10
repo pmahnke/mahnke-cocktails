@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient  |
 | -------: | ----------- |
@@ -19,7 +19,7 @@ date: 2025-07-07
 |    1 cup | Hot Water   |
 | 4 sticks | Cinnamon    |
 
-### Method
+## Method
 
 1. In a small sauce pan, combine sugar and water. Stir over heat until sugar is completely dissolved.
 2. Add cinnamon sticks and simmer for 2 minutes.

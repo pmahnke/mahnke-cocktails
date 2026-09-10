@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-09-10
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient         | Brand                      |
 | ---------: | ------------------ | -------------------------- |
@@ -26,7 +26,7 @@ date: 2025-09-10
 |     1 dash | Bitters            | Angostura Aromatic Bitters |
 | 1 barspoon | Maraschino Liqueur | Luxardo                    |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

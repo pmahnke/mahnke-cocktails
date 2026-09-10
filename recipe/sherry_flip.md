@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                               | Brand                             |
 | ------: | -------------------------------------------------------- | --------------------------------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |  0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 1 whole | Egg                                                      |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

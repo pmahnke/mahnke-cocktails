@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                      | Brand                 |
 | -------: | ----------------------------------------------- | --------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 |  0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 2 dashes | Orange Bitters                                  | Regan's No. 6         |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

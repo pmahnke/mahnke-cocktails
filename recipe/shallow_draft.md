@@ -18,7 +18,7 @@ excerpt: |
 date: 2025-08-20
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient        | Brand                  |
 | --------: | ----------------- | ---------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-20
 |      1 oz | Fresh Lemon Juice |
 | 6 to 8 oz | Lager              | New Glarus Spotted Cow |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-11-29
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                                              | Brand                       |
 | -------: | ----------------------------------------------------------------------- | --------------------------- |
@@ -27,7 +27,7 @@ date: 2025-11-29
 |     1 oz | [Passion Fruit Syrup]({%link recipe_processed/passion_fruit_syrup.md%}) |
 | 2 dashes | Bitters                                                                 | Angostura Aeromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

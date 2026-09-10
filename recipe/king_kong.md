@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-05-29
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
@@ -26,7 +26,7 @@ date: 2026-05-29
 |   0.5 oz | Banana Liqueur | Giffard Banane du Brésil   |
 | 3 dashes | Bitters        | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

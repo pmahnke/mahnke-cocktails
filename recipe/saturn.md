@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-10-20
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                | Brand                   |
 | ------: | ----------------------------------------- | ----------------------- |
@@ -27,7 +27,7 @@ date: 2025-10-20
 | 0.25 oz | Falernum                                  | John D. Taylor’s Velvet |
 |  0.5 oz | Fresh Lemon Juice                         |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

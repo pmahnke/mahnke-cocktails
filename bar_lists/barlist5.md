@@ -7,7 +7,7 @@ iconfile: barlist5
 youtube: "hoJ1_OlfCA8"
 ---
 
-### Favorites
+## Favorites
 
 - <a href="https://amzn.to/3nunWO0" target="_blank">Mr. Boston Official Bartender's Guide</a>
 - <a href="https://amzn.to/3CCDMdW" target="_blank">The Savoy Cocktail Book</a>
@@ -25,7 +25,7 @@ youtube: "hoJ1_OlfCA8"
 - <a href="https://amzn.to/3qRD6z2" target="_blank">Potions of the Caribbean</a>
 - <a href="https://amzn.to/3qNsgKk" target="_blank">Smuggler's Cove: Exotic Cocktails, Rum, and the Cult of Tiki</a>
   
-### Other Favorites
+## Other Favorites
 
 - <a href="https://amzn.to/3DBiy19" target="_blank">The Fine Art of Mixing Drinks</a>
 - <a href="https://amzn.to/3nupOq0" target="_blank">The Bar Book</a>

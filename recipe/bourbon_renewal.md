@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-10-16
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                                                | Brand                      |
 | ------------: | --------------------------------------------------------- | -------------------------- |
@@ -27,7 +27,7 @@ date: 2025-10-16
 |       0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 1 to 2 dashes | Bitters                                                   | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

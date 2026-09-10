@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                      | Brand             |
 | -------: | ----------------------------------------------- | ----------------- |
@@ -28,7 +28,7 @@ date: 2025-08-11
 |   0.5 oz | Allspice Dram                                   | St. Elizabeth     |
 | 2 dashes | Absinthe                                        | St. George        |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain

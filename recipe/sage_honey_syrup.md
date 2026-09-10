@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient       |
 | -------: | ---------------- |
@@ -19,7 +19,7 @@ date: 2025-07-07
 |    50 ml | Boiling Water    |
 | 4 leaves | Sage             |
 
-### Method:
+## Method:
 
 1. Combine honey and water to make a 3:1 honey syrup.
 2. Over low heat, combine honey syrup and sage leaves - simmer for 5 minutes.

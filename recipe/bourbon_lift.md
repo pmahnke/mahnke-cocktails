@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                | Brand                         |
 | -----: | ----------------------------------------- | ----------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 | 0.5 oz | Heavy Cream                               |
 |   3 oz | Soda Water                                |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

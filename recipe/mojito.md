@@ -20,7 +20,7 @@ date: 2025-08-11
 
 ## Fast
 
-### Ingredients
+## Ingredients
 
 |          Amount | Ingredient                                               | Brand                 |
 | --------------: | -------------------------------------------------------- | --------------------- |
@@ -30,7 +30,7 @@ date: 2025-08-11
 | 10 to 12 leaves | Mint                                                     |
 |       3 to 5 oz | Soda Water                                               |
 
-### Notes
+## Notes
 
 -
 - Method: Shaken
@@ -44,7 +44,7 @@ date: 2025-08-11
 
 ## Slow
 
-### Ingredients
+## Ingredients
 
 |          Amount | Ingredient         | Brand                 |
 | --------------: | ------------------ | --------------------- |
@@ -54,7 +54,7 @@ date: 2025-08-11
 | 10 to 12 leaves | Mint               |
 |       3 to 5 oz | Soda Water         |
 
-### Notes
+## Notes
 
 -
 - Method: Build in the Glass

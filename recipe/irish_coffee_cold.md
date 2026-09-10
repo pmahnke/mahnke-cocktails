@@ -16,14 +16,14 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand               |
 | -----: | -------------- | ------------------- |
 |   2 oz | Coffee Liqueur | Mr. Black Cold Brew |
 |   1 oz | Irish Whiskey  | Powers Gold Label   |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

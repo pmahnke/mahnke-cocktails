@@ -19,7 +19,7 @@ excerpt: |
 date: 2025-12-17
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient         | Brand                      |
 | ------: | ------------------ | -------------------------- |
@@ -32,7 +32,7 @@ date: 2025-12-17
 | 0.25 oz | Allspice Dram      | St. Elizabeth              |
 |  1 dash | Bitters            | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-10-31
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                               | Brand           |
 | --------: | -------------------------------------------------------- | --------------- |
@@ -31,7 +31,7 @@ date: 2025-10-31
 |    750 ml | Red Wine Louis Jadot Beaujolais-Villages                 |
 |    0.5 oz | Soda Water (Optional)                                    |
 
-### Notes
+## Notes
 
 - Method: Build in the Pitcher
 - Pour: Add all ingredients directly to the pitcher

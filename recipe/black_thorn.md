@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-03-01
 ---
 
-### Ingredients.
+## Ingredients.
 
 |   Amount | Ingredient      | Brand                                      |
 | -------: | --------------- | ------------------------------------------ |
@@ -26,7 +26,7 @@ date: 2026-03-01
 | 2 dashes | Absinthe        | St. George Verte                           |
 | 3 dashes | Boker's Bitters | Fee Bros. Cardamom (Boker’s Style) Bitters |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

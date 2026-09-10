@@ -17,14 +17,14 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient  | Brand                |
 | --------: | ----------- | -------------------- |
 |    1.5 oz | Dark Rum    | Gosling's Black Seal |
 | 4 to 5 oz | Ginger Beer | Barritt's            |
 
-### Notes
+## Notes
 
 - Method: Built in the glass
 - Pour: Add all ingredients directly to the glass

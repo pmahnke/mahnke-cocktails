@@ -18,7 +18,7 @@ excerpt: |
 date: 2025-10-20
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                               | Brand                         |
 | -------: | -------------------------------------------------------- | ----------------------------- |
@@ -27,7 +27,7 @@ date: 2025-10-20
 | 4 dashes | Bitters                                                  | Angostura Aromatic Bitters    |
 |  1 wedge | Orange Wedge                                             |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                                                | Brand      |
 | ------------: | --------------------------------------------------------- | ---------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |        0.5 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |     2 to 3 oz | Soda Water                                                | Topo Chico |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

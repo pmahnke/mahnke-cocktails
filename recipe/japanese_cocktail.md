@@ -29,7 +29,7 @@ date: 2025-12-09
 
 ## The Original (Jerry Thomas)
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                      | Brand               |
 | -------: | ----------------------------------------------- | ------------------- |
@@ -37,7 +37,7 @@ date: 2025-12-09
 |   0.5 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
 | 2 dashes | Bitters                                         | Boker’s Bitters     |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain
@@ -50,7 +50,7 @@ date: 2025-12-09
 
 ## The Improved Japanese Cocktail (Toby Cecchini)
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                      | Brand               |
 | -------: | ----------------------------------------------- | ------------------- |
@@ -59,7 +59,7 @@ date: 2025-12-09
 |  0.75 oz | Fresh Lemon Juice                               |
 | 2 dashes | Peychaud's bitters                              | Peychaud's bitters  |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

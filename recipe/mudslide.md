@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-03-21
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient          | Brand    |
 | ------: | ------------------- | -------- |
@@ -26,7 +26,7 @@ date: 2026-03-21
 | 0.75 oz | Irish Cream Liqueur | Baileys  |
 | 0.75 oz | Heavy Cream         |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

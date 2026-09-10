@@ -20,7 +20,7 @@ date: 2025-08-14
 
 ## 1917 Deshler
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand           |
 | -------: | -------------- | --------------- |
@@ -31,7 +31,7 @@ date: 2025-08-14
 |  1 swath | Lemon Skin     |
 | 2 swaths | Orange Skin    |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain
@@ -44,7 +44,7 @@ date: 2025-08-14
 
 ## Modern Deshler
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand           |
 | -------: | -------------- | --------------- |
@@ -55,7 +55,7 @@ date: 2025-08-14
 |  1 swath | Lemon Skin     |
 |  1 swath | Orange Skin    |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain
@@ -68,7 +68,7 @@ date: 2025-08-14
 
 ## Anders' Deshler
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand                |
 | -------: | -------------- | -------------------- |
@@ -79,7 +79,7 @@ date: 2025-08-14
 |  1 swath | Lemon Skin     |
 |  1 swath | Orange Skin    |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

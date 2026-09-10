@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand                     |
 | -----: | -------------- | ------------------------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 | 0.5 oz | Sweet Vermouth | Cocchi Vermouth Di Torino |
 | 0.5 oz | Amaro          | Cynar                     |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

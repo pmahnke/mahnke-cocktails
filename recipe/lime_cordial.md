@@ -11,7 +11,7 @@ excerpt: |
 date: 2026-03-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                            |
 | -----: | ------------------------------------- |
@@ -21,7 +21,7 @@ date: 2026-03-11
 |    8 g | Freshly Grated Lime Peel              |
 |   25 g | Citric Acid                           |
 
-### Method
+## Method
 
 1. Combine all of the ingredients in a blender.
 1. Blend on medium speed for 30 seconds.

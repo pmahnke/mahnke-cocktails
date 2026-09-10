@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-10-08
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                            | Brand         |
 | ------: | ----------------------------------------------------- | ------------- |
@@ -27,7 +27,7 @@ date: 2025-10-08
 |  0.5 oz | [Ginger Syrup]({%link recipe/ginger_syrup.md%})       |
 |    1 oz | Ginger Beer                                           |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                      | Brand             |
 | -----: | ----------------------------------------------- | ----------------- |
@@ -25,7 +25,7 @@ date: 2025-12-09
 | 0.5 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
 | 0.5 oz | Fresh Lemon Juice                               |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                                 | Brand                     |
 | --------: | ---------------------------------------------------------- | ------------------------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |   0.75 oz | Aquafaba                                                   |
 | 2 to 3 oz | Tonic Water                                                | Fever Tree Premium Indian |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

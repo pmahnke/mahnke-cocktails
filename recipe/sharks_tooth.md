@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                                | Brand                  |
 | ---------: | --------------------------------------------------------- | ---------------------- |
@@ -28,7 +28,7 @@ date: 2025-08-11
 |     0.5 oz | Fresh Lime Juice                                          |
 |     0.5 oz | Fresh Pineapple Juice                                     |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-09-26
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                                                | Brand                 |
 | ------------: | --------------------------------------------------------- | --------------------- |
@@ -27,7 +27,7 @@ date: 2025-09-26
 |    1 barspoon | Maraschino Liqueur                                        | Luxardo               |
 | 1 to 2 dashes | Absinthe                                                  | St. George            |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

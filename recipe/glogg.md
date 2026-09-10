@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient          | Brand                 |
 | --------: | ------------------- | --------------------- |
@@ -29,7 +29,7 @@ date: 2025-08-11
 |  2 sticks | Cinnamon            |
 |  4 strips | Orange Peel         |
 
-### Notes
+## Notes
 
 - Method: Simmered
 - Pour: Ladle

@@ -18,7 +18,7 @@ excerpt: |
 date: 2025-10-20
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                                | Brand                 |
 | ------: | --------------------------------------------------------- | --------------------- |
@@ -28,7 +28,7 @@ date: 2025-10-20
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 0.25 oz | Absinthe                                                  | St. George            |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

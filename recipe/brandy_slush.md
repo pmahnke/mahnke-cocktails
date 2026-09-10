@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                              | Brand  |
 | --------: | ------------------------------------------------------- | ------ |
@@ -29,7 +29,7 @@ date: 2025-08-11
 
 Orange slice for individual garnish
 
-### Notes
+## Notes
 
 - Method: Build in Tub
 - Pour: Add all ingredients directly into the tub

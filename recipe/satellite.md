@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-10-26
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient        | Brand                      |
 | ------: | ----------------- | -------------------------- |
@@ -27,7 +27,7 @@ date: 2025-10-26
 |  1 dash | Bitters           | Angostura Aromatic Bitters |
 |  0.5 oz | Soda Water        |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-21
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient       | Brand                     |
 | ------: | ---------------- | ------------------------- |
@@ -25,7 +25,7 @@ date: 2026-03-21
 | 0.75 oz | Triple Sec       | Combier                   |
 |  0.5 oz | Fresh Lime Juice |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

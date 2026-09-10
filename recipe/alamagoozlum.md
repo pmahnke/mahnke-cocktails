@@ -28,7 +28,7 @@ excerpt: |
 date: 2025-11-29
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                                | Brand                      |
 | ------: | --------------------------------------------------------- | -------------------------- |
@@ -41,7 +41,7 @@ date: 2025-11-29
 | 0.75 oz | Egg White                                                 |
 |    2 oz | Water                                                     |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

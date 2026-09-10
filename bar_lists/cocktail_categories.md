@@ -8,7 +8,7 @@ excerpt: |
   The world of cocktails comprises numerous different cocktail families, each family having its own surname, distinctive traits, genetics and history. Some of these cocktail families are forgotten and facing extinction while others, such as the Daiquiri, Sour and Colada dynasties, are better known now than when they were first conceived. Follows the 36 families which populate the world of cocktails.While not advocating that every cocktail should be pigeonholed under one of the following headings – history/rules should not be allowed to stifle creativity – these cocktail family names do give an indication to the drinker the style of cocktail they are ordering. Consequently, if a cocktail carries one of the following family names, then its ingredients, serving vessel and style should reflect the traits suggested by that name.
 ---
 
-### Blazer
+## Blazer
 
 - Composition: Spirit + Sweetener
 - Glassware: Snifter
@@ -16,7 +16,7 @@ excerpt: |
 - Origin: Mid‑1800s (Jerry Thomas)
 - Example: Blue Blazer
 
-### Buck
+## Buck
 
 - Composition: Spirit + Ginger Ale (Or Beer) + Lime Juice
 - Glassware: Collins or Highball
@@ -24,7 +24,7 @@ excerpt: |
 - Origin: Late 1890s (Prohibition era)
 - Example: [Rum Buck](/recipe/rum_buck/)
 
-### Cobbler
+## Cobbler
 
 - Composition: Spirit/Wine + Fruit + Sugar
 - Glassware: Collins or Cobbler Glass
@@ -32,7 +32,7 @@ excerpt: |
 - Origin: 1930s 
 - Example: [Bramble](/recipe/bramble)
 
-### Colada
+## Colada
 
 - Composition: Spirit + Fruit Juice + Sweetener
 - Glassware: Poco Grande (Colada Glass)
@@ -40,7 +40,7 @@ excerpt: |
 - Origin: Pre-1922
 - Example: [Piña Colada](/recipe/pina_colada)
 
-### Collins
+## Collins
 
 - Composition: Spirit + Lemon/Lime Juice + Sugar (Or Liqueur) + Soda Water
 - Glassware: Collins Glass
@@ -48,14 +48,14 @@ excerpt: |
 - Origin: London, 1814
 - Example: [Tom Collins](/recipe/tom_collins)
 
-### Cooler
+## Cooler
 - Composition: Wine or Spirit + Soda/Ginger Ale (plus Liqueur/Syrup/Bitters)
 - Glassware: Collins Glass
 - Serve: Built or shaken over ice
 - Origin: Unclear
 - Example: Colonial Cooler
 
-### Crusta
+## Crusta
 
 - Composition: Spirit + Lemon Juice + Sugar + Bitters
 - Glassware: Fluted Wine Glass (sugar-rimmed)
@@ -63,7 +63,7 @@ excerpt: |
 - Origin: 1840s–50s
 - Example: [Brandy Crusta](/recipe/brandy_crusta)
 
-### Cup
+## Cup
 
 - Composition: Spirit + Vermouth/Wine + Fruits + Liqueur (and possibly Sugar/Mixer)
 - Glassware: Tankard (historically) or Collins/Goblet
@@ -71,7 +71,7 @@ excerpt: |
 - Origin: Mid‑1800s
 - Example: [Pimm's Cup](/recipe/pimms_cup)
 
-### Daisy
+## Daisy
 
 - Composition: Spirit + Citrus + Liqueur (usually Orange)
 - Glassware: Coupe, Old‑Fashioned, or Goblet
@@ -79,7 +79,7 @@ excerpt: |
 - Origin: Pre‑1876
 - Example: [Margarita](/recipe/margarita)
 
-### Eggnog
+## Eggnog
 
 - Composition: Spirit (Rum/Brandy/Bourbon) + Milk/Cream + Sugar + Egg Yolk (optionally Whites)
 - Glassware: Old‑Fashioned, Collins, or Toddy Mug
@@ -87,7 +87,7 @@ excerpt: |
 - Origin: 1600s
 - Example: [Eggnog](/recipe/eggnog)
 
-### Fix
+## Fix
 
 - Composition: Spirit + Lemon Juice + Sugar Syrup (often flavored)
 - Glassware: Old‑Fashioned or Goblet
@@ -95,7 +95,7 @@ excerpt: |
 - Origin: Mid‑1800s
 - Example:  Gin Fix 
 
-### Fizz
+## Fizz
 
 - Composition: Spirit + Citrus + Sugar + Carbonated Water
 - Glassware: Fizz or Highball Glass
@@ -103,14 +103,14 @@ excerpt: |
 - Origin: Late 1800s
 - Example: Ramos Gin Fizz
 
-### Flip
+## Flip
 - Composition: Spirit/Fortified Wine + Sugar + Whole Egg (Yolk & White)
 - Glassware: Coupe or Wine Glass
 - Serve: Shaken and served up, or served hot
 - Origin: 1600s England
 - Example: [Sherry Flip](/recipe/sherry_flip)
 
-### Frappé
+## Frappé
 
 - Composition: Any cocktail or drink served over crushed ice
 - Glassware: Varies
@@ -118,7 +118,7 @@ excerpt: |
 - Origin: 1800s
 - Example: [Absinthe Frappé](/recipe/absinthe_frappe)
 
-### Frozen
+## Frozen
 
 - Composition: Spirit/Liqueur + Crushed Ice
 - Glassware: Varies
@@ -126,7 +126,7 @@ excerpt: |
 - Origin: Post‑1937 (invention of electric blender)
 - Example: [Frozen Strawberry Margarita](/recipe/margarita_strawberry)
 
-### Grog
+## Grog
 
 - Composition: Rum + Lemon Juice + Sugar + Water
 - Glassware: Double Old‑Fashioned Glass
@@ -134,7 +134,7 @@ excerpt: |
 - Origin: 1740s
 - Example:  [Royal Navy Grog](/recipe/grog/)
 
-### Highball
+## Highball
 
 - Composition: Spirit + Carbonated Mixer (Tonic, Soda, etc.)
 - Glassware: Highball Glass (up to 10 oz)
@@ -142,7 +142,7 @@ excerpt: |
 - Origin: 1890s, Cincinnati
 - Example:  Scotch Whisky Highball
 
-### Julep
+## Julep
 
 - Composition: Spirit + Mint + Sugar
 - Glassware: Julep Cup
@@ -150,7 +150,7 @@ excerpt: |
 - Origin: 1634 England
 - Example: [Mint Julep](/recipe/mint_julep)
 
-### Martini
+## Martini
 
 - Composition: Gin/Vodka + Vermouth (+ Bitters)
 - Glassware: Martini Glass
@@ -158,7 +158,7 @@ excerpt: |
 - Origin: Early 1900s
 - Example: [Martini](/recipe/martini)
 
-### 'Martini’-Style (Alternatini)
+## 'Martini’-Style (Alternatini)
 
 - Composition: Vodka or Spirit + Various Ingredients (e.g., Coffee Liqueur, Fruit Liqueurs)
 - Glassware: Coupe or Martini Glass
@@ -166,7 +166,7 @@ excerpt: |
 - Origin: 1990s
 - Example: [Espresso Martini](/recipe/espresso_martini)
 
-### Mull
+## Mull
 
 - Composition: Wine + Spices + Herbs
 - Glassware: Goblet or Toddy Mug
@@ -174,7 +174,7 @@ excerpt: |
 - Origin: 2nd-century Rome
 - Example:  Mulled Wine 
 
-### Nogs
+## Nogs
 
 - Composition: Spirit + Egg + Cream + Sweetener
 - Glassware: Varies
@@ -182,7 +182,7 @@ excerpt: |
 - Note: Similar to eggnog (nog includes both egg and cream)
 - Example: [Eggnog](/recipe/eggnog)
 
-### Posset
+## Posset
 
 - Composition: Milk/Cream + Beer/Wine/Sherry + Honey + Spices (+ sometimes Egg)
 - Glassware: Handled Posset Vessel
@@ -190,7 +190,7 @@ excerpt: |
 - Origin: 15th century
 - Example:  Lemon Posset 
 
-### Pousse café
+## Pousse café
 
 - Composition: Layered spirits, Liqueurs, Syrups
 - Glassware: Small Tall Glass (max ~2.5 oz)
@@ -198,7 +198,7 @@ excerpt: |
 - Origin: Unknown
 - Example:  [Pousse Café](/recipe/pousse_cafe)
 
-### Punch
+## Punch
 
 - Composition: Spirit + Citrus + Sugar + Spice
 - Glassware: Punch Bowl or Collins Glass
@@ -206,7 +206,7 @@ excerpt: |
 - Origin: 17th century India
 - Example: [Fish House Punch](/recipe/philly_fish_house_punch)
 
-### Rickey
+## Rickey
 
 - Composition: Spirit + Lime Juice + Sugar + Soda
 - Glassware: Highball or sour glass
@@ -214,7 +214,7 @@ excerpt: |
 - Origin: 1880 Washington, D.C.
 - Example: [Gin Rickey](/recipe/gin_rickey)
 
-### Sangaree
+## Sangaree
 
 - Composition: Wine/Port + Spirit + Sugar/Liqueur (+ Juice)
 - Glassware: Collins Glass
@@ -222,7 +222,7 @@ excerpt: |
 - Origin: Pre-1736
 - Example:  [Sangria](/recipe/sangria/)
 
-### Scaffa
+## Scaffa
 
 - Composition: Spirit + Liqueur + Bitters
 - Glassware: Coupe or Nick & Nora glass
@@ -230,7 +230,7 @@ excerpt: |
 - Origin: Mid-1880s
 - Example:  Brandy Scaffa 
 
-### Screw
+## Screw
 
 - Composition: White Spirit + Orange Juice
 - Glassware: Collins Glass
@@ -238,14 +238,14 @@ excerpt: |
 - Origin: 1950s
 - Example: [Harvey_wallbanger](/recipe/harvey_wallbanger)
 
-### Shrub
+## Shrub
 
 - Composition: Spirit + Fruit Infused in Sugar (Shrubs)
 - Glassware: Varies
 - Serve: Traditionally hot, now commonly on-the-rocks
 - Origin: Old English
 
-### Sling
+## Sling
 
 - Composition: Spirit + Citrus Juice + Sugar/Liqueur + Soda
 - Glassware: Sling glass
@@ -253,7 +253,7 @@ excerpt: |
 - Origin: Late 1800s
 - Example:  Gin Sling
 
-### Smash
+## Smash
 
 - Composition: Spirit + Mint + Sugar
 - Glassware: Old‑Fashioned glass
@@ -261,7 +261,7 @@ excerpt: |
 - Origin: Circa 1850s
 - Example: [Strawberry Basil Smash](/recipe/strawberry_basil_smash)
 
-### Sour
+## Sour
 
 - Composition: Spirit/Liqueur + Citrus Juice + Sweetener (+ optional Bitters or Egg White)
 - Glassware: Old‑Fashioned or sour glass
@@ -269,7 +269,7 @@ excerpt: |
 - Origin: First noted 1856; first recipe in Jerry Thomas 1862
 - Example: [Whiskey Sour](/recipe/whiskey_sour)
 
-### Swizzle
+## Swizzle
 
 - Composition: Spirit/Liqueur + Citrus + Sweetener + Bitters
 - Glassware: Collins Glass
@@ -277,7 +277,7 @@ excerpt: |
 - Origin: 17th-century Caribbean
 - Example: [Queen’s Park Swizzle](/recipe/queens_park_swizzle)
 
-### Tea
+## Tea
 
 - Composition: two or more Clear Spirits + Liqueur + Citrus + Sweetener + Soda
 - Glassware: Collins Glass
@@ -285,7 +285,7 @@ excerpt: |
 - Origin: Prohibition-era
 - Example: [Long Island Iced Tea](/recipe/long_island_iced_tea)
 
-### Toddy
+## Toddy
 
 - Composition: Spirit + Sweetener + Hot Water
 - Glassware: Toddy Mug

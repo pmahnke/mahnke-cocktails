@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient      | Brand             |
 | ------: | --------------- | ----------------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |    1 oz | Crème de Menthe | Tempus Fugit      |
 | 1 spray | Absinthe        |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

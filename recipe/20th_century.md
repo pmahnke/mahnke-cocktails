@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-12-23
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient           | Brand            |
 | ------: | -------------------- | ---------------- |
@@ -26,7 +26,7 @@ date: 2025-12-23
 | 0.75 oz | White Crème de Cacao | Marie Brizard    |
 | 0.75 oz | Fresh Lemon Juice    |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

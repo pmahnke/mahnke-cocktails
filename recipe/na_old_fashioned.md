@@ -20,7 +20,7 @@ date: 2026-01-17
 
 ## Mocktail
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                               |
 | ------: | -------------------------------------------------------- |
@@ -28,7 +28,7 @@ date: 2026-01-17
 |  0.5 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 1 swath | Orange Peel                                              |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
@@ -41,7 +41,7 @@ date: 2026-01-17
 
 ## Old Fashioned Tea Base
 
-### Ingredients
+## Ingredients
 
 |       Amount | Ingredient                   |
 | -----------: | ---------------------------- | 
@@ -57,7 +57,7 @@ date: 2026-01-17
 |     2 swaths | Orange Peel                  |
 |      1 pinch | Salt                         |
 
-### Method
+## Method
 
 1. In a small pot, bring water to a boil.
 2. Reduce heat to low and add all ingredients except teas, orange peel, and salt.

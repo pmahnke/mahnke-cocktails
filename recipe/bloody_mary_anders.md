@@ -20,7 +20,7 @@ date: 2025-09-26
 
 ## Single
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient           | Brand                               |
 | ------------: | -------------------- | ----------------------------------- |
@@ -50,7 +50,7 @@ date: 2025-09-26
 
 If you plan on making more than a few bloody marys, you should make a larger batch of the tomato base.  This recipe will make eight servings and keep for a few days in the fridge.  Just add the vodka and sherry before you serve.
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient           | Brand   |
 | ---------: | -------------------- | ------- |

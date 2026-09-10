@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-11-25
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient        | Brand                         |
 | -------: | ----------------- | ----------------------------- |
@@ -25,7 +25,7 @@ date: 2025-11-25
 |   .75 oz | Lillet Blanc      |
 | 2 dashes | Orange bitters    |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

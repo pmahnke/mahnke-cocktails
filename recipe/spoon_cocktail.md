@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-03-24
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient  | Brand                          |
 | -------: | ----------- | ------------------------------ |
@@ -26,7 +26,7 @@ date: 2026-03-24
 | 2 dashes | Bitters     | Angostura Aromatic Bitters     |
 | 1 splash | Soda Water  | Fever Tree                     |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                                    | Brand                         |
 | -----: | ------------------------------------------------------------- | ----------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 |   1 oz | [Cream of Coconut]({%link recipe/cream_of_coconut_syrup.md%}) |
 |   1 oz | Fresh Lemon Juice                                             |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

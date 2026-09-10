@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-12-23
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient              | Brand |
 | ------------: | ----------------------- | ----- |
@@ -22,7 +22,7 @@ date: 2025-12-23
 | 1.5 teaspoons | Rose Water              |
 | 1.5 teaspoons | Orange Blossom Water    |
 
-### Method
+## Method
 
 1. Add all ingredients to a blender.
 1. Blend until the sugar is dissolved.

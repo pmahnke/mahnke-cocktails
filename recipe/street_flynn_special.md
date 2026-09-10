@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-10-29
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient       | Brand        |
 | --------: | ---------------- | ------------ |
@@ -27,7 +27,7 @@ date: 2025-10-29
 |    0.5 oz | Ginger Syrup     |
 | 2 to 3 oz | Club Soda        |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

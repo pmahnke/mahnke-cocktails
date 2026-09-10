@@ -12,7 +12,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |       Amount | Ingredient    |
 | -----------: | ------------- |
@@ -21,7 +21,7 @@ date: 2025-07-07
 
 Method:
 
-### Method
+## Method
 
 1. Combine cocoa nibs with Campari.
 2. Seal and shake.

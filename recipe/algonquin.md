@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-01
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                               | Brand                               |
 | ------: | -------------------------------------------------------- | ----------------------------------- |
@@ -27,7 +27,7 @@ date: 2026-03-01
 | 0.25 oz | Fresh Lemon Juice                                        |
 | 0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -14,7 +14,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |         Amount | Ingredient                                                | Brand      |
 | -------------: | --------------------------------------------------------- | ---------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 | 8 to 10 leaves | Mint                                                      |
 |      3 to 4 oz | Ginger Beer                                               | Fever Tree |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

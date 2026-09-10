@@ -20,7 +20,7 @@ date: 2025-12-23
 <div class="subrecipe" markdown="1">
 ## Original
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient        | Brand           |
 | ------: | ----------------- | --------------- |
@@ -28,7 +28,7 @@ date: 2025-12-23
 | 0.75 oz | Crème de Menthe   | Tempus Fugit    |
 | 0.75 oz | Fresh Lemon Juice |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain
@@ -41,7 +41,7 @@ date: 2025-12-23
 
 ## Updated
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand           |
 | ------: | ----------------------------------------------- | --------------- |
@@ -51,7 +51,7 @@ date: 2025-12-23
 | 0.25 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 0.75 oz | Egg White / Aquafaba (chickpea water)           |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

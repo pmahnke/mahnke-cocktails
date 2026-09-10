@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient       | Brand                            |
 | -----: | ---------------- | -------------------------------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |   1 oz | Vodka            | Union Horse Distilling Co. Rider |
 | 0.5 oz | Cocchi Americano | Cocchi Americano                 |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

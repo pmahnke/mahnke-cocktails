@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand           |
 | -----: | -------------- | --------------- |
@@ -24,7 +24,7 @@ date: 2025-12-09
 | 0.5 oz | Bénédictine    | Bénédictine DOM |
 | 0.5 oz | Walnut Liqueur | Nux Alpina      |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

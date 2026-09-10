@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient         | Brand                          |
 | -------: | ------------------ | ------------------------------ |
@@ -25,7 +25,7 @@ date: 2025-08-11
 |   1 dash | Orange Bitters     | Regan’s No.6                   |
 | 3 dashes | Peychaud's Bitters | Peychaud's Bitters             |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

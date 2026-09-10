@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand          |
 | ------: | ----------------------------------------------- | -------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |    1 oz | Fresh Lemon Juice                               |
 |  0.5 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

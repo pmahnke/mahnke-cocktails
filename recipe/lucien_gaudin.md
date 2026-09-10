@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-01
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand                            |
 | -----: | -------------- | -------------------------------- |
@@ -25,7 +25,7 @@ date: 2026-03-01
 | 0.5 oz | Amaro          | Campari                          |
 | 0.5 oz | Triple Sec     | Cointreau                        |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

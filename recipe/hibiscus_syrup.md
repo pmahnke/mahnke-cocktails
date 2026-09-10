@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                                |
 | -------: | --------------------------------------------------------- |
@@ -20,7 +20,7 @@ date: 2025-07-07
 | 0.25 cup | Dried Hibiscus                                            |
 |   2 cups | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
-### Method
+## Method
 
 1. In a dry saucepan, toast 2 cinnamon sticks and 3 whole cloves for 15-20 seconds.
 2. Add 1/4 cup dried hibiscus and toast for another 30 seconds.

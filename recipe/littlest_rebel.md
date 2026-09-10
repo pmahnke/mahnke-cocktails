@@ -18,7 +18,7 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand                                         |
 | ------: | ----------------------------------------------- | --------------------------------------------- |
@@ -28,7 +28,7 @@ date: 2025-12-09
 |  0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 0.75 oz | Egg White                                       |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -21,7 +21,7 @@ date: 2025-11-26
 
 ## Original
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
@@ -30,7 +30,7 @@ date: 2025-11-26
 |   0.5 oz | Yellow Chartreuse | Yellow Chartreuse          |
 | 2 dashes | Bitters           | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain
@@ -43,7 +43,7 @@ date: 2025-11-26
 
 ## Contemporary
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
@@ -52,7 +52,7 @@ date: 2025-11-26
 |  0.25 oz | Yellow Chartreuse | Yellow Chartreuse          |
 | 2 dashes | Bitters           | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain
@@ -65,7 +65,7 @@ date: 2025-11-26
 
 ## Anders' Version
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient        | Brand                      |
 | -------: | ----------------- | -------------------------- |
@@ -74,7 +74,7 @@ date: 2025-11-26
 |  0.25 oz | Yellow Chartreuse | Yellow Chartreuse          |
 | 2 dashes | Bitters           | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

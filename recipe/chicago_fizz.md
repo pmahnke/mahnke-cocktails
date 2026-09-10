@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-04-05
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                                | Brand                     |
 | ------: | --------------------------------------------------------- | ------------------------- |
@@ -27,7 +27,7 @@ date: 2026-04-05
 |  0.5 oz | Egg White                                                 |
 |    1 oz | Soda Water                                                |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient          |
 | -----: | ------------------- |
@@ -19,7 +19,7 @@ date: 2025-07-07
 |  180 g | Hot Water           |
 |  360 g | Granulated Sugar    |
 
-### Method
+## Method
 
 1. Combine gum arabic and 50 g of hot water. Stir until smooth. 
 2. Cover and let sit for 24 hours.

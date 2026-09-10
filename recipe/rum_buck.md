@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient       | Brand                  |
 | --------: | ---------------- | ---------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 |    0.5 oz | Allspice Dram    | St. Elizabeth          |
 | 4 to 5 oz | Ginger Beer      | Bundaberg              |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain

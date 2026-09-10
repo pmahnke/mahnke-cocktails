@@ -20,7 +20,7 @@ date: 2025-08-14
 
 ## Authentic Grog
 
-### Ingredients
+## Ingredients
 
 |      Amount | Ingredient        | Brand                 |
 | ----------: | ----------------- | --------------------- |
@@ -29,7 +29,7 @@ date: 2025-08-14
 |        1 oz | Fresh Lime Juice  |
 | 2 barspoons | Demerara Sugar    |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
@@ -42,7 +42,7 @@ date: 2025-08-14
 
 ## Modernized Grog
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                               | Brand                 |
 | ------: | -------------------------------------------------------- | --------------------- |
@@ -50,7 +50,7 @@ date: 2025-08-14
 |    1 oz | Fresh Lime Juice                                         |
 | 0.75 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

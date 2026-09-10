@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand |
 | ------: | ----------------------------------------------- | ----- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |  1.5 oz | Grapefruit Juice                                |
 |  0.5 oz | Fresh Lemon Juice                               |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient        | Brand             |
 | -----: | ----------------- | ----------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 |   1 oz | Fresh Lemon Juice |                   |
 |   1 oz | Black Sambuca     | Romana            |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

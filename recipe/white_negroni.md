@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-10-08
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient   | Brand        |
 | ------: | ------------ | ------------ |
@@ -24,7 +24,7 @@ date: 2025-10-08
 | 0.75 oz | Amaro        | Suze         |
 | 0.75 oz | Lillet Blanc | Lillet Blanc |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

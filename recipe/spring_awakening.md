@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-24
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient       | Brand                  |
 | -----: | ---------------- | ---------------------- |
@@ -24,7 +24,7 @@ date: 2026-03-24
 |   1 oz | Cocchi Americano | Cocchi Americano       |
 | 0.5 oz | Amaro            | Aperol                 |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

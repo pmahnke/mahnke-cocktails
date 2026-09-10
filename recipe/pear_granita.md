@@ -13,7 +13,7 @@ excerpt: |
 date: 2025-12-27
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient           | Brand                      |
 | --------: | -------------------- | -------------------------- |
@@ -21,7 +21,7 @@ date: 2025-12-27
 |     1 cup | Orchard Pear Liqueur | Rothman & Winter           |
 | 12 dashes | Bitters              | Angostura Aromatic Bitters |
 
-### Method
+## Method
 
 - Combine ingredients.
 - Pour into a shallow pan, and freeze for one hour.

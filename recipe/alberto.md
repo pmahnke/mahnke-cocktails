@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient       | Brand                 |
 | -----: | ---------------- | --------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 | 0.5 oz | Cocchi Americano | Cocchi Americano      |
 | 0.5 oz | Triple Sec       | Cointreau             |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                    | Brand        |
 | ------: | --------------------------------------------- | ------------ |
@@ -24,7 +24,7 @@ date: 2025-08-11
 | 0.75 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 | 0.75 oz | Fresh Lemon Juice                             |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

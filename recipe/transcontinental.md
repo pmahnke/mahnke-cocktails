@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-02-05
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient         | Brand               |
 | ---------: | ------------------ | ------------------- |
@@ -27,7 +27,7 @@ date: 2026-02-05
 |    0.25 oz | Crème de Violette  | Rothman & Winter    |
 |     0.5 oz | Fresh Lemon Juice  |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient       | Brand                      |
 | --------: | ---------------- | -------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 |    0.75oz | Fresh Lime Juice |
 | 10 dashes | Bitters          | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

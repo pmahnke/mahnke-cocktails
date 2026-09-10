@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-06-26
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient    | Brand                    |
 | ---------: | ------------- | ------------------------ |
@@ -24,7 +24,7 @@ date: 2026-06-26
 | 1 barspoon | Cane Sugar    | Rhum J.M Sirop de Canna  |
 |     1 coin | Lime          |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass/Blended
 - Pour: Add all ingredients directly to the glass

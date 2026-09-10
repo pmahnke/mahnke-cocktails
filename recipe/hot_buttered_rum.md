@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient      | Brand               |
 | ------------: | --------------- | ------------------- |
@@ -29,7 +29,7 @@ date: 2025-08-11
 | 0.25 teaspoon | Vanilla Extract |
 |          4 oz | Hot water       |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

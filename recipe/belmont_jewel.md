@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                      | Brand         |
 | --------: | ----------------------------------------------- | ------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |    0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 2 to 3 oz | Sparkling Water                                 | Topo Chico    |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

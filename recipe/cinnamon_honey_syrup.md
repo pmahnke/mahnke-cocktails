@@ -11,7 +11,7 @@ excerpt: |
 date: 2026-02-05
 ---
 
-### Ingredients
+## Ingredients
 
 |      Amount | Ingredient    |
 | ----------: | ------------- |
@@ -19,7 +19,7 @@ date: 2026-02-05
 | 0.3333 cups | Boiling Water |
 |    2 sticks | Cinnamon      |
 
-### Method
+## Method
 
 1. In a small sauce pan, combine honey and water.
 2. Add cinnamon sticks.

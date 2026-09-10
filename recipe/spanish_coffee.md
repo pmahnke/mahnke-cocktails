@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient             | Brand                 |
 | --------: | ---------------------- | --------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |    0.5 oz | Orange Curaçao         | Marie Brizard         |
 | 2 to 3 oz | Hot Coffee             |                       |
 
-### Notes
+## Notes
 
 - Method: Build in the glass
 - Pour: Add all ingredients directly to the glass

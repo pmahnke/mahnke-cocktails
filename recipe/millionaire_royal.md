@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-11-29
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                      | Brand                          |
 | ---------: | ----------------------------------------------- | ------------------------------ |
@@ -27,7 +27,7 @@ date: 2025-11-29
 |    0.75 oz | Egg White                                       |
 | 1 barspoon | Absinthe                                        | St. George Verte               |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

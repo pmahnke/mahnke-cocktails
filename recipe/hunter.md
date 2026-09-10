@@ -20,14 +20,14 @@ date: 2026-01-09
 
 ## Original
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand                 |
 | -----: | -------------- | --------------------- |
 | 1.5 oz | Rye            | Rittenhouse 100 Proof |
 | 0.5 oz | Cherry Liqueur | Cherry Heering        |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain
@@ -40,7 +40,7 @@ date: 2026-01-09
 
 ## Modern
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient         | Brand                    |
 | -------: | ------------------ | ------------------------ |
@@ -49,7 +49,7 @@ date: 2026-01-09
 |  0.25 oz | Maraschino Liqueur | Luxardo                  |
 | 3 dashes | Orange Bitters     | Regan’s                  |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

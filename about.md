@@ -7,7 +7,7 @@ permalink: /about/
 <div class="grid-container two-thirds">
     <div markdown="1">
 
-### How this all got started…
+## How this all got started…
 
 My brother (Peter) and I (John) recently retired from long careers working on websites for major corporations.
 

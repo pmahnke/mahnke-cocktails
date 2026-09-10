@@ -11,14 +11,14 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient           |
 | --------: | -------------------- |
 | 400 grams | White Sugar          |
 | 200 grams | Strong Earl Grey Tea |
 
-### Method:
+## Method:
 
 1. Steep 4 to 6 earl grey tea bags in 200 grams (~1 cup) boiling water for 10 to 15 minutes.
 2. Remove tea bags and add sugar.

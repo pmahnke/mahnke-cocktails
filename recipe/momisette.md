@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                      | Brand              |
 | --------: | ----------------------------------------------- | ------------------ |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |    0.5 oz | Fresh Lemon Juice                               |
 | 2 to 3 oz | Sparkling Water                                 | Topo Chico         |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain

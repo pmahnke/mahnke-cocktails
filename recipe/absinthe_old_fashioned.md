@@ -18,7 +18,7 @@ excerpt: |
 date: 2026-04-24
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                                | Brand       |
 | -------: | --------------------------------------------------------- | ----------- |
@@ -27,7 +27,7 @@ date: 2026-04-24
 |     1 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |             |
 | 4 dashes | Bitters                                                   | Peychaud’s  |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

@@ -21,7 +21,7 @@ date: 2025-08-11
 
 ## Original
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                               | Brand               |
 | ------: | -------------------------------------------------------- | ------------------- |
@@ -31,7 +31,7 @@ date: 2025-08-11
 | 0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 1 Swath | Lemon Oil                                                |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain
@@ -41,7 +41,7 @@ date: 2025-08-11
 
 ## Ander's Riff - The Espresso Martini 2.0
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                               | Brand               |
 | ------: | -------------------------------------------------------- | ------------------- |
@@ -51,7 +51,7 @@ date: 2025-08-11
 | 0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 1 Swath | Lemon Oil                                                |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

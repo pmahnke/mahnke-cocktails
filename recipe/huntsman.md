@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-11-26
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand                 |
 | -----: | -------------- | --------------------- |
@@ -24,7 +24,7 @@ date: 2025-11-26
 | 0.5 oz | Cherry Liqueur | Cherry Heering        |
 | 0.5 oz | Bénédictine    | Bénédictine DOM       |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

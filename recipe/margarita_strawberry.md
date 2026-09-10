@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-23
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient          | Brand         |
 | ------------: | ------------------- | ------------- |
@@ -27,7 +27,7 @@ date: 2025-12-23
 | 1 to 1.5 cups | Frozen Strawberries |
 |      0.5 cups | Crushed Ice         |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Add all ingredients directly to the blender

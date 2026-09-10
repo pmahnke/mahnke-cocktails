@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                                | Brand                     |
 | ---------: | --------------------------------------------------------- | ------------------------- |
@@ -28,7 +28,7 @@ date: 2025-12-09
 |    0.75 oz | Egg White                                                 |
 |       1 oz | Sparkling Water                                           | Topo Chico                |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

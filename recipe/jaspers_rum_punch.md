@@ -16,14 +16,14 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                     | Brand         |
 | -----: | ---------------------------------------------- | ------------- |
 | 1.5 oz | [Jasper’s Mix]({%link recipe/jaspers_mix.md%}) |
 | 1.5 oz | Overproof Jamaican Rum                         | Wray & Nephew |
 
-### Notes
+## Notes
 
 - Method: Swizzled
 - Pour: Open Pour

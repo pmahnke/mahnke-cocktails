@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-12-23
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient        | Brand             |
 | -----: | ----------------- | ----------------- |
@@ -25,7 +25,7 @@ date: 2025-12-23
 |   1 oz | Curaçao       | Pierre Ferrand    |
 | 0.5 oz | Fresh Lemon Juice |                   |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

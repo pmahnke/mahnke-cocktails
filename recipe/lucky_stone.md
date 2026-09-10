@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-09-26
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient         | Brand                               |
 | -------: | ------------------ | ----------------------------------- |
@@ -25,7 +25,7 @@ date: 2025-09-26
 |   0.5 oz | Apricot Liqueur    | Giffard Abricot du Roussillon       |
 | 2 dashes | Bitters            | Peychaud's Bitters                  |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

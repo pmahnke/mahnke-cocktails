@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient  | Brand                      |
 | -----: | ----------- | -------------------------- |
@@ -23,7 +23,7 @@ date: 2025-07-07
 | 0.5 oz | Bénédictine | Bénédictine D.O.M.         |
 | 2 dash | Bitters     | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

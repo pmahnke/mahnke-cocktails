@@ -20,7 +20,7 @@ excerpt: |
 date: 2025-11-26
 ---
 
-### Ingredients
+## Ingredients
 
 |         Amount | Ingredient            | Brand                       |
 | -------------: | --------------------- | --------------------------- |
@@ -35,7 +35,7 @@ date: 2025-11-26
 |        0.5 cup | Bourbon               | Elijah Craig Small Batch    |
 | 0.125 barspoon | Salt                  |
 
-### Notes
+## Notes
 
 - Method: Build in a mixing bowl
 - Pour: Add finished eggnog directly to mason jars

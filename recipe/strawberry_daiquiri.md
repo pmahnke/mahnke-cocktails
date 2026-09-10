@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-02-05
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                                | Brand |
 | --------: | --------------------------------------------------------- | ----- |
@@ -26,7 +26,7 @@ date: 2026-02-05
 |   5 whole | Strawberries                                              |
 |    4.5 oz | Crushed Ice                                               |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

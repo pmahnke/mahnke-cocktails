@@ -12,7 +12,7 @@ excerpt: |
 date: 2026-03-21
 ---
 
-### Ingredients
+## Ingredients
 
 |       Amount | Ingredient       |
 | -----------: | ---------------- |
@@ -20,6 +20,6 @@ date: 2026-03-21
 |         2 oz | Baileys Irish Cream Liqueur |
 | 1 tablespoon | Powdered Sugar   |
 
-### Method:
+## Method:
 
 1. Whisk just until the cream reaches stiff peaks.

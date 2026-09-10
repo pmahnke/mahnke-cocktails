@@ -18,7 +18,7 @@ excerpt: |
 date: 2025-09-26
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
@@ -27,7 +27,7 @@ date: 2025-09-26
 | 2 dashes | Bitters        | Angostura Aromatic Bitters |
 | 2 dashes | Orange Bitters | Regan's No. 6              |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Double Strain

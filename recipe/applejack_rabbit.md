@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient              | Brand                                         |
 | ------: | ----------------------- | --------------------------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | 0.5 oz. | Fresh Lemon Juice       |
 | 0.5 oz. | Pure Maple Syrup (Dark) |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-09-26
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand                               |
 | ------: | ----------------------------------------------- | ----------------------------------- |
@@ -29,7 +29,7 @@ date: 2025-09-26
 |    1 oz | Fresh Lemon Juice                               |
 | 0.75 oz | [Orgeat Syrup]({%link recipe/orgeat_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

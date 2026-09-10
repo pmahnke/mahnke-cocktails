@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-01
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient            | Brand                            |
 | ------: | --------------------- | -------------------------------- |
@@ -27,7 +27,7 @@ date: 2026-03-01
 |  0.5 oz | Fresh Lime Juice      |
 |  1 dash | Bitters               | Angostura Aromatic Bitters       |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

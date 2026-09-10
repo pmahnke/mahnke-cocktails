@@ -18,7 +18,7 @@ excerpt: |
 date: 2025-10-20
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                   | Brand                          |
 | ------------: | ---------------------------- | ------------------------------ |
@@ -26,7 +26,7 @@ date: 2025-10-20
 |       0.75 oz | Dry Vermouth                 | Dolin Vermouth de Chambéry Dry |
 | 1 to 2 dashes | Orange Bitters Regan's No. 6 |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

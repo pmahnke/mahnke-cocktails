@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-10-13
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient        | Brand                            |
 | -------: | ----------------- | -------------------------------- |
@@ -26,7 +26,7 @@ date: 2025-10-13
 |   0.5 oz | Fresh Lemon Juice |
 | 2 dashes | Bitters           | Angostura Aromatic Bitters       |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

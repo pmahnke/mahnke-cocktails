@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-06-1
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient          | Brand           |
 | -----: | ------------------- | --------------- |
@@ -25,7 +25,7 @@ date: 2026-06-1
 |   1 oz | Passion Fruit Syrup |
 |   1 oz | Fresh Lime Juice    |
 
-### Notes
+## Notes
 
 - Method: Swizzled
 - Pour: Add all ingredients directly to the glass

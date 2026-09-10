@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient         | Brand        |
 | ------: | ------------------ | ------------ |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | 0.75 oz | Maraschino Liqueur | Luxardo      |
 |  0.5 oz | Punt e Mes         | Punt e Mes   |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

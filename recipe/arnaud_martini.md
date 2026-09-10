@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-11-15
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient      | Brand                            |
 | -----: | --------------- | -------------------------------- |
@@ -24,7 +24,7 @@ date: 2025-11-15
 |   1 oz | Crème de Cassis | Jules Theuriet                   |
 |   1 oz | Blanc Vermouth  | Dolin Blanc Vermouth de Chambéry |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

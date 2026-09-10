@@ -11,14 +11,14 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     |
 | -----: | -------------- |
 | 2 cups | Demerara Sugar |
 |  1 cup | Hot Water      |
 
-### Method
+## Method
 
 1. In a small sauce pan, combine Demerara sugar and water.
 2. Stir over heat until sugar is completely dissolved.

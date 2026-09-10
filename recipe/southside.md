@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |         Amount | Ingredient                                                | Brand        |
 | -------------: | --------------------------------------------------------- | ------------ |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |        0.75 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 6 to 10 leaves | Fresh Mint                                                |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

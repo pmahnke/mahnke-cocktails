@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |         Amount | Ingredient                                               | Brand                               |
 | -------------: | -------------------------------------------------------- | ----------------------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |        2 whole | Strawberries                                             |
 | 8 to 10 leaves | Basil                                                    |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

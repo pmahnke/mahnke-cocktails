@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-10-26
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                                  | Brand                      |
 | -------: | ----------------------------------------------------------- | -------------------------- |
@@ -27,7 +27,7 @@ date: 2025-10-26
 | 2 dashes | Bitters                                                     | Angostura Aromatic Bitters |
 | 2 dashes | Absinthe                                                    | St. George                 |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

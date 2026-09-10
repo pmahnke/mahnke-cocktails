@@ -18,7 +18,7 @@ excerpt: |
 date: 2026-03-07
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                          | Brand                      |
 | ---------: | --------------------------------------------------- | -------------------------- |
@@ -30,7 +30,7 @@ date: 2026-03-07
 |   2 dashes | Bitters                                             | Angostura Aromatic Bitters |
 | 1 barspoon | [Cinnamon Syrup]({%link recipe/cinnamon_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

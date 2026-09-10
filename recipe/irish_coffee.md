@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                               | Brand             |
 | --------: | -------------------------------------------------------- | ----------------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 |   0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 3 to 4 oz | Hot Coffee                                               |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

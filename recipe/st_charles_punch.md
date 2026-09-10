@@ -18,7 +18,7 @@ excerpt: |
 date: 2025-12-17
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                                | Brand             |
 | -----: | --------------------------------------------------------- | ----------------- |
@@ -28,7 +28,7 @@ date: 2025-12-17
 | 0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 1 dash | Absinthe                                                  | St. George Verte  |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

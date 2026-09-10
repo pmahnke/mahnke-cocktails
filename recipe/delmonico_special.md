@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient        | Brand                            |
 | -------: | ----------------- | -------------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 |   0.5 oz | Blanc Vermouth    | Dolin Blanc Vermouth de Chambéry |
 | 2 dashes | Bitters           | Angostura Aromatic Bitters       |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

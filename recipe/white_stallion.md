@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-14
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient        | Brand           |
 | -------: | ----------------- | --------------- |
@@ -25,7 +25,7 @@ date: 2025-08-14
 |   1.5 oz | Champagne         | Taittinger Brut |
 | 30 grams | Vanilla Ice Cream |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

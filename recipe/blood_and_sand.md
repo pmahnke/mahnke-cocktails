@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient         | Brand                     |
 | ------: | ------------------ | ------------------------- |
@@ -26,7 +26,7 @@ date: 2025-12-09
 | 0.75 oz | Fresh Orange Juice |
 | 1 swath | Orange Peel        |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain

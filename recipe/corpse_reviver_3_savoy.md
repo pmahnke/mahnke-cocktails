@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-10-20
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient      | Brand             |
 | ------: | --------------- | ----------------- |
@@ -25,7 +25,7 @@ date: 2025-10-20
 |  0.5 oz | Crème de Menthe | Tempus Fugit      |
 | 0.25 oz | Amaro           | Fernet Branca     |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

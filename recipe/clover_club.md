@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                            | Brand               |
 | ------: | ----------------------------------------------------- | ------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |  0.5 oz | [Raspberry Syrup]({%link recipe/raspberry_syrup.md%}) |
 | 0.75 oz | Raw Egg White                                         |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

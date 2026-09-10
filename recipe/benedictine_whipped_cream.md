@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-12-06
 ---
 
-### Ingredients
+## Ingredients
 
 |       Amount | Ingredient       |
 | -----------: | ---------------- |
@@ -19,6 +19,6 @@ date: 2025-12-06
 |         2 oz | Bénédictine DOM  |
 | 1 tablespoon | Powdered Sugar   |
 
-### Method:
+## Method:
 
 1. Whisk just until the cream reaches stiff peaks.

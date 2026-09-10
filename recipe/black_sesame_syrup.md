@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-10-26
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient         |
 | -------: | ------------------ |
@@ -19,7 +19,7 @@ date: 2025-10-26
 |   2 cups | Hot Water          |
 | 3.5 cups | White Sugar        |
 
-### Method
+## Method
 
 1. Toast 2 cups black sesame seeds.
 1. Simmer with 2 cups water for 10 to 15 minutes.

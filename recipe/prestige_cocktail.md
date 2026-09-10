@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-09-10
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient            | Brand                          |
 | ------: | --------------------- | ------------------------------ |
@@ -27,7 +27,7 @@ date: 2025-09-10
 |  0.5 oz | Falernum              |
 | 0.25 oz | Fresh Lime Juice      |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

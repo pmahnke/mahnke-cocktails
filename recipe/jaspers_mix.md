@@ -14,7 +14,7 @@ excerpt: |
 date: 2025-10-20
 ---
 
-### Ingredients
+## Ingredients
 
 |         Amount | Ingredient                 |
 | -------------: | -------------------------- |
@@ -23,7 +23,7 @@ date: 2025-10-20
 |  0.25 barspoon | Angostura Aromatic Bitters |
 | 0.5 tablespoon | Freshly Grated Nutmeg      |
 
-### Method
+## Method
 
 1. Combine all ingredients in a jar.
 2. Cap and shake to combine.

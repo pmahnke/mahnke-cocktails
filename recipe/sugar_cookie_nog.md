@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-27
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient    | Brand      |
 | ------: | ------------- | ---------- |
@@ -27,7 +27,7 @@ date: 2025-12-27
 |  0.5 oz | Half & Half   |
 | 1 pinch | Salt          |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

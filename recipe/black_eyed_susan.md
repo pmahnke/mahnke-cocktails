@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                                | Brand            |
 | -------: | --------------------------------------------------------- | ---------------- |
@@ -28,7 +28,7 @@ date: 2025-08-11
 |  0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 | 2 swaths | Orange Peel                                               |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

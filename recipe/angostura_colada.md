@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                            | Brand                      |
 | -----: | ----------------------------------------------------- | -------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 | 1.5 oz | [Cream of Coconut]({%link recipe/demerara_syrup.md%}) |                            |
 |   1 oz | Fresh Lime Juice                                      |                            |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

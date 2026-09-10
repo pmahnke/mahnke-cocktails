@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-02-07
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand                  |
 | -----: | -------------- | ---------------------- |
@@ -24,7 +24,7 @@ date: 2026-02-07
 |   1 oz | Orange Curaçao | Marie Brizard          |
 | 0.5 oz | Amaro          | Fernet Branca          |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

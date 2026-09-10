@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-10
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                               | Brand                       |
 | -------: | -------------------------------------------------------- | --------------------------- |
@@ -27,7 +27,7 @@ date: 2025-12-10
 | 2 dashes | Bitters                                                  | Angostura Aromatic Bitters  |
 |  1 float | Single Malt Scotch                                       | Laphroaig 10yr              |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-09-26
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient      | Brand                           |
 | ------: | --------------- | ------------------------------- |
@@ -25,7 +25,7 @@ date: 2025-09-26
 |    1 oz | Apple Brandy    | Roger Groult Pays D’Auge 3 Year |
 | 0.75 oz | Apricot Liqueur | Giffard Abricot du Roussillon   |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

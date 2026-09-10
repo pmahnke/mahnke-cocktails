@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                                | Brand                      |
 | -------: | --------------------------------------------------------- | -------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 |  1 whole | Cocktail Cherry                                           |                            |
 |   0.5 oz | Wash - See below                                          |                            |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
@@ -37,7 +37,7 @@ date: 2025-08-11
 - Garnish: Orange peel and a cocktail cherry
 - Special Prep: Add the 2 wedges of orange and the cocktail cherry to the glass and muddle. Add the remaining ingredients. Top with the wash of choice.
 
-### Washes
+## Washes
 
 - Sweet:
   - 7 Up

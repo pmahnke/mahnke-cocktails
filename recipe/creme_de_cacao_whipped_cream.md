@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |       Amount | Ingredient     |
 | -----------: | -------------- |
@@ -19,6 +19,6 @@ date: 2025-07-07
 |         2 oz | Crème de Cacao |
 | 1 tablespoon | Powdered Sugar |
 
-### Method:
+## Method:
 
 1. Whisk just until the cream reaches stiff peaks.

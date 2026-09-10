@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                      | Brand                                                                     |
 | -------: | ----------------------------------------------- | ------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ date: 2025-08-11
 |     1 oz | [Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |     1 oz | Red Bitter Soda                                 | [Sanbitter](https://amzn.to/3d1Vm1I) or [Stappi](https://amzn.to/2NmvjHO) |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

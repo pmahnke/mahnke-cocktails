@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-10-26
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                               | Brand                                         |
 | -------: | -------------------------------------------------------- | --------------------------------------------- |
@@ -25,7 +25,7 @@ date: 2025-10-26
 |  0.25 oz | [Rich Demerara Syrup]({%link recipe/demerara_syrup.md%}) |
 | 2 dashes | Black Walnut Bitters                                     | Fee Brothers                                  |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

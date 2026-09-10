@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-07-31
 ---
 
-### Ingredients
+## Ingredients
 
 |           Amount | Ingredient        |
 | ---------------: | ----------------- |
@@ -29,7 +29,7 @@ date: 2025-07-31
 |  0.0625 teaspoon | Ground Nutmeg     |
 |          1 slice | Fresh Ginger      |
 
-### Method
+## Method
 
 1. Add all the ingredients to a wide-mouthed, airtight container and seal. 
 1. Let stand for two days and taste. If you want a bit more flavor, leave it be for a third day. 

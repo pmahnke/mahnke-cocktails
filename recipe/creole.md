@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-09-26
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand                     |
 | -------: | -------------- | ------------------------- |
@@ -26,7 +26,7 @@ date: 2025-09-26
 |  0.25 oz | Amaro          | Ramazzotti                |
 | 2 dashes | Orange Bitters | Fee Bros                  |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

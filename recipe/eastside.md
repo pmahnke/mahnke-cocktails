@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                                    | Brand                       |
 | ---------: | ------------------------------------------------------------- | --------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 | 2-3 slices | Cucumber                                                      |                             |
 |   5 leaves | Mint                                                          |                             |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -11,14 +11,14 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                |
 | -------: | ------------------------- |
 |    14 oz | Frozen Passion Fruit Pulp |
 | 2.5 cups | White Sugar               |
 
-### Method
+## Method
 
 1. In a medium sauce pan, combine passion fruit pulp and sugar.
 2. Stir over heat until sugar is completely dissolved.

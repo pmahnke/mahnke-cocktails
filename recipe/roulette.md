@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-10-13
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand                     |
 | -----: | -------------- | ------------------------- |
@@ -24,7 +24,7 @@ date: 2025-10-13
 | 0.5 oz | Barbados Rum   | The Real McCoy 3 Year Rum |
 |   1 oz | Swedish Punsch | Kronan                    |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

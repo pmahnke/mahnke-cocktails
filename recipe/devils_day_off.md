@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient             | Brand           |
 | ------: | ---------------------- | --------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | 1 pinch | Cinnamon               |
 |  100 ml | Red Bitter Soda        | Sanbitter Rosso |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain

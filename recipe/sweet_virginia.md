@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient      | Brand                     |
 | ------: | --------------- | ------------------------- |
@@ -28,7 +28,7 @@ date: 2025-08-11
 |  1 dash | Bitters         | Peychaud’s                |
 |  1 dash | Bitters         | Boker's Bitters           |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

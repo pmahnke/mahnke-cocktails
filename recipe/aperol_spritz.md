@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-10-20
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient | Brand      |
 | -----: | ---------- | ---------- |
@@ -24,7 +24,7 @@ date: 2025-10-20
 |   3 oz | Prosecco   | Ruffino    |
 |   1 oz | Soda Water | Topo Chico |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

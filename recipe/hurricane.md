@@ -18,9 +18,9 @@ date: 2025-08-11
 
 <div class="subrecipe" markdown="1">
 
-### Number 1
+## Number 1
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                                    | Brand                |
 | -----: | ------------------------------------------------------------- | -------------------- |
@@ -29,7 +29,7 @@ date: 2025-08-11
 |   1 oz | [Passion Fruit Syrup]({%link recipe/passion_fruit_syrup.md%}) |
 |   1 oz | Fresh Lemon Juice                                             |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour
@@ -42,7 +42,7 @@ date: 2025-08-11
 
 ## Number 2
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand             |
 | ------: | ----------------------------------------------- | ----------------- |
@@ -53,7 +53,7 @@ date: 2025-08-11
 | 0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 | 0.25 oz | Fresh Lime Juice                                |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

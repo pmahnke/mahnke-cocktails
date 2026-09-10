@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |      Amount | Ingredient                                                | Brand                              |
 | ----------: | --------------------------------------------------------- | ---------------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 | 2 barspoons | Absinthe                                                  | La Clandestine Absinthe Superieure |
 |     6 drops | Almond Extract                                            |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                                   | Brand      |
 | --------: | ------------------------------------------------------------ | ---------- |
@@ -23,7 +23,7 @@ date: 2025-08-11
 |      1 oz | [Thyme-Infused Simple Syrup]({%link recipe/thyme_syrup.md%}) |
 | 4 to 5 oz | Ginger Beer                                                  | Fever Tree |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

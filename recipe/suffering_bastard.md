@@ -19,7 +19,7 @@ date: 2025-08-11
 
 ## Cognac Version
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                                               | Brand                      |
 | ------------: | -------------------------------------------------------- | -------------------------- |
@@ -32,7 +32,7 @@ date: 2025-08-11
 
 ## Bourbon Version
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                                               | Brand                      |
 | ------------: | -------------------------------------------------------- | -------------------------- |

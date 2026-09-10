@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-23
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand         |
 | ------: | ----------------------------------------------- | ------------- |

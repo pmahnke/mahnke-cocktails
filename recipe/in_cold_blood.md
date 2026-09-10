@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-05-05
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand          |
 | -----: | -------------- | -------------- |
@@ -25,7 +25,7 @@ date: 2026-05-05
 |   1 oz | Sweet Vermouth | Carpano Antica |
 |   1 oz | Rye            | WhistlePig     |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                                | Brand            |
 | ------: | --------------------------------------------------------- | ---------------- |
@@ -28,7 +28,7 @@ date: 2025-08-11
 | 0.75 oz | Egg White                                                 |                  |
 | 0.25 oz | Green Chartreuse                                          | Green Chartreuse |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

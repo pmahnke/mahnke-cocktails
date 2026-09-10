@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-20
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                               | Brand                              |
 | ------: | -------------------------------------------------------- | ---------------------------------- |
@@ -29,7 +29,7 @@ date: 2025-08-20
 | 0.75 oz | Fresh Lime Juice                                         |
 | 0.75 oz | White Grapefruit Juice                                   |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Strawberry Daiquiri Ingredients
+## Strawberry Daiquiri Ingredients
 
 | Amount | Ingredient                                                | Brand    |
 | -----: | --------------------------------------------------------- | -------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |   1 oz | Fresh Lime Juice                                          |
 |  140 g | Frozen Strawberries                                       |
 
-### Piña Colada Ingredients
+## Piña Colada Ingredients
 
 | Amount | Ingredient                                                    | Brand    |
 | -----: | ------------------------------------------------------------- | -------- |
@@ -35,7 +35,7 @@ date: 2025-08-11
 |   1 oz | Fresh Pineapple Juice                                         |
 |  140 g | Frozen Pineapple                                              |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

@@ -12,7 +12,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient       |
 | --------: | ---------------- |
@@ -21,7 +21,7 @@ date: 2025-07-07
 |  10 whole | Cloves           |
 |  12 whole | Allspice Berries |
 
-### Method
+## Method
 
 1. In a small sauce pan, combine water, cinnamon sticks, cloves, and allspice.
 2. Bring to a boil.

@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-05-28
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient     | Brand               |
 | ------: | -------------- | ------------------- |
@@ -26,7 +26,7 @@ date: 2026-05-28
 |  0.5 oz | Amaro          | Averna              |
 |  1 dash | Orange Bitters | Steve the Bartender |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

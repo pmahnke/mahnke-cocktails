@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |         Amount | Ingredient                                                | Brand        |
 | -------------: | --------------------------------------------------------- | ------------ |
@@ -26,7 +26,7 @@ date: 2025-08-11
 | 10 to 15 whole | Blueberries                                               |
 |  4 to 6 sprigs | Thyme                                                     |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

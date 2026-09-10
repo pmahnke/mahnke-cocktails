@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                |
 | --------: | ----------------------------------------- |
@@ -19,7 +19,7 @@ date: 2025-07-07
 |   13.5 oz | Unsweetened Full Fat Coconut Milk (1 Can) |
 |   1 pinch | Salt                                      |
 
-### Method:
+## Method:
 
 1. In a medium sauce pan, combine sugar, coconut milk, and salt.
 2. Stir over heat until sugar is completely dissolved.

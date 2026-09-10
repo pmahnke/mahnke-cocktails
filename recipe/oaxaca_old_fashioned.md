@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient       | Brand                      |
 | ---------: | ---------------- | -------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 |   2 dashes | Bitters          | Angostura Aromatic Bitters |
 | 1 barspoon | Agave Nectar     |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

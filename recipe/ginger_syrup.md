@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient   |
 | -------: | ------------ |
@@ -19,7 +19,7 @@ date: 2025-07-07
 |    1 cup | Hot Water    |
 |    250 g | Fresh Ginger |
 
-### Method
+## Method
 
 1. Begin by using a spoon to peel the ginger (optional).
 2. Slice ginger into small pieces.

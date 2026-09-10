@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                                                | Brand                      |
 | ------------: | --------------------------------------------------------- | -------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 | 6 to 8 leaves | Mint                                                      |
 |          2 oz | Sparkling Wine                                            |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

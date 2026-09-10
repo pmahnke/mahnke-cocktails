@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-09-26
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient         | Brand                            |
 | --------: | ------------------ | -------------------------------- |
@@ -30,7 +30,7 @@ date: 2025-09-26
 |  4 sticks | Cinnamon           |
 |    4 pods | Cardamom           |
 
-### Notes
+## Notes
 
 - Method: Build in the Pot
 - Pour: Add all ingredients directly to the pot

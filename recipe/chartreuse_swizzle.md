@@ -18,7 +18,7 @@ excerpt: |
 date: 2025-08-31
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient       | Brand                   |
 | ------: | ---------------- | ----------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-31
 |  1.5 oz | Pineapple Juice  |
 | 0.75 oz | Fresh Lime Juice |
 
-### Notes
+## Notes
 
 - Method: Swizzled
 - Pour: Add all ingredients directly to the glass

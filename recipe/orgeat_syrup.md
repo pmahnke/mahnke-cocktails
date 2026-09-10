@@ -11,7 +11,7 @@ excerpt: |
 date: 2025-07-07
 ---
 
-### Ingredients
+## Ingredients
 
 |       Amount | Ingredient              |
 | -----------: | ----------------------- |
@@ -21,7 +21,7 @@ date: 2025-07-07
 | 0.5 barspoon | Rose Water              |
 | 0.5 barspoon | Almond Extract          |
 
-### Method
+## Method
 
 1. In a medium sauce pan, combine sugar and almond milk.
 2. Stir over heat until sugar is completely dissolved.

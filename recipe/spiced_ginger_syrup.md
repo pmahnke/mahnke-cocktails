@@ -13,7 +13,7 @@ excerpt: |
 date: 2025-07-31
 ---
 
-### Ingredients
+## Ingredients
 
 |       Amount | Ingredient        |
 | -----------: | ----------------- |
@@ -25,7 +25,7 @@ date: 2025-07-31
 |      1.5 cup | Water             |
 |        1 cup | Demerara Sugar    |
 
-### Method
+## Method
 
 1. Toast all the spices
 1. In a small sauce pan, combine the toasted spices, ginger, sugar and water.

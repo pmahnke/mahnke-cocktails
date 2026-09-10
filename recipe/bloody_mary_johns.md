@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-10-29
 ---
 
-### Ingredients
+## Ingredients
 
 |       Amount | Ingredient           | Brand         |
 | -----------: | -------------------- | ------------- |
@@ -31,7 +31,7 @@ date: 2025-10-29
 | 1 tablespoon | Worcestershire Sauce | Lea & Perrins |
 |     5 dashes | Celery Bitters       | Fee Brothers  |
 
-### Notes
+## Notes
 
 - Method: Rolled between two pint glasses
 - Pour: Add all ingredients directly to the glass

@@ -18,7 +18,7 @@ excerpt: |
 date: 2025-09-08
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand          |
 | -------: | -------------- | -------------- |
@@ -27,7 +27,7 @@ date: 2025-09-08
 |   0.5 oz | Cherry Liqueur | Cherry Heering |
 | 2 Dashes | Orange Bitters |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

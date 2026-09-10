@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                          | Brand                                         |
 | -----: | --------------------------------------------------- | --------------------------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | 0.5 oz | [Simple Syrup]({%- link recipe/simple_syrup.md -%}) |                                               |
 |   4 oz | Soda Water                                          |                                               |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain
@@ -33,7 +33,7 @@ date: 2025-08-11
 - Garnish: Lemon wheel and ice cubes
 - Special Prep: None
 
-### Tips and Variations:
+## Tips and Variations:
 
 - Shochu: Traditionally, shochu is used, but vodka works well as a substitute.
 - Honey Lemon Sour: Substitute [honey syrup]({%- link recipe/honey_syrup.md -%}) for simple syrup.

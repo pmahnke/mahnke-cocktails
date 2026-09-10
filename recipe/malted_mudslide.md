@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-21
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient          | Brand           |
 | -------: | ------------------- | --------------- |
@@ -26,7 +26,7 @@ date: 2026-03-21
 |     1 oz | Irish Cream Liqueur | Baileys         |
 | 0.25 cup | Crushed Ice         |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

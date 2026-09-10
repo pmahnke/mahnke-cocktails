@@ -21,7 +21,7 @@ date: 2025-08-31
 
 ## Original
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient       | Brand                                   |
 | --------: | ---------------- | --------------------------------------- |
@@ -30,7 +30,7 @@ date: 2025-08-31
 |    0.5 oz | Fresh Lime Juice |
 | 4 to 5 oz | Soda Water       |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
@@ -43,7 +43,7 @@ date: 2025-08-31
 
 ## 1970s Version
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                      | Brand        |
 | -----: | ----------------------------------------------- | ------------ |
@@ -51,7 +51,7 @@ date: 2025-08-31
 |   4 oz | Orange Juice                                    |
 | 0.5 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) | Monin        |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
@@ -64,7 +64,7 @@ date: 2025-08-31
 
 ## Modified
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                      | Brand                                   |
 | --------: | ----------------------------------------------- | --------------------------------------- |
@@ -75,7 +75,7 @@ date: 2025-08-31
 |    1 dash | Bitters                                         | Angostura Aromatic Bitters              |
 | 4 to 5 oz | Soda Water                                      |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

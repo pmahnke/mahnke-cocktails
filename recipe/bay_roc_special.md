@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                     | Brand                              |
 | ------: | ---------------------------------------------- | ---------------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 |  0.5 oz | Drambuie                                       | Drambuie                           |
 | 0.75 oz | [Jasper’s Mix]({%link recipe/jaspers_mix.md%}) |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

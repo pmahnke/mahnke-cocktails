@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-03-22
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient         | Brand                 |
 | ------: | ------------------ | --------------------- |
@@ -25,7 +25,7 @@ date: 2026-03-22
 | 0.75 oz | Maraschino Liqueur | Luxardo               |
 | 0.75 oz | Fresh Lemon Juice  |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

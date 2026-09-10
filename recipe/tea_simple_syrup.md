@@ -10,7 +10,7 @@ excerpt: |
 date: 2025-08-07
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient  |
 | ---------: | ----------- |
@@ -18,7 +18,7 @@ date: 2025-08-07
 |     2 cups | Hot Water   |
 |     2 cups | White Sugar |
 
-### Method
+## Method
 
 1. Steep tea bags in hot water for 5-10 minutes.
 2. Remove tea bags and add sugar.

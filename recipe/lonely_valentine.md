@@ -18,7 +18,7 @@ excerpt: |
 date: 2025-10-20
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                                | Brand             |
 | ------: | --------------------------------------------------------- | ----------------- |
@@ -28,7 +28,7 @@ date: 2025-10-20
 | 0.75 oz | Fresh Lemon Juice                                         |
 | 0.25 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

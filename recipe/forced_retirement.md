@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-14
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                                    | Brand                |
 | ------: | ------------------------------------------------------------- | -------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-14
 | 0.75 oz | Fresh Lime Juice                                              |
 | 0.75 oz | Grapefruit Juice                                              |
 
-### Notes
+## Notes
 
 - Method: Swizzled
 - Pour: Add all ingredients directly to the glass

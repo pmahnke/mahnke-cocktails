@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                      | Brand                |
 | -----: | ----------------------------------------------- | -------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 |   1 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 |   1 oz | Fresh Lime Juice                                |
 
-### Notes
+## Notes
 
 - Method:
   - Shaken

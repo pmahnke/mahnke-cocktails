@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-11-26
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand                         |
 | -------: | -------------- | ----------------------------- |
@@ -27,7 +27,7 @@ date: 2025-11-26
 |   0.5 oz | Sweet Vermouth | Cocchi Vermouth di Torino     |
 | 2 dashes | Bitters        | Peychaud’s Bitters            |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

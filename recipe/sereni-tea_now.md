@@ -14,7 +14,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand |
 | ------: | ----------------------------------------------- | ----- |
@@ -23,7 +23,7 @@ date: 2025-08-11
 |  0.5 oz | Fresh Lemon Juice                               |
 |    2 oz | Chilled Hojicha (Roasted Green Tea)             |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

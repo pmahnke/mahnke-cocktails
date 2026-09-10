@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-03-29
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                                      | Brand             |
 | ------------: | ----------------------------------------------- | ----------------- |
@@ -27,7 +27,7 @@ date: 2026-03-29
 |        0.5 oz | Elderflower Liqueur                             | St-Germain        |
 | 5 to 6 leaves | Mint                                            |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

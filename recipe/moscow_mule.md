@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient       | Brand                      |
 | ------------: | ---------------- | -------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | 2 to 3 dashes | Bitters          | Angostura Aromatic Bitters |
 |     4 to 5 oz | Ginger Beer      |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

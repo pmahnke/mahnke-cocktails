@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-04-24
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient         | Brand          |
 | ------: | ------------------ | -------------- |
@@ -26,7 +26,7 @@ date: 2026-04-24
 | 0.75 oz | Sweet Vermouth     |
 | 0.25 oz | Maraschino Liqueur | Luxardo        |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

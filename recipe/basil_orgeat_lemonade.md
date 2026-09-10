@@ -15,7 +15,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                      | Brand      |
 | -------: | ----------------------------------------------- | ---------- |
@@ -24,7 +24,7 @@ date: 2025-08-11
 | 4 leaves | Basil                                           |
 |     3 oz | Soda Water                                      | Topo Chico |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

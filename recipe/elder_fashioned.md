@@ -22,7 +22,7 @@ date: 2026-08-22
 
 ## The  Elder Fashioned - Simon Difford
 
-### Ingredients
+## Ingredients
 
 |       Amount | Ingredient                                                    | Brand                    |
 | -----------: | ------------------------------------------------------------- | ------------------------ |
@@ -31,7 +31,7 @@ date: 2026-08-22
 | 0.5 barspoon | [Semi-Rich Simple Syrup]({%- link recipe/simple_syrup.md -%}) |
 |       1 dash | Orange Bitters                                                | Regan’s No. 6            |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain
@@ -47,7 +47,7 @@ date: 2026-08-22
 
 ## The  Elder Fashion - Phil Ward
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient          | Brand         |
 | -------: | ------------------- | ------------- |
@@ -55,7 +55,7 @@ date: 2026-08-22
 |   0.5 oz | Elderflower Liqueur | St-Germain   |
 | 2 dashes | Orange Bitters      | Regan’s No. 6 |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

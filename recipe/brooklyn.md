@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-10-08
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient         | Brand                          |
 | ------------: | ------------------ | ------------------------------ |
@@ -27,7 +27,7 @@ date: 2025-10-08
 | 2 to 3 dashes | Orange Bitters     | Fee Brothers                   |
 |       1 swath | Orange Peel        |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

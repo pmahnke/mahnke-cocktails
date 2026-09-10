@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-03-01
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                                | Brand                            |
 | ------: | --------------------------------------------------------- | -------------------------------- |
@@ -28,7 +28,7 @@ date: 2026-03-01
 |  0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 |  0.5 oz | Raw Egg White / Aquafaba (chickpea water)                 |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

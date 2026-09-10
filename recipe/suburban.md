@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-02-02
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand                              |
 | -----: | -------------- | ---------------------------------- |
@@ -26,7 +26,7 @@ date: 2026-02-02
 | 1 dash | Bitters        | Angostura Aromatic Bitters         |
 | 1 dash | Orange Bitters | Regan’s                            |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

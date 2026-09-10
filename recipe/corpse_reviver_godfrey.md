@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                      | Brand                      |
 | ---------: | ----------------------------------------------- | -------------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 | 1 barspoon | [Grenadine]({%link recipe/grenadine_syrup.md%}) |
 |     1 dash | Bitters                                         | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

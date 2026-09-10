@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-08-24
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient                                                    | Brand     |
 | ------------: | ------------------------------------------------------------- | --------- |
@@ -27,7 +27,7 @@ date: 2026-08-24
 |      2 dashes | Orange Bitters                                                |
 | 6 to 8 Leaves | Mint                                                          |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-05-28
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient             | Brand                      |
 | ------: | ---------------------- | -------------------------- |
@@ -28,7 +28,7 @@ date: 2026-05-28
 |  0.5 oz | Cane Syrup             |
 |  1 dash | Bitters                | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

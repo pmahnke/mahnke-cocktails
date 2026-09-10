@@ -17,7 +17,7 @@ excerpt: |
 date: 2026-04-24
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                                | Brand         |
 | -------: | --------------------------------------------------------- | ------------- |
@@ -26,7 +26,7 @@ date: 2026-04-24
 | 3 dashes | Orange Bitters                                            | Regan’s No. 6 |
 |  1 swath | Lemon                                                     |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient        | Brand                 |
 | ------------: | ----------------- | --------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |        0.5 oz | Bénédictine       | Bénédictine DOM       |
 |   1 to 1.5 oz | Brut Champagne    | Laurent-Perrier       |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

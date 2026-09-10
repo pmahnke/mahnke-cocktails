@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-12-10
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient         | Brand           |
 | -------: | ------------------ | --------------- |
@@ -26,7 +26,7 @@ date: 2025-12-10
 | 2 dashes | Absinthe           | St George Verte |
 | 2 dashes | Bitters            | Peychaud’s      |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

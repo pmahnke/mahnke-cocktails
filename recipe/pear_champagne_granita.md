@@ -16,14 +16,14 @@ excerpt: |
 date: 2025-12-27
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                      | Brand                            |
 | --------: | ----------------------------------------------- | -------------------------------- |
 | 2 to 3 oz | [Pear Granita]({%link recipe/pear_granita.md%}) |
 | 2 to 3 oz | Champagne                                       | Baron-Fuenté, Grand Reserve Brut |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

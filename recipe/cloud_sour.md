@@ -19,7 +19,7 @@ excerpt: |
 date: 2026-01-16
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                                | Brand                   |
 | -----: | --------------------------------------------------------- | ----------------------- |
@@ -30,7 +30,7 @@ date: 2026-01-16
 |  1 tsp | Liquid Shio Koji                                          |
 |  15 ml | Egg white                                                 |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

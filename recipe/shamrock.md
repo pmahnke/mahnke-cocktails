@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient       | Brand                            |
 | ---------: | ---------------- | -------------------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |    0.25 oz | Green Chartreuse | Green Chartreuse                 |
 | 1 barspoon | Crème de Menthe  | Tempus Fugit                     |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

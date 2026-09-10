@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                               | Brand                   |
 | -----: | -------------------------------------------------------- | ----------------------- |
@@ -28,7 +28,7 @@ date: 2025-08-11
 |   9 oz | Fresh Lemon Juice                                        |                         |
 | 24 oz. | Black Tea (chilled)                                      |                         |
 
-### Notes
+## Notes
 
 - Method: ShakenBuild in the serving vessel
 - Pour: Add all ingredients directly to the glaserving vesselss

@@ -20,7 +20,7 @@ date: 2026-02-02
 
 ## The Original
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient     | Brand             |
 | -----: | -------------- | ----------------- |
@@ -30,7 +30,7 @@ date: 2026-02-02
 |   1 oz | Cognac         | Maison Rouge VSOP |
 |   1 oz | Crème de Mûre  | Combier           |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain
@@ -43,7 +43,7 @@ date: 2026-02-02
 
 ## Rebalanced (Pre-Prohibition style)
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient    | Brand             |
 | ------: | ------------- | ----------------- |
@@ -54,7 +54,7 @@ date: 2026-02-02
 | 1 rinse | Absinthe      | St. George Verte  |
 | 1 swath | Lemon Peel    |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain
@@ -67,7 +67,7 @@ date: 2026-02-02
 
 ## Rebalanced (Mid-Century style)
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand             |
 | -------: | -------------- | ----------------- |
@@ -78,7 +78,7 @@ date: 2026-02-02
 | 3 dashes | Absinthe       | St. George Verte  |
 |  1 swath | Lemon Peel     |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

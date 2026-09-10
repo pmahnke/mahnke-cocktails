@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-20
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                                          | Brand                              |
 | -------: | ------------------------------------------------------------------- | ---------------------------------- |
@@ -30,7 +30,7 @@ date: 2025-08-20
 | 3 dashes | Bitters                                                             | Angostura Aromatic Bitters         |
 |  5 drops | Salt Solution                                                       |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Open Pour

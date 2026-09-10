@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient     | Brand                     |
 | ------: | -------------- | ------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | 0.75 oz | Amaro          | Campari                   |
 | 0.25 oz | Sweet Vermouth | Cocchi Vermouth di Torino |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

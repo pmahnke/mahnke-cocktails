@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-10-20
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient         | Brand             |
 | -----: | ------------------ | ----------------- |
@@ -25,7 +25,7 @@ date: 2025-10-20
 | 0.5 oz | Curaçao        | Pierre Ferrand    |
 | 0.5 oz | Cognac             | Maison Rouge VSOP |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Layer all ingredients directly to the glass

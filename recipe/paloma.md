@@ -20,7 +20,7 @@ date: 2025-08-11
 
 ## Number 1
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient       | Brand        |
 | --------: | ---------------- | ------------ |
@@ -29,7 +29,7 @@ date: 2025-08-11
 |   1 pinch | Salt             |
 | 5 to 6 oz | Grapefruit Soda  | Squirt       |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour
@@ -47,7 +47,7 @@ date: 2025-08-11
 
 ## Number 2
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient             | Brand        |
 | --------: | ---------------------- | ------------ |
@@ -57,7 +57,7 @@ date: 2025-08-11
 |    0.5 oz | Light Agave Nectar     |
 | 1 to 3 oz | Soda Water             | Topo Chico   |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

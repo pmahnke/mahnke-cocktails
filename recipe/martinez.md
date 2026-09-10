@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient         | Brand                     |
 | ------: | ------------------ | ------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | 0.25 oz | Maraschino Liqueur | Luxardo                   |
 | 0.25 oz | Orange Bitters     | Fee Brother's             |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-06-13
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient           | Brand            |
 | ------: | -------------------- | ---------------- |
@@ -26,7 +26,7 @@ date: 2026-06-13
 |  0.5 oz | Fresh Lime Juice     |
 | 3 cubes | Pineapple            |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -21,7 +21,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient       | Brand            |
 | -------: | ---------------- | ---------------- |
@@ -32,7 +32,7 @@ date: 2025-08-11
 | 0.25 tsp | Ginger, Powdered |
 | 0.25 tsp | Nutmeg, Grated   |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

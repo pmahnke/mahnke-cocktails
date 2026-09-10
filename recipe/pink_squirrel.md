@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient           | Brand         |
 | -------: | -------------------- | ------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 | 3 scoops | Vanilla Ice Cream    |
 | 0.25 cup | Crushed Ice          |
 
-### Notes
+## Notes
 
 - Method: Blended
 - Pour: Add all ingredients directly to the shaking tin

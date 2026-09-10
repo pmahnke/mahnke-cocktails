@@ -188,10 +188,10 @@ excerpt: |
 date: $date
 ---
 
-### Ingredients
+## Ingredients
 
 $ing_table
-### Notes
+## Notes
 
 - Method: $method
 - Pour: $pour

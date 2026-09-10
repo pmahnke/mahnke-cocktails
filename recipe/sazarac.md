@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                                | Brand                                |
 | -------: | --------------------------------------------------------- | ------------------------------------ |
@@ -28,7 +28,7 @@ date: 2025-08-11
 |   1 dash | Bitters                                                   | Angostura Aromatic Bitters           |
 |  1 rinse | Absinthe                                                  | Nouvelle Orleans Absinthe Superieure |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

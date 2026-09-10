@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                    | Brand           |
 | ---------: | --------------------------------------------- | --------------- |
@@ -26,7 +26,7 @@ date: 2025-12-09
 |    0.75 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |
 | 3-4 slices | Fresh Ginger                                  |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

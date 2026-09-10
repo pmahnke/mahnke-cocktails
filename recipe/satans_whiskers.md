@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient         | Brand                                                                           |
 | ------: | ------------------ | ------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ date: 2025-08-11
 |  0.5 oz | Fresh Orange Juice |
 |  1 dash | Orange Bitters     | Regan's No.6                                                                    |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

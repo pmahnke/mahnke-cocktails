@@ -20,14 +20,14 @@ date: 2025-08-11
 
 ## Original
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient | Brand                                |
 | -----: | ---------- | ------------------------------------ |
 | 1.5 oz | Absinthe   | Nouvelle Orleans Absinthe Superieure |
 | 4.5 oz | Champagne  | Laurent-Pierre La Cuvee Brut         |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass
@@ -40,7 +40,7 @@ date: 2025-08-11
 
 ## An Approachable Death in the Afternoon
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                                | Brand                                |
 | ------: | --------------------------------------------------------- | ------------------------------------ |
@@ -49,7 +49,7 @@ date: 2025-08-11
 | 0.25 oz | Fresh Lemon Juice                                         |
 | 0.25 oz | [Semi-rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

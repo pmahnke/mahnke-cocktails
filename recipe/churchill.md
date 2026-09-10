@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient       | Brand     |
 | -----: | ---------------- | --------- |
@@ -26,7 +26,7 @@ date: 2025-12-09
 | 0.5 oz | Sweet Vermouth   |
 | 0.5 oz | Fresh Lime Juice |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

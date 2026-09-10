@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                      | Brand              |
 | --------: | ----------------------------------------------- | ------------------ |
@@ -26,7 +26,7 @@ date: 2025-08-11
 |   0.25 oz | Fresh Lemon Juice                               |
 | 4 to 5 oz | Hot Green Tea                                   |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

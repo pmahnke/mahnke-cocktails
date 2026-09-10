@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-10-31
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                                | Brand                         |
 | -----: | --------------------------------------------------------- | ----------------------------- |
@@ -25,7 +25,7 @@ date: 2025-10-31
 | 1 dash | Bitters                                                   | Angostura Aromatic Bitters    |
 | 1 dash | Black Walnut Bitters                                      | Fee Brothers                  |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

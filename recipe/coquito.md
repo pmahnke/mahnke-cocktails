@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-12-13
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                                    | Brand |
 | ------: | ------------------------------------------------------------- | ----- |
@@ -30,7 +30,7 @@ date: 2025-12-13
 | 1 pinch | Salt                                                          |
 |    4 oz | Gold Rum                                                      | Don Q |
 
-### Notes
+## Notes
 
 - Method: Blender
 - Pour: From a Pitcher
@@ -38,7 +38,7 @@ date: 2025-12-13
 - Garnish: Grated nutmeg
 - Special Prep: Chill over night.
 
-### Spice Tea
+## Spice Tea
 
 |   Amount | Ingredient |
 | -------: | ---------- |
@@ -47,6 +47,6 @@ date: 2025-12-13
 |  1 whole | Star Anise |
 |    1 cup | Water      |
 
-### Method:
+## Method:
 
 1. Boil water with spices until volume is reduced by half. Chill in fridge or freezer.

@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                | Brand                      |
 | -------: | ----------------------------------------- | -------------------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 | 2 dashes | Bitters                                   | Angostura Aromatic Bitters |
 |  5 drops | 20% Saline Solution                       |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

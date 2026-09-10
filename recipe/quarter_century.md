@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient      | Brand                          |
 | ------------: | --------------- | ------------------------------ |
@@ -25,7 +25,7 @@ date: 2025-08-11
 | 1 to 2 dashes | Absinthe        | St. George                     |
 |          4 oz | Champagne       | Albrecht Cremant D’Alsace Brut |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

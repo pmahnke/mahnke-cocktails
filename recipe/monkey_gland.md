@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient                                      | Brand            |
 | -------: | ----------------------------------------------- | ---------------- |
@@ -26,7 +26,7 @@ date: 2025-08-11
 | 3 dashes | Absinthe                                        | St. George Verte |
 |  1 swath | Orange Peel                                     |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

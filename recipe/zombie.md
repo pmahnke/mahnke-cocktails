@@ -18,7 +18,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |     Amount | Ingredient                                      | Brand                             |
 | ---------: | ----------------------------------------------- | --------------------------------- |
@@ -33,7 +33,7 @@ date: 2025-08-11
 | 1 barspoon | Absinthe                                        | La Clandestine                    |
 |   2 dashes | Bitters                                         | Angostura Aromatic Bitters        |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

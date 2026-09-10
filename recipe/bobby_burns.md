@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-09
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient      | Brand                     |
 | ------: | --------------- | ------------------------- |
@@ -25,7 +25,7 @@ date: 2025-12-09
 |  0.5 oz | Bénédictine     | Bénédictine DOM           |
 | 1 strip | Lemon Peel      |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

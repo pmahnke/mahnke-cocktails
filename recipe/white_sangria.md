@@ -18,7 +18,7 @@ date: 2025-08-11
 
 <div class="subrecipe" markdown="1">
 
-### Full Version (serves 5 to 6)
+## Full Version (serves 5 to 6)
 
 |       Amount | Ingredient                                               | Brand                 |
 | -----------: | -------------------------------------------------------- | --------------------- |
@@ -31,7 +31,7 @@ date: 2025-08-11
 |         6 oz | Fino Sherry                                              | Valdespino "Ynocente" |
 |       750 ml | White Wine                                               | Abellio Albariño      |
 
-### Notes
+## Notes
 
 - Method: Build in Punch Bowl
 - Pour: Add all ingredients directly to the punch bowl
@@ -42,7 +42,7 @@ date: 2025-08-11
 </div>
 <div class="subrecipe" markdown="1">
 
-### Scaled Version (serves 1 to 2)
+## Scaled Version (serves 1 to 2)
 
 |       Amount | Ingredient                                               | Brand                 |
 | -----------: | -------------------------------------------------------- | --------------------- |
@@ -55,7 +55,7 @@ date: 2025-08-11
 |       1.5 oz | Fino Sherry                                              | Valdespino "Ynocente" |
 |         6 oz | Dry White Wine                                           | Abellio Albariño      |
 
-### Notes
+## Notes
 
 - Method: Build in mason jar
 - Pour: Add all ingredients to the jar

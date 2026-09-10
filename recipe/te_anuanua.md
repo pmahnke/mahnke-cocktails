@@ -16,7 +16,7 @@ excerpt: |
 date: 2026-01-22
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand            |
 | ------: | ----------------------------------------------- | ---------------- |
@@ -26,7 +26,7 @@ date: 2026-01-22
 | 0.25 oz | Passion Fruit Syrup                             |
 | 0.75 oz | Fresh Lime Juice                                |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Open Pour

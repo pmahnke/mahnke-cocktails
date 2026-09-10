@@ -20,7 +20,7 @@ excerpt: |
 date: 2025-12-23
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient         | Brand                                       |
 | ------: | ------------------ | ------------------------------------------- |
@@ -29,7 +29,7 @@ date: 2025-12-23
 | 0.25 oz | Maraschino Liqueur | Luxardo                                     |
 |  0.5 oz | Fresh Lemon Juice  |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

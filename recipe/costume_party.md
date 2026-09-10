@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-08-11
 ---
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient           | Brand                         |
 | ------: | -------------------- | ----------------------------- |
@@ -25,7 +25,7 @@ date: 2025-08-11
 |  0.5 oz | Apricot Liqueur      | Giffard Abricot Du Roussillon |
 |  0.5 oz | Fresh Lemon Juice    |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

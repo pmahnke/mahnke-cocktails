@@ -16,7 +16,7 @@ excerpt: |
 date: 2025-12-23
 ---
 
-### Ingredients
+## Ingredients
 
 |        Amount | Ingredient       | Brand           |
 | ------------: | ---------------- | --------------- |
@@ -26,7 +26,7 @@ date: 2025-12-23
 |       0.25 oz | Agave Nectar     |
 | 2 to 3 slices | Jalapeño         |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

@@ -17,7 +17,7 @@ excerpt: |
 date: 2025-12-17
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient        | Brand                      |
 | --------: | ----------------- | -------------------------- |
@@ -25,7 +25,7 @@ date: 2025-12-17
 |    0.5 oz | Fresh Lemon Juice |
 | 3 to 4 oz | Champagne         | Freixenet Cava             |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

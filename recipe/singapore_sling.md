@@ -21,7 +21,7 @@ date: 2025-08-11
 
 ## Original
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient                                      | Brand                      |
 | ------: | ----------------------------------------------- | -------------------------- |
@@ -34,7 +34,7 @@ date: 2025-08-11
 | 0.25 oz | [Grenadine]({%link recipe/grenadine_syrup.md%}) |                            |
 |  1 dash | Bitters                                         | Angostura Aromatic Bitters |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain
@@ -49,7 +49,7 @@ date: 2025-08-11
 
 ## 2.0
 
-### Ingredients
+## Ingredients
 
 |         |                   |                            |
 | ------: | ----------------- | -------------------------- |
@@ -60,7 +60,7 @@ date: 2025-08-11
 |  1 dash | Bitters           | Angostura Aromatic Bitters |
 |    1 oz | Soda Water        | Topo Chico                 |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Double Strain

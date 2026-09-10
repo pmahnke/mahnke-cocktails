@@ -12,7 +12,7 @@ excerpt: |
 date: 2025-08-20
 ---
 
-### Ingredients
+## Ingredients
 
 |    Amount | Ingredient                                            |
 | --------: | ----------------------------------------------------- |
@@ -20,7 +20,7 @@ date: 2025-08-20
 | 355 grams | Coca-Cola                                             |
 | 572 grams | White Sugar                                           |
 
-### Method
+## Method
 
 1. Crush the allspice berries in a mortar and pestle.
 1. In a small sauce pan, toast the allspice berries.

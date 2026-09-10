@@ -20,7 +20,7 @@ date: 2025-08-11
 
 ## Original
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient       | Brand                     |
 | ------: | ---------------- | ------------------------- |
@@ -29,7 +29,7 @@ date: 2025-08-11
 | 0.75 oz | Green Chartreuse | Green Chartreuse          |
 |  1 dash | Orange Bitters   | Regan's No. 6             |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain
@@ -39,7 +39,7 @@ date: 2025-08-11
 
 ## Modern Bijou
 
-### Ingredients
+## Ingredients
 
 |  Amount | Ingredient       | Brand                     |
 | ------: | ---------------- | ------------------------- |
@@ -48,7 +48,7 @@ date: 2025-08-11
 | 0.25 oz | Green Chartreuse | Green Chartreuse          |
 |  1 dash | Orange Bitters   | Regan's No. 6             |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

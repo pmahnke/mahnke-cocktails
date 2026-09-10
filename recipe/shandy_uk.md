@@ -17,14 +17,14 @@ excerpt: |
 date: 2026-07-11
 ---
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient         | Brand                  |
 | -----: | ------------------ | ---------------------- |
 | 1 part | Lager               | New Glarus Spotted Cow |
 | 1 part | Sparkling Lemonade |                        |
 
-### Notes
+## Notes
 
 - Method: Build in the Glass
 - Pour: Add all ingredients directly to the glass

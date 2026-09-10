@@ -21,7 +21,7 @@ date: 2025-08-11
 
 ## Original
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient              | Brand                     |
 | -------: | ----------------------- | ------------------------- |
@@ -31,7 +31,7 @@ date: 2025-08-11
 | 4 dashes | Herbsaint (or absinthe) |
 | 4 dashes | Bitters                 | Peychaud's Aromatic       |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain
@@ -43,7 +43,7 @@ date: 2025-08-11
 
 ## Updated
 
-### Ingredients
+## Ingredients
 
 |   Amount | Ingredient     | Brand                      |
 | -------: | -------------- | -------------------------- |
@@ -54,7 +54,7 @@ date: 2025-08-11
 | 4 dashes | Bitters        | Angostura Aromatic Bitters |
 |  1 rinse | Absinthe       |
 
-### Notes
+## Notes
 
 - Method: Stirred
 - Pour: Julep Strain

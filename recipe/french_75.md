@@ -21,7 +21,7 @@ date: 2025-08-11
 
 ## Original - Gin
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                                | Brand    |
 | -----: | --------------------------------------------------------- | -------- |
@@ -30,7 +30,7 @@ date: 2025-08-11
 | 0.5 oz | Fresh Lemon Juice                                         |
 | 0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain
@@ -44,7 +44,7 @@ date: 2025-08-11
 
 ## New Orleans - Cognac
 
-### Ingredients
+## Ingredients
 
 | Amount | Ingredient                                                | Brand             |
 | -----: | --------------------------------------------------------- | ----------------- |
@@ -53,7 +53,7 @@ date: 2025-08-11
 | 0.5 oz | Fresh Lemon Juice                                         |
 | 0.5 oz | [Semi-Rich Simple Syrup]({%link recipe/simple_syrup.md%}) |
 
-### Notes
+## Notes
 
 - Method: Shaken
 - Pour: Single Strain
