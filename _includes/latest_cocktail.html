@@ -24,10 +24,10 @@
                 
                 {%- if latest_recipe.image -%}
                     {%- comment -%} Render the dedicated cocktail image defined in the recipe's front matter {%- endcomment -%}
-                    <img src="{{ latest_recipe.image | relative_url }}" alt="{{ latest_recipe.title }}" title="{{ latest_recipe.title }}">
+                    <img src="{{ latest_recipe.image | relative_url }}" alt="{{ latest_recipe.title }}" title="{{ latest_recipe.title }}" width="120" height="120" class="cocktail-illustration">
                 {%- else -%}
                     {%- comment -%} Fallback: Display the first spirit's icon as the primary visual {%- endcomment -%}
-                    <img src="{{ s.icon_path | relative_url }}" alt="{{ first_spirit_name }}" title="{{ first_spirit_name }}">
+                    <img src="{{ s.icon_path | relative_url }}" alt="{{ first_spirit_name }}" title="{{ first_spirit_name }}" width="120" height="120">
                 {%- endif -%}
 
             </p>

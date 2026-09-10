@@ -5,15 +5,19 @@ a:link, a:visited, a:active
 	color:#009;
     text-decoration: none;
 }
-	a:hover
+a:hover
 {
 	color:#F30;
     text-decoration: underline;
 }
-	th, td {
+th, td {
 	    border: none;
 	}
-
+/* Only underline links that live inside body copy */
+main p a,
+footer p a {
+  text-decoration: underline;
+}
 .header {
     text-align: center;
     }
@@ -113,7 +117,6 @@ p.icons {
 
   .logo-image-right {
     margin-top: 10px;
-    width: 55%
   }
   .site-title {
     margin-top: 0.5rem;
