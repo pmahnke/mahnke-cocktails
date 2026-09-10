@@ -382,7 +382,11 @@ while (my $file = readdir DIR) {
             $s_instructions .= qq |    {\n      "\@type": "HowToStep",\n      "text": "$step"\n    },\n|;
         }
         
-        $FLAGnotes = 1 if ($line =~ /\#\#\# Notes/ && !$s_instructions); 
+        # Trigger notes extraction whether the source uses ## or ###
+        $FLAGnotes = 1 if ($line =~ /\#\#+\s*Notes/ && !$s_instructions); 
+
+        # Convert any H3 markdown headings to H2
+        $line =~ s/^### /## /;
 
         # scaling
         if ($line =~ /\|\s+([0-9]+) to (\d+) ([^\|]*)/) {

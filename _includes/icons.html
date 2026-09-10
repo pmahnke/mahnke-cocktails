@@ -1,6 +1,6 @@
 <!-- 0. Cocktail icon, if it exists -->
 {%- if page.image -%}
-    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}" class="icon-ingredient">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}" class="icon-ingredient" loading="eager" width="180" height="180">
 {%- endif -%}
 <!-- 1. Ingredients / Base Spirits -->
   {%- if page.base_spirits -%}
