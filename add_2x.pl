@@ -103,6 +103,7 @@ my %garnishes = (
     'orange rind'              => 'garnish-orange_peel',
     'orange twist'             => 'twist_orange',
     'orange slice'             => 'garnish-orange_slice',
+    'orange slices'             => 'garnish-orange_slice',
     'orange wheel'             => 'garnish-orange_wheel',
     'dehydrated orange wheel'  => 'garnish-dry_orange_wheel',
     'orange oil'               => 'garnish-orange_peel_oil',
