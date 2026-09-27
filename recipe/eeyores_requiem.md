@@ -22,8 +22,6 @@ date: 2026-09-27
 
 ## The Original
 
-## Ingredients
-
 | Amount | Ingredient | Brand |
 | -----: | ---------- | ----- |
 | 1.5 oz | Campari |  |
@@ -32,7 +30,7 @@ date: 2026-09-27
 | 1/4 oz | Cynar |  |
 | 1/4 oz | Fernet Branca |  |
 | 1.5 dashes | 50/50 bitters | Half Regan’s Orange Bitters No. 6 and half Fee Brothers Orange Bitters |
-| | Oil from three swaths of orange |  |
+| 3 swaths | Orange Peel |  |
 
 
 ## Notes
@@ -49,8 +47,6 @@ date: 2026-09-27
 
 ## Rebalanced (per Anders Ericson)
 
-## Ingredients
-
 | Amount | Ingredient | Brand |
 | -----: | ---------- | ----- |
 | 1 oz | Campari |  |
@@ -59,7 +55,7 @@ date: 2026-09-27
 | 1/2 oz | Cynar |  |
 | 1/4 oz | Fernet Branca |  |
 | 2 dashes | 50/50 bitters | Half Regan’s Orange Bitters No. 6 and half Fee Brothers Orange Bitters |
-| |Oil from one swath of orange |  |
+| 1 swath | Orange Peel |  |
 
 ## Notes
 
@@ -69,5 +65,5 @@ date: 2026-09-27
   - Small Low Ball glass
 - Garnish: orange peel, orange twist
 - Special Prep: 
-  - Squeeze three swaths of orange peel across the top of the glass
+  - Squeeze one swaths of orange peel across the top of the glass
   - Served on a large ice cube
