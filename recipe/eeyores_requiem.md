@@ -39,7 +39,7 @@ date: 2026-09-27
 - Pour: Julep Strain
 - Glassware: 
   - Small Low Ball glass
-- Garnish: orange twist
+- Garnish: orange peel
 - Special Prep: Squeeze three swaths of orange peel across the top of the glass
 
 </div>
@@ -63,7 +63,7 @@ date: 2026-09-27
 - Pour: Julep Strain
 - Glassware: 
   - Small Low Ball glass
-- Garnish: orange peel, orange twist
+- Garnish: orange peel
 - Special Prep: 
   - Squeeze one swaths of orange peel across the top of the glass
   - Served on a large ice cube
