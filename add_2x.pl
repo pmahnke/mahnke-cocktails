@@ -219,45 +219,44 @@ while (my $file = readdir DIR) {
     foreach my $line (@file_lines) {
         if ($line =~ /^---\s*$/) {
             $dash_count++;
-            push @front_matter_lines, $line;
-            if ($dash_count == 2) {
-                $in_front_matter = 0;
-            } elsif ($dash_count == 1) {
+            if ($dash_count == 1) {
                 $in_front_matter = 1;
+                push @front_matter_lines, $line;
+                next;
+            } elsif ($dash_count == 2) {
+                $in_front_matter = 0;
+                push @front_matter_lines, $line;
+                next;
             }
-            next;
         }
 
-        # Extract iconfile value and compute ratings, but retain the line
-        if ($line =~ /^iconfile:\s*(.*)/) {
-            $iconfile_val = $1;
-            $iconfile_val =~ s/^\s+|\s+$//g;
-            $rating = &process_ratings($iconfile_val);
-        }
-        
-        # Extract specific cocktail image if present
-        if ($line =~ /^image:\s*(.*)/) {
-            $page_image = $1;
-            $page_image =~ s/['"]//g;
-            $page_image =~ s/^\s+|\s+$//g;
-        }
+        # Any line after the 2nd '---' is ALWAYS body, even if it has '---'
+        if ($in_front_matter && $dash_count == 1) {
+            if ($line =~ /^iconfile:\s*(.*)/) {
+                $iconfile_val = $1;
+                $iconfile_val =~ s/^\s+|\s+$//g;
+                $rating = &process_ratings($iconfile_val);
+            }
+            
+            if ($line =~ /^image:\s*(.*)/) {
+                $page_image = $1;
+                $page_image =~ s/['"]//g;
+                $page_image =~ s/^\s+|\s+$//g;
+            }
 
-        # Extract liquid color if present
-        if ($line =~ /^color:\s*(.*)/) {
-            $liquid_color = $1;
-            $liquid_color =~ s/['"]//g;
-            $liquid_color =~ s/^\s+|\s+$//g;
-            $has_color = 1;
-        }
+            if ($line =~ /^color:\s*(.*)/) {
+                $liquid_color = $1;
+                $liquid_color =~ s/['"]//g;
+                $liquid_color =~ s/^\s+|\s+$//g;
+                $has_color = 1;
+            }
 
-        # Extract explicit glass if present
-        if ($line =~ /^glass:\s*(.*)/) {
-            $fm_glass = $1;
-            $fm_glass =~ s/['"]//g;
-            $fm_glass =~ s/^\s+|\s+$//g;
-        }
+            if ($line =~ /^glass:\s*(.*)/) {
+                $fm_glass = $1;
+                $fm_glass =~ s/['"]//g;
+                $fm_glass =~ s/^\s+|\s+$//g;
+            }
 
-        if ($in_front_matter) {
             push @front_matter_lines, $line;
         } else {
             push @body_lines, $line;
@@ -275,7 +274,6 @@ while (my $file = readdir DIR) {
 
     my $full_body_text = join("", @body_lines);
     
-    # Isolate garnish lines and their indented sub-bullets to prevent false-positives
     my @garnish_lines;
     my $in_garnish_block = 0;
     foreach my $line (@body_lines) {
@@ -290,7 +288,6 @@ while (my $file = readdir DIR) {
     }
     my $garnish_text = join(" ", @garnish_lines);
 
-    # Automatically extract component matches from the full body text (including notes)
     my @found_glasses = find_matches($full_body_text, \%glassware);
     if ($fm_glass) {
         @found_glasses = ($fm_glass);
@@ -328,10 +325,8 @@ while (my $file = readdir DIR) {
     foreach my $line (@body_lines) {
         my ($minq, $maxq, $meas, $orig) = ("") x 4;
 
-        # convert internal liquid links
         $line =~ s/link recipe\//link recipe_processed\//;
 
-        # schema.org recipe and spirit info links
         if ($line =~ /^\|([^\|]*)\|([^\|]*)\|([^\|]*)/) {
             if ($1 !~ /(---|Amount)/) {
                 my $raw_amount = $1;
@@ -347,17 +342,16 @@ while (my $file = readdir DIR) {
                 my $lc_brand = lc($brand_spirit);
 
                 if ($spirit{$lc_raw}) {
-                    my $slug = $spirit{$lc_raw};
-                    my $spirit_link = qq|$raw_spirit [&#9432;](/spirit/$slug/ "More $raw_spirit recipes")|;
+                    my $slug_sp = $spirit{$lc_raw};
+                    my $spirit_link = qq|$raw_spirit [&#9432;](/spirit/$slug_sp/ "More $raw_spirit recipes")|;
                     $line =~ s/\Q$raw_spirit\E/$spirit_link/;
                 }
                 elsif ($spirit{$lc_brand}) {
-                    my $slug = $spirit{$lc_brand};
-                    my $spirit_link = qq|$brand_spirit [&#9432;](/spirit/$slug/ "More $brand_spirit recipes")|;
+                    my $slug_sp = $spirit{$lc_brand};
+                    my $spirit_link = qq|$brand_spirit [&#9432;](/spirit/$slug_sp/ "More $brand_spirit recipes")|;
                     $line =~ s/\Q$brand_spirit\E/$spirit_link/;
                 }
         
-                # schema.org recipe - only for the first recipe on the page
                 if (!$s_instructions) {
                     my $s_raw_ingredient = "$raw_amount $raw_spirit";
                     $s_raw_ingredient =~ s/\"/\'/g; 
@@ -380,10 +374,8 @@ while (my $file = readdir DIR) {
         
         $FLAGnotes = 1 if ($line =~ /\#\#+\s*Notes/ && !$s_instructions); 
 
-        # Convert any H3 markdown headings to H2
         $line =~ s/^### /## /;
 
-        # scaling
         if ($line =~ /\|\s+([0-9]+) to (\d+) ([^\|]*)/) {
             $orig = "$1 to $2 $3";
             $minq = $1 * 1.0;
@@ -411,7 +403,6 @@ while (my $file = readdir DIR) {
             $line =~ s/\Q$orig\E/$ml/;
         }
 
-        # convert fractions
         if ($line !~ /stars:/) {
             $line =~ s/(0\.125|\.125)/ <sup>1<\/sup>&frasl;<sub>8<\/sub>/g;
             $line =~ s/(0\.1666*7|\.1666*7)/ <sup>1<\/sup>&frasl;<sub>6<\/sub>/g;
@@ -494,29 +485,18 @@ $rating_json
     # ==========================================================================
     # Pass 3: Rebuild Front Matter with Injected Component Keys & Stars
     # ==========================================================================
-    my $final_front_matter = "";
-    my $current_dash_count = 0;
+    my $final_front_matter = "---\n";
+
+    if ($rating) {
+        $final_front_matter .= "stars: $rating\n";
+    }
 
     foreach my $line (@front_matter_lines) {
-        if ($line =~ /^---\s*$/) {
-            $current_dash_count++;
-            if ($current_dash_count == 2) {
-                if ($injected_image) {
-                    $final_front_matter .= "image: $page_image\n";
-                }
-                $final_front_matter .= "slug: $slug\n";
-                $final_front_matter .= build_yaml_entry('glass',     \@found_glasses);
-                $final_front_matter .= build_yaml_entry('garnishes', \@found_garnishes);
-                $final_front_matter .= build_yaml_entry('tools',     \@found_tools);
-                $final_front_matter .= build_yaml_entry('ice',       \@found_ice);
-                $final_front_matter .= build_yaml_entry('type',      \@found_types);
-            }
-        }
+        next if ($line =~ /^---\s*$/);
+        next if ($line =~ /^stars:/); 
+        next if ($line =~ /^glass:/); 
 
-        if ($line =~ /^stars:/) {
-            $final_front_matter .= "stars: $rating\n";
-        } 
-        elsif ($line =~ /^base_spirits:\s*(.*)/) {
+        if ($line =~ /^base_spirits:\s*(.*)/) {
             my $spirits_val = $1;
             $spirits_val =~ s/('|"|\[|\])//g; 
             $spirits_val =~ s/^\s+|\s+$//g;
@@ -526,18 +506,22 @@ $rating_json
             @items = grep { !$seen_spirits{$_}++ } sort @items;
 
             $final_front_matter .= "base_spirits: [" . join(", ", map { "'$_'" } @items) . "]\n";
-        } 
-        elsif ($line =~ /^glass:/) { 
-            next; 
-        }
-        else {
+        } else {
             $final_front_matter .= $line;
         }
     }
 
-    if ($rating && $final_front_matter !~ /^stars:/m) {
-        $final_front_matter =~ s/^---\s*$/---\nstars: $rating/m;
+    if ($injected_image) {
+        $final_front_matter .= "image: $page_image\n";
     }
+    $final_front_matter .= "slug: $slug\n";
+    $final_front_matter .= build_yaml_entry('glass',     \@found_glasses);
+    $final_front_matter .= build_yaml_entry('garnishes', \@found_garnishes);
+    $final_front_matter .= build_yaml_entry('tools',     \@found_tools);
+    $final_front_matter .= build_yaml_entry('ice',       \@found_ice);
+    $final_front_matter .= build_yaml_entry('type',      \@found_types);
+
+    $final_front_matter .= "---\n";
 
     my $outfile = $mydir.$file;
     open (NEWFILE, ">:utf8", "$outfile") or die "Cannot open newfile: $outfile\n";
@@ -669,7 +653,6 @@ $rating_json
 
                 my $im_cmd = ($^O eq 'darwin') ? 'magick' : 'convert';
 
-                # Cross-platform rasterization: render clean SVG -> temp PNG via rsvg-convert first
                 my $temp_raster = "$rootdir/assets/images/_temp_${slug}.png";
                 my $rsvg_bin = `which rsvg-convert 2>/dev/null`;
                 chomp($rsvg_bin);
@@ -788,18 +771,16 @@ sub process_ratings {
 }
 
 sub find_matches {
-    my ($text, $dictionary_ref) = @_;
+    my ($text,$dictionary_ref) = @_;
     my %found_ids;
 
-    my $clean_text = lc($text);
-    $clean_text =~ s/[\r\n]+/ /g;
+    my $clean_text = lc($text);$clean_text =~ s/[\r\n]+/ /g;
     $clean_text =~ s/[-*]/ /g;
     $clean_text =~ s/\s+/ /g;
 
     $clean_text =~ s/\([^)]+\)//g;
 
-    # Copy to a real hash to avoid any scalar/ref keys syntax restrictions in modern Perl
-    my %dict = %$dictionary_ref;
+    my %dict = %{$dictionary_ref};
     my @sorted_terms = sort { length($b) <=> length($a) } keys %dict;
 
     foreach my $search_term (@sorted_terms) {
@@ -815,7 +796,7 @@ sub find_matches {
 }
 
 sub build_yaml_entry {
-    my ($key,$items_ref) = @_;
+    my ($key, $items_ref) = @_;
     my @items = @$items_ref;
     my $result = "";
 
@@ -825,7 +806,7 @@ sub build_yaml_entry {
     @items = grep { !$seen{$_}++ } sort @items;
 
     if (scalar(@items) == 1) {
-        $result .= "$key:$items[0]\n";
+        $result .= "$key: $items[0]\n";   # <-- Added space after colon
     } else {
         $result .= "$key:\n";
         foreach my $item (@items) {
