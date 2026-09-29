@@ -103,7 +103,7 @@ my %garnishes = (
     'orange rind'              => 'garnish-orange_peel',
     'orange twist'             => 'twist_orange',
     'orange slice'             => 'garnish-orange_slice',
-    'orange slices'             => 'garnish-orange_slice',
+    'orange slices'            => 'garnish-orange_slice',
     'orange wheel'             => 'garnish-orange_wheel',
     'dehydrated orange wheel'  => 'garnish-dry_orange_wheel',
     'orange oil'               => 'garnish-orange_peel_oil',
@@ -275,8 +275,7 @@ while (my $file = readdir DIR) {
 
     my $full_body_text = join("", @body_lines);
     
-    # NEW: Isolate only the lines discussing garnishes to prevent ingredient false-positives
-    # NEW: Isolate garnish lines and their indented sub-bullets to prevent false-positives
+    # Isolate garnish lines and their indented sub-bullets to prevent false-positives
     my @garnish_lines;
     my $in_garnish_block = 0;
     foreach my $line (@body_lines) {
@@ -284,7 +283,6 @@ while (my $file = readdir DIR) {
             $in_garnish_block = 1;
             push @garnish_lines, $line;
         } elsif ($in_garnish_block && $line =~ /^\s+-/) {
-            # Keep capturing lines if they are indented sub-bullets
             push @garnish_lines, $line;
         } else {
             $in_garnish_block = 0;
@@ -293,15 +291,12 @@ while (my $file = readdir DIR) {
     my $garnish_text = join(" ", @garnish_lines);
 
     # Automatically extract component matches from the full body text (including notes)
-    my @found_glasses   = find_matches($full_body_text, \%glassware);
-    # If the front-matter already has a glass, force the script to use it
+    my @found_glasses = find_matches($full_body_text, \%glassware);
     if ($fm_glass) {
         @found_glasses = ($fm_glass);
     }
     
-    # NEW: Feed only the isolated garnish text to the garnish matcher
     my @found_garnishes = find_matches($garnish_text, \%garnishes);
-    # NEW: Check the ENTIRE file for carbonation to trigger bubbles
     my $entire_file_text = join("", @file_lines);
     if ($entire_file_text =~ /champagne|prosecco|cava|sparkling wine|club soda|soda water|tonic|ginger ale|ginger beer|lager|beer/i) {
         push @found_garnishes, 'bubbles';
@@ -321,9 +316,9 @@ while (my $file = readdir DIR) {
     if ($entire_file_text =~ /granita/i) {
         $granita = 1;
     }
-    my @found_tools     = find_matches($full_body_text, \%tools);
-    my @found_ice       = find_matches($full_body_text, \%ice_types);
-    my @found_types     = find_matches($full_body_text, \%cocktail_types);
+    my @found_tools = find_matches($full_body_text, \%tools);
+    my @found_ice   = find_matches($full_body_text, \%ice_types);
+    my @found_types = find_matches($full_body_text, \%cocktail_types);
 
     # ==========================================================================
     # Pass 2: Process Body Lines (Links, Scaling, Fractions, Schema)
@@ -378,12 +373,11 @@ while (my $file = readdir DIR) {
         $FLAGnotes = 0 if ($line =~ /<\/div>/ && $FLAGnotes); 
         
         if ($FLAGnotes && length($step) > 1 && $step !~ /^\s*$/) {
-            $step =~ s/^\s*[-*]\s*//; # Strip markdown bullets, including indented ones
-            $step =~ s/"/'/g;      # Prevent JSON escaping errors
+            $step =~ s/^\s*[-*]\s*//; 
+            $step =~ s/"/'/g;      
             $s_instructions .= qq |    {\n      "\@type": "HowToStep",\n      "text": "$step"\n    },\n|;
         }
         
-        # Trigger notes extraction whether the source uses ## or ###
         $FLAGnotes = 1 if ($line =~ /\#\#+\s*Notes/ && !$s_instructions); 
 
         # Convert any H3 markdown headings to H2
@@ -455,19 +449,16 @@ while (my $file = readdir DIR) {
   },|;
     }
 
-    # Format the correct image URL (Google JSON-LD requires raster formats like PNG)
     my $schema_img = "";
     if ($page_image) {
         my $raster_img = $page_image;
-        $raster_img =~ s/.*\///; # Strips any folder paths, keeping only the filename
-        $raster_img =~ s/\.svg$/.png/i; # Force PNG extension
+        $raster_img =~ s/.*\///;
+        $raster_img =~ s/\.svg$/.png/i; 
         $schema_img = "{{ site.url }}/assets/images/$raster_img";
     } else {
-        # Cleaned up Liquid fallback using native categories array
         $schema_img = "{{ site.url }}/assets/images/category_{{ page.categories | first }}.png";
     }
 
-    # Schema block builder
     $schema = qq ~\n
 <script type="application/ld+json">
 {
@@ -513,8 +504,7 @@ $rating_json
                 if ($injected_image) {
                     $final_front_matter .= "image: $page_image\n";
                 }
-                # Inject sorted component arrays right before the closing delimiter
-                $final_front_matter .= "slug: $slug\n";  # NEW: Inject slug for social image mapping
+                $final_front_matter .= "slug: $slug\n";
                 $final_front_matter .= build_yaml_entry('glass',     \@found_glasses);
                 $final_front_matter .= build_yaml_entry('garnishes', \@found_garnishes);
                 $final_front_matter .= build_yaml_entry('tools',     \@found_tools);
@@ -523,7 +513,6 @@ $rating_json
             }
         }
 
-        # Handle updating or injecting front matter lines
         if ($line =~ /^stars:/) {
             $final_front_matter .= "stars: $rating\n";
         } 
@@ -533,7 +522,6 @@ $rating_json
             $spirits_val =~ s/^\s+|\s+$//g;
             my @items = split /\s*,\s*/, $spirits_val;
             
-            # Sort and deduplicate base spirits to prevent diff noise
             my %seen_spirits;
             @items = grep { !$seen_spirits{$_}++ } sort @items;
 
@@ -547,7 +535,6 @@ $rating_json
         }
     }
 
-    # If stars wasn't in front matter yet, add it
     if ($rating && $final_front_matter !~ /^stars:/m) {
         $final_front_matter =~ s/^---\s*$/---\nstars: $rating/m;
     }
@@ -564,103 +551,63 @@ $rating_json
     # ==========================================================================
     if ($page_image && $page_image =~ /\.svg$/i) {
         
-        # 1. Determine the glass template
         my $template_glass = $found_glasses[0] || 'rocks'; 
         my $template_file = $rootdir . "/assets/images/master_" . $template_glass . ".svg";
         
         if (-e $template_file) {
-            # Determine output filename
             my $out_img = $page_image;
             $out_img =~ s/.*\///; 
             $out_img =~ s/\.svg$/_dynamic.svg/i unless $out_img =~ /_dynamic\.svg$/i;
             my $svg_out_path = $rootdir . "/assets/images/" . $out_img;
 
-            # TIMESTAMP CHECK: Skip if the generated SVG is newer than the recipe AND the template
             my $svg_mtime = -e $svg_out_path ? (stat($svg_out_path))[9] : 0;
             my $recipe_mtime = (stat($infile))[9];
             my $template_mtime = (stat($template_file))[9];
 
             if ($svg_mtime > $recipe_mtime && $svg_mtime > $template_mtime) {
-                # Skip DOM parsing completely
                 print "Skipped SVG: $out_img (Up to date)\n";
             } else {
-                # --- Proceed with DOM manipulation ---
-                
-                # Load from memory cache if available, otherwise read from disk
                 if (!$master_svg_cache{$template_glass}) {
                     open(TMPL, "<:utf8", $template_file) or warn "Cannot open $template_file\n";
                     $master_svg_cache{$template_glass} = join("", <TMPL>);
                     close(TMPL);
                 }
                 
-                # Use the cached string
                 my $svg_content = $master_svg_cache{$template_glass};
                 my $dom = Mojo::DOM->new($svg_content);
 
-                # 2a. Inject the Main Liquid Color
+                # 2a. Inject Main Liquid Color
                 if (my $liquid = $dom->at('#liquid-fill')) {
-                    $liquid->attr(fill => $liquid_color);
-                    if (my $style = $liquid->attr('style')) {
-                        $style =~ s/fill:\s*[^;]+;?//ig;
-                        $liquid->attr(style => "$style fill:$liquid_color;");
-                    }
+                    update_svg_style($liquid, "fill:$liquid_color;");
                 }
 
-                # 2b. Calculate and Inject the Foam Color (15% lighter)
+                # 2b. Calculate and Inject Foam Color
                 my $foam_color = lighten_color($liquid_color, 0.4);
-                my $opstyle = "opacity: 0.80;fill-opacity: 1";
-                 if ($egg_white) {
-                    $foam_color = "\#fefaec";
-                    $opstyle = "opacity: 0.95;fill-opacity: 1;"
+                my $foam_extra = "opacity:0.80;fill-opacity:1;";
+                if ($egg_white) {
+                    $foam_color = "#fefaec";
+                    $foam_extra = "opacity:0.95;fill-opacity:1;";
                 }
-                $foam_color = "\#b0044e" if ($wine_float); 
-                $foam_color = "\#$foam" if ($foam); 
+                $foam_color = "#b0044e" if ($wine_float); 
+                $foam_color = "#$foam" if ($foam); 
                 
-                if (my $foam = $dom->at('#liquid-foam')) {
-                    $foam->attr(fill => $foam_color);
-                    if (my $style = $foam->attr('style')) {
-                        $style =~ s/fill:\s*[^;]+;?//ig;
-                        $foam->attr(style => "$style fill:$foam_color;$opstyle");
-                    }
+                if (my $foam_el = $dom->at('#liquid-foam')) {
+                    update_svg_style($foam_el, "fill:$foam_color;$foam_extra");
                 }
-                if (my $foam = $dom->at('#liquid-foam2')) {
-                    $foam->attr(fill => $foam_color);
-                    if (my $style = $foam->attr('style')) {
-                        $style =~ s/fill:\s*[^;]+;?//ig;
-                        $foam->attr(style => "$style fill:$foam_color;$opstyle");
-                    }
+                if (my $foam_el2 = $dom->at('#liquid-foam2')) {
+                    update_svg_style($foam_el2, "fill:$foam_color;$foam_extra");
                 }
 
-                # 2c. glass highlight color (15% lighter than liquid)
+                # 2c. Glass highlight color
                 my $highlight_color = darken_color($liquid_color, 0.1);
                 if (my $highlight = $dom->at('#liquid-highlight')) {
-                    $highlight->attr(fill => $highlight_color);
-                    if (my $style = $highlight->attr('style')) {
-                        $style =~ s/fill:\s*[^;]+;?//ig;
-                        $highlight->attr(style => "$style fill:$highlight_color;");
-                    }
+                    update_svg_style($highlight, "fill:$highlight_color;");
                 }
 
-                # 2d. granita color (15% lighter than liquid)
-                if (my $granita = $dom->at('#granita1')) {
-                    $granita->attr(fill => $foam_color);
-                    if (my $style = $granita->attr('style')) {
-                        $style =~ s/fill:\s*[^;]+;?//ig;
-                        $granita->attr(style => "$style fill:$foam_color;");
-                    }
-                }
-                if (my $granita = $dom->at('#granita2')) {
-                    $granita->attr(fill => $foam_color);
-                    if (my $style = $granita->attr('style')) {
-                        $style =~ s/fill:\s*[^;]+;?//ig;
-                        $granita->attr(style => "$style fill:$foam_color;");
-                    }
-                }
-                if (my $granita = $dom->at('#granita3')) {
-                    $granita->attr(fill => $foam_color);
-                    if (my $style = $granita->attr('style')) {
-                        $style =~ s/fill:\s*[^;]+;?//ig;
-                        $granita->attr(style => "$style fill:$foam_color;");
+                # 2d. Granita color
+                for my $g_id ('#granita1', '#granita2', '#granita3') {
+                    if (my $granita_el = $dom->at($g_id)) {
+                        update_svg_style($granita_el, "fill:$foam_color;");
                     }
                 }
 
@@ -674,13 +621,16 @@ $rating_json
                 $all_slugs{$_} = 1 for values %ice_types;
                 $all_slugs{'bubbles'} = 1; 
 
-                foreach my $slug (keys %all_slugs) {
-                    if (my $el = $dom->at("#$slug")) {
-                        if ($found_lookup{$slug}) {
+                foreach my $slug_key (keys %all_slugs) {
+                    if (my $el = $dom->at("#$slug_key")) {
+                        if ($found_lookup{$slug_key}) {
                             $el->attr(display => 'inline');
                             if (my $style = $el->attr('style')) {
-                                $style =~ s/display:\s*[^;]+;?//ig;
-                                $el->attr(style => "$style display:inline;");
+                                $style =~ s/(?:^|;)\s*display\s*:[^;]+//ig;
+                                $style =~ s/^;+//;
+                                $style =~ s/;+$//;
+                                $style = $style ? "$style;display:inline;" : "display:inline;";
+                                $el->attr(style => $style);
                             }
                         } else {
                             $el->remove;
@@ -697,7 +647,7 @@ $rating_json
                 print "Generated SVG: $svg_out_path\n";
 
                 # -------------------------------------------------------------
-                # NEW: Generate Raster Social PNGs (Excluded from Git)
+                # Generate Raster Social PNGs (Excluded from Git)
                 # -------------------------------------------------------------
                 my $social_dir = $rootdir . "/assets/images/social";
                 mkdir $social_dir unless -d $social_dir;
@@ -708,26 +658,35 @@ $rating_json
                 my $landscape_out = "$social_dir/${slug}_landscape.png";
                 my $pinterest_out = "$pinterest_dir/${slug}_pin.png";
 
-                # Format a clean title from the slug (e.g., "navy_grog" -> "Navy Grog")
                 my $display_title = $slug;
                 $display_title =~ s/[_-]/ /g;
                 $display_title =~ s/\b(\w)/\U$1/g;
 
-                # FONT HANDLING
                 my $font_path = "$rootdir/assets/fonts/Raleway-Bold.ttf";
                 unless (-e $font_path) {
                     $font_path = (-e "/Library/Fonts/Arial.ttf") ? "/Library/Fonts/Arial.ttf" : "/usr/share/fonts/truetype/msttcorefonts/Arial.ttf";
                 }
 
-                # OS DETECTION: Use 'magick' on Mac (darwin) and 'convert' on Ubuntu (linux)
                 my $im_cmd = ($^O eq 'darwin') ? 'magick' : 'convert';
 
-                # Landscape (1200x630)
-                system("$im_cmd -density 300 \"$svg_out_path\" -trim +repage -resize x550 -background white -gravity center -extent 1200x630 \"$landscape_out\"");
+                # Cross-platform rasterization: render clean SVG -> temp PNG via rsvg-convert first
+                my $temp_raster = "$rootdir/assets/images/_temp_${slug}.png";
+                my $rsvg_bin = `which rsvg-convert 2>/dev/null`;
+                chomp($rsvg_bin);
+
+                if ($rsvg_bin && -x$rsvg_bin) {
+                    system("$rsvg_bin -d 300 -p 300 \"$svg_out_path\" -o \"$temp_raster\"");
+                } else {
+                    system("$im_cmd -density 300 \"$svg_out_path\" \"$temp_raster\"");
+                }
+
+                # 1. Landscape (1200x630)
+                system("$im_cmd \"$temp_raster\" -trim +repage -resize x550 -background white -gravity center -extent 1200x630 \"$landscape_out\"");
                 
-                # Pinterest Vertical (1000x1500)
-                # FIX: Adjusted pointsize to 17 to replicate the visual size of a 70pt font at 72 DPI
-                system("$im_cmd -density 300 \"$svg_out_path\" -trim +repage -resize x950 -background white -gravity center -extent 1000x1500 -font \"$font_path\" -fill \"#231f20\" -pointsize 17 -gravity north -annotate +0+130 \"$display_title\" \"$pinterest_out\"");
+                # 2. Pinterest Vertical (1000x1500)
+                system("$im_cmd \"$temp_raster\" -trim +repage -resize x950 -background white -gravity center -extent 1000x1500 -font \"$font_path\" -fill \"#231f20\" -pointsize 17 -gravity north -annotate +0+130 \"$display_title\" \"$pinterest_out\"");
+
+                unlink $temp_raster if -e$temp_raster;
 
                 print "Generated Social PNGs for $slug\n";
             }
@@ -739,57 +698,77 @@ $rating_json
 
 exit;
 
+# ==============================================================================
+# Helper: Robust SVG Style Attribute Updater
+# ==============================================================================
+sub update_svg_style {
+    my ($element,$new_declarations) = @_;
+    return unless $element;
+
+    if ($new_declarations =~ /fill:\s*([^;]+)/i) {$element->attr(fill => $1);
+    }
+
+    my $style =$element->attr('style') || '';
+
+    $style =~ s/(?:^|;)\s*fill\s*:[^;]+//ig;
+    if ($new_declarations =~ /opacity:/i) {$style =~ s/(?:^|;)\s*opacity\s*:[^;]+//ig;
+    }
+    if ($new_declarations =~ /fill-opacity:/i) {$style =~ s/(?:^|;)\s*fill-opacity\s*:[^;]+//ig;
+    }
+
+    $style =~ s/^;+//;$style =~ s/;+$//;$new_declarations =~ s/^;+//;
+    $new_declarations =~ s/;+$//;
+
+    my $merged_style = $style ? "$style;$new_declarations;" : "$new_declarations;";
+    $element->attr(style =>$merged_style);
+}
+
 sub convert {
-    my $meas  = $_[0];
-    my $scale = $_[1];
-    my $minq  = $_[2];
+    my $meas  =$_[0];
+    my $scale =$_[1];
+    my $minq  =$_[2];
     my $maxq  = $_[3] if ($_[3]);
     my $out   = "";
     my $FLAGoz = 0;
-    my ($minml, $maxml);
+    my ($minml,$maxml);
 
     $minq = $minq * $scale;
-    $maxq = $maxq * $scale if ($maxq);
+    $maxq =$maxq * $scale if ($maxq);
 
-    if ($meas =~ /oz/i) {
-        $FLAGoz = 1;
-        $minml = $minq * 30;
+    if ($meas =~ /oz/i) {$FLAGoz = 1;
+        $minml =$minq * 30;
         $maxml = $maxq * 30 if ($maxq);
     }
 
-    if ($meas =~ /ml/i) {
-        $FLAGoz = 1;
-        $minml = $minq;
-        $maxml = $maxq;
-        $minq = $minq / 30;
-        $maxq = $maxq / 30 if ($maxq);
-        $meas = "oz";
+    if ($meas =~ /ml/i) {$FLAGoz = 1;
+        $minml =$minq;
+        $maxml =$maxq;
+        $minq =$minq / 30;
+        $maxq =$maxq / 30 if ($maxq);$meas = "oz";
     }
 
-    if ($meas =~ /dash/) { $meas = "dashes"; } 
-    elsif ($meas =~ /barspoon/) { $meas = "barspoons"; } 
-    elsif ($meas =~ /swath/) { $meas = "swathes"; } 
-    elsif ($meas =~ /teaspoon/) { $meas = "teaspoons"; } 
-    elsif ($meas =~ /tablespoon/) { $meas = "tablespoons"; } 
+    if ($meas =~ /dash/) {$meas = "dashes"; } 
+    elsif ($meas =~ /barspoon/) {$meas = "barspoons"; } 
+    elsif ($meas =~ /swath/) {$meas = "swathes"; } 
+    elsif ($meas =~ /teaspoon/) {$meas = "teaspoons"; } 
+    elsif ($meas =~ /tablespoon/) {$meas = "tablespoons"; } 
 
-    $minml = nearest(1, $minml) if ($minml);
-    $maxml = nearest(1, $maxml) if ($maxml);
+    $minml = nearest(1,$minml) if ($minml);$maxml = nearest(1, $maxml) if ($maxml);
 
-    $out = $minq;
+    $out =$minq;
     $out .= " to " . $maxq if ($maxq);
     $out .= " $meas";
 
     if ($FLAGoz) {
         $out .= " / $minml";
-        $out .= " to " . $maxml if ($maxml);
-        $out .= " ml";
+        $out .= " to " . $maxml if ($maxml);$out .= " ml";
     }
 
     return($out);
 }
 
 sub process_ratings {
-    my ($stars, $count) = (0, 0);
+    my ($stars,$count) = (0, 0);
     my $rating_file = $rootdir . "/_data/ratings/" . $_[0] . ".yaml";
     return(0) if (!-e "$rating_file");
 
@@ -809,48 +788,44 @@ sub process_ratings {
 }
 
 sub find_matches {
-    my ($text,$dictionary_ref) = @_;
+    my ($text, $dictionary_ref) = @_;
     my %found_ids;
 
-    my $clean_text = lc($text);$clean_text =~ s/[\r\n]+/ /g;
+    my $clean_text = lc($text);
+    $clean_text =~ s/[\r\n]+/ /g;
     $clean_text =~ s/[-*]/ /g;
     $clean_text =~ s/\s+/ /g;
 
-    # STRATEGY 1: Ignore anything inside parentheses so alternatives (or lime wheel) aren't matched
     $clean_text =~ s/\([^)]+\)//g;
 
-    # STRATEGY 2: Sort search terms from longest to shortest to prevent substring overlap
-    # (e.g., matches "dry lemon wheel" before it can match just "lemon wheel")
-    my @sorted_terms = sort { length($b) <=> length($a) } keys %$dictionary_ref;
+    # Copy to a real hash to avoid any scalar/ref keys syntax restrictions in modern Perl
+    my %dict = %$dictionary_ref;
+    my @sorted_terms = sort { length($b) <=> length($a) } keys %dict;
 
     foreach my $search_term (@sorted_terms) {
-        my $id = $dictionary_ref->{$search_term};
+        my $id = $dict{$search_term};
         my $lc_term = lc($search_term);
         
         if ($clean_text =~ /\b\Q$lc_term\E\b/) {
             $found_ids{$id} = 1;
-            
-            # STRATEGY 3: "Mask" the found text so smaller substrings inside it aren't also matched
             $clean_text =~ s/\b\Q$lc_term\E\b/ MATCHED /g;
         }
     }
     return keys %found_ids;
-
 }
 
 sub build_yaml_entry {
-    my ($key, $items_ref) = @_;
+    my ($key,$items_ref) = @_;
     my @items = @$items_ref;
     my $result = "";
 
     return $result if !@items;
 
-    # Sort alphabetically and deduplicate to stop random git diffs
     my %seen;
     @items = grep { !$seen{$_}++ } sort @items;
 
     if (scalar(@items) == 1) {
-        $result .= "$key: $items[0]\n";
+        $result .= "$key:$items[0]\n";
     } else {
         $result .= "$key:\n";
         foreach my $item (@items) {
@@ -862,42 +837,39 @@ sub build_yaml_entry {
 
 sub read_spirit_data {
     my $spirit_dir = '_spirit';
-    opendir(my $dh, $spirit_dir) or die "Can't open directory $spirit_dir:$!";
+    opendir(my $dh,$spirit_dir) or die "Can't open directory $spirit_dir:$!";
     my @files = grep { /\.md$/ && -f "$spirit_dir/$_" } readdir($dh);
     closedir($dh);
 
     for my $file (@files) {
         my $filepath = "$spirit_dir/$file";
-        open(my $fh, '<:encoding(UTF-8)', $filepath) or warn "Can't open $filepath:$!";
+        open(my $fh, '<:encoding(UTF-8)',$filepath) or warn "Can't open $filepath:$!";
         
         my $front_matter = "";
         my $in_yaml = 0;
         
-        while (my $line = <$fh>) {
-            $line =~ s/^\x{FEFF}//; 
+        while (my $line = <$fh>) {$line =~ s/^\x{FEFF}//; 
             if ($line =~ /^---\s*$/) {
-                if ($in_yaml) { last; } else { $in_yaml = 1; next; }
+                if ($in_yaml) { last; } else {$in_yaml = 1; next; }
             }
-            $front_matter .= $line if $in_yaml;
+            $front_matter .= $line if$in_yaml;
         }
         close($fh);
 
         if ($front_matter) {
             my $yaml_data = eval { Load($front_matter) };
             
-            if ($@ || ref $yaml_data ne 'HASH') {
-                $yaml_data = {};
+            if ($@ || ref $yaml_data ne 'HASH') {$yaml_data = {};
                 while ($front_matter =~ /^([a-zA-Z0-9_-]+):\s*(["']?)(.*?)\2\s*$/gm) {
                     $yaml_data->{$1} = $3;
                 }
             }
 
-            my $slug = $yaml_data->{slug} // do {
-                my $s = $file; $s =~ s/\.md$//; $s;
+            my $slug =$yaml_data->{slug} // do {
+                my $s = $file; $s =~ s/\.md$//;$s;
             };
             
-            $slug = lc($slug);
-            $slug =~ s/[àâä]/a/g;
+            $slug = lc($slug);$slug =~ s/[àâä]/a/g;
             $slug =~ s/[éèêë]/e/g;
             $slug =~ s/[îï]/i/g;
             $slug =~ s/[ôö]/o/g;
@@ -914,23 +886,19 @@ sub read_spirit_data {
             
             $slug =~ s/[^a-z0-9_\-]+/_/g;
 
-            my $name = $yaml_data->{title} // $yaml_data->{name} // ''; 
+            my $name = $yaml_data->{title} //$yaml_data->{name} // ''; 
             
-            if ($name) {
-                $name =~ s/['"]//g;
+            if ($name) {$name =~ s/['"]//g;
                 $name =~ s/\s+/ /g;
-                $name =~ s/^\s+//; $name =~ s/\s+$//; 
-                $spirit{lc($name)} = $slug;
+                $name =~ s/^\s+//;$name =~ s/\s+$//;$spirit{lc($name)} =$slug;
             }
             
             if ($yaml_data->{aliases}) {
-                my $aliases = $yaml_data->{aliases};
+                my $aliases =$yaml_data->{aliases};
                 if (ref $aliases eq 'ARRAY') {
-                    foreach my $alias (@$aliases) {
-                        $alias =~ s/['"]//g;
+                    foreach my $alias (@$aliases) {$alias =~ s/['"]//g;
                         $alias =~ s/\s+/ /g;
-                        $alias =~ s/^\s+//; $alias =~ s/\s+$//; 
-                        $spirit{lc($alias)} = $slug;
+                        $alias =~ s/^\s+//;$alias =~ s/\s+$//;$spirit{lc($alias)} =$slug;
                     }
                 }
             }
@@ -938,48 +906,30 @@ sub read_spirit_data {
     }
 }
 
-# ==========================================================================
-# Helper: Lighten a Hex Color
-# ==========================================================================
 sub lighten_color {
-    my ($hex, $percent) = @_;
+    my ($hex, $percent) = @_;$hex =~ s/[#\s]//g;
     
-    # Strip any hashes or whitespace globally
-    $hex =~ s/[#\s]//g;
-    
-    # Extract RGB values
     my $r = hex(substr($hex, 0, 2));
     my $g = hex(substr($hex, 2, 2));
     my $b = hex(substr($hex, 4, 2));
 
-    # Push each channel toward 255 based on the percentage
-    $r = int($r + (255 - $r) * $percent);
-    $g = int($g + (255 - $g) * $percent);
-    $b = int($b + (255 - $b) * $percent);
+    $r = int($r + (255 - $r) *$percent);
+    $g = int($g + (255 - $g) *$percent);
+    $b = int($b + (255 - $b) *$percent);
 
-    # Format back into a 6-character hex string
-    return sprintf("#%02x%02x%02x", $r, $g, $b);
+    return sprintf("#%02x%02x%02x", $r, $g,$b);
 }
 
-# ==========================================================================
-# Helper: Darken a Hex Color
-# ==========================================================================
 sub darken_color {
-    my ($hex, $percent) = @_;
+    my ($hex, $percent) = @_;$hex =~ s/[#\s]//g;
     
-    # Strip any hashes or whitespace globally
-    $hex =~ s/[#\s]//g;
-    
-    # Extract RGB values
     my $r = hex(substr($hex, 0, 2));
     my $g = hex(substr($hex, 2, 2));
     my $b = hex(substr($hex, 4, 2));
 
-    # Push each channel toward 0 based on the percentage
     $r = int($r - ($r * $percent));
     $g = int($g - ($g * $percent));
     $b = int($b - ($b * $percent));
 
-    # Format back into a 6-character hex string
-    return sprintf("#%02x%02x%02x", $r, $g, $b);
+    return sprintf("#%02x%02x%02x", $r, $g,$b);
 }
