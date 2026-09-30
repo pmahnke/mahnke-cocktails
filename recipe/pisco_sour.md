@@ -6,7 +6,7 @@ categories: [sour]
 eras: [classic]
 permalink: "/recipe/pisco_sour/"
 iconfile: pisco_sour
-image: /assets/images/cocktail_pisco_sour.svg
+color: #e2e390
 stars: 5
 base_spirits: "Pisco "
 youtube: "FdAQ96mYwNQ"
@@ -31,6 +31,6 @@ date: 2025-08-11
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: Wine
-- Garnish: None
+- Glassware: Nick & Nora
+- Garnish: Three drops of angostura on the foam
 - Special Prep: For best results in texture, dry shake (shake without ice) before chilling to agitate either the egg white or aquafaba.

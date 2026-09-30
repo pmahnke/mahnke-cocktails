@@ -664,10 +664,10 @@ $rating_json
                 }
 
                 # 1. Landscape (1200x630)
-                system("$im_cmd \"$temp_raster\" -trim +repage -resize x550 -background white -gravity center -extent 1200x630 \"$landscape_out\"");
+                system("$im_cmd \"$temp_raster\" -trim +repage -resize x550 -background white -gravity center -extent 1200x630 \"$landscape_out\" 2>/dev/null");
                 
                 # 2. Pinterest Vertical (1000x1500)
-                system("$im_cmd \"$temp_raster\" -trim +repage -resize x950 -background white -gravity center -extent 1000x1500 -font \"$font_path\" -fill \"#231f20\" -pointsize 17 -gravity north -annotate +0+130 \"$display_title\" \"$pinterest_out\"");
+                system("$im_cmd \"$temp_raster\" -trim +repage -resize x950 -background white -gravity center -extent 1000x1500 -font \"$font_path\" -fill \"#231f20\" -pointsize 17 -gravity north -annotate +0+130 \"$display_title\" \"$pinterest_out\" 2>/dev/null");
 
                 unlink $temp_raster if -e$temp_raster;
 

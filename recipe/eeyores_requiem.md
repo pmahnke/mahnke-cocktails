@@ -45,7 +45,7 @@ date: 2026-09-27
 </div>
 <div class="subrecipe" markdown="1">
 
-## Rebalanced (per Anders Ericson)
+## Rebalanced (per Anders Erickson)
 
 | Amount | Ingredient | Brand |
 | -----: | ---------- | ----- |
