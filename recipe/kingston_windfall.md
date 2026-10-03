@@ -10,9 +10,9 @@ color: "#E08945"
 stars: 0
 base_spirits: "Jamaican Rum"
 youtube: "AJg4Lva1yK8&t=609s"
-description: "This is a sour style rum cocktail with a hint of apples."
+description: "A bright autumn sour pairing Jamaican rum with spiced apple cider reduction, floral honey, and fresh lemon."
 excerpt: |
-  This is an Anders original cocktail. It is a sour style Jamaican rum cocktail with a hint of apples and honey.
+  Anders Erickson's vibrant autumn sour marries the grassy funk and warm oak of Jamaican rum with tart lemon juice, a rich apple cider reduction, and a touch of honey syrup for depth.
 date: 2026-10-03
 ---
 
@@ -30,7 +30,6 @@ date: 2026-10-03
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware:
-  - Coupe
-- Garnish: apple slice
+- Glassware: Coupe
+- Garnish: Apple Slice
 - Special Prep: None

@@ -10,9 +10,9 @@ color: "#D27937"
 stars: 0
 base_spirits: "Rye, Sweet Vermouth"
 youtube: "AJg4Lva1yK8&t=446s"
-description: "This is a riff on a rye manhattan using a small amount of reduced apple cider syrup."
+description: "An autumn-forward Manhattan riff pairing bonded rye and Cocchi Vermouth di Torino with spiced, reduced apple cider syrup."
 excerpt: |
-  This is an Anders original. It is a riff on a rye manhattan, using a small amount of reduced apple cider syrup to punch up the apple flavor.
+  Anders Erickson’s seasonal take on the classic Manhattan introduces a barspoon of deeply reduced apple cider syrup. Backed by high-proof rye and rich sweet vermouth, it delivers rich orchard fruit and baking spice without tipping the balance into excess sweetness.
 date: 2026-10-03
 ---
 
@@ -28,9 +28,8 @@ date: 2026-10-03
 
 ## Notes
 
-- Method: Shaken
-- Pour: Double Strain
-- Glassware:
-  - Nick & Nora glass
-- Garnish: apple slices
+- Method: Stirred
+- Pour: Julep Strain
+- Glassware: Nick & Nora glass
+- Garnish: Apple slices
 - Special Prep: None
