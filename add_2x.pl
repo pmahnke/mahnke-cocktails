@@ -547,10 +547,12 @@ $rating_json
             my $svg_mtime = -e $svg_out_path ? (stat($svg_out_path))[9] : 0;
             my $recipe_mtime = (stat($infile))[9];
             my $template_mtime = (stat($template_file))[9];
+            my $script_mtime = (stat($0))[9];
 
-            if ($svg_mtime > $recipe_mtime && $svg_mtime > $template_mtime) {
+            if ($svg_mtime > $recipe_mtime && $svg_mtime > $template_mtime && $svg_mtime > $script_mtime) {
                 print "Skipped SVG: $out_img (Up to date)\n";
             } else {
+                # Generate SVG and Social PNGs
                 if (!$master_svg_cache{$template_glass}) {
                     open(TMPL, "<:utf8", $template_file) or warn "Cannot open $template_file\n";
                     $master_svg_cache{$template_glass} = join("", <TMPL>);
@@ -663,11 +665,33 @@ $rating_json
                     system("$im_cmd -density 300 \"$svg_out_path\" \"$temp_raster\"");
                 }
 
-                # 1. Landscape (1200x630)
-                system("$im_cmd \"$temp_raster\" -trim +repage -resize x550 -background white -gravity center -extent 1200x630 \"$landscape_out\" 2>/dev/null");
+                # 1. Landscape (1200x630) - Side-by-side layout
+                my $temp_text = "$rootdir/assets/images/_temp_text_${slug}.png";
+
+                # 1a. Generate the auto-wrapped title card (550px wide, max 50pt)
+                system("$im_cmd -size 550x260 -background white -fill \"#231f20\" -font \"$font_path\" -pointsize 50 -gravity west caption:\"$display_title\" \"$temp_text\"");
+
+                # 1b. Create the 1200x630 canvas, paste text on left (+80), paste drink on right (+100)
+                system("$im_cmd -size 1200x630 xc:white " .
+                       "\"$temp_text\" -gravity west -geometry +80+0 -composite " .
+                       "\\( \"$temp_raster\" -trim +repage -resize x520 \\) -gravity east -geometry +100+0 -composite " .
+                       "\"$landscape_out\"");
+
+                unlink $temp_text if -e $temp_text;
                 
                 # 2. Pinterest Vertical (1000x1500)
-                system("$im_cmd \"$temp_raster\" -trim +repage -resize x950 -background white -gravity center -extent 1000x1500 -font \"$font_path\" -fill \"#231f20\" -pointsize 17 -gravity north -annotate +0+130 \"$display_title\" \"$pinterest_out\" 2>/dev/null");
+                my $temp_pin_text = "$rootdir/assets/images/_temp_pin_text_${slug}.png";
+
+                # 2a. Generate auto-wrapping title card (800px wide, max 80pt, centered)
+                system("$im_cmd -size 800x240 -background white -fill \"#231f20\" -font \"$font_path\" -pointsize 80 -gravity center caption:\"$display_title\" \"$temp_pin_text\"");
+
+                # 2b. Composite title near the top (+0+80) and cocktail centered below (+0+60)
+                system("$im_cmd -size 1000x1500 xc:white " .
+                       "\"$temp_pin_text\" -gravity north -geometry +0+80 -composite " .
+                       "\\( \"$temp_raster\" -trim +repage -resize x950 \\) -gravity center -geometry +0+60 -composite " .
+                       "\"$pinterest_out\"");
+
+                unlink $temp_pin_text if -e $temp_pin_text;
 
                 unlink $temp_raster if -e$temp_raster;
 
