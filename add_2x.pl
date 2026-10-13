@@ -321,6 +321,7 @@ while (my $file = readdir DIR) {
     # Pass 2: Process Body Lines (Links, Scaling, Fractions, Schema)
     # ==========================================================================
     my ($out, $schema, $s_ingredient, $s_instructions, $FLAGnotes) = ("") x 5;
+    my $pending_label = "";
 
     foreach my $line (@body_lines) {
         my ($minq, $maxq, $meas, $orig) = ("") x 4;
@@ -368,8 +369,19 @@ while (my $file = readdir DIR) {
         
         if ($FLAGnotes && length($step) > 1 && $step !~ /^\s*$/) {
             $step =~ s/^\s*[-*]\s*//; 
-            $step =~ s/"/'/g;      
-            $s_instructions .= qq |    {\n      "\@type": "HowToStep",\n      "text": "$step"\n    },\n|;
+            $step =~ s/"/'/g;
+            $step =~ s/^\s+|\s+$//g;
+
+            # If line is a standalone label ending with a colon (e.g., "Glassware:")
+            if ($step =~ /^[A-Za-z\s]+:$/) {
+                $pending_label = $step;
+            } else {
+                if ($pending_label) {
+                    $step = "$pending_label $step";
+                    $pending_label = "";
+                }
+                $s_instructions .= qq |    {\n      "\@type": "HowToStep",\n      "text": "$step"\n    },\n|;
+            }
         }
         
         $FLAGnotes = 1 if ($line =~ /\#\#+\s*Notes/ && !$s_instructions); 
@@ -472,7 +484,7 @@ $s_instructions
   "recipeCategory": "cocktail",
 $rating_json
   "recipeCuisine": "global",
-  "prepTime": "PT20M",
+  "prepTime": "PT2M",
   "cookTime": "PT15S",
   "keywords": "{{ page.title }}, cocktail, {{ page.eras }}, {% include category_metadata.html %}, {% include spirits_metadata.html %}"
 }
@@ -677,7 +689,7 @@ $rating_json
                        "\\( \"$temp_raster\" -trim +repage -resize x520 \\) -gravity east -geometry +100+0 -composite " .
                        "\"$landscape_out\"");
 
-                unlink $temp_text if -e $temp_text;
+                unlink $temp_text if -e$temp_text;
                 
                 # 2. Pinterest Vertical (1000x1500)
                 my $temp_pin_text = "$rootdir/assets/images/_temp_pin_text_${slug}.png";
@@ -691,7 +703,7 @@ $rating_json
                        "\\( \"$temp_raster\" -trim +repage -resize x950 \\) -gravity center -geometry +0+60 -composite " .
                        "\"$pinterest_out\"");
 
-                unlink $temp_pin_text if -e $temp_pin_text;
+                unlink $temp_pin_text if -e$temp_pin_text;
 
                 unlink $temp_raster if -e$temp_raster;
 
@@ -830,7 +842,7 @@ sub build_yaml_entry {
     @items = grep { !$seen{$_}++ } sort @items;
 
     if (scalar(@items) == 1) {
-        $result .= "$key: $items[0]\n";   # <-- Added space after colon
+        $result .= "$key: $items[0]\n";   # <-- Added space
     } else {
         $result .= "$key:\n";
         foreach my $item (@items) {

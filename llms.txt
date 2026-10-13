@@ -1,0 +1,16 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# {{ site.title }}
+
+> {{ site.description }}
+
+This file provides a machine-readable directory of cocktail recipes published on {{ site.title }}.
+
+## Recipes
+
+{%- assign recipe_pages = site.pages | where: "layout", "recipe" | sort: "title" -%}
+{%- for item in recipe_pages -%}
+- [{{ item.title }}]({{ item.url | absolute_url }}): {{ item.description | default: item.excerpt | strip_html | strip_newlines | truncate: 140 }}
+{% endfor %}
