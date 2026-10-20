@@ -11,7 +11,7 @@ layout: null
     {% assign recipe_pages = site.pages | where: "layout", "recipe" | sort: "date" | reverse %}
     {% for recipe in recipe_pages limit:30 %}
     <item>
-      <title>{{ recipe.title }}</title>
+      <title>{{ recipe.title | xml_escape }}</title>
       <link>{{ site.url }}{{ recipe.url | replace:'index.html','' }}</link>
       <description>{{ recipe.description | strip_html | xml_escape }}</description>
       {% if recipe.slug %}
