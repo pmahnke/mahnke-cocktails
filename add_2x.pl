@@ -205,6 +205,7 @@ while (my $file = readdir DIR) {
     my @front_matter_lines;
     my @body_lines;
     my $dash_count = 0;
+    my $recipe_title = "";
     my $rating = 0;
     my $iconfile_val = "";
     my $page_image = "";
@@ -232,6 +233,15 @@ while (my $file = readdir DIR) {
 
         # Any line after the 2nd '---' is ALWAYS body, even if it has '---'
         if ($in_front_matter && $dash_count == 1) {
+            # Extract real title from front matter
+            if ($line =~ /^title:\s*(.*)/) {
+                $recipe_title = $1;
+                $recipe_title =~ s/^\s+|\s+$//g;
+                # Strip wrapping quotes if present: "O'Doherty's..." -> O'Doherty's...
+                $recipe_title =~ s/^["'](.*)["']$/$1/;
+                $recipe_title =~ s/\\(['"])/$1/g;
+            }
+
             if ($line =~ /^iconfile:\s*(.*)/) {
                 $iconfile_val = $1;
                 $iconfile_val =~ s/^\s+|\s+$//g;
@@ -656,9 +666,20 @@ $rating_json
                 my $landscape_out = "$social_dir/${slug}_landscape.png";
                 my $pinterest_out = "$pinterest_dir/${slug}_pin.png";
 
-                my $display_title = $slug;
-                $display_title =~ s/[_-]/ /g;
-                $display_title =~ s/\b(\w)/\U$1/g;
+                # Use real recipe title extracted in Pass 1, fallback to slug
+                my $display_title = $recipe_title;
+                if (!$display_title) {
+                    $display_title = $slug;
+                    $display_title =~ s/[_-]/ /g;
+                    $display_title =~ s/\b(\w)/\U$1/g;
+                }
+
+                # Write display title to a temp UTF-8 text file so ImageMagick can
+                # read it directly without shell quote or encoding issues
+                my $temp_title_txt = "$rootdir/assets/images/_temp_title_${slug}.txt";
+                open(my $ttfh, ">:encoding(UTF-8)", $temp_title_txt) or warn "Cannot write $temp_title_txt: $!\n";
+                print $ttfh $display_title;
+                close($ttfh);
 
                 my $font_path = "$rootdir/assets/fonts/Raleway-Bold.ttf";
                 unless (-e $font_path) {
@@ -671,7 +692,7 @@ $rating_json
                 my $rsvg_bin = `which rsvg-convert 2>/dev/null`;
                 chomp($rsvg_bin);
 
-                if ($rsvg_bin && -x$rsvg_bin) {
+                if ($rsvg_bin && -x $rsvg_bin) {
                     system("$rsvg_bin -d 300 -p 300 \"$svg_out_path\" -o \"$temp_raster\"");
                 } else {
                     system("$im_cmd -density 300 \"$svg_out_path\" \"$temp_raster\"");
@@ -680,8 +701,8 @@ $rating_json
                 # 1. Landscape (1200x630) - Side-by-side layout
                 my $temp_text = "$rootdir/assets/images/_temp_text_${slug}.png";
 
-                # 1a. Generate the auto-wrapped title card (550px wide, max 50pt)
-                system("$im_cmd -size 550x260 -background white -fill \"#231f20\" -font \"$font_path\" -pointsize 50 -gravity west caption:\"$display_title\" \"$temp_text\"");
+                # 1a. Generate the auto-wrapped title card (550px wide, max 50pt) from temp UTF-8 file
+                system("$im_cmd -size 550x260 -background white -fill \"#231f20\" -font \"$font_path\" -pointsize 50 -gravity west caption:\@\"$temp_title_txt\" \"$temp_text\"");
 
                 # 1b. Create the 1200x630 canvas, paste text on left (+80), paste drink on right (+100)
                 system("$im_cmd -size 1200x630 xc:white " .
@@ -689,13 +710,13 @@ $rating_json
                        "\\( \"$temp_raster\" -trim +repage -resize x520 \\) -gravity east -geometry +100+0 -composite " .
                        "\"$landscape_out\"");
 
-                unlink $temp_text if -e$temp_text;
+                unlink $temp_text if -e $temp_text;
                 
                 # 2. Pinterest Vertical (1000x1500)
                 my $temp_pin_text = "$rootdir/assets/images/_temp_pin_text_${slug}.png";
 
-                # 2a. Generate auto-wrapping title card (800px wide, max 80pt, centered)
-                system("$im_cmd -size 800x240 -background white -fill \"#231f20\" -font \"$font_path\" -pointsize 80 -gravity center caption:\"$display_title\" \"$temp_pin_text\"");
+                # 2a. Generate auto-wrapping title card (800px wide, max 80pt, centered) from temp UTF-8 file
+                system("$im_cmd -size 800x240 -background white -fill \"#231f20\" -font \"$font_path\" -pointsize 80 -gravity center caption:\@\"$temp_title_txt\" \"$temp_pin_text\"");
 
                 # 2b. Composite title near the top (+0+80) and cocktail centered below (+0+60)
                 system("$im_cmd -size 1000x1500 xc:white " .
@@ -703,9 +724,9 @@ $rating_json
                        "\\( \"$temp_raster\" -trim +repage -resize x950 \\) -gravity center -geometry +0+60 -composite " .
                        "\"$pinterest_out\"");
 
-                unlink $temp_pin_text if -e$temp_pin_text;
-
-                unlink $temp_raster if -e$temp_raster;
+                unlink $temp_pin_text if -e $temp_pin_text;
+                unlink $temp_raster if -e $temp_raster;
+                unlink $temp_title_txt if -e $temp_title_txt;
 
                 print "Generated Social PNGs for $slug\n";
             }
@@ -724,70 +745,80 @@ sub update_svg_style {
     my ($element,$new_declarations) = @_;
     return unless $element;
 
-    if ($new_declarations =~ /fill:\s*([^;]+)/i) {$element->attr(fill => $1);
+    if ($new_declarations =~ /fill:\s*([^;]+)/i) {
+        $element->attr(fill => $1);
     }
 
-    my $style =$element->attr('style') || '';
+    my $style = $element->attr('style') || '';
 
     $style =~ s/(?:^|;)\s*fill\s*:[^;]+//ig;
-    if ($new_declarations =~ /opacity:/i) {$style =~ s/(?:^|;)\s*opacity\s*:[^;]+//ig;
+    if ($new_declarations =~ /opacity:/i) {
+        $style =~ s/(?:^|;)\s*opacity\s*:[^;]+//ig;
     }
-    if ($new_declarations =~ /fill-opacity:/i) {$style =~ s/(?:^|;)\s*fill-opacity\s*:[^;]+//ig;
+    if ($new_declarations =~ /fill-opacity:/i) {
+        $style =~ s/(?:^|;)\s*fill-opacity\s*:[^;]+//ig;
     }
 
-    $style =~ s/^;+//;$style =~ s/;+$//;$new_declarations =~ s/^;+//;
+    $style =~ s/^;+//;
+    $style =~ s/;+$//;
+    $new_declarations =~ s/^;+//;
     $new_declarations =~ s/;+$//;
 
     my $merged_style = $style ? "$style;$new_declarations;" : "$new_declarations;";
-    $element->attr(style =>$merged_style);
+    $element->attr(style => $merged_style);
 }
 
 sub convert {
-    my $meas  =$_[0];
-    my $scale =$_[1];
-    my $minq  =$_[2];
+    my $meas  = $_[0];
+    my $scale = $_[1];
+    my $minq  = $_[2];
     my $maxq  = $_[3] if ($_[3]);
     my $out   = "";
     my $FLAGoz = 0;
-    my ($minml,$maxml);
+    my ($minml, $maxml);
 
     $minq = $minq * $scale;
-    $maxq =$maxq * $scale if ($maxq);
+    $maxq = $maxq * $scale if ($maxq);
 
-    if ($meas =~ /oz/i) {$FLAGoz = 1;
-        $minml =$minq * 30;
+    if ($meas =~ /oz/i) {
+        $FLAGoz = 1;
+        $minml = $minq * 30;
         $maxml = $maxq * 30 if ($maxq);
     }
 
-    if ($meas =~ /ml/i) {$FLAGoz = 1;
-        $minml =$minq;
-        $maxml =$maxq;
-        $minq =$minq / 30;
-        $maxq =$maxq / 30 if ($maxq);$meas = "oz";
+    if ($meas =~ /ml/i) {
+        $FLAGoz = 1;
+        $minml = $minq;
+        $maxml = $maxq;
+        $minq = $minq / 30;
+        $maxq = $maxq / 30 if ($maxq);
+        $meas = "oz";
     }
 
-    if ($meas =~ /dash/) {$meas = "dashes"; } 
-    elsif ($meas =~ /barspoon/) {$meas = "barspoons"; } 
-    elsif ($meas =~ /swath/) {$meas = "swathes"; } 
-    elsif ($meas =~ /teaspoon/) {$meas = "teaspoons"; } 
-    elsif ($meas =~ /tablespoon/) {$meas = "tablespoons"; } 
+    if ($meas =~ /dash/) { $meas = "dashes"; } 
+    elsif ($meas =~ /barspoon/) { $meas = "barspoons"; } 
+    elsif ($meas =~ /swath/) { $meas = "swathes"; } 
+    elsif ($meas =~ /teaspoon/) { $meas = "teaspoons"; } 
+    elsif ($meas =~ /tablespoon/) { $meas = "tablespoons"; } 
 
-    $minml = nearest(1,$minml) if ($minml);$maxml = nearest(1, $maxml) if ($maxml);
+    $minml = nearest(1, $minml) if ($minml);
+    $maxml = nearest(1, $maxml) if ($maxml);
 
-    $out =$minq;
+    $out = $minq;
     $out .= " to " . $maxq if ($maxq);
     $out .= " $meas";
 
     if ($FLAGoz) {
         $out .= " / $minml";
-        $out .= " to " . $maxml if ($maxml);$out .= " ml";
+        $out .= " to " . $maxml if ($maxml);
+        $out .= " ml";
     }
 
     return($out);
 }
 
 sub process_ratings {
-    my ($stars,$count) = (0, 0);
+    my ($stars, $count) = (0, 0);
     my $rating_file = $rootdir . "/_data/ratings/" . $_[0] . ".yaml";
     return(0) if (!-e "$rating_file");
 
@@ -807,10 +838,11 @@ sub process_ratings {
 }
 
 sub find_matches {
-    my ($text,$dictionary_ref) = @_;
+    my ($text, $dictionary_ref) = @_;
     my %found_ids;
 
-    my $clean_text = lc($text);$clean_text =~ s/[\r\n]+/ /g;
+    my $clean_text = lc($text);
+    $clean_text =~ s/[\r\n]+/ /g;
     $clean_text =~ s/[-*]/ /g;
     $clean_text =~ s/\s+/ /g;
 
@@ -842,7 +874,7 @@ sub build_yaml_entry {
     @items = grep { !$seen{$_}++ } sort @items;
 
     if (scalar(@items) == 1) {
-        $result .= "$key: $items[0]\n";   # <-- Added space
+        $result .= "$key: $items[0]\n";
     } else {
         $result .= "$key:\n";
         foreach my $item (@items) {
@@ -854,39 +886,42 @@ sub build_yaml_entry {
 
 sub read_spirit_data {
     my $spirit_dir = '_spirit';
-    opendir(my $dh,$spirit_dir) or die "Can't open directory $spirit_dir:$!";
+    opendir(my $dh, $spirit_dir) or die "Can't open directory $spirit_dir:$!";
     my @files = grep { /\.md$/ && -f "$spirit_dir/$_" } readdir($dh);
     closedir($dh);
 
     for my $file (@files) {
         my $filepath = "$spirit_dir/$file";
-        open(my $fh, '<:encoding(UTF-8)',$filepath) or warn "Can't open $filepath:$!";
+        open(my $fh, '<:encoding(UTF-8)', $filepath) or warn "Can't open $filepath:$!";
         
         my $front_matter = "";
         my $in_yaml = 0;
         
-        while (my $line = <$fh>) {$line =~ s/^\x{FEFF}//; 
+        while (my $line = <$fh>) {
+            $line =~ s/^\x{FEFF}//; 
             if ($line =~ /^---\s*$/) {
-                if ($in_yaml) { last; } else {$in_yaml = 1; next; }
+                if ($in_yaml) { last; } else { $in_yaml = 1; next; }
             }
-            $front_matter .= $line if$in_yaml;
+            $front_matter .= $line if $in_yaml;
         }
         close($fh);
 
         if ($front_matter) {
             my $yaml_data = eval { Load($front_matter) };
             
-            if ($@ || ref $yaml_data ne 'HASH') {$yaml_data = {};
+            if ($@ || ref $yaml_data ne 'HASH') {
+                $yaml_data = {};
                 while ($front_matter =~ /^([a-zA-Z0-9_-]+):\s*(["']?)(.*?)\2\s*$/gm) {
                     $yaml_data->{$1} = $3;
                 }
             }
 
-            my $slug =$yaml_data->{slug} // do {
-                my $s = $file; $s =~ s/\.md$//;$s;
+            my $slug = $yaml_data->{slug} // do {
+                my $s = $file; $s =~ s/\.md$//; $s;
             };
             
-            $slug = lc($slug);$slug =~ s/[àâä]/a/g;
+            $slug = lc($slug);
+            $slug =~ s/[àâä]/a/g;
             $slug =~ s/[éèêë]/e/g;
             $slug =~ s/[îï]/i/g;
             $slug =~ s/[ôö]/o/g;
@@ -903,19 +938,25 @@ sub read_spirit_data {
             
             $slug =~ s/[^a-z0-9_\-]+/_/g;
 
-            my $name = $yaml_data->{title} //$yaml_data->{name} // ''; 
+            my $name = $yaml_data->{title} // $yaml_data->{name} // ''; 
             
-            if ($name) {$name =~ s/['"]//g;
+            if ($name) {
+                $name =~ s/['"]//g;
                 $name =~ s/\s+/ /g;
-                $name =~ s/^\s+//;$name =~ s/\s+$//;$spirit{lc($name)} =$slug;
+                $name =~ s/^\s+//;
+                $name =~ s/\s+$//;
+                $spirit{lc($name)} = $slug;
             }
             
             if ($yaml_data->{aliases}) {
-                my $aliases =$yaml_data->{aliases};
+                my $aliases = $yaml_data->{aliases};
                 if (ref $aliases eq 'ARRAY') {
-                    foreach my $alias (@$aliases) {$alias =~ s/['"]//g;
+                    foreach my $alias (@$aliases) {
+                        $alias =~ s/['"]//g;
                         $alias =~ s/\s+/ /g;
-                        $alias =~ s/^\s+//;$alias =~ s/\s+$//;$spirit{lc($alias)} =$slug;
+                        $alias =~ s/^\s+//;
+                        $alias =~ s/\s+$//;
+                        $spirit{lc($alias)} = $slug;
                     }
                 }
             }
@@ -924,21 +965,23 @@ sub read_spirit_data {
 }
 
 sub lighten_color {
-    my ($hex, $percent) = @_;$hex =~ s/[#\s]//g;
+    my ($hex, $percent) = @_;
+    $hex =~ s/[#\s]//g;
     
     my $r = hex(substr($hex, 0, 2));
     my $g = hex(substr($hex, 2, 2));
     my $b = hex(substr($hex, 4, 2));
 
-    $r = int($r + (255 - $r) *$percent);
-    $g = int($g + (255 - $g) *$percent);
-    $b = int($b + (255 - $b) *$percent);
+    $r = int($r + (255 - $r) * $percent);
+    $g = int($g + (255 - $g) * $percent);
+    $b = int($b + (255 - $b) * $percent);
 
-    return sprintf("#%02x%02x%02x", $r, $g,$b);
+    return sprintf("#%02x%02x%02x", $r, $g, $b);
 }
 
 sub darken_color {
-    my ($hex, $percent) = @_;$hex =~ s/[#\s]//g;
+    my ($hex, $percent) = @_;
+    $hex =~ s/[#\s]//g;
     
     my $r = hex(substr($hex, 0, 2));
     my $g = hex(substr($hex, 2, 2));
@@ -948,5 +991,5 @@ sub darken_color {
     $g = int($g - ($g * $percent));
     $b = int($b - ($b * $percent));
 
-    return sprintf("#%02x%02x%02x", $r, $g,$b);
+    return sprintf("#%02x%02x%02x", $r, $g, $b);
 }
