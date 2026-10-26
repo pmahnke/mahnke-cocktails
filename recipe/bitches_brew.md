@@ -12,7 +12,7 @@ foam: "#FFF9D1"
 stars: 0
 base_spirits: "Rhum Agricole, Allspice Dram, Dark Rum"
 youtube: "https://www.diffordsguide.com/cocktails/recipe/2298/bitches-brew"
-description: "was created by bartender Daniel Eun at New York’s PDT in 2008, with the blend of rums designed to bring together earthy sugarcane character and the rounded richness of aged rum."
+description: "Created by bartender Daniel Eun at New York’s PDT in 2008, with the blend of rums designed to bring together earthy sugarcane character and the rounded richness of aged rum."
 excerpt: |
   Bitches’ Brew is a rich, tropical, rum-based cocktail inspired by jazz legend Miles Davis’ 1970 album of the same name. It combines the deep, molasses-like character of dark rum with the grassy, earthy notes of rhum agricole, balanced by fresh lime juice and the warm, aromatic spice of allspice liqueur.
 
@@ -37,7 +37,6 @@ date: 2026-10-26
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware:
-  - Coupe glass
+- Glassware: Coupe glass
 - Garnish: Nutmeg
 - Special Prep: None
