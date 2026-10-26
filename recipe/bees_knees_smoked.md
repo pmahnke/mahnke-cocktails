@@ -4,7 +4,7 @@ author: Anders Erickson
 title: "Bee's Knees, Smoked"
 categories: [cocktail, smoked]
 eras: [classic]
-permalink: "/recipe/beesknees_smoked/"
+permalink: "/recipe/bees_knees_smoked/"
 iconfile: beesknees_smoked
 color: #e8cda8
 stars: 3
