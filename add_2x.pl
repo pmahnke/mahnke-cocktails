@@ -674,12 +674,10 @@ $rating_json
                     $display_title =~ s/\b(\w)/\U$1/g;
                 }
 
-                # Write display title to a temp UTF-8 text file so ImageMagick can
-                # read it directly without shell quote or encoding issues
-                my $temp_title_txt = "$rootdir/assets/images/_temp_title_${slug}.txt";
-                open(my $ttfh, ">:encoding(UTF-8)", $temp_title_txt) or warn "Cannot write $temp_title_txt: $!\n";
-                print $ttfh $display_title;
-                close($ttfh);
+                # Escape double quotes and backslashes for the shell
+                my $safe_title = $display_title;
+                $safe_title =~ s/\\/\\\\/g;
+                $safe_title =~ s/"/\\"/g;
 
                 my $font_path = "$rootdir/assets/fonts/Raleway-Bold.ttf";
                 unless (-e $font_path) {
@@ -701,8 +699,8 @@ $rating_json
                 # 1. Landscape (1200x630) - Side-by-side layout
                 my $temp_text = "$rootdir/assets/images/_temp_text_${slug}.png";
 
-                # 1a. Generate the auto-wrapped title card (550px wide, max 50pt) from temp UTF-8 file
-                system("$im_cmd -size 550x260 -background white -fill \"#231f20\" -font \"$font_path\" -pointsize 50 -gravity west caption:\@\"$temp_title_txt\" \"$temp_text\"");
+                # 1a. Generate the auto-wrapped title card directly from the string
+                system("$im_cmd -size 550x260 -background white -fill \"#231f20\" -font \"$font_path\" -pointsize 50 -gravity west caption:\"$safe_title\" \"$temp_text\"");
 
                 # 1b. Create the 1200x630 canvas, paste text on left (+80), paste drink on right (+100)
                 system("$im_cmd -size 1200x630 xc:white " .
@@ -715,8 +713,8 @@ $rating_json
                 # 2. Pinterest Vertical (1000x1500)
                 my $temp_pin_text = "$rootdir/assets/images/_temp_pin_text_${slug}.png";
 
-                # 2a. Generate auto-wrapping title card (800px wide, max 80pt, centered) from temp UTF-8 file
-                system("$im_cmd -size 800x240 -background white -fill \"#231f20\" -font \"$font_path\" -pointsize 80 -gravity center caption:\@\"$temp_title_txt\" \"$temp_pin_text\"");
+                # 2a. Generate auto-wrapping title card centered directly from the string
+                system("$im_cmd -size 800x240 -background white -fill \"#231f20\" -font \"$font_path\" -pointsize 80 -gravity center caption:\"$safe_title\" \"$temp_pin_text\"");
 
                 # 2b. Composite title near the top (+0+80) and cocktail centered below (+0+60)
                 system("$im_cmd -size 1000x1500 xc:white " .
@@ -726,7 +724,6 @@ $rating_json
 
                 unlink $temp_pin_text if -e $temp_pin_text;
                 unlink $temp_raster if -e $temp_raster;
-                unlink $temp_title_txt if -e $temp_title_txt;
 
                 print "Generated Social PNGs for $slug\n";
             }
