@@ -14,11 +14,11 @@ date: 2026-03-21
 
 ## Ingredients
 
-|       Amount | Ingredient       |
-| -----------: | ---------------- |
-|       2 cups | Heavy Cream      |
+|       Amount | Ingredient                  |
+| -----------: | --------------------------- |
+|       2 cups | Heavy Cream                 |
 |         2 oz | Baileys Irish Cream Liqueur |
-| 1 tablespoon | Powdered Sugar   |
+| 1 tablespoon | Powdered Sugar              |
 
 ## Method:
 
