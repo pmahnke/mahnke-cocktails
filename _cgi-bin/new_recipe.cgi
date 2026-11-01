@@ -1,7 +1,10 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+use utf8;                           # Source code contains UTF-8 literals (Bénédictine, Cachaça, etc.)
+use open qw(:std :utf8);            # Set STDIN, STDOUT, STDERR to UTF-8
 use CGI qw(:standard -utf8);
+use Encode qw(decode_utf8);
 use POSIX qw(strftime);
 
 my $q = CGI->new;
@@ -135,10 +138,9 @@ if ($q->param('submit_recipe')) {
     my $prep        = $q->param('special_prep') // 'None';
     $prep = 'None' if $prep =~ /^\s*$/;
 
-# Strip category prefixes (e.g., 'Gin - ', 'Amaro - ') before generating Markdown
+    # Strip category prefixes (e.g., 'Gin - ', 'Amaro - ') before generating Markdown
     my @cleaned_spirits = map {
         my $spirit = $_;
-        # This regex removes known category names followed by a hyphen and optional spaces
         $spirit =~ s/^(Amaro|Gin|Rum|Sherry|Vermouth)\s*-\s*//;
         $spirit;
     } @spirits;
@@ -164,11 +166,10 @@ if ($q->param('submit_recipe')) {
         $ing_table .= "| $amt | $ing | $brand |\n";
     }
 
-    # Generate Markdown Output[cite: 1]
     # Ensure multiline excerpts are indented properly for the YAML block scalar (|)
     $excerpt =~ s/\n/\n  /g;
 
-    # Generate Markdown Output
+    # Generate Markdown Output[cite: 1]
     my $markdown = <<"MARKDOWN";
 ---
 layout: recipe
@@ -201,16 +202,19 @@ $ing_table
 - Special Prep: $prep
 MARKDOWN
 
+    # Escape HTML special chars in textarea to avoid markup corruption
+    my $safe_markdown = $q->escapeHTML($markdown);
 
     print "<div class='result-box'>";
     print "<h3>Generated Markdown</h3>";
     print "<p class='copy-hint'>Copy and paste directly into <code>recipe_processed/$filename.md</code>:</p>";
-    print "<textarea rows='22' onclick='this.select()'>$markdown</textarea>";
+    print "<textarea rows='22' onclick='this.select()'>$safe_markdown</textarea>";
     print "</div>";
 }
 
 # Render Input Form
-print $q->start_form(-method => 'POST');
+# Explicitly set accept-charset on the form to UTF-8
+print $q->start_form(-method => 'POST', -accept_charset => 'utf-8');
 
 print "<label for='author'>Author</label>";
 print $q->textfield(-name => 'author', -id => 'author', -default => 'Anders Erickson, Leandro DiMonriva, Jordan Hughes');
