@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="grid-container two-thirds">
-    <div markdown="1">
+<div markdown="1">
 
 ## How this all got started…
 
@@ -41,6 +41,5 @@ I started to watch “[The Educated Barfly](https://www.youtube.com/@TheEducated
 
 We still wait for Anders' next video to drop every Friday.
 
-    </div>
-
+</div>
 </div>
