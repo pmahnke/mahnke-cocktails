@@ -10,7 +10,7 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
 
     {%- include latest_cocktail.html -%}
 
-    <p><a href="/all_cocktails">See all cocktail recipes&nbsp;&rsaquo;</a></p>
+    <p><a href="/all_cocktails/">See all cocktail recipes&nbsp;&rsaquo;</a></p>
 
     <h1>A Few of Our 5-Star Cocktails</h1>
     <div class="grid-container">
@@ -31,6 +31,10 @@ excerpt: "Classic, prohibition and modern cocktail recipes."
     {%- endfor -%}
     
     </div>
+    
+    <br>
+
+    <p><a href="/top_rated_cocktails/">See all of our top cocktail recipes&nbsp;&rsaquo;</a></p>
     
     <br>
 

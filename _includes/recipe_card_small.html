@@ -1,19 +1,21 @@
+{%- assign card = include.recipe | default: include.page | default: page -%}
+
 <div class="recipe_card">
     <div class="card-content">
     {%- comment -%} Pull cocktail image directly from front matter {%- endcomment -%}
-    {%- if page.image -%}
-        <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}" class="cocktail-illustration" width="120" height="160">
-    {%- elsif page.base_spirits -%}
+    {%- if card.image -%}
+        <img src="{{ card.image | relative_url }}" alt="{{ card.title }}" title="{{ card.title }}" class="cocktail-illustration" width="120" height="160">
+    {%- elsif card.base_spirits -%}
         {%- comment -%} Fallback: Pull the first base spirit icon if available {%- endcomment -%}
-        {%- assign first_spirit_name = page.base_spirits.first | default: page.base_spirits -%}
+        {%- assign first_spirit_name = card.base_spirits.first | default: card.base_spirits -%}
         {%- assign s = site.spirit | where: "title", first_spirit_name | first -%}
         {%- if s and s.icon_path -%}
             <img src="{{ s.icon_path | relative_url }}" alt="{{ first_spirit_name }}" title="{{ first_spirit_name }}" width="120" height="160" class="rotate-left">
         {%- endif -%}
     {%- endif -%}<br>
 
-        <p><strong><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></strong></p>
-        <p>{%- include home_stars.html -%}</p> 
-        <p>{{ page.description }}</p>
+        <p><strong><a href="{{ card.url | prepend: site.baseurl }}">{{ card.title }}</a></strong></p>
+        {%- include home_stars.html page=card -%}
+        <p>{{ card.description }}</p>
     </div>
 </div>
