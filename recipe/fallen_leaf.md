@@ -34,5 +34,8 @@ date: 2026-11-08
 - Pour: Add all ingredients directly to the glass
 - Glassware: High Ball glass
 - Ice: On the Rocks
-- Garnish: apple slices, cinnamon
-- Special Prep: Fill a highball glass with ice, add the rum, apple juice, lemon juice and honey, and stir until the honey dissolves. Add the ground cinnamon, stir again, then top with ginger beer and give it a last gentle stir to combine. Garnish with an apple fan, a fresh cinnamon stick (light it briefly for a smoky finish, if you like) and a dusting of ground cinnamon, and serve.
+- Garnish: apple slices, cinnamon stick
+- Special Prep: 
+  - Fill a highball glass with ice, add the rum, apple juice, lemon juice and honey, and stir until the honey dissolves.
+  - Add the ground cinnamon, stir again, then top with ginger beer and give it a last gentle stir to combine. 
+  - Garnish with an apple fan, a fresh cinnamon stick (light it briefly for a smoky finish, if you like) and a dusting of ground cinnamon, and serve.
