@@ -1,93 +1,50 @@
-/* style for small screens */
+/* ==========================================================================
+   Typography & Baseline Links
+   ========================================================================== */
 
-a:link, a:visited, a:active
-{
-	color:#009;
-    text-decoration: none;
+a:link, a:visited, a:active {
+  color: #009;
+  text-decoration: none;
 }
-a:hover
-{
-	color:#F30;
-    text-decoration: underline;
+
+a:hover {
+  color: #F30;
+  text-decoration: underline;
 }
+
 th, td {
-    border: none;
+  border: none;
 }
+
 /* Only underline links that live inside body copy */
 main p a,
 footer p a {
   text-decoration: underline;
 }
-.header {
-    text-align: center;
-    }
-.stars {
-    font-size: x-large;
-    vertical-align: middle;
-    text-align: right;
-}
-span.checked {
-    color:#fcc200;
+
+h1 a:link, h1 a:visited, h1 a:active,
+h2 a:link, h2 a:visited, h2 a:active,
+h3 a:link, h3 a:visited, h3 a:active,
+h4 a:link, h4 a:visited, h4 a:active {
+  text-decoration: none;
+  color: #222;
 }
 
-/* search */
-#search {
-    text-align: right;
-}
-#search_text, #search_button {
-    display: inline-block;
-}
-#search_text {
-    min-width: 22rem;
+h3 a {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px; /* space between text and icon */
 }
 
-.double_line {
-    height: 11px;
-    background: #fafbf6 url('/assets/images/recipe_bar.png') repeat-x;
-    margin: 0 0 2em 0 ;
-}
-/* list */
-ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  li {
-    padding-left: 1em; 
-    text-indent: -.7em;
-    margin: .25em 0;
-  }
-  
- ul > li::before {
-    content: "⇒ ";
-    color: #E1AD01; 
-    font-size: 2rem;
- }
-
- .icon-stack {
-    display: none;
-}
-
-p.icons {
-    display: none;
-}
-
-.more {
-    padding: 3em 0;
-}
-
-.sheader img {
-    height: 8rem;
-    margin-bottom: -2rem;
-    padding-top: 1rem
-}
+/* ==========================================================================
+   Header & Search
+   ========================================================================== */
 
 .header {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap; /* helps when on mobile */
+  flex-wrap: wrap;
   text-align: center;
 }
 
@@ -103,7 +60,7 @@ p.icons {
 }
 
 .site-title {
-    margin-top: 0.5rem;
+  margin-top: 0.5rem;
 }
 
 @media (max-width: 768px) {
@@ -118,223 +75,329 @@ p.icons {
   .logo-image-right {
     margin-top: 10px;
   }
+
   .site-title {
     margin-top: 0.5rem;
     margin-bottom: 1rem;
-}
-}
-
-
-
-/* headings - small screens */
-/* h2 {
-    font-size: 32px;
-    font-weight: 550;
-}
-h1 {
-    font-size: 32px;
-    font-weight: 180;
-}
-h3 {
-    font-size: 24px;
-    font-weight: 550;
-}
-h4 {
-    font-size: 24px;
-    font-weight: 275;
-}*/
-
-h1 a:link, h1 a:visited, h1 a:active, h2 a:link, h2 a:visited, h2 a:active, h3 a:link, h3 a:visited, h3 a:active, h4 a:link, h4 a:visited, h4 a:active  {
-    text-decoration: none;
-    color: #222;
+  }
 }
 
-/* styles for the homepage table */
+/* Search bar */
+#search {
+  text-align: right;
+}
+
+#search_text,
+#search_button {
+  display: inline-block;
+}
+
+#search_text {
+  min-width: 22rem;
+}
+
+.double_line {
+  height: 11px;
+  background: #fafbf6 url('/assets/images/recipe_bar.png') repeat-x;
+  margin: 0 0 2em 0;
+}
+
+/* ==========================================================================
+   Lists & Menus
+   ========================================================================== */
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding-left: 1em;
+  text-indent: -.7em;
+  margin: .25em 0;
+}
+
+ul > li::before {
+  content: "⇒ ";
+  color: #E1AD01;
+  font-size: 2rem;
+}
+
+.more {
+  padding: 3em 0;
+}
+
+.sheader img {
+  height: 8rem;
+  margin-bottom: -2rem;
+  padding-top: 1rem;
+}
+
+.menu {
+  font-variant-caps: small-caps;
+  margin: 5rem 0 2rem 0;
+}
+
+.menu a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: blue;
+  cursor: pointer;
+}
+
+.menu a.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+/* Unit measurement scaling toggles */
+.onex, .onehalfx, .twox, .threex {
+  display: none;
+}
+
+.onex.active, .onehalfx.active, .twox.active, .threex.active {
+  display: inline;
+}
+
+/* ==========================================================================
+   Homepage Table & Lists
+   ========================================================================== */
+
 .home_table {
-    width: 100%;
+  width: 100%;
 }
+
 .home_title {
-    width: 35%;
+  width: 35%;
 }
-.home_spirits  {
-    width: 40%;
-}
-.home_list li::before {
-    content: unset;
+
+.home_spirits {
+  width: 40%;
 }
 
 .home_list {
-    display: grid;
-    grid-template-columns: 1fr 1fr; /* Two equal columns */
-    gap: .25em 1em; /* Space between items */
-    padding: 0;
-    list-style: none;
-    max-width: 100%; /* Adjust as needed */
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: .25em 1em;
+  padding: 0;
+  list-style: none;
+  max-width: 100%;
+}
+
+.home_list li::before {
+  content: unset;
 }
 
 .home_list_item {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin: .25em .5em;
-    padding: .25rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: .25em .5em;
+  padding: .25rem 0;
 }
-  
-/* CSS for rotating right */
+
+/* Rotations for spirit icons */
 .rotate-right {
-  transform: rotate(40deg);
+  transform: rotate(20deg);
 }
 
-/* CSS for rotating left */
 .rotate-left {
-  transform: rotate(-40deg);
+  transform: rotate(-20deg);
 }
 
-
-/* measurement scaling */
-.onex, .onehalfx, .twox, .threex {
-    display: none; /* Hide all spans by default */
-}
-.onex.active, .onehalfx.active, .twox.active, .threex.active {
-    display: inline; /* Show the active span */
-}
-.menu {
-    font-variant-caps: small-caps;
-    margin: 5rem 0 2rem 0;  
-}
-.menu a {
-    margin-right: 10px;
-    text-decoration: none;
-    color: blue;
-    cursor: pointer;
-}
-.menu a.active {
-    font-weight: bold;
-    text-decoration: underline;
-}
-.category_icon_small {
-    display: none;
-}
-.category_icon_large {
-    display: none;
-}
-
-
-/* Larger than mobile (default point when grid becomes active) */
-@media (min-width: 600px) {
-    /* Styles for screens smaller than 768px (phones) */   
-
-    /* headings - larger screens */
-    /* h2 {
-        font-size: 40px;
-        font-weight: 550;
-    }
-    h1 {
-        font-size: 40px;
-        font-weight: 180;
-    }
-    h3 {
-        font-size: 24px;
-        font-weight: 550;
-    }
-    h4 {
-        font-size: 24px;
-        font-weight: 275;
-    }*/
-}
-
-/* Larger than phablet */
-@media (min-width: 900px) {
-    .category_icon_small {
-        display: inline-block;
-        max-height: 7rem;
-        width: auto;
-        vertical-align: middle;
-        margin-left: 12px;
-        margin-top: -3rem;
-        margin-bottom: -2rem; 
-    }
-    .category_icon_large {
-        display: inline;
-        max-height: 16rem;
-        text-align: right;
-    }
-    .category_column {
-        text-align: center;
-    }
-
-}
-
-/* Larger than tablet */
-@media (min-width: 1200px) {
-
-}
+/* ==========================================================================
+   Recipe Cards & Normalized Illustrations
+   ========================================================================== */
 
 div.subrecipe {
   margin-bottom: 30px;
 }
 
-
-
-
-  /* Style for the card container */
 .recipe_card {
-    display: flex; /* Use flexbox for easy alignment */
-    justify-content: space-between; /* Pushes text left and image right */
-    align-items: flex-start; /* Vertically aligns content in the middle */
-    padding: 1rem;
-    border: 1px solid #e1e1e1;
-    border-radius: 4px;
-    margin-bottom: .5rem; /* Space below each card */
-    height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 1rem;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  margin-bottom: .5rem;
+  height: 100%;
+}
+
+.recipe_card .card-content {
+  flex-grow: 1;
+}
+
+.recipe_card .card-image {
+  flex-shrink: 0;
+  padding-left: 1rem;
+}
+
+/* Unified bounding box for all recipe card artwork and spirit fallbacks */
+.recipe_card .card-content img.cocktail-illustration,
+.recipe_card .card-content img.rotate-left,
+.recipe_card .card-content img.rotate-right {
+  display: block;
+  margin: 0 auto 0.75rem auto;
+  width: 100px;
+  height: 120px;
+  max-height: 120px;
+  object-fit: contain;
+  transform-origin: center center;
+}
+
+/* Standalone ingredient icons in tables or body copy */
+.icon-ingredient {
+  display: inline-block;
+  vertical-align: middle;
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
+/* Category header icons */
+.category_icon_small {
+  display: none;
+}
+
+.category_icon_large {
+  display: none;
+}
+
+.category_column {
+  text-align: center;
+}
+
+@media (min-width: 900px) {
+  .category_icon_small {
+    display: inline-block;
+    width: auto;
+    height: 1.2em;           /* Proportional to cap-height of adjacent heading */
+    max-height: 5.5rem;      /* Prevents oversized blowout */
+    vertical-align: -0.15em; /* Aligns with text baseline */
+    margin-left: 0.5rem;
+    object-fit: contain;
   }
 
-  /* Container for the text content */
-  .recipe_card .card-content {
-    flex-grow: 1; /* Allows this element to take up available space */
+  .category_icon_large {
+    display: inline-block;
+    width: auto;
+    height: 10rem;
+    max-height: 10rem;
+    vertical-align: middle;
+    object-fit: contain;
   }
-
-  /* Container for the image, prevents it from shrinking */
-  .recipe_card .card-image {
-    flex-shrink: 0;
-    padding-left: 1rem;
-  }
-  
-  /* Helper class to rotate the image */
-  .rotate-right {
-    transform: rotate(20deg);
-  }
-
-
-
+}
 
 /* ==========================================================================
-   Final Unified Star Rating (with Size Modifier)
+   Desktop Right-Hand Icon Stack (Recipe Pages)
    ========================================================================== */
 
+.icon-stack,
+p.icons {
+  display: none;
+}
+
+@media (min-width: 600px) {
+  p.icons {
+    position: relative;
+    display: inline-block;
+  }
+
+  .icons img {
+    max-height: 12rem;
+  }
+
+  .icon-stack {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    margin-left: auto;
+    gap: 20px;
+    margin-bottom: 1rem;
+  }
+
+  /* 1. Hero Cocktail Glass at the top */
+  .icon-stack .icon-hero,
+  .icon-stack .cocktail-illustration {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 170px;
+    max-height: 220px;
+    object-fit: contain;
+  }
+
+  /* 2. Spirit Bottles below hero */
+  .icon-stack .icon-bottle {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 85px;
+    max-height: 130px;
+    object-fit: contain;
+  }
+
+  /* 3. Bar tools (mixing glasses, shakers, jiggers, strainers, glassware) */
+  .icon-stack .icon-type, 
+  .icon-stack .icon-glass {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 120px;
+    max-height: 120px;
+    object-fit: contain;
+  }
+
+  /* 4. Secondary accessories (ice, garnishes, and tools) */
+  .icon-stack .icon-ice,
+  .icon-stack .icon-garnish,
+  .icon-stack .icon-tool {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 65px;
+    max-height: 65px;
+    object-fit: contain;
+  }
+}
+
+/* ==========================================================================
+   Star Rating Component
+   ========================================================================== */
+
+.stars {
+  font-size: x-large;
+  vertical-align: middle;
+  text-align: right;
+}
+
+span.checked {
+  color: #fcc200;
+}
+
 .star-rating {
-  /* --- You can customize these variables --- */
   --rating: 0;
-  --star-size-mobile: 1.1rem;      /* Default mobile size */
-  --star-size-desktop: 3rem;       /* Default desktop size */
-  --star-color: #e1e1e1;           /* Empty star color */
-  --star-background: #ffc107;      /* Filled star color */
+  --star-size-mobile: 1.1rem;
+  --star-size-desktop: 3rem;
+  --star-color: #e1e1e1;
+  --star-background: #ffc107;
   --star-spacing: 3px;
-  
-  /* --- Global Styles --- */
+
   display: inline-block;
   position: relative;
-  font-size: 0; /* Hides the raw text content (the number) globally */
+  font-size: 0;
   white-space: nowrap;
 }
 
-/* Create the visual 5-star display globally */
 .star-rating::before {
   content: '★★★★★';
-  font-size: var(--star-size-mobile); /* Default to mobile size */
+  font-size: var(--star-size-mobile);
   letter-spacing: var(--star-spacing);
-  background: linear-gradient(90deg, 
-    var(--star-background) calc(var(--rating) / 5 * 100%), 
+  background: linear-gradient(90deg,
+    var(--star-background) calc(var(--rating) / 5 * 100%),
     transparent calc(var(--rating) / 5 * 100%)
   );
   -webkit-background-clip: text;
@@ -343,7 +406,7 @@ div.subrecipe {
 
 .star-rating::after {
   content: '★★★★★';
-  font-size: var(--star-size-mobile); /* Default to mobile size */
+  font-size: var(--star-size-mobile);
   letter-spacing: var(--star-spacing);
   color: var(--star-color);
   position: absolute;
@@ -352,10 +415,7 @@ div.subrecipe {
   z-index: -1;
 }
 
-/* --- DESKTOP STYLES (600px and wider) --- */
 @media (min-width: 600px) {
-
-  /* Float stars and update their size for desktop */
   .star-rating {
     float: right;
     margin-right: 1rem;
@@ -363,74 +423,21 @@ div.subrecipe {
 
   .star-rating::before,
   .star-rating::after {
-    font-size: var(--star-size-desktop); 
-  }
-
-  p.icons {
-      position: relative; 
-      display: inline-block;
-  }
-  .icons img {
-      max-height: 12rem;
-  }
-
-  /* icons */
-  .icon-stack {
-      display: flex;
-      flex-direction: column;    /* Arranges them top-to-bottom */
-      align-items: center;       /* Centers them horizontally within the stack */
-      width: fit-content;        /* Makes the container only as wide as the widest icon */
-      margin-left: auto;         /* Pushes the entire stack to the right side of the page */
-      gap: 25px;                 /* Spacing between icons */
-      margin-bottom: 1rem;       /* Basic spacing below the stack */
-  }
-
-  /* 
-      If you need to control the size of the icons, it's best to do it here
-      rather than using HTML width attributes, especially for SVGs.
-  */
-  .icon-stack img {
-      max-height: 150px;
-      max-width: 100px;          /* Prevents them from getting too large */
-      height: auto;              /* Maintains aspect ratio */
-      display: block;            /* Removes tiny space beneath images */
-  }
-  /* Specifically target ONLY images with "cocktail_" in the file path */
-  .icon-stack img[src*="cocktail_"] {
-      max-height: 250px; 
-      max-width: 180px;  
+    font-size: var(--star-size-desktop);
   }
 }
 
-/* --- MODIFIER CLASS FOR SMALLER STARS --- */
-/* This rule overrides the size variables when the .star-rating--small class is present */
 .star-rating.star-rating--small {
-    --star-size-mobile: 1.25rem;    /* Smaller size for homepage mobile */
-    --star-size-desktop: 1.75rem;   /* Smaller size for homepage desktop */
-    --star-spacing: 0px;
+  --star-size-mobile: 1.25rem;
+  --star-size-desktop: 1.75rem;
+  --star-spacing: 0px;
 }
-
-
-/* homepage 5 star cocktail image */
-.card-content img {
-    max-height: 8em;
-}
-
-
-/* Update or add to your CSS */
-h3 a {
-  display: inline-flex;
-  align-items: center;
-  gap: 12px; /* space between text and icon */
-}
-
-
 
 /* ==========================================================================
-   Comprehensive Print Stylesheet
+   Print Stylesheet
    ========================================================================== */
+
 @media print {
-  /* 1. Page Setup & Document Canvas */
   @page {
     margin: 1.5cm 1.2cm 1.5cm 1.2cm;
     size: portrait;
@@ -444,7 +451,6 @@ h3 a {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
   }
 
-  /* 2. Hide Web Chrome, Ads, Menus & Decorative Elements */
   header#navigation,
   footer,
   .no-print,
@@ -463,7 +469,6 @@ h3 a {
     display: none !important;
   }
 
-  /* 3. Neutralize CSS Grid & Flex Containers (Fixes Page Break Glitches) */
   .grid-container,
   .grid-container.halves,
   .grid-container.thirds,
@@ -480,7 +485,6 @@ h3 a {
     gap: 0 !important;
   }
 
-  /* 4. Keep Headings Glued to Following Content */
   h1, h2, h3, h4, h5, h6 {
     color: #000000 !important;
     page-break-after: avoid !important;
@@ -491,22 +495,10 @@ h3 a {
     margin-bottom: 0.35em !important;
   }
 
-  h1 {
-    font-size: 20pt !important;
-    line-height: 1.2 !important;
-  }
+  h1 { font-size: 20pt !important; line-height: 1.2 !important; }
+  h2 { font-size: 16pt !important; line-height: 1.25 !important; }
+  h3 { font-size: 13pt !important; line-height: 1.3 !important; }
 
-  h2 {
-    font-size: 16pt !important;
-    line-height: 1.25 !important;
-  }
-
-  h3 {
-    font-size: 13pt !important;
-    line-height: 1.3 !important;
-  }
-
-  /* 5. Keep Recipe Card & Core Blocks Together */
   .recipe_card,
   article,
   div.subrecipe,
@@ -519,7 +511,6 @@ h3 a {
     break-inside: avoid !important;
   }
 
-  /* Keep ingredients list intact with its parent heading */
   ul, ol {
     page-break-inside: avoid !important;
     break-inside: avoid !important;
@@ -531,14 +522,12 @@ h3 a {
     break-inside: avoid !important;
   }
 
-  /* 6. Clean Ingredient Bullets & Cocktail Illustrations */
   ul > li::before {
     content: "• " !important;
     color: #555555 !important;
     font-size: 1.2em !important;
   }
 
-  /* 7. Links: Show Text Only without Web Blue/Hover Effects */
   a, a:link, a:visited {
     color: #000000 !important;
     text-decoration: none !important;

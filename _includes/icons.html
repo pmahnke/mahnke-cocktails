@@ -1,85 +1,86 @@
 <!-- 0. Cocktail icon, if it exists -->
 {%- if page.image -%}
-    <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}" class="icon-ingredient" loading="eager" width="180" height="180">
+  <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" title="{{ page.title }}" class="icon-hero" loading="eager" width="180" height="180">
 {%- endif -%}
+
 <!-- 1. Ingredients / Base Spirits -->
-  {%- if page.base_spirits -%}
-    {%- for spirit_name in page.base_spirits -%}
-      {%- comment -%} Look up spirit icon via your spirits collection or component dictionary {%- endcomment -%}
-      {%- assign s = site.spirit | where: "title", spirit_name | first -%}
-      {%- if s and s.icon_path -%}
-        <img src="{{ s.icon_path }}" alt="{{ spirit_name }}" title="{{ spirit_name }}" class="icon-ingredient">
-      {%- endif -%}
-    {%- endfor -%}
-  {%- endif -%}
+{%- if page.base_spirits -%}
+  {%- for spirit_name in page.base_spirits -%}
+    {%- comment -%} Look up spirit icon via your spirits collection or component dictionary {%- endcomment -%}
+    {%- assign s = site.spirit | where: "title", spirit_name | first -%}
+    {%- if s and s.icon_path -%}
+      <img src="{{ s.icon_path | relative_url }}" alt="{{ spirit_name }}" title="{{ spirit_name }}" class="icon-bottle">
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
 
 <!-- 2. Type -->
-  {%- if page.type -%}
-    {%- if page.type.first -%}
-      {%- for type_key in page.type -%}
-        {%- assign ty = site.data.components.types[type_key] -%}
-        {%- if ty -%}
-          <img src="{{ ty.icon | prepend: site.baseurl }}" alt="{{ ty.name }}" title="{{ ty.name }}" class="icon-type">
-        {%- endif -%}
-      {%- endfor -%}
-    {%- else -%}
-      {%- assign ty = site.data.components.types[page.type] -%}
+{%- if page.type -%}
+  {%- if page.type.first -%}
+    {%- for type_key in page.type -%}
+      {%- assign ty = site.data.components.types[type_key] -%}
       {%- if ty -%}
-        <img src="{{ ty.icon | prepend: site.baseurl }}" alt="{{ ty.name }}" title="{{ ty.name }}" class="icon-type">
-      {%- endif -%}
-    {%- endif -%}
-  {%- endif -%}
-
-  <!-- 3. Tools -->
-  {%- if page.tools -%}
-    {%- for tool_key in page.tools -%}
-      {%- assign tl = site.data.components.tools[tool_key] -%}
-      {%- if tl -%}
-        <img src="{{ tl.icon }}" alt="{{ tl.name }}" title="{{ tl.name }}">
+        <img src="{{ ty.icon | relative_url }}" alt="{{ ty.name }}" title="{{ ty.name }}" class="icon-type">
       {%- endif -%}
     {%- endfor -%}
+  {%- else -%}
+    {%- assign ty = site.data.components.types[page.type] -%}
+    {%- if ty -%}
+      <img src="{{ ty.icon | relative_url }}" alt="{{ ty.name }}" title="{{ ty.name }}" class="icon-type">
+    {%- endif -%}
   {%- endif -%}
+{%- endif -%}
 
-  <!-- 4. Glassware -->
-  {%- if page.glass -%}
-    {%- if page.glass.first -%}
-      {%- for glass_key in page.glass -%}
-        {%- assign g = site.data.components.glasses[glass_key] -%}
-        {%- if g -%}
-          <img src="{{ g.icon }}" alt="{{ g.name }}">
-        {%- endif -%}
-      {%- endfor -%}
-    {%- else -%}
-      {%- assign g = site.data.components.glasses[page.glass] -%}
+<!-- 3. Tools -->
+{%- if page.tools -%}
+  {%- for tool_key in page.tools -%}
+    {%- assign tl = site.data.components.tools[tool_key] -%}
+    {%- if tl -%}
+      <img src="{{ tl.icon | relative_url }}" alt="{{ tl.name }}" title="{{ tl.name }}" class="icon-tool">
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+
+<!-- 4. Glassware -->
+{%- if page.glass -%}
+  {%- if page.glass.first -%}
+    {%- for glass_key in page.glass -%}
+      {%- assign g = site.data.components.glasses[glass_key] -%}
       {%- if g -%}
-        <img src="{{ g.icon }}" alt="{{ g.name }}">
-      {%- endif -%}
-    {%- endif -%}
-  {%- endif -%}
-
-  <!-- 5. Ice Type -->
-  {%- if page.ice -%}
-    {%- if page.ice.first -%}
-      {%- for ice_key in page.ice -%}
-        {%- assign i = site.data.components.ice[ice_key] -%}
-        {%- if i -%}
-          <img src="{{ i.icon }}" alt="{{ i.name }}">
-        {%- endif -%}
-      {%- endfor -%}
-    {%- else -%}
-      {%- assign i = site.data.components.ice[page.ice] -%}
-      {%- if i -%}
-        <img src="{{ i.icon }}" alt="{{ i.name }}">
-      {%- endif -%}
-    {%- endif -%}
-  {%- endif -%}
-
-  <!-- 6. Garnishes -->
-  {%- if page.garnishes -%}
-    {%- for garnish_key in page.garnishes -%}
-      {%- assign gr = site.data.components.garnishes[garnish_key] -%}
-      {%- if gr -%}
-        <img src="{{ gr.icon }}" alt="{{ gr.name }}">
+        <img src="{{ g.icon | relative_url }}" alt="{{ g.name }}" title="{{ g.name }}" class="icon-glass">
       {%- endif -%}
     {%- endfor -%}
+  {%- else -%}
+    {%- assign g = site.data.components.glasses[page.glass] -%}
+    {%- if g -%}
+      <img src="{{ g.icon | relative_url }}" alt="{{ g.name }}" title="{{ g.name }}" class="icon-glass">
+    {%- endif -%}
   {%- endif -%}
+{%- endif -%}
+
+<!-- 5. Ice Type -->
+{%- if page.ice -%}
+  {%- if page.ice.first -%}
+    {%- for ice_key in page.ice -%}
+      {%- assign i = site.data.components.ice[ice_key] -%}
+      {%- if i -%}
+        <img src="{{ i.icon | relative_url }}" alt="{{ i.name }}" title="{{ i.name }}" class="icon-ice">
+      {%- endif -%}
+    {%- endfor -%}
+  {%- else -%}
+    {%- assign i = site.data.components.ice[page.ice] -%}
+    {%- if i -%}
+      <img src="{{ i.icon | relative_url }}" alt="{{ i.name }}" title="{{ i.name }}" class="icon-ice">
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}
+
+<!-- 6. Garnishes -->
+{%- if page.garnishes -%}
+  {%- for garnish_key in page.garnishes -%}
+    {%- assign gr = site.data.components.garnishes[garnish_key] -%}
+    {%- if gr -%}
+      <img src="{{ gr.icon | relative_url }}" alt="{{ gr.name }}" title="{{ gr.name }}" class="icon-garnish">
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
