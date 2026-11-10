@@ -1,217 +1,183 @@
-// --- Global Feedback Handlers ---
-const FEEDBACK_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxJElnRhN4Kc7SfGX4FnrQJGp-0KMccgTqPomHD8pEG3eUMBvGcq4p6d6AdU_qnzwNabw/exec';
+document.addEventListener("DOMContentLoaded", function () {
+  /* ==========================================================================
+     1. Recipe Measurement Scaling
+     ========================================================================== */
+  const scaleLinks = document.querySelectorAll(".menu a[data-target]");
+  if (scaleLinks.length > 0) {
+    scaleLinks.forEach(function (link) {
+      link.addEventListener("click", function (e) {
+        e.preventDefault();
+        const targetClass = this.getAttribute("data-target");
 
-window.handleMadeClick = function() {
-    const expanded = document.getElementById('feedback-expanded');
-    if (expanded) expanded.style.display = 'block';
-};
+        // Toggle active menu link state
+        scaleLinks.forEach((l) => l.classList.remove("active"));
+        this.classList.add("active");
 
-// Cross-browser copy function that works over plain HTTP / .local domains
-function copyTextToClipboard(text) {
-    if (navigator.clipboard && window.isSecureContext) {
-        return navigator.clipboard.writeText(text);
-    } else {
-        return new Promise((resolve, reject) => {
-            const textArea = document.createElement('textarea');
-            textArea.value = text;
-            textArea.style.position = 'fixed';
-            textArea.style.top = '0';
-            textArea.style.left = '0';
-            textArea.style.width = '2em';
-            textArea.style.height = '2em';
-            textArea.style.padding = '0';
-            textArea.style.border = 'none';
-            textArea.style.outline = 'none';
-            textArea.style.boxShadow = 'none';
-            textArea.style.background = 'transparent';
-            document.body.appendChild(textArea);
-            textArea.focus();
-            textArea.select();
+        // Toggle matching measurement spans
+        const allSpans = document.querySelectorAll(".onex, .onehalfx, .twox, .threex");
+        allSpans.forEach((span) => span.classList.remove("active"));
 
-            try {
-                const successful = document.execCommand('copy');
-                document.body.removeChild(textArea);
-                if (successful) {
-                    resolve();
-                } else {
-                    reject(new Error('execCommand copy unsuccessful'));
-                }
-            } catch (err) {
-                document.body.removeChild(textArea);
-                reject(err);
-            }
-        });
-    }
-}
+        const targetSpans = document.querySelectorAll("." + targetClass);
+        targetSpans.forEach((span) => span.classList.add("active"));
+      });
+    });
+  }
 
-window.handleShareClick = async function(buttonEl) {
-    const recipeTitle = document.querySelector('h1')?.textContent.trim() || document.title;
-    const url = window.location.href;
-    const originalText = buttonEl.innerHTML;
+  /* ==========================================================================
+     2. Wake Lock API (Keep Screen Awake at the Bar)
+     ========================================================================== */
+  const wakeLockBtn = document.getElementById("toggleWakeLock");
+  let wakeLock = null;
 
-    // 1. Mobile Native Share Sheet (if supported)
-    if (navigator.share && /mobile|android|iphone|ipad/i.test(navigator.userAgent)) {
+  if (wakeLockBtn && "wakeLock" in navigator) {
+    wakeLockBtn.addEventListener("click", async function (e) {
+      e.preventDefault();
+      if (!wakeLock) {
         try {
-            await navigator.share({
-                title: recipeTitle,
-                text: `Check out this ${recipeTitle} recipe!`,
-                url: url
-            });
-            postFeedbackData({ action: 'shared' });
-            return;
+          wakeLock = await navigator.wakeLock.request("screen");
+          wakeLockBtn.textContent = "Keep Awake: ON";
+          wakeLockBtn.classList.add("active");
+
+          wakeLock.addEventListener("release", () => {
+            wakeLock = null;
+            wakeLockBtn.textContent = "Stop Sleep";
+            wakeLockBtn.classList.remove("active");
+          });
         } catch (err) {
-            // User dismissed native share sheet
-            return;
+          console.warn("Wake Lock error:", err);
         }
-    }
+      } else {
+        await wakeLock.release();
+        wakeLock = null;
+      }
+    });
+  } else if (wakeLockBtn) {
+    // Hide or disable if browser doesn't support the API
+    wakeLockBtn.style.display = "none";
+  }
 
-    // 2. Desktop / Clipboard fallback with visual confirmation
-    try {
-        await copyTextToClipboard(url);
-        buttonEl.innerHTML = '✓ Link Copied!';
-        buttonEl.style.color = '#2e7d32';
+  /* ==========================================================================
+     3. Microfeedback Widget
+     ========================================================================== */
+  const btnMade = document.getElementById("btn-made");
+  const btnShare = document.getElementById("btn-share");
+  const btnSubmit = document.getElementById("btn-feedback-submit");
+  const expandedBox = document.getElementById("feedback-expanded");
+  const statusMsg = document.getElementById("feedback-status");
+  const widget = document.getElementById("feedback-widget");
 
+  // "I Made This" toggle
+  if (btnMade && expandedBox) {
+    btnMade.addEventListener("click", function () {
+      if (expandedBox.style.display === "none" || expandedBox.style.display === "") {
+        expandedBox.style.display = "block";
+        btnMade.classList.add("active");
+      } else {
+        expandedBox.style.display = "none";
+        btnMade.classList.remove("active");
+      }
+    });
+  }
+
+  // Web Share API with resilient clipboard and legacy fallbacks
+  if (btnShare) {
+    btnShare.addEventListener("click", async function (e) {
+      e.preventDefault();
+
+      const shareData = {
+        title: document.title,
+        url: window.location.href,
+      };
+
+      const indicateCopied = () => {
+        const origText = btnShare.textContent;
+        btnShare.textContent = "✓ Copied!";
         setTimeout(() => {
-            buttonEl.innerHTML = originalText;
-            buttonEl.style.color = '';
-        }, 2500);
+          btnShare.textContent = origText;
+        }, 2000);
+      };
 
-        postFeedbackData({ action: 'shared' });
-    } catch (err) {
-        console.error('Copy to clipboard failed:', err);
-    }
-};
-
-async function postFeedbackData(payload) {
-    const widget = document.getElementById('feedback-widget');
-    const recipeId = widget?.dataset.recipe || window.location.pathname;
-    const statusEl = document.getElementById('feedback-status');
-    const initialEl = document.querySelector('.feedback-initial');
-    const expandedEl = document.getElementById('feedback-expanded');
-
-    const params = new URLSearchParams();
-    params.append('recipe', recipeId);
-    params.append('action', payload.action || 'made');
-    if (payload.rating) params.append('rating', payload.rating);
-    if (payload.tags) params.append('tags', Array.isArray(payload.tags) ? payload.tags.join(', ') : payload.tags);
-    if (payload.notes) params.append('notes', payload.notes);
-
-    try {
-        await fetch(FEEDBACK_SCRIPT_URL, {
-            method: 'POST',
-            mode: 'no-cors',
-            headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-            body: params.toString()
-        });
-
-        if (payload.action === 'made') {
-            if (initialEl) initialEl.style.display = 'none';
-            if (expandedEl) expandedEl.style.display = 'none';
-            if (statusEl) {
-                statusEl.textContent = '✓ Thanks for the feedback! 🍸';
-                statusEl.style.display = 'block';
-            }
+      // 1. Mobile & Web Share API (HTTPS or localhost)
+      if (navigator.share && navigator.canShare && navigator.canShare(shareData)) {
+        try {
+          await navigator.share(shareData);
+          return;
+        } catch (err) {
+          if (err.name === "AbortError") return; // User closed sheet
         }
-    } catch (err) {
-        console.error('Feedback submission error:', err);
-    }
-}
+      }
 
-window.submitFullFeedback = function() {
-    const rating = document.querySelector('input[name="star_rating"]:checked')?.value || '';
-    const selectedTags = Array.from(document.querySelectorAll('input[name="tag"]:checked')).map(cb => cb.value);
-    const notes = document.getElementById('feedback-notes')?.value || '';
+      // 2. Modern Clipboard API (Requires HTTPS or localhost)
+      if (navigator.clipboard && window.isSecureContext) {
+        try {
+          await navigator.clipboard.writeText(window.location.href);
+          indicateCopied();
+          return;
+        } catch (err) {
+          console.warn("Async clipboard failed, attempting fallback:", err);
+        }
+      }
 
-    postFeedbackData({
-        action: 'made',
-        rating: rating,
+      // 3. Resilient Fallback (Works on non-HTTPS, local IPs, and older browsers)
+      try {
+        const dummyInput = document.createElement("input");
+        dummyInput.style.position = "fixed";
+        dummyInput.style.top = "-9999px";
+        dummyInput.style.left = "-9999px";
+        dummyInput.value = window.location.href;
+        document.body.appendChild(dummyInput);
+        dummyInput.focus();
+        dummyInput.select();
+        const successful = document.execCommand("copy");
+        document.body.removeChild(dummyInput);
+
+        if (successful) {
+          indicateCopied();
+        } else {
+          window.prompt("Copy link to clipboard:", window.location.href);
+        }
+      } catch (fallbackErr) {
+        window.prompt("Copy link to clipboard:", window.location.href);
+      }
+    });
+  }
+
+  // Feedback Submission Handler
+  if (btnSubmit && widget) {
+    btnSubmit.addEventListener("click", function () {
+      const recipeSlug = widget.getAttribute("data-recipe") || "";
+      const selectedRating = document.querySelector('input[name="star_rating"]:checked');
+      const selectedTags = Array.from(document.querySelectorAll('input[name="tag"]:checked')).map(
+        (el) => el.value
+      );
+      const notes = document.getElementById("feedback-notes") ? document.getElementById("feedback-notes").value : "";
+
+      const payload = {
+        recipe: recipeSlug,
+        rating: selectedRating ? selectedRating.value : null,
         tags: selectedTags,
-        notes: notes
+        notes: notes,
+      };
+
+      // Simulated submission or endpoint hook
+      if (statusMsg) {
+        statusMsg.textContent = "Cheers! Thanks for the feedback.";
+        statusMsg.style.display = "block";
+      }
+
+      if (expandedBox) {
+        expandedBox.style.display = "none";
+      }
     });
-};
-
-// --- DOM Initialization ---
-document.addEventListener('DOMContentLoaded', () => {
-    // --- Recipe Scaling Logic ---
-    const scaleLinks = document.querySelectorAll('.menu a[data-target]');
-    const scaleClasses = ['onex', 'onehalfx', 'twox', 'threex'];
-
-    scaleLinks.forEach(link => {
-        link.addEventListener('click', (event) => {
-            event.preventDefault();
-
-            const targetClass = link.getAttribute('data-target');
-            if (!targetClass) return;
-
-            // 1. Update menu link active states
-            scaleLinks.forEach(l => l.classList.remove('active'));
-            link.classList.add('active');
-
-            // 2. Toggle measurement spans cleanly
-            scaleClasses.forEach(cls => {
-                const elements = document.querySelectorAll('.' + cls);
-                elements.forEach(el => {
-                    if (cls === targetClass) {
-                        el.classList.add('active');
-                        el.style.display = 'inline';
-                    } else {
-                        el.classList.remove('active');
-                        el.style.display = 'none';
-                    }
-                });
-            });
-        });
-    });
-
-    // --- Wake Lock Logic ---
-    if ('wakeLock' in navigator && wakeLockButton) {
-        let wakeLock = null;
-        let userWantsWakeLock = false;
-
-        async function requestWakeLock() {
-            try {
-                wakeLock = await navigator.wakeLock.request("screen");
-                wakeLock.addEventListener("release", () => {
-                    updateWakeLockButton();
-                });
-            } catch (err) {
-                userWantsWakeLock = false;
-                wakeLockButton.style.display = "none";
-            }
-            updateWakeLockButton();
-        }
-
-        async function releaseWakeLock() {
-            if (wakeLock) {
-                await wakeLock.release();
-                wakeLock = null;
-            }
-        }
-
-        function updateWakeLockButton() {
-            const isCurrentlyActive = wakeLock !== null && !wakeLock.released;
-            wakeLockButton.textContent = isCurrentlyActive ? "Allow Sleep" : "Stop Sleep";
-        }
-
-        wakeLockButton.addEventListener("click", async (event) => {
-            event.preventDefault();
-            
-            if (userWantsWakeLock) {
-                userWantsWakeLock = false;
-                await releaseWakeLock();
-            } else {
-                userWantsWakeLock = true;
-                await requestWakeLock();
-            }
-            updateWakeLockButton();
-        });
-
-        document.addEventListener("visibilitychange", async () => {
-            if (userWantsWakeLock && document.visibilityState === "visible") {
-                await requestWakeLock();
-            }
-        });
-    } else if (wakeLockButton) {
-        wakeLockButton.style.display = "none";
-    }
+  }
 });
+
+/* ==========================================================================
+   4. Global Helper: YouTube Embed Toggle
+   ========================================================================== */
+function toggleDiv() {
+  const yt = document.getElementById("youtube");
+  if (yt) {
+    yt.style.display = yt.style.display === "none" || yt.style.display === "" ? "block" : "none";
+  }
+}

@@ -45,10 +45,12 @@
   <meta name="keywords" content="cocktail, cocktail recipe, {{ page.keywords | join: ', ' | escape }}, {{ page.base_spirits | join: ', ' | escape }}, {{ page.style | join: ', ' | escape }}">
   <meta name="description" content="{%- if page.description-%}{{ page.description | strip_html | replace: '"', "'" | truncatewords: 150 }}{%- else -%}Find hundreds of classic and modern cocktail recipes for free at The Barspoon. Browse by spirit or era, featuring drinks from Anders Erickson and Leandro DiMonriva.{%- endif -%}">
 
-  {% if page.url -%}
-  {%- assign canonical_url = site.url | append: site.baseurl | append: page.url -%}
-  <link rel="canonical" href="{{ canonical_url | replace:'index.html','' | replace:'index.md','' }}">
-  {%- endif %}
+{% if page.url -%}
+  {%- assign base = site.url | remove_last: '/' -%}
+  {%- assign page_path = page.url | replace: 'index.html', '' | replace: 'index.md', '' -%}
+  {%- assign full_url = base | append: site.baseurl | append: page_path -%}
+  <link rel="canonical" href="{{ full_url | replace: '//', '/' | replace: 'https:/', 'https://' | replace: 'http:/', 'http://' }}">
+  {%- endif -%}
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="{{ '/assets/images/favicon.png' | relative_url }}">

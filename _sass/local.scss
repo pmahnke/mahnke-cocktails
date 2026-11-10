@@ -366,11 +366,12 @@ table td:last-child {
   }
 }
 
-/* Card Grids */
+/* Column Wrapper & Card Grids */
 .recipe-main-column {
   width: 100%;
   min-width: 0;
 }
+
 .recipe-card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
@@ -517,7 +518,7 @@ table td:last-child {
 
 .star-rating {
   --rating: 0;
-  --star-size: 1.5rem; /* Full-size editorial header stars */
+  --star-size: 1.5rem;
   --star-color: #e2e2e2;
   --star-background: #ffc107;
 
@@ -548,7 +549,7 @@ table td:last-child {
 }
 
 .star-rating.star-rating--small {
-  --star-size: 1rem; /* Compact for homepage cards and tables */
+  --star-size: 1rem;
 }
 
 /* ==========================================================================
@@ -591,10 +592,36 @@ table td:last-child {
     padding: 0 !important;
   }
 
+  .recipe-main-column {
+    width: 100% !important;
+  }
+
   h1, h2, h3, h4 {
     color: #000000 !important;
     page-break-after: avoid !important;
     break-after: avoid !important;
+  }
+
+  /* Table & Row Print Refinements */
+  table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  tr {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  thead {
+    display: table-header-group !important; /* Repeats header if table spans pages */
+  }
+
+  th, td {
+    border-bottom: 1px solid #cccccc !important;
+    padding: 0.35rem 0.5rem !important;
   }
 
   .recipe_card,
@@ -604,6 +631,7 @@ table td:last-child {
     border: none !important;
     padding: 0 !important;
     page-break-inside: avoid !important;
+    break-inside: avoid !important;
   }
 
   ul li::marker {

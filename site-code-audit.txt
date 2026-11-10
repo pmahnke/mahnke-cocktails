@@ -265,7 +265,7 @@ layout: default
 ---
 <div class="grid-container two-thirds">
   <!-- Left column (2/3) -->
-  <div>
+  <div class="recipe-main-column">
     <div class="recipe-header-grid">
       <h1>{{ page.title }}</h1>
       <div class="recipe-header-stars">
@@ -276,7 +276,7 @@ layout: default
     {%- include recipe_taxonomy.html -%}
 
     {%- if page.excerpt -%}
-      <p>{{ page.excerpt | markdownify }}</p>
+      {{ page.excerpt | markdownify }}
       {%- if page.style -%}
         <p>{%- for s in page.style -%}{{ s }}{% unless forloop.last %}, {% endunless %}{%- endfor -%}</p>
       {%- endif -%}
@@ -498,7 +498,7 @@ output a clean, comma-separated string of category names (e.g., "Sour cocktail, 
   <meta name="pinterest-rich-pin" content="true" >
   {% endunless %}
   {% endif %}
-  <meta name="p:domain_verify" content="19cee6548b3829caa29e15bcfaa9bbf9"/>
+  <meta name="p:domain_verify" content="19cee6548b3829caa29e15bcfaa9bbf9">
   
   <meta name="keywords" content="cocktail, cocktail recipe, {{ page.keywords | join: ', ' | escape }}, {{ page.base_spirits | join: ', ' | escape }}, {{ page.style | join: ', ' | escape }}">
   <meta name="description" content="{%- if page.description-%}{{ page.description | strip_html | replace: '"', "'" | truncatewords: 150 }}{%- else -%}Find hundreds of classic and modern cocktail recipes for free at The Barspoon. Browse by spirit or era, featuring drinks from Anders Erickson and Leandro DiMonriva.{%- endif -%}">
@@ -513,8 +513,7 @@ output a clean, comma-separated string of category names (e.g., "Sour cocktail, 
   <link rel="apple-touch-icon" href="{{ '/assets/images/favicon.png' | relative_url }}">
 
 
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" media="print" onload="this.media='all'; this.onload=null;">
-  <noscript><link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}"></noscript>
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?{{ site.time | date: '%s' }}">
 
 </head>
 
@@ -533,18 +532,18 @@ output a clean, comma-separated string of category names (e.g., "Sour cocktail, 
 
 
 <div class="grid-container halves no-print">
-  <div class="no-print"><!-- div half -->
+  <div class="no-print"><!-- div 1/2 -->
     {%- if page.youtube -%}
       {%- if page.youtube contains "https" -%}
-    <a href="{{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
+        <a href="{{ page.youtube }}" target="_blank" rel="noopener noreferrer" class="button" id="youtube-web">Source Video</a>
       {%- else -%}
-    <a href="https://www.youtube.com/watch?v={{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
+        <a href="https://www.youtube.com/watch?v={{ page.youtube }}" target="_blank" rel="noopener noreferrer" class="button" id="youtube-web">Source Video</a>
       {%- endif -%}
       {%- if page.youtube_embed -%}
-    <button id="youtube-button" onclick="toggleDiv()">Embedded</button>
-      {%- endif -%}{%- endif -%}&nbsp;
+        <button id="youtube-button" onclick="toggleDiv()">Embedded</button>
+      {%- endif -%}
+    {%- endif -%}&nbsp;
   </div><!-- /div 1/2 -->
-
   <div class="" id="search"><!-- div 1/2 -->
     {%- include search.html -%}
   </div><!-- /div 1/2 -->
@@ -748,7 +747,7 @@ output a clean, comma-separated string of category names (e.g., "Sour cocktail, 
     {%- if site.data[page.iconfile].images -%}
         {%- if site.data[page.iconfile].images.cocktail -%}
             {%- for image in site.data[page.iconfile].images.cocktail -%}
-        <a href="{{ page.url | prepend: site.baseurl }}"><img src="{{ image.url }}" alt="{{ image.title }}" width="120" height="160" ></a>
+        <a href="{{ page.url | prepend: site.baseurl }}"><img src="{{ image.url }}" alt="{{ image.title }}" width="120" height="160"></a>
             {%- endfor -%}
         {%- else -%}
             {%- for ingredient in site.data[page.iconfile].images.ingredient | limit: 1 -%}
@@ -768,10 +767,8 @@ output a clean, comma-separated string of category names (e.g., "Sour cocktail, 
 <p>
 {%- if page.eras -%}
   {%- for era_slug in page.eras -%}
-    <!-- 1. Look up the era in the 'site.eras' collection instead of 'site.data.eras' -->
     {%- assign e = site.era | where: "slug", era_slug | first -%}
     {%- if e -%}
-      <!-- 2. Use the native e.url instead of hardcoding '/era/slug' -->
       <a href="{{ e.url | prepend: site.baseurl }}">{{ e.name | default: e.title }}</a>
     {%- endif -%}
   {%- endfor -%}
@@ -780,10 +777,8 @@ output a clean, comma-separated string of category names (e.g., "Sour cocktail, 
 {%- if page.categories -%}
   {%- if page.eras %} | {% endif -%} 
   {%- for cat_slug in page.categories -%}
-    <!-- 3. Look up the category in 'site.categories' instead of 'site.data.categories' -->
     {%- assign c = site.category | where: "slug", cat_slug | first -%}
     {%- if c -%}
-      <!-- 4. Use the native c.url instead of hardcoding '/category/slug_cocktails' -->
       <a href="{{ c.url | prepend: site.baseurl }}">{{ c.name | default: c.title }}</a>{% if forloop.last == false %}, {% endif %}
     {%- endif -%}
   {%- endfor -%}
@@ -1482,29 +1477,19 @@ sub printOutput {
     my $header = &getInclude($DIRincludes.'/header.incl');
     my $footer = &getInclude($DIRincludes.'/footer.incl');
     
+    my $query_display = $F{'q'} // '';
+
     my $out = <<ENDOFHTML;
 $header
 
-<!-- SEARCH -->
-<div class="row">
-    <div class="twelve columns">
-      <h2>Search results - $F{'q'}</h2>
-        <form action="/cgi-bin/cocktail_search.cgi" method="get">
-          <input name="a" value="search" type="hidden">
-          <p><input class="search_text" type="text" name="q" value="$F{'q'}" size="40"> <input class="search_button" value="Search" type="submit"></p>
-        </form>
+<div class="grid-container two-thirds">
+    <div>
+      <h2>Search results for &ldquo;$query_display&rdquo;</h2>
+      
+      $results
     </div>
+    <div></div><!-- empty 1/3 sidebar to keep layout balanced -->
 </div>
-
-<!-- CONTENT -->
-<div class="row">
-    <div class="two-thirds column">
-       
-       $results
-
-</div><!-- /div 2/3 -->
-</div><!-- /div row -->
-<!-- / CONTENT -->
 
 $footer
 ENDOFHTML
@@ -2424,274 +2409,6 @@ Fair & warmer
 | 0.5 oz | Cointreau triple sec
 
 Shake all ingredients with ice and fine strain into chilled glass. Garnish with orange zest twist.
-==> images.md <==
----
-layout: default
-title: index of images
----
-
-<style>
-    .image-grid {
-        display: grid;
-        grid-template-columns: repeat(4, 1fr); /* Creates exactly 4 equal columns */
-        gap: 20px; /* Space between items */
-        list-style: none; /* Removes the default bullet points */
-        padding: 0;
-        margin-bottom: 2rem;
-    }
-    
-    .image-grid li {
-        text-align: center;
-        padding: 10px;
-        background-color: #f9f9f9; /* Optional: adds a subtle background to each cell */
-        border-radius: 8px;
-    }
-
-    /* OVERRIDE: Removes the global arrow bullet from your main CSS */
-    .image-grid li::before {
-        content: none; 
-    }
-
-    .image-grid img {
-        max-width: 100%;
-        height: 120px;
-        object-fit: contain; /* Ensures images don't stretch */
-        margin-bottom: 10px;
-    }
-</style>
-
-<h3>Category</h3>
-<ul class="image-grid">
-    {%- comment -%} 
-      Bypassing the built-in site.categories and going straight 
-      to your custom collection 'site.category' 
-    {%- endcomment -%}
-    {%- if site.category -%}
-        {%- assign sorted_categories = site.category | sort: "title" -%}
-        {%- for cat in sorted_categories -%}
-            {%- if cat.icon_path -%}
-                <li>
-                    <img src="{{ cat.icon_path | relative_url }}" alt="{{ cat.title }}"><br>
-                    {{ cat.title }}
-                </li>
-            {%- endif -%}
-        {%- endfor -%}
-    {%- endif -%}
-</ul>
-
-<h3>Ingredients (Spirits)</h3>
-<ul class="image-grid">
-    {%- comment -%} 
-      Looking for site.spirit (singular) to match the _spirit folder. 
-      We added a fallback to site.spirits just in case! 
-    {%- endcomment -%}
-    {%- assign all_spirits = site.spirit | default: site.spirits -%}
-    
-    {%- if all_spirits -%}
-        {%- assign sorted_spirits = all_spirits | sort: "title" -%}
-        {%- for spirit in sorted_spirits -%}
-            {%- if spirit.icon_path -%}
-                <li>
-                    <img src="{{ spirit.icon_path | relative_url }}" alt="{{ spirit.title }}"><br>
-                    {{ spirit.title }}
-                </li>
-            {%- endif -%}
-        {%- endfor -%}
-    {%- endif -%}
-</ul>
-
-<h3>Glasses</h3>
-<ul class="image-grid">
-    {%- for glass_pair in site.data.components.glasses -%}
-        {%- assign glass_key = glass_pair[0] -%}
-        {%- assign glass_data = glass_pair[1] -%}
-        <li>
-            <img src="{{ glass_data.icon | relative_url }}" alt="{{ glass_key }}"><br>
-            {{ glass_key }}
-        </li>
-    {%- endfor -%}
-</ul>
-
-<h3>Garnishes</h3>
-<ul class="image-grid">
-    {%- for garnish_pair in site.data.components.garnishes -%}
-        {%- assign garnish_key = garnish_pair[0] -%}
-        {%- assign garnish_data = garnish_pair[1] -%}
-        <li>
-            <img src="{{ garnish_data.icon | relative_url }}" alt="{{ garnish_key }}"><br>
-            {{ garnish_key }}
-        </li>
-    {%- endfor -%}
-</ul>
-
-<h3>Tools</h3>
-<ul class="image-grid">
-    {%- for tool_pair in site.data.components.tools -%}
-        {%- assign tool_key = tool_pair[0] -%}
-        {%- assign tool_data = tool_pair[1] -%}
-        <li>
-            <img src="{{ tool_data.icon | relative_url }}" alt="{{ tool_key }}"><br>
-            {{ tool_key }}
-        </li>
-    {%- endfor -%}
-</ul>
-
-<h3>Ice</h3>
-<ul class="image-grid">
-    {%- for ice_pair in site.data.components.ice -%}
-        {%- assign ice_key = ice_pair[0] -%}
-        {%- assign ice_data = ice_pair[1] -%}
-        <li>
-            <img src="{{ ice_data.icon | relative_url }}" alt="{{ ice_key }}"><br>
-            {{ ice_key }}
-        </li>
-    {%- endfor -%}
-</ul>
-
-<h3>Types</h3>
-<ul class="image-grid">
-    {%- for type_pair in site.data.components.types -%}
-        {%- assign type_key = type_pair[0] -%}
-        {%- assign type_data = type_pair[1] -%}
-        <li>
-            <img src="{{ type_data.icon | relative_url }}" alt="{{ type_key }}"><br>
-            {{ type_key }}
-        </li>
-    {%- endfor -%}
-</ul>
-
-
-<h3>Cocktails</h3>
-<ul class="image-grid">
-    {%- assign sorted_pages = site.pages | sort: "title" -%}
-    {%- for page in sorted_pages -%}
-        {%- if page.layout == "recipe" and page.image -%}
-            <li>
-                <a href="{{ page.url}}">
-                <img src="{{ page.image | relative_url }}" alt="{{ page.title }}"><br>
-                {{ page.title }}
-                </a>
-            </li>
-        {%- endif -%}
-    {%- endfor -%}
-</ul>
-==> index.md <==
----
-layout: default
-keywords:
-excerpt: "Classic, prohibition and modern cocktail recipes."
----
-
-<div class="grid-container two-thirds">
-
-    <div><!-- div 2/3 -->
-
-    {%- include latest_cocktail.html -%}
-
-    <p><a href="/all_cocktails/">See all cocktail recipes&nbsp;&rsaquo;</a></p>
-
-    <h1>A Few of Our 5-Star Cocktails</h1>
-    
-    <div class="recipe-card-grid three-across">
-
-    {%- assign fivestar_recipes = "" | split: "" -%}
-    {%- for page in site.pages -%}
-        {%- if page.layout == "recipe" and page.stars == 5 -%}
-            {%- assign fivestar_recipes = fivestar_recipes | push: page -%}
-        {%- endif -%}
-    {%- endfor -%}
-
-    {%- assign random_limited_list = fivestar_recipes | sample: 3 -%}
-
-    {%- for recipe in random_limited_list -%}
-        {%- include recipe_card_small.html recipe=recipe -%}
-    {%- endfor -%}
-    
-    </div>
-    
-    <br>
-
-    <p><a href="/top_rated_cocktails/">See all of our top cocktail recipes&nbsp;&rsaquo;</a></p>
-    
-    <br>
-
-    <h1 style="margin-bottom: 5rem;">Cocktails by Category</h1>
-{%- assign sorted_categories = site.category | sort: "name" -%}
-{%- for cat in sorted_categories -%}
-    <h2>
-        <a href="{{ cat.url | prepend: site.baseurl }}">{{ cat.title }} 
-        {%- if cat.icon_path -%}<img src="{{ cat.icon_path }}" alt="Icon for {{ cat.title }}" class="category_icon_small" loading="lazy">{%- endif -%}
-        </a>
-    </h2>
-
-    {%- assign pages_in_cat = "" | split: "" -%}
-    {%- for page in site.pages -%}
-        {%- if page.categories contains cat.slug and page.layout == "recipe" -%}
-            {%- assign pages_in_cat = pages_in_cat | push: page -%}
-        {%- endif -%}
-    {%- endfor -%}
-
-    {%- assign pages_by_title = pages_in_cat | sort: "title" | reverse -%}
-    {%- assign pages_by_stars = pages_by_title | sort: "stars" | reverse -%}
-
-    <ul class="home_list">
-    {%- for page in pages_by_stars limit: 10 -%}
-        <li class="home_list_item">
-            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            {%- include home_stars.html -%}
-        </li>
-    {%- endfor -%}
-    </ul>
-
-    <p class="more"><a href="{{ cat.url | prepend: site.baseurl }}">All {{ cat.title }} Cocktails&nbsp;&rsaquo;</a></p>
-{%- endfor -%}
-
-    </div><!-- /div 2/3 -->
-    <div><!-- div 1/3 -->
-        <h3>Recipes by Base Spirit</h3>
-        <ul class="spirit-menu">
-        {% for spirit in site.spirit %}
-            <li><a href="{{ spirit.url }}">{{ spirit.title }}</a></li>
-        {% endfor %}
-        </ul>
-
-        <h3><a href="/era/">Recipes by era</a></h3>
-        <ul>
-        {%- assign sorted = site.data.eras -%}
-        {%- for era in site.era -%}
-            <li><a href="{{ era.url }}">{{ era.title }}</a></li>
-        {%- endfor -%}
-        </ul>
-
-        <h3>Bar Essentials Lists</h3>
-        <ul>
-        {%- for page in site.pages -%}
-            {%- if page.type == "list" -%}
-            <li><a href="{{ page.url | prepend: site.baseurl }}">
-                {{ page.title }}
-            </a></li>
-            {%- endif -%}
-        {%- endfor -%}
-        </ul>
-        <h3>Links</h3>
-        <ul>
-            <li><strong>Anders Erickson's links</strong>
-                <ul>
-                    <li><a href="https://www.youtube.com/@AndersErickson/videos" target="_blank">YouTube</a></li>
-                    <li><a href="https://www.anderserickson.com/" target="_blank">Website</a></li>
-                    <li><a href="https://www.patreon.com/anderserickson/posts" target="_blank">Patreon</a></li>
-                    <li><a href="https://curiada.com/collections/anders-erickson-spirits-collection" target="_blank">Curiada</a></li>
-                </ul>
-            </li>
-            <li><strong>Other links</strong>
-                <ul>
-                    <li><a href="https://euvs-vintage-cocktail-books.cld.bz/" target="_blank">EUVS Vintage Cocktail Book PDFs</a></li>
-                </ul>
-            </li>
-        </ul>
-    </div><!-- /div 1/3 -->
-</div><!-- /div grid-container -->
-
 ==> top_rated_cocktails.md <==
 ---
 layout: default
@@ -3571,7 +3288,7 @@ h1, h2, h3, h4 {
 }
 
 h1 { font-size: 2.25rem; font-weight: 700; }
-h2 { font-size: 1.65rem; font-weight: 600; border-bottom: 1px solid #eeeeee; padding-bottom: 0.3rem; }
+h2 { font-size: 1.65rem; font-weight: 600; padding-bottom: 0.3rem; }
 h3 { font-size: 1.25rem; font-weight: 600; }
 h4 { font-size: 1.05rem; font-weight: 600; }
 
@@ -3654,6 +3371,35 @@ table, ul, ol, p {
     margin-top: 10px;
     width: 55%;
   }
+}
+
+/* Shared styling for action buttons and button-style links */
+.button,
+button,
+#youtube-web,
+#youtube-button {
+  display: inline-block;
+  padding: 6px 12px;
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 500;
+  line-height: 1.4;
+  color: var(--text-main);
+  background-color: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  text-decoration: none;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.button:hover,
+button:hover,
+#youtube-web:hover,
+#youtube-button:hover {
+  color: var(--link-hover);
+  border-color: var(--accent-gold);
+  text-decoration: none;
 }
 
 /* Search bar styling and right-alignment */
@@ -3767,7 +3513,6 @@ th, td {
   padding: 0.6rem 0.75rem;
   vertical-align: middle;
   text-align: left;
-  border-bottom: 1px solid var(--border);
 }
 
 thead th,
@@ -3775,10 +3520,8 @@ th {
   font-family: var(--font-sans);
   font-size: 0.9rem;
   font-weight: 600;
-  text-transform: uppercase;
   letter-spacing: 0.05rem;
   color: var(--text-muted);
-  border-bottom: 2px solid var(--border);
   padding-bottom: 0.5rem;
 }
 
@@ -3870,6 +3613,10 @@ table td:last-child {
 }
 
 /* Card Grids */
+.recipe-main-column {
+  width: 100%;
+  min-width: 0;
+}
 .recipe-card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
@@ -3882,23 +3629,6 @@ table td:last-child {
   grid-template-columns: 1fr;
   gap: 1rem;
   margin: 1.5rem 0;
-}
-
-.recipe-header-grid {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  align-items: start;
-  gap: 1rem;
-  margin-bottom: 0.5rem;
-}
-
-.recipe-header-grid h1 {
-  margin: 0;
-}
-
-.recipe-header-stars {
-  justify-self: end;
-  padding-top: 0.25rem;
 }
 
 @media (min-width: 600px) {
@@ -3921,6 +3651,28 @@ table td:last-child {
   height: 100%;
 }
 
+/* Recipe Header: Title on Left, Stars on Right */
+.recipe-header-grid {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: baseline !important;
+  width: 100% !important;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.recipe-header-grid h1 {
+  margin: 0 !important;
+  flex: 1 1 auto;
+}
+
+.recipe-header-stars {
+  flex: 0 0 auto;
+  margin-left: 1.5rem;
+  text-align: right;
+  align-self: baseline;
+}
+
 /* ==========================================================================
    6. Normalized Artwork & Sidebars
    ========================================================================== */
@@ -3941,7 +3693,7 @@ table td:last-child {
 .rotate-left  { transform: rotate(-18deg); }
 
 .category_icon_small {
-  height: 1.2em;
+  height: 2em;
   vertical-align: -0.15em;
   margin-left: 0.5rem;
   object-fit: contain;
@@ -3992,7 +3744,7 @@ table td:last-child {
   .icon-stack .icon-glass,
   .icon-stack .icon-type {
     max-width: 95px;
-    max-height: 95px;
+    max-height: 120px;
     object-fit: contain;
   }
 
@@ -4011,7 +3763,7 @@ table td:last-child {
 
 .star-rating {
   --rating: 0;
-  --star-size: 1.2rem;
+  --star-size: 1.5rem; /* Full-size editorial header stars */
   --star-color: #e2e2e2;
   --star-background: #ffc107;
 
@@ -4042,7 +3794,73 @@ table td:last-child {
 }
 
 .star-rating.star-rating--small {
-  --star-size: 1rem;
+  --star-size: 1rem; /* Compact for homepage cards and tables */
+}
+
+/* ==========================================================================
+   8. Print Stylesheet
+   ========================================================================== */
+
+@media print {
+  @page {
+    margin: 1.5cm 1.2cm 1.5cm 1.2cm;
+    size: portrait;
+  }
+
+  html, body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 11pt !important;
+    line-height: 1.4 !important;
+    font-family: var(--font-sans) !important;
+  }
+
+  header#navigation,
+  footer,
+  .no-print,
+  #search,
+  #search-box,
+  .menu,
+  .double_line,
+  .star-rating,
+  .category_icon_small,
+  .category_icon_large {
+    display: none !important;
+  }
+
+  .grid-container,
+  .grid-container.two-thirds {
+    display: block !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  h1, h2, h3, h4 {
+    color: #000000 !important;
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+  }
+
+  .recipe_card,
+  article,
+  div.subrecipe {
+    display: block !important;
+    border: none !important;
+    padding: 0 !important;
+    page-break-inside: avoid !important;
+  }
+
+  ul li::marker {
+    content: "• " !important;
+    color: #555555 !important;
+  }
+
+  a, a:link, a:visited {
+    color: #000000 !important;
+    text-decoration: none !important;
+  }
 }
 ==> _sass/normalize.scss <==
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -4567,6 +4385,274 @@ permalink: /era/
 
     </div>
 </div>
+==> images.html <==
+---
+layout: default
+title: index of images
+---
+
+<style>
+    .image-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr); /* Creates exactly 4 equal columns */
+        gap: 20px; /* Space between items */
+        list-style: none; /* Removes the default bullet points */
+        padding: 0;
+        margin-bottom: 2rem;
+    }
+    
+    .image-grid li {
+        text-align: center;
+        padding: 10px;
+        background-color: #f9f9f9; /* Optional: adds a subtle background to each cell */
+        border-radius: 8px;
+    }
+
+    /* OVERRIDE: Removes the global arrow bullet from your main CSS */
+    .image-grid li::before {
+        content: none; 
+    }
+
+    .image-grid img {
+        max-width: 100%;
+        height: 120px;
+        object-fit: contain; /* Ensures images don't stretch */
+        margin-bottom: 10px;
+    }
+</style>
+
+<h3>Category</h3>
+<ul class="image-grid">
+    {%- comment -%} 
+      Bypassing the built-in site.categories and going straight 
+      to your custom collection 'site.category' 
+    {%- endcomment -%}
+    {%- if site.category -%}
+        {%- assign sorted_categories = site.category | sort: "title" -%}
+        {%- for cat in sorted_categories -%}
+            {%- if cat.icon_path -%}
+                <li>
+                    <img src="{{ cat.icon_path | relative_url }}" alt="{{ cat.title }}"><br>
+                    {{ cat.title }}
+                </li>
+            {%- endif -%}
+        {%- endfor -%}
+    {%- endif -%}
+</ul>
+
+<h3>Ingredients (Spirits)</h3>
+<ul class="image-grid">
+    {%- comment -%} 
+      Looking for site.spirit (singular) to match the _spirit folder. 
+      We added a fallback to site.spirits just in case! 
+    {%- endcomment -%}
+    {%- assign all_spirits = site.spirit | default: site.spirits -%}
+    
+    {%- if all_spirits -%}
+        {%- assign sorted_spirits = all_spirits | sort: "title" -%}
+        {%- for spirit in sorted_spirits -%}
+            {%- if spirit.icon_path -%}
+                <li>
+                    <img src="{{ spirit.icon_path | relative_url }}" alt="{{ spirit.title }}"><br>
+                    {{ spirit.title }}
+                </li>
+            {%- endif -%}
+        {%- endfor -%}
+    {%- endif -%}
+</ul>
+
+<h3>Glasses</h3>
+<ul class="image-grid">
+    {%- for glass_pair in site.data.components.glasses -%}
+        {%- assign glass_key = glass_pair[0] -%}
+        {%- assign glass_data = glass_pair[1] -%}
+        <li>
+            <img src="{{ glass_data.icon | relative_url }}" alt="{{ glass_key }}"><br>
+            {{ glass_key }}
+        </li>
+    {%- endfor -%}
+</ul>
+
+<h3>Garnishes</h3>
+<ul class="image-grid">
+    {%- for garnish_pair in site.data.components.garnishes -%}
+        {%- assign garnish_key = garnish_pair[0] -%}
+        {%- assign garnish_data = garnish_pair[1] -%}
+        <li>
+            <img src="{{ garnish_data.icon | relative_url }}" alt="{{ garnish_key }}"><br>
+            {{ garnish_key }}
+        </li>
+    {%- endfor -%}
+</ul>
+
+<h3>Tools</h3>
+<ul class="image-grid">
+    {%- for tool_pair in site.data.components.tools -%}
+        {%- assign tool_key = tool_pair[0] -%}
+        {%- assign tool_data = tool_pair[1] -%}
+        <li>
+            <img src="{{ tool_data.icon | relative_url }}" alt="{{ tool_key }}"><br>
+            {{ tool_key }}
+        </li>
+    {%- endfor -%}
+</ul>
+
+<h3>Ice</h3>
+<ul class="image-grid">
+    {%- for ice_pair in site.data.components.ice -%}
+        {%- assign ice_key = ice_pair[0] -%}
+        {%- assign ice_data = ice_pair[1] -%}
+        <li>
+            <img src="{{ ice_data.icon | relative_url }}" alt="{{ ice_key }}"><br>
+            {{ ice_key }}
+        </li>
+    {%- endfor -%}
+</ul>
+
+<h3>Types</h3>
+<ul class="image-grid">
+    {%- for type_pair in site.data.components.types -%}
+        {%- assign type_key = type_pair[0] -%}
+        {%- assign type_data = type_pair[1] -%}
+        <li>
+            <img src="{{ type_data.icon | relative_url }}" alt="{{ type_key }}"><br>
+            {{ type_key }}
+        </li>
+    {%- endfor -%}
+</ul>
+
+
+<h3>Cocktails</h3>
+<ul class="image-grid">
+    {%- assign sorted_pages = site.pages | sort: "title" -%}
+    {%- for page in sorted_pages -%}
+        {%- if page.layout == "recipe" and page.image -%}
+            <li>
+                <a href="{{ page.url}}">
+                <img src="{{ page.image | relative_url }}" alt="{{ page.title }}"><br>
+                {{ page.title }}
+                </a>
+            </li>
+        {%- endif -%}
+    {%- endfor -%}
+</ul>
+==> index.html <==
+---
+layout: default
+keywords:
+excerpt: "Classic, prohibition and modern cocktail recipes."
+---
+
+<div class="grid-container two-thirds">
+
+    <div><!-- div 2/3 -->
+
+    {%- include latest_cocktail.html -%}
+
+    <p><a href="/all_cocktails/">See all cocktail recipes&nbsp;&rsaquo;</a></p>
+
+    <h1>A Few of Our 5-Star Cocktails</h1>
+    
+    <div class="recipe-card-grid three-across">
+
+    {%- assign fivestar_recipes = "" | split: "" -%}
+    {%- for page in site.pages -%}
+        {%- if page.layout == "recipe" and page.stars == 5 -%}
+            {%- assign fivestar_recipes = fivestar_recipes | push: page -%}
+        {%- endif -%}
+    {%- endfor -%}
+
+    {%- assign random_limited_list = fivestar_recipes | sample: 3 -%}
+
+    {%- for recipe in random_limited_list -%}
+        {%- include recipe_card_small.html recipe=recipe -%}
+    {%- endfor -%}
+    
+    </div>
+    
+    <br>
+
+    <p><a href="/top_rated_cocktails/">See all of our top cocktail recipes&nbsp;&rsaquo;</a></p>
+    
+    <br>
+
+    <h1>Cocktails by Category</h1>
+{%- assign sorted_categories = site.category | sort: "name" -%}
+{%- for cat in sorted_categories -%}
+    <h2>
+        <a href="{{ cat.url | prepend: site.baseurl }}">{{ cat.title }} 
+        {%- if cat.icon_path -%}<img src="{{ cat.icon_path }}" alt="Icon for {{ cat.title }}" class="category_icon_small" loading="lazy">{%- endif -%}
+        </a>
+    </h2>
+
+    {%- assign pages_in_cat = "" | split: "" -%}
+    {%- for page in site.pages -%}
+        {%- if page.categories contains cat.slug and page.layout == "recipe" -%}
+            {%- assign pages_in_cat = pages_in_cat | push: page -%}
+        {%- endif -%}
+    {%- endfor -%}
+
+    {%- assign pages_by_title = pages_in_cat | sort: "title" | reverse -%}
+    {%- assign pages_by_stars = pages_by_title | sort: "stars" | reverse -%}
+
+    <ul class="home_list">
+    {%- for page in pages_by_stars limit: 10 -%}
+        <li class="home_list_item">
+            <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            {%- include home_stars.html -%}
+        </li>
+    {%- endfor -%}
+    </ul>
+
+    <p class="more"><a href="{{ cat.url | prepend: site.baseurl }}">All {{ cat.title }} Cocktails&nbsp;&rsaquo;</a></p>
+{%- endfor -%}
+
+    </div><!-- /div 2/3 -->
+    <div><!-- div 1/3 -->
+        <h3>Recipes by Base Spirit</h3>
+        <ul class="spirit-menu">
+        {% for spirit in site.spirit %}
+            <li><a href="{{ spirit.url }}">{{ spirit.title }}</a></li>
+        {% endfor %}
+        </ul>
+
+        <h3><a href="/era/">Recipes by era</a></h3>
+        <ul>
+        {%- assign sorted = site.data.eras -%}
+        {%- for era in site.era -%}
+            <li><a href="{{ era.url }}">{{ era.title }}</a></li>
+        {%- endfor -%}
+        </ul>
+
+        <h3>Bar Essentials Lists</h3>
+        <ul>
+        {%- for page in site.pages -%}
+            {%- if page.type == "list" -%}
+            <li><a href="{{ page.url | prepend: site.baseurl }}">
+                {{ page.title }}
+            </a></li>
+            {%- endif -%}
+        {%- endfor -%}
+        </ul>
+        <h3>Links</h3>
+        <ul>
+            <li><strong>Anders Erickson's links</strong>
+                <ul>
+                    <li><a href="https://www.youtube.com/@AndersErickson/videos" target="_blank">YouTube</a></li>
+                    <li><a href="https://www.anderserickson.com/" target="_blank">Website</a></li>
+                    <li><a href="https://www.patreon.com/anderserickson/posts" target="_blank">Patreon</a></li>
+                    <li><a href="https://curiada.com/collections/anders-erickson-spirits-collection" target="_blank">Curiada</a></li>
+                </ul>
+            </li>
+            <li><strong>Other links</strong>
+                <ul>
+                    <li><a href="https://euvs-vintage-cocktail-books.cld.bz/" target="_blank">EUVS Vintage Cocktail Book PDFs</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div><!-- /div 1/3 -->
+</div><!-- /div grid-container -->
+
 ==> spirit.html <==
 ---
 layout: default
