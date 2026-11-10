@@ -282,20 +282,19 @@ th {
 /* Recipe Ingredient Columns */
 table th:first-child,
 table td:first-child {
-  width: 32%;
+  width: 20%;
   padding-left: 0;
-  text-align: left !important; /* Neutralizes Markdown -----: right alignment */
   white-space: nowrap;
 }
 
 table th:nth-child(2),
 table td:nth-child(2) {
-  width: 43%;
+  width: 40%;
 }
 
 table th:last-child,
 table td:last-child {
-  width: 25%;
+  width: 40%;
   padding-right: 0;
   color: var(--text-muted);
 }
