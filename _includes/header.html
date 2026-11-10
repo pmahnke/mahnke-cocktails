@@ -12,18 +12,18 @@
 
 
 <div class="grid-container halves no-print">
-  <div class="no-print"><!-- div half -->
+  <div class="no-print"><!-- div 1/2 -->
     {%- if page.youtube -%}
       {%- if page.youtube contains "https" -%}
-    <a href="{{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
+        <a href="{{ page.youtube }}" target="_blank" rel="noopener noreferrer" class="button" id="youtube-web">Source Video</a>
       {%- else -%}
-    <a href="https://www.youtube.com/watch?v={{ page.youtube }}" target="_blank"><button id="youtube-web">Source Video</button></a>
+        <a href="https://www.youtube.com/watch?v={{ page.youtube }}" target="_blank" rel="noopener noreferrer" class="button" id="youtube-web">Source Video</a>
       {%- endif -%}
       {%- if page.youtube_embed -%}
-    <button id="youtube-button" onclick="toggleDiv()">Embedded</button>
-      {%- endif -%}{%- endif -%}&nbsp;
+        <button id="youtube-button" onclick="toggleDiv()">Embedded</button>
+      {%- endif -%}
+    {%- endif -%}&nbsp;
   </div><!-- /div 1/2 -->
-
   <div class="" id="search"><!-- div 1/2 -->
     {%- include search.html -%}
   </div><!-- /div 1/2 -->

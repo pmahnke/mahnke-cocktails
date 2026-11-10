@@ -23,29 +23,25 @@ permalink: /top_rated_cocktails/
 {%- assign four_star_sorted = four_star_recipes | sort_natural: "title" -%}
 
 <div class="grid-container full">
-    <div><!-- div 2/3 -->
-
-<section class="rating-tier">
-  <h1>5-Star Cocktails ({{ five_star_sorted.size }})</h1>
-  <div class="grid-container">
-    {%- for recipe in five_star_sorted -%}
-      <div>
-        {%- include recipe_card_small.html page=recipe -%}
+  <div>
+    <section class="rating-tier">
+      <h1>5-Star Cocktails ({{ five_star_sorted.size }})</h1>
+      <div class="recipe-card-grid">
+        {%- for recipe in five_star_sorted -%}
+          {%- include recipe_card_small.html recipe=recipe -%}
+        {%- endfor -%}
       </div>
-    {%- endfor -%}
-  </div>
-</section>
+    </section>
 
-<section class="rating-tier" style="margin-top: 3rem;">
-  <h2>4-Star Cocktails ({{ four_star_sorted.size }})</h2>
-  <div class="grid-container">
-    {%- for recipe in four_star_sorted -%}
-      <div>
-        {%- include recipe_card_small.html page=recipe -%}
+    {%- if four_star_sorted.size > 0 -%}
+    <section class="rating-tier" style="margin-top: 3.5rem;">
+      <h2>4-Star Cocktails ({{ four_star_sorted.size }})</h2>
+      <div class="recipe-card-grid">
+        {%- for recipe in four_star_sorted -%}
+          {%- include recipe_card_small.html recipe=recipe -%}
+        {%- endfor -%}
       </div>
-    {%- endfor -%}
+    </section>
+    {%- endif -%}
   </div>
-</section>
-
-    </div><!-- /div 1/3 -->
-</div><!-- /div grid-container -->
+</div>

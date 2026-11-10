@@ -3,9 +3,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="John & Peter Mahnke">
 
-  <!-- inline critical path styles -->
-  {% include critical.css %}
-
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-7VTRNZ0ZMF"></script>
   <script>
@@ -43,7 +40,7 @@
   <meta name="pinterest-rich-pin" content="true" >
   {% endunless %}
   {% endif %}
-  <meta name="p:domain_verify" content="19cee6548b3829caa29e15bcfaa9bbf9"/>
+  <meta name="p:domain_verify" content="19cee6548b3829caa29e15bcfaa9bbf9">
   
   <meta name="keywords" content="cocktail, cocktail recipe, {{ page.keywords | join: ', ' | escape }}, {{ page.base_spirits | join: ', ' | escape }}, {{ page.style | join: ', ' | escape }}">
   <meta name="description" content="{%- if page.description-%}{{ page.description | strip_html | replace: '"', "'" | truncatewords: 150 }}{%- else -%}Find hundreds of classic and modern cocktail recipes for free at The Barspoon. Browse by spirit or era, featuring drinks from Anders Erickson and Leandro DiMonriva.{%- endif -%}">
@@ -58,7 +55,6 @@
   <link rel="apple-touch-icon" href="{{ '/assets/images/favicon.png' | relative_url }}">
 
 
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" media="print" onload="this.media='all'; this.onload=null;">
-  <noscript><link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}"></noscript>
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?{{ site.time | date: '%s' }}">
 
 </head>

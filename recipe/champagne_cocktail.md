@@ -21,7 +21,7 @@ date: 2025-08-11
 
 |   Amount | Ingredient | Brand                        |
 | -------: | ---------- | ---------------------------- |
-|     5 oz | Champagne  | Laurent-Perrier ""La Cuvée"" |
+|     5 oz | Champagne  | Laurent-Perrier "La Cuvée" |
 |  0.75 oz | Cognac     | Maison Rouge V.S.O.P.        |
 |   1 cube | Sugar      | Brown or White               |
 | 10 drops | Bitters    | Angostura Aromatic Bitters   |

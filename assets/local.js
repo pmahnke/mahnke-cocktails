@@ -132,30 +132,36 @@ window.submitFullFeedback = function() {
 
 // --- DOM Initialization ---
 document.addEventListener('DOMContentLoaded', () => {
-    // --- Menu Navigation Logic ---
-    const menu = document.querySelector('.menu');
-    const menuLinks = document.querySelectorAll('.menu a');
-    const spans = document.querySelectorAll('span');
-    const wakeLockButton = document.getElementById("toggleWakeLock");
+    // --- Recipe Scaling Logic ---
+    const scaleLinks = document.querySelectorAll('.menu a[data-target]');
+    const scaleClasses = ['onex', 'onehalfx', 'twox', 'threex'];
 
-    if (menu) {
-        menu.addEventListener('click', (event) => {
-            const link = event.target.closest('a');
-            if (!link || link === wakeLockButton) return;
-            
+    scaleLinks.forEach(link => {
+        link.addEventListener('click', (event) => {
             event.preventDefault();
 
-            menuLinks.forEach(l => l.classList.remove('active'));
-            spans.forEach(span => span.classList.remove('active'));
+            const targetClass = link.getAttribute('data-target');
+            if (!targetClass) return;
 
-            const target = link.getAttribute('data-target');
+            // 1. Update menu link active states
+            scaleLinks.forEach(l => l.classList.remove('active'));
             link.classList.add('active');
-            
-            if (target) {
-                document.querySelectorAll(`.${target}`).forEach(span => span.classList.add('active'));
-            }
+
+            // 2. Toggle measurement spans cleanly
+            scaleClasses.forEach(cls => {
+                const elements = document.querySelectorAll('.' + cls);
+                elements.forEach(el => {
+                    if (cls === targetClass) {
+                        el.classList.add('active');
+                        el.style.display = 'inline';
+                    } else {
+                        el.classList.remove('active');
+                        el.style.display = 'none';
+                    }
+                });
+            });
         });
-    }
+    });
 
     // --- Wake Lock Logic ---
     if ('wakeLock' in navigator && wakeLockButton) {

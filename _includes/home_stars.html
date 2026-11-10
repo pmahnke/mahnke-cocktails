@@ -1,5 +1,6 @@
-{% if page.stars %}
-  <div class="star-rating star-rating--small" role="img" style="--rating: {{ page.stars | default: 0 }};" aria-label="Rating: {{ page.stars | default: 0 }} out of 5 stars">
-    {% if page.stars > 0 %}{{ page.stars }} ★{% endif %}
+{%- assign star_item = include.page | default: include.recipe | default: page -%}
+{%- if star_item.stars -%}
+  <div class="star-rating star-rating--small" role="img" style="--rating: {{ star_item.stars | default: 0 }};" aria-label="Rating: {{ star_item.stars | default: 0 }} out of 5 stars">
+    {%- if star_item.stars > 0 -%}{{ star_item.stars }} ★{%- endif -%}
   </div>
-{% endif %}
+{%- endif -%}

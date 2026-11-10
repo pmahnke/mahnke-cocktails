@@ -51,6 +51,16 @@ permalink: pretty
 # Build settings
 markdown: kramdown
 
+kramdown:
+  html_to_native: true
+  syntax_highlighter: rouge
+  # Set kramdown parser and emitter options
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  # Force modern HTML5 void tags (<img>, <br> instead of <img />, <br />)
+  xhtml_output: false
+
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #

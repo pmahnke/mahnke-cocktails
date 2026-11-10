@@ -1,50 +1,90 @@
 /* ==========================================================================
-   Typography & Baseline Links
+   1. Design Tokens & Base Typography
    ========================================================================== */
 
-a:link, a:visited, a:active {
-  color: #009;
+:root {
+  --font-serif: "Charter", "Georgia", "Cambria", serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  
+  --text-main: #222222;
+  --text-muted: #555555;
+  --link: #000099;
+  --link-hover: #ff3300;
+  --accent-gold: #e1ad01;
+  --border: #e2e2e2;
+  --max-width: 980px;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 106.25%; /* 1rem = 17px for comfortable readability */
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0 1rem;
+  font-family: var(--font-sans);
+  color: var(--text-main);
+  line-height: 1.6;
+  background: #ffffff;
+}
+
+/* Headings: Editorial serif with balanced weights */
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+  color: #111111;
+  line-height: 1.25;
+  margin: 1.4rem 0 0.5rem 0;
+}
+
+h1 { font-size: 2.25rem; font-weight: 700; }
+h2 { font-size: 1.65rem; font-weight: 600; padding-bottom: 0.3rem; }
+h3 { font-size: 1.25rem; font-weight: 600; }
+h4 { font-size: 1.05rem; font-weight: 600; }
+
+a {
+  color: var(--link);
   text-decoration: none;
 }
 
 a:hover {
-  color: #F30;
+  color: var(--link-hover);
   text-decoration: underline;
 }
 
-th, td {
-  border: none;
-}
-
-/* Only underline links that live inside body copy */
-main p a,
-footer p a {
-  text-decoration: underline;
-}
-
-h1 a:link, h1 a:visited, h1 a:active,
-h2 a:link, h2 a:visited, h2 a:active,
-h3 a:link, h3 a:visited, h3 a:active,
-h4 a:link, h4 a:visited, h4 a:active {
+h1 a, h2 a, h3 a, h4 a {
+  color: inherit;
   text-decoration: none;
-  color: #222;
 }
 
 h3 a {
   display: inline-flex;
   align-items: center;
-  gap: 12px; /* space between text and icon */
+  gap: 10px;
+}
+
+main p a, footer p a {
+  text-decoration: underline;
+}
+
+table, ul, ol, p {
+  font-size: 1rem;
 }
 
 /* ==========================================================================
-   Header & Search
+   2. Header & Search Bar
    ========================================================================== */
 
 .header {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 1.5rem 0 0.5rem 0;
   text-align: center;
 }
 
@@ -60,29 +100,63 @@ h3 a {
 }
 
 .site-title {
-  margin-top: 0.5rem;
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 2rem;
+  font-weight: 200;
+  letter-spacing: -0.05rem;
+  border: none;
+  padding: 0;
+}
+
+.site-title a {
+  color: #222222;
+  text-decoration: none;
 }
 
 @media (max-width: 768px) {
   .header {
     flex-direction: column;
   }
-
   .logo-image-left {
     display: none;
   }
-
   .logo-image-right {
     margin-top: 10px;
-  }
-
-  .site-title {
-    margin-top: 0.5rem;
-    margin-bottom: 1rem;
+    width: 55%;
   }
 }
 
-/* Search bar */
+/* Shared styling for action buttons and button-style links */
+.button,
+button,
+#youtube-web,
+#youtube-button {
+  display: inline-block;
+  padding: 6px 12px;
+  font-family: inherit;
+  font-size: 0.85rem;
+  font-weight: 500;
+  line-height: 1.4;
+  color: var(--text-main);
+  background-color: #ffffff;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  text-decoration: none;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
+.button:hover,
+button:hover,
+#youtube-web:hover,
+#youtube-button:hover {
+  color: var(--link-hover);
+  border-color: var(--accent-gold);
+  text-decoration: none;
+}
+
+/* Search bar styling and right-alignment */
 #search {
   text-align: right;
 }
@@ -90,59 +164,78 @@ h3 a {
 #search_text,
 #search_button {
   display: inline-block;
+  padding: 6px 10px;
+  font-size: 0.95rem;
+  font-family: inherit;
 }
 
 #search_text {
-  min-width: 22rem;
+  min-width: 18rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
 }
 
 .double_line {
   height: 11px;
   background: #fafbf6 url('/assets/images/recipe_bar.png') repeat-x;
-  margin: 0 0 2em 0;
+  margin: 1.5rem 0 2rem 0;
 }
 
 /* ==========================================================================
-   Lists & Menus
+   3. Lists & Menus (Native Markers)
    ========================================================================== */
 
 ul {
   list-style: none;
-  padding: 0;
-  margin: 0;
+  padding-left: 1.5rem;
+  margin: 0.5rem 0 1.5rem 0;
 }
 
-li {
-  padding-left: 1em;
-  text-indent: -.7em;
-  margin: .25em 0;
+ul li {
+  margin: 0.35rem 0;
 }
 
-ul > li::before {
+ul li::marker {
   content: "⇒ ";
-  color: #E1AD01;
-  font-size: 2rem;
+  color: var(--accent-gold);
+  font-size: 1.15rem;
+}
+
+ul ul {
+  padding-left: 1.5rem;
+  margin: 0.25rem 0;
+}
+
+/* Unbulleted menu lists (homepage 2-column list & image galleries) */
+.home_list,
+.image-grid {
+  list-style: none;
+  padding: 0;
+}
+
+.home_list li::marker,
+.image-grid li::marker {
+  content: none;
+}
+
+/* Ensure the sidebar spirit menu has the arrow and standard list padding */
+.spirit-menu {
+  padding-left: 1.5rem;
+  margin: 0.5rem 0 1.5rem 0;
 }
 
 .more {
-  padding: 3em 0;
+  padding: 2em 0;
 }
 
-.sheader img {
-  height: 8rem;
-  margin-bottom: -2rem;
-  padding-top: 1rem;
-}
-
+/* Scaling Menu */
 .menu {
   font-variant-caps: small-caps;
-  margin: 5rem 0 2rem 0;
+  margin: 2rem 0 1rem 0;
 }
 
 .menu a {
-  margin-right: 10px;
-  text-decoration: none;
-  color: blue;
+  margin-right: 0.75rem;
   cursor: pointer;
 }
 
@@ -153,238 +246,280 @@ ul > li::before {
 
 /* Unit measurement scaling toggles */
 .onex, .onehalfx, .twox, .threex {
-  display: none;
+  display: none !important;
 }
 
 .onex.active, .onehalfx.active, .twox.active, .threex.active {
-  display: inline;
+  display: inline !important;
 }
 
 /* ==========================================================================
-   Homepage Table & Lists
+   4. Tables (Recipe Ingredients & General Tables)
    ========================================================================== */
 
-.home_table {
+table {
   width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0 2rem 0;
 }
 
-.home_title {
+th, td {
+  padding: 0.6rem 0.75rem;
+  vertical-align: middle;
+  text-align: left;
+}
+
+thead th,
+th {
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.05rem;
+  color: var(--text-muted);
+  padding-bottom: 0.5rem;
+}
+
+/* Recipe Ingredient Columns */
+table th:first-child,
+table td:first-child {
+  width: 32%;
+  padding-left: 0;
+  text-align: left !important; /* Neutralizes Markdown -----: right alignment */
+  white-space: nowrap;
+}
+
+table th:nth-child(2),
+table td:nth-child(2) {
+  width: 43%;
+}
+
+table th:last-child,
+table td:last-child {
+  width: 25%;
+  padding-right: 0;
+  color: var(--text-muted);
+}
+
+/* Index & Category table overrides */
+.home_table th:first-child,
+.home_table td:first-child {
   width: 35%;
+  white-space: normal;
 }
 
-.home_spirits {
+.home_table td.home_spirits {
   width: 40%;
+}
+
+.home_table td.home_stars {
+  width: 25%;
+  text-align: right;
 }
 
 .home_list {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: .25em 1em;
-  padding: 0;
-  list-style: none;
-  max-width: 100%;
+  gap: 0.25rem 1rem;
 }
 
-.home_list li::before {
-  content: unset;
-}
-
-.home_list_item {
+.home_list li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: .25em .5em;
-  padding: .25rem 0;
-}
-
-/* Rotations for spirit icons */
-.rotate-right {
-  transform: rotate(20deg);
-}
-
-.rotate-left {
-  transform: rotate(-20deg);
+  padding: 0.25rem 0;
 }
 
 /* ==========================================================================
-   Recipe Cards & Normalized Illustrations
+   5. Layout Grids
    ========================================================================== */
 
-div.subrecipe {
-  margin-bottom: 30px;
+.grid-container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* Header halves (Search on right) */
+.grid-container.halves {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 600px) {
+  .grid-container.halves {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  #search {
+    text-align: center;
+  }
+}
+
+/* 2/3 + 1/3 Desktop Split */
+@media (min-width: 650px) {
+  .grid-container.two-thirds {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2.5rem;
+  }
+}
+
+/* Card Grids */
+.recipe-main-column {
+  width: 100%;
+  min-width: 0;
+}
+.recipe-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.recipe-card-grid.three-across {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+@media (min-width: 600px) {
+  .recipe-card-grid.three-across {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .recipe_card {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
+  border: 1px solid var(--border);
+  border-radius: 6px;
   padding: 1rem;
-  border: 1px solid #e1e1e1;
-  border-radius: 4px;
-  margin-bottom: .5rem;
+  background: #ffffff;
   height: 100%;
 }
 
 .recipe_card .card-content {
-  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
-.recipe_card .card-image {
-  flex-shrink: 0;
-  padding-left: 1rem;
+/* Recipe Header: Title on Left, Stars on Right */
+.recipe-header-grid {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: baseline !important;
+  width: 100% !important;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
 }
 
-/* Unified bounding box for all recipe card artwork and spirit fallbacks */
-.recipe_card .card-content img.cocktail-illustration,
-.recipe_card .card-content img.rotate-left,
-.recipe_card .card-content img.rotate-right {
+.recipe-header-grid h1 {
+  margin: 0 !important;
+  flex: 1 1 auto;
+}
+
+.recipe-header-stars {
+  flex: 0 0 auto;
+  margin-left: 1.5rem;
+  text-align: right;
+  align-self: baseline;
+}
+
+/* ==========================================================================
+   6. Normalized Artwork & Sidebars
+   ========================================================================== */
+
+.recipe_card img.cocktail-illustration,
+.recipe_card img.rotate-left,
+.recipe_card img.rotate-right {
   display: block;
   margin: 0 auto 0.75rem auto;
-  width: 100px;
-  height: 120px;
-  max-height: 120px;
+  width: 110px;
+  height: 110px;
+  max-height: 110px;
   object-fit: contain;
   transform-origin: center center;
 }
 
-/* Standalone ingredient icons in tables or body copy */
-.icon-ingredient {
-  display: inline-block;
-  vertical-align: middle;
-  width: 48px;
-  height: 48px;
+.rotate-right { transform: rotate(18deg); }
+.rotate-left  { transform: rotate(-18deg); }
+
+.category_icon_small {
+  height: 2em;
+  vertical-align: -0.15em;
+  margin-left: 0.5rem;
   object-fit: contain;
 }
 
-/* Category header icons */
-.category_icon_small {
-  display: none;
-}
-
 .category_icon_large {
-  display: none;
+  display: inline-block;
+  max-height: 12rem;
+  width: auto;
+  object-fit: contain;
 }
 
 .category_column {
   text-align: center;
 }
 
-@media (min-width: 900px) {
-  .category_icon_small {
-    display: inline-block;
-    width: auto;
-    height: 1.2em;           /* Proportional to cap-height of adjacent heading */
-    max-height: 5.5rem;      /* Prevents oversized blowout */
-    vertical-align: -0.15em; /* Aligns with text baseline */
-    margin-left: 0.5rem;
-    object-fit: contain;
-  }
-
-  .category_icon_large {
-    display: inline-block;
-    width: auto;
-    height: 10rem;
-    max-height: 10rem;
-    vertical-align: middle;
-    object-fit: contain;
-  }
-}
-
-/* ==========================================================================
-   Desktop Right-Hand Icon Stack (Recipe Pages)
-   ========================================================================== */
-
-.icon-stack,
-p.icons {
+/* Recipe Page Sidebar Stack */
+.icon-stack {
   display: none;
 }
 
-@media (min-width: 600px) {
-  p.icons {
-    position: relative;
-    display: inline-block;
-  }
-
-  .icons img {
-    max-height: 12rem;
-  }
-
+@media (min-width: 650px) {
   .icon-stack {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: fit-content;
+    gap: 1.5rem;
+    width: 170px;
     margin-left: auto;
-    gap: 20px;
-    margin-bottom: 1rem;
   }
 
-  /* 1. Hero Cocktail Glass at the top */
-  .icon-stack .icon-hero,
-  .icon-stack .cocktail-illustration {
-    display: block;
-    width: auto;
-    height: auto;
-    max-width: 170px;
-    max-height: 220px;
+  /* 1. Main Cocktail Glass */
+  .icon-stack .icon-hero {
+    max-width: 160px;
+    max-height: 200px;
     object-fit: contain;
   }
 
-  /* 2. Spirit Bottles below hero */
+  /* 2. Spirit Bottles */
   .icon-stack .icon-bottle {
-    display: block;
-    width: auto;
-    height: auto;
-    max-width: 85px;
-    max-height: 130px;
+    max-width: 80px;
+    max-height: 135px;
     object-fit: contain;
   }
 
-  /* 3. Bar tools (mixing glasses, shakers, jiggers, strainers, glassware) */
-  .icon-stack .icon-type, 
-  .icon-stack .icon-glass {
-    display: block;
-    width: auto;
-    height: auto;
-    max-width: 120px;
+  /* 3. Bar Tools, Glassware outlines, & Method badges */
+  .icon-stack .icon-tool,
+  .icon-stack .icon-glass,
+  .icon-stack .icon-type {
+    max-width: 95px;
     max-height: 120px;
     object-fit: contain;
   }
 
-  /* 4. Secondary accessories (ice, garnishes, and tools) */
+  /* 4. Small accessories: Ice & Garnishes */
   .icon-stack .icon-ice,
-  .icon-stack .icon-garnish,
-  .icon-stack .icon-tool {
-    display: block;
-    width: auto;
-    height: auto;
-    max-width: 65px;
-    max-height: 65px;
+  .icon-stack .icon-garnish {
+    max-width: 55px;
+    max-height: 55px;
     object-fit: contain;
   }
 }
 
 /* ==========================================================================
-   Star Rating Component
+   7. Star Ratings
    ========================================================================== */
-
-.stars {
-  font-size: x-large;
-  vertical-align: middle;
-  text-align: right;
-}
-
-span.checked {
-  color: #fcc200;
-}
 
 .star-rating {
   --rating: 0;
-  --star-size-mobile: 1.1rem;
-  --star-size-desktop: 3rem;
-  --star-color: #e1e1e1;
+  --star-size: 1.5rem; /* Full-size editorial header stars */
+  --star-color: #e2e2e2;
   --star-background: #ffc107;
-  --star-spacing: 3px;
 
   display: inline-block;
   position: relative;
@@ -394,20 +529,17 @@ span.checked {
 
 .star-rating::before {
   content: '★★★★★';
-  font-size: var(--star-size-mobile);
-  letter-spacing: var(--star-spacing);
-  background: linear-gradient(90deg,
-    var(--star-background) calc(var(--rating) / 5 * 100%),
-    transparent calc(var(--rating) / 5 * 100%)
-  );
+  font-size: var(--star-size);
+  letter-spacing: 2px;
+  background: linear-gradient(90deg, var(--star-background) calc(var(--rating) / 5 * 100%), transparent calc(var(--rating) / 5 * 100%));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .star-rating::after {
   content: '★★★★★';
-  font-size: var(--star-size-mobile);
-  letter-spacing: var(--star-spacing);
+  font-size: var(--star-size);
+  letter-spacing: 2px;
   color: var(--star-color);
   position: absolute;
   top: 0;
@@ -415,26 +547,12 @@ span.checked {
   z-index: -1;
 }
 
-@media (min-width: 600px) {
-  .star-rating {
-    float: right;
-    margin-right: 1rem;
-  }
-
-  .star-rating::before,
-  .star-rating::after {
-    font-size: var(--star-size-desktop);
-  }
-}
-
 .star-rating.star-rating--small {
-  --star-size-mobile: 1.25rem;
-  --star-size-desktop: 1.75rem;
-  --star-spacing: 0px;
+  --star-size: 1rem; /* Compact for homepage cards and tables */
 }
 
 /* ==========================================================================
-   Print Stylesheet
+   8. Print Stylesheet
    ========================================================================== */
 
 @media print {
@@ -448,7 +566,7 @@ span.checked {
     color: #000000 !important;
     font-size: 11pt !important;
     line-height: 1.4 !important;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+    font-family: var(--font-sans) !important;
   }
 
   header#navigation,
@@ -457,11 +575,6 @@ span.checked {
   #search,
   #search-box,
   .menu,
-  .comments,
-  .comment-container,
-  #pagination_background,
-  .pagination,
-  .more,
   .double_line,
   .star-rating,
   .category_icon_small,
@@ -470,67 +583,36 @@ span.checked {
   }
 
   .grid-container,
-  .grid-container.halves,
-  .grid-container.thirds,
-  .grid-container.two-thirds,
-  .grid-container.two-one-thirds,
-  .container,
-  .row {
+  .grid-container.two-thirds {
     display: block !important;
     width: 100% !important;
     max-width: 100% !important;
     margin: 0 !important;
     padding: 0 !important;
-    grid-gap: 0 !important;
-    gap: 0 !important;
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1, h2, h3, h4 {
     color: #000000 !important;
     page-break-after: avoid !important;
     break-after: avoid !important;
-    page-break-inside: avoid !important;
-    break-inside: avoid !important;
-    margin-top: 0.5em !important;
-    margin-bottom: 0.35em !important;
   }
-
-  h1 { font-size: 20pt !important; line-height: 1.2 !important; }
-  h2 { font-size: 16pt !important; line-height: 1.25 !important; }
-  h3 { font-size: 13pt !important; line-height: 1.3 !important; }
 
   .recipe_card,
   article,
-  div.subrecipe,
-  .recipe-block {
+  div.subrecipe {
     display: block !important;
     border: none !important;
     padding: 0 !important;
-    margin: 0 0 1em 0 !important;
     page-break-inside: avoid !important;
-    break-inside: avoid !important;
   }
 
-  ul, ol {
-    page-break-inside: avoid !important;
-    break-inside: avoid !important;
-    margin-bottom: 1em !important;
-  }
-
-  li {
-    page-break-inside: avoid !important;
-    break-inside: avoid !important;
-  }
-
-  ul > li::before {
+  ul li::marker {
     content: "• " !important;
     color: #555555 !important;
-    font-size: 1.2em !important;
   }
 
   a, a:link, a:visited {
     color: #000000 !important;
     text-decoration: none !important;
-    border-bottom: none !important;
   }
 }

@@ -218,29 +218,19 @@ sub printOutput {
     my $header = &getInclude($DIRincludes.'/header.incl');
     my $footer = &getInclude($DIRincludes.'/footer.incl');
     
+    my $query_display = $F{'q'} // '';
+
     my $out = <<ENDOFHTML;
 $header
 
-<!-- SEARCH -->
-<div class="row">
-    <div class="twelve columns">
-      <h2>Search results - $F{'q'}</h2>
-        <form action="/cgi-bin/cocktail_search.cgi" method="get">
-          <input name="a" value="search" type="hidden">
-          <p><input class="search_text" type="text" name="q" value="$F{'q'}" size="40"> <input class="search_button" value="Search" type="submit"></p>
-        </form>
+<div class="grid-container two-thirds">
+    <div>
+      <h2>Search results for &ldquo;$query_display&rdquo;</h2>
+      
+      $results
     </div>
+    <div></div><!-- empty 1/3 sidebar to keep layout balanced -->
 </div>
-
-<!-- CONTENT -->
-<div class="row">
-    <div class="two-thirds column">
-       
-       $results
-
-</div><!-- /div 2/3 -->
-</div><!-- /div row -->
-<!-- / CONTENT -->
 
 $footer
 ENDOFHTML
