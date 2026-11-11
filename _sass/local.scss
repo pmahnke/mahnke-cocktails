@@ -182,7 +182,7 @@ button:hover,
 }
 
 /* ==========================================================================
-   3. Lists & Menus (Native Markers)
+   3. Lists & Menus
    ========================================================================== */
 
 ul {
@@ -192,13 +192,18 @@ ul {
 }
 
 ul li {
+  position: relative;
   margin: 0.35rem 0;
 }
 
-ul li::marker {
-  content: "⇒ ";
+/* Bullet icon using ::before (universally supported on iOS & Safari) */
+ul li::before {
+  content: "⇒";
+  position: absolute;
+  left: -1.35rem;
   color: var(--accent-gold);
   font-size: 1.15rem;
+  line-height: 1.4;
 }
 
 ul ul {
@@ -213,12 +218,12 @@ ul ul {
   padding: 0;
 }
 
-.home_list li::marker,
-.image-grid li::marker {
+.home_list li::before,
+.image-grid li::before {
   content: none;
 }
 
-/* Ensure the sidebar spirit menu has the arrow and standard list padding */
+/* Ensure the sidebar spirit menu has standard padding */
 .spirit-menu {
   padding-left: 1.5rem;
   margin: 0.5rem 0 1.5rem 0;
