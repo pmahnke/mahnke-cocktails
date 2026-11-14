@@ -11,7 +11,7 @@ color: "#FF7F41"
 stars: 0
 base_spirits: "Pastis, Pedro Ximenez Sherry, Single Malt Scotch"
 youtube: "qlVWR9XDCXA"
-description: "The Rapscallion is a subtly sweet, smoky, and potent cocktail created by Adeline Shepherd at Ruby in Copenhagen, combining single malt Scotch, Pedro Ximénez sherry, and a pastis rinse."
+description: "A subtly sweet, smoky, and potent cocktail created by Adeline Shepherd at Ruby in Copenhagen, combining single malt Scotch, Pedro Ximénez sherry, and a pastis rinse."
 excerpt: |
   The Rapscallion was originally created by Craig Harper in 2003 at The Hallion. A private club at the time in Edinburgh. Adeline Shepherd took the cocktail to her bar, Ruby in Copenhagen in 2005. She switched the scotch from Johnnie Walker Black to Talisker.
 
