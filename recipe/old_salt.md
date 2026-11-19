@@ -19,19 +19,19 @@ date: 2026-11-19
 
 ## Ingredients
 
-| Amount | Ingredient | Brand |
-| -----: | ---------- | ----- |
-| 1.5 oz | Overproof Jamaica Rum | Wray & Nephew |
-| 0.5 oz | Green Chartreuse | Green Chartreuse |
-| 0.75 oz | Fresh Lime Juice |  |
-| 0.75 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |  |
-| 2 dashes | Saline Solution |  |
+|   Amount | Ingredient                                    | Brand            |
+| -------: | --------------------------------------------- | ---------------- |
+|   1.5 oz | Overproof Jamaica Rum                         | Wray & Nephew    |
+|   0.5 oz | Green Chartreuse                              | Green Chartreuse |
+|  0.75 oz | Fresh Lime Juice                              |                  |
+|  0.75 oz | [Honey Syrup]({%link recipe/honey_syrup.md%}) |                  |
+| 2 dashes | Saline Solution                               |                  |
 
 ## Notes
 
 - Method: Shaken
 - Pour: Double Strain
-- Glassware: 
+- Glassware:
   - Coupe glass
 - Garnish: None
 - Special Prep: None
