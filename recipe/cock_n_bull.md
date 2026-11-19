@@ -10,7 +10,7 @@ color: "#9C400E"
 stars: 0
 base_spirits: "Curaçao, Bourbon, Bénédictine, Cognac"
 youtube: "hkEFkawvKg0&t=134s"
-description: "The Cock ‘n Bull Special is a boozy, stirred, Vieux Carré-style drink that combines bourbon, Bénédictine and cognac with a touch of orange liqueur and Angostura bitters. It was created at Hollywood’s Cock ‘n Bull pub, the same Sunset Strip spot famous for the Moscow Mule."
+description: "A boozy, stirred, Vieux Carré-style drink that combines bourbon, Bénédictine and cognac with a touch of orange liqueur and Angostura bitters. It was created at Hollywood’s Cock ‘n Bull pub, the same Sunset Strip spot famous for the Moscow Mule."
 excerpt: |
   The Cock ‘n Bull Special comes from the British-style Cock ‘n Bull pub on Hollywood’s Sunset Strip, founded in 1937 by Jack Morgan and best known as the birthplace of the Moscow Mule. Its exact creator and date are unknown, but it appears in Ted Saucier’s Bottoms Up (1951), so it dates to somewhere between the pub’s opening and that book’s publication.
 date: 2026-11-19
