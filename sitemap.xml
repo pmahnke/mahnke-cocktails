@@ -1,18 +1,43 @@
 ---
 layout: null
-sitemap: true
+sitemap: false
 ---
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {%- for page in site.pages -%}
-  {%- unless page.url contains "/rate/" -%}
+    {%- if page.sitemap != false and page.url != "/404" and page.url != "/images/" -%}
+      {%- unless page.url contains "/rate/" or page.url contains "/assets/" or page.url contains ".incl" or page.url contains ".txt" or page.url contains ".xml" -%}
+        {%- if page.url == "/" -%}
+          {%- assign priority = "1.0" -%}
+          {%- assign freq = "daily" -%}
+        {%- elsif page.url contains "/recipe/" and page.url != "/recipe/" -%}
+          {%- assign priority = "0.9" -%}
+          {%- assign freq = "weekly" -%}
+        {%- elsif page.url contains "/bar_list/" -%}
+          {%- assign priority = "0.8" -%}
+          {%- assign freq = "monthly" -%}
+        {%- else -%}
+          {%- assign priority = "0.7" -%}
+          {%- assign freq = "weekly" -%}
+        {%- endif -%}
     <url>
-      <loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
+      <loc>{{ page.url | absolute_url }}</loc>
       <lastmod>{{ site.time | date: "%Y-%m-%dT%H:%M:%SZ" }}</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.8</priority>
+      <changefreq>{{ freq }}</changefreq>
+      <priority>{{ priority }}</priority>
     </url>
-  {%- endunless -%}
+      {%- endunless -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {%- for doc in site.documents -%}
+    {%- if doc.sitemap != false -%}
+    <url>
+      <loc>{{ doc.url | absolute_url }}</loc>
+      <lastmod>{{ site.time | date: "%Y-%m-%dT%H:%M:%SZ" }}</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+    {%- endif -%}
   {%- endfor -%}
 </urlset>
