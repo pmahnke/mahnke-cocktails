@@ -35,7 +35,7 @@ $site = "";
 my $cgi = new CGI::Lite;
 %F = $cgi->parse_form_data;
 
-if ($F{'a'} eq "search" && $F{'q'}) {
+if (($F{'a'} // '') eq "search" && defined $F{'q'} && length($F{'q'})) {
     $F{'q'} = decode("utf8", $F{'q'});
     
     # 1. Sanitize user input (Only letters, numbers, spaces, and hyphens)
@@ -103,7 +103,7 @@ sub performSearch {
         my $title = $yaml->{title} // '';
         my $desc  = $yaml->{description} // $yaml->{excerpt} // '';
         my $permalink = $yaml->{permalink} // "/recipe/$file";
-        $permalink =~ s/\.md$/.html/; 
+        $permalink =~ s/\.md$/\//; 
 
         my $spirits = "";
         my $raw_spirits = $yaml->{base_spirits} // $yaml->{categories} // '';
